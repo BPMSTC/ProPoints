@@ -16,7 +16,7 @@ The Pro Points assignment is designed to help you build essential skills, expand
 - **Participate in a Mentorship Program**
   - As a mentee
 - **Join and Actively Participate in a Professional Organization**
-  - Examples: Society of Black Engineers, Women Who Code, Association for Computing Machinery (ACM)
+  - Examples: Society of Black Engineers, Women In Technology, Association for Computing Machinery (ACM)
 - **Suggest a Networking Opportunity**
   - Propose an activity to your instructor
 
