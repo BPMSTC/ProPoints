@@ -10,17 +10,17 @@ The Pro Points assignment is designed to help you build essential skills, expand
 
 ## Categories
 
-### 1. Networking & Mentorship (1-3 activities)
+### 1. Networking & Mentorship
 - **Attend or Volunteer at an Industry Conference**
   - Examples: CypherCon, THAT Conference
-- **Join a Professional Association or Group**
-  - Examples: Toastmasters, CWITA
 - **Participate in a Mentorship Program**
   - As a mentee
+- **Join and Actively Participate in a Professional Organization**
+  - Examples: Society of Black Engineers, Women Who Code, Association for Computing Machinery (ACM)
 - **Suggest a Networking Opportunity**
   - Propose an activity to your instructor
 
-### 2. Skill Development (1-3 activities)
+### 2. Skill Development
 - **Lead a Project or Event**
   - Example: Run a Gaming Club event or a student organization initiative
 - **Participate in a Hackathon or Coding Bootcamp**
@@ -28,17 +28,16 @@ The Pro Points assignment is designed to help you build essential skills, expand
 - **Suggest a Skill Development Activity**
   - Propose an activity to your instructor
 
-### 3. Real-World Experience (1-2 activities)
-- **Complete an Internship or Freelance Project**
+### 3. Real-World Experience
 - **Job Shadow a Professional in Your Industry**
 - **Contribute to an Open Source Project**
+- **Volunteer for a Tech-Related Event or Organization**
 - **Suggest a Real-World Experience**
   - Propose an activity to your instructor
 
-### 4. Continuous Learning (0-1 activities)
+### 4. Continuous Learning
 - **Attend an Industry Webinar or Workshop**
-- **Read a Technical Book and Submit a Reflection**
-- **Take an Advanced Continuing Education Class**
+- **Take a Continuing Education Class Related to the IT Field**
 - **Suggest a Continuous Learning Activity**
   - Propose an activity to your instructor
 
@@ -56,4 +55,3 @@ The Pro Points assignment is designed to help you build essential skills, expand
 
 ## Contact
 For any questions or to suggest an activity, please contact your instructor.
-
