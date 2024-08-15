@@ -32,6 +32,7 @@ The Pro Points assignment is designed to help you build essential skills, expand
 - **Job Shadow a Professional in Your Industry**
 - **Contribute to an Open Source Project**
 - **Volunteer for a Tech-Related Event or Organization**
+  - Tech-Con
 - **Suggest a Real-World Experience**
   - Propose an activity to your instructor
 
