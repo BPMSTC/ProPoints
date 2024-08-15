@@ -4,7 +4,7 @@
 The Pro Points assignment is designed to help you build essential skills, expand your professional network, gain real-world experience, and cultivate a mindset of continuous learning. These activities are carefully chosen to prepare you for a successful career in the software industry.
 
 ## Requirements Overview
-- **Total Points Required**: 6 activities across at least 3 different categories.
+- **Total Points Required**: 3 activities across 3 different categories.
 - **Required Activity**: Join the Mid-State Cyber Cougars Discord Group and Teams channel (no write-up necessary, just submit proof of participation).
 - **Reflection Requirement**: For each completed activity, submit a brief reflection (100-200 words) on what you learned and how it contributes to your professional development.
 
