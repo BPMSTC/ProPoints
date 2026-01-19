@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Recommended Computer Specifications</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lucide/0.263.1/umd/lucide.min.js"></script>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background: linear-gradient(135deg, #f5f7fa 0%, #e4e9f2 100%);
+            color: #2c3e50;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+            margin-bottom: 40px;
+            font-size: 2.5em;
+        }
+        .specs-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            margin-top: 20px;
+        }
+        .specs-card {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .specs-header {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        .specs-title {
+            font-size: 1.5em;
+            margin: 0;
+            color: #2c3e50;
+        }
+        .acceptable {
+            border-top: 5px solid #3498db;
+        }
+        .recommended {
+            border-top: 5px solid #2ecc71;
+        }
+        .spec-item {
+            display: flex;
+            align-items: flex-start;
+            margin-bottom: 15px;
+            padding: 10px;
+            background: #f8f9fa;
+            border-radius: 8px;
+            transition: transform 0.2s;
+        }
+        .spec-item:hover {
+            transform: translateX(5px);
+            background: #f0f2f5;
+        }
+        .spec-icon {
+            margin-right: 15px;
+            color: #7f8c8d;
+        }
+        .spec-label {
+            font-weight: bold;
+            margin-right: 8px;
+            color: #34495e;
+        }
+        .spec-value {
+            color: #555;
+        }
+        .info-box {
+            background: #fffde7;
+            padding: 20px;
+            border-radius: 10px;
+            margin: 20px 0;
+            border-left: 5px solid #f1c40f;
+        }
+        .info-box h3 {
+            margin-top: 0;
+            color: #d35400;
+        }
+        @media (max-width: 768px) {
+            .specs-container {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Student Computer Specifications Guide</h1>
+
+        <div class="info-box">
+            <h3><i data-lucide="info"></i> Important Note</h3>
+            <p>These specifications are designed to ensure a smooth academic experience. While the acceptable specs will meet basic needs, recommended specs provide additional performance headroom for more demanding tasks and future software requirements.</p>
+        </div>
+
+        <div class="specs-container">
+            <div class="specs-card acceptable">
+                <div class="specs-header">
+                    <i data-lucide="check-circle"></i>
+                    <h2 class="specs-title">Acceptable Specifications</h2>
+                </div>
+                
+                <div class="spec-item">
+                    <i data-lucide="cpu" class="spec-icon"></i>
+                    <div>
+                        <span class="spec-label">Processor (CPU):</span>
+                        <span class="spec-value">Intel Core i5 or AMD Ryzen 5 (4 cores, 8 threads)</span>
+                    </div>
+                </div>
+
+                <div class="spec-item">
+                    <i data-lucide="database" class="spec-icon"></i>
+                    <div>
+                        <span class="spec-label">Memory (RAM):</span>
+                        <span class="spec-value">16 GB DDR4</span>
+                    </div>
+                </div>
+
+                <div class="spec-item">
+                    <i data-lucide="hard-drive" class="spec-icon"></i>
+                    <div>
+                        <span class="spec-label">Storage:</span>
+                        <span class="spec-value">256 GB SSD (Solid State Drive)</span>
+                    </div>
+                </div>
+
+                <div class="spec-item">
+                    <i data-lucide="gpu" class="spec-icon"></i>
+                    <div>
+                        <span class="spec-label">Graphics:</span>
+                        <span class="spec-value">Integrated GPU (Intel UHD Graphics or AMD Radeon Vega)</span>
+                    </div>
+                </div>
+
+                <div class="spec-item">
+                    <i data-lucide="monitor" class="spec-icon"></i>
+                    <div>
+                        <span class="spec-label">Display:</span>
+                        <span class="spec-value">14-inch to 15.6-inch Full HD (1920x1080)</span>
+                    </div>
+                </div>
+
+                <div class="spec-item">
+                    <i data-lucide="usb" class="spec-icon"></i>
+                    <div>
+                        <span class="spec-label">Ports:</span>
+                        <span class="spec-value">USB 3.0, USB-C, HDMI, Ethernet port (if available)</span>
+                    </div>
+                </div>
+
+                <div class="spec-item">
+                    <i data-lucide="battery" class="spec-icon"></i>
+                    <div>
+                        <span class="spec-label">Battery Life:</span>
+                        <span class="spec-value">At least 6 hours</span>
+                    </div>
+                </div>
+
+                <div class="spec-item">
+                    <i data-lucide="wifi" class="spec-icon"></i>
+                    <div>
+                        <span class="spec-label">Networking:</span>
+                        <span class="spec-value">Wi-Fi 6, Bluetooth 5.0</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="specs-card recommended">
+                <div class="specs-header">
+                    <i data-lucide="star"></i>
+                    <h2 class="specs-title">Recommended Specifications</h2>
+                </div>
+
+                <div class="spec-item">
+                    <i data-lucide="cpu" class="spec-icon"></i>
+                    <div>
+                        <span class="spec-label">Processor (CPU):</span>
+                        <span class="spec-value">Intel Core i7 or AMD Ryzen 7 (6-8 cores, 12-16 threads)</span>
+                    </div>
+                </div>
+
+                <div class="spec-item">
+                    <i data-lucide="database" class="spec-icon"></i>
+                    <div>
+                        <span class="spec-label">Memory (RAM):</span>
+                        <span class="spec-value">32 GB DDR4 or DDR5</span>
+                    </div>
+                </div>
+
+                <div class="spec-item">
+                    <i data-lucide="hard-drive" class="spec-icon"></i>
+                    <div>
+                        <span class="spec-label">Storage:</span>
+                        <span class="spec-value">512 GB or 1 TB NVMe SSD</span>
+                    </div>
+                </div>
+
+                <div class="spec-item">
+                    <i data-lucide="gpu" class="spec-icon"></i>
+                    <div>
+                        <span class="spec-label">Graphics:</span>
+                        <span class="spec-value">Dedicated GPU (NVIDIA GeForce GTX 1650 or AMD Radeon RX 5500M)</span>
+                    </div>
+                </div>
+
+                <div class="spec-item">
+                    <i data-lucide="monitor" class="spec-icon"></i>
+                    <div>
+                        <span class="spec-label">Display:</span>
+                        <span class="spec-value">15.6-inch to 17.3-inch Full HD or QHD (2560x1440) with high color accuracy</span>
+                    </div>
+                </div>
+
+                <div class="spec-item">
+                    <i data-lucide="usb" class="spec-icon"></i>
+                    <div>
+                        <span class="spec-label">Ports:</span>
+                        <span class="spec-value">Multiple USB 3.0, USB-C, HDMI, Ethernet, SD card reader</span>
+                    </div>
+                </div>
+
+                <div class="spec-item">
+                    <i data-lucide="battery" class="spec-icon"></i>
+                    <div>
+                        <span class="spec-label">Battery Life:</span>
+                        <span class="spec-value">At least 8 hours</span>
+                    </div>
+                </div>
+
+                <div class="spec-item">
+                    <i data-lucide="wifi" class="spec-icon"></i>
+                    <div>
+                        <span class="spec-label">Networking:</span>
+                        <span class="spec-value">Wi-Fi 6E, Bluetooth 5.2</span>
+                    </div>
+                </div>
+
+                <div class="spec-item">
+                    <i data-lucide="plus" class="spec-icon"></i>
+                    <div>
+                        <span class="spec-label">Other:</span>
+                        <span class="spec-value">Backlit keyboard, good cooling system, and reliable build quality</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        lucide.createIcons();
+    </script>
+</body>
+</html>
