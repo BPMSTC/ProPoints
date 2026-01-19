@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-01-19T14:25:23.033917+00:00",
+  "generatedAt": "2026-01-19T15:23:54.545106+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "ICE\u2019s Facial Recognition App Misidentified a Woman. Twice",
+          "link": "https://www.404media.co/ices-facial-recognition-app-misidentified-a-woman-twice/",
+          "date": "Mon, 19 Jan 2026 14:28:36 GMT"
+        },
         {
           "title": "Scientists Make Stunning Find Inside Prehistoric Wolf\u2019s Stomach",
           "link": "https://www.404media.co/scientists-make-stunning-find-inside-prehistoric-wolfs-stomach/",
@@ -24,11 +29,6 @@
           "title": "\u2018ELITE\u2019: The Palantir App ICE Uses to Find Neighborhoods to Raid",
           "link": "https://www.404media.co/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/",
           "date": "Thu, 15 Jan 2026 14:03:04 GMT"
-        },
-        {
-          "title": "New Legislation Would Rein In ICE\u2019s Facial Recognition App",
-          "link": "https://www.404media.co/new-legislation-would-rein-in-ices-facial-recognition-app/",
-          "date": "Thu, 15 Jan 2026 14:00:41 GMT"
         }
       ],
       "error": null
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "CoreSite Chicago Adds AWS Native 400G Direct Connect for Cloud and AI",
+          "link": "https://ai-techpark.com/coresite-chicago-adds-aws-native-400g-direct-connect-for-cloud-and-ai/",
+          "date": "Mon, 19 Jan 2026 08:15:00 +0000"
+        },
+        {
+          "title": "BOSGAME Launches Next-Generation AI PCs Built on AMD and Intel Platforms",
+          "link": "https://ai-techpark.com/bosgame-launches-next-generation-ai-pcs-built-on-amd-and-intel-platforms/",
+          "date": "Mon, 19 Jan 2026 08:00:00 +0000"
+        },
+        {
+          "title": "ParaScript\u00ae Named Product Innovation Winner in the 2026 BIG Innovation Awards",
+          "link": "https://ai-techpark.com/parascript-named-product-innovation-winner-in-the-2026-big-innovation-awards/",
+          "date": "Mon, 19 Jan 2026 07:30:00 +0000"
+        },
+        {
+          "title": "Aultman Health Scales Nabla Ambient AI via Oracle Cerner",
+          "link": "https://ai-techpark.com/aultman-health-scales-nabla-ambient-ai-via-oracle-cerner/",
+          "date": "Fri, 16 Jan 2026 13:03:04 +0000"
+        },
+        {
+          "title": "AISquared Sees Rapid 2025 Growth in Enterprise AI Adoption",
+          "link": "https://ai-techpark.com/aisquared-sees-rapid-2025-growth-in-enterprise-ai-adoption/",
+          "date": "Fri, 16 Jan 2026 12:56:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -410,6 +436,11 @@
           "date": "2026-01-18T14:29:07+00:00"
         },
         {
+          "title": "Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune",
+          "link": "https://www.reddit.com/r/artificial/comments/1qh5usj/musk_wants_up_to_134b_in_openai_lawsuit_despite/",
+          "date": "2026-01-19T14:38:42+00:00"
+        },
+        {
           "title": "Computational Functionalism, Philosophy, and the Future of AI Consciousness",
           "link": "https://www.reddit.com/r/artificial/comments/1qh5dw5/computational_functionalism_philosophy_and_the/",
           "date": "2026-01-19T14:20:29+00:00"
@@ -418,11 +449,6 @@
           "title": "I asked Gemini what it would do with my iPhone+root: The results were beautiful, scary, and good.",
           "link": "https://www.reddit.com/r/artificial/comments/1qgbmgv/i_asked_gemini_what_it_would_do_with_my/",
           "date": "2026-01-18T15:35:25+00:00"
-        },
-        {
-          "title": "ChatGPT can now remember conversations from a year ago",
-          "link": "https://www.reddit.com/r/artificial/comments/1qg7ls5/chatgpt_can_now_remember_conversations_from_a/",
-          "date": "2026-01-18T12:41:43+00:00"
         }
       ],
       "error": null
