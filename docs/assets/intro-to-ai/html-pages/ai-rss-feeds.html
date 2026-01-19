@@ -147,7 +147,7 @@
 
     <main>
         <div class="note">
-            Some sites may block cross-site requests. If a feed fails to load, click its source link to view it directly.
+            This page loads a server-generated snapshot that refreshes about once an hour. If a feed fails, use the source link.
         </div>
 
         <div class="toolbar">
@@ -161,68 +161,14 @@
     </main>
 
     <script>
-        const feeds = [
-            { name: "404 Media", url: "https://www.404media.co/rss" },
-            { name: "Ahead of AI", url: "https://magazine.sebastianraschka.com/feed" },
-            { name: "AI Accelerator Institute | Future of Artificial Intelligence", url: "https://aiacceleratorinstitute.com/rss/" },
-            { name: "AI – AI-TechPark", url: "https://ai-techpark.com/category/ai/feed/" },
-            { name: "AI Archives | KnowTechie", url: "https://knowtechie.com/category/ai/feed/" },
-            { name: "AI Business", url: "https://aibusiness.com/rss.xml" },
-            { name: "AIModels.fyi", url: "https://aimodels.substack.com/feed" },
-            { name: "AI News", url: "https://www.artificialintelligence-news.com/feed/rss/" },
-            { name: "AI News | VentureBeat", url: "https://venturebeat.com/category/ai/feed/" },
-            { name: "AI Now Institute", url: "https://ainowinstitute.org/category/news/feed" },
-            { name: "Ai Prompt Programming", url: "https://www.reddit.com/r/aipromptprogramming/.rss" },
-            { name: "AI – SiliconANGLE", url: "https://siliconangle.com/category/ai/feed" },
-            { name: "AI Snake Oil", url: "https://aisnakeoil.substack.com/feed" },
-            { name: "AI – Uber Engineering Blog", url: "https://eng.uber.com/category/articles/ai/feed" },
-            { name: "Anaconda Blog", url: "https://www.anaconda.com/blog/feed" },
-            { name: "Analytics India Magazine", url: "https://analyticsindiamag.com/feed/" },
-            { name: "Announcements - Stability AI", url: "https://stability.ai/blog?format=rss" },
-            { name: "Ars Technica - All content", url: "https://feeds.arstechnica.com/arstechnica/index" },
-            { name: "Artificial Intelligence", url: "https://www.reddit.com/r/artificial/.rss" },
-            { name: "Artificial intelligence (AI) – The Conversation", url: "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom" },
-            { name: "Artificial intelligence (AI) | The Guardian", url: "https://www.theguardian.com/technology/artificialintelligenceai/rss" },
-            { name: "artificial intelligence Archives - SpaceNews", url: "https://spacenews.com/tag/artificial-intelligence/feed/" },
-            { name: "Artificial Intelligence – Futurism", url: "https://futurism.com/categories/ai-artificial-intelligence/feed" },
-            { name: "Artificial Intelligence Latest - Wired", url: "https://www.wired.com/feed/tag/ai/latest/rss" },
-            { name: "Artificial Intelligence News -- ScienceDaily", url: "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml" }
-        ];
-
-        const maxItems = 5;
         const refreshIntervalMs = 10 * 60 * 1000;
         const feedGrid = document.getElementById("feedGrid");
         const statusEl = document.getElementById("status");
         const refreshButton = document.getElementById("refreshButton");
 
-        const proxyUrl = (url) => `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`;
+        const dataUrl = new URL("../data/feeds.json", window.location.href);
 
-        const parseFeed = (xmlText) => {
-            const parser = new DOMParser();
-            const xml = parser.parseFromString(xmlText, "application/xml");
-            if (xml.querySelector("parsererror")) {
-                throw new Error("Invalid XML");
-            }
-            const items = Array.from(xml.querySelectorAll("item"));
-            if (items.length) {
-                return items.map(item => ({
-                    title: item.querySelector("title")?.textContent?.trim() || "Untitled",
-                    link: item.querySelector("link")?.textContent?.trim() || "#",
-                    date: item.querySelector("pubDate")?.textContent?.trim() || ""
-                }));
-            }
-            const entries = Array.from(xml.querySelectorAll("entry"));
-            return entries.map(entry => {
-                const linkEl = entry.querySelector("link[rel='alternate']") || entry.querySelector("link");
-                return {
-                    title: entry.querySelector("title")?.textContent?.trim() || "Untitled",
-                    link: linkEl?.getAttribute("href") || linkEl?.textContent?.trim() || "#",
-                    date: entry.querySelector("updated")?.textContent?.trim() || entry.querySelector("published")?.textContent?.trim() || ""
-                };
-            });
-        };
-
-        const renderFeed = (feed, items, error) => {
+        const renderFeed = (feed) => {
             const card = document.createElement("div");
             card.className = "feed-card";
             const title = document.createElement("h2");
@@ -238,7 +184,7 @@
             card.appendChild(title);
             card.appendChild(source);
 
-            if (error) {
+            if (feed.error) {
                 const errorEl = document.createElement("p");
                 errorEl.className = "error";
                 errorEl.textContent = "Unable to load this feed.";
@@ -247,7 +193,7 @@
             }
 
             const list = document.createElement("ul");
-            items.slice(0, maxItems).forEach(item => {
+            (feed.items || []).forEach(item => {
                 const li = document.createElement("li");
                 const link = document.createElement("a");
                 link.className = "item-title";
@@ -275,26 +221,26 @@
             refreshButton.disabled = true;
             feedGrid.innerHTML = "";
 
-            const results = await Promise.all(feeds.map(async feed => {
-                try {
-                    const response = await fetch(proxyUrl(feed.url), { cache: "no-store" });
-                    if (!response.ok) {
-                        throw new Error("Network error");
-                    }
-                    const text = await response.text();
-                    const items = parseFeed(text);
-                    return { feed, items, error: null };
-                } catch (error) {
-                    return { feed, items: [], error };
+            try {
+                const response = await fetch(`${dataUrl.toString()}?t=${Date.now()}`, { cache: "no-store" });
+                if (!response.ok) {
+                    throw new Error("Network error");
                 }
-            }));
-
-            results.forEach(result => {
-                feedGrid.appendChild(renderFeed(result.feed, result.items, result.error));
-            });
-
-            statusEl.textContent = `Last updated: ${new Date().toLocaleString()}`;
-            refreshButton.disabled = false;
+                const payload = await response.json();
+                (payload.feeds || []).forEach(feed => {
+                    feedGrid.appendChild(renderFeed(feed));
+                });
+                if (!payload.feeds || payload.feeds.length === 0) {
+                    feedGrid.innerHTML = "<div class=\"feed-card\"><p class=\"error\">No feeds found.</p></div>";
+                }
+                const lastUpdated = payload.generatedAt ? new Date(payload.generatedAt).toLocaleString() : "—";
+                statusEl.textContent = `Last updated: ${lastUpdated}`;
+            } catch (error) {
+                feedGrid.innerHTML = "<div class=\"feed-card\"><p class=\"error\">Unable to load feed snapshot.</p></div>";
+                statusEl.textContent = "Last updated: —";
+            } finally {
+                refreshButton.disabled = false;
+            }
         };
 
         refreshButton.addEventListener("click", loadFeeds);
