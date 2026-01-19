@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-19T11:19:48.700831+00:00",
+  "generatedAt": "2026-01-19T12:43:38.192943+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "CoreSite Chicago Adds AWS Native 400G Direct Connect for Cloud and AI",
-          "link": "https://ai-techpark.com/coresite-chicago-adds-aws-native-400g-direct-connect-for-cloud-and-ai/",
-          "date": "Mon, 19 Jan 2026 08:15:00 +0000"
-        },
-        {
-          "title": "BOSGAME Launches Next-Generation AI PCs Built on AMD and Intel Platforms",
-          "link": "https://ai-techpark.com/bosgame-launches-next-generation-ai-pcs-built-on-amd-and-intel-platforms/",
-          "date": "Mon, 19 Jan 2026 08:00:00 +0000"
-        },
-        {
-          "title": "ParaScript\u00ae Named Product Innovation Winner in the 2026 BIG Innovation Awards",
-          "link": "https://ai-techpark.com/parascript-named-product-innovation-winner-in-the-2026-big-innovation-awards/",
-          "date": "Mon, 19 Jan 2026 07:30:00 +0000"
-        },
-        {
-          "title": "Aultman Health Scales Nabla Ambient AI via Oracle Cerner",
-          "link": "https://ai-techpark.com/aultman-health-scales-nabla-ambient-ai-via-oracle-cerner/",
-          "date": "Fri, 16 Jan 2026 13:03:04 +0000"
-        },
-        {
-          "title": "AISquared Sees Rapid 2025 Growth in Enterprise AI Adoption",
-          "link": "https://ai-techpark.com/aisquared-sees-rapid-2025-growth-in-enterprise-ai-adoption/",
-          "date": "Fri, 16 Jan 2026 12:56:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -289,14 +263,14 @@
           "date": "2026-01-19T06:14:28+00:00"
         },
         {
-          "title": "\ud83d\ude80 New Release: Antigravity Phone Connect",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qgyffk/new_release_antigravity_phone_connect/",
-          "date": "2026-01-19T08:11:30+00:00"
-        },
-        {
           "title": "I stopped building 10 different prompts and just made ChatGPT my background operator",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qgxv3y/i_stopped_building_10_different_prompts_and_just/",
           "date": "2026-01-19T07:36:57+00:00"
+        },
+        {
+          "title": "Best app/programs to create this realistic model??",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qh2rlr/best_appprograms_to_create_this_realistic_model/",
+          "date": "2026-01-19T12:23:36+00:00"
         }
       ],
       "error": null
@@ -394,6 +368,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "10 things I learned from burning myself out with AI coding agents",
+          "link": "https://arstechnica.com/information-technology/2026/01/10-things-i-learned-from-burning-myself-out-with-ai-coding-agents/",
+          "date": "Mon, 19 Jan 2026 12:00:45 +0000"
+        },
+        {
           "title": "Ocean damage nearly doubles the cost of climate change",
           "link": "https://arstechnica.com/science/2026/01/ocean-damage-nearly-doubles-the-cost-of-climate-change/",
           "date": "Sun, 18 Jan 2026 12:00:56 +0000"
@@ -412,11 +391,6 @@
           "title": "Rackspace customers grapple with \u201cdevastating\u201d email hosting price hike",
           "link": "https://arstechnica.com/information-technology/2026/01/rackspace-raises-email-hosting-prices-by-as-much-as-706-percent/",
           "date": "Fri, 16 Jan 2026 23:15:27 +0000"
-        },
-        {
-          "title": "Archaeologists find a supersized medieval shipwreck in Denmark",
-          "link": "https://arstechnica.com/science/2026/01/archaeologists-find-a-supersized-medieval-shipwreck-in-denmark/",
-          "date": "Fri, 16 Jan 2026 22:07:41 +0000"
         }
       ],
       "error": null
@@ -426,24 +400,24 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
+          "title": "Ant-backed Chinese AI agent developer DeepWisdom aims to help solo entrepreneurs",
+          "link": "https://www.reddit.com/r/artificial/comments/1qh1pmw/antbacked_chinese_ai_agent_developer_deepwisdom/",
+          "date": "2026-01-19T11:27:18+00:00"
+        },
+        {
           "title": "Steam updates AI disclosure form to specify that it's focused on AI-generated content that is 'consumed by players,' not efficiency tools used behind the scenes",
           "link": "https://www.reddit.com/r/artificial/comments/1qg9zcm/steam_updates_ai_disclosure_form_to_specify_that/",
           "date": "2026-01-18T14:29:07+00:00"
         },
         {
-          "title": "Help choosing final project",
-          "link": "https://www.reddit.com/r/artificial/comments/1qh19z2/help_choosing_final_project/",
-          "date": "2026-01-19T11:02:46+00:00"
+          "title": "I asked Gemini what it would do with my iPhone+root: The results were beautiful, scary, and good.",
+          "link": "https://www.reddit.com/r/artificial/comments/1qgbmgv/i_asked_gemini_what_it_would_do_with_my/",
+          "date": "2026-01-18T15:35:25+00:00"
         },
         {
           "title": "ChatGPT can now remember conversations from a year ago",
           "link": "https://www.reddit.com/r/artificial/comments/1qg7ls5/chatgpt_can_now_remember_conversations_from_a/",
           "date": "2026-01-18T12:41:43+00:00"
-        },
-        {
-          "title": "I asked Gemini what it would do with my iPhone+root: The results were beautiful, scary, and good.",
-          "link": "https://www.reddit.com/r/artificial/comments/1qgbmgv/i_asked_gemini_what_it_would_do_with_my/",
-          "date": "2026-01-18T15:35:25+00:00"
         },
         {
           "title": "One-Minute Daily AI News 1/18/2026",
