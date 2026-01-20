@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-20T12:43:47.384064+00:00",
+  "generatedAt": "2026-01-20T13:44:17.835663+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -202,8 +202,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "SAP and Fresenius to build sovereign AI backbone for healthcare",
+          "link": "https://www.artificialintelligence-news.com/news/sap-and-fresenius-build-sovereign-ai-backbone-for-healthcare/",
+          "date": "Mon, 19 Jan 2026 17:19:33 +0000"
+        },
+        {
+          "title": "Scaling AI value beyond pilot phase purgatory",
+          "link": "https://www.artificialintelligence-news.com/news/scaling-ai-value-beyond-pilot-phase-purgatory/",
+          "date": "Mon, 19 Jan 2026 14:19:11 +0000"
+        },
+        {
+          "title": "Credit unions, fintech and the AI inflection of financial services",
+          "link": "https://www.artificialintelligence-news.com/news/credit-union-ai-in-operational-settings-learnings-from-the-fintech-sector/",
+          "date": "Mon, 19 Jan 2026 13:14:52 +0000"
+        },
+        {
+          "title": "JPMorgan Chase treats AI spending as core infrastructure",
+          "link": "https://www.artificialintelligence-news.com/news/jpmorgan-chase-treats-ai-spending-as-core-infrastructure/",
+          "date": "Mon, 19 Jan 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Retailers bring conversational AI and analytics closer to the user",
+          "link": "https://www.artificialintelligence-news.com/news/retailers-bring-conversational-ai-and-analytics-closer-to-the-user/",
+          "date": "Fri, 16 Jan 2026 13:10:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -400,14 +426,14 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "Do some people find it easier to talk to AI about personal topics than to other people?",
-          "link": "https://www.reddit.com/r/artificial/comments/1qhtj96/do_some_people_find_it_easier_to_talk_to_ai_about/",
-          "date": "2026-01-20T06:25:19+00:00"
-        },
-        {
           "title": "Anatomy of a GenAI prompt",
           "link": "https://www.reddit.com/r/artificial/comments/1qhujdz/anatomy_of_a_genai_prompt/",
           "date": "2026-01-20T07:23:10+00:00"
+        },
+        {
+          "title": "Do some people find it easier to talk to AI about personal topics than to other people?",
+          "link": "https://www.reddit.com/r/artificial/comments/1qhtj96/do_some_people_find_it_easier_to_talk_to_ai_about/",
+          "date": "2026-01-20T06:25:19+00:00"
         },
         {
           "title": "Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune",
@@ -528,6 +554,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "As Microsoft Stuffs Windows With AI, New Update Prevents Users From Turning Off Their PCs Entirely",
+          "link": "https://futurism.com/artificial-intelligence/microsoft-update-prevent-shutdown",
+          "date": "Tue, 20 Jan 2026 08:00:00 -0500"
+        },
+        {
           "title": "Experts Concerned That AI Progress Could Be Speeding Toward a Sudden Wall",
           "link": "https://futurism.com/artificial-intelligence/experts-concerned-ai-progress-wall",
           "date": "Tue, 20 Jan 2026 07:00:00 -0500"
@@ -546,11 +577,6 @@
           "title": "Man Confused by AI-Generated Reports That He\u2019s Dead",
           "link": "https://futurism.com/artificial-intelligence/ai-generated-dead",
           "date": "Sun, 18 Jan 2026 09:45:00 -0500"
-        },
-        {
-          "title": "Media Execs Prepare for AI to Bring End of Journalism Industry",
-          "link": "https://futurism.com/artificial-intelligence/media-execs-end-journalism",
-          "date": "Sun, 18 Jan 2026 09:00:00 -0500"
         }
       ],
       "error": null
