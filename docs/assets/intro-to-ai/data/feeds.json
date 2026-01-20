@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-20T11:21:35.995542+00:00",
+  "generatedAt": "2026-01-20T12:43:47.384064+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -202,34 +202,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "SAP and Fresenius to build sovereign AI backbone for healthcare",
-          "link": "https://www.artificialintelligence-news.com/news/sap-and-fresenius-build-sovereign-ai-backbone-for-healthcare/",
-          "date": "Mon, 19 Jan 2026 17:19:33 +0000"
-        },
-        {
-          "title": "Scaling AI value beyond pilot phase purgatory",
-          "link": "https://www.artificialintelligence-news.com/news/scaling-ai-value-beyond-pilot-phase-purgatory/",
-          "date": "Mon, 19 Jan 2026 14:19:11 +0000"
-        },
-        {
-          "title": "Credit unions, fintech and the AI inflection of financial services",
-          "link": "https://www.artificialintelligence-news.com/news/credit-union-ai-in-operational-settings-learnings-from-the-fintech-sector/",
-          "date": "Mon, 19 Jan 2026 13:14:52 +0000"
-        },
-        {
-          "title": "JPMorgan Chase treats AI spending as core infrastructure",
-          "link": "https://www.artificialintelligence-news.com/news/jpmorgan-chase-treats-ai-spending-as-core-infrastructure/",
-          "date": "Mon, 19 Jan 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Retailers bring conversational AI and analytics closer to the user",
-          "link": "https://www.artificialintelligence-news.com/news/retailers-bring-conversational-ai-and-analytics-closer-to-the-user/",
-          "date": "Fri, 16 Jan 2026 13:10:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -356,29 +330,29 @@
       "url": "https://analyticsindiamag.com/feed/",
       "items": [
         {
+          "title": "Google\u2019s Gemini Signs IPL Sponsorship Deal Worth \u20b9270 Crore",
+          "link": "https://analyticsindiamag.com/ai-news-updates/googles-gemini-signs-ipl-sponsorship-deal-worth-%e2%82%b9270-crore/",
+          "date": "Tue, 20 Jan 2026 12:30:53 +0000"
+        },
+        {
+          "title": "Inside IAIRO, India\u2019s ISRO for AI",
+          "link": "https://analyticsindiamag.com/ai-features/inside-iairo-indias-isro-for-ai/",
+          "date": "Tue, 20 Jan 2026 12:13:13 +0000"
+        },
+        {
+          "title": "Persistent Extends Growth Run to 23 Quarters, Profit Slips 7% QoQ",
+          "link": "https://analyticsindiamag.com/ai-news-updates/persistent-extends-growth-run-to-23-quarters-profit-slips-7-qoq/",
+          "date": "Tue, 20 Jan 2026 11:41:01 +0000"
+        },
+        {
+          "title": "San Francisco AI Startup Emergent Secures $70 Mn Series B Funding to Grow Its Team",
+          "link": "https://analyticsindiamag.com/ai-news-updates/san-francisco-ai-startup-emergent-secures-70-mn-series-b-funding-to-grow-its-team/",
+          "date": "Tue, 20 Jan 2026 11:31:19 +0000"
+        },
+        {
           "title": "ElevenLabs Appoints Karthik Rajaram as India Country Head",
           "link": "https://analyticsindiamag.com/ai-news-updates/elevenlabs-appoints-karthik-rajaram-as-india-country-head/",
           "date": "Tue, 20 Jan 2026 10:58:45 +0000"
-        },
-        {
-          "title": "SanchiConnect Partners With Tamil Nadu & iTNT to Support Deep Tech Startups in Tier-2, 3 Cities",
-          "link": "https://analyticsindiamag.com/ai-news-updates/sanchiconnect-partners-with-tamil-nadu-itnt-to-support-deep-tech-startups-in-tier-2-3-cities/",
-          "date": "Tue, 20 Jan 2026 10:35:37 +0000"
-        },
-        {
-          "title": "Amazon Worldwide Consumer Ex-CEO Builds Own CRM Tool in 1 Day",
-          "link": "https://analyticsindiamag.com/ai-news-updates/amazon-worldwide-consumer-ex-ceo-builds-own-crm-tool-in-1-day/",
-          "date": "Tue, 20 Jan 2026 09:13:58 +0000"
-        },
-        {
-          "title": "Raana Semiconductors Raises $3 Mn Seed Funding for Silicon Ingot Systems",
-          "link": "https://analyticsindiamag.com/ai-news-updates/raana-semiconductors-raises-3-mn-seed-funding-for-silicon-ingot-systems/",
-          "date": "Tue, 20 Jan 2026 08:43:08 +0000"
-        },
-        {
-          "title": "For 25 Years, Wikipedia Trained AI. Now it Wants Payback",
-          "link": "https://analyticsindiamag.com/ai-features/for-25-years-wikipedia-trained-ai-now-it-wants-payback/",
-          "date": "Tue, 20 Jan 2026 07:45:00 +0000"
         }
       ],
       "error": null
@@ -431,6 +405,11 @@
           "date": "2026-01-20T06:25:19+00:00"
         },
         {
+          "title": "Anatomy of a GenAI prompt",
+          "link": "https://www.reddit.com/r/artificial/comments/1qhujdz/anatomy_of_a_genai_prompt/",
+          "date": "2026-01-20T07:23:10+00:00"
+        },
+        {
           "title": "Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune",
           "link": "https://www.reddit.com/r/artificial/comments/1qh5usj/musk_wants_up_to_134b_in_openai_lawsuit_despite/",
           "date": "2026-01-19T14:38:42+00:00"
@@ -444,11 +423,6 @@
           "title": "The assistant axis: situating and stabilizing the character of LLMs",
           "link": "https://www.reddit.com/r/artificial/comments/1qhwy3l/the_assistant_axis_situating_and_stabilizing_the/",
           "date": "2026-01-20T09:50:13+00:00"
-        },
-        {
-          "title": "One-Minute Daily AI News 1/19/2026",
-          "link": "https://www.reddit.com/r/artificial/comments/1qht084/oneminute_daily_ai_news_1192026/",
-          "date": "2026-01-20T05:56:45+00:00"
         }
       ],
       "error": null
@@ -554,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Experts Concerned That AI Progress Could Be Speeding Toward a Sudden Wall",
+          "link": "https://futurism.com/artificial-intelligence/experts-concerned-ai-progress-wall",
+          "date": "Tue, 20 Jan 2026 07:00:00 -0500"
+        },
+        {
           "title": "Inventor Building AI-Powered Suicide Chamber",
           "link": "https://futurism.com/artificial-intelligence/ai-powered-suicide-chamber",
           "date": "Mon, 19 Jan 2026 13:59:29 -0500"
@@ -572,11 +551,6 @@
           "title": "Media Execs Prepare for AI to Bring End of Journalism Industry",
           "link": "https://futurism.com/artificial-intelligence/media-execs-end-journalism",
           "date": "Sun, 18 Jan 2026 09:00:00 -0500"
-        },
-        {
-          "title": "Meta Lays Off Thousands of VR Workers as Zuckerberg\u2019s Vision Fails",
-          "link": "https://futurism.com/future-society/meta-reality-vr-layoffs",
-          "date": "Sun, 18 Jan 2026 07:30:00 -0500"
         }
       ],
       "error": null
