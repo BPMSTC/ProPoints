@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-01-21T16:41:38.084545+00:00",
+  "generatedAt": "2026-01-21T17:52:26.565928+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Podcast: Here\u2019s What Palantir Is Really Building",
+          "link": "https://www.404media.co/podcast-heres-what-palantir-is-really-building/",
+          "date": "Wed, 21 Jan 2026 17:39:08 GMT"
+        },
         {
           "title": "HAM Radio Operators in Belarus Arrested, Face the Death Penalty",
           "link": "https://www.404media.co/ham-radio-operators-in-belarus-arrested-face-the-death-penalty/",
@@ -24,11 +29,6 @@
           "title": "Alleged Mail Thief Arrested After Bragging About Crimes On Instagram Stories",
           "link": "https://www.404media.co/ohio-mail-theft-postal-worker-robbery/",
           "date": "Tue, 20 Jan 2026 15:09:04 GMT"
-        },
-        {
-          "title": "Feds Create Drone No Fly Zone That Would Stop People Filming ICE",
-          "link": "https://www.404media.co/feds-create-drone-no-fly-zone-that-would-stop-people-filming-ice/",
-          "date": "Tue, 20 Jan 2026 14:53:30 GMT"
         }
       ],
       "error": null
@@ -166,7 +166,12 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
-          "title": "Cheap ChatGPT Tier on Offer for $8 a Month; Ads Coming Soon",
+          "title": "OpenAI Targets Monetization, $1.4T Commitments by 2034",
+          "link": "https://aibusiness.com/generative-ai/openai-targets-monetization-commitments-2034",
+          "date": "Wed, 21 Jan 2026 16:43:08 GMT"
+        },
+        {
+          "title": "OpenAI Expands Cheap ChatGPT Tier; Ads Coming Soon",
           "link": "https://aibusiness.com/foundation-models/cheap-chatgpt-tier-month-ads-coming-soon",
           "date": "Tue, 20 Jan 2026 22:39:13 GMT"
         },
@@ -184,11 +189,6 @@
           "title": "How AI is Reducing the Administrative Burden in Sales",
           "link": "https://aibusiness.com/generative-ai/how-ai-is-reducing-the-administrative-burden-in-sales",
           "date": "Tue, 20 Jan 2026 19:28:33 GMT"
-        },
-        {
-          "title": "Gemini Can Scour Apps to Deliver 'Personal Intelligence'",
-          "link": "https://aibusiness.com/agentic-ai/gemini-scours-apps-personal-intelligence",
-          "date": "Fri, 16 Jan 2026 21:58:10 GMT"
         }
       ],
       "error": null
@@ -284,19 +284,19 @@
           "date": "2025-09-09T02:25:04+00:00"
         },
         {
+          "title": "Searching for the best AI for writing? Let's rethink the question.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qj1ird/searching_for_the_best_ai_for_writing_lets/",
+          "date": "2026-01-21T15:51:13+00:00"
+        },
+        {
           "title": "Stained Glass Irises Panels [4images]",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qj084z/stained_glass_irises_panels_4images/",
           "date": "2026-01-21T15:03:28+00:00"
         },
         {
-          "title": "Startup founder?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qj22wt/startup_founder/",
-          "date": "2026-01-21T16:11:13+00:00"
-        },
-        {
-          "title": "Searching for the best AI for writing? Let's rethink the question.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qj1ird/searching_for_the_best_ai_for_writing_lets/",
-          "date": "2026-01-21T15:51:13+00:00"
+          "title": "I have 0 coding background (I'm in Tech Sales). I used Gemini to build this Financial Tool.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qj3dx1/i_have_0_coding_background_im_in_tech_sales_i/",
+          "date": "2026-01-21T16:58:21+00:00"
         }
       ],
       "error": null
@@ -387,7 +387,7 @@
       "name": "Announcements - Stability AI",
       "url": "https://stability.ai/blog?format=rss",
       "items": [],
-      "error": "<unknown>:2:0: syntax error"
+      "error": null
     },
     {
       "name": "Ars Technica - All content",
@@ -441,9 +441,9 @@
           "date": "2026-01-21T16:22:12+00:00"
         },
         {
-          "title": "my artificial intelligence were too normal",
-          "link": "https://www.reddit.com/r/artificial/comments/1qj0vze/my_artificial_intelligence_were_too_normal/",
-          "date": "2026-01-21T15:28:33+00:00"
+          "title": "Liza Minnelli is among the artists who collaborated on a new AI-generated album",
+          "link": "https://www.reddit.com/r/artificial/comments/1qj4vi8/liza_minnelli_is_among_the_artists_who/",
+          "date": "2026-01-21T17:51:32+00:00"
         },
         {
           "title": "AI is scoring college essays and conducting interviews, a new layer in admissions stress",
@@ -490,6 +490,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Mercy review \u2013 Chris Pratt takes on AI judge Rebecca Ferguson in ingenious sci-fi thriller",
+          "link": "https://www.theguardian.com/film/2026/jan/21/mercy-review-chris-pratt-takes-on-ai-judge-rebecca-ferguson-in-ingenious-sci-fi-thriller",
+          "date": "Wed, 21 Jan 2026 17:00:43 GMT"
+        },
+        {
           "title": "The IMF\u2019s banal language is sane-washing an economic crisis created by the egomaniacal Donald Trump",
           "link": "https://www.theguardian.com/commentisfree/2026/jan/22/the-imfs-banal-language-is-sane-washing-an-economic-crisis-created-by-the-egomaniacal-donald-trump",
           "date": "Wed, 21 Jan 2026 14:00:41 GMT"
@@ -508,11 +513,6 @@
           "title": "Big tech continues to bend the knee to Trump a year after his inauguration",
           "link": "https://www.theguardian.com/technology/2026/jan/20/trump-tech-alliance-datacenters-social-media",
           "date": "Tue, 20 Jan 2026 15:55:55 GMT"
-        },
-        {
-          "title": "Tell us: has a chatbot helped you out of a difficult time in your life?",
-          "link": "https://www.theguardian.com/technology/2026/jan/20/tell-us-has-a-chatbot-helped-you-out-of-a-difficult-time-in-your-life",
-          "date": "Tue, 20 Jan 2026 14:45:08 GMT"
         }
       ],
       "error": null
@@ -554,6 +554,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Majority of CEOs Alarmed as AI Delivers No Financial Returns",
+          "link": "https://futurism.com/artificial-intelligence/ceos-ai-returns",
+          "date": "Wed, 21 Jan 2026 12:08:37 -0500"
+        },
+        {
           "title": "The CEO of Microsoft Suddenly Sounds Extremely Nervous About AI",
           "link": "https://futurism.com/artificial-intelligence/microsoft-ceo-nervous-ai",
           "date": "Tue, 20 Jan 2026 13:15:35 -0500"
@@ -572,11 +577,6 @@
           "title": "Inventor Building AI-Powered Suicide Chamber",
           "link": "https://futurism.com/artificial-intelligence/ai-powered-suicide-chamber",
           "date": "Mon, 19 Jan 2026 13:59:29 -0500"
-        },
-        {
-          "title": "AI Completely Failing to Boost Productivity, Says Top Analyst",
-          "link": "https://futurism.com/artificial-intelligence/ai-failing-boost-productivity",
-          "date": "Sun, 18 Jan 2026 10:30:00 -0500"
         }
       ],
       "error": null
