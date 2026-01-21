@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-01-21T13:43:11.647033+00:00",
+  "generatedAt": "2026-01-21T14:28:35.949545+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Comic-Con Bans AI Art After Artist Pushback",
+          "link": "https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/",
+          "date": "Wed, 21 Jan 2026 14:00:25 GMT"
+        },
         {
           "title": "How Wikipedia Will Survive in the Age of AI (With Wikipedia\u2019s CTO Selena Deckelmann)",
           "link": "https://www.404media.co/how-wikipedia-will-survive-in-the-age-of-ai-with-wikipedias-cto-selena-deckelmann/",
@@ -24,11 +29,6 @@
           "title": "ICE\u2019s Facial Recognition App Misidentified a Woman. Twice",
           "link": "https://www.404media.co/ices-facial-recognition-app-misidentified-a-woman-twice/",
           "date": "Mon, 19 Jan 2026 14:28:36 GMT"
-        },
-        {
-          "title": "Scientists Make Stunning Find Inside Prehistoric Wolf\u2019s Stomach",
-          "link": "https://www.404media.co/scientists-make-stunning-find-inside-prehistoric-wolfs-stomach/",
-          "date": "Sat, 17 Jan 2026 14:00:31 GMT"
         }
       ],
       "error": null
@@ -356,6 +356,11 @@
       "url": "https://analyticsindiamag.com/feed/",
       "items": [
         {
+          "title": "DeepSeek\u2019s Rise, Pause, and How Local Competition Took Over",
+          "link": "https://analyticsindiamag.com/global-tech/deepseeks-rise-pause-and-how-local-competition-took-over/",
+          "date": "Wed, 21 Jan 2026 14:23:12 +0000"
+        },
+        {
           "title": "NVIDIA Invests $150 Million in AI Inference Startup Baseten",
           "link": "https://analyticsindiamag.com/ai-news-updates/nvidia-invests-150-million-in-ai-inference-startup-baseten/",
           "date": "Wed, 21 Jan 2026 12:16:35 +0000"
@@ -374,11 +379,6 @@
           "title": "AI is Redrawing VC Rules as Investors Hedge Bets Against Rival Startups",
           "link": "https://analyticsindiamag.com/ai-features/ai-is-redrawing-vc-rules-as-investors-hedge-bets-against-rival-startups/",
           "date": "Wed, 21 Jan 2026 11:08:15 +0000"
-        },
-        {
-          "title": "Unilever Considers GCC in Hyderabad, Cites City\u2019s Growing Global Appeal",
-          "link": "https://analyticsindiamag.com/ai-news-updates/unilever-considers-gcc-in-hyderabad-cites-citys-growing-global-appeal/",
-          "date": "Wed, 21 Jan 2026 10:44:37 +0000"
         }
       ],
       "error": null
@@ -426,24 +426,24 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "Pentagon's $100M Drone Swarm Challenge",
-          "link": "https://www.reddit.com/r/artificial/comments/1qimv8x/pentagons_100m_drone_swarm_challenge/",
-          "date": "2026-01-21T03:28:27+00:00"
-        },
-        {
           "title": "Most CEOs agree AI hasn't benefitted revenue yet, survey reveals just 12% report major success so far",
           "link": "https://www.reddit.com/r/artificial/comments/1qiwevk/most_ceos_agree_ai_hasnt_benefitted_revenue_yet/",
           "date": "2026-01-21T12:19:33+00:00"
         },
         {
-          "title": "CAMB.AI Unveils MARS8: The First Family of TTS Architectures, Ending the Era of One-Size-Fits-All Voice AI",
-          "link": "https://www.reddit.com/r/artificial/comments/1qiq1ht/cambai_unveils_mars8_the_first_family_of_tts/",
-          "date": "2026-01-21T06:05:27+00:00"
+          "title": "Pentagon's $100M Drone Swarm Challenge",
+          "link": "https://www.reddit.com/r/artificial/comments/1qimv8x/pentagons_100m_drone_swarm_challenge/",
+          "date": "2026-01-21T03:28:27+00:00"
         },
         {
           "title": "Nvidia CEO says AI needs more investment in defiance of bubble fears",
           "link": "https://www.reddit.com/r/artificial/comments/1qixs5n/nvidia_ceo_says_ai_needs_more_investment_in/",
           "date": "2026-01-21T13:23:58+00:00"
+        },
+        {
+          "title": "CAMB.AI Unveils MARS8: The First Family of TTS Architectures, Ending the Era of One-Size-Fits-All Voice AI",
+          "link": "https://www.reddit.com/r/artificial/comments/1qiq1ht/cambai_unveils_mars8_the_first_family_of_tts/",
+          "date": "2026-01-21T06:05:27+00:00"
         },
         {
           "title": "AI is scoring college essays and conducting interviews, a new layer in admissions stress",
@@ -457,6 +457,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Despite its steep environmental costs, AI might also help save the planet",
+          "link": "https://theconversation.com/despite-its-steep-environmental-costs-ai-might-also-help-save-the-planet-272474",
+          "date": "2026-01-21T13:35:45Z"
+        },
         {
           "title": "The EU\u2019s new AI rulebook will affect businesses and consumers in the UK too",
           "link": "https://theconversation.com/the-eus-new-ai-rulebook-will-affect-businesses-and-consumers-in-the-uk-too-272467",
@@ -476,11 +481,6 @@
           "title": "The next generation of driverless cars will have to think about what\u2019s on the road, not just see it",
           "link": "https://theconversation.com/the-next-generation-of-driverless-cars-will-have-to-think-about-whats-on-the-road-not-just-see-it-273291",
           "date": "2026-01-19T17:42:07Z"
-        },
-        {
-          "title": "Would you use AI to break writer\u2019s block? We asked 5 experts",
-          "link": "https://theconversation.com/would-you-use-ai-to-break-writers-block-we-asked-5-experts-271627",
-          "date": "2026-01-19T17:14:40Z"
         }
       ],
       "error": null
@@ -493,6 +493,11 @@
           "title": "Tell us: has a chatbot helped you out of a difficult time in your life?",
           "link": "https://www.theguardian.com/technology/2026/jan/20/tell-us-has-a-chatbot-helped-you-out-of-a-difficult-time-in-your-life",
           "date": "Tue, 20 Jan 2026 14:45:08 GMT"
+        },
+        {
+          "title": "The IMF\u2019s banal language is sane-washing an economic crisis created by the egomaniacal Donald Trump",
+          "link": "https://www.theguardian.com/commentisfree/2026/jan/22/the-imfs-banal-language-is-sane-washing-an-economic-crisis-created-by-the-egomaniacal-donald-trump",
+          "date": "Wed, 21 Jan 2026 14:00:41 GMT"
         },
         {
           "title": "My friends in Italy are using AI therapists. But is that so bad, when a stigma surrounds mental health? | Viola Di Grado",
@@ -508,11 +513,6 @@
           "title": "Big tech continues to bend the knee to Trump a year after his inauguration",
           "link": "https://www.theguardian.com/technology/2026/jan/20/trump-tech-alliance-datacenters-social-media",
           "date": "Tue, 20 Jan 2026 15:55:55 GMT"
-        },
-        {
-          "title": "Donald Trump trashed global economic orthodoxy. A year on, did he leave Australia a winner or loser?",
-          "link": "https://www.theguardian.com/business/2026/jan/20/donald-trump-global-economy-impact-on-australia",
-          "date": "Tue, 20 Jan 2026 14:00:07 GMT"
         }
       ],
       "error": null
