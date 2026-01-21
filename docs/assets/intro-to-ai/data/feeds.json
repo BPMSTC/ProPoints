@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-21T17:52:26.565928+00:00",
+  "generatedAt": "2026-01-21T18:39:53.727676+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -284,9 +284,9 @@
           "date": "2025-09-09T02:25:04+00:00"
         },
         {
-          "title": "Searching for the best AI for writing? Let's rethink the question.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qj1ird/searching_for_the_best_ai_for_writing_lets/",
-          "date": "2026-01-21T15:51:13+00:00"
+          "title": "Anyone tried the challenges at Antijection.com and succeeded?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qj5jc8/anyone_tried_the_challenges_at_antijectioncom_and/",
+          "date": "2026-01-21T18:14:54+00:00"
         },
         {
           "title": "Stained Glass Irises Panels [4images]",
@@ -294,9 +294,9 @@
           "date": "2026-01-21T15:03:28+00:00"
         },
         {
-          "title": "I have 0 coding background (I'm in Tech Sales). I used Gemini to build this Financial Tool.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qj3dx1/i_have_0_coding_background_im_in_tech_sales_i/",
-          "date": "2026-01-21T16:58:21+00:00"
+          "title": "Searching for the best AI for writing? Let's rethink the question.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qj1ird/searching_for_the_best_ai_for_writing_lets/",
+          "date": "2026-01-21T15:51:13+00:00"
         }
       ],
       "error": null
@@ -387,12 +387,17 @@
       "name": "Announcements - Stability AI",
       "url": "https://stability.ai/blog?format=rss",
       "items": [],
-      "error": null
+      "error": "<unknown>:2:0: syntax error"
     },
     {
       "name": "Ars Technica - All content",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
+        {
+          "title": "Here's Volvo's new EX60 $60,000 electric midsize SUV",
+          "link": "https://arstechnica.com/cars/2026/01/heres-volvos-new-ex60-60000-electric-midsize-suv/",
+          "date": "Wed, 21 Jan 2026 17:30:58 +0000"
+        },
         {
           "title": "Has Gemini surpassed ChatGPT? We put the AI models to the test.",
           "link": "https://arstechnica.com/features/2026/01/has-gemini-surpassed-chatgpt-we-put-the-ai-models-to-the-test/",
@@ -412,11 +417,6 @@
           "title": "Webb reveals a planetary nebula with phenomenal clarity, and it is spectacular",
           "link": "https://arstechnica.com/space/2026/01/webb-has-given-us-with-a-stunning-new-view-of-a-well-known-planetary-nebula/",
           "date": "Tue, 20 Jan 2026 23:33:57 +0000"
-        },
-        {
-          "title": "Zuck stuck on Trump\u2019s bad side: FTC appeals loss in Meta monopoly case",
-          "link": "https://arstechnica.com/tech-policy/2026/01/zuck-stuck-on-trumps-bad-side-ftc-appeals-loss-in-meta-monopoly-case/",
-          "date": "Tue, 20 Jan 2026 23:22:26 +0000"
         }
       ],
       "error": null
@@ -436,19 +436,19 @@
           "date": "2026-01-21T03:28:27+00:00"
         },
         {
-          "title": "Logic-oriented fuzzy neural networks: A survey",
-          "link": "https://www.reddit.com/r/artificial/comments/1qj2dzo/logicoriented_fuzzy_neural_networks_a_survey/",
-          "date": "2026-01-21T16:22:12+00:00"
-        },
-        {
           "title": "Liza Minnelli is among the artists who collaborated on a new AI-generated album",
           "link": "https://www.reddit.com/r/artificial/comments/1qj4vi8/liza_minnelli_is_among_the_artists_who/",
           "date": "2026-01-21T17:51:32+00:00"
         },
         {
-          "title": "AI is scoring college essays and conducting interviews, a new layer in admissions stress",
-          "link": "https://www.reddit.com/r/artificial/comments/1qir8b8/ai_is_scoring_college_essays_and_conducting/",
-          "date": "2026-01-21T07:12:32+00:00"
+          "title": "google gemini3 absolutely SMOKES qwen3 coder",
+          "link": "https://www.reddit.com/r/artificial/comments/1qj3e0z/google_gemini3_absolutely_smokes_qwen3_coder/",
+          "date": "2026-01-21T16:58:27+00:00"
+        },
+        {
+          "title": "Logic-oriented fuzzy neural networks: A survey",
+          "link": "https://www.reddit.com/r/artificial/comments/1qj2dzo/logicoriented_fuzzy_neural_networks_a_survey/",
+          "date": "2026-01-21T16:22:12+00:00"
         }
       ],
       "error": null
@@ -457,6 +457,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Why AI has not led to mass unemployment",
+          "link": "https://theconversation.com/why-ai-has-not-led-to-mass-unemployment-273405",
+          "date": "2026-01-21T17:27:55Z"
+        },
         {
           "title": "What should education look like today? 6 essential reads on learning together",
           "link": "https://theconversation.com/what-should-education-look-like-today-6-essential-reads-on-learning-together-273941",
@@ -476,11 +481,6 @@
           "title": "AI cannot automate science \u2013 a philosopher explains the uniquely human aspects of doing research",
           "link": "https://theconversation.com/ai-cannot-automate-science-a-philosopher-explains-the-uniquely-human-aspects-of-doing-research-272477",
           "date": "2026-01-20T13:37:05Z"
-        },
-        {
-          "title": "Sexualised deepfakes on X are a sign of things to come. NZ law is already way behind",
-          "link": "https://theconversation.com/sexualised-deepfakes-on-x-are-a-sign-of-things-to-come-nz-law-is-already-way-behind-273562",
-          "date": "2026-01-19T23:00:03Z"
         }
       ],
       "error": null
@@ -489,6 +489,11 @@
       "name": "Artificial intelligence (AI) | The Guardian",
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
+        {
+          "title": "Rollout of AI may need to be slowed to \u2018save society\u2019, says boss of JP Morgan",
+          "link": "https://www.theguardian.com/technology/2026/jan/21/rollout-ai-slowed-save-society-jp-morgan-jamie-dimon-jensen-huang",
+          "date": "Wed, 21 Jan 2026 18:18:20 GMT"
+        },
         {
           "title": "Mercy review \u2013 Chris Pratt takes on AI judge Rebecca Ferguson in ingenious sci-fi thriller",
           "link": "https://www.theguardian.com/film/2026/jan/21/mercy-review-chris-pratt-takes-on-ai-judge-rebecca-ferguson-in-ingenious-sci-fi-thriller",
@@ -508,11 +513,6 @@
           "title": "Superstates and spheres of influence | Brief letters",
           "link": "https://www.theguardian.com/books/2026/jan/20/superstates-and-spheres-of-influence",
           "date": "Tue, 20 Jan 2026 17:51:18 GMT"
-        },
-        {
-          "title": "Big tech continues to bend the knee to Trump a year after his inauguration",
-          "link": "https://www.theguardian.com/technology/2026/jan/20/trump-tech-alliance-datacenters-social-media",
-          "date": "Tue, 20 Jan 2026 15:55:55 GMT"
         }
       ],
       "error": null
