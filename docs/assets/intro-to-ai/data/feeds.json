@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-21T01:29:21.821311+00:00",
+  "generatedAt": "2026-01-21T03:41:40.582785+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -202,34 +202,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "SAP and Fresenius to build sovereign AI backbone for healthcare",
-          "link": "https://www.artificialintelligence-news.com/news/sap-and-fresenius-build-sovereign-ai-backbone-for-healthcare/",
-          "date": "Mon, 19 Jan 2026 17:19:33 +0000"
-        },
-        {
-          "title": "Scaling AI value beyond pilot phase purgatory",
-          "link": "https://www.artificialintelligence-news.com/news/scaling-ai-value-beyond-pilot-phase-purgatory/",
-          "date": "Mon, 19 Jan 2026 14:19:11 +0000"
-        },
-        {
-          "title": "Credit unions, fintech and the AI inflection of financial services",
-          "link": "https://www.artificialintelligence-news.com/news/credit-union-ai-in-operational-settings-learnings-from-the-fintech-sector/",
-          "date": "Mon, 19 Jan 2026 13:14:52 +0000"
-        },
-        {
-          "title": "JPMorgan Chase treats AI spending as core infrastructure",
-          "link": "https://www.artificialintelligence-news.com/news/jpmorgan-chase-treats-ai-spending-as-core-infrastructure/",
-          "date": "Mon, 19 Jan 2026 10:00:00 +0000"
-        },
-        {
-          "title": "OpenCog Hyperon and AGI: Beyond large language models",
-          "link": "https://www.artificialintelligence-news.com/news/opencog-hyperon-and-agi-beyond-large-language-models/",
-          "date": "Mon, 19 Jan 2026 08:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -284,19 +258,19 @@
           "date": "2025-09-09T02:25:04+00:00"
         },
         {
-          "title": "SWEDN QXZSO1.000 vs youtube /TR\u00c5KIGT",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qijyru/swedn_qxzso1000_vs_youtube_tr\u00e5kigt/",
-          "date": "2026-01-21T01:20:07+00:00"
+          "title": "When AI just ignores you.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qim4w8/when_ai_just_ignores_you/",
+          "date": "2026-01-21T02:55:52+00:00"
         },
         {
-          "title": "I Built an ESLint that writes its own rules by learning from your code",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qijln8/i_built_an_eslint_that_writes_its_own_rules_by/",
-          "date": "2026-01-21T01:04:18+00:00"
+          "title": "Shipped multiple websites & PHP apps using AI, but I don\u2019t know coding fundamentals \u2014 how should I learn properly?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qimy0p/shipped_multiple_websites_php_apps_using_ai_but_i/",
+          "date": "2026-01-21T03:31:53+00:00"
         },
         {
-          "title": "Introducing @Claude-Flow/browser. Built for browser swarms from the start using the new agent browser library from Vercel as the execution layer",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qijf16/introducing_claudeflowbrowser_built_for_browser/",
-          "date": "2026-01-21T00:56:30+00:00"
+          "title": "ChatGPT Atlas now support this extension, to SAVE prompts",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qilp3h/chatgpt_atlas_now_support_this_extension_to_save/",
+          "date": "2026-01-21T02:36:04+00:00"
         }
       ],
       "error": null
@@ -426,6 +400,11 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
+          "title": "Pentagon's $100M Drone Swarm Challenge",
+          "link": "https://www.reddit.com/r/artificial/comments/1qimv8x/pentagons_100m_drone_swarm_challenge/",
+          "date": "2026-01-21T03:28:27+00:00"
+        },
+        {
           "title": "LLVM adopts \"human in the loop\" policy for AI/tool-assisted contributions",
           "link": "https://www.reddit.com/r/artificial/comments/1qi8u3d/llvm_adopts_human_in_the_loop_policy_for/",
           "date": "2026-01-20T18:17:48+00:00"
@@ -444,11 +423,6 @@
           "title": "hy does the AI industry seem almost entirely web/JS-focused?",
           "link": "https://www.reddit.com/r/artificial/comments/1qhwo79/hy_does_the_ai_industry_seem_almost_entirely/",
           "date": "2026-01-20T09:33:52+00:00"
-        },
-        {
-          "title": "Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune",
-          "link": "https://www.reddit.com/r/artificial/comments/1qh5usj/musk_wants_up_to_134b_in_openai_lawsuit_despite/",
-          "date": "2026-01-19T14:38:42+00:00"
         }
       ],
       "error": null
