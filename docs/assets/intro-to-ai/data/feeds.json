@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-22T03:45:40.936202+00:00",
+  "generatedAt": "2026-01-22T04:45:24.406750+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "Elastic Supercharges Performance for Serverless Offering on AWS",
-          "link": "https://ai-techpark.com/elastic-supercharges-performance-for-serverless-offering-on-aws/",
-          "date": "Wed, 21 Jan 2026 12:30:00 +0000"
-        },
-        {
-          "title": "The DDC Group Unveils Advanced Agentic AI Platform",
-          "link": "https://ai-techpark.com/the-ddc-group-unveils-advanced-agentic-ai-platform/",
-          "date": "Wed, 21 Jan 2026 11:45:00 +0000"
-        },
-        {
-          "title": "ADLINK Launches First COM Express Module with Intel Core Ultra 3",
-          "link": "https://ai-techpark.com/adlink-launches-first-com-express-module-with-intel-core-ultra-3/",
-          "date": "Wed, 21 Jan 2026 11:15:00 +0000"
-        },
-        {
-          "title": "Xactly Appoints CTO and CPO to Accelerate AI-Driven Innovation",
-          "link": "https://ai-techpark.com/xactly-appoints-cto-and-cpo-to-accelerate-ai-driven-innovation/",
-          "date": "Wed, 21 Jan 2026 11:01:53 +0000"
-        },
-        {
-          "title": "ScyllaDB Brings Massive-Scale Vector Search to Real-Time AI",
-          "link": "https://ai-techpark.com/scylladb-brings-massive-scale-vector-search-to-real-time-ai/",
-          "date": "Wed, 21 Jan 2026 11:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -426,6 +400,11 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
+          "title": "Job Applicants Sue A.I. Recruitment Tool Company. A recently filed lawsuit claims the ratings assigned by A.I. screening software are similar to those of a credit agency and should be subject to the same laws.",
+          "link": "https://www.reddit.com/r/artificial/comments/1qjk1us/job_applicants_sue_ai_recruitment_tool_company_a/",
+          "date": "2026-01-22T03:52:58+00:00"
+        },
+        {
           "title": "What are the top 5 safe, high-paying jobs that AI is unlikely to replace over the next few decades?",
           "link": "https://www.reddit.com/r/artificial/comments/1qj91oh/what_are_the_top_5_safe_highpaying_jobs_that_ai/",
           "date": "2026-01-21T20:21:15+00:00"
@@ -444,11 +423,6 @@
           "title": "google gemini3 absolutely SMOKES qwen3 coder",
           "link": "https://www.reddit.com/r/artificial/comments/1qj3e0z/google_gemini3_absolutely_smokes_qwen3_coder/",
           "date": "2026-01-21T16:58:27+00:00"
-        },
-        {
-          "title": "Apple Developing AI Wearable Device: Features, Rumors, and Launch Timeline",
-          "link": "https://www.reddit.com/r/artificial/comments/1qjj6e5/apple_developing_ai_wearable_device_features/",
-          "date": "2026-01-22T03:12:46+00:00"
         }
       ],
       "error": null
@@ -490,6 +464,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Queensland PhD candidate accused of plotting to firebomb Australia Day event wanted AI-driven society, court hears",
+          "link": "https://www.theguardian.com/australia-news/2026/jan/22/queensland-phd-candidate-accused-plotting-firebomb-australia-day-event-ntwnfb",
+          "date": "Thu, 22 Jan 2026 04:38:14 GMT"
+        },
+        {
           "title": "Bezos\u2019s Blue Origin announces plans to deploy thousands of satellites in 2027",
           "link": "https://www.theguardian.com/technology/2026/jan/21/blue-origin-satellites-2027-jeff-bezos",
           "date": "Wed, 21 Jan 2026 23:19:23 GMT"
@@ -508,11 +487,6 @@
           "title": "The IMF\u2019s banal language is sane-washing an economic crisis created by the egomaniacal Donald Trump",
           "link": "https://www.theguardian.com/commentisfree/2026/jan/22/the-imfs-banal-language-is-sane-washing-an-economic-crisis-created-by-the-egomaniacal-donald-trump",
           "date": "Wed, 21 Jan 2026 14:00:41 GMT"
-        },
-        {
-          "title": "My friends in Italy are using AI therapists. But is that so bad, when a stigma surrounds mental health? | Viola Di Grado",
-          "link": "https://www.theguardian.com/commentisfree/2026/jan/21/italy-using-ai-therapists-mental-health",
-          "date": "Wed, 21 Jan 2026 05:00:53 GMT"
         }
       ],
       "error": null
