@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-22T22:20:26.001104+00:00",
+  "generatedAt": "2026-01-22T23:19:08.871547+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -202,34 +202,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "Controlling AI agent sprawl: The CIO\u2019s guide to governance",
-          "link": "https://www.artificialintelligence-news.com/news/controlling-ai-agent-sprawl-cio-guide-to-governance/",
-          "date": "Thu, 22 Jan 2026 17:00:04 +0000"
-        },
-        {
-          "title": "Gates Foundation and OpenAI test AI in African healthcare",
-          "link": "https://www.artificialintelligence-news.com/news/gates-foundation-and-openai-test-ai-in-african-healthcare/",
-          "date": "Thu, 22 Jan 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Balancing AI cost efficiency with data sovereignty",
-          "link": "https://www.artificialintelligence-news.com/news/balancing-ai-cost-efficiency-with-data-sovereignty/",
-          "date": "Wed, 21 Jan 2026 10:51:23 +0000"
-        },
-        {
-          "title": "The quiet work behind Citi\u2019s 4,000-person internal AI rollout",
-          "link": "https://www.artificialintelligence-news.com/news/the-quiet-work-behind-citi-4000-person-internal-ai-rollout/",
-          "date": "Wed, 21 Jan 2026 10:00:00 +0000"
-        },
-        {
-          "title": "SAP and Fresenius to build sovereign AI backbone for healthcare",
-          "link": "https://www.artificialintelligence-news.com/news/sap-and-fresenius-build-sovereign-ai-backbone-for-healthcare/",
-          "date": "Mon, 19 Jan 2026 17:19:33 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -284,14 +258,14 @@
           "date": "2025-09-09T02:25:04+00:00"
         },
         {
-          "title": "She is not Real",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qk2hxx/she_is_not_real/",
-          "date": "2026-01-22T18:29:29+00:00"
-        },
-        {
           "title": "How do you actually write good prompts?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qk76lp/how_do_you_actually_write_good_prompts/",
           "date": "2026-01-22T21:21:07+00:00"
+        },
+        {
+          "title": "She is not Real",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qk2hxx/she_is_not_real/",
+          "date": "2026-01-22T18:29:29+00:00"
         },
         {
           "title": "Website creation with an api backend to public data",
@@ -394,6 +368,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Hacker who stole 120,000 bitcoins wants a second chance\u2014and a security job",
+          "link": "https://arstechnica.com/security/2026/01/hacker-who-stole-120000-bitcoins-wants-a-second-chance-and-a-security-job/",
+          "date": "Thu, 22 Jan 2026 22:23:15 +0000"
+        },
+        {
+          "title": "Report: Apple plans to launch AI-powered wearable pin device as soon as 2027",
+          "link": "https://arstechnica.com/apple/2026/01/report-apple-plans-to-launch-ai-powered-wearable-pin-device-as-soon-as-2027/",
+          "date": "Thu, 22 Jan 2026 21:32:28 +0000"
+        },
+        {
           "title": "Asking Grok to delete fake nudes may force victims to sue in Musk's chosen court",
           "link": "https://arstechnica.com/tech-policy/2026/01/asking-grok-to-delete-fake-nudes-may-force-victims-to-sue-in-musks-chosen-court/",
           "date": "Thu, 22 Jan 2026 21:16:42 +0000"
@@ -407,16 +391,6 @@
           "title": "Check out the first trailer for Masters of the Universe",
           "link": "https://arstechnica.com/culture/2026/01/check-out-the-first-trailer-for-masters-of-the-universe/",
           "date": "Thu, 22 Jan 2026 19:18:34 +0000"
-        },
-        {
-          "title": "Blue Origin makes impressive strides with reuse\u2014next launch will refly booster",
-          "link": "https://arstechnica.com/space/2026/01/blue-origin-makes-impressive-strides-with-reuse-next-launch-will-refly-booster/",
-          "date": "Thu, 22 Jan 2026 17:49:24 +0000"
-        },
-        {
-          "title": "Google adds your Gmail and Photos to AI Mode to enable \"Personal Intelligence\"",
-          "link": "https://arstechnica.com/google/2026/01/google-ai-mode-can-now-customize-responses-with-your-email-and-photos/",
-          "date": "Thu, 22 Jan 2026 16:35:41 +0000"
         }
       ],
       "error": null
@@ -431,24 +405,24 @@
           "date": "2026-01-22T03:52:58+00:00"
         },
         {
+          "title": "White House posts digitally altered image of woman arrested after ICE protest",
+          "link": "https://www.reddit.com/r/artificial/comments/1qk9x1y/white_house_posts_digitally_altered_image_of/",
+          "date": "2026-01-22T23:10:37+00:00"
+        },
+        {
           "title": "Bwocks: indie local-first ai-native spreadsheet for creatives",
           "link": "https://www.reddit.com/r/artificial/comments/1qk6g5g/bwocks_indie_localfirst_ainative_spreadsheet_for/",
           "date": "2026-01-22T20:53:33+00:00"
         },
         {
-          "title": "Well, this is interesting",
-          "link": "https://www.reddit.com/r/artificial/comments/1qk86pt/well_this_is_interesting/",
-          "date": "2026-01-22T22:00:09+00:00"
+          "title": "AI Resistance: The Album",
+          "link": "https://www.reddit.com/r/artificial/comments/1qka3ll/ai_resistance_the_album/",
+          "date": "2026-01-22T23:18:04+00:00"
         },
         {
-          "title": "Opinion | Teaching and Learning in the Age of A.I. (Gift Article)",
-          "link": "https://www.reddit.com/r/artificial/comments/1qk7bu4/opinion_teaching_and_learning_in_the_age_of_ai/",
-          "date": "2026-01-22T21:26:38+00:00"
-        },
-        {
-          "title": "90% of Salesforce\u2019s Engineers Use Cursor Every Day",
-          "link": "https://www.reddit.com/r/artificial/comments/1qjrtvb/90_of_salesforces_engineers_use_cursor_every_day/",
-          "date": "2026-01-22T11:12:20+00:00"
+          "title": "Incredibly detailed isometric map of NYC (made with Qwen-Image-Edit)",
+          "link": "https://www.reddit.com/r/artificial/comments/1qk9pqe/incredibly_detailed_isometric_map_of_nyc_made/",
+          "date": "2026-01-22T23:02:27+00:00"
         }
       ],
       "error": null
