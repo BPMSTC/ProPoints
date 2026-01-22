@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-22T04:45:24.406750+00:00",
+  "generatedAt": "2026-01-22T05:26:34.532263+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Elastic Supercharges Performance for Serverless Offering on AWS",
+          "link": "https://ai-techpark.com/elastic-supercharges-performance-for-serverless-offering-on-aws/",
+          "date": "Wed, 21 Jan 2026 12:30:00 +0000"
+        },
+        {
+          "title": "The DDC Group Unveils Advanced Agentic AI Platform",
+          "link": "https://ai-techpark.com/the-ddc-group-unveils-advanced-agentic-ai-platform/",
+          "date": "Wed, 21 Jan 2026 11:45:00 +0000"
+        },
+        {
+          "title": "ADLINK Launches First COM Express Module with Intel Core Ultra 3",
+          "link": "https://ai-techpark.com/adlink-launches-first-com-express-module-with-intel-core-ultra-3/",
+          "date": "Wed, 21 Jan 2026 11:15:00 +0000"
+        },
+        {
+          "title": "Xactly Appoints CTO and CPO to Accelerate AI-Driven Innovation",
+          "link": "https://ai-techpark.com/xactly-appoints-cto-and-cpo-to-accelerate-ai-driven-innovation/",
+          "date": "Wed, 21 Jan 2026 11:01:53 +0000"
+        },
+        {
+          "title": "ScyllaDB Brings Massive-Scale Vector Search to Real-Time AI",
+          "link": "https://ai-techpark.com/scylladb-brings-massive-scale-vector-search-to-real-time-ai/",
+          "date": "Wed, 21 Jan 2026 11:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -330,6 +356,11 @@
       "url": "https://analyticsindiamag.com/feed/",
       "items": [
         {
+          "title": "Telangana Launches Aikam, Global AI Innovation Entity, at Davos",
+          "link": "https://analyticsindiamag.com/ai-news-updates/telangana-launches-aikam-global-ai-innovation-entity-at-davos/",
+          "date": "Thu, 22 Jan 2026 05:24:17 +0000"
+        },
+        {
           "title": "When Everyone is a GCC, No One is",
           "link": "https://analyticsindiamag.com/gcc/when-everyone-is-a-gcc-no-one-is/",
           "date": "Thu, 22 Jan 2026 03:30:00 +0000"
@@ -348,11 +379,6 @@
           "title": "Sunita Williams Retires From NASA After 27-Year Career",
           "link": "https://analyticsindiamag.com/ai-news-updates/sunita-williams-retires-from-nasa-after-27-year-career/",
           "date": "Wed, 21 Jan 2026 12:11:28 +0000"
-        },
-        {
-          "title": "Eternal\u2019s Deepinder Goyal Resigns, Blinkit CEO Albinder Dhindsa to Take Over",
-          "link": "https://analyticsindiamag.com/ai-news-updates/eternals-deepinder-goyal-resigns-blinkit-ceo-albinder-dhindsa-to-take-over/",
-          "date": "Wed, 21 Jan 2026 11:52:54 +0000"
         }
       ],
       "error": null
