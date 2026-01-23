@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-23T04:40:38.166402+00:00",
+  "generatedAt": "2026-01-23T05:25:47.906120+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "OpenEvidence Raises $250 Mn to Build Medical Superintelligence for Doctors",
+          "link": "https://ai-techpark.com/openevidence-raises-250-mn-to-build-medical-superintelligence-for-doctors/",
+          "date": "Thu, 22 Jan 2026 13:10:36 +0000"
+        },
+        {
+          "title": "Study: AI Confidence Surges While Readiness Lags on Data Integrity",
+          "link": "https://ai-techpark.com/study-ai-confidence-surges-while-readiness-lags-on-data-integrity/",
+          "date": "Thu, 22 Jan 2026 13:06:06 +0000"
+        },
+        {
+          "title": "ZeroPoint Technologies Appoints Brett Cline as Chief Executive Officer",
+          "link": "https://ai-techpark.com/zeropoint-technologies-appoints-brett-cline-as-chief-executive-officer/",
+          "date": "Thu, 22 Jan 2026 13:04:20 +0000"
+        },
+        {
+          "title": "Corespan Systems Launches as the New Identity for Drut Technologies",
+          "link": "https://ai-techpark.com/corespan-systems-launches-as-the-new-identity-for-drut-technologies/",
+          "date": "Thu, 22 Jan 2026 08:00:00 +0000"
+        },
+        {
+          "title": "C5i Launches Enterprise-Grade Platform Agent5i to Scale Business Value",
+          "link": "https://ai-techpark.com/c5i-launches-enterprise-grade-platform-agent5i-to-scale-business-value/",
+          "date": "Thu, 22 Jan 2026 07:45:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -263,14 +289,14 @@
           "date": "2026-01-22T21:21:07+00:00"
         },
         {
-          "title": "OpenAI releases 300+ official, role-specific prompts for free.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qkfmrq/openai_releases_300_official_rolespecific_prompts/",
-          "date": "2026-01-23T03:20:13+00:00"
+          "title": "agent-exec: headless CLI for one coding agent to spawn subagents from any providers",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qkhf46/agentexec_headless_cli_for_one_coding_agent_to/",
+          "date": "2026-01-23T04:44:23+00:00"
         },
         {
-          "title": "One honest Freepik vs. Higgsfield Comparison",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qkcgxk/one_honest_freepik_vs_higgsfield_comparison/",
-          "date": "2026-01-23T00:58:22+00:00"
+          "title": "Engineering tradeoffs in agentic systems: latency, cost, and debugging",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qkbcuv/engineering_tradeoffs_in_agentic_systems_latency/",
+          "date": "2026-01-23T00:10:00+00:00"
         }
       ],
       "error": null
@@ -330,6 +356,11 @@
       "url": "https://analyticsindiamag.com/feed/",
       "items": [
         {
+          "title": "Claude Code Uses React to Render its TUI",
+          "link": "https://analyticsindiamag.com/ai-news-updates/claude-code-uses-react-to-render-its-tui/",
+          "date": "Fri, 23 Jan 2026 05:19:28 +0000"
+        },
+        {
           "title": "AI\u2019s Copyright Reckoning: Can India Balance Creators And Code?",
           "link": "https://analyticsindiamag.com/ai-features/ais-copyright-reckoning-can-india-balance-creators-and-code/",
           "date": "Fri, 23 Jan 2026 03:37:55 +0000"
@@ -348,11 +379,6 @@
           "title": "Labour Code Change Dent Mphasis Q3 Profits, Revenue Rises 2.6% QoQ",
           "link": "https://analyticsindiamag.com/ai-news-updates/labour-code-change-dent-mphasis-q3-profits-revenue-rises-2-6-qoq/",
           "date": "Thu, 22 Jan 2026 13:36:08 +0000"
-        },
-        {
-          "title": "Indian IT is Growing Without Expanding Workforce, And Why It May Be Irreversible",
-          "link": "https://analyticsindiamag.com/it-services/indian-it-is-growing-without-expanding-workforce-and-why-it-may-be-irreversible/",
-          "date": "Thu, 22 Jan 2026 13:30:00 +0000"
         }
       ],
       "error": null
@@ -410,6 +436,11 @@
           "date": "2026-01-22T23:02:27+00:00"
         },
         {
+          "title": "One-Minute Daily AI News 1/22/2026",
+          "link": "https://www.reddit.com/r/artificial/comments/1qkh7d4/oneminute_daily_ai_news_1222026/",
+          "date": "2026-01-23T04:33:44+00:00"
+        },
+        {
           "title": "Plano 0.4.3 \u2b50\ufe0f Filter Chains via MCP and OpenRouter Integration",
           "link": "https://www.reddit.com/r/artificial/comments/1qkg8va/plano_043_filter_chains_via_mcp_and_openrouter/",
           "date": "2026-01-23T03:48:52+00:00"
@@ -418,11 +449,6 @@
           "title": "Job Applicants Sue A.I. Recruitment Tool Company. A recently filed lawsuit claims the ratings assigned by A.I. screening software are similar to those of a credit agency and should be subject to the same laws.",
           "link": "https://www.reddit.com/r/artificial/comments/1qjk1us/job_applicants_sue_ai_recruitment_tool_company_a/",
           "date": "2026-01-22T03:52:58+00:00"
-        },
-        {
-          "title": "One-Minute Daily AI News 1/22/2026",
-          "link": "https://www.reddit.com/r/artificial/comments/1qkh7d4/oneminute_daily_ai_news_1222026/",
-          "date": "2026-01-23T04:33:44+00:00"
         }
       ],
       "error": null
@@ -560,13 +586,13 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
-          "title": "How Claude Code Is Reshaping Software\u2014and Anthropic",
-          "link": "https://www.wired.com/story/claude-code-success-anthropic-business-model/",
+          "title": "AI-Powered Disinformation Swarms Are Coming for Democracy",
+          "link": "https://www.wired.com/story/ai-powered-disinformation-swarms-are-coming-for-democracy/",
           "date": "Thu, 22 Jan 2026 19:00:00 +0000"
         },
         {
-          "title": "AI-Powered Disinformation Swarms Are Coming for Democracy",
-          "link": "https://www.wired.com/story/ai-powered-disinformation-swarms-are-coming-for-democracy/",
+          "title": "How Claude Code Is Reshaping Software\u2014and Anthropic",
+          "link": "https://www.wired.com/story/claude-code-success-anthropic-business-model/",
           "date": "Thu, 22 Jan 2026 19:00:00 +0000"
         },
         {
