@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-01-23T17:24:41.794531+00:00",
+  "generatedAt": "2026-01-23T18:30:15.487877+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Behind the Blog: Signs of the Times",
+          "link": "https://www.404media.co/behind-the-blog-signs-of-the-times/",
+          "date": "Fri, 23 Jan 2026 17:53:28 GMT"
+        },
         {
           "title": "Scientists Got Men to Rate Penises by How Intimidating They Are. This Is What They Found.",
           "link": "https://www.404media.co/scientists-got-men-to-rate-penises-by-how-intimidating-they-are-this-is-what-they-found/",
@@ -24,11 +29,6 @@
           "title": "Amateur Radio Operators in Belarus Arrested, Face the Death Penalty",
           "link": "https://www.404media.co/ham-radio-operators-in-belarus-arrested-face-the-death-penalty/",
           "date": "Wed, 21 Jan 2026 14:52:05 GMT"
-        },
-        {
-          "title": "Comic-Con Bans AI Art After Artist Pushback",
-          "link": "https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/",
-          "date": "Wed, 21 Jan 2026 14:00:25 GMT"
         }
       ],
       "error": null
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "New Relic Launches Observability Solution for Visibility into ChatGPT Apps",
-          "link": "https://ai-techpark.com/new-relic-launches-observability-solution-for-visibility-into-chatgpt-apps/",
-          "date": "Fri, 23 Jan 2026 12:00:00 +0000"
-        },
-        {
-          "title": "VirtuousAI: Mid-Market CEOs See AI Value but Stay in Pilot Mode",
-          "link": "https://ai-techpark.com/virtuousai-mid-market-ceos-see-ai-value-but-stay-in-pilot-mode/",
-          "date": "Fri, 23 Jan 2026 08:30:00 +0000"
-        },
-        {
-          "title": "WhaleFlux Signals Shift to Architecting Enterprise AI in 2026",
-          "link": "https://ai-techpark.com/whaleflux-signals-shift-to-architecting-enterprise-ai-in-2026/",
-          "date": "Fri, 23 Jan 2026 08:15:00 +0000"
-        },
-        {
-          "title": "eHub Appoints Thomas Leishman as Chief AI Officer",
-          "link": "https://ai-techpark.com/ehub-appoints-thomas-leishman-as-chief-ai-officer/",
-          "date": "Fri, 23 Jan 2026 08:00:00 +0000"
-        },
-        {
-          "title": "Misuse of AI chatbots tops annual list of health technology hazards",
-          "link": "https://ai-techpark.com/misuse-of-ai-chatbots-tops-annual-list-of-health-technology-hazards/",
-          "date": "Fri, 23 Jan 2026 07:45:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -166,6 +140,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Serve Robotics Acquires Hospital Assistant Robot Company",
+          "link": "https://aibusiness.com/robotics/serve-robotics-acquires-hospital-robot-company",
+          "date": "Fri, 23 Jan 2026 18:12:04 GMT"
+        },
+        {
           "title": "VoiceRun Raises $5.5M for Full-Stack Voice AI Platform",
           "link": "https://aibusiness.com/agentic-ai/voicerun-startup-full-stack-voice-ai-platform",
           "date": "Fri, 23 Jan 2026 01:12:05 GMT"
@@ -184,11 +163,6 @@
           "title": "Anthropic Aims for Transparency With Claude Constitution",
           "link": "https://aibusiness.com/responsible-ai/anthropic-aims-for-transparency-with-constitution",
           "date": "Thu, 22 Jan 2026 14:36:20 GMT"
-        },
-        {
-          "title": "Humans&amp; Raises $480M to Build Human-Centric AI Tools",
-          "link": "https://aibusiness.com/agentic-ai/startup-human-centric-ai-tools",
-          "date": "Thu, 22 Jan 2026 13:46:05 GMT"
         }
       ],
       "error": null
@@ -394,6 +368,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "TikTok deal is done; Trump wants praise while users fear MAGA tweaks",
+          "link": "https://arstechnica.com/tech-policy/2026/01/tiktok-finalizes-trump-deal-that-allows-bytedance-to-maintain-some-control/",
+          "date": "Fri, 23 Jan 2026 17:29:06 +0000"
+        },
+        {
+          "title": "Tesla kills Autopilot, locks lane-keeping behind $99/month fee",
+          "link": "https://arstechnica.com/cars/2026/01/tesla-wants-recurring-revenue-discontinues-autopilot-in-favor-of-fsd/",
+          "date": "Fri, 23 Jan 2026 16:54:12 +0000"
+        },
+        {
           "title": "Rocket Report: Chinese rockets fail twice in 12 hours; Rocket Lab reports setback",
           "link": "https://arstechnica.com/space/2026/01/rocket-report-rocket-lab-reports-neutron-setback-australia-backs-launch-startup/",
           "date": "Fri, 23 Jan 2026 14:31:44 +0000"
@@ -407,16 +391,6 @@
           "title": "2026 Lucid Air Touring review: This feels like a complete car now",
           "link": "https://arstechnica.com/features/2026/01/2026-lucid-air-touring-review-this-feels-like-a-complete-car-now/",
           "date": "Fri, 23 Jan 2026 12:00:31 +0000"
-        },
-        {
-          "title": "This 67,800-year-old hand stencil is the world's oldest human-made art",
-          "link": "https://arstechnica.com/science/2026/01/this-67800-year-old-hand-stencil-is-the-worlds-oldest-human-made-art/",
-          "date": "Fri, 23 Jan 2026 12:00:29 +0000"
-        },
-        {
-          "title": "US officially out of WHO, leaving hundreds of millions of dollars unpaid",
-          "link": "https://arstechnica.com/health/2026/01/us-stiffs-who-hundreds-of-millions-as-it-officially-withdrawals/",
-          "date": "Thu, 22 Jan 2026 23:07:45 +0000"
         }
       ],
       "error": null
@@ -436,14 +410,14 @@
           "date": "2026-01-23T13:35:31+00:00"
         },
         {
-          "title": "Investment executive praises China for using AI to grow industry, pokes fun at the US for making \"AI girlfriends\"",
-          "link": "https://www.reddit.com/r/artificial/comments/1qkr1nt/investment_executive_praises_china_for_using_ai/",
-          "date": "2026-01-23T13:39:01+00:00"
-        },
-        {
           "title": "I don\u2019t think using AI for surveillance of kids in school is a good idea",
           "link": "https://www.reddit.com/r/artificial/comments/1qknhjn/i_dont_think_using_ai_for_surveillance_of_kids_in/",
           "date": "2026-01-23T10:37:02+00:00"
+        },
+        {
+          "title": "Investment executive praises China for using AI to grow industry, pokes fun at the US for making \"AI girlfriends\"",
+          "link": "https://www.reddit.com/r/artificial/comments/1qkr1nt/investment_executive_praises_china_for_using_ai/",
+          "date": "2026-01-23T13:39:01+00:00"
         },
         {
           "title": "YouTube Says Creators Can Use AI-generated Likenesses in Shorts",
