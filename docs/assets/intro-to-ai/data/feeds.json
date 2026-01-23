@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-22T23:19:08.871547+00:00",
+  "generatedAt": "2026-01-23T01:26:56.473014+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -166,6 +166,16 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "VoiceRun Raises $5.5M for Full-Stack Voice AI Platform",
+          "link": "https://aibusiness.com/agentic-ai/voicerun-startup-full-stack-voice-ai-platform",
+          "date": "Fri, 23 Jan 2026 01:12:05 GMT"
+        },
+        {
+          "title": "Enterprises Should Prioritize Governance Amid Agentic AI Boom",
+          "link": "https://aibusiness.com/agentic-ai/enterprises-should-prioritize-governance-amid-agentic-ai-boom",
+          "date": "Fri, 23 Jan 2026 00:45:26 GMT"
+        },
+        {
           "title": "AI Startups Merge to Launch First Full-Stack AI Cloud",
           "link": "https://aibusiness.com/data-centers/ai-startups-merge-full-stack-ai-cloud",
           "date": "Thu, 22 Jan 2026 20:44:12 GMT"
@@ -179,16 +189,6 @@
           "title": "Humans&amp; Raises $480M to Build Human-Centric AI Tools",
           "link": "https://aibusiness.com/agentic-ai/startup-human-centric-ai-tools",
           "date": "Thu, 22 Jan 2026 13:46:05 GMT"
-        },
-        {
-          "title": "OpenAI Targets Monetization, $1.4T Commitments by 2034",
-          "link": "https://aibusiness.com/generative-ai/openai-targets-monetization-commitments-2034",
-          "date": "Wed, 21 Jan 2026 16:43:08 GMT"
-        },
-        {
-          "title": "OpenAI Expands Cheap ChatGPT Tier; Ads Coming Soon",
-          "link": "https://aibusiness.com/foundation-models/cheap-chatgpt-tier-month-ads-coming-soon",
-          "date": "Tue, 20 Jan 2026 22:39:13 GMT"
         }
       ],
       "error": null
@@ -202,8 +202,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Controlling AI agent sprawl: The CIO\u2019s guide to governance",
+          "link": "https://www.artificialintelligence-news.com/news/controlling-ai-agent-sprawl-cio-guide-to-governance/",
+          "date": "Thu, 22 Jan 2026 17:00:04 +0000"
+        },
+        {
+          "title": "Gates Foundation and OpenAI test AI in African healthcare",
+          "link": "https://www.artificialintelligence-news.com/news/gates-foundation-and-openai-test-ai-in-african-healthcare/",
+          "date": "Thu, 22 Jan 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Balancing AI cost efficiency with data sovereignty",
+          "link": "https://www.artificialintelligence-news.com/news/balancing-ai-cost-efficiency-with-data-sovereignty/",
+          "date": "Wed, 21 Jan 2026 10:51:23 +0000"
+        },
+        {
+          "title": "The quiet work behind Citi\u2019s 4,000-person internal AI rollout",
+          "link": "https://www.artificialintelligence-news.com/news/the-quiet-work-behind-citi-4000-person-internal-ai-rollout/",
+          "date": "Wed, 21 Jan 2026 10:00:00 +0000"
+        },
+        {
+          "title": "SAP and Fresenius to build sovereign AI backbone for healthcare",
+          "link": "https://www.artificialintelligence-news.com/news/sap-and-fresenius-build-sovereign-ai-backbone-for-healthcare/",
+          "date": "Mon, 19 Jan 2026 17:19:33 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -263,14 +289,14 @@
           "date": "2026-01-22T21:21:07+00:00"
         },
         {
-          "title": "She is not Real",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qk2hxx/she_is_not_real/",
-          "date": "2026-01-22T18:29:29+00:00"
+          "title": "Just deleted ChatGPT memory",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qkd15h/just_deleted_chatgpt_memory/",
+          "date": "2026-01-23T01:23:13+00:00"
         },
         {
-          "title": "Website creation with an api backend to public data",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qk3fpb/website_creation_with_an_api_backend_to_public/",
-          "date": "2026-01-22T19:02:41+00:00"
+          "title": "One honest Freepik vs. Higgsfield Comparison",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qkcgxk/one_honest_freepik_vs_higgsfield_comparison/",
+          "date": "2026-01-23T00:58:22+00:00"
         }
       ],
       "error": null
@@ -368,6 +394,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "US officially out of WHO, leaving hundreds of millions of dollars unpaid",
+          "link": "https://arstechnica.com/health/2026/01/us-stiffs-who-hundreds-of-millions-as-it-officially-withdrawals/",
+          "date": "Thu, 22 Jan 2026 23:07:45 +0000"
+        },
+        {
+          "title": "Overrun with AI slop, cURL scraps bug bounties to ensure \"intact mental health\"",
+          "link": "https://arstechnica.com/security/2026/01/overrun-with-ai-slop-curl-scraps-bug-bounties-to-ensure-intact-mental-health/",
+          "date": "Thu, 22 Jan 2026 22:46:30 +0000"
+        },
+        {
           "title": "Hacker who stole 120,000 bitcoins wants a second chance\u2014and a security job",
           "link": "https://arstechnica.com/security/2026/01/hacker-who-stole-120000-bitcoins-wants-a-second-chance-and-a-security-job/",
           "date": "Thu, 22 Jan 2026 22:23:15 +0000"
@@ -381,16 +417,6 @@
           "title": "Asking Grok to delete fake nudes may force victims to sue in Musk's chosen court",
           "link": "https://arstechnica.com/tech-policy/2026/01/asking-grok-to-delete-fake-nudes-may-force-victims-to-sue-in-musks-chosen-court/",
           "date": "Thu, 22 Jan 2026 21:16:42 +0000"
-        },
-        {
-          "title": "Google begins offering free SAT practice tests powered by Gemini",
-          "link": "https://arstechnica.com/google/2026/01/google-begins-offering-free-sat-practice-tests-powered-by-gemini/",
-          "date": "Thu, 22 Jan 2026 20:46:10 +0000"
-        },
-        {
-          "title": "Check out the first trailer for Masters of the Universe",
-          "link": "https://arstechnica.com/culture/2026/01/check-out-the-first-trailer-for-masters-of-the-universe/",
-          "date": "Thu, 22 Jan 2026 19:18:34 +0000"
         }
       ],
       "error": null
@@ -400,14 +426,19 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
+          "title": "White House posts digitally altered image of woman arrested after ICE protest",
+          "link": "https://www.reddit.com/r/artificial/comments/1qk9x1y/white_house_posts_digitally_altered_image_of/",
+          "date": "2026-01-22T23:10:37+00:00"
+        },
+        {
           "title": "Job Applicants Sue A.I. Recruitment Tool Company. A recently filed lawsuit claims the ratings assigned by A.I. screening software are similar to those of a credit agency and should be subject to the same laws.",
           "link": "https://www.reddit.com/r/artificial/comments/1qjk1us/job_applicants_sue_ai_recruitment_tool_company_a/",
           "date": "2026-01-22T03:52:58+00:00"
         },
         {
-          "title": "White House posts digitally altered image of woman arrested after ICE protest",
-          "link": "https://www.reddit.com/r/artificial/comments/1qk9x1y/white_house_posts_digitally_altered_image_of/",
-          "date": "2026-01-22T23:10:37+00:00"
+          "title": "Incredibly detailed isometric map of NYC (made with Qwen-Image-Edit)",
+          "link": "https://www.reddit.com/r/artificial/comments/1qk9pqe/incredibly_detailed_isometric_map_of_nyc_made/",
+          "date": "2026-01-22T23:02:27+00:00"
         },
         {
           "title": "Bwocks: indie local-first ai-native spreadsheet for creatives",
@@ -418,11 +449,6 @@
           "title": "AI Resistance: The Album",
           "link": "https://www.reddit.com/r/artificial/comments/1qka3ll/ai_resistance_the_album/",
           "date": "2026-01-22T23:18:04+00:00"
-        },
-        {
-          "title": "Incredibly detailed isometric map of NYC (made with Qwen-Image-Edit)",
-          "link": "https://www.reddit.com/r/artificial/comments/1qk9pqe/incredibly_detailed_isometric_map_of_nyc_made/",
-          "date": "2026-01-22T23:02:27+00:00"
         }
       ],
       "error": null
@@ -560,13 +586,13 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
-          "title": "How Claude Code Is Reshaping Software\u2014and Anthropic",
-          "link": "https://www.wired.com/story/claude-code-success-anthropic-business-model/",
+          "title": "AI-Powered Disinformation Swarms Are Coming for Democracy",
+          "link": "https://www.wired.com/story/ai-powered-disinformation-swarms-are-coming-for-democracy/",
           "date": "Thu, 22 Jan 2026 19:00:00 +0000"
         },
         {
-          "title": "AI-Powered Disinformation Swarms Are Coming for Democracy",
-          "link": "https://www.wired.com/story/ai-powered-disinformation-swarms-are-coming-for-democracy/",
+          "title": "How Claude Code Is Reshaping Software\u2014and Anthropic",
+          "link": "https://www.wired.com/story/claude-code-success-anthropic-business-model/",
           "date": "Thu, 22 Jan 2026 19:00:00 +0000"
         },
         {
