@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-23T23:19:20.851934+00:00",
+  "generatedAt": "2026-01-24T01:24:53.092028+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -202,34 +202,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "Anthropic\u2019s usage stats paint a detailed picture of AI success",
-          "link": "https://www.artificialintelligence-news.com/news/anthropic-report-economic-index-summary-key-points-2026/",
-          "date": "Fri, 23 Jan 2026 14:21:20 +0000"
-        },
-        {
-          "title": "Defensive AI and how machine learning strengthens cyber defense",
-          "link": "https://www.artificialintelligence-news.com/news/defensive-ai-and-how-machine-learning-strengthens-cyber-defense/",
-          "date": "Fri, 23 Jan 2026 10:15:58 +0000"
-        },
-        {
-          "title": "Controlling AI agent sprawl: The CIO\u2019s guide to governance",
-          "link": "https://www.artificialintelligence-news.com/news/controlling-ai-agent-sprawl-cio-guide-to-governance/",
-          "date": "Thu, 22 Jan 2026 17:00:04 +0000"
-        },
-        {
-          "title": "Gates Foundation and OpenAI test AI in African healthcare",
-          "link": "https://www.artificialintelligence-news.com/news/gates-foundation-and-openai-test-ai-in-african-healthcare/",
-          "date": "Thu, 22 Jan 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Balancing AI cost efficiency with data sovereignty",
-          "link": "https://www.artificialintelligence-news.com/news/balancing-ai-cost-efficiency-with-data-sovereignty/",
-          "date": "Wed, 21 Jan 2026 10:51:23 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -294,9 +268,9 @@
           "date": "2026-01-23T18:35:01+00:00"
         },
         {
-          "title": "how lovely ChatGPT",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1ql5rvv/how_lovely_chatgpt/",
-          "date": "2026-01-23T22:56:39+00:00"
+          "title": "I built a open-source drag-and-drop tool to visually chain coding agents such as Claude Code and Codex into custom workflows",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1ql8ne4/i_built_a_opensource_draganddrop_tool_to_visually/",
+          "date": "2026-01-24T00:55:59+00:00"
         }
       ],
       "error": null
@@ -436,6 +410,11 @@
           "date": "2026-01-22T23:10:37+00:00"
         },
         {
+          "title": "Are there any tools that can upscale and improve audio on old VHS tapes?",
+          "link": "https://www.reddit.com/r/artificial/comments/1ql5qoc/are_there_any_tools_that_can_upscale_and_improve/",
+          "date": "2026-01-23T22:55:14+00:00"
+        },
+        {
           "title": "I don\u2019t think using AI for surveillance of kids in school is a good idea",
           "link": "https://www.reddit.com/r/artificial/comments/1qknhjn/i_dont_think_using_ai_for_surveillance_of_kids_in/",
           "date": "2026-01-23T10:37:02+00:00"
@@ -444,11 +423,6 @@
           "title": "Investment executive praises China for using AI to grow industry, pokes fun at the US for making \"AI girlfriends\"",
           "link": "https://www.reddit.com/r/artificial/comments/1qkr1nt/investment_executive_praises_china_for_using_ai/",
           "date": "2026-01-23T13:39:01+00:00"
-        },
-        {
-          "title": "YouTube Says Creators Can Use AI-generated Likenesses in Shorts",
-          "link": "https://www.reddit.com/r/artificial/comments/1qks4oh/youtube_says_creators_can_use_aigenerated/",
-          "date": "2026-01-23T14:23:31+00:00"
         }
       ],
       "error": null
@@ -606,8 +580,8 @@
           "date": "Thu, 22 Jan 2026 19:00:00 +0000"
         },
         {
-          "title": "A Wikipedia Group Made a Guide to Detect AI Writing. Now a Plug-In Uses It to \u2018Humanize\u2019 Chatbots",
-          "link": "https://www.wired.com/story/wikipedia-group-made-guide-to-detect-ai-writing-now-a-plug-in-uses-it-to-humanize-chatbots/",
+          "title": "Google Nabs Top Talent From AI Voice Startup Hume AI",
+          "link": "https://www.wired.com/story/google-hires-hume-ai-ceo-licensing-deal-gemini/",
           "date": "Thu, 22 Jan 2026 12:00:00 +0000"
         }
       ],
