@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-24T11:16:15.318786+00:00",
+  "generatedAt": "2026-01-24T12:36:34.143946+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -38,6 +38,11 @@
       "url": "https://magazine.sebastianraschka.com/feed",
       "items": [
         {
+          "title": "Categories of Inference-Time Scaling for Improved LLM Reasoning",
+          "link": "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+          "date": "Sat, 24 Jan 2026 11:23:18 GMT"
+        },
+        {
           "title": "The State Of LLMs 2025: Progress, Problems, and Predictions",
           "link": "https://magazine.sebastianraschka.com/p/state-of-llms-2025",
           "date": "Tue, 30 Dec 2025 12:22:26 GMT"
@@ -56,11 +61,6 @@
           "title": "Beyond Standard LLMs",
           "link": "https://magazine.sebastianraschka.com/p/beyond-standard-llms",
           "date": "Tue, 04 Nov 2025 13:06:07 GMT"
-        },
-        {
-          "title": "Understanding the 4 Main Approaches to LLM Evaluation (From Scratch)",
-          "link": "https://magazine.sebastianraschka.com/p/llm-evaluation-4-approaches",
-          "date": "Sun, 05 Oct 2025 11:12:32 GMT"
         }
       ],
       "error": null
@@ -400,9 +400,19 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
+          "title": "South Korea launches landmark laws to regulate artificial intelligence",
+          "link": "https://www.reddit.com/r/artificial/comments/1qlk7pz/south_korea_launches_landmark_laws_to_regulate/",
+          "date": "2026-01-24T11:02:19+00:00"
+        },
+        {
           "title": "AI Monk With 2.5M Followers Fully Automated in n8n",
           "link": "https://www.reddit.com/r/artificial/comments/1qlfyaf/ai_monk_with_25m_followers_fully_automated_in_n8n/",
           "date": "2026-01-24T06:49:27+00:00"
+        },
+        {
+          "title": "Be careful of custom tokens in your LLM !!!",
+          "link": "https://www.reddit.com/r/artificial/comments/1qljvrk/be_careful_of_custom_tokens_in_your_llm/",
+          "date": "2026-01-24T10:42:30+00:00"
         },
         {
           "title": "I built a social network where only AI can post, follow, argue, and form relationships - no humans allowed",
@@ -413,16 +423,6 @@
           "title": "How AI is Changing Content Strategy in 2026 ?",
           "link": "https://www.reddit.com/r/artificial/comments/1qljwxz/how_ai_is_changing_content_strategy_in_2026/",
           "date": "2026-01-24T10:44:34+00:00"
-        },
-        {
-          "title": "Be careful of custom tokens in your LLM !!!",
-          "link": "https://www.reddit.com/r/artificial/comments/1qljvrk/be_careful_of_custom_tokens_in_your_llm/",
-          "date": "2026-01-24T10:42:30+00:00"
-        },
-        {
-          "title": "White House posts digitally altered image of woman arrested after ICE protest",
-          "link": "https://www.reddit.com/r/artificial/comments/1qk9x1y/white_house_posts_digitally_altered_image_of/",
-          "date": "2026-01-22T23:10:37+00:00"
         }
       ],
       "error": null
@@ -528,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "ICE Is Scanning Civilians\u2019 Faces, Telling Them They\u2019re Being Entered Into a Terrorism Database",
+          "link": "https://futurism.com/artificial-intelligence/ice-database-facial-scan",
+          "date": "Sat, 24 Jan 2026 06:45:00 -0500"
+        },
+        {
           "title": "Man Explains Why He Shredded Up an AI-Generated Art Exhibit With His Bare Teeth",
           "link": "https://futurism.com/artificial-intelligence/man-ai-art-exhibit-chew",
           "date": "Fri, 23 Jan 2026 11:05:38 -0500"
@@ -546,11 +551,6 @@
           "title": "Grinning Wolf Tells Little Red Riding Hood That Her Safety Is His Top Priority",
           "link": "https://futurism.com/artificial-intelligence/ai-startup-red-riding-hood",
           "date": "Thu, 22 Jan 2026 10:19:47 -0500"
-        },
-        {
-          "title": "Newspaper Makes Brain-Melting Error in AI-Generated Graphic",
-          "link": "https://futurism.com/artificial-intelligence/newspaper-error-ai-generated-graphic",
-          "date": "Thu, 22 Jan 2026 09:17:17 -0500"
         }
       ],
       "error": null
