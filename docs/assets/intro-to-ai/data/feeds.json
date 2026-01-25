@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-25T05:26:33.426775+00:00",
+  "generatedAt": "2026-01-25T06:28:48.215611+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "New Relic Launches Observability Solution for Visibility into ChatGPT Apps",
-          "link": "https://ai-techpark.com/new-relic-launches-observability-solution-for-visibility-into-chatgpt-apps/",
-          "date": "Fri, 23 Jan 2026 12:00:00 +0000"
-        },
-        {
-          "title": "VirtuousAI: Mid-Market CEOs See AI Value but Stay in Pilot Mode",
-          "link": "https://ai-techpark.com/virtuousai-mid-market-ceos-see-ai-value-but-stay-in-pilot-mode/",
-          "date": "Fri, 23 Jan 2026 08:30:00 +0000"
-        },
-        {
-          "title": "WhaleFlux Signals Shift to Architecting Enterprise AI in 2026",
-          "link": "https://ai-techpark.com/whaleflux-signals-shift-to-architecting-enterprise-ai-in-2026/",
-          "date": "Fri, 23 Jan 2026 08:15:00 +0000"
-        },
-        {
-          "title": "eHub Appoints Thomas Leishman as Chief AI Officer",
-          "link": "https://ai-techpark.com/ehub-appoints-thomas-leishman-as-chief-ai-officer/",
-          "date": "Fri, 23 Jan 2026 08:00:00 +0000"
-        },
-        {
-          "title": "Misuse of AI chatbots tops annual list of health technology hazards",
-          "link": "https://ai-techpark.com/misuse-of-ai-chatbots-tops-annual-list-of-health-technology-hazards/",
-          "date": "Fri, 23 Jan 2026 07:45:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -202,8 +176,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Anthropic\u2019s usage stats paint a detailed picture of AI success",
+          "link": "https://www.artificialintelligence-news.com/news/anthropic-report-economic-index-summary-key-points-2026/",
+          "date": "Fri, 23 Jan 2026 14:21:20 +0000"
+        },
+        {
+          "title": "Defensive AI and how machine learning strengthens cyber defense",
+          "link": "https://www.artificialintelligence-news.com/news/defensive-ai-and-how-machine-learning-strengthens-cyber-defense/",
+          "date": "Fri, 23 Jan 2026 10:15:58 +0000"
+        },
+        {
+          "title": "Controlling AI agent sprawl: The CIO\u2019s guide to governance",
+          "link": "https://www.artificialintelligence-news.com/news/controlling-ai-agent-sprawl-cio-guide-to-governance/",
+          "date": "Thu, 22 Jan 2026 17:00:04 +0000"
+        },
+        {
+          "title": "Gates Foundation and OpenAI test AI in African healthcare",
+          "link": "https://www.artificialintelligence-news.com/news/gates-foundation-and-openai-test-ai-in-african-healthcare/",
+          "date": "Thu, 22 Jan 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Balancing AI cost efficiency with data sovereignty",
+          "link": "https://www.artificialintelligence-news.com/news/balancing-ai-cost-efficiency-with-data-sovereignty/",
+          "date": "Wed, 21 Jan 2026 10:51:23 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -263,14 +263,14 @@
           "date": "2026-01-24T18:45:58+00:00"
         },
         {
-          "title": "Easiest way to monetize your vibecoded projects.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qm9kyq/easiest_way_to_monetize_your_vibecoded_projects/",
-          "date": "2026-01-25T04:48:13+00:00"
-        },
-        {
           "title": "Official Teaser: AI Powered Learning Platform is coming soon!",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qlz4x3/official_teaser_ai_powered_learning_platform_is/",
           "date": "2026-01-24T21:14:51+00:00"
+        },
+        {
+          "title": "I am an adult, Microsoft. Please stop treating me like I\u2019m in a high school computer lab.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qm3dj4/i_am_an_adult_microsoft_please_stop_treating_me/",
+          "date": "2026-01-25T00:04:44+00:00"
         }
       ],
       "error": null
@@ -438,6 +438,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "AI-generated British schoolgirl becomes far-right social media meme",
+          "link": "https://www.theguardian.com/politics/2026/jan/25/ai-generated-british-schoolgirl-becomes-far-right-social-media-meme",
+          "date": "Sun, 25 Jan 2026 06:00:02 GMT"
+        },
+        {
           "title": "Australian journalism \u2018sidelined\u2019 in AI-generated news summaries on Copilot, research shows",
           "link": "https://www.theguardian.com/media/2026/jan/25/ai-generated-news-summaries-microsoft-copilot-australian-journalism",
           "date": "Sat, 24 Jan 2026 19:00:47 GMT"
@@ -456,11 +461,6 @@
           "title": "Latest ChatGPT model uses Elon Musk\u2019s Grokipedia as source, tests reveal",
           "link": "https://www.theguardian.com/technology/2026/jan/24/latest-chatgpt-model-uses-elon-musks-grokipedia-as-source-tests-reveal",
           "date": "Sat, 24 Jan 2026 14:00:41 GMT"
-        },
-        {
-          "title": "Young will suffer most when AI \u2018tsunami\u2019 hits jobs, says head of IMF",
-          "link": "https://www.theguardian.com/technology/2026/jan/23/ai-tsunami-labour-market-youth-employment-says-head-of-imf-davos",
-          "date": "Fri, 23 Jan 2026 13:35:53 GMT"
         }
       ],
       "error": null
