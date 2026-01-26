@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-26T03:55:01.880006+00:00",
+  "generatedAt": "2026-01-26T04:54:11.868032+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -202,34 +202,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "Anthropic\u2019s usage stats paint a detailed picture of AI success",
-          "link": "https://www.artificialintelligence-news.com/news/anthropic-report-economic-index-summary-key-points-2026/",
-          "date": "Fri, 23 Jan 2026 14:21:20 +0000"
-        },
-        {
-          "title": "Defensive AI and how machine learning strengthens cyber defense",
-          "link": "https://www.artificialintelligence-news.com/news/defensive-ai-and-how-machine-learning-strengthens-cyber-defense/",
-          "date": "Fri, 23 Jan 2026 10:15:58 +0000"
-        },
-        {
-          "title": "Controlling AI agent sprawl: The CIO\u2019s guide to governance",
-          "link": "https://www.artificialintelligence-news.com/news/controlling-ai-agent-sprawl-cio-guide-to-governance/",
-          "date": "Thu, 22 Jan 2026 17:00:04 +0000"
-        },
-        {
-          "title": "Gates Foundation and OpenAI test AI in African healthcare",
-          "link": "https://www.artificialintelligence-news.com/news/gates-foundation-and-openai-test-ai-in-african-healthcare/",
-          "date": "Thu, 22 Jan 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Balancing AI cost efficiency with data sovereignty",
-          "link": "https://www.artificialintelligence-news.com/news/balancing-ai-cost-efficiency-with-data-sovereignty/",
-          "date": "Wed, 21 Jan 2026 10:51:23 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -289,14 +263,14 @@
           "date": "2026-01-25T22:23:13+00:00"
         },
         {
+          "title": "\ud83d\udd25 7 ChatGPT Prompts To Master Deep Work (Copy + Paste)",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qn478g/7_chatgpt_prompts_to_master_deep_work_copy_paste/",
+          "date": "2026-01-26T03:03:24+00:00"
+        },
+        {
           "title": "Most online courses straight up suck. Convince us if we are wrong!",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qn4l75/most_online_courses_straight_up_suck_convince_us/",
           "date": "2026-01-26T03:20:39+00:00"
-        },
-        {
-          "title": "Is this UX really \u201cAgentic\u201d???",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qmzb5b/is_this_ux_really_agentic/",
-          "date": "2026-01-25T23:32:37+00:00"
         }
       ],
       "error": null
@@ -415,14 +389,14 @@
           "date": "2026-01-25T22:38:49+00:00"
         },
         {
+          "title": "Developers are building programming languages in 24 hours with AI",
+          "link": "https://www.reddit.com/r/artificial/comments/1qn66k3/developers_are_building_programming_languages_in/",
+          "date": "2026-01-26T04:34:17+00:00"
+        },
+        {
           "title": "New UCLA AI tool targets Alzheimer's cases often missed in early diagnosis",
           "link": "https://www.reddit.com/r/artificial/comments/1qmdhbb/new_ucla_ai_tool_targets_alzheimers_cases_often/",
           "date": "2026-01-25T08:17:38+00:00"
-        },
-        {
-          "title": "NVIDIA\u2019s real moat isn\u2019t hardware, it\u2019s 4 million developers",
-          "link": "https://www.reddit.com/r/artificial/comments/1qm3ts4/nvidias_real_moat_isnt_hardware_its_4_million/",
-          "date": "2026-01-25T00:24:09+00:00"
         }
       ],
       "error": null
