@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-26T22:19:55.188105+00:00",
+  "generatedAt": "2026-01-26T23:20:10.573362+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -202,8 +202,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Retailers examine options for on-AI retail",
+          "link": "https://www.artificialintelligence-news.com/news/retailers-examine-options-for-on-ai-retail/",
+          "date": "Mon, 26 Jan 2026 16:40:00 +0000"
+        },
+        {
+          "title": "Expereo: Enterprise connectivity amid AI surge with \u2018visibility at the speed of life\u2019",
+          "link": "https://www.artificialintelligence-news.com/news/expereo-enterprise-connectivity-amid-ai-surge-with-visibility-at-the-speed-of-life/",
+          "date": "Mon, 26 Jan 2026 15:23:57 +0000"
+        },
+        {
+          "title": "How Formula E uses Google Cloud AI to meet net zero targets",
+          "link": "https://www.artificialintelligence-news.com/news/how-formula-e-uses-google-cloud-ai-to-meet-net-zero-targets/",
+          "date": "Mon, 26 Jan 2026 14:38:53 +0000"
+        },
+        {
+          "title": "Modernising apps triples the odds of AI returns, Cloudflare says",
+          "link": "https://www.artificialintelligence-news.com/news/modernising-apps-triples-the-odds-of-ai-returns-cloudflare-says/",
+          "date": "Mon, 26 Jan 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Anthropic\u2019s usage stats paint a detailed picture of AI success",
+          "link": "https://www.artificialintelligence-news.com/news/anthropic-report-economic-index-summary-key-points-2026/",
+          "date": "Fri, 23 Jan 2026 14:21:20 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -268,9 +294,9 @@
           "date": "2026-01-26T17:30:22+00:00"
         },
         {
-          "title": "Getting ChatGPT to be a cultural anthropologist.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qnnu98/getting_chatgpt_to_be_a_cultural_anthropologist/",
-          "date": "2026-01-26T18:11:27+00:00"
+          "title": "Competitive research Prompt",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qnvj5q/competitive_research_prompt/",
+          "date": "2026-01-26T22:39:24+00:00"
         }
       ],
       "error": null
@@ -342,6 +368,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Doctors face-palm as RFK Jr.\u2019s top vaccine advisor questions need for polio shot",
+          "link": "https://arstechnica.com/science/2026/01/do-we-really-need-polio-shots-deep-thoughts-by-rfk-jr-advisor-get-dragged/",
+          "date": "Mon, 26 Jan 2026 21:31:13 +0000"
+        },
+        {
+          "title": "Why has Microsoft been routing example.com traffic to a company in Japan?",
+          "link": "https://arstechnica.com/information-technology/2026/01/odd-anomaly-caused-microsofts-network-to-mishandle-example-com-traffic/",
+          "date": "Mon, 26 Jan 2026 21:02:26 +0000"
+        },
+        {
           "title": "Apple's AirTag 2 is easier to find thanks to new chip",
           "link": "https://arstechnica.com/gadgets/2026/01/apple-introduces-new-airtag-with-better-range-and-a-louder-speaker/",
           "date": "Mon, 26 Jan 2026 20:18:02 +0000"
@@ -355,16 +391,6 @@
           "title": "How to encrypt your PC's disk without giving the keys to Microsoft",
           "link": "https://arstechnica.com/gadgets/2026/01/how-to-encrypt-your-pcs-disk-without-giving-the-keys-to-microsoft/",
           "date": "Mon, 26 Jan 2026 18:29:08 +0000"
-        },
-        {
-          "title": "The brothers meet Yoshi in Super Mario Galaxy Movie trailer",
-          "link": "https://arstechnica.com/culture/2026/01/yoshi-joins-the-fun-in-latest-super-mario-galaxy-movie-trailer/",
-          "date": "Mon, 26 Jan 2026 18:05:50 +0000"
-        },
-        {
-          "title": "Data center power outage took out TikTok first weekend under US ownership",
-          "link": "https://arstechnica.com/tech-policy/2026/01/tiktok-glitches-caused-by-data-center-power-outage-us-joint-venture-says/",
-          "date": "Mon, 26 Jan 2026 16:23:48 +0000"
         }
       ],
       "error": null
@@ -394,9 +420,9 @@
           "date": "2026-01-25T15:27:04+00:00"
         },
         {
-          "title": "Google ties AI Search to Gmail and Photos, raising new privacy questions",
-          "link": "https://www.reddit.com/r/artificial/comments/1qnjy4k/google_ties_ai_search_to_gmail_and_photos_raising/",
-          "date": "2026-01-26T15:58:34+00:00"
+          "title": "Nvidia is bringing the transformer architecture behind large language models (LLMs) to meteorology with two new open-source models.",
+          "link": "https://www.reddit.com/r/artificial/comments/1qnlh0z/nvidia_is_bringing_the_transformer_architecture/",
+          "date": "2026-01-26T16:51:22+00:00"
         }
       ],
       "error": null
