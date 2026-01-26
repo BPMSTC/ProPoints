@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-26T04:54:11.868032+00:00",
+  "generatedAt": "2026-01-26T05:31:15.082760+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -202,8 +202,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Anthropic\u2019s usage stats paint a detailed picture of AI success",
+          "link": "https://www.artificialintelligence-news.com/news/anthropic-report-economic-index-summary-key-points-2026/",
+          "date": "Fri, 23 Jan 2026 14:21:20 +0000"
+        },
+        {
+          "title": "Defensive AI and how machine learning strengthens cyber defense",
+          "link": "https://www.artificialintelligence-news.com/news/defensive-ai-and-how-machine-learning-strengthens-cyber-defense/",
+          "date": "Fri, 23 Jan 2026 10:15:58 +0000"
+        },
+        {
+          "title": "Controlling AI agent sprawl: The CIO\u2019s guide to governance",
+          "link": "https://www.artificialintelligence-news.com/news/controlling-ai-agent-sprawl-cio-guide-to-governance/",
+          "date": "Thu, 22 Jan 2026 17:00:04 +0000"
+        },
+        {
+          "title": "Gates Foundation and OpenAI test AI in African healthcare",
+          "link": "https://www.artificialintelligence-news.com/news/gates-foundation-and-openai-test-ai-in-african-healthcare/",
+          "date": "Thu, 22 Jan 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Balancing AI cost efficiency with data sovereignty",
+          "link": "https://www.artificialintelligence-news.com/news/balancing-ai-cost-efficiency-with-data-sovereignty/",
+          "date": "Wed, 21 Jan 2026 10:51:23 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -258,14 +284,14 @@
           "date": "2025-09-09T02:25:04+00:00"
         },
         {
-          "title": "Elon Musk just spent several billion brute-forcing Grok 3 into existence. Meanwhile, everyone else is moving toward smarter, more efficient models.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qmxiir/elon_musk_just_spent_several_billion_bruteforcing/",
-          "date": "2026-01-25T22:23:13+00:00"
-        },
-        {
           "title": "\ud83d\udd25 7 ChatGPT Prompts To Master Deep Work (Copy + Paste)",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qn478g/7_chatgpt_prompts_to_master_deep_work_copy_paste/",
           "date": "2026-01-26T03:03:24+00:00"
+        },
+        {
+          "title": "Elon Musk just spent several billion brute-forcing Grok 3 into existence. Meanwhile, everyone else is moving toward smarter, more efficient models.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qmxiir/elon_musk_just_spent_several_billion_bruteforcing/",
+          "date": "2026-01-25T22:23:13+00:00"
         },
         {
           "title": "Most online courses straight up suck. Convince us if we are wrong!",
@@ -379,14 +405,14 @@
           "date": "2026-01-25T15:27:04+00:00"
         },
         {
-          "title": "ChatGPT Is Using Elon Musk\u2019s Grokipedia as a Source",
-          "link": "https://www.reddit.com/r/artificial/comments/1qn3qk2/chatgpt_is_using_elon_musks_grokipedia_as_a_source/",
-          "date": "2026-01-26T02:42:56+00:00"
-        },
-        {
           "title": "Replaced By",
           "link": "https://www.reddit.com/r/artificial/comments/1qmxxen/replaced_by/",
           "date": "2026-01-25T22:38:49+00:00"
+        },
+        {
+          "title": "New UCLA AI tool targets Alzheimer's cases often missed in early diagnosis",
+          "link": "https://www.reddit.com/r/artificial/comments/1qmdhbb/new_ucla_ai_tool_targets_alzheimers_cases_often/",
+          "date": "2026-01-25T08:17:38+00:00"
         },
         {
           "title": "Developers are building programming languages in 24 hours with AI",
@@ -394,9 +420,9 @@
           "date": "2026-01-26T04:34:17+00:00"
         },
         {
-          "title": "New UCLA AI tool targets Alzheimer's cases often missed in early diagnosis",
-          "link": "https://www.reddit.com/r/artificial/comments/1qmdhbb/new_ucla_ai_tool_targets_alzheimers_cases_often/",
-          "date": "2026-01-25T08:17:38+00:00"
+          "title": "NVIDIA\u2019s real moat isn\u2019t hardware, it\u2019s 4 million developers",
+          "link": "https://www.reddit.com/r/artificial/comments/1qm3ts4/nvidias_real_moat_isnt_hardware_its_4_million/",
+          "date": "2026-01-25T00:24:09+00:00"
         }
       ],
       "error": null
@@ -443,6 +469,11 @@
           "date": "Sun, 25 Jan 2026 11:24:56 GMT"
         },
         {
+          "title": "Life after Molly: Ian Russell on big tech, his daughter\u2019s death \u2013 and why a social media ban won\u2019t work",
+          "link": "https://www.theguardian.com/society/2026/jan/26/molly-ian-russell-big-tech-daughter-death-social-media-ban",
+          "date": "Mon, 26 Jan 2026 05:00:29 GMT"
+        },
+        {
           "title": "More than a quarter of Britons say they fear losing jobs to AI in next five years",
           "link": "https://www.theguardian.com/business/2026/jan/25/more-than-quarter-britons-fear-losing-jobs-ai-next-five-years",
           "date": "Sun, 25 Jan 2026 15:00:11 GMT"
@@ -456,11 +487,6 @@
           "title": "Sam Altman\u2019s make-or-break year: can the OpenAI CEO cash in his bet on the future?",
           "link": "https://www.theguardian.com/technology/ng-interactive/2026/jan/25/sam-altman-openai",
           "date": "Sun, 25 Jan 2026 13:00:08 GMT"
-        },
-        {
-          "title": "Meet \u2018Amelia\u2019: the AI-generated British schoolgirl who is a far-right social media star",
-          "link": "https://www.theguardian.com/politics/2026/jan/25/ai-generated-british-schoolgirl-becomes-far-right-social-media-meme",
-          "date": "Sun, 25 Jan 2026 09:00:03 GMT"
         }
       ],
       "error": null
