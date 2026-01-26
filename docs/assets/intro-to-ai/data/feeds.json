@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-01-26T21:21:46.424961+00:00",
+  "generatedAt": "2026-01-26T22:19:55.188105+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Dozens of CDC Health Databases Have Gone Dark Under Trump: \u2018The Consequences Will Be Dire\u2019",
+          "link": "https://www.404media.co/dozens-of-cdc-health-databases-have-gone-dark-under-trump-the-consequences-will-be-dire/",
+          "date": "Mon, 26 Jan 2026 22:13:10 GMT"
+        },
         {
           "title": "Two Heads, Three Boobs: The AI Babe Meta Is Getting Surreal",
           "link": "https://www.404media.co/two-heads-three-boobs-the-ai-babe-meta-is-getting-surreal/",
@@ -24,11 +29,6 @@
           "title": "How Right Wing Influencers Used AI Slop to Turn Renee Good Into a Meme",
           "link": "https://www.404media.co/ai-renee-good-kirkification-george-floyd-memes/",
           "date": "Mon, 26 Jan 2026 14:55:28 GMT"
-        },
-        {
-          "title": "Scientists Discovered a Cow That Uses Tools Like a Chimpanzee",
-          "link": "https://www.404media.co/scientists-discovered-a-cow-that-uses-tools-like-a-chimpanzee/",
-          "date": "Sat, 24 Jan 2026 14:00:33 GMT"
         }
       ],
       "error": null
@@ -202,34 +202,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "Retailers examine options for on-AI retail",
-          "link": "https://www.artificialintelligence-news.com/news/retailers-examine-options-for-on-ai-retail/",
-          "date": "Mon, 26 Jan 2026 16:40:00 +0000"
-        },
-        {
-          "title": "Expereo: Enterprise connectivity amid AI surge with \u2018visibility at the speed of life\u2019",
-          "link": "https://www.artificialintelligence-news.com/news/expereo-enterprise-connectivity-amid-ai-surge-with-visibility-at-the-speed-of-life/",
-          "date": "Mon, 26 Jan 2026 15:23:57 +0000"
-        },
-        {
-          "title": "How Formula E uses Google Cloud AI to meet net zero targets",
-          "link": "https://www.artificialintelligence-news.com/news/how-formula-e-uses-google-cloud-ai-to-meet-net-zero-targets/",
-          "date": "Mon, 26 Jan 2026 14:38:53 +0000"
-        },
-        {
-          "title": "Modernising apps triples the odds of AI returns, Cloudflare says",
-          "link": "https://www.artificialintelligence-news.com/news/modernising-apps-triples-the-odds-of-ai-returns-cloudflare-says/",
-          "date": "Mon, 26 Jan 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Anthropic\u2019s usage stats paint a detailed picture of AI success",
-          "link": "https://www.artificialintelligence-news.com/news/anthropic-report-economic-index-summary-key-points-2026/",
-          "date": "Fri, 23 Jan 2026 14:21:20 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -410,6 +384,11 @@
           "date": "2026-01-26T17:08:39+00:00"
         },
         {
+          "title": "They thought they were making technological breakthroughs. It was an AI-sparked delusion | CNN Business",
+          "link": "https://www.reddit.com/r/artificial/comments/1qntez3/they_thought_they_were_making_technological/",
+          "date": "2026-01-26T21:22:43+00:00"
+        },
+        {
           "title": "BBC reports that Chinese open models continue to steadily muscle out closed offering from US companies",
           "link": "https://www.reddit.com/r/artificial/comments/1qmm0vd/bbc_reports_that_chinese_open_models_continue_to/",
           "date": "2026-01-25T15:27:04+00:00"
@@ -418,11 +397,6 @@
           "title": "Google ties AI Search to Gmail and Photos, raising new privacy questions",
           "link": "https://www.reddit.com/r/artificial/comments/1qnjy4k/google_ties_ai_search_to_gmail_and_photos_raising/",
           "date": "2026-01-26T15:58:34+00:00"
-        },
-        {
-          "title": "Nvidia is bringing the transformer architecture behind large language models (LLMs) to meteorology with two new open-source models.",
-          "link": "https://www.reddit.com/r/artificial/comments/1qnlh0z/nvidia_is_bringing_the_transformer_architecture/",
-          "date": "2026-01-26T16:51:22+00:00"
         }
       ],
       "error": null
