@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-01-26T15:26:48.759827+00:00",
+  "generatedAt": "2026-01-26T16:31:00.192141+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Podcast: Unmasking Deepfakes Kingpins (with Kolina Koltai)",
+          "link": "https://www.404media.co/podcast-unmasking-deepfakes-kingpins-with-kolina-koltai/",
+          "date": "Mon, 26 Jan 2026 16:30:07 GMT"
+        },
+        {
+          "title": "I Replaced My Friends With AI Because They Won't Play Tarkov With Me",
+          "link": "https://www.404media.co/i-replaced-my-friends-with-ai-because-they-wont-play-tarkov-with-me/",
+          "date": "Mon, 26 Jan 2026 16:22:16 GMT"
+        },
         {
           "title": "How Right Wing Influencers Used AI Slop to Turn Renee Good Into a Meme",
           "link": "https://www.404media.co/ai-renee-good-kirkification-george-floyd-memes/",
@@ -19,16 +29,6 @@
           "title": "Behind the Blog: Signs of the Times",
           "link": "https://www.404media.co/behind-the-blog-signs-of-the-times/",
           "date": "Fri, 23 Jan 2026 17:53:28 GMT"
-        },
-        {
-          "title": "Scientists Got Men to Rate Penises by How Intimidating They Are. This Is What They Found.",
-          "link": "https://www.404media.co/scientists-got-men-to-rate-penises-by-how-intimidating-they-are-this-is-what-they-found/",
-          "date": "Thu, 22 Jan 2026 19:00:38 GMT"
-        },
-        {
-          "title": "Aliens and Angel Numbers: Creators Worry Porn Platform ManyVids Is Falling Into \u2018AI Psychosis\u2019",
-          "link": "https://www.404media.co/manyvids-porn-platform-ai-psychosis-bella-french-bio/",
-          "date": "Thu, 22 Jan 2026 16:20:38 GMT"
         }
       ],
       "error": null
@@ -166,6 +166,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Meta Pauses Teen Access to its AI Chatbot Characters",
+          "link": "https://aibusiness.com/chatbot/meta-pauses-teen-access-to-its-ai-chatbot-characters",
+          "date": "Mon, 26 Jan 2026 15:49:52 GMT"
+        },
+        {
           "title": "Microsoft Launches Vision-Language-Action Model for Robots",
           "link": "https://aibusiness.com/robotics/microsoft-launches-vision-language-action-model-for-robots",
           "date": "Mon, 26 Jan 2026 15:10:41 GMT"
@@ -184,11 +189,6 @@
           "title": "Enterprises Should Prioritize Governance Amid Agentic AI Boom",
           "link": "https://aibusiness.com/agentic-ai/enterprises-should-prioritize-governance-amid-agentic-ai-boom",
           "date": "Fri, 23 Jan 2026 00:45:26 GMT"
-        },
-        {
-          "title": "AI Startups Merge to Launch First Full-Stack AI Cloud",
-          "link": "https://aibusiness.com/data-centers/ai-startups-merge-full-stack-ai-cloud",
-          "date": "Thu, 22 Jan 2026 20:44:12 GMT"
         }
       ],
       "error": null
@@ -400,9 +400,19 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
+          "title": "Meta blocks teens from AI chatbot characters over safety concerns",
+          "link": "https://www.reddit.com/r/artificial/comments/1qnjd7l/meta_blocks_teens_from_ai_chatbot_characters_over/",
+          "date": "2026-01-26T15:38:00+00:00"
+        },
+        {
           "title": "BBC reports that Chinese open models continue to steadily muscle out closed offering from US companies",
           "link": "https://www.reddit.com/r/artificial/comments/1qmm0vd/bbc_reports_that_chinese_open_models_continue_to/",
           "date": "2026-01-25T15:27:04+00:00"
+        },
+        {
+          "title": "Google ties AI Search to Gmail and Photos, raising new privacy questions",
+          "link": "https://www.reddit.com/r/artificial/comments/1qnjy4k/google_ties_ai_search_to_gmail_and_photos_raising/",
+          "date": "2026-01-26T15:58:34+00:00"
         },
         {
           "title": "OpenAI wants to be a scientific research partner",
@@ -410,19 +420,9 @@
           "date": "2026-01-26T12:11:57+00:00"
         },
         {
-          "title": "How digital forensics could prove what\u2019s real in the age of deepfakes",
-          "link": "https://www.reddit.com/r/artificial/comments/1qnir7m/how_digital_forensics_could_prove_whats_real_in/",
-          "date": "2026-01-26T15:15:58+00:00"
-        },
-        {
-          "title": "AMA on new EU rules on algorithm use in the workplace Tuesday 27.01 at 2 pm CET",
-          "link": "https://www.reddit.com/r/artificial/comments/1qni6u7/ama_on_new_eu_rules_on_algorithm_use_in_the/",
-          "date": "2026-01-26T14:55:18+00:00"
-        },
-        {
-          "title": "One-Minute Daily AI News 1/25/2026",
-          "link": "https://www.reddit.com/r/artificial/comments/1qn7sy2/oneminute_daily_ai_news_1252026/",
-          "date": "2026-01-26T05:56:15+00:00"
+          "title": "How do you get away with tasks which you feel are boring, and 'beneath you'",
+          "link": "https://www.reddit.com/r/artificial/comments/1qnk7zd/how_do_you_get_away_with_tasks_which_you_feel_are/",
+          "date": "2026-01-26T16:08:10+00:00"
         }
       ],
       "error": null
@@ -464,9 +464,9 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Georgia leads push to ban datatcenters used to power America\u2019s AI boom",
+          "title": "Georgia leads push to ban datacenters used to power America\u2019s AI boom",
           "link": "https://www.theguardian.com/technology/2026/jan/26/georgia-datacenters-ai-ban",
-          "date": "Mon, 26 Jan 2026 13:00:37 GMT"
+          "date": "Mon, 26 Jan 2026 16:07:27 GMT"
         },
         {
           "title": "EU launches inquiry into X over sexually explicit images made by Grok AI",
@@ -528,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "AI Is Causing Cultural Stagnation, Researchers Find",
+          "link": "https://futurism.com/artificial-intelligence/ai-cultural-stagnation",
+          "date": "Mon, 26 Jan 2026 11:07:47 -0500"
+        },
+        {
           "title": "AI Agents Are Mathematically Incapable of Doing Functional Work, Paper Finds",
           "link": "https://futurism.com/artificial-intelligence/ai-agents-incapable-math",
           "date": "Mon, 26 Jan 2026 08:59:31 -0500"
@@ -546,11 +551,6 @@
           "title": "Asset Manager Warns That OpenAI Is Likely Headed for Financial Disaster",
           "link": "https://futurism.com/artificial-intelligence/asset-manager-openai-financial-disaster",
           "date": "Sun, 25 Jan 2026 06:00:00 -0500"
-        },
-        {
-          "title": "Scientist Horrified as ChatGPT Deletes All His Research",
-          "link": "https://futurism.com/artificial-intelligence/scientist-horrified-chatgpt-deletes-research",
-          "date": "Sat, 24 Jan 2026 12:45:00 -0500"
         }
       ],
       "error": null
