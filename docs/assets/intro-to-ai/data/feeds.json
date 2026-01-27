@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-27T11:21:07.612789+00:00",
+  "generatedAt": "2026-01-27T12:43:22.637354+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "IFS Delivers Exceptional FY2025 Growth as Industrial AI Scales",
-          "link": "https://ai-techpark.com/ifs-delivers-exceptional-fy2025-growth-as-industrial-ai-scales/",
-          "date": "Tue, 27 Jan 2026 09:30:00 +0000"
-        },
-        {
-          "title": "Cisco Launches New Cisco 360 Partner Program",
-          "link": "https://ai-techpark.com/cisco-launches-new-cisco-360-partner-program/",
-          "date": "Tue, 27 Jan 2026 07:45:00 +0000"
-        },
-        {
-          "title": "Wonderful Announced the Launch of Agent Builder",
-          "link": "https://ai-techpark.com/wonderful-announced-the-launch-of-agent-builder/",
-          "date": "Tue, 27 Jan 2026 07:30:00 +0000"
-        },
-        {
-          "title": "Africa & Middle East Reinforce $1.5T AI Ambitions at Egypt Summit",
-          "link": "https://ai-techpark.com/africa-middle-east-reinforce-1-5t-ai-ambitions-at-egypt-summit/",
-          "date": "Tue, 27 Jan 2026 06:45:00 +0000"
-        },
-        {
-          "title": "New Relic Launches Observability Solution for Visibility into ChatGPT Apps",
-          "link": "https://ai-techpark.com/new-relic-launches-observability-solution-for-visibility-into-chatgpt-apps/",
-          "date": "Fri, 23 Jan 2026 12:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -204,6 +178,11 @@
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [
         {
+          "title": "Lowering the barriers databases place in the way of strategy, with RavenDB",
+          "link": "https://www.artificialintelligence-news.com/news/lowering-the-barriers-databases-place-in-the-way-of-strategy-with-ravendb/",
+          "date": "Tue, 27 Jan 2026 11:46:00 +0000"
+        },
+        {
           "title": "Cold snap highlight\u2019s airlines\u2019 proactive use of AI",
           "link": "https://www.artificialintelligence-news.com/news/cold-snap-highlights-airlines-proactive-use-of-ai-airline-industrys-use-of-ai/",
           "date": "Tue, 27 Jan 2026 10:55:00 +0000"
@@ -222,11 +201,6 @@
           "title": "How Formula E uses Google Cloud AI to meet net zero targets",
           "link": "https://www.artificialintelligence-news.com/news/how-formula-e-uses-google-cloud-ai-to-meet-net-zero-targets/",
           "date": "Mon, 26 Jan 2026 14:38:53 +0000"
-        },
-        {
-          "title": "Modernising apps triples the odds of AI returns, Cloudflare says",
-          "link": "https://www.artificialintelligence-news.com/news/modernising-apps-triples-the-odds-of-ai-returns-cloudflare-says/",
-          "date": "Mon, 26 Jan 2026 10:00:00 +0000"
         }
       ],
       "error": null
@@ -289,14 +263,14 @@
           "date": "2026-01-27T09:54:19+00:00"
         },
         {
-          "title": "These AI prompts based on Dale Carnegie will make you magnetic in any conversation",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qoauqc/these_ai_prompts_based_on_dale_carnegie_will_make/",
-          "date": "2026-01-27T11:03:10+00:00"
-        },
-        {
           "title": "so Google Deepmind figured out ai can simulate 1,000 customers in 5 minutes... turns out ai generated opinions matched real humans almost perfectly and now $10k focus groups are free",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qoarui/so_google_deepmind_figured_out_ai_can_simulate/",
           "date": "2026-01-27T10:59:01+00:00"
+        },
+        {
+          "title": "A free Chrome extension to see ChatGPT\u2019s hidden queries",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qoc7i9/a_free_chrome_extension_to_see_chatgpts_hidden/",
+          "date": "2026-01-27T12:14:26+00:00"
         }
       ],
       "error": null
