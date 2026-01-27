@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-27T01:42:30.375429+00:00",
+  "generatedAt": "2026-01-27T03:45:44.747991+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "New Relic Launches Observability Solution for Visibility into ChatGPT Apps",
-          "link": "https://ai-techpark.com/new-relic-launches-observability-solution-for-visibility-into-chatgpt-apps/",
-          "date": "Fri, 23 Jan 2026 12:00:00 +0000"
-        },
-        {
-          "title": "VirtuousAI: Mid-Market CEOs See AI Value but Stay in Pilot Mode",
-          "link": "https://ai-techpark.com/virtuousai-mid-market-ceos-see-ai-value-but-stay-in-pilot-mode/",
-          "date": "Fri, 23 Jan 2026 08:30:00 +0000"
-        },
-        {
-          "title": "WhaleFlux Signals Shift to Architecting Enterprise AI in 2026",
-          "link": "https://ai-techpark.com/whaleflux-signals-shift-to-architecting-enterprise-ai-in-2026/",
-          "date": "Fri, 23 Jan 2026 08:15:00 +0000"
-        },
-        {
-          "title": "eHub Appoints Thomas Leishman as Chief AI Officer",
-          "link": "https://ai-techpark.com/ehub-appoints-thomas-leishman-as-chief-ai-officer/",
-          "date": "Fri, 23 Jan 2026 08:00:00 +0000"
-        },
-        {
-          "title": "Misuse of AI chatbots tops annual list of health technology hazards",
-          "link": "https://ai-techpark.com/misuse-of-ai-chatbots-tops-annual-list-of-health-technology-hazards/",
-          "date": "Fri, 23 Jan 2026 07:45:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -202,8 +176,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Retailers examine options for on-AI retail",
+          "link": "https://www.artificialintelligence-news.com/news/retailers-examine-options-for-on-ai-retail/",
+          "date": "Mon, 26 Jan 2026 16:40:00 +0000"
+        },
+        {
+          "title": "Expereo: Enterprise connectivity amid AI surge with \u2018visibility at the speed of life\u2019",
+          "link": "https://www.artificialintelligence-news.com/news/expereo-enterprise-connectivity-amid-ai-surge-with-visibility-at-the-speed-of-life/",
+          "date": "Mon, 26 Jan 2026 15:23:57 +0000"
+        },
+        {
+          "title": "How Formula E uses Google Cloud AI to meet net zero targets",
+          "link": "https://www.artificialintelligence-news.com/news/how-formula-e-uses-google-cloud-ai-to-meet-net-zero-targets/",
+          "date": "Mon, 26 Jan 2026 14:38:53 +0000"
+        },
+        {
+          "title": "Modernising apps triples the odds of AI returns, Cloudflare says",
+          "link": "https://www.artificialintelligence-news.com/news/modernising-apps-triples-the-odds-of-ai-returns-cloudflare-says/",
+          "date": "Mon, 26 Jan 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Anthropic\u2019s usage stats paint a detailed picture of AI success",
+          "link": "https://www.artificialintelligence-news.com/news/anthropic-report-economic-index-summary-key-points-2026/",
+          "date": "Fri, 23 Jan 2026 14:21:20 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
