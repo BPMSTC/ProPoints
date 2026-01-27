@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-26T23:20:10.573362+00:00",
+  "generatedAt": "2026-01-27T01:42:30.375429+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -202,34 +202,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "Retailers examine options for on-AI retail",
-          "link": "https://www.artificialintelligence-news.com/news/retailers-examine-options-for-on-ai-retail/",
-          "date": "Mon, 26 Jan 2026 16:40:00 +0000"
-        },
-        {
-          "title": "Expereo: Enterprise connectivity amid AI surge with \u2018visibility at the speed of life\u2019",
-          "link": "https://www.artificialintelligence-news.com/news/expereo-enterprise-connectivity-amid-ai-surge-with-visibility-at-the-speed-of-life/",
-          "date": "Mon, 26 Jan 2026 15:23:57 +0000"
-        },
-        {
-          "title": "How Formula E uses Google Cloud AI to meet net zero targets",
-          "link": "https://www.artificialintelligence-news.com/news/how-formula-e-uses-google-cloud-ai-to-meet-net-zero-targets/",
-          "date": "Mon, 26 Jan 2026 14:38:53 +0000"
-        },
-        {
-          "title": "Modernising apps triples the odds of AI returns, Cloudflare says",
-          "link": "https://www.artificialintelligence-news.com/news/modernising-apps-triples-the-odds-of-ai-returns-cloudflare-says/",
-          "date": "Mon, 26 Jan 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Anthropic\u2019s usage stats paint a detailed picture of AI success",
-          "link": "https://www.artificialintelligence-news.com/news/anthropic-report-economic-index-summary-key-points-2026/",
-          "date": "Fri, 23 Jan 2026 14:21:20 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -289,14 +263,14 @@
           "date": "2026-01-26T14:10:43+00:00"
         },
         {
+          "title": "Should this AI chat + diagram tool be open-sourced instead of sold as a paid product?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qnzqzb/should_this_ai_chat_diagram_tool_be_opensourced/",
+          "date": "2026-01-27T01:29:36+00:00"
+        },
+        {
           "title": "How AI chat responds differently to structured prompts",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qnmmlp/how_ai_chat_responds_differently_to_structured/",
           "date": "2026-01-26T17:30:22+00:00"
-        },
-        {
-          "title": "Competitive research Prompt",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qnvj5q/competitive_research_prompt/",
-          "date": "2026-01-26T22:39:24+00:00"
         }
       ],
       "error": null
@@ -368,6 +342,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "OpenAI spills technical details about how its AI coding agent works",
+          "link": "https://arstechnica.com/ai/2026/01/openai-spills-technical-details-about-how-its-ai-coding-agent-works/",
+          "date": "Mon, 26 Jan 2026 23:05:17 +0000"
+        },
+        {
           "title": "Doctors face-palm as RFK Jr.\u2019s top vaccine advisor questions need for polio shot",
           "link": "https://arstechnica.com/science/2026/01/do-we-really-need-polio-shots-deep-thoughts-by-rfk-jr-advisor-get-dragged/",
           "date": "Mon, 26 Jan 2026 21:31:13 +0000"
@@ -386,11 +365,6 @@
           "title": "\u201cWildly irresponsible\u201d: DOT's use of AI to draft safety rules sparks concerns",
           "link": "https://arstechnica.com/tech-policy/2026/01/wildly-irresponsible-dots-use-of-ai-to-draft-safety-rules-sparks-concerns/",
           "date": "Mon, 26 Jan 2026 20:13:47 +0000"
-        },
-        {
-          "title": "How to encrypt your PC's disk without giving the keys to Microsoft",
-          "link": "https://arstechnica.com/gadgets/2026/01/how-to-encrypt-your-pcs-disk-without-giving-the-keys-to-microsoft/",
-          "date": "Mon, 26 Jan 2026 18:29:08 +0000"
         }
       ],
       "error": null
@@ -415,14 +389,14 @@
           "date": "2026-01-26T21:22:43+00:00"
         },
         {
-          "title": "BBC reports that Chinese open models continue to steadily muscle out closed offering from US companies",
-          "link": "https://www.reddit.com/r/artificial/comments/1qmm0vd/bbc_reports_that_chinese_open_models_continue_to/",
-          "date": "2026-01-25T15:27:04+00:00"
-        },
-        {
           "title": "Nvidia is bringing the transformer architecture behind large language models (LLMs) to meteorology with two new open-source models.",
           "link": "https://www.reddit.com/r/artificial/comments/1qnlh0z/nvidia_is_bringing_the_transformer_architecture/",
           "date": "2026-01-26T16:51:22+00:00"
+        },
+        {
+          "title": "Google ties AI Search to Gmail and Photos, raising new privacy questions",
+          "link": "https://www.reddit.com/r/artificial/comments/1qnjy4k/google_ties_ai_search_to_gmail_and_photos_raising/",
+          "date": "2026-01-26T15:58:34+00:00"
         }
       ],
       "error": null
@@ -469,6 +443,16 @@
           "date": "Mon, 26 Jan 2026 16:07:27 GMT"
         },
         {
+          "title": "NHS England to trial AI and robotic tools to detect and diagnose lung cancer",
+          "link": "https://www.theguardian.com/society/2026/jan/27/nhs-england-to-trial-ai-and-robotic-tools-to-detect-and-diagnose-lung-cancer",
+          "date": "Tue, 27 Jan 2026 00:01:02 GMT"
+        },
+        {
+          "title": "Most young adults in UK are anxious about jobs and the economy, research suggests",
+          "link": "https://www.theguardian.com/society/2026/jan/27/uk-young-people-anxious-jobs-economy",
+          "date": "Tue, 27 Jan 2026 00:01:01 GMT"
+        },
+        {
           "title": "EU launches inquiry into X over sexually explicit images made by Grok AI",
           "link": "https://www.theguardian.com/technology/2026/jan/26/eu-launches-inquiry-into-x-over-sexually-explicit-images-made-by-grok-ai",
           "date": "Mon, 26 Jan 2026 14:27:44 GMT"
@@ -477,16 +461,6 @@
           "title": "UK maker of AI avatars nearly doubles valuation to $4bn after funding round",
           "link": "https://www.theguardian.com/technology/2026/jan/26/uk-ai-startup-synthesia-almost-doubles-valuation-4bn-funding-round-corporate-video-avatars",
           "date": "Mon, 26 Jan 2026 09:00:33 GMT"
-        },
-        {
-          "title": "AI is hitting UK harder than other big economies, study finds",
-          "link": "https://www.theguardian.com/technology/2026/jan/26/ai-uk-jobs-us-japan-germany-australia",
-          "date": "Mon, 26 Jan 2026 08:41:54 GMT"
-        },
-        {
-          "title": "AI systems could use Met Office and National Archives data under UK plans",
-          "link": "https://www.theguardian.com/technology/2026/jan/26/ai-systems-met-office-national-archives-data-uk-government-plans",
-          "date": "Mon, 26 Jan 2026 06:00:30 GMT"
         }
       ],
       "error": null
