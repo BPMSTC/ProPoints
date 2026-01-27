@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-27T20:20:37.528648+00:00",
+  "generatedAt": "2026-01-27T21:16:13.138649+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -166,6 +166,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Ai2 Releases Open Coding Agents Family",
+          "link": "https://aibusiness.com/agentic-ai/ai2-releases-open-coding-agents",
+          "date": "Tue, 27 Jan 2026 20:21:37 GMT"
+        },
+        {
           "title": "Startup Plans to Use AI to Optimize How AI Chips Are Made",
           "link": "https://aibusiness.com/intelligent-automation/startup-optimize-how-ai-chips-are-made",
           "date": "Tue, 27 Jan 2026 18:29:24 GMT"
@@ -184,11 +189,6 @@
           "title": "Nvidia Invests $2B in CoreWeave, Expands Partnership",
           "link": "https://aibusiness.com/data-centers/nvidia-invests-2b-in-coreweave-expands-partnership",
           "date": "Mon, 26 Jan 2026 18:06:34 GMT"
-        },
-        {
-          "title": "Meta Pauses Teen Access to its AI Chatbot Characters",
-          "link": "https://aibusiness.com/chatbot/meta-pauses-teen-access-to-its-ai-chatbot-characters",
-          "date": "Mon, 26 Jan 2026 15:49:52 GMT"
         }
       ],
       "error": null
@@ -202,8 +202,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Databricks: Enterprise AI adoption shifts to agentic systems",
+          "link": "https://www.artificialintelligence-news.com/news/databricks-enterprise-ai-adoption-shifts-agentic-systems/",
+          "date": "Tue, 27 Jan 2026 17:26:45 +0000"
+        },
+        {
+          "title": "Anthropic selected to build government AI assistant pilot",
+          "link": "https://www.artificialintelligence-news.com/news/anthropic-selected-build-government-ai-assistant-pilot/",
+          "date": "Tue, 27 Jan 2026 13:31:22 +0000"
+        },
+        {
+          "title": "Lowering the barriers databases place in the way of strategy, with RavenDB",
+          "link": "https://www.artificialintelligence-news.com/news/lowering-the-barriers-databases-place-in-the-way-of-strategy-with-ravendb/",
+          "date": "Tue, 27 Jan 2026 11:46:00 +0000"
+        },
+        {
+          "title": "Cold snap highlight\u2019s airlines\u2019 proactive use of AI",
+          "link": "https://www.artificialintelligence-news.com/news/cold-snap-highlights-airlines-proactive-use-of-ai-airline-industrys-use-of-ai/",
+          "date": "Tue, 27 Jan 2026 10:55:00 +0000"
+        },
+        {
+          "title": "Retailers examine options for on-AI retail",
+          "link": "https://www.artificialintelligence-news.com/news/retailers-examine-options-for-on-ai-retail/",
+          "date": "Mon, 26 Jan 2026 16:40:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -268,9 +294,9 @@
           "date": "2026-01-27T09:54:19+00:00"
         },
         {
-          "title": "Micro-Prompting: Get Better AI Results with Shorter Commands",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qonwzn/microprompting_get_better_ai_results_with_shorter/",
-          "date": "2026-01-27T19:30:44+00:00"
+          "title": "Cursor On-Demand is a scam, be careful!",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qoq13s/cursor_ondemand_is_a_scam_be_careful/",
+          "date": "2026-01-27T20:45:48+00:00"
         }
       ],
       "error": null
@@ -384,11 +410,6 @@
           "date": "2026-01-27T07:57:52+00:00"
         },
         {
-          "title": "African Software Developers Using AI to Fight Inequality",
-          "link": "https://www.reddit.com/r/artificial/comments/1qod52h/african_software_developers_using_ai_to_fight/",
-          "date": "2026-01-27T12:58:38+00:00"
-        },
-        {
           "title": "Creating an AI commercial ad with consistent products",
           "link": "https://www.reddit.com/r/artificial/comments/1qomiad/creating_an_ai_commercial_ad_with_consistent/",
           "date": "2026-01-27T18:42:13+00:00"
@@ -397,6 +418,11 @@
           "title": "Meta blocks teens from AI chatbot characters over safety concerns",
           "link": "https://www.reddit.com/r/artificial/comments/1qnjd7l/meta_blocks_teens_from_ai_chatbot_characters_over/",
           "date": "2026-01-26T15:38:00+00:00"
+        },
+        {
+          "title": "African Software Developers Using AI to Fight Inequality",
+          "link": "https://www.reddit.com/r/artificial/comments/1qod52h/african_software_developers_using_ai_to_fight/",
+          "date": "2026-01-27T12:58:38+00:00"
         }
       ],
       "error": null
