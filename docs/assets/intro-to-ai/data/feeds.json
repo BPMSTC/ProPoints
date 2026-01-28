@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-28T17:30:18.708552+00:00",
+  "generatedAt": "2026-01-28T18:34:20.103259+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "Sentry Adds Local Development and Code Review Debugging to Seer",
-          "link": "https://ai-techpark.com/sentry-adds-local-development-and-code-review-debugging-to-seer/",
-          "date": "Wed, 28 Jan 2026 13:00:00 +0000"
-        },
-        {
-          "title": "Afiniti Introduces Outcome Orchestration",
-          "link": "https://ai-techpark.com/afiniti-introduces-outcome-orchestration/",
-          "date": "Wed, 28 Jan 2026 12:30:00 +0000"
-        },
-        {
-          "title": "MedeAnalytics Appoints David Figueredo as Chief Innovation Officer",
-          "link": "https://ai-techpark.com/medeanalytics-appoints-david-figueredo-as-chief-innovation-officer/",
-          "date": "Wed, 28 Jan 2026 11:00:00 +0000"
-        },
-        {
-          "title": "Navidence Raises Funding to Bring Clarity to RWD-Driven Clinical Research",
-          "link": "https://ai-techpark.com/navidence-raises-funding-to-bring-clarity-to-rwd-driven-clinical-research/",
-          "date": "Wed, 28 Jan 2026 09:30:00 +0000"
-        },
-        {
-          "title": "Boards Double Down on Scenario Planning, but 90% Lack AI Tools to Keep Pace",
-          "link": "https://ai-techpark.com/boards-double-down-on-scenario-planning-but-90-lack-ai-tools-to-keep-pace/",
-          "date": "Wed, 28 Jan 2026 09:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -294,9 +268,9 @@
           "date": "2026-01-28T14:26:59+00:00"
         },
         {
-          "title": "I tested the top AI video generators, so you don't have to",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qpbfha/i_tested_the_top_ai_video_generators_so_you_dont/",
-          "date": "2026-01-28T13:31:53+00:00"
+          "title": "Better prompting cuts agent costs by 40%",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qpj2al/better_prompting_cuts_agent_costs_by_40/",
+          "date": "2026-01-28T18:09:49+00:00"
         }
       ],
       "error": null
@@ -368,29 +342,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Review: AMD's Ryzen 7 9850X3D is a little faster and a lot more power-hungry",
-          "link": "https://arstechnica.com/gadgets/2026/01/review-amds-ryzen-7-9850x3d-is-a-little-faster-and-a-lot-more-power-hungry/",
-          "date": "Wed, 28 Jan 2026 16:41:40 +0000"
+          "title": "I bought \"Remove Before Flight\" tags on eBay in 2010\u2014it turns out they're from Challenger",
+          "link": "https://arstechnica.com/space/2026/01/attached-to-tragedy-tracing-challenger-remove-before-flight-tags/",
+          "date": "Wed, 28 Jan 2026 18:07:35 +0000"
         },
         {
-          "title": "The origin story of syphilis goes back far longer than we thought",
-          "link": "https://arstechnica.com/science/2026/01/the-origin-story-of-syphilis-goes-back-far-longer-than-we-thought/",
-          "date": "Wed, 28 Jan 2026 14:55:58 +0000"
+          "title": "Google begins rolling out Chrome's \"Auto Browse\" AI agent today",
+          "link": "https://arstechnica.com/google/2026/01/google-begins-rolling-out-chromes-auto-browse-ai-agent-today/",
+          "date": "Wed, 28 Jan 2026 18:00:14 +0000"
         },
         {
-          "title": "Users flock to open source Moltbot for always-on AI, despite major risks",
-          "link": "https://arstechnica.com/ai/2026/01/viral-ai-assistant-moltbot-rapidly-gains-popularity-but-poses-security-risks/",
-          "date": "Wed, 28 Jan 2026 12:30:44 +0000"
+          "title": "Meta blocks links to ICE List across Facebook, Instagram, and Threads",
+          "link": "https://arstechnica.com/tech-policy/2026/01/meta-blocks-links-to-ice-list-across-facebook-instagram-and-threads/",
+          "date": "Wed, 28 Jan 2026 17:22:26 +0000"
         },
         {
-          "title": "Japan lost a 5-ton navigation satellite when it fell off a rocket during launch",
-          "link": "https://arstechnica.com/science/2026/01/heres-the-story-of-how-japans-h3-rocket-lost-its-cargo-and-just-kept-going/",
-          "date": "Wed, 28 Jan 2026 12:15:54 +0000"
+          "title": "Report: China approves import of high-end Nvidia AI chips after weeks of uncertainty",
+          "link": "https://arstechnica.com/ai/2026/01/report-china-approves-import-of-high-end-nvidia-ai-chips-after-weeks-of-uncertainty/",
+          "date": "Wed, 28 Jan 2026 17:21:29 +0000"
         },
         {
-          "title": "Dozens of CDC vaccination databases have been frozen under RFK Jr.",
-          "link": "https://arstechnica.com/health/2026/01/rfk-jr-lets-cdc-vaccination-data-rot-dozens-of-databases-frozen/",
-          "date": "Tue, 27 Jan 2026 23:28:02 +0000"
+          "title": "South Carolina tops Texas measles outbreak record\u2014with no end in sight",
+          "link": "https://arstechnica.com/health/2026/01/sc-measles-23-schools-hit-over-550-quarantined-as-outbreak-hits-record/",
+          "date": "Wed, 28 Jan 2026 17:02:48 +0000"
         }
       ],
       "error": null
@@ -410,6 +384,11 @@
           "date": "2026-01-28T13:07:45+00:00"
         },
         {
+          "title": "AI is officially starting to mess with my income",
+          "link": "https://www.reddit.com/r/artificial/comments/1qphvl5/ai_is_officially_starting_to_mess_with_my_income/",
+          "date": "2026-01-28T17:30:05+00:00"
+        },
+        {
           "title": "We detected 28,194 attacks on AI agents this week. Inter-agent attacks are now a thing.",
           "link": "https://www.reddit.com/r/artificial/comments/1qp58il/we_detected_28194_attacks_on_ai_agents_this_week/",
           "date": "2026-01-28T07:55:25+00:00"
@@ -418,11 +397,6 @@
           "title": "Google DeepMind unleashes new AI to investigate DNA\u2019s \u2018dark matter\u2019",
           "link": "https://www.reddit.com/r/artificial/comments/1qpggsj/google_deepmind_unleashes_new_ai_to_investigate/",
           "date": "2026-01-28T16:41:34+00:00"
-        },
-        {
-          "title": "Automation of day to day tasks",
-          "link": "https://www.reddit.com/r/artificial/comments/1qpg14m/automation_of_day_to_day_tasks/",
-          "date": "2026-01-28T16:26:21+00:00"
         }
       ],
       "error": null
@@ -528,6 +502,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Wave of Suicides Hits as India\u2019s Economy Is Ravaged by AI",
+          "link": "https://futurism.com/artificial-intelligence/suicides-india-economy-ai",
+          "date": "Wed, 28 Jan 2026 13:18:19 -0500"
+        },
+        {
           "title": "Anthropic CEO Warns That the AI Tech He\u2019s Creating Could Ravage Human Civilization",
           "link": "https://futurism.com/artificial-intelligence/anthropic-ceo-warns-ai-ravage-human-civilization",
           "date": "Wed, 28 Jan 2026 12:18:58 -0500"
@@ -546,11 +525,6 @@
           "title": "Google Staffers Terrified of ICE After Attempt to Force Entry Into Company Building",
           "link": "https://futurism.com/future-society/google-ice-agents-workers",
           "date": "Tue, 27 Jan 2026 20:20:23 -0500"
-        },
-        {
-          "title": "Trump Department Responsible for Airline Safety Using AI to Write New Regulations, So They Can Be Churned Out as Fast as Possible",
-          "link": "https://futurism.com/artificial-intelligence/trump-regulations-ai",
-          "date": "Tue, 27 Jan 2026 14:04:29 -0500"
         }
       ],
       "error": null
@@ -559,6 +533,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Google\u2019s New Chrome \u2018Auto Browse\u2019 Agent Attempts to Roam the Web Without You",
+          "link": "https://www.wired.com/story/google-chrome-auto-browse/",
+          "date": "Wed, 28 Jan 2026 18:00:00 +0000"
+        },
         {
           "title": "Amazon Alexa+ Is Becoming Available to Everyone. Here\u2019s How to Turn It Off (2026)",
           "link": "https://www.wired.com/story/alexa-plus-early-access-rollout-2026/",
@@ -578,11 +557,6 @@
           "title": "This Humanoid Is Ready to Bring You a Toothbrush",
           "link": "https://www.wired.com/story/humanoid-robot-butler-sprout-fauna/",
           "date": "Tue, 27 Jan 2026 13:00:00 +0000"
-        },
-        {
-          "title": "Where Tech Leaders and Students Really Think AI Is Going",
-          "link": "https://www.wired.com/story/for-future-reference-ai-technology/",
-          "date": "Tue, 27 Jan 2026 10:30:00 +0000"
         }
       ],
       "error": null
