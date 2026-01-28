@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-28T19:26:14.124389+00:00",
+  "generatedAt": "2026-01-28T20:28:01.163970+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -284,19 +284,19 @@
           "date": "2025-09-09T02:25:04+00:00"
         },
         {
+          "title": "Can we see context window usage by GitHub Copilot in VS Code?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qpmib3/can_we_see_context_window_usage_by_github_copilot/",
+          "date": "2026-01-28T20:10:46+00:00"
+        },
+        {
           "title": "How do you review agent-written code without slowing everything down?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qpl7bh/how_do_you_review_agentwritten_code_without/",
           "date": "2026-01-28T19:24:00+00:00"
         },
         {
-          "title": "I spent 6 hours fighting a hallucination, only to realize I was the problem.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qpajsi/i_spent_6_hours_fighting_a_hallucination_only_to/",
-          "date": "2026-01-28T12:53:26+00:00"
-        },
-        {
-          "title": "The \"Brutal Mirror\" Prompt: I asked AI to analyze my entire chat history and build a 10x growth plan. (Copy/Paste this)",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qpcsl8/the_brutal_mirror_prompt_i_asked_ai_to_analyze_my/",
-          "date": "2026-01-28T14:26:59+00:00"
+          "title": "Agent Swarms, like the one Cursor created",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qpb9nh/agent_swarms_like_the_one_cursor_created/",
+          "date": "2026-01-28T13:25:11+00:00"
         }
       ],
       "error": null
@@ -368,6 +368,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "US cyber defense chief accidentally uploaded secret government info to ChatGPT",
+          "link": "https://arstechnica.com/tech-policy/2026/01/us-cyber-defense-chief-accidentally-uploaded-secret-government-info-to-chatgpt/",
+          "date": "Wed, 28 Jan 2026 19:56:44 +0000"
+        },
+        {
+          "title": "Why reviving the shuttered Anthem is turning out tougher than expected",
+          "link": "https://arstechnica.com/gaming/2026/01/why-reviving-the-shuttered-anthem-is-turning-out-tougher-than-expected/",
+          "date": "Wed, 28 Jan 2026 18:48:26 +0000"
+        },
+        {
           "title": "I bought \"Remove Before Flight\" tags on eBay in 2010\u2014it turns out they're from Challenger",
           "link": "https://arstechnica.com/space/2026/01/attached-to-tragedy-tracing-challenger-remove-before-flight-tags/",
           "date": "Wed, 28 Jan 2026 18:07:35 +0000"
@@ -381,16 +391,6 @@
           "title": "Meta blocks links to ICE List across Facebook, Instagram, and Threads",
           "link": "https://arstechnica.com/tech-policy/2026/01/meta-blocks-links-to-ice-list-across-facebook-instagram-and-threads/",
           "date": "Wed, 28 Jan 2026 17:22:26 +0000"
-        },
-        {
-          "title": "Report: China approves import of high-end Nvidia AI chips after weeks of uncertainty",
-          "link": "https://arstechnica.com/ai/2026/01/report-china-approves-import-of-high-end-nvidia-ai-chips-after-weeks-of-uncertainty/",
-          "date": "Wed, 28 Jan 2026 17:21:29 +0000"
-        },
-        {
-          "title": "South Carolina tops Texas measles outbreak record\u2014with no end in sight",
-          "link": "https://arstechnica.com/health/2026/01/sc-measles-23-schools-hit-over-550-quarantined-as-outbreak-hits-record/",
-          "date": "Wed, 28 Jan 2026 17:02:48 +0000"
         }
       ],
       "error": null
@@ -405,19 +405,19 @@
           "date": "2026-01-28T03:15:15+00:00"
         },
         {
-          "title": "Top Trump official used ChatGPT to draft agency AI policies | Politico",
-          "link": "https://www.reddit.com/r/artificial/comments/1qpav8a/top_trump_official_used_chatgpt_to_draft_agency/",
-          "date": "2026-01-28T13:07:45+00:00"
-        },
-        {
           "title": "AI is officially starting to mess with my income",
           "link": "https://www.reddit.com/r/artificial/comments/1qphvl5/ai_is_officially_starting_to_mess_with_my_income/",
           "date": "2026-01-28T17:30:05+00:00"
         },
         {
-          "title": "We detected 28,194 attacks on AI agents this week. Inter-agent attacks are now a thing.",
-          "link": "https://www.reddit.com/r/artificial/comments/1qp58il/we_detected_28194_attacks_on_ai_agents_this_week/",
-          "date": "2026-01-28T07:55:25+00:00"
+          "title": "Top Trump official used ChatGPT to draft agency AI policies | Politico",
+          "link": "https://www.reddit.com/r/artificial/comments/1qpav8a/top_trump_official_used_chatgpt_to_draft_agency/",
+          "date": "2026-01-28T13:07:45+00:00"
+        },
+        {
+          "title": "US cyber defense chief accidentally uploaded secret government info to ChatGPT",
+          "link": "https://www.reddit.com/r/artificial/comments/1qpmjpa/us_cyber_defense_chief_accidentally_uploaded/",
+          "date": "2026-01-28T20:12:16+00:00"
         },
         {
           "title": "Google DeepMind unleashes new AI to investigate DNA\u2019s \u2018dark matter\u2019",
@@ -560,7 +560,12 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
-          "title": "Give Your Problems (and Passwords) to Moltbot, Then Watch It Go",
+          "title": "The Doomsday Clock Is Now 85 Seconds to Midnight. Here\u2019s What That Means",
+          "link": "https://www.wired.com/story/the-doomsday-clock-is-now-85-seconds-to-midnight-heres-what-that-means/",
+          "date": "Wed, 28 Jan 2026 20:09:07 +0000"
+        },
+        {
+          "title": "Moltbot Is Taking Over Silicon Valley",
           "link": "https://www.wired.com/story/clawdbot-moltbot-viral-ai-assistant/",
           "date": "Wed, 28 Jan 2026 19:01:04 +0000"
         },
@@ -578,11 +583,6 @@
           "title": "The State-Led Crackdown on Grok and xAI Has Begun",
           "link": "https://www.wired.com/story/the-state-led-crackdown-on-grok-and-xai-has-begun/",
           "date": "Tue, 27 Jan 2026 18:35:07 +0000"
-        },
-        {
-          "title": "Google DeepMind Staffers Ask Leaders to Keep Them \u2018Physically Safe\u2019 From ICE",
-          "link": "https://www.wired.com/story/google-deepmind-staffers-ice-office-questions-safety/",
-          "date": "Tue, 27 Jan 2026 17:00:00 +0000"
         }
       ],
       "error": null
