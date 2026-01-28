@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-28T18:34:20.103259+00:00",
+  "generatedAt": "2026-01-28T19:26:14.124389+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Sentry Adds Local Development and Code Review Debugging to Seer",
+          "link": "https://ai-techpark.com/sentry-adds-local-development-and-code-review-debugging-to-seer/",
+          "date": "Wed, 28 Jan 2026 13:00:00 +0000"
+        },
+        {
+          "title": "Afiniti Introduces Outcome Orchestration",
+          "link": "https://ai-techpark.com/afiniti-introduces-outcome-orchestration/",
+          "date": "Wed, 28 Jan 2026 12:30:00 +0000"
+        },
+        {
+          "title": "MedeAnalytics Appoints David Figueredo as Chief Innovation Officer",
+          "link": "https://ai-techpark.com/medeanalytics-appoints-david-figueredo-as-chief-innovation-officer/",
+          "date": "Wed, 28 Jan 2026 11:00:00 +0000"
+        },
+        {
+          "title": "Navidence Raises Funding to Bring Clarity to RWD-Driven Clinical Research",
+          "link": "https://ai-techpark.com/navidence-raises-funding-to-bring-clarity-to-rwd-driven-clinical-research/",
+          "date": "Wed, 28 Jan 2026 09:30:00 +0000"
+        },
+        {
+          "title": "Boards Double Down on Scenario Planning, but 90% Lack AI Tools to Keep Pace",
+          "link": "https://ai-techpark.com/boards-double-down-on-scenario-planning-but-90-lack-ai-tools-to-keep-pace/",
+          "date": "Wed, 28 Jan 2026 09:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -258,6 +284,11 @@
           "date": "2025-09-09T02:25:04+00:00"
         },
         {
+          "title": "How do you review agent-written code without slowing everything down?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qpl7bh/how_do_you_review_agentwritten_code_without/",
+          "date": "2026-01-28T19:24:00+00:00"
+        },
+        {
           "title": "I spent 6 hours fighting a hallucination, only to realize I was the problem.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qpajsi/i_spent_6_hours_fighting_a_hallucination_only_to/",
           "date": "2026-01-28T12:53:26+00:00"
@@ -266,11 +297,6 @@
           "title": "The \"Brutal Mirror\" Prompt: I asked AI to analyze my entire chat history and build a 10x growth plan. (Copy/Paste this)",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qpcsl8/the_brutal_mirror_prompt_i_asked_ai_to_analyze_my/",
           "date": "2026-01-28T14:26:59+00:00"
-        },
-        {
-          "title": "Better prompting cuts agent costs by 40%",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qpj2al/better_prompting_cuts_agent_costs_by_40/",
-          "date": "2026-01-28T18:09:49+00:00"
         }
       ],
       "error": null
@@ -438,6 +464,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Artificial intelligence will cost jobs, admits Liz Kendall",
+          "link": "https://www.theguardian.com/technology/2026/jan/28/artificial-intelligence-will-cost-jobs-admits-liz-kendall",
+          "date": "Wed, 28 Jan 2026 18:52:17 GMT"
+        },
+        {
           "title": "Google DeepMind launches AI tool to help identify genetic drivers of disease",
           "link": "https://www.theguardian.com/science/2026/jan/28/google-deepmind-alphagenome-ai-tool-genetics-disease",
           "date": "Wed, 28 Jan 2026 16:15:41 GMT"
@@ -456,11 +487,6 @@
           "title": "\u2018Shameful\u2019: Trump\u2019s EPA accused of prioritizing big business over public health",
           "link": "https://www.theguardian.com/us-news/2026/jan/28/trump-epa-environmental-rollbacks",
           "date": "Wed, 28 Jan 2026 12:00:10 GMT"
-        },
-        {
-          "title": "Copyrighted art, mobile phones, Greenland: welcome to our age of shameless theft | Jonathan Liew",
-          "link": "https://www.theguardian.com/commentisfree/2026/jan/28/copyright-mobile-phones-greenland-ai-inequality-political-leaders",
-          "date": "Wed, 28 Jan 2026 10:38:21 GMT"
         }
       ],
       "error": null
@@ -502,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "The Amount Google\u2019s AI Knows About You Will Cause an Uncomfortable Prickling Sensation on Your Scalp",
+          "link": "https://futurism.com/artificial-intelligence/google-ai-knows-about-you-uncomfortable",
+          "date": "Wed, 28 Jan 2026 14:09:32 -0500"
+        },
+        {
           "title": "Wave of Suicides Hits as India\u2019s Economy Is Ravaged by AI",
           "link": "https://futurism.com/artificial-intelligence/suicides-india-economy-ai",
           "date": "Wed, 28 Jan 2026 13:18:19 -0500"
@@ -520,11 +551,6 @@
           "title": "As Saudi Arabia\u2019s 100-Mile Skyscraper Crumbles, They\u2019re Replacing It With the Most Desperate Thing Imaginable",
           "link": "https://futurism.com/artificial-intelligence/saudi-arabia-replacing-skyscraper-desperate",
           "date": "Wed, 28 Jan 2026 09:07:15 -0500"
-        },
-        {
-          "title": "Google Staffers Terrified of ICE After Attempt to Force Entry Into Company Building",
-          "link": "https://futurism.com/future-society/google-ice-agents-workers",
-          "date": "Tue, 27 Jan 2026 20:20:23 -0500"
         }
       ],
       "error": null
@@ -533,6 +559,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Give Your Problems (and Passwords) to Moltbot, Then Watch It Go",
+          "link": "https://www.wired.com/story/clawdbot-moltbot-viral-ai-assistant/",
+          "date": "Wed, 28 Jan 2026 19:01:04 +0000"
+        },
         {
           "title": "Google\u2019s New Chrome \u2018Auto Browse\u2019 Agent Attempts to Roam the Web Without You",
           "link": "https://www.wired.com/story/google-chrome-auto-browse/",
@@ -552,11 +583,6 @@
           "title": "Google DeepMind Staffers Ask Leaders to Keep Them \u2018Physically Safe\u2019 From ICE",
           "link": "https://www.wired.com/story/google-deepmind-staffers-ice-office-questions-safety/",
           "date": "Tue, 27 Jan 2026 17:00:00 +0000"
-        },
-        {
-          "title": "This Humanoid Is Ready to Bring You a Toothbrush",
-          "link": "https://www.wired.com/story/humanoid-robot-butler-sprout-fauna/",
-          "date": "Tue, 27 Jan 2026 13:00:00 +0000"
         }
       ],
       "error": null
