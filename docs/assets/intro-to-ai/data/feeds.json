@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-28T03:43:11.760675+00:00",
+  "generatedAt": "2026-01-28T04:41:58.603373+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Baseten Raises $300M at a $5B Valuation to Power a Multi-Model Future",
+          "link": "https://ai-techpark.com/baseten-raises-300m-at-a-5b-valuation-to-power-a-multi-model-future/",
+          "date": "Tue, 27 Jan 2026 11:30:00 +0000"
+        },
+        {
+          "title": "IFS Delivers Exceptional FY2025 Growth as Industrial AI Scales",
+          "link": "https://ai-techpark.com/ifs-delivers-exceptional-fy2025-growth-as-industrial-ai-scales/",
+          "date": "Tue, 27 Jan 2026 09:30:00 +0000"
+        },
+        {
+          "title": "Cisco Launches New Cisco 360 Partner Program",
+          "link": "https://ai-techpark.com/cisco-launches-new-cisco-360-partner-program/",
+          "date": "Tue, 27 Jan 2026 07:45:00 +0000"
+        },
+        {
+          "title": "Wonderful Announced the Launch of Agent Builder",
+          "link": "https://ai-techpark.com/wonderful-announced-the-launch-of-agent-builder/",
+          "date": "Tue, 27 Jan 2026 07:30:00 +0000"
+        },
+        {
+          "title": "Africa & Middle East Reinforce $1.5T AI Ambitions at Egypt Summit",
+          "link": "https://ai-techpark.com/africa-middle-east-reinforce-1-5t-ai-ambitions-at-egypt-summit/",
+          "date": "Tue, 27 Jan 2026 06:45:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -268,9 +294,9 @@
           "date": "2026-01-28T03:14:07+00:00"
         },
         {
-          "title": "NotebookLM For Teams",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qo9ndk/notebooklm_for_teams/",
-          "date": "2026-01-27T09:54:19+00:00"
+          "title": "We need a interpretor or LLVM for AI, not just Copilot",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qozrmn/we_need_a_interpretor_or_llvm_for_ai_not_just/",
+          "date": "2026-01-28T03:14:02+00:00"
         }
       ],
       "error": null
@@ -389,14 +415,14 @@
           "date": "2026-01-27T23:02:24+00:00"
         },
         {
-          "title": "Viral AI Assistant Clawdbot (now Moltbot): Everything You Need to Know",
-          "link": "https://www.reddit.com/r/artificial/comments/1qozitb/viral_ai_assistant_clawdbot_now_moltbot/",
-          "date": "2026-01-28T03:03:19+00:00"
-        },
-        {
           "title": "Why enterprise AI fails at complex technical work (and how to fix it)",
           "link": "https://www.reddit.com/r/artificial/comments/1qomypk/why_enterprise_ai_fails_at_complex_technical_work/",
           "date": "2026-01-27T18:57:51+00:00"
+        },
+        {
+          "title": "Are we focusing too much on individual AI tools instead of building actual systems?",
+          "link": "https://www.reddit.com/r/artificial/comments/1qox781/are_we_focusing_too_much_on_individual_ai_tools/",
+          "date": "2026-01-28T01:23:41+00:00"
         }
       ],
       "error": null
