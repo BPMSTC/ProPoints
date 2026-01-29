@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-29T19:28:36.018629+00:00",
+  "generatedAt": "2026-01-29T20:27:41.494621+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -284,19 +284,19 @@
           "date": "2025-09-09T02:25:04+00:00"
         },
         {
+          "title": "Codex Update \u2014 Web search enabled by default (cached by default, live in full-access sandbox, configurable)",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qqind3/codex_update_web_search_enabled_by_default_cached/",
+          "date": "2026-01-29T19:37:02+00:00"
+        },
+        {
+          "title": "Looking for a ChatGPT Ads expert",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qqignm/looking_for_a_chatgpt_ads_expert/",
+          "date": "2026-01-29T19:30:24+00:00"
+        },
+        {
           "title": "Streamlining Presentation Creation with chatslide",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qqehbg/streamlining_presentation_creation_with_chatslide/",
           "date": "2026-01-29T17:10:09+00:00"
-        },
-        {
-          "title": "Has using agents changed how you read unfamiliar code?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qqi4y9/has_using_agents_changed_how_you_read_unfamiliar/",
-          "date": "2026-01-29T19:18:49+00:00"
-        },
-        {
-          "title": "OpenAI engineers use a prompt technique internally that most people have never heard of",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qqhm6u/openai_engineers_use_a_prompt_technique/",
-          "date": "2026-01-29T19:00:29+00:00"
         }
       ],
       "error": null
@@ -368,6 +368,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Comcast keeps losing customers despite price guarantee and unlimited data",
+          "link": "https://arstechnica.com/tech-policy/2026/01/comcast-keeps-losing-customers-despite-price-guarantee-and-unlimited-data/",
+          "date": "Thu, 29 Jan 2026 19:51:45 +0000"
+        },
+        {
+          "title": "She'll mess with Texas: Nurse keeps mailing abortion pills, despite Paxton lawsuit",
+          "link": "https://arstechnica.com/tech-policy/2026/01/i-dont-fear-ken-paxton-nurse-vows-to-keep-shipping-abortion-pills-to-texas/",
+          "date": "Thu, 29 Jan 2026 19:19:11 +0000"
+        },
+        {
+          "title": "What ice fishing can teach us about making foraging decisions",
+          "link": "https://arstechnica.com/science/2026/01/what-ice-fishing-can-teach-us-about-making-foraging-decisions/",
+          "date": "Thu, 29 Jan 2026 19:00:41 +0000"
+        },
+        {
           "title": "County pays $600,000 to pentesters it arrested for assessing courthouse security",
           "link": "https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/",
           "date": "Thu, 29 Jan 2026 18:30:52 +0000"
@@ -376,21 +391,6 @@
           "title": "New OpenAI tool renews fears that \u201cAI slop\u201d will overwhelm scientific research",
           "link": "https://arstechnica.com/ai/2026/01/new-openai-tool-renews-fears-that-ai-slop-will-overwhelm-scientific-research/",
           "date": "Thu, 29 Jan 2026 17:51:49 +0000"
-        },
-        {
-          "title": "Custom machine kept man alive without lungs for 48 hours",
-          "link": "https://arstechnica.com/health/2026/01/custom-machine-kept-man-alive-without-lungs-for-48-hours/",
-          "date": "Thu, 29 Jan 2026 17:26:08 +0000"
-        },
-        {
-          "title": "Does Anthropic believe its AI is conscious, or is that just what it wants Claude to think?",
-          "link": "https://arstechnica.com/information-technology/2026/01/does-anthropic-believe-its-ai-is-conscious-or-is-that-just-what-it-wants-claude-to-think/",
-          "date": "Thu, 29 Jan 2026 15:19:56 +0000"
-        },
-        {
-          "title": "Do you have ideas about how to improve America's space program?",
-          "link": "https://arstechnica.com/space/2026/01/do-you-have-ideas-about-how-to-improve-americas-space-program/",
-          "date": "Thu, 29 Jan 2026 15:18:44 +0000"
         }
       ],
       "error": null
@@ -494,13 +494,44 @@
     {
       "name": "artificial intelligence Archives - SpaceNews",
       "url": "https://spacenews.com/tag/artificial-intelligence/feed/",
-      "items": [],
-      "error": "<unknown>:47:3: mismatched tag"
+      "items": [
+        {
+          "title": "We need a \u2018Planetary Neural Network\u2019 for AI-enabled space infrastructure protection",
+          "link": "https://spacenews.com/we-need-a-planetary-neural-network-for-ai-enabled-space-infrastructure-protection/",
+          "date": "Mon, 26 Jan 2026 14:00:00 +0000"
+        },
+        {
+          "title": "Tomorrow.io unveils DeepSky: constellation of large satellites and instruments",
+          "link": "https://spacenews.com/tomorrow-io-unveils-deepsky-constellation-of-large-satellites-and-instruments/",
+          "date": "Thu, 22 Jan 2026 13:00:00 +0000"
+        },
+        {
+          "title": "AI needs spatial intelligence. The GEOINT industry will deliver it.",
+          "link": "https://spacenews.com/ai-needs-spatial-intelligence-the-geoint-industry-will-deliver-it/",
+          "date": "Mon, 12 Jan 2026 15:00:00 +0000"
+        },
+        {
+          "title": "How physics AI is transforming the future of space engineering",
+          "link": "https://spacenews.com/how-physics-ai-is-transforming-the-future-of-space-engineering/",
+          "date": "Tue, 23 Dec 2025 14:41:46 +0000"
+        },
+        {
+          "title": "How multi-agent AI can strengthen space missions against the unknown",
+          "link": "https://spacenews.com/how-multi-agent-ai-can-strengthen-space-missions-against-the-unknown/",
+          "date": "Wed, 10 Dec 2025 14:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "Artificial Intelligence \u2013 Futurism",
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
+        {
+          "title": "Elon to Merge SpaceX and xAI",
+          "link": "https://futurism.com/future-society/elon-musk-merge-spacex-xai",
+          "date": "Thu, 29 Jan 2026 14:44:09 -0500"
+        },
         {
           "title": "Sam Altman Says Oops, They Accidentally Made the New Version of ChatGPT Worse Than the Previous One",
           "link": "https://futurism.com/artificial-intelligence/altman-openai-chatgpt-worse",
@@ -520,11 +551,6 @@
           "title": "Court Filing Reveals Something Very Nasty About Mark Zuckerberg",
           "link": "https://futurism.com/artificial-intelligence/lawsuit-meta-zuckerberg-chatbot-kids",
           "date": "Wed, 28 Jan 2026 16:07:15 -0500"
-        },
-        {
-          "title": "The Amount Google\u2019s AI Knows About You Will Cause an Uncomfortable Prickling Sensation on Your Scalp",
-          "link": "https://futurism.com/artificial-intelligence/google-ai-knows-about-you-uncomfortable",
-          "date": "Wed, 28 Jan 2026 14:09:32 -0500"
         }
       ],
       "error": null
