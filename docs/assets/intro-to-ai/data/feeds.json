@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-29T05:41:23.244408+00:00",
+  "generatedAt": "2026-01-29T06:43:06.924838+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Kipu Health Survey: AI Becomes Essential in Behavioral Health",
+          "link": "https://ai-techpark.com/kipu-health-survey-ai-becomes-essential-in-behavioral-health/",
+          "date": "Wed, 28 Jan 2026 13:45:00 +0000"
+        },
+        {
+          "title": "Sentry Adds Local Development and Code Review Debugging to Seer",
+          "link": "https://ai-techpark.com/sentry-adds-local-development-and-code-review-debugging-to-seer/",
+          "date": "Wed, 28 Jan 2026 13:00:00 +0000"
+        },
+        {
+          "title": "Afiniti Introduces Outcome Orchestration",
+          "link": "https://ai-techpark.com/afiniti-introduces-outcome-orchestration/",
+          "date": "Wed, 28 Jan 2026 12:30:00 +0000"
+        },
+        {
+          "title": "MedeAnalytics Appoints David Figueredo as Chief Innovation Officer",
+          "link": "https://ai-techpark.com/medeanalytics-appoints-david-figueredo-as-chief-innovation-officer/",
+          "date": "Wed, 28 Jan 2026 11:00:00 +0000"
+        },
+        {
+          "title": "Navidence Raises Funding to Bring Clarity to RWD-Driven Clinical Research",
+          "link": "https://ai-techpark.com/navidence-raises-funding-to-bring-clarity-to-rwd-driven-clinical-research/",
+          "date": "Wed, 28 Jan 2026 09:30:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -258,6 +284,11 @@
           "date": "2025-09-09T02:25:04+00:00"
         },
         {
+          "title": "Using W < 3 to prevent drift.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qpxufx/using_w_3_to_prevent_drift/",
+          "date": "2026-01-29T03:51:05+00:00"
+        },
+        {
           "title": "Im tired starting new chats. So i made this",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qpz5rh/im_tired_starting_new_chats_so_i_made_this/",
           "date": "2026-01-29T04:53:37+00:00"
@@ -266,11 +297,6 @@
           "title": "Tired of insurance companies raising rates every year? I built a free AI tool to compare & switch in minutes, saving me $300/year.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qpyq6o/tired_of_insurance_companies_raising_rates_every/",
           "date": "2026-01-29T04:32:40+00:00"
-        },
-        {
-          "title": "Using W < 3 to prevent drift.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qpxufx/using_w_3_to_prevent_drift/",
-          "date": "2026-01-29T03:51:05+00:00"
         }
       ],
       "error": null
@@ -379,14 +405,14 @@
           "date": "2026-01-28T03:15:15+00:00"
         },
         {
-          "title": "I made a one-liner to deploy your own AI assistant (Moltbot) to Fly.io with WhatsApp integration",
-          "link": "https://www.reddit.com/r/artificial/comments/1qpytay/i_made_a_oneliner_to_deploy_your_own_ai_assistant/",
-          "date": "2026-01-29T04:36:52+00:00"
-        },
-        {
           "title": "One-Minute Daily AI News 1/28/2026",
           "link": "https://www.reddit.com/r/artificial/comments/1qq00z6/oneminute_daily_ai_news_1282026/",
           "date": "2026-01-29T05:36:48+00:00"
+        },
+        {
+          "title": "I made a one-liner to deploy your own AI assistant (Moltbot) to Fly.io with WhatsApp integration",
+          "link": "https://www.reddit.com/r/artificial/comments/1qpytay/i_made_a_oneliner_to_deploy_your_own_ai_assistant/",
+          "date": "2026-01-29T04:36:52+00:00"
         },
         {
           "title": "Google DeepMind unleashes new AI to investigate DNA\u2019s \u2018dark matter\u2019",
@@ -394,9 +420,9 @@
           "date": "2026-01-28T16:41:34+00:00"
         },
         {
-          "title": "DeepSeek releases DeepSeek-OCR 2. \ud83d\udc0b",
-          "link": "https://www.reddit.com/r/artificial/comments/1qpw4tw/deepseek_releases_deepseekocr_2/",
-          "date": "2026-01-29T02:35:02+00:00"
+          "title": "Just a little video of a discussion",
+          "link": "https://www.reddit.com/r/artificial/comments/1qq12ou/just_a_little_video_of_a_discussion/",
+          "date": "2026-01-29T06:32:02+00:00"
         }
       ],
       "error": null
