@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-29T11:29:19.008986+00:00",
+  "generatedAt": "2026-01-29T12:52:44.732904+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -102,16 +102,6 @@
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [
         {
-          "title": "Neatly Health Launches Free AI Health Companion App",
-          "link": "https://ai-techpark.com/neatly-health-launches-free-ai-health-companion-app/",
-          "date": "Thu, 29 Jan 2026 10:15:00 +0000"
-        },
-        {
-          "title": "Plainsight Launches Platform for Scalable Enterprise Vision AI",
-          "link": "https://ai-techpark.com/plainsight-launches-platform-for-scalable-enterprise-vision-ai/",
-          "date": "Thu, 29 Jan 2026 10:00:00 +0000"
-        },
-        {
           "title": "Laserfiche Expands AI Data Capture with Auto-Classification",
           "link": "https://ai-techpark.com/laserfiche-expands-ai-data-capture-with-auto-classification/",
           "date": "Thu, 29 Jan 2026 08:35:35 +0000"
@@ -125,6 +115,16 @@
           "title": "Kipu Health Survey: AI Becomes Essential in Behavioral Health",
           "link": "https://ai-techpark.com/kipu-health-survey-ai-becomes-essential-in-behavioral-health/",
           "date": "Wed, 28 Jan 2026 13:45:00 +0000"
+        },
+        {
+          "title": "Sentry Adds Local Development and Code Review Debugging to Seer",
+          "link": "https://ai-techpark.com/sentry-adds-local-development-and-code-review-debugging-to-seer/",
+          "date": "Wed, 28 Jan 2026 13:00:00 +0000"
+        },
+        {
+          "title": "Afiniti Introduces Outcome Orchestration",
+          "link": "https://ai-techpark.com/afiniti-introduces-outcome-orchestration/",
+          "date": "Wed, 28 Jan 2026 12:30:00 +0000"
         }
       ],
       "error": null
@@ -289,14 +289,14 @@
           "date": "2026-01-29T09:48:54+00:00"
         },
         {
+          "title": "Agentic Coding - workflow and orchestration framework comparison",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qq7dcn/agentic_coding_workflow_and_orchestration/",
+          "date": "2026-01-29T12:34:59+00:00"
+        },
+        {
           "title": "Budget-friendly AI image generator with no subscription?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qq63fa/budgetfriendly_ai_image_generator_with_no/",
           "date": "2026-01-29T11:29:02+00:00"
-        },
-        {
-          "title": "Im tired starting new chats. So i made this",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qpz5rh/im_tired_starting_new_chats_so_i_made_this/",
-          "date": "2026-01-29T04:53:37+00:00"
         }
       ],
       "error": null
@@ -368,6 +368,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Early Universe's supermassive black holes grew in cocoons like butterflies",
+          "link": "https://arstechnica.com/science/2026/01/early-universes-supermassive-black-holes-grew-in-cocoons-like-butterflies/",
+          "date": "Thu, 29 Jan 2026 12:00:33 +0000"
+        },
+        {
           "title": "Tesla: 2024 was bad, 2025 was worse as profit falls 46 percent",
           "link": "https://arstechnica.com/cars/2026/01/2025-sees-teslas-annual-revenue-fall-for-the-first-time/",
           "date": "Wed, 28 Jan 2026 22:28:19 +0000"
@@ -386,11 +391,6 @@
           "title": "Stranded boys struggle to survive in Lord of the Flies trailer",
           "link": "https://arstechnica.com/culture/2026/01/bbcs-lord-of-the-flies-miniseries-gets-a-trailer/",
           "date": "Wed, 28 Jan 2026 21:37:37 +0000"
-        },
-        {
-          "title": "SpaceX sends list of demands to US states giving broadband grants to Starlink",
-          "link": "https://arstechnica.com/tech-policy/2026/01/starlink-demands-grant-money-from-states-even-when-residents-dont-buy-service/",
-          "date": "Wed, 28 Jan 2026 21:02:21 +0000"
         }
       ],
       "error": null
@@ -399,6 +399,11 @@
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
+        {
+          "title": "Judgment Is the Last Non-Automatable Skill",
+          "link": "https://www.reddit.com/r/artificial/comments/1qq79qc/judgment_is_the_last_nonautomatable_skill/",
+          "date": "2026-01-29T12:30:14+00:00"
+        },
         {
           "title": "Trump\u2019s acting cyber chief uploaded sensitive files into a public version of ChatGPT. The interim director of the Cybersecurity and Infrastructure Security Agency triggered an internal cybersecurity warning with the uploads \u2014 and a DHS-level damage assessment.",
           "link": "https://www.reddit.com/r/artificial/comments/1qozsna/trumps_acting_cyber_chief_uploaded_sensitive/",
@@ -410,19 +415,14 @@
           "date": "2026-01-29T05:36:48+00:00"
         },
         {
-          "title": "DeepSeek releases DeepSeek-OCR 2. \ud83d\udc0b",
-          "link": "https://www.reddit.com/r/artificial/comments/1qpw4tw/deepseek_releases_deepseekocr_2/",
-          "date": "2026-01-29T02:35:02+00:00"
-        },
-        {
-          "title": "I made a one-liner to deploy your own AI assistant (Moltbot) to Fly.io with WhatsApp integration",
-          "link": "https://www.reddit.com/r/artificial/comments/1qpytay/i_made_a_oneliner_to_deploy_your_own_ai_assistant/",
-          "date": "2026-01-29T04:36:52+00:00"
-        },
-        {
           "title": "Google DeepMind unleashes new AI to investigate DNA\u2019s \u2018dark matter\u2019",
           "link": "https://www.reddit.com/r/artificial/comments/1qpggsj/google_deepmind_unleashes_new_ai_to_investigate/",
           "date": "2026-01-28T16:41:34+00:00"
+        },
+        {
+          "title": "DeepSeek releases DeepSeek-OCR 2. \ud83d\udc0b",
+          "link": "https://www.reddit.com/r/artificial/comments/1qpw4tw/deepseek_releases_deepseekocr_2/",
+          "date": "2026-01-29T02:35:02+00:00"
         }
       ],
       "error": null
