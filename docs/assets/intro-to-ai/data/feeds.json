@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-29T20:27:41.494621+00:00",
+  "generatedAt": "2026-01-29T21:24:48.846696+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "Legion Intelligence Introduces Centurion",
-          "link": "https://ai-techpark.com/legion-intelligence-introduces-centurion/",
-          "date": "Thu, 29 Jan 2026 14:00:00 +0000"
-        },
-        {
-          "title": "Jotform Brings AI-Powered Chatbots to Canva Designs",
-          "link": "https://ai-techpark.com/jotform-brings-ai-powered-chatbots-to-canva-designs/",
-          "date": "Thu, 29 Jan 2026 11:15:00 +0000"
-        },
-        {
-          "title": "Neatly Health Launches Free AI Health Companion App",
-          "link": "https://ai-techpark.com/neatly-health-launches-free-ai-health-companion-app/",
-          "date": "Thu, 29 Jan 2026 10:15:00 +0000"
-        },
-        {
-          "title": "Plainsight Launches Platform for Scalable Enterprise Vision AI",
-          "link": "https://ai-techpark.com/plainsight-launches-platform-for-scalable-enterprise-vision-ai/",
-          "date": "Thu, 29 Jan 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Laserfiche Expands AI Data Capture with Auto-Classification",
-          "link": "https://ai-techpark.com/laserfiche-expands-ai-data-capture-with-auto-classification/",
-          "date": "Thu, 29 Jan 2026 08:35:35 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -166,6 +140,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Google's AI-Powered Chrome Further Transforms Search",
+          "link": "https://aibusiness.com/agentic-ai/google-s-ai-powered-chrome",
+          "date": "Thu, 29 Jan 2026 20:24:33 GMT"
+        },
+        {
           "title": "Mistral AI Upgrades Vibe Coding Agent",
           "link": "https://aibusiness.com/foundation-models/mistral-ai-upgrades-vibe-coding-agent",
           "date": "Thu, 29 Jan 2026 18:13:43 GMT"
@@ -184,11 +163,6 @@
           "title": "Nvidia Introduces New AI Weather Forecast Models",
           "link": "https://aibusiness.com/foundation-models/nvidia-ai-weather-forecast-models",
           "date": "Thu, 29 Jan 2026 01:07:45 GMT"
-        },
-        {
-          "title": "Google Launches Low-Cost AI Plus Subscription in the U.S.",
-          "link": "https://aibusiness.com/generative-ai/google-launches-ai-plus-subscription-us",
-          "date": "Wed, 28 Jan 2026 22:53:13 GMT"
         }
       ],
       "error": null
@@ -410,19 +384,19 @@
           "date": "2026-01-29T17:49:18+00:00"
         },
         {
+          "title": "This week, a new generative AI tool from Google let us create knockoffs of 3D Nintendo worlds",
+          "link": "https://www.reddit.com/r/artificial/comments/1qqkj6k/this_week_a_new_generative_ai_tool_from_google/",
+          "date": "2026-01-29T20:46:27+00:00"
+        },
+        {
           "title": "Judgment Is the Last Non-Automatable Skill",
           "link": "https://www.reddit.com/r/artificial/comments/1qq79qc/judgment_is_the_last_nonautomatable_skill/",
           "date": "2026-01-29T12:30:14+00:00"
         },
         {
-          "title": "Most Capable Photo to Video AI Tool?",
-          "link": "https://www.reddit.com/r/artificial/comments/1qq9xbv/most_capable_photo_to_video_ai_tool/",
-          "date": "2026-01-29T14:24:48+00:00"
-        },
-        {
-          "title": "The Big Flop: Defining Cult Classics and Using AI to Predict the Next Ones",
-          "link": "https://www.reddit.com/r/artificial/comments/1qqexs1/the_big_flop_defining_cult_classics_and_using_ai/",
-          "date": "2026-01-29T17:26:32+00:00"
+          "title": "SpaceX In Merger Talks With xAI Ahead of IPO, Reuters Reports",
+          "link": "https://www.reddit.com/r/artificial/comments/1qqlgp2/spacex_in_merger_talks_with_xai_ahead_of_ipo/",
+          "date": "2026-01-29T21:21:02+00:00"
         }
       ],
       "error": null
