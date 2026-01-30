@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-30T12:50:47.398982+00:00",
+  "generatedAt": "2026-01-30T13:54:19.871237+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "Boston\u2019s healthcare AI:  Past changes and what\u2019s next",
+          "link": "https://www.aiacceleratorinstitute.com/boston-healthcare-ai/",
+          "date": "Fri, 30 Jan 2026 13:31:46 GMT"
+        },
+        {
           "title": "Austin\u2019s AI & tech landscape:  How it's evolved",
           "link": "https://www.aiacceleratorinstitute.com/austins-ai-tech-landscape-how-its-evolved/",
           "date": "Thu, 29 Jan 2026 15:24:36 GMT"
@@ -88,11 +93,6 @@
           "title": "How UK AI expertise meets  Saudi retail ambition",
           "link": "https://www.aiacceleratorinstitute.com/how-uk-ai-expertise-meets-saudi-retail-ambition/",
           "date": "Wed, 21 Jan 2026 10:31:44 GMT"
-        },
-        {
-          "title": "Real-world LLMOps:  Two case studies in healthcare AI deployment",
-          "link": "https://www.aiacceleratorinstitute.com/real-world-llmops-two-case-studies-in-healthcare-ai-deployment-2/",
-          "date": "Fri, 16 Jan 2026 17:00:11 GMT"
         }
       ],
       "error": null
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "Ainekko, Veevx Combine to Advance Embedded AI and Memory Tech",
-          "link": "https://ai-techpark.com/ainekko-veevx-combine-to-advance-embedded-ai-and-memory-tech/",
-          "date": "Fri, 30 Jan 2026 11:45:00 +0000"
-        },
-        {
-          "title": "Zapier: 71% of Enterprise Leaders Say AI Will Reshape Teams",
-          "link": "https://ai-techpark.com/zapier-71-of-enterprise-leaders-say-ai-will-reshape-teams/",
-          "date": "Fri, 30 Jan 2026 11:30:00 +0000"
-        },
-        {
-          "title": "Legion Intelligence Introduces Centurion",
-          "link": "https://ai-techpark.com/legion-intelligence-introduces-centurion/",
-          "date": "Thu, 29 Jan 2026 14:00:00 +0000"
-        },
-        {
-          "title": "Jotform Brings AI-Powered Chatbots to Canva Designs",
-          "link": "https://ai-techpark.com/jotform-brings-ai-powered-chatbots-to-canva-designs/",
-          "date": "Thu, 29 Jan 2026 11:15:00 +0000"
-        },
-        {
-          "title": "Neatly Health Launches Free AI Health Companion App",
-          "link": "https://ai-techpark.com/neatly-health-launches-free-ai-health-companion-app/",
-          "date": "Thu, 29 Jan 2026 10:15:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -166,6 +140,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Apple Acquires Israeli Startup Q.AI",
+          "link": "https://aibusiness.com/consumer-tech/apple-acquires-israeli-startup-qai",
+          "date": "Fri, 30 Jan 2026 13:31:59 GMT"
+        },
+        {
           "title": "Google DeepMind Introduces Agentic Vision to Gemini 3 Flash",
           "link": "https://aibusiness.com/image-recognition/google-deepmind-agentic-vision-gemini-3-flash",
           "date": "Thu, 29 Jan 2026 22:35:50 GMT"
@@ -184,11 +163,6 @@
           "title": "UK Watchdog Pushes for Google AI Opt-Out",
           "link": "https://aibusiness.com/ai-policy/uk-watchdog-google-ai-opt-out",
           "date": "Thu, 29 Jan 2026 17:37:09 GMT"
-        },
-        {
-          "title": "OpenMind Unveils Robot App Store",
-          "link": "https://aibusiness.com/robotics/openmind-unveils-robot-app-store",
-          "date": "Thu, 29 Jan 2026 02:52:48 GMT"
         }
       ],
       "error": null
@@ -289,14 +263,14 @@
           "date": "2026-01-30T09:30:32+00:00"
         },
         {
+          "title": "Weather-based dog walking tool (to avoid heat-related vet bills)",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qr4tn4/weatherbased_dog_walking_tool_to_avoid/",
+          "date": "2026-01-30T13:01:05+00:00"
+        },
+        {
           "title": "Has anyone tried running Moltbot / Clawdbot on AgentBay?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qr0707/has_anyone_tried_running_moltbot_clawdbot_on/",
           "date": "2026-01-30T08:48:14+00:00"
-        },
-        {
-          "title": "Explaining to a 2020 dev what an 'Agentic SDK' is.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qqz3fo/explaining_to_a_2020_dev_what_an_agentic_sdk_is/",
-          "date": "2026-01-30T07:41:11+00:00"
         }
       ],
       "error": null
@@ -368,6 +342,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Rocket Report: How a 5-ton satellite fell off a booster; will SpaceX and xAI merge?",
+          "link": "https://arstechnica.com/space/2026/01/rocket-report-how-a-5-ton-satellite-fell-off-a-booster-will-spacex-and-xai-merge/",
+          "date": "Fri, 30 Jan 2026 12:00:41 +0000"
+        },
+        {
+          "title": "Inside Nvidia's 10-year effort to make the Shield TV the most updated Android device ever",
+          "link": "https://arstechnica.com/gadgets/2026/01/inside-nvidias-10-year-effort-to-make-the-shield-tv-the-most-updated-android-device-ever/",
+          "date": "Fri, 30 Jan 2026 12:00:35 +0000"
+        },
+        {
           "title": "Having that high-deductible health plan might kill you, literally",
           "link": "https://arstechnica.com/health/2026/01/having-that-high-deductible-health-plan-might-kill-you-literally/",
           "date": "Thu, 29 Jan 2026 23:22:58 +0000"
@@ -381,16 +365,6 @@
           "title": "People complaining about Windows 11 hasn't stopped it from hitting 1 billion users",
           "link": "https://arstechnica.com/gadgets/2026/01/windows-11-has-hit-1-billion-users-just-a-hair-faster-than-windows-10-did/",
           "date": "Thu, 29 Jan 2026 22:46:59 +0000"
-        },
-        {
-          "title": "How often do AI chatbots lead users down a harmful path?",
-          "link": "https://arstechnica.com/ai/2026/01/how-often-do-ai-chatbots-lead-users-down-a-harmful-path/",
-          "date": "Thu, 29 Jan 2026 22:05:59 +0000"
-        },
-        {
-          "title": "Google Project Genie lets you create interactive worlds from a photo or prompt",
-          "link": "https://arstechnica.com/google/2026/01/google-project-genie-lets-you-create-interactive-worlds-from-a-photo-or-prompt/",
-          "date": "Thu, 29 Jan 2026 20:26:50 +0000"
         }
       ],
       "error": null
@@ -400,11 +374,6 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "This week, a new generative AI tool from Google let us create knockoffs of 3D Nintendo worlds",
-          "link": "https://www.reddit.com/r/artificial/comments/1qqkj6k/this_week_a_new_generative_ai_tool_from_google/",
-          "date": "2026-01-29T20:46:27+00:00"
-        },
-        {
           "title": "China conditionally approves DeepSeek to buy Nvidia's H200 chips",
           "link": "https://www.reddit.com/r/artificial/comments/1qr1m9o/china_conditionally_approves_deepseek_to_buy/",
           "date": "2026-01-30T10:14:15+00:00"
@@ -413,6 +382,11 @@
           "title": "Moltbot is exploding. 100K Github Stars in weeks. But what can we actually do with it, and why so much hype? And how to avoid the security concerns?",
           "link": "https://www.reddit.com/r/artificial/comments/1qqdmoq/moltbot_is_exploding_100k_github_stars_in_weeks/",
           "date": "2026-01-29T16:40:12+00:00"
+        },
+        {
+          "title": "Why are LLMs consistently biased?",
+          "link": "https://www.reddit.com/r/artificial/comments/1qr57ms/why_are_llms_consistently_biased/",
+          "date": "2026-01-30T13:17:58+00:00"
         },
         {
           "title": "Amazon in Talks to Invest Up to $50 Billion in OpenAI",
@@ -432,6 +406,16 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Short on resources, special educators are using AI \u2013 with little knowledge of the effects",
+          "link": "https://theconversation.com/short-on-resources-special-educators-are-using-ai-with-little-knowledge-of-the-effects-259110",
+          "date": "2026-01-30T13:29:22Z"
+        },
+        {
+          "title": "Grammys\u2019 AI rules aim to keep music human, but large gray area leaves questions about authenticity and authorship",
+          "link": "https://theconversation.com/grammys-ai-rules-aim-to-keep-music-human-but-large-gray-area-leaves-questions-about-authenticity-and-authorship-274504",
+          "date": "2026-01-30T13:28:44Z"
+        },
+        {
           "title": "AI is failing \u2018Humanity\u2019s Last Exam\u2019. So what does that mean for machine intelligence?",
           "link": "https://theconversation.com/ai-is-failing-humanitys-last-exam-so-what-does-that-mean-for-machine-intelligence-274620",
           "date": "2026-01-29T23:54:08Z"
@@ -445,16 +429,6 @@
           "title": "Identifying dinosaurs from their footprints is difficult \u2013 but AI can help",
           "link": "https://theconversation.com/identifying-dinosaurs-from-their-footprints-is-difficult-but-ai-can-help-274386",
           "date": "2026-01-27T12:32:30Z"
-        },
-        {
-          "title": "Most AI assistants are feminine \u2013 and it\u2019s fuelling dangerous stereotypes and abuse",
-          "link": "https://theconversation.com/most-ai-assistants-are-feminine-and-its-fuelling-dangerous-stereotypes-and-abuse-272335",
-          "date": "2026-01-26T18:54:09Z"
-        },
-        {
-          "title": "ChatGPT Health promises to personalise health information. It comes with many risks",
-          "link": "https://theconversation.com/chatgpt-health-promises-to-personalise-health-information-it-comes-with-many-risks-273699",
-          "date": "2026-01-26T18:53:33Z"
         }
       ],
       "error": null
