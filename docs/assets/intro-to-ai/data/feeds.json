@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-30T22:22:12.494026+00:00",
+  "generatedAt": "2026-01-30T23:23:01.861931+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "Ainekko, Veevx Combine to Advance Embedded AI and Memory Tech",
-          "link": "https://ai-techpark.com/ainekko-veevx-combine-to-advance-embedded-ai-and-memory-tech/",
-          "date": "Fri, 30 Jan 2026 11:45:00 +0000"
-        },
-        {
-          "title": "Zapier: 71% of Enterprise Leaders Say AI Will Reshape Teams",
-          "link": "https://ai-techpark.com/zapier-71-of-enterprise-leaders-say-ai-will-reshape-teams/",
-          "date": "Fri, 30 Jan 2026 11:30:00 +0000"
-        },
-        {
-          "title": "Legion Intelligence Introduces Centurion",
-          "link": "https://ai-techpark.com/legion-intelligence-introduces-centurion/",
-          "date": "Thu, 29 Jan 2026 14:00:00 +0000"
-        },
-        {
-          "title": "Jotform Brings AI-Powered Chatbots to Canva Designs",
-          "link": "https://ai-techpark.com/jotform-brings-ai-powered-chatbots-to-canva-designs/",
-          "date": "Thu, 29 Jan 2026 11:15:00 +0000"
-        },
-        {
-          "title": "Neatly Health Launches Free AI Health Companion App",
-          "link": "https://ai-techpark.com/neatly-health-launches-free-ai-health-companion-app/",
-          "date": "Thu, 29 Jan 2026 10:15:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -415,14 +389,14 @@
           "date": "2026-01-30T10:14:15+00:00"
         },
         {
-          "title": "Legal and ethical risk about using real characters in generated pictures",
-          "link": "https://www.reddit.com/r/artificial/comments/1qreuwl/legal_and_ethical_risk_about_using_real/",
-          "date": "2026-01-30T19:10:19+00:00"
-        },
-        {
           "title": "Moltbot is exploding. 100K Github Stars in weeks. But what can we actually do with it, and why so much hype? And how to avoid the security concerns?",
           "link": "https://www.reddit.com/r/artificial/comments/1qqdmoq/moltbot_is_exploding_100k_github_stars_in_weeks/",
           "date": "2026-01-29T16:40:12+00:00"
+        },
+        {
+          "title": "Legal and ethical risk about using real characters in generated pictures",
+          "link": "https://www.reddit.com/r/artificial/comments/1qreuwl/legal_and_ethical_risk_about_using_real/",
+          "date": "2026-01-30T19:10:19+00:00"
         }
       ],
       "error": null
