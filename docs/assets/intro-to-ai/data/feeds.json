@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-31T15:20:55.618796+00:00",
+  "generatedAt": "2026-01-31T16:24:21.314482+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -361,7 +361,7 @@
       "name": "Announcements - Stability AI",
       "url": "https://stability.ai/blog?format=rss",
       "items": [],
-      "error": null
+      "error": "<unknown>:2:0: syntax error"
     },
     {
       "name": "Ars Technica - All content",
@@ -415,14 +415,14 @@
           "date": "2026-01-31T03:19:42+00:00"
         },
         {
+          "title": "I built a way to test Qwen3-TTS and Qwen3-ASR locally on your laptop",
+          "link": "https://www.reddit.com/r/artificial/comments/1qs6ibp/i_built_a_way_to_test_qwen3tts_and_qwen3asr/",
+          "date": "2026-01-31T16:16:34+00:00"
+        },
+        {
           "title": "One-Minute Daily AI News 1/30/2026",
           "link": "https://www.reddit.com/r/artificial/comments/1qrtzzg/oneminute_daily_ai_news_1302026/",
           "date": "2026-01-31T05:42:19+00:00"
-        },
-        {
-          "title": "The debate over artificial intelligence and employment",
-          "link": "https://www.reddit.com/r/artificial/comments/1qrb5dt/the_debate_over_artificial_intelligence_and/",
-          "date": "2026-01-30T17:01:59+00:00"
         }
       ],
       "error": null
@@ -528,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "If You\u2019re a Real Person Looking for a Job, the Flood of Fake AI Job Applications Will Make Your Blood Boil",
+          "link": "https://futurism.com/artificial-intelligence/job-ai-applications-markup",
+          "date": "Sat, 31 Jan 2026 10:30:00 -0500"
+        },
+        {
           "title": "AI Discovers Hundreds of Anomalies in Archive of Hubble Images",
           "link": "https://futurism.com/space/ai-anomalies-hubble-images",
           "date": "Sat, 31 Jan 2026 06:00:00 -0500"
@@ -546,11 +551,6 @@
           "title": "OpenAI Representatives Are Going to Critics\u2019 Houses With Threats and Demands",
           "link": "https://futurism.com/artificial-intelligence/openai-critics-houses",
           "date": "Fri, 30 Jan 2026 10:02:06 -0500"
-        },
-        {
-          "title": "Elon to Merge SpaceX and xAI",
-          "link": "https://futurism.com/future-society/elon-musk-merge-spacex-xai",
-          "date": "Thu, 29 Jan 2026 14:44:09 -0500"
         }
       ],
       "error": null
