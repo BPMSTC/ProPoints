@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-01T10:22:41.026392+00:00",
+  "generatedAt": "2026-02-01T11:19:41.819940+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -202,8 +202,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "AI use surges at Travelers as call centre roles reduce",
+          "link": "https://www.artificialintelligence-news.com/news/travelers-ai-in-contact-centres-two-stage-innovation-strategy/",
+          "date": "Fri, 30 Jan 2026 10:01:10 +0000"
+        },
+        {
+          "title": "PepsiCo is using AI to rethink how factories are designed and updated",
+          "link": "https://www.artificialintelligence-news.com/news/pepsico-is-using-ai-to-rethink-how-factories-are-designed-and-updated/",
+          "date": "Fri, 30 Jan 2026 10:00:00 +0000"
+        },
+        {
+          "title": "China\u2019s hyperscalers bet billions on agentic AI as commerce becomes the new battleground",
+          "link": "https://www.artificialintelligence-news.com/news/china-hyperscalers-agentic-ai-commerce-battleground/",
+          "date": "Fri, 30 Jan 2026 09:00:00 +0000"
+        },
+        {
+          "title": "Insurers betting big on AI: Accenture",
+          "link": "https://www.artificialintelligence-news.com/news/accenture-report-on-ai-in-insurance-sector/",
+          "date": "Thu, 29 Jan 2026 15:02:19 +0000"
+        },
+        {
+          "title": "Deloitte sounds alarm as AI agent deployment outruns safety frameworks",
+          "link": "https://www.artificialintelligence-news.com/news/deloitte-agentic-ai-guidelines-published/",
+          "date": "Wed, 28 Jan 2026 15:23:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -263,14 +289,14 @@
           "date": "2026-02-01T09:42:47+00:00"
         },
         {
-          "title": "I turned Kurt Vonnegut\u2019s \"8 Basics of Creative Writing\" into a developmental editing prompt",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qsoqz0/i_turned_kurt_vonneguts_8_basics_of_creative/",
-          "date": "2026-02-01T04:40:04+00:00"
-        },
-        {
           "title": "Here is my own version of OpenClaw I have been building for months. It's free, mostly secure and opensource.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qsfcii/here_is_my_own_version_of_openclaw_i_have_been/",
           "date": "2026-01-31T21:48:07+00:00"
+        },
+        {
+          "title": "I turned Kurt Vonnegut\u2019s \"8 Basics of Creative Writing\" into a developmental editing prompt",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qsoqz0/i_turned_kurt_vonneguts_8_basics_of_creative/",
+          "date": "2026-02-01T04:40:04+00:00"
         }
       ],
       "error": null
@@ -379,24 +405,24 @@
           "date": "2026-02-01T04:24:32+00:00"
         },
         {
+          "title": "Rumored SpaceX-xAI merger gets apparent confirmation from Elon Musk",
+          "link": "https://www.reddit.com/r/artificial/comments/1qsv2r6/rumored_spacexxai_merger_gets_apparent/",
+          "date": "2026-02-01T10:31:15+00:00"
+        },
+        {
           "title": "SpaceX seeks federal approval to launch 1 million solar-powered satellite data centers | TechCrunch",
           "link": "https://www.reddit.com/r/artificial/comments/1qslxkj/spacex_seeks_federal_approval_to_launch_1_million/",
           "date": "2026-02-01T02:26:47+00:00"
         },
         {
-          "title": "New paper proposes AI alignment \"bees\" \u2014 classifier species that monitor LLMs continuously, can't be jailbroken, and produce both value and correction",
-          "link": "https://www.reddit.com/r/artificial/comments/1qsnu0y/new_paper_proposes_ai_alignment_bees_classifier/",
-          "date": "2026-02-01T03:55:11+00:00"
+          "title": "Built an autonomous agent system with Gemini 3 + Vertex AI. It incorporated a nonprofit, filed for 501(c)(3), and now wants legal personhood. Here's the architecture.",
+          "link": "https://www.reddit.com/r/artificial/comments/1qsvnc1/built_an_autonomous_agent_system_with_gemini_3/",
+          "date": "2026-02-01T11:04:12+00:00"
         },
         {
-          "title": "Top engineers at Anthropic & OpenAI: AI now writes 100% of our code",
-          "link": "https://www.reddit.com/r/artificial/comments/1qrjbpc/top_engineers_at_anthropic_openai_ai_now_writes/",
-          "date": "2026-01-30T21:54:25+00:00"
-        },
-        {
-          "title": "Nvidia unveils AI models for faster, cheaper weather forecasts",
-          "link": "https://www.reddit.com/r/artificial/comments/1qs7otq/nvidia_unveils_ai_models_for_faster_cheaper/",
-          "date": "2026-01-31T17:00:19+00:00"
+          "title": "Moltbook : Are AI Agents going to take over our world?",
+          "link": "https://www.reddit.com/r/artificial/comments/1qsvx29/moltbook_are_ai_agents_going_to_take_over_our/",
+          "date": "2026-02-01T11:19:26+00:00"
         }
       ],
       "error": null
