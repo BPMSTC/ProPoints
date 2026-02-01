@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-01T09:28:21.046740+00:00",
+  "generatedAt": "2026-02-01T10:22:41.026392+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -202,34 +202,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "AI use surges at Travelers as call centre roles reduce",
-          "link": "https://www.artificialintelligence-news.com/news/travelers-ai-in-contact-centres-two-stage-innovation-strategy/",
-          "date": "Fri, 30 Jan 2026 10:01:10 +0000"
-        },
-        {
-          "title": "PepsiCo is using AI to rethink how factories are designed and updated",
-          "link": "https://www.artificialintelligence-news.com/news/pepsico-is-using-ai-to-rethink-how-factories-are-designed-and-updated/",
-          "date": "Fri, 30 Jan 2026 10:00:00 +0000"
-        },
-        {
-          "title": "China\u2019s hyperscalers bet billions on agentic AI as commerce becomes the new battleground",
-          "link": "https://www.artificialintelligence-news.com/news/china-hyperscalers-agentic-ai-commerce-battleground/",
-          "date": "Fri, 30 Jan 2026 09:00:00 +0000"
-        },
-        {
-          "title": "Insurers betting big on AI: Accenture",
-          "link": "https://www.artificialintelligence-news.com/news/accenture-report-on-ai-in-insurance-sector/",
-          "date": "Thu, 29 Jan 2026 15:02:19 +0000"
-        },
-        {
-          "title": "Deloitte sounds alarm as AI agent deployment outruns safety frameworks",
-          "link": "https://www.artificialintelligence-news.com/news/deloitte-agentic-ai-guidelines-published/",
-          "date": "Wed, 28 Jan 2026 15:23:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -284,6 +258,11 @@
           "date": "2025-09-09T02:25:04+00:00"
         },
         {
+          "title": "CLAUDE CLI IS AUTOMATICALLY SWAPPING ITSELF TO HAIKU FROM OPUS WITHOUT PROMPTING!",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qsu7x3/claude_cli_is_automatically_swapping_itself_to/",
+          "date": "2026-02-01T09:42:47+00:00"
+        },
+        {
           "title": "I turned Kurt Vonnegut\u2019s \"8 Basics of Creative Writing\" into a developmental editing prompt",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qsoqz0/i_turned_kurt_vonneguts_8_basics_of_creative/",
           "date": "2026-02-01T04:40:04+00:00"
@@ -292,11 +271,6 @@
           "title": "Here is my own version of OpenClaw I have been building for months. It's free, mostly secure and opensource.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qsfcii/here_is_my_own_version_of_openclaw_i_have_been/",
           "date": "2026-01-31T21:48:07+00:00"
-        },
-        {
-          "title": "Launched LearnOptima, a skill learning platform. Need feedback",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qss0x9/launched_learnoptima_a_skill_learning_platform/",
-          "date": "2026-02-01T07:34:45+00:00"
         }
       ],
       "error": null
