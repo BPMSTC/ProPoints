@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-02T04:27:42.789480+00:00",
+  "generatedAt": "2026-02-02T06:01:47.975540+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -272,34 +272,8 @@
     {
       "name": "Ai Prompt Programming",
       "url": "https://www.reddit.com/r/aipromptprogramming/.rss",
-      "items": [
-        {
-          "title": "Agentic Flow: Easily switch between low/no-cost AI models (OpenRouter/Onnx/Gemini) in Claude Code and Claude Agent SDK. Build agents in Claude Code, deploy them anywhere. >_ npx agentic-flow",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1nzvbsl/agentic_flow_easily_switch_between_lownocost_ai/",
-          "date": "2025-10-06T21:02:20+00:00"
-        },
-        {
-          "title": "I created an Agentic Coding Competition MCP for Cline/Claude-Code/Cursor/Co-pilot using E2B Sandboxes. I'm looking for some Beta Testers. > npx flow-nexus@latest",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1nc75k5/i_created_an_agentic_coding_competition_mcp_for/",
-          "date": "2025-09-09T02:25:04+00:00"
-        },
-        {
-          "title": "Free AI Prompt Wiki: Lets you view and ask about leaked system prompts",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qtfb0e/free_ai_prompt_wiki_lets_you_view_and_ask_about/",
-          "date": "2026-02-02T00:04:11+00:00"
-        },
-        {
-          "title": "Watch out for the OpenAI budget limits! It can get expensive quickly",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qtbr51/watch_out_for_the_openai_budget_limits_it_can_get/",
-          "date": "2026-02-01T21:42:52+00:00"
-        },
-        {
-          "title": "Question: If your client was an artist and was interested in having an AI agent, what would you point them towards? Any helpful tips?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qtl5ug/question_if_your_client_was_an_artist_and_was/",
-          "date": "2026-02-02T04:26:42+00:00"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:12: not well-formed (invalid token)"
     },
     {
       "name": "AI \u2013 SiliconANGLE",
@@ -398,34 +372,8 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "India Budget 2026 commits $90B to AI infrastructure, recommends application-led approach over scale",
-          "link": "https://www.reddit.com/r/artificial/comments/1qthime/india_budget_2026_commits_90b_to_ai/",
-          "date": "2026-02-02T01:40:53+00:00"
-        },
-        {
-          "title": "How do you think Artificial Intelligence's portrayal in Popular Media has affected the AI we make today?",
-          "link": "https://www.reddit.com/r/artificial/comments/1qtd9ya/how_do_you_think_artificial_intelligences/",
-          "date": "2026-02-01T22:41:47+00:00"
-        },
-        {
-          "title": "Rumored SpaceX-xAI merger gets apparent confirmation from Elon Musk",
-          "link": "https://www.reddit.com/r/artificial/comments/1qsv2r6/rumored_spacexxai_merger_gets_apparent/",
-          "date": "2026-02-01T10:31:15+00:00"
-        },
-        {
-          "title": "What is Moltbook actually",
-          "link": "https://www.reddit.com/r/artificial/comments/1qsoftx/what_is_moltbook_actually/",
-          "date": "2026-02-01T04:24:32+00:00"
-        },
-        {
-          "title": "Any AI Podcasts you can recommend?",
-          "link": "https://www.reddit.com/r/artificial/comments/1qt4i78/any_ai_podcasts_you_can_recommend/",
-          "date": "2026-02-01T17:23:06+00:00"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:12: not well-formed (invalid token)"
     },
     {
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
@@ -464,6 +412,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "What is Moltbook? The strange new social media site for AI bots",
+          "link": "https://www.theguardian.com/technology/2026/feb/02/moltbook-ai-agents-social-media-site-bots-artificial-intelligence",
+          "date": "Mon, 02 Feb 2026 05:39:25 GMT"
+        },
+        {
           "title": "\u2018Coffee is just the excuse\u2019: the deaf-run cafe where hearing people sign to order",
           "link": "https://www.theguardian.com/society/2026/feb/01/deaf-run-cafe-london-where-hearing-people-order-via-sign",
           "date": "Sun, 01 Feb 2026 14:18:06 GMT"
@@ -482,11 +435,6 @@
           "title": "Artists can\u2019t buy into these fantasy houses | Brief letters",
           "link": "https://www.theguardian.com/business/2026/jan/30/artists-cant-buy-into-these-fantasy-houses",
           "date": "Fri, 30 Jan 2026 16:44:22 GMT"
-        },
-        {
-          "title": "The AI bubble will pop. It\u2019s up to us to replace it responsibly | Mark Surman",
-          "link": "https://www.theguardian.com/commentisfree/2026/jan/30/ai-bubble-mozilla",
-          "date": "Fri, 30 Jan 2026 11:00:20 GMT"
         }
       ],
       "error": null
