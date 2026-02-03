@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-03T15:46:24.590645+00:00",
+  "generatedAt": "2026-02-03T16:51:05.131925+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "Kong Introduces MCP Registry in Kong Konnect",
-          "link": "https://ai-techpark.com/kong-introduces-mcp-registry-in-kong-konnect/",
-          "date": "Tue, 03 Feb 2026 15:45:00 +0000"
-        },
-        {
-          "title": "Waud Capital Partners Appoints Prithvi Raj as Chief AI and Data Officer",
-          "link": "https://ai-techpark.com/waud-capital-partners-appoints-prithvi-raj-as-chief-ai-and-data-officer/",
-          "date": "Tue, 03 Feb 2026 15:00:00 +0000"
-        },
-        {
-          "title": "DeepL Launches Voice API for Real-Time Speech Transcription and Translation",
-          "link": "https://ai-techpark.com/deepl-launches-voice-api-for-real-time-speech-transcription-and-translation/",
-          "date": "Tue, 03 Feb 2026 13:30:00 +0000"
-        },
-        {
-          "title": "Miro Launches MCP Server to Connect Visual Collaboration With AI Coding Tools",
-          "link": "https://ai-techpark.com/miro-launches-mcp-server-to-connect-visual-collaboration-with-ai-coding-tools/",
-          "date": "Tue, 03 Feb 2026 09:45:00 +0000"
-        },
-        {
-          "title": "Tricentis Expands Leadership to Scale AI-Powered Software Quality",
-          "link": "https://ai-techpark.com/tricentis-expands-leadership-to-scale-ai-powered-software-quality/",
-          "date": "Mon, 02 Feb 2026 15:30:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -202,8 +176,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Ronnie Sheth, CEO, SENEN Group: Why now is the time for enterprise AI to \u2018get practical\u2019",
+          "link": "https://www.artificialintelligence-news.com/news/ronnie-sheth-ceo-senen-group-why-now-is-the-time-for-enterprise-ai-to-get-practical/",
+          "date": "Tue, 03 Feb 2026 11:47:14 +0000"
+        },
+        {
+          "title": "Apptio: Why scaling intelligent automation requires financial rigour",
+          "link": "https://www.artificialintelligence-news.com/news/apptio-why-scaling-intelligent-automation-requires-financial-rigour/",
+          "date": "Tue, 03 Feb 2026 10:52:22 +0000"
+        },
+        {
+          "title": "FedEx tests how far AI can go in tracking and returns management",
+          "link": "https://www.artificialintelligence-news.com/news/fedex-tests-how-far-ai-can-go-in-tracking-and-returns-management/",
+          "date": "Tue, 03 Feb 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Klarna backs Google UCP to power AI agent payments",
+          "link": "https://www.artificialintelligence-news.com/news/klarna-backs-google-ucp-power-ai-agent-payments/",
+          "date": "Mon, 02 Feb 2026 15:16:59 +0000"
+        },
+        {
+          "title": "How SAP is modernising HMRC\u2019s tax infrastructure with AI",
+          "link": "https://www.artificialintelligence-news.com/news/how-sap-modernising-hmrc-tax-infrastructure-with-ai/",
+          "date": "Mon, 02 Feb 2026 11:17:02 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -263,14 +263,14 @@
           "date": "2026-02-03T05:49:59+00:00"
         },
         {
-          "title": "I got frustrated searching, downloading and switching different AI tools so I built an app that puts them in one place",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qut9tz/i_got_frustrated_searching_downloading_and/",
-          "date": "2026-02-03T14:24:31+00:00"
+          "title": "AI Coding Tip 005 - Keep Context Fresh",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1quwlky/ai_coding_tip_005_keep_context_fresh/",
+          "date": "2026-02-03T16:30:04+00:00"
         },
         {
-          "title": "Created a fully offline AI assistant \ud83e\udd16\ud83d\udee1\ufe0f where you can chat with PDFs locally . No cloud , no telemetry , no tracking . Your data stays on your machine \ud83d\udd12.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qusf7x/created_a_fully_offline_ai_assistant_where_you/",
-          "date": "2026-02-03T13:50:04+00:00"
+          "title": "Openclawd: A Free waste of money! And time\u2026",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1quvkig/openclawd_a_free_waste_of_money_and_time/",
+          "date": "2026-02-03T15:52:17+00:00"
         }
       ],
       "error": null
@@ -389,14 +389,14 @@
           "date": "2026-02-03T14:15:17+00:00"
         },
         {
+          "title": "X offices raided in France as UK opens fresh investigation into Grok",
+          "link": "https://www.reddit.com/r/artificial/comments/1quwmca/x_offices_raided_in_france_as_uk_opens_fresh/",
+          "date": "2026-02-03T16:30:44+00:00"
+        },
+        {
           "title": "Anthropic enters F1 with Williams sponsorship deal",
           "link": "https://www.reddit.com/r/artificial/comments/1qusumy/anthropic_enters_f1_with_williams_sponsorship_deal/",
           "date": "2026-02-03T14:07:29+00:00"
-        },
-        {
-          "title": "Qwen3-TTS Studio - local voice cloning + podcast generation",
-          "link": "https://www.reddit.com/r/artificial/comments/1qui9qt/qwen3tts_studio_local_voice_cloning_podcast/",
-          "date": "2026-02-03T04:28:45+00:00"
         }
       ],
       "error": null
@@ -440,12 +440,12 @@
         {
           "title": "Anthropic\u2019s launch of AI legal tool hits shares in European data companies",
           "link": "https://www.theguardian.com/technology/2026/feb/03/anthropic-ai-legal-tool-shares-data-services-pearson",
-          "date": "Tue, 03 Feb 2026 13:38:08 GMT"
+          "date": "Tue, 03 Feb 2026 16:01:01 GMT"
         },
         {
           "title": "UK privacy watchdog opens inquiry into X over Grok AI sexual deepfakes",
           "link": "https://www.theguardian.com/technology/2026/feb/03/uk-privacy-watchdog-opens-inquiry-into-x-over-grok-ai-sexual-deepfakes",
-          "date": "Tue, 03 Feb 2026 14:49:56 GMT"
+          "date": "Tue, 03 Feb 2026 16:46:53 GMT"
         },
         {
           "title": "\u2018Deepfakes spreading and more AI companions\u2019: seven takeaways from the latest artificial intelligence safety report",
