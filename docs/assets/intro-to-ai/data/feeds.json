@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-03T19:43:12.104663+00:00",
+  "generatedAt": "2026-02-03T20:33:03.180180+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -102,6 +102,11 @@
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [
         {
+          "title": "Penguin Solutions Announces CEO Transition",
+          "link": "https://ai-techpark.com/penguin-solutions-announces-ceo-transition/",
+          "date": "Tue, 03 Feb 2026 16:00:00 +0000"
+        },
+        {
           "title": "Kong Introduces MCP Registry in Kong Konnect",
           "link": "https://ai-techpark.com/kong-introduces-mcp-registry-in-kong-konnect/",
           "date": "Tue, 03 Feb 2026 15:45:00 +0000"
@@ -120,11 +125,6 @@
           "title": "Miro Launches MCP Server to Connect Visual Collaboration With AI Coding Tools",
           "link": "https://ai-techpark.com/miro-launches-mcp-server-to-connect-visual-collaboration-with-ai-coding-tools/",
           "date": "Tue, 03 Feb 2026 09:45:00 +0000"
-        },
-        {
-          "title": "Tricentis Expands Leadership to Scale AI-Powered Software Quality",
-          "link": "https://ai-techpark.com/tricentis-expands-leadership-to-scale-ai-powered-software-quality/",
-          "date": "Mon, 02 Feb 2026 15:30:00 +0000"
         }
       ],
       "error": null
@@ -284,19 +284,19 @@
           "date": "2025-09-09T02:25:04+00:00"
         },
         {
-          "title": "Too many idiots are using OpenClaw to trade. Here\u2019s how to trade with AI the right way",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1quju94/too_many_idiots_are_using_openclaw_to_trade_heres/",
-          "date": "2026-02-03T05:49:59+00:00"
-        },
-        {
           "title": "You can make a video just like this for your project in under 5 mins",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1quytqx/you_can_make_a_video_just_like_this_for_your/",
           "date": "2026-02-03T17:49:35+00:00"
         },
         {
-          "title": "Why most AI tools ignore normal people (and why that\u2019s a problem)",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1quygcb/why_most_ai_tools_ignore_normal_people_and_why/",
-          "date": "2026-02-03T17:36:21+00:00"
+          "title": "Too many idiots are using OpenClaw to trade. Here\u2019s how to trade with AI the right way",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1quju94/too_many_idiots_are_using_openclaw_to_trade_heres/",
+          "date": "2026-02-03T05:49:59+00:00"
+        },
+        {
+          "title": "Have you found ways to make LLMs competent at debugging?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qv313c/have_you_found_ways_to_make_llms_competent_at/",
+          "date": "2026-02-03T20:20:35+00:00"
         }
       ],
       "error": null
@@ -361,7 +361,7 @@
       "name": "Announcements - Stability AI",
       "url": "https://stability.ai/blog?format=rss",
       "items": [],
-      "error": null
+      "error": "<unknown>:2:0: syntax error"
     },
     {
       "name": "Ars Technica - All content",
@@ -528,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Investors Dumping American Stocks as the Country Bets Everything on AI",
+          "link": "https://futurism.com/artificial-intelligence/investors-dumping-american-stocks-ai",
+          "date": "Tue, 03 Feb 2026 14:56:44 -0500"
+        },
+        {
           "title": "Police Raid SpaceX\u2019s Brand New Offices",
           "link": "https://futurism.com/artificial-intelligence/police-raid-spacex-x-acquisition",
           "date": "Tue, 03 Feb 2026 13:09:45 -0500"
@@ -546,11 +551,6 @@
           "title": "Mamdani Shuts Down NYC\u2019s Disastrous AI Chatbot",
           "link": "https://futurism.com/artificial-intelligence/ai-chatbot-mamdani",
           "date": "Mon, 02 Feb 2026 16:09:10 -0500"
-        },
-        {
-          "title": "New Study Examines How Often AI Psychosis Actually Happens, and the Results Are Not Good",
-          "link": "https://futurism.com/artificial-intelligence/new-study-anthropic-psychosis-disempowerement",
-          "date": "Sun, 01 Feb 2026 12:45:00 -0500"
         }
       ],
       "error": null
@@ -559,6 +559,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "I Infiltrated Moltbook, the AI-Only Social Network Where Humans Aren\u2019t Allowed",
+          "link": "https://www.wired.com/story/i-infiltrated-moltbook-ai-only-social-network/",
+          "date": "Tue, 03 Feb 2026 19:55:36 +0000"
+        },
         {
           "title": "\u2018Fallout\u2019 Producer Jonathan Nolan on AI: \u2018We\u2019re in Such a Frothy Moment\u2019",
           "link": "https://www.wired.com/story/the-big-interview-podcast-jonathan-nolan-fallout/",
@@ -578,11 +583,6 @@
           "title": "Jeffrey Epstein Had a \u2018Personal Hacker,\u2019 Informant Claims",
           "link": "https://www.wired.com/story/security-news-this-week-jeffrey-epstein-had-a-personal-hacker-informant-claims/",
           "date": "Sat, 31 Jan 2026 11:30:00 +0000"
-        },
-        {
-          "title": "I Let Google\u2019s \u2018Auto Browse\u2019 AI Agent Take Over Chrome. It Didn\u2019t Quite Click",
-          "link": "https://www.wired.com/story/google-chrome-auto-browse-hands-on/",
-          "date": "Fri, 30 Jan 2026 20:41:49 +0000"
         }
       ],
       "error": null
