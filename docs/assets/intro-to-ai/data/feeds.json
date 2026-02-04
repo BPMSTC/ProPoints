@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-02-04T12:54:04.285241+00:00",
+  "generatedAt": "2026-02-04T14:02:15.453603+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Podcast: The Latest Epstein Dump is a Disaster",
+          "link": "https://www.404media.co/podcast-the-latest-epstein-dump-is-a-disaster/",
+          "date": "Wed, 04 Feb 2026 14:00:59 GMT"
+        },
         {
           "title": "Hackers and Trolls Target Wave of ICE Spotting Apps",
           "link": "https://www.404media.co/hackers-and-trolls-target-wave-of-ice-spotting-apps/",
@@ -24,11 +29,6 @@
           "title": "Our Zine About ICE Surveillance Is Here",
           "link": "https://www.404media.co/icezine/",
           "date": "Mon, 02 Feb 2026 15:02:00 GMT"
-        },
-        {
-          "title": "Privacy Telecom \u2018Cape\u2019 Introduces \u2018Disappearing Call Logs\u2019 That Delete Every 24 Hours",
-          "link": "https://www.404media.co/privacy-telecom-cape-introduces-disappearing-call-logs-that-delete-every-24-hours/",
-          "date": "Mon, 02 Feb 2026 14:00:16 GMT"
         }
       ],
       "error": null
@@ -368,6 +368,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "So yeah, I vibe-coded a log colorizer\u2014and I feel good about it",
+          "link": "https://arstechnica.com/features/2026/02/so-yeah-i-vibe-coded-a-log-colorizer-and-i-feel-good-about-it/",
+          "date": "Wed, 04 Feb 2026 12:00:37 +0000"
+        },
+        {
           "title": "Netflix says users can cancel service if HBO Max merger makes it too expensive",
           "link": "https://arstechnica.com/gadgets/2026/02/netflix-claims-subscribers-will-get-more-content-for-less-if-it-buys-hbo-max/",
           "date": "Tue, 03 Feb 2026 23:41:39 +0000"
@@ -386,11 +391,6 @@
           "title": "Newborn dies after mother drinks raw milk during pregnancy",
           "link": "https://arstechnica.com/health/2026/02/newborns-death-spurs-raw-milk-warning-in-new-mexico/",
           "date": "Tue, 03 Feb 2026 21:15:57 +0000"
-        },
-        {
-          "title": "X office raided in France's Grok probe; Elon Musk summoned for questioning",
-          "link": "https://arstechnica.com/tech-policy/2026/02/x-office-raided-in-frances-grok-probe-elon-musk-summoned-for-questioning/",
-          "date": "Tue, 03 Feb 2026 20:13:08 +0000"
         }
       ],
       "error": null
@@ -400,9 +400,19 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
+          "title": "Marvel Rivals studio NetEase Games allegedly bans Generative AI, instructing devs to \u201cnot use it at all\u201d, but some games are still using the tech",
+          "link": "https://www.reddit.com/r/artificial/comments/1qvnt0h/marvel_rivals_studio_netease_games_allegedly_bans/",
+          "date": "2026-02-04T12:54:41+00:00"
+        },
+        {
           "title": "X offices raided in France as UK opens fresh investigation into Grok",
           "link": "https://www.reddit.com/r/artificial/comments/1quwmca/x_offices_raided_in_france_as_uk_opens_fresh/",
           "date": "2026-02-03T16:30:44+00:00"
+        },
+        {
+          "title": "Alibaba releases Qwen3-Coder-Next to rival OpenAI, Anthropic",
+          "link": "https://www.reddit.com/r/artificial/comments/1qvn7o5/alibaba_releases_qwen3codernext_to_rival_openai/",
+          "date": "2026-02-04T12:26:36+00:00"
         },
         {
           "title": "Elon Musk links SpaceX and xAI in a record-setting merger to boost AI",
@@ -413,16 +423,6 @@
           "title": "'We're actively embracing generative AI,' Take-Two boss says, after previously expressing skepticism: 'We have hundreds of pilots and implementations across our company' | CEO Strauss Zelnick says generative AI remains a tool for enabling creators to do bigger and better things",
           "link": "https://www.reddit.com/r/artificial/comments/1qvknmg/were_actively_embracing_generative_ai_taketwo/",
           "date": "2026-02-04T10:04:41+00:00"
-        },
-        {
-          "title": "Alibaba releases Qwen3-Coder-Next to rival OpenAI, Anthropic",
-          "link": "https://www.reddit.com/r/artificial/comments/1qvn7o5/alibaba_releases_qwen3codernext_to_rival_openai/",
-          "date": "2026-02-04T12:26:36+00:00"
-        },
-        {
-          "title": "Anthropic AI CEO Dario Amodei is against US govt allowing sale of Nvidia H200 to China. But it actually makes strategic sense.",
-          "link": "https://www.reddit.com/r/artificial/comments/1qvkfuw/anthropic_ai_ceo_dario_amodei_is_against_us_govt/",
-          "date": "2026-02-04T09:51:36+00:00"
         }
       ],
       "error": null
@@ -431,6 +431,16 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "\u2018Inoculation\u2019 helps people spot political deepfakes, study finds",
+          "link": "https://theconversation.com/inoculation-helps-people-spot-political-deepfakes-study-finds-273739",
+          "date": "2026-02-04T13:35:07Z"
+        },
+        {
+          "title": "Medicare is experimenting with having AI review claims \u2013 a cost-saving measure that could risk denying needed care",
+          "link": "https://theconversation.com/medicare-is-experimenting-with-having-ai-review-claims-a-cost-saving-measure-that-could-risk-denying-needed-care-273754",
+          "date": "2026-02-04T13:32:22Z"
+        },
         {
           "title": "An \u2018AI afterlife\u2019 is now a real option \u2013 but what becomes of your legal status?",
           "link": "https://theconversation.com/an-ai-afterlife-is-now-a-real-option-but-what-becomes-of-your-legal-status-274021",
@@ -445,16 +455,6 @@
           "title": "We run writing workshops at a South African university: what we\u2019ve learnt about how students are using AI, and how to help them",
           "link": "https://theconversation.com/we-run-writing-workshops-at-a-south-african-university-what-weve-learnt-about-how-students-are-using-ai-and-how-to-help-them-273286",
           "date": "2026-02-03T13:51:49Z"
-        },
-        {
-          "title": "Data centers told to pitch in as storms and cold weather boost power demand",
-          "link": "https://theconversation.com/data-centers-told-to-pitch-in-as-storms-and-cold-weather-boost-power-demand-274604",
-          "date": "2026-02-03T13:34:53Z"
-        },
-        {
-          "title": "OpenClaw and Moltbook: why a DIY AI agent and social media for bots feel so new (but really aren\u2019t)",
-          "link": "https://theconversation.com/openclaw-and-moltbook-why-a-diy-ai-agent-and-social-media-for-bots-feel-so-new-but-really-arent-274744",
-          "date": "2026-02-03T05:32:44Z"
         }
       ],
       "error": null
@@ -471,7 +471,7 @@
         {
           "title": "Software sell-off over AI fears hits global stock markets, but FTSE 100 hits record on \u00a38bn insurance takeover \u2013 business live",
           "link": "https://www.theguardian.com/business/live/2026/feb/04/software-stock-selloff-ai-led-disruption-jensen-huang-services-economy-business-live-news-updates",
-          "date": "Wed, 04 Feb 2026 12:10:49 GMT"
+          "date": "Wed, 04 Feb 2026 13:35:53 GMT"
         },
         {
           "title": "Pinterest sacks two engineers for creating software to identify fired workers",
