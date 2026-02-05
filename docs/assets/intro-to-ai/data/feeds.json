@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-02-05T16:43:39.414573+00:00",
+  "generatedAt": "2026-02-05T17:44:30.362034+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Vibe Coding Is Killing Open Source Software, Researchers Argue",
+          "link": "https://www.404media.co/vibe-coding-is-killing-open-source-software-researchers-argue/",
+          "date": "Thu, 05 Feb 2026 16:47:04 GMT"
+        },
         {
           "title": "This SpaceX Situation: Not Good!",
           "link": "https://www.404media.co/this-spacex-situation-not-good/",
@@ -24,11 +29,6 @@
           "title": "Scientists Keep Discovering Mysterious Ancient Tunnels Across Europe",
           "link": "https://www.404media.co/scientists-keep-discovering-mysterious-ancient-tunnels-across-europe/",
           "date": "Wed, 04 Feb 2026 15:53:58 GMT"
-        },
-        {
-          "title": "FBI Couldn\u2019t Get into WaPo Reporter\u2019s iPhone Because It Had Lockdown Mode Enabled",
-          "link": "https://www.404media.co/fbi-couldnt-get-into-wapo-reporters-iphone-because-it-had-lockdown-mode-enabled/",
-          "date": "Wed, 04 Feb 2026 14:05:33 GMT"
         }
       ],
       "error": null
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "Case study: Takeda",
+          "link": "https://www.aiacceleratorinstitute.com/case-study-takeda/",
+          "date": "Thu, 05 Feb 2026 17:03:06 GMT"
+        },
+        {
           "title": "Case study: Citi",
           "link": "https://www.aiacceleratorinstitute.com/case-study-citi/",
           "date": "Wed, 04 Feb 2026 15:36:37 GMT"
@@ -88,11 +93,6 @@
           "title": "Boston\u2019s healthcare AI:  Past changes and what\u2019s next",
           "link": "https://www.aiacceleratorinstitute.com/boston-healthcare-ai/",
           "date": "Fri, 30 Jan 2026 13:31:46 GMT"
-        },
-        {
-          "title": "Austin\u2019s AI & tech landscape:  How it's evolved",
-          "link": "https://www.aiacceleratorinstitute.com/austins-ai-tech-landscape-how-its-evolved/",
-          "date": "Thu, 29 Jan 2026 15:24:36 GMT"
         }
       ],
       "error": null
@@ -294,9 +294,9 @@
           "date": "2026-02-05T05:23:57+00:00"
         },
         {
-          "title": "best workflow yet for many AI models with shared memory",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qwqb5e/best_workflow_yet_for_many_ai_models_with_shared/",
-          "date": "2026-02-05T16:43:20+00:00"
+          "title": "Pair programming of two models for dev, and the code review model is a Dominatrix",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qwqxhg/pair_programming_of_two_models_for_dev_and_the/",
+          "date": "2026-02-05T17:05:30+00:00"
         }
       ],
       "error": null
@@ -368,6 +368,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "This black hole \"burps\" with Death Star energy",
+          "link": "https://arstechnica.com/science/2026/02/this-black-hole-burps-with-death-star-energy/",
+          "date": "Thu, 05 Feb 2026 16:02:41 +0000"
+        },
+        {
+          "title": "NASA changes its mind, will allow Artemis astronauts to take iPhones to the Moon",
+          "link": "https://arstechnica.com/space/2026/02/nasa-will-finally-allow-astronauts-to-bring-their-iphones-to-space/",
+          "date": "Thu, 05 Feb 2026 15:46:18 +0000"
+        },
+        {
+          "title": "Tesla slipped behind VW in European EV sales last year",
+          "link": "https://arstechnica.com/cars/2026/02/tesla-slipped-behind-vw-in-european-ev-sales-last-year/",
+          "date": "Thu, 05 Feb 2026 15:16:50 +0000"
+        },
+        {
           "title": "Steam Machine and Steam Frame delays are the latest product of the RAM crisis",
           "link": "https://arstechnica.com/gadgets/2026/02/ram-shortage-delays-valves-steam-machine-desktop-and-steam-frame-headset/",
           "date": "Thu, 05 Feb 2026 14:22:41 +0000"
@@ -376,21 +391,6 @@
           "title": "Increase of AI bots on the Internet sparks arms race",
           "link": "https://arstechnica.com/ai/2026/02/increase-of-ai-bots-on-the-internet-sparks-arms-race/",
           "date": "Thu, 05 Feb 2026 14:21:20 +0000"
-        },
-        {
-          "title": "Museums incorporate \"scent of the afterlife\" into Egyptian exhibits",
-          "link": "https://arstechnica.com/science/2026/02/museums-incorporate-scent-of-the-afterlife-into-egyptian-exhibits/",
-          "date": "Thu, 05 Feb 2026 05:01:57 +0000"
-        },
-        {
-          "title": "Microsoft releases urgent Office patch. Russian-state hackers pounce.",
-          "link": "https://arstechnica.com/security/2026/02/russian-state-hackers-exploit-office-vulnerability-to-infect-computers/",
-          "date": "Wed, 04 Feb 2026 23:08:04 +0000"
-        },
-        {
-          "title": "FBI stymied by Apple's Lockdown Mode after seizing journalist's iPhone",
-          "link": "https://arstechnica.com/tech-policy/2026/02/fbi-stymied-by-apples-lockdown-mode-after-seizing-journalists-iphone/",
-          "date": "Wed, 04 Feb 2026 22:41:15 +0000"
         }
       ],
       "error": null
@@ -405,14 +405,14 @@
           "date": "2026-02-05T10:30:54+00:00"
         },
         {
-          "title": "A new platform, Rent-a-Human, lets AI agents pay humans to do the real-world work they can't",
-          "link": "https://www.reddit.com/r/artificial/comments/1qwogcl/a_new_platform_rentahuman_lets_ai_agents_pay/",
-          "date": "2026-02-05T15:35:32+00:00"
-        },
-        {
           "title": "Early user test of a persistent AI narrative system with kids \u2014 some unexpected engagement patterns",
           "link": "https://www.reddit.com/r/artificial/comments/1qwo82n/early_user_test_of_a_persistent_ai_narrative/",
           "date": "2026-02-05T15:26:53+00:00"
+        },
+        {
+          "title": "A new platform, Rent-a-Human, lets AI agents pay humans to do the real-world work they can't",
+          "link": "https://www.reddit.com/r/artificial/comments/1qwogcl/a_new_platform_rentahuman_lets_ai_agents_pay/",
+          "date": "2026-02-05T15:35:32+00:00"
         },
         {
           "title": "The 18-month gap between frontier and open-source AI models has shrunk to 6 months - what this means",
@@ -469,6 +469,11 @@
           "date": "Thu, 05 Feb 2026 07:00:24 GMT"
         },
         {
+          "title": "Let\u2019s reach out to American English | Brief letters",
+          "link": "https://www.theguardian.com/science/2026/feb/05/lets-reach-out-to-american-english",
+          "date": "Thu, 05 Feb 2026 17:41:43 GMT"
+        },
+        {
           "title": "\u2018In the end, you feel blank\u2019: India\u2019s female workers watching hours of abusive content to train AI",
           "link": "https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai",
           "date": "Thu, 05 Feb 2026 08:00:24 GMT"
@@ -482,11 +487,6 @@
           "title": "Software sell-off over AI fears hits global stock markets, but FTSE 100 finishes at closing high on \u00a38bn insurance takeover \u2013 as it happened",
           "link": "https://www.theguardian.com/business/live/2026/feb/04/software-stock-selloff-ai-led-disruption-jensen-huang-services-economy-business-live-news-updates",
           "date": "Wed, 04 Feb 2026 17:13:28 GMT"
-        },
-        {
-          "title": "Pinterest sacks two engineers for creating software to identify fired workers",
-          "link": "https://www.theguardian.com/technology/2026/feb/04/pinterest-sacks-two-engineers-for-software-identify-fired-workers",
-          "date": "Wed, 04 Feb 2026 09:48:34 GMT"
         }
       ],
       "error": null
