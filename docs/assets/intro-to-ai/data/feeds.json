@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-05T12:57:02.158112+00:00",
+  "generatedAt": "2026-02-05T14:06:10.671063+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "EdgeLake Advances to LF Edge Stage 2",
-          "link": "https://ai-techpark.com/edgelake-advances-to-lf-edge-stage-2/",
-          "date": "Thu, 05 Feb 2026 07:45:00 +0000"
-        },
-        {
-          "title": "Apollo appoints new CEO to scale next phase of growth",
-          "link": "https://ai-techpark.com/apollo-appoints-new-ceo-to-scale-next-phase-of-growth/",
-          "date": "Thu, 05 Feb 2026 06:21:20 +0000"
-        },
-        {
-          "title": "Impulse AI Launches Autonomous ML Engineer Beating 97.5% on Kaggle",
-          "link": "https://ai-techpark.com/impulse-ai-launches-autonomous-ml-engineer-beating-97-5-on-kaggle/",
-          "date": "Wed, 04 Feb 2026 15:15:00 +0000"
-        },
-        {
-          "title": "Ataccama Sees Record Q4 Enterprise Wins as Data Trust Fuels AI",
-          "link": "https://ai-techpark.com/ataccama-sees-record-q4-enterprise-wins-as-data-trust-fuels-ai/",
-          "date": "Wed, 04 Feb 2026 14:30:00 +0000"
-        },
-        {
-          "title": "Collate Joins Industry Leaders to Advance OSI for Data and AI",
-          "link": "https://ai-techpark.com/collate-joins-industry-leaders-to-advance-osi-for-data-and-ai/",
-          "date": "Wed, 04 Feb 2026 14:15:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -284,14 +258,14 @@
           "date": "2025-09-09T02:25:04+00:00"
         },
         {
-          "title": "Best uncensored AI Generator 2026 ?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qwcmqv/best_uncensored_ai_generator_2026/",
-          "date": "2026-02-05T05:23:57+00:00"
-        },
-        {
           "title": "P&G created a product that worked perfectly for people who would never buy it. Once they sold the reward of being done the product became a $1b+ brand",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qwkdlv/pg_created_a_product_that_worked_perfectly_for/",
           "date": "2026-02-05T12:47:59+00:00"
+        },
+        {
+          "title": "Best uncensored AI Generator 2026 ?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qwcmqv/best_uncensored_ai_generator_2026/",
+          "date": "2026-02-05T05:23:57+00:00"
         },
         {
           "title": "Dictionary of Technical Terms",
@@ -405,11 +379,6 @@
           "date": "2026-02-05T10:30:54+00:00"
         },
         {
-          "title": "I Spent a Week with OpenClaw AI Tool. Here's What $0 Solved That Thousands Couldn't.",
-          "link": "https://www.reddit.com/r/artificial/comments/1qwkigq/i_spent_a_week_with_openclaw_ai_tool_heres_what_0/",
-          "date": "2026-02-05T12:54:18+00:00"
-        },
-        {
           "title": "The 18-month gap between frontier and open-source AI models has shrunk to 6 months - what this means",
           "link": "https://www.reddit.com/r/artificial/comments/1qvs8q6/the_18month_gap_between_frontier_and_opensource/",
           "date": "2026-02-04T15:54:42+00:00"
@@ -423,6 +392,11 @@
           "title": "Simple Machine Learning Testing Tools Guide",
           "link": "https://www.reddit.com/r/artificial/comments/1qwbjhx/simple_machine_learning_testing_tools_guide/",
           "date": "2026-02-05T04:30:00+00:00"
+        },
+        {
+          "title": "'We're actively embracing generative AI,' Take-Two boss says, after previously expressing skepticism: 'We have hundreds of pilots and implementations across our company' | CEO Strauss Zelnick says generative AI remains a tool for enabling creators to do bigger and better things",
+          "link": "https://www.reddit.com/r/artificial/comments/1qvknmg/were_actively_embracing_generative_ai_taketwo/",
+          "date": "2026-02-04T10:04:41+00:00"
         }
       ],
       "error": null
@@ -431,6 +405,16 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "AI-generated text is overwhelming institutions \u2013 setting off a no-win \u2018arms race\u2019 with AI detectors",
+          "link": "https://theconversation.com/ai-generated-text-is-overwhelming-institutions-setting-off-a-no-win-arms-race-with-ai-detectors-274720",
+          "date": "2026-02-05T13:27:56Z"
+        },
+        {
+          "title": "Moltbook: AI bots use social network to create religions and deal digital drugs \u2013 but are some really humans in disguise?",
+          "link": "https://theconversation.com/moltbook-ai-bots-use-social-network-to-create-religions-and-deal-digital-drugs-but-are-some-really-humans-in-disguise-274895",
+          "date": "2026-02-05T13:05:24Z"
+        },
         {
           "title": "News sites are locking out the Internet Archive to stop AI crawling. Is the \u2018open web\u2019 closing?",
           "link": "https://theconversation.com/news-sites-are-locking-out-the-internet-archive-to-stop-ai-crawling-is-the-open-web-closing-274968",
@@ -445,16 +429,6 @@
           "title": "Medicare is experimenting with having AI review claims \u2013 a cost-saving measure that could risk denying needed care",
           "link": "https://theconversation.com/medicare-is-experimenting-with-having-ai-review-claims-a-cost-saving-measure-that-could-risk-denying-needed-care-273754",
           "date": "2026-02-04T13:32:22Z"
-        },
-        {
-          "title": "An \u2018AI afterlife\u2019 is now a real option \u2013 but what becomes of your legal status?",
-          "link": "https://theconversation.com/an-ai-afterlife-is-now-a-real-option-but-what-becomes-of-your-legal-status-274021",
-          "date": "2026-02-04T00:40:28Z"
-        },
-        {
-          "title": "AI is coming to Olympic judging: what makes it a game changer?",
-          "link": "https://theconversation.com/ai-is-coming-to-olympic-judging-what-makes-it-a-game-changer-274313",
-          "date": "2026-02-03T14:27:22Z"
         }
       ],
       "error": null
@@ -528,6 +502,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Anthropic Just Sent Shockwaves Through the Entire Stock Market by Releasing a New AI Tool",
+          "link": "https://futurism.com/artificial-intelligence/anthropic-shockwaves-stock-market",
+          "date": "Thu, 05 Feb 2026 09:01:30 -0500"
+        },
+        {
           "title": "New Site Lets AI Rent Human Bodies",
           "link": "https://futurism.com/artificial-intelligence/ai-rent-human-bodies",
           "date": "Wed, 04 Feb 2026 16:05:00 -0500"
@@ -546,11 +525,6 @@
           "title": "Investors Dumping American Stocks as the Country Bets Everything on AI",
           "link": "https://futurism.com/artificial-intelligence/investors-dumping-american-stocks-ai",
           "date": "Tue, 03 Feb 2026 14:56:44 -0500"
-        },
-        {
-          "title": "Police Raid SpaceX\u2019s Brand New Offices",
-          "link": "https://futurism.com/artificial-intelligence/police-raid-spacex-x-acquisition",
-          "date": "Tue, 03 Feb 2026 13:09:45 -0500"
         }
       ],
       "error": null
