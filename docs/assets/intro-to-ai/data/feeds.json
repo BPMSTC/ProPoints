@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-06T05:51:43.096412+00:00",
+  "generatedAt": "2026-02-06T06:51:36.628911+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "HighRes & Opentrons Launch AI Agent-to-Agent Lab Workflow",
+          "link": "https://ai-techpark.com/highres-opentrons-launch-ai-agent-to-agent-lab-workflow/",
+          "date": "Thu, 05 Feb 2026 14:45:00 +0000"
+        },
+        {
+          "title": "Torq Hires Virgin Atlantic CISO to Lead Agentic AI Shift",
+          "link": "https://ai-techpark.com/torq-hires-virgin-atlantic-ciso-to-lead-agentic-ai-shift/",
+          "date": "Thu, 05 Feb 2026 13:30:00 +0000"
+        },
+        {
+          "title": "Faraday Future Unveils Humanoid & Bionic Robot Series",
+          "link": "https://ai-techpark.com/faraday-future-unveils-humanoid-bionic-robot-series/",
+          "date": "Thu, 05 Feb 2026 12:45:00 +0000"
+        },
+        {
+          "title": "Elastic Adds Multilingual Reranking to Inference Service",
+          "link": "https://ai-techpark.com/elastic-adds-multilingual-reranking-to-inference-service/",
+          "date": "Thu, 05 Feb 2026 12:30:00 +0000"
+        },
+        {
+          "title": "EdgeLake Advances to LF Edge Stage 2",
+          "link": "https://ai-techpark.com/edgelake-advances-to-lf-edge-stage-2/",
+          "date": "Thu, 05 Feb 2026 07:45:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -268,9 +294,9 @@
           "date": "2026-02-05T21:15:17+00:00"
         },
         {
-          "title": "New to AI what tools do you actually use day to day?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qx8go1/new_to_ai_what_tools_do_you_actually_use_day_to/",
-          "date": "2026-02-06T04:58:13+00:00"
+          "title": "[FOSS - localhost] Introducing StatiBaker (part of ITIR suite) -- Ultimate Memory Prosthetic -- Keep track of what you're doing (ideal for agentic/openclaw/moltbook)",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qxa2b6/foss_localhost_introducing_statibaker_part_of/",
+          "date": "2026-02-06T06:22:27+00:00"
         }
       ],
       "error": null
@@ -379,6 +405,11 @@
           "date": "2026-02-05T10:30:54+00:00"
         },
         {
+          "title": "An experiment tested whether AI can pass human identity verification systems",
+          "link": "https://www.reddit.com/r/artificial/comments/1qx9pws/an_experiment_tested_whether_ai_can_pass_human/",
+          "date": "2026-02-06T06:03:29+00:00"
+        },
+        {
           "title": "Early user test of a persistent AI narrative system with kids \u2014 some unexpected engagement patterns",
           "link": "https://www.reddit.com/r/artificial/comments/1qwo82n/early_user_test_of_a_persistent_ai_narrative/",
           "date": "2026-02-05T15:26:53+00:00"
@@ -392,11 +423,6 @@
           "title": "Alibaba releases Qwen3-Coder-Next to rival OpenAI, Anthropic",
           "link": "https://www.reddit.com/r/artificial/comments/1qvn7o5/alibaba_releases_qwen3codernext_to_rival_openai/",
           "date": "2026-02-04T12:26:36+00:00"
-        },
-        {
-          "title": "Simple Machine Learning Testing Tools Guide",
-          "link": "https://www.reddit.com/r/artificial/comments/1qwbjhx/simple_machine_learning_testing_tools_guide/",
-          "date": "2026-02-05T04:30:00+00:00"
         }
       ],
       "error": null
