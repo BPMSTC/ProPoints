@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-06T07:44:21.417685+00:00",
+  "generatedAt": "2026-02-06T08:38:21.766331+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -272,8 +272,34 @@
     {
       "name": "Ai Prompt Programming",
       "url": "https://www.reddit.com/r/aipromptprogramming/.rss",
-      "items": [],
-      "error": "<unknown>:2:12: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Agentic Flow: Easily switch between low/no-cost AI models (OpenRouter/Onnx/Gemini) in Claude Code and Claude Agent SDK. Build agents in Claude Code, deploy them anywhere. >_ npx agentic-flow",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1nzvbsl/agentic_flow_easily_switch_between_lownocost_ai/",
+          "date": "2025-10-06T21:02:20+00:00"
+        },
+        {
+          "title": "I created an Agentic Coding Competition MCP for Cline/Claude-Code/Cursor/Co-pilot using E2B Sandboxes. I'm looking for some Beta Testers. > npx flow-nexus@latest",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1nc75k5/i_created_an_agentic_coding_competition_mcp_for/",
+          "date": "2025-09-09T02:25:04+00:00"
+        },
+        {
+          "title": "Paid vs Free AI tools you must Save! #aitools #ai",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qx727e/paid_vs_free_ai_tools_you_must_save_aitools_ai/",
+          "date": "2026-02-06T03:48:15+00:00"
+        },
+        {
+          "title": "Built two full-stack hackathon apps (AI-assisted) \u2014 would love UI/UX and feature suggestions",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qxbm6j/built_two_fullstack_hackathon_apps_aiassisted/",
+          "date": "2026-02-06T07:54:09+00:00"
+        },
+        {
+          "title": "[FOSS - localhost] Introducing StatiBaker (part of ITIR suite) -- Ultimate Memory Prosthetic -- Keep track of what you're doing (ideal for agentic/openclaw/moltbook)",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qxa2b6/foss_localhost_introducing_statibaker_part_of/",
+          "date": "2026-02-06T06:22:27+00:00"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI \u2013 SiliconANGLE",
@@ -372,8 +398,34 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
-      "error": "<unknown>:2:12: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "\u2018In the end, you feel blank\u2019: India\u2019s female workers watching hours of abusive content to train AI",
+          "link": "https://www.reddit.com/r/artificial/comments/1qwhthi/in_the_end_you_feel_blank_indias_female_workers/",
+          "date": "2026-02-05T10:30:54+00:00"
+        },
+        {
+          "title": "An experiment tested whether AI can pass human identity verification systems",
+          "link": "https://www.reddit.com/r/artificial/comments/1qx9pws/an_experiment_tested_whether_ai_can_pass_human/",
+          "date": "2026-02-06T06:03:29+00:00"
+        },
+        {
+          "title": "Early user test of a persistent AI narrative system with kids \u2014 some unexpected engagement patterns",
+          "link": "https://www.reddit.com/r/artificial/comments/1qwo82n/early_user_test_of_a_persistent_ai_narrative/",
+          "date": "2026-02-05T15:26:53+00:00"
+        },
+        {
+          "title": "The 18-month gap between frontier and open-source AI models has shrunk to 6 months - what this means",
+          "link": "https://www.reddit.com/r/artificial/comments/1qvs8q6/the_18month_gap_between_frontier_and_opensource/",
+          "date": "2026-02-04T15:54:42+00:00"
+        },
+        {
+          "title": "Alibaba releases Qwen3-Coder-Next to rival OpenAI, Anthropic",
+          "link": "https://www.reddit.com/r/artificial/comments/1qvn7o5/alibaba_releases_qwen3codernext_to_rival_openai/",
+          "date": "2026-02-04T12:26:36+00:00"
+        }
+      ],
+      "error": null
     },
     {
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
@@ -412,6 +464,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Deepfake fraud taking place on an industrial scale, study finds",
+          "link": "https://www.theguardian.com/technology/2026/feb/06/deepfake-taking-place-on-an-industrial-scale-study-finds",
+          "date": "Fri, 06 Feb 2026 08:00:02 GMT"
+        },
+        {
           "title": "Let\u2019s reach out to American English | Brief letters",
           "link": "https://www.theguardian.com/science/2026/feb/05/lets-reach-out-to-american-english",
           "date": "Thu, 05 Feb 2026 17:41:43 GMT"
@@ -430,11 +487,6 @@
           "title": "Mandelson\u2019s links with US tech firm Palantir must be fully exposed, campaigners warn",
           "link": "https://www.theguardian.com/politics/2026/feb/04/peter-mandelson-palantir-jeffrey-epstein-government",
           "date": "Wed, 04 Feb 2026 19:41:13 GMT"
-        },
-        {
-          "title": "Software sell-off over AI fears hits global stock markets, but FTSE 100 finishes at closing high on \u00a38bn insurance takeover \u2013 as it happened",
-          "link": "https://www.theguardian.com/business/live/2026/feb/04/software-stock-selloff-ai-led-disruption-jensen-huang-services-economy-business-live-news-updates",
-          "date": "Wed, 04 Feb 2026 17:13:28 GMT"
         }
       ],
       "error": null
