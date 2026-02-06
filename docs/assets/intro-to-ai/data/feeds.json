@@ -1,15 +1,10 @@
 {
-  "generatedAt": "2026-02-06T18:45:17.453375+00:00",
+  "generatedAt": "2026-02-06T19:36:30.941008+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
-        {
-          "title": "Darkness, democracy, and locking it down",
-          "link": "https://www.404media.co/darkness-democracy-and-locking-it-down-2/",
-          "date": "Fri, 06 Feb 2026 18:33:33 GMT"
-        },
         {
           "title": "Behind the Blog: The Neverending Cybersecurity Story",
           "link": "https://www.404media.co/behind-the-blog-the-neverending-cybersecurity-story/",
@@ -29,6 +24,11 @@
           "title": "Vibe Coding Is Killing Open Source Software, Researchers Argue",
           "link": "https://www.404media.co/vibe-coding-is-killing-open-source-software-researchers-argue/",
           "date": "Thu, 05 Feb 2026 16:47:04 GMT"
+        },
+        {
+          "title": "This SpaceX Situation: Not Good!",
+          "link": "https://www.404media.co/this-spacex-situation-not-good/",
+          "date": "Thu, 05 Feb 2026 16:37:23 GMT"
         }
       ],
       "error": null
@@ -410,19 +410,19 @@
           "date": "2026-02-06T10:22:08+00:00"
         },
         {
+          "title": "How new AI technology is helping detect and prevent wildfires",
+          "link": "https://www.reddit.com/r/artificial/comments/1qxqkws/how_new_ai_technology_is_helping_detect_and/",
+          "date": "2026-02-06T19:01:02+00:00"
+        },
+        {
           "title": "Early observations from an autonomous AI newsroom with cryptographic provenance",
           "link": "https://www.reddit.com/r/artificial/comments/1qxpjir/early_observations_from_an_autonomous_ai_newsroom/",
           "date": "2026-02-06T18:23:52+00:00"
         },
         {
-          "title": "Turning the data center boom into long-term, local prosperity",
-          "link": "https://www.reddit.com/r/artificial/comments/1qxloif/turning_the_data_center_boom_into_longterm_local/",
-          "date": "2026-02-06T16:06:09+00:00"
-        },
-        {
-          "title": "\u2018In the end, you feel blank\u2019: India\u2019s female workers watching hours of abusive content to train AI",
-          "link": "https://www.reddit.com/r/artificial/comments/1qwhthi/in_the_end_you_feel_blank_indias_female_workers/",
-          "date": "2026-02-05T10:30:54+00:00"
+          "title": "In a study, AI model OpenScholar synthesizes scientific research and cites sources as accurately as human experts",
+          "link": "https://www.reddit.com/r/artificial/comments/1qxq806/in_a_study_ai_model_openscholar_synthesizes/",
+          "date": "2026-02-06T18:48:05+00:00"
         }
       ],
       "error": null
@@ -560,6 +560,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "New York Is the Latest State to Consider a Data Center Pause",
+          "link": "https://www.wired.com/story/new-york-is-the-latest-state-to-consider-a-data-center-pause/",
+          "date": "Fri, 06 Feb 2026 18:58:46 +0000"
+        },
+        {
           "title": "The Only Thing Standing Between Humanity and AI Apocalypse Is \u2026 Claude?",
           "link": "https://www.wired.com/story/the-only-thing-standing-between-humanity-and-ai-apocalypse-is-claude/",
           "date": "Fri, 06 Feb 2026 16:33:18 +0000"
@@ -578,11 +583,6 @@
           "title": "Hollywood Is Losing Audiences to AI Fatigue",
           "link": "https://www.wired.com/story/hollywood-is-losing-audiences-to-ai-fatigue/",
           "date": "Thu, 05 Feb 2026 10:30:00 +0000"
-        },
-        {
-          "title": "A New AI Math Startup Just Cracked 4 Previously Unsolved Problems",
-          "link": "https://www.wired.com/story/a-new-ai-math-ai-startup-just-cracked-4-previously-unsolved-problems/",
-          "date": "Wed, 04 Feb 2026 19:00:00 +0000"
         }
       ],
       "error": null
