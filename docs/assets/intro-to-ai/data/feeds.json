@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-07T12:42:36.835828+00:00",
+  "generatedAt": "2026-02-07T13:41:48.543222+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Shield AI Expands Partnership for Autonomous Drone AI",
+          "link": "https://ai-techpark.com/shield-ai-expands-partnership-for-autonomous-drone-ai/",
+          "date": "Fri, 06 Feb 2026 15:21:00 +0000"
+        },
+        {
+          "title": "Goodfire Raises $150M to Advance AI Model Interpretability",
+          "link": "https://ai-techpark.com/goodfire-raises-150m-to-advance-ai-model-interpretability/",
+          "date": "Fri, 06 Feb 2026 14:30:00 +0000"
+        },
+        {
+          "title": "Cyberhaven Research Highlights Urgent Need for AI Data Governance",
+          "link": "https://ai-techpark.com/cyberhaven-research-highlights-urgent-need-for-ai-data-governance/",
+          "date": "Fri, 06 Feb 2026 14:00:00 +0000"
+        },
+        {
+          "title": "Domino Data Lab Taps Admiral Grady to Lead Public Sector AI",
+          "link": "https://ai-techpark.com/domino-data-lab-taps-admiral-grady-to-lead-public-sector-ai/",
+          "date": "Fri, 06 Feb 2026 12:30:00 +0000"
+        },
+        {
+          "title": "HighRes & Opentrons Launch AI Agent-to-Agent Lab Workflow",
+          "link": "https://ai-techpark.com/highres-opentrons-launch-ai-agent-to-agent-lab-workflow/",
+          "date": "Thu, 05 Feb 2026 14:45:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -268,9 +294,9 @@
           "date": "2026-02-07T06:58:51+00:00"
         },
         {
-          "title": "I prompted a dumb game in 15 mins...\ud83e\udd21\ud83d\udd79\ufe0f",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qyc78d/i_prompted_a_dumb_game_in_15_mins/",
-          "date": "2026-02-07T12:08:43+00:00"
+          "title": "Free* Uncensored AI video generator",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qycu6f/free_uncensored_ai_video_generator/",
+          "date": "2026-02-07T12:42:40+00:00"
         }
       ],
       "error": null
@@ -342,6 +368,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Under Trump, EPA\u2019s enforcement of environmental laws collapses, report finds",
+          "link": "https://arstechnica.com/science/2026/02/under-trump-epas-enforcement-of-environmental-laws-collapses-report-finds/",
+          "date": "Sat, 07 Feb 2026 12:00:35 +0000"
+        },
+        {
           "title": "Sixteen Claude AI agents working together created a new C compiler",
           "link": "https://arstechnica.com/ai/2026/02/sixteen-claude-ai-agents-working-together-created-a-new-c-compiler/",
           "date": "Fri, 06 Feb 2026 23:40:58 +0000"
@@ -360,11 +391,6 @@
           "title": "Malicious packages for dYdX cryptocurrency exchange empties user wallets",
           "link": "https://arstechnica.com/security/2026/02/malicious-packages-for-dydx-cryptocurrency-exchange-empties-user-wallets/",
           "date": "Fri, 06 Feb 2026 22:16:51 +0000"
-        },
-        {
-          "title": "Why $700 could be a \"death sentence\" for the Steam Machine",
-          "link": "https://arstechnica.com/gaming/2026/02/why-a-bump-to-700-could-be-a-death-sentence-for-the-steam-machine/",
-          "date": "Fri, 06 Feb 2026 21:53:05 +0000"
         }
       ],
       "error": null
@@ -502,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Anthropic Insiders Afraid They\u2019ve Crossed a Line",
+          "link": "https://futurism.com/artificial-intelligence/anthropic-agents-automation",
+          "date": "Sat, 07 Feb 2026 08:15:00 -0500"
+        },
+        {
           "title": "Man Wakes Up Homeless, Realizes He Fell Into AI Psychosis That Destroyed His Entire Life",
           "link": "https://futurism.com/artificial-intelligence/ai-psychosis-man-wakes-up-homeless",
           "date": "Sat, 07 Feb 2026 07:30:00 -0500"
@@ -520,11 +551,6 @@
           "title": "Investors Concerned AI Bubble Is Finally Popping",
           "link": "https://futurism.com/artificial-intelligence/investors-concerned-ai-bubble-popping",
           "date": "Fri, 06 Feb 2026 13:20:31 -0500"
-        },
-        {
-          "title": "Sam Altman Is Spiraling",
-          "link": "https://futurism.com/artificial-intelligence/sam-altman-anthropic-ads",
-          "date": "Thu, 05 Feb 2026 11:02:00 -0500"
         }
       ],
       "error": null
