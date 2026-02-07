@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-06T23:23:00.635338+00:00",
+  "generatedAt": "2026-02-07T01:48:58.312394+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Shield AI Expands Partnership for Autonomous Drone AI",
+          "link": "https://ai-techpark.com/shield-ai-expands-partnership-for-autonomous-drone-ai/",
+          "date": "Fri, 06 Feb 2026 15:21:00 +0000"
+        },
+        {
+          "title": "Goodfire Raises $150M to Advance AI Model Interpretability",
+          "link": "https://ai-techpark.com/goodfire-raises-150m-to-advance-ai-model-interpretability/",
+          "date": "Fri, 06 Feb 2026 14:30:00 +0000"
+        },
+        {
+          "title": "Cyberhaven Research Highlights Urgent Need for AI Data Governance",
+          "link": "https://ai-techpark.com/cyberhaven-research-highlights-urgent-need-for-ai-data-governance/",
+          "date": "Fri, 06 Feb 2026 14:00:00 +0000"
+        },
+        {
+          "title": "Domino Data Lab Taps Admiral Grady to Lead Public Sector AI",
+          "link": "https://ai-techpark.com/domino-data-lab-taps-admiral-grady-to-lead-public-sector-ai/",
+          "date": "Fri, 06 Feb 2026 12:30:00 +0000"
+        },
+        {
+          "title": "HighRes & Opentrons Launch AI Agent-to-Agent Lab Workflow",
+          "link": "https://ai-techpark.com/highres-opentrons-launch-ai-agent-to-agent-lab-workflow/",
+          "date": "Thu, 05 Feb 2026 14:45:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -258,19 +284,19 @@
           "date": "2025-09-09T02:25:04+00:00"
         },
         {
-          "title": "Seedance 2.0 (teaser) better than Sora 2! True multimodal video creation (text + images + video + audio) and seriously controllable outputs.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qxko63/seedance_20_teaser_better_than_sora_2_true/",
-          "date": "2026-02-06T15:29:34+00:00"
+          "title": "I found a prompt structure that makes ChatGPT solve problems it normally refuses",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qxuyiz/i_found_a_prompt_structure_that_makes_chatgpt/",
+          "date": "2026-02-06T21:46:07+00:00"
         },
         {
-          "title": "Codex 5.3 writing tests feels like cheating",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qxx9kt/codex_53_writing_tests_feels_like_cheating/",
-          "date": "2026-02-06T23:17:33+00:00"
+          "title": "Are we nearing the end of manual prompt engineering?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qxyxbv/are_we_nearing_the_end_of_manual_prompt/",
+          "date": "2026-02-07T00:26:48+00:00"
         },
         {
-          "title": "Salaam\ud83d\ude18\ud83d\ude18\ud83d\ude18",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qxwjf8/salaam/",
-          "date": "2026-02-06T22:48:22+00:00"
+          "title": "Does this reduce prompt engineering effort, or just hide it behind another layer?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qxzbaj/does_this_reduce_prompt_engineering_effort_or/",
+          "date": "2026-02-07T00:43:09+00:00"
         }
       ],
       "error": null
@@ -342,7 +368,17 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Randomly quoting Ray Bradbury did not save lawyer from losing case over AI errors",
+          "title": "Sixteen Claude AI agents working together created a new C compiler",
+          "link": "https://arstechnica.com/ai/2026/02/sixteen-claude-ai-agents-working-together-created-a-new-c-compiler/",
+          "date": "Fri, 06 Feb 2026 23:40:58 +0000"
+        },
+        {
+          "title": "Penisgate erupts at Olympics; scandal exposes risks of bulking your bulge",
+          "link": "https://arstechnica.com/health/2026/02/penisgate-erupts-at-olympics-scandal-exposes-risks-of-bulking-your-budge/",
+          "date": "Fri, 06 Feb 2026 23:08:42 +0000"
+        },
+        {
+          "title": "Lawyer sets new standard for abuse of AI; judge tosses case",
           "link": "https://arstechnica.com/tech-policy/2026/02/randomly-quoting-ray-bradbury-did-not-save-lawyer-from-losing-case-over-ai-errors/",
           "date": "Fri, 06 Feb 2026 22:43:12 +0000"
         },
@@ -355,16 +391,6 @@
           "title": "Why $700 could be a \"death sentence\" for the Steam Machine",
           "link": "https://arstechnica.com/gaming/2026/02/why-a-bump-to-700-could-be-a-death-sentence-for-the-steam-machine/",
           "date": "Fri, 06 Feb 2026 21:53:05 +0000"
-        },
-        {
-          "title": "COVID-19 cleared the skies but also supercharged methane emissions",
-          "link": "https://arstechnica.com/science/2026/02/covid-19-cleared-the-skies-but-also-supercharged-methane-emissions/",
-          "date": "Fri, 06 Feb 2026 21:05:45 +0000"
-        },
-        {
-          "title": "Waymo leverages Genie 3 to create a world model for self-driving cars",
-          "link": "https://arstechnica.com/google/2026/02/waymo-leverages-genie-3-to-create-a-world-model-for-self-driving-cars/",
-          "date": "Fri, 06 Feb 2026 20:44:35 +0000"
         }
       ],
       "error": null
@@ -374,14 +400,14 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "Anthropic and OpenAI released flagship models 27 minutes apart -- the AI pricing and capability gap is getting weird",
-          "link": "https://www.reddit.com/r/artificial/comments/1qxdz7q/anthropic_and_openai_released_flagship_models_27/",
-          "date": "2026-02-06T10:22:08+00:00"
-        },
-        {
           "title": "Goldman Sachs taps Anthropic\u2019s Claude to automate accounting, compliance roles",
           "link": "https://www.reddit.com/r/artificial/comments/1qxv9jg/goldman_sachs_taps_anthropics_claude_to_automate/",
           "date": "2026-02-06T21:58:15+00:00"
+        },
+        {
+          "title": "Anthropic and OpenAI released flagship models 27 minutes apart -- the AI pricing and capability gap is getting weird",
+          "link": "https://www.reddit.com/r/artificial/comments/1qxdz7q/anthropic_and_openai_released_flagship_models_27/",
+          "date": "2026-02-06T10:22:08+00:00"
         },
         {
           "title": "Chinese teams keep shipping Western AI tools faster than Western companies do",
@@ -389,14 +415,14 @@
           "date": "2026-02-06T12:56:31+00:00"
         },
         {
-          "title": "The Politics Of Superintelligence",
-          "link": "https://www.reddit.com/r/artificial/comments/1qxvmli/the_politics_of_superintelligence/",
-          "date": "2026-02-06T22:12:19+00:00"
-        },
-        {
           "title": "How new AI technology is helping detect and prevent wildfires",
           "link": "https://www.reddit.com/r/artificial/comments/1qxqkws/how_new_ai_technology_is_helping_detect_and/",
           "date": "2026-02-06T19:01:02+00:00"
+        },
+        {
+          "title": "In a study, AI model OpenScholar synthesizes scientific research and cites sources as accurately as human experts",
+          "link": "https://www.reddit.com/r/artificial/comments/1qxq806/in_a_study_ai_model_openscholar_synthesizes/",
+          "date": "2026-02-06T18:48:05+00:00"
         }
       ],
       "error": null
