@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-07T22:22:20.583906+00:00",
+  "generatedAt": "2026-02-07T23:27:00.559673+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -202,8 +202,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "How separating logic and search boosts AI agent scalability",
+          "link": "https://www.artificialintelligence-news.com/news/how-separating-logic-and-search-boosts-ai-agent-scalability/",
+          "date": "Fri, 06 Feb 2026 11:32:16 +0000"
+        },
+        {
+          "title": "Intuit, Uber, and State Farm trial AI agents inside enterprise workflows",
+          "link": "https://www.artificialintelligence-news.com/news/intuit-uber-and-state-farm-trial-ai-agents-inside-enterprise-workflows/",
+          "date": "Fri, 06 Feb 2026 10:00:00 +0000"
+        },
+        {
+          "title": "SuperCool review: Evaluating the reality of autonomous creation",
+          "link": "https://www.artificialintelligence-news.com/news/supercool-review-evaluating-the-reality-of-autonomous-creation/",
+          "date": "Fri, 06 Feb 2026 08:00:00 +0000"
+        },
+        {
+          "title": "Top 7 best AI penetration testing companies in 2026",
+          "link": "https://www.artificialintelligence-news.com/news/top-7-best-ai-penetration-testing-companies-in-2026/",
+          "date": "Fri, 06 Feb 2026 08:00:00 +0000"
+        },
+        {
+          "title": "AI Expo 2026 Day 2: Moving experimental pilots to AI production",
+          "link": "https://www.artificialintelligence-news.com/news/ai-expo-2026-day-2-moving-experimental-pilots-ai-production/",
+          "date": "Thu, 05 Feb 2026 16:08:36 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -258,19 +284,19 @@
           "date": "2025-09-09T02:25:04+00:00"
         },
         {
-          "title": "Which apps can be replaced by a prompt ?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qym7sh/which_apps_can_be_replaced_by_a_prompt/",
-          "date": "2026-02-07T19:00:29+00:00"
+          "title": "Why AI Sounds Boring (and a Fix in Plain Sight)",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qyskw6/why_ai_sounds_boring_and_a_fix_in_plain_sight/",
+          "date": "2026-02-07T23:15:39+00:00"
         },
         {
-          "title": "\ud83c\udf0a Transform OpenAI Codex CLI into a self-improving AI development system. While Codex executes code, claude-flow orchestrates, coordinates, and learns from every interaction.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qyraea/transform_openai_codex_cli_into_a_selfimproving/",
-          "date": "2026-02-07T22:21:25+00:00"
+          "title": "We open-sourced SBP \u2014 a protocol that lets AI agents coordinate through pheromone-like signals instead of direct messaging",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qys6e9/we_opensourced_sbp_a_protocol_that_lets_ai_agents/",
+          "date": "2026-02-07T22:58:25+00:00"
         },
         {
-          "title": "GPT-5.3 Codex vs Opus 4.6: We benchmarked both on our production Rails codebase \u2014 the results are brutal",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qyfcj4/gpt53_codex_vs_opus_46_we_benchmarked_both_on_our/",
-          "date": "2026-02-07T14:35:38+00:00"
+          "title": "Deep dive in best AI Video Generator Tools in 2026",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qyembj/deep_dive_in_best_ai_video_generator_tools_in_2026/",
+          "date": "2026-02-07T14:04:32+00:00"
         }
       ],
       "error": null
@@ -384,14 +410,14 @@
           "date": "2026-02-07T07:09:02+00:00"
         },
         {
-          "title": "Roast my OSS AI memory graph engine > feedback on MVP?",
-          "link": "https://www.reddit.com/r/artificial/comments/1qyoehj/roast_my_oss_ai_memory_graph_engine_feedback_on/",
-          "date": "2026-02-07T20:25:59+00:00"
-        },
-        {
           "title": "Big Tech : AI Isn\u2019t Taking Your Job. Your Refusal to Use It Might.",
           "link": "https://www.reddit.com/r/artificial/comments/1qyjrs6/big_tech_ai_isnt_taking_your_job_your_refusal_to/",
           "date": "2026-02-07T17:28:27+00:00"
+        },
+        {
+          "title": "Roast my OSS AI memory graph engine > feedback on MVP?",
+          "link": "https://www.reddit.com/r/artificial/comments/1qyoehj/roast_my_oss_ai_memory_graph_engine_feedback_on/",
+          "date": "2026-02-07T20:25:59+00:00"
         },
         {
           "title": "AI Trajectories Through 2030: Analysis of Four Plausible Futures",
