@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-07T11:19:53.938109+00:00",
+  "generatedAt": "2026-02-07T12:42:36.835828+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "Shield AI Expands Partnership for Autonomous Drone AI",
-          "link": "https://ai-techpark.com/shield-ai-expands-partnership-for-autonomous-drone-ai/",
-          "date": "Fri, 06 Feb 2026 15:21:00 +0000"
-        },
-        {
-          "title": "Goodfire Raises $150M to Advance AI Model Interpretability",
-          "link": "https://ai-techpark.com/goodfire-raises-150m-to-advance-ai-model-interpretability/",
-          "date": "Fri, 06 Feb 2026 14:30:00 +0000"
-        },
-        {
-          "title": "Cyberhaven Research Highlights Urgent Need for AI Data Governance",
-          "link": "https://ai-techpark.com/cyberhaven-research-highlights-urgent-need-for-ai-data-governance/",
-          "date": "Fri, 06 Feb 2026 14:00:00 +0000"
-        },
-        {
-          "title": "Domino Data Lab Taps Admiral Grady to Lead Public Sector AI",
-          "link": "https://ai-techpark.com/domino-data-lab-taps-admiral-grady-to-lead-public-sector-ai/",
-          "date": "Fri, 06 Feb 2026 12:30:00 +0000"
-        },
-        {
-          "title": "HighRes & Opentrons Launch AI Agent-to-Agent Lab Workflow",
-          "link": "https://ai-techpark.com/highres-opentrons-launch-ai-agent-to-agent-lab-workflow/",
-          "date": "Thu, 05 Feb 2026 14:45:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -294,9 +268,9 @@
           "date": "2026-02-07T06:58:51+00:00"
         },
         {
-          "title": "Compare OpenAI with Openclaw AI for work",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qyb4y0/compare_openai_with_openclaw_ai_for_work/",
-          "date": "2026-02-07T11:09:16+00:00"
+          "title": "I prompted a dumb game in 15 mins...\ud83e\udd21\ud83d\udd79\ufe0f",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qyc78d/i_prompted_a_dumb_game_in_15_mins/",
+          "date": "2026-02-07T12:08:43+00:00"
         }
       ],
       "error": null
@@ -400,14 +374,14 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "I built a geolocation tool that returns exact coordinates of any street photo within 3 minutes",
-          "link": "https://www.reddit.com/r/artificial/comments/1qy775n/i_built_a_geolocation_tool_that_returns_exact/",
-          "date": "2026-02-07T07:09:02+00:00"
-        },
-        {
           "title": "Report: OpenAI may tailor a version of ChatGPT for UAE that prohibits LGBTQ+ content",
           "link": "https://www.reddit.com/r/artificial/comments/1qy9vox/report_openai_may_tailor_a_version_of_chatgpt_for/",
           "date": "2026-02-07T09:52:17+00:00"
+        },
+        {
+          "title": "I built a geolocation tool that returns exact coordinates of any street photo within 3 minutes",
+          "link": "https://www.reddit.com/r/artificial/comments/1qy775n/i_built_a_geolocation_tool_that_returns_exact/",
+          "date": "2026-02-07T07:09:02+00:00"
         },
         {
           "title": "Goldman Sachs taps Anthropic\u2019s Claude to automate accounting, compliance roles",
@@ -528,6 +502,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Man Wakes Up Homeless, Realizes He Fell Into AI Psychosis That Destroyed His Entire Life",
+          "link": "https://futurism.com/artificial-intelligence/ai-psychosis-man-wakes-up-homeless",
+          "date": "Sat, 07 Feb 2026 07:30:00 -0500"
+        },
+        {
           "title": "OpenAI\u2019s Latest AI Was Created Using \u201cItself,\u201d Company Claims",
           "link": "https://futurism.com/artificial-intelligence/openai-ai-created-using-itself",
           "date": "Sat, 07 Feb 2026 06:00:00 -0500"
@@ -546,11 +525,6 @@
           "title": "Sam Altman Is Spiraling",
           "link": "https://futurism.com/artificial-intelligence/sam-altman-anthropic-ads",
           "date": "Thu, 05 Feb 2026 11:02:00 -0500"
-        },
-        {
-          "title": "Peloton Institutes Mass Layoffs After Pivoting to AI",
-          "link": "https://futurism.com/artificial-intelligence/peloton-mass-layoffs-ai",
-          "date": "Thu, 05 Feb 2026 10:05:19 -0500"
         }
       ],
       "error": null
@@ -559,6 +533,16 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "The Technologies Changing How You\u2019ll Watch the 2026 Winter Olympic Games",
+          "link": "https://www.wired.com/story/the-technologies-changing-how-youll-watch-the-2026-winter-olympic-games/",
+          "date": "Sat, 07 Feb 2026 12:00:00 +0000"
+        },
+        {
+          "title": "Moltbook, the Social Network for AI Agents, Exposed Real Humans\u2019 Data",
+          "link": "https://www.wired.com/story/security-news-this-week-moltbook-the-social-network-for-ai-agents-exposed-real-humans-data/",
+          "date": "Sat, 07 Feb 2026 11:30:00 +0000"
+        },
         {
           "title": "New York Is the Latest State to Consider a Data Center Pause",
           "link": "https://www.wired.com/story/new-york-is-the-latest-state-to-consider-a-data-center-pause/",
@@ -573,16 +557,6 @@
           "title": "Loyalty Is Dead in Silicon Valley",
           "link": "https://www.wired.com/story/model-behavior-loyalty-is-dead-in-silicon-valley/",
           "date": "Thu, 05 Feb 2026 21:33:11 +0000"
-        },
-        {
-          "title": "ICE and CBP\u2019s Face-Recognition App Can\u2019t Actually Verify Who People Are",
-          "link": "https://www.wired.com/story/cbp-ice-dhs-mobile-fortify-face-recognition-verify-identity/",
-          "date": "Thu, 05 Feb 2026 20:28:34 +0000"
-        },
-        {
-          "title": "Hollywood Is Losing Audiences to AI Fatigue",
-          "link": "https://www.wired.com/story/hollywood-is-losing-audiences-to-ai-fatigue/",
-          "date": "Thu, 05 Feb 2026 10:30:00 +0000"
         }
       ],
       "error": null
