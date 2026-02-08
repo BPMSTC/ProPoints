@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-08T11:21:42.544045+00:00",
+  "generatedAt": "2026-02-08T12:43:24.037133+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -202,34 +202,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "How separating logic and search boosts AI agent scalability",
-          "link": "https://www.artificialintelligence-news.com/news/how-separating-logic-and-search-boosts-ai-agent-scalability/",
-          "date": "Fri, 06 Feb 2026 11:32:16 +0000"
-        },
-        {
-          "title": "Intuit, Uber, and State Farm trial AI agents inside enterprise workflows",
-          "link": "https://www.artificialintelligence-news.com/news/intuit-uber-and-state-farm-trial-ai-agents-inside-enterprise-workflows/",
-          "date": "Fri, 06 Feb 2026 10:00:00 +0000"
-        },
-        {
-          "title": "SuperCool review: Evaluating the reality of autonomous creation",
-          "link": "https://www.artificialintelligence-news.com/news/supercool-review-evaluating-the-reality-of-autonomous-creation/",
-          "date": "Fri, 06 Feb 2026 08:00:00 +0000"
-        },
-        {
-          "title": "Top 7 best AI penetration testing companies in 2026",
-          "link": "https://www.artificialintelligence-news.com/news/top-7-best-ai-penetration-testing-companies-in-2026/",
-          "date": "Fri, 06 Feb 2026 08:00:00 +0000"
-        },
-        {
-          "title": "AI Expo 2026 Day 2: Moving experimental pilots to AI production",
-          "link": "https://www.artificialintelligence-news.com/news/ai-expo-2026-day-2-moving-experimental-pilots-ai-production/",
-          "date": "Thu, 05 Feb 2026 16:08:36 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -294,9 +268,9 @@
           "date": "2026-02-08T11:17:32+00:00"
         },
         {
-          "title": "I need suggestions for app",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qz4z0y/i_need_suggestions_for_app/",
-          "date": "2026-02-08T09:50:33+00:00"
+          "title": "AI Training & Data Annotation Companies \u2013 Updated List (2026)",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qz6w3w/ai_training_data_annotation_companies_updated/",
+          "date": "2026-02-08T11:45:11+00:00"
         }
       ],
       "error": null
@@ -410,14 +384,14 @@
           "date": "2026-02-07T09:52:17+00:00"
         },
         {
-          "title": "Nvidia CEO Says AI Capital Spending Is Appropriate, Sustainable",
-          "link": "https://www.reddit.com/r/artificial/comments/1qyx57y/nvidia_ceo_says_ai_capital_spending_is/",
-          "date": "2026-02-08T02:41:16+00:00"
-        },
-        {
           "title": "Open-source quota monitor for AI coding APIs - tracks Anthropic, Synthetic, and Z.ai in one dashboard",
           "link": "https://www.reddit.com/r/artificial/comments/1qz5aid/opensource_quota_monitor_for_ai_coding_apis/",
           "date": "2026-02-08T10:09:42+00:00"
+        },
+        {
+          "title": "Nvidia CEO Says AI Capital Spending Is Appropriate, Sustainable",
+          "link": "https://www.reddit.com/r/artificial/comments/1qyx57y/nvidia_ceo_says_ai_capital_spending_is/",
+          "date": "2026-02-08T02:41:16+00:00"
         },
         {
           "title": "I built a geolocation tool that returns exact coordinates of any street photo within 3 minutes",
