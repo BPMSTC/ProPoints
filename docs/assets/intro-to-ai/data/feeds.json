@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-08T20:24:06.626159+00:00",
+  "generatedAt": "2026-02-08T21:24:41.580885+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "Shield AI Expands Partnership for Autonomous Drone AI",
-          "link": "https://ai-techpark.com/shield-ai-expands-partnership-for-autonomous-drone-ai/",
-          "date": "Fri, 06 Feb 2026 15:21:00 +0000"
-        },
-        {
-          "title": "Goodfire Raises $150M to Advance AI Model Interpretability",
-          "link": "https://ai-techpark.com/goodfire-raises-150m-to-advance-ai-model-interpretability/",
-          "date": "Fri, 06 Feb 2026 14:30:00 +0000"
-        },
-        {
-          "title": "Cyberhaven Research Highlights Urgent Need for AI Data Governance",
-          "link": "https://ai-techpark.com/cyberhaven-research-highlights-urgent-need-for-ai-data-governance/",
-          "date": "Fri, 06 Feb 2026 14:00:00 +0000"
-        },
-        {
-          "title": "Domino Data Lab Taps Admiral Grady to Lead Public Sector AI",
-          "link": "https://ai-techpark.com/domino-data-lab-taps-admiral-grady-to-lead-public-sector-ai/",
-          "date": "Fri, 06 Feb 2026 12:30:00 +0000"
-        },
-        {
-          "title": "HighRes & Opentrons Launch AI Agent-to-Agent Lab Workflow",
-          "link": "https://ai-techpark.com/highres-opentrons-launch-ai-agent-to-agent-lab-workflow/",
-          "date": "Thu, 05 Feb 2026 14:45:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -294,9 +268,9 @@
           "date": "2026-02-08T11:17:32+00:00"
         },
         {
-          "title": "Bangalore in 2035",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qzi1i5/bangalore_in_2035/",
-          "date": "2026-02-08T19:20:31+00:00"
+          "title": "tried using voice instead of typing for my AI prompts and honestly it changed how i work",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qzkcn9/tried_using_voice_instead_of_typing_for_my_ai/",
+          "date": "2026-02-08T20:47:46+00:00"
         }
       ],
       "error": null
@@ -405,6 +379,11 @@
           "date": "2026-02-08T10:39:10+00:00"
         },
         {
+          "title": "AI companies spent $55.5M lobbying in 9 months. Their interpretability research teams are a fraction of that. I modeled the game theory of why opacity is the dominant strategy.",
+          "link": "https://www.reddit.com/r/artificial/comments/1qzl6iz/ai_companies_spent_555m_lobbying_in_9_months/",
+          "date": "2026-02-08T21:18:52+00:00"
+        },
+        {
           "title": "Open-source quota monitor for AI coding APIs - tracks Anthropic, Synthetic, and Z.ai in one dashboard",
           "link": "https://www.reddit.com/r/artificial/comments/1qz5aid/opensource_quota_monitor_for_ai_coding_apis/",
           "date": "2026-02-08T10:09:42+00:00"
@@ -418,11 +397,6 @@
           "title": "Nvidia CEO Says AI Capital Spending Is Appropriate, Sustainable",
           "link": "https://www.reddit.com/r/artificial/comments/1qyx57y/nvidia_ceo_says_ai_capital_spending_is/",
           "date": "2026-02-08T02:41:16+00:00"
-        },
-        {
-          "title": "Big Tech : AI Isn\u2019t Taking Your Job. Your Refusal to Use It Might.",
-          "link": "https://www.reddit.com/r/artificial/comments/1qyjrs6/big_tech_ai_isnt_taking_your_job_your_refusal_to/",
-          "date": "2026-02-07T17:28:27+00:00"
         }
       ],
       "error": null
