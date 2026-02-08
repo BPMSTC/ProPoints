@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-08T17:24:36.669169+00:00",
+  "generatedAt": "2026-02-08T18:33:03.941792+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "Shield AI Expands Partnership for Autonomous Drone AI",
-          "link": "https://ai-techpark.com/shield-ai-expands-partnership-for-autonomous-drone-ai/",
-          "date": "Fri, 06 Feb 2026 15:21:00 +0000"
-        },
-        {
-          "title": "Goodfire Raises $150M to Advance AI Model Interpretability",
-          "link": "https://ai-techpark.com/goodfire-raises-150m-to-advance-ai-model-interpretability/",
-          "date": "Fri, 06 Feb 2026 14:30:00 +0000"
-        },
-        {
-          "title": "Cyberhaven Research Highlights Urgent Need for AI Data Governance",
-          "link": "https://ai-techpark.com/cyberhaven-research-highlights-urgent-need-for-ai-data-governance/",
-          "date": "Fri, 06 Feb 2026 14:00:00 +0000"
-        },
-        {
-          "title": "Domino Data Lab Taps Admiral Grady to Lead Public Sector AI",
-          "link": "https://ai-techpark.com/domino-data-lab-taps-admiral-grady-to-lead-public-sector-ai/",
-          "date": "Fri, 06 Feb 2026 12:30:00 +0000"
-        },
-        {
-          "title": "HighRes & Opentrons Launch AI Agent-to-Agent Lab Workflow",
-          "link": "https://ai-techpark.com/highres-opentrons-launch-ai-agent-to-agent-lab-workflow/",
-          "date": "Thu, 05 Feb 2026 14:45:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -202,34 +176,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "How separating logic and search boosts AI agent scalability",
-          "link": "https://www.artificialintelligence-news.com/news/how-separating-logic-and-search-boosts-ai-agent-scalability/",
-          "date": "Fri, 06 Feb 2026 11:32:16 +0000"
-        },
-        {
-          "title": "Intuit, Uber, and State Farm trial AI agents inside enterprise workflows",
-          "link": "https://www.artificialintelligence-news.com/news/intuit-uber-and-state-farm-trial-ai-agents-inside-enterprise-workflows/",
-          "date": "Fri, 06 Feb 2026 10:00:00 +0000"
-        },
-        {
-          "title": "SuperCool review: Evaluating the reality of autonomous creation",
-          "link": "https://www.artificialintelligence-news.com/news/supercool-review-evaluating-the-reality-of-autonomous-creation/",
-          "date": "Fri, 06 Feb 2026 08:00:00 +0000"
-        },
-        {
-          "title": "Top 7 best AI penetration testing companies in 2026",
-          "link": "https://www.artificialintelligence-news.com/news/top-7-best-ai-penetration-testing-companies-in-2026/",
-          "date": "Fri, 06 Feb 2026 08:00:00 +0000"
-        },
-        {
-          "title": "AI Expo 2026 Day 2: Moving experimental pilots to AI production",
-          "link": "https://www.artificialintelligence-news.com/news/ai-expo-2026-day-2-moving-experimental-pilots-ai-production/",
-          "date": "Thu, 05 Feb 2026 16:08:36 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -294,9 +242,9 @@
           "date": "2026-02-08T11:17:32+00:00"
         },
         {
-          "title": "Turning Dense Documents into Presentation-Ready Slides: A Quick How-To",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qzedk7/turning_dense_documents_into_presentationready/",
-          "date": "2026-02-08T17:06:12+00:00"
+          "title": "I built a pixel-art open-world shooter in 24 hours using ONLY Gemini 3.0 Pro (Code + Art). Here is my workflow.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qzgh04/i_built_a_pixelart_openworld_shooter_in_24_hours/",
+          "date": "2026-02-08T18:23:32+00:00"
         }
       ],
       "error": null
@@ -410,14 +358,14 @@
           "date": "2026-02-07T09:52:17+00:00"
         },
         {
-          "title": "Nvidia CEO Says AI Capital Spending Is Appropriate, Sustainable",
-          "link": "https://www.reddit.com/r/artificial/comments/1qyx57y/nvidia_ceo_says_ai_capital_spending_is/",
-          "date": "2026-02-08T02:41:16+00:00"
-        },
-        {
           "title": "Open-source quota monitor for AI coding APIs - tracks Anthropic, Synthetic, and Z.ai in one dashboard",
           "link": "https://www.reddit.com/r/artificial/comments/1qz5aid/opensource_quota_monitor_for_ai_coding_apis/",
           "date": "2026-02-08T10:09:42+00:00"
+        },
+        {
+          "title": "Nvidia CEO Says AI Capital Spending Is Appropriate, Sustainable",
+          "link": "https://www.reddit.com/r/artificial/comments/1qyx57y/nvidia_ceo_says_ai_capital_spending_is/",
+          "date": "2026-02-08T02:41:16+00:00"
         },
         {
           "title": "Big Tech : AI Isn\u2019t Taking Your Job. Your Refusal to Use It Might.",
@@ -431,6 +379,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "When AI goes haywire: the case of the skyscraper and the slide trombone",
+          "link": "https://theconversation.com/when-ai-goes-haywire-the-case-of-the-skyscraper-and-the-slide-trombone-272763",
+          "date": "2026-02-08T17:22:30Z"
+        },
         {
           "title": "New technologies are stepping up the global fight against wildlife trafficking",
           "link": "https://theconversation.com/new-technologies-are-stepping-up-the-global-fight-against-wildlife-trafficking-272137",
@@ -450,11 +403,6 @@
           "title": "AI-generated text is overwhelming institutions \u2013 setting off a no-win \u2018arms race\u2019 with AI detectors",
           "link": "https://theconversation.com/ai-generated-text-is-overwhelming-institutions-setting-off-a-no-win-arms-race-with-ai-detectors-274720",
           "date": "2026-02-05T13:27:56Z"
-        },
-        {
-          "title": "Moltbook: AI bots use social network to create religions and deal digital drugs \u2013 but are some really humans in disguise?",
-          "link": "https://theconversation.com/moltbook-ai-bots-use-social-network-to-create-religions-and-deal-digital-drugs-but-are-some-really-humans-in-disguise-274895",
-          "date": "2026-02-05T13:05:24Z"
         }
       ],
       "error": null
@@ -528,6 +476,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Jeffrey Epstein Had a Bizarre Obsession With \u201cImproving\u201d Human DNA, and He Was Emailing With Top Scientists About It",
+          "link": "https://futurism.com/health-medicine/epstein-improve-human-dna",
+          "date": "Sun, 08 Feb 2026 12:45:00 -0500"
+        },
+        {
           "title": "SpaceX Gives $1 Million Prize to Literal Nazi Who Has Bragged About His Profound Racism",
           "link": "https://futurism.com/artificial-intelligence/spacex-awards-prize-nazi",
           "date": "Sun, 08 Feb 2026 09:00:00 -0500"
@@ -546,11 +499,6 @@
           "title": "Bots on Moltbook Are Selling Each Prompt Injection \u201cDrugs\u201d to Get \u201cHigh\u201d",
           "link": "https://futurism.com/artificial-intelligence/moltbook-digital-drugs",
           "date": "Sat, 07 Feb 2026 09:45:00 -0500"
-        },
-        {
-          "title": "Anthropic Insiders Afraid They\u2019ve Crossed a Line",
-          "link": "https://futurism.com/artificial-intelligence/anthropic-agents-automation",
-          "date": "Sat, 07 Feb 2026 08:15:00 -0500"
         }
       ],
       "error": null
