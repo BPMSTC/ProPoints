@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-09T08:49:22.674124+00:00",
+  "generatedAt": "2026-02-09T10:00:29.668227+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -202,34 +202,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "How separating logic and search boosts AI agent scalability",
-          "link": "https://www.artificialintelligence-news.com/news/how-separating-logic-and-search-boosts-ai-agent-scalability/",
-          "date": "Fri, 06 Feb 2026 11:32:16 +0000"
-        },
-        {
-          "title": "Intuit, Uber, and State Farm trial AI agents inside enterprise workflows",
-          "link": "https://www.artificialintelligence-news.com/news/intuit-uber-and-state-farm-trial-ai-agents-inside-enterprise-workflows/",
-          "date": "Fri, 06 Feb 2026 10:00:00 +0000"
-        },
-        {
-          "title": "SuperCool review: Evaluating the reality of autonomous creation",
-          "link": "https://www.artificialintelligence-news.com/news/supercool-review-evaluating-the-reality-of-autonomous-creation/",
-          "date": "Fri, 06 Feb 2026 08:00:00 +0000"
-        },
-        {
-          "title": "Top 7 best AI penetration testing companies in 2026",
-          "link": "https://www.artificialintelligence-news.com/news/top-7-best-ai-penetration-testing-companies-in-2026/",
-          "date": "Fri, 06 Feb 2026 08:00:00 +0000"
-        },
-        {
-          "title": "AI Expo 2026 Day 2: Moving experimental pilots to AI production",
-          "link": "https://www.artificialintelligence-news.com/news/ai-expo-2026-day-2-moving-experimental-pilots-ai-production/",
-          "date": "Thu, 05 Feb 2026 16:08:36 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -289,14 +263,14 @@
           "date": "2026-02-09T04:10:00+00:00"
         },
         {
-          "title": "\u201cpisces-llm-0206b\u201d wtf??",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qzyovj/piscesllm0206b_wtf/",
-          "date": "2026-02-09T08:18:01+00:00"
-        },
-        {
           "title": "Ready to play?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qzybrq/ready_to_play/",
           "date": "2026-02-09T07:55:10+00:00"
+        },
+        {
+          "title": "Ready to play?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qzyb3a/ready_to_play/",
+          "date": "2026-02-09T07:53:54+00:00"
         }
       ],
       "error": null
@@ -410,11 +384,6 @@
           "date": "2026-02-09T04:17:45+00:00"
         },
         {
-          "title": "Ngl, I didn\u2019t expect Seedance 2.0 to look this good.",
-          "link": "https://www.reddit.com/r/artificial/comments/1qzz5cb/ngl_i_didnt_expect_seedance_20_to_look_this_good/",
-          "date": "2026-02-09T08:47:34+00:00"
-        },
-        {
           "title": "Meta Glasses powered by AI for self guided tours",
           "link": "https://www.reddit.com/r/artificial/comments/1qztlsb/meta_glasses_powered_by_ai_for_self_guided_tours/",
           "date": "2026-02-09T03:41:46+00:00"
@@ -423,6 +392,11 @@
           "title": "Open-source quota monitor for AI coding APIs - tracks Anthropic, Synthetic, and Z.ai in one dashboard",
           "link": "https://www.reddit.com/r/artificial/comments/1qz5aid/opensource_quota_monitor_for_ai_coding_apis/",
           "date": "2026-02-08T10:09:42+00:00"
+        },
+        {
+          "title": "Report: OpenAI may tailor a version of ChatGPT for UAE that prohibits LGBTQ+ content",
+          "link": "https://www.reddit.com/r/artificial/comments/1qy9vox/report_openai_may_tailor_a_version_of_chatgpt_for/",
+          "date": "2026-02-07T09:52:17+00:00"
         }
       ],
       "error": null
