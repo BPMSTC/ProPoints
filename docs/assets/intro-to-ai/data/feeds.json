@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-02-09T15:54:04.157770+00:00",
+  "generatedAt": "2026-02-09T17:50:49.261443+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Chatbots Make Terrible Doctors, New Study Finds",
+          "link": "https://www.404media.co/chatbots-health-medical-advice-study/",
+          "date": "Mon, 09 Feb 2026 16:01:31 GMT"
+        },
         {
           "title": "Watch 404 Media\u2019s Super Bowl Ad",
           "link": "https://www.404media.co/watch-404-medias-super-bowl-ad/",
@@ -24,11 +29,6 @@
           "title": "Inspector General Investigating Whether ICE's Surveillance Tech Breaks the Law",
           "link": "https://www.404media.co/inspector-general-investigating-whether-ices-surveillance-tech-breaks-the-law/",
           "date": "Fri, 06 Feb 2026 16:11:27 GMT"
-        },
-        {
-          "title": "The DOJ Redacted a Photo of the Mona Lisa in the Epstein Files",
-          "link": "https://www.404media.co/the-doj-redacted-a-photo-of-the-mona-lisa-in-the-epstein-files/",
-          "date": "Thu, 05 Feb 2026 21:40:42 GMT"
         }
       ],
       "error": null
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "Case study: Stability AI",
+          "link": "https://www.aiacceleratorinstitute.com/case-study-stability-ai/",
+          "date": "Mon, 09 Feb 2026 16:52:35 GMT"
+        },
+        {
           "title": "Unpacking the craft of  an  applied machine learning product manager",
           "link": "https://www.aiacceleratorinstitute.com/unpacking-the-craft-of-an-applied-machine-learning-product-manager/",
           "date": "Mon, 09 Feb 2026 13:23:18 GMT"
@@ -88,11 +93,6 @@
           "title": "Case study: Citi",
           "link": "https://www.aiacceleratorinstitute.com/case-study-citi/",
           "date": "Wed, 04 Feb 2026 15:36:37 GMT"
-        },
-        {
-          "title": "AI hallucinations:   Understanding why sometimes machines get it wrong",
-          "link": "https://www.aiacceleratorinstitute.com/ai-hallucinations-understanding-why-sometimes-machines-get-it-wrong/",
-          "date": "Tue, 03 Feb 2026 17:56:05 GMT"
         }
       ],
       "error": null
@@ -166,6 +166,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "AI Lawsuits in 2026: Settlements, Licensing Deals, Litigation",
+          "link": "https://aibusiness.com/generative-ai/ai-lawsuits-in-2026-settlements-licensing-deals-litigation",
+          "date": "Mon, 09 Feb 2026 16:26:18 GMT"
+        },
+        {
           "title": "OpenAI's Latest Platform Targets Enterprise Customers",
           "link": "https://aibusiness.com/agentic-ai/openai-s-latest-platform-targets-enterprise-customers",
           "date": "Fri, 06 Feb 2026 21:47:09 GMT"
@@ -184,11 +189,6 @@
           "title": "Opinion Divided on Moltbook Social Network for AI Agents",
           "link": "https://aibusiness.com/agentic-ai/opinion-divided-on-moltbook-social-network",
           "date": "Wed, 04 Feb 2026 21:35:20 GMT"
-        },
-        {
-          "title": "Panic Rises in Legal Industry Due to Anthropic\u2019s AI Plugins",
-          "link": "https://aibusiness.com/agentic-ai/panic-rises-in-legal-industry-due-to-anthropic-s-ai-plugins",
-          "date": "Wed, 04 Feb 2026 20:57:59 GMT"
         }
       ],
       "error": null
@@ -284,19 +284,19 @@
           "date": "2025-09-09T02:25:04+00:00"
         },
         {
+          "title": "How pair prompting could mitigate the risks of AI assisted programming",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r08bsz/how_pair_prompting_could_mitigate_the_risks_of_ai/",
+          "date": "2026-02-09T16:11:20+00:00"
+        },
+        {
+          "title": "BREAKING: Made in India 'Sarvam AI' beats Gemini and ChatGPT in Optical Character Recognition (OCR), Indian-language document reading, text-to-speech and AI voice generation.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r0ajmi/breaking_made_in_india_sarvam_ai_beats_gemini_and/",
+          "date": "2026-02-09T17:30:37+00:00"
+        },
+        {
           "title": "[Showcase] Everything Antigravity: A Modular Framework for AI-Driven Development (Rules, Skills, & Agents)",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r01t1t/showcase_everything_antigravity_a_modular/",
           "date": "2026-02-09T11:29:47+00:00"
-        },
-        {
-          "title": "Ai To Code Founder",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r032re/ai_to_code_founder/",
-          "date": "2026-02-09T12:36:50+00:00"
-        },
-        {
-          "title": "I built Draft \u2014 a framework that stops AI coding tools from shipping chaos",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1qzu73m/i_built_draft_a_framework_that_stops_ai_coding/",
-          "date": "2026-02-09T04:10:00+00:00"
         }
       ],
       "error": null
@@ -400,16 +400,6 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "I build a tool to help you keep up to date on all of the AI YouTube content creators.",
-          "link": "https://www.reddit.com/r/artificial/comments/1r04dz6/i_build_a_tool_to_help_you_keep_up_to_date_on_all/",
-          "date": "2026-02-09T13:36:33+00:00"
-        },
-        {
-          "title": "Trustworthy AI Through Knowledge Graphs + RAG Audit",
-          "link": "https://www.reddit.com/r/artificial/comments/1r05d99/trustworthy_ai_through_knowledge_graphs_rag_audit/",
-          "date": "2026-02-09T14:18:00+00:00"
-        },
-        {
           "title": "Opinion | AI consciousness is nothing more than clever marketing",
           "link": "https://www.reddit.com/r/artificial/comments/1qzucuo/opinion_ai_consciousness_is_nothing_more_than/",
           "date": "2026-02-09T04:17:45+00:00"
@@ -418,6 +408,16 @@
           "title": "Does have human-created 3D graphics a future?",
           "link": "https://www.reddit.com/r/artificial/comments/1r01rpc/does_have_humancreated_3d_graphics_a_future/",
           "date": "2026-02-09T11:27:36+00:00"
+        },
+        {
+          "title": "What's the enterprise approach to AI agent security? OpenClaw is amazing but unusable without proper controls",
+          "link": "https://www.reddit.com/r/artificial/comments/1r0921t/whats_the_enterprise_approach_to_ai_agent/",
+          "date": "2026-02-09T16:38:26+00:00"
+        },
+        {
+          "title": "I was looking for a new home and was suddenly shut down by a coercive and threatening AI. WTH Meta???",
+          "link": "https://www.reddit.com/r/artificial/comments/1r08tnl/i_was_looking_for_a_new_home_and_was_suddenly/",
+          "date": "2026-02-09T16:30:01+00:00"
         },
         {
           "title": "I built a geolocation tool that can find exact coordinates of any image within 3 minutes [Tough demo 2]",
@@ -469,6 +469,11 @@
           "date": "Mon, 09 Feb 2026 13:01:29 GMT"
         },
         {
+          "title": "Workers\u2019 collectives are the bee\u2019s knees | Brief letters",
+          "link": "https://www.theguardian.com/environment/2026/feb/09/workers-collectives-are-the-bees-knees",
+          "date": "Mon, 09 Feb 2026 16:52:48 GMT"
+        },
+        {
           "title": "\u2018We\u2019re being turned into an energy colony\u2019: Argentina\u2019s nuclear plan faces backlash over US interests",
           "link": "https://www.theguardian.com/global-development/2026/feb/09/energy-colony-argentina-patagonia-uranium-nuclear-plan-backlash-over-us-interests",
           "date": "Mon, 09 Feb 2026 14:00:20 GMT"
@@ -482,11 +487,6 @@
           "title": "\u2018Was I scared going back to China? No\u2019: Ai Weiwei on AI, western censorship and returning home",
           "link": "https://www.theguardian.com/artanddesign/2026/feb/09/china-ai-weiwei-western-censorship-home-surveillance",
           "date": "Mon, 09 Feb 2026 05:00:52 GMT"
-        },
-        {
-          "title": "US companies accused of \u2018AI washing\u2019 in citing artificial intelligence for job losses",
-          "link": "https://www.theguardian.com/us-news/2026/feb/08/ai-washing-job-losses-artificial-intelligence",
-          "date": "Sun, 08 Feb 2026 16:00:35 GMT"
         }
       ],
       "error": null
