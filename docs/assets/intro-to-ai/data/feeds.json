@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-02-10T14:56:12.376318+00:00",
+  "generatedAt": "2026-02-10T16:06:05.585553+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "With Ring, American Consumers Built a Surveillance Dragnet",
+          "link": "https://www.404media.co/with-ring-american-consumers-built-a-surveillance-dragnet/",
+          "date": "Tue, 10 Feb 2026 15:05:57 GMT"
+        },
         {
           "title": "The Screen Time Panic Sets Parents Up to Fail",
           "link": "https://www.404media.co/the-screen-time-panic-sets-parents-up-to-fail/",
@@ -24,11 +29,6 @@
           "title": "As Space Tourism Looms, Scientists Ask: Should We Have Sex In Orbit?",
           "link": "https://www.404media.co/as-space-tourism-looms-scientists-ask-should-we-have-sex-in-orbit/",
           "date": "Sat, 07 Feb 2026 14:00:21 GMT"
-        },
-        {
-          "title": "Behind the Blog: The Neverending Cybersecurity Story",
-          "link": "https://www.404media.co/behind-the-blog-the-neverending-cybersecurity-story/",
-          "date": "Fri, 06 Feb 2026 17:54:33 GMT"
         }
       ],
       "error": null
@@ -368,6 +368,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Alphabet selling very rare 100-year bonds to help fund AI investment",
+          "link": "https://arstechnica.com/gadgets/2026/02/alphabet-selling-very-rare-100-year-bunds-to-help-fund-ai-investment/",
+          "date": "Tue, 10 Feb 2026 14:44:52 +0000"
+        },
+        {
           "title": "After Republican complaints, judicial body pulls climate advice",
           "link": "https://arstechnica.com/science/2026/02/us-court-agency-pulls-climate-change-from-science-advisory-document/",
           "date": "Tue, 10 Feb 2026 12:15:19 +0000"
@@ -386,11 +391,6 @@
           "title": "Google experiments with locking YouTube Music lyrics behind paywall",
           "link": "https://arstechnica.com/google/2026/02/google-locks-youtube-music-lyrics-behind-paywall/",
           "date": "Mon, 09 Feb 2026 20:40:13 +0000"
-        },
-        {
-          "title": "Trump FCC investigates The View, reportedly says \"fake news\" will be punished",
-          "link": "https://arstechnica.com/tech-policy/2026/02/trump-fcc-investigates-the-view-reportedly-says-fake-news-will-be-punished/",
-          "date": "Mon, 09 Feb 2026 20:27:44 +0000"
         }
       ],
       "error": null
@@ -399,6 +399,11 @@
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
+        {
+          "title": "I built the world's first Chrome extension that runs LLMs entirely in-browser\u2014WebGPU, Transformers.js, and Chrome's Prompt API",
+          "link": "https://www.reddit.com/r/artificial/comments/1r0v8x6/i_built_the_worlds_first_chrome_extension_that/",
+          "date": "2026-02-10T08:22:45+00:00"
+        },
         {
           "title": "Kling AI Launches 3.0 Model, Ushering in an Era Where Everyone Can Be a Director",
           "link": "https://www.reddit.com/r/artificial/comments/1r0ww09/kling_ai_launches_30_model_ushering_in_an_era/",
@@ -410,19 +415,14 @@
           "date": "2026-02-09T21:52:26+00:00"
         },
         {
-          "title": "I built the world's first Chrome extension that runs LLMs entirely in-browser\u2014WebGPU, Transformers.js, and Chrome's Prompt API",
-          "link": "https://www.reddit.com/r/artificial/comments/1r0v8x6/i_built_the_worlds_first_chrome_extension_that/",
-          "date": "2026-02-10T08:22:45+00:00"
-        },
-        {
           "title": "STLE: An Open-Source Framework for AI Uncertainty - Teaches Models to Say \"I Don't Know\"",
           "link": "https://www.reddit.com/r/artificial/comments/1r0kitb/stle_an_opensource_framework_for_ai_uncertainty/",
           "date": "2026-02-09T23:36:43+00:00"
         },
         {
-          "title": "Opinion | AI consciousness is nothing more than clever marketing",
-          "link": "https://www.reddit.com/r/artificial/comments/1qzucuo/opinion_ai_consciousness_is_nothing_more_than/",
-          "date": "2026-02-09T04:17:45+00:00"
+          "title": "{Discussion} Best Ai Chatbot service",
+          "link": "https://www.reddit.com/r/artificial/comments/1r145se/discussion_best_ai_chatbot_service/",
+          "date": "2026-02-10T15:42:23+00:00"
         }
       ],
       "error": null
