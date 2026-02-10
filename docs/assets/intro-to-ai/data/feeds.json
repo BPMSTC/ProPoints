@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-10T07:01:02.394613+00:00",
+  "generatedAt": "2026-02-10T08:53:03.795363+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "Wrike Launches AI Agents to Deliver 6 Days of Output in 5",
-          "link": "https://ai-techpark.com/wrike-launches-ai-agents-to-deliver-6-days-of-output-in-5/",
-          "date": "Tue, 10 Feb 2026 06:49:52 +0000"
-        },
-        {
-          "title": "Teradata Brings Enterprise-Grade AI Agents to Google Cloud Marketplace",
-          "link": "https://ai-techpark.com/teradata-brings-enterprise-grade-ai-agents-to-google-cloud-marketplace/",
-          "date": "Mon, 09 Feb 2026 14:30:00 +0000"
-        },
-        {
-          "title": "Briya Appoints Brian Creighton to Boost Growth in AI-Driven Healthcare Data",
-          "link": "https://ai-techpark.com/briya-appoints-brian-creighton-to-boost-growth-in-ai-driven-healthcare-data/",
-          "date": "Mon, 09 Feb 2026 14:15:00 +0000"
-        },
-        {
-          "title": "Pentaho Boosts Data Integration to Power Operational and AI Use Cases",
-          "link": "https://ai-techpark.com/pentaho-boosts-data-integration-to-power-operational-and-ai-use-cases/",
-          "date": "Mon, 09 Feb 2026 13:30:00 +0000"
-        },
-        {
-          "title": "BullFrog AI to Unveil New Precision AI Capability",
-          "link": "https://ai-techpark.com/bullfrog-ai-to-unveil-new-precision-ai-capability/",
-          "date": "Mon, 09 Feb 2026 10:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -284,19 +258,19 @@
           "date": "2025-09-09T02:25:04+00:00"
         },
         {
-          "title": "know your level in AI",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r0twn5/know_your_level_in_ai/",
-          "date": "2026-02-10T06:58:55+00:00"
+          "title": "PassForge v1.0.5 \u2013 Privacy-Hardened CLI Credential Toolkit (AES Vault, Balanced Mode, Entropy Fixes)",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r0voak/passforge_v105_privacyhardened_cli_credential/",
+          "date": "2026-02-10T08:50:24+00:00"
         },
         {
-          "title": "Learn Ai prompting - Chris Colding",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r0tmkk/learn_ai_prompting_chris_colding/",
-          "date": "2026-02-10T06:42:38+00:00"
+          "title": "How are people handling AI evals in practice?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r0vjxk/how_are_people_handling_ai_evals_in_practice/",
+          "date": "2026-02-10T08:42:40+00:00"
         },
         {
-          "title": "How do you design prompts to shape personality in an AI chatbot?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r0cy4e/how_do_you_design_prompts_to_shape_personality_in/",
-          "date": "2026-02-09T18:56:10+00:00"
+          "title": "AI coding tools keep \u201crediscovering\u201d my repo every session - am I missing a better way to give them context?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r0vebg/ai_coding_tools_keep_rediscovering_my_repo_every/",
+          "date": "2026-02-10T08:32:22+00:00"
         }
       ],
       "error": null
@@ -405,6 +379,11 @@
           "date": "2026-02-09T21:52:26+00:00"
         },
         {
+          "title": "I built the world's first Chrome extension that runs LLMs entirely in-browser\u2014WebGPU, Transformers.js, and Chrome's Prompt API",
+          "link": "https://www.reddit.com/r/artificial/comments/1r0v8x6/i_built_the_worlds_first_chrome_extension_that/",
+          "date": "2026-02-10T08:22:45+00:00"
+        },
+        {
           "title": "STLE: An Open-Source Framework for AI Uncertainty - Teaches Models to Say \"I Don't Know\"",
           "link": "https://www.reddit.com/r/artificial/comments/1r0kitb/stle_an_opensource_framework_for_ai_uncertainty/",
           "date": "2026-02-09T23:36:43+00:00"
@@ -415,14 +394,9 @@
           "date": "2026-02-09T04:17:45+00:00"
         },
         {
-          "title": "What's the enterprise approach to AI agent security? OpenClaw is amazing but unusable without proper controls",
-          "link": "https://www.reddit.com/r/artificial/comments/1r0921t/whats_the_enterprise_approach_to_ai_agent/",
-          "date": "2026-02-09T16:38:26+00:00"
-        },
-        {
-          "title": "I built a geolocation tool that can find exact coordinates of any image within 3 minutes [Tough demo 2]",
-          "link": "https://www.reddit.com/r/artificial/comments/1qz5rz7/i_built_a_geolocation_tool_that_can_find_exact/",
-          "date": "2026-02-08T10:39:10+00:00"
+          "title": "Does have human-created 3D graphics a future?",
+          "link": "https://www.reddit.com/r/artificial/comments/1r01rpc/does_have_humancreated_3d_graphics_a_future/",
+          "date": "2026-02-09T11:27:36+00:00"
         }
       ],
       "error": null
@@ -469,6 +443,11 @@
           "date": "Mon, 09 Feb 2026 13:01:29 GMT"
         },
         {
+          "title": "Telstra to axe more than 200 jobs amid AI rollout",
+          "link": "https://www.theguardian.com/business/2026/feb/10/telstra-ai-job-cuts-offshore-workforce",
+          "date": "Tue, 10 Feb 2026 08:28:48 GMT"
+        },
+        {
           "title": "Workers\u2019 collectives are the bee\u2019s knees | Brief letters",
           "link": "https://www.theguardian.com/environment/2026/feb/09/workers-collectives-are-the-bees-knees",
           "date": "Mon, 09 Feb 2026 16:52:48 GMT"
@@ -482,11 +461,6 @@
           "title": "I asked AI to name my wife. To the hopelessly incorrect people it cited, my deepest apologies | Martin Rowson",
           "link": "https://www.theguardian.com/commentisfree/2026/feb/09/who-is-my-wife-martin-rowson-ai-technology",
           "date": "Mon, 09 Feb 2026 10:00:31 GMT"
-        },
-        {
-          "title": "\u2018Was I scared going back to China? No\u2019: Ai Weiwei on AI, western censorship and returning home",
-          "link": "https://www.theguardian.com/artanddesign/2026/feb/09/china-ai-weiwei-western-censorship-home-surveillance",
-          "date": "Mon, 09 Feb 2026 05:00:52 GMT"
         }
       ],
       "error": null
