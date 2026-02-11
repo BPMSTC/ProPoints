@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-11T11:42:48.601215+00:00",
+  "generatedAt": "2026-02-11T13:04:10.489040+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "Generative AI Summit Washington, D.C. 2026",
+          "link": "https://www.aiacceleratorinstitute.com/generative-ai-summit-washington-d-c-2026/",
+          "date": "Wed, 11 Feb 2026 11:50:11 GMT"
+        },
+        {
           "title": "Case study: Stability AI",
           "link": "https://www.aiacceleratorinstitute.com/case-study-stability-ai/",
           "date": "Mon, 09 Feb 2026 16:52:35 GMT"
@@ -88,11 +93,6 @@
           "title": "Case study: Takeda",
           "link": "https://www.aiacceleratorinstitute.com/case-study-takeda/",
           "date": "Thu, 05 Feb 2026 17:03:06 GMT"
-        },
-        {
-          "title": "Case study: Citi",
-          "link": "https://www.aiacceleratorinstitute.com/case-study-citi/",
-          "date": "Wed, 04 Feb 2026 15:36:37 GMT"
         }
       ],
       "error": null
@@ -102,6 +102,21 @@
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [
         {
+          "title": "Cloudera Reports Strong Fiscal Year, Reinforces AI Leadership",
+          "link": "https://ai-techpark.com/cloudera-reports-strong-fiscal-year-reinforces-ai-leadership/",
+          "date": "Wed, 11 Feb 2026 10:30:00 +0000"
+        },
+        {
+          "title": "Similarweb Announced the Launch of AI Studio",
+          "link": "https://ai-techpark.com/similarweb-announced-the-launch-of-ai-studio/",
+          "date": "Wed, 11 Feb 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Nabla Appoints Dr. Matt Sakumoto as Chief Clinical Product Officer",
+          "link": "https://ai-techpark.com/nabla-appoints-dr-matt-sakumoto-as-chief-clinical-product-officer/",
+          "date": "Wed, 11 Feb 2026 08:45:00 +0000"
+        },
+        {
           "title": "Azul Report: 62% of Enterprises Use Java for AI Workloads",
           "link": "https://ai-techpark.com/azul-report-62-of-enterprises-use-java-for-ai-workloads/",
           "date": "Wed, 11 Feb 2026 08:31:03 +0000"
@@ -110,21 +125,6 @@
           "title": "BrowserStack Report: 94% Use AI in Testing, 12% Reach Autonomy",
           "link": "https://ai-techpark.com/browserstack-report-94-use-ai-in-testing-12-reach-autonomy/",
           "date": "Wed, 11 Feb 2026 08:30:00 +0000"
-        },
-        {
-          "title": "Coveo Announces Hosted MCP Server to Grow Agentic AI Ecosystem",
-          "link": "https://ai-techpark.com/coveo-announces-hosted-mcp-server-to-grow-agentic-ai-ecosystem/",
-          "date": "Tue, 10 Feb 2026 15:45:00 +0000"
-        },
-        {
-          "title": "Robo.ai, DaBoss.AI Form J.V to Launch Distributed Embodied AI Data Platform",
-          "link": "https://ai-techpark.com/robo-ai-daboss-ai-form-j-v-to-launch-distributed-embodied-ai-data-platform/",
-          "date": "Tue, 10 Feb 2026 15:30:00 +0000"
-        },
-        {
-          "title": "Blue Yonder Releases Q4 2025 Company Highlights, Showcases New Upgrades",
-          "link": "https://ai-techpark.com/blue-yonder-releases-q4-2025-company-highlights-showcases-new-upgrades/",
-          "date": "Tue, 10 Feb 2026 10:30:00 +0000"
         }
       ],
       "error": null
@@ -289,14 +289,14 @@
           "date": "2026-02-11T11:02:20+00:00"
         },
         {
-          "title": "Is everyone just using Notepad to save prompts? There has to be a better way (so I made one",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r1rdtg/is_everyone_just_using_notepad_to_save_prompts/",
-          "date": "2026-02-11T07:56:40+00:00"
+          "title": "Similarly, this is just the result generated from a single prompt.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r1mc9c/similarly_this_is_just_the_result_generated_from/",
+          "date": "2026-02-11T03:27:02+00:00"
         },
         {
-          "title": "CEO & Dad, not a dev. Went YOLO & AFK on Claude Code, shipped complex software by Monday. Learnings.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r1v2ct/ceo_dad_not_a_dev_went_yolo_afk_on_claude_code/",
-          "date": "2026-02-11T11:37:26+00:00"
+          "title": "AI Employee",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r1w5gw/ai_employee/",
+          "date": "2026-02-11T12:32:36+00:00"
         }
       ],
       "error": null
@@ -400,19 +400,14 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
+          "title": "Mathematicians issue a major challenge to AI\u2014show us your work",
+          "link": "https://www.reddit.com/r/artificial/comments/1r1w56d/mathematicians_issue_a_major_challenge_to_aishow/",
+          "date": "2026-02-11T12:32:10+00:00"
+        },
+        {
           "title": "I built the world's first Chrome extension that runs LLMs entirely in-browser\u2014WebGPU, Transformers.js, and Chrome's Prompt API",
           "link": "https://www.reddit.com/r/artificial/comments/1r0v8x6/i_built_the_worlds_first_chrome_extension_that/",
           "date": "2026-02-10T08:22:45+00:00"
-        },
-        {
-          "title": "The big AI job swap: why white-collar workers are ditching their careers | AI (artificial intelligence) | The Guardian",
-          "link": "https://www.reddit.com/r/artificial/comments/1r1qihm/the_big_ai_job_swap_why_whitecollar_workers_are/",
-          "date": "2026-02-11T07:03:56+00:00"
-        },
-        {
-          "title": "Kling AI Launches 3.0 Model, Ushering in an Era Where Everyone Can Be a Director",
-          "link": "https://www.reddit.com/r/artificial/comments/1r0ww09/kling_ai_launches_30_model_ushering_in_an_era/",
-          "date": "2026-02-10T10:07:12+00:00"
         },
         {
           "title": "'A second set of eyes': AI-supported breast cancer screening spots more cancers earlier, landmark trial finds",
@@ -420,9 +415,14 @@
           "date": "2026-02-09T21:52:26+00:00"
         },
         {
-          "title": "Here is your GitHub-ready persona.json file for the GPT\u20114o Emulator, along with a README.md that documents its purpose, usage, and setup.",
-          "link": "https://www.reddit.com/r/artificial/comments/1r1m9ta/here_is_your_githubready_personajson_file_for_the/",
-          "date": "2026-02-11T03:23:54+00:00"
+          "title": "Kling AI Launches 3.0 Model, Ushering in an Era Where Everyone Can Be a Director",
+          "link": "https://www.reddit.com/r/artificial/comments/1r0ww09/kling_ai_launches_30_model_ushering_in_an_era/",
+          "date": "2026-02-10T10:07:12+00:00"
+        },
+        {
+          "title": "The big AI job swap: why white-collar workers are ditching their careers | AI (artificial intelligence) | The Guardian",
+          "link": "https://www.reddit.com/r/artificial/comments/1r1qihm/the_big_ai_job_swap_why_whitecollar_workers_are/",
+          "date": "2026-02-11T07:03:56+00:00"
         }
       ],
       "error": null
