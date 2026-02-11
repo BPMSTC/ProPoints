@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-11T08:55:11.570361+00:00",
+  "generatedAt": "2026-02-11T09:51:32.484668+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Azul Report: 62% of Enterprises Use Java for AI Workloads",
+          "link": "https://ai-techpark.com/azul-report-62-of-enterprises-use-java-for-ai-workloads/",
+          "date": "Wed, 11 Feb 2026 08:31:03 +0000"
+        },
+        {
+          "title": "BrowserStack Report: 94% Use AI in Testing, 12% Reach Autonomy",
+          "link": "https://ai-techpark.com/browserstack-report-94-use-ai-in-testing-12-reach-autonomy/",
+          "date": "Wed, 11 Feb 2026 08:30:00 +0000"
+        },
+        {
+          "title": "Coveo Announces Hosted MCP Server to Grow Agentic AI Ecosystem",
+          "link": "https://ai-techpark.com/coveo-announces-hosted-mcp-server-to-grow-agentic-ai-ecosystem/",
+          "date": "Tue, 10 Feb 2026 15:45:00 +0000"
+        },
+        {
+          "title": "Robo.ai, DaBoss.AI Form J.V to Launch Distributed Embodied AI Data Platform",
+          "link": "https://ai-techpark.com/robo-ai-daboss-ai-form-j-v-to-launch-distributed-embodied-ai-data-platform/",
+          "date": "Tue, 10 Feb 2026 15:30:00 +0000"
+        },
+        {
+          "title": "Blue Yonder Releases Q4 2025 Company Highlights, Showcases New Upgrades",
+          "link": "https://ai-techpark.com/blue-yonder-releases-q4-2025-company-highlights-showcases-new-upgrades/",
+          "date": "Tue, 10 Feb 2026 10:30:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -178,6 +204,16 @@
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [
         {
+          "title": "How insurance leaders use agentic AI to cut operational costs",
+          "link": "https://www.artificialintelligence-news.com/news/how-insurance-leaders-use-agentic-ai-to-cut-operational-costs/",
+          "date": "Wed, 11 Feb 2026 09:29:47 +0000"
+        },
+        {
+          "title": "Red Hat unifies AI and tactical edge deployment for UK MOD",
+          "link": "https://www.artificialintelligence-news.com/news/red-hat-unifies-ai-tactical-edge-deployment-for-uk-mod/",
+          "date": "Wed, 11 Feb 2026 09:00:00 +0000"
+        },
+        {
           "title": "Chinese hyperscalers and industry-specific agentic AI",
           "link": "https://www.artificialintelligence-news.com/news/chinese-hyperscalers-and-industry-specific-chinas-agentic-ai/",
           "date": "Tue, 10 Feb 2026 11:20:00 +0000"
@@ -191,16 +227,6 @@
           "title": "What AI can (and can\u2019t) tell us about XRP in ETF-driven markets",
           "link": "https://www.artificialintelligence-news.com/news/what-ai-can-and-cant-tell-us-about-xrp-in-etf-driven-markets/",
           "date": "Mon, 09 Feb 2026 11:04:32 +0000"
-        },
-        {
-          "title": "Exclusive: Why are Chinese AI models dominating open-source as Western labs step back?",
-          "link": "https://www.artificialintelligence-news.com/news/chinese-ai-models-175k-unprotected-systems-western-retreat/",
-          "date": "Mon, 09 Feb 2026 11:00:00 +0000"
-        },
-        {
-          "title": "Cryptocurrency markets a testbed for AI forecasting models",
-          "link": "https://www.artificialintelligence-news.com/news/cryptocurrency-markets-a-testbed-for-ai-forecasting-models/",
-          "date": "Mon, 09 Feb 2026 10:30:39 +0000"
         }
       ],
       "error": null
@@ -258,19 +284,19 @@
           "date": "2025-09-09T02:25:04+00:00"
         },
         {
+          "title": "What visual AI tool can generate consistent image sets?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r1t2b0/what_visual_ai_tool_can_generate_consistent_image/",
+          "date": "2026-02-11T09:41:33+00:00"
+        },
+        {
+          "title": "Open-Source 2D Survival Game",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r1spr2/opensource_2d_survival_game/",
+          "date": "2026-02-11T09:19:09+00:00"
+        },
+        {
           "title": "Found a cool open-source code agent\u2014its code visualization is good, emmm\uff0cbetter than Cursor\uff1f",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r1s0s8/found_a_cool_opensource_code_agentits_code/",
           "date": "2026-02-11T08:36:21+00:00"
-        },
-        {
-          "title": "Is everyone just using Notepad to save prompts? There has to be a better way (so I made one",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r1rdtg/is_everyone_just_using_notepad_to_save_prompts/",
-          "date": "2026-02-11T07:56:40+00:00"
-        },
-        {
-          "title": "Similarly, this is just the result generated from a single prompt.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r1mc9c/similarly_this_is_just_the_result_generated_from/",
-          "date": "2026-02-11T03:27:02+00:00"
         }
       ],
       "error": null
@@ -374,11 +400,6 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "Why GPT-4o Shouldn\u2019t Be Deprecated \u2014 From Ethan James\u2019 Advocate",
-          "link": "https://www.reddit.com/r/artificial/comments/1r1s8o8/why_gpt4o_shouldnt_be_deprecated_from_ethan_james/",
-          "date": "2026-02-11T08:49:55+00:00"
-        },
-        {
           "title": "The big AI job swap: why white-collar workers are ditching their careers | AI (artificial intelligence) | The Guardian",
           "link": "https://www.reddit.com/r/artificial/comments/1r1qihm/the_big_ai_job_swap_why_whitecollar_workers_are/",
           "date": "2026-02-11T07:03:56+00:00"
@@ -392,6 +413,11 @@
           "title": "'A second set of eyes': AI-supported breast cancer screening spots more cancers earlier, landmark trial finds",
           "link": "https://www.reddit.com/r/artificial/comments/1r0htud/a_second_set_of_eyes_aisupported_breast_cancer/",
           "date": "2026-02-09T21:52:26+00:00"
+        },
+        {
+          "title": "Why GPT-4o Shouldn\u2019t Be Deprecated \u2014 From Ethan James\u2019 Advocate",
+          "link": "https://www.reddit.com/r/artificial/comments/1r1s8o8/why_gpt4o_shouldnt_be_deprecated_from_ethan_james/",
+          "date": "2026-02-11T08:49:55+00:00"
         },
         {
           "title": "Here is your GitHub-ready persona.json file for the GPT\u20114o Emulator, along with a README.md that documents its purpose, usage, and setup.",
