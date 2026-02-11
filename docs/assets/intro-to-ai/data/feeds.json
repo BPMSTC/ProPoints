@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-02-11T13:04:10.489040+00:00",
+  "generatedAt": "2026-02-11T14:50:58.895560+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Podcast: Ring Is Back and Scarier Than Ever",
+          "link": "https://www.404media.co/podcast-ring-is-back-and-scarier-than-ever/",
+          "date": "Wed, 11 Feb 2026 14:00:18 GMT"
+        },
         {
           "title": "RFK Jr's Nutrition Chatbot Recommends Best Foods to Insert Into Your Rectum",
           "link": "https://www.404media.co/rfk-jrs-nutrition-chatbot-recommends-best-foods-to-insert-into-your-rectum/",
@@ -24,11 +29,6 @@
           "title": "The Screen Time Panic Sets Parents Up to Fail",
           "link": "https://www.404media.co/the-screen-time-panic-sets-parents-up-to-fail/",
           "date": "Mon, 09 Feb 2026 19:52:58 GMT"
-        },
-        {
-          "title": "Chatbots Make Terrible Doctors, New Study Finds",
-          "link": "https://www.404media.co/chatbots-health-medical-advice-study/",
-          "date": "Mon, 09 Feb 2026 16:01:31 GMT"
         }
       ],
       "error": null
@@ -102,6 +102,11 @@
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [
         {
+          "title": "Kong Launches Context Mesh to Connect Enterprise Data to AI Agents",
+          "link": "https://ai-techpark.com/kong-launches-context-mesh-to-connect-enterprise-data-to-ai-agents/",
+          "date": "Wed, 11 Feb 2026 14:00:00 +0000"
+        },
+        {
           "title": "Cloudera Reports Strong Fiscal Year, Reinforces AI Leadership",
           "link": "https://ai-techpark.com/cloudera-reports-strong-fiscal-year-reinforces-ai-leadership/",
           "date": "Wed, 11 Feb 2026 10:30:00 +0000"
@@ -120,11 +125,6 @@
           "title": "Azul Report: 62% of Enterprises Use Java for AI Workloads",
           "link": "https://ai-techpark.com/azul-report-62-of-enterprises-use-java-for-ai-workloads/",
           "date": "Wed, 11 Feb 2026 08:31:03 +0000"
-        },
-        {
-          "title": "BrowserStack Report: 94% Use AI in Testing, 12% Reach Autonomy",
-          "link": "https://ai-techpark.com/browserstack-report-94-use-ai-in-testing-12-reach-autonomy/",
-          "date": "Wed, 11 Feb 2026 08:30:00 +0000"
         }
       ],
       "error": null
@@ -284,19 +284,19 @@
           "date": "2025-09-09T02:25:04+00:00"
         },
         {
+          "title": "I thought AI was only for coders\u2026 turns out I was wrong",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r1ytzo/i_thought_ai_was_only_for_coders_turns_out_i_was/",
+          "date": "2026-02-11T14:28:39+00:00"
+        },
+        {
           "title": "Whats the best open source model for video generation?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r1ufqb/whats_the_best_open_source_model_for_video/",
           "date": "2026-02-11T11:02:20+00:00"
         },
         {
-          "title": "Similarly, this is just the result generated from a single prompt.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r1mc9c/similarly_this_is_just_the_result_generated_from/",
-          "date": "2026-02-11T03:27:02+00:00"
-        },
-        {
-          "title": "AI Employee",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r1w5gw/ai_employee/",
-          "date": "2026-02-11T12:32:36+00:00"
+          "title": "Spec-driven workflows \u2014 what are they actually solving?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r1z8rq/specdriven_workflows_what_are_they_actually/",
+          "date": "2026-02-11T14:45:06+00:00"
         }
       ],
       "error": null
@@ -368,6 +368,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "America, it's time to think beyond leather for luxury car seats",
+          "link": "https://arstechnica.com/features/2026/02/america-its-time-to-think-beyond-leather-for-luxury-car-seats/",
+          "date": "Wed, 11 Feb 2026 12:00:35 +0000"
+        },
+        {
           "title": "FDA refuses to review Moderna's mRNA flu vaccine",
           "link": "https://arstechnica.com/health/2026/02/fda-refuses-to-review-modernas-mrna-flu-vaccine/",
           "date": "Wed, 11 Feb 2026 01:21:12 +0000"
@@ -386,11 +391,6 @@
           "title": "Yet another co-founder departs Elon Musk's xAI",
           "link": "https://arstechnica.com/ai/2026/02/grok-maker-xai-loses-another-co-founder/",
           "date": "Tue, 10 Feb 2026 18:54:39 +0000"
-        },
-        {
-          "title": "Dewormer ivermectin as cancer cure? RFK Jr.'s NIH funds \"absurd\" study.",
-          "link": "https://arstechnica.com/health/2026/02/dewormer-ivermectin-as-cancer-cure-rfk-jr-s-nih-funds-absurd-study/",
-          "date": "Tue, 10 Feb 2026 18:44:32 +0000"
         }
       ],
       "error": null
@@ -403,6 +403,11 @@
           "title": "Mathematicians issue a major challenge to AI\u2014show us your work",
           "link": "https://www.reddit.com/r/artificial/comments/1r1w56d/mathematicians_issue_a_major_challenge_to_aishow/",
           "date": "2026-02-11T12:32:10+00:00"
+        },
+        {
+          "title": "OpenAI Is Making the Mistakes Facebook Made. I Quit.",
+          "link": "https://www.reddit.com/r/artificial/comments/1r1z31t/openai_is_making_the_mistakes_facebook_made_i_quit/",
+          "date": "2026-02-11T14:38:47+00:00"
         },
         {
           "title": "I built the world's first Chrome extension that runs LLMs entirely in-browser\u2014WebGPU, Transformers.js, and Chrome's Prompt API",
@@ -418,11 +423,6 @@
           "title": "Kling AI Launches 3.0 Model, Ushering in an Era Where Everyone Can Be a Director",
           "link": "https://www.reddit.com/r/artificial/comments/1r0ww09/kling_ai_launches_30_model_ushering_in_an_era/",
           "date": "2026-02-10T10:07:12+00:00"
-        },
-        {
-          "title": "The big AI job swap: why white-collar workers are ditching their careers | AI (artificial intelligence) | The Guardian",
-          "link": "https://www.reddit.com/r/artificial/comments/1r1qihm/the_big_ai_job_swap_why_whitecollar_workers_are/",
-          "date": "2026-02-11T07:03:56+00:00"
         }
       ],
       "error": null
@@ -484,7 +484,7 @@
           "date": "Tue, 10 Feb 2026 17:00:53 GMT"
         },
         {
-          "title": "Will the Gulf\u2019s push for its own AI succeed?",
+          "title": "Is it possible to develop AI without the US?",
           "link": "https://www.theguardian.com/technology/2026/feb/09/us-tech-ai-companies-gulf-states",
           "date": "Tue, 10 Feb 2026 14:45:34 GMT"
         }
@@ -528,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Fear Grows That AI Is Permanently Eliminating Jobs",
+          "link": "https://futurism.com/artificial-intelligence/ai-layoffs-permanent-jobs",
+          "date": "Wed, 11 Feb 2026 09:14:01 -0500"
+        },
+        {
           "title": "ChatGPT Users Are Crashing Out Because OpenAI Is Retiring the Model That Says \u201cI Love You\u201d",
           "link": "https://futurism.com/artificial-intelligence/chatgpt-crashing-out-openai-retiring-gpt-4o",
           "date": "Tue, 10 Feb 2026 16:02:00 -0500"
@@ -546,11 +551,6 @@
           "title": "Anthropic Researcher Quits in Cryptic Public Letter",
           "link": "https://futurism.com/artificial-intelligence/anthropic-researcher-quits-cryptic-letter",
           "date": "Tue, 10 Feb 2026 13:03:39 -0500"
-        },
-        {
-          "title": "\u201cNovelist\u201d Boasts That Using AI She Can Churn Out a New Book in 45 Minutes, Says Regular Writers Will Never Be Able to Keep Up",
-          "link": "https://futurism.com/artificial-intelligence/ai-novelist",
-          "date": "Tue, 10 Feb 2026 09:17:23 -0500"
         }
       ],
       "error": null
