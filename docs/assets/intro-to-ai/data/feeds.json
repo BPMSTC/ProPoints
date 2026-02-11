@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-11T07:57:39.499278+00:00",
+  "generatedAt": "2026-02-11T08:55:11.570361+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "Coveo Announces Hosted MCP Server to Grow Agentic AI Ecosystem",
-          "link": "https://ai-techpark.com/coveo-announces-hosted-mcp-server-to-grow-agentic-ai-ecosystem/",
-          "date": "Tue, 10 Feb 2026 15:45:00 +0000"
-        },
-        {
-          "title": "Robo.ai, DaBoss.AI Form J.V to Launch Distributed Embodied AI Data Platform",
-          "link": "https://ai-techpark.com/robo-ai-daboss-ai-form-j-v-to-launch-distributed-embodied-ai-data-platform/",
-          "date": "Tue, 10 Feb 2026 15:30:00 +0000"
-        },
-        {
-          "title": "Blue Yonder Releases Q4 2025 Company Highlights, Showcases New Upgrades",
-          "link": "https://ai-techpark.com/blue-yonder-releases-q4-2025-company-highlights-showcases-new-upgrades/",
-          "date": "Tue, 10 Feb 2026 10:30:00 +0000"
-        },
-        {
-          "title": "Ambience Healthcare Appoints Mike Valli as CRO and Chief Value Officer",
-          "link": "https://ai-techpark.com/ambience-healthcare-appoints-mike-valli-as-cro-and-chief-value-officer/",
-          "date": "Tue, 10 Feb 2026 10:15:00 +0000"
-        },
-        {
-          "title": "SailPoint Sees Rising Demand for Adaptive Identity Security",
-          "link": "https://ai-techpark.com/sailpoint-sees-rising-demand-for-adaptive-identity-security/",
-          "date": "Tue, 10 Feb 2026 09:45:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -284,9 +258,9 @@
           "date": "2025-09-09T02:25:04+00:00"
         },
         {
-          "title": "Similarly, this is just the result generated from a single prompt.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r1mc9c/similarly_this_is_just_the_result_generated_from/",
-          "date": "2026-02-11T03:27:02+00:00"
+          "title": "Found a cool open-source code agent\u2014its code visualization is good, emmm\uff0cbetter than Cursor\uff1f",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r1s0s8/found_a_cool_opensource_code_agentits_code/",
+          "date": "2026-02-11T08:36:21+00:00"
         },
         {
           "title": "Is everyone just using Notepad to save prompts? There has to be a better way (so I made one",
@@ -294,9 +268,9 @@
           "date": "2026-02-11T07:56:40+00:00"
         },
         {
-          "title": "Run AI agents locally. Let them call real tools.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r1lxw4/run_ai_agents_locally_let_them_call_real_tools/",
-          "date": "2026-02-11T03:08:37+00:00"
+          "title": "Similarly, this is just the result generated from a single prompt.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r1mc9c/similarly_this_is_just_the_result_generated_from/",
+          "date": "2026-02-11T03:27:02+00:00"
         }
       ],
       "error": null
@@ -400,6 +374,11 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
+          "title": "Why GPT-4o Shouldn\u2019t Be Deprecated \u2014 From Ethan James\u2019 Advocate",
+          "link": "https://www.reddit.com/r/artificial/comments/1r1s8o8/why_gpt4o_shouldnt_be_deprecated_from_ethan_james/",
+          "date": "2026-02-11T08:49:55+00:00"
+        },
+        {
           "title": "The big AI job swap: why white-collar workers are ditching their careers | AI (artificial intelligence) | The Guardian",
           "link": "https://www.reddit.com/r/artificial/comments/1r1qihm/the_big_ai_job_swap_why_whitecollar_workers_are/",
           "date": "2026-02-11T07:03:56+00:00"
@@ -413,11 +392,6 @@
           "title": "'A second set of eyes': AI-supported breast cancer screening spots more cancers earlier, landmark trial finds",
           "link": "https://www.reddit.com/r/artificial/comments/1r0htud/a_second_set_of_eyes_aisupported_breast_cancer/",
           "date": "2026-02-09T21:52:26+00:00"
-        },
-        {
-          "title": "Kling AI Launches 3.0 Model, Ushering in an Era Where Everyone Can Be a Director",
-          "link": "https://www.reddit.com/r/artificial/comments/1r0ww09/kling_ai_launches_30_model_ushering_in_an_era/",
-          "date": "2026-02-10T10:07:12+00:00"
         },
         {
           "title": "Here is your GitHub-ready persona.json file for the GPT\u20114o Emulator, along with a README.md that documents its purpose, usage, and setup.",
