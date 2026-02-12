@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-12T22:29:39.902088+00:00",
+  "generatedAt": "2026-02-12T23:26:21.239892+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -36,34 +36,8 @@
     {
       "name": "Ahead of AI",
       "url": "https://magazine.sebastianraschka.com/feed",
-      "items": [
-        {
-          "title": "Categories of Inference-Time Scaling for Improved LLM Reasoning",
-          "link": "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
-          "date": "Sat, 24 Jan 2026 11:23:18 GMT"
-        },
-        {
-          "title": "The State Of LLMs 2025: Progress, Problems, and Predictions",
-          "link": "https://magazine.sebastianraschka.com/p/state-of-llms-2025",
-          "date": "Tue, 30 Dec 2025 12:22:26 GMT"
-        },
-        {
-          "title": "LLM Research Papers: The 2025 List (July to December)",
-          "link": "https://magazine.sebastianraschka.com/p/llm-research-papers-2025-part2",
-          "date": "Tue, 30 Dec 2025 12:15:39 GMT"
-        },
-        {
-          "title": "From DeepSeek V3 to V3.2: Architecture, Sparse Attention, and RL Updates",
-          "link": "https://magazine.sebastianraschka.com/p/technical-deepseek",
-          "date": "Wed, 03 Dec 2025 12:03:33 GMT"
-        },
-        {
-          "title": "Beyond Standard LLMs",
-          "link": "https://magazine.sebastianraschka.com/p/beyond-standard-llms",
-          "date": "Tue, 04 Nov 2025 13:06:07 GMT"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:52:19: undefined entity"
     },
     {
       "name": "AI Accelerator Institute | Future of Artificial Intelligence",
@@ -410,6 +384,11 @@
           "date": "2026-02-12T19:26:52+00:00"
         },
         {
+          "title": "What's the most underrated way you've seen AI used for actual business tasks?",
+          "link": "https://www.reddit.com/r/artificial/comments/1r38tis/whats_the_most_underrated_way_youve_seen_ai_used/",
+          "date": "2026-02-12T23:17:58+00:00"
+        },
+        {
           "title": "Planoai 0.4.6 \ud83d\ude80 Signals-based tracing for agents via a terminal UI",
           "link": "https://www.reddit.com/r/artificial/comments/1r2wpd2/planoai_046_signalsbased_tracing_for_agents_via_a/",
           "date": "2026-02-12T15:39:55+00:00"
@@ -418,11 +397,6 @@
           "title": "CROW: \"L'Ouverture\" (The Opening) 1983",
           "link": "https://www.reddit.com/r/artificial/comments/1r35lov/crow_louverture_the_opening_1983/",
           "date": "2026-02-12T21:11:08+00:00"
-        },
-        {
-          "title": "$750M Azure deal + Amazon lawsuit: Perplexity\u2019s wild week",
-          "link": "https://www.reddit.com/r/artificial/comments/1r2xjhp/750m_azure_deal_amazon_lawsuit_perplexitys_wild/",
-          "date": "2026-02-12T16:11:33+00:00"
         }
       ],
       "error": null
@@ -464,6 +438,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Anthropic raises $30bn in latest round, valuing Claude bot maker at $380bn",
+          "link": "https://www.theguardian.com/technology/2026/feb/12/anthropic-funding-round",
+          "date": "Thu, 12 Feb 2026 22:46:53 GMT"
+        },
+        {
           "title": "How to deal with the \u201cClaude crash\u201d: Relx should keep buying back shares, then buy more | Nils Pratley",
           "link": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/feb/12/relx-claude-crash-buy-back-shares",
           "date": "Thu, 12 Feb 2026 18:43:37 GMT"
@@ -482,11 +461,6 @@
           "title": "I\u2019ll drink to orderly queues in pubs | Brief letters",
           "link": "https://www.theguardian.com/lifeandstyle/2026/feb/12/ill-drink-to-orderly-queues-in-pubs",
           "date": "Thu, 12 Feb 2026 17:05:55 GMT"
-        },
-        {
-          "title": "\u2018At 2am, it feels like someone\u2019s there\u2019: why Nigerians are choosing chatbots to give them advice and therapy",
-          "link": "https://www.theguardian.com/global-development/2026/feb/12/nigeria-mental-health-ai-chatbots-psychiatry-therapy-depression-privacy",
-          "date": "Thu, 12 Feb 2026 06:00:41 GMT"
         }
       ],
       "error": null
