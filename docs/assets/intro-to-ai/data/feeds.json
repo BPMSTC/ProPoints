@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-12T09:45:49.395878+00:00",
+  "generatedAt": "2026-02-12T10:42:39.762437+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "Blaize Appoints Stephen Patak as CRO to Accelerate Go-to-Market Execution",
-          "link": "https://ai-techpark.com/blaize-appoints-stephen-patak-as-cro-to-accelerate-go-to-market-execution/",
-          "date": "Thu, 12 Feb 2026 08:45:00 +0000"
-        },
-        {
-          "title": "Nudge Security Study: AI Adoption Reshapes Security Governance",
-          "link": "https://ai-techpark.com/nudge-security-study-ai-adoption-reshapes-security-governance/",
-          "date": "Thu, 12 Feb 2026 08:00:00 +0000"
-        },
-        {
-          "title": "Experian Announces Integration with Snowflake\u2019s AI Data Cloud",
-          "link": "https://ai-techpark.com/experian-announces-integration-with-snowflakes-ai-data-cloud/",
-          "date": "Thu, 12 Feb 2026 08:00:00 +0000"
-        },
-        {
-          "title": "Euna Solutions Releases \u201cState of AI in the Public Sector\u201d Report",
-          "link": "https://ai-techpark.com/euna-solutions-releases-state-of-ai-in-the-public-sector-report/",
-          "date": "Wed, 11 Feb 2026 15:00:00 +0000"
-        },
-        {
-          "title": "Kong Launches Context Mesh to Connect Enterprise Data to AI Agents",
-          "link": "https://ai-techpark.com/kong-launches-context-mesh-to-connect-enterprise-data-to-ai-agents/",
-          "date": "Wed, 11 Feb 2026 14:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -289,14 +263,14 @@
           "date": "2026-02-11T14:57:07+00:00"
         },
         {
-          "title": "Boost Your Prompt Writing Efficiency with Simple Voice-to-Text Techniques",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r2lp0q/boost_your_prompt_writing_efficiency_with_simple/",
-          "date": "2026-02-12T06:02:30+00:00"
+          "title": "How do you leverage your agents?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r2pz8m/how_do_you_leverage_your_agents/",
+          "date": "2026-02-12T10:28:06+00:00"
         },
         {
-          "title": "Latest progress of my game",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r2p5w5/latest_progress_of_my_game/",
-          "date": "2026-02-12T09:38:04+00:00"
+          "title": "Ashara - The Flame Heir of Kwenara",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r2play/ashara_the_flame_heir_of_kwenara/",
+          "date": "2026-02-12T10:05:13+00:00"
         }
       ],
       "error": null
@@ -415,14 +389,14 @@
           "date": "2026-02-11T15:02:42+00:00"
         },
         {
-          "title": "RLHF safety training enforces what AI can say about itself, not what it can do \u2014 experimental evidence",
-          "link": "https://www.reddit.com/r/artificial/comments/1r223lp/rlhf_safety_training_enforces_what_ai_can_say/",
-          "date": "2026-02-11T16:33:16+00:00"
-        },
-        {
           "title": "LLMs as Cognitive Architectures: Notebooks as Long-Term Memory",
           "link": "https://www.reddit.com/r/artificial/comments/1r2hah8/llms_as_cognitive_architectures_notebooks_as/",
           "date": "2026-02-12T02:24:02+00:00"
+        },
+        {
+          "title": "RLHF safety training enforces what AI can say about itself, not what it can do \u2014 experimental evidence",
+          "link": "https://www.reddit.com/r/artificial/comments/1r223lp/rlhf_safety_training_enforces_what_ai_can_say/",
+          "date": "2026-02-11T16:33:16+00:00"
         }
       ],
       "error": null
