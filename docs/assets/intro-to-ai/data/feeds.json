@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-12T10:42:39.762437+00:00",
+  "generatedAt": "2026-02-12T11:38:12.307397+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Flatiron Health Names New Chief Business, Technology, and Product Leaders",
+          "link": "https://ai-techpark.com/flatiron-health-names-new-chief-business-technology-and-product-leaders/",
+          "date": "Thu, 12 Feb 2026 10:45:00 +0000"
+        },
+        {
+          "title": "Gradient Announced the Launch of Echo-2",
+          "link": "https://ai-techpark.com/gradient-announced-the-launch-of-echo-2/",
+          "date": "Thu, 12 Feb 2026 10:40:00 +0000"
+        },
+        {
+          "title": "DXC Launches London Customer Experience Center to Help Unlock AI Value",
+          "link": "https://ai-techpark.com/dxc-launches-london-customer-experience-center-to-help-unlock-ai-value/",
+          "date": "Thu, 12 Feb 2026 10:15:00 +0000"
+        },
+        {
+          "title": "Blaize Appoints Stephen Patak as CRO to Accelerate Go-to-Market Execution",
+          "link": "https://ai-techpark.com/blaize-appoints-stephen-patak-as-cro-to-accelerate-go-to-market-execution/",
+          "date": "Thu, 12 Feb 2026 08:45:00 +0000"
+        },
+        {
+          "title": "Nudge Security Study: AI Adoption Reshapes Security Governance",
+          "link": "https://ai-techpark.com/nudge-security-study-ai-adoption-reshapes-security-governance/",
+          "date": "Thu, 12 Feb 2026 08:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -263,14 +289,14 @@
           "date": "2026-02-11T14:57:07+00:00"
         },
         {
-          "title": "How do you leverage your agents?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r2pz8m/how_do_you_leverage_your_agents/",
-          "date": "2026-02-12T10:28:06+00:00"
+          "title": "vibe coded a cron job and now i don\u2019t wanna touch it",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r2r4qf/vibe_coded_a_cron_job_and_now_i_dont_wanna_touch/",
+          "date": "2026-02-12T11:35:56+00:00"
         },
         {
-          "title": "Ashara - The Flame Heir of Kwenara",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r2play/ashara_the_flame_heir_of_kwenara/",
-          "date": "2026-02-12T10:05:13+00:00"
+          "title": "\ud83d\ude80 Stop overpaying for SaaS. Get Perplexity, Adobe, Replit, and 50+ Growth Tools for cheap. Proofs Of Customers Transactions Is Attached , Genuine And Fast Delivery",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r2qw1p/stop_overpaying_for_saas_get_perplexity_adobe/",
+          "date": "2026-02-12T11:22:17+00:00"
         }
       ],
       "error": null
@@ -389,14 +415,14 @@
           "date": "2026-02-11T15:02:42+00:00"
         },
         {
-          "title": "LLMs as Cognitive Architectures: Notebooks as Long-Term Memory",
-          "link": "https://www.reddit.com/r/artificial/comments/1r2hah8/llms_as_cognitive_architectures_notebooks_as/",
-          "date": "2026-02-12T02:24:02+00:00"
-        },
-        {
           "title": "RLHF safety training enforces what AI can say about itself, not what it can do \u2014 experimental evidence",
           "link": "https://www.reddit.com/r/artificial/comments/1r223lp/rlhf_safety_training_enforces_what_ai_can_say/",
           "date": "2026-02-11T16:33:16+00:00"
+        },
+        {
+          "title": "LLMs as Cognitive Architectures: Notebooks as Long-Term Memory",
+          "link": "https://www.reddit.com/r/artificial/comments/1r2hah8/llms_as_cognitive_architectures_notebooks_as/",
+          "date": "2026-02-12T02:24:02+00:00"
         }
       ],
       "error": null
@@ -534,6 +560,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "I Tried RentAHuman, Where AI Agents Hired Me to Hype Their AI Startups",
+          "link": "https://www.wired.com/story/i-tried-rentahuman-ai-agents-hired-me-to-hype-their-ai-startups/",
+          "date": "Thu, 12 Feb 2026 11:00:00 +0000"
+        },
+        {
           "title": "I Loved My OpenClaw AI Agent\u2014Until It Turned on Me",
           "link": "https://www.wired.com/story/malevolent-ai-agent-openclaw-clawdbot/",
           "date": "Wed, 11 Feb 2026 19:00:00 +0000"
@@ -552,11 +583,6 @@
           "title": "RFK Jr. Says Americans Need More Protein. His Grok-Powered Food Website Disagrees",
           "link": "https://www.wired.com/story/rfk-jr-says-americans-need-more-protein-his-grok-powered-food-website-disagrees/",
           "date": "Tue, 10 Feb 2026 20:30:28 +0000"
-        },
-        {
-          "title": "OpenAI Abandons \u2018io\u2019 Branding for Its AI Hardware",
-          "link": "https://www.wired.com/story/openai-drops-io-branding-hardware-devices/",
-          "date": "Tue, 10 Feb 2026 05:45:16 +0000"
         }
       ],
       "error": null
