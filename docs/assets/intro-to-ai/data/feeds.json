@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-12T01:59:06.414871+00:00",
+  "generatedAt": "2026-02-12T04:29:03.791341+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Euna Solutions Releases \u201cState of AI in the Public Sector\u201d Report",
+          "link": "https://ai-techpark.com/euna-solutions-releases-state-of-ai-in-the-public-sector-report/",
+          "date": "Wed, 11 Feb 2026 15:00:00 +0000"
+        },
+        {
+          "title": "Kong Launches Context Mesh to Connect Enterprise Data to AI Agents",
+          "link": "https://ai-techpark.com/kong-launches-context-mesh-to-connect-enterprise-data-to-ai-agents/",
+          "date": "Wed, 11 Feb 2026 14:00:00 +0000"
+        },
+        {
+          "title": "Cloudera Reports Strong Fiscal Year, Reinforces AI Leadership",
+          "link": "https://ai-techpark.com/cloudera-reports-strong-fiscal-year-reinforces-ai-leadership/",
+          "date": "Wed, 11 Feb 2026 10:30:00 +0000"
+        },
+        {
+          "title": "Similarweb Announced the Launch of AI Studio",
+          "link": "https://ai-techpark.com/similarweb-announced-the-launch-of-ai-studio/",
+          "date": "Wed, 11 Feb 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Nabla Appoints Dr. Matt Sakumoto as Chief Clinical Product Officer",
+          "link": "https://ai-techpark.com/nabla-appoints-dr-matt-sakumoto-as-chief-clinical-product-officer/",
+          "date": "Wed, 11 Feb 2026 08:45:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -263,14 +289,14 @@
           "date": "2026-02-11T14:57:07+00:00"
         },
         {
+          "title": "How are PMs actually using Claude in their day to day product work?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r2iure/how_are_pms_actually_using_claude_in_their_day_to/",
+          "date": "2026-02-12T03:35:37+00:00"
+        },
+        {
           "title": "Convert blog2video, story of how I saved $30K in cost & built this tool",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r2cjf1/convert_blog2video_story_of_how_i_saved_30k_in/",
           "date": "2026-02-11T22:57:50+00:00"
-        },
-        {
-          "title": "AI tools help",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r2and8/ai_tools_help/",
-          "date": "2026-02-11T21:44:53+00:00"
         }
       ],
       "error": null
@@ -342,6 +368,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "SpaceX takes down Dragon crew arm, giving Starship a leg up in Florida",
+          "link": "https://arstechnica.com/space/2026/02/heres-why-americas-most-historic-launch-pad-is-getting-yet-another-facelift/",
+          "date": "Thu, 12 Feb 2026 02:23:50 +0000"
+        },
+        {
           "title": "Trump orders the military to make agreements with coal power plants",
           "link": "https://arstechnica.com/science/2026/02/trumps-latest-plan-to-revive-coal-power-make-the-military-buy-it/",
           "date": "Thu, 12 Feb 2026 00:02:53 +0000"
@@ -360,11 +391,6 @@
           "title": "Byte magazine artist Robert Tinney, who illustrated the birth of PCs, dies at 78",
           "link": "https://arstechnica.com/gadgets/2026/02/byte-magazine-artist-robert-tinney-who-illustrated-the-birth-of-pcs-dies-at-78/",
           "date": "Wed, 11 Feb 2026 21:51:33 +0000"
-        },
-        {
-          "title": "Yes, Rocket Lab is blowing up engines. No, it's not a big deal, CEO says.",
-          "link": "https://arstechnica.com/space/2026/02/yes-rocket-lab-is-blowing-up-engines-no-its-not-a-big-deal-ceo-says/",
-          "date": "Wed, 11 Feb 2026 21:04:18 +0000"
         }
       ],
       "error": null
@@ -379,9 +405,14 @@
           "date": "2026-02-11T12:32:10+00:00"
         },
         {
-          "title": "OpenAI Executive Who Opposed \u2018Adult Mode\u2019 Fired for Sexual Discrimination",
-          "link": "https://www.reddit.com/r/artificial/comments/1r2cjru/openai_executive_who_opposed_adult_mode_fired_for/",
-          "date": "2026-02-11T22:58:16+00:00"
+          "title": "AI helps humans have a 20-minute \"conversation\" with a humpback whale named Twain",
+          "link": "https://www.reddit.com/r/artificial/comments/1r2h409/ai_helps_humans_have_a_20minute_conversation_with/",
+          "date": "2026-02-12T02:15:52+00:00"
+        },
+        {
+          "title": "LLMs as Cognitive Architectures: Notebooks as Long-Term Memory",
+          "link": "https://www.reddit.com/r/artificial/comments/1r2hah8/llms_as_cognitive_architectures_notebooks_as/",
+          "date": "2026-02-12T02:24:02+00:00"
         },
         {
           "title": "With co-founders leaving and an IPO looming, Elon Musk turns talk to the moon",
@@ -392,11 +423,6 @@
           "title": "RLHF safety training enforces what AI can say about itself, not what it can do \u2014 experimental evidence",
           "link": "https://www.reddit.com/r/artificial/comments/1r223lp/rlhf_safety_training_enforces_what_ai_can_say/",
           "date": "2026-02-11T16:33:16+00:00"
-        },
-        {
-          "title": "The surge in interest in possible consciousness in AI (and what's driving it)",
-          "link": "https://www.reddit.com/r/artificial/comments/1r23ety/the_surge_in_interest_in_possible_consciousness/",
-          "date": "2026-02-11T17:20:37+00:00"
         }
       ],
       "error": null
