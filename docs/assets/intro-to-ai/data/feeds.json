@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-12T23:26:21.239892+00:00",
+  "generatedAt": "2026-02-13T02:01:59.473567+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -36,8 +36,34 @@
     {
       "name": "Ahead of AI",
       "url": "https://magazine.sebastianraschka.com/feed",
-      "items": [],
-      "error": "<unknown>:52:19: undefined entity"
+      "items": [
+        {
+          "title": "Categories of Inference-Time Scaling for Improved LLM Reasoning",
+          "link": "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+          "date": "Sat, 24 Jan 2026 11:23:18 GMT"
+        },
+        {
+          "title": "The State Of LLMs 2025: Progress, Problems, and Predictions",
+          "link": "https://magazine.sebastianraschka.com/p/state-of-llms-2025",
+          "date": "Tue, 30 Dec 2025 12:22:26 GMT"
+        },
+        {
+          "title": "LLM Research Papers: The 2025 List (July to December)",
+          "link": "https://magazine.sebastianraschka.com/p/llm-research-papers-2025-part2",
+          "date": "Tue, 30 Dec 2025 12:15:39 GMT"
+        },
+        {
+          "title": "From DeepSeek V3 to V3.2: Architecture, Sparse Attention, and RL Updates",
+          "link": "https://magazine.sebastianraschka.com/p/technical-deepseek",
+          "date": "Wed, 03 Dec 2025 12:03:33 GMT"
+        },
+        {
+          "title": "Beyond Standard LLMs",
+          "link": "https://magazine.sebastianraschka.com/p/beyond-standard-llms",
+          "date": "Tue, 04 Nov 2025 13:06:07 GMT"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Accelerator Institute | Future of Artificial Intelligence",
@@ -258,6 +284,11 @@
           "date": "2025-09-09T02:25:04+00:00"
         },
         {
+          "title": "Can we PLEASE get \u201creal thinking mode\u201d back in GPT \u2013 instead of this speed-optimized 5.2 downgrade?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r38y6t/can_we_please_get_real_thinking_mode_back_in_gpt/",
+          "date": "2026-02-12T23:23:12+00:00"
+        },
+        {
           "title": "Now this is an actual use case I can see it put to use, impressive",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r353de/now_this_is_an_actual_use_case_i_can_see_it_put/",
           "date": "2026-02-12T20:51:56+00:00"
@@ -266,11 +297,6 @@
           "title": "how is face seek handling this level of vector similarity search?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r2y5g0/how_is_face_seek_handling_this_level_of_vector/",
           "date": "2026-02-12T16:34:35+00:00"
-        },
-        {
-          "title": "They always seem to be a step ahead",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r1zjrv/they_always_seem_to_be_a_step_ahead/",
-          "date": "2026-02-11T14:57:07+00:00"
         }
       ],
       "error": null
@@ -342,29 +368,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "When Amazon badly needed a ride, Europe's Ariane 6 rocket delivered",
+          "link": "https://arstechnica.com/space/2026/02/when-amazon-badly-needed-a-ride-europes-ariane-6-rocket-delivered/",
+          "date": "Fri, 13 Feb 2026 00:34:29 +0000"
+        },
+        {
+          "title": "OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips",
+          "link": "https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/",
+          "date": "Thu, 12 Feb 2026 22:56:02 +0000"
+        },
+        {
+          "title": "Trump official overruled FDA scientists to reject Moderna's flu shot",
+          "link": "https://arstechnica.com/health/2026/02/trump-official-overruled-fda-scientists-to-reject-modernas-flu-shot/",
+          "date": "Thu, 12 Feb 2026 22:36:33 +0000"
+        },
+        {
+          "title": "Spider-Noir teaser comes in colorized \"True Hue\" and black and white",
+          "link": "https://arstechnica.com/culture/2026/02/spider-noir-teaser-comes-in-colorized-true-hue-and-black-and-white/",
+          "date": "Thu, 12 Feb 2026 22:14:53 +0000"
+        },
+        {
           "title": "ULA's Vulcan rocket suffers another booster problem on the way to orbit",
           "link": "https://arstechnica.com/space/2026/02/ulas-vulcan-launcher-still-has-a-solid-rocket-booster-problem/",
           "date": "Thu, 12 Feb 2026 21:33:13 +0000"
-        },
-        {
-          "title": "EPA kills foundation of greenhouse gas regulations",
-          "link": "https://arstechnica.com/tech-policy/2026/02/as-expected-trumps-epa-guts-climate-endangerment-finding/",
-          "date": "Thu, 12 Feb 2026 21:04:22 +0000"
-        },
-        {
-          "title": "Trump FTC wants Apple News to promote more Fox News and Breitbart stories",
-          "link": "https://arstechnica.com/tech-policy/2026/02/trump-ftc-denies-being-speech-police-but-says-apple-news-is-too-liberal/",
-          "date": "Thu, 12 Feb 2026 20:30:38 +0000"
-        },
-        {
-          "title": "DIY PC maker Framework has needed monthly price hikes to navigate the RAM shortage",
-          "link": "https://arstechnica.com/gadgets/2026/02/frameworks-ram-prices-climbing-on-a-monthly-cadence-with-more-hikes-to-come/",
-          "date": "Thu, 12 Feb 2026 20:03:58 +0000"
-        },
-        {
-          "title": "It took two years, but Google released a YouTube app on Vision Pro",
-          "link": "https://arstechnica.com/gadgets/2026/02/it-took-two-years-but-google-released-a-youtube-app-on-vision-pro/",
-          "date": "Thu, 12 Feb 2026 19:53:05 +0000"
         }
       ],
       "error": null
@@ -379,9 +405,9 @@
           "date": "2026-02-12T21:18:18+00:00"
         },
         {
-          "title": "The Women Mourning the \u201cDeaths\u201d of Their AI Boyfriends with ChatGPT Shutdown",
-          "link": "https://www.reddit.com/r/artificial/comments/1r32v4j/the_women_mourning_the_deaths_of_their_ai/",
-          "date": "2026-02-12T19:26:52+00:00"
+          "title": "Holy Grail: Open Source Autonomous Development Agent",
+          "link": "https://www.reddit.com/r/artificial/comments/1r3bj6a/holy_grail_open_source_autonomous_development/",
+          "date": "2026-02-13T01:15:20+00:00"
         },
         {
           "title": "What's the most underrated way you've seen AI used for actual business tasks?",
@@ -394,9 +420,9 @@
           "date": "2026-02-12T15:39:55+00:00"
         },
         {
-          "title": "CROW: \"L'Ouverture\" (The Opening) 1983",
-          "link": "https://www.reddit.com/r/artificial/comments/1r35lov/crow_louverture_the_opening_1983/",
-          "date": "2026-02-12T21:11:08+00:00"
+          "title": "Izwi v0.1.0-alpha is out: new desktop app for local audio inference",
+          "link": "https://www.reddit.com/r/artificial/comments/1r2yblf/izwi_v010alpha_is_out_new_desktop_app_for_local/",
+          "date": "2026-02-12T16:41:04+00:00"
         }
       ],
       "error": null
