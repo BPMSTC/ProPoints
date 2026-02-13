@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-13T17:38:13.028616+00:00",
+  "generatedAt": "2026-02-13T18:43:45.402531+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -166,6 +166,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "OpenAI GPT-5.3-Codex-Spark Shows What's Possible With Cerebras",
+          "link": "https://aibusiness.com/generative-ai/openai-gpt-5-3-codex-spark-shows-what-s-possible-with-cerebras",
+          "date": "Fri, 13 Feb 2026 18:01:44 GMT"
+        },
+        {
           "title": "New Waymo Robotaxi now Running Fully Autonomously on US Roads",
           "link": "https://aibusiness.com/generative-ai/new-waymo-robotaxi-now-running-fully-autonomously-on-us-roads",
           "date": "Fri, 13 Feb 2026 16:51:05 GMT"
@@ -184,11 +189,6 @@
           "title": "ElevenLabs Insures Agents, Targeting Enterprises' Fears",
           "link": "https://aibusiness.com/agentic-ai/elevenlabs-insures-agents-targeting-enterprises-fears",
           "date": "Thu, 12 Feb 2026 14:46:32 GMT"
-        },
-        {
-          "title": "Mistral Cites Euro Vision With $1.4B for Swedish AI Data Center",
-          "link": "https://aibusiness.com/generative-ai/mistral-cites-euro-vision-with-1-4b-for-swedish-ai",
-          "date": "Wed, 11 Feb 2026 19:26:50 GMT"
         }
       ],
       "error": null
@@ -361,12 +361,17 @@
       "name": "Announcements - Stability AI",
       "url": "https://stability.ai/blog?format=rss",
       "items": [],
-      "error": "<unknown>:2:0: syntax error"
+      "error": null
     },
     {
       "name": "Ars Technica - All content",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
+        {
+          "title": "Tiny, 45 base long RNA can make copies of itself",
+          "link": "https://arstechnica.com/science/2026/02/researchers-find-small-rnas-that-can-make-copies-of-themselves/",
+          "date": "Fri, 13 Feb 2026 17:29:51 +0000"
+        },
         {
           "title": "What if riders don't close a robotaxi door after a ride? Try DoorDash.",
           "link": "https://arstechnica.com/cars/2026/02/what-if-riders-dont-close-a-robotaxi-door-after-a-ride-try-doordash/",
@@ -386,11 +391,6 @@
           "title": "Rocket Report: Say cheerio to Orbex; China is getting good at booster landings",
           "link": "https://arstechnica.com/space/2026/02/rocket-report-say-cheerio-to-orbex-china-is-getting-good-at-booster-landings/",
           "date": "Fri, 13 Feb 2026 12:00:09 +0000"
-        },
-        {
-          "title": "Platforms bend over backward to help DHS censor ICE critics, advocates say",
-          "link": "https://arstechnica.com/tech-policy/2026/02/platforms-bend-over-backward-to-help-dhs-censor-ice-critics-advocates-say/",
-          "date": "Fri, 13 Feb 2026 12:00:07 +0000"
         }
       ],
       "error": null
@@ -399,11 +399,6 @@
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
-        {
-          "title": "Anthropic's recent research has debunked the Chinese Room Theory",
-          "link": "https://www.reddit.com/r/artificial/comments/1r3owna/anthropics_recent_research_has_debunked_the/",
-          "date": "2026-02-13T13:17:23+00:00"
-        },
         {
           "title": "Spotify says its best developers haven't written a line of code since December, thanks to AI",
           "link": "https://www.reddit.com/r/artificial/comments/1r35se7/spotify_says_its_best_developers_havent_written_a/",
@@ -423,6 +418,11 @@
           "title": "What's the most underrated way you've seen AI used for actual business tasks?",
           "link": "https://www.reddit.com/r/artificial/comments/1r38tis/whats_the_most_underrated_way_youve_seen_ai_used/",
           "date": "2026-02-12T23:17:58+00:00"
+        },
+        {
+          "title": "Humanity's Pattern of Delayed Harm Intervention Is The Threat, Not AI.",
+          "link": "https://www.reddit.com/r/artificial/comments/1r3dja8/humanitys_pattern_of_delayed_harm_intervention_is/",
+          "date": "2026-02-13T02:47:17+00:00"
         }
       ],
       "error": null
@@ -431,6 +431,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Why Sigmund Freud is making a comeback in the age of authoritarianism and AI",
+          "link": "https://theconversation.com/why-sigmund-freud-is-making-a-comeback-in-the-age-of-authoritarianism-and-ai-273499",
+          "date": "2026-02-13T17:37:57Z"
+        },
         {
           "title": "OpenAI has deleted the word \u2018safely\u2019 from its mission \u2013 and its new structure is a test for whether AI serves society or shareholders",
           "link": "https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467",
@@ -450,11 +455,6 @@
           "title": "Will Ozempic-style patches help me lose weight? Two experts explain",
           "link": "https://theconversation.com/will-ozempic-style-patches-help-me-lose-weight-two-experts-explain-275073",
           "date": "2026-02-11T19:11:30Z"
-        },
-        {
-          "title": "AI could mark the end of young people learning on the job \u2013 with terrible results",
-          "link": "https://theconversation.com/ai-could-mark-the-end-of-young-people-learning-on-the-job-with-terrible-results-275352",
-          "date": "2026-02-11T18:28:24Z"
         }
       ],
       "error": null
@@ -467,6 +467,11 @@
           "title": "AI is indeed coming \u2013 but there is also evidence to allay investor fears",
           "link": "https://www.theguardian.com/technology/2026/feb/13/ai-effects-on-business-industry-evidence-to-allay-investor-fears",
           "date": "Fri, 13 Feb 2026 17:00:30 GMT"
+        },
+        {
+          "title": "\u2018A different set of rules\u2019: thermal drone footage shows Musk\u2019s AI power plant flouting clean air regulations",
+          "link": "https://www.theguardian.com/environment/2026/feb/13/elon-musk-xai-datacenters-air-pollution-mississippi",
+          "date": "Fri, 13 Feb 2026 18:00:15 GMT"
         },
         {
           "title": "UK ad agencies undergo their biggest exodus of staff as AI threatens industry",
@@ -482,11 +487,6 @@
           "title": "\u2018It\u2019s over for us\u2019: release of new AI video generator Seedance 2.0 spooks Hollywood",
           "link": "https://www.theguardian.com/film/2026/feb/13/new-ai-video-generator-seedance-tom-cruise-brad-pitt",
           "date": "Fri, 13 Feb 2026 13:32:55 GMT"
-        },
-        {
-          "title": "Anthropic raises $30bn in latest round, valuing Claude bot maker at $380bn",
-          "link": "https://www.theguardian.com/technology/2026/feb/12/anthropic-funding-round",
-          "date": "Fri, 13 Feb 2026 11:30:00 GMT"
         }
       ],
       "error": null
@@ -528,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Campaign Urges Users to Quit ChatGPT Over OpenAI\u2019s Support for Trump and ICE",
+          "link": "https://futurism.com/future-society/boycott-chatpgpt-trump",
+          "date": "Fri, 13 Feb 2026 13:07:51 -0500"
+        },
+        {
           "title": "Microsoft AI CEO: Virtually All White Collar Tasks Will Be Automated Within a Year and a Half",
           "link": "https://futurism.com/artificial-intelligence/microsoft-all-white-collar-tasks-automated",
           "date": "Fri, 13 Feb 2026 12:02:00 -0500"
@@ -546,11 +551,6 @@
           "title": "AI Is a Burnout Machine",
           "link": "https://futurism.com/artificial-intelligence/ai-burnout-machine",
           "date": "Thu, 12 Feb 2026 13:12:29 -0500"
-        },
-        {
-          "title": "OpenAI Fires Top Safety Exec Who Opposed ChatGPT\u2019s \u201cAdult Mode\u201d",
-          "link": "https://futurism.com/artificial-intelligence/openai-fires-safety-exec-opposed-adult-mode",
-          "date": "Thu, 12 Feb 2026 12:06:17 -0500"
         }
       ],
       "error": null
