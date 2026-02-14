@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-14T19:21:38.948403+00:00",
+  "generatedAt": "2026-02-14T20:23:00.069998+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "Hippocratic AI Appoints New Key Execs to Further Accelerate Growth",
-          "link": "https://ai-techpark.com/hippocratic-ai-appoints-new-key-execs-to-further-accelerate-growth/",
-          "date": "Fri, 13 Feb 2026 12:30:00 +0000"
-        },
-        {
-          "title": "Kyndryl Unveils Agentic AI Workflow Governance",
-          "link": "https://ai-techpark.com/kyndryl-unveils-agentic-ai-workflow-governance/",
-          "date": "Fri, 13 Feb 2026 08:45:00 +0000"
-        },
-        {
-          "title": "Medicomp Systems Launches AI Tools for Evidence-Based Care",
-          "link": "https://ai-techpark.com/medicomp-systems-launches-ai-tools-for-evidence-based-care/",
-          "date": "Fri, 13 Feb 2026 08:30:00 +0000"
-        },
-        {
-          "title": "OPAQUE Systems Raises $24M Series B at $300M Valuation",
-          "link": "https://ai-techpark.com/opaque-systems-raises-24m-series-b-at-300m-valuation/",
-          "date": "Fri, 13 Feb 2026 06:42:58 +0000"
-        },
-        {
-          "title": "Seismic Announces Intent to Merge With Highspot",
-          "link": "https://ai-techpark.com/seismic-announces-intent-to-merge-with-highspot/",
-          "date": "Fri, 13 Feb 2026 06:41:43 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -368,6 +342,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "A Valentine's Day homage to Crouching Tiger, Hidden Dragon",
+          "link": "https://arstechnica.com/culture/2026/02/a-valentines-day-homage-to-crouching-tiger-hidden-dragon/",
+          "date": "Sat, 14 Feb 2026 18:33:36 +0000"
+        },
+        {
           "title": "Astronomers are filling in the blanks of the Kuiper Belt",
           "link": "https://arstechnica.com/science/2026/02/astronomers-are-filling-in-the-blanks-of-the-kuiper-belt/",
           "date": "Sat, 14 Feb 2026 11:45:48 +0000"
@@ -386,11 +365,6 @@
           "title": "Verizon imposes new roadblock on users trying to unlock paid-off phones",
           "link": "https://arstechnica.com/tech-policy/2026/02/verizon-makes-customers-wait-35-days-to-unlock-fully-paid-off-phones/",
           "date": "Fri, 13 Feb 2026 22:13:27 +0000"
-        },
-        {
-          "title": "Ring cancels Flock deal after dystopian Super Bowl ad prompts mass outrage",
-          "link": "https://arstechnica.com/tech-policy/2026/02/after-creepy-super-bowl-ad-sparks-outrage-ring-abandons-flock-deal/",
-          "date": "Fri, 13 Feb 2026 21:39:29 +0000"
         }
       ],
       "error": null
