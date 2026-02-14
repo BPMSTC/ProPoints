@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-14T17:24:03.257297+00:00",
+  "generatedAt": "2026-02-14T18:31:05.774711+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Hippocratic AI Appoints New Key Execs to Further Accelerate Growth",
+          "link": "https://ai-techpark.com/hippocratic-ai-appoints-new-key-execs-to-further-accelerate-growth/",
+          "date": "Fri, 13 Feb 2026 12:30:00 +0000"
+        },
+        {
+          "title": "Kyndryl Unveils Agentic AI Workflow Governance",
+          "link": "https://ai-techpark.com/kyndryl-unveils-agentic-ai-workflow-governance/",
+          "date": "Fri, 13 Feb 2026 08:45:00 +0000"
+        },
+        {
+          "title": "Medicomp Systems Launches AI Tools for Evidence-Based Care",
+          "link": "https://ai-techpark.com/medicomp-systems-launches-ai-tools-for-evidence-based-care/",
+          "date": "Fri, 13 Feb 2026 08:30:00 +0000"
+        },
+        {
+          "title": "OPAQUE Systems Raises $24M Series B at $300M Valuation",
+          "link": "https://ai-techpark.com/opaque-systems-raises-24m-series-b-at-300m-valuation/",
+          "date": "Fri, 13 Feb 2026 06:42:58 +0000"
+        },
+        {
+          "title": "Seismic Announces Intent to Merge With Highspot",
+          "link": "https://ai-techpark.com/seismic-announces-intent-to-merge-with-highspot/",
+          "date": "Fri, 13 Feb 2026 06:41:43 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -258,6 +284,11 @@
           "date": "2025-09-09T02:25:04+00:00"
         },
         {
+          "title": "90 days before all platforms are flooded with AI slop to the point where they are no longer usable",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r4lgpf/90_days_before_all_platforms_are_flooded_with_ai/",
+          "date": "2026-02-14T14:05:28+00:00"
+        },
+        {
           "title": "This just was a dream. Now change in reality.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r4q2uy/this_just_was_a_dream_now_change_in_reality/",
           "date": "2026-02-14T17:13:03+00:00"
@@ -266,11 +297,6 @@
           "title": "How to Tame AI Prompt Drift: A Mini-Guide to Keeping Your Outputs On Track",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r4pxwr/how_to_tame_ai_prompt_drift_a_miniguide_to/",
           "date": "2026-02-14T17:07:39+00:00"
-        },
-        {
-          "title": "[Showcase] I built a Local-First, Privacy-Focused Habit Tracker (Python/Flask + SQLite) \u2013 v0.1.4 Release!",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r4pm3n/showcase_i_built_a_localfirst_privacyfocused/",
-          "date": "2026-02-14T16:55:10+00:00"
         }
       ],
       "error": null
@@ -502,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Microsoft Added AI to Notepad and It Created a Security Failure Because the AI Was Stupidly Easy for Hackers to Trick",
+          "link": "https://futurism.com/artificial-intelligence/microsoft-added-ai-notepad-security-flaw",
+          "date": "Sat, 14 Feb 2026 13:30:00 -0500"
+        },
+        {
           "title": "Ring\u2019s \u201cOrwellian\u201d Ad Was the Worst Super Bowl Disaster Since Kendall Jenner Handed the Cops a Pepsi",
           "link": "https://futurism.com/future-society/ring-orwellian-ad-worst-super-bowl-ad-pepsi",
           "date": "Sat, 14 Feb 2026 11:15:00 -0500"
@@ -520,11 +551,6 @@
           "title": "Meta Adding Facial Recognition to Its Smart Glasses That Identifies People in Real Time, Hoping the Public Is Too Distracted by Political Turmoil to Care",
           "link": "https://futurism.com/artificial-intelligence/meta-facial-recognition-glasses",
           "date": "Sat, 14 Feb 2026 09:00:00 -0500"
-        },
-        {
-          "title": "Anthropic CEO Says Company No Longer Sure Whether Claude Is Conscious",
-          "link": "https://futurism.com/artificial-intelligence/anthropic-ceo-unsure-claude-conscious",
-          "date": "Sat, 14 Feb 2026 06:45:00 -0500"
         }
       ],
       "error": null
