@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-02-14T13:42:18.720336+00:00",
+  "generatedAt": "2026-02-14T14:24:26.787414+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Astronomers Create Strange \u2018Vortex Crystals\u2019 from Space in the Lab",
+          "link": "https://www.404media.co/astronomers-create-strange-vortex-crystals-from-space-in-the-lab/",
+          "date": "Sat, 14 Feb 2026 14:00:58 GMT"
+        },
         {
           "title": "Behind the Blog: Unglamorous Work",
           "link": "https://www.404media.co/behind-the-blog-unglamorous-work/",
@@ -24,11 +29,6 @@
           "title": "Cops Are Buying \u2018GeoSpy\u2019, an AI That Geolocates Photos in Seconds",
           "link": "https://www.404media.co/cops-are-buying-geospy-ai-that-geolocates-photos-in-seconds/",
           "date": "Thu, 12 Feb 2026 14:14:48 GMT"
-        },
-        {
-          "title": "Free Tool Says it Can Bypass Discord's Age Verification Check With a 3D Model",
-          "link": "https://www.404media.co/free-tool-says-it-can-bypass-discords-age-verification-check-with-a-3d-model/",
-          "date": "Wed, 11 Feb 2026 20:53:57 GMT"
         }
       ],
       "error": null
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "Hippocratic AI Appoints New Key Execs to Further Accelerate Growth",
-          "link": "https://ai-techpark.com/hippocratic-ai-appoints-new-key-execs-to-further-accelerate-growth/",
-          "date": "Fri, 13 Feb 2026 12:30:00 +0000"
-        },
-        {
-          "title": "Kyndryl Unveils Agentic AI Workflow Governance",
-          "link": "https://ai-techpark.com/kyndryl-unveils-agentic-ai-workflow-governance/",
-          "date": "Fri, 13 Feb 2026 08:45:00 +0000"
-        },
-        {
-          "title": "Medicomp Systems Launches AI Tools for Evidence-Based Care",
-          "link": "https://ai-techpark.com/medicomp-systems-launches-ai-tools-for-evidence-based-care/",
-          "date": "Fri, 13 Feb 2026 08:30:00 +0000"
-        },
-        {
-          "title": "OPAQUE Systems Raises $24M Series B at $300M Valuation",
-          "link": "https://ai-techpark.com/opaque-systems-raises-24m-series-b-at-300m-valuation/",
-          "date": "Fri, 13 Feb 2026 06:42:58 +0000"
-        },
-        {
-          "title": "Seismic Announces Intent to Merge With Highspot",
-          "link": "https://ai-techpark.com/seismic-announces-intent-to-merge-with-highspot/",
-          "date": "Fri, 13 Feb 2026 06:41:43 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -284,19 +258,19 @@
           "date": "2025-09-09T02:25:04+00:00"
         },
         {
+          "title": "90 days before all platforms are flooded with AI slop to the point where they are no longer usable",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r4lgpf/90_days_before_all_platforms_are_flooded_with_ai/",
+          "date": "2026-02-14T14:05:28+00:00"
+        },
+        {
+          "title": "Ai agents sandboxing options",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r4lkvp/ai_agents_sandboxing_options/",
+          "date": "2026-02-14T14:10:28+00:00"
+        },
+        {
           "title": "I needed an AI code generator similar to Lovable, but with BYOK and no lock-in. So, I built one myself.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r4kmjq/i_needed_an_ai_code_generator_similar_to_lovable/",
           "date": "2026-02-14T13:28:16+00:00"
-        },
-        {
-          "title": "Chatgpt plus And Google AI Pro special offer (Limited)",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r4jrw8/chatgpt_plus_and_google_ai_pro_special_offer/",
-          "date": "2026-02-14T12:46:31+00:00"
-        },
-        {
-          "title": "best way to control ai generated video",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r4iemv/best_way_to_control_ai_generated_video/",
-          "date": "2026-02-14T11:32:19+00:00"
         }
       ],
       "error": null
@@ -410,14 +384,14 @@
           "date": "2026-02-13T19:39:12+00:00"
         },
         {
-          "title": "Men are from mars, women from Venus - how Claude helps my relationship.",
-          "link": "https://www.reddit.com/r/artificial/comments/1r4k4wj/men_are_from_mars_women_from_venus_how_claude/",
-          "date": "2026-02-14T13:04:45+00:00"
-        },
-        {
           "title": "Spotify says its best developers haven't written a line of code since December, thanks to AI",
           "link": "https://www.reddit.com/r/artificial/comments/1r35se7/spotify_says_its_best_developers_havent_written_a/",
           "date": "2026-02-12T21:18:18+00:00"
+        },
+        {
+          "title": "Men are from mars, women from Venus - how Claude helps my relationship.",
+          "link": "https://www.reddit.com/r/artificial/comments/1r4k4wj/men_are_from_mars_women_from_venus_how_claude/",
+          "date": "2026-02-14T13:04:45+00:00"
         },
         {
           "title": "The AI Tool Dilemma: Privacy vs. Features for Solo Creators",
@@ -528,6 +502,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Meta Adding Facial Recognition to Its Smart Glasses That Identifies People in Real Time, Hoping the Public Is Too Distracted by Political Turmoil to Care",
+          "link": "https://futurism.com/artificial-intelligence/meta-facial-recognition-glasses",
+          "date": "Sat, 14 Feb 2026 09:00:00 -0500"
+        },
+        {
           "title": "Anthropic CEO Says Company No Longer Sure Whether Claude Is Conscious",
           "link": "https://futurism.com/artificial-intelligence/anthropic-ceo-unsure-claude-conscious",
           "date": "Sat, 14 Feb 2026 06:45:00 -0500"
@@ -543,14 +522,9 @@
           "date": "Fri, 13 Feb 2026 17:02:00 -0500"
         },
         {
-          "title": "Blundering Husband Asks Claude AI to \u201cOrganize\u201d Wife\u2019s PC, Accidentally Erases Her Life\u2019s Work",
+          "title": "Blundering Husband Asks Claude AI to \u201cOrganize\u201d Wife\u2019s PC, Accidentally Erases Her Cherished Family Photos",
           "link": "https://futurism.com/artificial-intelligence/claude-wife-photos",
           "date": "Fri, 13 Feb 2026 16:07:12 -0500"
-        },
-        {
-          "title": "Campaign Urges Users to Quit ChatGPT Over OpenAI\u2019s Support for Trump and ICE",
-          "link": "https://futurism.com/future-society/boycott-chatpgpt-trump",
-          "date": "Fri, 13 Feb 2026 13:07:51 -0500"
         }
       ],
       "error": null
