@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-02-15T19:23:04.376789+00:00",
+  "generatedAt": "2026-02-15T20:23:02.837449+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Ars Technica Pulls Article With AI Fabricated Quotes About AI Generated Article",
+          "link": "https://www.404media.co/ars-technica-pulls-article-with-ai-fabricated-quotes-about-ai-generated-article/",
+          "date": "Sun, 15 Feb 2026 20:14:36 GMT"
+        },
         {
           "title": "Astronomers Create Strange \u2018Vortex Crystals\u2019 from Space in the Lab",
           "link": "https://www.404media.co/astronomers-create-strange-vortex-crystals-from-space-in-the-lab/",
@@ -24,11 +29,6 @@
           "title": "Waymo Is Getting DoorDashers to Close Doors on Self Driving Cars",
           "link": "https://www.404media.co/waymo-is-getting-doordashers-to-close-doors-on-self-driving-cars/",
           "date": "Thu, 12 Feb 2026 19:34:37 GMT"
-        },
-        {
-          "title": "Cops Are Buying \u2018GeoSpy\u2019, an AI That Geolocates Photos in Seconds",
-          "link": "https://www.404media.co/cops-are-buying-geospy-ai-that-geolocates-photos-in-seconds/",
-          "date": "Thu, 12 Feb 2026 14:14:48 GMT"
         }
       ],
       "error": null
@@ -342,6 +342,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Editor\u2019s Note: Retraction of article containing fabricated quotations",
+          "link": "https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/",
+          "date": "Sun, 15 Feb 2026 18:09:09 +0000"
+        },
+        {
           "title": "\"It ain't no unicorn\": These researchers have interviewed 130 Bigfoot hunters",
           "link": "https://arstechnica.com/science/2026/02/it-aint-no-unicorn-these-researchers-have-interviewed-130-bigfoot-hunters/",
           "date": "Sun, 15 Feb 2026 17:20:12 +0000"
@@ -360,11 +365,6 @@
           "title": "Astronomers are filling in the blanks of the Kuiper Belt",
           "link": "https://arstechnica.com/science/2026/02/astronomers-are-filling-in-the-blanks-of-the-kuiper-belt/",
           "date": "Sat, 14 Feb 2026 11:45:48 +0000"
-        },
-        {
-          "title": "WHO slams US-funded newborn vaccine trial as \"unethical\"",
-          "link": "https://arstechnica.com/health/2026/02/who-slams-us-funded-newborn-vaccine-trial-as-unethical/",
-          "date": "Fri, 13 Feb 2026 23:16:48 +0000"
         }
       ],
       "error": null
