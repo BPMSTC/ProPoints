@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-15T13:43:23.181906+00:00",
+  "generatedAt": "2026-02-15T14:25:04.749060+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "Hippocratic AI Appoints New Key Execs to Further Accelerate Growth",
-          "link": "https://ai-techpark.com/hippocratic-ai-appoints-new-key-execs-to-further-accelerate-growth/",
-          "date": "Fri, 13 Feb 2026 12:30:00 +0000"
-        },
-        {
-          "title": "Kyndryl Unveils Agentic AI Workflow Governance",
-          "link": "https://ai-techpark.com/kyndryl-unveils-agentic-ai-workflow-governance/",
-          "date": "Fri, 13 Feb 2026 08:45:00 +0000"
-        },
-        {
-          "title": "Medicomp Systems Launches AI Tools for Evidence-Based Care",
-          "link": "https://ai-techpark.com/medicomp-systems-launches-ai-tools-for-evidence-based-care/",
-          "date": "Fri, 13 Feb 2026 08:30:00 +0000"
-        },
-        {
-          "title": "OPAQUE Systems Raises $24M Series B at $300M Valuation",
-          "link": "https://ai-techpark.com/opaque-systems-raises-24m-series-b-at-300m-valuation/",
-          "date": "Fri, 13 Feb 2026 06:42:58 +0000"
-        },
-        {
-          "title": "Seismic Announces Intent to Merge With Highspot",
-          "link": "https://ai-techpark.com/seismic-announces-intent-to-merge-with-highspot/",
-          "date": "Fri, 13 Feb 2026 06:41:43 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -410,19 +384,19 @@
           "date": "2026-02-14T10:35:14+00:00"
         },
         {
-          "title": "Validation prompts - getting more accurate responses from LLM chats",
-          "link": "https://www.reddit.com/r/artificial/comments/1r59tzo/validation_prompts_getting_more_accurate/",
-          "date": "2026-02-15T08:50:41+00:00"
+          "title": "Engineers have all the leverage in today\u2019s job markets",
+          "link": "https://www.reddit.com/r/artificial/comments/1r5fsol/engineers_have_all_the_leverage_in_todays_job/",
+          "date": "2026-02-15T14:21:11+00:00"
+        },
+        {
+          "title": "free tools",
+          "link": "https://www.reddit.com/r/artificial/comments/1r5f4tn/free_tools/",
+          "date": "2026-02-15T13:51:49+00:00"
         },
         {
           "title": "Looking for articles about AI",
           "link": "https://www.reddit.com/r/artificial/comments/1r5cuzu/looking_for_articles_about_ai/",
           "date": "2026-02-15T11:56:47+00:00"
-        },
-        {
-          "title": "AI Coding Won\u2019t Replace Human Developers \u2014 Here\u2019s Why I\u2019m Actually Optimistic About It",
-          "link": "https://www.reddit.com/r/artificial/comments/1r5b70z/ai_coding_wont_replace_human_developers_heres_why/",
-          "date": "2026-02-15T10:16:29+00:00"
         }
       ],
       "error": null
@@ -528,6 +502,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "AIs Controlling Vending Machines Start Cartel After Being Told to Maximize Profits At All Costs",
+          "link": "https://futurism.com/artificial-intelligence/vending-machine-ai-price-fixing",
+          "date": "Sun, 15 Feb 2026 09:00:00 -0500"
+        },
+        {
           "title": "New AI Video Generator Is So Impressive That It\u2019s Scaring Hollywood",
           "link": "https://futurism.com/artificial-intelligence/seedance-ai-video-generator-scaring-hollywood",
           "date": "Sat, 14 Feb 2026 20:15:00 -0500"
@@ -546,11 +525,6 @@
           "title": "Another OpenAI Researcher Just Quit in Disgust",
           "link": "https://futurism.com/artificial-intelligence/openai-researcher-quit-ads",
           "date": "Sat, 14 Feb 2026 10:30:00 -0500"
-        },
-        {
-          "title": "Man Lets AI Rent His Body",
-          "link": "https://futurism.com/artificial-intelligence/ai-rent-human",
-          "date": "Sat, 14 Feb 2026 09:45:00 -0500"
         }
       ],
       "error": null
