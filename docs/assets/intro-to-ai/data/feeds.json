@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-15T02:01:14.842782+00:00",
+  "generatedAt": "2026-02-15T04:51:56.825223+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "Hippocratic AI Appoints New Key Execs to Further Accelerate Growth",
-          "link": "https://ai-techpark.com/hippocratic-ai-appoints-new-key-execs-to-further-accelerate-growth/",
-          "date": "Fri, 13 Feb 2026 12:30:00 +0000"
-        },
-        {
-          "title": "Kyndryl Unveils Agentic AI Workflow Governance",
-          "link": "https://ai-techpark.com/kyndryl-unveils-agentic-ai-workflow-governance/",
-          "date": "Fri, 13 Feb 2026 08:45:00 +0000"
-        },
-        {
-          "title": "Medicomp Systems Launches AI Tools for Evidence-Based Care",
-          "link": "https://ai-techpark.com/medicomp-systems-launches-ai-tools-for-evidence-based-care/",
-          "date": "Fri, 13 Feb 2026 08:30:00 +0000"
-        },
-        {
-          "title": "OPAQUE Systems Raises $24M Series B at $300M Valuation",
-          "link": "https://ai-techpark.com/opaque-systems-raises-24m-series-b-at-300m-valuation/",
-          "date": "Fri, 13 Feb 2026 06:42:58 +0000"
-        },
-        {
-          "title": "Seismic Announces Intent to Merge With Highspot",
-          "link": "https://ai-techpark.com/seismic-announces-intent-to-merge-with-highspot/",
-          "date": "Fri, 13 Feb 2026 06:41:43 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -284,14 +258,14 @@
           "date": "2025-09-09T02:25:04+00:00"
         },
         {
-          "title": "What did i just create? Introducing RuVector Format (.RVF) A Cognitive Container. One Ai file to rule them all.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r4viuv/what_did_i_just_create_introducing_ruvector/",
-          "date": "2026-02-14T20:49:27+00:00"
-        },
-        {
           "title": "90 days before all platforms are flooded with AI slop to the point where they are no longer usable",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r4lgpf/90_days_before_all_platforms_are_flooded_with_ai/",
           "date": "2026-02-14T14:05:28+00:00"
+        },
+        {
+          "title": "What did i just create? Introducing RuVector Format (.RVF) A Cognitive Container. One Ai file to rule them all.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r4viuv/what_did_i_just_create_introducing_ruvector/",
+          "date": "2026-02-14T20:49:27+00:00"
         },
         {
           "title": "This just was a dream. Now change in reality.",
@@ -415,14 +389,14 @@
           "date": "2026-02-14T22:47:36+00:00"
         },
         {
-          "title": "Is safety is \u2018dead\u2019 at xAI?",
-          "link": "https://www.reddit.com/r/artificial/comments/1r4y4rx/is_safety_is_dead_at_xai/",
-          "date": "2026-02-14T22:39:32+00:00"
-        },
-        {
           "title": "We have been building and working on a local AI with memory and persistence",
           "link": "https://www.reddit.com/r/artificial/comments/1r4wnlo/we_have_been_building_and_working_on_a_local_ai/",
           "date": "2026-02-14T21:36:51+00:00"
+        },
+        {
+          "title": "I built a \"Traffic Light\" system for AI Agents so they don't corrupt each other (Open Source)",
+          "link": "https://www.reddit.com/r/artificial/comments/1r4tbnj/i_built_a_traffic_light_system_for_ai_agents_so/",
+          "date": "2026-02-14T19:20:23+00:00"
         }
       ],
       "error": null
