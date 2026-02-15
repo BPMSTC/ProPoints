@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-15T20:23:02.837449+00:00",
+  "generatedAt": "2026-02-15T21:21:49.274039+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Hippocratic AI Appoints New Key Execs to Further Accelerate Growth",
+          "link": "https://ai-techpark.com/hippocratic-ai-appoints-new-key-execs-to-further-accelerate-growth/",
+          "date": "Fri, 13 Feb 2026 12:30:00 +0000"
+        },
+        {
+          "title": "Kyndryl Unveils Agentic AI Workflow Governance",
+          "link": "https://ai-techpark.com/kyndryl-unveils-agentic-ai-workflow-governance/",
+          "date": "Fri, 13 Feb 2026 08:45:00 +0000"
+        },
+        {
+          "title": "Medicomp Systems Launches AI Tools for Evidence-Based Care",
+          "link": "https://ai-techpark.com/medicomp-systems-launches-ai-tools-for-evidence-based-care/",
+          "date": "Fri, 13 Feb 2026 08:30:00 +0000"
+        },
+        {
+          "title": "OPAQUE Systems Raises $24M Series B at $300M Valuation",
+          "link": "https://ai-techpark.com/opaque-systems-raises-24m-series-b-at-300m-valuation/",
+          "date": "Fri, 13 Feb 2026 06:42:58 +0000"
+        },
+        {
+          "title": "Seismic Announces Intent to Merge With Highspot",
+          "link": "https://ai-techpark.com/seismic-announces-intent-to-merge-with-highspot/",
+          "date": "Fri, 13 Feb 2026 06:41:43 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -342,6 +368,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Ancient Mars was warm and wet, not cold and icy",
+          "link": "https://arstechnica.com/science/2026/02/ancient-mars-was-warm-and-wet-not-cold-and-icy/",
+          "date": "Sun, 15 Feb 2026 20:14:16 +0000"
+        },
+        {
           "title": "Editor\u2019s Note: Retraction of article containing fabricated quotations",
           "link": "https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/",
           "date": "Sun, 15 Feb 2026 18:09:09 +0000"
@@ -360,11 +391,6 @@
           "title": "A Valentine's Day homage to Crouching Tiger, Hidden Dragon",
           "link": "https://arstechnica.com/culture/2026/02/a-valentines-day-homage-to-crouching-tiger-hidden-dragon/",
           "date": "Sat, 14 Feb 2026 18:33:36 +0000"
-        },
-        {
-          "title": "Astronomers are filling in the blanks of the Kuiper Belt",
-          "link": "https://arstechnica.com/science/2026/02/astronomers-are-filling-in-the-blanks-of-the-kuiper-belt/",
-          "date": "Sat, 14 Feb 2026 11:45:48 +0000"
         }
       ],
       "error": null
