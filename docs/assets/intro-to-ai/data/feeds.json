@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-15T18:32:43.513963+00:00",
+  "generatedAt": "2026-02-15T19:23:04.376789+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "Hippocratic AI Appoints New Key Execs to Further Accelerate Growth",
-          "link": "https://ai-techpark.com/hippocratic-ai-appoints-new-key-execs-to-further-accelerate-growth/",
-          "date": "Fri, 13 Feb 2026 12:30:00 +0000"
-        },
-        {
-          "title": "Kyndryl Unveils Agentic AI Workflow Governance",
-          "link": "https://ai-techpark.com/kyndryl-unveils-agentic-ai-workflow-governance/",
-          "date": "Fri, 13 Feb 2026 08:45:00 +0000"
-        },
-        {
-          "title": "Medicomp Systems Launches AI Tools for Evidence-Based Care",
-          "link": "https://ai-techpark.com/medicomp-systems-launches-ai-tools-for-evidence-based-care/",
-          "date": "Fri, 13 Feb 2026 08:30:00 +0000"
-        },
-        {
-          "title": "OPAQUE Systems Raises $24M Series B at $300M Valuation",
-          "link": "https://ai-techpark.com/opaque-systems-raises-24m-series-b-at-300m-valuation/",
-          "date": "Fri, 13 Feb 2026 06:42:58 +0000"
-        },
-        {
-          "title": "Seismic Announces Intent to Merge With Highspot",
-          "link": "https://ai-techpark.com/seismic-announces-intent-to-merge-with-highspot/",
-          "date": "Fri, 13 Feb 2026 06:41:43 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -202,8 +176,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "AI forecasting model targets healthcare resource efficiency",
+          "link": "https://www.artificialintelligence-news.com/news/ai-forecasting-model-targets-healthcare-resource-efficiency/",
+          "date": "Fri, 13 Feb 2026 16:07:06 +0000"
+        },
+        {
+          "title": "What Murder Mystery 2 reveals about emergent behaviour in online games",
+          "link": "https://www.artificialintelligence-news.com/news/what-murder-mystery-2-reveals-about-emergent-behaviour-in-online-games/",
+          "date": "Fri, 13 Feb 2026 16:01:53 +0000"
+        },
+        {
+          "title": "Agentic AI drives finance ROI in accounts payable automation",
+          "link": "https://www.artificialintelligence-news.com/news/agentic-ai-drives-finance-roi-in-accounts-payable-automation/",
+          "date": "Fri, 13 Feb 2026 12:33:33 +0000"
+        },
+        {
+          "title": "Newsweek CEO Dev Pragad warns publishers: adapt as AI becomes news gateway",
+          "link": "https://www.artificialintelligence-news.com/news/newsweek-ceo-dev-pragad-warns-publishers-adapt-as-ai-becomes-news-gateway/",
+          "date": "Fri, 13 Feb 2026 10:54:23 +0000"
+        },
+        {
+          "title": "How e& is using HR to bring AI into enterprise operations",
+          "link": "https://www.artificialintelligence-news.com/news/how-e-is-using-hr-to-bring-ai-into-enterprise-operations/",
+          "date": "Fri, 13 Feb 2026 10:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -406,6 +406,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "The peer review system is breaking down. Here\u2019s how we can fix it",
+          "link": "https://theconversation.com/the-peer-review-system-is-breaking-down-heres-how-we-can-fix-it-275317",
+          "date": "2026-02-15T19:13:47Z"
+        },
+        {
           "title": "Digital monitoring is growing in South Africa\u2019s public service \u2013 regulation needs to catch up",
           "link": "https://theconversation.com/digital-monitoring-is-growing-in-south-africas-public-service-regulation-needs-to-catch-up-273288",
           "date": "2026-02-15T05:45:54Z"
@@ -424,11 +429,6 @@
           "title": "Non-consensual AI porn doesn\u2019t violate privacy \u2013 but it\u2019s still wrong",
           "link": "https://theconversation.com/non-consensual-ai-porn-doesnt-violate-privacy-but-its-still-wrong-275095",
           "date": "2026-02-12T19:08:55Z"
-        },
-        {
-          "title": "Swarms of AI bots can sway people\u2019s beliefs \u2013 threatening democracy",
-          "link": "https://theconversation.com/swarms-of-ai-bots-can-sway-peoples-beliefs-threatening-democracy-274778",
-          "date": "2026-02-12T13:18:44Z"
         }
       ],
       "error": null
