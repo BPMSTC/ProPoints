@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-02-16T12:57:43.668777+00:00",
+  "generatedAt": "2026-02-16T14:06:29.178291+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Underground Facial Recognition Tool Unmasks Camgirls",
+          "link": "https://www.404media.co/underground-facial-recognition-tool-unmasks-camgirls/",
+          "date": "Mon, 16 Feb 2026 14:00:36 GMT"
+        },
         {
           "title": "Ars Technica Pulls Article With AI Fabricated Quotes About AI Generated Article",
           "link": "https://www.404media.co/ars-technica-pulls-article-with-ai-fabricated-quotes-about-ai-generated-article/",
@@ -24,11 +29,6 @@
           "title": "Tumbler Ridge Shooter Created Mall Shooting Simulator in Roblox",
           "link": "https://www.404media.co/tumbler-ridge-shooter-created-mall-shooting-simulator-in-roblox/",
           "date": "Thu, 12 Feb 2026 21:56:04 GMT"
-        },
-        {
-          "title": "Waymo Is Getting DoorDashers to Close Doors on Self Driving Cars",
-          "link": "https://www.404media.co/waymo-is-getting-doordashers-to-close-doors-on-self-driving-cars/",
-          "date": "Thu, 12 Feb 2026 19:34:37 GMT"
         }
       ],
       "error": null
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "VISIE Achieves Commercial Milestone With Launch of Partner APIs",
-          "link": "https://ai-techpark.com/visie-achieves-commercial-milestone-with-launch-of-partner-apis/",
-          "date": "Mon, 16 Feb 2026 09:45:00 +0000"
-        },
-        {
-          "title": "Virtuals Protocol Debuts Revenue Network for AI Commerce",
-          "link": "https://ai-techpark.com/virtuals-protocol-debuts-revenue-network-for-ai-commerce/",
-          "date": "Mon, 16 Feb 2026 07:30:00 +0000"
-        },
-        {
-          "title": "Hippocratic AI Appoints New Key Execs to Further Accelerate Growth",
-          "link": "https://ai-techpark.com/hippocratic-ai-appoints-new-key-execs-to-further-accelerate-growth/",
-          "date": "Fri, 13 Feb 2026 12:30:00 +0000"
-        },
-        {
-          "title": "Kyndryl Unveils Agentic AI Workflow Governance",
-          "link": "https://ai-techpark.com/kyndryl-unveils-agentic-ai-workflow-governance/",
-          "date": "Fri, 13 Feb 2026 08:45:00 +0000"
-        },
-        {
-          "title": "Medicomp Systems Launches AI Tools for Evidence-Based Care",
-          "link": "https://ai-techpark.com/medicomp-systems-launches-ai-tools-for-evidence-based-care/",
-          "date": "Fri, 13 Feb 2026 08:30:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -368,6 +342,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Sideways on the ice, in a supercar: Stability control is getting very good",
+          "link": "https://arstechnica.com/features/2026/02/learning-the-limits-of-stability-control-on-a-frozen-lake-in-a-mclaren/",
+          "date": "Mon, 16 Feb 2026 12:00:53 +0000"
+        },
+        {
           "title": "Space Station returns to a full crew complement after a month",
           "link": "https://arstechnica.com/space/2026/02/space-station-returns-to-a-full-crew-complement-after-a-month/",
           "date": "Sun, 15 Feb 2026 21:11:54 +0000"
@@ -386,11 +365,6 @@
           "title": "\"It ain't no unicorn\": These researchers have interviewed 130 Bigfoot hunters",
           "link": "https://arstechnica.com/science/2026/02/it-aint-no-unicorn-these-researchers-have-interviewed-130-bigfoot-hunters/",
           "date": "Sun, 15 Feb 2026 17:20:12 +0000"
-        },
-        {
-          "title": "NASA has a new problem to fix before the next Artemis II countdown test",
-          "link": "https://arstechnica.com/space/2026/02/nasa-chief-vows-to-solve-sls-rocket-fueling-issues-before-artemis-iii/",
-          "date": "Sat, 14 Feb 2026 21:02:47 +0000"
         }
       ],
       "error": null
@@ -410,6 +384,11 @@
           "date": "2026-02-16T10:19:02+00:00"
         },
         {
+          "title": "AI conducted my phone screening interview!!!!",
+          "link": "https://www.reddit.com/r/artificial/comments/1r69l05/ai_conducted_my_phone_screening_interview/",
+          "date": "2026-02-16T13:26:55+00:00"
+        },
+        {
           "title": "Why the \u2018AI scare trade\u2019 might not be done",
           "link": "https://www.reddit.com/r/artificial/comments/1r67kev/why_the_ai_scare_trade_might_not_be_done/",
           "date": "2026-02-16T11:49:22+00:00"
@@ -418,11 +397,6 @@
           "title": "Google might think your Website is down",
           "link": "https://www.reddit.com/r/artificial/comments/1r65f5p/google_might_think_your_website_is_down/",
           "date": "2026-02-16T09:44:13+00:00"
-        },
-        {
-          "title": "Customizable AI Companions.",
-          "link": "https://www.reddit.com/r/artificial/comments/1r61jbw/customizable_ai_companions/",
-          "date": "2026-02-16T05:53:35+00:00"
         }
       ],
       "error": null
@@ -469,6 +443,11 @@
           "date": "Mon, 16 Feb 2026 08:25:10 GMT"
         },
         {
+          "title": "Starmer announces crackdown on AI bots to ensure child safety \u2013 video",
+          "link": "https://www.theguardian.com/politics/video/2026/feb/16/starmer-announces-crackdown-on-ai-chatbots-to-ensure-child-safety-video",
+          "date": "Mon, 16 Feb 2026 13:32:45 GMT"
+        },
+        {
           "title": "Trump\u2019s Obama and Bad Bunny posts crystallize his political philosophy | Sidney Blumenthal",
           "link": "https://www.theguardian.com/commentisfree/2026/feb/16/trumps-obama-and-bad-bunny-posts-crystallize-his-political-philosophy",
           "date": "Mon, 16 Feb 2026 11:00:23 GMT"
@@ -482,11 +461,6 @@
           "title": "What technology takes from us \u2013 and how to take it back \u2013 podcast",
           "link": "https://www.theguardian.com/news/audio/2026/feb/16/what-technology-takes-from-us-and-how-to-take-it-back-podcast",
           "date": "Mon, 16 Feb 2026 05:00:43 GMT"
-        },
-        {
-          "title": "Starmer to extend online safety rules to AI chatbots after Grok scandal",
-          "link": "https://www.theguardian.com/technology/2026/feb/15/ai-chatbots-children-risk-fines-uk-ban",
-          "date": "Sun, 15 Feb 2026 22:30:34 GMT"
         }
       ],
       "error": null
