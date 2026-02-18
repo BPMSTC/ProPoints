@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-18T22:29:45.340083+00:00",
+  "generatedAt": "2026-02-18T23:27:31.095410+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Lumen Unveils Gateway to Ease AI Network Strain",
+          "link": "https://ai-techpark.com/lumen-unveils-gateway-to-ease-ai-network-strain/",
+          "date": "Wed, 18 Feb 2026 09:15:00 +0000"
+        },
+        {
+          "title": "94% of Developers Eye Vendor Switch Amid AI Race",
+          "link": "https://ai-techpark.com/94-of-developers-eye-vendor-switch-amid-ai-race/",
+          "date": "Wed, 18 Feb 2026 08:45:00 +0000"
+        },
+        {
+          "title": "Drata Opens San Francisco Headquarters",
+          "link": "https://ai-techpark.com/drata-opens-san-francisco-headquarters/",
+          "date": "Wed, 18 Feb 2026 08:24:43 +0000"
+        },
+        {
+          "title": "Kipu Health Launches Elevate 2026",
+          "link": "https://ai-techpark.com/kipu-health-launches-elevate-2026/",
+          "date": "Wed, 18 Feb 2026 08:00:00 +0000"
+        },
+        {
+          "title": "Complyance Raises $20M Series A Led by GV (Google Ventures)",
+          "link": "https://ai-techpark.com/complyance-raises-20m-series-a-led-by-gv-google-ventures/",
+          "date": "Tue, 17 Feb 2026 16:30:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -384,11 +410,6 @@
           "date": "2026-02-18T04:53:20+00:00"
         },
         {
-          "title": "Sales reps at $11 billion AI startup ElevenLabs have to bring in 20 times their base salary, or they're out \u2014 VP says",
-          "link": "https://www.reddit.com/r/artificial/comments/1r7pf2s/sales_reps_at_11_billion_ai_startup_elevenlabs/",
-          "date": "2026-02-18T01:35:09+00:00"
-        },
-        {
           "title": "Elon Musk Firms Enter Secret Pentagon Challenge for Voice-Based Drone Swarming Tech",
           "link": "https://www.reddit.com/r/artificial/comments/1r7jr7l/elon_musk_firms_enter_secret_pentagon_challenge/",
           "date": "2026-02-17T21:42:32+00:00"
@@ -397,6 +418,11 @@
           "title": "Using combine consensus of LLMs to remove (or smooth-reduce) their own flaws in decision making",
           "link": "https://www.reddit.com/r/artificial/comments/1r8070j/using_combine_consensus_of_llms_to_remove_or/",
           "date": "2026-02-18T11:10:42+00:00"
+        },
+        {
+          "title": "AI summit (19th feb)",
+          "link": "https://www.reddit.com/r/artificial/comments/1r7w1o3/ai_summit_19th_feb/",
+          "date": "2026-02-18T06:57:33+00:00"
         }
       ],
       "error": null
@@ -405,6 +431,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Ads are coming to AI. Does that really have to be such a bad thing?",
+          "link": "https://theconversation.com/ads-are-coming-to-ai-does-that-really-have-to-be-such-a-bad-thing-274955",
+          "date": "2026-02-18T23:25:33Z"
+        },
         {
           "title": "Using AI responsibly means knowing when not to use it",
           "link": "https://theconversation.com/using-ai-responsibly-means-knowing-when-not-to-use-it-274671",
@@ -424,11 +455,6 @@
           "title": "Digital monitoring is growing in South Africa\u2019s public service \u2013 regulation needs to catch up",
           "link": "https://theconversation.com/digital-monitoring-is-growing-in-south-africas-public-service-regulation-needs-to-catch-up-273288",
           "date": "2026-02-15T05:45:54Z"
-        },
-        {
-          "title": "Why Sigmund Freud is making a comeback in the age of authoritarianism and AI",
-          "link": "https://theconversation.com/why-sigmund-freud-is-making-a-comeback-in-the-age-of-authoritarianism-and-ai-273499",
-          "date": "2026-02-13T17:37:57Z"
         }
       ],
       "error": null
@@ -441,6 +467,11 @@
           "title": "The bogus four-day workweek that AI supposedly \u2018frees up\u2019",
           "link": "https://www.theguardian.com/technology/ng-interactive/2026/feb/18/ai-four-day-workweek",
           "date": "Wed, 18 Feb 2026 13:00:34 GMT"
+        },
+        {
+          "title": "Tech firms must remove \u2018revenge porn\u2019 in 48 hours or risk being blocked, says Starmer",
+          "link": "https://www.theguardian.com/society/2026/feb/18/tech-firms-must-remove-revenge-porn-in-48-hours-or-risk-being-blocked-says-starmer",
+          "date": "Wed, 18 Feb 2026 22:30:46 GMT"
         },
         {
           "title": "Illinois governor proposes cancelling tax breaks for datacenters",
@@ -456,11 +487,6 @@
           "title": "China\u2019s dancing robots: how worried should we be?",
           "link": "https://www.theguardian.com/world/2026/feb/18/china-dancing-humanoid-robots-festival-show",
           "date": "Wed, 18 Feb 2026 05:19:09 GMT"
-        },
-        {
-          "title": "Should we be impressed or worried by China's humanoid robot display? \u2013 video",
-          "link": "https://www.theguardian.com/technology/video/2026/feb/18/should-we-be-impressed-or-worried-by-china-humanoid-robot-display-video",
-          "date": "Wed, 18 Feb 2026 05:18:47 GMT"
         }
       ],
       "error": null
