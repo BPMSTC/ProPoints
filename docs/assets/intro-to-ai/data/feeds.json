@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-18T08:41:16.292662+00:00",
+  "generatedAt": "2026-02-18T09:43:51.844066+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -102,6 +102,16 @@
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [
         {
+          "title": "Lumen Unveils Gateway to Ease AI Network Strain",
+          "link": "https://ai-techpark.com/lumen-unveils-gateway-to-ease-ai-network-strain/",
+          "date": "Wed, 18 Feb 2026 09:15:00 +0000"
+        },
+        {
+          "title": "94% of Developers Eye Vendor Switch Amid AI Race",
+          "link": "https://ai-techpark.com/94-of-developers-eye-vendor-switch-amid-ai-race/",
+          "date": "Wed, 18 Feb 2026 08:45:00 +0000"
+        },
+        {
           "title": "Drata Opens San Francisco Headquarters",
           "link": "https://ai-techpark.com/drata-opens-san-francisco-headquarters/",
           "date": "Wed, 18 Feb 2026 08:24:43 +0000"
@@ -115,16 +125,6 @@
           "title": "Complyance Raises $20M Series A Led by GV (Google Ventures)",
           "link": "https://ai-techpark.com/complyance-raises-20m-series-a-led-by-gv-google-ventures/",
           "date": "Tue, 17 Feb 2026 16:30:00 +0000"
-        },
-        {
-          "title": "DeepL Launches on AWS Marketplace",
-          "link": "https://ai-techpark.com/deepl-launches-on-aws-marketplace/",
-          "date": "Tue, 17 Feb 2026 16:00:00 +0000"
-        },
-        {
-          "title": "Human AI Co-Innovation Summit Launches in Paris",
-          "link": "https://ai-techpark.com/human-ai-co-innovation-summit-launches-in-paris/",
-          "date": "Tue, 17 Feb 2026 15:30:00 +0000"
         }
       ],
       "error": null
@@ -202,34 +202,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "SS&C Blue Prism: On the journey from RPA to agentic automation",
-          "link": "https://www.artificialintelligence-news.com/news/ssc-blue-prism-on-the-journey-from-rpa-to-agentic-automation/",
-          "date": "Tue, 17 Feb 2026 15:27:34 +0000"
-        },
-        {
-          "title": "Insurance giant AIG deploys agentic AI with orchestration layer",
-          "link": "https://www.artificialintelligence-news.com/news/insurance-giant-aig-deploys-agentic-ai-with-orchestration-layer/",
-          "date": "Tue, 17 Feb 2026 14:13:00 +0000"
-        },
-        {
-          "title": "Alibaba Qwen is challenging proprietary AI model economics",
-          "link": "https://www.artificialintelligence-news.com/news/alibaba-qwen-challenging-proprietary-ai-model-economics/",
-          "date": "Tue, 17 Feb 2026 13:45:59 +0000"
-        },
-        {
-          "title": "Goldman Sachs deploys Anthropic systems with success",
-          "link": "https://www.artificialintelligence-news.com/news/goldman-sachs-ai-deploys-anthropic-systems-with-success/",
-          "date": "Tue, 17 Feb 2026 12:29:00 +0000"
-        },
-        {
-          "title": "Banking AI in multiple business functions at NatWest",
-          "link": "https://www.artificialintelligence-news.com/news/banking-ai-in-multiple-business-functions-at-natwest/",
-          "date": "Mon, 16 Feb 2026 12:20:06 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
