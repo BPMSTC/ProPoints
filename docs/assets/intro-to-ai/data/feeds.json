@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-18T21:32:55.033456+00:00",
+  "generatedAt": "2026-02-18T22:29:45.340083+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "Lumen Unveils Gateway to Ease AI Network Strain",
-          "link": "https://ai-techpark.com/lumen-unveils-gateway-to-ease-ai-network-strain/",
-          "date": "Wed, 18 Feb 2026 09:15:00 +0000"
-        },
-        {
-          "title": "94% of Developers Eye Vendor Switch Amid AI Race",
-          "link": "https://ai-techpark.com/94-of-developers-eye-vendor-switch-amid-ai-race/",
-          "date": "Wed, 18 Feb 2026 08:45:00 +0000"
-        },
-        {
-          "title": "Drata Opens San Francisco Headquarters",
-          "link": "https://ai-techpark.com/drata-opens-san-francisco-headquarters/",
-          "date": "Wed, 18 Feb 2026 08:24:43 +0000"
-        },
-        {
-          "title": "Kipu Health Launches Elevate 2026",
-          "link": "https://ai-techpark.com/kipu-health-launches-elevate-2026/",
-          "date": "Wed, 18 Feb 2026 08:00:00 +0000"
-        },
-        {
-          "title": "Complyance Raises $20M Series A Led by GV (Google Ventures)",
-          "link": "https://ai-techpark.com/complyance-raises-20m-series-a-led-by-gv-google-ventures/",
-          "date": "Tue, 17 Feb 2026 16:30:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -166,6 +140,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Anthropic Tries to Change the Conversation With Sonnet 4.6",
+          "link": "https://aibusiness.com/generative-ai/anthropic-tries-to-change-the-conversation-with-sonnet-4-6",
+          "date": "Wed, 18 Feb 2026 21:34:14 GMT"
+        },
+        {
           "title": "Nvidia and Meta Agree to Wide-Ranging new AI Chip Deal",
           "link": "https://aibusiness.com/generative-ai/nvidia-and-meta-agree-to-ai-chip-deal",
           "date": "Wed, 18 Feb 2026 15:15:53 GMT"
@@ -184,11 +163,6 @@
           "title": "Supporting the new Types of AI Shoppers",
           "link": "https://aibusiness.com/agentic-ai/supporting-the-new-types-of-ai-shoppers",
           "date": "Tue, 17 Feb 2026 14:53:39 GMT"
-        },
-        {
-          "title": "OpenAI GPT-5.3-Codex-Spark Shows What's Possible With Cerebras",
-          "link": "https://aibusiness.com/generative-ai/openai-gpt-5-3-codex-spark-shows-what-s-possible-with-cerebras",
-          "date": "Fri, 13 Feb 2026 18:01:44 GMT"
         }
       ],
       "error": null
@@ -368,6 +342,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Verizon acknowledges \"pain\" of new unlock policy, suggests change is coming",
+          "link": "https://arstechnica.com/tech-policy/2026/02/verizon-might-drop-its-annoying-35-day-wait-for-unlocking-paid-off-phones/",
+          "date": "Wed, 18 Feb 2026 20:58:34 +0000"
+        },
+        {
+          "title": "Chevy Bolt, BMW i3, or something else? At $10K, you have lots of EV options",
+          "link": "https://arstechnica.com/cars/2026/02/chevy-bolt-bmw-i3-or-something-else-at-10k-you-have-lots-of-ev-options/",
+          "date": "Wed, 18 Feb 2026 20:22:03 +0000"
+        },
+        {
+          "title": "Lawsuit: EPA revoking greenhouse gas finding risks \u201cthousands of avoidable deaths\u201d",
+          "link": "https://arstechnica.com/tech-policy/2026/02/lawsuit-epa-revoking-greenhouse-gas-finding-risks-thousands-of-avoidable-deaths/",
+          "date": "Wed, 18 Feb 2026 19:48:06 +0000"
+        },
+        {
           "title": "5 changes to know about in Apple's latest iOS, macOS, and iPadOS betas",
           "link": "https://arstechnica.com/gadgets/2026/02/5-changes-to-know-about-in-apples-latest-ios-macos-and-ipados-betas/",
           "date": "Wed, 18 Feb 2026 19:28:26 +0000"
@@ -376,21 +365,6 @@
           "title": "Microsoft's new 10,000-year data storage medium: glass",
           "link": "https://arstechnica.com/science/2026/02/microsofts-new-10000-year-data-storage-medium-glass/",
           "date": "Wed, 18 Feb 2026 19:01:55 +0000"
-        },
-        {
-          "title": "FDA reverses surprise rejection of Moderna's mRNA flu vaccine",
-          "link": "https://arstechnica.com/health/2026/02/fda-does-u-turn-will-review-modernas-mrna-flu-shot-after-shocking-rejection/",
-          "date": "Wed, 18 Feb 2026 17:08:18 +0000"
-        },
-        {
-          "title": "Record scratch\u2014Google's Lyria 3 AI music model is coming to Gemini today",
-          "link": "https://arstechnica.com/google/2026/02/gemini-can-now-generate-ai-music-for-you-no-lyrics-required/",
-          "date": "Wed, 18 Feb 2026 16:00:11 +0000"
-        },
-        {
-          "title": "Google's Pixel 10a arrives on March 5 for $499 with specs and design of yesteryear",
-          "link": "https://arstechnica.com/gadgets/2026/02/googles-pixel-10a-arrives-on-march-5-for-499-with-specs-and-design-of-yesteryear/",
-          "date": "Wed, 18 Feb 2026 15:00:34 +0000"
         }
       ],
       "error": null
@@ -415,14 +389,14 @@
           "date": "2026-02-18T01:35:09+00:00"
         },
         {
-          "title": "Using combine consensus of LLMs to remove (or smooth-reduce) their own flaws in decision making",
-          "link": "https://www.reddit.com/r/artificial/comments/1r8070j/using_combine_consensus_of_llms_to_remove_or/",
-          "date": "2026-02-18T11:10:42+00:00"
-        },
-        {
           "title": "Elon Musk Firms Enter Secret Pentagon Challenge for Voice-Based Drone Swarming Tech",
           "link": "https://www.reddit.com/r/artificial/comments/1r7jr7l/elon_musk_firms_enter_secret_pentagon_challenge/",
           "date": "2026-02-17T21:42:32+00:00"
+        },
+        {
+          "title": "Using combine consensus of LLMs to remove (or smooth-reduce) their own flaws in decision making",
+          "link": "https://www.reddit.com/r/artificial/comments/1r8070j/using_combine_consensus_of_llms_to_remove_or/",
+          "date": "2026-02-18T11:10:42+00:00"
         }
       ],
       "error": null
