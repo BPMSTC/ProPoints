@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-02-18T17:00:45.352839+00:00",
+  "generatedAt": "2026-02-18T18:51:30.177126+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Palantir, Which Is Powering ICE, Says Immigration Crackdown May Hurt Hiring",
+          "link": "https://www.404media.co/palantir-which-is-powering-ice-says-immigration-crackdown-may-hurt-hiring/",
+          "date": "Wed, 18 Feb 2026 17:42:59 GMT"
+        },
         {
           "title": "Leaked Email Suggests Ring Plans to Expand \u2018Search Party\u2019 Surveillance Beyond Dogs",
           "link": "https://www.404media.co/leaked-email-suggests-ring-plans-to-expand-search-party-surveillance-beyond-dogs/",
@@ -24,11 +29,6 @@
           "title": "Underground Facial Recognition Tool Unmasks Camgirls",
           "link": "https://www.404media.co/underground-facial-recognition-tool-unmasks-camgirls/",
           "date": "Mon, 16 Feb 2026 14:00:36 GMT"
-        },
-        {
-          "title": "Ars Technica Pulls Article With AI Fabricated Quotes About AI Generated Article",
-          "link": "https://www.404media.co/ars-technica-pulls-article-with-ai-fabricated-quotes-about-ai-generated-article/",
-          "date": "Sun, 15 Feb 2026 20:14:36 GMT"
         }
       ],
       "error": null
@@ -368,6 +368,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "FDA reverses surprise rejection of Moderna's mRNA flu vaccine",
+          "link": "https://arstechnica.com/health/2026/02/fda-does-u-turn-will-review-modernas-mrna-flu-shot-after-shocking-rejection/",
+          "date": "Wed, 18 Feb 2026 17:08:18 +0000"
+        },
+        {
+          "title": "Record scratch\u2014Google's Lyria 3 AI music model is coming to Gemini today",
+          "link": "https://arstechnica.com/google/2026/02/gemini-can-now-generate-ai-music-for-you-no-lyrics-required/",
+          "date": "Wed, 18 Feb 2026 16:00:11 +0000"
+        },
+        {
           "title": "Google's Pixel 10a arrives on March 5 for $499 with specs and design of yesteryear",
           "link": "https://arstechnica.com/gadgets/2026/02/googles-pixel-10a-arrives-on-march-5-for-499-with-specs-and-design-of-yesteryear/",
           "date": "Wed, 18 Feb 2026 15:00:34 +0000"
@@ -381,16 +391,6 @@
           "title": "Inside the DHS forum where ICE agents trash talk one another",
           "link": "https://arstechnica.com/tech-policy/2026/02/inside-the-dhs-forum-where-ice-agents-trash-talk-one-another/",
           "date": "Wed, 18 Feb 2026 14:14:06 +0000"
-        },
-        {
-          "title": "Hallucinogen DMT an effective antidepressant in small clinical trial",
-          "link": "https://arstechnica.com/health/2026/02/hallucinogen-dmt-an-effective-antidepressant-in-small-clinical-trial/",
-          "date": "Wed, 18 Feb 2026 12:00:37 +0000"
-        },
-        {
-          "title": "GameHub will give Mac owners another imperfect way to play Windows games",
-          "link": "https://arstechnica.com/gaming/2026/02/gamehub-will-give-mac-owners-another-imperfect-way-to-play-windows-games/",
-          "date": "Tue, 17 Feb 2026 22:45:07 +0000"
         }
       ],
       "error": null
@@ -432,6 +432,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Using AI responsibly means knowing when not to use it",
+          "link": "https://theconversation.com/using-ai-responsibly-means-knowing-when-not-to-use-it-274671",
+          "date": "2026-02-18T17:01:39Z"
+        },
+        {
           "title": "Too little, too concentrated: why AI start-up funding in Africa needs rethinking",
           "link": "https://theconversation.com/too-little-too-concentrated-why-ai-start-up-funding-in-africa-needs-rethinking-276100",
           "date": "2026-02-17T16:05:39Z"
@@ -450,11 +455,6 @@
           "title": "Why Sigmund Freud is making a comeback in the age of authoritarianism and AI",
           "link": "https://theconversation.com/why-sigmund-freud-is-making-a-comeback-in-the-age-of-authoritarianism-and-ai-273499",
           "date": "2026-02-13T17:37:57Z"
-        },
-        {
-          "title": "OpenAI has deleted the word \u2018safely\u2019 from its mission \u2013 and its new structure is a test for whether AI serves society or shareholders",
-          "link": "https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467",
-          "date": "2026-02-13T13:21:43Z"
         }
       ],
       "error": null
@@ -467,6 +467,11 @@
           "title": "The bogus four-day workweek that AI supposedly \u2018frees up\u2019",
           "link": "https://www.theguardian.com/technology/ng-interactive/2026/feb/18/ai-four-day-workweek",
           "date": "Wed, 18 Feb 2026 13:00:34 GMT"
+        },
+        {
+          "title": "Countries that do not embrace AI could be left behind, says OpenAI\u2019s George Osborne",
+          "link": "https://www.theguardian.com/politics/2026/feb/18/countries-do-not-embrace-ai-left-behind-george-osborne",
+          "date": "Wed, 18 Feb 2026 17:57:22 GMT"
         },
         {
           "title": "China\u2019s dancing robots: how worried should we be?",
@@ -482,11 +487,6 @@
           "title": "Tech billionaires fly in for Delhi AI expo as Modi jostles to lead in south",
           "link": "https://www.theguardian.com/technology/2026/feb/18/delhi-ai-expo-modi-jostles-lead-south",
           "date": "Wed, 18 Feb 2026 05:00:00 GMT"
-        },
-        {
-          "title": "ICE reliance on Microsoft technology surged amid immigration crackdown, documents show",
-          "link": "https://www.theguardian.com/us-news/2026/feb/17/ice-microsoft-technology-immigration-crackdown",
-          "date": "Tue, 17 Feb 2026 18:06:02 GMT"
         }
       ],
       "error": null
@@ -528,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Oxford Researcher Warns That AI Is Heading for a Hindenburg-Style Disaster",
+          "link": "https://futurism.com/artificial-intelligence/ai-hindenburg-disast",
+          "date": "Wed, 18 Feb 2026 12:12:27 -0500"
+        },
+        {
           "title": "Realtor Uses AI, Accidentally Posts Photo of Rental Property With Demonic Figure Emerging From Mirror",
           "link": "https://futurism.com/artificial-intelligence/realtor-ai-photo-mirror",
           "date": "Wed, 18 Feb 2026 10:53:42 -0500"
@@ -546,11 +551,6 @@
           "title": "It Turns Out That Constantly Telling Workers They\u2019re About to Be Replaced by AI Has Grim Psychological Effects",
           "link": "https://futurism.com/artificial-intelligence/ai-effects-workers-psychological",
           "date": "Tue, 17 Feb 2026 15:08:26 -0500"
-        },
-        {
-          "title": "Pentagon Issues Threat to Anthropic",
-          "link": "https://futurism.com/artificial-intelligence/pentagon-issues-threat-anthropic",
-          "date": "Tue, 17 Feb 2026 14:09:53 -0500"
         }
       ],
       "error": null
