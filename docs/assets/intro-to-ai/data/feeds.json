@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-19T08:40:21.007518+00:00",
+  "generatedAt": "2026-02-19T09:42:05.537406+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Selector Raises $32 Mn to Eliminate Downtime with AI-Powered Observability",
+          "link": "https://ai-techpark.com/selector-raises-32-mn-to-eliminate-downtime-with-ai-powered-observability/",
+          "date": "Thu, 19 Feb 2026 08:30:00 +0000"
+        },
+        {
+          "title": "Lasso Security Introduces Intent Deputy",
+          "link": "https://ai-techpark.com/lasso-security-introduces-intent-deputy/",
+          "date": "Wed, 18 Feb 2026 18:00:00 +0000"
+        },
+        {
+          "title": "Cirrascale Appoints Alex Nataros as Chief Technology Officer",
+          "link": "https://ai-techpark.com/cirrascale-appoints-alex-nataros-as-chief-technology-officer/",
+          "date": "Wed, 18 Feb 2026 17:50:00 +0000"
+        },
+        {
+          "title": "Lumen Unveils Gateway to Ease AI Network Strain",
+          "link": "https://ai-techpark.com/lumen-unveils-gateway-to-ease-ai-network-strain/",
+          "date": "Wed, 18 Feb 2026 09:15:00 +0000"
+        },
+        {
+          "title": "94% of Developers Eye Vendor Switch Amid AI Race",
+          "link": "https://ai-techpark.com/94-of-developers-eye-vendor-switch-amid-ai-race/",
+          "date": "Wed, 18 Feb 2026 08:45:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -176,8 +202,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "How financial institutions are embedding AI decision-making",
+          "link": "https://www.artificialintelligence-news.com/news/how-financial-institutions-embedding-ai-decision-making/",
+          "date": "Wed, 18 Feb 2026 15:02:14 +0000"
+        },
+        {
+          "title": "Infosys AI implementation framework offers business leaders guidance",
+          "link": "https://www.artificialintelligence-news.com/news/infosys-ai-implementation-framework-offers-business-leaders-guidance/",
+          "date": "Wed, 18 Feb 2026 11:08:00 +0000"
+        },
+        {
+          "title": "SS&C Blue Prism: On the journey from RPA to agentic automation",
+          "link": "https://www.artificialintelligence-news.com/news/ssc-blue-prism-on-the-journey-from-rpa-to-agentic-automation/",
+          "date": "Tue, 17 Feb 2026 15:27:34 +0000"
+        },
+        {
+          "title": "Insurance giant AIG deploys agentic AI with orchestration layer",
+          "link": "https://www.artificialintelligence-news.com/news/insurance-giant-aig-deploys-agentic-ai-with-orchestration-layer/",
+          "date": "Tue, 17 Feb 2026 14:13:00 +0000"
+        },
+        {
+          "title": "Alibaba Qwen is challenging proprietary AI model economics",
+          "link": "https://www.artificialintelligence-news.com/news/alibaba-qwen-challenging-proprietary-ai-model-economics/",
+          "date": "Tue, 17 Feb 2026 13:45:59 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
