@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-02-19T18:47:14.314654+00:00",
+  "generatedAt": "2026-02-19T19:37:24.287270+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Man Opposing Data Center Arrested for Speaking Slightly Too Long",
+          "link": "https://www.404media.co/man-opposing-data-center-arrested-for-speaking-slightly-too-long/",
+          "date": "Thu, 19 Feb 2026 19:23:27 GMT"
+        },
         {
           "title": "We Have Learned Nothing About Amplifying Morons",
           "link": "https://www.404media.co/we-have-learned-nothing-about-amplifying-morons/",
@@ -24,11 +29,6 @@
           "title": "Palantir, Which Is Powering ICE, Says Immigration Crackdown May Hurt Hiring",
           "link": "https://www.404media.co/palantir-which-is-powering-ice-says-immigration-crackdown-may-hurt-hiring/",
           "date": "Wed, 18 Feb 2026 17:42:59 GMT"
-        },
-        {
-          "title": "Leaked Email Suggests Ring Plans to Expand \u2018Search Party\u2019 Surveillance Beyond Dogs",
-          "link": "https://www.404media.co/leaked-email-suggests-ring-plans-to-expand-search-party-surveillance-beyond-dogs/",
-          "date": "Wed, 18 Feb 2026 14:37:34 GMT"
         }
       ],
       "error": null
@@ -368,6 +368,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "F1: Preseason tests shows how different 2026 will be",
+          "link": "https://arstechnica.com/cars/2026/02/f1-preseason-tests-shows-how-different-2026-will-be/",
+          "date": "Thu, 19 Feb 2026 18:22:29 +0000"
+        },
+        {
           "title": "Google announces Gemini 3.1 Pro, says it's better at complex problem-solving",
           "link": "https://arstechnica.com/google/2026/02/google-announces-gemini-3-1-pro-says-its-better-at-complex-problem-solving/",
           "date": "Thu, 19 Feb 2026 17:42:14 +0000"
@@ -386,11 +391,6 @@
           "title": "Rare gifted word-learner dogs like to share their toys",
           "link": "https://arstechnica.com/science/2026/02/rare-gifted-word-learner-dogs-like-to-share-their-toys/",
           "date": "Thu, 19 Feb 2026 13:32:52 +0000"
-        },
-        {
-          "title": "Verizon acknowledges \"pain\" of new unlock policy, suggests change is coming",
-          "link": "https://arstechnica.com/tech-policy/2026/02/verizon-might-drop-its-annoying-35-day-wait-for-unlocking-paid-off-phones/",
-          "date": "Wed, 18 Feb 2026 20:58:34 +0000"
         }
       ],
       "error": null
@@ -400,14 +400,19 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "At the India AI Impact Summit 2026, Galgotias University showcased a Unitree Go2 robot dog \u2014 a commercially available Chinese product \u2014 and presented it as an Indian breakthrough innovation.",
-          "link": "https://www.reddit.com/r/artificial/comments/1r81g0b/at_the_india_ai_impact_summit_2026_galgotias/",
-          "date": "2026-02-18T12:17:09+00:00"
-        },
-        {
           "title": "OpenAI Funding Round Nears Record $100B Raise as Valuation Targets $850B",
           "link": "https://www.reddit.com/r/artificial/comments/1r8y452/openai_funding_round_nears_record_100b_raise_as/",
           "date": "2026-02-19T12:38:04+00:00"
+        },
+        {
+          "title": "Knowledge graph of the transformer paper lineage \u2014 from Attention Is All You Need to DPO, mapped as an interactive concept graph [generated from a CLI + 12 PDFs]",
+          "link": "https://www.reddit.com/r/artificial/comments/1r97b0q/knowledge_graph_of_the_transformer_paper_lineage/",
+          "date": "2026-02-19T18:35:14+00:00"
+        },
+        {
+          "title": "At the India AI Impact Summit 2026, Galgotias University showcased a Unitree Go2 robot dog \u2014 a commercially available Chinese product \u2014 and presented it as an Indian breakthrough innovation.",
+          "link": "https://www.reddit.com/r/artificial/comments/1r81g0b/at_the_india_ai_impact_summit_2026_galgotias/",
+          "date": "2026-02-18T12:17:09+00:00"
         },
         {
           "title": "Anthropic bans OAuth token usage in third-party tools \u2014 Claude Max/Pro users affected",
@@ -418,11 +423,6 @@
           "title": "Seedance 2.0 API Test: Integrated into My Agent in ~1 Minute",
           "link": "https://www.reddit.com/r/artificial/comments/1r8y54h/seedance_20_api_test_integrated_into_my_agent_in/",
           "date": "2026-02-19T12:39:32+00:00"
-        },
-        {
-          "title": "Shipped Izwi v0.1.0-alpha-12 (faster ASR + smarter TTS)",
-          "link": "https://www.reddit.com/r/artificial/comments/1r97cti/shipped_izwi_v010alpha12_faster_asr_smarter_tts/",
-          "date": "2026-02-19T18:37:03+00:00"
         }
       ],
       "error": null
@@ -528,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Amazon\u2019s Shiny New Warehouse Robot Just Failed in Spectacular Style",
+          "link": "https://futurism.com/robots-and-machines/amazon-warehouse-robot-failed",
+          "date": "Thu, 19 Feb 2026 14:10:00 -0500"
+        },
+        {
           "title": "Blinking New Warning Sign Appears for AI Industry",
           "link": "https://futurism.com/artificial-intelligence/blinking-new-warning-sign-ai-industry",
           "date": "Thu, 19 Feb 2026 12:04:28 -0500"
@@ -546,11 +551,6 @@
           "title": "AI Will Destroy Millions of White Collars Jobs in the Coming Months, Andrew Yang Warns, Driving Surge of Personal Bankruptcies",
           "link": "https://futurism.com/artificial-intelligence/ai-labor-andrew-yang",
           "date": "Thu, 19 Feb 2026 09:01:41 -0500"
-        },
-        {
-          "title": "SpaceX Angling for Military Contract to Produce Drone Swarms",
-          "link": "https://futurism.com/robots-and-machines/spacex-military-contract-drone-swarms",
-          "date": "Wed, 18 Feb 2026 16:01:00 -0500"
         }
       ],
       "error": null
@@ -559,6 +559,16 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Code Metal Raises $125 Million to Rewrite the Defense Industry's Code With AI",
+          "link": "https://www.wired.com/story/vibe-coding-startup-code-metal-raises-series-b-fundraising/",
+          "date": "Thu, 19 Feb 2026 19:30:00 +0000"
+        },
+        {
+          "title": "Perplexity\u2019s Retreat From Ads Signals a Bigger Strategic Shift",
+          "link": "https://www.wired.com/story/perplexity-ads-shift-search-google/",
+          "date": "Thu, 19 Feb 2026 19:12:38 +0000"
+        },
         {
           "title": "This AI Tool Will Tell You to Stop Slacking Off",
           "link": "https://www.wired.com/story/fomi-ai-will-tell-you-to-stop-slacking-off/",
@@ -573,16 +583,6 @@
           "title": "Nvidia\u2019s Deal With Meta Signals a New Era in Computing Power",
           "link": "https://www.wired.com/story/nvidias-deal-with-meta-signals-a-new-era-in-computing-power/",
           "date": "Wed, 18 Feb 2026 19:24:55 +0000"
-        },
-        {
-          "title": "Big Tech Says Generative AI Will Save the Planet. It Doesn\u2019t Offer Much Proof",
-          "link": "https://www.wired.com/story/big-tech-says-generative-ai-will-save-the-planet-it-doesnt-offer-much-proof/",
-          "date": "Wed, 18 Feb 2026 15:17:31 +0000"
-        },
-        {
-          "title": "The Rise of RentAHuman, the Marketplace Where Bots Put People to Work",
-          "link": "https://www.wired.com/story/ai-agent-rentahuman-bots-hire-humans/",
-          "date": "Wed, 18 Feb 2026 11:00:00 +0000"
         }
       ],
       "error": null
