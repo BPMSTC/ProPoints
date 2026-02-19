@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-19T07:03:25.151406+00:00",
+  "generatedAt": "2026-02-19T08:40:21.007518+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "Lasso Security Introduces Intent Deputy",
-          "link": "https://ai-techpark.com/lasso-security-introduces-intent-deputy/",
-          "date": "Wed, 18 Feb 2026 18:00:00 +0000"
-        },
-        {
-          "title": "Cirrascale Appoints Alex Nataros as Chief Technology Officer",
-          "link": "https://ai-techpark.com/cirrascale-appoints-alex-nataros-as-chief-technology-officer/",
-          "date": "Wed, 18 Feb 2026 17:50:00 +0000"
-        },
-        {
-          "title": "Lumen Unveils Gateway to Ease AI Network Strain",
-          "link": "https://ai-techpark.com/lumen-unveils-gateway-to-ease-ai-network-strain/",
-          "date": "Wed, 18 Feb 2026 09:15:00 +0000"
-        },
-        {
-          "title": "94% of Developers Eye Vendor Switch Amid AI Race",
-          "link": "https://ai-techpark.com/94-of-developers-eye-vendor-switch-amid-ai-race/",
-          "date": "Wed, 18 Feb 2026 08:45:00 +0000"
-        },
-        {
-          "title": "Drata Opens San Francisco Headquarters",
-          "link": "https://ai-techpark.com/drata-opens-san-francisco-headquarters/",
-          "date": "Wed, 18 Feb 2026 08:24:43 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -202,34 +176,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "How financial institutions are embedding AI decision-making",
-          "link": "https://www.artificialintelligence-news.com/news/how-financial-institutions-embedding-ai-decision-making/",
-          "date": "Wed, 18 Feb 2026 15:02:14 +0000"
-        },
-        {
-          "title": "Infosys AI implementation framework offers business leaders guidance",
-          "link": "https://www.artificialintelligence-news.com/news/infosys-ai-implementation-framework-offers-business-leaders-guidance/",
-          "date": "Wed, 18 Feb 2026 11:08:00 +0000"
-        },
-        {
-          "title": "SS&C Blue Prism: On the journey from RPA to agentic automation",
-          "link": "https://www.artificialintelligence-news.com/news/ssc-blue-prism-on-the-journey-from-rpa-to-agentic-automation/",
-          "date": "Tue, 17 Feb 2026 15:27:34 +0000"
-        },
-        {
-          "title": "Insurance giant AIG deploys agentic AI with orchestration layer",
-          "link": "https://www.artificialintelligence-news.com/news/insurance-giant-aig-deploys-agentic-ai-with-orchestration-layer/",
-          "date": "Tue, 17 Feb 2026 14:13:00 +0000"
-        },
-        {
-          "title": "Alibaba Qwen is challenging proprietary AI model economics",
-          "link": "https://www.artificialintelligence-news.com/news/alibaba-qwen-challenging-proprietary-ai-model-economics/",
-          "date": "Tue, 17 Feb 2026 13:45:59 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -420,9 +368,9 @@
           "date": "2026-02-18T04:53:20+00:00"
         },
         {
-          "title": "Built an agent that applied to 1,000 jobs in 48 hours",
-          "link": "https://www.reddit.com/r/artificial/comments/1r8sbl0/built_an_agent_that_applied_to_1000_jobs_in_48/",
-          "date": "2026-02-19T06:56:30+00:00"
+          "title": "Anthropic bans OAuth token usage in third-party tools \u2014 Claude Max/Pro users affected",
+          "link": "https://www.reddit.com/r/artificial/comments/1r8t76o/anthropic_bans_oauth_token_usage_in_thirdparty/",
+          "date": "2026-02-19T07:49:47+00:00"
         }
       ],
       "error": null
@@ -464,9 +412,9 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "The bogus four-day workweek that AI supposedly \u2018frees up\u2019",
-          "link": "https://www.theguardian.com/technology/ng-interactive/2026/feb/18/ai-four-day-workweek",
-          "date": "Wed, 18 Feb 2026 13:00:34 GMT"
+          "title": "Macron defends EU AI rules and vows crackdown on child \u2018digital abuse\u2019",
+          "link": "https://www.theguardian.com/technology/2026/feb/19/emmanuel-macron-eu-ai-rules-child-safety-digital-abuse",
+          "date": "Thu, 19 Feb 2026 08:26:23 GMT"
         },
         {
           "title": "Bill Gates cancels keynote speech in India amid questions over Epstein ties",
