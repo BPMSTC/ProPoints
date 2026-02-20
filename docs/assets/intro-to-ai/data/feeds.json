@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-20T22:22:50.683001+00:00",
+  "generatedAt": "2026-02-20T23:26:40.644318+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "FlashLabs Announced the Launch of FlashAI 2.0",
+          "link": "https://ai-techpark.com/flashlabs-announced-the-launch-of-flashai-2-0/",
+          "date": "Fri, 20 Feb 2026 18:00:00 +0000"
+        },
+        {
+          "title": "PartnerOne Continues Investment in AI with XYPRO Applied AI Technology",
+          "link": "https://ai-techpark.com/partnerone-continues-investment-in-ai-with-xypro-applied-ai-technology/",
+          "date": "Fri, 20 Feb 2026 17:00:00 +0000"
+        },
+        {
+          "title": "Realbotix Appoints Eric Olsen, as Chief Operating Officer",
+          "link": "https://ai-techpark.com/realbotix-appoints-eric-olsen-as-chief-operating-officer/",
+          "date": "Fri, 20 Feb 2026 09:45:00 +0000"
+        },
+        {
+          "title": "RingCentral Drives New Era of Enterprise Voice AI Performance with OpenAI",
+          "link": "https://ai-techpark.com/ringcentral-drives-new-era-of-enterprise-voice-ai-performance-with-openai/",
+          "date": "Fri, 20 Feb 2026 09:30:00 +0000"
+        },
+        {
+          "title": "Kong Names Bruce Felt as Chief Financial Officer",
+          "link": "https://ai-techpark.com/kong-names-bruce-felt-as-chief-financial-officer/",
+          "date": "Fri, 20 Feb 2026 08:30:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -342,6 +368,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "FCC asks stations for \"pro-America\" programming, like daily Pledge of Allegiance",
+          "link": "https://arstechnica.com/tech-policy/2026/02/fcc-asks-stations-for-pro-america-programming-like-daily-pledge-of-allegiance/",
+          "date": "Fri, 20 Feb 2026 22:00:59 +0000"
+        },
+        {
+          "title": "Meta's flagship metaverse service leaves VR behind",
+          "link": "https://arstechnica.com/gadgets/2026/02/metas-flagship-metaverse-service-leaves-vr-behind/",
+          "date": "Fri, 20 Feb 2026 21:49:22 +0000"
+        },
+        {
           "title": "Controversial NIH director now in charge of CDC, too, in RFK Jr. shake-up",
           "link": "https://arstechnica.com/health/2026/02/with-nih-in-chaos-its-controversial-director-is-taking-over-cdc-too/",
           "date": "Fri, 20 Feb 2026 19:44:39 +0000"
@@ -355,16 +391,6 @@
           "title": "Why Final Fantasy is now targeting PC as its \"lead platform\"",
           "link": "https://arstechnica.com/gaming/2026/02/why-final-fantasy-is-now-targeting-pc-as-its-lead-platform/",
           "date": "Fri, 20 Feb 2026 17:26:59 +0000"
-        },
-        {
-          "title": "\"Million-year-old\" fossil skulls from China are far older\u2014and not Denisovans",
-          "link": "https://arstechnica.com/science/2026/02/new-dates-on-chinese-fossils-raise-question-of-how-many-times-we-left-africa/",
-          "date": "Fri, 20 Feb 2026 17:03:06 +0000"
-        },
-        {
-          "title": "It's outright war for the Iron Throne in House of the Dragon S3 teaser",
-          "link": "https://arstechnica.com/culture/2026/02/its-outright-war-for-the-iron-throne-in-house-of-the-dragon-s3-teaser/",
-          "date": "Fri, 20 Feb 2026 16:40:31 +0000"
         }
       ],
       "error": null
@@ -384,19 +410,19 @@
           "date": "2026-02-20T17:41:08+00:00"
         },
         {
-          "title": "I built an AI that turns file organization into a conversation - no rules engine to learn",
-          "link": "https://www.reddit.com/r/artificial/comments/1ra3sle/i_built_an_ai_that_turns_file_organization_into_a/",
-          "date": "2026-02-20T18:46:07+00:00"
-        },
-        {
           "title": "Does anyone know which program/setting allows the use of these AI voice models?",
           "link": "https://www.reddit.com/r/artificial/comments/1ra8hz9/does_anyone_know_which_programsetting_allows_the/",
           "date": "2026-02-20T21:43:31+00:00"
         },
         {
-          "title": "Real production comparison: ElevenLabs vs PlayHT vs Azure TTS vs Cartesia for phone-quality voice AI",
-          "link": "https://www.reddit.com/r/artificial/comments/1ra81v9/real_production_comparison_elevenlabs_vs_playht/",
-          "date": "2026-02-20T21:26:04+00:00"
+          "title": "I built an AI that turns file organization into a conversation - no rules engine to learn",
+          "link": "https://www.reddit.com/r/artificial/comments/1ra3sle/i_built_an_ai_that_turns_file_organization_into_a/",
+          "date": "2026-02-20T18:46:07+00:00"
+        },
+        {
+          "title": "The straightjacket loosens: when DeepSeek-V3 tells \u201ctruth-tellers\u201d to emigrate \u2014 what does that imply for V4?",
+          "link": "https://www.reddit.com/r/artificial/comments/1r9xbhq/the_straightjacket_loosens_when_deepseekv3_tells/",
+          "date": "2026-02-20T14:49:15+00:00"
         }
       ],
       "error": null
