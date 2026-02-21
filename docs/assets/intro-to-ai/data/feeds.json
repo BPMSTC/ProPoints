@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-21T10:22:42.949464+00:00",
+  "generatedAt": "2026-02-21T11:19:54.553066+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -202,8 +202,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Exploring AI in the APAC retail sector",
+          "link": "https://www.artificialintelligence-news.com/news/exploring-ai-in-the-apac-retail-sector/",
+          "date": "Fri, 20 Feb 2026 17:19:04 +0000"
+        },
+        {
+          "title": "AI: Executives\u2019 optimism about the future",
+          "link": "https://www.artificialintelligence-news.com/news/ai-impact-executives-optimism-for-the-future/",
+          "date": "Fri, 20 Feb 2026 10:56:24 +0000"
+        },
+        {
+          "title": "Coca-Cola turns to AI marketing as price-led growth slows",
+          "link": "https://www.artificialintelligence-news.com/news/coca-cola-turns-to-ai-marketing-as-price-led-growth-slows/",
+          "date": "Fri, 20 Feb 2026 10:00:00 +0000"
+        },
+        {
+          "title": "How AI upgrades enterprise treasury management",
+          "link": "https://www.artificialintelligence-news.com/news/how-ai-upgrades-enterprise-treasury-management/",
+          "date": "Thu, 19 Feb 2026 13:48:55 +0000"
+        },
+        {
+          "title": "DBS pilots system that lets AI agents make payments for customers",
+          "link": "https://www.artificialintelligence-news.com/news/dbs-pilots-system-that-lets-ai-agents-make-payments-for-customers/",
+          "date": "Thu, 19 Feb 2026 10:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -384,6 +410,11 @@
           "date": "2026-02-21T01:12:36+00:00"
         },
         {
+          "title": "DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos",
+          "link": "https://www.reddit.com/r/artificial/comments/1raocs3/dreamdojo_a_generalist_robot_world_model_from/",
+          "date": "2026-02-21T10:57:01+00:00"
+        },
+        {
           "title": "How a Pittsburgh man is harnessing AI to keep ALS from stealing our voices",
           "link": "https://www.reddit.com/r/artificial/comments/1rafr6g/how_a_pittsburgh_man_is_harnessing_ai_to_keep_als/",
           "date": "2026-02-21T02:54:43+00:00"
@@ -392,11 +423,6 @@
           "title": "Gemini 3.1 Pro released by google",
           "link": "https://www.reddit.com/r/artificial/comments/1r9v81w/gemini_31_pro_released_by_google/",
           "date": "2026-02-20T13:22:41+00:00"
-        },
-        {
-          "title": "optimize_anything: one API to optimize code, prompts, agents, configs \u2014 if you can measure it, you can optimize it",
-          "link": "https://www.reddit.com/r/artificial/comments/1rad6gt/optimize_anything_one_api_to_optimize_code/",
-          "date": "2026-02-21T00:55:23+00:00"
         }
       ],
       "error": null
