@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-22T07:33:57.172637+00:00",
+  "generatedAt": "2026-02-22T08:29:09.203059+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "FlashLabs Announced the Launch of FlashAI 2.0",
+          "link": "https://ai-techpark.com/flashlabs-announced-the-launch-of-flashai-2-0/",
+          "date": "Fri, 20 Feb 2026 18:00:00 +0000"
+        },
+        {
+          "title": "PartnerOne Continues Investment in AI with XYPRO Applied AI Technology",
+          "link": "https://ai-techpark.com/partnerone-continues-investment-in-ai-with-xypro-applied-ai-technology/",
+          "date": "Fri, 20 Feb 2026 17:00:00 +0000"
+        },
+        {
+          "title": "Realbotix Appoints Eric Olsen, as Chief Operating Officer",
+          "link": "https://ai-techpark.com/realbotix-appoints-eric-olsen-as-chief-operating-officer/",
+          "date": "Fri, 20 Feb 2026 09:45:00 +0000"
+        },
+        {
+          "title": "RingCentral Drives New Era of Enterprise Voice AI Performance with OpenAI",
+          "link": "https://ai-techpark.com/ringcentral-drives-new-era-of-enterprise-voice-ai-performance-with-openai/",
+          "date": "Fri, 20 Feb 2026 09:30:00 +0000"
+        },
+        {
+          "title": "Kong Names Bruce Felt as Chief Financial Officer",
+          "link": "https://ai-techpark.com/kong-names-bruce-felt-as-chief-financial-officer/",
+          "date": "Fri, 20 Feb 2026 08:30:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -406,6 +432,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "What is \u2018Edge AI\u2019? What does it do and what can be gained from this alternative to cloud computing?",
+          "link": "https://theconversation.com/what-is-edge-ai-what-does-it-do-and-what-can-be-gained-from-this-alternative-to-cloud-computing-262357",
+          "date": "2026-02-22T07:17:55Z"
+        },
+        {
           "title": "The furore over Grok\u2019s sexualised images has begun an AI reckoning",
           "link": "https://theconversation.com/the-furore-over-groks-sexualised-images-has-begun-an-ai-reckoning-275448",
           "date": "2026-02-20T17:48:10Z"
@@ -424,11 +455,6 @@
           "title": "Five ways that AI could be reshaping your relationship with money",
           "link": "https://theconversation.com/five-ways-that-ai-could-be-reshaping-your-relationship-with-money-275508",
           "date": "2026-02-19T12:45:56Z"
-        },
-        {
-          "title": "Ads are coming to AI. Does that really have to be such a bad thing?",
-          "link": "https://theconversation.com/ads-are-coming-to-ai-does-that-really-have-to-be-such-a-bad-thing-274955",
-          "date": "2026-02-18T23:25:33Z"
         }
       ],
       "error": null
