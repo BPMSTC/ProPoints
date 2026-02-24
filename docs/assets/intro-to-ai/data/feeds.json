@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-24T07:04:37.222329+00:00",
+  "generatedAt": "2026-02-24T08:43:07.255101+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -102,6 +102,11 @@
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [
         {
+          "title": "Sela, 2bcloud Merge to Build AI-Focused Multi-Cloud Firm",
+          "link": "https://ai-techpark.com/sela-2bcloud-merge-to-build-ai-focused-multi-cloud-firm/",
+          "date": "Tue, 24 Feb 2026 08:14:13 +0000"
+        },
+        {
           "title": "Tavus Announced the Launch Of Phoenix-4",
           "link": "https://ai-techpark.com/tavus-announced-the-launch-of-phoenix-4/",
           "date": "Mon, 23 Feb 2026 17:45:00 +0000"
@@ -120,11 +125,6 @@
           "title": "7Rivers Completes $5M Series A Funding",
           "link": "https://ai-techpark.com/7rivers-completes-5m-series-a-funding/",
           "date": "Mon, 23 Feb 2026 15:45:00 +0000"
-        },
-        {
-          "title": "CHAI 3X Annual Growth Reaching $70M ARR & Latest AI Safety Update",
-          "link": "https://ai-techpark.com/chai-3x-annual-growth-reaching-70m-arr-latest-ai-safety-update/",
-          "date": "Mon, 23 Feb 2026 15:30:00 +0000"
         }
       ],
       "error": null
@@ -405,6 +405,11 @@
           "date": "2026-02-23T23:21:42+00:00"
         },
         {
+          "title": "AI Reveals Unexpected New Physics in the Fourth State of Matter",
+          "link": "https://www.reddit.com/r/artificial/comments/1rd9ivd/ai_reveals_unexpected_new_physics_in_the_fourth/",
+          "date": "2026-02-24T07:12:23+00:00"
+        },
+        {
           "title": "Big Tech to invest about $650 billion in AI in 2026, Bridgewater says",
           "link": "https://www.reddit.com/r/artificial/comments/1rcmgzy/big_tech_to_invest_about_650_billion_in_ai_in/",
           "date": "2026-02-23T16:42:18+00:00"
@@ -413,11 +418,6 @@
           "title": "Prompt repetition adds zero accuracy to AI agents on engineering tasks",
           "link": "https://www.reddit.com/r/artificial/comments/1rd3jd0/prompt_repetition_adds_zero_accuracy_to_ai_agents/",
           "date": "2026-02-24T03:22:14+00:00"
-        },
-        {
-          "title": "COBOL developers assemble",
-          "link": "https://www.reddit.com/r/artificial/comments/1rd95ic/cobol_developers_assemble/",
-          "date": "2026-02-24T06:50:24+00:00"
         },
         {
           "title": "'Thermodynamic computer' can mimic AI neural networks \u2014 using orders of magnitude less energy to generate images",
@@ -494,34 +494,8 @@
     {
       "name": "artificial intelligence Archives - SpaceNews",
       "url": "https://spacenews.com/tag/artificial-intelligence/feed/",
-      "items": [
-        {
-          "title": "Boeing demonstrates large language model for space-grade hardware",
-          "link": "https://spacenews.com/boeing-demonstrates-large-language-model-for-space-grade-hardware/",
-          "date": "Tue, 24 Feb 2026 01:47:12 +0000"
-        },
-        {
-          "title": "Simera Sense to offer larger cameras and enhanced autonomy",
-          "link": "https://spacenews.com/simera-sense-to-offer-larger-cameras-and-enhanced-autonomy/",
-          "date": "Tue, 17 Feb 2026 23:24:09 +0000"
-        },
-        {
-          "title": "With attention on orbital data centers, the focus turns to economics",
-          "link": "https://spacenews.com/with-attention-on-orbital-data-centers-the-focus-turns-to-economics/",
-          "date": "Sun, 01 Feb 2026 16:43:35 +0000"
-        },
-        {
-          "title": "We need a \u2018Planetary Neural Network\u2019 for AI-enabled space infrastructure protection",
-          "link": "https://spacenews.com/we-need-a-planetary-neural-network-for-ai-enabled-space-infrastructure-protection/",
-          "date": "Mon, 26 Jan 2026 14:00:00 +0000"
-        },
-        {
-          "title": "Tomorrow.io unveils DeepSky: constellation of large satellites and instruments",
-          "link": "https://spacenews.com/tomorrow-io-unveils-deepsky-constellation-of-large-satellites-and-instruments/",
-          "date": "Thu, 22 Jan 2026 13:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:47:3: mismatched tag"
     },
     {
       "name": "Artificial Intelligence \u2013 Futurism",
