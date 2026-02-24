@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-24T21:31:47.117550+00:00",
+  "generatedAt": "2026-02-24T22:30:38.682610+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "Snowflake Cortex Code Expands Towards Supporting Any Data, Anywhere",
-          "link": "https://ai-techpark.com/snowflake-cortex-code-expands-towards-supporting-any-data-anywhere/",
-          "date": "Tue, 24 Feb 2026 09:57:58 +0000"
-        },
-        {
-          "title": "UiPath Launches Agentic AI Solutions",
-          "link": "https://ai-techpark.com/uipath-launches-agentic-ai-solutions/",
-          "date": "Tue, 24 Feb 2026 08:53:36 +0000"
-        },
-        {
-          "title": "Experian Fortifies Identity and Fraud Capabilities With Acquisition of AtData",
-          "link": "https://ai-techpark.com/experian-fortifies-identity-and-fraud-capabilities-with-acquisition-of-atdata/",
-          "date": "Tue, 24 Feb 2026 08:49:23 +0000"
-        },
-        {
-          "title": "Sela, 2bcloud Merge to Build AI-Focused Multi-Cloud Firm",
-          "link": "https://ai-techpark.com/sela-2bcloud-merge-to-build-ai-focused-multi-cloud-firm/",
-          "date": "Tue, 24 Feb 2026 08:14:13 +0000"
-        },
-        {
-          "title": "Tavus Announced the Launch Of Phoenix-4",
-          "link": "https://ai-techpark.com/tavus-announced-the-launch-of-phoenix-4/",
-          "date": "Mon, 23 Feb 2026 17:45:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -368,6 +342,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "DJI sues the FCC for \u201ccarelessly\u201d restricting its drones",
+          "link": "https://arstechnica.com/gadgets/2026/02/dji-sues-the-fcc-for-carelessly-restricting-its-drones/",
+          "date": "Tue, 24 Feb 2026 21:15:26 +0000"
+        },
+        {
           "title": "UK fines Reddit for not checking user ages aggressively enough",
           "link": "https://arstechnica.com/tech-policy/2026/02/uk-fines-reddit-for-not-checking-user-ages-aggressively-enough/",
           "date": "Tue, 24 Feb 2026 19:53:15 +0000"
@@ -386,11 +365,6 @@
           "title": "50 mpg in a Nissan crossover? Testing the new E-Power hybrid system.",
           "link": "https://arstechnica.com/cars/2026/02/on-the-road-with-nissans-new-e-power-hybrid-coming-to-the-2027-rogue/",
           "date": "Tue, 24 Feb 2026 16:43:27 +0000"
-        },
-        {
-          "title": "Lamborghini cancels electric Lanzador as supercar buyers reject EVs",
-          "link": "https://arstechnica.com/cars/2026/02/lamborghini-drops-ev-plan-in-favor-of-future-plug-in-hybrids/",
-          "date": "Tue, 24 Feb 2026 15:24:02 +0000"
         }
       ],
       "error": null
@@ -400,29 +374,29 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "IBM stock tumbles 10% after Anthropic launches COBOL AI tool",
-          "link": "https://www.reddit.com/r/artificial/comments/1rcxj45/ibm_stock_tumbles_10_after_anthropic_launches/",
-          "date": "2026-02-23T23:21:42+00:00"
-        },
-        {
           "title": "Hegseth warns Anthropic to let the military use the company\u2019s AI tech as it sees fit, AP source says",
           "link": "https://www.reddit.com/r/artificial/comments/1rdqsqc/hegseth_warns_anthropic_to_let_the_military_use/",
           "date": "2026-02-24T19:56:55+00:00"
         },
         {
-          "title": "Hegseth and Anthropic CEO set to meet as debate intensifies over the military's use of AI",
-          "link": "https://www.reddit.com/r/artificial/comments/1rdj2lr/hegseth_and_anthropic_ceo_set_to_meet_as_debate/",
-          "date": "2026-02-24T15:22:00+00:00"
+          "title": "IBM stock tumbles 10% after Anthropic launches COBOL AI tool",
+          "link": "https://www.reddit.com/r/artificial/comments/1rcxj45/ibm_stock_tumbles_10_after_anthropic_launches/",
+          "date": "2026-02-23T23:21:42+00:00"
         },
         {
-          "title": "I've been running blind reviews between AI models for six months. here's what I didn't expect",
-          "link": "https://www.reddit.com/r/artificial/comments/1rdilvu/ive_been_running_blind_reviews_between_ai_models/",
-          "date": "2026-02-24T15:04:33+00:00"
+          "title": "Anthropic believes RSI (recursive self improvement) could arrive \u201cas soon as early 2027\u201d",
+          "link": "https://www.reddit.com/r/artificial/comments/1rdujgd/anthropic_believes_rsi_recursive_self_improvement/",
+          "date": "2026-02-24T22:12:09+00:00"
         },
         {
           "title": "Meta strikes up to $100B AMD chip deal as it chases 'personal superintelligence'",
           "link": "https://www.reddit.com/r/artificial/comments/1rdm17p/meta_strikes_up_to_100b_amd_chip_deal_as_it/",
           "date": "2026-02-24T17:08:35+00:00"
+        },
+        {
+          "title": "I've been running blind reviews between AI models for six months. here's what I didn't expect",
+          "link": "https://www.reddit.com/r/artificial/comments/1rdilvu/ive_been_running_blind_reviews_between_ai_models/",
+          "date": "2026-02-24T15:04:33+00:00"
         }
       ],
       "error": null
@@ -469,6 +443,11 @@
           "date": "Tue, 24 Feb 2026 15:17:15 GMT"
         },
         {
+          "title": "US military leaders meet with Anthropic to argue against Claude safeguards",
+          "link": "https://www.theguardian.com/us-news/2026/feb/24/anthropic-claude-military-ai",
+          "date": "Tue, 24 Feb 2026 21:48:20 GMT"
+        },
+        {
           "title": "The accidental hacker: how one man gained control of 7,000 robots",
           "link": "https://www.theguardian.com/lifeandstyle/2026/feb/24/accidental-hacker-how-one-man-gained-control-robots-",
           "date": "Tue, 24 Feb 2026 17:12:16 GMT"
@@ -482,11 +461,6 @@
           "title": "Tech\u2019s politics push at home and abroad",
           "link": "https://www.theguardian.com/global/2026/feb/24/tech-politics-ai-impact-summit-silicon-valley",
           "date": "Tue, 24 Feb 2026 14:49:00 GMT"
-        },
-        {
-          "title": "Amused by that AI video of a dancing raccoon? This is how the misery starts | Polly Hudson",
-          "link": "https://www.theguardian.com/commentisfree/2026/feb/24/amused-by-that-ai-video-of-a-dancing-raccoon-this-is-how-the-misery-starts",
-          "date": "Tue, 24 Feb 2026 14:47:27 GMT"
         }
       ],
       "error": null
