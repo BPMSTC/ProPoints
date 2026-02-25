@@ -1,10 +1,25 @@
 {
-  "generatedAt": "2026-02-25T14:12:48.590284+00:00",
+  "generatedAt": "2026-02-25T15:59:58.988494+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Podcast: Ring Is Just Getting Started",
+          "link": "https://www.404media.co/podcast-ring-is-just-getting-started/",
+          "date": "Wed, 25 Feb 2026 15:19:36 GMT"
+        },
+        {
+          "title": "FBI Subpoenaed X to Get Grok Prompts Used to Create Nonconsensual Porn",
+          "link": "https://www.404media.co/fbi-subpoenaed-x-to-get-grok-prompts-used-to-create-nonconsensual-porn/",
+          "date": "Wed, 25 Feb 2026 15:16:52 GMT"
+        },
+        {
+          "title": "What\u2019s the Point of School When AI Can Do Your Homework?",
+          "link": "https://www.404media.co/whats-the-point-of-school-when-ai-can-do-your-homework/",
+          "date": "Wed, 25 Feb 2026 14:41:23 GMT"
+        },
         {
           "title": "This App Warns You if Someone Is Wearing Smart Glasses Nearby",
           "link": "https://www.404media.co/this-app-warns-you-if-someone-is-wearing-smart-glasses-nearby/",
@@ -14,21 +29,6 @@
           "title": "A Billion Years Are Mysteriously Missing From Earth\u2019s History. Now, We Know Why.",
           "link": "https://www.404media.co/great-unconformity-gap-geological-record-study-columbia/",
           "date": "Mon, 23 Feb 2026 20:00:48 GMT"
-        },
-        {
-          "title": "Meta's AI Patent to Simulate Dead People Shows the Dangers of 'Spectral Labor'",
-          "link": "https://www.404media.co/metas-ai-patent-to-simulate-dead-people-shows-the-dangers-of-spectral-labor/",
-          "date": "Mon, 23 Feb 2026 16:24:02 GMT"
-        },
-        {
-          "title": "Podcast: Privacy Under Pressure (With Harlo Holmes)",
-          "link": "https://www.404media.co/podcast-privacy-under-pressure-with-harlo-holmes/",
-          "date": "Mon, 23 Feb 2026 15:44:28 GMT"
-        },
-        {
-          "title": "Meta Director of AI Safety Allows AI Agent to Accidentally Delete Her Inbox",
-          "link": "https://www.404media.co/meta-director-of-ai-safety-allows-ai-agent-to-accidentally-delete-her-inbox/",
-          "date": "Mon, 23 Feb 2026 15:20:40 GMT"
         }
       ],
       "error": null
@@ -368,12 +368,17 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Pete Hegseth tells Anthropic to fall in line with DoD desires, or else",
+          "link": "https://arstechnica.com/ai/2026/02/pete-hegseth-wants-unfettered-access-to-anthropics-models-for-the-military/",
+          "date": "Wed, 25 Feb 2026 14:29:23 +0000"
+        },
+        {
           "title": "Boozy chimps fail urine test, confirm hotly debated theory",
           "link": "https://arstechnica.com/science/2026/02/boozy-chimps-fail-urine-test-confirm-hotly-debated-theory/",
           "date": "Wed, 25 Feb 2026 00:05:05 +0000"
         },
         {
-          "title": "WBD says Paramount\u2019s new, higher offer could be \u201csuperior\u201d to Netflix's",
+          "title": "WBD says Paramount\u2019s new higher offer could be \u201csuperior\u201d to Netflix's",
           "link": "https://arstechnica.com/gadgets/2026/02/paramount-increases-its-warner-bros-discovery-bid-by-1-per-share/",
           "date": "Tue, 24 Feb 2026 22:52:52 +0000"
         },
@@ -386,11 +391,6 @@
           "title": "DJI sues the FCC for \u201ccarelessly\u201d restricting its drones",
           "link": "https://arstechnica.com/gadgets/2026/02/dji-sues-the-fcc-for-carelessly-restricting-its-drones/",
           "date": "Tue, 24 Feb 2026 21:15:26 +0000"
-        },
-        {
-          "title": "UK fines Reddit for not checking user ages aggressively enough",
-          "link": "https://arstechnica.com/tech-policy/2026/02/uk-fines-reddit-for-not-checking-user-ages-aggressively-enough/",
-          "date": "Tue, 24 Feb 2026 19:53:15 +0000"
         }
       ],
       "error": null
@@ -400,19 +400,19 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "Anthropic Drops Flagship Safety Pledge",
-          "link": "https://www.reddit.com/r/artificial/comments/1re0m36/anthropic_drops_flagship_safety_pledge/",
-          "date": "2026-02-25T02:21:36+00:00"
-        },
-        {
           "title": "I Built a Fully Playable FPS Using Only Prompts (No Manual Code)",
           "link": "https://www.reddit.com/r/artificial/comments/1recjbv/i_built_a_fully_playable_fps_using_only_prompts/",
           "date": "2026-02-25T12:59:32+00:00"
         },
         {
-          "title": "Looking for AI software that can generate documents for company based on the documents we feed \"him\"",
-          "link": "https://www.reddit.com/r/artificial/comments/1re896u/looking_for_ai_software_that_can_generate/",
-          "date": "2026-02-25T09:02:31+00:00"
+          "title": "Anthropic Drops Flagship Safety Pledge",
+          "link": "https://www.reddit.com/r/artificial/comments/1re0m36/anthropic_drops_flagship_safety_pledge/",
+          "date": "2026-02-25T02:21:36+00:00"
+        },
+        {
+          "title": "Anthropic believes RSI (recursive self improvement) could arrive \u201cas soon as early 2027\u201d",
+          "link": "https://www.reddit.com/r/artificial/comments/1rdujgd/anthropic_believes_rsi_recursive_self_improvement/",
+          "date": "2026-02-24T22:12:09+00:00"
         },
         {
           "title": "Knowledge is the key to unlocking AI's full potential as a creative tool",
@@ -420,9 +420,9 @@
           "date": "2026-02-25T05:05:14+00:00"
         },
         {
-          "title": "Anthropic believes RSI (recursive self improvement) could arrive \u201cas soon as early 2027\u201d",
-          "link": "https://www.reddit.com/r/artificial/comments/1rdujgd/anthropic_believes_rsi_recursive_self_improvement/",
-          "date": "2026-02-24T22:12:09+00:00"
+          "title": "Looking for AI software that can generate documents for company based on the documents we feed \"him\"",
+          "link": "https://www.reddit.com/r/artificial/comments/1re896u/looking_for_ai_software_that_can_generate/",
+          "date": "2026-02-25T09:02:31+00:00"
         }
       ],
       "error": null
@@ -464,11 +464,6 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "\u2018A feedback loop with no brake\u2019: how an AI doomsday report shook US markets",
-          "link": "https://www.theguardian.com/technology/2026/feb/24/feedback-loop-no-brake-how-ai-doomsday-report-rattled-markets",
-          "date": "Tue, 24 Feb 2026 15:17:15 GMT"
-        },
-        {
           "title": "Facial recognition error prompts police to arrest Asian man for burglary 100 miles away",
           "link": "https://www.theguardian.com/technology/2026/feb/25/facial-recognition-error-prompts-police-to-arrest-asian-man-for-burglary-100-miles-away",
           "date": "Wed, 25 Feb 2026 13:36:45 GMT"
@@ -487,6 +482,11 @@
           "title": "Signs of psychosis seen in Australian users\u2019 interactions with AI chatbots, expert warns",
           "link": "https://www.theguardian.com/technology/2026/feb/25/signs-of-psychosis-seen-in-australian-users-interactions-with-ai-chatbots-expert-warns",
           "date": "Wed, 25 Feb 2026 01:00:00 GMT"
+        },
+        {
+          "title": "US military leaders pressure Anthropic to bend Claude safeguards",
+          "link": "https://www.theguardian.com/us-news/2026/feb/24/anthropic-claude-military-ai",
+          "date": "Wed, 25 Feb 2026 00:35:31 GMT"
         }
       ],
       "error": null
@@ -528,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Google Apologizes for Sending the Worst Push Notification You Can Possibly Imagine",
+          "link": "https://futurism.com/artificial-intelligence/google-apologizes-notification",
+          "date": "Wed, 25 Feb 2026 10:03:50 -0500"
+        },
+        {
           "title": "Tech CEOs Confused by Why Everybody Hates AI So Much",
           "link": "https://futurism.com/future-society/tech-ceo-ai-hate",
           "date": "Wed, 25 Feb 2026 09:03:16 -0500"
@@ -546,11 +551,6 @@
           "title": "Anthropic Furious at DeepSeek for Copying Its AI Without Permission, Which Is Pretty Ironic When You Consider How It Built Claude in the First Place",
           "link": "https://futurism.com/artificial-intelligence/anthropic-deepseek-copying-ai",
           "date": "Tue, 24 Feb 2026 09:03:58 -0500"
-        },
-        {
-          "title": "American AI Industry Trembles as Deepseek Prepares to Release New Model",
-          "link": "https://futurism.com/artificial-intelligence/ai-industry-deepseek-v4",
-          "date": "Mon, 23 Feb 2026 17:22:35 -0500"
         }
       ],
       "error": null
