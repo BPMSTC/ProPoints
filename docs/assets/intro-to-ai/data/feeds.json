@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-25T20:32:52.540304+00:00",
+  "generatedAt": "2026-02-25T21:32:57.378630+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "SoundHound AI Launches Sales Assist Agent at MWC 2026",
-          "link": "https://ai-techpark.com/soundhound-ai-launches-sales-assist-agent-at-mwc-2026/",
-          "date": "Wed, 25 Feb 2026 10:15:00 +0000"
-        },
-        {
-          "title": "Obsidian Security Certified ISO/IEC 42001:2023 for AI Governance",
-          "link": "https://ai-techpark.com/obsidian-security-certified-iso-iec-420012023-for-ai-governance/",
-          "date": "Wed, 25 Feb 2026 09:45:00 +0000"
-        },
-        {
-          "title": "Axelera AI Secures More Than $250 Mn Funding on Global Commercial Growth",
-          "link": "https://ai-techpark.com/axelera-ai-secures-more-than-250-mn-funding-on-global-commercial-growth/",
-          "date": "Wed, 25 Feb 2026 09:15:00 +0000"
-        },
-        {
-          "title": "Perforce 2026 Report: Mature DevOps Drives AI Success",
-          "link": "https://ai-techpark.com/perforce-2026-report-mature-devops-drives-ai-success/",
-          "date": "Wed, 25 Feb 2026 08:45:00 +0000"
-        },
-        {
-          "title": "Basware Reveals Future of Intelligent Finance",
-          "link": "https://ai-techpark.com/basware-reveals-future-of-intelligent-finance/",
-          "date": "Wed, 25 Feb 2026 07:51:25 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -405,14 +379,14 @@
           "date": "2026-02-25T12:59:32+00:00"
         },
         {
-          "title": "Anthropic Drops Flagship Safety Pledge",
-          "link": "https://www.reddit.com/r/artificial/comments/1re0m36/anthropic_drops_flagship_safety_pledge/",
-          "date": "2026-02-25T02:21:36+00:00"
-        },
-        {
           "title": "We built a cryptographic authorization gateway for AI agents and planning to run limited red-team sessions",
           "link": "https://www.reddit.com/r/artificial/comments/1reoh1j/we_built_a_cryptographic_authorization_gateway/",
           "date": "2026-02-25T20:14:29+00:00"
+        },
+        {
+          "title": "Anthropic Drops Flagship Safety Pledge",
+          "link": "https://www.reddit.com/r/artificial/comments/1re0m36/anthropic_drops_flagship_safety_pledge/",
+          "date": "2026-02-25T02:21:36+00:00"
         },
         {
           "title": "Google's Aletheia AI Agent Autonomously Solves 6/10 Novel FirstProof Math Problems",
