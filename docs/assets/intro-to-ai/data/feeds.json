@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-25T21:32:57.378630+00:00",
+  "generatedAt": "2026-02-25T22:30:51.629983+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "SoundHound AI Launches Sales Assist Agent at MWC 2026",
+          "link": "https://ai-techpark.com/soundhound-ai-launches-sales-assist-agent-at-mwc-2026/",
+          "date": "Wed, 25 Feb 2026 10:15:00 +0000"
+        },
+        {
+          "title": "Obsidian Security Certified ISO/IEC 42001:2023 for AI Governance",
+          "link": "https://ai-techpark.com/obsidian-security-certified-iso-iec-420012023-for-ai-governance/",
+          "date": "Wed, 25 Feb 2026 09:45:00 +0000"
+        },
+        {
+          "title": "Axelera AI Secures More Than $250 Mn Funding on Global Commercial Growth",
+          "link": "https://ai-techpark.com/axelera-ai-secures-more-than-250-mn-funding-on-global-commercial-growth/",
+          "date": "Wed, 25 Feb 2026 09:15:00 +0000"
+        },
+        {
+          "title": "Perforce 2026 Report: Mature DevOps Drives AI Success",
+          "link": "https://ai-techpark.com/perforce-2026-report-mature-devops-drives-ai-success/",
+          "date": "Wed, 25 Feb 2026 08:45:00 +0000"
+        },
+        {
+          "title": "Basware Reveals Future of Intelligent Finance",
+          "link": "https://ai-techpark.com/basware-reveals-future-of-intelligent-finance/",
+          "date": "Wed, 25 Feb 2026 07:51:25 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -342,6 +368,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Judge: xAI can\u2019t claim OpenAI stole trade secrets just by hiring ex-staffers",
+          "link": "https://arstechnica.com/tech-policy/2026/02/judge-xai-cant-claim-openai-stole-trade-secrets-just-by-hiring-ex-staffers/",
+          "date": "Wed, 25 Feb 2026 22:09:21 +0000"
+        },
+        {
+          "title": "The Galaxy S26 is faster, more expensive, and even more chock-full of AI",
+          "link": "https://arstechnica.com/gadgets/2026/02/samsung-reveals-galaxy-s26-lineup-with-privacy-display-and-exclusive-gemini-smarts/",
+          "date": "Wed, 25 Feb 2026 21:41:27 +0000"
+        },
+        {
+          "title": "Judge doesn't trust DOJ with search of devices seized from Wash. Post reporter",
+          "link": "https://arstechnica.com/tech-policy/2026/02/judge-doesnt-trust-doj-with-search-of-devices-seized-from-wash-post-reporter/",
+          "date": "Wed, 25 Feb 2026 20:53:54 +0000"
+        },
+        {
           "title": "Could a vaccine prevent dementia? Shingles shot data only getting stronger.",
           "link": "https://arstechnica.com/health/2026/02/could-a-vaccine-prevent-dementia-shingles-shot-data-only-getting-stronger/",
           "date": "Wed, 25 Feb 2026 19:29:50 +0000"
@@ -350,21 +391,6 @@
           "title": "2026 Lexus RZ 550e review: Likable, but it needs improvement",
           "link": "https://arstechnica.com/cars/2026/02/2026-lexus-rz-550e-review-likable-but-it-needs-improvement/",
           "date": "Wed, 25 Feb 2026 18:27:27 +0000"
-        },
-        {
-          "title": "RAM now represents 35 percent of bill of materials for HP PCs",
-          "link": "https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/",
-          "date": "Wed, 25 Feb 2026 18:21:38 +0000"
-        },
-        {
-          "title": "Trump's MAHA influencer pick for surgeon general goes before Senate",
-          "link": "https://arstechnica.com/health/2026/02/rfk-jr-ally-casey-means-faces-senate-for-surgeon-general-confirmation-hearing/",
-          "date": "Wed, 25 Feb 2026 15:46:08 +0000"
-        },
-        {
-          "title": "Pete Hegseth tells Anthropic to fall in line with DoD desires, or else",
-          "link": "https://arstechnica.com/ai/2026/02/pete-hegseth-wants-unfettered-access-to-anthropics-models-for-the-military/",
-          "date": "Wed, 25 Feb 2026 14:29:23 +0000"
         }
       ],
       "error": null
@@ -379,14 +405,14 @@
           "date": "2026-02-25T12:59:32+00:00"
         },
         {
-          "title": "We built a cryptographic authorization gateway for AI agents and planning to run limited red-team sessions",
-          "link": "https://www.reddit.com/r/artificial/comments/1reoh1j/we_built_a_cryptographic_authorization_gateway/",
-          "date": "2026-02-25T20:14:29+00:00"
-        },
-        {
           "title": "Anthropic Drops Flagship Safety Pledge",
           "link": "https://www.reddit.com/r/artificial/comments/1re0m36/anthropic_drops_flagship_safety_pledge/",
           "date": "2026-02-25T02:21:36+00:00"
+        },
+        {
+          "title": "We built a cryptographic authorization gateway for AI agents and planning to run limited red-team sessions",
+          "link": "https://www.reddit.com/r/artificial/comments/1reoh1j/we_built_a_cryptographic_authorization_gateway/",
+          "date": "2026-02-25T20:14:29+00:00"
         },
         {
           "title": "Google's Aletheia AI Agent Autonomously Solves 6/10 Novel FirstProof Math Problems",
@@ -443,6 +469,11 @@
           "date": "Wed, 25 Feb 2026 16:51:32 GMT"
         },
         {
+          "title": "Nvidia quarterly earnings show immunity to AI bubble fears as it cashes in on data center boom",
+          "link": "https://www.theguardian.com/technology/2026/feb/25/nvidia-quarterly-earnings-report-ai",
+          "date": "Wed, 25 Feb 2026 22:09:56 GMT"
+        },
+        {
           "title": "Meta\u2019s AI sending \u2018junk\u2019 tips to DoJ, US child abuse investigators say",
           "link": "https://www.theguardian.com/technology/2026/feb/25/meta-ai-junk-child-abuse-tips-doj",
           "date": "Wed, 25 Feb 2026 17:39:26 GMT"
@@ -456,11 +487,6 @@
           "title": "Why Xbox\u2019s corporate shake-up matters for everyone who plays games",
           "link": "https://www.theguardian.com/games/2026/feb/25/all-change-at-the-head-of-xbox-what-will-this-mean-for-the-future-of-its-games",
           "date": "Wed, 25 Feb 2026 12:30:36 GMT"
-        },
-        {
-          "title": "Signs of psychosis seen in Australian users\u2019 interactions with AI chatbots, expert warns",
-          "link": "https://www.theguardian.com/technology/2026/feb/25/signs-of-psychosis-seen-in-australian-users-interactions-with-ai-chatbots-expert-warns",
-          "date": "Wed, 25 Feb 2026 01:00:00 GMT"
         }
       ],
       "error": null
