@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-26T11:38:07.266093+00:00",
+  "generatedAt": "2026-02-26T13:00:30.165940+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Torii 2026: AI Expands Shadow IT, Not SaaS Cuts",
+          "link": "https://ai-techpark.com/torii-2026-ai-expands-shadow-it-not-saas-cuts/",
+          "date": "Thu, 26 Feb 2026 09:30:00 +0000"
+        },
+        {
+          "title": "GITEX AFRICA Morocco: Catalysing Africa\u2019s digital economy in the age of AI",
+          "link": "https://ai-techpark.com/gitex-africa-morocco-catalysing-africas-digital-economy-in-the-age-of-ai/",
+          "date": "Thu, 26 Feb 2026 09:21:25 +0000"
+        },
+        {
+          "title": "MindBridge, Genpact Partner on Audit Analytics and Risk Consulting",
+          "link": "https://ai-techpark.com/mindbridge-genpact-partner-on-audit-analytics-and-risk-consulting/",
+          "date": "Thu, 26 Feb 2026 09:20:11 +0000"
+        },
+        {
+          "title": "Precisely Expands Data Integrity Suite with New AI Agents",
+          "link": "https://ai-techpark.com/precisely-expands-data-integrity-suite-with-new-ai-agents/",
+          "date": "Thu, 26 Feb 2026 09:15:00 +0000"
+        },
+        {
+          "title": "TELUS Digital Research Reveals a Hidden Risk in AI Model Behavior",
+          "link": "https://ai-techpark.com/telus-digital-research-reveals-a-hidden-risk-in-ai-model-behavior/",
+          "date": "Thu, 26 Feb 2026 08:15:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -384,14 +410,14 @@
           "date": "2026-02-26T03:29:08+00:00"
         },
         {
-          "title": "I Built a Fully Playable FPS Using Only Prompts (No Manual Code)",
-          "link": "https://www.reddit.com/r/artificial/comments/1recjbv/i_built_a_fully_playable_fps_using_only_prompts/",
-          "date": "2026-02-25T12:59:32+00:00"
-        },
-        {
           "title": "AI Robots for Vehicle detailing/cleaning",
           "link": "https://www.reddit.com/r/artificial/comments/1rey80x/ai_robots_for_vehicle_detailingcleaning/",
           "date": "2026-02-26T02:40:37+00:00"
+        },
+        {
+          "title": "I Built a Fully Playable FPS Using Only Prompts (No Manual Code)",
+          "link": "https://www.reddit.com/r/artificial/comments/1recjbv/i_built_a_fully_playable_fps_using_only_prompts/",
+          "date": "2026-02-25T12:59:32+00:00"
         },
         {
           "title": "Showed to some friends, they said post on reddit. I said hmk.",
@@ -443,6 +469,11 @@
           "date": "Wed, 25 Feb 2026 16:51:32 GMT"
         },
         {
+          "title": "Rolls-Royce boss pushes for UK taxpayer support for new jet engine",
+          "link": "https://www.theguardian.com/business/2026/feb/26/rolls-royce-profits-soar-amid-booming-demand-for-ai-datacentre-power",
+          "date": "Thu, 26 Feb 2026 12:53:40 GMT"
+        },
+        {
           "title": "Guardian joins media coalition to protect original journalism from unpaid use by AI",
           "link": "https://www.theguardian.com/media/2026/feb/26/guardian-joins-media-coalition-to-protect-original-journalism-from-unpaid-use-by-ai",
           "date": "Thu, 26 Feb 2026 11:00:39 GMT"
@@ -456,11 +487,6 @@
           "title": "Leave big tech behind! How to replace Amazon, Google, X, Meta, Apple \u2013 and more",
           "link": "https://www.theguardian.com/technology/2026/feb/26/how-to-replace-amazon-google-x-meta-apple-alternatives",
           "date": "Thu, 26 Feb 2026 10:00:25 GMT"
-        },
-        {
-          "title": "Keen bosses, strange mistakes and a looming threat: workers on training AI to do their jobs",
-          "link": "https://www.theguardian.com/technology/2026/feb/26/workers-training-ai-to-do-their-jobs",
-          "date": "Thu, 26 Feb 2026 10:00:24 GMT"
         }
       ],
       "error": null
@@ -469,6 +495,11 @@
       "name": "artificial intelligence Archives - SpaceNews",
       "url": "https://spacenews.com/tag/artificial-intelligence/feed/",
       "items": [
+        {
+          "title": "CesiumAstro acquires Vidrovr to embed AI in communications systems",
+          "link": "https://spacenews.com/cesiumastro-acquires-vidrovr-to-embed-ai-in-communications-systems/",
+          "date": "Thu, 26 Feb 2026 13:00:00 +0000"
+        },
         {
           "title": "Boeing demonstrates large language model for space-grade hardware",
           "link": "https://spacenews.com/boeing-demonstrates-large-language-model-for-space-grade-hardware/",
@@ -488,11 +519,6 @@
           "title": "We need a \u2018Planetary Neural Network\u2019 for AI-enabled space infrastructure protection",
           "link": "https://spacenews.com/we-need-a-planetary-neural-network-for-ai-enabled-space-infrastructure-protection/",
           "date": "Mon, 26 Jan 2026 14:00:00 +0000"
-        },
-        {
-          "title": "Tomorrow.io unveils DeepSky: constellation of large satellites and instruments",
-          "link": "https://spacenews.com/tomorrow-io-unveils-deepsky-constellation-of-large-satellites-and-instruments/",
-          "date": "Thu, 22 Jan 2026 13:00:00 +0000"
         }
       ],
       "error": null
@@ -534,6 +560,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Who\u2019s Your Daddy? A Chatbot",
+          "link": "https://www.wired.com/story/whos-your-daddy-a-chatbot/",
+          "date": "Thu, 26 Feb 2026 12:00:00 +0000"
+        },
+        {
           "title": "Riley Walz, the Jester of Silicon Valley, Is Joining OpenAI",
           "link": "https://www.wired.com/story/openai-hires-riley-walz/",
           "date": "Wed, 25 Feb 2026 19:59:26 +0000"
@@ -552,11 +583,6 @@
           "title": "Talk to Your Own Personal Isaac Newton With Ailias\u2019s Hologram Avatars",
           "link": "https://www.wired.com/story/ailias-hologram-avatars/",
           "date": "Wed, 25 Feb 2026 12:00:00 +0000"
-        },
-        {
-          "title": "AI Will Never Be Conscious",
-          "link": "https://www.wired.com/story/book-excerpt-a-world-appears-michael-pollan/",
-          "date": "Tue, 24 Feb 2026 11:00:00 +0000"
         }
       ],
       "error": null
