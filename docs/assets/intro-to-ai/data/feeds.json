@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-25T23:26:12.054084+00:00",
+  "generatedAt": "2026-02-26T01:52:51.118487+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "SoundHound AI Launches Sales Assist Agent at MWC 2026",
+          "link": "https://ai-techpark.com/soundhound-ai-launches-sales-assist-agent-at-mwc-2026/",
+          "date": "Wed, 25 Feb 2026 10:15:00 +0000"
+        },
+        {
+          "title": "Obsidian Security Certified ISO/IEC 42001:2023 for AI Governance",
+          "link": "https://ai-techpark.com/obsidian-security-certified-iso-iec-420012023-for-ai-governance/",
+          "date": "Wed, 25 Feb 2026 09:45:00 +0000"
+        },
+        {
+          "title": "Axelera AI Secures More Than $250 Mn Funding on Global Commercial Growth",
+          "link": "https://ai-techpark.com/axelera-ai-secures-more-than-250-mn-funding-on-global-commercial-growth/",
+          "date": "Wed, 25 Feb 2026 09:15:00 +0000"
+        },
+        {
+          "title": "Perforce 2026 Report: Mature DevOps Drives AI Success",
+          "link": "https://ai-techpark.com/perforce-2026-report-mature-devops-drives-ai-success/",
+          "date": "Wed, 25 Feb 2026 08:45:00 +0000"
+        },
+        {
+          "title": "Basware Reveals Future of Intelligent Finance",
+          "link": "https://ai-techpark.com/basware-reveals-future-of-intelligent-finance/",
+          "date": "Wed, 25 Feb 2026 07:51:25 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -342,7 +368,7 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Judge: xAI can\u2019t claim OpenAI stole trade secrets just by hiring ex-staffers",
+          "title": "Musk has no proof OpenAI stole xAI trade secrets, judge rules, tossing lawsuit",
           "link": "https://arstechnica.com/tech-policy/2026/02/judge-xai-cant-claim-openai-stole-trade-secrets-just-by-hiring-ex-staffers/",
           "date": "Wed, 25 Feb 2026 22:09:21 +0000"
         },
@@ -379,24 +405,24 @@
           "date": "2026-02-25T12:59:32+00:00"
         },
         {
+          "title": "How Quickly Will A.I. Agents Rip Through the Economy?",
+          "link": "https://www.reddit.com/r/artificial/comments/1reuqr1/how_quickly_will_ai_agents_rip_through_the_economy/",
+          "date": "2026-02-26T00:10:58+00:00"
+        },
+        {
           "title": "Anthropic Drops Flagship Safety Pledge",
           "link": "https://www.reddit.com/r/artificial/comments/1re0m36/anthropic_drops_flagship_safety_pledge/",
           "date": "2026-02-25T02:21:36+00:00"
         },
         {
-          "title": "We built a cryptographic authorization gateway for AI agents and planning to run limited red-team sessions",
-          "link": "https://www.reddit.com/r/artificial/comments/1reoh1j/we_built_a_cryptographic_authorization_gateway/",
-          "date": "2026-02-25T20:14:29+00:00"
-        },
-        {
-          "title": "Did you ever get anything meaningful out of AI?",
-          "link": "https://www.reddit.com/r/artificial/comments/1ret2kx/did_you_ever_get_anything_meaningful_out_of_ai/",
-          "date": "2026-02-25T23:05:20+00:00"
-        },
-        {
           "title": "Google's Aletheia AI Agent Autonomously Solves 6/10 Novel FirstProof Math Problems",
           "link": "https://www.reddit.com/r/artificial/comments/1rem7gq/googles_aletheia_ai_agent_autonomously_solves_610/",
           "date": "2026-02-25T18:54:14+00:00"
+        },
+        {
+          "title": "Knowledge is the key to unlocking AI's full potential as a creative tool",
+          "link": "https://www.reddit.com/r/artificial/comments/1re43cm/knowledge_is_the_key_to_unlocking_ais_full/",
+          "date": "2026-02-25T05:05:14+00:00"
         }
       ],
       "error": null
