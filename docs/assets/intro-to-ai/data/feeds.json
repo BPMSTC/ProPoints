@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-26T22:30:46.627682+00:00",
+  "generatedAt": "2026-02-26T23:26:47.823279+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -368,6 +368,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "xAI spent $7M building wall that barely muffles annoying power plant noise",
+          "link": "https://arstechnica.com/tech-policy/2026/02/pops-whines-and-roars-xai-accused-of-torturing-neighbors-of-noisy-power-plant/",
+          "date": "Thu, 26 Feb 2026 22:19:39 +0000"
+        },
+        {
+          "title": "The physics of squeaking sneakers",
+          "link": "https://arstechnica.com/science/2026/02/the-physics-of-squeaking-sneakers/",
+          "date": "Thu, 26 Feb 2026 21:48:37 +0000"
+        },
+        {
           "title": "Google reveals Nano Banana 2 AI image model, coming to Gemini today",
           "link": "https://arstechnica.com/ai/2026/02/google-releases-nano-banana-2-ai-image-generator-promises-pro-results-with-flash-speed/",
           "date": "Thu, 26 Feb 2026 17:12:10 +0000"
@@ -381,16 +391,6 @@
           "title": "New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises",
           "link": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
           "date": "Thu, 26 Feb 2026 15:45:18 +0000"
-        },
-        {
-          "title": "New York sues Valve for enabling \"illegal gambling\" with loot boxes",
-          "link": "https://arstechnica.com/gaming/2026/02/new-york-sues-valve-for-enabling-illegal-gambling-with-loot-boxes/",
-          "date": "Thu, 26 Feb 2026 14:57:36 +0000"
-        },
-        {
-          "title": "A non-public document reveals that science may not be prioritized on next Mars mission",
-          "link": "https://arstechnica.com/space/2026/02/a-non-public-document-reveals-that-science-may-not-be-prioritized-on-next-mars-mission/",
-          "date": "Thu, 26 Feb 2026 14:44:25 +0000"
         }
       ],
       "error": null
@@ -415,14 +415,14 @@
           "date": "2026-02-26T20:02:41+00:00"
         },
         {
-          "title": "Risk of new uncensored models",
-          "link": "https://www.reddit.com/r/artificial/comments/1rfnped/risk_of_new_uncensored_models/",
-          "date": "2026-02-26T21:53:55+00:00"
-        },
-        {
           "title": "I geolocated a blurry pic from the Paris protests down to the exact coordinates using AI",
           "link": "https://www.reddit.com/r/artificial/comments/1rf631t/i_geolocated_a_blurry_pic_from_the_paris_protests/",
           "date": "2026-02-26T09:51:17+00:00"
+        },
+        {
+          "title": "Risk of new uncensored models",
+          "link": "https://www.reddit.com/r/artificial/comments/1rfnped/risk_of_new_uncensored_models/",
+          "date": "2026-02-26T21:53:55+00:00"
         }
       ],
       "error": null
@@ -431,6 +431,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "AI can slowly shift an organisation\u2019s core principles. How to spot \u2018value drift\u2019 early",
+          "link": "https://theconversation.com/ai-can-slowly-shift-an-organisations-core-principles-how-to-spot-value-drift-early-276511",
+          "date": "2026-02-26T22:46:07Z"
+        },
         {
           "title": "Michael Caine\u2019s voice is iconic. Why would he sell that to AI?",
           "link": "https://theconversation.com/michael-caines-voice-is-iconic-why-would-he-sell-that-to-ai-276506",
@@ -450,11 +455,6 @@
           "title": "Will AI accelerate or undermine the way humans have always innovated?",
           "link": "https://theconversation.com/will-ai-accelerate-or-undermine-the-way-humans-have-always-innovated-272246",
           "date": "2026-02-26T14:23:59Z"
-        },
-        {
-          "title": "How the AI boom was enabled by a 1970s economic revolution",
-          "link": "https://theconversation.com/how-the-ai-boom-was-enabled-by-a-1970s-economic-revolution-276669",
-          "date": "2026-02-25T17:40:39Z"
         }
       ],
       "error": null
@@ -560,6 +560,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "\u2018Uncanny Valley\u2019: Pentagon vs. \u2018Woke\u2019 Anthropic, Agentic vs. Mimetic, and Trump vs. State of the Union",
+          "link": "https://www.wired.com/story/uncanny-valley-podcast-pentagon-anthropic-agentic-mimetic-trump-state-of-the-union/",
+          "date": "Thu, 26 Feb 2026 23:20:36 +0000"
+        },
+        {
           "title": "This AI Agent Is Designed to Not Go Rogue",
           "link": "https://www.wired.com/story/ironcurtain-ai-agent-security/",
           "date": "Thu, 26 Feb 2026 20:54:51 +0000"
@@ -578,11 +583,6 @@
           "title": "OpenAI Announces Major Expansion of London Office",
           "link": "https://www.wired.com/story/openai-expands-london-office-major-research-hub/",
           "date": "Thu, 26 Feb 2026 15:56:01 +0000"
-        },
-        {
-          "title": "Who\u2019s Your Daddy? A Chatbot",
-          "link": "https://www.wired.com/story/whos-your-daddy-a-chatbot/",
-          "date": "Thu, 26 Feb 2026 12:00:00 +0000"
         }
       ],
       "error": null
