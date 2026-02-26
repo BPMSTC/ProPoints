@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-26T07:00:59.414525+00:00",
+  "generatedAt": "2026-02-26T08:43:07.416073+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -102,6 +102,11 @@
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [
         {
+          "title": "TELUS Digital Research Reveals a Hidden Risk in AI Model Behavior",
+          "link": "https://ai-techpark.com/telus-digital-research-reveals-a-hidden-risk-in-ai-model-behavior/",
+          "date": "Thu, 26 Feb 2026 08:15:00 +0000"
+        },
+        {
           "title": "Azara Healthcare Launches Smart Summary AI",
           "link": "https://ai-techpark.com/azara-healthcare-launches-smart-summary-ai/",
           "date": "Wed, 25 Feb 2026 17:15:00 +0000"
@@ -120,11 +125,6 @@
           "title": "SoundHound AI Launches Sales Assist Agent at MWC 2026",
           "link": "https://ai-techpark.com/soundhound-ai-launches-sales-assist-agent-at-mwc-2026/",
           "date": "Wed, 25 Feb 2026 10:15:00 +0000"
-        },
-        {
-          "title": "Obsidian Security Certified ISO/IEC 42001:2023 for AI Governance",
-          "link": "https://ai-techpark.com/obsidian-security-certified-iso-iec-420012023-for-ai-governance/",
-          "date": "Wed, 25 Feb 2026 09:45:00 +0000"
         }
       ],
       "error": null
@@ -405,14 +405,14 @@
           "date": "2026-02-26T03:29:08+00:00"
         },
         {
+          "title": "How AI hype and financial engineering are quietly destroying jobs",
+          "link": "https://www.reddit.com/r/artificial/comments/1rf413j/how_ai_hype_and_financial_engineering_are_quietly/",
+          "date": "2026-02-26T07:41:55+00:00"
+        },
+        {
           "title": "I Built a Fully Playable FPS Using Only Prompts (No Manual Code)",
           "link": "https://www.reddit.com/r/artificial/comments/1recjbv/i_built_a_fully_playable_fps_using_only_prompts/",
           "date": "2026-02-25T12:59:32+00:00"
-        },
-        {
-          "title": "How Quickly Will A.I. Agents Rip Through the Economy?",
-          "link": "https://www.reddit.com/r/artificial/comments/1reuqr1/how_quickly_will_ai_agents_rip_through_the_economy/",
-          "date": "2026-02-26T00:10:58+00:00"
         },
         {
           "title": "Showed to some friends, they said post on reddit. I said hmk.",
@@ -469,6 +469,11 @@
           "date": "Wed, 25 Feb 2026 16:51:32 GMT"
         },
         {
+          "title": "WPP to merge ad agencies and cut jobs in radical shake-up to counter AI threat",
+          "link": "https://www.theguardian.com/business/2026/feb/26/wpp-merge-ad-agencies-cut-jobs-ai-threat-advertising",
+          "date": "Thu, 26 Feb 2026 07:58:50 GMT"
+        },
+        {
           "title": "Nvidia quarterly earnings show immunity to AI bubble fears as it cashes in on data center boom",
           "link": "https://www.theguardian.com/technology/2026/feb/25/nvidia-quarterly-earnings-report-ai",
           "date": "Wed, 25 Feb 2026 22:09:56 GMT"
@@ -482,11 +487,6 @@
           "title": "Facial recognition error prompts police to arrest Asian man for burglary 100 miles away",
           "link": "https://www.theguardian.com/technology/2026/feb/25/facial-recognition-error-prompts-police-to-arrest-asian-man-for-burglary-100-miles-away",
           "date": "Wed, 25 Feb 2026 13:36:45 GMT"
-        },
-        {
-          "title": "Why Xbox\u2019s corporate shake-up matters for everyone who plays games",
-          "link": "https://www.theguardian.com/games/2026/feb/25/all-change-at-the-head-of-xbox-what-will-this-mean-for-the-future-of-its-games",
-          "date": "Wed, 25 Feb 2026 12:30:36 GMT"
         }
       ],
       "error": null
@@ -494,34 +494,8 @@
     {
       "name": "artificial intelligence Archives - SpaceNews",
       "url": "https://spacenews.com/tag/artificial-intelligence/feed/",
-      "items": [
-        {
-          "title": "Boeing demonstrates large language model for space-grade hardware",
-          "link": "https://spacenews.com/boeing-demonstrates-large-language-model-for-space-grade-hardware/",
-          "date": "Tue, 24 Feb 2026 01:47:12 +0000"
-        },
-        {
-          "title": "Simera Sense to offer larger cameras and enhanced autonomy",
-          "link": "https://spacenews.com/simera-sense-to-offer-larger-cameras-and-enhanced-autonomy/",
-          "date": "Tue, 17 Feb 2026 23:24:09 +0000"
-        },
-        {
-          "title": "With attention on orbital data centers, the focus turns to economics",
-          "link": "https://spacenews.com/with-attention-on-orbital-data-centers-the-focus-turns-to-economics/",
-          "date": "Sun, 01 Feb 2026 16:43:35 +0000"
-        },
-        {
-          "title": "We need a \u2018Planetary Neural Network\u2019 for AI-enabled space infrastructure protection",
-          "link": "https://spacenews.com/we-need-a-planetary-neural-network-for-ai-enabled-space-infrastructure-protection/",
-          "date": "Mon, 26 Jan 2026 14:00:00 +0000"
-        },
-        {
-          "title": "Tomorrow.io unveils DeepSky: constellation of large satellites and instruments",
-          "link": "https://spacenews.com/tomorrow-io-unveils-deepsky-constellation-of-large-satellites-and-instruments/",
-          "date": "Thu, 22 Jan 2026 13:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:47:3: mismatched tag"
     },
     {
       "name": "Artificial Intelligence \u2013 Futurism",
