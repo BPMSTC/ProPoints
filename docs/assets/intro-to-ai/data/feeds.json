@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-26T18:51:40.315865+00:00",
+  "generatedAt": "2026-02-26T19:42:05.287284+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "VAST Data Unveils Polaris for Global AI Data Control",
-          "link": "https://ai-techpark.com/vast-data-unveils-polaris-for-global-ai-data-control/",
-          "date": "Thu, 26 Feb 2026 13:30:00 +0000"
-        },
-        {
-          "title": "SCAILIUM Partners with TD SYNNEX to Solve Global GPU Starvation",
-          "link": "https://ai-techpark.com/scailium-partners-with-td-synnex-to-solve-global-gpu-starvation/",
-          "date": "Thu, 26 Feb 2026 10:45:00 +0000"
-        },
-        {
-          "title": "Torii 2026: AI Expands Shadow IT, Not SaaS Cuts",
-          "link": "https://ai-techpark.com/torii-2026-ai-expands-shadow-it-not-saas-cuts/",
-          "date": "Thu, 26 Feb 2026 09:30:00 +0000"
-        },
-        {
-          "title": "GITEX AFRICA Morocco: Catalysing Africa\u2019s digital economy in the age of AI",
-          "link": "https://ai-techpark.com/gitex-africa-morocco-catalysing-africas-digital-economy-in-the-age-of-ai/",
-          "date": "Thu, 26 Feb 2026 09:21:25 +0000"
-        },
-        {
-          "title": "MindBridge, Genpact Partner on Audit Analytics and Risk Consulting",
-          "link": "https://ai-techpark.com/mindbridge-genpact-partner-on-audit-analytics-and-risk-consulting/",
-          "date": "Thu, 26 Feb 2026 09:20:11 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -432,6 +406,21 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Michael Caine\u2019s voice is iconic. Why would he sell that to AI?",
+          "link": "https://theconversation.com/michael-caines-voice-is-iconic-why-would-he-sell-that-to-ai-276506",
+          "date": "2026-02-26T19:10:55Z"
+        },
+        {
+          "title": "How China is betting cheap AI will get the world hooked on its tech",
+          "link": "https://theconversation.com/how-china-is-betting-cheap-ai-will-get-the-world-hooked-on-its-tech-276878",
+          "date": "2026-02-26T19:10:19Z"
+        },
+        {
+          "title": "Should unis ditch group assignments?",
+          "link": "https://theconversation.com/should-unis-ditch-group-assignments-276979",
+          "date": "2026-02-26T19:10:06Z"
+        },
+        {
           "title": "Will AI accelerate or undermine the way humans have always innovated?",
           "link": "https://theconversation.com/will-ai-accelerate-or-undermine-the-way-humans-have-always-innovated-272246",
           "date": "2026-02-26T14:23:59Z"
@@ -440,21 +429,6 @@
           "title": "How the AI boom was enabled by a 1970s economic revolution",
           "link": "https://theconversation.com/how-the-ai-boom-was-enabled-by-a-1970s-economic-revolution-276669",
           "date": "2026-02-25T17:40:39Z"
-        },
-        {
-          "title": "Making sense of a chaotic planet: How understanding weather and climate risks depends on supercomputers like NCAR\u2019s",
-          "link": "https://theconversation.com/making-sense-of-a-chaotic-planet-how-understanding-weather-and-climate-risks-depends-on-supercomputers-like-ncars-276376",
-          "date": "2026-02-25T13:21:49Z"
-        },
-        {
-          "title": "Why India joining the US alliance on AI tech is an opportunity for Australia",
-          "link": "https://theconversation.com/why-india-joining-the-us-alliance-on-ai-tech-is-an-opportunity-for-australia-274115",
-          "date": "2026-02-25T04:11:15Z"
-        },
-        {
-          "title": "AI companies promise to \u2018fix\u2019 aged care, but they\u2019re selling a false narrative",
-          "link": "https://theconversation.com/ai-companies-promise-to-fix-aged-care-but-theyre-selling-a-false-narrative-275822",
-          "date": "2026-02-25T00:08:10Z"
         }
       ],
       "error": null
@@ -463,6 +437,11 @@
       "name": "Artificial intelligence (AI) | The Guardian",
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
+        {
+          "title": "Brady Tkachuk decries White House\u2019s AI video of him insulting Canadians after US gold",
+          "link": "https://www.theguardian.com/sport/2026/feb/26/brady-tkachuk-decries-white-houses-ai-video-of-him-insulting-canadians-after-us-gold",
+          "date": "Thu, 26 Feb 2026 19:39:25 GMT"
+        },
         {
           "title": "Met police to pilot facial recognition identity checks, mayor confirms",
           "link": "https://www.theguardian.com/technology/2026/feb/26/met-police-to-pilot-facial-recognition-identity-checks-mayor-confirms",
@@ -482,11 +461,6 @@
           "title": "Guardian joins media coalition to protect original journalism from unpaid use by AI",
           "link": "https://www.theguardian.com/media/2026/feb/26/guardian-joins-media-coalition-to-protect-original-journalism-from-unpaid-use-by-ai",
           "date": "Thu, 26 Feb 2026 11:00:39 GMT"
-        },
-        {
-          "title": "WPP to sell assets and cut jobs in radical shake-up to counter AI threat",
-          "link": "https://www.theguardian.com/business/2026/feb/26/wpp-merge-ad-agencies-cut-jobs-ai-threat-advertising",
-          "date": "Thu, 26 Feb 2026 10:24:58 GMT"
         }
       ],
       "error": null
@@ -560,6 +534,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Are You \u2018Agentic\u2019 Enough for the AI Era?",
+          "link": "https://www.wired.com/story/silicon-valley-agentic-individuals-future-of-work/",
+          "date": "Thu, 26 Feb 2026 19:00:00 +0000"
+        },
+        {
           "title": "OpenAI Announces Major Expansion of London Office",
           "link": "https://www.wired.com/story/openai-expands-london-office-major-research-hub/",
           "date": "Thu, 26 Feb 2026 15:56:01 +0000"
@@ -578,11 +557,6 @@
           "title": "OpenClaw Users Are Allegedly Bypassing Anti-Bot Systems",
           "link": "https://www.wired.com/story/openclaw-users-bypass-anti-bot-systems-cloudflare-scrapling/",
           "date": "Wed, 25 Feb 2026 19:00:00 +0000"
-        },
-        {
-          "title": "Gemini Can Now Book You an Uber or Order a\u00a0DoorDash Meal on Your Phone. Here\u2019s How It Works",
-          "link": "https://www.wired.com/story/google-gemini-task-automation-galaxy-s26-uber-doordash/",
-          "date": "Wed, 25 Feb 2026 18:00:00 +0000"
         }
       ],
       "error": null
