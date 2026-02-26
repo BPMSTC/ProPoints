@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-26T19:42:05.287284+00:00",
+  "generatedAt": "2026-02-26T20:34:28.703693+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "VAST Data Unveils Polaris for Global AI Data Control",
+          "link": "https://ai-techpark.com/vast-data-unveils-polaris-for-global-ai-data-control/",
+          "date": "Thu, 26 Feb 2026 13:30:00 +0000"
+        },
+        {
+          "title": "SCAILIUM Partners with TD SYNNEX to Solve Global GPU Starvation",
+          "link": "https://ai-techpark.com/scailium-partners-with-td-synnex-to-solve-global-gpu-starvation/",
+          "date": "Thu, 26 Feb 2026 10:45:00 +0000"
+        },
+        {
+          "title": "Torii 2026: AI Expands Shadow IT, Not SaaS Cuts",
+          "link": "https://ai-techpark.com/torii-2026-ai-expands-shadow-it-not-saas-cuts/",
+          "date": "Thu, 26 Feb 2026 09:30:00 +0000"
+        },
+        {
+          "title": "GITEX AFRICA Morocco: Catalysing Africa\u2019s digital economy in the age of AI",
+          "link": "https://ai-techpark.com/gitex-africa-morocco-catalysing-africas-digital-economy-in-the-age-of-ai/",
+          "date": "Thu, 26 Feb 2026 09:21:25 +0000"
+        },
+        {
+          "title": "MindBridge, Genpact Partner on Audit Analytics and Risk Consulting",
+          "link": "https://ai-techpark.com/mindbridge-genpact-partner-on-audit-analytics-and-risk-consulting/",
+          "date": "Thu, 26 Feb 2026 09:20:11 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -140,6 +166,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "SambaNova's Strategic Move in the AI Market",
+          "link": "https://aibusiness.com/agentic-ai/sambanova-s-strategic-move-in-ai-market",
+          "date": "Thu, 26 Feb 2026 20:11:01 GMT"
+        },
+        {
           "title": "Intrinsic Joins Google to Accelerate Physical AI",
           "link": "https://aibusiness.com/robotics/intrinsic-joins-google-for-physical-ai",
           "date": "Thu, 26 Feb 2026 17:08:42 GMT"
@@ -158,11 +189,6 @@
           "title": "Microsoft Partners with SpaceX\u2019s Starlink on Global Connectivity",
           "link": "https://aibusiness.com/generative-ai/microsoft-partners-with-spacex-s-starlink",
           "date": "Thu, 26 Feb 2026 14:58:46 GMT"
-        },
-        {
-          "title": "Anthropic Downgrades its AI Safety Policy Amid Market Pressures",
-          "link": "https://aibusiness.com/generative-ai/anthropic-downgrades-its-ai-safety-policy",
-          "date": "Wed, 25 Feb 2026 22:43:37 GMT"
         }
       ],
       "error": null
@@ -379,24 +405,24 @@
           "date": "2026-02-26T16:49:05+00:00"
         },
         {
+          "title": "Anthropic\u2019s Pentagon Showdown Is About More Than AI Guardrails. The high-stakes conflict between the Defense Department and a $380 billion tech powerhouse goes to the heart of just how far AI can go in warfare.",
+          "link": "https://www.reddit.com/r/artificial/comments/1rfkpme/anthropics_pentagon_showdown_is_about_more_than/",
+          "date": "2026-02-26T20:02:41+00:00"
+        },
+        {
           "title": "I geolocated a blurry pic from the Paris protests down to the exact coordinates using AI",
           "link": "https://www.reddit.com/r/artificial/comments/1rf631t/i_geolocated_a_blurry_pic_from_the_paris_protests/",
           "date": "2026-02-26T09:51:17+00:00"
         },
         {
-          "title": "Niantic: Bringing spatial intelligence to the industrial edge",
-          "link": "https://www.reddit.com/r/artificial/comments/1rfeb2l/niantic_bringing_spatial_intelligence_to_the/",
-          "date": "2026-02-26T16:11:44+00:00"
+          "title": "Invisible characters hidden in text can trick AI agents into following secret instructions \u2014 we tested 5 models across 8,000+ cases",
+          "link": "https://www.reddit.com/r/artificial/comments/1rfjew5/invisible_characters_hidden_in_text_can_trick_ai/",
+          "date": "2026-02-26T19:14:26+00:00"
         },
         {
-          "title": "AI memory is useful, but only if it goes beyond storing facts",
-          "link": "https://www.reddit.com/r/artificial/comments/1rfhs9h/ai_memory_is_useful_but_only_if_it_goes_beyond/",
-          "date": "2026-02-26T18:15:25+00:00"
-        },
-        {
-          "title": "OpenAI to make London its biggest research hub outside US",
-          "link": "https://www.reddit.com/r/artificial/comments/1rfd74d/openai_to_make_london_its_biggest_research_hub/",
-          "date": "2026-02-26T15:30:30+00:00"
+          "title": "Benchmarking 18 years of Intel laptop CPUs",
+          "link": "https://www.reddit.com/r/artificial/comments/1rfifyo/benchmarking_18_years_of_intel_laptop_cpus/",
+          "date": "2026-02-26T18:39:31+00:00"
         }
       ],
       "error": null
@@ -502,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Burger King Adding AI to Employees\u2019 Headsets to Constantly Monitor Whether They\u2019re Being Friendly Enough",
+          "link": "https://futurism.com/artificial-intelligence/burger-king-adding-ai-employees-headsets",
+          "date": "Thu, 26 Feb 2026 15:01:00 -0500"
+        },
+        {
           "title": "Something Very Alarming Happens When You Give AI the Nuclear Codes",
           "link": "https://futurism.com/artificial-intelligence/alarming-give-nuclear-codes",
           "date": "Thu, 26 Feb 2026 09:05:26 -0500"
@@ -520,11 +551,6 @@
           "title": "Google Apologizes for Sending the Worst Push Notification You Can Possibly Imagine",
           "link": "https://futurism.com/artificial-intelligence/google-apologizes-notification",
           "date": "Wed, 25 Feb 2026 10:03:50 -0500"
-        },
-        {
-          "title": "Tech CEOs Confused by Why Everybody Hates AI So Much",
-          "link": "https://futurism.com/future-society/tech-ceo-ai-hate",
-          "date": "Wed, 25 Feb 2026 09:03:16 -0500"
         }
       ],
       "error": null
@@ -533,6 +559,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "How Chinese AI Chatbots Censor Themselves",
+          "link": "https://www.wired.com/story/made-in-china-how-chinese-ai-chatbots-censor-themselves/",
+          "date": "Thu, 26 Feb 2026 20:08:08 +0000"
+        },
         {
           "title": "Are You \u2018Agentic\u2019 Enough for the AI Era?",
           "link": "https://www.wired.com/story/silicon-valley-agentic-individuals-future-of-work/",
@@ -552,11 +583,6 @@
           "title": "Riley Walz, the Jester of Silicon Valley, Is Joining OpenAI",
           "link": "https://www.wired.com/story/openai-hires-riley-walz/",
           "date": "Wed, 25 Feb 2026 19:59:26 +0000"
-        },
-        {
-          "title": "OpenClaw Users Are Allegedly Bypassing Anti-Bot Systems",
-          "link": "https://www.wired.com/story/openclaw-users-bypass-anti-bot-systems-cloudflare-scrapling/",
-          "date": "Wed, 25 Feb 2026 19:00:00 +0000"
         }
       ],
       "error": null
