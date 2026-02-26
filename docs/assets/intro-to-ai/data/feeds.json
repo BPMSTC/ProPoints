@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-02-26T14:43:33.738589+00:00",
+  "generatedAt": "2026-02-26T15:51:55.504800+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "The Government Just Made it Harder to See What Spy Tech it Buys",
+          "link": "https://www.404media.co/the-government-just-made-it-harder-to-see-what-spy-tech-it-buys/",
+          "date": "Thu, 26 Feb 2026 15:48:40 GMT"
+        },
+        {
+          "title": "The Islamic State Is Using AI to Resurrect Dead Leaders and Platforms Are Failing to Moderate It",
+          "link": "https://www.404media.co/the-islamic-state-is-using-ai-to-resurrect-dead-leaders-and-platforms-are-failing-to-moderate-it/",
+          "date": "Thu, 26 Feb 2026 15:45:29 GMT"
+        },
         {
           "title": "Amazon Change Means Wishlists Might Expose Your Address",
           "link": "https://www.404media.co/amazon-wishlist-address-private-third-party/",
@@ -19,16 +29,6 @@
           "title": "FBI Got Grok to Hand Over Prompts Used to Create Nonconsensual Porn",
           "link": "https://www.404media.co/fbi-subpoenaed-x-to-get-grok-prompts-used-to-create-nonconsensual-porn/",
           "date": "Wed, 25 Feb 2026 15:16:52 GMT"
-        },
-        {
-          "title": "What\u2019s the Point of School When AI Can Do Your Homework?",
-          "link": "https://www.404media.co/whats-the-point-of-school-when-ai-can-do-your-homework/",
-          "date": "Wed, 25 Feb 2026 14:41:23 GMT"
-        },
-        {
-          "title": "This App Warns You if Someone Is Wearing Smart Glasses Nearby",
-          "link": "https://www.404media.co/this-app-warns-you-if-someone-is-wearing-smart-glasses-nearby/",
-          "date": "Tue, 24 Feb 2026 15:40:49 GMT"
         }
       ],
       "error": null
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "VAST Data Unveils Polaris for Global AI Data Control",
-          "link": "https://ai-techpark.com/vast-data-unveils-polaris-for-global-ai-data-control/",
-          "date": "Thu, 26 Feb 2026 13:30:00 +0000"
-        },
-        {
-          "title": "SCAILIUM Partners with TD SYNNEX to Solve Global GPU Starvation",
-          "link": "https://ai-techpark.com/scailium-partners-with-td-synnex-to-solve-global-gpu-starvation/",
-          "date": "Thu, 26 Feb 2026 10:45:00 +0000"
-        },
-        {
-          "title": "Torii 2026: AI Expands Shadow IT, Not SaaS Cuts",
-          "link": "https://ai-techpark.com/torii-2026-ai-expands-shadow-it-not-saas-cuts/",
-          "date": "Thu, 26 Feb 2026 09:30:00 +0000"
-        },
-        {
-          "title": "GITEX AFRICA Morocco: Catalysing Africa\u2019s digital economy in the age of AI",
-          "link": "https://ai-techpark.com/gitex-africa-morocco-catalysing-africas-digital-economy-in-the-age-of-ai/",
-          "date": "Thu, 26 Feb 2026 09:21:25 +0000"
-        },
-        {
-          "title": "MindBridge, Genpact Partner on Audit Analytics and Risk Consulting",
-          "link": "https://ai-techpark.com/mindbridge-genpact-partner-on-audit-analytics-and-risk-consulting/",
-          "date": "Thu, 26 Feb 2026 09:20:11 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -166,6 +140,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Microsoft Partners with SpaceX\u2019s Starlink on Global Connectivity",
+          "link": "https://aibusiness.com/generative-ai/microsoft-partners-with-spacex-s-starlink",
+          "date": "Thu, 26 Feb 2026 14:58:46 GMT"
+        },
+        {
           "title": "Anthropic Downgrades its AI Safety Policy Amid Market Pressures",
           "link": "https://aibusiness.com/generative-ai/anthropic-downgrades-its-ai-safety-policy",
           "date": "Wed, 25 Feb 2026 22:43:37 GMT"
@@ -184,11 +163,6 @@
           "title": "Anthropic Targets More Industries With Claude Cowork Plugins",
           "link": "https://aibusiness.com/agentic-ai/anthropic-targets-more-industries-with-plugins",
           "date": "Tue, 24 Feb 2026 19:49:52 GMT"
-        },
-        {
-          "title": "Meta Signs $100B AI Chip Deal With AMD",
-          "link": "https://aibusiness.com/generative-ai/meta-signs-100b-ai-chip-deal-with-amd",
-          "date": "Tue, 24 Feb 2026 18:44:32 GMT"
         }
       ],
       "error": null
@@ -368,6 +342,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises",
+          "link": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
+          "date": "Thu, 26 Feb 2026 15:45:18 +0000"
+        },
+        {
+          "title": "New York sues Valve for enabling \"illegal gambling\" with loot boxes",
+          "link": "https://arstechnica.com/gaming/2026/02/new-york-sues-valve-for-enabling-illegal-gambling-with-loot-boxes/",
+          "date": "Thu, 26 Feb 2026 14:57:36 +0000"
+        },
+        {
+          "title": "A non-public document reveals that science may not be prioritized on next Mars mission",
+          "link": "https://arstechnica.com/space/2026/02/a-non-public-document-reveals-that-science-may-not-be-prioritized-on-next-mars-mission/",
+          "date": "Thu, 26 Feb 2026 14:44:25 +0000"
+        },
+        {
           "title": "15 state attorneys general sue RFK Jr. over \"anti-science\" vaccine policy",
           "link": "https://arstechnica.com/health/2026/02/15-state-attorneys-general-sue-rfk-jr-over-anti-science-vaccine-policy/",
           "date": "Thu, 26 Feb 2026 14:14:55 +0000"
@@ -376,21 +365,6 @@
           "title": "Badge engineering could be worse than this: The 2026 Subaru Uncharted",
           "link": "https://arstechnica.com/cars/2026/02/2026-subaru-uncharted-first-drive-fwd-might-be-the-biggest-selling-point/",
           "date": "Thu, 26 Feb 2026 14:00:59 +0000"
-        },
-        {
-          "title": "ULA isn't making the Space Force's GPS interference problem any easier",
-          "link": "https://arstechnica.com/space/2026/02/ula-isnt-making-the-space-forces-gps-interference-problem-any-easier/",
-          "date": "Thu, 26 Feb 2026 13:31:18 +0000"
-        },
-        {
-          "title": "Musk has no proof OpenAI stole xAI trade secrets, judge rules, tossing lawsuit",
-          "link": "https://arstechnica.com/tech-policy/2026/02/judge-xai-cant-claim-openai-stole-trade-secrets-just-by-hiring-ex-staffers/",
-          "date": "Wed, 25 Feb 2026 22:09:21 +0000"
-        },
-        {
-          "title": "The Galaxy S26 is faster, more expensive, and even more chock-full of AI",
-          "link": "https://arstechnica.com/gadgets/2026/02/samsung-reveals-galaxy-s26-lineup-with-privacy-display-and-exclusive-gemini-smarts/",
-          "date": "Wed, 25 Feb 2026 21:41:27 +0000"
         }
       ],
       "error": null
@@ -410,14 +384,14 @@
           "date": "2026-02-26T03:29:08+00:00"
         },
         {
+          "title": "OpenAI to make London its biggest research hub outside US",
+          "link": "https://www.reddit.com/r/artificial/comments/1rfd74d/openai_to_make_london_its_biggest_research_hub/",
+          "date": "2026-02-26T15:30:30+00:00"
+        },
+        {
           "title": "AI Robots for Vehicle detailing/cleaning",
           "link": "https://www.reddit.com/r/artificial/comments/1rey80x/ai_robots_for_vehicle_detailingcleaning/",
           "date": "2026-02-26T02:40:37+00:00"
-        },
-        {
-          "title": "Showed to some friends, they said post on reddit. I said hmk.",
-          "link": "https://www.reddit.com/r/artificial/comments/1rez30u/showed_to_some_friends_they_said_post_on_reddit_i/",
-          "date": "2026-02-26T03:20:01+00:00"
         },
         {
           "title": "I Built a Fully Playable FPS Using Only Prompts (No Manual Code)",
