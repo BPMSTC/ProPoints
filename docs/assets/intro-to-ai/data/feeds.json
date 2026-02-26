@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-26T10:42:41.522312+00:00",
+  "generatedAt": "2026-02-26T11:38:07.266093+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "Torii 2026: AI Expands Shadow IT, Not SaaS Cuts",
-          "link": "https://ai-techpark.com/torii-2026-ai-expands-shadow-it-not-saas-cuts/",
-          "date": "Thu, 26 Feb 2026 09:30:00 +0000"
-        },
-        {
-          "title": "GITEX AFRICA Morocco: Catalysing Africa\u2019s digital economy in the age of AI",
-          "link": "https://ai-techpark.com/gitex-africa-morocco-catalysing-africas-digital-economy-in-the-age-of-ai/",
-          "date": "Thu, 26 Feb 2026 09:21:25 +0000"
-        },
-        {
-          "title": "MindBridge, Genpact Partner on Audit Analytics and Risk Consulting",
-          "link": "https://ai-techpark.com/mindbridge-genpact-partner-on-audit-analytics-and-risk-consulting/",
-          "date": "Thu, 26 Feb 2026 09:20:11 +0000"
-        },
-        {
-          "title": "Precisely Expands Data Integrity Suite with New AI Agents",
-          "link": "https://ai-techpark.com/precisely-expands-data-integrity-suite-with-new-ai-agents/",
-          "date": "Thu, 26 Feb 2026 09:15:00 +0000"
-        },
-        {
-          "title": "TELUS Digital Research Reveals a Hidden Risk in AI Model Behavior",
-          "link": "https://ai-techpark.com/telus-digital-research-reveals-a-hidden-risk-in-ai-model-behavior/",
-          "date": "Thu, 26 Feb 2026 08:15:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -400,14 +374,14 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "had a voice conversation with my physical ai system today",
-          "link": "https://www.reddit.com/r/artificial/comments/1rez9zq/had_a_voice_conversation_with_my_physical_ai/",
-          "date": "2026-02-26T03:29:08+00:00"
-        },
-        {
           "title": "I geolocated a blurry pic from the Paris protests down to the exact coordinates using AI",
           "link": "https://www.reddit.com/r/artificial/comments/1rf631t/i_geolocated_a_blurry_pic_from_the_paris_protests/",
           "date": "2026-02-26T09:51:17+00:00"
+        },
+        {
+          "title": "had a voice conversation with my physical ai system today",
+          "link": "https://www.reddit.com/r/artificial/comments/1rez9zq/had_a_voice_conversation_with_my_physical_ai/",
+          "date": "2026-02-26T03:29:08+00:00"
         },
         {
           "title": "I Built a Fully Playable FPS Using Only Prompts (No Manual Code)",
@@ -469,6 +443,11 @@
           "date": "Wed, 25 Feb 2026 16:51:32 GMT"
         },
         {
+          "title": "Guardian joins media coalition to protect original journalism from unpaid use by AI",
+          "link": "https://www.theguardian.com/media/2026/feb/26/guardian-joins-media-coalition-to-protect-original-journalism-from-unpaid-use-by-ai",
+          "date": "Thu, 26 Feb 2026 11:00:39 GMT"
+        },
+        {
           "title": "WPP to sell assets and cut jobs in radical shake-up to counter AI threat",
           "link": "https://www.theguardian.com/business/2026/feb/26/wpp-merge-ad-agencies-cut-jobs-ai-threat-advertising",
           "date": "Thu, 26 Feb 2026 10:24:58 GMT"
@@ -482,11 +461,6 @@
           "title": "Keen bosses, strange mistakes and a looming threat: workers on training AI to do their jobs",
           "link": "https://www.theguardian.com/technology/2026/feb/26/workers-training-ai-to-do-their-jobs",
           "date": "Thu, 26 Feb 2026 10:00:24 GMT"
-        },
-        {
-          "title": "Rolls-Royce profits soar 40% amid booming demand for AI datacentre power",
-          "link": "https://www.theguardian.com/business/2026/feb/26/rolls-royce-profits-soar-amid-booming-demand-for-ai-datacentre-power",
-          "date": "Thu, 26 Feb 2026 09:43:51 GMT"
         }
       ],
       "error": null
