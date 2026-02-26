@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-02-26T16:55:43.668535+00:00",
+  "generatedAt": "2026-02-26T17:55:49.475367+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Company Helps Men Scrub Negative Posts About Them from Tea App",
+          "link": "https://www.404media.co/company-helps-men-scrub-negative-posts-about-them-from-tea-app/",
+          "date": "Thu, 26 Feb 2026 17:02:16 GMT"
+        },
         {
           "title": "The Government Just Made it Harder to See What Spy Tech it Buys",
           "link": "https://www.404media.co/the-government-just-made-it-harder-to-see-what-spy-tech-it-buys/",
@@ -24,11 +29,6 @@
           "title": "Podcast: Ring Is Just Getting Started",
           "link": "https://www.404media.co/podcast-ring-is-just-getting-started/",
           "date": "Wed, 25 Feb 2026 15:19:36 GMT"
-        },
-        {
-          "title": "FBI Got Grok to Hand Over Prompts Used to Create Nonconsensual Porn",
-          "link": "https://www.404media.co/fbi-subpoenaed-x-to-get-grok-prompts-used-to-create-nonconsensual-porn/",
-          "date": "Wed, 25 Feb 2026 15:16:52 GMT"
         }
       ],
       "error": null
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "VAST Data Unveils Polaris for Global AI Data Control",
+          "link": "https://ai-techpark.com/vast-data-unveils-polaris-for-global-ai-data-control/",
+          "date": "Thu, 26 Feb 2026 13:30:00 +0000"
+        },
+        {
+          "title": "SCAILIUM Partners with TD SYNNEX to Solve Global GPU Starvation",
+          "link": "https://ai-techpark.com/scailium-partners-with-td-synnex-to-solve-global-gpu-starvation/",
+          "date": "Thu, 26 Feb 2026 10:45:00 +0000"
+        },
+        {
+          "title": "Torii 2026: AI Expands Shadow IT, Not SaaS Cuts",
+          "link": "https://ai-techpark.com/torii-2026-ai-expands-shadow-it-not-saas-cuts/",
+          "date": "Thu, 26 Feb 2026 09:30:00 +0000"
+        },
+        {
+          "title": "GITEX AFRICA Morocco: Catalysing Africa\u2019s digital economy in the age of AI",
+          "link": "https://ai-techpark.com/gitex-africa-morocco-catalysing-africas-digital-economy-in-the-age-of-ai/",
+          "date": "Thu, 26 Feb 2026 09:21:25 +0000"
+        },
+        {
+          "title": "MindBridge, Genpact Partner on Audit Analytics and Risk Consulting",
+          "link": "https://ai-techpark.com/mindbridge-genpact-partner-on-audit-analytics-and-risk-consulting/",
+          "date": "Thu, 26 Feb 2026 09:20:11 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -140,6 +166,16 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Intrinsic Joins Google to Accelerate Physical AI",
+          "link": "https://aibusiness.com/robotics/intrinsic-joins-google-for-physical-ai",
+          "date": "Thu, 26 Feb 2026 17:08:42 GMT"
+        },
+        {
+          "title": "ServiceNow Launches Autonomous Workforce",
+          "link": "https://aibusiness.com/agentic-ai/servicenow-launches-autonomous-workforce",
+          "date": "Thu, 26 Feb 2026 16:48:12 GMT"
+        },
+        {
           "title": "Self-Driving AI Vendor Wayve Raises $1.2 billion",
           "link": "https://aibusiness.com/intelligent-automation/self-driving-ai-vendor-wayve-raises-1-2-billion",
           "date": "Thu, 26 Feb 2026 15:43:59 GMT"
@@ -153,16 +189,6 @@
           "title": "Anthropic Downgrades its AI Safety Policy Amid Market Pressures",
           "link": "https://aibusiness.com/generative-ai/anthropic-downgrades-its-ai-safety-policy",
           "date": "Wed, 25 Feb 2026 22:43:37 GMT"
-        },
-        {
-          "title": "Google Labs adds Agentic AI Capabilities to Opal",
-          "link": "https://aibusiness.com/agentic-ai/google-labs-adds-agentic-ai-to-opal",
-          "date": "Wed, 25 Feb 2026 16:12:44 GMT"
-        },
-        {
-          "title": "AI Accounting Startup now Valued at $1.15 Billion",
-          "link": "https://aibusiness.com/agentic-ai/ai-accounting-startup-now-valued-at-1-15-billion",
-          "date": "Wed, 25 Feb 2026 14:03:33 GMT"
         }
       ],
       "error": null
@@ -342,6 +368,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Ford is recalling 4.3 million trucks and SUVs to fix a towing software bug",
+          "link": "https://arstechnica.com/cars/2026/02/ford-is-recalling-4-3-million-trucks-and-suvs-to-fix-a-towing-software-bug/",
+          "date": "Thu, 26 Feb 2026 16:53:50 +0000"
+        },
+        {
           "title": "New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises",
           "link": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
           "date": "Thu, 26 Feb 2026 15:45:18 +0000"
@@ -360,11 +391,6 @@
           "title": "15 state attorneys general sue RFK Jr. over \"anti-science\" vaccine policy",
           "link": "https://arstechnica.com/health/2026/02/15-state-attorneys-general-sue-rfk-jr-over-anti-science-vaccine-policy/",
           "date": "Thu, 26 Feb 2026 14:14:55 +0000"
-        },
-        {
-          "title": "Badge engineering could be worse than this: The 2026 Subaru Uncharted",
-          "link": "https://arstechnica.com/cars/2026/02/2026-subaru-uncharted-first-drive-fwd-might-be-the-biggest-selling-point/",
-          "date": "Thu, 26 Feb 2026 14:00:59 +0000"
         }
       ],
       "error": null
@@ -373,6 +399,11 @@
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
+        {
+          "title": "Burger King will use AI to check if employees say \u2018please\u2019 and \u2018thank you\u2019. AI chatbot \u2018Patty\u2019 is going to live inside employees\u2019 headsets.",
+          "link": "https://www.reddit.com/r/artificial/comments/1rffcup/burger_king_will_use_ai_to_check_if_employees_say/",
+          "date": "2026-02-26T16:49:05+00:00"
+        },
         {
           "title": "I geolocated a blurry pic from the Paris protests down to the exact coordinates using AI",
           "link": "https://www.reddit.com/r/artificial/comments/1rf631t/i_geolocated_a_blurry_pic_from_the_paris_protests/",
@@ -392,11 +423,6 @@
           "title": "OpenAI to make London its biggest research hub outside US",
           "link": "https://www.reddit.com/r/artificial/comments/1rfd74d/openai_to_make_london_its_biggest_research_hub/",
           "date": "2026-02-26T15:30:30+00:00"
-        },
-        {
-          "title": "Burger King will use AI to check if employees say \u2018please\u2019 and \u2018thank you\u2019. AI chatbot \u2018Patty\u2019 is going to live inside employees\u2019 headsets.",
-          "link": "https://www.reddit.com/r/artificial/comments/1rffcup/burger_king_will_use_ai_to_check_if_employees_say/",
-          "date": "2026-02-26T16:49:05+00:00"
         }
       ],
       "error": null
@@ -438,6 +464,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Met police to pilot facial recognition identity checks, mayor confirms",
+          "link": "https://www.theguardian.com/technology/2026/feb/26/met-police-to-pilot-facial-recognition-identity-checks-mayor-confirms",
+          "date": "Thu, 26 Feb 2026 17:20:04 GMT"
+        },
+        {
           "title": "\u2018Unbelievably dangerous\u2019: experts sound alarm after ChatGPT Health fails to recognise medical emergencies",
           "link": "https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies",
           "date": "Thu, 26 Feb 2026 14:00:09 GMT"
@@ -456,11 +487,6 @@
           "title": "WPP to sell assets and cut jobs in radical shake-up to counter AI threat",
           "link": "https://www.theguardian.com/business/2026/feb/26/wpp-merge-ad-agencies-cut-jobs-ai-threat-advertising",
           "date": "Thu, 26 Feb 2026 10:24:58 GMT"
-        },
-        {
-          "title": "Leave big tech behind! How to replace Amazon, Google, X, Meta, Apple \u2013 and more",
-          "link": "https://www.theguardian.com/technology/2026/feb/26/how-to-replace-amazon-google-x-meta-apple-alternatives",
-          "date": "Thu, 26 Feb 2026 10:00:25 GMT"
         }
       ],
       "error": null
