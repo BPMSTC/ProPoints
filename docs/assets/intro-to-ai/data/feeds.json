@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-27T21:27:06.993417+00:00",
+  "generatedAt": "2026-02-27T22:23:37.369721+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Gcore Integrates NVIDIA Dynamo for AI Inference",
+          "link": "https://ai-techpark.com/gcore-integrates-nvidia-dynamo-for-ai-inference/",
+          "date": "Fri, 27 Feb 2026 18:40:00 +0000"
+        },
+        {
+          "title": "SailPoint Integrates with New Extended Plan for AWS Security Hub",
+          "link": "https://ai-techpark.com/sailpoint-integrates-with-new-extended-plan-for-aws-security-hub/",
+          "date": "Fri, 27 Feb 2026 17:30:00 +0000"
+        },
+        {
+          "title": "Vertiv Advances AI Deployment With Hut 8",
+          "link": "https://ai-techpark.com/vertiv-advances-ai-deployment-with-hut-8/",
+          "date": "Fri, 27 Feb 2026 17:00:00 +0000"
+        },
+        {
+          "title": "ElastixAI Exits Stealth with FPGA AI Supercomputers",
+          "link": "https://ai-techpark.com/elastixai-exits-stealth-with-fpga-ai-supercomputers/",
+          "date": "Thu, 26 Feb 2026 15:00:00 +0000"
+        },
+        {
+          "title": "VAST Data Unveils Polaris for Global AI Data Control",
+          "link": "https://ai-techpark.com/vast-data-unveils-polaris-for-global-ai-data-control/",
+          "date": "Thu, 26 Feb 2026 13:30:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -342,6 +368,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Photons that aren't actually there influence superconductivity",
+          "link": "https://arstechnica.com/science/2026/02/photons-that-arent-actually-there-influence-superconductivity/",
+          "date": "Fri, 27 Feb 2026 21:27:33 +0000"
+        },
+        {
           "title": "Whoops: US military laser strike takes down CBP drone near Mexican border",
           "link": "https://arstechnica.com/tech-policy/2026/02/whoops-us-military-laser-strike-takes-down-cbp-drone-near-mexican-border/",
           "date": "Fri, 27 Feb 2026 19:14:51 +0000"
@@ -360,11 +391,6 @@
           "title": "How strong is New York's \"illegal gambling\" case against Valve's loot boxes?",
           "link": "https://arstechnica.com/gaming/2026/02/how-strong-is-new-yorks-illegal-gambling-case-against-valves-loot-boxes/",
           "date": "Fri, 27 Feb 2026 17:21:21 +0000"
-        },
-        {
-          "title": "And the award for the most improved EV goes to... the 2026 Toyota bZ",
-          "link": "https://arstechnica.com/cars/2026/02/and-the-award-for-the-most-improved-ev-goes-to-the-2026-toyota-bz/",
-          "date": "Fri, 27 Feb 2026 16:13:51 +0000"
         }
       ],
       "error": null
@@ -374,14 +400,14 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "Good on Anthropic for declining the Pentagon deal",
-          "link": "https://www.reddit.com/r/artificial/comments/1rgdx5q/good_on_anthropic_for_declining_the_pentagon_deal/",
-          "date": "2026-02-27T17:59:40+00:00"
-        },
-        {
           "title": "Anthropic rejects latest Pentagon offer: \u2018We cannot in good conscience accede to their request\u2019",
           "link": "https://www.reddit.com/r/artificial/comments/1rfsjv7/anthropic_rejects_latest_pentagon_offer_we_cannot/",
           "date": "2026-02-27T01:09:09+00:00"
+        },
+        {
+          "title": "Trump orders federal agencies to stop using Anthropic AI tech \u2018immediately\u2019",
+          "link": "https://www.reddit.com/r/artificial/comments/1rgkegx/trump_orders_federal_agencies_to_stop_using/",
+          "date": "2026-02-27T22:03:25+00:00"
         },
         {
           "title": "The problem with Dorsey's Block layoffs and the veiled nature of AI productivity growth",
@@ -394,9 +420,9 @@
           "date": "2026-02-27T20:53:49+00:00"
         },
         {
-          "title": "Why your AI sounds the same across every platform",
-          "link": "https://www.reddit.com/r/artificial/comments/1rg66j7/why_your_ai_sounds_the_same_across_every_platform/",
-          "date": "2026-02-27T13:07:27+00:00"
+          "title": "A new wearable AI system watches your hands through smart glasses, guiding experiments and stopping mistakes before they happen",
+          "link": "https://www.reddit.com/r/artificial/comments/1rgiase/a_new_wearable_ai_system_watches_your_hands/",
+          "date": "2026-02-27T20:42:55+00:00"
         }
       ],
       "error": null
@@ -438,6 +464,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Trump orders US agencies to stop use of Anthropic technology amid dispute over ethics of AI",
+          "link": "https://www.theguardian.com/us-news/2026/feb/27/trump-anthropic-ai-federal-agencies",
+          "date": "Fri, 27 Feb 2026 21:47:14 GMT"
+        },
+        {
           "title": "OpenAI announces $110bn funding round that would value firm at $840bn",
           "link": "https://www.theguardian.com/technology/2026/feb/27/openai-110-billion-funding-round",
           "date": "Fri, 27 Feb 2026 19:31:31 GMT"
@@ -456,11 +487,6 @@
           "title": "Burger King cooks up AI chatbot to spot if employees say \u2018please\u2019 and \u2018thank you\u2019",
           "link": "https://www.theguardian.com/us-news/2026/feb/26/burger-king-ai-chatbot-employees-please-thank-you",
           "date": "Fri, 27 Feb 2026 00:23:20 GMT"
-        },
-        {
-          "title": "Anthropic says it \u2018cannot in good conscience\u2019 allow Pentagon to remove AI checks",
-          "link": "https://www.theguardian.com/us-news/2026/feb/26/anthropic-pentagon-claude",
-          "date": "Thu, 26 Feb 2026 23:28:14 GMT"
         }
       ],
       "error": null
@@ -502,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "The Economy Is Lurching Downward as Fear of AI Spreads",
+          "link": "https://futurism.com/artificial-intelligence/economy-lurching-downward-fear-ai",
+          "date": "Fri, 27 Feb 2026 17:06:59 -0500"
+        },
+        {
           "title": "AI Workers, and Even CEOs, Suddenly Turning Against the Trump Administration",
           "link": "https://futurism.com/artificial-intelligence/ai-workers-pentagon-anthropic",
           "date": "Fri, 27 Feb 2026 16:01:08 -0500"
@@ -520,11 +551,6 @@
           "title": "Anthropic CEO Warns of \u201cTsunami\u201d on Horizon",
           "link": "https://futurism.com/artificial-intelligence/anthropic-ceo-warns-tsunami",
           "date": "Fri, 27 Feb 2026 10:14:09 -0500"
-        },
-        {
-          "title": "Anthropic Drops Its Huge Safety Pledge That Was Supposedly the Whole Point of the Company",
-          "link": "https://futurism.com/artificial-intelligence/anthropic-drops-safety-pledge",
-          "date": "Fri, 27 Feb 2026 09:29:33 -0500"
         }
       ],
       "error": null
@@ -533,6 +559,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Trump Moves to Ban Anthropic From the US Government",
+          "link": "https://www.wired.com/story/trump-moves-to-ban-anthropic-from-the-us-government/",
+          "date": "Fri, 27 Feb 2026 21:36:31 +0000"
+        },
         {
           "title": "OpenAI Fires an Employee for Prediction Market Insider Trading",
           "link": "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/",
@@ -552,11 +583,6 @@
           "title": "Hands-On With Nano Banana 2, the Latest Version of Google\u2019s AI Image Generator",
           "link": "https://www.wired.com/story/google-nano-banana-2-ai-image-generator-hands-on/",
           "date": "Fri, 27 Feb 2026 00:01:10 +0000"
-        },
-        {
-          "title": "\u2018Uncanny Valley\u2019: Pentagon vs. \u2018Woke\u2019 Anthropic, Agentic vs. Mimetic, and Trump vs. State of the Union",
-          "link": "https://www.wired.com/story/uncanny-valley-podcast-pentagon-anthropic-agentic-mimetic-trump-state-of-the-union/",
-          "date": "Thu, 26 Feb 2026 23:20:36 +0000"
         }
       ],
       "error": null
