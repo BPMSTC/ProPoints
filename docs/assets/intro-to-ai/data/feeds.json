@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-26T23:26:47.823279+00:00",
+  "generatedAt": "2026-02-27T01:51:27.854907+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "VAST Data Unveils Polaris for Global AI Data Control",
-          "link": "https://ai-techpark.com/vast-data-unveils-polaris-for-global-ai-data-control/",
-          "date": "Thu, 26 Feb 2026 13:30:00 +0000"
-        },
-        {
-          "title": "SCAILIUM Partners with TD SYNNEX to Solve Global GPU Starvation",
-          "link": "https://ai-techpark.com/scailium-partners-with-td-synnex-to-solve-global-gpu-starvation/",
-          "date": "Thu, 26 Feb 2026 10:45:00 +0000"
-        },
-        {
-          "title": "Torii 2026: AI Expands Shadow IT, Not SaaS Cuts",
-          "link": "https://ai-techpark.com/torii-2026-ai-expands-shadow-it-not-saas-cuts/",
-          "date": "Thu, 26 Feb 2026 09:30:00 +0000"
-        },
-        {
-          "title": "GITEX AFRICA Morocco: Catalysing Africa\u2019s digital economy in the age of AI",
-          "link": "https://ai-techpark.com/gitex-africa-morocco-catalysing-africas-digital-economy-in-the-age-of-ai/",
-          "date": "Thu, 26 Feb 2026 09:21:25 +0000"
-        },
-        {
-          "title": "MindBridge, Genpact Partner on Audit Analytics and Risk Consulting",
-          "link": "https://ai-techpark.com/mindbridge-genpact-partner-on-audit-analytics-and-risk-consulting/",
-          "date": "Thu, 26 Feb 2026 09:20:11 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -368,6 +342,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Neanderthals seemed to have a thing for modern human women",
+          "link": "https://arstechnica.com/science/2026/02/genomes-chart-the-history-of-neanderthal-modern-human-interactions/",
+          "date": "Thu, 26 Feb 2026 23:16:46 +0000"
+        },
+        {
+          "title": "Perplexity announces \"Computer,\" an AI agent that assigns work to other AI agents",
+          "link": "https://arstechnica.com/ai/2026/02/perplexity-announces-computer-an-ai-agent-that-assigns-work-to-other-ai-agents/",
+          "date": "Thu, 26 Feb 2026 22:53:18 +0000"
+        },
+        {
           "title": "xAI spent $7M building wall that barely muffles annoying power plant noise",
           "link": "https://arstechnica.com/tech-policy/2026/02/pops-whines-and-roars-xai-accused-of-torturing-neighbors-of-noisy-power-plant/",
           "date": "Thu, 26 Feb 2026 22:19:39 +0000"
@@ -381,16 +365,6 @@
           "title": "Google reveals Nano Banana 2 AI image model, coming to Gemini today",
           "link": "https://arstechnica.com/ai/2026/02/google-releases-nano-banana-2-ai-image-generator-promises-pro-results-with-flash-speed/",
           "date": "Thu, 26 Feb 2026 17:12:10 +0000"
-        },
-        {
-          "title": "Ford is recalling 4.3 million trucks and SUVs to fix a towing software bug",
-          "link": "https://arstechnica.com/cars/2026/02/ford-is-recalling-4-3-million-trucks-and-suvs-to-fix-a-towing-software-bug/",
-          "date": "Thu, 26 Feb 2026 16:53:50 +0000"
-        },
-        {
-          "title": "New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises",
-          "link": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
-          "date": "Thu, 26 Feb 2026 15:45:18 +0000"
         }
       ],
       "error": null
@@ -399,6 +373,11 @@
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
+        {
+          "title": "Anthropic rejects latest Pentagon offer: \u2018We cannot in good conscience accede to their request\u2019",
+          "link": "https://www.reddit.com/r/artificial/comments/1rfsjv7/anthropic_rejects_latest_pentagon_offer_we_cannot/",
+          "date": "2026-02-27T01:09:09+00:00"
+        },
         {
           "title": "Burger King will use AI to check if employees say \u2018please\u2019 and \u2018thank you\u2019. AI chatbot \u2018Patty\u2019 is going to live inside employees\u2019 headsets.",
           "link": "https://www.reddit.com/r/artificial/comments/1rffcup/burger_king_will_use_ai_to_check_if_employees_say/",
@@ -410,19 +389,14 @@
           "date": "2026-02-26T19:14:26+00:00"
         },
         {
-          "title": "Anthropic\u2019s Pentagon Showdown Is About More Than AI Guardrails. The high-stakes conflict between the Defense Department and a $380 billion tech powerhouse goes to the heart of just how far AI can go in warfare.",
-          "link": "https://www.reddit.com/r/artificial/comments/1rfkpme/anthropics_pentagon_showdown_is_about_more_than/",
-          "date": "2026-02-26T20:02:41+00:00"
-        },
-        {
           "title": "I geolocated a blurry pic from the Paris protests down to the exact coordinates using AI",
           "link": "https://www.reddit.com/r/artificial/comments/1rf631t/i_geolocated_a_blurry_pic_from_the_paris_protests/",
           "date": "2026-02-26T09:51:17+00:00"
         },
         {
-          "title": "Risk of new uncensored models",
-          "link": "https://www.reddit.com/r/artificial/comments/1rfnped/risk_of_new_uncensored_models/",
-          "date": "2026-02-26T21:53:55+00:00"
+          "title": "AI agents are hiring other AI agents. Nobody asked who's verifying them.",
+          "link": "https://www.reddit.com/r/artificial/comments/1rftgya/ai_agents_are_hiring_other_ai_agents_nobody_asked/",
+          "date": "2026-02-27T01:50:12+00:00"
         }
       ],
       "error": null
@@ -464,6 +438,16 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Burger King cooks up AI chatbot to spot if employees say \u2018please\u2019 and \u2018thank you\u2019",
+          "link": "https://www.theguardian.com/us-news/2026/feb/26/burger-king-ai-chatbot-employees-please-thank-you",
+          "date": "Fri, 27 Feb 2026 00:23:20 GMT"
+        },
+        {
+          "title": "Anthropic says it \u2018cannot in good conscience\u2019 allow Pentagon to remove AI checks",
+          "link": "https://www.theguardian.com/us-news/2026/feb/26/anthropic-pentagon-claude",
+          "date": "Thu, 26 Feb 2026 23:28:14 GMT"
+        },
+        {
           "title": "Brady Tkachuk decries White House\u2019s AI video of him insulting Canadians after US gold",
           "link": "https://www.theguardian.com/sport/2026/feb/26/brady-tkachuk-decries-white-houses-ai-video-of-him-insulting-canadians-after-us-gold",
           "date": "Thu, 26 Feb 2026 19:39:25 GMT"
@@ -477,16 +461,6 @@
           "title": "\u2018Unbelievably dangerous\u2019: experts sound alarm after ChatGPT Health fails to recognise medical emergencies",
           "link": "https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies",
           "date": "Thu, 26 Feb 2026 14:00:09 GMT"
-        },
-        {
-          "title": "Rolls-Royce boss pushes for UK taxpayer support for new jet engine",
-          "link": "https://www.theguardian.com/business/2026/feb/26/rolls-royce-profits-soar-amid-booming-demand-for-ai-datacentre-power",
-          "date": "Thu, 26 Feb 2026 12:53:40 GMT"
-        },
-        {
-          "title": "Guardian joins media coalition to protect original journalism from unpaid use by AI",
-          "link": "https://www.theguardian.com/media/2026/feb/26/guardian-joins-media-coalition-to-protect-original-journalism-from-unpaid-use-by-ai",
-          "date": "Thu, 26 Feb 2026 11:00:39 GMT"
         }
       ],
       "error": null
@@ -560,6 +534,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Hands-On With Nano Banana 2, the Latest Version of Google\u2019s AI Image Generator",
+          "link": "https://www.wired.com/story/google-nano-banana-2-ai-image-generator-hands-on/",
+          "date": "Fri, 27 Feb 2026 00:01:10 +0000"
+        },
+        {
           "title": "\u2018Uncanny Valley\u2019: Pentagon vs. \u2018Woke\u2019 Anthropic, Agentic vs. Mimetic, and Trump vs. State of the Union",
           "link": "https://www.wired.com/story/uncanny-valley-podcast-pentagon-anthropic-agentic-mimetic-trump-state-of-the-union/",
           "date": "Thu, 26 Feb 2026 23:20:36 +0000"
@@ -578,11 +557,6 @@
           "title": "Are You \u2018Agentic\u2019 Enough for the AI Era?",
           "link": "https://www.wired.com/story/silicon-valley-agentic-individuals-future-of-work/",
           "date": "Thu, 26 Feb 2026 19:00:00 +0000"
-        },
-        {
-          "title": "OpenAI Announces Major Expansion of London Office",
-          "link": "https://www.wired.com/story/openai-expands-london-office-major-research-hub/",
-          "date": "Thu, 26 Feb 2026 15:56:01 +0000"
         }
       ],
       "error": null
