@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-28T01:43:02.375921+00:00",
+  "generatedAt": "2026-02-28T03:52:21.632155+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -368,6 +368,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Google quantum-proofs HTTPS by squeezing 2.5kB of data into 64-byte space",
+          "link": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/",
+          "date": "Sat, 28 Feb 2026 01:26:41 +0000"
+        },
+        {
           "title": "The Air Force's new ICBM is nearly ready to fly, but there\u2019s nowhere to put it",
           "link": "https://arstechnica.com/space/2026/02/the-air-forces-new-icbm-is-nearly-ready-to-fly-but-theres-nowhere-to-put-them/",
           "date": "Sat, 28 Feb 2026 00:32:24 +0000"
@@ -386,11 +391,6 @@
           "title": "Whoops: US military laser strike takes down CBP drone near Mexican border",
           "link": "https://arstechnica.com/tech-policy/2026/02/whoops-us-military-laser-strike-takes-down-cbp-drone-near-mexican-border/",
           "date": "Fri, 27 Feb 2026 19:14:51 +0000"
-        },
-        {
-          "title": "The AI apocalypse is nigh in Good Luck, Have Fun, Don't Die",
-          "link": "https://arstechnica.com/culture/2026/02/the-ai-apocalypse-is-nigh-in-good-luck-have-fun-dont-die/",
-          "date": "Fri, 27 Feb 2026 19:04:23 +0000"
         }
       ],
       "error": null
@@ -405,24 +405,24 @@
           "date": "2026-02-27T22:03:25+00:00"
         },
         {
+          "title": "AI Added 'Basically Zero' to US Economic Growth Last Year, Goldman Sachs Says. Imported chips and hardware mean the AI investments are translating into US GDP growth.",
+          "link": "https://www.reddit.com/r/artificial/comments/1rgpo48/ai_added_basically_zero_to_us_economic_growth/",
+          "date": "2026-02-28T01:45:16+00:00"
+        },
+        {
+          "title": "Anthropic says it will challenge Pentagon's supply chain risk designation in court",
+          "link": "https://www.reddit.com/r/artificial/comments/1rgruzv/anthropic_says_it_will_challenge_pentagons_supply/",
+          "date": "2026-02-28T03:27:25+00:00"
+        },
+        {
           "title": "Anthropic rejects latest Pentagon offer: \u2018We cannot in good conscience accede to their request\u2019",
           "link": "https://www.reddit.com/r/artificial/comments/1rfsjv7/anthropic_rejects_latest_pentagon_offer_we_cannot/",
           "date": "2026-02-27T01:09:09+00:00"
         },
         {
-          "title": "The problem with Dorsey's Block layoffs and the veiled nature of AI productivity growth",
-          "link": "https://www.reddit.com/r/artificial/comments/1rga39a/the_problem_with_dorseys_block_layoffs_and_the/",
-          "date": "2026-02-27T15:42:57+00:00"
-        },
-        {
-          "title": "NVIDIA stagnant for consumer AI cards... will any company ever compete?",
-          "link": "https://www.reddit.com/r/artificial/comments/1rgil0g/nvidia_stagnant_for_consumer_ai_cards_will_any/",
-          "date": "2026-02-27T20:53:49+00:00"
-        },
-        {
-          "title": "A new wearable AI system watches your hands through smart glasses, guiding experiments and stopping mistakes before they happen",
-          "link": "https://www.reddit.com/r/artificial/comments/1rgiase/a_new_wearable_ai_system_watches_your_hands/",
-          "date": "2026-02-27T20:42:55+00:00"
+          "title": "Co-Author of Citrini AI Report Warns of \u2018Scary Situation\u2019 for White-Collar Labor After Block Laid Off 4,000 Workers",
+          "link": "https://www.reddit.com/r/artificial/comments/1rgqz2p/coauthor_of_citrini_ai_report_warns_of_scary/",
+          "date": "2026-02-28T02:46:07+00:00"
         }
       ],
       "error": null
@@ -560,6 +560,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Anthropic Hits Back After US Military Labels It a 'Supply Chain Risk'",
+          "link": "https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/",
+          "date": "Sat, 28 Feb 2026 03:30:41 +0000"
+        },
+        {
           "title": "Trump Moves to Ban Anthropic From the US Government",
           "link": "https://www.wired.com/story/trump-moves-to-ban-anthropic-from-the-us-government/",
           "date": "Fri, 27 Feb 2026 21:36:31 +0000"
@@ -578,11 +583,6 @@
           "title": "Huxe Will Give You a Personalized, Daily Audio Summary Powered by AI",
           "link": "https://www.wired.com/story/huxe-personalized-daily-audio-podcasts-powered-by-ai/",
           "date": "Fri, 27 Feb 2026 12:00:00 +0000"
-        },
-        {
-          "title": "Hands-On With Nano Banana 2, the Latest Version of Google\u2019s AI Image Generator",
-          "link": "https://www.wired.com/story/google-nano-banana-2-ai-image-generator-hands-on/",
-          "date": "Fri, 27 Feb 2026 00:01:10 +0000"
         }
       ],
       "error": null
