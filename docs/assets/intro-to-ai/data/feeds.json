@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-28T18:29:42.790430+00:00",
+  "generatedAt": "2026-02-28T19:18:43.393785+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -368,7 +368,12 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Google quantum-proofs HTTPS by squeezing 2.5kB of data into 64-byte space",
+          "title": "In puzzling outbreak, officials look to cold beer, gross ice, and ChatGPT",
+          "link": "https://arstechnica.com/health/2026/02/did-chatgpt-help-health-officials-solve-a-weird-outbreak-maybe/",
+          "date": "Sat, 28 Feb 2026 18:17:12 +0000"
+        },
+        {
+          "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
           "link": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/",
           "date": "Sat, 28 Feb 2026 01:26:41 +0000"
         },
@@ -386,11 +391,6 @@
           "title": "Photons that aren't actually there influence superconductivity",
           "link": "https://arstechnica.com/science/2026/02/photons-that-arent-actually-there-influence-superconductivity/",
           "date": "Fri, 27 Feb 2026 21:27:33 +0000"
-        },
-        {
-          "title": "Whoops: US military laser strike takes down CBP drone near Mexican border",
-          "link": "https://arstechnica.com/tech-policy/2026/02/whoops-us-military-laser-strike-takes-down-cbp-drone-near-mexican-border/",
-          "date": "Fri, 27 Feb 2026 19:14:51 +0000"
         }
       ],
       "error": null
@@ -405,6 +405,16 @@
           "date": "2026-02-28T03:27:25+00:00"
         },
         {
+          "title": "Exclusive interview: Anthropic CEO Dario Amodei on Pentagon feud",
+          "link": "https://www.reddit.com/r/artificial/comments/1rha87x/exclusive_interview_anthropic_ceo_dario_amodei_on/",
+          "date": "2026-02-28T18:36:06+00:00"
+        },
+        {
+          "title": "The real bottleneck for AI agents isn't capability \u2014 it's trust and identity",
+          "link": "https://www.reddit.com/r/artificial/comments/1rhalk6/the_real_bottleneck_for_ai_agents_isnt_capability/",
+          "date": "2026-02-28T18:50:27+00:00"
+        },
+        {
           "title": "OpenAI strikes deal with Pentagon after Trump orders government to stop using Anthropic",
           "link": "https://www.reddit.com/r/artificial/comments/1rgtjex/openai_strikes_deal_with_pentagon_after_trump/",
           "date": "2026-02-28T04:52:06+00:00"
@@ -413,16 +423,6 @@
           "title": "Trump orders federal agencies to stop using Anthropic AI tech \u2018immediately\u2019",
           "link": "https://www.reddit.com/r/artificial/comments/1rgkegx/trump_orders_federal_agencies_to_stop_using/",
           "date": "2026-02-27T22:03:25+00:00"
-        },
-        {
-          "title": "Paper: The framing of a system prompt changes how a transformer generates tokens \u2014 measured across 3,830 runs with effect sizes up to d>1.0",
-          "link": "https://www.reddit.com/r/artificial/comments/1rgv1kl/paper_the_framing_of_a_system_prompt_changes_how/",
-          "date": "2026-02-28T06:13:46+00:00"
-        },
-        {
-          "title": "How I built multi-agent AI system where agents peer-review each other before I approve",
-          "link": "https://www.reddit.com/r/artificial/comments/1rh95cl/how_i_built_multiagent_ai_system_where_agents/",
-          "date": "2026-02-28T17:54:53+00:00"
         }
       ],
       "error": null
