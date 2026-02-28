@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-28T16:23:01.950222+00:00",
+  "generatedAt": "2026-02-28T17:17:47.102686+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -202,34 +202,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "Upgrading agentic AI for finance workflows",
-          "link": "https://www.artificialintelligence-news.com/news/upgrading-agentic-ai-for-finance-workflows/",
-          "date": "Fri, 27 Feb 2026 13:15:38 +0000"
-        },
-        {
-          "title": "Poor implementation of AI may be behind workforce reduction",
-          "link": "https://www.artificialintelligence-news.com/news/ai-workflows-need-human-in-the-loop-say-datatonic/",
-          "date": "Fri, 27 Feb 2026 12:05:00 +0000"
-        },
-        {
-          "title": "Goldman Sachs and Deutsche Bank test agentic AI for trade surveillance",
-          "link": "https://www.artificialintelligence-news.com/news/goldman-sachs-and-deutsche-bank-test-agentic-ai-for-trade-surveillance/",
-          "date": "Fri, 27 Feb 2026 10:00:00 +0000"
-        },
-        {
-          "title": "ASML\u2019s high-NA EUV tools clear the runway for next-gen AI chips",
-          "link": "https://www.artificialintelligence-news.com/news/asml-high-na-euv-production-ready-ai-chips/",
-          "date": "Fri, 27 Feb 2026 06:00:00 +0000"
-        },
-        {
-          "title": "Nokia and AWS pilot AI automation for real-time 5G network slicing",
-          "link": "https://www.artificialintelligence-news.com/news/nokia-and-aws-pilot-ai-automation-for-real-time-5g-network-slicing/",
-          "date": "Wed, 25 Feb 2026 10:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -405,24 +379,24 @@
           "date": "2026-02-28T03:27:25+00:00"
         },
         {
-          "title": "Trump orders federal agencies to stop using Anthropic AI tech \u2018immediately\u2019",
-          "link": "https://www.reddit.com/r/artificial/comments/1rgkegx/trump_orders_federal_agencies_to_stop_using/",
-          "date": "2026-02-27T22:03:25+00:00"
-        },
-        {
           "title": "OpenAI strikes deal with Pentagon after Trump orders government to stop using Anthropic",
           "link": "https://www.reddit.com/r/artificial/comments/1rgtjex/openai_strikes_deal_with_pentagon_after_trump/",
           "date": "2026-02-28T04:52:06+00:00"
         },
         {
+          "title": "Trump orders federal agencies to stop using Anthropic AI tech \u2018immediately\u2019",
+          "link": "https://www.reddit.com/r/artificial/comments/1rgkegx/trump_orders_federal_agencies_to_stop_using/",
+          "date": "2026-02-27T22:03:25+00:00"
+        },
+        {
+          "title": "What AI subscriptions should I buy after we cancel OpenAi",
+          "link": "https://www.reddit.com/r/artificial/comments/1rh7o88/what_ai_subscriptions_should_i_buy_after_we/",
+          "date": "2026-02-28T16:57:45+00:00"
+        },
+        {
           "title": "Paper: The framing of a system prompt changes how a transformer generates tokens \u2014 measured across 3,830 runs with effect sizes up to d>1.0",
           "link": "https://www.reddit.com/r/artificial/comments/1rgv1kl/paper_the_framing_of_a_system_prompt_changes_how/",
           "date": "2026-02-28T06:13:46+00:00"
-        },
-        {
-          "title": "Anthropic rejects latest Pentagon offer: \u2018We cannot in good conscience accede to their request\u2019",
-          "link": "https://www.reddit.com/r/artificial/comments/1rfsjv7/anthropic_rejects_latest_pentagon_offer_we_cannot/",
-          "date": "2026-02-27T01:09:09+00:00"
         }
       ],
       "error": null
