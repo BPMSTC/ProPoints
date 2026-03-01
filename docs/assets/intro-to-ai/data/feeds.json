@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-28T23:19:31.238335+00:00",
+  "generatedAt": "2026-03-01T02:03:48.435395+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "Gcore Integrates NVIDIA Dynamo for AI Inference",
-          "link": "https://ai-techpark.com/gcore-integrates-nvidia-dynamo-for-ai-inference/",
-          "date": "Fri, 27 Feb 2026 18:40:00 +0000"
-        },
-        {
-          "title": "SailPoint Integrates with New Extended Plan for AWS Security Hub",
-          "link": "https://ai-techpark.com/sailpoint-integrates-with-new-extended-plan-for-aws-security-hub/",
-          "date": "Fri, 27 Feb 2026 17:30:00 +0000"
-        },
-        {
-          "title": "Vertiv Advances AI Deployment With Hut 8",
-          "link": "https://ai-techpark.com/vertiv-advances-ai-deployment-with-hut-8/",
-          "date": "Fri, 27 Feb 2026 17:00:00 +0000"
-        },
-        {
-          "title": "ElastixAI Exits Stealth with FPGA AI Supercomputers",
-          "link": "https://ai-techpark.com/elastixai-exits-stealth-with-fpga-ai-supercomputers/",
-          "date": "Thu, 26 Feb 2026 15:00:00 +0000"
-        },
-        {
-          "title": "VAST Data Unveils Polaris for Global AI Data Control",
-          "link": "https://ai-techpark.com/vast-data-unveils-polaris-for-global-ai-data-control/",
-          "date": "Thu, 26 Feb 2026 13:30:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -400,14 +374,14 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "Exclusive interview: Anthropic CEO Dario Amodei on Pentagon feud",
-          "link": "https://www.reddit.com/r/artificial/comments/1rha87x/exclusive_interview_anthropic_ceo_dario_amodei_on/",
-          "date": "2026-02-28T18:36:06+00:00"
-        },
-        {
           "title": "Anthropic says it will challenge Pentagon's supply chain risk designation in court",
           "link": "https://www.reddit.com/r/artificial/comments/1rgruzv/anthropic_says_it_will_challenge_pentagons_supply/",
           "date": "2026-02-28T03:27:25+00:00"
+        },
+        {
+          "title": "How do you handle all these AI subscribtions?",
+          "link": "https://www.reddit.com/r/artificial/comments/1rhbyyd/how_do_you_handle_all_these_ai_subscribtions/",
+          "date": "2026-02-28T19:44:16+00:00"
         },
         {
           "title": "OpenAI strikes deal with Pentagon after Trump orders government to stop using Anthropic",
