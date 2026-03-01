@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-01T20:23:38.071999+00:00",
+  "generatedAt": "2026-03-01T21:20:17.145405+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Gcore Integrates NVIDIA Dynamo for AI Inference",
+          "link": "https://ai-techpark.com/gcore-integrates-nvidia-dynamo-for-ai-inference/",
+          "date": "Fri, 27 Feb 2026 18:40:00 +0000"
+        },
+        {
+          "title": "SailPoint Integrates with New Extended Plan for AWS Security Hub",
+          "link": "https://ai-techpark.com/sailpoint-integrates-with-new-extended-plan-for-aws-security-hub/",
+          "date": "Fri, 27 Feb 2026 17:30:00 +0000"
+        },
+        {
+          "title": "Vertiv Advances AI Deployment With Hut 8",
+          "link": "https://ai-techpark.com/vertiv-advances-ai-deployment-with-hut-8/",
+          "date": "Fri, 27 Feb 2026 17:00:00 +0000"
+        },
+        {
+          "title": "ElastixAI Exits Stealth with FPGA AI Supercomputers",
+          "link": "https://ai-techpark.com/elastixai-exits-stealth-with-fpga-ai-supercomputers/",
+          "date": "Thu, 26 Feb 2026 15:00:00 +0000"
+        },
+        {
+          "title": "VAST Data Unveils Polaris for Global AI Data Control",
+          "link": "https://ai-techpark.com/vast-data-unveils-polaris-for-global-ai-data-control/",
+          "date": "Thu, 26 Feb 2026 13:30:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -374,11 +400,6 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "Anthropic CEO Dario Amodei: 'Disagreeing with the government is the most American thing in the world'",
-          "link": "https://www.reddit.com/r/artificial/comments/1ri5kbl/anthropic_ceo_dario_amodei_disagreeing_with_the/",
-          "date": "2026-03-01T18:54:17+00:00"
-        },
-        {
           "title": "OpenAI eyes global domination with $110B Amazon and NVIDIA raise, value hits $840B",
           "link": "https://www.reddit.com/r/artificial/comments/1rhzn14/openai_eyes_global_domination_with_110b_amazon/",
           "date": "2026-03-01T15:11:12+00:00"
@@ -389,14 +410,19 @@
           "date": "2026-03-01T10:43:03+00:00"
         },
         {
-          "title": "The danger isn't AI that wages war. It's AI that makes war abstract enough to wage forever.",
-          "link": "https://www.reddit.com/r/artificial/comments/1ri67nt/the_danger_isnt_ai_that_wages_war_its_ai_that/",
-          "date": "2026-03-01T19:17:37+00:00"
-        },
-        {
           "title": "Switch to Claude without starting over | Claude",
           "link": "https://www.reddit.com/r/artificial/comments/1ri2r7g/switch_to_claude_without_starting_over_claude/",
           "date": "2026-03-01T17:11:21+00:00"
+        },
+        {
+          "title": "Deleted my GPT account and ported my AI game project to Claude. Wow!",
+          "link": "https://www.reddit.com/r/artificial/comments/1rhqqtw/deleted_my_gpt_account_and_ported_my_ai_game/",
+          "date": "2026-03-01T07:10:03+00:00"
+        },
+        {
+          "title": "I've made an AI that makes realpolitik analyses",
+          "link": "https://www.reddit.com/r/artificial/comments/1ri990z/ive_made_an_ai_that_makes_realpolitik_analyses/",
+          "date": "2026-03-01T21:12:00+00:00"
         }
       ],
       "error": null
@@ -448,7 +474,7 @@
           "date": "Sun, 01 Mar 2026 16:00:44 GMT"
         },
         {
-          "title": "\u2018Big energy users\u2019: how will datacentres affect Australia\u2019s power prices, water supply and emissions?",
+          "title": "How will datacentres affect Australia\u2019s power prices, water supply and emissions?",
           "link": "https://www.theguardian.com/environment/2026/mar/02/datacentres-australia-power-prices-water-supply-emissions",
           "date": "Sun, 01 Mar 2026 14:00:45 GMT"
         },
