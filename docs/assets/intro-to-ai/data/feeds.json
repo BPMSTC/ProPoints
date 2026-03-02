@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-02T20:35:18.249949+00:00",
+  "generatedAt": "2026-03-02T21:30:27.194678+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Keebo Appoints Eric Shoemaker as Chief Executive Officer",
+          "link": "https://ai-techpark.com/keebo-appoints-eric-shoemaker-as-chief-executive-officer/",
+          "date": "Mon, 02 Mar 2026 14:30:00 +0000"
+        },
+        {
+          "title": "ChatOn Reaches 100M Downloads as Its Global Audience Continues to Grow",
+          "link": "https://ai-techpark.com/chaton-reaches-100m-downloads-as-its-global-audience-continues-to-grow/",
+          "date": "Mon, 02 Mar 2026 14:15:00 +0000"
+        },
+        {
+          "title": "Molly Weiss Named Chief Technology Officer and Head of Digital Innovation",
+          "link": "https://ai-techpark.com/molly-weiss-named-chief-technology-officer-and-head-of-digital-innovation/",
+          "date": "Mon, 02 Mar 2026 14:00:00 +0000"
+        },
+        {
+          "title": "Project Evident Launches Equitable AI Adoption Framework",
+          "link": "https://ai-techpark.com/project-evident-launches-equitable-ai-adoption-framework/",
+          "date": "Mon, 02 Mar 2026 10:30:00 +0000"
+        },
+        {
+          "title": "Robo.ai Completes Initial Data Delivery Collection in Middle East",
+          "link": "https://ai-techpark.com/robo-ai-completes-initial-data-delivery-collection-in-middle-east/",
+          "date": "Mon, 02 Mar 2026 09:30:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -216,6 +242,11 @@
       "url": "https://ainowinstitute.org/category/news/feed",
       "items": [
         {
+          "title": "Can India be a \u201cthird way\u201d AI alternative to the U.S. and China?",
+          "link": "https://ainowinstitute.org/news/press/can-india-be-a-third-way-ai-alternative-to-the-u-s-and-china",
+          "date": "Wed, 11 Feb 2026 23:19:41 +0000"
+        },
+        {
           "title": "What Are the Implications if the AI Boom Turns to Bust?",
           "link": "https://ainowinstitute.org/news/press/what-are-the-implications-if-the-ai-boom-turns-to-bust",
           "date": "Tue, 13 Jan 2026 20:15:57 +0000"
@@ -234,11 +265,6 @@
           "title": "Atoms for Algorithms:\u2019 The Trump Administration\u2019s Top Nuclear Scientists Think AI Can Replace Humans in Power Plants",
           "link": "https://ainowinstitute.org/news/press/atoms-for-algorithms-the-trump-administrations-top-nuclear-scientists-think-ai-can-replace-humans-in-power-plants",
           "date": "Thu, 04 Dec 2025 22:43:09 +0000"
-        },
-        {
-          "title": "Power Companies Are Using AI To Build Nuclear Power Plants",
-          "link": "https://ainowinstitute.org/news/press/power-companies-are-using-ai-to-build-nuclear-power-plants",
-          "date": "Fri, 14 Nov 2025 21:38:00 +0000"
         }
       ],
       "error": null
@@ -394,9 +420,9 @@
           "date": "2026-03-02T11:51:19+00:00"
         },
         {
-          "title": "OpenAI eyes global domination with $110B Amazon and NVIDIA raise, value hits $840B",
-          "link": "https://www.reddit.com/r/artificial/comments/1rhzn14/openai_eyes_global_domination_with_110b_amazon/",
-          "date": "2026-03-01T15:11:12+00:00"
+          "title": "I asked Claude to tell its own story as an interactive experience with generative music",
+          "link": "https://www.reddit.com/r/artificial/comments/1rj4ick/i_asked_claude_to_tell_its_own_story_as_an/",
+          "date": "2026-03-02T20:39:47+00:00"
         }
       ],
       "error": null
@@ -502,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Sam Altman in Damage Control Mode as ChatGPT Users Are Mass Cancelling Subscriptions Because OpenAI Is \u201cTraining a War Machine\u201d",
+          "link": "https://futurism.com/artificial-intelligence/sam-altman-damage-control-mass-cancellation",
+          "date": "Mon, 02 Mar 2026 15:50:50 -0500"
+        },
+        {
           "title": "US Military Using Claude to Select Targets in Iran Strikes",
           "link": "https://futurism.com/artificial-intelligence/claude-anthropic-military-iran",
           "date": "Mon, 02 Mar 2026 14:46:52 -0500"
@@ -520,11 +551,6 @@
           "title": "A Staggering Proportion of High School Kids Are Using AI to Do Their Homework, Which Is Probably Not Going to End Well",
           "link": "https://futurism.com/artificial-intelligence/ai-teens-homework-study",
           "date": "Sun, 01 Mar 2026 10:30:00 -0500"
-        },
-        {
-          "title": "AI-Generated Film Pulled From AMC Cinemas",
-          "link": "https://futurism.com/artificial-intelligence/ai-film-pulled-from-amc-theaters",
-          "date": "Sun, 01 Mar 2026 09:45:00 -0500"
         }
       ],
       "error": null
