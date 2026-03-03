@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-02T23:22:52.914833+00:00",
+  "generatedAt": "2026-03-03T01:56:56.443684+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Keebo Appoints Eric Shoemaker as Chief Executive Officer",
+          "link": "https://ai-techpark.com/keebo-appoints-eric-shoemaker-as-chief-executive-officer/",
+          "date": "Mon, 02 Mar 2026 14:30:00 +0000"
+        },
+        {
+          "title": "ChatOn Reaches 100M Downloads as Its Global Audience Continues to Grow",
+          "link": "https://ai-techpark.com/chaton-reaches-100m-downloads-as-its-global-audience-continues-to-grow/",
+          "date": "Mon, 02 Mar 2026 14:15:00 +0000"
+        },
+        {
+          "title": "Molly Weiss Named Chief Technology Officer and Head of Digital Innovation",
+          "link": "https://ai-techpark.com/molly-weiss-named-chief-technology-officer-and-head-of-digital-innovation/",
+          "date": "Mon, 02 Mar 2026 14:00:00 +0000"
+        },
+        {
+          "title": "Project Evident Launches Equitable AI Adoption Framework",
+          "link": "https://ai-techpark.com/project-evident-launches-equitable-ai-adoption-framework/",
+          "date": "Mon, 02 Mar 2026 10:30:00 +0000"
+        },
+        {
+          "title": "Robo.ai Completes Initial Data Delivery Collection in Middle East",
+          "link": "https://ai-techpark.com/robo-ai-completes-initial-data-delivery-collection-in-middle-east/",
+          "date": "Mon, 02 Mar 2026 09:30:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -216,11 +242,6 @@
       "url": "https://ainowinstitute.org/category/news/feed",
       "items": [
         {
-          "title": "Can India be a \u201cthird way\u201d AI alternative to the U.S. and China?",
-          "link": "https://ainowinstitute.org/news/press/can-india-be-a-third-way-ai-alternative-to-the-u-s-and-china",
-          "date": "Wed, 11 Feb 2026 23:19:41 +0000"
-        },
-        {
           "title": "What Are the Implications if the AI Boom Turns to Bust?",
           "link": "https://ainowinstitute.org/news/press/what-are-the-implications-if-the-ai-boom-turns-to-bust",
           "date": "Tue, 13 Jan 2026 20:15:57 +0000"
@@ -239,6 +260,11 @@
           "title": "Atoms for Algorithms:\u2019 The Trump Administration\u2019s Top Nuclear Scientists Think AI Can Replace Humans in Power Plants",
           "link": "https://ainowinstitute.org/news/press/atoms-for-algorithms-the-trump-administrations-top-nuclear-scientists-think-ai-can-replace-humans-in-power-plants",
           "date": "Thu, 04 Dec 2025 22:43:09 +0000"
+        },
+        {
+          "title": "Power Companies Are Using AI To Build Nuclear Power Plants",
+          "link": "https://ainowinstitute.org/news/press/power-companies-are-using-ai-to-build-nuclear-power-plants",
+          "date": "Fri, 14 Nov 2025 21:38:00 +0000"
         }
       ],
       "error": null
@@ -342,7 +368,7 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Oops: South Korean cops lost $5M in seized crypto after leaking wallet password",
+          "title": "Clueless cops post seized crypto wallet password. $5M quickly stolen.",
           "link": "https://arstechnica.com/tech-policy/2026/03/oops-south-korean-cops-lost-5m-in-seized-crypto-after-leaking-wallet-password/",
           "date": "Mon, 02 Mar 2026 22:27:52 +0000"
         },
@@ -374,14 +400,14 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
+          "title": "How OpenAI caved to the Pentagon on AI surveillance",
+          "link": "https://www.reddit.com/r/artificial/comments/1rj8u3t/how_openai_caved_to_the_pentagon_on_ai/",
+          "date": "2026-03-02T23:23:55+00:00"
+        },
+        {
           "title": "Scientists made AI agents ruder \u2014 and they performed better at complex reasoning tasks",
           "link": "https://www.reddit.com/r/artificial/comments/1rij131/scientists_made_ai_agents_ruder_and_they/",
           "date": "2026-03-02T04:20:37+00:00"
-        },
-        {
-          "title": "I asked Claude to tell its own story as an interactive experience with generative music",
-          "link": "https://www.reddit.com/r/artificial/comments/1rj4ick/i_asked_claude_to_tell_its_own_story_as_an/",
-          "date": "2026-03-02T20:39:47+00:00"
         },
         {
           "title": "Compare GPU and LLM pricing across all major providers",
@@ -502,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Ars Technica Fires Reporter After AI Controversy Involving Fabricated Quotes",
+          "link": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
+          "date": "Mon, 02 Mar 2026 19:12:02 -0500"
+        },
+        {
           "title": "AI Tools Are Supercharging Hackers",
           "link": "https://futurism.com/artificial-intelligence/ai-tools-hackers",
           "date": "Mon, 02 Mar 2026 17:01:56 -0500"
@@ -520,11 +551,6 @@
           "title": "Microsoft Bans the Word \u201cMicroslop\u201d on Copilot Discord, Gets So Humiliated That It Locks Down the Whole Server",
           "link": "https://futurism.com/artificial-intelligence/microsoft-bans-word-microslop-discord-lock",
           "date": "Mon, 02 Mar 2026 12:11:47 -0500"
-        },
-        {
-          "title": "Data Centers in Space Are Even More Cursed Than Previously Believed",
-          "link": "https://futurism.com/artificial-intelligence/data-centers-space-cursed",
-          "date": "Sun, 01 Mar 2026 11:15:00 -0500"
         }
       ],
       "error": null
@@ -533,6 +559,16 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "What Is That Mysterious Metallic Device US Chief Design Officer Joe Gebbia Is Using?",
+          "link": "https://www.wired.com/story/joe-gebbia-mystery-metallic-device/",
+          "date": "Tue, 03 Mar 2026 01:06:01 +0000"
+        },
+        {
+          "title": "This AI Agent Is Ready to Serve, Mid-Phone Call",
+          "link": "https://www.wired.com/story/deutsche-telekom-elevenlabs-ai-phone-calls-mwc-2026/",
+          "date": "Tue, 03 Mar 2026 00:25:44 +0000"
+        },
         {
           "title": "The Data Centers Have Arrived at the Edge of the Arctic Circle",
           "link": "https://www.wired.com/story/ai-supremacy-data-center-expansion-arctic-circle/",
@@ -547,16 +583,6 @@
           "title": "Trump Moves to Ban Anthropic From the US Government",
           "link": "https://www.wired.com/story/trump-moves-to-ban-anthropic-from-the-us-government/",
           "date": "Fri, 27 Feb 2026 21:36:31 +0000"
-        },
-        {
-          "title": "OpenAI Fires an Employee for Prediction Market Insider Trading",
-          "link": "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/",
-          "date": "Fri, 27 Feb 2026 19:07:28 +0000"
-        },
-        {
-          "title": "Wall Street Has AI Psychosis",
-          "link": "https://www.wired.com/story/wall-street-has-ai-psychosis/",
-          "date": "Fri, 27 Feb 2026 16:00:00 +0000"
         }
       ],
       "error": null
