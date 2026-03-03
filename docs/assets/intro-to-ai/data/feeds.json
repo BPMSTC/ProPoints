@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-03T01:56:56.443684+00:00",
+  "generatedAt": "2026-03-03T04:16:25.273015+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "Keebo Appoints Eric Shoemaker as Chief Executive Officer",
-          "link": "https://ai-techpark.com/keebo-appoints-eric-shoemaker-as-chief-executive-officer/",
-          "date": "Mon, 02 Mar 2026 14:30:00 +0000"
-        },
-        {
-          "title": "ChatOn Reaches 100M Downloads as Its Global Audience Continues to Grow",
-          "link": "https://ai-techpark.com/chaton-reaches-100m-downloads-as-its-global-audience-continues-to-grow/",
-          "date": "Mon, 02 Mar 2026 14:15:00 +0000"
-        },
-        {
-          "title": "Molly Weiss Named Chief Technology Officer and Head of Digital Innovation",
-          "link": "https://ai-techpark.com/molly-weiss-named-chief-technology-officer-and-head-of-digital-innovation/",
-          "date": "Mon, 02 Mar 2026 14:00:00 +0000"
-        },
-        {
-          "title": "Project Evident Launches Equitable AI Adoption Framework",
-          "link": "https://ai-techpark.com/project-evident-launches-equitable-ai-adoption-framework/",
-          "date": "Mon, 02 Mar 2026 10:30:00 +0000"
-        },
-        {
-          "title": "Robo.ai Completes Initial Data Delivery Collection in Middle East",
-          "link": "https://ai-techpark.com/robo-ai-completes-initial-data-delivery-collection-in-middle-east/",
-          "date": "Mon, 02 Mar 2026 09:30:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -242,6 +216,11 @@
       "url": "https://ainowinstitute.org/category/news/feed",
       "items": [
         {
+          "title": "Can India be a \u201cthird way\u201d AI alternative to the U.S. and China?",
+          "link": "https://ainowinstitute.org/news/press/can-india-be-a-third-way-ai-alternative-to-the-u-s-and-china",
+          "date": "Wed, 11 Feb 2026 23:19:41 +0000"
+        },
+        {
           "title": "What Are the Implications if the AI Boom Turns to Bust?",
           "link": "https://ainowinstitute.org/news/press/what-are-the-implications-if-the-ai-boom-turns-to-bust",
           "date": "Tue, 13 Jan 2026 20:15:57 +0000"
@@ -260,11 +239,6 @@
           "title": "Atoms for Algorithms:\u2019 The Trump Administration\u2019s Top Nuclear Scientists Think AI Can Replace Humans in Power Plants",
           "link": "https://ainowinstitute.org/news/press/atoms-for-algorithms-the-trump-administrations-top-nuclear-scientists-think-ai-can-replace-humans-in-power-plants",
           "date": "Thu, 04 Dec 2025 22:43:09 +0000"
-        },
-        {
-          "title": "Power Companies Are Using AI To Build Nuclear Power Plants",
-          "link": "https://ainowinstitute.org/news/press/power-companies-are-using-ai-to-build-nuclear-power-plants",
-          "date": "Fri, 14 Nov 2025 21:38:00 +0000"
         }
       ],
       "error": null
@@ -405,24 +379,24 @@
           "date": "2026-03-02T23:23:55+00:00"
         },
         {
+          "title": "The AI data center boom is creating a dire electrician shortage. That\u2019s an opportunity for Gen Z | Fortune",
+          "link": "https://www.reddit.com/r/artificial/comments/1rj96v6/the_ai_data_center_boom_is_creating_a_dire/",
+          "date": "2026-03-02T23:38:14+00:00"
+        },
+        {
           "title": "Scientists made AI agents ruder \u2014 and they performed better at complex reasoning tasks",
           "link": "https://www.reddit.com/r/artificial/comments/1rij131/scientists_made_ai_agents_ruder_and_they/",
           "date": "2026-03-02T04:20:37+00:00"
         },
         {
-          "title": "Compare GPU and LLM pricing across all major providers",
-          "link": "https://www.reddit.com/r/artificial/comments/1rj1ax6/compare_gpu_and_llm_pricing_across_all_major/",
-          "date": "2026-03-02T18:44:01+00:00"
+          "title": "ChatGPT Uninstalls Surge 295% After OpenAI\u2019s DoD Deal Sparks Backlash",
+          "link": "https://www.reddit.com/r/artificial/comments/1rjfh7f/chatgpt_uninstalls_surge_295_after_openais_dod/",
+          "date": "2026-03-03T04:14:53+00:00"
         },
         {
           "title": "AI - Reverse Robin Hood",
           "link": "https://www.reddit.com/r/artificial/comments/1rj0d13/ai_reverse_robin_hood/",
           "date": "2026-03-02T18:10:52+00:00"
-        },
-        {
-          "title": "Why World Models Are Advancing Faster Than Enterprise AI Adoption",
-          "link": "https://www.reddit.com/r/artificial/comments/1riqs79/why_world_models_are_advancing_faster_than/",
-          "date": "2026-03-02T11:51:19+00:00"
         }
       ],
       "error": null
