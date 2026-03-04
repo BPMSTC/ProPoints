@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-04T05:41:31.382015+00:00",
+  "generatedAt": "2026-03-04T06:42:43.046537+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -202,8 +202,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Best AI security solutions 2026: Top enterprise platforms compared",
+          "link": "https://www.artificialintelligence-news.com/news/best-ai-security-solutions-2026-top-enterprise-platforms-compared/",
+          "date": "Tue, 03 Mar 2026 14:27:19 +0000"
+        },
+        {
+          "title": "The integration of AI in modern forex automation",
+          "link": "https://www.artificialintelligence-news.com/news/the-integration-of-ai-in-modern-forex-automation/",
+          "date": "Tue, 03 Mar 2026 14:20:17 +0000"
+        },
+        {
+          "title": "Physical AI adoption boosts customer service ROI",
+          "link": "https://www.artificialintelligence-news.com/news/physical-ai-adoption-boosts-customer-service-roi/",
+          "date": "Tue, 03 Mar 2026 11:32:47 +0000"
+        },
+        {
+          "title": "Santander and Mastercard run Europe\u2019s first AI-executed payment pilot",
+          "link": "https://www.artificialintelligence-news.com/news/santander-and-mastercard-run-europe-first-ai-executed-payment-pilot/",
+          "date": "Tue, 03 Mar 2026 10:00:00 +0000"
+        },
+        {
+          "title": "AI-Native networks are no longer a 6G promise\u2013MWC 2026 just proved it",
+          "link": "https://www.artificialintelligence-news.com/news/ai-native-networks-mwc-2026/",
+          "date": "Tue, 03 Mar 2026 08:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -379,14 +405,14 @@
           "date": "2026-03-04T01:55:04+00:00"
         },
         {
-          "title": "ChatGPT Uninstalls Surge 295% After OpenAI\u2019s DoD Deal Sparks Backlash",
-          "link": "https://www.reddit.com/r/artificial/comments/1rjfh7f/chatgpt_uninstalls_surge_295_after_openais_dod/",
-          "date": "2026-03-03T04:14:53+00:00"
-        },
-        {
           "title": "This musician built an AI clone of her voice so anyone can sing as her",
           "link": "https://www.reddit.com/r/artificial/comments/1rjx6d1/this_musician_built_an_ai_clone_of_her_voice_so/",
           "date": "2026-03-03T18:27:21+00:00"
+        },
+        {
+          "title": "ChatGPT Uninstalls Surge 295% After OpenAI\u2019s DoD Deal Sparks Backlash",
+          "link": "https://www.reddit.com/r/artificial/comments/1rjfh7f/chatgpt_uninstalls_surge_295_after_openais_dod/",
+          "date": "2026-03-03T04:14:53+00:00"
         },
         {
           "title": "Massive AI deals drive $189B startup funding record in February",
@@ -438,11 +464,6 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Iran war heralds era of AI-powered bombing quicker than \u2018speed of thought\u2019",
-          "link": "https://www.theguardian.com/technology/2026/mar/03/iran-war-heralds-era-of-ai-powered-bombing-quicker-than-speed-of-thought",
-          "date": "Tue, 03 Mar 2026 06:00:31 GMT"
-        },
-        {
           "title": "News Corp is essentially an AI \u2018input company\u2019, chief executive says, after US$150m deal with Meta",
           "link": "https://www.theguardian.com/media/2026/mar/04/news-corp-meta-ai-deal-us50m",
           "date": "Wed, 04 Mar 2026 03:12:56 GMT"
@@ -461,6 +482,11 @@
           "title": "Schools are using AI counselors to track students\u2019 mental health. Is it safe?",
           "link": "https://www.theguardian.com/technology/ng-interactive/2026/mar/03/schools-student-ai-counselor",
           "date": "Tue, 03 Mar 2026 13:00:04 GMT"
+        },
+        {
+          "title": "Showdown over datacenter politics at heart of North Carolina primary",
+          "link": "https://www.theguardian.com/us-news/2026/mar/03/datacenter-politics-north-carolina-primary",
+          "date": "Tue, 03 Mar 2026 12:00:03 GMT"
         }
       ],
       "error": null
