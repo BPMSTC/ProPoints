@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-04T01:51:08.731555+00:00",
+  "generatedAt": "2026-03-04T04:06:55.553025+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -11,7 +11,7 @@
           "date": "Wed, 04 Mar 2026 00:01:04 GMT"
         },
         {
-          "title": "The FBI Is Using AI to Hack Targets",
+          "title": "The FBI Discusses the Potential to Use  AI to Hack Targets",
           "link": "https://www.404media.co/the-fbi-is-using-ai-to-hack-targets/",
           "date": "Tue, 03 Mar 2026 19:57:20 GMT"
         },
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "Keebo Appoints Eric Shoemaker as Chief Executive Officer",
-          "link": "https://ai-techpark.com/keebo-appoints-eric-shoemaker-as-chief-executive-officer/",
-          "date": "Mon, 02 Mar 2026 14:30:00 +0000"
-        },
-        {
-          "title": "ChatOn Reaches 100M Downloads as Its Global Audience Continues to Grow",
-          "link": "https://ai-techpark.com/chaton-reaches-100m-downloads-as-its-global-audience-continues-to-grow/",
-          "date": "Mon, 02 Mar 2026 14:15:00 +0000"
-        },
-        {
-          "title": "Molly Weiss Named Chief Technology Officer and Head of Digital Innovation",
-          "link": "https://ai-techpark.com/molly-weiss-named-chief-technology-officer-and-head-of-digital-innovation/",
-          "date": "Mon, 02 Mar 2026 14:00:00 +0000"
-        },
-        {
-          "title": "Project Evident Launches Equitable AI Adoption Framework",
-          "link": "https://ai-techpark.com/project-evident-launches-equitable-ai-adoption-framework/",
-          "date": "Mon, 02 Mar 2026 10:30:00 +0000"
-        },
-        {
-          "title": "Robo.ai Completes Initial Data Delivery Collection in Middle East",
-          "link": "https://ai-techpark.com/robo-ai-completes-initial-data-delivery-collection-in-middle-east/",
-          "date": "Mon, 02 Mar 2026 09:30:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -166,6 +140,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Amazon Spends Another $21B to Beef up Spain's AI Infrastructure",
+          "link": "https://aibusiness.com/data-centers/amazon-21b-spain-ai-infrastructure",
+          "date": "Wed, 04 Mar 2026 01:42:30 GMT"
+        },
+        {
           "title": "Capgemini Joins OpenAI's Frontier Alliance to Scale Enterprise AI",
           "link": "https://aibusiness.com/agentic-ai/capgemini-openai-frontier-alliance-enterprise-ai",
           "date": "Wed, 04 Mar 2026 01:10:07 GMT"
@@ -184,11 +163,6 @@
           "title": "Hyundai Commits to $6.1B for AI, Robotics Hub in Korea",
           "link": "https://aibusiness.com/industrial-manufacturing/hyundai-ai-robotics-hub-in-korea",
           "date": "Mon, 02 Mar 2026 22:14:12 GMT"
-        },
-        {
-          "title": "Nvidia to Invest $4B in Companies to Scale AI Infrastructure",
-          "link": "https://aibusiness.com/data-centers/nvidia-to-invest-4b-in-companies-to-scale-ai-infrastructure",
-          "date": "Mon, 02 Mar 2026 18:15:17 GMT"
         }
       ],
       "error": null
@@ -405,9 +379,9 @@
           "date": "2026-03-03T04:14:53+00:00"
         },
         {
-          "title": "Massive AI deals drive $189B startup funding record in February",
-          "link": "https://www.reddit.com/r/artificial/comments/1rjru59/massive_ai_deals_drive_189b_startup_funding/",
-          "date": "2026-03-03T15:11:44+00:00"
+          "title": "What's Next for Qwen After Junyang Lin's Departure?",
+          "link": "https://www.reddit.com/r/artificial/comments/1rk8lid/whats_next_for_qwen_after_junyang_lins_departure/",
+          "date": "2026-03-04T01:55:04+00:00"
         },
         {
           "title": "This musician built an AI clone of her voice so anyone can sing as her",
@@ -415,14 +389,14 @@
           "date": "2026-03-03T18:27:21+00:00"
         },
         {
+          "title": "Massive AI deals drive $189B startup funding record in February",
+          "link": "https://www.reddit.com/r/artificial/comments/1rjru59/massive_ai_deals_drive_189b_startup_funding/",
+          "date": "2026-03-03T15:11:44+00:00"
+        },
+        {
           "title": "How OpenAI caved to the Pentagon on AI surveillance",
           "link": "https://www.reddit.com/r/artificial/comments/1rj8u3t/how_openai_caved_to_the_pentagon_on_ai/",
           "date": "2026-03-02T23:23:55+00:00"
-        },
-        {
-          "title": "What\u2019s next for Chinese open-source AI",
-          "link": "https://www.reddit.com/r/artificial/comments/1rjlk3z/whats_next_for_chinese_opensource_ai/",
-          "date": "2026-03-03T10:09:27+00:00"
         }
       ],
       "error": null
@@ -469,6 +443,11 @@
           "date": "Tue, 03 Mar 2026 06:00:31 GMT"
         },
         {
+          "title": "News Corp is essentially an AI \u2018input company\u2019, chief executive says, after US$150m deal with Meta",
+          "link": "https://www.theguardian.com/media/2026/mar/04/news-corp-meta-ai-deal-us50m",
+          "date": "Wed, 04 Mar 2026 03:12:56 GMT"
+        },
+        {
           "title": "What was really behind Jack Dorsey laying off nearly half of Block\u2019s staff?",
           "link": "https://www.theguardian.com/technology/2026/mar/03/jack-dorsey-block-ai-worker-jobs",
           "date": "Tue, 03 Mar 2026 22:06:19 GMT"
@@ -482,11 +461,6 @@
           "title": "Schools are using AI counselors to track students\u2019 mental health. Is it safe?",
           "link": "https://www.theguardian.com/technology/ng-interactive/2026/mar/03/schools-student-ai-counselor",
           "date": "Tue, 03 Mar 2026 13:00:04 GMT"
-        },
-        {
-          "title": "Showdown over datacenter politics at heart of North Carolina primary",
-          "link": "https://www.theguardian.com/us-news/2026/mar/03/datacenter-politics-north-carolina-primary",
-          "date": "Tue, 03 Mar 2026 12:00:03 GMT"
         }
       ],
       "error": null
