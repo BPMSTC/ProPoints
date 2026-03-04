@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-04T12:51:46.945122+00:00",
+  "generatedAt": "2026-03-04T13:56:34.439200+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "Meta: From social platforms to    systems architecture heavyweight",
+          "link": "https://www.aiacceleratorinstitute.com/meta-from-social-platforms-to-systems-architecture-heavyweight/",
+          "date": "Wed, 04 Mar 2026 13:12:50 GMT"
+        },
+        {
           "title": "Defusing the MCP ticking time bomb",
           "link": "https://www.aiacceleratorinstitute.com/defusing-the-mcp-ticking-time-bomb/",
           "date": "Wed, 04 Mar 2026 11:32:35 GMT"
@@ -88,11 +93,6 @@
           "title": "Apple: Anchoring Austin\u2019s AI ecosystem",
           "link": "https://www.aiacceleratorinstitute.com/apple-anchoring-austins-ai-ecosystem/",
           "date": "Fri, 20 Feb 2026 11:12:45 GMT"
-        },
-        {
-          "title": "Case Study: NVIDIA -  Silicon Valley\u2019s AI engine",
-          "link": "https://www.aiacceleratorinstitute.com/nvidia-silicon-valleys-ai-engine/",
-          "date": "Tue, 17 Feb 2026 13:32:34 GMT"
         }
       ],
       "error": null
@@ -355,7 +355,7 @@
       "name": "Analytics India Magazine",
       "url": "https://analyticsindiamag.com/feed/",
       "items": [],
-      "error": "<unknown>:108:40: undefined entity"
+      "error": "<unknown>:2:0: syntax error"
     },
     {
       "name": "Announcements - Stability AI",
@@ -410,19 +410,19 @@
           "date": "2026-03-04T10:43:12+00:00"
         },
         {
+          "title": "OpenAI looking at contract with NATO, source says",
+          "link": "https://www.reddit.com/r/artificial/comments/1rkm1it/openai_looking_at_contract_with_nato_source_says/",
+          "date": "2026-03-04T13:55:05+00:00"
+        },
+        {
           "title": "What's Next for Qwen After Junyang Lin's Departure?",
           "link": "https://www.reddit.com/r/artificial/comments/1rk8lid/whats_next_for_qwen_after_junyang_lins_departure/",
           "date": "2026-03-04T01:55:04+00:00"
         },
         {
-          "title": "AI-Generated Trips, the future of psychedelic therapy or more \"AI slop\"?",
-          "link": "https://www.reddit.com/r/artificial/comments/1rkhxjk/aigenerated_trips_the_future_of_psychedelic/",
-          "date": "2026-03-04T10:24:43+00:00"
-        },
-        {
-          "title": "This musician built an AI clone of her voice so anyone can sing as her",
-          "link": "https://www.reddit.com/r/artificial/comments/1rjx6d1/this_musician_built_an_ai_clone_of_her_voice_so/",
-          "date": "2026-03-03T18:27:21+00:00"
+          "title": "Our agreement with the Department of War",
+          "link": "https://www.reddit.com/r/artificial/comments/1rklvo9/our_agreement_with_the_department_of_war/",
+          "date": "2026-03-04T13:48:04+00:00"
         }
       ],
       "error": null
@@ -464,6 +464,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "X to ban users from earning revenue if they post unlabelled AI-generated war videos",
+          "link": "https://www.theguardian.com/technology/2026/mar/04/x-ban-users-earning-revenue-post-unlabelled-ai-generated-war-videos",
+          "date": "Wed, 04 Mar 2026 13:34:26 GMT"
+        },
+        {
           "title": "Quit ChatGPT: right now! Your subscription is bankrolling authoritarianism | Rutger Bregman",
           "link": "https://www.theguardian.com/commentisfree/2026/mar/04/quit-chatgpt-subscription-boycott-silicon-valley",
           "date": "Wed, 04 Mar 2026 07:00:42 GMT"
@@ -482,11 +487,6 @@
           "title": "Don\u2019t bet that the Pentagon \u2013 or Anthropic \u2013 is acting in the public interest | Bruce Schneier and Nathan E Sanders",
           "link": "https://www.theguardian.com/commentisfree/2026/mar/03/anthropic-openai-pentagon-ethics",
           "date": "Tue, 03 Mar 2026 14:00:05 GMT"
-        },
-        {
-          "title": "Schools are using AI counselors to track students\u2019 mental health. Is it safe?",
-          "link": "https://www.theguardian.com/technology/ng-interactive/2026/mar/03/schools-student-ai-counselor",
-          "date": "Tue, 03 Mar 2026 13:00:04 GMT"
         }
       ],
       "error": null
