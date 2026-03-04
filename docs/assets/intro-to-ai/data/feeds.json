@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-04T11:28:04.060916+00:00",
+  "generatedAt": "2026-03-04T12:51:46.945122+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "Defusing the MCP ticking time bomb",
+          "link": "https://www.aiacceleratorinstitute.com/defusing-the-mcp-ticking-time-bomb/",
+          "date": "Wed, 04 Mar 2026 11:32:35 GMT"
+        },
+        {
           "title": "How synthetic data can multiply  your judgment and scale your AI products",
           "link": "https://www.aiacceleratorinstitute.com/how-to-use-synthetic-data-to-scale-ai/",
           "date": "Fri, 27 Feb 2026 15:00:01 GMT"
@@ -88,11 +93,6 @@
           "title": "Case Study: NVIDIA -  Silicon Valley\u2019s AI engine",
           "link": "https://www.aiacceleratorinstitute.com/nvidia-silicon-valleys-ai-engine/",
           "date": "Tue, 17 Feb 2026 13:32:34 GMT"
-        },
-        {
-          "title": "Revolutionizing healthcare: The transformative impact of artificial intelligence",
-          "link": "https://www.aiacceleratorinstitute.com/revolutionizing-healthcare-the-transformative-impact-of-artificial-intelligence/",
-          "date": "Tue, 17 Feb 2026 10:19:44 GMT"
         }
       ],
       "error": null
@@ -101,6 +101,16 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [
+        {
+          "title": "Latent AI Receives Investment From AUM Ventures",
+          "link": "https://ai-techpark.com/latent-ai-receives-investment-from-aum-ventures/",
+          "date": "Wed, 04 Mar 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Logicalis Report: CIOs Boost AI Spending Amid Governance Concerns",
+          "link": "https://ai-techpark.com/logicalis-report-cios-boost-ai-spending-amid-governance-concerns/",
+          "date": "Wed, 04 Mar 2026 08:45:00 +0000"
+        },
         {
           "title": "Revenium Launches Tool Registry for Better Agentic AI Monitoring",
           "link": "https://ai-techpark.com/revenium-launches-tool-registry-for-better-agentic-ai-monitoring/",
@@ -115,16 +125,6 @@
           "title": "CPP Investments and Equinix join forces to acquire atNorth",
           "link": "https://ai-techpark.com/cpp-investments-and-equinix-join-forces-to-acquire-atnorth/",
           "date": "Wed, 04 Mar 2026 04:51:46 +0000"
-        },
-        {
-          "title": "Keebo Appoints Eric Shoemaker as Chief Executive Officer",
-          "link": "https://ai-techpark.com/keebo-appoints-eric-shoemaker-as-chief-executive-officer/",
-          "date": "Mon, 02 Mar 2026 14:30:00 +0000"
-        },
-        {
-          "title": "ChatOn Reaches 100M Downloads as Its Global Audience Continues to Grow",
-          "link": "https://ai-techpark.com/chaton-reaches-100m-downloads-as-its-global-audience-continues-to-grow/",
-          "date": "Mon, 02 Mar 2026 14:15:00 +0000"
         }
       ],
       "error": null
@@ -204,6 +204,11 @@
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [
         {
+          "title": "Physical AI is having its moment\u2013and everyone wants a piece of it",
+          "link": "https://www.artificialintelligence-news.com/news/physical-ai-global-race-robots-manufacturing-2026/",
+          "date": "Wed, 04 Mar 2026 12:00:00 +0000"
+        },
+        {
           "title": "AI agents prefer Bitcoin shaping new finance architecture",
           "link": "https://www.artificialintelligence-news.com/news/ai-agents-prefer-bitcoin-new-finance-architecture/",
           "date": "Wed, 04 Mar 2026 10:52:45 +0000"
@@ -222,11 +227,6 @@
           "title": "The integration of AI in modern forex automation",
           "link": "https://www.artificialintelligence-news.com/news/the-integration-of-ai-in-modern-forex-automation/",
           "date": "Tue, 03 Mar 2026 14:20:17 +0000"
-        },
-        {
-          "title": "Physical AI adoption boosts customer service ROI",
-          "link": "https://www.artificialintelligence-news.com/news/physical-ai-adoption-boosts-customer-service-roi/",
-          "date": "Tue, 03 Mar 2026 11:32:47 +0000"
         }
       ],
       "error": null
@@ -355,7 +355,7 @@
       "name": "Analytics India Magazine",
       "url": "https://analyticsindiamag.com/feed/",
       "items": [],
-      "error": "<unknown>:2:0: syntax error"
+      "error": "<unknown>:108:40: undefined entity"
     },
     {
       "name": "Announcements - Stability AI",
@@ -400,14 +400,14 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "Emergence or training artifact? My AI agents independently built safety tools I never asked for. 28/170 builds over 3 weeks.",
-          "link": "https://www.reddit.com/r/artificial/comments/1rki8d4/emergence_or_training_artifact_my_ai_agents/",
-          "date": "2026-03-04T10:43:12+00:00"
-        },
-        {
           "title": "The OpenClaw Meltdown: 9 CVEs, 2,200 Malicious Skills, and the Most Comprehensive Real-World Test of the OWASP Agentic Top 10",
           "link": "https://www.reddit.com/r/artificial/comments/1rkiq9a/the_openclaw_meltdown_9_cves_2200_malicious/",
           "date": "2026-03-04T11:11:30+00:00"
+        },
+        {
+          "title": "Emergence or training artifact? My AI agents independently built safety tools I never asked for. 28/170 builds over 3 weeks.",
+          "link": "https://www.reddit.com/r/artificial/comments/1rki8d4/emergence_or_training_artifact_my_ai_agents/",
+          "date": "2026-03-04T10:43:12+00:00"
         },
         {
           "title": "What's Next for Qwen After Junyang Lin's Departure?",
