@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-03-03T23:24:37.381026+00:00",
+  "generatedAt": "2026-03-04T01:51:08.731555+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "The Sun Is 'Glitching.' Scientists Investigated and Solved a Cosmic Mystery",
+          "link": "https://www.404media.co/the-sun-is-glitching-scientists-investigated-and-solved-a-cosmic-mystery/",
+          "date": "Wed, 04 Mar 2026 00:01:04 GMT"
+        },
         {
           "title": "The FBI Is Using AI to Hack Targets",
           "link": "https://www.404media.co/the-fbi-is-using-ai-to-hack-targets/",
@@ -24,11 +29,6 @@
           "title": "CBP Tapped Into the Online Advertising Ecosystem To Track Peoples\u2019 Movements",
           "link": "https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/",
           "date": "Tue, 03 Mar 2026 14:03:26 GMT"
-        },
-        {
-          "title": "With Iran War, Kalshi and Polymarket Bet That the Depravity Economy Has No Bottom",
-          "link": "https://www.404media.co/with-iran-war-kalshi-and-polymarket-bet-that-the-depravity-economy-has-no-bottom/",
-          "date": "Mon, 02 Mar 2026 17:26:08 GMT"
         }
       ],
       "error": null
@@ -166,6 +166,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Capgemini Joins OpenAI's Frontier Alliance to Scale Enterprise AI",
+          "link": "https://aibusiness.com/agentic-ai/capgemini-openai-frontier-alliance-enterprise-ai",
+          "date": "Wed, 04 Mar 2026 01:10:07 GMT"
+        },
+        {
           "title": "Gemini 3.1 Flash-Lite Offers Choice on How It Processes Inputs",
           "link": "https://aibusiness.com/foundation-models/gemini-flash-lite-offers-choice-processes-inputs",
           "date": "Tue, 03 Mar 2026 22:02:34 GMT"
@@ -184,11 +189,6 @@
           "title": "Nvidia to Invest $4B in Companies to Scale AI Infrastructure",
           "link": "https://aibusiness.com/data-centers/nvidia-to-invest-4b-in-companies-to-scale-ai-infrastructure",
           "date": "Mon, 02 Mar 2026 18:15:17 GMT"
-        },
-        {
-          "title": "OpenAI Unveils $110B in Funding, Expands AWS Partnership",
-          "link": "https://aibusiness.com/foundation-models/openai-unveils-110billion-funding-expands-aws-partnership",
-          "date": "Mon, 02 Mar 2026 17:43:37 GMT"
         }
       ],
       "error": null
@@ -272,8 +272,34 @@
     {
       "name": "Ai Prompt Programming",
       "url": "https://www.reddit.com/r/aipromptprogramming/.rss",
-      "items": [],
-      "error": "<unknown>:2:12: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Agentic Flow: Easily switch between low/no-cost AI models (OpenRouter/Onnx/Gemini) in Claude Code and Claude Agent SDK. Build agents in Claude Code, deploy them anywhere. >_ npx agentic-flow",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1nzvbsl/agentic_flow_easily_switch_between_lownocost_ai/",
+          "date": "2025-10-06T21:02:20+00:00"
+        },
+        {
+          "title": "I created an Agentic Coding Competition MCP for Cline/Claude-Code/Cursor/Co-pilot using E2B Sandboxes. I'm looking for some Beta Testers. > npx flow-nexus@latest",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1nc75k5/i_created_an_agentic_coding_competition_mcp_for/",
+          "date": "2025-09-09T02:25:04+00:00"
+        },
+        {
+          "title": "So long Claude Flow, hello \ud83c\udf0a RuFlo. v3.5.0 is out of alpha.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1rgmrz3/so_long_claude_flow_hello_ruflo_v350_is_out_of/",
+          "date": "2026-02-27T23:38:41+00:00"
+        },
+        {
+          "title": "Claude Code just got Remote Control",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1re13t8/claude_code_just_got_remote_control/",
+          "date": "2026-02-25T02:43:48+00:00"
+        },
+        {
+          "title": "90 days before all platforms are flooded with AI slop to the point where they are no longer usable",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1r4lgpf/90_days_before_all_platforms_are_flooded_with_ai/",
+          "date": "2026-02-14T14:05:28+00:00"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI \u2013 SiliconANGLE",
@@ -372,13 +398,44 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
-      "error": "<unknown>:2:12: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "ChatGPT Uninstalls Surge 295% After OpenAI\u2019s DoD Deal Sparks Backlash",
+          "link": "https://www.reddit.com/r/artificial/comments/1rjfh7f/chatgpt_uninstalls_surge_295_after_openais_dod/",
+          "date": "2026-03-03T04:14:53+00:00"
+        },
+        {
+          "title": "Massive AI deals drive $189B startup funding record in February",
+          "link": "https://www.reddit.com/r/artificial/comments/1rjru59/massive_ai_deals_drive_189b_startup_funding/",
+          "date": "2026-03-03T15:11:44+00:00"
+        },
+        {
+          "title": "This musician built an AI clone of her voice so anyone can sing as her",
+          "link": "https://www.reddit.com/r/artificial/comments/1rjx6d1/this_musician_built_an_ai_clone_of_her_voice_so/",
+          "date": "2026-03-03T18:27:21+00:00"
+        },
+        {
+          "title": "How OpenAI caved to the Pentagon on AI surveillance",
+          "link": "https://www.reddit.com/r/artificial/comments/1rj8u3t/how_openai_caved_to_the_pentagon_on_ai/",
+          "date": "2026-03-02T23:23:55+00:00"
+        },
+        {
+          "title": "What\u2019s next for Chinese open-source AI",
+          "link": "https://www.reddit.com/r/artificial/comments/1rjlk3z/whats_next_for_chinese_opensource_ai/",
+          "date": "2026-03-03T10:09:27+00:00"
+        }
+      ],
+      "error": null
     },
     {
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "AI could help us more accurately screen for breast cancer \u2013 new research",
+          "link": "https://theconversation.com/ai-could-help-us-more-accurately-screen-for-breast-cancer-new-research-277079",
+          "date": "2026-03-04T00:38:45Z"
+        },
         {
           "title": "AI has powerful uses for First Nations oral cultural knowledge. Here\u2019s how",
           "link": "https://theconversation.com/ai-has-powerful-uses-for-first-nations-oral-cultural-knowledge-heres-how-276043",
@@ -398,11 +455,6 @@
           "title": "Time to retrain? How to future-proof your career in the AI age",
           "link": "https://theconversation.com/time-to-retrain-how-to-future-proof-your-career-in-the-ai-age-276694",
           "date": "2026-03-02T17:11:52Z"
-        },
-        {
-          "title": "Why we shouldn\u2019t abandon handwriting at school",
-          "link": "https://theconversation.com/why-we-shouldnt-abandon-handwriting-at-school-276210",
-          "date": "2026-03-02T16:14:47Z"
         }
       ],
       "error": null
@@ -417,7 +469,7 @@
           "date": "Tue, 03 Mar 2026 06:00:31 GMT"
         },
         {
-          "title": "What was really behind Block\u2019s Jack Dorsey laying off nearly half his company\u2019s staff?",
+          "title": "What was really behind Jack Dorsey laying off nearly half of Block\u2019s staff?",
           "link": "https://www.theguardian.com/technology/2026/mar/03/jack-dorsey-block-ai-worker-jobs",
           "date": "Tue, 03 Mar 2026 22:06:19 GMT"
         },
