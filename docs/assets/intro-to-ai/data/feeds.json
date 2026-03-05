@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-05T07:40:13.309746+00:00",
+  "generatedAt": "2026-03-05T08:37:50.317498+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "RAG that remembers:  How AI is learning from every query",
+          "link": "https://www.aiacceleratorinstitute.com/rag-that-remembers-how-ai-is-learning-from-every-query/",
+          "date": "Thu, 05 Mar 2026 08:00:25 GMT"
+        },
+        {
           "title": "Meta: From social platforms to    systems architecture heavyweight",
           "link": "https://www.aiacceleratorinstitute.com/meta-from-social-platforms-to-systems-architecture-heavyweight/",
           "date": "Wed, 04 Mar 2026 13:12:50 GMT"
@@ -88,11 +93,6 @@
           "title": "How AI is reinventing   incident response in hybrid IT",
           "link": "https://www.aiacceleratorinstitute.com/how-ai-is-reinventing-incident-response-in-hybrid-it/",
           "date": "Fri, 20 Feb 2026 12:56:31 GMT"
-        },
-        {
-          "title": "Apple: Anchoring Austin\u2019s AI ecosystem",
-          "link": "https://www.aiacceleratorinstitute.com/apple-anchoring-austins-ai-ecosystem/",
-          "date": "Fri, 20 Feb 2026 11:12:45 GMT"
         }
       ],
       "error": null
@@ -202,8 +202,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Beyond the pilot: Dyna.Ai raises eight-figure Series A to put agentic AI in financial services to work",
+          "link": "https://www.artificialintelligence-news.com/news/dyna-ai-series-a-agentic-ai-financial-services/",
+          "date": "Thu, 05 Mar 2026 08:00:00 +0000"
+        },
+        {
+          "title": "Physical AI is having its moment\u2013and everyone wants a piece of it",
+          "link": "https://www.artificialintelligence-news.com/news/physical-ai-global-race-robots-manufacturing-2026/",
+          "date": "Wed, 04 Mar 2026 12:00:00 +0000"
+        },
+        {
+          "title": "AI agents prefer Bitcoin shaping new finance architecture",
+          "link": "https://www.artificialintelligence-news.com/news/ai-agents-prefer-bitcoin-new-finance-architecture/",
+          "date": "Wed, 04 Mar 2026 10:52:45 +0000"
+        },
+        {
+          "title": "Google makes its industrial robotics AI play official\u2013and this time, it means business",
+          "link": "https://www.artificialintelligence-news.com/news/google-industrial-robotics-ai-physical-ai-intrinsic/",
+          "date": "Wed, 04 Mar 2026 08:00:00 +0000"
+        },
+        {
+          "title": "Best AI security solutions 2026: Top enterprise platforms compared",
+          "link": "https://www.artificialintelligence-news.com/news/best-ai-security-solutions-2026-top-enterprise-platforms-compared/",
+          "date": "Tue, 03 Mar 2026 14:27:19 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
