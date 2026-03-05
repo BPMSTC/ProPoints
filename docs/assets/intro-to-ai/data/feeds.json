@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-05T06:47:30.036927+00:00",
+  "generatedAt": "2026-03-05T07:40:13.309746+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "LILT Launches Industry-First MCP Server and Agent-to-Agent Integration",
+          "link": "https://ai-techpark.com/lilt-launches-industry-first-mcp-server-and-agent-to-agent-integration/",
+          "date": "Wed, 04 Mar 2026 17:00:00 +0000"
+        },
+        {
+          "title": "Latent AI Receives Investment From AUM Ventures",
+          "link": "https://ai-techpark.com/latent-ai-receives-investment-from-aum-ventures/",
+          "date": "Wed, 04 Mar 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Logicalis Report: CIOs Boost AI Spending Amid Governance Concerns",
+          "link": "https://ai-techpark.com/logicalis-report-cios-boost-ai-spending-amid-governance-concerns/",
+          "date": "Wed, 04 Mar 2026 08:45:00 +0000"
+        },
+        {
+          "title": "Revenium Launches Tool Registry for Better Agentic AI Monitoring",
+          "link": "https://ai-techpark.com/revenium-launches-tool-registry-for-better-agentic-ai-monitoring/",
+          "date": "Wed, 04 Mar 2026 07:43:12 +0000"
+        },
+        {
+          "title": "Survey: AI Adoption Surges but Consumers Want More Control",
+          "link": "https://ai-techpark.com/survey-ai-adoption-surges-but-consumers-want-more-control/",
+          "date": "Wed, 04 Mar 2026 07:37:39 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -176,34 +202,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "Physical AI is having its moment\u2013and everyone wants a piece of it",
-          "link": "https://www.artificialintelligence-news.com/news/physical-ai-global-race-robots-manufacturing-2026/",
-          "date": "Wed, 04 Mar 2026 12:00:00 +0000"
-        },
-        {
-          "title": "AI agents prefer Bitcoin shaping new finance architecture",
-          "link": "https://www.artificialintelligence-news.com/news/ai-agents-prefer-bitcoin-new-finance-architecture/",
-          "date": "Wed, 04 Mar 2026 10:52:45 +0000"
-        },
-        {
-          "title": "Google makes its industrial robotics AI play official\u2013and this time, it means business",
-          "link": "https://www.artificialintelligence-news.com/news/google-industrial-robotics-ai-physical-ai-intrinsic/",
-          "date": "Wed, 04 Mar 2026 08:00:00 +0000"
-        },
-        {
-          "title": "Best AI security solutions 2026: Top enterprise platforms compared",
-          "link": "https://www.artificialintelligence-news.com/news/best-ai-security-solutions-2026-top-enterprise-platforms-compared/",
-          "date": "Tue, 03 Mar 2026 14:27:19 +0000"
-        },
-        {
-          "title": "The integration of AI in modern forex automation",
-          "link": "https://www.artificialintelligence-news.com/news/the-integration-of-ai-in-modern-forex-automation/",
-          "date": "Tue, 03 Mar 2026 14:20:17 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
