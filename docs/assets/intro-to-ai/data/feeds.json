@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-05T05:45:33.504698+00:00",
+  "generatedAt": "2026-03-05T06:47:30.036927+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "LILT Launches Industry-First MCP Server and Agent-to-Agent Integration",
-          "link": "https://ai-techpark.com/lilt-launches-industry-first-mcp-server-and-agent-to-agent-integration/",
-          "date": "Wed, 04 Mar 2026 17:00:00 +0000"
-        },
-        {
-          "title": "Latent AI Receives Investment From AUM Ventures",
-          "link": "https://ai-techpark.com/latent-ai-receives-investment-from-aum-ventures/",
-          "date": "Wed, 04 Mar 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Logicalis Report: CIOs Boost AI Spending Amid Governance Concerns",
-          "link": "https://ai-techpark.com/logicalis-report-cios-boost-ai-spending-amid-governance-concerns/",
-          "date": "Wed, 04 Mar 2026 08:45:00 +0000"
-        },
-        {
-          "title": "Revenium Launches Tool Registry for Better Agentic AI Monitoring",
-          "link": "https://ai-techpark.com/revenium-launches-tool-registry-for-better-agentic-ai-monitoring/",
-          "date": "Wed, 04 Mar 2026 07:43:12 +0000"
-        },
-        {
-          "title": "Survey: AI Adoption Surges but Consumers Want More Control",
-          "link": "https://ai-techpark.com/survey-ai-adoption-surges-but-consumers-want-more-control/",
-          "date": "Wed, 04 Mar 2026 07:37:39 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -415,14 +389,14 @@
           "date": "2026-03-05T00:07:05+00:00"
         },
         {
-          "title": "The OpenClaw Meltdown: 9 CVEs, 2,200 Malicious Skills, and the Most Comprehensive Real-World Test of the OWASP Agentic Top 10",
-          "link": "https://www.reddit.com/r/artificial/comments/1rkiq9a/the_openclaw_meltdown_9_cves_2200_malicious/",
-          "date": "2026-03-04T11:11:30+00:00"
-        },
-        {
           "title": "Apple Music is building tools to identify and tag AI-generated songs",
           "link": "https://www.reddit.com/r/artificial/comments/1rl61te/apple_music_is_building_tools_to_identify_and_tag/",
           "date": "2026-03-05T02:57:51+00:00"
+        },
+        {
+          "title": "The OpenClaw Meltdown: 9 CVEs, 2,200 Malicious Skills, and the Most Comprehensive Real-World Test of the OWASP Agentic Top 10",
+          "link": "https://www.reddit.com/r/artificial/comments/1rkiq9a/the_openclaw_meltdown_9_cves_2200_malicious/",
+          "date": "2026-03-04T11:11:30+00:00"
         }
       ],
       "error": null
