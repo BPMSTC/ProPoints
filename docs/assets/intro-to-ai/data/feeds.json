@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-06T17:32:44.526742+00:00",
+  "generatedAt": "2026-03-06T18:40:32.287360+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -368,6 +368,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Americans trust Fauci over RFK Jr. and career scientists over Trump officials",
+          "link": "https://arstechnica.com/health/2026/03/americans-trust-fauci-over-rfk-jr-and-career-scientists-over-trump-officials/",
+          "date": "Fri, 06 Mar 2026 17:15:22 +0000"
+        },
+        {
           "title": "Climate change sucks, but at least it won't kill your EV battery",
           "link": "https://arstechnica.com/cars/2026/03/climate-change-sucks-but-at-least-it-wont-kill-your-ev-battery/",
           "date": "Fri, 06 Mar 2026 16:37:24 +0000"
@@ -386,11 +391,6 @@
           "title": "With Gateway likely gone, where will lunar landers rendezvous with Orion?",
           "link": "https://arstechnica.com/space/2026/03/nasa-has-shuffled-its-artemis-rockets-but-what-of-the-lunar-landers/",
           "date": "Fri, 06 Mar 2026 15:20:37 +0000"
-        },
-        {
-          "title": "Why are vertebrate eyes so different from those of other animals?",
-          "link": "https://arstechnica.com/science/2026/03/the-vertebrate-eye-may-have-begun-as-a-cyclops/",
-          "date": "Fri, 06 Mar 2026 14:23:59 +0000"
         }
       ],
       "error": null
@@ -415,14 +415,14 @@
           "date": "2026-03-05T20:11:33+00:00"
         },
         {
-          "title": "AI model predicts Alzheimer's from MRI brain volume loss with 92.87% accuracy",
-          "link": "https://www.reddit.com/r/artificial/comments/1rlz8cp/ai_model_predicts_alzheimers_from_mri_brain/",
-          "date": "2026-03-06T00:43:19+00:00"
-        },
-        {
           "title": "Final Qwen3.5 Unsloth GGUF Update!",
           "link": "https://www.reddit.com/r/artificial/comments/1rmil8p/final_qwen35_unsloth_gguf_update/",
           "date": "2026-03-06T16:26:55+00:00"
+        },
+        {
+          "title": "AI model predicts Alzheimer's from MRI brain volume loss with 92.87% accuracy",
+          "link": "https://www.reddit.com/r/artificial/comments/1rlz8cp/ai_model_predicts_alzheimers_from_mri_brain/",
+          "date": "2026-03-06T00:43:19+00:00"
         }
       ],
       "error": null
@@ -431,6 +431,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "How AI could unlock deep-sea secrets of marine life",
+          "link": "https://theconversation.com/how-ai-could-unlock-deep-sea-secrets-of-marine-life-276717",
+          "date": "2026-03-06T17:02:08Z"
+        },
         {
           "title": "Today\u2019s obsession with authenticity isn\u2019t new \u2013 being true to yourself has troubled philosophers for centuries",
           "link": "https://theconversation.com/todays-obsession-with-authenticity-isnt-new-being-true-to-yourself-has-troubled-philosophers-for-centuries-262004",
@@ -450,11 +455,6 @@
           "title": "Researchers are combining drones and AI to make removing land mines faster and safer",
           "link": "https://theconversation.com/researchers-are-combining-drones-and-ai-to-make-removing-land-mines-faster-and-safer-272248",
           "date": "2026-03-05T13:47:06Z"
-        },
-        {
-          "title": "We designed an AI tutor that helps college students reason rather than give them answers",
-          "link": "https://theconversation.com/we-designed-an-ai-tutor-that-helps-college-students-reason-rather-than-give-them-answers-276584",
-          "date": "2026-03-05T13:46:07Z"
         }
       ],
       "error": null
@@ -464,14 +464,9 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Ben Affleck sells his AI postproduction startup to Netflix",
-          "link": "https://www.theguardian.com/technology/2026/mar/06/ben-affleck-sells-ai-postproduction-startup-interpositive-to-netflix",
-          "date": "Fri, 06 Mar 2026 14:55:17 GMT"
-        },
-        {
-          "title": "AI agents pose untold risk to humanity. We must act to prevent that future | David Krueger",
-          "link": "https://www.theguardian.com/commentisfree/2026/mar/06/moltbook-risk-ai-agents-artificial-life",
-          "date": "Fri, 06 Mar 2026 17:00:27 GMT"
+          "title": "The Guardian view on AI in war: the Iran conflict shows that the paradigm shift has already begun",
+          "link": "https://www.theguardian.com/technology/commentisfree/2026/mar/06/the-guardian-view-on-ai-in-war-the-iran-conflict-shows-that-the-paradigm-shift-has-already-begun",
+          "date": "Fri, 06 Mar 2026 17:52:54 GMT"
         },
         {
           "title": "North Korean agents using AI to trick western firms into hiring them, Microsoft says",
@@ -479,14 +474,19 @@
           "date": "Fri, 06 Mar 2026 17:00:27 GMT"
         },
         {
+          "title": "AI agents pose untold risk to humanity. We must act to prevent that future | David Krueger",
+          "link": "https://www.theguardian.com/commentisfree/2026/mar/06/moltbook-risk-ai-agents-artificial-life",
+          "date": "Fri, 06 Mar 2026 17:00:27 GMT"
+        },
+        {
+          "title": "Ben Affleck sells his AI postproduction startup to Netflix",
+          "link": "https://www.theguardian.com/technology/2026/mar/06/ben-affleck-sells-ai-postproduction-startup-interpositive-to-netflix",
+          "date": "Fri, 06 Mar 2026 14:55:17 GMT"
+        },
+        {
           "title": "UK arts must not be sacrificed for speculative AI gains, peers say",
           "link": "https://www.theguardian.com/technology/2026/mar/06/uk-arts-must-not-be-sacrificed-for-speculative-ai-gains-peers-say",
           "date": "Fri, 06 Mar 2026 06:00:13 GMT"
-        },
-        {
-          "title": "Trump says he fired Anthropic \u2018like dogs\u2019 as Pentagon formally blacklists AI startup",
-          "link": "https://www.theguardian.com/technology/2026/mar/05/trump-anthropic-ai-pentagon",
-          "date": "Thu, 05 Mar 2026 22:11:22 GMT"
         }
       ],
       "error": null
@@ -528,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Iran Is Bombing Data Centers in Retaliation",
+          "link": "https://futurism.com/artificial-intelligence/iran-bombing-data-centers",
+          "date": "Fri, 06 Mar 2026 13:07:01 -0500"
+        },
+        {
           "title": "Dario Amodei Issues Groveling Apology for Daring to Criticize Trump",
           "link": "https://futurism.com/artificial-intelligence/dario-amodei-apology-criticize-trump",
           "date": "Fri, 06 Mar 2026 11:02:26 -0500"
@@ -546,11 +551,6 @@
           "title": "The Rage at OpenAI Has Grown So Immense That There Are Entire Protests Against It",
           "link": "https://futurism.com/artificial-intelligence/rage-openai-protests",
           "date": "Thu, 05 Mar 2026 14:01:30 -0500"
-        },
-        {
-          "title": "Jack Dorsey Isn\u2019t Telling the Real Story About Block\u2019s AI Layoffs, Insider Says",
-          "link": "https://futurism.com/artificial-intelligence/jack-dorsey-block-ai-layoffs-insider",
-          "date": "Thu, 05 Mar 2026 12:06:48 -0500"
         }
       ],
       "error": null
