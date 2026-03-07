@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-07T12:41:12.287384+00:00",
+  "generatedAt": "2026-03-07T13:37:00.256604+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -368,6 +368,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "A unicorn-like Spinosaurus found in the Sahara",
+          "link": "https://arstechnica.com/science/2026/03/a-unicorn-like-spinosaurus-found-in-the-sahara/",
+          "date": "Sat, 07 Mar 2026 12:30:56 +0000"
+        },
+        {
+          "title": "From Iran to Ukraine, everyone's trying to hack security cameras",
+          "link": "https://arstechnica.com/security/2026/03/from-iran-to-ukraine-everyones-trying-to-hack-security-cameras/",
+          "date": "Sat, 07 Mar 2026 11:30:06 +0000"
+        },
+        {
           "title": "Ding-dong! The Exploration Upper Stage is dead",
           "link": "https://arstechnica.com/space/2026/03/ding-dong-the-exploration-upper-stage-is-dead/",
           "date": "Fri, 06 Mar 2026 23:40:35 +0000"
@@ -381,16 +391,6 @@
           "title": "Fishing crews in the Atlantic keep accidentally dredging up chemical weapons",
           "link": "https://arstechnica.com/health/2026/03/fishing-crews-in-the-atlantic-keep-accidentally-dredging-up-chemical-weapons/",
           "date": "Fri, 06 Mar 2026 22:03:10 +0000"
-        },
-        {
-          "title": "Google's new command-line tool can plug OpenClaw into your Workspace data",
-          "link": "https://arstechnica.com/ai/2026/03/googles-new-command-line-tool-can-plug-openclaw-into-your-workspace-data/",
-          "date": "Fri, 06 Mar 2026 19:56:20 +0000"
-        },
-        {
-          "title": "Feds take notice of iOS vulnerabilities exploited under mysterious circumstances",
-          "link": "https://arstechnica.com/security/2026/03/cisa-adds-3-ios-flaws-to-its-catalog-of-known-exploited-vulnerabilities/",
-          "date": "Fri, 06 Mar 2026 19:41:33 +0000"
         }
       ],
       "error": null
@@ -400,14 +400,14 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "Pentagon taps former DOGE official to lead its AI efforts",
-          "link": "https://www.reddit.com/r/artificial/comments/1rmuhcm/pentagon_taps_former_doge_official_to_lead_its_ai/",
-          "date": "2026-03-06T23:58:57+00:00"
-        },
-        {
           "title": "\u2018It means missile defence on data centres\u2019: drone strikes raises doubts over Gulf as AI superpower | US-Israel war on Iran | The Guardian",
           "link": "https://www.reddit.com/r/artificial/comments/1rn7r3o/it_means_missile_defence_on_data_centres_drone/",
           "date": "2026-03-07T11:30:25+00:00"
+        },
+        {
+          "title": "Pentagon taps former DOGE official to lead its AI efforts",
+          "link": "https://www.reddit.com/r/artificial/comments/1rmuhcm/pentagon_taps_former_doge_official_to_lead_its_ai/",
+          "date": "2026-03-06T23:58:57+00:00"
         },
         {
           "title": "OpenAI launches GPT-5.4: New model hits 83% on pro-level knowledge benchmark",
@@ -415,14 +415,14 @@
           "date": "2026-03-06T16:27:10+00:00"
         },
         {
-          "title": "I built a probabilistic OS where every function is performed by agent populations with consensus verification and Hebbian learning",
-          "link": "https://www.reddit.com/r/artificial/comments/1rn4ajr/i_built_a_probabilistic_os_where_every_function/",
-          "date": "2026-03-07T08:01:21+00:00"
-        },
-        {
           "title": "Built a tool that geolocated the missile strikes in Qatar using AI",
           "link": "https://www.reddit.com/r/artificial/comments/1rm9dn9/built_a_tool_that_geolocated_the_missile_strikes/",
           "date": "2026-03-06T09:24:00+00:00"
+        },
+        {
+          "title": "Final Qwen3.5 Unsloth GGUF Update!",
+          "link": "https://www.reddit.com/r/artificial/comments/1rmil8p/final_qwen35_unsloth_gguf_update/",
+          "date": "2026-03-06T16:26:55+00:00"
         }
       ],
       "error": null
@@ -479,13 +479,13 @@
           "date": "Sat, 07 Mar 2026 06:00:43 GMT"
         },
         {
-          "title": "North Korean agents using AI to trick western firms into hiring them, Microsoft says",
-          "link": "https://www.theguardian.com/business/2026/mar/06/north-korean-agents-using-ai-to-trick-western-firms-into-hiring-them-microsoft-says",
+          "title": "AI agents pose untold risk to humanity. We must act to prevent that future | David Krueger",
+          "link": "https://www.theguardian.com/commentisfree/2026/mar/06/moltbook-risk-ai-agents-artificial-life",
           "date": "Fri, 06 Mar 2026 17:00:27 GMT"
         },
         {
-          "title": "AI agents pose untold risk to humanity. We must act to prevent that future | David Krueger",
-          "link": "https://www.theguardian.com/commentisfree/2026/mar/06/moltbook-risk-ai-agents-artificial-life",
+          "title": "North Korean agents using AI to trick western firms into hiring them, Microsoft says",
+          "link": "https://www.theguardian.com/business/2026/mar/06/north-korean-agents-using-ai-to-trick-western-firms-into-hiring-them-microsoft-says",
           "date": "Fri, 06 Mar 2026 17:00:27 GMT"
         }
       ],
