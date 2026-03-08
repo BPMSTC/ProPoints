@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-08T19:21:30.750968+00:00",
+  "generatedAt": "2026-03-08T20:23:04.055987+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "DataDome, Botify Partner on Agentic Commerce Control",
-          "link": "https://ai-techpark.com/datadome-botify-partner-on-agentic-commerce-control/",
-          "date": "Fri, 06 Mar 2026 17:08:33 +0000"
-        },
-        {
-          "title": "Arbital Health Sees Rapid Adoption of Actuarial AI",
-          "link": "https://ai-techpark.com/arbital-health-sees-rapid-adoption-of-actuarial-ai/",
-          "date": "Fri, 06 Mar 2026 17:06:46 +0000"
-        },
-        {
-          "title": "LabVantage Launches CORTEX for AI-Driven Lab Operations",
-          "link": "https://ai-techpark.com/labvantage-launches-cortex-for-ai-driven-lab-operations/",
-          "date": "Fri, 06 Mar 2026 10:15:00 +0000"
-        },
-        {
-          "title": "Morocco to Host GITEX Future Health Africa, 4\u20136 May 2026 in Casablanca",
-          "link": "https://ai-techpark.com/morocco-to-host-gitex-future-health-africa-4-6-may-2026-in-casablanca/",
-          "date": "Fri, 06 Mar 2026 08:08:37 +0000"
-        },
-        {
-          "title": "Automation Anywhere, EvolutIA Launch Enterprise AI Agents",
-          "link": "https://ai-techpark.com/automation-anywhere-evolutia-launch-enterprise-ai-agents/",
-          "date": "Fri, 06 Mar 2026 07:44:51 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -410,11 +384,6 @@
           "date": "2026-03-08T03:21:39+00:00"
         },
         {
-          "title": "Temporal Memory almost Solved? That\u2019s a big statement \u2014 but tonight feels like a huge milestone.",
-          "link": "https://www.reddit.com/r/artificial/comments/1rocrrw/temporal_memory_almost_solved_thats_a_big/",
-          "date": "2026-03-08T18:45:05+00:00"
-        },
-        {
           "title": "Unpopular opinion: most AI agent use cases are productivity theater",
           "link": "https://www.reddit.com/r/artificial/comments/1rnom51/unpopular_opinion_most_ai_agent_use_cases_are/",
           "date": "2026-03-07T23:19:57+00:00"
@@ -423,6 +392,11 @@
           "title": "OpenAI Robotics head resigns after deal with Pentagon",
           "link": "https://www.reddit.com/r/artificial/comments/1rnmbpr/openai_robotics_head_resigns_after_deal_with/",
           "date": "2026-03-07T21:44:33+00:00"
+        },
+        {
+          "title": "Temporal Memory almost Solved? That\u2019s a big statement \u2014 but tonight feels like a huge milestone.",
+          "link": "https://www.reddit.com/r/artificial/comments/1rocrrw/temporal_memory_almost_solved_thats_a_big/",
+          "date": "2026-03-08T18:45:05+00:00"
         }
       ],
       "error": null
