@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-08T07:29:11.574980+00:00",
+  "generatedAt": "2026-03-08T08:28:05.003920+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "DataDome, Botify Partner on Agentic Commerce Control",
+          "link": "https://ai-techpark.com/datadome-botify-partner-on-agentic-commerce-control/",
+          "date": "Fri, 06 Mar 2026 17:08:33 +0000"
+        },
+        {
+          "title": "Arbital Health Sees Rapid Adoption of Actuarial AI",
+          "link": "https://ai-techpark.com/arbital-health-sees-rapid-adoption-of-actuarial-ai/",
+          "date": "Fri, 06 Mar 2026 17:06:46 +0000"
+        },
+        {
+          "title": "LabVantage Launches CORTEX for AI-Driven Lab Operations",
+          "link": "https://ai-techpark.com/labvantage-launches-cortex-for-ai-driven-lab-operations/",
+          "date": "Fri, 06 Mar 2026 10:15:00 +0000"
+        },
+        {
+          "title": "Morocco to Host GITEX Future Health Africa, 4\u20136 May 2026 in Casablanca",
+          "link": "https://ai-techpark.com/morocco-to-host-gitex-future-health-africa-4-6-may-2026-in-casablanca/",
+          "date": "Fri, 06 Mar 2026 08:08:37 +0000"
+        },
+        {
+          "title": "Automation Anywhere, EvolutIA Launch Enterprise AI Agents",
+          "link": "https://ai-techpark.com/automation-anywhere-evolutia-launch-enterprise-ai-agents/",
+          "date": "Fri, 06 Mar 2026 07:44:51 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -438,6 +464,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "AI chatbots point vulnerable social media users to illegal online casinos, analysis shows",
+          "link": "https://www.theguardian.com/technology/2026/mar/08/ai-chatbots-point-vulnerable-to-online-casinos-gambling-addiction-uk",
+          "date": "Sun, 08 Mar 2026 08:00:14 GMT"
+        },
+        {
           "title": "What does the US military\u2019s feud with Anthropic mean for AI used in war?",
           "link": "https://www.theguardian.com/technology/2026/mar/07/anthropic-claude-ai-pentagon-us-military",
           "date": "Sat, 07 Mar 2026 14:00:53 GMT"
@@ -456,11 +487,6 @@
           "title": "The Guardian view on AI in war: the Iran conflict shows that the paradigm shift has already begun",
           "link": "https://www.theguardian.com/technology/commentisfree/2026/mar/06/the-guardian-view-on-ai-in-war-the-iran-conflict-shows-that-the-paradigm-shift-has-already-begun",
           "date": "Fri, 06 Mar 2026 17:52:54 GMT"
-        },
-        {
-          "title": "AI agents pose untold risk to humanity. We must act to prevent that future | David Krueger",
-          "link": "https://www.theguardian.com/commentisfree/2026/mar/06/moltbook-risk-ai-agents-artificial-life",
-          "date": "Fri, 06 Mar 2026 17:00:27 GMT"
         }
       ],
       "error": null
