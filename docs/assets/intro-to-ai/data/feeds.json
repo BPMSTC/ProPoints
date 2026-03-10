@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T19:36:34.126160+00:00",
+  "generatedAt": "2026-03-10T20:30:54.774758+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "Dataiku Announced the Launch of the Platform for AI Success",
-          "link": "https://ai-techpark.com/dataiku-announced-the-launch-of-the-platform-for-ai-success/",
-          "date": "Tue, 10 Mar 2026 15:30:00 +0000"
-        },
-        {
-          "title": "Veritone Announced the Launch of Veritone Data Marketplace",
-          "link": "https://ai-techpark.com/veritone-announced-the-launch-of-veritone-data-marketplace/",
-          "date": "Tue, 10 Mar 2026 13:30:00 +0000"
-        },
-        {
-          "title": "GigaDevice Unveils Edge AI, Robotics Tech at Embedded World 2026",
-          "link": "https://ai-techpark.com/gigadevice-unveils-edge-ai-robotics-tech-at-embedded-world-2026/",
-          "date": "Tue, 10 Mar 2026 13:15:00 +0000"
-        },
-        {
-          "title": "OneTrust Expands AI Governance for Real-Time AI",
-          "link": "https://ai-techpark.com/onetrust-expands-ai-governance-for-real-time-ai/",
-          "date": "Tue, 10 Mar 2026 09:45:00 +0000"
-        },
-        {
-          "title": "PolyAI Named Fastest-Growing AI Firm in FT 1000",
-          "link": "https://ai-techpark.com/polyai-named-fastest-growing-ai-firm-in-ft-1000/",
-          "date": "Tue, 10 Mar 2026 09:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -415,14 +389,14 @@
           "date": "2026-03-10T06:18:59+00:00"
         },
         {
+          "title": "Amazon wins court order to block Perplexity's AI shopping agent",
+          "link": "https://www.reddit.com/r/artificial/comments/1rq6qpi/amazon_wins_court_order_to_block_perplexitys_ai/",
+          "date": "2026-03-10T19:28:34+00:00"
+        },
+        {
           "title": "What would the popping of the AI bubble actually mean for AI as a technology?",
           "link": "https://www.reddit.com/r/artificial/comments/1rpyfrm/what_would_the_popping_of_the_ai_bubble_actually/",
           "date": "2026-03-10T14:28:54+00:00"
-        },
-        {
-          "title": "Prism. they are the artificial (silicon) we are the intelligent (inference) together we are sentient. .5 + .5 = 1 .",
-          "link": "https://www.reddit.com/r/artificial/comments/1rq6ujv/prism_they_are_the_artificial_silicon_we_are_the/",
-          "date": "2026-03-10T19:32:20+00:00"
         }
       ],
       "error": null
@@ -528,6 +502,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Amazon Admits Extensive AI Use Is Wreaking Havoc on Its Core Business",
+          "link": "https://futurism.com/artificial-intelligence/amazon-ai-tools-business",
+          "date": "Tue, 10 Mar 2026 16:22:37 -0400"
+        },
+        {
           "title": "Insiders Afraid the Government Will Nationalize the AI Industry",
           "link": "https://futurism.com/artificial-intelligence/ai-ceos-nationalization",
           "date": "Tue, 10 Mar 2026 12:00:45 -0400"
@@ -546,11 +525,6 @@
           "title": "Oracle Axing Huge Number of Jobs as AI Crisis Intensifies",
           "link": "https://futurism.com/artificial-intelligence/oracle-jobs-ai-crisis",
           "date": "Mon, 09 Mar 2026 14:34:31 -0400"
-        },
-        {
-          "title": "Anthropic Sues Pentagon",
-          "link": "https://futurism.com/artificial-intelligence/anthropic-sues-pentagon",
-          "date": "Mon, 09 Mar 2026 13:32:20 -0400"
         }
       ],
       "error": null
