@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T20:30:54.774758+00:00",
+  "generatedAt": "2026-03-10T21:26:52.755521+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -342,6 +342,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "AI can rewrite open source code\u2014but can it rewrite the license, too?",
+          "link": "https://arstechnica.com/ai/2026/03/ai-can-rewrite-open-source-code-but-can-it-rewrite-the-license-too/",
+          "date": "Tue, 10 Mar 2026 19:36:05 +0000"
+        },
+        {
           "title": "Meta acquires Moltbook, the AI agent social network",
           "link": "https://arstechnica.com/ai/2026/03/meta-acquires-moltbook-the-ai-agent-social-network/",
           "date": "Tue, 10 Mar 2026 19:02:55 +0000"
@@ -360,11 +365,6 @@
           "title": "Trump's divisive FDA vaccine regulator self-destructs, will exit agency (again)",
           "link": "https://arstechnica.com/health/2026/03/trumps-divisive-fda-vaccine-regulator-self-destructs-will-exit-agency-again/",
           "date": "Tue, 10 Mar 2026 17:58:23 +0000"
-        },
-        {
-          "title": "NASA and SpaceX disagree about manual controls for lunar lander",
-          "link": "https://arstechnica.com/space/2026/03/nasa-and-spacex-disagree-about-manual-controls-for-lunar-lander/",
-          "date": "Tue, 10 Mar 2026 17:48:59 +0000"
         }
       ],
       "error": null
@@ -374,9 +374,19 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
+          "title": "Anthropic sues Trump administration seeking to undo 'supply chain risk' designation",
+          "link": "https://www.reddit.com/r/artificial/comments/1rq9qvm/anthropic_sues_trump_administration_seeking_to/",
+          "date": "2026-03-10T21:14:59+00:00"
+        },
+        {
           "title": "Are we in the \"modem era\" of AI?",
           "link": "https://www.reddit.com/r/artificial/comments/1rq33nv/are_we_in_the_modem_era_of_ai/",
           "date": "2026-03-10T17:20:46+00:00"
+        },
+        {
+          "title": "Amazon wins court order to block Perplexity's AI shopping agent",
+          "link": "https://www.reddit.com/r/artificial/comments/1rq6qpi/amazon_wins_court_order_to_block_perplexitys_ai/",
+          "date": "2026-03-10T19:28:34+00:00"
         },
         {
           "title": "Anthropic sues Trump administration over Pentagon blacklist",
@@ -387,16 +397,6 @@
           "title": "VCs are betting that AI will disrupt nearly every industry in the world. Are they prepared for it to disrupt their own?",
           "link": "https://www.reddit.com/r/artificial/comments/1rppalb/vcs_are_betting_that_ai_will_disrupt_nearly_every/",
           "date": "2026-03-10T06:18:59+00:00"
-        },
-        {
-          "title": "Amazon wins court order to block Perplexity's AI shopping agent",
-          "link": "https://www.reddit.com/r/artificial/comments/1rq6qpi/amazon_wins_court_order_to_block_perplexitys_ai/",
-          "date": "2026-03-10T19:28:34+00:00"
-        },
-        {
-          "title": "What would the popping of the AI bubble actually mean for AI as a technology?",
-          "link": "https://www.reddit.com/r/artificial/comments/1rpyfrm/what_would_the_popping_of_the_ai_bubble_actually/",
-          "date": "2026-03-10T14:28:54+00:00"
         }
       ],
       "error": null
@@ -443,6 +443,11 @@
           "date": "Tue, 10 Mar 2026 17:00:53 GMT"
         },
         {
+          "title": "Musk\u2019s xAI wins permit for data center\u2019s makeshift power plant despite backlash",
+          "link": "https://www.theguardian.com/technology/2026/mar/10/elon-musk-xai-data-centers",
+          "date": "Tue, 10 Mar 2026 21:15:31 GMT"
+        },
+        {
           "title": "Meta acquires AI agent social network Moltbook",
           "link": "https://www.theguardian.com/technology/2026/mar/10/meta-acquires-moltbook-ai-agent-social-network",
           "date": "Tue, 10 Mar 2026 17:27:54 GMT"
@@ -456,11 +461,6 @@
           "title": "Family of Tumbler Ridge shooting victim sues OpenAI alleging it could have prevented attack",
           "link": "https://www.theguardian.com/world/2026/mar/10/tumbler-ridge-shooting-victim-sues-openai-canada",
           "date": "Tue, 10 Mar 2026 15:16:17 GMT"
-        },
-        {
-          "title": "Datacenters are becoming a target in warfare for the first time",
-          "link": "https://www.theguardian.com/technology/2026/mar/10/datacenters-target-warfare-iran",
-          "date": "Tue, 10 Mar 2026 13:29:27 GMT"
         }
       ],
       "error": null
