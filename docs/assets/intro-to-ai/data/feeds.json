@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T13:59:49.841623+00:00",
+  "generatedAt": "2026-03-10T15:00:33.634599+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -102,6 +102,16 @@
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [
         {
+          "title": "Veritone Announced the Launch of Veritone Data Marketplace",
+          "link": "https://ai-techpark.com/veritone-announced-the-launch-of-veritone-data-marketplace/",
+          "date": "Tue, 10 Mar 2026 13:30:00 +0000"
+        },
+        {
+          "title": "GigaDevice Unveils Edge AI, Robotics Tech at Embedded World 2026",
+          "link": "https://ai-techpark.com/gigadevice-unveils-edge-ai-robotics-tech-at-embedded-world-2026/",
+          "date": "Tue, 10 Mar 2026 13:15:00 +0000"
+        },
+        {
           "title": "OneTrust Expands AI Governance for Real-Time AI",
           "link": "https://ai-techpark.com/onetrust-expands-ai-governance-for-real-time-ai/",
           "date": "Tue, 10 Mar 2026 09:45:00 +0000"
@@ -115,16 +125,6 @@
           "title": "Nscale Raises $2 Bn in Series C \u2014 the Largest in European History",
           "link": "https://ai-techpark.com/nscale-raises-2-bn-in-series-c-the-largest-in-european-history/",
           "date": "Tue, 10 Mar 2026 08:45:00 +0000"
-        },
-        {
-          "title": "Together AI Marks Key Milestones at AI Native Event",
-          "link": "https://ai-techpark.com/together-ai-marks-key-milestones-at-ai-native-event/",
-          "date": "Mon, 09 Mar 2026 15:00:00 +0000"
-        },
-        {
-          "title": "Strax Networks Appoints Frank Thomas as Strategic Advisor",
-          "link": "https://ai-techpark.com/strax-networks-appoints-frank-thomas-as-strategic-advisor/",
-          "date": "Mon, 09 Mar 2026 14:15:00 +0000"
         }
       ],
       "error": null
@@ -415,14 +415,14 @@
           "date": "2026-03-09T23:31:30+00:00"
         },
         {
+          "title": "Final Curtain - AI Race War Satire x Gundam",
+          "link": "https://www.reddit.com/r/artificial/comments/1rpx3h9/final_curtain_ai_race_war_satire_x_gundam/",
+          "date": "2026-03-10T13:35:20+00:00"
+        },
+        {
           "title": "Open Source Alternative to NotebookLM",
           "link": "https://www.reddit.com/r/artificial/comments/1rpn1mf/open_source_alternative_to_notebooklm/",
           "date": "2026-03-10T04:14:18+00:00"
-        },
-        {
-          "title": "Why AI agents can produce but can't transact",
-          "link": "https://www.reddit.com/r/artificial/comments/1rpmroe/why_ai_agents_can_produce_but_cant_transact/",
-          "date": "2026-03-10T04:00:57+00:00"
         }
       ],
       "error": null
@@ -494,34 +494,8 @@
     {
       "name": "artificial intelligence Archives - SpaceNews",
       "url": "https://spacenews.com/tag/artificial-intelligence/feed/",
-      "items": [
-        {
-          "title": "Unlocking AI in space: the case for greater industry and space agency collaboration",
-          "link": "https://spacenews.com/unlocking-ai-in-space-the-case-for-greater-industry-and-space-agency-collaboration/",
-          "date": "Thu, 05 Mar 2026 14:00:00 +0000"
-        },
-        {
-          "title": "Mutable Tactics raises $2.1 million for AI drone coordination in satellite-denied environments",
-          "link": "https://spacenews.com/mutable-tactics-raises-2-1-million-for-ai-drone-coordination-in-satellite-denied-environments/",
-          "date": "Wed, 04 Mar 2026 16:31:01 +0000"
-        },
-        {
-          "title": "CesiumAstro acquires Vidrovr to embed AI in communications systems",
-          "link": "https://spacenews.com/cesiumastro-acquires-vidrovr-to-embed-ai-in-communications-systems/",
-          "date": "Thu, 26 Feb 2026 13:00:00 +0000"
-        },
-        {
-          "title": "Boeing demonstrates large language model for space-grade hardware",
-          "link": "https://spacenews.com/boeing-demonstrates-large-language-model-for-space-grade-hardware/",
-          "date": "Tue, 24 Feb 2026 01:47:12 +0000"
-        },
-        {
-          "title": "Simera Sense to offer larger cameras and enhanced autonomy",
-          "link": "https://spacenews.com/simera-sense-to-offer-larger-cameras-and-enhanced-autonomy/",
-          "date": "Tue, 17 Feb 2026 23:24:09 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:47:3: mismatched tag"
     },
     {
       "name": "Artificial Intelligence \u2013 Futurism",
