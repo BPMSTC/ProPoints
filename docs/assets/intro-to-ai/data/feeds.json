@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T16:54:18.040265+00:00",
+  "generatedAt": "2026-03-10T17:43:56.619897+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -166,6 +166,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Neura Launches Europe's Largest Physical AI Training Center",
+          "link": "https://aibusiness.com/robotics/neura-launches-physical-ai-training-center",
+          "date": "Tue, 10 Mar 2026 17:32:52 GMT"
+        },
+        {
           "title": "French AI Startup Building World Models Raises $1.03 billion",
           "link": "https://aibusiness.com/generative-ai/french-ai-startup-building-world-models-raises-1-03-billion",
           "date": "Tue, 10 Mar 2026 16:13:52 GMT"
@@ -184,11 +189,6 @@
           "title": "ABB, Nvidia Partner to Deliver Physical AI at Scale",
           "link": "https://aibusiness.com/robotics/abb-nvidia-partner-to-deliver-physical-ai",
           "date": "Mon, 09 Mar 2026 20:24:00 GMT"
-        },
-        {
-          "title": "OpenClaw Forces Enterprise Strategy Questions",
-          "link": "https://aibusiness.com/agentic-ai/openclaw-forces-enterprise-strategy-questions",
-          "date": "Mon, 09 Mar 2026 19:57:38 GMT"
         }
       ],
       "error": null
@@ -203,6 +203,11 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [
+        {
+          "title": "ABB: Physical AI simulation boosts ROI for factory automation",
+          "link": "https://www.artificialintelligence-news.com/news/abb-physical-ai-simulation-secures-factory-automation-roi/",
+          "date": "Tue, 10 Mar 2026 17:22:41 +0000"
+        },
         {
           "title": "Agentic AI in finance speeds up operational automation",
           "link": "https://www.artificialintelligence-news.com/news/agentic-ai-in-finance-speeds-up-operational-automation/",
@@ -222,11 +227,6 @@
           "title": "UK sovereign AI fund to build up domestic computing infrastructure",
           "link": "https://www.artificialintelligence-news.com/news/uk-sovereign-ai-fund-build-domestic-computing-infrastructure/",
           "date": "Mon, 09 Mar 2026 12:46:13 +0000"
-        },
-        {
-          "title": "City Union Bank launches AI centre to support banking operations",
-          "link": "https://www.artificialintelligence-news.com/news/city-union-bank-launches-ai-centre-to-support-banking-operations/",
-          "date": "Mon, 09 Mar 2026 10:00:00 +0000"
         }
       ],
       "error": null
@@ -410,19 +410,19 @@
           "date": "2026-03-10T06:18:59+00:00"
         },
         {
+          "title": "Are we in the \"modem era\" of AI?",
+          "link": "https://www.reddit.com/r/artificial/comments/1rq33nv/are_we_in_the_modem_era_of_ai/",
+          "date": "2026-03-10T17:20:46+00:00"
+        },
+        {
           "title": "OpenAI's top exec resignation exposes something bigger than one Pentagon deal",
           "link": "https://www.reddit.com/r/artificial/comments/1rpgkz6/openais_top_exec_resignation_exposes_something/",
           "date": "2026-03-09T23:31:30+00:00"
         },
         {
-          "title": "Open Source Alternative to NotebookLM",
-          "link": "https://www.reddit.com/r/artificial/comments/1rpn1mf/open_source_alternative_to_notebooklm/",
-          "date": "2026-03-10T04:14:18+00:00"
-        },
-        {
-          "title": "Final Curtain - AI Race War Satire x Gundam",
-          "link": "https://www.reddit.com/r/artificial/comments/1rpx3h9/final_curtain_ai_race_war_satire_x_gundam/",
-          "date": "2026-03-10T13:35:20+00:00"
+          "title": "What would the popping of the AI bubble actually mean for AI as a technology?",
+          "link": "https://www.reddit.com/r/artificial/comments/1rpyfrm/what_would_the_popping_of_the_ai_bubble_actually/",
+          "date": "2026-03-10T14:28:54+00:00"
         }
       ],
       "error": null
@@ -464,9 +464,14 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Thousands of authors publish \u2018empty\u2019 book in protest over AI using their work",
-          "link": "https://www.theguardian.com/technology/2026/mar/10/thousands-authors-publish-empty-book-protest-ai-work-copyright",
-          "date": "Tue, 10 Mar 2026 06:00:10 GMT"
+          "title": "UK Society of Authors launches logo to identify books written by humans not AI",
+          "link": "https://www.theguardian.com/technology/2026/mar/10/uk-society-authors-logo-identify-books-written-by-humans-not-ai",
+          "date": "Tue, 10 Mar 2026 17:00:53 GMT"
+        },
+        {
+          "title": "Meta acquires AI agent social network Moltbook",
+          "link": "https://www.theguardian.com/technology/2026/mar/10/meta-acquires-moltbook-ai-agent-social-network",
+          "date": "Tue, 10 Mar 2026 17:27:54 GMT"
         },
         {
           "title": "Keyboard jamming: the sneaky way to make your boss think you\u2019re working from home",
@@ -482,11 +487,6 @@
           "title": "Datacenters are becoming a target in warfare for the first time",
           "link": "https://www.theguardian.com/technology/2026/mar/10/datacenters-target-warfare-iran",
           "date": "Tue, 10 Mar 2026 13:29:27 GMT"
-        },
-        {
-          "title": "\u2018I wish I could push ChatGPT off a cliff\u2019: professors scramble to save critical thinking in an age of AI",
-          "link": "https://www.theguardian.com/technology/ng-interactive/2026/mar/10/ai-impact-professors-students-learning",
-          "date": "Tue, 10 Mar 2026 13:00:06 GMT"
         }
       ],
       "error": null
