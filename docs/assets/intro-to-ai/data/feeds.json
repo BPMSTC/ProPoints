@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T19:39:49.376469+00:00",
+  "generatedAt": "2026-03-11T20:33:28.892867+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
