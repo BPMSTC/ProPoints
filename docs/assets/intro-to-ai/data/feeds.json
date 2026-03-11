@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T17:47:00.849144+00:00",
+  "generatedAt": "2026-03-11T18:51:04.898849+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "UiPath Achieves AIUC-1 Certification for Secure AI Agents",
-          "link": "https://ai-techpark.com/uipath-achieves-aiuc-1-certification-for-secure-ai-agents/",
-          "date": "Wed, 11 Mar 2026 13:30:00 +0000"
-        },
-        {
-          "title": "NAVER D2SF Announced its Investment in Anyware Robotics",
-          "link": "https://ai-techpark.com/naver-d2sf-announced-its-investment-in-anyware-robotics/",
-          "date": "Wed, 11 Mar 2026 12:30:00 +0000"
-        },
-        {
-          "title": "6G AI Sweden AB Appoints Rui Gomes as CTO",
-          "link": "https://ai-techpark.com/6g-ai-sweden-ab-appoints-rui-gomes-as-cto/",
-          "date": "Wed, 11 Mar 2026 11:52:41 +0000"
-        },
-        {
-          "title": "CoreWeave Introduces Flexible Capacity Plans to Boost AI Innovation",
-          "link": "https://ai-techpark.com/coreweave-introduces-flexible-capacity-plans-to-boost-ai-innovation/",
-          "date": "Wed, 11 Mar 2026 11:30:00 +0000"
-        },
-        {
-          "title": "Darwinium Launches Agent Intent Intelligence for Agent Economy",
-          "link": "https://ai-techpark.com/darwinium-launches-agent-intent-intelligence-for-agent-economy/",
-          "date": "Wed, 11 Mar 2026 10:45:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -410,6 +384,11 @@
           "date": "2026-03-11T13:39:18+00:00"
         },
         {
+          "title": "U.S. military is using AI to help plan Iran air attacks, sources say, as lawmakers call for oversight. Anthropic\u2019s Claude AI systems have become a crucial tool for the military despite the company\u2019s clashes with the Defense Department.",
+          "link": "https://www.reddit.com/r/artificial/comments/1rr1lzr/us_military_is_using_ai_to_help_plan_iran_air/",
+          "date": "2026-03-11T18:15:50+00:00"
+        },
+        {
           "title": "Anthropic sues Trump administration seeking to undo 'supply chain risk' designation",
           "link": "https://www.reddit.com/r/artificial/comments/1rq9qvm/anthropic_sues_trump_administration_seeking_to/",
           "date": "2026-03-10T21:14:59+00:00"
@@ -418,11 +397,6 @@
           "title": "OpenAI Employees Are Defending a Rival Company Against the US Government \u2014 That's Never Happened Before",
           "link": "https://www.reddit.com/r/artificial/comments/1rqi4s7/openai_employees_are_defending_a_rival_company/",
           "date": "2026-03-11T02:56:04+00:00"
-        },
-        {
-          "title": "Amazon wins court order to block Perplexity's AI shopping agent",
-          "link": "https://www.reddit.com/r/artificial/comments/1rq6qpi/amazon_wins_court_order_to_block_perplexitys_ai/",
-          "date": "2026-03-10T19:28:34+00:00"
         }
       ],
       "error": null
@@ -528,6 +502,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Grammarly Is Pulling Down Its Explosively Controversial Feature That Impersonates Writers Without Their Permission",
+          "link": "https://futurism.com/artificial-intelligence/grammarly-pulls-down-expert-review-feature",
+          "date": "Wed, 11 Mar 2026 14:18:22 -0400"
+        },
+        {
+          "title": "The AI-Generated Tilly Norwood Just Dropped the Worst Music Video We\u2019ve Ever Seen",
+          "link": "https://futurism.com/artificial-intelligence/ai-tilly-norwood-worst-music-video",
+          "date": "Wed, 11 Mar 2026 14:00:06 -0400"
+        },
+        {
           "title": "US Military Investigating Whether AI Was Involved in Bombing Elementary School in Iran",
           "link": "https://futurism.com/artificial-intelligence/us-military-ai-bombing-elementary-school-iran",
           "date": "Wed, 11 Mar 2026 12:15:34 -0400"
@@ -541,16 +525,6 @@
           "title": "Mother Sues OpenAI for Not Telling Police About Mass Shooter Before Deadly Rampage",
           "link": "https://futurism.com/artificial-intelligence/mother-sues-openai-mass-shooter",
           "date": "Wed, 11 Mar 2026 09:14:24 -0400"
-        },
-        {
-          "title": "Amazon Admits Extensive AI Use Is Wreaking Havoc on Its Core Business",
-          "link": "https://futurism.com/artificial-intelligence/amazon-ai-tools-business",
-          "date": "Tue, 10 Mar 2026 16:22:37 -0400"
-        },
-        {
-          "title": "Insiders Afraid the Government Will Nationalize the AI Industry",
-          "link": "https://futurism.com/artificial-intelligence/ai-ceos-nationalization",
-          "date": "Tue, 10 Mar 2026 12:00:45 -0400"
         }
       ],
       "error": null
@@ -559,6 +533,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show",
+          "link": "https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/",
+          "date": "Wed, 11 Mar 2026 18:00:00 +0000"
+        },
         {
           "title": "Meta Is Developing 4 New Chips to Power Its AI and Recommendation Systems",
           "link": "https://www.wired.com/story/meta-unveils-four-new-chips-to-power-its-ai-and-recommendation-systems/",
@@ -578,11 +557,6 @@
           "title": "Teens Are Using AI-Fueled \u2018Slander Pages\u2019 to Mock Their Teachers",
           "link": "https://www.wired.com/story/teens-are-using-ai-fueled-slander-pages-to-mock-their-teachers/",
           "date": "Wed, 11 Mar 2026 11:00:00 +0000"
-        },
-        {
-          "title": "Inside OpenAI\u2019s Race to Catch Up to Claude Code",
-          "link": "https://www.wired.com/story/openai-codex-race-claude-code/",
-          "date": "Wed, 11 Mar 2026 10:00:00 +0000"
         }
       ],
       "error": null
