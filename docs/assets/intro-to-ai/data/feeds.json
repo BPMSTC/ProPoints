@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T18:51:04.898849+00:00",
+  "generatedAt": "2026-03-11T19:39:49.376469+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "UiPath Achieves AIUC-1 Certification for Secure AI Agents",
+          "link": "https://ai-techpark.com/uipath-achieves-aiuc-1-certification-for-secure-ai-agents/",
+          "date": "Wed, 11 Mar 2026 13:30:00 +0000"
+        },
+        {
+          "title": "NAVER D2SF Announced its Investment in Anyware Robotics",
+          "link": "https://ai-techpark.com/naver-d2sf-announced-its-investment-in-anyware-robotics/",
+          "date": "Wed, 11 Mar 2026 12:30:00 +0000"
+        },
+        {
+          "title": "6G AI Sweden AB Appoints Rui Gomes as CTO",
+          "link": "https://ai-techpark.com/6g-ai-sweden-ab-appoints-rui-gomes-as-cto/",
+          "date": "Wed, 11 Mar 2026 11:52:41 +0000"
+        },
+        {
+          "title": "CoreWeave Introduces Flexible Capacity Plans to Boost AI Innovation",
+          "link": "https://ai-techpark.com/coreweave-introduces-flexible-capacity-plans-to-boost-ai-innovation/",
+          "date": "Wed, 11 Mar 2026 11:30:00 +0000"
+        },
+        {
+          "title": "Darwinium Launches Agent Intent Intelligence for Agent Economy",
+          "link": "https://ai-techpark.com/darwinium-launches-agent-intent-intelligence-for-agent-economy/",
+          "date": "Wed, 11 Mar 2026 10:45:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -176,34 +202,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "Ai2: Building physical AI with virtual simulation data",
-          "link": "https://www.artificialintelligence-news.com/news/ai2-building-physical-ai-with-virtual-simulation-data/",
-          "date": "Wed, 11 Mar 2026 16:50:56 +0000"
-        },
-        {
-          "title": "New partnership to offer smart robots for dangerous environments",
-          "link": "https://www.artificialintelligence-news.com/news/new-partnership-to-offer-ai-for-robotics-for-work-in-dangerous-environments/",
-          "date": "Wed, 11 Mar 2026 11:42:00 +0000"
-        },
-        {
-          "title": "Manulife moves AI agents into core financial workflows",
-          "link": "https://www.artificialintelligence-news.com/news/manulife-moves-ai-agents-into-core-financial-workflows/",
-          "date": "Wed, 11 Mar 2026 10:00:00 +0000"
-        },
-        {
-          "title": "How physical AI integration accelerates vehicle innovation",
-          "link": "https://www.artificialintelligence-news.com/news/how-physical-ai-integration-accelerates-vehicle-innovation/",
-          "date": "Wed, 11 Mar 2026 09:52:15 +0000"
-        },
-        {
-          "title": "ABB: Physical AI simulation boosts ROI for factory automation",
-          "link": "https://www.artificialintelligence-news.com/news/abb-physical-ai-simulation-secures-factory-automation-roi/",
-          "date": "Tue, 10 Mar 2026 17:22:41 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -342,29 +342,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Binance sues WSJ, panicked by gov\u2019t probes into sanctioned crypto transfers",
+          "link": "https://arstechnica.com/tech-policy/2026/03/binance-sues-wsj-over-report-sparking-government-probes-into-exchange/",
+          "date": "Wed, 11 Mar 2026 18:04:13 +0000"
+        },
+        {
+          "title": "A glimpse into tuner culture: Fast and Furious exhibit at the Petersen",
+          "link": "https://arstechnica.com/cars/2026/03/a-glimpse-into-tuner-culture-fast-and-furious-exhibit-at-the-petersen/",
+          "date": "Wed, 11 Mar 2026 17:41:30 +0000"
+        },
+        {
+          "title": "Intel shores up its desktop CPU lineup with boosted Core Ultra 200S Plus chips",
+          "link": "https://arstechnica.com/gadgets/2026/03/intel-shores-up-its-desktop-cpu-lineup-with-boosted-core-ultra-200s-plus-chips/",
+          "date": "Wed, 11 Mar 2026 17:21:25 +0000"
+        },
+        {
           "title": "Anduril, the autonomous weapons maker, doubles the size of its space unit",
-          "link": "https://arstechnica.com/science/2026/03/anduril-the-autonomous-weapons-maker-doubles-the-size-of-its-space-unit/",
+          "link": "https://arstechnica.com/space/2026/03/anduril-the-autonomous-weapons-maker-doubles-the-size-of-its-space-unit/",
           "date": "Wed, 11 Mar 2026 16:50:28 +0000"
         },
         {
           "title": "Nvidia is reportedly planning its own open source OpenClaw competitor",
           "link": "https://arstechnica.com/ai/2026/03/nvidia-is-reportedly-planning-its-own-open-source-openclaw-competitor/",
           "date": "Wed, 11 Mar 2026 16:30:27 +0000"
-        },
-        {
-          "title": "NIH director launches \"Scientific Freedom\" lectures with non-scientist",
-          "link": "https://arstechnica.com/science/2026/03/nih-director-launches-scientific-freedom-lectures-with-non-scientist/",
-          "date": "Wed, 11 Mar 2026 15:33:50 +0000"
-        },
-        {
-          "title": "Verdict: Yes, you should go see Project Hail Mary as soon as possible",
-          "link": "https://arstechnica.com/culture/2026/03/verdict-yes-you-should-go-see-project-hail-mary-as-soon-as-possible/",
-          "date": "Wed, 11 Mar 2026 14:44:08 +0000"
-        },
-        {
-          "title": "What crackdown? Trump's EPA enforcement claims don't pass sniff test.",
-          "link": "https://arstechnica.com/tech-policy/2026/03/trumps-epa-says-its-cracking-down-but-the-data-tell-a-different-story/",
-          "date": "Wed, 11 Mar 2026 13:27:03 +0000"
         }
       ],
       "error": null
@@ -389,14 +389,14 @@
           "date": "2026-03-11T18:15:50+00:00"
         },
         {
+          "title": "AMD Ryzen AI NPUs are finally useful under Linux for running LLMs",
+          "link": "https://www.reddit.com/r/artificial/comments/1rr1en0/amd_ryzen_ai_npus_are_finally_useful_under_linux/",
+          "date": "2026-03-11T18:08:46+00:00"
+        },
+        {
           "title": "Anthropic sues Trump administration seeking to undo 'supply chain risk' designation",
           "link": "https://www.reddit.com/r/artificial/comments/1rq9qvm/anthropic_sues_trump_administration_seeking_to/",
           "date": "2026-03-10T21:14:59+00:00"
-        },
-        {
-          "title": "OpenAI Employees Are Defending a Rival Company Against the US Government \u2014 That's Never Happened Before",
-          "link": "https://www.reddit.com/r/artificial/comments/1rqi4s7/openai_employees_are_defending_a_rival_company/",
-          "date": "2026-03-11T02:56:04+00:00"
         }
       ],
       "error": null
