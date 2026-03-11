@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T09:39:49.818232+00:00",
+  "generatedAt": "2026-03-11T10:36:11.614554+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -102,6 +102,11 @@
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [
         {
+          "title": "Former Cisco VP Joins Datakrypto to Drive Confidential AI Adoption",
+          "link": "https://ai-techpark.com/former-cisco-vp-joins-datakrypto-to-drive-confidential-ai-adoption/",
+          "date": "Wed, 11 Mar 2026 08:45:00 +0000"
+        },
+        {
           "title": "Dataiku Announced the Launch of the Platform for AI Success",
           "link": "https://ai-techpark.com/dataiku-announced-the-launch-of-the-platform-for-ai-success/",
           "date": "Tue, 10 Mar 2026 15:30:00 +0000"
@@ -120,11 +125,6 @@
           "title": "OneTrust Expands AI Governance for Real-Time AI",
           "link": "https://ai-techpark.com/onetrust-expands-ai-governance-for-real-time-ai/",
           "date": "Tue, 10 Mar 2026 09:45:00 +0000"
-        },
-        {
-          "title": "PolyAI Named Fastest-Growing AI Firm in FT 1000",
-          "link": "https://ai-techpark.com/polyai-named-fastest-growing-ai-firm-in-ft-1000/",
-          "date": "Tue, 10 Mar 2026 09:00:00 +0000"
         }
       ],
       "error": null
@@ -202,8 +202,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Manulife moves AI agents into core financial workflows",
+          "link": "https://www.artificialintelligence-news.com/news/manulife-moves-ai-agents-into-core-financial-workflows/",
+          "date": "Wed, 11 Mar 2026 10:00:00 +0000"
+        },
+        {
+          "title": "How physical AI integration accelerates vehicle innovation",
+          "link": "https://www.artificialintelligence-news.com/news/how-physical-ai-integration-accelerates-vehicle-innovation/",
+          "date": "Wed, 11 Mar 2026 09:52:15 +0000"
+        },
+        {
+          "title": "ABB: Physical AI simulation boosts ROI for factory automation",
+          "link": "https://www.artificialintelligence-news.com/news/abb-physical-ai-simulation-secures-factory-automation-roi/",
+          "date": "Tue, 10 Mar 2026 17:22:41 +0000"
+        },
+        {
+          "title": "Agentic AI in finance speeds up operational automation",
+          "link": "https://www.artificialintelligence-news.com/news/agentic-ai-in-finance-speeds-up-operational-automation/",
+          "date": "Tue, 10 Mar 2026 12:55:37 +0000"
+        },
+        {
+          "title": "Mastercard brings agentic payments to life in Singapore with DBS and UOB",
+          "link": "https://www.artificialintelligence-news.com/news/mastercard-agentic-payments-singapore-dbs-uob/",
+          "date": "Tue, 10 Mar 2026 07:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -389,14 +415,14 @@
           "date": "2026-03-10T19:28:34+00:00"
         },
         {
-          "title": "Are we in the \"modem era\" of AI?",
-          "link": "https://www.reddit.com/r/artificial/comments/1rq33nv/are_we_in_the_modem_era_of_ai/",
-          "date": "2026-03-10T17:20:46+00:00"
-        },
-        {
           "title": "Startup Replaces $40,000 Salesforce Contract With $1,200 CRM Built With Lovable",
           "link": "https://www.reddit.com/r/artificial/comments/1rqm720/startup_replaces_40000_salesforce_contract_with/",
           "date": "2026-03-11T06:27:41+00:00"
+        },
+        {
+          "title": "Are we in the \"modem era\" of AI?",
+          "link": "https://www.reddit.com/r/artificial/comments/1rq33nv/are_we_in_the_modem_era_of_ai/",
+          "date": "2026-03-10T17:20:46+00:00"
         }
       ],
       "error": null
@@ -534,6 +560,16 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Nick Clegg Doesn\u2019t Want to Talk About Superintelligence",
+          "link": "https://www.wired.com/story/nick-clegg-ai-startup-efekta-superintelligence/",
+          "date": "Wed, 11 Mar 2026 10:21:42 +0000"
+        },
+        {
+          "title": "Inside OpenAI\u2019s Race to Catch Up to Claude Code",
+          "link": "https://www.wired.com/story/openai-codex-race-claude-code/",
+          "date": "Wed, 11 Mar 2026 10:00:00 +0000"
+        },
+        {
           "title": "Trump Administration Won\u2019t Rule Out Further Action Against Anthropic",
           "link": "https://www.wired.com/story/trump-administration-refuses-to-say-it-wont-take-further-action-against-anthropic/",
           "date": "Wed, 11 Mar 2026 01:41:42 +0000"
@@ -547,16 +583,6 @@
           "title": "I Used Google\u2019s New Gemini-Powered \u2018Help Me Create\u2019 Tool in Docs. It\u2019s Great at Corporate-Speak",
           "link": "https://www.wired.com/story/google-gemini-workspace-ai-tools-hands-on/",
           "date": "Tue, 10 Mar 2026 13:00:00 +0000"
-        },
-        {
-          "title": "Yann LeCun Raises $1 Billion to Build AI That Understands the Physical World",
-          "link": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
-          "date": "Tue, 10 Mar 2026 05:00:00 +0000"
-        },
-        {
-          "title": "Nvidia Is Planning to Launch an Open-Source AI Agent Platform",
-          "link": "https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/",
-          "date": "Mon, 09 Mar 2026 23:11:34 +0000"
         }
       ],
       "error": null
