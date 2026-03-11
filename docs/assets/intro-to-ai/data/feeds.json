@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T08:37:45.559044+00:00",
+  "generatedAt": "2026-03-11T09:39:49.818232+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -202,34 +202,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "ABB: Physical AI simulation boosts ROI for factory automation",
-          "link": "https://www.artificialintelligence-news.com/news/abb-physical-ai-simulation-secures-factory-automation-roi/",
-          "date": "Tue, 10 Mar 2026 17:22:41 +0000"
-        },
-        {
-          "title": "Agentic AI in finance speeds up operational automation",
-          "link": "https://www.artificialintelligence-news.com/news/agentic-ai-in-finance-speeds-up-operational-automation/",
-          "date": "Tue, 10 Mar 2026 12:55:37 +0000"
-        },
-        {
-          "title": "Mastercard brings agentic payments to life in Singapore with DBS and UOB",
-          "link": "https://www.artificialintelligence-news.com/news/mastercard-agentic-payments-singapore-dbs-uob/",
-          "date": "Tue, 10 Mar 2026 07:00:00 +0000"
-        },
-        {
-          "title": "AI insurance underwriting is past the pitch deck\u2014Gradient AI just got the capital to prove it",
-          "link": "https://www.artificialintelligence-news.com/news/gradient-ai-cibc-ai-insurance-underwriting-growth-capital/",
-          "date": "Mon, 09 Mar 2026 12:51:00 +0000"
-        },
-        {
-          "title": "UK sovereign AI fund to build up domestic computing infrastructure",
-          "link": "https://www.artificialintelligence-news.com/news/uk-sovereign-ai-fund-build-domestic-computing-infrastructure/",
-          "date": "Mon, 09 Mar 2026 12:46:13 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
