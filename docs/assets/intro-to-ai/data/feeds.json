@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T20:33:28.892867+00:00",
+  "generatedAt": "2026-03-11T21:30:29.164095+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "UiPath Achieves AIUC-1 Certification for Secure AI Agents",
-          "link": "https://ai-techpark.com/uipath-achieves-aiuc-1-certification-for-secure-ai-agents/",
-          "date": "Wed, 11 Mar 2026 13:30:00 +0000"
-        },
-        {
-          "title": "NAVER D2SF Announced its Investment in Anyware Robotics",
-          "link": "https://ai-techpark.com/naver-d2sf-announced-its-investment-in-anyware-robotics/",
-          "date": "Wed, 11 Mar 2026 12:30:00 +0000"
-        },
-        {
-          "title": "6G AI Sweden AB Appoints Rui Gomes as CTO",
-          "link": "https://ai-techpark.com/6g-ai-sweden-ab-appoints-rui-gomes-as-cto/",
-          "date": "Wed, 11 Mar 2026 11:52:41 +0000"
-        },
-        {
-          "title": "CoreWeave Introduces Flexible Capacity Plans to Boost AI Innovation",
-          "link": "https://ai-techpark.com/coreweave-introduces-flexible-capacity-plans-to-boost-ai-innovation/",
-          "date": "Wed, 11 Mar 2026 11:30:00 +0000"
-        },
-        {
-          "title": "Darwinium Launches Agent Intent Intelligence for Agent Economy",
-          "link": "https://ai-techpark.com/darwinium-launches-agent-intent-intelligence-for-agent-economy/",
-          "date": "Wed, 11 Mar 2026 10:45:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -202,8 +176,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "items": [
+        {
+          "title": "Ai2: Building physical AI with virtual simulation data",
+          "link": "https://www.artificialintelligence-news.com/news/ai2-building-physical-ai-with-virtual-simulation-data/",
+          "date": "Wed, 11 Mar 2026 16:50:56 +0000"
+        },
+        {
+          "title": "New partnership to offer smart robots for dangerous environments",
+          "link": "https://www.artificialintelligence-news.com/news/new-partnership-to-offer-ai-for-robotics-for-work-in-dangerous-environments/",
+          "date": "Wed, 11 Mar 2026 11:42:00 +0000"
+        },
+        {
+          "title": "Manulife moves AI agents into core financial workflows",
+          "link": "https://www.artificialintelligence-news.com/news/manulife-moves-ai-agents-into-core-financial-workflows/",
+          "date": "Wed, 11 Mar 2026 10:00:00 +0000"
+        },
+        {
+          "title": "How physical AI integration accelerates vehicle innovation",
+          "link": "https://www.artificialintelligence-news.com/news/how-physical-ai-integration-accelerates-vehicle-innovation/",
+          "date": "Wed, 11 Mar 2026 09:52:15 +0000"
+        },
+        {
+          "title": "ABB: Physical AI simulation boosts ROI for factory automation",
+          "link": "https://www.artificialintelligence-news.com/news/abb-physical-ai-simulation-secures-factory-automation-roi/",
+          "date": "Tue, 10 Mar 2026 17:22:41 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -502,6 +502,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Character.AI Still Hasn\u2019t Fixed Its School Shooter Problem We Identified in 2024",
+          "link": "https://futurism.com/artificial-intelligence/character-ai-school-shooter-problem",
+          "date": "Wed, 11 Mar 2026 16:39:26 -0400"
+        },
+        {
           "title": "Grammarly Is Pulling Down Its Explosively Controversial Feature That Impersonates Writers Without Their Permission",
           "link": "https://futurism.com/artificial-intelligence/grammarly-pulls-down-expert-review-feature",
           "date": "Wed, 11 Mar 2026 14:18:22 -0400"
@@ -520,11 +525,6 @@
           "title": "Anthropic Announces Jobs Most at Risk From AI",
           "link": "https://futurism.com/artificial-intelligence/anthropic-jobs-most-risk-ai",
           "date": "Wed, 11 Mar 2026 10:19:56 -0400"
-        },
-        {
-          "title": "Mother Sues OpenAI for Not Telling Police About Mass Shooter Before Deadly Rampage",
-          "link": "https://futurism.com/artificial-intelligence/mother-sues-openai-mass-shooter",
-          "date": "Wed, 11 Mar 2026 09:14:24 -0400"
         }
       ],
       "error": null
@@ -533,6 +533,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Grammarly Is Facing a Class Action Lawsuit Over Its AI \u2018Expert Review\u2019 Feature",
+          "link": "https://www.wired.com/story/grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature/",
+          "date": "Wed, 11 Mar 2026 20:45:03 +0000"
+        },
         {
           "title": "Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show",
           "link": "https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/",
@@ -552,11 +557,6 @@
           "title": "Nick Clegg Doesn\u2019t Want to Talk About Superintelligence",
           "link": "https://www.wired.com/story/nick-clegg-ai-startup-efekta-superintelligence/",
           "date": "Wed, 11 Mar 2026 12:00:00 +0000"
-        },
-        {
-          "title": "Teens Are Using AI-Fueled \u2018Slander Pages\u2019 to Mock Their Teachers",
-          "link": "https://www.wired.com/story/teens-are-using-ai-fueled-slander-pages-to-mock-their-teachers/",
-          "date": "Wed, 11 Mar 2026 11:00:00 +0000"
         }
       ],
       "error": null
