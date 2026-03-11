@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T22:24:12.636301+00:00",
+  "generatedAt": "2026-03-11T23:25:05.846575+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -202,34 +202,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "Ai2: Building physical AI with virtual simulation data",
-          "link": "https://www.artificialintelligence-news.com/news/ai2-building-physical-ai-with-virtual-simulation-data/",
-          "date": "Wed, 11 Mar 2026 16:50:56 +0000"
-        },
-        {
-          "title": "New partnership to offer smart robots for dangerous environments",
-          "link": "https://www.artificialintelligence-news.com/news/new-partnership-to-offer-ai-for-robotics-for-work-in-dangerous-environments/",
-          "date": "Wed, 11 Mar 2026 11:42:00 +0000"
-        },
-        {
-          "title": "Manulife moves AI agents into core financial workflows",
-          "link": "https://www.artificialintelligence-news.com/news/manulife-moves-ai-agents-into-core-financial-workflows/",
-          "date": "Wed, 11 Mar 2026 10:00:00 +0000"
-        },
-        {
-          "title": "How physical AI integration accelerates vehicle innovation",
-          "link": "https://www.artificialintelligence-news.com/news/how-physical-ai-integration-accelerates-vehicle-innovation/",
-          "date": "Wed, 11 Mar 2026 09:52:15 +0000"
-        },
-        {
-          "title": "ABB: Physical AI simulation boosts ROI for factory automation",
-          "link": "https://www.artificialintelligence-news.com/news/abb-physical-ai-simulation-secures-factory-automation-roi/",
-          "date": "Tue, 10 Mar 2026 17:22:41 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -368,29 +342,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Binance sues WSJ, panicked by gov\u2019t probes into sanctioned crypto transfers",
-          "link": "https://arstechnica.com/tech-policy/2026/03/binance-sues-wsj-over-report-sparking-government-probes-into-exchange/",
-          "date": "Wed, 11 Mar 2026 18:04:13 +0000"
+          "title": "Report: RFK Jr.\u2019s anti-vaccine agenda curbed as GOP realizes it's unpopular",
+          "link": "https://arstechnica.com/health/2026/03/report-trump-admin-trying-to-rein-in-rfk-jr-s-unpopular-anti-vaccine-agenda/",
+          "date": "Wed, 11 Mar 2026 22:19:27 +0000"
         },
         {
-          "title": "A glimpse into tuner culture: Fast and Furious exhibit at the Petersen",
-          "link": "https://arstechnica.com/cars/2026/03/a-glimpse-into-tuner-culture-fast-and-furious-exhibit-at-the-petersen/",
-          "date": "Wed, 11 Mar 2026 17:41:30 +0000"
+          "title": "FCC chair blasts Amazon after it criticizes SpaceX megaconstellation",
+          "link": "https://arstechnica.com/space/2026/03/fcc-chair-blasts-amazon-after-it-criticizes-spacex-megaconstellation/",
+          "date": "Wed, 11 Mar 2026 22:04:42 +0000"
         },
         {
-          "title": "Intel shores up its desktop CPU lineup with boosted Core Ultra 200S Plus chips",
-          "link": "https://arstechnica.com/gadgets/2026/03/intel-shores-up-its-desktop-cpu-lineup-with-boosted-core-ultra-200s-plus-chips/",
-          "date": "Wed, 11 Mar 2026 17:21:25 +0000"
+          "title": "14,000 routers are infected by malware that's highly resistant to takedowns",
+          "link": "https://arstechnica.com/security/2026/03/14000-routers-are-infected-by-malware-thats-highly-resistant-to-takedowns/",
+          "date": "Wed, 11 Mar 2026 21:27:16 +0000"
         },
         {
-          "title": "Anduril, the autonomous weapons maker, doubles the size of its space unit",
-          "link": "https://arstechnica.com/space/2026/03/anduril-the-autonomous-weapons-maker-doubles-the-size-of-its-space-unit/",
-          "date": "Wed, 11 Mar 2026 16:50:28 +0000"
+          "title": "Explain it like I'm 5: Why is everyone on speakerphone in public?",
+          "link": "https://arstechnica.com/culture/2026/03/explain-it-like-im-5-why-is-everyone-on-speakerphone-in-public/",
+          "date": "Wed, 11 Mar 2026 21:09:12 +0000"
         },
         {
-          "title": "Nvidia is reportedly planning its own open source OpenClaw competitor",
-          "link": "https://arstechnica.com/ai/2026/03/nvidia-is-reportedly-planning-its-own-open-source-openclaw-competitor/",
-          "date": "Wed, 11 Mar 2026 16:30:27 +0000"
+          "title": "Windows 11's Steam Deck-ish, streamlined Xbox gaming UI comes to all PCs in April",
+          "link": "https://arstechnica.com/gadgets/2026/03/windows-11s-steam-deck-ish-streamlined-xbox-gaming-ui-comes-to-all-pcs-in-april/",
+          "date": "Wed, 11 Mar 2026 20:55:50 +0000"
         }
       ],
       "error": null
@@ -464,9 +438,14 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "\u2018Happy (and safe) shooting!\u2019: chatbots helped researchers plot deadly attacks",
+          "link": "https://www.theguardian.com/technology/2026/mar/11/chatbots-help-users-plot-deadly-attacks-researchers-find",
+          "date": "Wed, 11 Mar 2026 11:05:35 GMT"
+        },
+        {
           "title": "Atlassian lays off 1,600 workers ahead of AI push",
           "link": "https://www.theguardian.com/technology/2026/mar/12/atlassian-layoffs-software-technology-ai-push-mike-cannon-brookes-asx",
-          "date": "Wed, 11 Mar 2026 21:55:30 GMT"
+          "date": "Wed, 11 Mar 2026 23:21:03 GMT"
         },
         {
           "title": "I wrote a book about theft and deception \u2013 and now AI scams are flooding my inbox | Walter Marsh",
@@ -482,11 +461,6 @@
           "title": "Self-publish and be scammed: Jon\u2019s tale of heartbreak highlights boom in fraudsters using AI to supercharge book swindles",
           "link": "https://www.theguardian.com/books/ng-interactive/2026/mar/12/ai-book-scams-publishing-fraud",
           "date": "Wed, 11 Mar 2026 14:00:50 GMT"
-        },
-        {
-          "title": "\u2018Happy (and safe) shooting!\u2019: chatbots helped researchers plot deadly attacks",
-          "link": "https://www.theguardian.com/technology/2026/mar/11/chatbots-help-users-plot-deadly-attacks-researchers-find",
-          "date": "Wed, 11 Mar 2026 11:05:35 GMT"
         }
       ],
       "error": null
