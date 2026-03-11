@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T16:48:51.575818+00:00",
+  "generatedAt": "2026-03-11T17:47:00.849144+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "UiPath Achieves AIUC-1 Certification for Secure AI Agents",
+          "link": "https://ai-techpark.com/uipath-achieves-aiuc-1-certification-for-secure-ai-agents/",
+          "date": "Wed, 11 Mar 2026 13:30:00 +0000"
+        },
+        {
+          "title": "NAVER D2SF Announced its Investment in Anyware Robotics",
+          "link": "https://ai-techpark.com/naver-d2sf-announced-its-investment-in-anyware-robotics/",
+          "date": "Wed, 11 Mar 2026 12:30:00 +0000"
+        },
+        {
+          "title": "6G AI Sweden AB Appoints Rui Gomes as CTO",
+          "link": "https://ai-techpark.com/6g-ai-sweden-ab-appoints-rui-gomes-as-cto/",
+          "date": "Wed, 11 Mar 2026 11:52:41 +0000"
+        },
+        {
+          "title": "CoreWeave Introduces Flexible Capacity Plans to Boost AI Innovation",
+          "link": "https://ai-techpark.com/coreweave-introduces-flexible-capacity-plans-to-boost-ai-innovation/",
+          "date": "Wed, 11 Mar 2026 11:30:00 +0000"
+        },
+        {
+          "title": "Darwinium Launches Agent Intent Intelligence for Agent Economy",
+          "link": "https://ai-techpark.com/darwinium-launches-agent-intent-intelligence-for-agent-economy/",
+          "date": "Wed, 11 Mar 2026 10:45:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -178,6 +204,11 @@
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [
         {
+          "title": "Ai2: Building physical AI with virtual simulation data",
+          "link": "https://www.artificialintelligence-news.com/news/ai2-building-physical-ai-with-virtual-simulation-data/",
+          "date": "Wed, 11 Mar 2026 16:50:56 +0000"
+        },
+        {
           "title": "New partnership to offer smart robots for dangerous environments",
           "link": "https://www.artificialintelligence-news.com/news/new-partnership-to-offer-ai-for-robotics-for-work-in-dangerous-environments/",
           "date": "Wed, 11 Mar 2026 11:42:00 +0000"
@@ -196,11 +227,6 @@
           "title": "ABB: Physical AI simulation boosts ROI for factory automation",
           "link": "https://www.artificialintelligence-news.com/news/abb-physical-ai-simulation-secures-factory-automation-roi/",
           "date": "Tue, 10 Mar 2026 17:22:41 +0000"
-        },
-        {
-          "title": "Agentic AI in finance speeds up operational automation",
-          "link": "https://www.artificialintelligence-news.com/news/agentic-ai-in-finance-speeds-up-operational-automation/",
-          "date": "Tue, 10 Mar 2026 12:55:37 +0000"
         }
       ],
       "error": null
@@ -342,9 +368,19 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Here's everything we know about Rivian R2 pricing and specs",
-          "link": "https://arstechnica.com/cars/2026/03/heres-everything-we-know-about-rivian-r2-pricing-and-specs/",
-          "date": "Wed, 11 Mar 2026 15:00:17 +0000"
+          "title": "Anduril, the autonomous weapons maker, doubles the size of its space unit",
+          "link": "https://arstechnica.com/science/2026/03/anduril-the-autonomous-weapons-maker-doubles-the-size-of-its-space-unit/",
+          "date": "Wed, 11 Mar 2026 16:50:28 +0000"
+        },
+        {
+          "title": "Nvidia is reportedly planning its own open source OpenClaw competitor",
+          "link": "https://arstechnica.com/ai/2026/03/nvidia-is-reportedly-planning-its-own-open-source-openclaw-competitor/",
+          "date": "Wed, 11 Mar 2026 16:30:27 +0000"
+        },
+        {
+          "title": "NIH director launches \"Scientific Freedom\" lectures with non-scientist",
+          "link": "https://arstechnica.com/science/2026/03/nih-director-launches-scientific-freedom-lectures-with-non-scientist/",
+          "date": "Wed, 11 Mar 2026 15:33:50 +0000"
         },
         {
           "title": "Verdict: Yes, you should go see Project Hail Mary as soon as possible",
@@ -355,16 +391,6 @@
           "title": "What crackdown? Trump's EPA enforcement claims don't pass sniff test.",
           "link": "https://arstechnica.com/tech-policy/2026/03/trumps-epa-says-its-cracking-down-but-the-data-tell-a-different-story/",
           "date": "Wed, 11 Mar 2026 13:27:03 +0000"
-        },
-        {
-          "title": "Don't lick that cold metal pole in winter\u2014if you do, don't panic",
-          "link": "https://arstechnica.com/science/2026/03/exploring-the-science-of-tundra-tongue/",
-          "date": "Wed, 11 Mar 2026 12:31:33 +0000"
-        },
-        {
-          "title": "Quantum computing meets the M\u00f6bius molecule",
-          "link": "https://arstechnica.com/science/2026/03/quantum-computing-meets-the-mobius-molecule/",
-          "date": "Wed, 11 Mar 2026 11:07:54 +0000"
         }
       ],
       "error": null
@@ -384,11 +410,6 @@
           "date": "2026-03-11T13:39:18+00:00"
         },
         {
-          "title": "Startup Replaces $40,000 Salesforce Contract With $1,200 CRM Built With Lovable",
-          "link": "https://www.reddit.com/r/artificial/comments/1rqm720/startup_replaces_40000_salesforce_contract_with/",
-          "date": "2026-03-11T06:27:41+00:00"
-        },
-        {
           "title": "Anthropic sues Trump administration seeking to undo 'supply chain risk' designation",
           "link": "https://www.reddit.com/r/artificial/comments/1rq9qvm/anthropic_sues_trump_administration_seeking_to/",
           "date": "2026-03-10T21:14:59+00:00"
@@ -397,6 +418,11 @@
           "title": "OpenAI Employees Are Defending a Rival Company Against the US Government \u2014 That's Never Happened Before",
           "link": "https://www.reddit.com/r/artificial/comments/1rqi4s7/openai_employees_are_defending_a_rival_company/",
           "date": "2026-03-11T02:56:04+00:00"
+        },
+        {
+          "title": "Amazon wins court order to block Perplexity's AI shopping agent",
+          "link": "https://www.reddit.com/r/artificial/comments/1rq6qpi/amazon_wins_court_order_to_block_perplexitys_ai/",
+          "date": "2026-03-10T19:28:34+00:00"
         }
       ],
       "error": null
@@ -443,6 +469,11 @@
           "date": "Wed, 11 Mar 2026 11:05:35 GMT"
         },
         {
+          "title": "The AI assistant was offering me any help I needed. All I wanted was a living, breathing human | Adrian Chiles",
+          "link": "https://www.theguardian.com/commentisfree/2026/mar/11/the-ai-assistant-was-offering-me-any-help-i-needed-all-i-wanted-was-a-living-breathing-human",
+          "date": "Wed, 11 Mar 2026 17:27:08 GMT"
+        },
+        {
           "title": "Self-publish and be scammed: Jon\u2019s tale of heartbreak highlights boom in fraudsters using AI to supercharge book swindles",
           "link": "https://www.theguardian.com/books/ng-interactive/2026/mar/12/ai-book-scams-publishing-fraud",
           "date": "Wed, 11 Mar 2026 14:00:50 GMT"
@@ -456,11 +487,6 @@
           "title": "Wednesday briefing: From missing billions to nonexistent datacentres, inside Britain\u2019s AI drive",
           "link": "https://www.theguardian.com/world/2026/mar/11/wednesday-briefing-from-missing-billions-to-nonexistent-datacentres-inside-britains-ai-drive",
           "date": "Wed, 11 Mar 2026 06:51:13 GMT"
-        },
-        {
-          "title": "Should we be boycotting ChatGPT? \u2013 podcast",
-          "link": "https://www.theguardian.com/news/audio/2026/mar/11/should-we-be-boycotting-chatgpt-podcast",
-          "date": "Wed, 11 Mar 2026 03:00:05 GMT"
         }
       ],
       "error": null
