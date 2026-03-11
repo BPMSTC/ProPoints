@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T15:44:16.067140+00:00",
+  "generatedAt": "2026-03-11T16:48:51.575818+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "UiPath Achieves AIUC-1 Certification for Secure AI Agents",
-          "link": "https://ai-techpark.com/uipath-achieves-aiuc-1-certification-for-secure-ai-agents/",
-          "date": "Wed, 11 Mar 2026 13:30:00 +0000"
-        },
-        {
-          "title": "NAVER D2SF Announced its Investment in Anyware Robotics",
-          "link": "https://ai-techpark.com/naver-d2sf-announced-its-investment-in-anyware-robotics/",
-          "date": "Wed, 11 Mar 2026 12:30:00 +0000"
-        },
-        {
-          "title": "6G AI Sweden AB Appoints Rui Gomes as CTO",
-          "link": "https://ai-techpark.com/6g-ai-sweden-ab-appoints-rui-gomes-as-cto/",
-          "date": "Wed, 11 Mar 2026 11:52:41 +0000"
-        },
-        {
-          "title": "CoreWeave Introduces Flexible Capacity Plans to Boost AI Innovation",
-          "link": "https://ai-techpark.com/coreweave-introduces-flexible-capacity-plans-to-boost-ai-innovation/",
-          "date": "Wed, 11 Mar 2026 11:30:00 +0000"
-        },
-        {
-          "title": "Darwinium Launches Agent Intent Intelligence for Agent Economy",
-          "link": "https://ai-techpark.com/darwinium-launches-agent-intent-intelligence-for-agent-economy/",
-          "date": "Wed, 11 Mar 2026 10:45:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -405,6 +379,11 @@
           "date": "2026-03-11T14:38:38+00:00"
         },
         {
+          "title": "Scientists at Eon Systems just copied a fruit fly's brain into a computer. Neuron by neuron. It started walking, grooming, and feeding, doing what flies do all on its own",
+          "link": "https://www.reddit.com/r/artificial/comments/1rqu0ui/scientists_at_eon_systems_just_copied_a_fruit/",
+          "date": "2026-03-11T13:39:18+00:00"
+        },
+        {
           "title": "Startup Replaces $40,000 Salesforce Contract With $1,200 CRM Built With Lovable",
           "link": "https://www.reddit.com/r/artificial/comments/1rqm720/startup_replaces_40000_salesforce_contract_with/",
           "date": "2026-03-11T06:27:41+00:00"
@@ -418,11 +397,6 @@
           "title": "OpenAI Employees Are Defending a Rival Company Against the US Government \u2014 That's Never Happened Before",
           "link": "https://www.reddit.com/r/artificial/comments/1rqi4s7/openai_employees_are_defending_a_rival_company/",
           "date": "2026-03-11T02:56:04+00:00"
-        },
-        {
-          "title": "Scientists at Eon Systems just copied a fruit fly's brain into a computer. Neuron by neuron. It started walking, grooming, and feeding, doing what flies do all on its own",
-          "link": "https://www.reddit.com/r/artificial/comments/1rqu0ui/scientists_at_eon_systems_just_copied_a_fruit/",
-          "date": "2026-03-11T13:39:18+00:00"
         }
       ],
       "error": null
@@ -528,6 +502,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "US Military Investigating Whether AI Was Involved in Bombing Elementary School in Iran",
+          "link": "https://futurism.com/artificial-intelligence/us-military-ai-bombing-elementary-school-iran",
+          "date": "Wed, 11 Mar 2026 12:15:34 -0400"
+        },
+        {
           "title": "Anthropic Announces Jobs Most at Risk From AI",
           "link": "https://futurism.com/artificial-intelligence/anthropic-jobs-most-risk-ai",
           "date": "Wed, 11 Mar 2026 10:19:56 -0400"
@@ -546,11 +525,6 @@
           "title": "Insiders Afraid the Government Will Nationalize the AI Industry",
           "link": "https://futurism.com/artificial-intelligence/ai-ceos-nationalization",
           "date": "Tue, 10 Mar 2026 12:00:45 -0400"
-        },
-        {
-          "title": "YouTube Filling With Horrifying AI Slop for Children",
-          "link": "https://futurism.com/artificial-intelligence/youtube-ai-slop-for-children",
-          "date": "Tue, 10 Mar 2026 11:15:07 -0400"
         }
       ],
       "error": null
