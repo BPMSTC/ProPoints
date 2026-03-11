@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T21:30:29.164095+00:00",
+  "generatedAt": "2026-03-11T22:24:12.636301+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "UiPath Achieves AIUC-1 Certification for Secure AI Agents",
+          "link": "https://ai-techpark.com/uipath-achieves-aiuc-1-certification-for-secure-ai-agents/",
+          "date": "Wed, 11 Mar 2026 13:30:00 +0000"
+        },
+        {
+          "title": "NAVER D2SF Announced its Investment in Anyware Robotics",
+          "link": "https://ai-techpark.com/naver-d2sf-announced-its-investment-in-anyware-robotics/",
+          "date": "Wed, 11 Mar 2026 12:30:00 +0000"
+        },
+        {
+          "title": "6G AI Sweden AB Appoints Rui Gomes as CTO",
+          "link": "https://ai-techpark.com/6g-ai-sweden-ab-appoints-rui-gomes-as-cto/",
+          "date": "Wed, 11 Mar 2026 11:52:41 +0000"
+        },
+        {
+          "title": "CoreWeave Introduces Flexible Capacity Plans to Boost AI Innovation",
+          "link": "https://ai-techpark.com/coreweave-introduces-flexible-capacity-plans-to-boost-ai-innovation/",
+          "date": "Wed, 11 Mar 2026 11:30:00 +0000"
+        },
+        {
+          "title": "Darwinium Launches Agent Intent Intelligence for Agent Economy",
+          "link": "https://ai-techpark.com/darwinium-launches-agent-intent-intelligence-for-agent-economy/",
+          "date": "Wed, 11 Mar 2026 10:45:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -438,9 +464,14 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "\u2018Happy (and safe) shooting!\u2019: chatbots helped researchers plot deadly attacks",
-          "link": "https://www.theguardian.com/technology/2026/mar/11/chatbots-help-users-plot-deadly-attacks-researchers-find",
-          "date": "Wed, 11 Mar 2026 11:05:35 GMT"
+          "title": "Atlassian lays off 1,600 workers ahead of AI push",
+          "link": "https://www.theguardian.com/technology/2026/mar/12/atlassian-layoffs-software-technology-ai-push-mike-cannon-brookes-asx",
+          "date": "Wed, 11 Mar 2026 21:55:30 GMT"
+        },
+        {
+          "title": "I wrote a book about theft and deception \u2013 and now AI scams are flooding my inbox | Walter Marsh",
+          "link": "https://www.theguardian.com/books/commentisfree/2026/mar/12/book-author-email-ai-scams",
+          "date": "Wed, 11 Mar 2026 22:11:30 GMT"
         },
         {
           "title": "The AI assistant was offering me any help I needed. All I wanted was a living, breathing human | Adrian Chiles",
@@ -453,14 +484,9 @@
           "date": "Wed, 11 Mar 2026 14:00:50 GMT"
         },
         {
-          "title": "Amazon is determined to use AI for everything \u2013 even when it slows down work",
-          "link": "https://www.theguardian.com/technology/ng-interactive/2026/mar/11/amazon-artificial-intelligence",
-          "date": "Wed, 11 Mar 2026 11:00:01 GMT"
-        },
-        {
-          "title": "Wednesday briefing: From missing billions to nonexistent datacentres, inside Britain\u2019s AI drive",
-          "link": "https://www.theguardian.com/world/2026/mar/11/wednesday-briefing-from-missing-billions-to-nonexistent-datacentres-inside-britains-ai-drive",
-          "date": "Wed, 11 Mar 2026 06:51:13 GMT"
+          "title": "\u2018Happy (and safe) shooting!\u2019: chatbots helped researchers plot deadly attacks",
+          "link": "https://www.theguardian.com/technology/2026/mar/11/chatbots-help-users-plot-deadly-attacks-researchers-find",
+          "date": "Wed, 11 Mar 2026 11:05:35 GMT"
         }
       ],
       "error": null
