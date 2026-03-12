@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T23:25:05.846575+00:00",
+  "generatedAt": "2026-03-12T01:53:11.952791+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -202,8 +202,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "items": [
+        {
+          "title": "Ai2: Building physical AI with virtual simulation data",
+          "link": "https://www.artificialintelligence-news.com/news/ai2-building-physical-ai-with-virtual-simulation-data/",
+          "date": "Wed, 11 Mar 2026 16:50:56 +0000"
+        },
+        {
+          "title": "New partnership to offer smart robots for dangerous environments",
+          "link": "https://www.artificialintelligence-news.com/news/new-partnership-to-offer-ai-for-robotics-for-work-in-dangerous-environments/",
+          "date": "Wed, 11 Mar 2026 11:42:00 +0000"
+        },
+        {
+          "title": "Manulife moves AI agents into core financial workflows",
+          "link": "https://www.artificialintelligence-news.com/news/manulife-moves-ai-agents-into-core-financial-workflows/",
+          "date": "Wed, 11 Mar 2026 10:00:00 +0000"
+        },
+        {
+          "title": "How physical AI integration accelerates vehicle innovation",
+          "link": "https://www.artificialintelligence-news.com/news/how-physical-ai-integration-accelerates-vehicle-innovation/",
+          "date": "Wed, 11 Mar 2026 09:52:15 +0000"
+        },
+        {
+          "title": "ABB: Physical AI simulation boosts ROI for factory automation",
+          "link": "https://www.artificialintelligence-news.com/news/abb-physical-ai-simulation-secures-factory-automation-roi/",
+          "date": "Tue, 10 Mar 2026 17:22:41 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -394,9 +420,9 @@
           "date": "2026-03-11T18:08:46+00:00"
         },
         {
-          "title": "Anthropic sues Trump administration seeking to undo 'supply chain risk' designation",
-          "link": "https://www.reddit.com/r/artificial/comments/1rq9qvm/anthropic_sues_trump_administration_seeking_to/",
-          "date": "2026-03-10T21:14:59+00:00"
+          "title": "Florida lawmakers debate who will pay the price of AI data centers",
+          "link": "https://www.reddit.com/r/artificial/comments/1rrdj4k/florida_lawmakers_debate_who_will_pay_the_price/",
+          "date": "2026-03-12T01:43:05+00:00"
         }
       ],
       "error": null
@@ -443,9 +469,14 @@
           "date": "Wed, 11 Mar 2026 11:05:35 GMT"
         },
         {
+          "title": "\u2018Convincing\u2019 AI scams drove UK fraud cases to record 444,000 last year",
+          "link": "https://www.theguardian.com/money/2026/mar/12/ai-scams-uk-fraud-artificial-intelligence-mobile-bank-online-shopping-cifas",
+          "date": "Thu, 12 Mar 2026 00:01:03 GMT"
+        },
+        {
           "title": "Atlassian lays off 1,600 workers ahead of AI push",
           "link": "https://www.theguardian.com/technology/2026/mar/12/atlassian-layoffs-software-technology-ai-push-mike-cannon-brookes-asx",
-          "date": "Wed, 11 Mar 2026 23:21:03 GMT"
+          "date": "Wed, 11 Mar 2026 23:35:43 GMT"
         },
         {
           "title": "I wrote a book about theft and deception \u2013 and now AI scams are flooding my inbox | Walter Marsh",
@@ -456,11 +487,6 @@
           "title": "The AI assistant was offering me any help I needed. All I wanted was a living, breathing human | Adrian Chiles",
           "link": "https://www.theguardian.com/commentisfree/2026/mar/11/the-ai-assistant-was-offering-me-any-help-i-needed-all-i-wanted-was-a-living-breathing-human",
           "date": "Wed, 11 Mar 2026 17:27:08 GMT"
-        },
-        {
-          "title": "Self-publish and be scammed: Jon\u2019s tale of heartbreak highlights boom in fraudsters using AI to supercharge book swindles",
-          "link": "https://www.theguardian.com/books/ng-interactive/2026/mar/12/ai-book-scams-publishing-fraud",
-          "date": "Wed, 11 Mar 2026 14:00:50 GMT"
         }
       ],
       "error": null
