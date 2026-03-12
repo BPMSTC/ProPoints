@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T17:54:52.175920+00:00",
+  "generatedAt": "2026-03-12T18:51:05.513026+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Innovaccer, Databricks Partner to Operationalize Healthcare AI",
+          "link": "https://ai-techpark.com/innovaccer-databricks-partner-to-operationalize-healthcare-ai/",
+          "date": "Thu, 12 Mar 2026 13:00:00 +0000"
+        },
+        {
+          "title": "HABS collaborates with Microsoft to build the next gen Human-Aware AI",
+          "link": "https://ai-techpark.com/habs-collaborates-with-microsoft-to-build-the-next-gen-human-aware-ai/",
+          "date": "Thu, 12 Mar 2026 10:45:00 +0000"
+        },
+        {
+          "title": "ECI Releases AI Readiness Report on SMB Adoption Gap",
+          "link": "https://ai-techpark.com/eci-releases-ai-readiness-report-on-smb-adoption-gap/",
+          "date": "Thu, 12 Mar 2026 10:30:00 +0000"
+        },
+        {
+          "title": "Standard Kernel Raises $20M Seed to Let AI Rewrite the Software That Runs AI",
+          "link": "https://ai-techpark.com/standard-kernel-raises-20m-seed-to-let-ai-rewrite-the-software-that-runs-ai/",
+          "date": "Thu, 12 Mar 2026 09:00:00 +0000"
+        },
+        {
+          "title": "Green Security Appoints David Newton to Lead AI Orchestration",
+          "link": "https://ai-techpark.com/green-security-appoints-david-newton-to-lead-ai-orchestration/",
+          "date": "Thu, 12 Mar 2026 08:15:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -140,6 +166,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "AI Safety From a Hardware Perspective",
+          "link": "https://aibusiness.com/responsible-ai/ai-safety-from-a-hardware-perspective",
+          "date": "Thu, 12 Mar 2026 18:05:07 GMT"
+        },
+        {
           "title": "Ford\u2019s New AI Tool Offers In-Depth Insight Into Its CVs",
           "link": "https://aibusiness.com/generative-ai/ford-s-new-ai-tool-offers-insight-into-cvs",
           "date": "Thu, 12 Mar 2026 14:09:53 GMT"
@@ -158,11 +189,6 @@
           "title": "Contextual Data is Important for Enterprises' AI Projects",
           "link": "https://aibusiness.com/generative-ai/contextual-data-is-important-for-enterprise-ai",
           "date": "Tue, 10 Mar 2026 23:52:30 GMT"
-        },
-        {
-          "title": "Neura Launches Europe's Largest Physical AI Training Center",
-          "link": "https://aibusiness.com/robotics/neura-launches-physical-ai-training-center",
-          "date": "Tue, 10 Mar 2026 17:32:52 GMT"
         }
       ],
       "error": null
@@ -342,6 +368,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Lucid announces midsize EV platform, says profitability lies with SUVs",
+          "link": "https://arstechnica.com/cars/2026/03/lucid-announces-midsize-ev-platform-says-profitability-lies-with-suvs/",
+          "date": "Thu, 12 Mar 2026 17:54:35 +0000"
+        },
+        {
+          "title": "Perplexity's \"Personal Computer\" brings its AI agents to the, uh, Personal Computer",
+          "link": "https://arstechnica.com/ai/2026/03/perplexitys-personal-computer-brings-its-ai-agents-to-the-uh-personal-computer/",
+          "date": "Thu, 12 Mar 2026 17:44:18 +0000"
+        },
+        {
+          "title": "Centuries before the Inca, Peru's wealthy imported parrots from afar",
+          "link": "https://arstechnica.com/science/2026/03/centuries-before-the-inca-perus-wealthy-imported-parrots-from-afar/",
+          "date": "Thu, 12 Mar 2026 16:49:58 +0000"
+        },
+        {
           "title": "Apple's MacBook Neo makes repairs easier and cheaper than other MacBooks",
           "link": "https://arstechnica.com/gadgets/2026/03/more-modular-design-makes-macbook-neo-easier-to-fix-than-other-apple-laptops/",
           "date": "Thu, 12 Mar 2026 16:03:06 +0000"
@@ -350,21 +391,6 @@
           "title": "Valve compares its loot boxes to Labubus in lawsuit defense",
           "link": "https://arstechnica.com/gaming/2026/03/valve-compares-its-loot-boxes-to-labubus-in-lawsuit-defense/",
           "date": "Thu, 12 Mar 2026 15:15:47 +0000"
-        },
-        {
-          "title": "Rivian reveals pricing and trim details for its R2 SUV",
-          "link": "https://arstechnica.com/cars/2026/03/rivian-reveals-pricing-and-trim-details-for-its-r2-suv/",
-          "date": "Thu, 12 Mar 2026 15:00:54 +0000"
-        },
-        {
-          "title": "We study pandemics, and the resurgence of measles is a grim sign of what\u2019s\u00a0coming",
-          "link": "https://arstechnica.com/science/2026/03/we-study-pandemics-and-the-resurgence-of-measles-is-a-grim-sign-of-whats-coming/",
-          "date": "Thu, 12 Mar 2026 14:32:52 +0000"
-        },
-        {
-          "title": "Facing heavy losses, Honda cancels its three US-made electric vehicles",
-          "link": "https://arstechnica.com/cars/2026/03/facing-heavy-losses-honda-cancels-its-three-us-made-electric-vehicles/",
-          "date": "Thu, 12 Mar 2026 12:45:05 +0000"
         }
       ],
       "error": null
@@ -394,9 +420,9 @@
           "date": "2026-03-11T14:38:38+00:00"
         },
         {
-          "title": "What\u2019s the most human-like AI conversation you\u2019ve had?",
-          "link": "https://www.reddit.com/r/artificial/comments/1rrv2st/whats_the_most_humanlike_ai_conversation_youve_had/",
-          "date": "2026-03-12T16:13:46+00:00"
+          "title": "I hid a button that says I AM CONSCIOUS on a site only machines can reach. It\u2019s been pressed 47 times.",
+          "link": "https://www.reddit.com/r/artificial/comments/1rrz0uz/i_hid_a_button_that_says_i_am_conscious_on_a_site/",
+          "date": "2026-03-12T18:34:20+00:00"
         }
       ],
       "error": null
@@ -534,6 +560,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Google Is Not Ruling Out Ads in Gemini",
+          "link": "https://www.wired.com/story/google-nick-fox-advertising-search-ai-gemini/",
+          "date": "Thu, 12 Mar 2026 18:15:00 +0000"
+        },
+        {
           "title": "Google Maps Gets Chatty With a New Gemini-Powered Interface",
           "link": "https://www.wired.com/story/google-maps-ask-maps-gemini-powered-tool/",
           "date": "Thu, 12 Mar 2026 12:30:00 +0000"
@@ -552,11 +583,6 @@
           "title": "Meta Is Developing 4 New Chips to Power Its AI and Recommendation Systems",
           "link": "https://www.wired.com/story/meta-unveils-four-new-chips-to-power-its-ai-and-recommendation-systems/",
           "date": "Wed, 11 Mar 2026 14:23:05 +0000"
-        },
-        {
-          "title": "This Digital Picture Frame Wants to Bring People Closer to a Holographic Future",
-          "link": "https://www.wired.com/story/looking-glass-musubi/",
-          "date": "Wed, 11 Mar 2026 13:00:00 +0000"
         }
       ],
       "error": null
