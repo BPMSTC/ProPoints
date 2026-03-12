@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-03-12T16:59:25.723891+00:00",
+  "generatedAt": "2026-03-12T17:54:52.175920+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "I Watched 6 Hours of DOGE Bro Testimony. Here's What They Had to Say For Themselves",
+          "link": "https://www.404media.co/i-watched-6-hours-of-doge-bro-testimony-heres-what-they-had-to-say-for-themselves/",
+          "date": "Thu, 12 Mar 2026 17:25:13 GMT"
+        },
         {
           "title": "'AI Is African Intelligence': The Workers Who Train AI Are Fighting Back",
           "link": "https://www.404media.co/ai-is-african-intelligence-the-workers-who-train-ai-are-fighting-back/",
@@ -24,11 +29,6 @@
           "title": "From Flock to ICE, Here\u2019s a Breakdown of How You\u2019re Being Watched",
           "link": "https://www.404media.co/flock-ice-surveillance-technology-reddit-ama/",
           "date": "Wed, 11 Mar 2026 14:27:56 GMT"
-        },
-        {
-          "title": "Cybertruck Tried to Drive 'Straight Off an Overpass' Attorney Claims",
-          "link": "https://www.404media.co/cybertruck-tried-to-drive-straight-off-an-overpass-attorney-claims/",
-          "date": "Tue, 10 Mar 2026 21:40:32 GMT"
         }
       ],
       "error": null
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "Innovaccer, Databricks Partner to Operationalize Healthcare AI",
-          "link": "https://ai-techpark.com/innovaccer-databricks-partner-to-operationalize-healthcare-ai/",
-          "date": "Thu, 12 Mar 2026 13:00:00 +0000"
-        },
-        {
-          "title": "HABS collaborates with Microsoft to build the next gen Human-Aware AI",
-          "link": "https://ai-techpark.com/habs-collaborates-with-microsoft-to-build-the-next-gen-human-aware-ai/",
-          "date": "Thu, 12 Mar 2026 10:45:00 +0000"
-        },
-        {
-          "title": "ECI Releases AI Readiness Report on SMB Adoption Gap",
-          "link": "https://ai-techpark.com/eci-releases-ai-readiness-report-on-smb-adoption-gap/",
-          "date": "Thu, 12 Mar 2026 10:30:00 +0000"
-        },
-        {
-          "title": "Standard Kernel Raises $20M Seed to Let AI Rewrite the Software That Runs AI",
-          "link": "https://ai-techpark.com/standard-kernel-raises-20m-seed-to-let-ai-rewrite-the-software-that-runs-ai/",
-          "date": "Thu, 12 Mar 2026 09:00:00 +0000"
-        },
-        {
-          "title": "Green Security Appoints David Newton to Lead AI Orchestration",
-          "link": "https://ai-techpark.com/green-security-appoints-david-newton-to-lead-ai-orchestration/",
-          "date": "Thu, 12 Mar 2026 08:15:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -528,6 +502,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "People Really, Really Despise AI \u2014 Even More Than ICE, Poll Finds",
+          "link": "https://futurism.com/artificial-intelligence/hate-ai-more-ice-poll",
+          "date": "Thu, 12 Mar 2026 13:16:40 -0400"
+        },
+        {
           "title": "Grammarly Forgot to Mention Something in Its Giant Apology That Changes the Whole Story",
           "link": "https://futurism.com/artificial-intelligence/grammarly-apology-lawsuit",
           "date": "Thu, 12 Mar 2026 10:12:53 -0400"
@@ -546,11 +525,6 @@
           "title": "Grammarly Is Pulling Down Its Explosively Controversial Feature That Impersonates Writers Without Their Permission",
           "link": "https://futurism.com/artificial-intelligence/grammarly-pulls-down-expert-review-feature",
           "date": "Wed, 11 Mar 2026 14:18:22 -0400"
-        },
-        {
-          "title": "The AI-Generated Tilly Norwood Just Dropped the Worst Music Video We\u2019ve Ever Seen",
-          "link": "https://futurism.com/artificial-intelligence/ai-tilly-norwood-worst-music-video",
-          "date": "Wed, 11 Mar 2026 14:00:06 -0400"
         }
       ],
       "error": null
