@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T12:54:26.175461+00:00",
+  "generatedAt": "2026-03-12T14:02:27.410841+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "HABS collaborates with Microsoft to build the next gen Human-Aware AI",
-          "link": "https://ai-techpark.com/habs-collaborates-with-microsoft-to-build-the-next-gen-human-aware-ai/",
-          "date": "Thu, 12 Mar 2026 10:45:00 +0000"
-        },
-        {
-          "title": "ECI Releases AI Readiness Report on SMB Adoption Gap",
-          "link": "https://ai-techpark.com/eci-releases-ai-readiness-report-on-smb-adoption-gap/",
-          "date": "Thu, 12 Mar 2026 10:30:00 +0000"
-        },
-        {
-          "title": "Standard Kernel Raises $20M Seed to Let AI Rewrite the Software That Runs AI",
-          "link": "https://ai-techpark.com/standard-kernel-raises-20m-seed-to-let-ai-rewrite-the-software-that-runs-ai/",
-          "date": "Thu, 12 Mar 2026 09:00:00 +0000"
-        },
-        {
-          "title": "Green Security Appoints David Newton to Lead AI Orchestration",
-          "link": "https://ai-techpark.com/green-security-appoints-david-newton-to-lead-ai-orchestration/",
-          "date": "Thu, 12 Mar 2026 08:15:00 +0000"
-        },
-        {
-          "title": "Zendesk Expands AI Agents with Proposed Forethought Acquisition",
-          "link": "https://ai-techpark.com/zendesk-expands-ai-agents-with-proposed-forethought-acquisition/",
-          "date": "Thu, 12 Mar 2026 07:45:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -368,6 +342,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Facing heavy losses, Honda cancels its three US-made electric vehicles",
+          "link": "https://arstechnica.com/cars/2026/03/facing-heavy-losses-honda-cancels-its-three-us-made-electric-vehicles/",
+          "date": "Thu, 12 Mar 2026 12:45:05 +0000"
+        },
+        {
+          "title": "Google Maps gets its biggest navigation redesign in a decade, plus more AI",
+          "link": "https://arstechnica.com/gadgets/2026/03/google-maps-gets-its-biggest-navigation-redesign-in-a-decade-plus-more-ai/",
+          "date": "Thu, 12 Mar 2026 12:30:51 +0000"
+        },
+        {
           "title": "Remembering the 30-year-old computer game that introduced me to Star Wars",
           "link": "https://arstechnica.com/gaming/2026/03/30-years-later-star-wars-shadows-of-the-empire-is-a-relic-of-a-lost-era/",
           "date": "Thu, 12 Mar 2026 11:15:48 +0000"
@@ -381,16 +365,6 @@
           "title": "Google Play Games for PC is getting more premium titles and cross-buy with Android",
           "link": "https://arstechnica.com/gaming/2026/03/google-play-games-for-pc-is-getting-more-premium-titles-and-cross-buy-with-android/",
           "date": "Wed, 11 Mar 2026 23:00:36 +0000"
-        },
-        {
-          "title": "Report: RFK Jr.\u2019s anti-vaccine agenda curbed as GOP realizes it's unpopular",
-          "link": "https://arstechnica.com/health/2026/03/report-trump-admin-trying-to-rein-in-rfk-jr-s-unpopular-anti-vaccine-agenda/",
-          "date": "Wed, 11 Mar 2026 22:19:27 +0000"
-        },
-        {
-          "title": "FCC chair blasts Amazon after it criticizes SpaceX megaconstellation",
-          "link": "https://arstechnica.com/space/2026/03/fcc-chair-blasts-amazon-after-it-criticizes-spacex-megaconstellation/",
-          "date": "Wed, 11 Mar 2026 22:04:42 +0000"
         }
       ],
       "error": null
@@ -403,6 +377,11 @@
           "title": "Meta buys 'social media network for AI' Moltbook, and says the deal will bring \"new ways for AI agents to work for people and businesses\".",
           "link": "https://www.reddit.com/r/artificial/comments/1rrkogg/meta_buys_social_media_network_for_ai_moltbook/",
           "date": "2026-03-12T07:59:30+00:00"
+        },
+        {
+          "title": "Hustlers are cashing in on China\u2019s OpenClaw AI craze",
+          "link": "https://www.reddit.com/r/artificial/comments/1rrkvkt/hustlers_are_cashing_in_on_chinas_openclaw_ai/",
+          "date": "2026-03-12T08:12:19+00:00"
         },
         {
           "title": "Meta buys Moltbook, viral social network where AI agents interact",
@@ -418,11 +397,6 @@
           "title": "Scientists at Eon Systems just copied a fruit fly's brain into a computer. Neuron by neuron. It started walking, grooming, and feeding, doing what flies do all on its own",
           "link": "https://www.reddit.com/r/artificial/comments/1rqu0ui/scientists_at_eon_systems_just_copied_a_fruit/",
           "date": "2026-03-11T13:39:18+00:00"
-        },
-        {
-          "title": "Hustlers are cashing in on China\u2019s OpenClaw AI craze",
-          "link": "https://www.reddit.com/r/artificial/comments/1rrkvkt/hustlers_are_cashing_in_on_chinas_openclaw_ai/",
-          "date": "2026-03-12T08:12:19+00:00"
         }
       ],
       "error": null
@@ -528,6 +502,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "AI Is Forcing Employees to Work Harder Than Ever",
+          "link": "https://futurism.com/artificial-intelligence/ai-forcing-employees-work-harder",
+          "date": "Thu, 12 Mar 2026 08:57:32 -0400"
+        },
+        {
           "title": "Character.AI Still Hasn\u2019t Fixed Its School Shooter Problem We Identified in 2024",
           "link": "https://futurism.com/artificial-intelligence/character-ai-school-shooter-problem",
           "date": "Wed, 11 Mar 2026 16:39:26 -0400"
@@ -546,11 +525,6 @@
           "title": "US Military Investigating Whether AI Was Involved in Bombing Elementary School in Iran",
           "link": "https://futurism.com/artificial-intelligence/us-military-ai-bombing-elementary-school-iran",
           "date": "Wed, 11 Mar 2026 12:15:34 -0400"
-        },
-        {
-          "title": "Anthropic Announces Jobs Most at Risk From AI",
-          "link": "https://futurism.com/artificial-intelligence/anthropic-jobs-most-risk-ai",
-          "date": "Wed, 11 Mar 2026 10:19:56 -0400"
         }
       ],
       "error": null
