@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-03-13T16:37:27.234262+00:00",
+  "generatedAt": "2026-03-13T17:33:07.746450+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Behind the Blog: DOGE Bros and Data Labelers",
+          "link": "https://www.404media.co/behind-the-blog-doge-bros-and-data-labelers/",
+          "date": "Fri, 13 Mar 2026 16:56:57 GMT"
+        },
         {
           "title": "People Hate Datacenters, Survey Finds",
           "link": "https://www.404media.co/people-hate-datacenters-survey-finds/",
@@ -24,11 +29,6 @@
           "title": "Here\u2019s the Memo Approving Gemini, ChatGPT, and Copilot for Use in the Senate",
           "link": "https://www.404media.co/heres-the-memo-approving-gemini-chatgpt-and-copilot-for-use-in-the-senate/",
           "date": "Wed, 11 Mar 2026 15:41:16 GMT"
-        },
-        {
-          "title": "Podcast: How to Talk to Your Friend Experiencing 'AI Psychosis'",
-          "link": "https://www.404media.co/podcast-how-to-talk-to-your-friend-experiencing-ai-psychosis/",
-          "date": "Wed, 11 Mar 2026 14:37:19 GMT"
         }
       ],
       "error": null
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "ZEDEDA Survey Finds Enterprise Edge AI Entering New Phase",
+          "link": "https://ai-techpark.com/zededa-survey-finds-enterprise-edge-ai-entering-new-phase/",
+          "date": "Fri, 13 Mar 2026 12:30:00 +0000"
+        },
+        {
+          "title": "Coder Wins 2026 ChannelVision AI for Partner Relationship Innovation",
+          "link": "https://ai-techpark.com/coder-wins-2026-channelvision-ai-for-partner-relationship-innovation/",
+          "date": "Fri, 13 Mar 2026 10:30:00 +0000"
+        },
+        {
+          "title": "WVU Medicine Scales Abridge\u2019s AI Platform Across Rural Hospitals and Clinics",
+          "link": "https://ai-techpark.com/wvu-medicine-scales-abridges-ai-platform-across-rural-hospitals-and-clinics/",
+          "date": "Fri, 13 Mar 2026 10:15:00 +0000"
+        },
+        {
+          "title": "FluidCloud Unveils the World\u2019s First Large Infrastructure Model",
+          "link": "https://ai-techpark.com/fluidcloud-unveils-the-worlds-first-large-infrastructure-model/",
+          "date": "Fri, 13 Mar 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Wonderful Lands $150M Series B to Expand AI Across 30+ Markets",
+          "link": "https://ai-techpark.com/wonderful-lands-150m-series-b-to-expand-ai-across-30-markets/",
+          "date": "Fri, 13 Mar 2026 08:30:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -176,8 +202,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "E.SUN Bank and IBM build AI governance framework for banking",
+          "link": "https://www.artificialintelligence-news.com/news/e-sun-bank-and-ibm-build-ai-governance-framework-for-banking/",
+          "date": "Fri, 13 Mar 2026 10:00:00 +0000"
+        },
+        {
+          "title": "BMW puts humanoid robots to work in Germany\u2013and Europe\u2019s factories are watching",
+          "link": "https://www.artificialintelligence-news.com/news/bmw-humanoid-robots-manufacturing-europe-leipzig/",
+          "date": "Fri, 13 Mar 2026 09:00:00 +0000"
+        },
+        {
+          "title": "How multi-agent AI economics influence business automation",
+          "link": "https://www.artificialintelligence-news.com/news/how-multi-agent-ai-economics-business-automation/",
+          "date": "Thu, 12 Mar 2026 15:01:20 +0000"
+        },
+        {
+          "title": "FIFA is rebuilding world football operations on AI. The World Cup is just the first test",
+          "link": "https://www.artificialintelligence-news.com/news/fifa-ai-world-cup-2026-lenovo/",
+          "date": "Thu, 12 Mar 2026 08:00:00 +0000"
+        },
+        {
+          "title": "Ai2: Building physical AI with virtual simulation data",
+          "link": "https://www.artificialintelligence-news.com/news/ai2-building-physical-ai-with-virtual-simulation-data/",
+          "date": "Wed, 11 Mar 2026 16:50:56 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -358,14 +410,14 @@
           "date": "2026-03-13T11:52:11+00:00"
         },
         {
-          "title": "Anthropic-Pentagon battle shows how big tech has reversed course on AI and war",
-          "link": "https://www.reddit.com/r/artificial/comments/1rspxj1/anthropicpentagon_battle_shows_how_big_tech_has/",
-          "date": "2026-03-13T15:09:48+00:00"
-        },
-        {
           "title": "Which states have been the fastest to adopt AI in the workplace?",
           "link": "https://www.reddit.com/r/artificial/comments/1rsp8ym/which_states_have_been_the_fastest_to_adopt_ai_in/",
           "date": "2026-03-13T14:44:22+00:00"
+        },
+        {
+          "title": "Anthropic-Pentagon battle shows how big tech has reversed course on AI and war",
+          "link": "https://www.reddit.com/r/artificial/comments/1rspxj1/anthropicpentagon_battle_shows_how_big_tech_has/",
+          "date": "2026-03-13T15:09:48+00:00"
         },
         {
           "title": "Built an AI memory system based on cognitive science instead of vector databases",
@@ -417,6 +469,16 @@
           "date": "Fri, 13 Mar 2026 11:00:47 GMT"
         },
         {
+          "title": "The quiz that keeps families connected | Brief letters",
+          "link": "https://www.theguardian.com/games/2026/mar/13/the-quiz-that-keeps-families-connected",
+          "date": "Fri, 13 Mar 2026 17:25:54 GMT"
+        },
+        {
+          "title": "Grammarly removes AI Expert Review feature mimicking writers after backlash",
+          "link": "https://www.theguardian.com/books/2026/mar/13/grammarly-removes-ai-expert-review-feature-mimicking-writers-after-backlash",
+          "date": "Fri, 13 Mar 2026 17:00:07 GMT"
+        },
+        {
           "title": "Will AI take Australian jobs, or is it just an excuse for corporate restructure?",
           "link": "https://www.theguardian.com/australia-news/2026/mar/14/ai-jobs-australia-corporate-restructure",
           "date": "Fri, 13 Mar 2026 14:00:52 GMT"
@@ -425,16 +487,6 @@
           "title": "AI-generated Iran images are widespread. How do we know what to believe? | Margaret Sullivan",
           "link": "https://www.theguardian.com/commentisfree/2026/mar/13/ai-generated-fake-iran-images",
           "date": "Fri, 13 Mar 2026 12:00:50 GMT"
-        },
-        {
-          "title": "AI toys for young children must be more tightly regulated, say researchers",
-          "link": "https://www.theguardian.com/technology/2026/mar/13/ai-toys-young-children-tigher-regulations-reseachers",
-          "date": "Fri, 13 Mar 2026 07:35:17 GMT"
-        },
-        {
-          "title": "Tennessee grandmother jailed after AI facial recognition error links her to fraud",
-          "link": "https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud",
-          "date": "Thu, 12 Mar 2026 20:29:55 GMT"
         }
       ],
       "error": null
@@ -442,39 +494,18 @@
     {
       "name": "artificial intelligence Archives - SpaceNews",
       "url": "https://spacenews.com/tag/artificial-intelligence/feed/",
-      "items": [
-        {
-          "title": "Another Earth raises $4 million to boost AI training with synthetic satellite data",
-          "link": "https://spacenews.com/another-earth-raises-4-million-to-boost-ai-training-with-synthetic-satellite-data/",
-          "date": "Thu, 12 Mar 2026 16:10:25 +0000"
-        },
-        {
-          "title": "Unlocking AI in space: the case for greater industry and space agency collaboration",
-          "link": "https://spacenews.com/unlocking-ai-in-space-the-case-for-greater-industry-and-space-agency-collaboration/",
-          "date": "Thu, 05 Mar 2026 14:00:00 +0000"
-        },
-        {
-          "title": "Mutable Tactics raises $2.1 million for AI drone coordination in satellite-denied environments",
-          "link": "https://spacenews.com/mutable-tactics-raises-2-1-million-for-ai-drone-coordination-in-satellite-denied-environments/",
-          "date": "Wed, 04 Mar 2026 16:31:01 +0000"
-        },
-        {
-          "title": "CesiumAstro acquires Vidrovr to embed AI in communications systems",
-          "link": "https://spacenews.com/cesiumastro-acquires-vidrovr-to-embed-ai-in-communications-systems/",
-          "date": "Thu, 26 Feb 2026 13:00:00 +0000"
-        },
-        {
-          "title": "Boeing demonstrates large language model for space-grade hardware",
-          "link": "https://spacenews.com/boeing-demonstrates-large-language-model-for-space-grade-hardware/",
-          "date": "Tue, 24 Feb 2026 01:47:12 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:47:3: mismatched tag"
     },
     {
       "name": "Artificial Intelligence \u2013 Futurism",
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
+        {
+          "title": "Iran Declares Google and Microsoft to Be Military Targets",
+          "link": "https://futurism.com/robots-and-machines/iran-google-microsoft-targets",
+          "date": "Fri, 13 Mar 2026 13:22:00 -0400"
+        },
         {
           "title": "Elon Musk Says He\u2019s Epically Screwed Up at xAI, Is Rebuilding \u201cFrom the Foundations\u201d",
           "link": "https://futurism.com/artificial-intelligence/elon-musk-screwed-up-xai-rebuilding",
@@ -494,11 +525,6 @@
           "title": "Disturbing AI Food Slop Is Strangling the Internet",
           "link": "https://futurism.com/artificial-intelligence/ai-food-slop-videos",
           "date": "Thu, 12 Mar 2026 16:02:34 -0400"
-        },
-        {
-          "title": "People Really, Really Despise AI \u2014 Even More Than ICE, Poll Finds",
-          "link": "https://futurism.com/artificial-intelligence/hate-ai-more-ice-poll",
-          "date": "Thu, 12 Mar 2026 13:16:40 -0400"
         }
       ],
       "error": null
