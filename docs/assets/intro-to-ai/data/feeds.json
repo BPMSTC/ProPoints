@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-13T15:39:54.943727+00:00",
+  "generatedAt": "2026-03-13T16:37:27.234262+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "ZEDEDA Survey Finds Enterprise Edge AI Entering New Phase",
-          "link": "https://ai-techpark.com/zededa-survey-finds-enterprise-edge-ai-entering-new-phase/",
-          "date": "Fri, 13 Mar 2026 12:30:00 +0000"
-        },
-        {
-          "title": "Coder Wins 2026 ChannelVision AI for Partner Relationship Innovation",
-          "link": "https://ai-techpark.com/coder-wins-2026-channelvision-ai-for-partner-relationship-innovation/",
-          "date": "Fri, 13 Mar 2026 10:30:00 +0000"
-        },
-        {
-          "title": "WVU Medicine Scales Abridge\u2019s AI Platform Across Rural Hospitals and Clinics",
-          "link": "https://ai-techpark.com/wvu-medicine-scales-abridges-ai-platform-across-rural-hospitals-and-clinics/",
-          "date": "Fri, 13 Mar 2026 10:15:00 +0000"
-        },
-        {
-          "title": "FluidCloud Unveils the World\u2019s First Large Infrastructure Model",
-          "link": "https://ai-techpark.com/fluidcloud-unveils-the-worlds-first-large-infrastructure-model/",
-          "date": "Fri, 13 Mar 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Wonderful Lands $150M Series B to Expand AI Across 30+ Markets",
-          "link": "https://ai-techpark.com/wonderful-lands-150m-series-b-to-expand-ai-across-30-markets/",
-          "date": "Fri, 13 Mar 2026 08:30:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -202,34 +176,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "E.SUN Bank and IBM build AI governance framework for banking",
-          "link": "https://www.artificialintelligence-news.com/news/e-sun-bank-and-ibm-build-ai-governance-framework-for-banking/",
-          "date": "Fri, 13 Mar 2026 10:00:00 +0000"
-        },
-        {
-          "title": "BMW puts humanoid robots to work in Germany\u2013and Europe\u2019s factories are watching",
-          "link": "https://www.artificialintelligence-news.com/news/bmw-humanoid-robots-manufacturing-europe-leipzig/",
-          "date": "Fri, 13 Mar 2026 09:00:00 +0000"
-        },
-        {
-          "title": "How multi-agent AI economics influence business automation",
-          "link": "https://www.artificialintelligence-news.com/news/how-multi-agent-ai-economics-business-automation/",
-          "date": "Thu, 12 Mar 2026 15:01:20 +0000"
-        },
-        {
-          "title": "FIFA is rebuilding world football operations on AI. The World Cup is just the first test",
-          "link": "https://www.artificialintelligence-news.com/news/fifa-ai-world-cup-2026-lenovo/",
-          "date": "Thu, 12 Mar 2026 08:00:00 +0000"
-        },
-        {
-          "title": "Ai2: Building physical AI with virtual simulation data",
-          "link": "https://www.artificialintelligence-news.com/news/ai2-building-physical-ai-with-virtual-simulation-data/",
-          "date": "Wed, 11 Mar 2026 16:50:56 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -368,29 +316,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "M5 MacBook Air review: Still the best MacBook for almost everybody",
+          "link": "https://arstechnica.com/gadgets/2026/03/m5-macbook-air-review-still-the-best-macbook-for-almost-everybody/",
+          "date": "Fri, 13 Mar 2026 16:31:29 +0000"
+        },
+        {
+          "title": "Magnetars drag spacetime to power superluminous supernovae",
+          "link": "https://arstechnica.com/science/2026/03/magnetars-drag-spacetime-to-power-superluminous-supernovae/",
+          "date": "Fri, 13 Mar 2026 15:59:40 +0000"
+        },
+        {
+          "title": "Signs of hope: As measles spread, New Mexico vaccinations surged 55%",
+          "link": "https://arstechnica.com/health/2026/03/signs-of-hope-as-measles-spread-new-mexico-vaccinations-surged-55/",
+          "date": "Fri, 13 Mar 2026 15:44:20 +0000"
+        },
+        {
+          "title": "Microsoft is working to eliminate PC gaming's \"compiling shaders\" wait times",
+          "link": "https://arstechnica.com/gaming/2026/03/microsoft-is-working-to-eliminate-pc-gamings-compiling-shaders-wait-times/",
+          "date": "Fri, 13 Mar 2026 15:31:38 +0000"
+        },
+        {
           "title": "Aliens announce their presence in latest Disclosure Day trailer",
           "link": "https://arstechnica.com/culture/2026/03/aliens-announce-their-presence-in-latest-disclosure-day-trailer/",
           "date": "Fri, 13 Mar 2026 14:50:45 +0000"
-        },
-        {
-          "title": "BYD's latest EVs can get close to full charge in just 12 minutes",
-          "link": "https://arstechnica.com/cars/2026/03/byds-latest-evs-can-get-close-to-full-charge-in-just-12-minutes/",
-          "date": "Fri, 13 Mar 2026 14:20:57 +0000"
-        },
-        {
-          "title": "Rocket Report: Pentagon needs more missile interceptors; Artemis II clears review",
-          "link": "https://arstechnica.com/space/2026/03/rocket-report-pentagon-needs-more-missile-interceptors-artemis-ii-clears-review/",
-          "date": "Fri, 13 Mar 2026 12:46:30 +0000"
-        },
-        {
-          "title": "The who, what, and why of the attack that has shut down Stryker's Windows network",
-          "link": "https://arstechnica.com/security/2026/03/whats-known-about-wiper-attack-on-stryker-a-major-supplier-of-lifesaving-devices/",
-          "date": "Thu, 12 Mar 2026 22:18:11 +0000"
-        },
-        {
-          "title": "Live Nation director boasted of gouging ticket buyers, \"robbing them blind\"",
-          "link": "https://arstechnica.com/tech-policy/2026/03/live-nation-director-boasted-of-gouging-ticket-buyers-robbing-them-blind/",
-          "date": "Thu, 12 Mar 2026 20:47:58 +0000"
         }
       ],
       "error": null
@@ -410,14 +358,14 @@
           "date": "2026-03-13T11:52:11+00:00"
         },
         {
-          "title": "Welcome to Facebook, 2028",
-          "link": "https://www.reddit.com/r/artificial/comments/1rsnamo/welcome_to_facebook_2028/",
-          "date": "2026-03-13T13:26:57+00:00"
-        },
-        {
           "title": "Anthropic-Pentagon battle shows how big tech has reversed course on AI and war",
           "link": "https://www.reddit.com/r/artificial/comments/1rspxj1/anthropicpentagon_battle_shows_how_big_tech_has/",
           "date": "2026-03-13T15:09:48+00:00"
+        },
+        {
+          "title": "Which states have been the fastest to adopt AI in the workplace?",
+          "link": "https://www.reddit.com/r/artificial/comments/1rsp8ym/which_states_have_been_the_fastest_to_adopt_ai_in/",
+          "date": "2026-03-13T14:44:22+00:00"
         },
         {
           "title": "Built an AI memory system based on cognitive science instead of vector databases",
@@ -528,6 +476,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Elon Musk Says He\u2019s Epically Screwed Up at xAI, Is Rebuilding \u201cFrom the Foundations\u201d",
+          "link": "https://futurism.com/artificial-intelligence/elon-musk-screwed-up-xai-rebuilding",
+          "date": "Fri, 13 Mar 2026 12:06:37 -0400"
+        },
+        {
           "title": "Rumors Fly That a Famous Actor Is Dating an AI Chatbot",
           "link": "https://futurism.com/artificial-intelligence/rumors-famous-actor-dating-ai-chatbot",
           "date": "Fri, 13 Mar 2026 11:07:44 -0400"
@@ -546,11 +499,6 @@
           "title": "People Really, Really Despise AI \u2014 Even More Than ICE, Poll Finds",
           "link": "https://futurism.com/artificial-intelligence/hate-ai-more-ice-poll",
           "date": "Thu, 12 Mar 2026 13:16:40 -0400"
-        },
-        {
-          "title": "Grammarly Forgot to Mention Something in Its Giant Apology That Changes the Whole Story",
-          "link": "https://futurism.com/artificial-intelligence/grammarly-apology-lawsuit",
-          "date": "Thu, 12 Mar 2026 10:12:53 -0400"
         }
       ],
       "error": null
