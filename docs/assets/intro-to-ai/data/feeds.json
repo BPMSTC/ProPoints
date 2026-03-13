@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-13T05:46:44.973166+00:00",
+  "generatedAt": "2026-03-13T06:49:58.854529+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Genesis AI Vivian Sun to Advance Commercialization",
+          "link": "https://ai-techpark.com/genesis-ai-vivian-sun-to-advance-commercialization/",
+          "date": "Thu, 12 Mar 2026 14:00:00 +0000"
+        },
+        {
+          "title": "Innovaccer, Databricks Partner to Operationalize Healthcare AI",
+          "link": "https://ai-techpark.com/innovaccer-databricks-partner-to-operationalize-healthcare-ai/",
+          "date": "Thu, 12 Mar 2026 13:00:00 +0000"
+        },
+        {
+          "title": "HABS collaborates with Microsoft to build the next gen Human-Aware AI",
+          "link": "https://ai-techpark.com/habs-collaborates-with-microsoft-to-build-the-next-gen-human-aware-ai/",
+          "date": "Thu, 12 Mar 2026 10:45:00 +0000"
+        },
+        {
+          "title": "ECI Releases AI Readiness Report on SMB Adoption Gap",
+          "link": "https://ai-techpark.com/eci-releases-ai-readiness-report-on-smb-adoption-gap/",
+          "date": "Thu, 12 Mar 2026 10:30:00 +0000"
+        },
+        {
+          "title": "Standard Kernel Raises $20M Seed to Let AI Rewrite the Software That Runs AI",
+          "link": "https://ai-techpark.com/standard-kernel-raises-20m-seed-to-let-ai-rewrite-the-software-that-runs-ai/",
+          "date": "Thu, 12 Mar 2026 09:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -389,14 +415,14 @@
           "date": "2026-03-13T04:12:27+00:00"
         },
         {
-          "title": "Machine Identity? What should happen to a superseded surgeon robot?",
-          "link": "https://www.reddit.com/r/artificial/comments/1rsetqx/machine_identity_what_should_happen_to_a/",
-          "date": "2026-03-13T05:32:08+00:00"
-        },
-        {
           "title": "Meta buys 'social media network for AI' Moltbook, and says the deal will bring \"new ways for AI agents to work for people and businesses\".",
           "link": "https://www.reddit.com/r/artificial/comments/1rrkogg/meta_buys_social_media_network_for_ai_moltbook/",
           "date": "2026-03-12T07:59:30+00:00"
+        },
+        {
+          "title": "Hustlers are cashing in on China\u2019s OpenClaw AI craze",
+          "link": "https://www.reddit.com/r/artificial/comments/1rrkvkt/hustlers_are_cashing_in_on_chinas_openclaw_ai/",
+          "date": "2026-03-12T08:12:19+00:00"
         }
       ],
       "error": null
