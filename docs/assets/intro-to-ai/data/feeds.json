@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-03-13T11:29:15.175714+00:00",
+  "generatedAt": "2026-03-13T12:53:23.299267+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "People Hate Datacenters, Survey Finds",
+          "link": "https://www.404media.co/people-hate-datacenters-survey-finds/",
+          "date": "Fri, 13 Mar 2026 12:40:01 GMT"
+        },
         {
           "title": "I Watched 6 Hours of DOGE Bro Testimony. Here's What They Had to Say For Themselves",
           "link": "https://www.404media.co/i-watched-6-hours-of-doge-bro-testimony-heres-what-they-had-to-say-for-themselves/",
@@ -24,11 +29,6 @@
           "title": "Podcast: How to Talk to Your Friend Experiencing 'AI Psychosis'",
           "link": "https://www.404media.co/podcast-how-to-talk-to-your-friend-experiencing-ai-psychosis/",
           "date": "Wed, 11 Mar 2026 14:37:19 GMT"
-        },
-        {
-          "title": "From Flock to ICE, Here\u2019s a Breakdown of How You\u2019re Being Watched",
-          "link": "https://www.404media.co/flock-ice-surveillance-technology-reddit-ama/",
-          "date": "Wed, 11 Mar 2026 14:27:56 GMT"
         }
       ],
       "error": null
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "Wonderful Lands $150M Series B to Expand AI Across 30+ Markets",
-          "link": "https://ai-techpark.com/wonderful-lands-150m-series-b-to-expand-ai-across-30-markets/",
-          "date": "Fri, 13 Mar 2026 08:30:00 +0000"
-        },
-        {
-          "title": "Genesis AI Vivian Sun to Advance Commercialization",
-          "link": "https://ai-techpark.com/genesis-ai-vivian-sun-to-advance-commercialization/",
-          "date": "Thu, 12 Mar 2026 14:00:00 +0000"
-        },
-        {
-          "title": "Innovaccer, Databricks Partner to Operationalize Healthcare AI",
-          "link": "https://ai-techpark.com/innovaccer-databricks-partner-to-operationalize-healthcare-ai/",
-          "date": "Thu, 12 Mar 2026 13:00:00 +0000"
-        },
-        {
-          "title": "HABS collaborates with Microsoft to build the next gen Human-Aware AI",
-          "link": "https://ai-techpark.com/habs-collaborates-with-microsoft-to-build-the-next-gen-human-aware-ai/",
-          "date": "Thu, 12 Mar 2026 10:45:00 +0000"
-        },
-        {
-          "title": "ECI Releases AI Readiness Report on SMB Adoption Gap",
-          "link": "https://ai-techpark.com/eci-releases-ai-readiness-report-on-smb-adoption-gap/",
-          "date": "Thu, 12 Mar 2026 10:30:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -400,14 +374,19 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
+          "title": "China's ByteDance Outsmarts US Sanctions With Offshore Nvidia AI Buildout",
+          "link": "https://www.reddit.com/r/artificial/comments/1rsm8ih/chinas_bytedance_outsmarts_us_sanctions_with/",
+          "date": "2026-03-13T12:40:44+00:00"
+        },
+        {
+          "title": "How we\u2019re reimagining Maps with Gemini",
+          "link": "https://www.reddit.com/r/artificial/comments/1rsl7kz/how_were_reimagining_maps_with_gemini/",
+          "date": "2026-03-13T11:52:11+00:00"
+        },
+        {
           "title": "Built an AI memory system based on cognitive science instead of vector databases",
           "link": "https://www.reddit.com/r/artificial/comments/1rrss36/built_an_ai_memory_system_based_on_cognitive/",
           "date": "2026-03-12T14:48:43+00:00"
-        },
-        {
-          "title": "Looking for feedback on my AI tools directory...what would make it better?",
-          "link": "https://www.reddit.com/r/artificial/comments/1rs7fud/looking_for_feedback_on_my_ai_tools_directorywhat/",
-          "date": "2026-03-12T23:47:13+00:00"
         },
         {
           "title": "Systemd 260-rc3 released with AI Agents documentation added",
@@ -418,11 +397,6 @@
           "title": "Hustlers are cashing in on China\u2019s OpenClaw AI craze",
           "link": "https://www.reddit.com/r/artificial/comments/1rrkvkt/hustlers_are_cashing_in_on_chinas_openclaw_ai/",
           "date": "2026-03-12T08:12:19+00:00"
-        },
-        {
-          "title": "Meta buys 'social media network for AI' Moltbook, and says the deal will bring \"new ways for AI agents to work for people and businesses\".",
-          "link": "https://www.reddit.com/r/artificial/comments/1rrkogg/meta_buys_social_media_network_for_ai_moltbook/",
-          "date": "2026-03-12T07:59:30+00:00"
         }
       ],
       "error": null
@@ -469,6 +443,11 @@
           "date": "Fri, 13 Mar 2026 11:00:47 GMT"
         },
         {
+          "title": "AI-generated Iran images are widespread. How do we know what to believe? | Margaret Sullivan",
+          "link": "https://www.theguardian.com/commentisfree/2026/mar/13/ai-generated-fake-iran-images",
+          "date": "Fri, 13 Mar 2026 12:00:50 GMT"
+        },
+        {
           "title": "AI toys for young children must be more tightly regulated, say researchers",
           "link": "https://www.theguardian.com/technology/2026/mar/13/ai-toys-young-children-tigher-regulations-reseachers",
           "date": "Fri, 13 Mar 2026 07:35:17 GMT"
@@ -482,11 +461,6 @@
           "title": "Lincolnshire council approves AI datacentre despite emissions warnings",
           "link": "https://www.theguardian.com/technology/2026/mar/12/council-approves-lincolnshire-datacentre-despite-emissions-warnings",
           "date": "Thu, 12 Mar 2026 16:47:58 GMT"
-        },
-        {
-          "title": "They were dating AI partners when they found real love \u2013 with each other",
-          "link": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/12/ai-partners-dumped",
-          "date": "Thu, 12 Mar 2026 15:00:33 GMT"
         }
       ],
       "error": null
@@ -560,6 +534,16 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Google's AI Searches Love to Refer You Back to Google",
+          "link": "https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/",
+          "date": "Fri, 13 Mar 2026 12:31:55 +0000"
+        },
+        {
+          "title": "China\u2019s OpenClaw Boom Is a Gold Rush for AI Companies",
+          "link": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
+          "date": "Fri, 13 Mar 2026 12:00:00 +0000"
+        },
+        {
           "title": "Gamers\u2019 Worst Nightmares About AI Are Coming True",
           "link": "https://www.wired.com/story/gamers-ai-nightmares-are-coming-true/",
           "date": "Fri, 13 Mar 2026 11:00:00 +0000"
@@ -573,16 +557,6 @@
           "title": "\u2018Uncanny Valley\u2019: Anthropic\u2019s DOD Lawsuit, War Memes, and AI Coming for VC Jobs",
           "link": "https://www.wired.com/story/uncanny-valley-podcast-anthropic-department-defense-lawsuit-iran-war-memes-artificial-intelligence-venture-capital/",
           "date": "Thu, 12 Mar 2026 19:48:21 +0000"
-        },
-        {
-          "title": "Google Is Not Ruling Out Ads in Gemini",
-          "link": "https://www.wired.com/story/google-nick-fox-advertising-search-ai-gemini/",
-          "date": "Thu, 12 Mar 2026 18:15:00 +0000"
-        },
-        {
-          "title": "Google Maps Gets Chatty With a New Gemini-Powered Interface",
-          "link": "https://www.wired.com/story/google-maps-ask-maps-gemini-powered-tool/",
-          "date": "Thu, 12 Mar 2026 12:30:00 +0000"
         }
       ],
       "error": null
