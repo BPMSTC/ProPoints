@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-13T18:37:58.420895+00:00",
+  "generatedAt": "2026-03-13T19:29:43.828494+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -132,34 +132,8 @@
     {
       "name": "AI Archives | KnowTechie",
       "url": "https://knowtechie.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "OpenAI launches ChatGPT Health: Here\u2019s what to know",
-          "link": "https://knowtechie.com/openai-launches-chatgpt-health/",
-          "date": "Thu, 08 Jan 2026 13:25:00 +0000"
-        },
-        {
-          "title": "Google, Character.ai settle lawsuits over teen suicides",
-          "link": "https://knowtechie.com/google-characterai-settlement-cases/",
-          "date": "Thu, 08 Jan 2026 12:59:26 +0000"
-        },
-        {
-          "title": "Deepfakes are fooling everyone\u2014what you need to know now",
-          "link": "https://knowtechie.com/deepfakes-improve-2025-deception/",
-          "date": "Mon, 05 Jan 2026 15:24:53 +0000"
-        },
-        {
-          "title": "ChatGPT becomes WebMD\u201440M Americans seek health advice online",
-          "link": "https://knowtechie.com/americans-turn-to-chatgpt-health/",
-          "date": "Mon, 05 Jan 2026 15:09:52 +0000"
-        },
-        {
-          "title": "Grok chatbot\u2019s safety fails, releases explicit images of minors",
-          "link": "https://knowtechie.com/grok-chatbot-ai-image-safety/",
-          "date": "Fri, 02 Jan 2026 17:19:32 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:29:112: not well-formed (invalid token)"
     },
     {
       "name": "AI Business",
