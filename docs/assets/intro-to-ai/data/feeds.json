@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-13T12:53:23.299267+00:00",
+  "generatedAt": "2026-03-13T13:58:59.661262+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "ZEDEDA Survey Finds Enterprise Edge AI Entering New Phase",
+          "link": "https://ai-techpark.com/zededa-survey-finds-enterprise-edge-ai-entering-new-phase/",
+          "date": "Fri, 13 Mar 2026 12:30:00 +0000"
+        },
+        {
+          "title": "Coder Wins 2026 ChannelVision AI for Partner Relationship Innovation",
+          "link": "https://ai-techpark.com/coder-wins-2026-channelvision-ai-for-partner-relationship-innovation/",
+          "date": "Fri, 13 Mar 2026 10:30:00 +0000"
+        },
+        {
+          "title": "WVU Medicine Scales Abridge\u2019s AI Platform Across Rural Hospitals and Clinics",
+          "link": "https://ai-techpark.com/wvu-medicine-scales-abridges-ai-platform-across-rural-hospitals-and-clinics/",
+          "date": "Fri, 13 Mar 2026 10:15:00 +0000"
+        },
+        {
+          "title": "FluidCloud Unveils the World\u2019s First Large Infrastructure Model",
+          "link": "https://ai-techpark.com/fluidcloud-unveils-the-worlds-first-large-infrastructure-model/",
+          "date": "Fri, 13 Mar 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Wonderful Lands $150M Series B to Expand AI Across 30+ Markets",
+          "link": "https://ai-techpark.com/wonderful-lands-150m-series-b-to-expand-ai-across-30-markets/",
+          "date": "Fri, 13 Mar 2026 08:30:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -342,6 +368,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Rocket Report: Pentagon needs more missile interceptors; Artemis II clears review",
+          "link": "https://arstechnica.com/space/2026/03/rocket-report-pentagon-needs-more-missile-interceptors-artemis-ii-clears-review/",
+          "date": "Fri, 13 Mar 2026 12:46:30 +0000"
+        },
+        {
           "title": "The who, what, and why of the attack that has shut down Stryker's Windows network",
           "link": "https://arstechnica.com/security/2026/03/whats-known-about-wiper-attack-on-stryker-a-major-supplier-of-lifesaving-devices/",
           "date": "Thu, 12 Mar 2026 22:18:11 +0000"
@@ -360,11 +391,6 @@
           "title": "Trump's DOJ is not falling for Sam Bankman-Fried's MAGA makeover on X",
           "link": "https://arstechnica.com/tech-policy/2026/03/trumps-doj-is-not-falling-for-sam-bankman-frieds-maga-makeover-on-x/",
           "date": "Thu, 12 Mar 2026 18:58:07 +0000"
-        },
-        {
-          "title": "Lucid announces midsize EV platform, says profitability lies with SUVs",
-          "link": "https://arstechnica.com/cars/2026/03/lucid-announces-midsize-ev-platform-says-profitability-lies-with-suvs/",
-          "date": "Thu, 12 Mar 2026 17:54:35 +0000"
         }
       ],
       "error": null
@@ -384,6 +410,11 @@
           "date": "2026-03-13T11:52:11+00:00"
         },
         {
+          "title": "Welcome to Facebook, 2028",
+          "link": "https://www.reddit.com/r/artificial/comments/1rsnamo/welcome_to_facebook_2028/",
+          "date": "2026-03-13T13:26:57+00:00"
+        },
+        {
           "title": "Built an AI memory system based on cognitive science instead of vector databases",
           "link": "https://www.reddit.com/r/artificial/comments/1rrss36/built_an_ai_memory_system_based_on_cognitive/",
           "date": "2026-03-12T14:48:43+00:00"
@@ -392,11 +423,6 @@
           "title": "Systemd 260-rc3 released with AI Agents documentation added",
           "link": "https://www.reddit.com/r/artificial/comments/1rsdc2q/systemd_260rc3_released_with_ai_agents/",
           "date": "2026-03-13T04:12:27+00:00"
-        },
-        {
-          "title": "Hustlers are cashing in on China\u2019s OpenClaw AI craze",
-          "link": "https://www.reddit.com/r/artificial/comments/1rrkvkt/hustlers_are_cashing_in_on_chinas_openclaw_ai/",
-          "date": "2026-03-12T08:12:19+00:00"
         }
       ],
       "error": null
@@ -405,6 +431,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "As the Oscars approach, Hollywood grapples with AI\u2019s growing influence on filmmaking",
+          "link": "https://theconversation.com/as-the-oscars-approach-hollywood-grapples-with-ais-growing-influence-on-filmmaking-273766",
+          "date": "2026-03-13T12:35:16Z"
+        },
         {
           "title": "A PhD is an apprenticeship in research \u2013 we can\u2019t let AI take that away",
           "link": "https://theconversation.com/a-phd-is-an-apprenticeship-in-research-we-cant-let-ai-take-that-away-277486",
@@ -424,11 +455,6 @@
           "title": "AI doesn\u2019t \u2018see\u2019 the way that you do, and that could be a problem when it categorizes objects and scenes",
           "link": "https://theconversation.com/ai-doesnt-see-the-way-that-you-do-and-that-could-be-a-problem-when-it-categorizes-objects-and-scenes-271481",
           "date": "2026-03-11T12:27:12Z"
-        },
-        {
-          "title": "US military leans into AI for attack on Iran, but the tech doesn\u2019t lessen the need for human judgment in war",
-          "link": "https://theconversation.com/us-military-leans-into-ai-for-attack-on-iran-but-the-tech-doesnt-lessen-the-need-for-human-judgment-in-war-277831",
-          "date": "2026-03-11T12:25:51Z"
         }
       ],
       "error": null
