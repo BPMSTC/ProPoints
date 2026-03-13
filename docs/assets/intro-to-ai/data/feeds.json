@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-13T17:33:07.746450+00:00",
+  "generatedAt": "2026-03-13T18:37:58.420895+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -368,6 +368,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Subscribers to Amazon Prime Video with ads lose 4K support on April 10",
+          "link": "https://arstechnica.com/gadgets/2026/03/amazon-will-increase-ad-free-prime-video-prices-by-2-per-month-on-april-10/",
+          "date": "Fri, 13 Mar 2026 17:16:58 +0000"
+        },
+        {
           "title": "M5 MacBook Air review: Still the best MacBook for almost everybody",
           "link": "https://arstechnica.com/gadgets/2026/03/m5-macbook-air-review-still-the-best-macbook-for-almost-everybody/",
           "date": "Fri, 13 Mar 2026 16:31:29 +0000"
@@ -378,7 +383,7 @@
           "date": "Fri, 13 Mar 2026 15:59:40 +0000"
         },
         {
-          "title": "Signs of hope: As measles spread, New Mexico vaccinations surged 55%",
+          "title": "Measles vaccinations rose 291% among New Mexico adults during outbreak",
           "link": "https://arstechnica.com/health/2026/03/signs-of-hope-as-measles-spread-new-mexico-vaccinations-surged-55/",
           "date": "Fri, 13 Mar 2026 15:44:20 +0000"
         },
@@ -386,11 +391,6 @@
           "title": "Microsoft is working to eliminate PC gaming's \"compiling shaders\" wait times",
           "link": "https://arstechnica.com/gaming/2026/03/microsoft-is-working-to-eliminate-pc-gamings-compiling-shaders-wait-times/",
           "date": "Fri, 13 Mar 2026 15:31:38 +0000"
-        },
-        {
-          "title": "Aliens announce their presence in latest Disclosure Day trailer",
-          "link": "https://arstechnica.com/culture/2026/03/aliens-announce-their-presence-in-latest-disclosure-day-trailer/",
-          "date": "Fri, 13 Mar 2026 14:50:45 +0000"
         }
       ],
       "error": null
@@ -420,9 +420,9 @@
           "date": "2026-03-13T15:09:48+00:00"
         },
         {
-          "title": "Built an AI memory system based on cognitive science instead of vector databases",
-          "link": "https://www.reddit.com/r/artificial/comments/1rrss36/built_an_ai_memory_system_based_on_cognitive/",
-          "date": "2026-03-12T14:48:43+00:00"
+          "title": "Built a tool for testing AI agents in multi-turn conversations",
+          "link": "https://www.reddit.com/r/artificial/comments/1rsumcc/built_a_tool_for_testing_ai_agents_in_multiturn/",
+          "date": "2026-03-13T17:58:33+00:00"
         }
       ],
       "error": null
@@ -469,6 +469,11 @@
           "date": "Fri, 13 Mar 2026 11:00:47 GMT"
         },
         {
+          "title": "The Guardian view on changes to copyright laws: authors should be protected over big tech | Editorial",
+          "link": "https://www.theguardian.com/commentisfree/2026/mar/13/the-guardian-view-on-changes-to-copyright-laws-authors-should-be-protected-over-big-tech",
+          "date": "Fri, 13 Mar 2026 18:07:34 GMT"
+        },
+        {
           "title": "The quiz that keeps families connected | Brief letters",
           "link": "https://www.theguardian.com/games/2026/mar/13/the-quiz-that-keeps-families-connected",
           "date": "Fri, 13 Mar 2026 17:25:54 GMT"
@@ -482,11 +487,6 @@
           "title": "Will AI take Australian jobs, or is it just an excuse for corporate restructure?",
           "link": "https://www.theguardian.com/australia-news/2026/mar/14/ai-jobs-australia-corporate-restructure",
           "date": "Fri, 13 Mar 2026 14:00:52 GMT"
-        },
-        {
-          "title": "AI-generated Iran images are widespread. How do we know what to believe? | Margaret Sullivan",
-          "link": "https://www.theguardian.com/commentisfree/2026/mar/13/ai-generated-fake-iran-images",
-          "date": "Fri, 13 Mar 2026 12:00:50 GMT"
         }
       ],
       "error": null
@@ -494,13 +494,44 @@
     {
       "name": "artificial intelligence Archives - SpaceNews",
       "url": "https://spacenews.com/tag/artificial-intelligence/feed/",
-      "items": [],
-      "error": "<unknown>:47:3: mismatched tag"
+      "items": [
+        {
+          "title": "Another Earth raises $4 million to boost AI training with synthetic satellite data",
+          "link": "https://spacenews.com/another-earth-raises-4-million-to-boost-ai-training-with-synthetic-satellite-data/",
+          "date": "Thu, 12 Mar 2026 16:10:25 +0000"
+        },
+        {
+          "title": "Unlocking AI in space: the case for greater industry and space agency collaboration",
+          "link": "https://spacenews.com/unlocking-ai-in-space-the-case-for-greater-industry-and-space-agency-collaboration/",
+          "date": "Thu, 05 Mar 2026 14:00:00 +0000"
+        },
+        {
+          "title": "Mutable Tactics raises $2.1 million for AI drone coordination in satellite-denied environments",
+          "link": "https://spacenews.com/mutable-tactics-raises-2-1-million-for-ai-drone-coordination-in-satellite-denied-environments/",
+          "date": "Wed, 04 Mar 2026 16:31:01 +0000"
+        },
+        {
+          "title": "CesiumAstro acquires Vidrovr to embed AI in communications systems",
+          "link": "https://spacenews.com/cesiumastro-acquires-vidrovr-to-embed-ai-in-communications-systems/",
+          "date": "Thu, 26 Feb 2026 13:00:00 +0000"
+        },
+        {
+          "title": "Boeing demonstrates large language model for space-grade hardware",
+          "link": "https://spacenews.com/boeing-demonstrates-large-language-model-for-space-grade-hardware/",
+          "date": "Tue, 24 Feb 2026 01:47:12 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "Artificial Intelligence \u2013 Futurism",
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
+        {
+          "title": "BuzzFeed Nearing Bankruptcy After Disastrous Turn Toward AI",
+          "link": "https://futurism.com/artificial-intelligence/buzzfeed-disastrous-earnings-ai",
+          "date": "Fri, 13 Mar 2026 14:08:42 -0400"
+        },
         {
           "title": "Iran Declares Google and Microsoft to Be Military Targets",
           "link": "https://futurism.com/robots-and-machines/iran-google-microsoft-targets",
@@ -520,11 +551,6 @@
           "title": "Character.AI Is Hosting Epstein Island Roleplays Scenarios and Ghislaine Maxwell Bots",
           "link": "https://futurism.com/artificial-intelligence/character-ai-epstein-island-ghislaine-maxwell",
           "date": "Fri, 13 Mar 2026 10:06:35 -0400"
-        },
-        {
-          "title": "Disturbing AI Food Slop Is Strangling the Internet",
-          "link": "https://futurism.com/artificial-intelligence/ai-food-slop-videos",
-          "date": "Thu, 12 Mar 2026 16:02:34 -0400"
         }
       ],
       "error": null
