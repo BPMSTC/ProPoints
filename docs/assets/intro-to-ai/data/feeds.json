@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-13T13:58:59.661262+00:00",
+  "generatedAt": "2026-03-13T14:51:44.127257+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -420,9 +420,9 @@
           "date": "2026-03-12T14:48:43+00:00"
         },
         {
-          "title": "Systemd 260-rc3 released with AI Agents documentation added",
-          "link": "https://www.reddit.com/r/artificial/comments/1rsdc2q/systemd_260rc3_released_with_ai_agents/",
-          "date": "2026-03-13T04:12:27+00:00"
+          "title": "Which states have been the fastest to adopt AI in the workplace?",
+          "link": "https://www.reddit.com/r/artificial/comments/1rsp8ym/which_states_have_been_the_fastest_to_adopt_ai_in/",
+          "date": "2026-03-13T14:44:22+00:00"
         }
       ],
       "error": null
@@ -469,6 +469,11 @@
           "date": "Fri, 13 Mar 2026 11:00:47 GMT"
         },
         {
+          "title": "Will AI take Australian jobs, or is it just an excuse for corporate restructure?",
+          "link": "https://www.theguardian.com/australia-news/2026/mar/14/ai-jobs-australia-corporate-restructure",
+          "date": "Fri, 13 Mar 2026 14:00:52 GMT"
+        },
+        {
           "title": "AI-generated Iran images are widespread. How do we know what to believe? | Margaret Sullivan",
           "link": "https://www.theguardian.com/commentisfree/2026/mar/13/ai-generated-fake-iran-images",
           "date": "Fri, 13 Mar 2026 12:00:50 GMT"
@@ -482,11 +487,6 @@
           "title": "Tennessee grandmother jailed after AI facial recognition error links her to fraud",
           "link": "https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud",
           "date": "Thu, 12 Mar 2026 20:29:55 GMT"
-        },
-        {
-          "title": "Lincolnshire council approves AI datacentre despite emissions warnings",
-          "link": "https://www.theguardian.com/technology/2026/mar/12/council-approves-lincolnshire-datacentre-despite-emissions-warnings",
-          "date": "Thu, 12 Mar 2026 16:47:58 GMT"
         }
       ],
       "error": null
@@ -494,39 +494,18 @@
     {
       "name": "artificial intelligence Archives - SpaceNews",
       "url": "https://spacenews.com/tag/artificial-intelligence/feed/",
-      "items": [
-        {
-          "title": "Another Earth raises $4 million to boost AI training with synthetic satellite data",
-          "link": "https://spacenews.com/another-earth-raises-4-million-to-boost-ai-training-with-synthetic-satellite-data/",
-          "date": "Thu, 12 Mar 2026 16:10:25 +0000"
-        },
-        {
-          "title": "Unlocking AI in space: the case for greater industry and space agency collaboration",
-          "link": "https://spacenews.com/unlocking-ai-in-space-the-case-for-greater-industry-and-space-agency-collaboration/",
-          "date": "Thu, 05 Mar 2026 14:00:00 +0000"
-        },
-        {
-          "title": "Mutable Tactics raises $2.1 million for AI drone coordination in satellite-denied environments",
-          "link": "https://spacenews.com/mutable-tactics-raises-2-1-million-for-ai-drone-coordination-in-satellite-denied-environments/",
-          "date": "Wed, 04 Mar 2026 16:31:01 +0000"
-        },
-        {
-          "title": "CesiumAstro acquires Vidrovr to embed AI in communications systems",
-          "link": "https://spacenews.com/cesiumastro-acquires-vidrovr-to-embed-ai-in-communications-systems/",
-          "date": "Thu, 26 Feb 2026 13:00:00 +0000"
-        },
-        {
-          "title": "Boeing demonstrates large language model for space-grade hardware",
-          "link": "https://spacenews.com/boeing-demonstrates-large-language-model-for-space-grade-hardware/",
-          "date": "Tue, 24 Feb 2026 01:47:12 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:47:3: mismatched tag"
     },
     {
       "name": "Artificial Intelligence \u2013 Futurism",
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
+        {
+          "title": "Character.AI Is Hosting Epstein Island Roleplays Scenarios and Ghislaine Maxwell Bots",
+          "link": "https://futurism.com/artificial-intelligence/character-ai-epstein-island-ghislaine-maxwell",
+          "date": "Fri, 13 Mar 2026 10:06:35 -0400"
+        },
         {
           "title": "Disturbing AI Food Slop Is Strangling the Internet",
           "link": "https://futurism.com/artificial-intelligence/ai-food-slop-videos",
@@ -546,11 +525,6 @@
           "title": "AI Is Forcing Employees to Work Harder Than Ever",
           "link": "https://futurism.com/artificial-intelligence/ai-forcing-employees-work-harder",
           "date": "Thu, 12 Mar 2026 08:57:32 -0400"
-        },
-        {
-          "title": "Character.AI Still Hasn\u2019t Fixed Its School Shooter Problem We Identified in 2024",
-          "link": "https://futurism.com/artificial-intelligence/character-ai-school-shooter-problem",
-          "date": "Wed, 11 Mar 2026 16:39:26 -0400"
         }
       ],
       "error": null
