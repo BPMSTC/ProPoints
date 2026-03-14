@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-14T17:25:10.070777+00:00",
+  "generatedAt": "2026-03-14T18:35:21.533725+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "ZEDEDA Survey Finds Enterprise Edge AI Entering New Phase",
-          "link": "https://ai-techpark.com/zededa-survey-finds-enterprise-edge-ai-entering-new-phase/",
-          "date": "Fri, 13 Mar 2026 12:30:00 +0000"
-        },
-        {
-          "title": "Coder Wins 2026 ChannelVision AI for Partner Relationship Innovation",
-          "link": "https://ai-techpark.com/coder-wins-2026-channelvision-ai-for-partner-relationship-innovation/",
-          "date": "Fri, 13 Mar 2026 10:30:00 +0000"
-        },
-        {
-          "title": "WVU Medicine Scales Abridge\u2019s AI Platform Across Rural Hospitals and Clinics",
-          "link": "https://ai-techpark.com/wvu-medicine-scales-abridges-ai-platform-across-rural-hospitals-and-clinics/",
-          "date": "Fri, 13 Mar 2026 10:15:00 +0000"
-        },
-        {
-          "title": "FluidCloud Unveils the World\u2019s First Large Infrastructure Model",
-          "link": "https://ai-techpark.com/fluidcloud-unveils-the-worlds-first-large-infrastructure-model/",
-          "date": "Fri, 13 Mar 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Wonderful Lands $150M Series B to Expand AI Across 30+ Markets",
-          "link": "https://ai-techpark.com/wonderful-lands-150m-series-b-to-expand-ai-across-30-markets/",
-          "date": "Fri, 13 Mar 2026 08:30:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -443,6 +417,11 @@
           "date": "Sat, 14 Mar 2026 11:00:18 GMT"
         },
         {
+          "title": "This CEO warns that Democratic voters are most at risk from automation | Arwa Mahdawi",
+          "link": "https://www.theguardian.com/commentisfree/2026/mar/14/palantir-ai-marco-rubio-afghanistan-katy-perry",
+          "date": "Sat, 14 Mar 2026 18:05:53 GMT"
+        },
+        {
           "title": "NHS and MoD will be urged to buy British tech to drive growth amid Iran crisis",
           "link": "https://www.theguardian.com/business/2026/mar/14/nhs-ministry-of-defence-buy-british-tech-kickstart-growth-artificial-intelligence-rachel-reeves",
           "date": "Sat, 14 Mar 2026 06:00:12 GMT"
@@ -456,11 +435,6 @@
           "title": "The environmental cost of datacentres is rising. Is it time to quit AI?",
           "link": "https://www.theguardian.com/australia-news/2026/mar/13/ai-datacentres-environmental-impacts",
           "date": "Fri, 13 Mar 2026 23:00:02 GMT"
-        },
-        {
-          "title": "The Guardian view on changes to copyright laws: authors should be protected over big tech | Editorial",
-          "link": "https://www.theguardian.com/commentisfree/2026/mar/13/the-guardian-view-on-changes-to-copyright-laws-authors-should-be-protected-over-big-tech",
-          "date": "Fri, 13 Mar 2026 18:07:34 GMT"
         }
       ],
       "error": null
@@ -468,39 +442,18 @@
     {
       "name": "artificial intelligence Archives - SpaceNews",
       "url": "https://spacenews.com/tag/artificial-intelligence/feed/",
-      "items": [
-        {
-          "title": "Another Earth raises $4 million to boost AI training with synthetic satellite data",
-          "link": "https://spacenews.com/another-earth-raises-4-million-to-boost-ai-training-with-synthetic-satellite-data/",
-          "date": "Thu, 12 Mar 2026 16:10:25 +0000"
-        },
-        {
-          "title": "Unlocking AI in space: the case for greater industry and space agency collaboration",
-          "link": "https://spacenews.com/unlocking-ai-in-space-the-case-for-greater-industry-and-space-agency-collaboration/",
-          "date": "Thu, 05 Mar 2026 14:00:00 +0000"
-        },
-        {
-          "title": "Mutable Tactics raises $2.1 million for AI drone coordination in satellite-denied environments",
-          "link": "https://spacenews.com/mutable-tactics-raises-2-1-million-for-ai-drone-coordination-in-satellite-denied-environments/",
-          "date": "Wed, 04 Mar 2026 16:31:01 +0000"
-        },
-        {
-          "title": "CesiumAstro acquires Vidrovr to embed AI in communications systems",
-          "link": "https://spacenews.com/cesiumastro-acquires-vidrovr-to-embed-ai-in-communications-systems/",
-          "date": "Thu, 26 Feb 2026 13:00:00 +0000"
-        },
-        {
-          "title": "Boeing demonstrates large language model for space-grade hardware",
-          "link": "https://spacenews.com/boeing-demonstrates-large-language-model-for-space-grade-hardware/",
-          "date": "Tue, 24 Feb 2026 01:47:12 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:47:3: mismatched tag"
     },
     {
       "name": "Artificial Intelligence \u2013 Futurism",
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
+        {
+          "title": "Americans\u2019 Anger Against AI Data Centers Is Boiling Over",
+          "link": "https://futurism.com/artificial-intelligence/data-center-rage",
+          "date": "Sat, 14 Mar 2026 14:15:00 -0400"
+        },
         {
           "title": "Watchdog Issues Grim Warning About Letting AI Run Your Life",
           "link": "https://futurism.com/artificial-intelligence/ai-agent-manipulation",
@@ -520,11 +473,6 @@
           "title": "Professors Say AI Is Destroying Their Students\u2019 Ability to Think",
           "link": "https://futurism.com/artificial-intelligence/professors-ai-destroying-students-thinking",
           "date": "Sat, 14 Mar 2026 06:45:00 -0400"
-        },
-        {
-          "title": "Elon Musk Orders Sweeping Layoffs as xAI Fails to Catch Up",
-          "link": "https://futurism.com/artificial-intelligence/elon-musk-orders-layoffs-xai-coding",
-          "date": "Fri, 13 Mar 2026 16:28:05 -0400"
         }
       ],
       "error": null
