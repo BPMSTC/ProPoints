@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-14T05:43:31.892179+00:00",
+  "generatedAt": "2026-03-14T06:42:23.430192+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -176,34 +176,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "E.SUN Bank and IBM build AI governance framework for banking",
-          "link": "https://www.artificialintelligence-news.com/news/e-sun-bank-and-ibm-build-ai-governance-framework-for-banking/",
-          "date": "Fri, 13 Mar 2026 10:00:00 +0000"
-        },
-        {
-          "title": "BMW puts humanoid robots to work in Germany\u2013and Europe\u2019s factories are watching",
-          "link": "https://www.artificialintelligence-news.com/news/bmw-humanoid-robots-manufacturing-europe-leipzig/",
-          "date": "Fri, 13 Mar 2026 09:00:00 +0000"
-        },
-        {
-          "title": "How multi-agent AI economics influence business automation",
-          "link": "https://www.artificialintelligence-news.com/news/how-multi-agent-ai-economics-business-automation/",
-          "date": "Thu, 12 Mar 2026 15:01:20 +0000"
-        },
-        {
-          "title": "FIFA is rebuilding world football operations on AI. The World Cup is just the first test",
-          "link": "https://www.artificialintelligence-news.com/news/fifa-ai-world-cup-2026-lenovo/",
-          "date": "Thu, 12 Mar 2026 08:00:00 +0000"
-        },
-        {
-          "title": "Ai2: Building physical AI with virtual simulation data",
-          "link": "https://www.artificialintelligence-news.com/news/ai2-building-physical-ai-with-virtual-simulation-data/",
-          "date": "Wed, 11 Mar 2026 16:50:56 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -379,14 +353,14 @@
           "date": "2026-03-13T12:40:44+00:00"
         },
         {
-          "title": "Anthropic-Pentagon battle shows how big tech has reversed course on AI and war",
-          "link": "https://www.reddit.com/r/artificial/comments/1rspxj1/anthropicpentagon_battle_shows_how_big_tech_has/",
-          "date": "2026-03-13T15:09:48+00:00"
-        },
-        {
           "title": "JL-Engine-Local a dynamic agent assembly engine",
           "link": "https://www.reddit.com/r/artificial/comments/1rt4sr4/jlenginelocal_a_dynamic_agent_assembly_engine/",
           "date": "2026-03-14T00:27:32+00:00"
+        },
+        {
+          "title": "Anthropic-Pentagon battle shows how big tech has reversed course on AI and war",
+          "link": "https://www.reddit.com/r/artificial/comments/1rspxj1/anthropicpentagon_battle_shows_how_big_tech_has/",
+          "date": "2026-03-13T15:09:48+00:00"
         },
         {
           "title": "How we\u2019re reimagining Maps with Gemini",
@@ -443,6 +417,16 @@
           "date": "Fri, 13 Mar 2026 11:00:47 GMT"
         },
         {
+          "title": "NHS and MoD will be urged to buy British tech to drive growth amid Iran crisis",
+          "link": "https://www.theguardian.com/business/2026/mar/14/nhs-ministry-of-defence-buy-british-tech-kickstart-growth-artificial-intelligence-rachel-reeves",
+          "date": "Sat, 14 Mar 2026 06:00:12 GMT"
+        },
+        {
+          "title": "Invisible datacentres and capricious chips: is UK\u2019s AI bubble about to burst?",
+          "link": "https://www.theguardian.com/news/ng-interactive/2026/mar/14/datacentre-boom-is-uk-ai-bubble-about-to-burst",
+          "date": "Sat, 14 Mar 2026 06:00:11 GMT"
+        },
+        {
           "title": "The environmental cost of datacentres is rising. Is it time to quit AI?",
           "link": "https://www.theguardian.com/australia-news/2026/mar/13/ai-datacentres-environmental-impacts",
           "date": "Fri, 13 Mar 2026 23:00:02 GMT"
@@ -451,16 +435,6 @@
           "title": "The Guardian view on changes to copyright laws: authors should be protected over big tech | Editorial",
           "link": "https://www.theguardian.com/commentisfree/2026/mar/13/the-guardian-view-on-changes-to-copyright-laws-authors-should-be-protected-over-big-tech",
           "date": "Fri, 13 Mar 2026 18:07:34 GMT"
-        },
-        {
-          "title": "The quiz that keeps families connected | Brief letters",
-          "link": "https://www.theguardian.com/games/2026/mar/13/the-quiz-that-keeps-families-connected",
-          "date": "Fri, 13 Mar 2026 17:25:54 GMT"
-        },
-        {
-          "title": "Grammarly removes AI Expert Review feature mimicking writers after backlash",
-          "link": "https://www.theguardian.com/books/2026/mar/13/grammarly-removes-ai-expert-review-feature-mimicking-writers-after-backlash",
-          "date": "Fri, 13 Mar 2026 17:00:07 GMT"
         }
       ],
       "error": null
