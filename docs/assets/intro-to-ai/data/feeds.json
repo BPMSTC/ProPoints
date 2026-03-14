@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-14T06:42:23.430192+00:00",
+  "generatedAt": "2026-03-14T07:34:27.823458+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -176,8 +176,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "E.SUN Bank and IBM build AI governance framework for banking",
+          "link": "https://www.artificialintelligence-news.com/news/e-sun-bank-and-ibm-build-ai-governance-framework-for-banking/",
+          "date": "Fri, 13 Mar 2026 10:00:00 +0000"
+        },
+        {
+          "title": "BMW puts humanoid robots to work in Germany\u2013and Europe\u2019s factories are watching",
+          "link": "https://www.artificialintelligence-news.com/news/bmw-humanoid-robots-manufacturing-europe-leipzig/",
+          "date": "Fri, 13 Mar 2026 09:00:00 +0000"
+        },
+        {
+          "title": "How multi-agent AI economics influence business automation",
+          "link": "https://www.artificialintelligence-news.com/news/how-multi-agent-ai-economics-business-automation/",
+          "date": "Thu, 12 Mar 2026 15:01:20 +0000"
+        },
+        {
+          "title": "FIFA is rebuilding world football operations on AI. The World Cup is just the first test",
+          "link": "https://www.artificialintelligence-news.com/news/fifa-ai-world-cup-2026-lenovo/",
+          "date": "Thu, 12 Mar 2026 08:00:00 +0000"
+        },
+        {
+          "title": "Ai2: Building physical AI with virtual simulation data",
+          "link": "https://www.artificialintelligence-news.com/news/ai2-building-physical-ai-with-virtual-simulation-data/",
+          "date": "Wed, 11 Mar 2026 16:50:56 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -353,14 +379,14 @@
           "date": "2026-03-13T12:40:44+00:00"
         },
         {
-          "title": "JL-Engine-Local a dynamic agent assembly engine",
-          "link": "https://www.reddit.com/r/artificial/comments/1rt4sr4/jlenginelocal_a_dynamic_agent_assembly_engine/",
-          "date": "2026-03-14T00:27:32+00:00"
-        },
-        {
           "title": "Anthropic-Pentagon battle shows how big tech has reversed course on AI and war",
           "link": "https://www.reddit.com/r/artificial/comments/1rspxj1/anthropicpentagon_battle_shows_how_big_tech_has/",
           "date": "2026-03-13T15:09:48+00:00"
+        },
+        {
+          "title": "JL-Engine-Local a dynamic agent assembly engine",
+          "link": "https://www.reddit.com/r/artificial/comments/1rt4sr4/jlenginelocal_a_dynamic_agent_assembly_engine/",
+          "date": "2026-03-14T00:27:32+00:00"
         },
         {
           "title": "How we\u2019re reimagining Maps with Gemini",
