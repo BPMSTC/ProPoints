@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-14T14:26:36.891754+00:00",
+  "generatedAt": "2026-03-14T15:25:44.040162+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "ZEDEDA Survey Finds Enterprise Edge AI Entering New Phase",
+          "link": "https://ai-techpark.com/zededa-survey-finds-enterprise-edge-ai-entering-new-phase/",
+          "date": "Fri, 13 Mar 2026 12:30:00 +0000"
+        },
+        {
+          "title": "Coder Wins 2026 ChannelVision AI for Partner Relationship Innovation",
+          "link": "https://ai-techpark.com/coder-wins-2026-channelvision-ai-for-partner-relationship-innovation/",
+          "date": "Fri, 13 Mar 2026 10:30:00 +0000"
+        },
+        {
+          "title": "WVU Medicine Scales Abridge\u2019s AI Platform Across Rural Hospitals and Clinics",
+          "link": "https://ai-techpark.com/wvu-medicine-scales-abridges-ai-platform-across-rural-hospitals-and-clinics/",
+          "date": "Fri, 13 Mar 2026 10:15:00 +0000"
+        },
+        {
+          "title": "FluidCloud Unveils the World\u2019s First Large Infrastructure Model",
+          "link": "https://ai-techpark.com/fluidcloud-unveils-the-worlds-first-large-infrastructure-model/",
+          "date": "Fri, 13 Mar 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Wonderful Lands $150M Series B to Expand AI Across 30+ Markets",
+          "link": "https://ai-techpark.com/wonderful-lands-150m-series-b-to-expand-ai-across-30-markets/",
+          "date": "Fri, 13 Mar 2026 08:30:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -348,29 +374,29 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "China's ByteDance Outsmarts US Sanctions With Offshore Nvidia AI Buildout",
-          "link": "https://www.reddit.com/r/artificial/comments/1rsm8ih/chinas_bytedance_outsmarts_us_sanctions_with/",
-          "date": "2026-03-13T12:40:44+00:00"
-        },
-        {
           "title": "Why AlphaEvolve Is Already Obsolete: When AI Discovers The Next Transformer | Machine Learning Street Talk Podcast",
           "link": "https://www.reddit.com/r/artificial/comments/1rtigd4/why_alphaevolve_is_already_obsolete_when_ai/",
           "date": "2026-03-14T12:42:34+00:00"
         },
         {
-          "title": "JL-Engine-Local a dynamic agent assembly engine",
-          "link": "https://www.reddit.com/r/artificial/comments/1rt4sr4/jlenginelocal_a_dynamic_agent_assembly_engine/",
-          "date": "2026-03-14T00:27:32+00:00"
+          "title": "Gemini's linguistic capabilities",
+          "link": "https://www.reddit.com/r/artificial/comments/1rtm16a/geminis_linguistic_capabilities/",
+          "date": "2026-03-14T15:17:40+00:00"
         },
         {
-          "title": "Anthropic-Pentagon battle shows how big tech has reversed course on AI and war",
-          "link": "https://www.reddit.com/r/artificial/comments/1rspxj1/anthropicpentagon_battle_shows_how_big_tech_has/",
-          "date": "2026-03-13T15:09:48+00:00"
+          "title": "Breaking: Elon Musk announces Tesla Terafab chip plant launching in 7 days, targets 200 billion units a year",
+          "link": "https://www.reddit.com/r/artificial/comments/1rtm0vs/breaking_elon_musk_announces_tesla_terafab_chip/",
+          "date": "2026-03-14T15:17:20+00:00"
         },
         {
-          "title": "What's the REAL future of AI?",
-          "link": "https://www.reddit.com/r/artificial/comments/1rth5b2/whats_the_real_future_of_ai/",
-          "date": "2026-03-14T11:35:36+00:00"
+          "title": "Relationships with AI",
+          "link": "https://www.reddit.com/r/artificial/comments/1rtlypd/relationships_with_ai/",
+          "date": "2026-03-14T15:14:58+00:00"
+        },
+        {
+          "title": "China's ByteDance Outsmarts US Sanctions With Offshore Nvidia AI Buildout",
+          "link": "https://www.reddit.com/r/artificial/comments/1rsm8ih/chinas_bytedance_outsmarts_us_sanctions_with/",
+          "date": "2026-03-13T12:40:44+00:00"
         }
       ],
       "error": null
@@ -476,6 +502,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "CEO of Palantir Says AI Will Seize Power Away From College-Educated Women",
+          "link": "https://futurism.com/artificial-intelligence/ceo-palantir-ai-women",
+          "date": "Sat, 14 Mar 2026 10:30:00 -0400"
+        },
+        {
           "title": "Police Drones in Haiti Have Killed More Than 1,000 People",
           "link": "https://futurism.com/robots-and-machines/police-drones-haiti",
           "date": "Sat, 14 Mar 2026 08:15:00 -0400"
@@ -494,11 +525,6 @@
           "title": "BuzzFeed Nearing Bankruptcy After Disastrous Turn Toward AI",
           "link": "https://futurism.com/artificial-intelligence/buzzfeed-disastrous-earnings-ai",
           "date": "Fri, 13 Mar 2026 14:08:42 -0400"
-        },
-        {
-          "title": "Iran Declares Google and Microsoft to Be Military Targets",
-          "link": "https://futurism.com/robots-and-machines/iran-google-microsoft-targets",
-          "date": "Fri, 13 Mar 2026 13:22:00 -0400"
         }
       ],
       "error": null
