@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-14T20:25:53.906538+00:00",
+  "generatedAt": "2026-03-14T21:25:03.746678+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -379,11 +379,6 @@
           "date": "2026-03-14T12:42:34+00:00"
         },
         {
-          "title": "Are AI models actually conscious, or are we just getting better at simulating intelligence?",
-          "link": "https://www.reddit.com/r/artificial/comments/1rtt1ky/are_ai_models_actually_conscious_or_are_we_just/",
-          "date": "2026-03-14T19:52:02+00:00"
-        },
-        {
           "title": "[P] Karpathy's autoresearch with evolutionary database.",
           "link": "https://www.reddit.com/r/artificial/comments/1rtsaoy/p_karpathys_autoresearch_with_evolutionary/",
           "date": "2026-03-14T19:22:19+00:00"
@@ -397,6 +392,11 @@
           "title": "Suppose Claude Decides Your Company is Evil",
           "link": "https://www.reddit.com/r/artificial/comments/1rtp3xw/suppose_claude_decides_your_company_is_evil/",
           "date": "2026-03-14T17:19:00+00:00"
+        },
+        {
+          "title": "Impact of AI Product Recommendations on Online Purchase Intent",
+          "link": "https://www.reddit.com/r/artificial/comments/1rtou4q/impact_of_ai_product_recommendations_on_online/",
+          "date": "2026-03-14T17:08:28+00:00"
         }
       ],
       "error": null
@@ -468,8 +468,34 @@
     {
       "name": "artificial intelligence Archives - SpaceNews",
       "url": "https://spacenews.com/tag/artificial-intelligence/feed/",
-      "items": [],
-      "error": "<unknown>:47:3: mismatched tag"
+      "items": [
+        {
+          "title": "Another Earth raises $4 million to boost AI training with synthetic satellite data",
+          "link": "https://spacenews.com/another-earth-raises-4-million-to-boost-ai-training-with-synthetic-satellite-data/",
+          "date": "Thu, 12 Mar 2026 16:10:25 +0000"
+        },
+        {
+          "title": "Unlocking AI in space: the case for greater industry and space agency collaboration",
+          "link": "https://spacenews.com/unlocking-ai-in-space-the-case-for-greater-industry-and-space-agency-collaboration/",
+          "date": "Thu, 05 Mar 2026 14:00:00 +0000"
+        },
+        {
+          "title": "Mutable Tactics raises $2.1 million for AI drone coordination in satellite-denied environments",
+          "link": "https://spacenews.com/mutable-tactics-raises-2-1-million-for-ai-drone-coordination-in-satellite-denied-environments/",
+          "date": "Wed, 04 Mar 2026 16:31:01 +0000"
+        },
+        {
+          "title": "CesiumAstro acquires Vidrovr to embed AI in communications systems",
+          "link": "https://spacenews.com/cesiumastro-acquires-vidrovr-to-embed-ai-in-communications-systems/",
+          "date": "Thu, 26 Feb 2026 13:00:00 +0000"
+        },
+        {
+          "title": "Boeing demonstrates large language model for space-grade hardware",
+          "link": "https://spacenews.com/boeing-demonstrates-large-language-model-for-space-grade-hardware/",
+          "date": "Tue, 24 Feb 2026 01:47:12 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "Artificial Intelligence \u2013 Futurism",
