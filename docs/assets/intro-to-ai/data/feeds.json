@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-15T18:35:39.859819+00:00",
+  "generatedAt": "2026-03-15T19:26:20.582212+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "ZEDEDA Survey Finds Enterprise Edge AI Entering New Phase",
-          "link": "https://ai-techpark.com/zededa-survey-finds-enterprise-edge-ai-entering-new-phase/",
-          "date": "Fri, 13 Mar 2026 12:30:00 +0000"
-        },
-        {
-          "title": "Coder Wins 2026 ChannelVision AI for Partner Relationship Innovation",
-          "link": "https://ai-techpark.com/coder-wins-2026-channelvision-ai-for-partner-relationship-innovation/",
-          "date": "Fri, 13 Mar 2026 10:30:00 +0000"
-        },
-        {
-          "title": "WVU Medicine Scales Abridge\u2019s AI Platform Across Rural Hospitals and Clinics",
-          "link": "https://ai-techpark.com/wvu-medicine-scales-abridges-ai-platform-across-rural-hospitals-and-clinics/",
-          "date": "Fri, 13 Mar 2026 10:15:00 +0000"
-        },
-        {
-          "title": "FluidCloud Unveils the World\u2019s First Large Infrastructure Model",
-          "link": "https://ai-techpark.com/fluidcloud-unveils-the-worlds-first-large-infrastructure-model/",
-          "date": "Fri, 13 Mar 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Wonderful Lands $150M Series B to Expand AI Across 30+ Markets",
-          "link": "https://ai-techpark.com/wonderful-lands-150m-series-b-to-expand-ai-across-30-markets/",
-          "date": "Fri, 13 Mar 2026 08:30:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -502,6 +476,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Netflix Buys Startup That Modifies Footage Using AI",
+          "link": "https://futurism.com/artificial-intelligence/netflix-buys-ai-startup-ben-afleck",
+          "date": "Sun, 15 Mar 2026 15:00:00 -0400"
+        },
+        {
           "title": "Trump Supporters Getting Scammed by AI-Generated Foot Fetish Model",
           "link": "https://futurism.com/artificial-intelligence/trump-ai-slop-model",
           "date": "Sun, 15 Mar 2026 12:45:00 -0400"
@@ -520,11 +499,6 @@
           "title": "Sam Altman Admits That AI Is Disrupting the Basic Fabric of Capitalism",
           "link": "https://futurism.com/artificial-intelligence/sam-altman-ai-labor",
           "date": "Sun, 15 Mar 2026 07:30:00 -0400"
-        },
-        {
-          "title": "New Data Centers Will Be Powered by Human Brain Cells",
-          "link": "https://futurism.com/artificial-intelligence/new-data-centers-human-brain-cells",
-          "date": "Sat, 14 Mar 2026 21:00:00 -0400"
         }
       ],
       "error": null
