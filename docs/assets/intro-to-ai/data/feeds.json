@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-15T12:48:10.224922+00:00",
+  "generatedAt": "2026-03-15T13:45:09.064590+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -176,34 +176,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "E.SUN Bank and IBM build AI governance framework for banking",
-          "link": "https://www.artificialintelligence-news.com/news/e-sun-bank-and-ibm-build-ai-governance-framework-for-banking/",
-          "date": "Fri, 13 Mar 2026 10:00:00 +0000"
-        },
-        {
-          "title": "BMW puts humanoid robots to work in Germany\u2013and Europe\u2019s factories are watching",
-          "link": "https://www.artificialintelligence-news.com/news/bmw-humanoid-robots-manufacturing-europe-leipzig/",
-          "date": "Fri, 13 Mar 2026 09:00:00 +0000"
-        },
-        {
-          "title": "How multi-agent AI economics influence business automation",
-          "link": "https://www.artificialintelligence-news.com/news/how-multi-agent-ai-economics-business-automation/",
-          "date": "Thu, 12 Mar 2026 15:01:20 +0000"
-        },
-        {
-          "title": "FIFA is rebuilding world football operations on AI. The World Cup is just the first test",
-          "link": "https://www.artificialintelligence-news.com/news/fifa-ai-world-cup-2026-lenovo/",
-          "date": "Thu, 12 Mar 2026 08:00:00 +0000"
-        },
-        {
-          "title": "Ai2: Building physical AI with virtual simulation data",
-          "link": "https://www.artificialintelligence-news.com/news/ai2-building-physical-ai-with-virtual-simulation-data/",
-          "date": "Wed, 11 Mar 2026 16:50:56 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -379,6 +353,11 @@
           "date": "2026-03-15T12:02:54+00:00"
         },
         {
+          "title": "Consultants Are Cashing in on the AI Boom - Tech News Briefing - WSJ Podcasts",
+          "link": "https://www.reddit.com/r/artificial/comments/1rue9qr/consultants_are_cashing_in_on_the_ai_boom_tech/",
+          "date": "2026-03-15T13:38:19+00:00"
+        },
+        {
           "title": "Why AlphaEvolve Is Already Obsolete: When AI Discovers The Next Transformer | Machine Learning Street Talk Podcast",
           "link": "https://www.reddit.com/r/artificial/comments/1rtigd4/why_alphaevolve_is_already_obsolete_when_ai/",
           "date": "2026-03-14T12:42:34+00:00"
@@ -392,11 +371,6 @@
           "title": "Engineering management is the next role likely to be automated by LLM agents",
           "link": "https://www.reddit.com/r/artificial/comments/1ruae1l/engineering_management_is_the_next_role_likely_to/",
           "date": "2026-03-15T10:12:07+00:00"
-        },
-        {
-          "title": "[P] Karpathy's autoresearch with evolutionary database.",
-          "link": "https://www.reddit.com/r/artificial/comments/1rtsaoy/p_karpathys_autoresearch_with_evolutionary/",
-          "date": "2026-03-14T19:22:19+00:00"
         }
       ],
       "error": null
@@ -438,6 +412,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "These aren\u2019t AI firms, they\u2019re defense contractors. We can\u2019t let them hide behind their models",
+          "link": "https://www.theguardian.com/us-news/ng-interactive/2026/mar/15/ai-defense-warfare-companies",
+          "date": "Sun, 15 Mar 2026 13:00:24 GMT"
+        },
+        {
           "title": "This CEO warns that Democratic voters are most at risk from automation | Arwa Mahdawi",
           "link": "https://www.theguardian.com/commentisfree/2026/mar/14/palantir-ai-marco-rubio-afghanistan-katy-perry",
           "date": "Sat, 14 Mar 2026 18:05:53 GMT"
@@ -456,11 +435,6 @@
           "title": "Invisible datacentres and capricious chips: is UK\u2019s AI bubble about to burst?",
           "link": "https://www.theguardian.com/news/ng-interactive/2026/mar/14/datacentre-boom-is-uk-ai-bubble-about-to-burst",
           "date": "Sat, 14 Mar 2026 06:00:11 GMT"
-        },
-        {
-          "title": "The environmental cost of datacentres is rising. Is it time to quit AI?",
-          "link": "https://www.theguardian.com/australia-news/2026/mar/13/ai-datacentres-environmental-impacts",
-          "date": "Fri, 13 Mar 2026 23:00:02 GMT"
         }
       ],
       "error": null
@@ -502,6 +476,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "The Military\u2019s AI Fever Is Leading Into Disaster, Critics Say",
+          "link": "https://futurism.com/artificial-intelligence/ai-military-civil-liberty",
+          "date": "Sun, 15 Mar 2026 09:00:00 -0400"
+        },
+        {
           "title": "Sam Altman Admits That AI Is Disrupting the Basic Fabric of Capitalism",
           "link": "https://futurism.com/artificial-intelligence/sam-altman-ai-labor",
           "date": "Sun, 15 Mar 2026 07:30:00 -0400"
@@ -520,11 +499,6 @@
           "title": "Watchdog Issues Grim Warning About Letting AI Run Your Life",
           "link": "https://futurism.com/artificial-intelligence/ai-agent-manipulation",
           "date": "Sat, 14 Mar 2026 12:45:00 -0400"
-        },
-        {
-          "title": "CEO of Palantir Says AI Will Seize Power Away From College-Educated Women",
-          "link": "https://futurism.com/artificial-intelligence/ceo-palantir-ai-women",
-          "date": "Sat, 14 Mar 2026 10:30:00 -0400"
         }
       ],
       "error": null
