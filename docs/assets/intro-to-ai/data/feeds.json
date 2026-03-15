@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-15T09:32:10.725339+00:00",
+  "generatedAt": "2026-03-15T10:27:32.753546+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "ZEDEDA Survey Finds Enterprise Edge AI Entering New Phase",
-          "link": "https://ai-techpark.com/zededa-survey-finds-enterprise-edge-ai-entering-new-phase/",
-          "date": "Fri, 13 Mar 2026 12:30:00 +0000"
-        },
-        {
-          "title": "Coder Wins 2026 ChannelVision AI for Partner Relationship Innovation",
-          "link": "https://ai-techpark.com/coder-wins-2026-channelvision-ai-for-partner-relationship-innovation/",
-          "date": "Fri, 13 Mar 2026 10:30:00 +0000"
-        },
-        {
-          "title": "WVU Medicine Scales Abridge\u2019s AI Platform Across Rural Hospitals and Clinics",
-          "link": "https://ai-techpark.com/wvu-medicine-scales-abridges-ai-platform-across-rural-hospitals-and-clinics/",
-          "date": "Fri, 13 Mar 2026 10:15:00 +0000"
-        },
-        {
-          "title": "FluidCloud Unveils the World\u2019s First Large Infrastructure Model",
-          "link": "https://ai-techpark.com/fluidcloud-unveils-the-worlds-first-large-infrastructure-model/",
-          "date": "Fri, 13 Mar 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Wonderful Lands $150M Series B to Expand AI Across 30+ Markets",
-          "link": "https://ai-techpark.com/wonderful-lands-150m-series-b-to-expand-ai-across-30-markets/",
-          "date": "Fri, 13 Mar 2026 08:30:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -374,6 +348,11 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
+          "title": "Engineering management is the next role likely to be automated by LLM agents",
+          "link": "https://www.reddit.com/r/artificial/comments/1ruae1l/engineering_management_is_the_next_role_likely_to/",
+          "date": "2026-03-15T10:12:07+00:00"
+        },
+        {
           "title": "Why AlphaEvolve Is Already Obsolete: When AI Discovers The Next Transformer | Machine Learning Street Talk Podcast",
           "link": "https://www.reddit.com/r/artificial/comments/1rtigd4/why_alphaevolve_is_already_obsolete_when_ai/",
           "date": "2026-03-14T12:42:34+00:00"
@@ -392,11 +371,6 @@
           "title": "Linux 7.1 will bring power estimate reporting for AMD Ryzen AI NPUs",
           "link": "https://www.reddit.com/r/artificial/comments/1rtrhg5/linux_71_will_bring_power_estimate_reporting_for/",
           "date": "2026-03-14T18:50:30+00:00"
-        },
-        {
-          "title": "Impact of AI Product Recommendations on Online Purchase Intent",
-          "link": "https://www.reddit.com/r/artificial/comments/1rtou4q/impact_of_ai_product_recommendations_on_online/",
-          "date": "2026-03-14T17:08:28+00:00"
         }
       ],
       "error": null
