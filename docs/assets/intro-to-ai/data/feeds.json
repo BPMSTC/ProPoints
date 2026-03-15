@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-15T15:27:48.032547+00:00",
+  "generatedAt": "2026-03-15T16:29:46.072135+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "ZEDEDA Survey Finds Enterprise Edge AI Entering New Phase",
+          "link": "https://ai-techpark.com/zededa-survey-finds-enterprise-edge-ai-entering-new-phase/",
+          "date": "Fri, 13 Mar 2026 12:30:00 +0000"
+        },
+        {
+          "title": "Coder Wins 2026 ChannelVision AI for Partner Relationship Innovation",
+          "link": "https://ai-techpark.com/coder-wins-2026-channelvision-ai-for-partner-relationship-innovation/",
+          "date": "Fri, 13 Mar 2026 10:30:00 +0000"
+        },
+        {
+          "title": "WVU Medicine Scales Abridge\u2019s AI Platform Across Rural Hospitals and Clinics",
+          "link": "https://ai-techpark.com/wvu-medicine-scales-abridges-ai-platform-across-rural-hospitals-and-clinics/",
+          "date": "Fri, 13 Mar 2026 10:15:00 +0000"
+        },
+        {
+          "title": "FluidCloud Unveils the World\u2019s First Large Infrastructure Model",
+          "link": "https://ai-techpark.com/fluidcloud-unveils-the-worlds-first-large-infrastructure-model/",
+          "date": "Fri, 13 Mar 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Wonderful Lands $150M Series B to Expand AI Across 30+ Markets",
+          "link": "https://ai-techpark.com/wonderful-lands-150m-series-b-to-expand-ai-across-30-markets/",
+          "date": "Fri, 13 Mar 2026 08:30:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -368,9 +394,9 @@
           "date": "2026-03-15T12:02:54+00:00"
         },
         {
-          "title": "Why AlphaEvolve Is Already Obsolete: When AI Discovers The Next Transformer | Machine Learning Street Talk Podcast",
-          "link": "https://www.reddit.com/r/artificial/comments/1rtigd4/why_alphaevolve_is_already_obsolete_when_ai/",
-          "date": "2026-03-14T12:42:34+00:00"
+          "title": "**Seedance 2.0 by ByteDance: Is this the moment AI video finally gets serious?**",
+          "link": "https://www.reddit.com/r/artificial/comments/1ruidzl/seedance_20_by_bytedance_is_this_the_moment_ai/",
+          "date": "2026-03-15T16:24:13+00:00"
         }
       ],
       "error": null
@@ -476,6 +502,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Atlassian Lays Off 10 Percent of Its Workforce as It Pivots to AI",
+          "link": "https://futurism.com/artificial-intelligence/atlassian-ai-layoffs",
+          "date": "Sun, 15 Mar 2026 12:00:00 -0400"
+        },
+        {
           "title": "The Military\u2019s AI Fever Is Leading Into Disaster, Critics Say",
           "link": "https://futurism.com/artificial-intelligence/ai-military-civil-liberty",
           "date": "Sun, 15 Mar 2026 09:00:00 -0400"
@@ -494,11 +525,6 @@
           "title": "Americans\u2019 Anger Against AI Data Centers Is Boiling Over",
           "link": "https://futurism.com/artificial-intelligence/data-center-rage",
           "date": "Sat, 14 Mar 2026 14:15:00 -0400"
-        },
-        {
-          "title": "Watchdog Issues Grim Warning About Letting AI Run Your Life",
-          "link": "https://futurism.com/artificial-intelligence/ai-agent-manipulation",
-          "date": "Sat, 14 Mar 2026 12:45:00 -0400"
         }
       ],
       "error": null
