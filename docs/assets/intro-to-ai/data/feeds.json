@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-15T14:28:31.000639+00:00",
+  "generatedAt": "2026-03-15T15:27:48.032547+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "ZEDEDA Survey Finds Enterprise Edge AI Entering New Phase",
-          "link": "https://ai-techpark.com/zededa-survey-finds-enterprise-edge-ai-entering-new-phase/",
-          "date": "Fri, 13 Mar 2026 12:30:00 +0000"
-        },
-        {
-          "title": "Coder Wins 2026 ChannelVision AI for Partner Relationship Innovation",
-          "link": "https://ai-techpark.com/coder-wins-2026-channelvision-ai-for-partner-relationship-innovation/",
-          "date": "Fri, 13 Mar 2026 10:30:00 +0000"
-        },
-        {
-          "title": "WVU Medicine Scales Abridge\u2019s AI Platform Across Rural Hospitals and Clinics",
-          "link": "https://ai-techpark.com/wvu-medicine-scales-abridges-ai-platform-across-rural-hospitals-and-clinics/",
-          "date": "Fri, 13 Mar 2026 10:15:00 +0000"
-        },
-        {
-          "title": "FluidCloud Unveils the World\u2019s First Large Infrastructure Model",
-          "link": "https://ai-techpark.com/fluidcloud-unveils-the-worlds-first-large-infrastructure-model/",
-          "date": "Fri, 13 Mar 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Wonderful Lands $150M Series B to Expand AI Across 30+ Markets",
-          "link": "https://ai-techpark.com/wonderful-lands-150m-series-b-to-expand-ai-across-30-markets/",
-          "date": "Fri, 13 Mar 2026 08:30:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -374,9 +348,9 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "Tencent Launches QClaw: What It Means for Enterprise",
-          "link": "https://www.reddit.com/r/artificial/comments/1rucb75/tencent_launches_qclaw_what_it_means_for/",
-          "date": "2026-03-15T12:02:54+00:00"
+          "title": "Google Maps Just Got a Massive AI Upgrade",
+          "link": "https://www.reddit.com/r/artificial/comments/1rughk5/google_maps_just_got_a_massive_ai_upgrade/",
+          "date": "2026-03-15T15:10:07+00:00"
         },
         {
           "title": "Consultants Are Cashing in on the AI Boom - Tech News Briefing - WSJ Podcasts",
@@ -384,19 +358,19 @@
           "date": "2026-03-15T13:38:19+00:00"
         },
         {
+          "title": "Beyond Guesswork: Brevis Unveils 'Vera' to Cryptographically Verify Media Origins and Combat AI Deepfakes",
+          "link": "https://www.reddit.com/r/artificial/comments/1rufl02/beyond_guesswork_brevis_unveils_vera_to/",
+          "date": "2026-03-15T14:34:02+00:00"
+        },
+        {
+          "title": "Tencent Launches QClaw: What It Means for Enterprise",
+          "link": "https://www.reddit.com/r/artificial/comments/1rucb75/tencent_launches_qclaw_what_it_means_for/",
+          "date": "2026-03-15T12:02:54+00:00"
+        },
+        {
           "title": "Why AlphaEvolve Is Already Obsolete: When AI Discovers The Next Transformer | Machine Learning Street Talk Podcast",
           "link": "https://www.reddit.com/r/artificial/comments/1rtigd4/why_alphaevolve_is_already_obsolete_when_ai/",
           "date": "2026-03-14T12:42:34+00:00"
-        },
-        {
-          "title": "Engineering management is the next role likely to be automated by LLM agents",
-          "link": "https://www.reddit.com/r/artificial/comments/1ruae1l/engineering_management_is_the_next_role_likely_to/",
-          "date": "2026-03-15T10:12:07+00:00"
-        },
-        {
-          "title": "Suppose Claude Decides Your Company is Evil",
-          "link": "https://www.reddit.com/r/artificial/comments/1rtp3xw/suppose_claude_decides_your_company_is_evil/",
-          "date": "2026-03-14T17:19:00+00:00"
         }
       ],
       "error": null
@@ -470,6 +444,11 @@
       "url": "https://spacenews.com/tag/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Strait of Hormuz crisis drives demand for commercial geospatial intelligence",
+          "link": "https://spacenews.com/strait-of-hormuz-crisis-drives-demand-for-commercial-geospatial-intelligence/",
+          "date": "Sun, 15 Mar 2026 15:06:01 +0000"
+        },
+        {
           "title": "Another Earth raises $4 million to boost AI training with synthetic satellite data",
           "link": "https://spacenews.com/another-earth-raises-4-million-to-boost-ai-training-with-synthetic-satellite-data/",
           "date": "Thu, 12 Mar 2026 16:10:25 +0000"
@@ -488,11 +467,6 @@
           "title": "CesiumAstro acquires Vidrovr to embed AI in communications systems",
           "link": "https://spacenews.com/cesiumastro-acquires-vidrovr-to-embed-ai-in-communications-systems/",
           "date": "Thu, 26 Feb 2026 13:00:00 +0000"
-        },
-        {
-          "title": "Boeing demonstrates large language model for space-grade hardware",
-          "link": "https://spacenews.com/boeing-demonstrates-large-language-model-for-space-grade-hardware/",
-          "date": "Tue, 24 Feb 2026 01:47:12 +0000"
         }
       ],
       "error": null
