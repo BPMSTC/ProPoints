@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-15T13:45:09.064590+00:00",
+  "generatedAt": "2026-03-15T14:28:31.000639+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -176,8 +176,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "E.SUN Bank and IBM build AI governance framework for banking",
+          "link": "https://www.artificialintelligence-news.com/news/e-sun-bank-and-ibm-build-ai-governance-framework-for-banking/",
+          "date": "Fri, 13 Mar 2026 10:00:00 +0000"
+        },
+        {
+          "title": "BMW puts humanoid robots to work in Germany\u2013and Europe\u2019s factories are watching",
+          "link": "https://www.artificialintelligence-news.com/news/bmw-humanoid-robots-manufacturing-europe-leipzig/",
+          "date": "Fri, 13 Mar 2026 09:00:00 +0000"
+        },
+        {
+          "title": "How multi-agent AI economics influence business automation",
+          "link": "https://www.artificialintelligence-news.com/news/how-multi-agent-ai-economics-business-automation/",
+          "date": "Thu, 12 Mar 2026 15:01:20 +0000"
+        },
+        {
+          "title": "FIFA is rebuilding world football operations on AI. The World Cup is just the first test",
+          "link": "https://www.artificialintelligence-news.com/news/fifa-ai-world-cup-2026-lenovo/",
+          "date": "Thu, 12 Mar 2026 08:00:00 +0000"
+        },
+        {
+          "title": "Ai2: Building physical AI with virtual simulation data",
+          "link": "https://www.artificialintelligence-news.com/news/ai2-building-physical-ai-with-virtual-simulation-data/",
+          "date": "Wed, 11 Mar 2026 16:50:56 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -363,14 +389,14 @@
           "date": "2026-03-14T12:42:34+00:00"
         },
         {
-          "title": "Suppose Claude Decides Your Company is Evil",
-          "link": "https://www.reddit.com/r/artificial/comments/1rtp3xw/suppose_claude_decides_your_company_is_evil/",
-          "date": "2026-03-14T17:19:00+00:00"
-        },
-        {
           "title": "Engineering management is the next role likely to be automated by LLM agents",
           "link": "https://www.reddit.com/r/artificial/comments/1ruae1l/engineering_management_is_the_next_role_likely_to/",
           "date": "2026-03-15T10:12:07+00:00"
+        },
+        {
+          "title": "Suppose Claude Decides Your Company is Evil",
+          "link": "https://www.reddit.com/r/artificial/comments/1rtp3xw/suppose_claude_decides_your_company_is_evil/",
+          "date": "2026-03-14T17:19:00+00:00"
         }
       ],
       "error": null
@@ -412,6 +438,16 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "AI could give us our lives back \u2013 if we don\u2019t blow it",
+          "link": "https://www.theguardian.com/business/2026/mar/15/ai-future-of-work",
+          "date": "Sun, 15 Mar 2026 14:00:35 GMT"
+        },
+        {
+          "title": "\u2018Cruel hoax\u2019 or \u2018work-life balance nirvana\u2019: whatever happened to the four-day work week?",
+          "link": "https://www.theguardian.com/business/2026/mar/16/four-day-work-working-week-what-happened",
+          "date": "Sun, 15 Mar 2026 14:00:30 GMT"
+        },
+        {
           "title": "These aren\u2019t AI firms, they\u2019re defense contractors. We can\u2019t let them hide behind their models",
           "link": "https://www.theguardian.com/us-news/ng-interactive/2026/mar/15/ai-defense-warfare-companies",
           "date": "Sun, 15 Mar 2026 13:00:24 GMT"
@@ -425,16 +461,6 @@
           "title": "New study raises concerns about AI chatbots fueling delusional thinking",
           "link": "https://www.theguardian.com/technology/2026/mar/14/ai-chatbots-psychosis",
           "date": "Sat, 14 Mar 2026 11:00:18 GMT"
-        },
-        {
-          "title": "NHS and MoD will be urged to buy British tech to drive growth amid Iran crisis",
-          "link": "https://www.theguardian.com/business/2026/mar/14/nhs-ministry-of-defence-buy-british-tech-kickstart-growth-artificial-intelligence-rachel-reeves",
-          "date": "Sat, 14 Mar 2026 06:00:12 GMT"
-        },
-        {
-          "title": "Invisible datacentres and capricious chips: is UK\u2019s AI bubble about to burst?",
-          "link": "https://www.theguardian.com/news/ng-interactive/2026/mar/14/datacentre-boom-is-uk-ai-bubble-about-to-burst",
-          "date": "Sat, 14 Mar 2026 06:00:11 GMT"
         }
       ],
       "error": null
