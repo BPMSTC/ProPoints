@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-16T08:54:11.019908+00:00",
+  "generatedAt": "2026-03-16T10:04:50.334796+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -70,7 +70,7 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
-          "title": "Unlocking the power of data: How we built text-to-SQL with agentic RAG at Rocket Mortgage",
+          "title": "Unlocking the power of data:  How we built text-to-SQL with agentic RAG at Rocket Mortgage",
           "link": "https://www.aiacceleratorinstitute.com/unlocking-the-power-of-data-how-we-built-text-to-sql-with-agentic-rag-at-rocket-mortgage-copy/",
           "date": "Fri, 13 Mar 2026 15:00:14 GMT"
         },
@@ -102,6 +102,11 @@
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [
         {
+          "title": "ThunderSoft Showcases Edge AI Innovations at embedded world 2026",
+          "link": "https://ai-techpark.com/thundersoft-showcases-edge-ai-innovations-at-embedded-world-2026/",
+          "date": "Mon, 16 Mar 2026 08:30:00 +0000"
+        },
+        {
           "title": "Babel Street Announces Agentic Risk Intelligence for the AI-on-AI Era",
           "link": "https://ai-techpark.com/babel-street-announces-agentic-risk-intelligence-for-the-ai-on-ai-era/",
           "date": "Mon, 16 Mar 2026 07:46:50 +0000"
@@ -120,11 +125,6 @@
           "title": "WVU Medicine Scales Abridge\u2019s AI Platform Across Rural Hospitals and Clinics",
           "link": "https://ai-techpark.com/wvu-medicine-scales-abridges-ai-platform-across-rural-hospitals-and-clinics/",
           "date": "Fri, 13 Mar 2026 10:15:00 +0000"
-        },
-        {
-          "title": "FluidCloud Unveils the World\u2019s First Large Infrastructure Model",
-          "link": "https://ai-techpark.com/fluidcloud-unveils-the-worlds-first-large-infrastructure-model/",
-          "date": "Fri, 13 Mar 2026 10:00:00 +0000"
         }
       ],
       "error": null
@@ -176,34 +176,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "E.SUN Bank and IBM build AI governance framework for banking",
-          "link": "https://www.artificialintelligence-news.com/news/e-sun-bank-and-ibm-build-ai-governance-framework-for-banking/",
-          "date": "Fri, 13 Mar 2026 10:00:00 +0000"
-        },
-        {
-          "title": "BMW puts humanoid robots to work in Germany\u2013and Europe\u2019s factories are watching",
-          "link": "https://www.artificialintelligence-news.com/news/bmw-humanoid-robots-manufacturing-europe-leipzig/",
-          "date": "Fri, 13 Mar 2026 09:00:00 +0000"
-        },
-        {
-          "title": "How multi-agent AI economics influence business automation",
-          "link": "https://www.artificialintelligence-news.com/news/how-multi-agent-ai-economics-business-automation/",
-          "date": "Thu, 12 Mar 2026 15:01:20 +0000"
-        },
-        {
-          "title": "FIFA is rebuilding world football operations on AI. The World Cup is just the first test",
-          "link": "https://www.artificialintelligence-news.com/news/fifa-ai-world-cup-2026-lenovo/",
-          "date": "Thu, 12 Mar 2026 08:00:00 +0000"
-        },
-        {
-          "title": "Ai2: Building physical AI with virtual simulation data",
-          "link": "https://www.artificialintelligence-news.com/news/ai2-building-physical-ai-with-virtual-simulation-data/",
-          "date": "Wed, 11 Mar 2026 16:50:56 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -384,11 +358,6 @@
           "date": "2026-03-15T20:19:13+00:00"
         },
         {
-          "title": "After 2 questions Claude Opus 4.6 feels 60-70% overwelmed",
-          "link": "https://www.reddit.com/r/artificial/comments/1ruvrkj/after_2_questions_claude_opus_46_feels_6070/",
-          "date": "2026-03-16T01:14:15+00:00"
-        },
-        {
           "title": "Building a multi-model AI platform with auto-routing \u2014 does automatic model selection actually appeal to users or do people always want manual control?",
           "link": "https://www.reddit.com/r/artificial/comments/1ruvk79/building_a_multimodel_ai_platform_with/",
           "date": "2026-03-16T01:05:08+00:00"
@@ -397,6 +366,11 @@
           "title": "WiFi-DensePose: AI Can Track Body Positions Through Walls",
           "link": "https://www.reddit.com/r/artificial/comments/1ruzmks/wifidensepose_ai_can_track_body_positions_through/",
           "date": "2026-03-16T04:18:07+00:00"
+        },
+        {
+          "title": "After 2 questions Claude Opus 4.6 feels 60-70% overwelmed",
+          "link": "https://www.reddit.com/r/artificial/comments/1ruvrkj/after_2_questions_claude_opus_46_feels_6070/",
+          "date": "2026-03-16T01:14:15+00:00"
         }
       ],
       "error": null
@@ -534,6 +508,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "\u2018100 Video Calls Per Day\u2019: Models Are Applying to Be the Face of AI Scams",
+          "link": "https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/",
+          "date": "Mon, 16 Mar 2026 09:00:00 +0000"
+        },
+        {
           "title": "Google's AI Search Results Love to Refer You Back to Google",
           "link": "https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/",
           "date": "Fri, 13 Mar 2026 12:31:55 +0000"
@@ -552,11 +531,6 @@
           "title": "Palantir Demos Show How the Military Could Use AI Chatbots to Generate War Plans",
           "link": "https://www.wired.com/story/palantir-demos-show-how-the-military-can-use-ai-chatbots-to-generate-war-plans/",
           "date": "Fri, 13 Mar 2026 10:00:00 +0000"
-        },
-        {
-          "title": "\u2018Uncanny Valley\u2019: Anthropic\u2019s DOD Lawsuit, War Memes, and AI Coming for VC Jobs",
-          "link": "https://www.wired.com/story/uncanny-valley-podcast-anthropic-department-defense-lawsuit-iran-war-memes-artificial-intelligence-venture-capital/",
-          "date": "Thu, 12 Mar 2026 19:48:21 +0000"
         }
       ],
       "error": null
