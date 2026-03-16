@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-16T10:04:50.334796+00:00",
+  "generatedAt": "2026-03-16T11:44:38.499820+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "ThunderSoft Showcases Edge AI Innovations at embedded world 2026",
-          "link": "https://ai-techpark.com/thundersoft-showcases-edge-ai-innovations-at-embedded-world-2026/",
-          "date": "Mon, 16 Mar 2026 08:30:00 +0000"
-        },
-        {
-          "title": "Babel Street Announces Agentic Risk Intelligence for the AI-on-AI Era",
-          "link": "https://ai-techpark.com/babel-street-announces-agentic-risk-intelligence-for-the-ai-on-ai-era/",
-          "date": "Mon, 16 Mar 2026 07:46:50 +0000"
-        },
-        {
-          "title": "ZEDEDA Survey Finds Enterprise Edge AI Entering New Phase",
-          "link": "https://ai-techpark.com/zededa-survey-finds-enterprise-edge-ai-entering-new-phase/",
-          "date": "Fri, 13 Mar 2026 12:30:00 +0000"
-        },
-        {
-          "title": "Coder Wins 2026 ChannelVision AI for Partner Relationship Innovation",
-          "link": "https://ai-techpark.com/coder-wins-2026-channelvision-ai-for-partner-relationship-innovation/",
-          "date": "Fri, 13 Mar 2026 10:30:00 +0000"
-        },
-        {
-          "title": "WVU Medicine Scales Abridge\u2019s AI Platform Across Rural Hospitals and Clinics",
-          "link": "https://ai-techpark.com/wvu-medicine-scales-abridges-ai-platform-across-rural-hospitals-and-clinics/",
-          "date": "Fri, 13 Mar 2026 10:15:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -176,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "OpenAI\u2019s Frontier puts AI agents in a fight SaaS can\u2019t afford to\u00a0lose",
+          "link": "https://www.artificialintelligence-news.com/news/openai-frontier-enterprise-ai-agents-saas/",
+          "date": "Mon, 16 Mar 2026 10:00:00 +0000"
+        },
+        {
+          "title": "E.SUN Bank and IBM build AI governance framework for banking",
+          "link": "https://www.artificialintelligence-news.com/news/e-sun-bank-and-ibm-build-ai-governance-framework-for-banking/",
+          "date": "Fri, 13 Mar 2026 10:00:00 +0000"
+        },
+        {
+          "title": "BMW puts humanoid robots to work in Germany\u2013and Europe\u2019s factories are watching",
+          "link": "https://www.artificialintelligence-news.com/news/bmw-humanoid-robots-manufacturing-europe-leipzig/",
+          "date": "Fri, 13 Mar 2026 09:00:00 +0000"
+        },
+        {
+          "title": "How multi-agent AI economics influence business automation",
+          "link": "https://www.artificialintelligence-news.com/news/how-multi-agent-ai-economics-business-automation/",
+          "date": "Thu, 12 Mar 2026 15:01:20 +0000"
+        },
+        {
+          "title": "FIFA is rebuilding world football operations on AI. The World Cup is just the first test",
+          "link": "https://www.artificialintelligence-news.com/news/fifa-ai-world-cup-2026-lenovo/",
+          "date": "Thu, 12 Mar 2026 08:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -316,6 +316,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "A century after the first rocket launch, Ars staffers pick their favorites",
+          "link": "https://arstechnica.com/space/2026/03/a-century-after-the-first-rocket-launch-ars-staffers-pick-their-favorites/",
+          "date": "Mon, 16 Mar 2026 11:00:56 +0000"
+        },
+        {
           "title": "An engineering thesis disguised as a coupe: A history of the Honda Prelude",
           "link": "https://arstechnica.com/cars/2026/03/an-engineering-thesis-disguised-as-a-coupe-a-history-of-the-honda-prelude/",
           "date": "Sun, 15 Mar 2026 11:15:48 +0000"
@@ -334,11 +339,6 @@
           "title": "Woman sneezes out maggots after fly larvae get trapped in her deviated septum",
           "link": "https://arstechnica.com/health/2026/03/woman-sneezes-out-maggots-after-fly-larvae-get-trapped-in-her-deviated-septum/",
           "date": "Fri, 13 Mar 2026 22:38:10 +0000"
-        },
-        {
-          "title": "Slay the Spire 2 is a bit too familiar for its own good",
-          "link": "https://arstechnica.com/gaming/2026/03/slay-the-spire-2-is-a-bit-too-familiar-for-its-own-good/",
-          "date": "Fri, 13 Mar 2026 22:26:06 +0000"
         }
       ],
       "error": null
@@ -353,14 +353,14 @@
           "date": "2026-03-15T22:51:30+00:00"
         },
         {
-          "title": "Anyone Else Have Those Weird Dreams Where Sobbing Future Generations Beg You To Change Course?",
-          "link": "https://www.reddit.com/r/artificial/comments/1ruok4v/anyone_else_have_those_weird_dreams_where_sobbing/",
-          "date": "2026-03-15T20:19:13+00:00"
+          "title": "Does anyone actually switch between AI models mid-conversation? And if so, what happens to your context?",
+          "link": "https://www.reddit.com/r/artificial/comments/1rv6tfi/does_anyone_actually_switch_between_ai_models/",
+          "date": "2026-03-16T11:26:33+00:00"
         },
         {
-          "title": "Building a multi-model AI platform with auto-routing \u2014 does automatic model selection actually appeal to users or do people always want manual control?",
-          "link": "https://www.reddit.com/r/artificial/comments/1ruvk79/building_a_multimodel_ai_platform_with/",
-          "date": "2026-03-16T01:05:08+00:00"
+          "title": "ChatGPT ads still exclusive to the United States, OpenAI says no to global rollout just yet",
+          "link": "https://www.reddit.com/r/artificial/comments/1rv69kf/chatgpt_ads_still_exclusive_to_the_united_states/",
+          "date": "2026-03-16T10:56:38+00:00"
         },
         {
           "title": "WiFi-DensePose: AI Can Track Body Positions Through Walls",
@@ -368,9 +368,9 @@
           "date": "2026-03-16T04:18:07+00:00"
         },
         {
-          "title": "After 2 questions Claude Opus 4.6 feels 60-70% overwelmed",
-          "link": "https://www.reddit.com/r/artificial/comments/1ruvrkj/after_2_questions_claude_opus_46_feels_6070/",
-          "date": "2026-03-16T01:14:15+00:00"
+          "title": "Anyone Else Have Those Weird Dreams Where Sobbing Future Generations Beg You To Change Course?",
+          "link": "https://www.reddit.com/r/artificial/comments/1ruok4v/anyone_else_have_those_weird_dreams_where_sobbing/",
+          "date": "2026-03-15T20:19:13+00:00"
         }
       ],
       "error": null
