@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-16T14:57:50.461958+00:00",
+  "generatedAt": "2026-03-16T16:07:10.451029+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -374,14 +374,14 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "ChatGPT ads still exclusive to the United States, OpenAI says no to global rollout just yet",
-          "link": "https://www.reddit.com/r/artificial/comments/1rv69kf/chatgpt_ads_still_exclusive_to_the_united_states/",
-          "date": "2026-03-16T10:56:38+00:00"
-        },
-        {
           "title": "\u2018Pok\u00e9mon Go\u2019 players unknowingly trained delivery robots with 30 billion images",
           "link": "https://www.reddit.com/r/artificial/comments/1rva72t/pok\u00e9mon_go_players_unknowingly_trained_delivery/",
           "date": "2026-03-16T13:58:37+00:00"
+        },
+        {
+          "title": "ChatGPT ads still exclusive to the United States, OpenAI says no to global rollout just yet",
+          "link": "https://www.reddit.com/r/artificial/comments/1rv69kf/chatgpt_ads_still_exclusive_to_the_united_states/",
+          "date": "2026-03-16T10:56:38+00:00"
         },
         {
           "title": "Will access to AI compute become a real competitive advantage for startups?",
@@ -389,14 +389,14 @@
           "date": "2026-03-16T12:17:29+00:00"
         },
         {
-          "title": "Kimi introduce Attention Residuals: replaces fixed residual connections with softmax attention",
-          "link": "https://www.reddit.com/r/artificial/comments/1rv7k29/kimi_introduce_attention_residuals_replaces_fixed/",
-          "date": "2026-03-16T12:04:19+00:00"
-        },
-        {
           "title": "I'm sorry if I'm late to the party, but is there a curated website list for AI news that are focused on actual technical news, without taking sides on any of the factions (good vs bad)?",
           "link": "https://www.reddit.com/r/artificial/comments/1rva00k/im_sorry_if_im_late_to_the_party_but_is_there_a/",
           "date": "2026-03-16T13:50:55+00:00"
+        },
+        {
+          "title": "Unified Design to access any LLMs",
+          "link": "https://www.reddit.com/r/artificial/comments/1rvcbg1/unified_design_to_access_any_llms/",
+          "date": "2026-03-16T15:17:57+00:00"
         }
       ],
       "error": null
@@ -468,39 +468,23 @@
     {
       "name": "artificial intelligence Archives - SpaceNews",
       "url": "https://spacenews.com/tag/artificial-intelligence/feed/",
-      "items": [
-        {
-          "title": "Strait of Hormuz crisis drives demand for commercial geospatial intelligence",
-          "link": "https://spacenews.com/strait-of-hormuz-crisis-drives-demand-for-commercial-geospatial-intelligence/",
-          "date": "Sun, 15 Mar 2026 15:06:01 +0000"
-        },
-        {
-          "title": "Another Earth raises $4 million to boost AI training with synthetic satellite data",
-          "link": "https://spacenews.com/another-earth-raises-4-million-to-boost-ai-training-with-synthetic-satellite-data/",
-          "date": "Thu, 12 Mar 2026 16:10:25 +0000"
-        },
-        {
-          "title": "Unlocking AI in space: the case for greater industry and space agency collaboration",
-          "link": "https://spacenews.com/unlocking-ai-in-space-the-case-for-greater-industry-and-space-agency-collaboration/",
-          "date": "Thu, 05 Mar 2026 14:00:00 +0000"
-        },
-        {
-          "title": "Mutable Tactics raises $2.1 million for AI drone coordination in satellite-denied environments",
-          "link": "https://spacenews.com/mutable-tactics-raises-2-1-million-for-ai-drone-coordination-in-satellite-denied-environments/",
-          "date": "Wed, 04 Mar 2026 16:31:01 +0000"
-        },
-        {
-          "title": "CesiumAstro acquires Vidrovr to embed AI in communications systems",
-          "link": "https://spacenews.com/cesiumastro-acquires-vidrovr-to-embed-ai-in-communications-systems/",
-          "date": "Thu, 26 Feb 2026 13:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:47:3: mismatched tag"
     },
     {
       "name": "Artificial Intelligence \u2013 Futurism",
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
+        {
+          "title": "This Video of a Humanoid Robot Playing Perfect Tennis Is Extremely Impressive",
+          "link": "https://futurism.com/robots-and-machines/video-humanoid-robot-playing-tennis",
+          "date": "Mon, 16 Mar 2026 12:01:50 -0400"
+        },
+        {
+          "title": "Meta Reportingly Firing a Vast Percentage of Its Staff in Zuckerberg\u2019s Move to AI",
+          "link": "https://futurism.com/future-society/meta-firing-percentage-staff-zuckerberg",
+          "date": "Mon, 16 Mar 2026 11:16:10 -0400"
+        },
         {
           "title": "AI Mistake Throws Innocent Grandmother in Jail for Nearly Six Months",
           "link": "https://futurism.com/artificial-intelligence/ai-grandmother-jail-mistake",
@@ -515,16 +499,6 @@
           "title": "Netflix Buys Startup That Modifies Footage Using AI",
           "link": "https://futurism.com/artificial-intelligence/netflix-buys-ai-startup-ben-afleck",
           "date": "Sun, 15 Mar 2026 15:00:00 -0400"
-        },
-        {
-          "title": "Trump Supporters Getting Scammed by AI-Generated Foot Fetish Model",
-          "link": "https://futurism.com/artificial-intelligence/trump-ai-slop-model",
-          "date": "Sun, 15 Mar 2026 12:45:00 -0400"
-        },
-        {
-          "title": "Atlassian Lays Off 10 Percent of Its Workforce as It Pivots to AI",
-          "link": "https://futurism.com/artificial-intelligence/atlassian-ai-layoffs",
-          "date": "Sun, 15 Mar 2026 12:00:00 -0400"
         }
       ],
       "error": null
