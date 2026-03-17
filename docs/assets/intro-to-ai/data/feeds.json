@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-17T13:06:38.649178+00:00",
+  "generatedAt": "2026-03-17T14:54:10.257719+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -102,6 +102,11 @@
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [
         {
+          "title": "D-ID Announced the Launch of V4 Expressive Visual Agents",
+          "link": "https://ai-techpark.com/d-id-announced-the-launch-of-v4-expressive-visual-agents/",
+          "date": "Tue, 17 Mar 2026 14:30:00 +0000"
+        },
+        {
           "title": "Matillion Announced the Appointment of Tim O\u2019Neil as CRO",
           "link": "https://ai-techpark.com/matillion-announced-the-appointment-of-tim-oneil-as-cro/",
           "date": "Tue, 17 Mar 2026 10:15:00 +0000"
@@ -120,11 +125,6 @@
           "title": "Ethermed, VisiQuate Partner to Transform Revenue Cycle Automation",
           "link": "https://ai-techpark.com/ethermed-visiquate-partner-to-transform-revenue-cycle-automation/",
           "date": "Mon, 16 Mar 2026 13:15:00 +0000"
-        },
-        {
-          "title": "66degrees Announced the Launch of Paradigm",
-          "link": "https://ai-techpark.com/66degrees-announced-the-launch-of-paradigm/",
-          "date": "Mon, 16 Mar 2026 12:15:00 +0000"
         }
       ],
       "error": null
@@ -176,8 +176,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Trustpilot partners with AI companies as traditional search declines",
+          "link": "https://www.artificialintelligence-news.com/news/ai-in-ecommerce-trustpilot-partnerships-integration-news-trad-search-declines/",
+          "date": "Tue, 17 Mar 2026 12:26:00 +0000"
+        },
+        {
+          "title": "Goldman Sachs sees AI investment shift to data centres",
+          "link": "https://www.artificialintelligence-news.com/news/goldman-sachs-sees-ai-investment-shift-to-data-centres/",
+          "date": "Tue, 17 Mar 2026 10:00:00 +0000"
+        },
+        {
+          "title": "US Treasury publishes AI risk Guidebook for financial institutions",
+          "link": "https://www.artificialintelligence-news.com/news/us-treasury-publishes-ai-risk-governance-guidebook-for-financial-institutions/",
+          "date": "Mon, 16 Mar 2026 16:15:00 +0000"
+        },
+        {
+          "title": "NTT DATA and NVIDIA bring enterprise AI factories to production scale",
+          "link": "https://www.artificialintelligence-news.com/news/ntt-data-nvidia-enterprise-ai-factories-production/",
+          "date": "Mon, 16 Mar 2026 12:00:00 +0000"
+        },
+        {
+          "title": "OpenAI\u2019s Frontier puts AI agents in a fight SaaS can\u2019t afford to\u00a0lose",
+          "link": "https://www.artificialintelligence-news.com/news/openai-frontier-enterprise-ai-agents-saas/",
+          "date": "Mon, 16 Mar 2026 10:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -316,6 +342,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Firefighting drones head to Aspen\u2014can they suppress a blaze before humans arrive?",
+          "link": "https://arstechnica.com/gadgets/2026/03/firefighting-drones-head-to-aspen-can-they-suppress-a-blaze-before-humans-arrive/",
+          "date": "Tue, 17 Mar 2026 13:10:46 +0000"
+        },
+        {
+          "title": "Upmarket looks, mass-market price: The 2027 Kia Telluride, driven",
+          "link": "https://arstechnica.com/cars/2026/03/upmarket-looks-mass-market-price-the-2027-kia-telluride-driven/",
+          "date": "Tue, 17 Mar 2026 13:00:14 +0000"
+        },
+        {
           "title": "RFK Jr.\u2019s anti-vaccine changes to CDC vaccine guidance blocked by judge",
           "link": "https://arstechnica.com/health/2026/03/judge-temporarily-blocks-rfk-jr-s-changes-to-cdc-vaccine-recommendations/",
           "date": "Mon, 16 Mar 2026 22:20:39 +0000"
@@ -329,16 +365,6 @@
           "title": "National Academies of Sciences says no to demands it remove climate info",
           "link": "https://arstechnica.com/science/2026/03/national-academies-of-sciences-resisting-pressure-to-pull-climate-info/",
           "date": "Mon, 16 Mar 2026 20:33:41 +0000"
-        },
-        {
-          "title": "New \"vibe coded\" AI translation tool splits the video game preservation community",
-          "link": "https://arstechnica.com/ai/2026/03/new-vibe-coded-ai-translation-tool-splits-the-video-game-preservation-community/",
-          "date": "Mon, 16 Mar 2026 20:06:56 +0000"
-        },
-        {
-          "title": "Trump and his FCC chair demand more positive news coverage of Iran war",
-          "link": "https://arstechnica.com/tech-policy/2026/03/trump-and-his-fcc-chair-demand-more-positive-news-coverage-of-iran-war/",
-          "date": "Mon, 16 Mar 2026 19:41:26 +0000"
         }
       ],
       "error": null
@@ -363,14 +389,14 @@
           "date": "2026-03-16T18:34:47+00:00"
         },
         {
+          "title": "Functional Equivalence of Reinforcement Learning Systems",
+          "link": "https://www.reddit.com/r/artificial/comments/1rw6ed2/functional_equivalence_of_reinforcement_learning/",
+          "date": "2026-03-17T13:22:46+00:00"
+        },
+        {
           "title": "I built a visual drag-and-drop ML trainer (no code required). Free & open source.",
           "link": "https://www.reddit.com/r/artificial/comments/1rvrbjv/i_built_a_visual_draganddrop_ml_trainer_no_code/",
           "date": "2026-03-17T00:19:12+00:00"
-        },
-        {
-          "title": "Agentic pipeline that builds complete Godot games from a text prompt",
-          "link": "https://www.reddit.com/r/artificial/comments/1rvdzdr/agentic_pipeline_that_builds_complete_godot_games/",
-          "date": "2026-03-16T16:17:39+00:00"
         }
       ],
       "error": null
@@ -442,39 +468,18 @@
     {
       "name": "artificial intelligence Archives - SpaceNews",
       "url": "https://spacenews.com/tag/artificial-intelligence/feed/",
-      "items": [
-        {
-          "title": "Kayrros sale signals rising demand for satellite intelligence amid Hormuz crisis",
-          "link": "https://spacenews.com/kayrros-sale-signals-rising-demand-for-satellite-intelligence-amid-hormuz-crisis/",
-          "date": "Mon, 16 Mar 2026 21:47:33 +0000"
-        },
-        {
-          "title": "Strait of Hormuz crisis drives demand for commercial geospatial intelligence",
-          "link": "https://spacenews.com/strait-of-hormuz-crisis-drives-demand-for-commercial-geospatial-intelligence/",
-          "date": "Sun, 15 Mar 2026 15:06:01 +0000"
-        },
-        {
-          "title": "Another Earth raises $4 million to boost AI training with synthetic satellite data",
-          "link": "https://spacenews.com/another-earth-raises-4-million-to-boost-ai-training-with-synthetic-satellite-data/",
-          "date": "Thu, 12 Mar 2026 16:10:25 +0000"
-        },
-        {
-          "title": "Unlocking AI in space: the case for greater industry and space agency collaboration",
-          "link": "https://spacenews.com/unlocking-ai-in-space-the-case-for-greater-industry-and-space-agency-collaboration/",
-          "date": "Thu, 05 Mar 2026 14:00:00 +0000"
-        },
-        {
-          "title": "Mutable Tactics raises $2.1 million for AI drone coordination in satellite-denied environments",
-          "link": "https://spacenews.com/mutable-tactics-raises-2-1-million-for-ai-drone-coordination-in-satellite-denied-environments/",
-          "date": "Wed, 04 Mar 2026 16:31:01 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:47:3: mismatched tag"
     },
     {
       "name": "Artificial Intelligence \u2013 Futurism",
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
+        {
+          "title": "Jeff Bezos\u2019 Washington Post Now Setting Readers\u2019 Subscription Prices With Uber-Style AI",
+          "link": "https://futurism.com/artificial-intelligence/washington-post-price-ai",
+          "date": "Tue, 17 Mar 2026 10:08:03 -0400"
+        },
         {
           "title": "Judge Rules That Elon Musk\u2019s Ketamine Use Is Off Limits",
           "link": "https://futurism.com/future-society/judge-elon-musk-ketamine",
@@ -494,11 +499,6 @@
           "title": "Elon Musk Just Made a Small Change That Speaks Volumes About His Desperation",
           "link": "https://futurism.com/artificial-intelligence/elon-musk-change-grok-desperation",
           "date": "Mon, 16 Mar 2026 13:01:00 -0400"
-        },
-        {
-          "title": "This Video of a Humanoid Robot Playing Tennis Is Extremely Impressive",
-          "link": "https://futurism.com/robots-and-machines/video-humanoid-robot-playing-tennis",
-          "date": "Mon, 16 Mar 2026 12:01:50 -0400"
         }
       ],
       "error": null
