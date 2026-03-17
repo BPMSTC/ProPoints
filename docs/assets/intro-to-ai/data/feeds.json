@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-17T07:07:30.747436+00:00",
+  "generatedAt": "2026-03-17T08:52:13.342899+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Opentrons Debuts Visualization Tools for AI Lab Automation",
+          "link": "https://ai-techpark.com/opentrons-debuts-visualization-tools-for-ai-lab-automation/",
+          "date": "Mon, 16 Mar 2026 14:15:00 +0000"
+        },
+        {
+          "title": "Ethermed, VisiQuate Partner to Transform Revenue Cycle Automation",
+          "link": "https://ai-techpark.com/ethermed-visiquate-partner-to-transform-revenue-cycle-automation/",
+          "date": "Mon, 16 Mar 2026 13:15:00 +0000"
+        },
+        {
+          "title": "66degrees Announced the Launch of Paradigm",
+          "link": "https://ai-techpark.com/66degrees-announced-the-launch-of-paradigm/",
+          "date": "Mon, 16 Mar 2026 12:15:00 +0000"
+        },
+        {
+          "title": "Zenity Earns FedRAMP In Process Status for AI Agent Protection",
+          "link": "https://ai-techpark.com/zenity-earns-fedramp-in-process-status-for-ai-agent-protection/",
+          "date": "Mon, 16 Mar 2026 10:15:00 +0000"
+        },
+        {
+          "title": "ThunderSoft Showcases Edge AI Innovations at embedded world 2026",
+          "link": "https://ai-techpark.com/thundersoft-showcases-edge-ai-innovations-at-embedded-world-2026/",
+          "date": "Mon, 16 Mar 2026 08:30:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -358,14 +384,14 @@
           "date": "2026-03-16T18:34:47+00:00"
         },
         {
-          "title": "Agentic pipeline that builds complete Godot games from a text prompt",
-          "link": "https://www.reddit.com/r/artificial/comments/1rvdzdr/agentic_pipeline_that_builds_complete_godot_games/",
-          "date": "2026-03-16T16:17:39+00:00"
-        },
-        {
           "title": "I built a visual drag-and-drop ML trainer (no code required). Free & open source.",
           "link": "https://www.reddit.com/r/artificial/comments/1rvrbjv/i_built_a_visual_draganddrop_ml_trainer_no_code/",
           "date": "2026-03-17T00:19:12+00:00"
+        },
+        {
+          "title": "Agentic pipeline that builds complete Godot games from a text prompt",
+          "link": "https://www.reddit.com/r/artificial/comments/1rvdzdr/agentic_pipeline_that_builds_complete_godot_games/",
+          "date": "2026-03-16T16:17:39+00:00"
         },
         {
           "title": "A photo of Iran\u2019s bombed schoolgirl graveyard went around the world. Was it real, or AI? | AI (artificial intelligence) | The Guardian",
