@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-17T11:42:07.702785+00:00",
+  "generatedAt": "2026-03-17T13:06:38.649178+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -176,34 +176,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "Goldman Sachs sees AI investment shift to data centres",
-          "link": "https://www.artificialintelligence-news.com/news/goldman-sachs-sees-ai-investment-shift-to-data-centres/",
-          "date": "Tue, 17 Mar 2026 10:00:00 +0000"
-        },
-        {
-          "title": "US Treasury publishes AI risk Guidebook for financial institutions",
-          "link": "https://www.artificialintelligence-news.com/news/us-treasury-publishes-ai-risk-governance-guidebook-for-financial-institutions/",
-          "date": "Mon, 16 Mar 2026 16:15:00 +0000"
-        },
-        {
-          "title": "NTT DATA and NVIDIA bring enterprise AI factories to production scale",
-          "link": "https://www.artificialintelligence-news.com/news/ntt-data-nvidia-enterprise-ai-factories-production/",
-          "date": "Mon, 16 Mar 2026 12:00:00 +0000"
-        },
-        {
-          "title": "OpenAI\u2019s Frontier puts AI agents in a fight SaaS can\u2019t afford to\u00a0lose",
-          "link": "https://www.artificialintelligence-news.com/news/openai-frontier-enterprise-ai-agents-saas/",
-          "date": "Mon, 16 Mar 2026 10:00:00 +0000"
-        },
-        {
-          "title": "E.SUN Bank and IBM build AI governance framework for banking",
-          "link": "https://www.artificialintelligence-news.com/news/e-sun-bank-and-ibm-build-ai-governance-framework-for-banking/",
-          "date": "Fri, 13 Mar 2026 10:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -374,6 +348,11 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
+          "title": "Are we cooked?",
+          "link": "https://www.reddit.com/r/artificial/comments/1rw4k3l/are_we_cooked/",
+          "date": "2026-03-17T12:01:38+00:00"
+        },
+        {
           "title": "\u2018Pok\u00e9mon Go\u2019 players unknowingly trained delivery robots with 30 billion images",
           "link": "https://www.reddit.com/r/artificial/comments/1rva72t/pok\u00e9mon_go_players_unknowingly_trained_delivery/",
           "date": "2026-03-16T13:58:37+00:00"
@@ -392,11 +371,6 @@
           "title": "Agentic pipeline that builds complete Godot games from a text prompt",
           "link": "https://www.reddit.com/r/artificial/comments/1rvdzdr/agentic_pipeline_that_builds_complete_godot_games/",
           "date": "2026-03-16T16:17:39+00:00"
-        },
-        {
-          "title": "I'm sorry if I'm late to the party, but is there a curated website list for AI news that are focused on actual technical news, without taking sides on any of the factions (good vs bad)?",
-          "link": "https://www.reddit.com/r/artificial/comments/1rva00k/im_sorry_if_im_late_to_the_party_but_is_there_a/",
-          "date": "2026-03-16T13:50:55+00:00"
         }
       ],
       "error": null
@@ -405,6 +379,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "With AI finishing your sentences, what will happen to your unique voice on the page?",
+          "link": "https://theconversation.com/with-ai-finishing-your-sentences-what-will-happen-to-your-unique-voice-on-the-page-276036",
+          "date": "2026-03-17T12:28:18Z"
+        },
         {
           "title": "Iran war shows how AI speeds up military \u2018kill chains\u2019",
           "link": "https://theconversation.com/iran-war-shows-how-ai-speeds-up-military-kill-chains-278492",
@@ -424,11 +403,6 @@
           "title": "What \u2018gooning\u2019 reveals about intimacy in a world cordoned off by screens",
           "link": "https://theconversation.com/what-gooning-reveals-about-intimacy-in-a-world-cordoned-off-by-screens-273185",
           "date": "2026-03-16T12:20:54Z"
-        },
-        {
-          "title": "Tech companies are blaming massive layoffs on AI. What\u2019s really going on?",
-          "link": "https://theconversation.com/tech-companies-are-blaming-massive-layoffs-on-ai-whats-really-going-on-278314",
-          "date": "2026-03-16T02:33:41Z"
         }
       ],
       "error": null
