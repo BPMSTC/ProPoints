@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-17T22:31:09.642861+00:00",
+  "generatedAt": "2026-03-17T23:30:25.680960+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "DarcyIQ Launches Support for AWS Partner Central Agents",
-          "link": "https://ai-techpark.com/darcyiq-launches-support-for-aws-partner-central-agents/",
-          "date": "Tue, 17 Mar 2026 18:00:00 +0000"
-        },
-        {
-          "title": "Veritone Data Refinery Helps Safeguard Personal Data with Veritone Redact",
-          "link": "https://ai-techpark.com/veritone-data-refinery-helps-safeguard-personal-data-with-veritone-redact/",
-          "date": "Tue, 17 Mar 2026 17:45:00 +0000"
-        },
-        {
-          "title": "Acsense Launches Safe Configuration Management to Eliminate IAM Outage Risk",
-          "link": "https://ai-techpark.com/acsense-launches-safe-configuration-management-to-eliminate-iam-outage-risk/",
-          "date": "Tue, 17 Mar 2026 17:00:00 +0000"
-        },
-        {
-          "title": "D-ID Announced the Launch of V4 Expressive Visual Agents",
-          "link": "https://ai-techpark.com/d-id-announced-the-launch-of-v4-expressive-visual-agents/",
-          "date": "Tue, 17 Mar 2026 14:30:00 +0000"
-        },
-        {
-          "title": "Matillion Announced the Appointment of Tim O\u2019Neil as CRO",
-          "link": "https://ai-techpark.com/matillion-announced-the-appointment-of-tim-oneil-as-cro/",
-          "date": "Tue, 17 Mar 2026 10:15:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -342,7 +316,12 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "World ID wants you to put a cryptographically unique human identity behind your AI agents",
+          "title": "Apple can delist apps \"with or without cause,\" judge says in loss for Musi app",
+          "link": "https://arstechnica.com/tech-policy/2026/03/judge-upholds-apple-delisting-of-free-musi-app-that-streams-songs-from-youtube/",
+          "date": "Tue, 17 Mar 2026 21:38:33 +0000"
+        },
+        {
+          "title": "How World ID wants to put a unique human identity on every AI agent",
           "link": "https://arstechnica.com/ai/2026/03/world-id-wants-you-to-put-a-cryptographically-unique-human-identity-behind-your-ai-agents/",
           "date": "Tue, 17 Mar 2026 21:28:27 +0000"
         },
@@ -360,11 +339,6 @@
           "title": "Trump's plan to shut down weather and climate center triggers lawsuit",
           "link": "https://arstechnica.com/science/2026/03/university-group-sues-trump-administration-over-shutdown-of-climate-center/",
           "date": "Tue, 17 Mar 2026 17:38:10 +0000"
-        },
-        {
-          "title": "Paul Atreides faces the cost of his holy war in Dune: Part 3 teaser",
-          "link": "https://arstechnica.com/culture/2026/03/paul-atreides-faces-the-cost-of-his-holy-war-in-dune-part-3-teaser/",
-          "date": "Tue, 17 Mar 2026 17:22:33 +0000"
         }
       ],
       "error": null
@@ -377,6 +351,11 @@
           "title": "Are we cooked?",
           "link": "https://www.reddit.com/r/artificial/comments/1rw4k3l/are_we_cooked/",
           "date": "2026-03-17T12:01:38+00:00"
+        },
+        {
+          "title": "Jensen Huang says gamers are 'completely wrong' about DLSS 5 \u2014 Nvidia CEO responds to DLSS 5 backlash",
+          "link": "https://www.reddit.com/r/artificial/comments/1rwl37x/jensen_huang_says_gamers_are_completely_wrong/",
+          "date": "2026-03-17T22:07:14+00:00"
         },
         {
           "title": "Nvidia unveils AI infrastructure spanning chips to space computing",
@@ -392,11 +371,6 @@
           "title": "LLMs forget instructions the same way ADHD brains do. I built scaffolding for both. Research + open source.",
           "link": "https://www.reddit.com/r/artificial/comments/1rwkelg/llms_forget_instructions_the_same_way_adhd_brains/",
           "date": "2026-03-17T21:41:46+00:00"
-        },
-        {
-          "title": "Sure, I Treat Claude with Respect, but Does it Matter?",
-          "link": "https://www.reddit.com/r/artificial/comments/1rwizyx/sure_i_treat_claude_with_respect_but_does_it/",
-          "date": "2026-03-17T20:50:34+00:00"
         }
       ],
       "error": null
