@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-17T04:17:57.487897+00:00",
+  "generatedAt": "2026-03-17T05:57:43.941120+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -176,34 +176,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "US Treasury publishes AI risk Guidebook for financial institutions",
-          "link": "https://www.artificialintelligence-news.com/news/us-treasury-publishes-ai-risk-governance-guidebook-for-financial-institutions/",
-          "date": "Mon, 16 Mar 2026 16:15:00 +0000"
-        },
-        {
-          "title": "NTT DATA and NVIDIA bring enterprise AI factories to production scale",
-          "link": "https://www.artificialintelligence-news.com/news/ntt-data-nvidia-enterprise-ai-factories-production/",
-          "date": "Mon, 16 Mar 2026 12:00:00 +0000"
-        },
-        {
-          "title": "OpenAI\u2019s Frontier puts AI agents in a fight SaaS can\u2019t afford to\u00a0lose",
-          "link": "https://www.artificialintelligence-news.com/news/openai-frontier-enterprise-ai-agents-saas/",
-          "date": "Mon, 16 Mar 2026 10:00:00 +0000"
-        },
-        {
-          "title": "E.SUN Bank and IBM build AI governance framework for banking",
-          "link": "https://www.artificialintelligence-news.com/news/e-sun-bank-and-ibm-build-ai-governance-framework-for-banking/",
-          "date": "Fri, 13 Mar 2026 10:00:00 +0000"
-        },
-        {
-          "title": "BMW puts humanoid robots to work in Germany\u2013and Europe\u2019s factories are watching",
-          "link": "https://www.artificialintelligence-news.com/news/bmw-humanoid-robots-manufacturing-europe-leipzig/",
-          "date": "Fri, 13 Mar 2026 09:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -384,6 +358,11 @@
           "date": "2026-03-16T18:34:47+00:00"
         },
         {
+          "title": "I built a visual drag-and-drop ML trainer (no code required). Free & open source.",
+          "link": "https://www.reddit.com/r/artificial/comments/1rvrbjv/i_built_a_visual_draganddrop_ml_trainer_no_code/",
+          "date": "2026-03-17T00:19:12+00:00"
+        },
+        {
           "title": "Agentic pipeline that builds complete Godot games from a text prompt",
           "link": "https://www.reddit.com/r/artificial/comments/1rvdzdr/agentic_pipeline_that_builds_complete_godot_games/",
           "date": "2026-03-16T16:17:39+00:00"
@@ -392,11 +371,6 @@
           "title": "Best AI Tools for Students in 2026 (Free & Paid Options You Can Try)",
           "link": "https://www.reddit.com/r/artificial/comments/1rvw5lj/best_ai_tools_for_students_in_2026_free_paid/",
           "date": "2026-03-17T03:56:00+00:00"
-        },
-        {
-          "title": "ChatGPT ads still exclusive to the United States, OpenAI says no to global rollout just yet",
-          "link": "https://www.reddit.com/r/artificial/comments/1rv69kf/chatgpt_ads_still_exclusive_to_the_united_states/",
-          "date": "2026-03-16T10:56:38+00:00"
         }
       ],
       "error": null
@@ -438,6 +412,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "A photo of Iran\u2019s bombed schoolgirl graveyard went around the world. Was it real, or AI?",
+          "link": "https://www.theguardian.com/global-development/2026/mar/17/atrocity-ai-slop-verify-facts-iran-minab-graves",
+          "date": "Tue, 17 Mar 2026 05:00:40 GMT"
+        },
+        {
           "title": "Teenage girls sue Musk\u2019s xAI, accusing Grok tool of creating child sexual abuse material",
           "link": "https://www.theguardian.com/technology/2026/mar/16/lawsuit-elon-musk-ai-grok-child-sexual-abuse",
           "date": "Mon, 16 Mar 2026 20:54:05 GMT"
@@ -456,11 +435,6 @@
           "title": "The Infinity Machine by Sebastian Mallaby review \u2013 the story of the man who changed the world",
           "link": "https://www.theguardian.com/books/2026/mar/16/the-infinity-machine-by-sebastian-mallaby-review-the-story-of-the-man-who-changed-the-world",
           "date": "Mon, 16 Mar 2026 07:00:10 GMT"
-        },
-        {
-          "title": "AI job layoffs are here: it\u2019s time to revive the push for shorter working hours  | John Quiggin",
-          "link": "https://www.theguardian.com/commentisfree/2026/mar/16/ai-job-layoffs-push-for-shorter-working-hours",
-          "date": "Mon, 16 Mar 2026 03:41:32 GMT"
         }
       ],
       "error": null
