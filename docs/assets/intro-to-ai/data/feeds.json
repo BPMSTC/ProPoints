@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-17T05:57:43.941120+00:00",
+  "generatedAt": "2026-03-17T07:07:30.747436+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "Ethermed, VisiQuate Partner to Transform Revenue Cycle Automation",
-          "link": "https://ai-techpark.com/ethermed-visiquate-partner-to-transform-revenue-cycle-automation/",
-          "date": "Mon, 16 Mar 2026 13:15:00 +0000"
-        },
-        {
-          "title": "66degrees Announced the Launch of Paradigm",
-          "link": "https://ai-techpark.com/66degrees-announced-the-launch-of-paradigm/",
-          "date": "Mon, 16 Mar 2026 12:15:00 +0000"
-        },
-        {
-          "title": "Zenity Earns FedRAMP In Process Status for AI Agent Protection",
-          "link": "https://ai-techpark.com/zenity-earns-fedramp-in-process-status-for-ai-agent-protection/",
-          "date": "Mon, 16 Mar 2026 10:15:00 +0000"
-        },
-        {
-          "title": "ThunderSoft Showcases Edge AI Innovations at embedded world 2026",
-          "link": "https://ai-techpark.com/thundersoft-showcases-edge-ai-innovations-at-embedded-world-2026/",
-          "date": "Mon, 16 Mar 2026 08:30:00 +0000"
-        },
-        {
-          "title": "Babel Street Announces Agentic Risk Intelligence for the AI-on-AI Era",
-          "link": "https://ai-techpark.com/babel-street-announces-agentic-risk-intelligence-for-the-ai-on-ai-era/",
-          "date": "Mon, 16 Mar 2026 07:46:50 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -176,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "US Treasury publishes AI risk Guidebook for financial institutions",
+          "link": "https://www.artificialintelligence-news.com/news/us-treasury-publishes-ai-risk-governance-guidebook-for-financial-institutions/",
+          "date": "Mon, 16 Mar 2026 16:15:00 +0000"
+        },
+        {
+          "title": "NTT DATA and NVIDIA bring enterprise AI factories to production scale",
+          "link": "https://www.artificialintelligence-news.com/news/ntt-data-nvidia-enterprise-ai-factories-production/",
+          "date": "Mon, 16 Mar 2026 12:00:00 +0000"
+        },
+        {
+          "title": "OpenAI\u2019s Frontier puts AI agents in a fight SaaS can\u2019t afford to\u00a0lose",
+          "link": "https://www.artificialintelligence-news.com/news/openai-frontier-enterprise-ai-agents-saas/",
+          "date": "Mon, 16 Mar 2026 10:00:00 +0000"
+        },
+        {
+          "title": "E.SUN Bank and IBM build AI governance framework for banking",
+          "link": "https://www.artificialintelligence-news.com/news/e-sun-bank-and-ibm-build-ai-governance-framework-for-banking/",
+          "date": "Fri, 13 Mar 2026 10:00:00 +0000"
+        },
+        {
+          "title": "BMW puts humanoid robots to work in Germany\u2013and Europe\u2019s factories are watching",
+          "link": "https://www.artificialintelligence-news.com/news/bmw-humanoid-robots-manufacturing-europe-leipzig/",
+          "date": "Fri, 13 Mar 2026 09:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -358,19 +358,19 @@
           "date": "2026-03-16T18:34:47+00:00"
         },
         {
-          "title": "I built a visual drag-and-drop ML trainer (no code required). Free & open source.",
-          "link": "https://www.reddit.com/r/artificial/comments/1rvrbjv/i_built_a_visual_draganddrop_ml_trainer_no_code/",
-          "date": "2026-03-17T00:19:12+00:00"
-        },
-        {
           "title": "Agentic pipeline that builds complete Godot games from a text prompt",
           "link": "https://www.reddit.com/r/artificial/comments/1rvdzdr/agentic_pipeline_that_builds_complete_godot_games/",
           "date": "2026-03-16T16:17:39+00:00"
         },
         {
-          "title": "Best AI Tools for Students in 2026 (Free & Paid Options You Can Try)",
-          "link": "https://www.reddit.com/r/artificial/comments/1rvw5lj/best_ai_tools_for_students_in_2026_free_paid/",
-          "date": "2026-03-17T03:56:00+00:00"
+          "title": "I built a visual drag-and-drop ML trainer (no code required). Free & open source.",
+          "link": "https://www.reddit.com/r/artificial/comments/1rvrbjv/i_built_a_visual_draganddrop_ml_trainer_no_code/",
+          "date": "2026-03-17T00:19:12+00:00"
+        },
+        {
+          "title": "A photo of Iran\u2019s bombed schoolgirl graveyard went around the world. Was it real, or AI? | AI (artificial intelligence) | The Guardian",
+          "link": "https://www.reddit.com/r/artificial/comments/1rvzfry/a_photo_of_irans_bombed_schoolgirl_graveyard_went/",
+          "date": "2026-03-17T07:00:11+00:00"
         }
       ],
       "error": null
@@ -412,6 +412,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "UK must learn lessons from AI race and retain its quantum computing talent, says minister",
+          "link": "https://www.theguardian.com/technology/2026/mar/17/uk-must-learn-lessons-from-ai-race-and-retain-its-quantum-computing-talent-says-minister",
+          "date": "Tue, 17 Mar 2026 06:00:41 GMT"
+        },
+        {
           "title": "A photo of Iran\u2019s bombed schoolgirl graveyard went around the world. Was it real, or AI?",
           "link": "https://www.theguardian.com/global-development/2026/mar/17/atrocity-ai-slop-verify-facts-iran-minab-graves",
           "date": "Tue, 17 Mar 2026 05:00:40 GMT"
@@ -430,11 +435,6 @@
           "title": "Google scraps AI search feature that crowdsourced amateur medical advice",
           "link": "https://www.theguardian.com/technology/2026/mar/16/google-scraps-ai-search-feature-that-crowdsourced-amateur-medical-advice",
           "date": "Mon, 16 Mar 2026 07:14:05 GMT"
-        },
-        {
-          "title": "The Infinity Machine by Sebastian Mallaby review \u2013 the story of the man who changed the world",
-          "link": "https://www.theguardian.com/books/2026/mar/16/the-infinity-machine-by-sebastian-mallaby-review-the-story-of-the-man-who-changed-the-world",
-          "date": "Mon, 16 Mar 2026 07:00:10 GMT"
         }
       ],
       "error": null
