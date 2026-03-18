@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-18T15:00:50.728600+00:00",
+  "generatedAt": "2026-03-18T16:14:47.308646+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "Generative AI Summit Austin, 2026",
+          "link": "https://www.aiacceleratorinstitute.com/generative-ai-summit-austin-2026/",
+          "date": "Wed, 18 Mar 2026 16:13:08 GMT"
+        },
+        {
           "title": "From engagement to fulfillment:   How Agentic AI is rewriting product metrics",
           "link": "https://www.aiacceleratorinstitute.com/from-engagement-to-fulfillment-how-agentic-ai-is-rewriting-product-metrics/",
           "date": "Wed, 18 Mar 2026 11:29:16 GMT"
@@ -88,11 +93,6 @@
           "title": "Meta buys Moltbook: The social   network where AI agents talk to each other",
           "link": "https://www.aiacceleratorinstitute.com/meta-buys-moltbook-the-social-network-where-ai-agents-talk-to-each-other/",
           "date": "Thu, 12 Mar 2026 16:54:00 GMT"
-        },
-        {
-          "title": "The missing layer in enterprise AI - eBook 2026",
-          "link": "https://www.aiacceleratorinstitute.com/the-knowledge-foundation-problem/",
-          "date": "Thu, 12 Mar 2026 15:58:55 GMT"
         }
       ],
       "error": null
@@ -140,6 +140,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Nvidia Extends its Reach Into Self-Driving",
+          "link": "https://aibusiness.com/generative-ai/nvidia-extends-its-reach-into-self-driving",
+          "date": "Wed, 18 Mar 2026 14:49:52 GMT"
+        },
+        {
           "title": "Building Resilience in the Age of AI",
           "link": "https://aibusiness.com/data-governance/building-resilience-in-the-age-of-ai",
           "date": "Tue, 17 Mar 2026 18:16:19 GMT"
@@ -158,11 +163,6 @@
           "title": "Nvidia Devises a More Secure OpenClaw Stack for Enterprises",
           "link": "https://aibusiness.com/agentic-ai/nvidia-devises-secure-openclaw-stack-for-enterprises",
           "date": "Tue, 17 Mar 2026 00:20:34 GMT"
-        },
-        {
-          "title": "Nvidia Intros Data Factory, Robotics Models in Physical AI Push",
-          "link": "https://aibusiness.com/robotics/nvidia-intros-data-factory-robotics-models-for-physical-ai",
-          "date": "Mon, 16 Mar 2026 20:29:45 GMT"
         }
       ],
       "error": null
@@ -177,6 +177,11 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [
+        {
+          "title": "Mastercard keeps tabs on fraud with new foundation model",
+          "link": "https://www.artificialintelligence-news.com/news/mastercards-ltm-keeps-tabs-on-fraud-with-a-new-foundation-model/",
+          "date": "Wed, 18 Mar 2026 15:31:00 +0000"
+        },
         {
           "title": "For effective AI, insurance needs to get its data house in order",
           "link": "https://www.artificialintelligence-news.com/news/for-effective-ai-insurance-needs-a-better-data-layer-and-integration/",
@@ -196,11 +201,6 @@
           "title": "US Treasury publishes AI risk Guidebook for financial institutions",
           "link": "https://www.artificialintelligence-news.com/news/us-treasury-publishes-ai-risk-governance-guidebook-for-financial-institutions/",
           "date": "Mon, 16 Mar 2026 16:15:00 +0000"
-        },
-        {
-          "title": "NTT DATA and NVIDIA bring enterprise AI factories to production scale",
-          "link": "https://www.artificialintelligence-news.com/news/ntt-data-nvidia-enterprise-ai-factories-production/",
-          "date": "Mon, 16 Mar 2026 12:00:00 +0000"
         }
       ],
       "error": null
@@ -379,6 +379,11 @@
           "date": "2026-03-18T08:53:14+00:00"
         },
         {
+          "title": "The danger of agency laundering",
+          "link": "https://www.reddit.com/r/artificial/comments/1rx72l7/the_danger_of_agency_laundering/",
+          "date": "2026-03-18T15:31:19+00:00"
+        },
+        {
           "title": "The Pentagon is developing its own LLMs | TechCrunch",
           "link": "https://www.reddit.com/r/artificial/comments/1rx1k64/the_pentagon_is_developing_its_own_llms_techcrunch/",
           "date": "2026-03-18T11:42:06+00:00"
@@ -392,11 +397,6 @@
           "title": "Are we cooked?",
           "link": "https://www.reddit.com/r/artificial/comments/1rw4k3l/are_we_cooked/",
           "date": "2026-03-17T12:01:38+00:00"
-        },
-        {
-          "title": "Are marketing jobs truly threatened by AI?",
-          "link": "https://www.reddit.com/r/artificial/comments/1rwut6e/are_marketing_jobs_truly_threatened_by_ai/",
-          "date": "2026-03-18T05:07:04+00:00"
         }
       ],
       "error": null
@@ -468,8 +468,34 @@
     {
       "name": "artificial intelligence Archives - SpaceNews",
       "url": "https://spacenews.com/tag/artificial-intelligence/feed/",
-      "items": [],
-      "error": "<unknown>:47:3: mismatched tag"
+      "items": [
+        {
+          "title": "Kayrros sale signals rising demand for satellite intelligence amid Hormuz crisis",
+          "link": "https://spacenews.com/kayrros-sale-signals-rising-demand-for-satellite-intelligence-amid-hormuz-crisis/",
+          "date": "Mon, 16 Mar 2026 21:47:33 +0000"
+        },
+        {
+          "title": "Strait of Hormuz crisis drives demand for commercial geospatial intelligence",
+          "link": "https://spacenews.com/strait-of-hormuz-crisis-drives-demand-for-commercial-geospatial-intelligence/",
+          "date": "Sun, 15 Mar 2026 15:06:01 +0000"
+        },
+        {
+          "title": "Another Earth raises $4 million to boost AI training with synthetic satellite data",
+          "link": "https://spacenews.com/another-earth-raises-4-million-to-boost-ai-training-with-synthetic-satellite-data/",
+          "date": "Thu, 12 Mar 2026 16:10:25 +0000"
+        },
+        {
+          "title": "Unlocking AI in space: the case for greater industry and space agency collaboration",
+          "link": "https://spacenews.com/unlocking-ai-in-space-the-case-for-greater-industry-and-space-agency-collaboration/",
+          "date": "Thu, 05 Mar 2026 14:00:00 +0000"
+        },
+        {
+          "title": "Mutable Tactics raises $2.1 million for AI drone coordination in satellite-denied environments",
+          "link": "https://spacenews.com/mutable-tactics-raises-2-1-million-for-ai-drone-coordination-in-satellite-denied-environments/",
+          "date": "Wed, 04 Mar 2026 16:31:01 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "Artificial Intelligence \u2013 Futurism",
