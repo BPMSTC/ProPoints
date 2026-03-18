@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-03-18T13:06:30.412048+00:00",
+  "generatedAt": "2026-03-18T15:00:50.728600+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Government Registers Aliens.Gov Domain",
+          "link": "https://www.404media.co/government-registers-aliens-gov-domain/",
+          "date": "Wed, 18 Mar 2026 14:27:59 GMT"
+        },
+        {
+          "title": "Podcast: The Disappearing DOGE Depositions",
+          "link": "https://www.404media.co/podcast-the-disappearing-doge-depositions/",
+          "date": "Wed, 18 Mar 2026 13:05:48 GMT"
+        },
         {
           "title": "Was Life Seeded from Space? \u2018Complete Set\u2019 of DNA Ingredients Discovered on Asteroid",
           "link": "https://www.404media.co/was-life-seeded-from-space-complete-set-of-dna-ingredients-discovered-on-asteroid/",
@@ -19,16 +29,6 @@
           "title": "CEO Asks ChatGPT How to Void $250 Million Contract, Ignores His Lawyers, Loses Terribly in Court",
           "link": "https://www.404media.co/ceo-ignores-lawyers-asks-chatgpt-how-to-void-250-million-contract-loses-terribly-in-court/",
           "date": "Mon, 16 Mar 2026 22:40:53 GMT"
-        },
-        {
-          "title": "Texting a Random Stranger Better for Loneliness Than Talking to a Chatbot, Study Shows",
-          "link": "https://www.404media.co/chatgpt-loneliness-study-college-students-random-strangers-texting/",
-          "date": "Mon, 16 Mar 2026 16:48:49 GMT"
-        },
-        {
-          "title": "Witness Caught Using Smartglasses in Court Blames it all on ChatGPT",
-          "link": "https://www.404media.co/witness-caught-using-smartglasses-in-court-blames-it-all-on-chatgpt/",
-          "date": "Mon, 16 Mar 2026 14:41:09 GMT"
         }
       ],
       "error": null
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Cato Networks Launches GPU-Powered SASE with Native AI Security",
+          "link": "https://ai-techpark.com/cato-networks-launches-gpu-powered-sase-with-native-ai-security/",
+          "date": "Wed, 18 Mar 2026 09:30:00 +0000"
+        },
+        {
+          "title": "DarcyIQ Launches Support for AWS Partner Central Agents",
+          "link": "https://ai-techpark.com/darcyiq-launches-support-for-aws-partner-central-agents/",
+          "date": "Tue, 17 Mar 2026 18:00:00 +0000"
+        },
+        {
+          "title": "Veritone Data Refinery Helps Safeguard Personal Data with Veritone Redact",
+          "link": "https://ai-techpark.com/veritone-data-refinery-helps-safeguard-personal-data-with-veritone-redact/",
+          "date": "Tue, 17 Mar 2026 17:45:00 +0000"
+        },
+        {
+          "title": "Acsense Launches Safe Configuration Management to Eliminate IAM Outage Risk",
+          "link": "https://ai-techpark.com/acsense-launches-safe-configuration-management-to-eliminate-iam-outage-risk/",
+          "date": "Tue, 17 Mar 2026 17:00:00 +0000"
+        },
+        {
+          "title": "D-ID Announced the Launch of V4 Expressive Visual Agents",
+          "link": "https://ai-techpark.com/d-id-announced-the-launch-of-v4-expressive-visual-agents/",
+          "date": "Tue, 17 Mar 2026 14:30:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -152,6 +178,11 @@
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [
         {
+          "title": "For effective AI, insurance needs to get its data house in order",
+          "link": "https://www.artificialintelligence-news.com/news/for-effective-ai-insurance-needs-a-better-data-layer-and-integration/",
+          "date": "Wed, 18 Mar 2026 14:37:00 +0000"
+        },
+        {
           "title": "Trustpilot partners with AI companies as traditional search declines",
           "link": "https://www.artificialintelligence-news.com/news/ai-in-ecommerce-trustpilot-partnerships-integration-news-trad-search-declines/",
           "date": "Tue, 17 Mar 2026 12:26:00 +0000"
@@ -170,11 +201,6 @@
           "title": "NTT DATA and NVIDIA bring enterprise AI factories to production scale",
           "link": "https://www.artificialintelligence-news.com/news/ntt-data-nvidia-enterprise-ai-factories-production/",
           "date": "Mon, 16 Mar 2026 12:00:00 +0000"
-        },
-        {
-          "title": "OpenAI\u2019s Frontier puts AI agents in a fight SaaS can\u2019t afford to\u00a0lose",
-          "link": "https://www.artificialintelligence-news.com/news/openai-frontier-enterprise-ai-agents-saas/",
-          "date": "Mon, 16 Mar 2026 10:00:00 +0000"
         }
       ],
       "error": null
@@ -348,16 +374,6 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "Jensen Huang says gamers are 'completely wrong' about DLSS 5 \u2014 Nvidia CEO responds to DLSS 5 backlash",
-          "link": "https://www.reddit.com/r/artificial/comments/1rwl37x/jensen_huang_says_gamers_are_completely_wrong/",
-          "date": "2026-03-17T22:07:14+00:00"
-        },
-        {
-          "title": "LLMs forget instructions the same way ADHD brains do. The research on why is fascinating.",
-          "link": "https://www.reddit.com/r/artificial/comments/1rwkj5j/llms_forget_instructions_the_same_way_adhd_brains/",
-          "date": "2026-03-17T21:46:22+00:00"
-        },
-        {
           "title": "The Moltbook acquisition makes a lot more sense when you read one of Meta's patent filings",
           "link": "https://www.reddit.com/r/artificial/comments/1rwyk17/the_moltbook_acquisition_makes_a_lot_more_sense/",
           "date": "2026-03-18T08:53:14+00:00"
@@ -368,9 +384,19 @@
           "date": "2026-03-18T11:42:06+00:00"
         },
         {
+          "title": "Jensen Huang says gamers are 'completely wrong' about DLSS 5 \u2014 Nvidia CEO responds to DLSS 5 backlash",
+          "link": "https://www.reddit.com/r/artificial/comments/1rwl37x/jensen_huang_says_gamers_are_completely_wrong/",
+          "date": "2026-03-17T22:07:14+00:00"
+        },
+        {
           "title": "Are we cooked?",
           "link": "https://www.reddit.com/r/artificial/comments/1rw4k3l/are_we_cooked/",
           "date": "2026-03-17T12:01:38+00:00"
+        },
+        {
+          "title": "Are marketing jobs truly threatened by AI?",
+          "link": "https://www.reddit.com/r/artificial/comments/1rwut6e/are_marketing_jobs_truly_threatened_by_ai/",
+          "date": "2026-03-18T05:07:04+00:00"
         }
       ],
       "error": null
@@ -412,6 +438,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "How AI is actually changing day-to-day work",
+          "link": "https://www.theguardian.com/technology/2026/mar/16/ai-artificial-intelligence-work",
+          "date": "Wed, 18 Mar 2026 13:45:22 GMT"
+        },
+        {
           "title": "We asked experts about the most responsible ways to use AI tools \u2013 here\u2019s what they said",
           "link": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/18/how-to-use-ai-tools-expert-guide",
           "date": "Wed, 18 Mar 2026 11:00:40 GMT"
@@ -430,11 +461,6 @@
           "title": "A photo of Iran\u2019s bombed schoolgirl graveyard went around the world. Was it real, or AI?",
           "link": "https://www.theguardian.com/global-development/2026/mar/17/atrocity-ai-slop-verify-facts-iran-minab-graves",
           "date": "Tue, 17 Mar 2026 05:00:40 GMT"
-        },
-        {
-          "title": "Teenage girls sue Musk\u2019s xAI, accusing Grok tool of creating child sexual abuse material",
-          "link": "https://www.theguardian.com/technology/2026/mar/16/lawsuit-elon-musk-ai-grok-child-sexual-abuse",
-          "date": "Mon, 16 Mar 2026 20:54:05 GMT"
         }
       ],
       "error": null
@@ -442,39 +468,18 @@
     {
       "name": "artificial intelligence Archives - SpaceNews",
       "url": "https://spacenews.com/tag/artificial-intelligence/feed/",
-      "items": [
-        {
-          "title": "Kayrros sale signals rising demand for satellite intelligence amid Hormuz crisis",
-          "link": "https://spacenews.com/kayrros-sale-signals-rising-demand-for-satellite-intelligence-amid-hormuz-crisis/",
-          "date": "Mon, 16 Mar 2026 21:47:33 +0000"
-        },
-        {
-          "title": "Strait of Hormuz crisis drives demand for commercial geospatial intelligence",
-          "link": "https://spacenews.com/strait-of-hormuz-crisis-drives-demand-for-commercial-geospatial-intelligence/",
-          "date": "Sun, 15 Mar 2026 15:06:01 +0000"
-        },
-        {
-          "title": "Another Earth raises $4 million to boost AI training with synthetic satellite data",
-          "link": "https://spacenews.com/another-earth-raises-4-million-to-boost-ai-training-with-synthetic-satellite-data/",
-          "date": "Thu, 12 Mar 2026 16:10:25 +0000"
-        },
-        {
-          "title": "Unlocking AI in space: the case for greater industry and space agency collaboration",
-          "link": "https://spacenews.com/unlocking-ai-in-space-the-case-for-greater-industry-and-space-agency-collaboration/",
-          "date": "Thu, 05 Mar 2026 14:00:00 +0000"
-        },
-        {
-          "title": "Mutable Tactics raises $2.1 million for AI drone coordination in satellite-denied environments",
-          "link": "https://spacenews.com/mutable-tactics-raises-2-1-million-for-ai-drone-coordination-in-satellite-denied-environments/",
-          "date": "Wed, 04 Mar 2026 16:31:01 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:47:3: mismatched tag"
     },
     {
       "name": "Artificial Intelligence \u2013 Futurism",
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
+        {
+          "title": "Absurd AI-Powered Lawsuits Are Causing Chaos in Courts, Attorneys Say, \u201cClogging the System\u201d and Driving Up Costs",
+          "link": "https://futurism.com/artificial-intelligence/ai-lawsuits-chaos-courts-lawyers",
+          "date": "Wed, 18 Mar 2026 11:01:00 -0400"
+        },
         {
           "title": "Crowd\u2019s Reaction to BuzzFeed\u2019s New AI App: Uncomfortable Laughter",
           "link": "https://futurism.com/artificial-intelligence/reaction-buzzfeed-new-ai-apps",
@@ -494,11 +499,6 @@
           "title": "Nvidia Ridiculed for \u201cSloptracing\u201d Feature That Uses AI to Yassify Video Games in Real Time",
           "link": "https://futurism.com/artificial-intelligence/nvidia-ridiculed-yassify-video-games",
           "date": "Tue, 17 Mar 2026 14:12:23 -0400"
-        },
-        {
-          "title": "Panicked OpenAI Execs Cutting Projects as Walls Close In",
-          "link": "https://futurism.com/artificial-intelligence/openai-cutting-projects",
-          "date": "Tue, 17 Mar 2026 12:04:13 -0400"
         }
       ],
       "error": null
