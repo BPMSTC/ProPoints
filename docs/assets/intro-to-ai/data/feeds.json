@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-18T11:43:55.001997+00:00",
+  "generatedAt": "2026-03-18T13:06:30.412048+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "DarcyIQ Launches Support for AWS Partner Central Agents",
-          "link": "https://ai-techpark.com/darcyiq-launches-support-for-aws-partner-central-agents/",
-          "date": "Tue, 17 Mar 2026 18:00:00 +0000"
-        },
-        {
-          "title": "Veritone Data Refinery Helps Safeguard Personal Data with Veritone Redact",
-          "link": "https://ai-techpark.com/veritone-data-refinery-helps-safeguard-personal-data-with-veritone-redact/",
-          "date": "Tue, 17 Mar 2026 17:45:00 +0000"
-        },
-        {
-          "title": "Acsense Launches Safe Configuration Management to Eliminate IAM Outage Risk",
-          "link": "https://ai-techpark.com/acsense-launches-safe-configuration-management-to-eliminate-iam-outage-risk/",
-          "date": "Tue, 17 Mar 2026 17:00:00 +0000"
-        },
-        {
-          "title": "D-ID Announced the Launch of V4 Expressive Visual Agents",
-          "link": "https://ai-techpark.com/d-id-announced-the-launch-of-v4-expressive-visual-agents/",
-          "date": "Tue, 17 Mar 2026 14:30:00 +0000"
-        },
-        {
-          "title": "Matillion Announced the Appointment of Tim O\u2019Neil as CRO",
-          "link": "https://ai-techpark.com/matillion-announced-the-appointment-of-tim-oneil-as-cro/",
-          "date": "Tue, 17 Mar 2026 10:15:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -342,7 +316,7 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "After Discord fiasco, age-check tech promises privacy by running locally. Does it work?",
+          "title": "Users hate it, but age-check tech is coming. Here's how it works.",
           "link": "https://arstechnica.com/tech-policy/2026/03/after-discord-fiasco-age-check-tech-promises-privacy-by-running-locally-does-it-work/",
           "date": "Wed, 18 Mar 2026 11:30:47 +0000"
         },
@@ -389,14 +363,14 @@
           "date": "2026-03-18T08:53:14+00:00"
         },
         {
+          "title": "The Pentagon is developing its own LLMs | TechCrunch",
+          "link": "https://www.reddit.com/r/artificial/comments/1rx1k64/the_pentagon_is_developing_its_own_llms_techcrunch/",
+          "date": "2026-03-18T11:42:06+00:00"
+        },
+        {
           "title": "Are we cooked?",
           "link": "https://www.reddit.com/r/artificial/comments/1rw4k3l/are_we_cooked/",
           "date": "2026-03-17T12:01:38+00:00"
-        },
-        {
-          "title": "Built a site for tracking reported cases of AI-induced psychological harm since January. 126 cases documented so far. Split between reporting and academic journals for those who might want to research further. Feedback welcome",
-          "link": "https://www.reddit.com/r/artificial/comments/1rwvqb9/built_a_site_for_tracking_reported_cases_of/",
-          "date": "2026-03-18T05:58:13+00:00"
         }
       ],
       "error": null
@@ -405,6 +379,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "More and more teachers and students are using AI \u2013 even though it might do more harm than good",
+          "link": "https://theconversation.com/more-and-more-teachers-and-students-are-using-ai-even-though-it-might-do-more-harm-than-good-275650",
+          "date": "2026-03-18T12:25:09Z"
+        },
         {
           "title": "Is Spotify\u2019s AI \u2018killing\u2019 Australian music? What we found from analysing more than 2 million tracks",
           "link": "https://theconversation.com/is-spotifys-ai-killing-australian-music-what-we-found-from-analysing-more-than-2-million-tracks-276984",
@@ -424,11 +403,6 @@
           "title": "Iran war shows how AI speeds up military \u2018kill chains\u2019",
           "link": "https://theconversation.com/iran-war-shows-how-ai-speeds-up-military-kill-chains-278492",
           "date": "2026-03-17T10:48:09Z"
-        },
-        {
-          "title": "Almost 80% of Australian uni students now use AI. This is creating an \u2018illusion of competence\u2019",
-          "link": "https://theconversation.com/almost-80-of-australian-uni-students-now-use-ai-this-is-creating-an-illusion-of-competence-278413",
-          "date": "2026-03-16T19:09:38Z"
         }
       ],
       "error": null
