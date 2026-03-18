@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-18T21:35:32.441038+00:00",
+  "generatedAt": "2026-03-18T22:30:39.393554+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -342,6 +342,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Kagi Translate's AI answers the question \"What would horny Margaret Thatcher say?\"",
+          "link": "https://arstechnica.com/ai/2026/03/kagi-translates-ai-answers-the-question-what-would-horny-margaret-thatcher-say/",
+          "date": "Wed, 18 Mar 2026 22:06:32 +0000"
+        },
+        {
+          "title": "Musk\u2019s tactic of blaming users for Grok sex images may be foiled by EU law",
+          "link": "https://arstechnica.com/tech-policy/2026/03/eu-moves-to-ban-nudify-apps-after-grok-made-them-mainstream/",
+          "date": "Wed, 18 Mar 2026 21:32:20 +0000"
+        },
+        {
           "title": "Coal plant forced to stay open due to emergency order isn't even running",
           "link": "https://arstechnica.com/science/2026/03/coal-plant-forced-to-stay-open-due-to-emergency-order-isnt-even-running/",
           "date": "Wed, 18 Mar 2026 21:10:45 +0000"
@@ -355,16 +365,6 @@
           "title": "Cloudflare appeals Piracy Shield fine, hopes to kill Italy's site-blocking law",
           "link": "https://arstechnica.com/tech-policy/2026/03/cloudflare-appeals-piracy-shield-fine-hopes-to-kill-italys-site-blocking-law/",
           "date": "Wed, 18 Mar 2026 19:36:14 +0000"
-        },
-        {
-          "title": "A private space company has a radical new plan to bag an asteroid",
-          "link": "https://arstechnica.com/space/2026/03/a-private-space-company-has-a-radical-new-plan-to-bag-an-asteroid/",
-          "date": "Wed, 18 Mar 2026 19:00:40 +0000"
-        },
-        {
-          "title": "Federal cyber experts called Microsoft's cloud a \"pile of shit,\" approved it anyway",
-          "link": "https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/",
-          "date": "Wed, 18 Mar 2026 17:36:40 +0000"
         }
       ],
       "error": null
@@ -394,9 +394,9 @@
           "date": "2026-03-17T22:07:14+00:00"
         },
         {
-          "title": "Communication nowadays",
-          "link": "https://www.reddit.com/r/artificial/comments/1rxfu8o/communication_nowadays/",
-          "date": "2026-03-18T20:47:47+00:00"
+          "title": "If you are using ChatGPT, you would probably want an AI policy. [I will not promote]",
+          "link": "https://www.reddit.com/r/artificial/comments/1rx8hfr/if_you_are_using_chatgpt_you_would_probably_want/",
+          "date": "2026-03-18T16:23:40+00:00"
         }
       ],
       "error": null
@@ -468,8 +468,34 @@
     {
       "name": "artificial intelligence Archives - SpaceNews",
       "url": "https://spacenews.com/tag/artificial-intelligence/feed/",
-      "items": [],
-      "error": "<unknown>:47:3: mismatched tag"
+      "items": [
+        {
+          "title": "Kayrros sale signals rising demand for satellite intelligence amid Hormuz crisis",
+          "link": "https://spacenews.com/kayrros-sale-signals-rising-demand-for-satellite-intelligence-amid-hormuz-crisis/",
+          "date": "Mon, 16 Mar 2026 21:47:33 +0000"
+        },
+        {
+          "title": "Strait of Hormuz crisis drives demand for commercial geospatial intelligence",
+          "link": "https://spacenews.com/strait-of-hormuz-crisis-drives-demand-for-commercial-geospatial-intelligence/",
+          "date": "Sun, 15 Mar 2026 15:06:01 +0000"
+        },
+        {
+          "title": "Another Earth raises $4 million to boost AI training with synthetic satellite data",
+          "link": "https://spacenews.com/another-earth-raises-4-million-to-boost-ai-training-with-synthetic-satellite-data/",
+          "date": "Thu, 12 Mar 2026 16:10:25 +0000"
+        },
+        {
+          "title": "Unlocking AI in space: the case for greater industry and space agency collaboration",
+          "link": "https://spacenews.com/unlocking-ai-in-space-the-case-for-greater-industry-and-space-agency-collaboration/",
+          "date": "Thu, 05 Mar 2026 14:00:00 +0000"
+        },
+        {
+          "title": "Mutable Tactics raises $2.1 million for AI drone coordination in satellite-denied environments",
+          "link": "https://spacenews.com/mutable-tactics-raises-2-1-million-for-ai-drone-coordination-in-satellite-denied-environments/",
+          "date": "Wed, 04 Mar 2026 16:31:01 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "Artificial Intelligence \u2013 Futurism",
