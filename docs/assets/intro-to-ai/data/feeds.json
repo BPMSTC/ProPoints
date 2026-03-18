@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-17T23:30:25.680960+00:00",
+  "generatedAt": "2026-03-18T02:00:20.956889+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "DarcyIQ Launches Support for AWS Partner Central Agents",
+          "link": "https://ai-techpark.com/darcyiq-launches-support-for-aws-partner-central-agents/",
+          "date": "Tue, 17 Mar 2026 18:00:00 +0000"
+        },
+        {
+          "title": "Veritone Data Refinery Helps Safeguard Personal Data with Veritone Redact",
+          "link": "https://ai-techpark.com/veritone-data-refinery-helps-safeguard-personal-data-with-veritone-redact/",
+          "date": "Tue, 17 Mar 2026 17:45:00 +0000"
+        },
+        {
+          "title": "Acsense Launches Safe Configuration Management to Eliminate IAM Outage Risk",
+          "link": "https://ai-techpark.com/acsense-launches-safe-configuration-management-to-eliminate-iam-outage-risk/",
+          "date": "Tue, 17 Mar 2026 17:00:00 +0000"
+        },
+        {
+          "title": "D-ID Announced the Launch of V4 Expressive Visual Agents",
+          "link": "https://ai-techpark.com/d-id-announced-the-launch-of-v4-expressive-visual-agents/",
+          "date": "Tue, 17 Mar 2026 14:30:00 +0000"
+        },
+        {
+          "title": "Matillion Announced the Appointment of Tim O\u2019Neil as CRO",
+          "link": "https://ai-techpark.com/matillion-announced-the-appointment-of-tim-oneil-as-cro/",
+          "date": "Tue, 17 Mar 2026 10:15:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -348,9 +374,9 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "Are we cooked?",
-          "link": "https://www.reddit.com/r/artificial/comments/1rw4k3l/are_we_cooked/",
-          "date": "2026-03-17T12:01:38+00:00"
+          "title": "LLMs forget instructions the same way ADHD brains do. The research on why is fascinating.",
+          "link": "https://www.reddit.com/r/artificial/comments/1rwkj5j/llms_forget_instructions_the_same_way_adhd_brains/",
+          "date": "2026-03-17T21:46:22+00:00"
         },
         {
           "title": "Jensen Huang says gamers are 'completely wrong' about DLSS 5 \u2014 Nvidia CEO responds to DLSS 5 backlash",
@@ -358,14 +384,14 @@
           "date": "2026-03-17T22:07:14+00:00"
         },
         {
+          "title": "Are we cooked?",
+          "link": "https://www.reddit.com/r/artificial/comments/1rw4k3l/are_we_cooked/",
+          "date": "2026-03-17T12:01:38+00:00"
+        },
+        {
           "title": "Nvidia unveils AI infrastructure spanning chips to space computing",
           "link": "https://www.reddit.com/r/artificial/comments/1rw8rz6/nvidia_unveils_ai_infrastructure_spanning_chips/",
           "date": "2026-03-17T14:54:06+00:00"
-        },
-        {
-          "title": "LLMs forget instructions the same way ADHD brains do. The research on why is fascinating.",
-          "link": "https://www.reddit.com/r/artificial/comments/1rwkj5j/llms_forget_instructions_the_same_way_adhd_brains/",
-          "date": "2026-03-17T21:46:22+00:00"
         },
         {
           "title": "LLMs forget instructions the same way ADHD brains do. I built scaffolding for both. Research + open source.",
@@ -476,6 +502,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Crowd\u2019s Reaction to BuzzFeed\u2019s New AI App: Uncomfortable Laughter",
+          "link": "https://futurism.com/artificial-intelligence/reaction-buzzfeed-new-ai-apps",
+          "date": "Tue, 17 Mar 2026 19:50:53 -0400"
+        },
+        {
           "title": "Sam Altman Thanks Programmers for Their Effort, Says Their Time Is Over",
           "link": "https://futurism.com/artificial-intelligence/sam-altman-thanks-programmers-over",
           "date": "Tue, 17 Mar 2026 15:59:22 -0400"
@@ -494,11 +525,6 @@
           "title": "Panicked OpenAI Execs Cutting Projects as Walls Close In",
           "link": "https://futurism.com/artificial-intelligence/openai-cutting-projects",
           "date": "Tue, 17 Mar 2026 12:04:13 -0400"
-        },
-        {
-          "title": "Jeff Bezos\u2019 Washington Post Now Setting Readers\u2019 Subscription Prices With Uber-Style AI",
-          "link": "https://futurism.com/artificial-intelligence/washington-post-price-ai",
-          "date": "Tue, 17 Mar 2026 10:08:03 -0400"
         }
       ],
       "error": null
@@ -507,6 +533,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Justice Department Says Anthropic Can\u2019t Be Trusted With Warfighting Systems",
+          "link": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
+          "date": "Wed, 18 Mar 2026 00:51:14 +0000"
+        },
         {
           "title": "How Invisalign Became the World\u2019s Biggest User of 3D Printers",
           "link": "https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/",
@@ -526,11 +557,6 @@
           "title": "Google's AI Search Results Love to Refer You Back to Google",
           "link": "https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/",
           "date": "Fri, 13 Mar 2026 12:31:55 +0000"
-        },
-        {
-          "title": "China\u2019s OpenClaw Boom Is a Gold Rush for AI Companies",
-          "link": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
-          "date": "Fri, 13 Mar 2026 12:00:00 +0000"
         }
       ],
       "error": null
