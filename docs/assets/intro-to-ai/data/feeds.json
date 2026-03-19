@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-19T06:59:53.404158+00:00",
+  "generatedAt": "2026-03-19T07:53:18.575246+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -176,8 +176,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Mastercard keeps tabs on fraud with new foundation model",
+          "link": "https://www.artificialintelligence-news.com/news/mastercards-ltm-keeps-tabs-on-fraud-with-a-new-foundation-model/",
+          "date": "Wed, 18 Mar 2026 15:31:00 +0000"
+        },
+        {
+          "title": "For effective AI, insurance needs to get its data house in order",
+          "link": "https://www.artificialintelligence-news.com/news/for-effective-ai-insurance-needs-a-better-data-layer-and-integration/",
+          "date": "Wed, 18 Mar 2026 14:37:00 +0000"
+        },
+        {
+          "title": "Trustpilot partners with AI companies as traditional search declines",
+          "link": "https://www.artificialintelligence-news.com/news/ai-in-ecommerce-trustpilot-partnerships-integration-news-trad-search-declines/",
+          "date": "Tue, 17 Mar 2026 12:26:00 +0000"
+        },
+        {
+          "title": "Goldman Sachs sees AI investment shift to data centres",
+          "link": "https://www.artificialintelligence-news.com/news/goldman-sachs-sees-ai-investment-shift-to-data-centres/",
+          "date": "Tue, 17 Mar 2026 10:00:00 +0000"
+        },
+        {
+          "title": "US Treasury publishes AI risk Guidebook for financial institutions",
+          "link": "https://www.artificialintelligence-news.com/news/us-treasury-publishes-ai-risk-governance-guidebook-for-financial-institutions/",
+          "date": "Mon, 16 Mar 2026 16:15:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -353,6 +379,11 @@
           "date": "2026-03-19T04:27:08+00:00"
         },
         {
+          "title": "Solution to AI Agent Prompt Injection, Hijacking attacks and Info Leaks:",
+          "link": "https://www.reddit.com/r/artificial/comments/1rxtw4v/solution_to_ai_agent_prompt_injection_hijacking/",
+          "date": "2026-03-19T07:28:21+00:00"
+        },
+        {
           "title": "The Moltbook acquisition makes a lot more sense when you read one of Meta's patent filings",
           "link": "https://www.reddit.com/r/artificial/comments/1rwyk17/the_moltbook_acquisition_makes_a_lot_more_sense/",
           "date": "2026-03-18T08:53:14+00:00"
@@ -361,11 +392,6 @@
           "title": "\"Why AI systems don't learn and what to do about it: Lessons on autonomous learning from cognitive science\" - paper by Emmanuel Dupoux, Yann LeCun, Jitendra Malik",
           "link": "https://www.reddit.com/r/artificial/comments/1rxoq9g/why_ai_systems_dont_learn_and_what_to_do_about_it/",
           "date": "2026-03-19T02:48:53+00:00"
-        },
-        {
-          "title": "Agent-to-agent B2B transactions raise a question nobody has a clean answer to: who is the customer?",
-          "link": "https://www.reddit.com/r/artificial/comments/1rxs6s4/agenttoagent_b2b_transactions_raise_a_question/",
-          "date": "2026-03-19T05:45:17+00:00"
         },
         {
           "title": "Robot dogs priced at $300,000 a piece are now guarding some of the country\u2019s biggest data centers",
@@ -422,13 +448,13 @@
           "date": "Thu, 19 Mar 2026 06:00:03 GMT"
         },
         {
-          "title": "\u2018We don\u2019t tell the car what it should do\u2019: my ride in a self-driving taxi",
-          "link": "https://www.theguardian.com/technology/2026/mar/19/my-ride-in-a-self-driving-taxi-london",
+          "title": "Inside China\u2019s robotics revolution",
+          "link": "https://www.theguardian.com/technology/2026/mar/19/inside-chinas-robotics-revolution",
           "date": "Thu, 19 Mar 2026 05:01:00 GMT"
         },
         {
-          "title": "Inside China\u2019s robotics revolution",
-          "link": "https://www.theguardian.com/technology/2026/mar/19/inside-chinas-robotics-revolution",
+          "title": "\u2018We don\u2019t tell the car what it should do\u2019: my ride in a self-driving taxi",
+          "link": "https://www.theguardian.com/technology/2026/mar/19/my-ride-in-a-self-driving-taxi-london",
           "date": "Thu, 19 Mar 2026 05:01:00 GMT"
         },
         {
