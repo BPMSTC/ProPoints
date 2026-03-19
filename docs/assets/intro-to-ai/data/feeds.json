@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-19T15:53:09.430344+00:00",
+  "generatedAt": "2026-03-19T16:55:54.920760+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -334,34 +334,23 @@
     {
       "name": "Announcements - Stability AI",
       "url": "https://stability.ai/blog?format=rss",
-      "items": [
-        {
-          "title": "Redefine Success",
-          "link": "https://stability.ai/blog/Blog Post Title One-3zaa9-zlxng-7rha9",
-          "date": "Tue, 28 May 2019 15:13:10 +0000"
-        },
-        {
-          "title": "Small Steps Create Big Shifts",
-          "link": "https://stability.ai/blog/blog-post-title-two-t5my5-k4xmd-wths4",
-          "date": "Tue, 28 May 2019 15:12:55 +0000"
-        },
-        {
-          "title": "Turn Intention Into Action",
-          "link": "https://stability.ai/blog/blog-post-title-three-y3peb-4lwnz-3y8g6",
-          "date": "Tue, 28 May 2019 15:12:09 +0000"
-        },
-        {
-          "title": "Make Room for Growth",
-          "link": "https://stability.ai/blog/blog-post-title-four-lr658-tcthp-pn3jn",
-          "date": "Tue, 28 May 2019 15:11:49 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:0: syntax error"
     },
     {
       "name": "Ars Technica - All content",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
+        {
+          "title": "After 25 years, Valve reworks Counter-Strike's reload system",
+          "link": "https://arstechnica.com/gaming/2026/03/after-25-years-valve-reworks-counter-strikes-reload-system/",
+          "date": "Thu, 19 Mar 2026 15:59:58 +0000"
+        },
+        {
+          "title": "Study pinpoints when bow and arrow came to North America",
+          "link": "https://arstechnica.com/science/2026/03/study-pinpoints-when-bow-and-arrow-came-to-north-america/",
+          "date": "Thu, 19 Mar 2026 15:45:33 +0000"
+        },
         {
           "title": "TCL\u2019s German QLED ban puts pressure on TV brands to be more honest about QDs",
           "link": "https://arstechnica.com/gadgets/2026/03/tcls-german-qled-ban-puts-pressure-on-tv-brands-to-be-more-honest-about-qds/",
@@ -376,16 +365,6 @@
           "title": "Musk\u2019s tactic of blaming users for Grok sex images may be foiled by EU law",
           "link": "https://arstechnica.com/tech-policy/2026/03/eu-moves-to-ban-nudify-apps-after-grok-made-them-mainstream/",
           "date": "Wed, 18 Mar 2026 21:32:20 +0000"
-        },
-        {
-          "title": "Coal plant forced to stay open due to emergency order isn't even running",
-          "link": "https://arstechnica.com/science/2026/03/coal-plant-forced-to-stay-open-due-to-emergency-order-isnt-even-running/",
-          "date": "Wed, 18 Mar 2026 21:10:45 +0000"
-        },
-        {
-          "title": "Never mind Band-Aids, Neanderthals had antiseptic birch tar",
-          "link": "https://arstechnica.com/science/2026/03/never-mind-band-aids-neanderthals-had-antiseptic-birch-tar/",
-          "date": "Wed, 18 Mar 2026 20:46:32 +0000"
         }
       ],
       "error": null
@@ -394,11 +373,6 @@
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
-        {
-          "title": "What if your AI could say \"I'm not sure, but I can guess if you want\"?",
-          "link": "https://www.reddit.com/r/artificial/comments/1ry2kvr/what_if_your_ai_could_say_im_not_sure_but_i_can/",
-          "date": "2026-03-19T14:53:47+00:00"
-        },
         {
           "title": "Most AI tools are built for developers. Here's what happens when regular people try to use AI agents.",
           "link": "https://www.reddit.com/r/artificial/comments/1rxuu18/most_ai_tools_are_built_for_developers_heres_what/",
@@ -415,9 +389,14 @@
           "date": "2026-03-19T15:00:00+00:00"
         },
         {
-          "title": "Using AI to improve standard-of-care cardiac imaging",
-          "link": "https://www.reddit.com/r/artificial/comments/1ry3egw/using_ai_to_improve_standardofcare_cardiac_imaging/",
-          "date": "2026-03-19T15:24:25+00:00"
+          "title": "What if your AI could say \"I'm not sure, but I can guess if you want\"?",
+          "link": "https://www.reddit.com/r/artificial/comments/1ry2kvr/what_if_your_ai_could_say_im_not_sure_but_i_can/",
+          "date": "2026-03-19T14:53:47+00:00"
+        },
+        {
+          "title": "Getting AI to explain an ancient Vedic chess variant",
+          "link": "https://www.reddit.com/r/artificial/comments/1ry58uh/getting_ai_to_explain_an_ancient_vedic_chess/",
+          "date": "2026-03-19T16:32:28+00:00"
         }
       ],
       "error": null
@@ -464,6 +443,11 @@
           "date": "Thu, 19 Mar 2026 10:00:05 GMT"
         },
         {
+          "title": "I asked AI to explain my mother to me. It translated her worldview",
+          "link": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/19/i-asked-ai-to-explain-my-mother-to-me",
+          "date": "Thu, 19 Mar 2026 16:00:53 GMT"
+        },
+        {
           "title": "Essex police pause facial recognition camera use after study finds racial bias",
           "link": "https://www.theguardian.com/technology/2026/mar/19/essex-police-pause-facial-recognition-camera-use-study-racial-bias",
           "date": "Thu, 19 Mar 2026 15:26:54 GMT"
@@ -477,11 +461,6 @@
           "title": "PwC partners who fail to embrace AI have no future at firm, US CEO warns",
           "link": "https://www.theguardian.com/business/2026/mar/19/pwc-pricewaterhousecoopers-partners-ai-artificial-intelligence-paul-griggs",
           "date": "Thu, 19 Mar 2026 12:04:06 GMT"
-        },
-        {
-          "title": "The Rite of Spring / Mirror review \u2013 glitchy Stravinsky and digital doppelgangers from Alexander Whitley",
-          "link": "https://www.theguardian.com/stage/2026/mar/19/mirror-the-rite-of-spring-review-alexander-whitley-sadlers-wells-east",
-          "date": "Thu, 19 Mar 2026 11:14:01 GMT"
         }
       ],
       "error": null
@@ -523,6 +502,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "CEO of AI Company Says Gen Z Needs to Get Ready for 30 Percent Unemployment",
+          "link": "https://futurism.com/artificial-intelligence/ceo-ai-gen-z-unemployment",
+          "date": "Thu, 19 Mar 2026 12:05:59 -0400"
+        },
+        {
           "title": "\u201cEducational\u201d YouTube AI Slop Encourages Kids to Play in Traffic",
           "link": "https://futurism.com/artificial-intelligence/educational-youtube-ai-slop-play-in-traffic",
           "date": "Thu, 19 Mar 2026 10:03:19 -0400"
@@ -541,11 +525,6 @@
           "title": "Sam Altman Confronted At Oscars Party Over Pentagon Deal",
           "link": "https://futurism.com/artificial-intelligence/sam-altman-confronted-oscar-pentagon-deal",
           "date": "Wed, 18 Mar 2026 13:17:17 -0400"
-        },
-        {
-          "title": "Absurd AI-Powered Lawsuits Are Causing Chaos in Courts, Attorneys Say, \u201cClogging the System\u201d and Driving Up Costs",
-          "link": "https://futurism.com/artificial-intelligence/ai-lawsuits-chaos-courts-lawyers",
-          "date": "Wed, 18 Mar 2026 11:01:00 -0400"
         }
       ],
       "error": null
@@ -554,6 +533,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "ChatGPT\u2019s \u2018Adult Mode\u2019 Could Spark a New Era of Intimate Surveillance",
+          "link": "https://www.wired.com/story/chatgpt-adult-mode-new-era-of-intimate-surveillance/",
+          "date": "Thu, 19 Mar 2026 16:06:49 +0000"
+        },
         {
           "title": "Signal\u2019s Creator Is Helping Encrypt Meta AI",
           "link": "https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/",
@@ -573,11 +557,6 @@
           "title": "Justice Department Says Anthropic Can\u2019t Be Trusted With Warfighting Systems",
           "link": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
           "date": "Wed, 18 Mar 2026 00:51:14 +0000"
-        },
-        {
-          "title": "How Invisalign Became the World\u2019s Biggest User of 3D Printers",
-          "link": "https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/",
-          "date": "Tue, 17 Mar 2026 11:00:00 +0000"
         }
       ],
       "error": null
