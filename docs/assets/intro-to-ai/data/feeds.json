@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-19T18:55:28.314627+00:00",
+  "generatedAt": "2026-03-19T19:45:12.494708+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -140,6 +140,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Google's Stitch and the Shift in AI-Driven Development",
+          "link": "https://aibusiness.com/generative-ai/google-s-stitch-and-ai-driven-development",
+          "date": "Thu, 19 Mar 2026 19:24:39 GMT"
+        },
+        {
           "title": "Tencent to Double AI Spending to More Than $5B Over Next Year",
           "link": "https://aibusiness.com/agentic-ai/tencent-to-double-ai-spending-to-more-than-5b",
           "date": "Thu, 19 Mar 2026 17:20:07 GMT"
@@ -158,11 +163,6 @@
           "title": "Mistral Pioneers Sovereign AI in Europe",
           "link": "https://aibusiness.com/foundation-models/mistral-pioneers-sovereign-ai-in-europe",
           "date": "Wed, 18 Mar 2026 15:56:54 GMT"
-        },
-        {
-          "title": "Nvidia Extends its Reach Into Self-Driving",
-          "link": "https://aibusiness.com/generative-ai/nvidia-extends-its-reach-into-self-driving",
-          "date": "Wed, 18 Mar 2026 14:49:52 GMT"
         }
       ],
       "error": null
@@ -342,7 +342,12 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "At the last minute, Meta decides not to kill Horizon Worlds VR after all",
+          "title": "OpenAI is acquiring open source Python tool-maker Astral",
+          "link": "https://arstechnica.com/ai/2026/03/openai-is-acquiring-open-source-python-tool-maker-astral/",
+          "date": "Thu, 19 Mar 2026 18:44:58 +0000"
+        },
+        {
+          "title": "Meta decides not to kill Horizon Worlds VR after all",
           "link": "https://arstechnica.com/gadgets/2026/03/at-the-last-minute-meta-decides-not-to-kill-horizon-worlds-vr-after-all/",
           "date": "Thu, 19 Mar 2026 17:50:40 +0000"
         },
@@ -360,11 +365,6 @@
           "title": "Despite hardware limits, Parallels supports running Windows on MacBook Neo",
           "link": "https://arstechnica.com/gadgets/2026/03/despite-hardware-limits-parallels-supports-running-windows-on-macbook-neo/",
           "date": "Thu, 19 Mar 2026 16:50:10 +0000"
-        },
-        {
-          "title": "Counter-Strike 2's new reload system could upend the entire game",
-          "link": "https://arstechnica.com/gaming/2026/03/after-25-years-valve-reworks-counter-strikes-reload-system/",
-          "date": "Thu, 19 Mar 2026 15:59:58 +0000"
         }
       ],
       "error": null
@@ -379,14 +379,14 @@
           "date": "2026-03-19T16:15:38+00:00"
         },
         {
-          "title": "Most AI tools are built for developers. Here's what happens when regular people try to use AI agents.",
-          "link": "https://www.reddit.com/r/artificial/comments/1rxuu18/most_ai_tools_are_built_for_developers_heres_what/",
-          "date": "2026-03-19T08:29:46+00:00"
-        },
-        {
           "title": "AI Will Reduce Knowledge Acquisition and World-Views Into Memes, Slogans, and Top-Down Propaganda Unless We Revert Back to Discovery-Based Searching",
           "link": "https://www.reddit.com/r/artificial/comments/1ry7apz/ai_will_reduce_knowledge_acquisition_and/",
           "date": "2026-03-19T17:47:17+00:00"
+        },
+        {
+          "title": "Most AI tools are built for developers. Here's what happens when regular people try to use AI agents.",
+          "link": "https://www.reddit.com/r/artificial/comments/1rxuu18/most_ai_tools_are_built_for_developers_heres_what/",
+          "date": "2026-03-19T08:29:46+00:00"
         },
         {
           "title": "How AI deep learning is helping scientists protect California's coastal ecosystems",
