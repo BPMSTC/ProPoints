@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-19T05:57:11.410052+00:00",
+  "generatedAt": "2026-03-19T06:59:53.404158+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -176,34 +176,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "Mastercard keeps tabs on fraud with new foundation model",
-          "link": "https://www.artificialintelligence-news.com/news/mastercards-ltm-keeps-tabs-on-fraud-with-a-new-foundation-model/",
-          "date": "Wed, 18 Mar 2026 15:31:00 +0000"
-        },
-        {
-          "title": "For effective AI, insurance needs to get its data house in order",
-          "link": "https://www.artificialintelligence-news.com/news/for-effective-ai-insurance-needs-a-better-data-layer-and-integration/",
-          "date": "Wed, 18 Mar 2026 14:37:00 +0000"
-        },
-        {
-          "title": "Trustpilot partners with AI companies as traditional search declines",
-          "link": "https://www.artificialintelligence-news.com/news/ai-in-ecommerce-trustpilot-partnerships-integration-news-trad-search-declines/",
-          "date": "Tue, 17 Mar 2026 12:26:00 +0000"
-        },
-        {
-          "title": "Goldman Sachs sees AI investment shift to data centres",
-          "link": "https://www.artificialintelligence-news.com/news/goldman-sachs-sees-ai-investment-shift-to-data-centres/",
-          "date": "Tue, 17 Mar 2026 10:00:00 +0000"
-        },
-        {
-          "title": "US Treasury publishes AI risk Guidebook for financial institutions",
-          "link": "https://www.artificialintelligence-news.com/news/us-treasury-publishes-ai-risk-governance-guidebook-for-financial-institutions/",
-          "date": "Mon, 16 Mar 2026 16:15:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -379,11 +353,6 @@
           "date": "2026-03-19T04:27:08+00:00"
         },
         {
-          "title": "The Pentagon is developing its own LLMs | TechCrunch",
-          "link": "https://www.reddit.com/r/artificial/comments/1rx1k64/the_pentagon_is_developing_its_own_llms_techcrunch/",
-          "date": "2026-03-18T11:42:06+00:00"
-        },
-        {
           "title": "The Moltbook acquisition makes a lot more sense when you read one of Meta's patent filings",
           "link": "https://www.reddit.com/r/artificial/comments/1rwyk17/the_moltbook_acquisition_makes_a_lot_more_sense/",
           "date": "2026-03-18T08:53:14+00:00"
@@ -397,6 +366,11 @@
           "title": "Agent-to-agent B2B transactions raise a question nobody has a clean answer to: who is the customer?",
           "link": "https://www.reddit.com/r/artificial/comments/1rxs6s4/agenttoagent_b2b_transactions_raise_a_question/",
           "date": "2026-03-19T05:45:17+00:00"
+        },
+        {
+          "title": "Robot dogs priced at $300,000 a piece are now guarding some of the country\u2019s biggest data centers",
+          "link": "https://www.reddit.com/r/artificial/comments/1rx8q9x/robot_dogs_priced_at_300000_a_piece_are_now/",
+          "date": "2026-03-18T16:32:42+00:00"
         }
       ],
       "error": null
@@ -443,9 +417,9 @@
           "date": "Wed, 18 Mar 2026 18:32:10 GMT"
         },
         {
-          "title": "Inside China\u2019s robotics revolution",
-          "link": "https://www.theguardian.com/technology/2026/mar/19/inside-chinas-robotics-revolution",
-          "date": "Thu, 19 Mar 2026 05:01:00 GMT"
+          "title": "\u2018Alright mate?\u2019: Amazon pins UK hopes on AI upgrade of Alexa",
+          "link": "https://www.theguardian.com/technology/2026/mar/19/amazon-uk-ai-upgrade-alexa-voice-assistant-devices",
+          "date": "Thu, 19 Mar 2026 06:00:03 GMT"
         },
         {
           "title": "\u2018We don\u2019t tell the car what it should do\u2019: my ride in a self-driving taxi",
@@ -453,14 +427,14 @@
           "date": "Thu, 19 Mar 2026 05:01:00 GMT"
         },
         {
+          "title": "Inside China\u2019s robotics revolution",
+          "link": "https://www.theguardian.com/technology/2026/mar/19/inside-chinas-robotics-revolution",
+          "date": "Thu, 19 Mar 2026 05:01:00 GMT"
+        },
+        {
           "title": "AI software for smart glasses wins \u00a31m prize for technology to help people with dementia",
           "link": "https://www.theguardian.com/society/2026/mar/18/ai-smart-glasses-1m-prize-technology-dementia",
           "date": "Wed, 18 Mar 2026 19:30:47 GMT"
-        },
-        {
-          "title": "Starmer says Tory shadow minister should be sacked for criticism of Muslims praying in Trafalgar Square \u2013 as it happened",
-          "link": "https://www.theguardian.com/politics/live/2026/mar/18/angela-rayner-andy-burnham-labour-keir-starmer-kemi-badenoch-pmqs-uk-politics-latest-news-updates",
-          "date": "Wed, 18 Mar 2026 16:31:03 GMT"
         }
       ],
       "error": null
