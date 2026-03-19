@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-03-19T14:11:31.812300+00:00",
+  "generatedAt": "2026-03-19T15:53:09.430344+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Tinder Plans to Let AI Scan Your Camera Roll",
+          "link": "https://www.404media.co/tinder-plans-to-let-ai-scan-your-camera-roll/",
+          "date": "Thu, 19 Mar 2026 14:42:44 GMT"
+        },
         {
           "title": "Mapping Google's Unmappable City",
           "link": "https://www.404media.co/mapping-googles-unmappable-city/",
@@ -24,11 +29,6 @@
           "title": "Was Life Seeded from Space? \u2018Complete Set\u2019 of DNA Ingredients Discovered on Asteroid",
           "link": "https://www.404media.co/was-life-seeded-from-space-complete-set-of-dna-ingredients-discovered-on-asteroid/",
           "date": "Tue, 17 Mar 2026 17:29:36 GMT"
-        },
-        {
-          "title": "AI Job Loss Research Ignores How AI Is Utterly Destroying the Internet",
-          "link": "https://www.404media.co/ai-job-loss-research-ignores-how-ai-is-utterly-destroying-the-internet/",
-          "date": "Tue, 17 Mar 2026 14:59:02 GMT"
         }
       ],
       "error": null
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "How AI in life sciences is  reshaping healthcare",
+          "link": "https://www.aiacceleratorinstitute.com/how-ai-in-life-sciences-is-reshaping-healthcare/",
+          "date": "Thu, 19 Mar 2026 15:07:51 GMT"
+        },
+        {
           "title": "NVIDIA GTC 2026:  The AI stack gets real",
           "link": "https://www.aiacceleratorinstitute.com/nvidia-gtc-2026-the-ai-stack-gets-real/",
           "date": "Thu, 19 Mar 2026 10:02:02 GMT"
@@ -88,11 +93,6 @@
           "title": "When AI judges AI:  The hidden dangers of reasoning models in alignment",
           "link": "https://www.aiacceleratorinstitute.com/when-ai-judges-ai-the-hidden-dangers-of-reasoning-models-in-alignment/",
           "date": "Wed, 18 Mar 2026 11:26:19 GMT"
-        },
-        {
-          "title": "Unlocking the power of data:  How we built text-to-SQL with agentic RAG at Rocket Mortgage",
-          "link": "https://www.aiacceleratorinstitute.com/unlocking-the-power-of-data-how-we-built-text-to-sql-with-agentic-rag-at-rocket-mortgage-copy/",
-          "date": "Fri, 13 Mar 2026 15:00:14 GMT"
         }
       ],
       "error": null
@@ -334,8 +334,29 @@
     {
       "name": "Announcements - Stability AI",
       "url": "https://stability.ai/blog?format=rss",
-      "items": [],
-      "error": "<unknown>:2:0: syntax error"
+      "items": [
+        {
+          "title": "Redefine Success",
+          "link": "https://stability.ai/blog/Blog Post Title One-3zaa9-zlxng-7rha9",
+          "date": "Tue, 28 May 2019 15:13:10 +0000"
+        },
+        {
+          "title": "Small Steps Create Big Shifts",
+          "link": "https://stability.ai/blog/blog-post-title-two-t5my5-k4xmd-wths4",
+          "date": "Tue, 28 May 2019 15:12:55 +0000"
+        },
+        {
+          "title": "Turn Intention Into Action",
+          "link": "https://stability.ai/blog/blog-post-title-three-y3peb-4lwnz-3y8g6",
+          "date": "Tue, 28 May 2019 15:12:09 +0000"
+        },
+        {
+          "title": "Make Room for Growth",
+          "link": "https://stability.ai/blog/blog-post-title-four-lr658-tcthp-pn3jn",
+          "date": "Tue, 28 May 2019 15:11:49 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "Ars Technica - All content",
@@ -374,9 +395,9 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "I asked claude to make a video about what it's like to be an LLM",
-          "link": "https://www.reddit.com/r/artificial/comments/1rxqr9p/i_asked_claude_to_make_a_video_about_what_its/",
-          "date": "2026-03-19T04:27:08+00:00"
+          "title": "What if your AI could say \"I'm not sure, but I can guess if you want\"?",
+          "link": "https://www.reddit.com/r/artificial/comments/1ry2kvr/what_if_your_ai_could_say_im_not_sure_but_i_can/",
+          "date": "2026-03-19T14:53:47+00:00"
         },
         {
           "title": "Most AI tools are built for developers. Here's what happens when regular people try to use AI agents.",
@@ -384,19 +405,19 @@
           "date": "2026-03-19T08:29:46+00:00"
         },
         {
-          "title": "Agent-to-agent B2B transactions raise a question nobody has a clean answer to: who is the customer?",
-          "link": "https://www.reddit.com/r/artificial/comments/1rxs6s4/agenttoagent_b2b_transactions_raise_a_question/",
-          "date": "2026-03-19T05:45:17+00:00"
+          "title": "How AI deep learning is helping scientists protect California's coastal ecosystems",
+          "link": "https://www.reddit.com/r/artificial/comments/1ry3gzf/how_ai_deep_learning_is_helping_scientists/",
+          "date": "2026-03-19T15:26:58+00:00"
         },
         {
-          "title": "\"Why AI systems don't learn and what to do about it: Lessons on autonomous learning from cognitive science\" - paper by Emmanuel Dupoux, Yann LeCun, Jitendra Malik",
-          "link": "https://www.reddit.com/r/artificial/comments/1rxoq9g/why_ai_systems_dont_learn_and_what_to_do_about_it/",
-          "date": "2026-03-19T02:48:53+00:00"
+          "title": "Generative AI improves a wireless vision system that sees through obstructions",
+          "link": "https://www.reddit.com/r/artificial/comments/1ry2qv3/generative_ai_improves_a_wireless_vision_system/",
+          "date": "2026-03-19T15:00:00+00:00"
         },
         {
-          "title": "This",
-          "link": "https://www.reddit.com/r/artificial/comments/1rxwed3/this/",
-          "date": "2026-03-19T10:06:39+00:00"
+          "title": "Using AI to improve standard-of-care cardiac imaging",
+          "link": "https://www.reddit.com/r/artificial/comments/1ry3egw/using_ai_to_improve_standardofcare_cardiac_imaging/",
+          "date": "2026-03-19T15:24:25+00:00"
         }
       ],
       "error": null
@@ -443,6 +464,11 @@
           "date": "Thu, 19 Mar 2026 10:00:05 GMT"
         },
         {
+          "title": "Essex police pause facial recognition camera use after study finds racial bias",
+          "link": "https://www.theguardian.com/technology/2026/mar/19/essex-police-pause-facial-recognition-camera-use-study-racial-bias",
+          "date": "Thu, 19 Mar 2026 15:26:54 GMT"
+        },
+        {
           "title": "Prolonged high oil prices could \u2018crimp\u2019 AI boom, WTO warns",
           "link": "https://www.theguardian.com/business/2026/mar/19/oil-prices-ai-boom-wto-iran-war-energy-global-economy",
           "date": "Thu, 19 Mar 2026 14:00:51 GMT"
@@ -456,11 +482,6 @@
           "title": "The Rite of Spring / Mirror review \u2013 glitchy Stravinsky and digital doppelgangers from Alexander Whitley",
           "link": "https://www.theguardian.com/stage/2026/mar/19/mirror-the-rite-of-spring-review-alexander-whitley-sadlers-wells-east",
           "date": "Thu, 19 Mar 2026 11:14:01 GMT"
-        },
-        {
-          "title": "Glamming up \u2018dirty war\u2019: Teens in Mexico glorify 1970s secret police on TikTok",
-          "link": "https://www.theguardian.com/world/2026/mar/19/mexico-secret-police-teens-tiktok-videos",
-          "date": "Thu, 19 Mar 2026 11:00:06 GMT"
         }
       ],
       "error": null
@@ -534,6 +555,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Signal\u2019s Creator Is Helping Encrypt Meta AI",
+          "link": "https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/",
+          "date": "Thu, 19 Mar 2026 14:09:51 +0000"
+        },
+        {
           "title": "The Fight to Hold AI Companies Accountable for Children\u2019s Deaths",
           "link": "https://www.wired.com/story/how-ai-chatbots-drove-families-to-the-brink-and-the-lawyer-fighting-back/",
           "date": "Thu, 19 Mar 2026 10:00:00 +0000"
@@ -552,11 +578,6 @@
           "title": "How Invisalign Became the World\u2019s Biggest User of 3D Printers",
           "link": "https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/",
           "date": "Tue, 17 Mar 2026 11:00:00 +0000"
-        },
-        {
-          "title": "Sears Exposed AI Chatbot Phone Calls and Text Chats to Anyone on the Web",
-          "link": "https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/",
-          "date": "Tue, 17 Mar 2026 10:00:00 +0000"
         }
       ],
       "error": null
