@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-03-19T16:55:54.920760+00:00",
+  "generatedAt": "2026-03-19T17:52:47.754063+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "RIP Metaverse, an $80 Billion Dumpster Fire Nobody Wanted",
+          "link": "https://www.404media.co/rip-metaverse-an-80-billion-dumpster-fire-nobody-wanted/",
+          "date": "Thu, 19 Mar 2026 17:38:27 GMT"
+        },
         {
           "title": "Tinder Plans to Let AI Scan Your Camera Roll",
           "link": "https://www.404media.co/tinder-plans-to-let-ai-scan-your-camera-roll/",
@@ -24,11 +29,6 @@
           "title": "Podcast: The Disappearing DOGE Depositions",
           "link": "https://www.404media.co/podcast-the-disappearing-doge-depositions/",
           "date": "Wed, 18 Mar 2026 13:05:48 GMT"
-        },
-        {
-          "title": "Was Life Seeded from Space? \u2018Complete Set\u2019 of DNA Ingredients Discovered on Asteroid",
-          "link": "https://www.404media.co/was-life-seeded-from-space-complete-set-of-dna-ingredients-discovered-on-asteroid/",
-          "date": "Tue, 17 Mar 2026 17:29:36 GMT"
         }
       ],
       "error": null
@@ -140,6 +140,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Tencent to Double AI Spending to More Than $5B Over Next Year",
+          "link": "https://aibusiness.com/agentic-ai/tencent-to-double-ai-spending-to-more-than-5b",
+          "date": "Thu, 19 Mar 2026 17:20:07 GMT"
+        },
+        {
           "title": "Samsung Pledges $73B to Boost AI Chip Standing",
           "link": "https://aibusiness.com/generative-ai/samsung-pledges-73b-to-boost-ai-chip-standing",
           "date": "Thu, 19 Mar 2026 13:56:23 GMT"
@@ -158,11 +163,6 @@
           "title": "Nvidia Extends its Reach Into Self-Driving",
           "link": "https://aibusiness.com/generative-ai/nvidia-extends-its-reach-into-self-driving",
           "date": "Wed, 18 Mar 2026 14:49:52 GMT"
-        },
-        {
-          "title": "Building Resilience in the Age of AI",
-          "link": "https://aibusiness.com/data-governance/building-resilience-in-the-age-of-ai",
-          "date": "Tue, 17 Mar 2026 18:16:19 GMT"
         }
       ],
       "error": null
@@ -342,7 +342,17 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "After 25 years, Valve reworks Counter-Strike's reload system",
+          "title": "Google details new 24-hour process to sideload unverified Android apps",
+          "link": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
+          "date": "Thu, 19 Mar 2026 17:28:26 +0000"
+        },
+        {
+          "title": "Despite hardware limits, Parallels supports running Windows on MacBook Neo",
+          "link": "https://arstechnica.com/gadgets/2026/03/despite-hardware-limits-parallels-supports-running-windows-on-macbook-neo/",
+          "date": "Thu, 19 Mar 2026 16:50:10 +0000"
+        },
+        {
+          "title": "Counter-Strike 2's new reload system could upend the entire game",
           "link": "https://arstechnica.com/gaming/2026/03/after-25-years-valve-reworks-counter-strikes-reload-system/",
           "date": "Thu, 19 Mar 2026 15:59:58 +0000"
         },
@@ -355,16 +365,6 @@
           "title": "TCL\u2019s German QLED ban puts pressure on TV brands to be more honest about QDs",
           "link": "https://arstechnica.com/gadgets/2026/03/tcls-german-qled-ban-puts-pressure-on-tv-brands-to-be-more-honest-about-qds/",
           "date": "Thu, 19 Mar 2026 11:00:46 +0000"
-        },
-        {
-          "title": "Kagi Translate's AI answers the question \"What would horny Margaret Thatcher say?\"",
-          "link": "https://arstechnica.com/ai/2026/03/kagi-translates-ai-answers-the-question-what-would-horny-margaret-thatcher-say/",
-          "date": "Wed, 18 Mar 2026 22:06:32 +0000"
-        },
-        {
-          "title": "Musk\u2019s tactic of blaming users for Grok sex images may be foiled by EU law",
-          "link": "https://arstechnica.com/tech-policy/2026/03/eu-moves-to-ban-nudify-apps-after-grok-made-them-mainstream/",
-          "date": "Wed, 18 Mar 2026 21:32:20 +0000"
         }
       ],
       "error": null
@@ -374,9 +374,9 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "Most AI tools are built for developers. Here's what happens when regular people try to use AI agents.",
-          "link": "https://www.reddit.com/r/artificial/comments/1rxuu18/most_ai_tools_are_built_for_developers_heres_what/",
-          "date": "2026-03-19T08:29:46+00:00"
+          "title": "How a prompt injection revealed that half of PRs are bots",
+          "link": "https://www.reddit.com/r/artificial/comments/1ry4s7c/how_a_prompt_injection_revealed_that_half_of_prs/",
+          "date": "2026-03-19T16:15:38+00:00"
         },
         {
           "title": "How AI deep learning is helping scientists protect California's coastal ecosystems",
@@ -384,9 +384,9 @@
           "date": "2026-03-19T15:26:58+00:00"
         },
         {
-          "title": "Generative AI improves a wireless vision system that sees through obstructions",
-          "link": "https://www.reddit.com/r/artificial/comments/1ry2qv3/generative_ai_improves_a_wireless_vision_system/",
-          "date": "2026-03-19T15:00:00+00:00"
+          "title": "Most AI tools are built for developers. Here's what happens when regular people try to use AI agents.",
+          "link": "https://www.reddit.com/r/artificial/comments/1rxuu18/most_ai_tools_are_built_for_developers_heres_what/",
+          "date": "2026-03-19T08:29:46+00:00"
         },
         {
           "title": "What if your AI could say \"I'm not sure, but I can guess if you want\"?",
@@ -502,6 +502,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Grab Your Betrayal-Themed Popcorn Buckets, Because Microsoft Is Threatening to Sue OpenAI",
+          "link": "https://futurism.com/artificial-intelligence/betrayal-microsoft-openai",
+          "date": "Thu, 19 Mar 2026 13:08:30 -0400"
+        },
+        {
           "title": "CEO of AI Company Says Gen Z Needs to Get Ready for 30 Percent Unemployment",
           "link": "https://futurism.com/artificial-intelligence/ceo-ai-gen-z-unemployment",
           "date": "Thu, 19 Mar 2026 12:05:59 -0400"
@@ -520,11 +525,6 @@
           "title": "OpenAI Cofounder Deletes Controversial Analysis of Which Jobs Are Getting Steam Engined by AI",
           "link": "https://futurism.com/artificial-intelligence/openai-cofounder-analysis-jobs-ai",
           "date": "Wed, 18 Mar 2026 14:07:17 -0400"
-        },
-        {
-          "title": "Sam Altman Confronted At Oscars Party Over Pentagon Deal",
-          "link": "https://futurism.com/artificial-intelligence/sam-altman-confronted-oscar-pentagon-deal",
-          "date": "Wed, 18 Mar 2026 13:17:17 -0400"
         }
       ],
       "error": null
