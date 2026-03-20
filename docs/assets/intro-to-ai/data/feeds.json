@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-20T16:39:58.148277+00:00",
+  "generatedAt": "2026-03-20T17:34:00.700563+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -11,7 +11,7 @@
           "date": "Fri, 20 Mar 2026 15:00:00 GMT"
         },
         {
-          "title": "Tiny City Fears Iran Drone Strikes Because of New Nuclear Weapons Datacenter",
+          "title": "Tiny Township Fears Iran Drone Strikes Because of New Nuclear Weapons Datacenter",
           "link": "https://www.404media.co/tiny-city-fears-iran-drone-strikes-because-of-new-nuclear-weapons-datacenter/",
           "date": "Fri, 20 Mar 2026 13:50:54 GMT"
         },
@@ -176,8 +176,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Visa prepares payment systems for AI agent-initiated transactions",
+          "link": "https://www.artificialintelligence-news.com/news/visa-prepares-payment-systems-for-ai-agent-initiated-transactions/",
+          "date": "Thu, 19 Mar 2026 10:00:00 +0000"
+        },
+        {
+          "title": "NVIDIA wants enterprise AI agents safer to deploy",
+          "link": "https://www.artificialintelligence-news.com/news/nvidia-agent-toolkit-enterprise-ai-agents/",
+          "date": "Thu, 19 Mar 2026 08:00:00 +0000"
+        },
+        {
+          "title": "Mastercard keeps tabs on fraud with new foundation model",
+          "link": "https://www.artificialintelligence-news.com/news/mastercards-ltm-keeps-tabs-on-fraud-with-a-new-foundation-model/",
+          "date": "Wed, 18 Mar 2026 15:31:00 +0000"
+        },
+        {
+          "title": "For effective AI, insurance needs to get its data house in order",
+          "link": "https://www.artificialintelligence-news.com/news/for-effective-ai-insurance-needs-a-better-data-layer-and-integration/",
+          "date": "Wed, 18 Mar 2026 14:37:00 +0000"
+        },
+        {
+          "title": "Trustpilot partners with AI companies as traditional search declines",
+          "link": "https://www.artificialintelligence-news.com/news/ai-in-ecommerce-trustpilot-partnerships-integration-news-trad-search-declines/",
+          "date": "Tue, 17 Mar 2026 12:26:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -316,6 +342,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Perseverance\u2019s radar revealed ancient subsurface river delta on Mars",
+          "link": "https://arstechnica.com/science/2026/03/perseverances-radar-revealed-ancient-subsurface-river-delta-on-mars/",
+          "date": "Fri, 20 Mar 2026 17:18:49 +0000"
+        },
+        {
+          "title": "NASA is blowing stuff up to study the explosive potential of methalox rockets",
+          "link": "https://arstechnica.com/space/2026/03/nasa-is-blowing-stuff-up-to-study-the-explosive-potential-of-methalox-rockets/",
+          "date": "Fri, 20 Mar 2026 17:18:02 +0000"
+        },
+        {
+          "title": "Amazon is reportedly developing an AI-centric smartphone",
+          "link": "https://arstechnica.com/gadgets/2026/03/amazon-is-reportedly-developing-an-ai-centric-smartphone/",
+          "date": "Fri, 20 Mar 2026 16:38:06 +0000"
+        },
+        {
           "title": "Major SteamOS update adds support for Steam Machine, even more third-party hardware",
           "link": "https://arstechnica.com/gadgets/2026/03/major-steamos-update-adds-support-for-steam-machine-even-more-third-party-hardware/",
           "date": "Fri, 20 Mar 2026 15:36:57 +0000"
@@ -324,21 +365,6 @@
           "title": "Monte Verde site gets a new date, but the big picture doesn't change",
           "link": "https://arstechnica.com/science/2026/03/an-early-indigenous-site-may-not-be-early-but-it-doesnt-really-matter/",
           "date": "Fri, 20 Mar 2026 15:01:15 +0000"
-        },
-        {
-          "title": "Jeff Bezos just announced plans for a third megaconstellation\u2014this one for data centers",
-          "link": "https://arstechnica.com/space/2026/03/jeff-bezos-throws-his-hat-in-the-ring-for-an-orbital-data-center-megaconstellation-too/",
-          "date": "Fri, 20 Mar 2026 14:46:39 +0000"
-        },
-        {
-          "title": "The US is looking at a year of chaotic weather",
-          "link": "https://arstechnica.com/science/2026/03/the-us-is-looking-at-a-year-of-chaotic-weather/",
-          "date": "Fri, 20 Mar 2026 14:38:50 +0000"
-        },
-        {
-          "title": "Feds say no need to recall Tesla's one-pedal driving despite petition",
-          "link": "https://arstechnica.com/cars/2026/03/theres-no-sudden-acceleration-problem-with-tesla-feds-say/",
-          "date": "Fri, 20 Mar 2026 14:30:36 +0000"
         }
       ],
       "error": null
@@ -358,9 +384,9 @@
           "date": "2026-03-20T00:29:19+00:00"
         },
         {
-          "title": "US-Iran War Analysis: Will Helium Crisis Hit Data Centres?",
-          "link": "https://www.reddit.com/r/artificial/comments/1ryrmwi/usiran_war_analysis_will_helium_crisis_hit_data/",
-          "date": "2026-03-20T09:27:43+00:00"
+          "title": "Walmart secures two AI pricing patents, raising dynamic pricing concerns",
+          "link": "https://www.reddit.com/r/artificial/comments/1rywmca/walmart_secures_two_ai_pricing_patents_raising/",
+          "date": "2026-03-20T13:44:03+00:00"
         },
         {
           "title": "Experimental AI agent breaks out of test environment, Mines crypto without permission",
@@ -368,9 +394,9 @@
           "date": "2026-03-20T05:55:33+00:00"
         },
         {
-          "title": "Walmart secures two AI pricing patents, raising dynamic pricing concerns",
-          "link": "https://www.reddit.com/r/artificial/comments/1rywmca/walmart_secures_two_ai_pricing_patents_raising/",
-          "date": "2026-03-20T13:44:03+00:00"
+          "title": "US-Iran War Analysis: Will Helium Crisis Hit Data Centres?",
+          "link": "https://www.reddit.com/r/artificial/comments/1ryrmwi/usiran_war_analysis_will_helium_crisis_hit_data/",
+          "date": "2026-03-20T09:27:43+00:00"
         }
       ],
       "error": null
@@ -379,6 +405,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Yes, AI could boost productivity, but work is about more than maximising output",
+          "link": "https://theconversation.com/yes-ai-could-boost-productivity-but-work-is-about-more-than-maximising-output-278121",
+          "date": "2026-03-20T16:13:55Z"
+        },
         {
           "title": "A man used AI to help make a cancer vaccine for his dog \u2013 an oncologist urges caution",
           "link": "https://theconversation.com/a-man-used-ai-to-help-make-a-cancer-vaccine-for-his-dog-an-oncologist-urges-caution-278735",
@@ -398,11 +429,6 @@
           "title": "OpenAI\u2019s safety pledges in the wake of Tumbler Ridge aren\u2019t AI regulation \u2014 they\u2019re surveillance",
           "link": "https://theconversation.com/openais-safety-pledges-in-the-wake-of-tumbler-ridge-arent-ai-regulation-theyre-surveillance-278364",
           "date": "2026-03-18T19:03:15Z"
-        },
-        {
-          "title": "More and more teachers and students are using AI \u2013 even though it might do more harm than good",
-          "link": "https://theconversation.com/more-and-more-teachers-and-students-are-using-ai-even-though-it-might-do-more-harm-than-good-275650",
-          "date": "2026-03-18T12:25:09Z"
         }
       ],
       "error": null
@@ -415,6 +441,11 @@
           "title": "Senior European journalist suspended over AI-generated quotes",
           "link": "https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes",
           "date": "Fri, 20 Mar 2026 16:13:08 GMT"
+        },
+        {
+          "title": "Hachette pulls horror novel Shy Girl after suspected AI use",
+          "link": "https://www.theguardian.com/books/2026/mar/20/hachette-horror-novel-shy-girl-suspected-ai-use-mia-ballard",
+          "date": "Fri, 20 Mar 2026 17:14:52 GMT"
         },
         {
           "title": "First came the AI \u2018teammates\u2019, then the layoffs: the new reality for Atlassian staff now looking for work",
@@ -430,11 +461,6 @@
           "title": "Meta AI agent\u2019s instruction causes large sensitive data leak to employees",
           "link": "https://www.theguardian.com/technology/2026/mar/20/meta-ai-agents-instruction-causes-large-sensitive-data-leak-to-employees",
           "date": "Fri, 20 Mar 2026 06:00:13 GMT"
-        },
-        {
-          "title": "Lack of funding is stifling scientific research | Letter",
-          "link": "https://www.theguardian.com/technology/2026/mar/19/lack-of-funding-is-stifling-scientific-research",
-          "date": "Thu, 19 Mar 2026 18:04:58 GMT"
         }
       ],
       "error": null
@@ -476,6 +502,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Novel Pulled From Shelves After Author Is Accused of Using AI",
+          "link": "https://futurism.com/artificial-intelligence/novel-pulled-author-accused-ai",
+          "date": "Fri, 20 Mar 2026 13:03:12 -0400"
+        },
+        {
           "title": "Huge Study of Chats Between Delusional Users and AI Finds Alarming Patterns",
           "link": "https://futurism.com/artificial-intelligence/study-chats-delusional-users-ai",
           "date": "Fri, 20 Mar 2026 12:09:51 -0400"
@@ -494,11 +525,6 @@
           "title": "Grab Your Betrayal-Themed Popcorn Buckets, Because Microsoft Is Threatening to Sue OpenAI",
           "link": "https://futurism.com/artificial-intelligence/betrayal-microsoft-openai",
           "date": "Thu, 19 Mar 2026 13:08:30 -0400"
-        },
-        {
-          "title": "CEO of AI Company Says Gen Z Needs to Get Ready for 30 Percent Unemployment",
-          "link": "https://futurism.com/artificial-intelligence/ceo-ai-gen-z-unemployment",
-          "date": "Thu, 19 Mar 2026 12:05:59 -0400"
         }
       ],
       "error": null
