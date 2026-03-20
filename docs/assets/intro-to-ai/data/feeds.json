@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-20T06:52:02.111070+00:00",
+  "generatedAt": "2026-03-20T07:43:40.327874+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "GTC 2026: MSI Bridges Cloud and Edge for End-to-End AI",
+          "link": "https://ai-techpark.com/gtc-2026-msi-bridges-cloud-and-edge-for-end-to-end-ai/",
+          "date": "Thu, 19 Mar 2026 15:30:00 +0000"
+        },
+        {
+          "title": "Singulr AI Names Richard Bird Chief Security and Strategy Officer",
+          "link": "https://ai-techpark.com/singulr-ai-names-richard-bird-chief-security-and-strategy-officer/",
+          "date": "Thu, 19 Mar 2026 14:45:00 +0000"
+        },
+        {
+          "title": "ZeroBiometrics Announced the Launch of ZeroSentinel",
+          "link": "https://ai-techpark.com/zerobiometrics-announced-the-launch-of-zerosentinel/",
+          "date": "Thu, 19 Mar 2026 13:45:00 +0000"
+        },
+        {
+          "title": "Nintex Unveils Agentic Orchestration to Scale AI Automation",
+          "link": "https://ai-techpark.com/nintex-unveils-agentic-orchestration-to-scale-ai-automation/",
+          "date": "Thu, 19 Mar 2026 12:45:00 +0000"
+        },
+        {
+          "title": "MuleRun Debuts Self-Evolving Personal AI for Digital Workforce",
+          "link": "https://ai-techpark.com/mulerun-debuts-self-evolving-personal-ai-for-digital-workforce/",
+          "date": "Thu, 19 Mar 2026 10:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -363,14 +389,14 @@
           "date": "2026-03-19T23:32:22+00:00"
         },
         {
+          "title": "promted gemini for a honest political speech",
+          "link": "https://www.reddit.com/r/artificial/comments/1rypg0q/promted_gemini_for_a_honest_political_speech/",
+          "date": "2026-03-20T07:08:02+00:00"
+        },
+        {
           "title": "Experimental AI agent breaks out of test environment, Mines crypto without permission",
           "link": "https://www.reddit.com/r/artificial/comments/1ryo8er/experimental_ai_agent_breaks_out_of_test/",
           "date": "2026-03-20T05:55:33+00:00"
-        },
-        {
-          "title": "We built a free digest that translates AI security research papers into plain language -- first issue covers cross-stack attacks on compound AI systems and LLMs automating their own adversarial attacks",
-          "link": "https://www.reddit.com/r/artificial/comments/1rycyzn/we_built_a_free_digest_that_translates_ai/",
-          "date": "2026-03-19T21:27:21+00:00"
         }
       ],
       "error": null
