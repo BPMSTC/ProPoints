@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-20T01:55:18.390966+00:00",
+  "generatedAt": "2026-03-20T04:13:15.045764+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "GTC 2026: MSI Bridges Cloud and Edge for End-to-End AI",
-          "link": "https://ai-techpark.com/gtc-2026-msi-bridges-cloud-and-edge-for-end-to-end-ai/",
-          "date": "Thu, 19 Mar 2026 15:30:00 +0000"
-        },
-        {
-          "title": "Singulr AI Names Richard Bird Chief Security and Strategy Officer",
-          "link": "https://ai-techpark.com/singulr-ai-names-richard-bird-chief-security-and-strategy-officer/",
-          "date": "Thu, 19 Mar 2026 14:45:00 +0000"
-        },
-        {
-          "title": "ZeroBiometrics Announced the Launch of ZeroSentinel",
-          "link": "https://ai-techpark.com/zerobiometrics-announced-the-launch-of-zerosentinel/",
-          "date": "Thu, 19 Mar 2026 13:45:00 +0000"
-        },
-        {
-          "title": "Nintex Unveils Agentic Orchestration to Scale AI Automation",
-          "link": "https://ai-techpark.com/nintex-unveils-agentic-orchestration-to-scale-ai-automation/",
-          "date": "Thu, 19 Mar 2026 12:45:00 +0000"
-        },
-        {
-          "title": "MuleRun Debuts Self-Evolving Personal AI for Digital Workforce",
-          "link": "https://ai-techpark.com/mulerun-debuts-self-evolving-personal-ai-for-digital-workforce/",
-          "date": "Thu, 19 Mar 2026 10:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -374,19 +348,14 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "Anyone know the Ai model used to make maximum carnage",
-          "link": "https://www.reddit.com/r/artificial/comments/1ryf9zc/anyone_know_the_ai_model_used_to_make_maximum/",
-          "date": "2026-03-19T22:56:12+00:00"
-        },
-        {
-          "title": "Meta is having trouble with rogue AI agents",
-          "link": "https://www.reddit.com/r/artificial/comments/1ryg65v/meta_is_having_trouble_with_rogue_ai_agents/",
-          "date": "2026-03-19T23:32:22+00:00"
-        },
-        {
           "title": "AI still doesn't work very well in business, reckoning soon",
           "link": "https://www.reddit.com/r/artificial/comments/1ryho6l/ai_still_doesnt_work_very_well_in_business/",
           "date": "2026-03-20T00:35:25+00:00"
+        },
+        {
+          "title": "Anyone know the Ai model used to make maximum carnage",
+          "link": "https://www.reddit.com/r/artificial/comments/1ryf9zc/anyone_know_the_ai_model_used_to_make_maximum/",
+          "date": "2026-03-19T22:56:12+00:00"
         },
         {
           "title": "People that speak like an LLM",
@@ -394,9 +363,14 @@
           "date": "2026-03-20T00:29:19+00:00"
         },
         {
-          "title": "How AI deep learning is helping scientists protect California's coastal ecosystems",
-          "link": "https://www.reddit.com/r/artificial/comments/1ry3gzf/how_ai_deep_learning_is_helping_scientists/",
-          "date": "2026-03-19T15:26:58+00:00"
+          "title": "Meta is having trouble with rogue AI agents",
+          "link": "https://www.reddit.com/r/artificial/comments/1ryg65v/meta_is_having_trouble_with_rogue_ai_agents/",
+          "date": "2026-03-19T23:32:22+00:00"
+        },
+        {
+          "title": "We built a free digest that translates AI security research papers into plain language -- first issue covers cross-stack attacks on compound AI systems and LLMs automating their own adversarial attacks",
+          "link": "https://www.reddit.com/r/artificial/comments/1rycyzn/we_built_a_free_digest_that_translates_ai/",
+          "date": "2026-03-19T21:27:21+00:00"
         }
       ],
       "error": null
