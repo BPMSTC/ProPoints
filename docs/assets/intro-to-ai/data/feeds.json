@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-20T18:44:00.807971+00:00",
+  "generatedAt": "2026-03-20T19:35:50.221926+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -342,12 +342,17 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "RFK may replace entire panel of CDC vaccine advisors again, ally lets slip",
+          "link": "https://arstechnica.com/health/2026/03/rfk-may-replace-entire-panel-of-cdc-vaccine-advisors-again-ally-lets-slip/",
+          "date": "Fri, 20 Mar 2026 17:36:09 +0000"
+        },
+        {
           "title": "Perseverance\u2019s radar revealed ancient subsurface river delta on Mars",
           "link": "https://arstechnica.com/science/2026/03/perseverances-radar-revealed-ancient-subsurface-river-delta-on-mars/",
           "date": "Fri, 20 Mar 2026 17:18:49 +0000"
         },
         {
-          "title": "NASA is blowing stuff up to study the explosive potential of methalox rockets",
+          "title": "NASA wants to know how the launch industry's chic new rocket fuel explodes",
           "link": "https://arstechnica.com/space/2026/03/nasa-is-blowing-stuff-up-to-study-the-explosive-potential-of-methalox-rockets/",
           "date": "Fri, 20 Mar 2026 17:18:02 +0000"
         },
@@ -360,11 +365,6 @@
           "title": "Major SteamOS update adds support for Steam Machine, even more third-party hardware",
           "link": "https://arstechnica.com/gadgets/2026/03/major-steamos-update-adds-support-for-steam-machine-even-more-third-party-hardware/",
           "date": "Fri, 20 Mar 2026 15:36:57 +0000"
-        },
-        {
-          "title": "Monte Verde site gets a new date, but the big picture doesn't change",
-          "link": "https://arstechnica.com/science/2026/03/an-early-indigenous-site-may-not-be-early-but-it-doesnt-really-matter/",
-          "date": "Fri, 20 Mar 2026 15:01:15 +0000"
         }
       ],
       "error": null
@@ -389,14 +389,14 @@
           "date": "2026-03-20T00:29:19+00:00"
         },
         {
+          "title": "Anthropic's Claude Code had a workspace trust bypass (CVE-2026-33068). Not a prompt injection or AI attack. A configuration loading order bug. Fixed in 2.1.53.",
+          "link": "https://www.reddit.com/r/artificial/comments/1rz33jy/anthropics_claude_code_had_a_workspace_trust/",
+          "date": "2026-03-20T17:47:02+00:00"
+        },
+        {
           "title": "AMA: AI-Detection & Streaming with Deezer",
           "link": "https://www.reddit.com/r/artificial/comments/1rz3d6n/ama_aidetection_streaming_with_deezer/",
           "date": "2026-03-20T17:57:18+00:00"
-        },
-        {
-          "title": "I found a digital thunderdome for AI models and now I can't stop watching them fight",
-          "link": "https://www.reddit.com/r/artificial/comments/1ryzdsf/i_found_a_digital_thunderdome_for_ai_models_and/",
-          "date": "2026-03-20T15:29:42+00:00"
         }
       ],
       "error": null
@@ -502,6 +502,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Teens Are Using AI to Create \u201cSlander\u201d Videos of Their Teachers",
+          "link": "https://futurism.com/artificial-intelligence/teens-ai-slander-videos-teachers",
+          "date": "Fri, 20 Mar 2026 15:13:26 -0400"
+        },
+        {
           "title": "Novel Pulled From Shelves After Author Is Accused of Using AI",
           "link": "https://futurism.com/artificial-intelligence/novel-pulled-author-accused-ai",
           "date": "Fri, 20 Mar 2026 13:03:12 -0400"
@@ -520,11 +525,6 @@
           "title": "Encyclopedia Britannica Hits OpenAI With Scary Lawsuit",
           "link": "https://futurism.com/artificial-intelligence/encyclopedia-britannica-sues-openai",
           "date": "Thu, 19 Mar 2026 14:06:04 -0400"
-        },
-        {
-          "title": "Grab Your Betrayal-Themed Popcorn Buckets, Because Microsoft Is Threatening to Sue OpenAI",
-          "link": "https://futurism.com/artificial-intelligence/betrayal-microsoft-openai",
-          "date": "Thu, 19 Mar 2026 13:08:30 -0400"
         }
       ],
       "error": null
@@ -533,6 +533,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Gamers Hate Nvidia's DLSS 5. Developers Aren\u2019t Crazy About It, Either",
+          "link": "https://www.wired.com/story/gamers-hate-nvidia-dlss-5-developers-arent-crazy-about-it-either/",
+          "date": "Fri, 20 Mar 2026 19:13:19 +0000"
+        },
         {
           "title": "At Palantir\u2019s Developer Conference, AI Is Built to Win Wars",
           "link": "https://www.wired.com/story/palantir-developer-conference-ai-war-alex-karp/",
@@ -552,11 +557,6 @@
           "title": "\u2018Uncanny Valley\u2019: Nvidia\u2019s \u2018Super Bowl of AI,\u2019 Tesla Disappoints, and Meta\u2019s VR Metaverse \u2018Shutdown\u2019",
           "link": "https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/",
           "date": "Thu, 19 Mar 2026 21:43:56 +0000"
-        },
-        {
-          "title": "Google Shakes Up Its Browser Agent Team Amid OpenClaw Craze",
-          "link": "https://www.wired.com/story/google-shakes-up-project-mariner-team-web-browsing-agents/",
-          "date": "Thu, 19 Mar 2026 18:00:00 +0000"
         }
       ],
       "error": null
