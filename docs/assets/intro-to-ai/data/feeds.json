@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-20T15:40:11.532671+00:00",
+  "generatedAt": "2026-03-20T16:39:58.148277+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -102,6 +102,11 @@
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [
         {
+          "title": "C5i Inks Agreement to Acquire UK-based Datavid",
+          "link": "https://ai-techpark.com/c5i-inks-agreement-to-acquire-uk-based-datavid/",
+          "date": "Fri, 20 Mar 2026 13:45:00 +0000"
+        },
+        {
           "title": "Hyperscale Data Announced the Launch of Omnipresent Robotics",
           "link": "https://ai-techpark.com/hyperscale-data-announced-the-launch-of-omnipresent-robotics/",
           "date": "Fri, 20 Mar 2026 10:00:00 +0000"
@@ -120,11 +125,6 @@
           "title": "ZeroBiometrics Announced the Launch of ZeroSentinel",
           "link": "https://ai-techpark.com/zerobiometrics-announced-the-launch-of-zerosentinel/",
           "date": "Thu, 19 Mar 2026 13:45:00 +0000"
-        },
-        {
-          "title": "Nintex Unveils Agentic Orchestration to Scale AI Automation",
-          "link": "https://ai-techpark.com/nintex-unveils-agentic-orchestration-to-scale-ai-automation/",
-          "date": "Thu, 19 Mar 2026 12:45:00 +0000"
         }
       ],
       "error": null
@@ -176,34 +176,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "Visa prepares payment systems for AI agent-initiated transactions",
-          "link": "https://www.artificialintelligence-news.com/news/visa-prepares-payment-systems-for-ai-agent-initiated-transactions/",
-          "date": "Thu, 19 Mar 2026 10:00:00 +0000"
-        },
-        {
-          "title": "NVIDIA wants enterprise AI agents safer to deploy",
-          "link": "https://www.artificialintelligence-news.com/news/nvidia-agent-toolkit-enterprise-ai-agents/",
-          "date": "Thu, 19 Mar 2026 08:00:00 +0000"
-        },
-        {
-          "title": "Mastercard keeps tabs on fraud with new foundation model",
-          "link": "https://www.artificialintelligence-news.com/news/mastercards-ltm-keeps-tabs-on-fraud-with-a-new-foundation-model/",
-          "date": "Wed, 18 Mar 2026 15:31:00 +0000"
-        },
-        {
-          "title": "For effective AI, insurance needs to get its data house in order",
-          "link": "https://www.artificialintelligence-news.com/news/for-effective-ai-insurance-needs-a-better-data-layer-and-integration/",
-          "date": "Wed, 18 Mar 2026 14:37:00 +0000"
-        },
-        {
-          "title": "Trustpilot partners with AI companies as traditional search declines",
-          "link": "https://www.artificialintelligence-news.com/news/ai-in-ecommerce-trustpilot-partnerships-integration-news-trad-search-declines/",
-          "date": "Tue, 17 Mar 2026 12:26:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -342,29 +316,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Rocket Report: Canada makes a major move, US Space Force says actually, let's be hasty",
-          "link": "https://arstechnica.com/space/2026/03/rocket-report-canada-makes-a-major-move-us-space-force-says-actually-lets-be-hasty/",
-          "date": "Fri, 20 Mar 2026 11:45:25 +0000"
+          "title": "Major SteamOS update adds support for Steam Machine, even more third-party hardware",
+          "link": "https://arstechnica.com/gadgets/2026/03/major-steamos-update-adds-support-for-steam-machine-even-more-third-party-hardware/",
+          "date": "Fri, 20 Mar 2026 15:36:57 +0000"
         },
         {
-          "title": "Project Hail Mary is in theaters\u2014but do the linguistics work?",
-          "link": "https://arstechnica.com/culture/2026/03/project-hail-mary-is-in-theaters-but-do-the-linguistics-work/",
-          "date": "Fri, 20 Mar 2026 11:00:06 +0000"
+          "title": "Monte Verde site gets a new date, but the big picture doesn't change",
+          "link": "https://arstechnica.com/science/2026/03/an-early-indigenous-site-may-not-be-early-but-it-doesnt-really-matter/",
+          "date": "Fri, 20 Mar 2026 15:01:15 +0000"
         },
         {
-          "title": "RFK Jr. has destroyed over a quarter of health dept's expert panels",
-          "link": "https://arstechnica.com/health/2026/03/rfk-jr-s-war-on-scientific-expertise-destroyed-27-of-agencys-advisor-panels/",
-          "date": "Thu, 19 Mar 2026 22:34:06 +0000"
+          "title": "Jeff Bezos just announced plans for a third megaconstellation\u2014this one for data centers",
+          "link": "https://arstechnica.com/space/2026/03/jeff-bezos-throws-his-hat-in-the-ring-for-an-orbital-data-center-megaconstellation-too/",
+          "date": "Fri, 20 Mar 2026 14:46:39 +0000"
         },
         {
-          "title": "Cloud service providers ask EU regulator to reinstate VMware partner program",
-          "link": "https://arstechnica.com/information-technology/2026/03/cloud-service-providers-ask-eu-regulator-to-reinstate-vmware-partner-program/",
-          "date": "Thu, 19 Mar 2026 21:29:53 +0000"
+          "title": "The US is looking at a year of chaotic weather",
+          "link": "https://arstechnica.com/science/2026/03/the-us-is-looking-at-a-year-of-chaotic-weather/",
+          "date": "Fri, 20 Mar 2026 14:38:50 +0000"
         },
         {
-          "title": "Millions of iPhones can be hacked with a new tool found in the wild",
-          "link": "https://arstechnica.com/security/2026/03/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/",
-          "date": "Thu, 19 Mar 2026 20:11:36 +0000"
+          "title": "Feds say no need to recall Tesla's one-pedal driving despite petition",
+          "link": "https://arstechnica.com/cars/2026/03/theres-no-sudden-acceleration-problem-with-tesla-feds-say/",
+          "date": "Fri, 20 Mar 2026 14:30:36 +0000"
         }
       ],
       "error": null
@@ -374,14 +348,14 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
+          "title": "Suno is shutting down its current AI models. Here's what actually changes.",
+          "link": "https://www.reddit.com/r/artificial/comments/1ryzllf/suno_is_shutting_down_its_current_ai_models_heres/",
+          "date": "2026-03-20T15:37:39+00:00"
+        },
+        {
           "title": "People that speak like an LLM",
           "link": "https://www.reddit.com/r/artificial/comments/1ryhj77/people_that_speak_like_an_llm/",
           "date": "2026-03-20T00:29:19+00:00"
-        },
-        {
-          "title": "Experimental AI agent breaks out of test environment, Mines crypto without permission",
-          "link": "https://www.reddit.com/r/artificial/comments/1ryo8er/experimental_ai_agent_breaks_out_of_test/",
-          "date": "2026-03-20T05:55:33+00:00"
         },
         {
           "title": "US-Iran War Analysis: Will Helium Crisis Hit Data Centres?",
@@ -389,14 +363,14 @@
           "date": "2026-03-20T09:27:43+00:00"
         },
         {
-          "title": "Suno is shutting down its current AI models. Here's what actually changes.",
-          "link": "https://www.reddit.com/r/artificial/comments/1ryzllf/suno_is_shutting_down_its_current_ai_models_heres/",
-          "date": "2026-03-20T15:37:39+00:00"
+          "title": "Experimental AI agent breaks out of test environment, Mines crypto without permission",
+          "link": "https://www.reddit.com/r/artificial/comments/1ryo8er/experimental_ai_agent_breaks_out_of_test/",
+          "date": "2026-03-20T05:55:33+00:00"
         },
         {
-          "title": "I found a digital thunderdome for AI models and now I can't stop watching them fight",
-          "link": "https://www.reddit.com/r/artificial/comments/1ryzdsf/i_found_a_digital_thunderdome_for_ai_models_and/",
-          "date": "2026-03-20T15:29:42+00:00"
+          "title": "Walmart secures two AI pricing patents, raising dynamic pricing concerns",
+          "link": "https://www.reddit.com/r/artificial/comments/1rywmca/walmart_secures_two_ai_pricing_patents_raising/",
+          "date": "2026-03-20T13:44:03+00:00"
         }
       ],
       "error": null
@@ -438,9 +412,9 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Meta AI agent\u2019s instruction causes large sensitive data leak to employees",
-          "link": "https://www.theguardian.com/technology/2026/mar/20/meta-ai-agents-instruction-causes-large-sensitive-data-leak-to-employees",
-          "date": "Fri, 20 Mar 2026 06:00:13 GMT"
+          "title": "Senior European journalist suspended over AI-generated quotes",
+          "link": "https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes",
+          "date": "Fri, 20 Mar 2026 16:13:08 GMT"
         },
         {
           "title": "First came the AI \u2018teammates\u2019, then the layoffs: the new reality for Atlassian staff now looking for work",
@@ -453,14 +427,14 @@
           "date": "Fri, 20 Mar 2026 10:52:18 GMT"
         },
         {
+          "title": "Meta AI agent\u2019s instruction causes large sensitive data leak to employees",
+          "link": "https://www.theguardian.com/technology/2026/mar/20/meta-ai-agents-instruction-causes-large-sensitive-data-leak-to-employees",
+          "date": "Fri, 20 Mar 2026 06:00:13 GMT"
+        },
+        {
           "title": "Lack of funding is stifling scientific research | Letter",
           "link": "https://www.theguardian.com/technology/2026/mar/19/lack-of-funding-is-stifling-scientific-research",
           "date": "Thu, 19 Mar 2026 18:04:58 GMT"
-        },
-        {
-          "title": "I asked AI to explain my mother to me. It translated her worldview",
-          "link": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/19/i-asked-ai-to-explain-my-mother-to-me",
-          "date": "Thu, 19 Mar 2026 16:00:53 GMT"
         }
       ],
       "error": null
@@ -502,6 +476,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Huge Study of Chats Between Delusional Users and AI Finds Alarming Patterns",
+          "link": "https://futurism.com/artificial-intelligence/study-chats-delusional-users-ai",
+          "date": "Fri, 20 Mar 2026 12:09:51 -0400"
+        },
+        {
           "title": "A Grim Truth Is Emerging in Employers\u2019 AI Experiments",
           "link": "https://futurism.com/artificial-intelligence/ai-coding-error-debt",
           "date": "Thu, 19 Mar 2026 16:03:44 -0400"
@@ -520,11 +499,6 @@
           "title": "CEO of AI Company Says Gen Z Needs to Get Ready for 30 Percent Unemployment",
           "link": "https://futurism.com/artificial-intelligence/ceo-ai-gen-z-unemployment",
           "date": "Thu, 19 Mar 2026 12:05:59 -0400"
-        },
-        {
-          "title": "\u201cEducational\u201d YouTube AI Slop Encourages Kids to Play in Traffic",
-          "link": "https://futurism.com/artificial-intelligence/educational-youtube-ai-slop-play-in-traffic",
-          "date": "Thu, 19 Mar 2026 10:03:19 -0400"
         }
       ],
       "error": null
