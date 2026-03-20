@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-20T11:29:39.979129+00:00",
+  "generatedAt": "2026-03-20T12:54:30.238221+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -102,6 +102,16 @@
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [
         {
+          "title": "Hyperscale Data Announced the Launch of Omnipresent Robotics",
+          "link": "https://ai-techpark.com/hyperscale-data-announced-the-launch-of-omnipresent-robotics/",
+          "date": "Fri, 20 Mar 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Seekr, GDIT Partner to Advance Secure Agentic AI for Government",
+          "link": "https://ai-techpark.com/seekr-gdit-partner-to-advance-secure-agentic-ai-for-government/",
+          "date": "Fri, 20 Mar 2026 09:30:00 +0000"
+        },
+        {
           "title": "GTC 2026: MSI Bridges Cloud and Edge for End-to-End AI",
           "link": "https://ai-techpark.com/gtc-2026-msi-bridges-cloud-and-edge-for-end-to-end-ai/",
           "date": "Thu, 19 Mar 2026 15:30:00 +0000"
@@ -115,16 +125,6 @@
           "title": "ZeroBiometrics Announced the Launch of ZeroSentinel",
           "link": "https://ai-techpark.com/zerobiometrics-announced-the-launch-of-zerosentinel/",
           "date": "Thu, 19 Mar 2026 13:45:00 +0000"
-        },
-        {
-          "title": "Nintex Unveils Agentic Orchestration to Scale AI Automation",
-          "link": "https://ai-techpark.com/nintex-unveils-agentic-orchestration-to-scale-ai-automation/",
-          "date": "Thu, 19 Mar 2026 12:45:00 +0000"
-        },
-        {
-          "title": "MuleRun Debuts Self-Evolving Personal AI for Digital Workforce",
-          "link": "https://ai-techpark.com/mulerun-debuts-self-evolving-personal-ai-for-digital-workforce/",
-          "date": "Thu, 19 Mar 2026 10:00:00 +0000"
         }
       ],
       "error": null
@@ -176,34 +176,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "Visa prepares payment systems for AI agent-initiated transactions",
-          "link": "https://www.artificialintelligence-news.com/news/visa-prepares-payment-systems-for-ai-agent-initiated-transactions/",
-          "date": "Thu, 19 Mar 2026 10:00:00 +0000"
-        },
-        {
-          "title": "NVIDIA wants enterprise AI agents safer to deploy",
-          "link": "https://www.artificialintelligence-news.com/news/nvidia-agent-toolkit-enterprise-ai-agents/",
-          "date": "Thu, 19 Mar 2026 08:00:00 +0000"
-        },
-        {
-          "title": "Mastercard keeps tabs on fraud with new foundation model",
-          "link": "https://www.artificialintelligence-news.com/news/mastercards-ltm-keeps-tabs-on-fraud-with-a-new-foundation-model/",
-          "date": "Wed, 18 Mar 2026 15:31:00 +0000"
-        },
-        {
-          "title": "For effective AI, insurance needs to get its data house in order",
-          "link": "https://www.artificialintelligence-news.com/news/for-effective-ai-insurance-needs-a-better-data-layer-and-integration/",
-          "date": "Wed, 18 Mar 2026 14:37:00 +0000"
-        },
-        {
-          "title": "Trustpilot partners with AI companies as traditional search declines",
-          "link": "https://www.artificialintelligence-news.com/news/ai-in-ecommerce-trustpilot-partnerships-integration-news-trad-search-declines/",
-          "date": "Tue, 17 Mar 2026 12:26:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -342,6 +316,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Rocket Report: Canada makes a major move, US Space Force says actually, let's be hasty",
+          "link": "https://arstechnica.com/space/2026/03/rocket-report-canada-makes-a-major-move-us-space-force-says-actually-lets-be-hasty/",
+          "date": "Fri, 20 Mar 2026 11:45:25 +0000"
+        },
+        {
+          "title": "Project Hail Mary is in theaters\u2014but do the linguistics work?",
+          "link": "https://arstechnica.com/culture/2026/03/project-hail-mary-is-in-theaters-but-do-the-linguistics-work/",
+          "date": "Fri, 20 Mar 2026 11:00:06 +0000"
+        },
+        {
           "title": "RFK Jr. has destroyed over a quarter of health dept's expert panels",
           "link": "https://arstechnica.com/health/2026/03/rfk-jr-s-war-on-scientific-expertise-destroyed-27-of-agencys-advisor-panels/",
           "date": "Thu, 19 Mar 2026 22:34:06 +0000"
@@ -355,16 +339,6 @@
           "title": "Millions of iPhones can be hacked with a new tool found in the wild",
           "link": "https://arstechnica.com/security/2026/03/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/",
           "date": "Thu, 19 Mar 2026 20:11:36 +0000"
-        },
-        {
-          "title": "FBI started buying Americans' location data again, Kash Patel confirms",
-          "link": "https://arstechnica.com/tech-policy/2026/03/fbi-started-buying-americans-location-data-again-kash-patel-confirms/",
-          "date": "Thu, 19 Mar 2026 19:57:35 +0000"
-        },
-        {
-          "title": "Dogfighting in space won't look like the movies, but this company wants in on it",
-          "link": "https://arstechnica.com/space/2026/03/dogfighting-in-space-this-company-builds-satellites-for-high-tempo-engagement/",
-          "date": "Thu, 19 Mar 2026 19:45:22 +0000"
         }
       ],
       "error": null
@@ -379,24 +353,24 @@
           "date": "2026-03-20T00:29:19+00:00"
         },
         {
-          "title": "What do you guys think AI is going to be like in 10 years?",
-          "link": "https://www.reddit.com/r/artificial/comments/1rysnmj/what_do_you_guys_think_ai_is_going_to_be_like_in/",
-          "date": "2026-03-20T10:30:21+00:00"
-        },
-        {
-          "title": "AI still doesn't work very well in business, reckoning soon",
-          "link": "https://www.reddit.com/r/artificial/comments/1ryho6l/ai_still_doesnt_work_very_well_in_business/",
-          "date": "2026-03-20T00:35:25+00:00"
-        },
-        {
           "title": "US-Iran War Analysis: Will Helium Crisis Hit Data Centres?",
           "link": "https://www.reddit.com/r/artificial/comments/1ryrmwi/usiran_war_analysis_will_helium_crisis_hit_data/",
           "date": "2026-03-20T09:27:43+00:00"
         },
         {
+          "title": "White House eyes Friday rollout for AI framework",
+          "link": "https://www.reddit.com/r/artificial/comments/1ryuq9y/white_house_eyes_friday_rollout_for_ai_framework/",
+          "date": "2026-03-20T12:19:49+00:00"
+        },
+        {
           "title": "Experimental AI agent breaks out of test environment, Mines crypto without permission",
           "link": "https://www.reddit.com/r/artificial/comments/1ryo8er/experimental_ai_agent_breaks_out_of_test/",
           "date": "2026-03-20T05:55:33+00:00"
+        },
+        {
+          "title": "Are \u201cAI employees\u201d actually being used in real workflows yet?",
+          "link": "https://www.reddit.com/r/artificial/comments/1ryu9yx/are_ai_employees_actually_being_used_in_real/",
+          "date": "2026-03-20T11:57:51+00:00"
         }
       ],
       "error": null
@@ -470,6 +444,11 @@
       "url": "https://spacenews.com/tag/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Kayhan targets investors, insurers with expanded orbital intelligence platform",
+          "link": "https://spacenews.com/kayhan-targets-investors-insurers-with-expanded-orbital-intelligence-platform/",
+          "date": "Fri, 20 Mar 2026 11:00:00 +0000"
+        },
+        {
           "title": "Kayrros sale signals rising demand for satellite intelligence amid Hormuz crisis",
           "link": "https://spacenews.com/kayrros-sale-signals-rising-demand-for-satellite-intelligence-amid-hormuz-crisis/",
           "date": "Mon, 16 Mar 2026 21:47:33 +0000"
@@ -488,11 +467,6 @@
           "title": "Unlocking AI in space: the case for greater industry and space agency collaboration",
           "link": "https://spacenews.com/unlocking-ai-in-space-the-case-for-greater-industry-and-space-agency-collaboration/",
           "date": "Thu, 05 Mar 2026 14:00:00 +0000"
-        },
-        {
-          "title": "Mutable Tactics raises $2.1 million for AI drone coordination in satellite-denied environments",
-          "link": "https://spacenews.com/mutable-tactics-raises-2-1-million-for-ai-drone-coordination-in-satellite-denied-environments/",
-          "date": "Wed, 04 Mar 2026 16:31:01 +0000"
         }
       ],
       "error": null
@@ -539,7 +513,7 @@
           "date": "Fri, 20 Mar 2026 10:30:00 +0000"
         },
         {
-          "title": "LinkedIn Invited My AI 'Cofounder' to Give a Corporate Talk\u2014Then Banned It",
+          "title": "My AI Agent \u2018Cofounder\u2019 Conquered LinkedIn. Then It Got Banned",
           "link": "https://www.wired.com/story/linkedin-invited-my-ai-cofounder-to-give-a-corporate-talk-then-banned-it/",
           "date": "Fri, 20 Mar 2026 10:00:00 +0000"
         },
