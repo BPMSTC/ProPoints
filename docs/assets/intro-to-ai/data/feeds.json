@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-22T10:24:39.013823+00:00",
+  "generatedAt": "2026-03-22T11:21:11.696004+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -342,6 +342,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Mining the deep ocean",
+          "link": "https://arstechnica.com/science/2026/03/mining-the-deep-ocean/",
+          "date": "Sun, 22 Mar 2026 11:00:58 +0000"
+        },
+        {
           "title": "We keep finding the raw material of DNA in asteroids\u2014what's it telling us?",
           "link": "https://arstechnica.com/science/2026/03/we-keep-finding-the-raw-material-of-dna-in-asteroids-whats-it-telling-us/",
           "date": "Sat, 21 Mar 2026 11:00:37 +0000"
@@ -360,11 +365,6 @@
           "title": "You're likely already infected with a brain-eating virus you've never heard of",
           "link": "https://arstechnica.com/health/2026/03/youre-likely-already-infected-with-a-brain-eating-virus-youve-never-heard-of/",
           "date": "Fri, 20 Mar 2026 22:11:24 +0000"
-        },
-        {
-          "title": "Once again, ULA can't deliver when the US military needs a satellite in orbit",
-          "link": "https://arstechnica.com/space/2026/03/spacex-swipes-yet-another-military-contract-from-united-launch-alliance/",
-          "date": "Fri, 20 Mar 2026 21:35:56 +0000"
         }
       ],
       "error": null
@@ -384,14 +384,14 @@
           "date": "2026-03-21T19:05:53+00:00"
         },
         {
-          "title": "A supervisor or \"manager\" Al agent is the wrong way to control Al",
-          "link": "https://www.reddit.com/r/artificial/comments/1s0a3g2/a_supervisor_or_manager_al_agent_is_the_wrong_way/",
-          "date": "2026-03-22T02:33:49+00:00"
-        },
-        {
           "title": "Where should the execution boundary actually live in Agent systems?",
           "link": "https://www.reddit.com/r/artificial/comments/1s004hd/where_should_the_execution_boundary_actually_live/",
           "date": "2026-03-21T19:18:01+00:00"
+        },
+        {
+          "title": "A supervisor or \"manager\" Al agent is the wrong way to control Al",
+          "link": "https://www.reddit.com/r/artificial/comments/1s0a3g2/a_supervisor_or_manager_al_agent_is_the_wrong_way/",
+          "date": "2026-03-22T02:33:49+00:00"
         },
         {
           "title": "We thought our system prompt was private. Turns out anyone can extract it with the right questions.",
@@ -502,6 +502,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "AI Agent Frets That Its Job Could Be Replaced by AI",
+          "link": "https://futurism.com/artificial-intelligence/ai-agent-job-could-be-replaced-by-ai",
+          "date": "Sun, 22 Mar 2026 07:00:00 -0400"
+        },
+        {
           "title": "Gen Z Is Using AI to Have Difficult Relationship Conversations, and the Results Are Massively Cringe",
           "link": "https://futurism.com/artificial-intelligence/ai-chatbot-social-offloading",
           "date": "Sat, 21 Mar 2026 13:00:00 -0400"
@@ -520,11 +525,6 @@
           "title": "CEO Says He\u2019ll Hire Anyone Who Can Vibe Code With AI, Regardless of Actual Skill",
           "link": "https://futurism.com/artificial-intelligence/ceo-hire-anyone-vibe-code",
           "date": "Fri, 20 Mar 2026 16:04:59 -0400"
-        },
-        {
-          "title": "Teens Are Using AI to Create \u201cSlander\u201d Videos of Their Teachers",
-          "link": "https://futurism.com/artificial-intelligence/teens-ai-slander-videos-teachers",
-          "date": "Fri, 20 Mar 2026 15:13:26 -0400"
         }
       ],
       "error": null
