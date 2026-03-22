@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-22T11:21:11.696004+00:00",
+  "generatedAt": "2026-03-22T12:44:30.777763+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -38,6 +38,11 @@
       "url": "https://magazine.sebastianraschka.com/feed",
       "items": [
         {
+          "title": "A Visual Guide to Attention Variants in Modern LLMs",
+          "link": "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+          "date": "Sun, 22 Mar 2026 11:55:40 GMT"
+        },
+        {
           "title": "A Dream of Spring for Open-Weight LLMs: 10 Architectures from Jan-Feb 2026",
           "link": "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
           "date": "Wed, 25 Feb 2026 13:26:56 GMT"
@@ -56,11 +61,6 @@
           "title": "LLM Research Papers: The 2025 List (July to December)",
           "link": "https://magazine.sebastianraschka.com/p/llm-research-papers-2025-part2",
           "date": "Tue, 30 Dec 2025 12:15:39 GMT"
-        },
-        {
-          "title": "From DeepSeek V3 to V3.2: Architecture, Sparse Attention, and RL Updates",
-          "link": "https://magazine.sebastianraschka.com/p/technical-deepseek",
-          "date": "Wed, 03 Dec 2025 12:03:33 GMT"
         }
       ],
       "error": null
@@ -379,6 +379,11 @@
           "date": "2026-03-22T04:07:33+00:00"
         },
         {
+          "title": "Tired of working 8 hours. Is just me or IA could take my job any time soon and I would be glad.",
+          "link": "https://www.reddit.com/r/artificial/comments/1s0k2zj/tired_of_working_8_hours_is_just_me_or_ia_could/",
+          "date": "2026-03-22T12:14:33+00:00"
+        },
+        {
           "title": "Does the economics of AI actually imply large-scale labor replacement?",
           "link": "https://www.reddit.com/r/artificial/comments/1rzztg1/does_the_economics_of_ai_actually_imply/",
           "date": "2026-03-21T19:05:53+00:00"
@@ -392,11 +397,6 @@
           "title": "A supervisor or \"manager\" Al agent is the wrong way to control Al",
           "link": "https://www.reddit.com/r/artificial/comments/1s0a3g2/a_supervisor_or_manager_al_agent_is_the_wrong_way/",
           "date": "2026-03-22T02:33:49+00:00"
-        },
-        {
-          "title": "We thought our system prompt was private. Turns out anyone can extract it with the right questions.",
-          "link": "https://www.reddit.com/r/artificial/comments/1rz9yg5/we_thought_our_system_prompt_was_private_turns/",
-          "date": "2026-03-20T22:12:01+00:00"
         }
       ],
       "error": null
