@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-03-23T19:46:38.546350+00:00",
+  "generatedAt": "2026-03-23T20:35:28.158654+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Judge Allows DOGE Deposition Videos Back Online",
+          "link": "https://www.404media.co/judge-allows-doge-deposition-videos-back-online/",
+          "date": "Mon, 23 Mar 2026 20:28:37 GMT"
+        },
         {
           "title": "This Web Tool Sabotages AI Chatbots By Making Them Really, Really Slow",
           "link": "https://www.404media.co/this-web-tool-sabotages-ai-chatbots-by-making-them-really-really-slow/",
@@ -24,11 +29,6 @@
           "title": "Scientists Narrow Down the Hunt for Aliens to 45 Planets",
           "link": "https://www.404media.co/scientists-narrow-down-the-hunt-for-aliens-to-45-planets/",
           "date": "Sat, 21 Mar 2026 13:00:07 GMT"
-        },
-        {
-          "title": "Behind the Blog: Marathon and the Metaverse",
-          "link": "https://www.404media.co/behind-the-blog-marathon-and-the-metaverse/",
-          "date": "Fri, 20 Mar 2026 15:00:00 GMT"
         }
       ],
       "error": null
@@ -335,7 +335,7 @@
       "name": "Announcements - Stability AI",
       "url": "https://stability.ai/blog?format=rss",
       "items": [],
-      "error": "<unknown>:2:0: syntax error"
+      "error": null
     },
     {
       "name": "Ars Technica - All content",
@@ -379,6 +379,11 @@
           "date": "2026-03-23T08:20:13+00:00"
         },
         {
+          "title": "Mark Zuckerberg builds AI CEO to help him run Meta",
+          "link": "https://www.reddit.com/r/artificial/comments/1s1qk1c/mark_zuckerberg_builds_ai_ceo_to_help_him_run_meta/",
+          "date": "2026-03-23T19:17:39+00:00"
+        },
+        {
           "title": "Xiaomi's MiMo models are making the AI pricing conversation uncomfortable",
           "link": "https://www.reddit.com/r/artificial/comments/1s1cpap/xiaomis_mimo_models_are_making_the_ai_pricing/",
           "date": "2026-03-23T10:04:19+00:00"
@@ -392,11 +397,6 @@
           "title": "I've been using AI video tools in my creative workflow for about 6 months and I want to give an honest assessment of where they're actually useful vs where they're still overhyped",
           "link": "https://www.reddit.com/r/artificial/comments/1s1d4zc/ive_been_using_ai_video_tools_in_my_creative/",
           "date": "2026-03-23T10:29:28+00:00"
-        },
-        {
-          "title": "Jensen Huang compares not using AI to using \"paper and pencil\" to design chips, as he explains Nvidia's massive token budget",
-          "link": "https://www.reddit.com/r/artificial/comments/1s1iks2/jensen_huang_compares_not_using_ai_to_using_paper/",
-          "date": "2026-03-23T14:34:42+00:00"
         }
       ],
       "error": null
