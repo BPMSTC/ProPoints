@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-23T15:57:30.287402+00:00",
+  "generatedAt": "2026-03-23T16:58:05.296772+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -438,6 +438,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "AI boom risks widening wealth divide, says BlackRock\u2019s Larry Fink",
+          "link": "https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink",
+          "date": "Mon, 23 Mar 2026 16:51:35 GMT"
+        },
+        {
           "title": "Do we have to keep talking about AI? The machines are always one step ahead | Zoe Williams",
           "link": "https://www.theguardian.com/commentisfree/2026/mar/23/do-we-have-to-keep-talking-about-ai-the-machines-are-always-one-step-ahead",
           "date": "Mon, 23 Mar 2026 13:50:39 GMT"
@@ -456,11 +461,6 @@
           "title": "Campaign groups rail against Palantir, but the UK contracts keep coming",
           "link": "https://www.theguardian.com/technology/2026/mar/22/fca-deal-palantir-ai-financial-services-uk",
           "date": "Sun, 22 Mar 2026 16:00:25 GMT"
-        },
-        {
-          "title": "\u2018Thank God they\u2019re still alive\u2019: Kaiser therapists claim its new screening system puts patients at higher risk by delaying their care",
-          "link": "https://www.theguardian.com/technology/2026/mar/21/kaiser-permanente-therapists-ai-strike",
-          "date": "Sat, 21 Mar 2026 17:00:57 GMT"
         }
       ],
       "error": null
@@ -468,39 +468,18 @@
     {
       "name": "artificial intelligence Archives - SpaceNews",
       "url": "https://spacenews.com/tag/artificial-intelligence/feed/",
-      "items": [
-        {
-          "title": "Kayhan targets investors, insurers with expanded orbital intelligence platform",
-          "link": "https://spacenews.com/kayhan-targets-investors-insurers-with-expanded-orbital-intelligence-platform/",
-          "date": "Fri, 20 Mar 2026 11:00:00 +0000"
-        },
-        {
-          "title": "Kayrros sale signals rising demand for satellite intelligence amid Hormuz crisis",
-          "link": "https://spacenews.com/kayrros-sale-signals-rising-demand-for-satellite-intelligence-amid-hormuz-crisis/",
-          "date": "Mon, 16 Mar 2026 21:47:33 +0000"
-        },
-        {
-          "title": "Strait of Hormuz crisis drives demand for commercial geospatial intelligence",
-          "link": "https://spacenews.com/strait-of-hormuz-crisis-drives-demand-for-commercial-geospatial-intelligence/",
-          "date": "Sun, 15 Mar 2026 15:06:01 +0000"
-        },
-        {
-          "title": "Another Earth raises $4 million to boost AI training with synthetic satellite data",
-          "link": "https://spacenews.com/another-earth-raises-4-million-to-boost-ai-training-with-synthetic-satellite-data/",
-          "date": "Thu, 12 Mar 2026 16:10:25 +0000"
-        },
-        {
-          "title": "Unlocking AI in space: the case for greater industry and space agency collaboration",
-          "link": "https://spacenews.com/unlocking-ai-in-space-the-case-for-greater-industry-and-space-agency-collaboration/",
-          "date": "Thu, 05 Mar 2026 14:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:47:3: mismatched tag"
     },
     {
       "name": "Artificial Intelligence \u2013 Futurism",
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
+        {
+          "title": "Mark Zuckerberg Secretly Training an AI Agent to Do CEO Job",
+          "link": "https://futurism.com/artificial-intelligence/zuckerberg-training-an-ai-agent-ceo",
+          "date": "Mon, 23 Mar 2026 12:04:12 -0400"
+        },
         {
           "title": "Microsoft Realizes It\u2019s Epically Screwed Up Windows 11 as Users Rage at Copilot AI Crammed Everywhere",
           "link": "https://futurism.com/artificial-intelligence/microsoft-screwed-up-windows-11-copilot",
@@ -520,11 +499,6 @@
           "title": "Gen Z Is Using AI to Have Difficult Relationship Conversations, and the Results Are Massively Cringe",
           "link": "https://futurism.com/artificial-intelligence/ai-chatbot-social-offloading",
           "date": "Sat, 21 Mar 2026 13:00:00 -0400"
-        },
-        {
-          "title": "Therapists Go on Strike, Saying They\u2019re Being Replaced by AI",
-          "link": "https://futurism.com/health-medicine/mental-health-workers-ai-strike",
-          "date": "Sat, 21 Mar 2026 11:00:00 -0400"
         }
       ],
       "error": null
