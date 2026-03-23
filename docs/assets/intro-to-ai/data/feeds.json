@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-23T16:58:05.296772+00:00",
+  "generatedAt": "2026-03-23T17:53:51.140073+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -140,6 +140,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Bezos\u2019 Blue Origin joins race to put AI data centers in space",
+          "link": "https://aibusiness.com/data-centers/bezos-blue-origin-joins-race-ai-data-centers-in-space",
+          "date": "Mon, 23 Mar 2026 17:40:23 GMT"
+        },
+        {
           "title": "Alibaba Unveils Enterprise Agent Tool",
           "link": "https://aibusiness.com/agentic-ai/alibaba-unveils-enterprise-agent-tool",
           "date": "Mon, 23 Mar 2026 14:35:22 GMT"
@@ -158,11 +163,6 @@
           "title": "Trump Administration Releases AI Legislative Framework",
           "link": "https://aibusiness.com/ai-policy/trump-administration-releases-ai-legislative-framework",
           "date": "Fri, 20 Mar 2026 17:53:21 GMT"
-        },
-        {
-          "title": "Rivian\u2019s Bet on AI Attracts $1.25 Billion Uber Deal",
-          "link": "https://aibusiness.com/generative-ai/rivian-s-bet-on-ai-attracts-1.2b-uber-deal",
-          "date": "Fri, 20 Mar 2026 14:39:15 GMT"
         }
       ],
       "error": null
@@ -453,13 +453,13 @@
           "date": "Mon, 23 Mar 2026 06:00:42 GMT"
         },
         {
-          "title": "Palantir extends reach into British state as it gets access to sensitive FCA data",
-          "link": "https://www.theguardian.com/technology/2026/mar/22/palantir-extends-reach-into-british-state-as-it-gets-access-to-sensitive-fca-data",
+          "title": "Campaign groups rail against Palantir, but the UK contracts keep coming",
+          "link": "https://www.theguardian.com/technology/2026/mar/22/fca-deal-palantir-ai-financial-services-uk",
           "date": "Sun, 22 Mar 2026 16:00:25 GMT"
         },
         {
-          "title": "Campaign groups rail against Palantir, but the UK contracts keep coming",
-          "link": "https://www.theguardian.com/technology/2026/mar/22/fca-deal-palantir-ai-financial-services-uk",
+          "title": "Palantir extends reach into British state as it gets access to sensitive FCA data",
+          "link": "https://www.theguardian.com/technology/2026/mar/22/palantir-extends-reach-into-british-state-as-it-gets-access-to-sensitive-fca-data",
           "date": "Sun, 22 Mar 2026 16:00:25 GMT"
         }
       ],
@@ -468,8 +468,34 @@
     {
       "name": "artificial intelligence Archives - SpaceNews",
       "url": "https://spacenews.com/tag/artificial-intelligence/feed/",
-      "items": [],
-      "error": "<unknown>:47:3: mismatched tag"
+      "items": [
+        {
+          "title": "Kayhan targets investors, insurers with expanded orbital intelligence platform",
+          "link": "https://spacenews.com/kayhan-targets-investors-insurers-with-expanded-orbital-intelligence-platform/",
+          "date": "Fri, 20 Mar 2026 11:00:00 +0000"
+        },
+        {
+          "title": "Kayrros sale signals rising demand for satellite intelligence amid Hormuz crisis",
+          "link": "https://spacenews.com/kayrros-sale-signals-rising-demand-for-satellite-intelligence-amid-hormuz-crisis/",
+          "date": "Mon, 16 Mar 2026 21:47:33 +0000"
+        },
+        {
+          "title": "Strait of Hormuz crisis drives demand for commercial geospatial intelligence",
+          "link": "https://spacenews.com/strait-of-hormuz-crisis-drives-demand-for-commercial-geospatial-intelligence/",
+          "date": "Sun, 15 Mar 2026 15:06:01 +0000"
+        },
+        {
+          "title": "Another Earth raises $4 million to boost AI training with synthetic satellite data",
+          "link": "https://spacenews.com/another-earth-raises-4-million-to-boost-ai-training-with-synthetic-satellite-data/",
+          "date": "Thu, 12 Mar 2026 16:10:25 +0000"
+        },
+        {
+          "title": "Unlocking AI in space: the case for greater industry and space agency collaboration",
+          "link": "https://spacenews.com/unlocking-ai-in-space-the-case-for-greater-industry-and-space-agency-collaboration/",
+          "date": "Thu, 05 Mar 2026 14:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "Artificial Intelligence \u2013 Futurism",
