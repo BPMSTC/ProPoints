@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-23T10:00:12.106551+00:00",
+  "generatedAt": "2026-03-23T11:03:01.757700+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Zilliz Cloud Launches Customer-Managed Encryption Keys",
+          "link": "https://ai-techpark.com/zilliz-cloud-launches-customer-managed-encryption-keys/",
+          "date": "Mon, 23 Mar 2026 09:45:00 +0000"
+        },
+        {
+          "title": "SBS CyberSecurity Debuts AI Peer Group for Financial Risk",
+          "link": "https://ai-techpark.com/sbs-cybersecurity-debuts-ai-peer-group-for-financial-risk/",
+          "date": "Mon, 23 Mar 2026 09:30:00 +0000"
+        },
+        {
+          "title": "Pipefy Accelerates 2026 U.S. Presence: Rodrigo Paiva Joins as VP of Sales",
+          "link": "https://ai-techpark.com/pipefy-accelerates-2026-u-s-presence-rodrigo-paiva-joins-as-vp-of-sales/",
+          "date": "Mon, 23 Mar 2026 08:00:00 +0000"
+        },
+        {
+          "title": "Elevate\u201926 Gathers CX Leaders on Agentic AI, Mobile Innovation",
+          "link": "https://ai-techpark.com/elevate26-gathers-cx-leaders-on-agentic-ai-mobile-innovation/",
+          "date": "Mon, 23 Mar 2026 07:30:00 +0000"
+        },
+        {
+          "title": "Evolent appoints Archie Mayani as chief product officer",
+          "link": "https://ai-techpark.com/evolent-appoints-archie-mayani-as-chief-product-officer/",
+          "date": "Fri, 20 Mar 2026 14:30:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -348,29 +374,29 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "Pentagon to adopt Palantir AI as core US military system, memo says",
-          "link": "https://www.reddit.com/r/artificial/comments/1s11nu4/pentagon_to_adopt_palantir_ai_as_core_us_military/",
-          "date": "2026-03-23T00:05:16+00:00"
-        },
-        {
           "title": "Andrej Karpathy's autonomous AI research agent ran 700 experiments in 2 days and gave a glimpse of where AI is heading",
           "link": "https://www.reddit.com/r/artificial/comments/1s1b1zm/andrej_karpathys_autonomous_ai_research_agent_ran/",
           "date": "2026-03-23T08:20:13+00:00"
         },
         {
+          "title": "Pentagon to adopt Palantir AI as core US military system, memo says",
+          "link": "https://www.reddit.com/r/artificial/comments/1s11nu4/pentagon_to_adopt_palantir_ai_as_core_us_military/",
+          "date": "2026-03-23T00:05:16+00:00"
+        },
+        {
+          "title": "Xiaomi's MiMo models are making the AI pricing conversation uncomfortable",
+          "link": "https://www.reddit.com/r/artificial/comments/1s1cpap/xiaomis_mimo_models_are_making_the_ai_pricing/",
+          "date": "2026-03-23T10:04:19+00:00"
+        },
+        {
+          "title": "Everyone is looking for friend here, just curious do you guys talk you chatgpt or claude like they are your friend or it's just me ?",
+          "link": "https://www.reddit.com/r/artificial/comments/1s1d7hp/everyone_is_looking_for_friend_here_just_curious/",
+          "date": "2026-03-23T10:33:21+00:00"
+        },
+        {
           "title": "Is AI becoming a bubble, and could it end like the dot-com crash?",
           "link": "https://www.reddit.com/r/artificial/comments/1s1bnj0/is_ai_becoming_a_bubble_and_could_it_end_like_the/",
           "date": "2026-03-23T09:00:03+00:00"
-        },
-        {
-          "title": "Over a dozen chatbot harm & suicide cases in California against OpenAI / ChatGPT have been consolidated into one big litigation",
-          "link": "https://www.reddit.com/r/artificial/comments/1s184mb/over_a_dozen_chatbot_harm_suicide_cases_in/",
-          "date": "2026-03-23T05:19:09+00:00"
-        },
-        {
-          "title": "I am a painter with work at MoMA and the Met. I just published 50 years of my work as an open AI dataset. Here is what I learned.",
-          "link": "https://www.reddit.com/r/artificial/comments/1s0bxvq/i_am_a_painter_with_work_at_moma_and_the_met_i/",
-          "date": "2026-03-22T04:07:33+00:00"
         }
       ],
       "error": null
@@ -417,13 +443,13 @@
           "date": "Mon, 23 Mar 2026 06:00:42 GMT"
         },
         {
-          "title": "Campaign groups rail against Palantir, but the UK contracts keep coming",
-          "link": "https://www.theguardian.com/technology/2026/mar/22/fca-deal-palantir-ai-financial-services-uk",
+          "title": "Palantir extends reach into British state as it gets access to sensitive FCA data",
+          "link": "https://www.theguardian.com/technology/2026/mar/22/palantir-extends-reach-into-british-state-as-it-gets-access-to-sensitive-fca-data",
           "date": "Sun, 22 Mar 2026 16:00:25 GMT"
         },
         {
-          "title": "Palantir extends reach into British state as it gets access to sensitive FCA data",
-          "link": "https://www.theguardian.com/technology/2026/mar/22/palantir-extends-reach-into-british-state-as-it-gets-access-to-sensitive-fca-data",
+          "title": "Campaign groups rail against Palantir, but the UK contracts keep coming",
+          "link": "https://www.theguardian.com/technology/2026/mar/22/fca-deal-palantir-ai-financial-services-uk",
           "date": "Sun, 22 Mar 2026 16:00:25 GMT"
         },
         {
@@ -508,6 +534,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Meet the Gods of AI Warfare",
+          "link": "https://www.wired.com/story/project-maven-katrina-manson-book-excerpt/",
+          "date": "Mon, 23 Mar 2026 10:00:00 +0000"
+        },
+        {
           "title": "The AI Race Is Pressuring Utilities to Squeeze More From Europe\u2019s Power Grids",
           "link": "https://www.wired.com/story/europe-squeeze-power-energy-grid-ai-data-center/",
           "date": "Mon, 23 Mar 2026 09:00:00 +0000"
@@ -526,11 +557,6 @@
           "title": "'Jury Duty Presents: Company Retreat' Almost Makes Corporate Culture Seem Fun",
           "link": "https://www.wired.com/story/jury-duty-presents-company-retreat-almost-makes-corporate-culture-seem-fun/",
           "date": "Sat, 21 Mar 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Anthropic Denies It Could Sabotage AI Tools During War",
-          "link": "https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/",
-          "date": "Sat, 21 Mar 2026 00:03:20 +0000"
         }
       ],
       "error": null
