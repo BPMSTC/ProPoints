@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-23T20:35:28.158654+00:00",
+  "generatedAt": "2026-03-23T21:34:11.945049+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -102,6 +102,21 @@
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [
         {
+          "title": "Teleport Launches Beams, Trusted Agent Runtimes For Infrastructure",
+          "link": "https://ai-techpark.com/teleport-launches-beams-trusted-agent-runtimes-for-infrastructure/",
+          "date": "Mon, 23 Mar 2026 16:45:00 +0000"
+        },
+        {
+          "title": "Lightedge Secures AWS MSP Designation for the 9th Year",
+          "link": "https://ai-techpark.com/lightedge-secures-aws-msp-designation-for-the-9th-year/",
+          "date": "Mon, 23 Mar 2026 16:15:00 +0000"
+        },
+        {
+          "title": "Rafay Systems, DataDirect Networks Partner to Support AI Infra Deploymentsv",
+          "link": "https://ai-techpark.com/rafay-systems-datadirect-networks-partner-to-support-ai-infra-deploymentsv/",
+          "date": "Mon, 23 Mar 2026 15:45:00 +0000"
+        },
+        {
           "title": "Zilliz Cloud Launches Customer-Managed Encryption Keys",
           "link": "https://ai-techpark.com/zilliz-cloud-launches-customer-managed-encryption-keys/",
           "date": "Mon, 23 Mar 2026 09:45:00 +0000"
@@ -110,21 +125,6 @@
           "title": "SBS CyberSecurity Debuts AI Peer Group for Financial Risk",
           "link": "https://ai-techpark.com/sbs-cybersecurity-debuts-ai-peer-group-for-financial-risk/",
           "date": "Mon, 23 Mar 2026 09:30:00 +0000"
-        },
-        {
-          "title": "Pipefy Accelerates 2026 U.S. Presence: Rodrigo Paiva Joins as VP of Sales",
-          "link": "https://ai-techpark.com/pipefy-accelerates-2026-u-s-presence-rodrigo-paiva-joins-as-vp-of-sales/",
-          "date": "Mon, 23 Mar 2026 08:00:00 +0000"
-        },
-        {
-          "title": "Elevate\u201926 Gathers CX Leaders on Agentic AI, Mobile Innovation",
-          "link": "https://ai-techpark.com/elevate26-gathers-cx-leaders-on-agentic-ai-mobile-innovation/",
-          "date": "Mon, 23 Mar 2026 07:30:00 +0000"
-        },
-        {
-          "title": "Evolent appoints Archie Mayani as chief product officer",
-          "link": "https://ai-techpark.com/evolent-appoints-archie-mayani-as-chief-product-officer/",
-          "date": "Fri, 20 Mar 2026 14:30:00 +0000"
         }
       ],
       "error": null
@@ -335,12 +335,22 @@
       "name": "Announcements - Stability AI",
       "url": "https://stability.ai/blog?format=rss",
       "items": [],
-      "error": null
+      "error": "<unknown>:2:0: syntax error"
     },
     {
       "name": "Ars Technica - All content",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
+        {
+          "title": "LG Display starts mass-producing LTPO-like 1 Hz LCD displays for laptops",
+          "link": "https://arstechnica.com/gadgets/2026/03/lg-display-starts-mass-producing-ltpo-like-1-hz-lcd-displays-for-laptops/",
+          "date": "Mon, 23 Mar 2026 20:29:09 +0000"
+        },
+        {
+          "title": "US to pay TotalEnergies $1 billion to stop developing offshore wind in US",
+          "link": "https://arstechnica.com/science/2026/03/trumps-latest-anti-wind-effort-pay-companies-to-abandon-offshore-leases/",
+          "date": "Mon, 23 Mar 2026 19:30:53 +0000"
+        },
         {
           "title": "Intuit beats FTC in court, ending restrictions on \"free\" TurboTax ads",
           "link": "https://arstechnica.com/tech-policy/2026/03/intuit-beats-ftc-in-court-ending-restrictions-on-free-turbotax-ads/",
@@ -355,16 +365,6 @@
           "title": "Long fingernails vs. touchscreens: This nail polish could help",
           "link": "https://arstechnica.com/science/2026/03/long-fingernails-vs-touchscreens-this-nail-polish-could-help/",
           "date": "Mon, 23 Mar 2026 17:59:46 +0000"
-        },
-        {
-          "title": "Republicans in Congress add $250 annual federal EV tax to transport bill",
-          "link": "https://arstechnica.com/cars/2026/03/republicans-in-congress-add-250-annual-federal-ev-tax-to-transport-bill/",
-          "date": "Mon, 23 Mar 2026 17:29:29 +0000"
-        },
-        {
-          "title": "As teens await sentencing for nudifying girls, parents aim to sue school",
-          "link": "https://arstechnica.com/tech-policy/2026/03/as-teens-await-sentencing-for-nudifying-girls-parents-aim-to-sue-school/",
-          "date": "Mon, 23 Mar 2026 17:19:49 +0000"
         }
       ],
       "error": null
@@ -453,13 +453,13 @@
           "date": "Mon, 23 Mar 2026 06:00:42 GMT"
         },
         {
-          "title": "Palantir extends reach into British state as it gets access to sensitive FCA data",
-          "link": "https://www.theguardian.com/technology/2026/mar/22/palantir-extends-reach-into-british-state-as-it-gets-access-to-sensitive-fca-data",
+          "title": "Campaign groups rail against Palantir, but the UK contracts keep coming",
+          "link": "https://www.theguardian.com/technology/2026/mar/22/fca-deal-palantir-ai-financial-services-uk",
           "date": "Sun, 22 Mar 2026 16:00:25 GMT"
         },
         {
-          "title": "Campaign groups rail against Palantir, but the UK contracts keep coming",
-          "link": "https://www.theguardian.com/technology/2026/mar/22/fca-deal-palantir-ai-financial-services-uk",
+          "title": "Palantir extends reach into British state as it gets access to sensitive FCA data",
+          "link": "https://www.theguardian.com/technology/2026/mar/22/palantir-extends-reach-into-british-state-as-it-gets-access-to-sensitive-fca-data",
           "date": "Sun, 22 Mar 2026 16:00:25 GMT"
         }
       ],
@@ -468,13 +468,44 @@
     {
       "name": "artificial intelligence Archives - SpaceNews",
       "url": "https://spacenews.com/tag/artificial-intelligence/feed/",
-      "items": [],
-      "error": "<unknown>:47:3: mismatched tag"
+      "items": [
+        {
+          "title": "Kayhan targets investors, insurers with expanded orbital intelligence platform",
+          "link": "https://spacenews.com/kayhan-targets-investors-insurers-with-expanded-orbital-intelligence-platform/",
+          "date": "Fri, 20 Mar 2026 11:00:00 +0000"
+        },
+        {
+          "title": "Kayrros sale signals rising demand for satellite intelligence amid Hormuz crisis",
+          "link": "https://spacenews.com/kayrros-sale-signals-rising-demand-for-satellite-intelligence-amid-hormuz-crisis/",
+          "date": "Mon, 16 Mar 2026 21:47:33 +0000"
+        },
+        {
+          "title": "Strait of Hormuz crisis drives demand for commercial geospatial intelligence",
+          "link": "https://spacenews.com/strait-of-hormuz-crisis-drives-demand-for-commercial-geospatial-intelligence/",
+          "date": "Sun, 15 Mar 2026 15:06:01 +0000"
+        },
+        {
+          "title": "Another Earth raises $4 million to boost AI training with synthetic satellite data",
+          "link": "https://spacenews.com/another-earth-raises-4-million-to-boost-ai-training-with-synthetic-satellite-data/",
+          "date": "Thu, 12 Mar 2026 16:10:25 +0000"
+        },
+        {
+          "title": "Unlocking AI in space: the case for greater industry and space agency collaboration",
+          "link": "https://spacenews.com/unlocking-ai-in-space-the-case-for-greater-industry-and-space-agency-collaboration/",
+          "date": "Thu, 05 Mar 2026 14:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "Artificial Intelligence \u2013 Futurism",
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
+        {
+          "title": "Man Pleads Guilty to Making $8 Million by Creating Music With AI and Using Bots to Drive Zillions of Fake Streams",
+          "link": "https://futurism.com/artificial-intelligence/man-pleads-guilty-music-ai-bot-streams",
+          "date": "Mon, 23 Mar 2026 17:06:45 -0400"
+        },
         {
           "title": "You\u2019ll Snort-Laugh When You Learn How Much AI Actually Added to the US Economy Last Year",
           "link": "https://futurism.com/artificial-intelligence/ai-economy-gdp-2025",
@@ -494,11 +525,6 @@
           "title": "Microsoft Realizes It\u2019s Epically Screwed Up Windows 11 as Users Rage at Copilot AI Crammed Everywhere",
           "link": "https://futurism.com/artificial-intelligence/microsoft-screwed-up-windows-11-copilot",
           "date": "Mon, 23 Mar 2026 10:45:46 -0400"
-        },
-        {
-          "title": "Analyst Warns Against Using Microsoft\u2019s Copilot AI on Friday Afternoons",
-          "link": "https://futurism.com/artificial-intelligence/microsoft-copilot-ai-friday",
-          "date": "Sun, 22 Mar 2026 14:00:00 -0400"
         }
       ],
       "error": null
