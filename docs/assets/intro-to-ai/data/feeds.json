@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-24T20:38:38.356917+00:00",
+  "generatedAt": "2026-03-24T21:35:31.421662+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "SiMa.ai Introduces Modalix PCIe HHHL Card",
-          "link": "https://ai-techpark.com/sima-ai-introduces-modalix-pcie-hhhl-card/",
-          "date": "Tue, 24 Mar 2026 12:45:00 +0000"
-        },
-        {
-          "title": "RSA Launches ID Plus Sovereign Deployment",
-          "link": "https://ai-techpark.com/rsa-launches-id-plus-sovereign-deployment/",
-          "date": "Tue, 24 Mar 2026 11:00:00 +0000"
-        },
-        {
-          "title": "Teleport Launches Beams, Trusted Agent Runtimes For Infrastructure",
-          "link": "https://ai-techpark.com/teleport-launches-beams-trusted-agent-runtimes-for-infrastructure/",
-          "date": "Mon, 23 Mar 2026 16:45:00 +0000"
-        },
-        {
-          "title": "Lightedge Secures AWS MSP Designation for the 9th Year",
-          "link": "https://ai-techpark.com/lightedge-secures-aws-msp-designation-for-the-9th-year/",
-          "date": "Mon, 23 Mar 2026 16:15:00 +0000"
-        },
-        {
-          "title": "Rafay Systems, DataDirect Networks Partner to Support AI Infra Deployments",
-          "link": "https://ai-techpark.com/rafay-systems-datadirect-networks-partner-to-support-ai-infra-deployments/",
-          "date": "Mon, 23 Mar 2026 15:45:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -342,29 +316,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "OpenAI plans to shut down Sora just 15 months after its launch",
+          "link": "https://arstechnica.com/ai/2026/03/openai-plans-to-shut-down-sora-just-15-months-after-its-launch/",
+          "date": "Tue, 24 Mar 2026 21:19:50 +0000"
+        },
+        {
+          "title": "Electronic Frontier Foundation to swap leaders as AI, ICE fights escalate",
+          "link": "https://arstechnica.com/tech-policy/2026/03/trump-made-opposing-government-spying-cool-again-effs-departing-chief-says/",
+          "date": "Tue, 24 Mar 2026 21:00:49 +0000"
+        },
+        {
+          "title": "FCC imposes sweeping ban on foreign-made routers, affecting all new models",
+          "link": "https://arstechnica.com/tech-policy/2026/03/trump-fcc-prohibits-import-and-sale-of-new-wi-fi-routers-made-outside-us/",
+          "date": "Tue, 24 Mar 2026 19:16:23 +0000"
+        },
+        {
+          "title": "Apple releases iOS, iPadOS, macOS 26.4 with a long list of medium-size tweaks",
+          "link": "https://arstechnica.com/gadgets/2026/03/apple-releases-ios-ipados-macos-26-4-with-a-long-list-of-medium-size-tweaks/",
+          "date": "Tue, 24 Mar 2026 19:06:03 +0000"
+        },
+        {
           "title": "NASA kills lunar space station to focus on ambitious Moon base",
           "link": "https://arstechnica.com/space/2026/03/nasa-kills-lunar-space-station-to-focus-on-ambitious-moon-base/",
           "date": "Tue, 24 Mar 2026 19:01:58 +0000"
-        },
-        {
-          "title": "Google's new version of Android Automotive will move beyond infotainment",
-          "link": "https://arstechnica.com/cars/2026/03/google-wants-android-automotive-to-control-more-of-your-car/",
-          "date": "Tue, 24 Mar 2026 18:27:53 +0000"
-        },
-        {
-          "title": "Apple confirms that its Maps app will begin showing ads to users \"this summer\"",
-          "link": "https://arstechnica.com/gadgets/2026/03/apple-confirms-that-its-maps-app-will-begin-showing-ads-to-users-this-summer/",
-          "date": "Tue, 24 Mar 2026 18:04:00 +0000"
-        },
-        {
-          "title": "All of DOGE\u2019s work could be undone as lawsuit against Musk proceeds",
-          "link": "https://arstechnica.com/tech-policy/2026/03/all-of-doges-work-could-be-undone-as-lawsuit-against-musk-proceeds/",
-          "date": "Tue, 24 Mar 2026 17:17:34 +0000"
-        },
-        {
-          "title": "Claude Code can now take over your computer to complete tasks",
-          "link": "https://arstechnica.com/ai/2026/03/claude-code-can-now-take-over-your-computer-to-complete-tasks/",
-          "date": "Tue, 24 Mar 2026 15:45:19 +0000"
         }
       ],
       "error": null
@@ -379,24 +353,24 @@
           "date": "2026-03-24T13:12:00+00:00"
         },
         {
-          "title": "I wrote a contract to stop AI from guessing when writing code",
-          "link": "https://www.reddit.com/r/artificial/comments/1s2eimz/i_wrote_a_contract_to_stop_ai_from_guessing_when/",
-          "date": "2026-03-24T13:57:36+00:00"
-        },
-        {
           "title": "I tested ChatGPT vs Claude vs Gemini for coding ...here's what I found",
           "link": "https://www.reddit.com/r/artificial/comments/1s2ovhc/i_tested_chatgpt_vs_claude_vs_gemini_for_coding/",
           "date": "2026-03-24T20:08:07+00:00"
         },
         {
-          "title": "Arm announces AGI CPU for AI data centers",
-          "link": "https://www.reddit.com/r/artificial/comments/1s2po13/arm_announces_agi_cpu_for_ai_data_centers/",
-          "date": "2026-03-24T20:36:59+00:00"
+          "title": "I wrote a contract to stop AI from guessing when writing code",
+          "link": "https://www.reddit.com/r/artificial/comments/1s2eimz/i_wrote_a_contract_to_stop_ai_from_guessing_when/",
+          "date": "2026-03-24T13:57:36+00:00"
         },
         {
-          "title": "Mark Zuckerberg builds AI CEO to help him run Meta",
-          "link": "https://www.reddit.com/r/artificial/comments/1s1qk1c/mark_zuckerberg_builds_ai_ceo_to_help_him_run_meta/",
-          "date": "2026-03-23T19:17:39+00:00"
+          "title": "I used an app to analyze 3 years of my Claude conversations. It identified a behavioral pattern I'd never named.",
+          "link": "https://www.reddit.com/r/artificial/comments/1s2oet4/i_used_an_app_to_analyze_3_years_of_my_claude/",
+          "date": "2026-03-24T19:51:30+00:00"
+        },
+        {
+          "title": "Alright I'm just going to crash out a bit about LLMs rn downvote me upvote me up to you",
+          "link": "https://www.reddit.com/r/artificial/comments/1s2q95s/alright_im_just_going_to_crash_out_a_bit_about/",
+          "date": "2026-03-24T20:58:50+00:00"
         }
       ],
       "error": null
@@ -443,6 +417,11 @@
           "date": "Tue, 24 Mar 2026 06:00:12 GMT"
         },
         {
+          "title": "Anthropic and Pentagon face off in court over ban on company\u2019s AI model",
+          "link": "https://www.theguardian.com/us-news/2026/mar/24/anthropic-pentagon-lawsuit",
+          "date": "Tue, 24 Mar 2026 21:09:40 GMT"
+        },
+        {
           "title": "Baltimore sues Elon Musk\u2019s AI company over Grok\u2019s fake nude images",
           "link": "https://www.theguardian.com/technology/2026/mar/24/elon-musk-grok-ai-lawsuit-baltimore",
           "date": "Tue, 24 Mar 2026 18:57:05 GMT"
@@ -456,11 +435,6 @@
           "title": "Does your business English let you down? Turn it into pure corporate gibberish with LinkedIn Speak",
           "link": "https://www.theguardian.com/money/2026/mar/24/does-your-business-english-let-you-down-turn-it-into-pure-corporate-gibberish-with-linkedin-speak",
           "date": "Tue, 24 Mar 2026 15:48:01 GMT"
-        },
-        {
-          "title": "Divide between Silicon Valley and ordinary people grows ever larger",
-          "link": "https://www.theguardian.com/technology/2026/mar/24/silcon-valley-ai-techscape",
-          "date": "Tue, 24 Mar 2026 13:58:47 GMT"
         }
       ],
       "error": null
@@ -468,13 +442,44 @@
     {
       "name": "artificial intelligence Archives - SpaceNews",
       "url": "https://spacenews.com/tag/artificial-intelligence/feed/",
-      "items": [],
-      "error": "<unknown>:47:3: mismatched tag"
+      "items": [
+        {
+          "title": "Kayhan targets investors, insurers with expanded orbital intelligence platform",
+          "link": "https://spacenews.com/kayhan-targets-investors-insurers-with-expanded-orbital-intelligence-platform/",
+          "date": "Fri, 20 Mar 2026 11:00:00 +0000"
+        },
+        {
+          "title": "Kayrros sale signals rising demand for satellite intelligence amid Hormuz crisis",
+          "link": "https://spacenews.com/kayrros-sale-signals-rising-demand-for-satellite-intelligence-amid-hormuz-crisis/",
+          "date": "Mon, 16 Mar 2026 21:47:33 +0000"
+        },
+        {
+          "title": "Strait of Hormuz crisis drives demand for commercial geospatial intelligence",
+          "link": "https://spacenews.com/strait-of-hormuz-crisis-drives-demand-for-commercial-geospatial-intelligence/",
+          "date": "Sun, 15 Mar 2026 15:06:01 +0000"
+        },
+        {
+          "title": "Another Earth raises $4 million to boost AI training with synthetic satellite data",
+          "link": "https://spacenews.com/another-earth-raises-4-million-to-boost-ai-training-with-synthetic-satellite-data/",
+          "date": "Thu, 12 Mar 2026 16:10:25 +0000"
+        },
+        {
+          "title": "Unlocking AI in space: the case for greater industry and space agency collaboration",
+          "link": "https://spacenews.com/unlocking-ai-in-space-the-case-for-greater-industry-and-space-agency-collaboration/",
+          "date": "Thu, 05 Mar 2026 14:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "Artificial Intelligence \u2013 Futurism",
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
+        {
+          "title": "OpenAI Is Reportedly Killing Its Disastrous Video AI Slop App",
+          "link": "https://futurism.com/artificial-intelligence/openai-killing-sora-video-ai-slop",
+          "date": "Tue, 24 Mar 2026 17:02:17 -0400"
+        },
         {
           "title": "There\u2019s a $10 Billion Problem With Elon Musk\u2019s New Chip Factory",
           "link": "https://futurism.com/artificial-intelligence/elon-musk-terafab-finances",
@@ -494,11 +499,6 @@
           "title": "Man Pleads Guilty to Making $8 Million by Creating Music With AI and Using Bots to Drive Zillions of Fake Streams",
           "link": "https://futurism.com/artificial-intelligence/man-pleads-guilty-music-ai-bot-streams",
           "date": "Mon, 23 Mar 2026 17:06:45 -0400"
-        },
-        {
-          "title": "You\u2019ll Snort-Laugh When You Learn How Much AI Actually Added to the US Economy Last Year",
-          "link": "https://futurism.com/artificial-intelligence/ai-economy-gdp-2025",
-          "date": "Mon, 23 Mar 2026 15:37:13 -0400"
         }
       ],
       "error": null
