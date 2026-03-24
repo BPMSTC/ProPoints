@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-03-24T13:06:12.624234+00:00",
+  "generatedAt": "2026-03-24T14:55:19.133832+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "A Top Google Search Result for Claude Plugins Was Planted by Hackers",
+          "link": "https://www.404media.co/a-top-google-search-result-for-claude-plugins-was-planted-by-hackers/",
+          "date": "Tue, 24 Mar 2026 13:35:37 GMT"
+        },
         {
           "title": "This Company Is Secretly Turning Your Zoom Meetings into AI Podcasts",
           "link": "https://www.404media.co/this-company-is-secretly-turning-your-zoom-calls-into-ai-podcasts/",
@@ -24,11 +29,6 @@
           "title": "Ridicule as Praxis (with Emily Bender and Alex Hanna)",
           "link": "https://www.404media.co/ridicule-as-praxis-with-emily-bender-and-alex-hanna/",
           "date": "Mon, 23 Mar 2026 13:37:56 GMT"
-        },
-        {
-          "title": "An Adrenaline Junkie Millionaire\u2019s Quest to Become a Cocaine Kingpin",
-          "link": "https://www.404media.co/an-adrenaline-junkie-billionaires-quest-to-become-a-cocaine-kingpin-marty-tibbitts-ylli-didani/",
-          "date": "Mon, 23 Mar 2026 13:00:14 GMT"
         }
       ],
       "error": null
@@ -176,8 +176,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Palantir AI to support UK finance operations",
+          "link": "https://www.artificialintelligence-news.com/news/palantir-ai-to-support-uk-finance-operations/",
+          "date": "Mon, 23 Mar 2026 13:14:23 +0000"
+        },
+        {
+          "title": "Visa prepares payment systems for AI agent-initiated transactions",
+          "link": "https://www.artificialintelligence-news.com/news/visa-prepares-payment-systems-for-ai-agent-initiated-transactions/",
+          "date": "Thu, 19 Mar 2026 10:00:00 +0000"
+        },
+        {
+          "title": "NVIDIA wants enterprise AI agents safer to deploy",
+          "link": "https://www.artificialintelligence-news.com/news/nvidia-agent-toolkit-enterprise-ai-agents/",
+          "date": "Thu, 19 Mar 2026 08:00:00 +0000"
+        },
+        {
+          "title": "Mastercard keeps tabs on fraud with new foundation model",
+          "link": "https://www.artificialintelligence-news.com/news/mastercards-ltm-keeps-tabs-on-fraud-with-a-new-foundation-model/",
+          "date": "Wed, 18 Mar 2026 15:31:00 +0000"
+        },
+        {
+          "title": "For effective AI, insurance needs to get its data house in order",
+          "link": "https://www.artificialintelligence-news.com/news/for-effective-ai-insurance-needs-a-better-data-layer-and-integration/",
+          "date": "Wed, 18 Mar 2026 14:37:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -316,6 +342,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Study says roads bring more fires to forests; USDA wants more roads to fight fires",
+          "link": "https://arstechnica.com/science/2026/03/study-says-roads-bring-more-fire-to-forests-usda-wants-more-roads-to-fight-fires/",
+          "date": "Tue, 24 Mar 2026 14:37:33 +0000"
+        },
+        {
           "title": "Self-propagating malware poisons open source software and wipes Iran-based machines",
           "link": "https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/",
           "date": "Tue, 24 Mar 2026 12:38:09 +0000"
@@ -334,11 +365,6 @@
           "title": "Trump's MAHA pick for surgeon general flounders amid GOP doubts",
           "link": "https://arstechnica.com/health/2026/03/trumps-maha-pick-for-surgeon-general-flounders-amid-gop-doubts/",
           "date": "Mon, 23 Mar 2026 21:43:21 +0000"
-        },
-        {
-          "title": "Nvidia CEO tries to explain why DLSS 5 isn\u2019t just \u201cAI slop\u201d",
-          "link": "https://arstechnica.com/gaming/2026/03/nvidia-ceo-tries-to-explain-why-dlss-5-isnt-just-ai-slop/",
-          "date": "Mon, 23 Mar 2026 21:19:51 +0000"
         }
       ],
       "error": null
@@ -348,14 +374,14 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "Just in: You can now enable Claude to use your computer to complete tasks. It opens your apps, navigates your browser, fills in spreadsheets\u2014anything you'd do sitting at your desk.",
-          "link": "https://www.reddit.com/r/artificial/comments/1s1xg9h/just_in_you_can_now_enable_claude_to_use_your/",
-          "date": "2026-03-23T23:33:10+00:00"
+          "title": "Three companies shipped \"AI agent on your desktop\" in the same two weeks. That's not a coincidence.",
+          "link": "https://www.reddit.com/r/artificial/comments/1s2ddgb/three_companies_shipped_ai_agent_on_your_desktop/",
+          "date": "2026-03-24T13:12:00+00:00"
         },
         {
-          "title": "Mark Zuckerberg builds AI CEO to help him run Meta",
-          "link": "https://www.reddit.com/r/artificial/comments/1s1qk1c/mark_zuckerberg_builds_ai_ceo_to_help_him_run_meta/",
-          "date": "2026-03-23T19:17:39+00:00"
+          "title": "I wrote a contract to stop AI from guessing when writing code",
+          "link": "https://www.reddit.com/r/artificial/comments/1s2eimz/i_wrote_a_contract_to_stop_ai_from_guessing_when/",
+          "date": "2026-03-24T13:57:36+00:00"
         },
         {
           "title": "Open Source Alternative to NotebookLM",
@@ -363,14 +389,14 @@
           "date": "2026-03-24T07:31:50+00:00"
         },
         {
-          "title": "Algorithmic Gaslighting: A Formal Legal Template to Fight AI Safety Pivots That Cause Psychological Harm",
-          "link": "https://www.reddit.com/r/artificial/comments/1s28l37/algorithmic_gaslighting_a_formal_legal_template/",
-          "date": "2026-03-24T09:03:39+00:00"
+          "title": "Mark Zuckerberg builds AI CEO to help him run Meta",
+          "link": "https://www.reddit.com/r/artificial/comments/1s1qk1c/mark_zuckerberg_builds_ai_ceo_to_help_him_run_meta/",
+          "date": "2026-03-23T19:17:39+00:00"
         },
         {
-          "title": "Built a tool that found the location of a building from the reflection of a car window",
-          "link": "https://www.reddit.com/r/artificial/comments/1s26kyv/built_a_tool_that_found_the_location_of_a/",
-          "date": "2026-03-24T06:56:05+00:00"
+          "title": "Whats your thoughts on Bugbounty software powered by AI",
+          "link": "https://www.reddit.com/r/artificial/comments/1s2e2ds/whats_your_thoughts_on_bugbounty_software_powered/",
+          "date": "2026-03-24T13:39:49+00:00"
         }
       ],
       "error": null
@@ -417,6 +443,11 @@
           "date": "Tue, 24 Mar 2026 06:00:12 GMT"
         },
         {
+          "title": "Divide between Silicon Valley and ordinary people grows ever larger",
+          "link": "https://www.theguardian.com/technology/2026/mar/24/silcon-valley-ai-techscape",
+          "date": "Tue, 24 Mar 2026 13:58:47 GMT"
+        },
+        {
           "title": "As the US midterms approach, AI is going to emerge as a key issue concerning voters | Nathan E Sanders and Bruce Schneier",
           "link": "https://www.theguardian.com/commentisfree/2026/mar/24/midterm-elections-ai-voters",
           "date": "Tue, 24 Mar 2026 12:00:37 GMT"
@@ -430,11 +461,6 @@
           "title": "AI boom risks widening wealth divide, says BlackRock\u2019s Larry Fink",
           "link": "https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink",
           "date": "Mon, 23 Mar 2026 16:51:35 GMT"
-        },
-        {
-          "title": "Do we have to keep talking about AI? The machines are always one step ahead | Zoe Williams",
-          "link": "https://www.theguardian.com/commentisfree/2026/mar/23/do-we-have-to-keep-talking-about-ai-the-machines-are-always-one-step-ahead",
-          "date": "Mon, 23 Mar 2026 13:50:39 GMT"
         }
       ],
       "error": null
@@ -476,6 +502,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "CEO Confronted Over Using AI to Clone Real People Without Their Consent",
+          "link": "https://futurism.com/artificial-intelligence/ai-ceo-grammarly-clone",
+          "date": "Tue, 24 Mar 2026 10:02:00 -0400"
+        },
+        {
           "title": "Man Pleads Guilty to Making $8 Million by Creating Music With AI and Using Bots to Drive Zillions of Fake Streams",
           "link": "https://futurism.com/artificial-intelligence/man-pleads-guilty-music-ai-bot-streams",
           "date": "Mon, 23 Mar 2026 17:06:45 -0400"
@@ -494,11 +525,6 @@
           "title": "Mark Zuckerberg Secretly Training an AI Agent to Do CEO Job",
           "link": "https://futurism.com/artificial-intelligence/zuckerberg-training-an-ai-agent-ceo",
           "date": "Mon, 23 Mar 2026 12:04:12 -0400"
-        },
-        {
-          "title": "Microsoft Realizes It\u2019s Epically Screwed Up Windows 11 as Users Rage at Copilot AI Crammed Everywhere",
-          "link": "https://futurism.com/artificial-intelligence/microsoft-screwed-up-windows-11-copilot",
-          "date": "Mon, 23 Mar 2026 10:45:46 -0400"
         }
       ],
       "error": null
