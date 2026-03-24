@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-24T22:27:40.665365+00:00",
+  "generatedAt": "2026-03-24T23:29:38.332549+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -342,7 +342,17 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "OpenAI plans to shut down Sora just 15 months after its launch",
+          "title": "Newly purchased Vizio TVs now require Walmart accounts to use smart features",
+          "link": "https://arstechnica.com/gadgets/2026/03/newly-purchased-vizio-tvs-now-require-walmart-accounts-to-use-smart-features/",
+          "date": "Tue, 24 Mar 2026 22:26:56 +0000"
+        },
+        {
+          "title": "Mozilla dev's \"Stack Overflow for agents\" targets a key weakness in coding AI",
+          "link": "https://arstechnica.com/ai/2026/03/mozilla-dev-introduces-cq-a-stack-overflow-for-agents/",
+          "date": "Tue, 24 Mar 2026 21:37:07 +0000"
+        },
+        {
+          "title": "OpenAI announces plans to shut down its Sora video generator",
           "link": "https://arstechnica.com/ai/2026/03/openai-plans-to-shut-down-sora-just-15-months-after-its-launch/",
           "date": "Tue, 24 Mar 2026 21:19:50 +0000"
         },
@@ -355,16 +365,6 @@
           "title": "FCC imposes sweeping ban on foreign-made routers, affecting all new models",
           "link": "https://arstechnica.com/tech-policy/2026/03/trump-fcc-prohibits-import-and-sale-of-new-wi-fi-routers-made-outside-us/",
           "date": "Tue, 24 Mar 2026 19:16:23 +0000"
-        },
-        {
-          "title": "Apple releases iOS, iPadOS, macOS 26.4 with a long list of medium-size tweaks",
-          "link": "https://arstechnica.com/gadgets/2026/03/apple-releases-ios-ipados-macos-26-4-with-a-long-list-of-medium-size-tweaks/",
-          "date": "Tue, 24 Mar 2026 19:06:03 +0000"
-        },
-        {
-          "title": "NASA kills lunar space station to focus on ambitious Moon base",
-          "link": "https://arstechnica.com/space/2026/03/nasa-kills-lunar-space-station-to-focus-on-ambitious-moon-base/",
-          "date": "Tue, 24 Mar 2026 19:01:58 +0000"
         }
       ],
       "error": null
@@ -384,19 +384,19 @@
           "date": "2026-03-24T20:08:07+00:00"
         },
         {
-          "title": "I wrote a contract to stop AI from guessing when writing code",
-          "link": "https://www.reddit.com/r/artificial/comments/1s2eimz/i_wrote_a_contract_to_stop_ai_from_guessing_when/",
-          "date": "2026-03-24T13:57:36+00:00"
-        },
-        {
           "title": "OpenAI just gave up on Sora and its billion-dollar Disney deal",
           "link": "https://www.reddit.com/r/artificial/comments/1s2s468/openai_just_gave_up_on_sora_and_its_billiondollar/",
           "date": "2026-03-24T22:08:45+00:00"
         },
         {
-          "title": "I used an app to analyze 3 years of my Claude conversations. It identified a behavioral pattern I'd never named.",
-          "link": "https://www.reddit.com/r/artificial/comments/1s2oet4/i_used_an_app_to_analyze_3_years_of_my_claude/",
-          "date": "2026-03-24T19:51:30+00:00"
+          "title": "I wrote a contract to stop AI from guessing when writing code",
+          "link": "https://www.reddit.com/r/artificial/comments/1s2eimz/i_wrote_a_contract_to_stop_ai_from_guessing_when/",
+          "date": "2026-03-24T13:57:36+00:00"
+        },
+        {
+          "title": "When Deepfakes Become Doctrine",
+          "link": "https://www.reddit.com/r/artificial/comments/1s2tx4c/when_deepfakes_become_doctrine/",
+          "date": "2026-03-24T23:17:51+00:00"
         }
       ],
       "error": null
@@ -443,6 +443,11 @@
           "date": "Tue, 24 Mar 2026 06:00:12 GMT"
         },
         {
+          "title": "OpenAI shutters AI video generator Sora after just six months",
+          "link": "https://www.theguardian.com/technology/2026/mar/24/openai-ai-video-sora",
+          "date": "Tue, 24 Mar 2026 22:34:10 GMT"
+        },
+        {
           "title": "Anthropic and Pentagon face off in court over ban on company\u2019s AI model",
           "link": "https://www.theguardian.com/us-news/2026/mar/24/anthropic-pentagon-lawsuit",
           "date": "Tue, 24 Mar 2026 21:09:40 GMT"
@@ -456,11 +461,6 @@
           "title": "\u2018I\u2019m deathly afraid\u2019: what is digital spirituality leading us toward?",
           "link": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/24/ai-religion-god-digital-spirituality",
           "date": "Tue, 24 Mar 2026 17:00:43 GMT"
-        },
-        {
-          "title": "Does your business English let you down? Turn it into pure corporate gibberish with LinkedIn Speak",
-          "link": "https://www.theguardian.com/money/2026/mar/24/does-your-business-english-let-you-down-turn-it-into-pure-corporate-gibberish-with-linkedin-speak",
-          "date": "Tue, 24 Mar 2026 15:48:01 GMT"
         }
       ],
       "error": null
@@ -534,7 +534,7 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
-          "title": "Pentagon\u2019s \u2018Attempt to Cripple\u2019 Anthropic Is Troublesome, Judge Says",
+          "title": "Pentagon\u2019s \u2018Attempt to Cripple\u2019 Anthropic Is Troubling, Judge Says",
           "link": "https://www.wired.com/story/pentagons-attempt-to-cripple-anthropic-is-troublesome-judge-says/",
           "date": "Tue, 24 Mar 2026 22:13:17 +0000"
         },
