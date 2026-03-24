@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-24T10:50:28.527747+00:00",
+  "generatedAt": "2026-03-24T11:43:13.519268+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "The problem with AI  explaining AI",
+          "link": "https://www.aiacceleratorinstitute.com/the-problem-with-ai-explaining-ai/",
+          "date": "Tue, 24 Mar 2026 11:00:05 GMT"
+        },
+        {
           "title": "How AI in life sciences is  reshaping healthcare",
           "link": "https://www.aiacceleratorinstitute.com/how-ai-in-life-sciences-is-reshaping-healthcare/",
           "date": "Thu, 19 Mar 2026 15:07:51 GMT"
@@ -88,11 +93,6 @@
           "title": "From engagement to fulfillment:   How Agentic AI is rewriting product metrics",
           "link": "https://www.aiacceleratorinstitute.com/from-engagement-to-fulfillment-how-agentic-ai-is-rewriting-product-metrics/",
           "date": "Wed, 18 Mar 2026 11:29:16 GMT"
-        },
-        {
-          "title": "When AI judges AI:  The hidden dangers of reasoning models in alignment",
-          "link": "https://www.aiacceleratorinstitute.com/when-ai-judges-ai-the-hidden-dangers-of-reasoning-models-in-alignment/",
-          "date": "Wed, 18 Mar 2026 11:26:19 GMT"
         }
       ],
       "error": null
@@ -374,14 +374,14 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "Just in: You can now enable Claude to use your computer to complete tasks. It opens your apps, navigates your browser, fills in spreadsheets\u2014anything you'd do sitting at your desk.",
-          "link": "https://www.reddit.com/r/artificial/comments/1s1xg9h/just_in_you_can_now_enable_claude_to_use_your/",
-          "date": "2026-03-23T23:33:10+00:00"
-        },
-        {
           "title": "Mark Zuckerberg builds AI CEO to help him run Meta",
           "link": "https://www.reddit.com/r/artificial/comments/1s1qk1c/mark_zuckerberg_builds_ai_ceo_to_help_him_run_meta/",
           "date": "2026-03-23T19:17:39+00:00"
+        },
+        {
+          "title": "Just in: You can now enable Claude to use your computer to complete tasks. It opens your apps, navigates your browser, fills in spreadsheets\u2014anything you'd do sitting at your desk.",
+          "link": "https://www.reddit.com/r/artificial/comments/1s1xg9h/just_in_you_can_now_enable_claude_to_use_your/",
+          "date": "2026-03-23T23:33:10+00:00"
         },
         {
           "title": "Open Source Alternative to NotebookLM",
