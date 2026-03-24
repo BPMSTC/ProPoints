@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-24T21:35:31.421662+00:00",
+  "generatedAt": "2026-03-24T22:27:40.665365+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "SiMa.ai Introduces Modalix PCIe HHHL Card",
+          "link": "https://ai-techpark.com/sima-ai-introduces-modalix-pcie-hhhl-card/",
+          "date": "Tue, 24 Mar 2026 12:45:00 +0000"
+        },
+        {
+          "title": "RSA Launches ID Plus Sovereign Deployment",
+          "link": "https://ai-techpark.com/rsa-launches-id-plus-sovereign-deployment/",
+          "date": "Tue, 24 Mar 2026 11:00:00 +0000"
+        },
+        {
+          "title": "Teleport Launches Beams, Trusted Agent Runtimes For Infrastructure",
+          "link": "https://ai-techpark.com/teleport-launches-beams-trusted-agent-runtimes-for-infrastructure/",
+          "date": "Mon, 23 Mar 2026 16:45:00 +0000"
+        },
+        {
+          "title": "Lightedge Secures AWS MSP Designation for the 9th Year",
+          "link": "https://ai-techpark.com/lightedge-secures-aws-msp-designation-for-the-9th-year/",
+          "date": "Mon, 23 Mar 2026 16:15:00 +0000"
+        },
+        {
+          "title": "Rafay Systems, DataDirect Networks Partner to Support AI Infra Deployments",
+          "link": "https://ai-techpark.com/rafay-systems-datadirect-networks-partner-to-support-ai-infra-deployments/",
+          "date": "Mon, 23 Mar 2026 15:45:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -363,14 +389,14 @@
           "date": "2026-03-24T13:57:36+00:00"
         },
         {
+          "title": "OpenAI just gave up on Sora and its billion-dollar Disney deal",
+          "link": "https://www.reddit.com/r/artificial/comments/1s2s468/openai_just_gave_up_on_sora_and_its_billiondollar/",
+          "date": "2026-03-24T22:08:45+00:00"
+        },
+        {
           "title": "I used an app to analyze 3 years of my Claude conversations. It identified a behavioral pattern I'd never named.",
           "link": "https://www.reddit.com/r/artificial/comments/1s2oet4/i_used_an_app_to_analyze_3_years_of_my_claude/",
           "date": "2026-03-24T19:51:30+00:00"
-        },
-        {
-          "title": "Alright I'm just going to crash out a bit about LLMs rn downvote me upvote me up to you",
-          "link": "https://www.reddit.com/r/artificial/comments/1s2q95s/alright_im_just_going_to_crash_out_a_bit_about/",
-          "date": "2026-03-24T20:58:50+00:00"
         }
       ],
       "error": null
@@ -508,6 +534,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Pentagon\u2019s \u2018Attempt to Cripple\u2019 Anthropic Is Troublesome, Judge Says",
+          "link": "https://www.wired.com/story/pentagons-attempt-to-cripple-anthropic-is-troublesome-judge-says/",
+          "date": "Tue, 24 Mar 2026 22:13:17 +0000"
+        },
+        {
           "title": "Arm Is Now Making Its Own Chips",
           "link": "https://www.wired.com/story/chip-design-firm-arm-is-making-its-own-ai-cpu/",
           "date": "Tue, 24 Mar 2026 17:00:00 +0000"
@@ -526,11 +557,6 @@
           "title": "Meet the Gods of AI Warfare",
           "link": "https://www.wired.com/story/project-maven-katrina-manson-book-excerpt/",
           "date": "Mon, 23 Mar 2026 10:00:00 +0000"
-        },
-        {
-          "title": "The AI Race Is Pressuring Utilities to Squeeze More From Europe\u2019s Power Grids",
-          "link": "https://www.wired.com/story/europe-squeeze-power-energy-grid-ai-data-center/",
-          "date": "Mon, 23 Mar 2026 09:00:00 +0000"
         }
       ],
       "error": null
