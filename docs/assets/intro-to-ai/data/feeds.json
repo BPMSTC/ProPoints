@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-03-24T11:43:13.519268+00:00",
+  "generatedAt": "2026-03-24T13:06:12.624234+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "This Company Is Secretly Turning Your Zoom Meetings into AI Podcasts",
+          "link": "https://www.404media.co/this-company-is-secretly-turning-your-zoom-calls-into-ai-podcasts/",
+          "date": "Tue, 24 Mar 2026 13:00:13 GMT"
+        },
         {
           "title": "Judge Allows DOGE Deposition Videos Back Online",
           "link": "https://www.404media.co/judge-allows-doge-deposition-videos-back-online/",
@@ -24,11 +29,6 @@
           "title": "An Adrenaline Junkie Millionaire\u2019s Quest to Become a Cocaine Kingpin",
           "link": "https://www.404media.co/an-adrenaline-junkie-billionaires-quest-to-become-a-cocaine-kingpin-marty-tibbitts-ylli-didani/",
           "date": "Mon, 23 Mar 2026 13:00:14 GMT"
-        },
-        {
-          "title": "Scientists Narrow Down the Hunt for Aliens to 45 Planets",
-          "link": "https://www.404media.co/scientists-narrow-down-the-hunt-for-aliens-to-45-planets/",
-          "date": "Sat, 21 Mar 2026 13:00:07 GMT"
         }
       ],
       "error": null
@@ -140,6 +140,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Mistral CEO Says AI Companies Should Pay a Tax in Europe",
+          "link": "https://aibusiness.com/ai-policy/mistral-ceo-says-ai-companies-should-pay-tax-europe",
+          "date": "Tue, 24 Mar 2026 12:27:44 GMT"
+        },
+        {
           "title": "Bezos\u2019 Blue Origin joins race to put AI data centers in space",
           "link": "https://aibusiness.com/data-centers/bezos-blue-origin-joins-race-ai-data-centers-in-space",
           "date": "Mon, 23 Mar 2026 17:40:23 GMT"
@@ -158,11 +163,6 @@
           "title": "Microsoft Cuts Back on Unnecessary Copilot AI in Windows",
           "link": "https://aibusiness.com/generative-ai/microsoft-cuts-back-on-unnecessary-copilot-ai",
           "date": "Mon, 23 Mar 2026 13:09:07 GMT"
-        },
-        {
-          "title": "Trump Administration Releases AI Legislative Framework",
-          "link": "https://aibusiness.com/ai-policy/trump-administration-releases-ai-legislative-framework",
-          "date": "Fri, 20 Mar 2026 17:53:21 GMT"
         }
       ],
       "error": null
@@ -176,34 +176,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "Palantir AI to support UK finance operations",
-          "link": "https://www.artificialintelligence-news.com/news/palantir-ai-to-support-uk-finance-operations/",
-          "date": "Mon, 23 Mar 2026 13:14:23 +0000"
-        },
-        {
-          "title": "Visa prepares payment systems for AI agent-initiated transactions",
-          "link": "https://www.artificialintelligence-news.com/news/visa-prepares-payment-systems-for-ai-agent-initiated-transactions/",
-          "date": "Thu, 19 Mar 2026 10:00:00 +0000"
-        },
-        {
-          "title": "NVIDIA wants enterprise AI agents safer to deploy",
-          "link": "https://www.artificialintelligence-news.com/news/nvidia-agent-toolkit-enterprise-ai-agents/",
-          "date": "Thu, 19 Mar 2026 08:00:00 +0000"
-        },
-        {
-          "title": "Mastercard keeps tabs on fraud with new foundation model",
-          "link": "https://www.artificialintelligence-news.com/news/mastercards-ltm-keeps-tabs-on-fraud-with-a-new-foundation-model/",
-          "date": "Wed, 18 Mar 2026 15:31:00 +0000"
-        },
-        {
-          "title": "For effective AI, insurance needs to get its data house in order",
-          "link": "https://www.artificialintelligence-news.com/news/for-effective-ai-insurance-needs-a-better-data-layer-and-integration/",
-          "date": "Wed, 18 Mar 2026 14:37:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -342,6 +316,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Self-propagating malware poisons open source software and wipes Iran-based machines",
+          "link": "https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/",
+          "date": "Tue, 24 Mar 2026 12:38:09 +0000"
+        },
+        {
+          "title": "Orbital data centers, part 1: There\u2019s no way this is economically viable, right?",
+          "link": "https://arstechnica.com/space/2026/03/orbital-data-centers-part-1-theres-no-way-this-is-economically-viable-right/",
+          "date": "Tue, 24 Mar 2026 11:00:59 +0000"
+        },
+        {
           "title": "A mission NASA might kill is still returning fascinating science from Jupiter",
           "link": "https://arstechnica.com/space/2026/03/a-mission-nasa-might-kill-is-still-returning-fascinating-science-from-jupiter/",
           "date": "Mon, 23 Mar 2026 22:49:31 +0000"
@@ -355,16 +339,6 @@
           "title": "Nvidia CEO tries to explain why DLSS 5 isn\u2019t just \u201cAI slop\u201d",
           "link": "https://arstechnica.com/gaming/2026/03/nvidia-ceo-tries-to-explain-why-dlss-5-isnt-just-ai-slop/",
           "date": "Mon, 23 Mar 2026 21:19:51 +0000"
-        },
-        {
-          "title": "After hackers hit an Iowa company, cars around the country failed to start",
-          "link": "https://arstechnica.com/security/2026/03/after-hack-some-ignition-interlock-users-couldnt-start-their-own-cars/",
-          "date": "Mon, 23 Mar 2026 21:10:14 +0000"
-        },
-        {
-          "title": "LG Display starts mass-producing LTPO-like 1 Hz LCD displays for laptops",
-          "link": "https://arstechnica.com/gadgets/2026/03/lg-display-starts-mass-producing-ltpo-like-1-hz-lcd-displays-for-laptops/",
-          "date": "Mon, 23 Mar 2026 20:29:09 +0000"
         }
       ],
       "error": null
@@ -374,14 +348,14 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "Mark Zuckerberg builds AI CEO to help him run Meta",
-          "link": "https://www.reddit.com/r/artificial/comments/1s1qk1c/mark_zuckerberg_builds_ai_ceo_to_help_him_run_meta/",
-          "date": "2026-03-23T19:17:39+00:00"
-        },
-        {
           "title": "Just in: You can now enable Claude to use your computer to complete tasks. It opens your apps, navigates your browser, fills in spreadsheets\u2014anything you'd do sitting at your desk.",
           "link": "https://www.reddit.com/r/artificial/comments/1s1xg9h/just_in_you_can_now_enable_claude_to_use_your/",
           "date": "2026-03-23T23:33:10+00:00"
+        },
+        {
+          "title": "Mark Zuckerberg builds AI CEO to help him run Meta",
+          "link": "https://www.reddit.com/r/artificial/comments/1s1qk1c/mark_zuckerberg_builds_ai_ceo_to_help_him_run_meta/",
+          "date": "2026-03-23T19:17:39+00:00"
         },
         {
           "title": "Open Source Alternative to NotebookLM",
@@ -406,6 +380,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Drones paired with AI could help search-and-rescue teams find missing persons faster",
+          "link": "https://theconversation.com/drones-paired-with-ai-could-help-search-and-rescue-teams-find-missing-persons-faster-274819",
+          "date": "2026-03-24T12:31:18Z"
+        },
+        {
           "title": "Australia has set new expectations for AI data centres \u2013 they should serve the public",
           "link": "https://theconversation.com/australia-has-set-new-expectations-for-ai-data-centres-they-should-serve-the-public-278988",
           "date": "2026-03-24T00:11:07Z"
@@ -424,11 +403,6 @@
           "title": "Using your AI chatbot as a search engine? Be careful what you believe",
           "link": "https://theconversation.com/using-your-ai-chatbot-as-a-search-engine-be-careful-what-you-believe-277616",
           "date": "2026-03-22T22:20:08Z"
-        },
-        {
-          "title": "A million new SpaceX satellites will destroy the night sky \u2014 for everyone on Earth",
-          "link": "https://theconversation.com/a-million-new-spacex-satellites-will-destroy-the-night-sky-for-everyone-on-earth-277938",
-          "date": "2026-03-22T14:01:43Z"
         }
       ],
       "error": null
@@ -441,6 +415,11 @@
           "title": "Amount of AI-generated child sexual abuse material found online surged in 2025",
           "link": "https://www.theguardian.com/technology/2026/mar/24/ai-generated-child-sexual-abuse-videos-images-online-surged-2025-internet-watch-foundation",
           "date": "Tue, 24 Mar 2026 06:00:12 GMT"
+        },
+        {
+          "title": "As the US midterms approach, AI is going to emerge as a key issue concerning voters | Nathan E Sanders and Bruce Schneier",
+          "link": "https://www.theguardian.com/commentisfree/2026/mar/24/midterm-elections-ai-voters",
+          "date": "Tue, 24 Mar 2026 12:00:37 GMT"
         },
         {
           "title": "Revolut warns it risks backlash over support for energy-intensive AI and crypto",
@@ -456,11 +435,6 @@
           "title": "Do we have to keep talking about AI? The machines are always one step ahead | Zoe Williams",
           "link": "https://www.theguardian.com/commentisfree/2026/mar/23/do-we-have-to-keep-talking-about-ai-the-machines-are-always-one-step-ahead",
           "date": "Mon, 23 Mar 2026 13:50:39 GMT"
-        },
-        {
-          "title": "Trump\u2019s video game war: AI, memes and a simplistic narrative have flattened the conflict | Nesrine Malik",
-          "link": "https://www.theguardian.com/commentisfree/2026/mar/23/iran-us-trump-video-game-war-ai-memes",
-          "date": "Mon, 23 Mar 2026 06:00:42 GMT"
         }
       ],
       "error": null
