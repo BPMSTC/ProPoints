@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-25T22:33:28.932820+00:00",
+  "generatedAt": "2026-03-25T23:32:01.113754+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Fivetran Selected by WM New Zealand to Power an AI-Ready Data Foundation",
+          "link": "https://ai-techpark.com/fivetran-selected-by-wm-new-zealand-to-power-an-ai-ready-data-foundation/",
+          "date": "Wed, 25 Mar 2026 10:45:00 +0000"
+        },
+        {
+          "title": "Avahi Wins 2026 Artificial Intelligence Excellence Award in Agentic AI",
+          "link": "https://ai-techpark.com/avahi-wins-2026-artificial-intelligence-excellence-award-in-agentic-ai/",
+          "date": "Wed, 25 Mar 2026 09:45:00 +0000"
+        },
+        {
+          "title": "Vectra AI Advances Observability with Proactive Exposure Mgmt",
+          "link": "https://ai-techpark.com/vectra-ai-advances-observability-with-proactive-exposure-mgmt/",
+          "date": "Wed, 25 Mar 2026 07:40:41 +0000"
+        },
+        {
+          "title": "Ping Identity Defines the Runtime Identity Standard for Autonomous AI",
+          "link": "https://ai-techpark.com/ping-identity-defines-the-runtime-identity-standard-for-autonomous-ai/",
+          "date": "Wed, 25 Mar 2026 07:30:00 +0000"
+        },
+        {
+          "title": "SiMa.ai Introduces Modalix PCIe HHHL Card",
+          "link": "https://ai-techpark.com/sima-ai-introduces-modalix-pcie-hhhl-card/",
+          "date": "Tue, 24 Mar 2026 12:45:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -358,19 +384,19 @@
           "date": "2026-03-25T22:28:05+00:00"
         },
         {
+          "title": "Co-founder of the Center for Humane Technology, Tristan Harris, speaking with podcast host Nate Hagens about the multiple nuanced risks and promises of A.I.",
+          "link": "https://www.reddit.com/r/artificial/comments/1s3m22x/cofounder_of_the_center_for_humane_technology/",
+          "date": "2026-03-25T20:18:59+00:00"
+        },
+        {
+          "title": "What do you think about using AI for World building",
+          "link": "https://www.reddit.com/r/artificial/comments/1s3q8x0/what_do_you_think_about_using_ai_for_world/",
+          "date": "2026-03-25T22:56:16+00:00"
+        },
+        {
           "title": "In the Kadrey v. Meta Platforms case, Judge Chabbria's quest to bust the fair use copyright defense to generative AI training rises from the dead!",
           "link": "https://www.reddit.com/r/artificial/comments/1s3pfzh/in_the_kadrey_v_meta_platforms_case_judge/",
           "date": "2026-03-25T22:24:55+00:00"
-        },
-        {
-          "title": "Memristor demonstrates use in fully analog hardware-based neural network",
-          "link": "https://www.reddit.com/r/artificial/comments/1s3pfsz/memristor_demonstrates_use_in_fully_analog/",
-          "date": "2026-03-25T22:24:44+00:00"
-        },
-        {
-          "title": "A better method for identifying overconfident large language models",
-          "link": "https://www.reddit.com/r/artificial/comments/1s3iczv/a_better_method_for_identifying_overconfident/",
-          "date": "2026-03-25T18:06:16+00:00"
         }
       ],
       "error": null
@@ -442,8 +468,34 @@
     {
       "name": "artificial intelligence Archives - SpaceNews",
       "url": "https://spacenews.com/tag/artificial-intelligence/feed/",
-      "items": [],
-      "error": "<unknown>:47:3: mismatched tag"
+      "items": [
+        {
+          "title": "Sift raises $42 million in Series B round",
+          "link": "https://spacenews.com/sift-raises-42-million-in-series-b-round/",
+          "date": "Wed, 25 Mar 2026 15:14:02 +0000"
+        },
+        {
+          "title": "Kayhan targets investors, insurers with expanded orbital intelligence platform",
+          "link": "https://spacenews.com/kayhan-targets-investors-insurers-with-expanded-orbital-intelligence-platform/",
+          "date": "Fri, 20 Mar 2026 11:00:00 +0000"
+        },
+        {
+          "title": "Kayrros sale signals rising demand for satellite intelligence amid Hormuz crisis",
+          "link": "https://spacenews.com/kayrros-sale-signals-rising-demand-for-satellite-intelligence-amid-hormuz-crisis/",
+          "date": "Mon, 16 Mar 2026 21:47:33 +0000"
+        },
+        {
+          "title": "Strait of Hormuz crisis drives demand for commercial geospatial intelligence",
+          "link": "https://spacenews.com/strait-of-hormuz-crisis-drives-demand-for-commercial-geospatial-intelligence/",
+          "date": "Sun, 15 Mar 2026 15:06:01 +0000"
+        },
+        {
+          "title": "Another Earth raises $4 million to boost AI training with synthetic satellite data",
+          "link": "https://spacenews.com/another-earth-raises-4-million-to-boost-ai-training-with-synthetic-satellite-data/",
+          "date": "Thu, 12 Mar 2026 16:10:25 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "Artificial Intelligence \u2013 Futurism",
