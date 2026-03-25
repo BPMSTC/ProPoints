@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-25T20:35:50.707460+00:00",
+  "generatedAt": "2026-03-25T21:36:26.945496+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -102,6 +102,16 @@
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [
         {
+          "title": "Fivetran Selected by WM New Zealand to Power an AI-Ready Data Foundation",
+          "link": "https://ai-techpark.com/fivetran-selected-by-wm-new-zealand-to-power-an-ai-ready-data-foundation/",
+          "date": "Wed, 25 Mar 2026 10:45:00 +0000"
+        },
+        {
+          "title": "Avahi Wins 2026 Artificial Intelligence Excellence Award in Agentic AI",
+          "link": "https://ai-techpark.com/avahi-wins-2026-artificial-intelligence-excellence-award-in-agentic-ai/",
+          "date": "Wed, 25 Mar 2026 09:45:00 +0000"
+        },
+        {
           "title": "Vectra AI Advances Observability with Proactive Exposure Mgmt",
           "link": "https://ai-techpark.com/vectra-ai-advances-observability-with-proactive-exposure-mgmt/",
           "date": "Wed, 25 Mar 2026 07:40:41 +0000"
@@ -115,16 +125,6 @@
           "title": "SiMa.ai Introduces Modalix PCIe HHHL Card",
           "link": "https://ai-techpark.com/sima-ai-introduces-modalix-pcie-hhhl-card/",
           "date": "Tue, 24 Mar 2026 12:45:00 +0000"
-        },
-        {
-          "title": "RSA Launches ID Plus Sovereign Deployment",
-          "link": "https://ai-techpark.com/rsa-launches-id-plus-sovereign-deployment/",
-          "date": "Tue, 24 Mar 2026 11:00:00 +0000"
-        },
-        {
-          "title": "Teleport Launches Beams, Trusted Agent Runtimes For Infrastructure",
-          "link": "https://ai-techpark.com/teleport-launches-beams-trusted-agent-runtimes-for-infrastructure/",
-          "date": "Mon, 23 Mar 2026 16:45:00 +0000"
         }
       ],
       "error": null
@@ -176,8 +176,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Ocorian: Family offices turn to AI for financial data insights",
+          "link": "https://www.artificialintelligence-news.com/news/ocorian-family-offices-ai-for-financial-data-insights/",
+          "date": "Wed, 25 Mar 2026 14:58:29 +0000"
+        },
+        {
+          "title": "AI agents enter banking roles at Bank of America",
+          "link": "https://www.artificialintelligence-news.com/news/ai-agents-enter-banking-roles-at-bank-of-america/",
+          "date": "Wed, 25 Mar 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Automating complex finance workflows with multimodal AI",
+          "link": "https://www.artificialintelligence-news.com/news/automating-complex-finance-workflows-with-multimodal-ai/",
+          "date": "Tue, 24 Mar 2026 17:03:48 +0000"
+        },
+        {
+          "title": "Securing AI systems under today\u2019s and tomorrow\u2019s conditions",
+          "link": "https://www.artificialintelligence-news.com/news/quantum-resilient-ai-needs-migration-and-hardware-protected-data-enclaves/",
+          "date": "Tue, 24 Mar 2026 15:22:00 +0000"
+        },
+        {
+          "title": "Palantir AI to support UK finance operations",
+          "link": "https://www.artificialintelligence-news.com/news/palantir-ai-to-support-uk-finance-operations/",
+          "date": "Mon, 23 Mar 2026 13:14:23 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -316,6 +342,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Here is NASA's plan for nuking Gateway and sending it to Mars",
+          "link": "https://arstechnica.com/space/2026/03/here-is-nasas-plan-for-nuking-gateway-and-sending-it-to-mars/",
+          "date": "Wed, 25 Mar 2026 20:21:51 +0000"
+        },
+        {
+          "title": "Reddit will require \"fishy\" accounts to verify they are run by a human",
+          "link": "https://arstechnica.com/gadgets/2026/03/reddit-will-require-fishy-accounts-to-verify-they-are-run-by-a-human/",
+          "date": "Wed, 25 Mar 2026 20:04:57 +0000"
+        },
+        {
+          "title": "We got an audience with the \"Lunar Viceroy\" to talk how NASA will build a Moon base",
+          "link": "https://arstechnica.com/space/2026/03/we-got-an-audience-with-the-lunar-viceroy-to-talk-how-nasa-will-build-a-moon-base/",
+          "date": "Wed, 25 Mar 2026 19:21:57 +0000"
+        },
+        {
           "title": "Meta, YouTube must pay $3M to woman who got hooked on apps as a child",
           "link": "https://arstechnica.com/tech-policy/2026/03/meta-youtube-must-pay-3m-to-woman-who-got-hooked-on-apps-as-a-child/",
           "date": "Wed, 25 Mar 2026 19:03:36 +0000"
@@ -324,21 +365,6 @@
           "title": "Nintendo is raising prices of Switch 2 game cartridges starting in May",
           "link": "https://arstechnica.com/gaming/2026/03/nintendo-will-start-charging-more-for-physical-switch-2-games-than-digital-copies/",
           "date": "Wed, 25 Mar 2026 18:57:43 +0000"
-        },
-        {
-          "title": "Supreme Court rejects Sony's attempt to kick music pirates off the Internet",
-          "link": "https://arstechnica.com/tech-policy/2026/03/supreme-court-rejects-sonys-attempt-to-kick-music-pirates-off-the-internet/",
-          "date": "Wed, 25 Mar 2026 18:25:13 +0000"
-        },
-        {
-          "title": "Google's TurboQuant AI-compression algorithm can reduce LLM memory usage by 6x",
-          "link": "https://arstechnica.com/ai/2026/03/google-says-new-turboquant-compression-can-lower-ai-memory-usage-without-sacrificing-quality/",
-          "date": "Wed, 25 Mar 2026 17:59:12 +0000"
-        },
-        {
-          "title": "Antibiotic resistance among germs swells during droughts, study suggests",
-          "link": "https://arstechnica.com/health/2026/03/antibiotic-resistance-among-germs-swells-during-droughts-study-suggests/",
-          "date": "Wed, 25 Mar 2026 17:49:03 +0000"
         }
       ],
       "error": null
@@ -348,14 +374,14 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "Palantir\u2019s billionaire CEO says only two kinds of people will succeed in the AI era: trade workers \u2014 \u2018or you\u2019re neurodivergent\u2019",
-          "link": "https://www.reddit.com/r/artificial/comments/1s3e23d/palantirs_billionaire_ceo_says_only_two_kinds_of/",
-          "date": "2026-03-25T15:32:01+00:00"
-        },
-        {
           "title": "Open-source AI system on a $500 GPU outperforms Claude Sonnet on coding benchmarks",
           "link": "https://www.reddit.com/r/artificial/comments/1s2yg3y/opensource_ai_system_on_a_500_gpu_outperforms/",
           "date": "2026-03-25T02:28:53+00:00"
+        },
+        {
+          "title": "Anyone actually building persistent agent behavior?? existential crisis rant, tnx.",
+          "link": "https://www.reddit.com/r/artificial/comments/1s3n70t/anyone_actually_building_persistent_agent/",
+          "date": "2026-03-25T21:00:47+00:00"
         },
         {
           "title": "Co-founder of the Center for Humane Technology, Tristan Harris, speaking with podcast host Nate Hagens about the multiple nuanced risks and promises of A.I.",
@@ -368,9 +394,9 @@
           "date": "2026-03-25T06:57:14+00:00"
         },
         {
-          "title": "Getting AI to explain western mystical 2v2 chess",
-          "link": "https://www.reddit.com/r/artificial/comments/1s3la2l/getting_ai_to_explain_western_mystical_2v2_chess/",
-          "date": "2026-03-25T19:51:11+00:00"
+          "title": "OpenAI just gave up on Sora and its billion-dollar Disney deal",
+          "link": "https://www.reddit.com/r/artificial/comments/1s2s468/openai_just_gave_up_on_sora_and_its_billiondollar/",
+          "date": "2026-03-24T22:08:45+00:00"
         }
       ],
       "error": null
@@ -414,7 +440,7 @@
         {
           "title": "Bernie Sanders and AOC introduce bill to pause building of new datacenters",
           "link": "https://www.theguardian.com/us-news/2026/mar/25/datacenters-bernie-sanders-aoc",
-          "date": "Wed, 25 Mar 2026 19:55:08 GMT"
+          "date": "Wed, 25 Mar 2026 20:47:10 GMT"
         },
         {
           "title": "Tell us: have you used AI to plan a holiday?",
@@ -442,8 +468,34 @@
     {
       "name": "artificial intelligence Archives - SpaceNews",
       "url": "https://spacenews.com/tag/artificial-intelligence/feed/",
-      "items": [],
-      "error": "<unknown>:47:3: mismatched tag"
+      "items": [
+        {
+          "title": "Sift raises $42 million in Series B round",
+          "link": "https://spacenews.com/sift-raises-42-million-in-series-b-round/",
+          "date": "Wed, 25 Mar 2026 15:14:02 +0000"
+        },
+        {
+          "title": "Kayhan targets investors, insurers with expanded orbital intelligence platform",
+          "link": "https://spacenews.com/kayhan-targets-investors-insurers-with-expanded-orbital-intelligence-platform/",
+          "date": "Fri, 20 Mar 2026 11:00:00 +0000"
+        },
+        {
+          "title": "Kayrros sale signals rising demand for satellite intelligence amid Hormuz crisis",
+          "link": "https://spacenews.com/kayrros-sale-signals-rising-demand-for-satellite-intelligence-amid-hormuz-crisis/",
+          "date": "Mon, 16 Mar 2026 21:47:33 +0000"
+        },
+        {
+          "title": "Strait of Hormuz crisis drives demand for commercial geospatial intelligence",
+          "link": "https://spacenews.com/strait-of-hormuz-crisis-drives-demand-for-commercial-geospatial-intelligence/",
+          "date": "Sun, 15 Mar 2026 15:06:01 +0000"
+        },
+        {
+          "title": "Another Earth raises $4 million to boost AI training with synthetic satellite data",
+          "link": "https://spacenews.com/another-earth-raises-4-million-to-boost-ai-training-with-synthetic-satellite-data/",
+          "date": "Thu, 12 Mar 2026 16:10:25 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "Artificial Intelligence \u2013 Futurism",
