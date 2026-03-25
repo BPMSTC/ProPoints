@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-25T19:47:15.210806+00:00",
+  "generatedAt": "2026-03-25T20:35:50.707460+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -176,34 +176,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "Ocorian: Family offices turn to AI for financial data insights",
-          "link": "https://www.artificialintelligence-news.com/news/ocorian-family-offices-ai-for-financial-data-insights/",
-          "date": "Wed, 25 Mar 2026 14:58:29 +0000"
-        },
-        {
-          "title": "AI agents enter banking roles at Bank of America",
-          "link": "https://www.artificialintelligence-news.com/news/ai-agents-enter-banking-roles-at-bank-of-america/",
-          "date": "Wed, 25 Mar 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Automating complex finance workflows with multimodal AI",
-          "link": "https://www.artificialintelligence-news.com/news/automating-complex-finance-workflows-with-multimodal-ai/",
-          "date": "Tue, 24 Mar 2026 17:03:48 +0000"
-        },
-        {
-          "title": "Securing AI systems under today\u2019s and tomorrow\u2019s conditions",
-          "link": "https://www.artificialintelligence-news.com/news/quantum-resilient-ai-needs-migration-and-hardware-protected-data-enclaves/",
-          "date": "Tue, 24 Mar 2026 15:22:00 +0000"
-        },
-        {
-          "title": "Palantir AI to support UK finance operations",
-          "link": "https://www.artificialintelligence-news.com/news/palantir-ai-to-support-uk-finance-operations/",
-          "date": "Mon, 23 Mar 2026 13:14:23 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -384,19 +358,19 @@
           "date": "2026-03-25T02:28:53+00:00"
         },
         {
+          "title": "Co-founder of the Center for Humane Technology, Tristan Harris, speaking with podcast host Nate Hagens about the multiple nuanced risks and promises of A.I.",
+          "link": "https://www.reddit.com/r/artificial/comments/1s3m22x/cofounder_of_the_center_for_humane_technology/",
+          "date": "2026-03-25T20:18:59+00:00"
+        },
+        {
           "title": "How AI is helping geologists identify thousands of slopes at high risk of slipping",
           "link": "https://www.reddit.com/r/artificial/comments/1s33jxs/how_ai_is_helping_geologists_identify_thousands/",
           "date": "2026-03-25T06:57:14+00:00"
         },
         {
-          "title": "OpenAI just gave up on Sora and its billion-dollar Disney deal",
-          "link": "https://www.reddit.com/r/artificial/comments/1s2s468/openai_just_gave_up_on_sora_and_its_billiondollar/",
-          "date": "2026-03-24T22:08:45+00:00"
-        },
-        {
-          "title": "A better method for identifying overconfident large language models",
-          "link": "https://www.reddit.com/r/artificial/comments/1s3iczv/a_better_method_for_identifying_overconfident/",
-          "date": "2026-03-25T18:06:16+00:00"
+          "title": "Getting AI to explain western mystical 2v2 chess",
+          "link": "https://www.reddit.com/r/artificial/comments/1s3la2l/getting_ai_to_explain_western_mystical_2v2_chess/",
+          "date": "2026-03-25T19:51:11+00:00"
         }
       ],
       "error": null
@@ -438,14 +412,14 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Bernie Sanders and AOC introduce bill to pause building of new datacenters",
+          "link": "https://www.theguardian.com/us-news/2026/mar/25/datacenters-bernie-sanders-aoc",
+          "date": "Wed, 25 Mar 2026 19:55:08 GMT"
+        },
+        {
           "title": "Tell us: have you used AI to plan a holiday?",
           "link": "https://www.theguardian.com/travel/2026/mar/25/tell-us-have-you-used-ai-to-plan-a-holiday",
           "date": "Wed, 25 Mar 2026 12:40:19 GMT"
-        },
-        {
-          "title": "Bernie Sanders and AOC introduce bill to pause building of new datacenters",
-          "link": "https://www.theguardian.com/us-news/2026/mar/25/datacenters-bernie-sanders-aoc",
-          "date": "Wed, 25 Mar 2026 11:00:05 GMT"
         },
         {
           "title": "OpenAI shutters AI video generator Sora in abrupt announcement",
@@ -468,34 +442,8 @@
     {
       "name": "artificial intelligence Archives - SpaceNews",
       "url": "https://spacenews.com/tag/artificial-intelligence/feed/",
-      "items": [
-        {
-          "title": "Sift raises $42 million in Series B round",
-          "link": "https://spacenews.com/sift-raises-42-million-in-series-b-round/",
-          "date": "Wed, 25 Mar 2026 15:14:02 +0000"
-        },
-        {
-          "title": "Kayhan targets investors, insurers with expanded orbital intelligence platform",
-          "link": "https://spacenews.com/kayhan-targets-investors-insurers-with-expanded-orbital-intelligence-platform/",
-          "date": "Fri, 20 Mar 2026 11:00:00 +0000"
-        },
-        {
-          "title": "Kayrros sale signals rising demand for satellite intelligence amid Hormuz crisis",
-          "link": "https://spacenews.com/kayrros-sale-signals-rising-demand-for-satellite-intelligence-amid-hormuz-crisis/",
-          "date": "Mon, 16 Mar 2026 21:47:33 +0000"
-        },
-        {
-          "title": "Strait of Hormuz crisis drives demand for commercial geospatial intelligence",
-          "link": "https://spacenews.com/strait-of-hormuz-crisis-drives-demand-for-commercial-geospatial-intelligence/",
-          "date": "Sun, 15 Mar 2026 15:06:01 +0000"
-        },
-        {
-          "title": "Another Earth raises $4 million to boost AI training with synthetic satellite data",
-          "link": "https://spacenews.com/another-earth-raises-4-million-to-boost-ai-training-with-synthetic-satellite-data/",
-          "date": "Thu, 12 Mar 2026 16:10:25 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:47:3: mismatched tag"
     },
     {
       "name": "Artificial Intelligence \u2013 Futurism",
