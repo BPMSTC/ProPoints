@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-25T01:58:37.102232+00:00",
+  "generatedAt": "2026-03-25T04:25:34.983816+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -374,6 +374,11 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
+          "title": "Open-source AI system on a $500 GPU outperforms Claude Sonnet on coding benchmarks",
+          "link": "https://www.reddit.com/r/artificial/comments/1s2yg3y/opensource_ai_system_on_a_500_gpu_outperforms/",
+          "date": "2026-03-25T02:28:53+00:00"
+        },
+        {
           "title": "OpenAI just gave up on Sora and its billion-dollar Disney deal",
           "link": "https://www.reddit.com/r/artificial/comments/1s2s468/openai_just_gave_up_on_sora_and_its_billiondollar/",
           "date": "2026-03-24T22:08:45+00:00"
@@ -384,19 +389,14 @@
           "date": "2026-03-24T13:12:00+00:00"
         },
         {
-          "title": "I tested ChatGPT vs Claude vs Gemini for coding ...here's what I found",
-          "link": "https://www.reddit.com/r/artificial/comments/1s2ovhc/i_tested_chatgpt_vs_claude_vs_gemini_for_coding/",
-          "date": "2026-03-24T20:08:07+00:00"
+          "title": "TurboQuant: Redefining AI efficiency with extreme compression",
+          "link": "https://www.reddit.com/r/artificial/comments/1s2y0gy/turboquant_redefining_ai_efficiency_with_extreme/",
+          "date": "2026-03-25T02:09:59+00:00"
         },
         {
-          "title": "When Deepfakes Become Doctrine",
-          "link": "https://www.reddit.com/r/artificial/comments/1s2tx4c/when_deepfakes_become_doctrine/",
-          "date": "2026-03-24T23:17:51+00:00"
-        },
-        {
-          "title": "I wrote a contract to stop AI from guessing when writing code",
-          "link": "https://www.reddit.com/r/artificial/comments/1s2eimz/i_wrote_a_contract_to_stop_ai_from_guessing_when/",
-          "date": "2026-03-24T13:57:36+00:00"
+          "title": "I built a formal state machine to model how online arguments escalate \u2014 IDDS 2.1",
+          "link": "https://www.reddit.com/r/artificial/comments/1s2yzgb/i_built_a_formal_state_machine_to_model_how/",
+          "date": "2026-03-25T02:53:23+00:00"
         }
       ],
       "error": null
@@ -405,6 +405,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Australia\u2019s new military AI policy comes at a crucial time. The challenge is turning it into practice",
+          "link": "https://theconversation.com/australias-new-military-ai-policy-comes-at-a-crucial-time-the-challenge-is-turning-it-into-practice-278992",
+          "date": "2026-03-25T02:53:31Z"
+        },
         {
           "title": "Drones paired with AI could help search-and-rescue teams find missing persons faster",
           "link": "https://theconversation.com/drones-paired-with-ai-could-help-search-and-rescue-teams-find-missing-persons-faster-274819",
@@ -424,11 +429,6 @@
           "title": "Politics with Michelle Grattan: Rory Medcalf on Australians\u2019 growing national security fears",
           "link": "https://theconversation.com/politics-with-michelle-grattan-rory-medcalf-on-australians-growing-national-security-fears-278984",
           "date": "2026-03-23T07:42:39Z"
-        },
-        {
-          "title": "Using your AI chatbot as a search engine? Be careful what you believe",
-          "link": "https://theconversation.com/using-your-ai-chatbot-as-a-search-engine-be-careful-what-you-believe-277616",
-          "date": "2026-03-22T22:20:08Z"
         }
       ],
       "error": null
