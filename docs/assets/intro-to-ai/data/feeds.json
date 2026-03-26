@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-26T22:27:14.347719+00:00",
+  "generatedAt": "2026-03-26T23:29:28.923653+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -417,6 +417,11 @@
           "date": "Thu, 26 Mar 2026 12:00:37 GMT"
         },
         {
+          "title": "Federal judge sides with Anthropic in first round of standoff with Pentagon",
+          "link": "https://www.theguardian.com/us-news/2026/mar/26/anthropic-ai-pentagon",
+          "date": "Thu, 26 Mar 2026 23:17:34 GMT"
+        },
+        {
           "title": "New York City hospitals drop Palantir as controversial AI firm expands in UK",
           "link": "https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai",
           "date": "Thu, 26 Mar 2026 18:34:07 GMT"
@@ -430,11 +435,6 @@
           "title": "Charity Commission warns Alan Turing Institute of its legal duties after complaints",
           "link": "https://www.theguardian.com/technology/2026/mar/26/charity-commission-warns-alan-turing-institute-of-its-legal-duties-after-complaints",
           "date": "Thu, 26 Mar 2026 06:00:28 GMT"
-        },
-        {
-          "title": "Melania Trump and AI powered robot named 'Figure 3' open White House summit \u2013 video",
-          "link": "https://www.theguardian.com/technology/video/2026/mar/26/melania-trump-and-ai-powered-robot-named-figure-3-open-white-house-summit-video",
-          "date": "Thu, 26 Mar 2026 02:20:13 GMT"
         }
       ],
       "error": null
@@ -442,34 +442,8 @@
     {
       "name": "artificial intelligence Archives - SpaceNews",
       "url": "https://spacenews.com/tag/artificial-intelligence/feed/",
-      "items": [
-        {
-          "title": "Sift raises $42 million in Series B round",
-          "link": "https://spacenews.com/sift-raises-42-million-in-series-b-round/",
-          "date": "Wed, 25 Mar 2026 15:14:02 +0000"
-        },
-        {
-          "title": "Kayhan targets investors, insurers with expanded orbital intelligence platform",
-          "link": "https://spacenews.com/kayhan-targets-investors-insurers-with-expanded-orbital-intelligence-platform/",
-          "date": "Fri, 20 Mar 2026 11:00:00 +0000"
-        },
-        {
-          "title": "Kayrros sale signals rising demand for satellite intelligence amid Hormuz crisis",
-          "link": "https://spacenews.com/kayrros-sale-signals-rising-demand-for-satellite-intelligence-amid-hormuz-crisis/",
-          "date": "Mon, 16 Mar 2026 21:47:33 +0000"
-        },
-        {
-          "title": "Strait of Hormuz crisis drives demand for commercial geospatial intelligence",
-          "link": "https://spacenews.com/strait-of-hormuz-crisis-drives-demand-for-commercial-geospatial-intelligence/",
-          "date": "Sun, 15 Mar 2026 15:06:01 +0000"
-        },
-        {
-          "title": "Another Earth raises $4 million to boost AI training with synthetic satellite data",
-          "link": "https://spacenews.com/another-earth-raises-4-million-to-boost-ai-training-with-synthetic-satellite-data/",
-          "date": "Thu, 12 Mar 2026 16:10:25 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:39: junk after document element"
     },
     {
       "name": "Artificial Intelligence \u2013 Futurism",
