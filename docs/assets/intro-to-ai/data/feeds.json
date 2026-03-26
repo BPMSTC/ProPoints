@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-26T20:33:26.063669+00:00",
+  "generatedAt": "2026-03-26T21:29:17.341965+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Cohere Unveils Open Source Speech Model for Edge Devices",
+          "link": "https://aibusiness.com/language-models/cohere-transcribe-open-source-small-speech-model-edge-devices",
+          "date": "Thu, 26 Mar 2026 20:43:12 GMT"
+        },
+        {
           "title": "Europe\u2019s First Robotaxis Coming to Croatia via Uber, Pony.ai and Verne",
           "link": "https://aibusiness.com/generative-ai/europe-s-first-robotaxis-coming-croatia-uber-pony-ai-and-verne",
           "date": "Thu, 26 Mar 2026 16:07:23 GMT"
@@ -132,11 +137,6 @@
           "title": "OpenAI Needed to Cut Sora for Enterprise Strategy",
           "link": "https://aibusiness.com/generative-ai/openai-needed-to-cut-sora-for-enterprise",
           "date": "Wed, 25 Mar 2026 18:20:17 GMT"
-        },
-        {
-          "title": "Google Partners With Agile Robots in Latest AI Robotics Push",
-          "link": "https://aibusiness.com/robotics/google-partners-with-agile-robots-in-ai-robotics-push",
-          "date": "Wed, 25 Mar 2026 17:10:34 GMT"
         }
       ],
       "error": null
@@ -442,39 +442,18 @@
     {
       "name": "artificial intelligence Archives - SpaceNews",
       "url": "https://spacenews.com/tag/artificial-intelligence/feed/",
-      "items": [
-        {
-          "title": "Sift raises $42 million in Series B round",
-          "link": "https://spacenews.com/sift-raises-42-million-in-series-b-round/",
-          "date": "Wed, 25 Mar 2026 15:14:02 +0000"
-        },
-        {
-          "title": "Kayhan targets investors, insurers with expanded orbital intelligence platform",
-          "link": "https://spacenews.com/kayhan-targets-investors-insurers-with-expanded-orbital-intelligence-platform/",
-          "date": "Fri, 20 Mar 2026 11:00:00 +0000"
-        },
-        {
-          "title": "Kayrros sale signals rising demand for satellite intelligence amid Hormuz crisis",
-          "link": "https://spacenews.com/kayrros-sale-signals-rising-demand-for-satellite-intelligence-amid-hormuz-crisis/",
-          "date": "Mon, 16 Mar 2026 21:47:33 +0000"
-        },
-        {
-          "title": "Strait of Hormuz crisis drives demand for commercial geospatial intelligence",
-          "link": "https://spacenews.com/strait-of-hormuz-crisis-drives-demand-for-commercial-geospatial-intelligence/",
-          "date": "Sun, 15 Mar 2026 15:06:01 +0000"
-        },
-        {
-          "title": "Another Earth raises $4 million to boost AI training with synthetic satellite data",
-          "link": "https://spacenews.com/another-earth-raises-4-million-to-boost-ai-training-with-synthetic-satellite-data/",
-          "date": "Thu, 12 Mar 2026 16:10:25 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:47:3: mismatched tag"
     },
     {
       "name": "Artificial Intelligence \u2013 Futurism",
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
+        {
+          "title": "Meta\u2019s Big Court Defeat Has Huge Implications for Lawsuits Against the AI Industry",
+          "link": "https://futurism.com/artificial-intelligence/meta-court-defeat-ai-industry",
+          "date": "Thu, 26 Mar 2026 17:12:35 -0400"
+        },
         {
           "title": "OpenClaw Bots Are a Security Disaster",
           "link": "https://futurism.com/artificial-intelligence/openclaw-bots-security-disaster",
@@ -494,11 +473,6 @@
           "title": "With the Metaverse Canceled and Zuckerberg Training AI to Run the Company, Meta Is Slashing Its Headcount",
           "link": "https://futurism.com/artificial-intelligence/meta-layoffs-zuckerberg-ai",
           "date": "Thu, 26 Mar 2026 13:01:01 -0400"
-        },
-        {
-          "title": "Those Viral Posts About the Brave Kidnapped Dogs Escaping and Finding Their Homes Together Are Fake, You Gullible Buffoons",
-          "link": "https://futurism.com/artificial-intelligence/viral-posts-kidnapped-dogs-escaping-fake",
-          "date": "Thu, 26 Mar 2026 12:00:57 -0400"
         }
       ],
       "error": null
