@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-26T23:29:28.923653+00:00",
+  "generatedAt": "2026-03-27T02:06:16.132124+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -348,29 +348,29 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "Marriage over, \u20ac100,000 down the drain: the AI users whose lives were wrecked by delusion",
-          "link": "https://www.reddit.com/r/artificial/comments/1s44cgl/marriage_over_100000_down_the_drain_the_ai_users/",
-          "date": "2026-03-26T11:02:21+00:00"
-        },
-        {
           "title": "OpenAI shuts down Sora AI video app as Disney exits $1B partnership",
           "link": "https://www.reddit.com/r/artificial/comments/1s49l99/openai_shuts_down_sora_ai_video_app_as_disney/",
           "date": "2026-03-26T14:50:16+00:00"
         },
         {
+          "title": "Marriage over, \u20ac100,000 down the drain: the AI users whose lives were wrecked by delusion",
+          "link": "https://www.reddit.com/r/artificial/comments/1s44cgl/marriage_over_100000_down_the_drain_the_ai_users/",
+          "date": "2026-03-26T11:02:21+00:00"
+        },
+        {
+          "title": "CodexLib \u2014 compressed knowledge packs any AI can ingest instantly (100+ packs, 50 domains, REST API)",
+          "link": "https://www.reddit.com/r/artificial/comments/1s4phly/codexlib_compressed_knowledge_packs_any_ai_can/",
+          "date": "2026-03-27T00:49:45+00:00"
+        },
+        {
+          "title": "Claude's system prompt + XML tags is the most underused power combo right now",
+          "link": "https://www.reddit.com/r/artificial/comments/1s4odb8/claudes_system_prompt_xml_tags_is_the_most/",
+          "date": "2026-03-27T00:01:50+00:00"
+        },
+        {
           "title": "Pentagon formalizes Palantir's Maven AI as a core military system with multi-year funding \u2014 platform's investment grows to $13 billion from $480 million in 2024. The Pentagon is spending $13.4 billion on AI this year alone.",
           "link": "https://www.reddit.com/r/artificial/comments/1s3t064/pentagon_formalizes_palantirs_maven_ai_as_a_core/",
           "date": "2026-03-26T00:50:37+00:00"
-        },
-        {
-          "title": "do you think AI can replace human tutors in language learning?",
-          "link": "https://www.reddit.com/r/artificial/comments/1s4by8l/do_you_think_ai_can_replace_human_tutors_in/",
-          "date": "2026-03-26T16:14:48+00:00"
-        },
-        {
-          "title": "Meta just acqui-hired its 4th AI startup in 4 months. Dreamer, Manus, Moltbook, and Scale AI's founder. Is anyone else watching this pattern?",
-          "link": "https://www.reddit.com/r/artificial/comments/1s3xr4l/meta_just_acquihired_its_4th_ai_startup_in_4/",
-          "date": "2026-03-26T04:31:29+00:00"
         }
       ],
       "error": null
@@ -417,14 +417,14 @@
           "date": "Thu, 26 Mar 2026 12:00:37 GMT"
         },
         {
+          "title": "New York City hospitals drop Palantir as controversial AI firm expands in UK",
+          "link": "https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai",
+          "date": "Thu, 26 Mar 2026 23:48:36 GMT"
+        },
+        {
           "title": "Federal judge sides with Anthropic in first round of standoff with Pentagon",
           "link": "https://www.theguardian.com/us-news/2026/mar/26/anthropic-ai-pentagon",
           "date": "Thu, 26 Mar 2026 23:17:34 GMT"
-        },
-        {
-          "title": "New York City hospitals drop Palantir as controversial AI firm expands in UK",
-          "link": "https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai",
-          "date": "Thu, 26 Mar 2026 18:34:07 GMT"
         },
         {
           "title": "Marriage over, \u20ac100,000 down the drain: the AI users whose lives were wrecked by delusion",
@@ -442,8 +442,34 @@
     {
       "name": "artificial intelligence Archives - SpaceNews",
       "url": "https://spacenews.com/tag/artificial-intelligence/feed/",
-      "items": [],
-      "error": "<unknown>:2:39: junk after document element"
+      "items": [
+        {
+          "title": "Sift raises $42 million in Series B round",
+          "link": "https://spacenews.com/sift-raises-42-million-in-series-b-round/",
+          "date": "Wed, 25 Mar 2026 15:14:02 +0000"
+        },
+        {
+          "title": "Kayhan targets investors, insurers with expanded orbital intelligence platform",
+          "link": "https://spacenews.com/kayhan-targets-investors-insurers-with-expanded-orbital-intelligence-platform/",
+          "date": "Fri, 20 Mar 2026 11:00:00 +0000"
+        },
+        {
+          "title": "Kayrros sale signals rising demand for satellite intelligence amid Hormuz crisis",
+          "link": "https://spacenews.com/kayrros-sale-signals-rising-demand-for-satellite-intelligence-amid-hormuz-crisis/",
+          "date": "Mon, 16 Mar 2026 21:47:33 +0000"
+        },
+        {
+          "title": "Strait of Hormuz crisis drives demand for commercial geospatial intelligence",
+          "link": "https://spacenews.com/strait-of-hormuz-crisis-drives-demand-for-commercial-geospatial-intelligence/",
+          "date": "Sun, 15 Mar 2026 15:06:01 +0000"
+        },
+        {
+          "title": "Another Earth raises $4 million to boost AI training with synthetic satellite data",
+          "link": "https://spacenews.com/another-earth-raises-4-million-to-boost-ai-training-with-synthetic-satellite-data/",
+          "date": "Thu, 12 Mar 2026 16:10:25 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "Artificial Intelligence \u2013 Futurism",
@@ -482,6 +508,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Anthropic Supply-Chain-Risk Designation Halted by Judge",
+          "link": "https://www.wired.com/story/anthropic-supply-chain-risk-designation-injunction/",
+          "date": "Thu, 26 Mar 2026 23:33:05 +0000"
+        },
+        {
           "title": "Meet the Tech Reporters Using AI to Help Write and Edit Their Stories",
           "link": "https://www.wired.com/story/tech-reporters-using-ai-write-edit-stories/",
           "date": "Thu, 26 Mar 2026 18:00:00 +0000"
@@ -500,11 +531,6 @@
           "title": "There\u2019s Something Very Dark About a Lot of Those Viral AI Fruit Videos",
           "link": "https://www.wired.com/story/theres-something-very-dark-about-a-lot-of-those-viral-ai-fruit-videos/",
           "date": "Wed, 25 Mar 2026 18:49:40 +0000"
-        },
-        {
-          "title": "OpenClaw Agents Can Be Guilt-Tripped Into Self-Sabotage",
-          "link": "https://www.wired.com/story/openclaw-ai-agent-manipulation-security-northeastern-study/",
-          "date": "Wed, 25 Mar 2026 18:00:00 +0000"
         }
       ],
       "error": null
