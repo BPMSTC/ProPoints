@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-03-28T12:50:28.695399+00:00",
+  "generatedAt": "2026-03-28T13:49:44.276130+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Scientists Discover Giant \u2018Cavity\u2019 Beyond Earth That Isn\u2019t Supposed to Exist",
+          "link": "https://www.404media.co/scientists-discover-giant-cavity-beyond-earth-that-isnt-supposed-to-exist/",
+          "date": "Sat, 28 Mar 2026 13:00:27 GMT"
+        },
         {
           "title": "Slopaganda and Sora, lol",
           "link": "https://www.404media.co/slopaganda-and-sora-lol-2/",
@@ -24,11 +29,6 @@
           "title": "Wikipedia Bans AI-Generated Content",
           "link": "https://www.404media.co/wikipedia-bans-ai-generated-content/",
           "date": "Thu, 26 Mar 2026 16:13:09 GMT"
-        },
-        {
-          "title": "Police Used Flock to Give a Man a Traffic Ticket",
-          "link": "https://www.404media.co/police-used-flock-to-give-a-man-a-traffic-ticket/",
-          "date": "Thu, 26 Mar 2026 15:04:32 GMT"
         }
       ],
       "error": null
@@ -316,7 +316,12 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Getting formal about quantum mechanics' lack of causality",
+          "title": "Explanation for why we don't see two-foot-long dragonflies anymore fails",
+          "link": "https://arstechnica.com/science/2026/03/leading-explanation-for-ancient-giant-flying-insects-gets-squashed/",
+          "date": "Sat, 28 Mar 2026 12:30:43 +0000"
+        },
+        {
+          "title": "Causality optional? Testing the \"indefinite causal order\" superposition",
           "link": "https://arstechnica.com/science/2026/03/getting-formal-about-quantum-mechanics-lack-of-causality/",
           "date": "Sat, 28 Mar 2026 12:00:31 +0000"
         },
@@ -334,11 +339,6 @@
           "title": "With new plugins feature, OpenAI officially takes Codex beyond coding",
           "link": "https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/",
           "date": "Fri, 27 Mar 2026 21:53:45 +0000"
-        },
-        {
-          "title": "Outbreak linked to raw cheese grows; 9 cases total, one with kidney failure",
-          "link": "https://arstechnica.com/health/2026/03/kidney-failure-case-reported-in-raw-cheese-outbreak-maker-still-denies-link/",
-          "date": "Fri, 27 Mar 2026 21:43:00 +0000"
         }
       ],
       "error": null
@@ -348,29 +348,29 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "Say No to Congress using AI to mass surveil US Citizens and oppose the extension of the FISA Act",
-          "link": "https://www.reddit.com/r/artificial/comments/1s5onmr/say_no_to_congress_using_ai_to_mass_surveil_us/",
-          "date": "2026-03-28T02:46:53+00:00"
+          "title": "Is AI becoming a bubble, and could it end like the dot-com crash?",
+          "link": "https://www.reddit.com/r/artificial/comments/1s1bnj0/is_ai_becoming_a_bubble_and_could_it_end_like_the/",
+          "date": "2026-03-23T09:00:03+00:00"
         },
         {
-          "title": "Looking for a solid ChatGPT alternative for daily work",
-          "link": "https://www.reddit.com/r/artificial/comments/1s5v317/looking_for_a_solid_chatgpt_alternative_for_daily/",
-          "date": "2026-03-28T08:43:11+00:00"
+          "title": "what if we don't have to choose between AI and Humans...",
+          "link": "https://www.reddit.com/r/artificial/comments/1s1kiag/what_if_we_dont_have_to_choose_between_ai_and/",
+          "date": "2026-03-23T15:46:25+00:00"
         },
         {
-          "title": "Meet Claude Mythos: Leaked Anthropic post reveals the powerful upcoming model",
-          "link": "https://www.reddit.com/r/artificial/comments/1s5hejt/meet_claude_mythos_leaked_anthropic_post_reveals/",
-          "date": "2026-03-27T21:35:26+00:00"
+          "title": "How to build CLI tool + skill to work longer without compacting",
+          "link": "https://www.reddit.com/r/artificial/comments/1s1jpxt/how_to_build_cli_tool_skill_to_work_longer/",
+          "date": "2026-03-23T15:17:21+00:00"
         },
         {
-          "title": "Nobody\u2019s talking about what Pixar\u2019s Hoppers is actually saying about AI",
-          "link": "https://www.reddit.com/r/artificial/comments/1s5rlc5/nobodys_talking_about_what_pixars_hoppers_is/",
-          "date": "2026-03-28T05:15:12+00:00"
+          "title": "UK cops suspend live facial recog as study finds racial bias",
+          "link": "https://www.reddit.com/r/artificial/comments/1s1d6tz/uk_cops_suspend_live_facial_recog_as_study_finds/",
+          "date": "2026-03-23T10:32:18+00:00"
         },
         {
-          "title": "Is anyone else watching what Qubic is doing with distributed compute and AI training? Seems underreported in AI cirles",
-          "link": "https://www.reddit.com/r/artificial/comments/1s5x2wo/is_anyone_else_watching_what_qubic_is_doing_with/",
-          "date": "2026-03-28T10:45:27+00:00"
+          "title": "LLM failure modes map surprisingly well onto ADHD cognitive science. Six parallels from independent research.",
+          "link": "https://www.reddit.com/r/artificial/comments/1s0x54t/llm_failure_modes_map_surprisingly_well_onto_adhd/",
+          "date": "2026-03-22T20:59:29+00:00"
         }
       ],
       "error": null
@@ -476,6 +476,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Alarming Study Finds That Most People Just Do What ChatGPT Tells Them, Even If It\u2019s Totally Wrong",
+          "link": "https://futurism.com/artificial-intelligence/study-do-what-chatgpt-tells-us",
+          "date": "Sat, 28 Mar 2026 09:00:00 -0400"
+        },
+        {
           "title": "If Trump\u2019s War in Iran Spirals Into a Full-Blown Recession, It Could Crush the AI Industry and Spark a Catastrophic Polycrisis",
           "link": "https://futurism.com/artificial-intelligence/trump-economy-recession-ai",
           "date": "Sat, 28 Mar 2026 08:15:00 -0400"
@@ -494,11 +499,6 @@
           "title": "If Your Job Involves Using Your Brain, You May Be in Big Trouble, Tufts Report Finds",
           "link": "https://futurism.com/artificial-intelligence/jobs-brain-ai-tufts-report",
           "date": "Fri, 27 Mar 2026 10:07:49 -0400"
-        },
-        {
-          "title": "Meta\u2019s Big Court Defeat Has Huge Implications for Lawsuits Against the AI Industry",
-          "link": "https://futurism.com/artificial-intelligence/meta-court-defeat-ai-industry",
-          "date": "Thu, 26 Mar 2026 17:12:35 -0400"
         }
       ],
       "error": null
