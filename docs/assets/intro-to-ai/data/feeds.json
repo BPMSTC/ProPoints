@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-29T14:31:47.758291+00:00",
+  "generatedAt": "2026-03-29T15:28:41.109822+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "RPA matters, but AI changes how automation works",
-          "link": "https://www.artificialintelligence-news.com/news/rpa-still-matters-but-ai-is-changing-how-automation-works/",
-          "date": "Thu, 26 Mar 2026 09:11:08 +0000"
-        },
-        {
-          "title": "Ocorian: Family offices turn to AI for financial data insights",
-          "link": "https://www.artificialintelligence-news.com/news/ocorian-family-offices-ai-for-financial-data-insights/",
-          "date": "Wed, 25 Mar 2026 14:58:29 +0000"
-        },
-        {
-          "title": "AI agents enter banking roles at Bank of America",
-          "link": "https://www.artificialintelligence-news.com/news/ai-agents-enter-banking-roles-at-bank-of-america/",
-          "date": "Wed, 25 Mar 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Automating complex finance workflows with multimodal AI",
-          "link": "https://www.artificialintelligence-news.com/news/automating-complex-finance-workflows-with-multimodal-ai/",
-          "date": "Tue, 24 Mar 2026 17:03:48 +0000"
-        },
-        {
-          "title": "Securing AI systems under today\u2019s and tomorrow\u2019s conditions",
-          "link": "https://www.artificialintelligence-news.com/news/quantum-resilient-ai-needs-migration-and-hardware-protected-data-enclaves/",
-          "date": "Tue, 24 Mar 2026 15:22:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -363,14 +337,14 @@
           "date": "2026-03-28T23:51:38+00:00"
         },
         {
-          "title": "built an open source tool that auto generates AI context files for any codebase, 150 stars in",
-          "link": "https://www.reddit.com/r/artificial/comments/1s6pcue/built_an_open_source_tool_that_auto_generates_ai/",
-          "date": "2026-03-29T08:09:59+00:00"
-        },
-        {
           "title": "AI psychology",
           "link": "https://www.reddit.com/r/artificial/comments/1s6vs12/ai_psychology/",
           "date": "2026-03-29T13:57:19+00:00"
+        },
+        {
+          "title": "built an open source tool that auto generates AI context files for any codebase, 150 stars in",
+          "link": "https://www.reddit.com/r/artificial/comments/1s6pcue/built_an_open_source_tool_that_auto_generates_ai/",
+          "date": "2026-03-29T08:09:59+00:00"
         }
       ],
       "error": null
