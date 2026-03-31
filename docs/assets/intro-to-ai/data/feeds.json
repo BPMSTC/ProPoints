@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-31T20:43:32.752910+00:00",
+  "generatedAt": "2026-03-31T21:36:21.597836+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "SAP and ANYbotics drive industrial adoption of physical AI",
-          "link": "https://www.artificialintelligence-news.com/news/sap-and-anybotics-drive-industrial-adoption-physical-ai/",
-          "date": "Tue, 31 Mar 2026 15:20:53 +0000"
-        },
-        {
-          "title": "Secure governance accelerates financial AI revenue growth",
-          "link": "https://www.artificialintelligence-news.com/news/secure-governance-accelerates-financial-ai-revenue-growth/",
-          "date": "Mon, 30 Mar 2026 15:54:58 +0000"
-        },
-        {
-          "title": "Glia wins Excellence Award for safer AI in banking",
-          "link": "https://www.artificialintelligence-news.com/news/glia-wins-excellence-award-for-safer-ai-in-banking/",
-          "date": "Mon, 30 Mar 2026 14:12:59 +0000"
-        },
-        {
-          "title": "How AEO vs GEO reshapes AI-driven brand discovery in 2026",
-          "link": "https://www.artificialintelligence-news.com/news/how-aeo-vs-geo-reshapes-ai-driven-brand-discovery-in-2026/",
-          "date": "Mon, 30 Mar 2026 11:57:11 +0000"
-        },
-        {
-          "title": "Assessing AI powered price forecasting tools in currency markets",
-          "link": "https://www.artificialintelligence-news.com/news/assessing-ai-powered-price-forecasting-tools-in-currency-markets/",
-          "date": "Mon, 30 Mar 2026 11:49:38 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -316,29 +290,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "New quantum-computing advances heighten threat to elliptic curve cryptosystems",
+          "title": "He-Man gets an origin story in Masters of the Universe trailer",
+          "link": "https://arstechnica.com/culture/2026/03/he-man-gets-an-origin-story-in-masters-of-the-universe-trailer/",
+          "date": "Tue, 31 Mar 2026 20:26:39 +0000"
+        },
+        {
+          "title": "Sweaty, glassy-eyed Tiger Woods blames cell phone use for his car crash",
+          "link": "https://arstechnica.com/tech-policy/2026/03/sweaty-glassy-eyed-tiger-woods-blames-cell-phone-use-for-his-car-crash/",
+          "date": "Tue, 31 Mar 2026 20:00:20 +0000"
+        },
+        {
+          "title": "It's a race against time to save Krypto in Supergirl trailer",
+          "link": "https://arstechnica.com/culture/2026/03/its-a-race-against-time-to-save-krypto-in-supergirl-trailer/",
+          "date": "Tue, 31 Mar 2026 19:50:50 +0000"
+        },
+        {
+          "title": "Entire Claude Code CLI source code leaks thanks to exposed map file",
+          "link": "https://arstechnica.com/ai/2026/03/entire-claude-code-cli-source-code-leaks-thanks-to-exposed-map-file/",
+          "date": "Tue, 31 Mar 2026 19:09:33 +0000"
+        },
+        {
+          "title": "Quantum computers need vastly fewer resources than thought to break vital encryption",
           "link": "https://arstechnica.com/security/2026/03/new-quantum-computing-advances-heighten-threat-to-elliptic-curve-cryptosystems/",
           "date": "Tue, 31 Mar 2026 18:25:33 +0000"
-        },
-        {
-          "title": "You can finally change the goofy Gmail address you chose years ago",
-          "link": "https://arstechnica.com/gadgets/2026/03/you-can-finally-change-the-goofy-gmail-address-you-chose-years-ago/",
-          "date": "Tue, 31 Mar 2026 17:55:39 +0000"
-        },
-        {
-          "title": "OkCupid gave 3 million dating-app photos to facial recognition firm, FTC says",
-          "link": "https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/",
-          "date": "Tue, 31 Mar 2026 17:33:21 +0000"
-        },
-        {
-          "title": "This is my third Orion launch, but it feels totally different",
-          "link": "https://arstechnica.com/features/2026/03/this-is-my-third-orion-launch-but-it-feels-totally-different/",
-          "date": "Tue, 31 Mar 2026 17:09:31 +0000"
-        },
-        {
-          "title": "Costco sued for seeking refunds on tariffs customers paid",
-          "link": "https://arstechnica.com/tech-policy/2026/03/costco-sued-for-seeking-refunds-on-tariffs-customers-paid/",
-          "date": "Tue, 31 Mar 2026 16:09:14 +0000"
         }
       ],
       "error": null
@@ -358,6 +332,11 @@
           "date": "2026-03-30T20:25:12+00:00"
         },
         {
+          "title": "The actual way that AI will take over the world",
+          "link": "https://www.reddit.com/r/artificial/comments/1s8y5zs/the_actual_way_that_ai_will_take_over_the_world/",
+          "date": "2026-03-31T19:54:34+00:00"
+        },
+        {
           "title": "Newsom signs executive order requiring AI companies to have safety, privacy guardrails",
           "link": "https://www.reddit.com/r/artificial/comments/1s8ge2h/newsom_signs_executive_order_requiring_ai/",
           "date": "2026-03-31T07:12:06+00:00"
@@ -366,11 +345,6 @@
           "title": "Pro-AI group to spend $100mn on US midterm elections as backlash grows",
           "link": "https://www.reddit.com/r/artificial/comments/1s8l0x7/proai_group_to_spend_100mn_on_us_midterm/",
           "date": "2026-03-31T11:41:36+00:00"
-        },
-        {
-          "title": "The actual way that AI will take over the world",
-          "link": "https://www.reddit.com/r/artificial/comments/1s8y5zs/the_actual_way_that_ai_will_take_over_the_world/",
-          "date": "2026-03-31T19:54:34+00:00"
         }
       ],
       "error": null
