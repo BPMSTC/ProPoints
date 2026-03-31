@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-31T22:32:05.219475+00:00",
+  "generatedAt": "2026-03-31T23:32:10.563190+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Nvidia Invests $2B In Custom Chip Vendor Marvell Technology",
+          "link": "https://aibusiness.com/data-centers/nvidia-invests-2b-custom-chip-vendor-marvell-technology",
+          "date": "Tue, 31 Mar 2026 22:39:16 GMT"
+        },
+        {
           "title": "Databricks to Invest $850M in UK AI Operations",
           "link": "https://aibusiness.com/data-management/databricks-to-invest-850m-uk-ai-operations",
           "date": "Tue, 31 Mar 2026 16:36:09 GMT"
@@ -132,11 +137,6 @@
           "title": "Microsoft Brings New AI Capabilities to Copilot Researcher",
           "link": "https://aibusiness.com/generative-ai/microsoft-brings-new-ai-capabilities-copilot-researcher",
           "date": "Mon, 30 Mar 2026 19:33:05 GMT"
-        },
-        {
-          "title": "Mistral AI Lands $830M for AI Data Center",
-          "link": "https://aibusiness.com/generative-ai/mistral-ai-lands-830m-ai-data-center",
-          "date": "Mon, 30 Mar 2026 16:44:06 GMT"
         }
       ],
       "error": null
@@ -316,6 +316,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "RFK Jr. wants Americans to use peptides that were banned over safety risks",
+          "link": "https://arstechnica.com/health/2026/03/rfk-jr-s-fda-expected-to-lift-restrictions-on-risky-unproven-peptides/",
+          "date": "Tue, 31 Mar 2026 21:51:26 +0000"
+        },
+        {
+          "title": "Starlink satellite breaks apart into \"tens of objects\"; SpaceX confirms \"anomaly\"",
+          "link": "https://arstechnica.com/tech-policy/2026/03/starlink-satellite-breaks-apart-into-tens-of-objects-spacex-confirms-anomaly/",
+          "date": "Tue, 31 Mar 2026 21:28:15 +0000"
+        },
+        {
           "title": "He-Man gets an origin story in Masters of the Universe trailer",
           "link": "https://arstechnica.com/culture/2026/03/he-man-gets-an-origin-story-in-masters-of-the-universe-trailer/",
           "date": "Tue, 31 Mar 2026 20:26:39 +0000"
@@ -329,16 +339,6 @@
           "title": "It's a race against time to save Krypto in Supergirl trailer",
           "link": "https://arstechnica.com/culture/2026/03/its-a-race-against-time-to-save-krypto-in-supergirl-trailer/",
           "date": "Tue, 31 Mar 2026 19:50:50 +0000"
-        },
-        {
-          "title": "Entire Claude Code CLI source code leaks thanks to exposed map file",
-          "link": "https://arstechnica.com/ai/2026/03/entire-claude-code-cli-source-code-leaks-thanks-to-exposed-map-file/",
-          "date": "Tue, 31 Mar 2026 19:09:33 +0000"
-        },
-        {
-          "title": "Quantum computers need vastly fewer resources than thought to break vital encryption",
-          "link": "https://arstechnica.com/security/2026/03/new-quantum-computing-advances-heighten-threat-to-elliptic-curve-cryptosystems/",
-          "date": "Tue, 31 Mar 2026 18:25:33 +0000"
         }
       ],
       "error": null
@@ -353,14 +353,14 @@
           "date": "2026-03-31T17:32:17+00:00"
         },
         {
-          "title": "World models will be the next big thing, bye-bye LLMs",
-          "link": "https://www.reddit.com/r/artificial/comments/1s828dj/world_models_will_be_the_next_big_thing_byebye/",
-          "date": "2026-03-30T20:25:12+00:00"
-        },
-        {
           "title": "The actual way that AI will take over the world",
           "link": "https://www.reddit.com/r/artificial/comments/1s8y5zs/the_actual_way_that_ai_will_take_over_the_world/",
           "date": "2026-03-31T19:54:34+00:00"
+        },
+        {
+          "title": "World models will be the next big thing, bye-bye LLMs",
+          "link": "https://www.reddit.com/r/artificial/comments/1s828dj/world_models_will_be_the_next_big_thing_byebye/",
+          "date": "2026-03-30T20:25:12+00:00"
         },
         {
           "title": "Newsom signs executive order requiring AI companies to have safety, privacy guardrails",
@@ -368,9 +368,9 @@
           "date": "2026-03-31T07:12:06+00:00"
         },
         {
-          "title": "Pro-AI group to spend $100mn on US midterm elections as backlash grows",
-          "link": "https://www.reddit.com/r/artificial/comments/1s8l0x7/proai_group_to_spend_100mn_on_us_midterm/",
-          "date": "2026-03-31T11:41:36+00:00"
+          "title": "SMASH2000, an AI-powered optic that turns an AR-15 into an anti-drone platform",
+          "link": "https://www.reddit.com/r/artificial/comments/1s92mvu/smash2000_an_aipowered_optic_that_turns_an_ar15/",
+          "date": "2026-03-31T22:42:44+00:00"
         }
       ],
       "error": null
