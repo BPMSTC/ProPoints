@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-01T15:02:06.291109+00:00",
+  "generatedAt": "2026-04-01T16:51:15.711820+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,7 +114,12 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
-          "title": "OpenAI Now Valued at $852B After New Funding Round",
+          "title": "Florida University Rolls Out Autonomous Delivery Robots",
+          "link": "https://aibusiness.com/robotics/florida-university-rolls-out-autonomous-delivery-robots",
+          "date": "Wed, 01 Apr 2026 15:21:34 GMT"
+        },
+        {
+          "title": "OpenAI Now Valued at $852B After Funding Round",
           "link": "https://aibusiness.com/generative-ai/openai-valued-852b-after-new-funding-round",
           "date": "Wed, 01 Apr 2026 13:26:40 GMT"
         },
@@ -132,11 +137,6 @@
           "title": "Databricks to Invest $850M in UK AI Operations",
           "link": "https://aibusiness.com/data-management/databricks-to-invest-850m-uk-ai-operations",
           "date": "Tue, 31 Mar 2026 16:36:09 GMT"
-        },
-        {
-          "title": "Nebius to Build One of Europe\u2019s Largest AI Factories in Finland",
-          "link": "https://aibusiness.com/generative-ai/nebius-build-one-of-europe-s-largest-ai-factories-in-finland",
-          "date": "Tue, 31 Mar 2026 16:01:33 GMT"
         }
       ],
       "error": null
@@ -151,6 +151,11 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [
+        {
+          "title": "KPMG: Inside the AI agent playbook driving enterprise margin gains",
+          "link": "https://www.artificialintelligence-news.com/news/kpmg-inside-ai-agent-playbook-enterprise-margin-gains/",
+          "date": "Wed, 01 Apr 2026 15:24:01 +0000"
+        },
         {
           "title": "DeepL\u2019s Borderless Business report reveals 83% of enterprises are still behind on language AI",
           "link": "https://www.artificialintelligence-news.com/news/deepls-borderless-business-report-reveals-83-of-enterprises-are-still-behind-on-language-ai/",
@@ -170,11 +175,6 @@
           "title": "Secure governance accelerates financial AI revenue growth",
           "link": "https://www.artificialintelligence-news.com/news/secure-governance-accelerates-financial-ai-revenue-growth/",
           "date": "Mon, 30 Mar 2026 15:54:58 +0000"
-        },
-        {
-          "title": "Glia wins Excellence Award for safer AI in banking",
-          "link": "https://www.artificialintelligence-news.com/news/glia-wins-excellence-award-for-safer-ai-in-banking/",
-          "date": "Mon, 30 Mar 2026 14:12:59 +0000"
         }
       ],
       "error": null
@@ -316,29 +316,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "NASA is leading the way to the Moon, but the military won't be far behind",
-          "link": "https://arstechnica.com/space/2026/03/nasa-is-leading-the-way-to-the-moon-but-the-military-wont-be-far-behind/",
-          "date": "Wed, 01 Apr 2026 01:36:50 +0000"
+          "title": "A word from Editor Moonshark about Artemis II",
+          "link": "https://arstechnica.com/staff/2026/04/a-word-from-editor-moonshark-about-artemis-ii/",
+          "date": "Wed, 01 Apr 2026 15:32:50 +0000"
         },
         {
-          "title": "Running local models on Macs gets faster with Ollama's MLX support",
-          "link": "https://arstechnica.com/apple/2026/03/running-local-models-on-macs-gets-faster-with-ollamas-mlx-support/",
-          "date": "Tue, 31 Mar 2026 23:00:23 +0000"
+          "title": "Kia shows off small cars in NY: The 2027 EV3 and 2027 Seltos Hybrid",
+          "link": "https://arstechnica.com/cars/2026/04/kia-shows-off-small-cars-in-ny-the-2027-ev3-and-2027-seltos-hybrid/",
+          "date": "Wed, 01 Apr 2026 15:20:06 +0000"
         },
         {
-          "title": "RFK Jr. wants Americans to use peptides that were banned over safety risks",
-          "link": "https://arstechnica.com/health/2026/03/rfk-jr-s-fda-expected-to-lift-restrictions-on-risky-unproven-peptides/",
-          "date": "Tue, 31 Mar 2026 21:51:26 +0000"
+          "title": "LIGO data hints at supernovae so powerful they leave nothing behind",
+          "link": "https://arstechnica.com/science/2026/04/black-hole-mergers-put-limits-on-star-destroying-supernovae/",
+          "date": "Wed, 01 Apr 2026 15:00:01 +0000"
         },
         {
-          "title": "Starlink satellite breaks apart into \"tens of objects\"; SpaceX confirms \"anomaly\"",
-          "link": "https://arstechnica.com/tech-policy/2026/03/starlink-satellite-breaks-apart-into-tens-of-objects-spacex-confirms-anomaly/",
-          "date": "Tue, 31 Mar 2026 21:28:15 +0000"
+          "title": "Sweden goes back to basics, swapping screens for books in the classroom",
+          "link": "https://arstechnica.com/science/2026/04/sweden-goes-back-to-basics-swapping-screens-for-books-in-the-classroom/",
+          "date": "Wed, 01 Apr 2026 13:46:22 +0000"
         },
         {
-          "title": "He-Man gets an origin story in Masters of the Universe trailer",
-          "link": "https://arstechnica.com/culture/2026/03/he-man-gets-an-origin-story-in-masters-of-the-universe-trailer/",
-          "date": "Tue, 31 Mar 2026 20:26:39 +0000"
+          "title": "Launch day has arrived for NASA's Artemis II mission\u2014here's what to expect",
+          "link": "https://arstechnica.com/space/2026/04/launch-day-has-arrived-for-nasas-artemis-ii-mission-heres-what-to-expect/",
+          "date": "Wed, 01 Apr 2026 13:04:27 +0000"
         }
       ],
       "error": null
@@ -348,14 +348,14 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "CEO of America\u2019s largest public hospital system says he\u2019s ready to replace radiologists with AI",
-          "link": "https://www.reddit.com/r/artificial/comments/1s9beim/ceo_of_americas_largest_public_hospital_system/",
-          "date": "2026-04-01T05:19:09+00:00"
-        },
-        {
           "title": "The Claude Code leak accidentally published the first complete blueprint for production AI agents. Here's what it tells us about where this is all going.",
           "link": "https://www.reddit.com/r/artificial/comments/1s9jprb/the_claude_code_leak_accidentally_published_the/",
           "date": "2026-04-01T12:54:08+00:00"
+        },
+        {
+          "title": "CEO of America\u2019s largest public hospital system says he\u2019s ready to replace radiologists with AI",
+          "link": "https://www.reddit.com/r/artificial/comments/1s9beim/ceo_of_americas_largest_public_hospital_system/",
+          "date": "2026-04-01T05:19:09+00:00"
         },
         {
           "title": "OkCupid gave 3 million dating-app photos to facial recognition firm, FTC says",
@@ -363,14 +363,14 @@
           "date": "2026-04-01T01:34:54+00:00"
         },
         {
-          "title": "Paper Finds That Leading AI Chatbots Like ChatGPT and Claude Remain Incredibly Sycophantic, Resulting in Twisted Effects on Users",
-          "link": "https://www.reddit.com/r/artificial/comments/1s93wyl/paper_finds_that_leading_ai_chatbots_like_chatgpt/",
-          "date": "2026-03-31T23:35:41+00:00"
-        },
-        {
           "title": "Anthropic is training Claude to recognize when its own tools are trying to manipulate it",
           "link": "https://www.reddit.com/r/artificial/comments/1s9hfhp/anthropic_is_training_claude_to_recognize_when/",
           "date": "2026-04-01T11:08:05+00:00"
+        },
+        {
+          "title": "Paper Finds That Leading AI Chatbots Like ChatGPT and Claude Remain Incredibly Sycophantic, Resulting in Twisted Effects on Users",
+          "link": "https://www.reddit.com/r/artificial/comments/1s93wyl/paper_finds_that_leading_ai_chatbots_like_chatgpt/",
+          "date": "2026-03-31T23:35:41+00:00"
         }
       ],
       "error": null
@@ -379,6 +379,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "How to build a digital \u2018twin\u2019 of the human brain \u2013 what existing models overlook",
+          "link": "https://theconversation.com/how-to-build-a-digital-twin-of-the-human-brain-what-existing-models-overlook-279681",
+          "date": "2026-04-01T15:28:45Z"
+        },
         {
           "title": "Why Iran targeted Amazon data centers and what that does \u2013 and doesn\u2019t \u2013 change about warfare",
           "link": "https://theconversation.com/why-iran-targeted-amazon-data-centers-and-what-that-does-and-doesnt-change-about-warfare-278642",
@@ -398,11 +403,6 @@
           "title": "Introducing a new citizen science nature app that\u2019s geared towards the scientific community",
           "link": "https://theconversation.com/introducing-a-new-citizen-science-nature-app-thats-geared-towards-the-scientific-community-279394",
           "date": "2026-03-31T13:35:38Z"
-        },
-        {
-          "title": "Water flow in prairie watersheds is increasingly unpredictable \u2014 but AI could help",
-          "link": "https://theconversation.com/water-flow-in-prairie-watersheds-is-increasingly-unpredictable-but-ai-could-help-277593",
-          "date": "2026-03-30T15:33:04Z"
         }
       ],
       "error": null
@@ -412,9 +412,14 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "I wore Meta\u2019s smartglasses for a month \u2013 and it left me feeling like a creep",
-          "link": "https://www.theguardian.com/technology/2026/apr/01/i-wore-metas-smartglasses-for-a-month-and-it-left-me-feeling-like-a-creep",
-          "date": "Wed, 01 Apr 2026 04:00:38 GMT"
+          "title": "Don\u2019t blame AI for the Iran school bombing | Letters",
+          "link": "https://www.theguardian.com/technology/2026/apr/01/dont-blame-ai-for-the-iran-school-bombing",
+          "date": "Wed, 01 Apr 2026 16:50:53 GMT"
+        },
+        {
+          "title": "\u2018We got cancelled and we\u2019re still here!\u2019 Michael Patrick King on The Comeback \u2013 and why And Just Like That will age well",
+          "link": "https://www.theguardian.com/tv-and-radio/2026/apr/01/michael-patrick-king-the-comeback-ai-twist-lisa-kudrow",
+          "date": "Wed, 01 Apr 2026 15:29:57 GMT"
         },
         {
           "title": "Why is gaming becoming so expensive? The answer is found in AI",
@@ -430,11 +435,6 @@
           "title": "Revealed: the vast illegal casino network targeting UK gamblers",
           "link": "https://www.theguardian.com/society/2026/apr/01/the-vast-casino-network-targeting-uk-gamblers",
           "date": "Wed, 01 Apr 2026 07:00:40 GMT"
-        },
-        {
-          "title": "Why every woman can see herself in the story of a German celebrity couple\u2019s split | Fatma Aydemir",
-          "link": "https://www.theguardian.com/commentisfree/2026/apr/01/why-every-woman-can-see-herself-in-the-story-of-a-german-celebrity-couples-split",
-          "date": "Wed, 01 Apr 2026 04:00:37 GMT"
         }
       ],
       "error": null
@@ -476,6 +476,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "The Iran War Has Cut Off Supply of a Gas the AI Industry Desperately Needs",
+          "link": "https://futurism.com/artificial-intelligence/helium-ai-iran-war",
+          "date": "Wed, 01 Apr 2026 12:02:22 -0400"
+        },
+        {
+          "title": "The Fact That Anthropic Has Been Boasting About How Much Its Development Now Relies on Claude Makes It Very Interesting That It Just Suffered a Catastrophic Leak of Its Source Code",
+          "link": "https://futurism.com/artificial-intelligence/anthropic-development-claude-code-leak",
+          "date": "Wed, 01 Apr 2026 11:18:32 -0400"
+        },
+        {
           "title": "NYT Cuts Ties With Writer as Scrutiny of AI Content Grows",
           "link": "https://futurism.com/artificial-intelligence/nyt-cuts-ties-with-writer-ai",
           "date": "Wed, 01 Apr 2026 10:08:01 -0400"
@@ -489,16 +499,6 @@
           "title": "Students Renting Smart Glasses to Cheat on Tests",
           "link": "https://futurism.com/artificial-intelligence/students-renting-smart-glasses-cheat-tests",
           "date": "Tue, 31 Mar 2026 16:14:58 -0400"
-        },
-        {
-          "title": "Paper Finds That Leading AI Chatbots Like ChatGPT and Claude Remain Incredibly Sycophantic, Resulting in Twisted Effects on Users",
-          "link": "https://futurism.com/artificial-intelligence/paper-ai-chatbots-chatgpt-claude-sycophantic",
-          "date": "Mon, 30 Mar 2026 15:37:15 -0400"
-        },
-        {
-          "title": "Bluesky Users Respond With Overwhelming Disgust to Platform\u2019s New AI",
-          "link": "https://futurism.com/artificial-intelligence/bluesky-users-disgust-new-ai",
-          "date": "Mon, 30 Mar 2026 10:40:16 -0400"
         }
       ],
       "error": null
@@ -508,7 +508,7 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
-          "title": "Watching a 7.5-Hour Movie in Theaters Made Me More Hopeful About Our Collective Brain Rot",
+          "title": "I Watched a 7.5-Hour Movie in Theaters to Confront My Dwindling Attention Span",
           "link": "https://www.wired.com/story/watching-a-75-hour-movie-in-theaters-made-me-more-hopeful-about-our-collective-brainrot/",
           "date": "Wed, 01 Apr 2026 10:30:00 +0000"
         },
