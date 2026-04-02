@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-02T09:59:13.988475+00:00",
+  "generatedAt": "2026-04-02T11:00:29.948161+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -152,6 +152,16 @@
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [
         {
+          "title": "Autonomous AI systems depend on data governance",
+          "link": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-depend-on-data-governance/",
+          "date": "Thu, 02 Apr 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Experian uncovers fraud paradox in financial services\u2019 AI adoption",
+          "link": "https://www.artificialintelligence-news.com/news/experian-ai-fraud-detection-financial-services-2026/",
+          "date": "Thu, 02 Apr 2026 10:00:00 +0000"
+        },
+        {
           "title": "KPMG: Inside the AI agent playbook driving enterprise margin gains",
           "link": "https://www.artificialintelligence-news.com/news/kpmg-inside-ai-agent-playbook-enterprise-margin-gains/",
           "date": "Wed, 01 Apr 2026 15:24:01 +0000"
@@ -165,16 +175,6 @@
           "title": "Hershey applies AI across its supply chain operations",
           "link": "https://www.artificialintelligence-news.com/news/hershey-applies-ai-across-its-supply-chain-operations/",
           "date": "Wed, 01 Apr 2026 10:00:00 +0000"
-        },
-        {
-          "title": "SAP and ANYbotics drive industrial adoption of physical AI",
-          "link": "https://www.artificialintelligence-news.com/news/sap-and-anybotics-drive-industrial-adoption-physical-ai/",
-          "date": "Tue, 31 Mar 2026 15:20:53 +0000"
-        },
-        {
-          "title": "Secure governance accelerates financial AI revenue growth",
-          "link": "https://www.artificialintelligence-news.com/news/secure-governance-accelerates-financial-ai-revenue-growth/",
-          "date": "Mon, 30 Mar 2026 15:54:58 +0000"
         }
       ],
       "error": null
@@ -358,19 +358,19 @@
           "date": "2026-04-02T05:44:32+00:00"
         },
         {
-          "title": "Just found out how to make Google AI \u2018sentient\u2019 and broken",
-          "link": "https://www.reddit.com/r/artificial/comments/1sac0di/just_found_out_how_to_make_google_ai_sentient_and/",
-          "date": "2026-04-02T08:52:23+00:00"
-        },
-        {
           "title": "List up Fav Multi AI AI Open Source Projects",
           "link": "https://www.reddit.com/r/artificial/comments/1sabr5t/list_up_fav_multi_ai_ai_open_source_projects/",
           "date": "2026-04-02T08:36:55+00:00"
         },
         {
-          "title": "Input on an experiment",
-          "link": "https://www.reddit.com/r/artificial/comments/1sa4vlm/input_on_an_experiment/",
-          "date": "2026-04-02T02:20:13+00:00"
+          "title": "I am doing a multi-model graph database in pure Rust with Cypher, SQL, Gremlin, and native GNN looking for extreme speed and performance",
+          "link": "https://www.reddit.com/r/artificial/comments/1sae4r1/i_am_doing_a_multimodel_graph_database_in_pure/",
+          "date": "2026-04-02T10:55:55+00:00"
+        },
+        {
+          "title": "MIT researchers use AI to uncover atomic defects in materials",
+          "link": "https://www.reddit.com/r/artificial/comments/1sa3yds/mit_researchers_use_ai_to_uncover_atomic_defects/",
+          "date": "2026-04-02T01:38:53+00:00"
         }
       ],
       "error": null
@@ -379,6 +379,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "AI laws overlook environmental damage \u2013 here\u2019s what needs to change",
+          "link": "https://theconversation.com/ai-laws-overlook-environmental-damage-heres-what-needs-to-change-279047",
+          "date": "2026-04-02T10:55:06Z"
+        },
         {
           "title": "In the age of AI, why do Australian company boards have so few technology experts?",
           "link": "https://theconversation.com/in-the-age-of-ai-why-do-australian-company-boards-have-so-few-technology-experts-279752",
@@ -398,11 +403,6 @@
           "title": "A popular horror novel was pulled over AI concerns \u2013 here\u2019s what it means for publishing",
           "link": "https://theconversation.com/a-popular-horror-novel-was-pulled-over-ai-concerns-heres-what-it-means-for-publishing-279714",
           "date": "2026-04-01T16:05:30Z"
-        },
-        {
-          "title": "How to build a digital \u2018twin\u2019 of the human brain \u2013 what existing models overlook",
-          "link": "https://theconversation.com/how-to-build-a-digital-twin-of-the-human-brain-what-existing-models-overlook-279681",
-          "date": "2026-04-01T15:28:45Z"
         }
       ],
       "error": null
@@ -415,6 +415,11 @@
           "title": "Pupils in England are losing their thinking skills because of AI, survey suggests",
           "link": "https://www.theguardian.com/technology/2026/apr/02/pupils-england-losing-thinking-skills-because-of-ai-survey",
           "date": "Thu, 02 Apr 2026 05:00:19 GMT"
+        },
+        {
+          "title": "I handed over my dating life to AI. I don\u2019t think she\u2019ll see me again",
+          "link": "https://www.theguardian.com/lifeandstyle/2026/feb/25/i-handed-over-my-dating-life-to-ai-i-dont-think-shell-see-me-again",
+          "date": "Thu, 02 Apr 2026 11:00:22 GMT"
         },
         {
           "title": "Claude\u2019s code: Anthropic leaks source code for AI software engineering tool",
@@ -430,11 +435,6 @@
           "title": "Unregulated chatbots are putting lives at risk | Letters",
           "link": "https://www.theguardian.com/technology/2026/apr/01/unregulated-chatbots-are-putting-lives-at-risk",
           "date": "Wed, 01 Apr 2026 16:51:01 GMT"
-        },
-        {
-          "title": "Don\u2019t blame AI for the Iran school bombing | Letters",
-          "link": "https://www.theguardian.com/technology/2026/apr/01/dont-blame-ai-for-the-iran-school-bombing",
-          "date": "Wed, 01 Apr 2026 16:50:53 GMT"
         }
       ],
       "error": null
