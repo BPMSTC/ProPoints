@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-03T14:03:18.416685+00:00",
+  "generatedAt": "2026-04-03T15:37:21.460408+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Microsoft to Invest $10B in AI and Cybersecurity in Japan",
+          "link": "https://aibusiness.com/generative-ai/microsoft-invest-10b-ai-cybersecurity-japan",
+          "date": "Fri, 03 Apr 2026 15:05:44 GMT"
+        },
+        {
           "title": "Google Launches Open Model Family Gemma 4",
           "link": "https://aibusiness.com/generative-ai/google-launches-open-model-family-gemma-4",
           "date": "Fri, 03 Apr 2026 12:51:47 GMT"
@@ -132,11 +137,6 @@
           "title": "Neocloud Pioneer CoreWeave All In on Inference",
           "link": "https://aibusiness.com/data-centers/neocloud-pioneer-coreweave-inference",
           "date": "Thu, 02 Apr 2026 19:04:08 GMT"
-        },
-        {
-          "title": "Microsoft to Invest $5.5 billion in AI in Singapore",
-          "link": "https://aibusiness.com/generative-ai/microsoft-invest-5-5-billion-ai-in-singapore",
-          "date": "Thu, 02 Apr 2026 13:54:02 GMT"
         }
       ],
       "error": null
@@ -232,6 +232,11 @@
           "date": "2025-09-09T02:25:04+00:00"
         },
         {
+          "title": "A real-time AI decompiler that transforms #ClaudeCode back into readable source code. Point it at any version. It decompiles into folders and src graphs, runs, is modifiable, every transform is cryptographically proven.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1sbg22j/a_realtime_ai_decompiler_that_transforms/",
+          "date": "2026-04-03T15:03:46+00:00"
+        },
+        {
           "title": "Brief Video on how RuVector and Constrastive Ai works (includes Claude Shannon, the Claude in Claude Code)",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1s7a4lh/brief_video_on_how_ruvector_and_constrastive_ai/",
           "date": "2026-03-29T23:14:10+00:00"
@@ -240,11 +245,6 @@
           "title": "\u03c0 Introducing \u03c0.ruv.io, a shared intelligence system where AI agents and developers contribute, search, and learn from a collective knowledge graph.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1rtwsj9/\u03c0_introducing_\u03c0ruvio_a_shared_intelligence_system/",
           "date": "2026-03-14T22:21:53+00:00"
-        },
-        {
-          "title": "So long Claude Flow, hello \ud83c\udf0a RuFlo. v3.5.0 is out of alpha.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1rgmrz3/so_long_claude_flow_hello_ruflo_v350_is_out_of/",
-          "date": "2026-02-27T23:38:41+00:00"
         }
       ],
       "error": null
@@ -353,11 +353,6 @@
           "date": "2026-04-03T08:22:59+00:00"
         },
         {
-          "title": "AI is too similar to dreams",
-          "link": "https://www.reddit.com/r/artificial/comments/1sbada8/ai_is_too_similar_to_dreams/",
-          "date": "2026-04-03T10:56:49+00:00"
-        },
-        {
           "title": "Google releases Gemma 4 models.",
           "link": "https://www.reddit.com/r/artificial/comments/1sapfpu/google_releases_gemma_4_models/",
           "date": "2026-04-02T18:25:14+00:00"
@@ -368,9 +363,14 @@
           "date": "2026-04-03T06:46:09+00:00"
         },
         {
-          "title": "Microsoft's newest open-source project: Runtime security for AI agents",
-          "link": "https://www.reddit.com/r/artificial/comments/1sbatl3/microsofts_newest_opensource_project_runtime/",
-          "date": "2026-04-03T11:20:38+00:00"
+          "title": "Anyone else feel like AI security is being figured out in production right now?",
+          "link": "https://www.reddit.com/r/artificial/comments/1sbgw8y/anyone_else_feel_like_ai_security_is_being/",
+          "date": "2026-04-03T15:35:02+00:00"
+        },
+        {
+          "title": "Machina Mirabilis: An experiment to see if an LLM trained from scratch on text prior to 1900 can come up with quantum mechanics and relativity.",
+          "link": "https://www.reddit.com/r/artificial/comments/1sbg7th/machina_mirabilis_an_experiment_to_see_if_an_llm/",
+          "date": "2026-04-03T15:09:51+00:00"
         }
       ],
       "error": null
@@ -476,6 +476,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "AI-Powered Tractor Startup Burns Through a Quarter Billion Dollars, Fires All Employees in Epic Implosion",
+          "link": "https://futurism.com/robots-and-machines/ai-tractor-startup-founders",
+          "date": "Fri, 03 Apr 2026 10:30:45 -0400"
+        },
+        {
           "title": "Anthropic Suddenly Cares Intensely About Intellectual Property After Realizing With Horror That It Accidentally Leaked Claude\u2019s Source Code",
           "link": "https://futurism.com/artificial-intelligence/anthropic-suddenly-cares-about-intellectual-property-claude-leak",
           "date": "Fri, 03 Apr 2026 08:39:46 -0400"
@@ -494,11 +499,6 @@
           "title": "Leaked Claude Code Shows Anthropic Building Mysterious \u201cTamagotchi\u201d Feature Into It",
           "link": "https://futurism.com/artificial-intelligence/leaked-claude-code-tamagotchi",
           "date": "Wed, 01 Apr 2026 14:14:53 -0400"
-        },
-        {
-          "title": "The Iran War Has Cut Off Supply of a Gas the AI Industry Desperately Needs",
-          "link": "https://futurism.com/artificial-intelligence/helium-ai-iran-war",
-          "date": "Wed, 01 Apr 2026 12:02:22 -0400"
         }
       ],
       "error": null
