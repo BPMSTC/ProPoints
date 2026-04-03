@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-04-03T16:36:41.901915+00:00",
+  "generatedAt": "2026-04-03T17:31:49.052315+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Behind the Blog: Systems As Designed",
+          "link": "https://www.404media.co/behind-the-blog-systems-as-designed/",
+          "date": "Fri, 03 Apr 2026 16:55:57 GMT"
+        },
         {
           "title": "Journalist Sues FAA Over Drone No Fly Zone Designed to Prevent Filming ICE",
           "link": "https://www.404media.co/journalist-sues-faa-over-drone-no-fly-zone-designed-to-prevent-filming-ice/",
@@ -24,11 +29,6 @@
           "title": "Scientists Create Plant That Produces Ayahuasca, Shrooms, and Toad Psychedelics All At Once",
           "link": "https://www.404media.co/scientists-create-plant-that-produces-ayahuasca-shrooms-and-toad-psychedelics-all-at-once/",
           "date": "Wed, 01 Apr 2026 18:00:25 GMT"
-        },
-        {
-          "title": "I Tried to Find the \u2018Arousal Intelligence\u2019 In An Animated, Augmented Reality Porn Star",
-          "link": "https://www.404media.co/enjoy-me-now-augmented-reality-ar-sex-app/",
-          "date": "Wed, 01 Apr 2026 13:10:17 GMT"
         }
       ],
       "error": null
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "KiloClaw targets shadow AI with autonomous agent governance",
-          "link": "https://www.artificialintelligence-news.com/news/kiloclaw-targets-shadow-ai-autonomous-agent-governance/",
-          "date": "Thu, 02 Apr 2026 16:30:53 +0000"
-        },
-        {
-          "title": "5 best practices to secure AI systems",
-          "link": "https://www.artificialintelligence-news.com/news/5-best-practices-to-secure-ai-systems/",
-          "date": "Thu, 02 Apr 2026 14:45:03 +0000"
-        },
-        {
-          "title": "China\u2019s Five-Year Plan details the targets for AI deployment",
-          "link": "https://www.artificialintelligence-news.com/news/chinas-five-year-plan-details-the-targets-for-ai-deployment/",
-          "date": "Thu, 02 Apr 2026 13:23:00 +0000"
-        },
-        {
-          "title": "Autonomous AI systems depend on data governance",
-          "link": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-depend-on-data-governance/",
-          "date": "Thu, 02 Apr 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Experian uncovers fraud paradox in financial services\u2019 AI adoption",
-          "link": "https://www.artificialintelligence-news.com/news/experian-ai-fraud-detection-financial-services-2026/",
-          "date": "Thu, 02 Apr 2026 10:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -353,14 +327,14 @@
           "date": "2026-04-03T08:22:59+00:00"
         },
         {
-          "title": "Machina Mirabilis: An experiment to see if an LLM trained from scratch on text prior to 1900 can come up with quantum mechanics and relativity.",
-          "link": "https://www.reddit.com/r/artificial/comments/1sbg7th/machina_mirabilis_an_experiment_to_see_if_an_llm/",
-          "date": "2026-04-03T15:09:51+00:00"
-        },
-        {
           "title": "Anyone else feel like AI security is being figured out in production right now?",
           "link": "https://www.reddit.com/r/artificial/comments/1sbgw8y/anyone_else_feel_like_ai_security_is_being/",
           "date": "2026-04-03T15:35:02+00:00"
+        },
+        {
+          "title": "AI video generation seems fundamentally more expensive than text, not just less optimized",
+          "link": "https://www.reddit.com/r/artificial/comments/1sbk1ue/ai_video_generation_seems_fundamentally_more/",
+          "date": "2026-04-03T17:30:48+00:00"
         },
         {
           "title": "Google releases Gemma 4 models.",
