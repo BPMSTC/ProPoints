@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-03T17:31:49.052315+00:00",
+  "generatedAt": "2026-04-03T18:42:09.164781+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "KiloClaw targets shadow AI with autonomous agent governance",
+          "link": "https://www.artificialintelligence-news.com/news/kiloclaw-targets-shadow-ai-autonomous-agent-governance/",
+          "date": "Thu, 02 Apr 2026 16:30:53 +0000"
+        },
+        {
+          "title": "5 best practices to secure AI systems",
+          "link": "https://www.artificialintelligence-news.com/news/5-best-practices-to-secure-ai-systems/",
+          "date": "Thu, 02 Apr 2026 14:45:03 +0000"
+        },
+        {
+          "title": "China\u2019s Five-Year Plan details the targets for AI deployment",
+          "link": "https://www.artificialintelligence-news.com/news/chinas-five-year-plan-details-the-targets-for-ai-deployment/",
+          "date": "Thu, 02 Apr 2026 13:23:00 +0000"
+        },
+        {
+          "title": "Autonomous AI systems depend on data governance",
+          "link": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-depend-on-data-governance/",
+          "date": "Thu, 02 Apr 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Experian uncovers fraud paradox in financial services\u2019 AI adoption",
+          "link": "https://www.artificialintelligence-news.com/news/experian-ai-fraud-detection-financial-services-2026/",
+          "date": "Thu, 02 Apr 2026 10:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +316,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Netflix must refund customers for years of price hikes, Italian court rules",
+          "link": "https://arstechnica.com/gadgets/2026/04/netflix-ordered-to-refund-subscribers-up-to-e500-for-unlawful-price-hikes/",
+          "date": "Fri, 03 Apr 2026 17:41:51 +0000"
+        },
+        {
           "title": "EV adoption in America: Who's winning, who's losing?",
           "link": "https://arstechnica.com/cars/2026/04/ev-adoption-in-america-whos-winning-whos-losing/",
           "date": "Fri, 03 Apr 2026 15:00:23 +0000"
@@ -308,11 +339,6 @@
           "title": "Perplexity's \"Incognito Mode\" is a \"sham,\" lawsuit says",
           "link": "https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/",
           "date": "Thu, 02 Apr 2026 20:54:02 +0000"
-        },
-        {
-          "title": "SpaceX tries to convince FCC that Amazon put satellites into wrong altitude",
-          "link": "https://arstechnica.com/tech-policy/2026/04/spacex-claims-amazon-leo-launches-could-crash-into-starlink-satellites/",
-          "date": "Thu, 02 Apr 2026 20:32:05 +0000"
         }
       ],
       "error": null
@@ -332,6 +358,11 @@
           "date": "2026-04-03T15:35:02+00:00"
         },
         {
+          "title": "Why the Reddit Hate of AI?",
+          "link": "https://www.reddit.com/r/artificial/comments/1sbgpbf/why_the_reddit_hate_of_ai/",
+          "date": "2026-04-03T15:28:11+00:00"
+        },
+        {
           "title": "AI video generation seems fundamentally more expensive than text, not just less optimized",
           "link": "https://www.reddit.com/r/artificial/comments/1sbk1ue/ai_video_generation_seems_fundamentally_more/",
           "date": "2026-04-03T17:30:48+00:00"
@@ -340,11 +371,6 @@
           "title": "Google releases Gemma 4 models.",
           "link": "https://www.reddit.com/r/artificial/comments/1sapfpu/google_releases_gemma_4_models/",
           "date": "2026-04-02T18:25:14+00:00"
-        },
-        {
-          "title": "Microsoft to invest $10 billion in Japan for AI and cyber defence expansion",
-          "link": "https://www.reddit.com/r/artificial/comments/1sb65un/microsoft_to_invest_10_billion_in_japan_for_ai/",
-          "date": "2026-04-03T06:46:09+00:00"
         }
       ],
       "error": null
