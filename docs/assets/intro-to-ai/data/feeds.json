@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-04T11:26:58.974083+00:00",
+  "generatedAt": "2026-04-04T12:50:22.195273+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -38,6 +38,11 @@
       "url": "https://magazine.sebastianraschka.com/feed",
       "items": [
         {
+          "title": "Components of A Coding Agent",
+          "link": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+          "date": "Sat, 04 Apr 2026 11:45:37 GMT"
+        },
+        {
           "title": "A Visual Guide to Attention Variants in Modern LLMs",
           "link": "https://magazine.sebastianraschka.com/p/visual-attention-variants",
           "date": "Sun, 22 Mar 2026 11:55:40 GMT"
@@ -56,11 +61,6 @@
           "title": "The State Of LLMs 2025: Progress, Problems, and Predictions",
           "link": "https://magazine.sebastianraschka.com/p/state-of-llms-2025",
           "date": "Tue, 30 Dec 2025 12:22:26 GMT"
-        },
-        {
-          "title": "LLM Research Papers: The 2025 List (July to December)",
-          "link": "https://magazine.sebastianraschka.com/p/llm-research-papers-2025-part2",
-          "date": "Tue, 30 Dec 2025 12:15:39 GMT"
         }
       ],
       "error": null
@@ -476,6 +476,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "AI Is Killing Microsoft",
+          "link": "https://futurism.com/artificial-intelligence/ai-killing-microsoft",
+          "date": "Sat, 04 Apr 2026 08:15:00 -0400"
+        },
+        {
           "title": "Say a Prayer for This Startup That\u2019s Replacing Its Developers With OpenClaw",
           "link": "https://futurism.com/artificial-intelligence/startup-replace-developers-with-openclaw",
           "date": "Fri, 03 Apr 2026 22:30:00 -0400"
@@ -494,11 +499,6 @@
           "title": "AI-Powered Tractor Startup Burns Through a Quarter Billion Dollars, Fires All Employees in Epic Implosion",
           "link": "https://futurism.com/robots-and-machines/ai-tractor-startup-founders",
           "date": "Fri, 03 Apr 2026 10:30:45 -0400"
-        },
-        {
-          "title": "Anthropic Suddenly Cares Intensely About Intellectual Property After Realizing With Horror That It Accidentally Leaked Claude\u2019s Source Code",
-          "link": "https://futurism.com/artificial-intelligence/anthropic-suddenly-cares-about-intellectual-property-claude-leak",
-          "date": "Fri, 03 Apr 2026 08:39:46 -0400"
         }
       ],
       "error": null
