@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-05T11:27:06.617954+00:00",
+  "generatedAt": "2026-04-05T12:52:38.077059+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -316,6 +316,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "CBP facility codes sure seem to have leaked via online flashcards",
+          "link": "https://arstechnica.com/security/2026/04/cbp-facility-codes-sure-seem-to-have-leaked-via-online-flashcards/",
+          "date": "Sun, 05 Apr 2026 11:07:27 +0000"
+        },
+        {
           "title": "Artemis II is going so well that we're left to talk about frozen urine",
           "link": "https://arstechnica.com/space/2026/04/artemis-ii-is-going-so-well-that-were-left-to-talk-about-frozen-urine/",
           "date": "Sun, 05 Apr 2026 00:12:45 +0000"
@@ -334,11 +339,6 @@
           "title": "Ice Age dice show early Native Americans may have understood probability",
           "link": "https://arstechnica.com/science/2026/04/ice-age-dice-show-early-native-americans-may-have-understood-probability/",
           "date": "Fri, 03 Apr 2026 22:55:29 +0000"
-        },
-        {
-          "title": "As Artemis II zooms to the Moon, everything seems to be going swimmingly",
-          "link": "https://arstechnica.com/space/2026/04/as-artemis-ii-zooms-to-the-moon-everything-seems-to-be-going-swimmingly/",
-          "date": "Fri, 03 Apr 2026 22:20:19 +0000"
         }
       ],
       "error": null
@@ -347,6 +347,11 @@
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
+        {
+          "title": "I built an AI companion app around long-term memory. Now I'm wondering if memory is what people actually want, or just what they say they want.",
+          "link": "https://www.reddit.com/r/artificial/comments/1sd0iaa/i_built_an_ai_companion_app_around_longterm/",
+          "date": "2026-04-05T10:46:27+00:00"
+        },
         {
           "title": "How LLM sycophancy got the US into the Iran quagmire",
           "link": "https://www.reddit.com/r/artificial/comments/1scp7zz/how_llm_sycophancy_got_the_us_into_the_iran/",
@@ -358,19 +363,14 @@
           "date": "2026-04-04T08:11:57+00:00"
         },
         {
-          "title": "I built an AI companion app around long-term memory. Now I'm wondering if memory is what people actually want, or just what they say they want.",
-          "link": "https://www.reddit.com/r/artificial/comments/1sd0iaa/i_built_an_ai_companion_app_around_longterm/",
-          "date": "2026-04-05T10:46:27+00:00"
-        },
-        {
           "title": "Is Google's Gemma 4 really as good as advertised",
           "link": "https://www.reddit.com/r/artificial/comments/1sctzrx/is_googles_gemma_4_really_as_good_as_advertised/",
           "date": "2026-04-05T04:17:25+00:00"
         },
         {
-          "title": "Kept hitting ChatGPT and Claude limits during real work. This is the free setup I ended up using",
-          "link": "https://www.reddit.com/r/artificial/comments/1sckc3j/kept_hitting_chatgpt_and_claude_limits_during/",
-          "date": "2026-04-04T20:50:01+00:00"
+          "title": "550 stars on our open source AI agent setup tool, celebrating with the community",
+          "link": "https://www.reddit.com/r/artificial/comments/1sd2o5n/550_stars_on_our_open_source_ai_agent_setup_tool/",
+          "date": "2026-04-05T12:43:13+00:00"
         }
       ],
       "error": null
