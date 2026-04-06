@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-06T21:35:17.791328+00:00",
+  "generatedAt": "2026-04-06T22:33:59.515337+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -316,6 +316,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Sports bets on prediction markets ruled to be \"swaps,\" exempt from state laws",
+          "link": "https://arstechnica.com/tech-policy/2026/04/sports-bets-on-prediction-markets-ruled-to-be-swaps-exempt-from-state-laws/",
+          "date": "Mon, 06 Apr 2026 21:56:36 +0000"
+        },
+        {
+          "title": "Trump's next budget once again calls for massive cuts to science",
+          "link": "https://arstechnica.com/science/2026/04/trumps-next-budget-once-again-calls-for-massive-cuts-to-science/",
+          "date": "Mon, 06 Apr 2026 21:40:40 +0000"
+        },
+        {
+          "title": "\u201cThe problem is Sam Altman\u201d: OpenAI Insiders don\u2019t trust CEO",
+          "link": "https://arstechnica.com/tech-policy/2026/04/the-problem-is-sam-altman-openai-insiders-dont-trust-ceo/",
+          "date": "Mon, 06 Apr 2026 21:23:36 +0000"
+        },
+        {
           "title": "NASA's Moon ship and rocket seem to be working well, so what about the landers?",
           "link": "https://arstechnica.com/space/2026/04/nasas-moon-ship-and-rocket-seem-to-be-working-well-so-what-about-the-landers/",
           "date": "Mon, 06 Apr 2026 18:19:07 +0000"
@@ -324,21 +339,6 @@
           "title": "Teardown of unreleased LG Rollable shows why rollable phones aren't a thing",
           "link": "https://arstechnica.com/gadgets/2026/04/teardown-of-unreleased-lg-rollable-shows-why-rollable-phones-arent-a-thing/",
           "date": "Mon, 06 Apr 2026 17:39:07 +0000"
-        },
-        {
-          "title": "Used EV sales spike alongside gas prices",
-          "link": "https://arstechnica.com/cars/2026/04/used-ev-sales-spike-alongside-gas-prices/",
-          "date": "Mon, 06 Apr 2026 13:54:12 +0000"
-        },
-        {
-          "title": "Why will today's lunar flyby only beam back low-resolution video?",
-          "link": "https://arstechnica.com/space/2026/04/video-from-artemis-ii-flyby-of-the-moon-will-not-initially-look-spectacular/",
-          "date": "Mon, 06 Apr 2026 12:59:46 +0000"
-        },
-        {
-          "title": "What Memento reveals about human nature, 25 years later",
-          "link": "https://arstechnica.com/culture/2026/04/memento-turns-25/",
-          "date": "Mon, 06 Apr 2026 12:26:49 +0000"
         }
       ],
       "error": null
@@ -347,11 +347,6 @@
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
-        {
-          "title": "The open-source AI system that beat Claude Sonnet on a $500 GPU just shipped a coding assistant",
-          "link": "https://www.reddit.com/r/artificial/comments/1se9wkb/the_opensource_ai_system_that_beat_claude_sonnet/",
-          "date": "2026-04-06T20:05:05+00:00"
-        },
         {
           "title": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
           "link": "https://www.reddit.com/r/artificial/comments/1se2nxm/cognitive_surrender_leads_ai_users_to_abandon/",
@@ -366,6 +361,11 @@
           "title": "I have been coding for 11 years and I caught myself completely unable to debug a problem without AI assistance last month. That scared me more than anything I have seen in this industry.",
           "link": "https://www.reddit.com/r/artificial/comments/1sderg4/i_have_been_coding_for_11_years_and_i_caught/",
           "date": "2026-04-05T20:52:31+00:00"
+        },
+        {
+          "title": "I Built a Functional Cognitive Engine",
+          "link": "https://www.reddit.com/r/artificial/comments/1se34g7/i_built_a_functional_cognitive_engine/",
+          "date": "2026-04-06T16:05:25+00:00"
         },
         {
           "title": "AI is struggling to take our jobs",
@@ -412,7 +412,12 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Using AI to prepare and evaluate environmental assessments risks \u2018robodebt-style\u2019 failures, scientists say",
+          "title": "Tech companies are cutting jobs and betting on AI. The payoff is far from guaranteed",
+          "link": "https://www.theguardian.com/technology/2026/apr/06/tech-layoffs-ai-work",
+          "date": "Mon, 06 Apr 2026 21:52:08 GMT"
+        },
+        {
+          "title": "Using AI to speed up Australia\u2019s environmental approvals risks \u2018robodebt-style\u2019 failures, scientists say",
           "link": "https://www.theguardian.com/environment/2026/apr/06/ai-environmental-assessments-robodebt-style-failures",
           "date": "Mon, 06 Apr 2026 15:00:23 GMT"
         },
@@ -430,11 +435,6 @@
           "title": "\u2018I always considered social media evil\u2019: big tobacco whistleblower on tech\u2019s addictive products",
           "link": "https://www.theguardian.com/media/2026/apr/05/big-tobacco-whistleblower-social-media",
           "date": "Sun, 05 Apr 2026 14:00:52 GMT"
-        },
-        {
-          "title": "Should we be polite to voice assistants and AIs?",
-          "link": "https://www.theguardian.com/lifeandstyle/2026/apr/05/should-we-be-polite-to-voice-assistants-and-ais",
-          "date": "Sun, 05 Apr 2026 13:00:51 GMT"
         }
       ],
       "error": null
