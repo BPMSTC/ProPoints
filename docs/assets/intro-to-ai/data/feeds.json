@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-06T22:33:59.515337+00:00",
+  "generatedAt": "2026-04-06T23:32:56.958007+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -232,19 +232,19 @@
           "date": "2025-09-09T02:25:04+00:00"
         },
         {
+          "title": "Terminal-based oscilloscope with CRT phosphor physics, vibe coded in Nim",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1see9s0/terminalbased_oscilloscope_with_crt_phosphor/",
+          "date": "2026-04-06T22:49:40+00:00"
+        },
+        {
+          "title": "Meshy MCP Is Here - Big Step for AI 3D Workflows",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1see7bk/meshy_mcp_is_here_big_step_for_ai_3d_workflows/",
+          "date": "2026-04-06T22:46:50+00:00"
+        },
+        {
           "title": "New SOTA OpenSource AI to decompose live2D layers!",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1sdwgp8/new_sota_opensource_ai_to_decompose_live2d_layers/",
           "date": "2026-04-06T11:42:19+00:00"
-        },
-        {
-          "title": "Introducing RVM: The Virtual Machine Reimagined for the Agentic Age.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1sd66cr/introducing_rvm_the_virtual_machine_reimagined/",
-          "date": "2026-04-05T15:15:12+00:00"
-        },
-        {
-          "title": "A real-time AI decompiler that transforms #ClaudeCode back into readable source code. Point it at any version. It decompiles into folders and src graphs, runs, is modifiable, every transform is cryptographically proven.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1sbg22j/a_realtime_ai_decompiler_that_transforms/",
-          "date": "2026-04-03T15:03:46+00:00"
         }
       ],
       "error": null
@@ -309,12 +309,22 @@
       "name": "Announcements - Stability AI",
       "url": "https://stability.ai/blog?format=rss",
       "items": [],
-      "error": "<unknown>:2:0: syntax error"
+      "error": null
     },
     {
       "name": "Ars Technica - All content",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
+        {
+          "title": "After court loss, RFK Jr. gives himself more power over CDC vaccine panel",
+          "link": "https://arstechnica.com/health/2026/04/after-court-loss-rfk-jr-gives-himself-more-power-over-cdc-vaccine-panel/",
+          "date": "Mon, 06 Apr 2026 22:34:11 +0000"
+        },
+        {
+          "title": "From folding boxes to fixing vacuums, GEN-1 robotics model hits 99% reliability",
+          "link": "https://arstechnica.com/ai/2026/04/generalists-new-physical-robotics-ai-brings-production-level-success-rates/",
+          "date": "Mon, 06 Apr 2026 22:18:33 +0000"
+        },
         {
           "title": "Sports bets on prediction markets ruled to be \"swaps,\" exempt from state laws",
           "link": "https://arstechnica.com/tech-policy/2026/04/sports-bets-on-prediction-markets-ruled-to-be-swaps-exempt-from-state-laws/",
@@ -329,16 +339,6 @@
           "title": "\u201cThe problem is Sam Altman\u201d: OpenAI Insiders don\u2019t trust CEO",
           "link": "https://arstechnica.com/tech-policy/2026/04/the-problem-is-sam-altman-openai-insiders-dont-trust-ceo/",
           "date": "Mon, 06 Apr 2026 21:23:36 +0000"
-        },
-        {
-          "title": "NASA's Moon ship and rocket seem to be working well, so what about the landers?",
-          "link": "https://arstechnica.com/space/2026/04/nasas-moon-ship-and-rocket-seem-to-be-working-well-so-what-about-the-landers/",
-          "date": "Mon, 06 Apr 2026 18:19:07 +0000"
-        },
-        {
-          "title": "Teardown of unreleased LG Rollable shows why rollable phones aren't a thing",
-          "link": "https://arstechnica.com/gadgets/2026/04/teardown-of-unreleased-lg-rollable-shows-why-rollable-phones-arent-a-thing/",
-          "date": "Mon, 06 Apr 2026 17:39:07 +0000"
         }
       ],
       "error": null
@@ -353,6 +353,11 @@
           "date": "2026-04-06T15:49:08+00:00"
         },
         {
+          "title": "OpenAI lays out policy vision for a world remade by AI",
+          "link": "https://www.reddit.com/r/artificial/comments/1seegdp/openai_lays_out_policy_vision_for_a_world_remade/",
+          "date": "2026-04-06T22:57:01+00:00"
+        },
+        {
           "title": "AI machine sorts clothes faster than humans to boost textile recycling in China",
           "link": "https://www.reddit.com/r/artificial/comments/1sdwgvg/ai_machine_sorts_clothes_faster_than_humans_to/",
           "date": "2026-04-06T11:42:32+00:00"
@@ -363,14 +368,9 @@
           "date": "2026-04-05T20:52:31+00:00"
         },
         {
-          "title": "I Built a Functional Cognitive Engine",
-          "link": "https://www.reddit.com/r/artificial/comments/1se34g7/i_built_a_functional_cognitive_engine/",
-          "date": "2026-04-06T16:05:25+00:00"
-        },
-        {
-          "title": "AI is struggling to take our jobs",
-          "link": "https://www.reddit.com/r/artificial/comments/1seb268/ai_is_struggling_to_take_our_jobs/",
-          "date": "2026-04-06T20:46:37+00:00"
+          "title": "Three Memory Architectures for AI Companions: pgvector, Scratchpad, and Filesystem",
+          "link": "https://www.reddit.com/r/artificial/comments/1seezny/three_memory_architectures_for_ai_companions/",
+          "date": "2026-04-06T23:18:44+00:00"
         }
       ],
       "error": null
