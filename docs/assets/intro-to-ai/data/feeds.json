@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T17:57:07.344814+00:00",
+  "generatedAt": "2026-04-07T19:06:25.916533+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,40 +150,14 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "Asylon and Thrive Logic bring physical AI to enterprise perimeter security",
-          "link": "https://www.artificialintelligence-news.com/news/physical-ai-security-at-the-enterprise-perimeter-takes-a-step-closer/",
-          "date": "Tue, 07 Apr 2026 14:40:42 +0000"
-        },
-        {
-          "title": "Boomi calls it \u201cdata activation\u201d and says it\u2019s the missing step in every AI deployment",
-          "link": "https://www.artificialintelligence-news.com/news/boomi-agentic-ai-data-activation-missing-step/",
-          "date": "Tue, 07 Apr 2026 12:00:00 +0000"
-        },
-        {
-          "title": "Anthropic\u2019s refusal to arm AI is exactly why the UK wants it",
-          "link": "https://www.artificialintelligence-news.com/news/anthropic-uk-expansion-london-pentagon/",
-          "date": "Tue, 07 Apr 2026 10:00:00 +0000"
-        },
-        {
-          "title": "As AI agents take on more tasks, governance becomes a priority",
-          "link": "https://www.artificialintelligence-news.com/news/as-ai-agents-take-on-more-tasks-governance-becomes-a-priority/",
-          "date": "Mon, 06 Apr 2026 10:00:00 +0000"
-        },
-        {
-          "title": "KiloClaw targets shadow AI with autonomous agent governance",
-          "link": "https://www.artificialintelligence-news.com/news/kiloclaw-targets-shadow-ai-autonomous-agent-governance/",
-          "date": "Thu, 02 Apr 2026 16:30:53 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
       "url": "https://venturebeat.com/category/ai/feed/",
       "items": [],
-      "error": "document declared as us-ascii, but parsed as utf-8"
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>"
     },
     {
       "name": "AI Now Institute",
@@ -290,7 +264,12 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Testing suggests Google's AI Overviews tells millions of lies per hour",
+          "title": "SCOTUS overturns 5th Circuit ruling that told ISP to kick pirates off Internet",
+          "link": "https://arstechnica.com/tech-policy/2026/04/scotus-overturns-5th-circuit-ruling-that-told-isp-to-kick-pirates-off-internet/",
+          "date": "Tue, 07 Apr 2026 18:00:20 +0000"
+        },
+        {
+          "title": "Testing suggests Google's AI Overviews tell millions of lies per hour",
           "link": "https://arstechnica.com/google/2026/04/analysis-finds-google-ai-overviews-is-wrong-10-percent-of-the-time/",
           "date": "Tue, 07 Apr 2026 16:53:55 +0000"
         },
@@ -308,11 +287,6 @@
           "title": "The Rivian R2 will launch with 335 miles of range",
           "link": "https://arstechnica.com/cars/2026/04/rivian-r2-epa-certification-leaked-gets-335-miles-of-range/",
           "date": "Tue, 07 Apr 2026 14:54:16 +0000"
-        },
-        {
-          "title": "Intel is going all-in on advanced chip packaging",
-          "link": "https://arstechnica.com/gadgets/2026/04/intel-is-going-all-in-on-advanced-chip-packaging/",
-          "date": "Tue, 07 Apr 2026 09:00:03 +0000"
         }
       ],
       "error": null
@@ -424,6 +398,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "College Students Losing Ability to Participate in Class Discussions Since They Offloaded Their Thinking to AI",
+          "link": "https://futurism.com/artificial-intelligence/ai-college-students-homogenized",
+          "date": "Tue, 07 Apr 2026 14:01:29 -0400"
+        },
+        {
           "title": "Wall Street Journal Editor-in-Chief Instructs Staff to Welcome AI Sloplords",
           "link": "https://futurism.com/artificial-intelligence/wall-street-journal-sloplords",
           "date": "Tue, 07 Apr 2026 11:15:19 -0400"
@@ -442,11 +421,6 @@
           "title": "Inside Sources Say Sam Altman Is a Sociopath",
           "link": "https://futurism.com/artificial-intelligence/sources-sam-altman-sociopath",
           "date": "Mon, 06 Apr 2026 16:10:00 -0400"
-        },
-        {
-          "title": "Startup Approved to Let AI System Prescribe Psychiatric Medication",
-          "link": "https://futurism.com/health-medicine/startup-ai-system-prescribe-psychiatric-medication",
-          "date": "Mon, 06 Apr 2026 13:47:12 -0400"
         }
       ],
       "error": null
@@ -455,6 +429,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything",
+          "link": "https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/",
+          "date": "Tue, 07 Apr 2026 18:49:50 +0000"
+        },
         {
           "title": "The Ridiculously Nerdy Intel Bet That Could Rake in Billions",
           "link": "https://www.wired.com/story/why-chip-packaging-could-decide-the-next-phase-of-the-ai-boom/",
@@ -474,11 +453,6 @@
           "title": "OpenAI\u2019s Fidji Simo Is Taking Medical Leave Amid an Executive Shake-Up",
           "link": "https://www.wired.com/story/openais-fidji-simo-is-taking-a-leave-of-absence/",
           "date": "Fri, 03 Apr 2026 19:38:35 +0000"
-        },
-        {
-          "title": "The 3 Best Portable Jump Starters in 2026: Get Charged Up",
-          "link": "https://www.wired.com/story/best-portable-jump-starters/",
-          "date": "Fri, 03 Apr 2026 10:39:00 +0000"
         }
       ],
       "error": null
