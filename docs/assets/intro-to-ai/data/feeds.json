@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-06T23:32:56.958007+00:00",
+  "generatedAt": "2026-04-07T02:07:38.473861+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -309,7 +309,7 @@
       "name": "Announcements - Stability AI",
       "url": "https://stability.ai/blog?format=rss",
       "items": [],
-      "error": null
+      "error": "<unknown>:2:0: syntax error"
     },
     {
       "name": "Ars Technica - All content",
@@ -353,9 +353,9 @@
           "date": "2026-04-06T15:49:08+00:00"
         },
         {
-          "title": "OpenAI lays out policy vision for a world remade by AI",
-          "link": "https://www.reddit.com/r/artificial/comments/1seegdp/openai_lays_out_policy_vision_for_a_world_remade/",
-          "date": "2026-04-06T22:57:01+00:00"
+          "title": "If an AI could genuinely capture what makes someone them, how would this look in the world?",
+          "link": "https://www.reddit.com/r/artificial/comments/1seextp/if_an_ai_could_genuinely_capture_what_makes/",
+          "date": "2026-04-06T23:16:38+00:00"
         },
         {
           "title": "AI machine sorts clothes faster than humans to boost textile recycling in China",
@@ -363,14 +363,14 @@
           "date": "2026-04-06T11:42:32+00:00"
         },
         {
-          "title": "I have been coding for 11 years and I caught myself completely unable to debug a problem without AI assistance last month. That scared me more than anything I have seen in this industry.",
-          "link": "https://www.reddit.com/r/artificial/comments/1sderg4/i_have_been_coding_for_11_years_and_i_caught/",
-          "date": "2026-04-05T20:52:31+00:00"
+          "title": "AI is struggling to take our jobs",
+          "link": "https://www.reddit.com/r/artificial/comments/1seb268/ai_is_struggling_to_take_our_jobs/",
+          "date": "2026-04-06T20:46:37+00:00"
         },
         {
-          "title": "Three Memory Architectures for AI Companions: pgvector, Scratchpad, and Filesystem",
-          "link": "https://www.reddit.com/r/artificial/comments/1seezny/three_memory_architectures_for_ai_companions/",
-          "date": "2026-04-06T23:18:44+00:00"
+          "title": "OpenAI lays out policy vision for a world remade by AI",
+          "link": "https://www.reddit.com/r/artificial/comments/1seegdp/openai_lays_out_policy_vision_for_a_world_remade/",
+          "date": "2026-04-06T22:57:01+00:00"
         }
       ],
       "error": null
@@ -540,6 +540,11 @@
       "url": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "items": [
         {
+          "title": "AI breakthrough cuts energy use by 100x while boosting accuracy",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm",
+          "date": "Sun, 05 Apr 2026 21:23:54 EDT"
+        },
+        {
           "title": "DNA robots could deliver drugs and hunt viruses inside your body",
           "link": "https://www.sciencedaily.com/releases/2026/03/260331001104.htm",
           "date": "Tue, 31 Mar 2026 07:16:58 EDT"
@@ -558,11 +563,6 @@
           "title": "Scientists built the hardest AI test ever and the results are surprising",
           "link": "https://www.sciencedaily.com/releases/2026/03/260313002650.htm",
           "date": "Fri, 13 Mar 2026 02:08:43 EDT"
-        },
-        {
-          "title": "ChatGPT as a therapist? New study reveals serious ethical risks",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260302030642.htm",
-          "date": "Mon, 02 Mar 2026 10:04:35 EST"
         }
       ],
       "error": null
