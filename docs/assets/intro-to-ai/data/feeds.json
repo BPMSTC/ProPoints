@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T11:52:02.105115+00:00",
+  "generatedAt": "2026-04-07T13:13:48.904771+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Redefining Development in the Age of Agentic AI",
+          "link": "https://aibusiness.com/agentic-ai/redefining-development-age-of-agentic-ai",
+          "date": "Tue, 07 Apr 2026 12:29:32 GMT"
+        },
+        {
           "title": "OpenAI Addresses AI's Effects and Poses Possible Answers in New Doc",
           "link": "https://aibusiness.com/ai-policy/openai-addresses-ai-s-effects-poses-possible-answers-new-doc",
           "date": "Mon, 06 Apr 2026 19:46:29 GMT"
@@ -132,11 +137,6 @@
           "title": "Microsoft to Invest $10B in AI and Cybersecurity in Japan",
           "link": "https://aibusiness.com/generative-ai/microsoft-invest-10b-ai-cybersecurity-japan",
           "date": "Fri, 03 Apr 2026 15:05:44 GMT"
-        },
-        {
-          "title": "Google Launches Open Model Family Gemma 4",
-          "link": "https://aibusiness.com/generative-ai/google-launches-open-model-family-gemma-4",
-          "date": "Fri, 03 Apr 2026 12:51:47 GMT"
         }
       ],
       "error": null
@@ -151,6 +151,11 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [
+        {
+          "title": "Boomi calls it \u201cdata activation\u201d and says it\u2019s the missing step in every AI deployment",
+          "link": "https://www.artificialintelligence-news.com/news/boomi-agentic-ai-data-activation-missing-step/",
+          "date": "Tue, 07 Apr 2026 12:00:00 +0000"
+        },
         {
           "title": "Anthropic\u2019s refusal to arm AI is exactly why the UK wants it",
           "link": "https://www.artificialintelligence-news.com/news/anthropic-uk-expansion-london-pentagon/",
@@ -170,11 +175,6 @@
           "title": "5 best practices to secure AI systems",
           "link": "https://www.artificialintelligence-news.com/news/5-best-practices-to-secure-ai-systems/",
           "date": "Thu, 02 Apr 2026 14:45:03 +0000"
-        },
-        {
-          "title": "China\u2019s Five-Year Plan details the targets for AI deployment",
-          "link": "https://www.artificialintelligence-news.com/news/chinas-five-year-plan-details-the-targets-for-ai-deployment/",
-          "date": "Thu, 02 Apr 2026 13:23:00 +0000"
         }
       ],
       "error": null
@@ -363,14 +363,14 @@
           "date": "2026-04-06T15:49:08+00:00"
         },
         {
+          "title": "The \"Jarvis on day one\" trap: why trying to build one AI agent that does everything costs you months",
+          "link": "https://www.reddit.com/r/artificial/comments/1seu2cw/the_jarvis_on_day_one_trap_why_trying_to_build/",
+          "date": "2026-04-07T12:06:52+00:00"
+        },
+        {
           "title": "Stop Overcomplicating AI Workflows. This Is the Simple Framework",
           "link": "https://www.reddit.com/r/artificial/comments/1setez5/stop_overcomplicating_ai_workflows_this_is_the/",
           "date": "2026-04-07T11:36:12+00:00"
-        },
-        {
-          "title": "Lemonade 10.1 released for latest improvements for local LLMs on AMD GPUs & NPUs",
-          "link": "https://www.reddit.com/r/artificial/comments/1sestah/lemonade_101_released_for_latest_improvements_for/",
-          "date": "2026-04-07T11:05:48+00:00"
         }
       ],
       "error": null
@@ -412,6 +412,16 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Porn, dog poo and social media snaps: the \u2018taskers\u2019 scraping the internet for Meta-owned AI firm",
+          "link": "https://www.theguardian.com/technology/2026/apr/07/meta-scale-ai-social-media-technology",
+          "date": "Tue, 07 Apr 2026 12:00:47 GMT"
+        },
+        {
+          "title": "\u2018There\u2019s a lot of desperation\u2019: skilled older workers turn to AI training to stay afloat",
+          "link": "https://www.theguardian.com/technology/ng-interactive/2026/apr/07/ai-training-work-jobs",
+          "date": "Tue, 07 Apr 2026 12:00:46 GMT"
+        },
+        {
           "title": "Tech companies are cutting jobs and betting on AI. The payoff is far from guaranteed",
           "link": "https://www.theguardian.com/technology/2026/apr/06/tech-layoffs-ai-work",
           "date": "Mon, 06 Apr 2026 21:52:08 GMT"
@@ -425,16 +435,6 @@
           "title": "Republicans fooled by AI-generated image of US airman rescued in Iran",
           "link": "https://www.theguardian.com/us-news/2026/apr/06/republicans-ai-image-us-plane-member-rescue-iran",
           "date": "Mon, 06 Apr 2026 14:03:43 GMT"
-        },
-        {
-          "title": "What can 160-million-year-old clay tell us about AI and ethics? Inside Es Devlin\u2019s tech and pottery summit",
-          "link": "https://www.theguardian.com/artanddesign/2026/apr/06/es-devlin-ai-pottery-jurassic-clay-nico-muhly",
-          "date": "Mon, 06 Apr 2026 12:04:59 GMT"
-        },
-        {
-          "title": "\u2018I always considered social media evil\u2019: big tobacco whistleblower on tech\u2019s addictive products",
-          "link": "https://www.theguardian.com/media/2026/apr/05/big-tobacco-whistleblower-social-media",
-          "date": "Sun, 05 Apr 2026 14:00:52 GMT"
         }
       ],
       "error": null
@@ -476,6 +476,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Frontier AI Models Are Doing Something Absolutely Bizarre When Asked to Diagnose Medical X-Rays",
+          "link": "https://futurism.com/artificial-intelligence/frontier-models-medical-advice-x-rays-cant-see",
+          "date": "Tue, 07 Apr 2026 09:06:31 -0400"
+        },
+        {
           "title": "The Entire State of Maine Is Poised to Ban New Data Centers",
           "link": "https://futurism.com/artificial-intelligence/state-maine-ban-new-data-centers",
           "date": "Mon, 06 Apr 2026 17:06:52 -0400"
@@ -494,11 +499,6 @@
           "title": "Sam Altman Watches Awkwardly As He\u2019s Shown Bizarre ChatGPT Issue: \u201cUh, Maybe, Uhhh\u2026\u201d",
           "link": "https://futurism.com/artificial-intelligence/sam-altman-awkward-reaction-chatgpt-issue",
           "date": "Mon, 06 Apr 2026 12:31:14 -0400"
-        },
-        {
-          "title": "Why Is the New York Times Laundering the Reputation of a Sleazy AI Startup That\u2019s Selling GLP-1s via a Dishonest Dumpster Fire of Fake Doctors, Phony Before-and-After Pictures, and Other Glaring Red Flags?",
-          "link": "https://futurism.com/artificial-intelligence/new-york-times-medvi-ai-glp1s",
-          "date": "Mon, 06 Apr 2026 10:49:10 -0400"
         }
       ],
       "error": null
