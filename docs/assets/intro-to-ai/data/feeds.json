@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-04-07T15:05:38.393708+00:00",
+  "generatedAt": "2026-04-07T16:55:11.776907+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Maine Is Close to Passing a Moratorium on New Datacenters",
+          "link": "https://www.404media.co/maine-datacenter-construction-bill-ld-307/",
+          "date": "Tue, 07 Apr 2026 15:56:48 GMT"
+        },
         {
           "title": "Data Center Tech Lobbyists Fearmonger in Attempt to Retroactively Roll Back Right to Repair Law",
           "link": "https://www.404media.co/data-center-tech-lobbyists-fearmonger-in-attempt-to-retroactively-roll-back-right-to-repair-law/",
@@ -24,11 +29,6 @@
           "title": "Wildlife Conservation Police Are Searching Thousands of Flock Cameras for ICE",
           "link": "https://www.404media.co/floridas-wildlife-cops-are-searching-thousands-of-flock-cameras-for-ice/",
           "date": "Mon, 06 Apr 2026 13:53:56 GMT"
-        },
-        {
-          "title": "Gambling Is Thousands of Years Older Than We Thought, Rewriting Human Evolution",
-          "link": "https://www.404media.co/gambling-is-thousands-of-years-older-than-we-thought-rewriting-human-evolution/",
-          "date": "Sat, 04 Apr 2026 13:00:42 GMT"
         }
       ],
       "error": null
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Spanish Startup Xoople Lands $130M to Build Satellites for AI",
+          "link": "https://aibusiness.com/generative-ai/spanish-startup-xoople-lands-130m-build-satellites-for-ai",
+          "date": "Tue, 07 Apr 2026 15:11:28 GMT"
+        },
+        {
           "title": "Anthropic Forges Chip Deals to Accelerate Claude\u2019s Growth",
           "link": "https://aibusiness.com/generative-ai/anthropic-forges-chip-deals-accelerate-claude-s-growth",
           "date": "Tue, 07 Apr 2026 14:39:52 GMT"
@@ -132,11 +137,6 @@
           "title": "OPINION: Fast, Flexible AI Testing Is the Foundation of Strategic Leadership",
           "link": "https://aibusiness.com/generative-ai/opinion-fast-flexible-ai-testing-foundation-strategic-leadership",
           "date": "Mon, 06 Apr 2026 14:52:16 GMT"
-        },
-        {
-          "title": "Claude Subscribers Now Have to Pay to Use OpenClaw",
-          "link": "https://aibusiness.com/agentic-ai/claude-subscribers-now-have-pay-use-openclaw",
-          "date": "Mon, 06 Apr 2026 14:39:11 GMT"
         }
       ],
       "error": null
@@ -220,34 +220,8 @@
     {
       "name": "Ai Prompt Programming",
       "url": "https://www.reddit.com/r/aipromptprogramming/.rss",
-      "items": [
-        {
-          "title": "Agentic Flow: Easily switch between low/no-cost AI models (OpenRouter/Onnx/Gemini) in Claude Code and Claude Agent SDK. Build agents in Claude Code, deploy them anywhere. >_ npx agentic-flow",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1nzvbsl/agentic_flow_easily_switch_between_lownocost_ai/",
-          "date": "2025-10-06T21:02:20+00:00"
-        },
-        {
-          "title": "I created an Agentic Coding Competition MCP for Cline/Claude-Code/Cursor/Co-pilot using E2B Sandboxes. I'm looking for some Beta Testers. > npx flow-nexus@latest",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1nc75k5/i_created_an_agentic_coding_competition_mcp_for/",
-          "date": "2025-09-09T02:25:04+00:00"
-        },
-        {
-          "title": "Meshy MCP Is Here - Big Step for AI 3D Workflows",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1see7bk/meshy_mcp_is_here_big_step_for_ai_3d_workflows/",
-          "date": "2026-04-06T22:46:50+00:00"
-        },
-        {
-          "title": "Terminal-based oscilloscope with CRT phosphor physics, vibe coded in Nim",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1see9s0/terminalbased_oscilloscope_with_crt_phosphor/",
-          "date": "2026-04-06T22:49:40+00:00"
-        },
-        {
-          "title": "New SOTA OpenSource AI to decompose live2D layers!",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1sdwgp8/new_sota_opensource_ai_to_decompose_live2d_layers/",
-          "date": "2026-04-06T11:42:19+00:00"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:12: not well-formed (invalid token)"
     },
     {
       "name": "AI \u2013 SiliconANGLE",
@@ -309,12 +283,22 @@
       "name": "Announcements - Stability AI",
       "url": "https://stability.ai/blog?format=rss",
       "items": [],
-      "error": null
+      "error": "<unknown>:2:0: syntax error"
     },
     {
       "name": "Ars Technica - All content",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
+        {
+          "title": "Finally, Artemis delivers some exceptional, high-quality photos of the Moon",
+          "link": "https://arstechnica.com/space/2026/04/the-artemis-ii-mission-sends-back-stunning-images-of-the-far-side-of-the-moon/",
+          "date": "Tue, 07 Apr 2026 15:54:54 +0000"
+        },
+        {
+          "title": "The Rivian R2 will launch with 335 miles of range",
+          "link": "https://arstechnica.com/cars/2026/04/rivian-r2-epa-certification-leaked-gets-335-miles-of-range/",
+          "date": "Tue, 07 Apr 2026 14:54:16 +0000"
+        },
         {
           "title": "Intel is going all-in on advanced chip packaging",
           "link": "https://arstechnica.com/gadgets/2026/04/intel-is-going-all-in-on-advanced-chip-packaging/",
@@ -329,16 +313,6 @@
           "title": "After court loss, RFK Jr. gives himself more power over CDC vaccine panel",
           "link": "https://arstechnica.com/health/2026/04/after-court-loss-rfk-jr-gives-himself-more-power-over-cdc-vaccine-panel/",
           "date": "Mon, 06 Apr 2026 22:34:11 +0000"
-        },
-        {
-          "title": "From folding boxes to fixing vacuums, GEN-1 robotics model hits 99% reliability",
-          "link": "https://arstechnica.com/ai/2026/04/generalists-new-physical-robotics-ai-brings-production-level-success-rates/",
-          "date": "Mon, 06 Apr 2026 22:18:33 +0000"
-        },
-        {
-          "title": "Sports bets on prediction markets ruled to be \"swaps,\" exempt from state laws",
-          "link": "https://arstechnica.com/tech-policy/2026/04/sports-bets-on-prediction-markets-ruled-to-be-swaps-exempt-from-state-laws/",
-          "date": "Mon, 06 Apr 2026 21:56:36 +0000"
         }
       ],
       "error": null
@@ -346,39 +320,18 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "China drafts law regulating 'digital humans' and banning addictive virtual services for children",
-          "link": "https://www.reddit.com/r/artificial/comments/1seqb6n/china_drafts_law_regulating_digital_humans_and/",
-          "date": "2026-04-07T08:41:24+00:00"
-        },
-        {
-          "title": "30 Billion ( 3x in 3 months) WTF is thr future",
-          "link": "https://www.reddit.com/r/artificial/comments/1seq6nw/30_billion_3x_in_3_months_wtf_is_thr_future/",
-          "date": "2026-04-07T08:33:21+00:00"
-        },
-        {
-          "title": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
-          "link": "https://www.reddit.com/r/artificial/comments/1se2nxm/cognitive_surrender_leads_ai_users_to_abandon/",
-          "date": "2026-04-06T15:49:08+00:00"
-        },
-        {
-          "title": "The \"Jarvis on day one\" trap: why trying to build one AI agent that does everything costs you months",
-          "link": "https://www.reddit.com/r/artificial/comments/1seu2cw/the_jarvis_on_day_one_trap_why_trying_to_build/",
-          "date": "2026-04-07T12:06:52+00:00"
-        },
-        {
-          "title": "Stop Overcomplicating AI Workflows. This Is the Simple Framework",
-          "link": "https://www.reddit.com/r/artificial/comments/1setez5/stop_overcomplicating_ai_workflows_this_is_the/",
-          "date": "2026-04-07T11:36:12+00:00"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:12: not well-formed (invalid token)"
     },
     {
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Why AI shouldn\u2019t be used even to decide \u2018simple\u2019 court cases",
+          "link": "https://theconversation.com/why-ai-shouldnt-be-used-even-to-decide-simple-court-cases-273535",
+          "date": "2026-04-07T15:20:08Z"
+        },
         {
           "title": "AI is reengineering drug discovery by speeding up testing and scanning petabytes of data for connections between diseases",
           "link": "https://theconversation.com/ai-is-reengineering-drug-discovery-by-speeding-up-testing-and-scanning-petabytes-of-data-for-connections-between-diseases-274693",
@@ -398,11 +351,6 @@
           "title": "From Jurassic Park to dreams of AI doom, pop culture shapes science more than we like to admit",
           "link": "https://theconversation.com/from-jurassic-park-to-dreams-of-ai-doom-pop-culture-shapes-science-more-than-we-like-to-admit-279245",
           "date": "2026-04-06T18:20:11Z"
-        },
-        {
-          "title": "AI\u2019s fluency in other languages hides a Western worldview that can mislead users \u2212 a scholar of Indonesian society explains",
-          "link": "https://theconversation.com/ais-fluency-in-other-languages-hides-a-western-worldview-that-can-mislead-users-a-scholar-of-indonesian-society-explains-276865",
-          "date": "2026-04-02T12:45:58Z"
         }
       ],
       "error": null
@@ -415,6 +363,11 @@
           "title": "Porn, dog poo and social media snaps: the \u2018taskers\u2019 scraping the internet for Meta-owned AI firm",
           "link": "https://www.theguardian.com/technology/2026/apr/07/meta-scale-ai-social-media-technology",
           "date": "Tue, 07 Apr 2026 12:00:47 GMT"
+        },
+        {
+          "title": "Tell us: do you use AI chatbots to make decisions for you?",
+          "link": "https://www.theguardian.com/technology/2026/apr/07/do-you-rely-on-ai-chatbots-to-make-decisions-we-want-to-hear-from-you",
+          "date": "Tue, 07 Apr 2026 16:05:00 GMT"
         },
         {
           "title": "Row over \u2018virtual gated community\u2019 AI surveillance plan in Toronto neighbourhood",
@@ -430,11 +383,6 @@
           "title": "Tech companies are cutting jobs and betting on AI. The payoff is far from guaranteed",
           "link": "https://www.theguardian.com/technology/2026/apr/06/tech-layoffs-ai-work",
           "date": "Mon, 06 Apr 2026 21:52:08 GMT"
-        },
-        {
-          "title": "Using AI to speed up Australia\u2019s environmental approvals risks \u2018robodebt-style\u2019 failures, scientists say",
-          "link": "https://www.theguardian.com/environment/2026/apr/06/ai-environmental-assessments-robodebt-style-failures",
-          "date": "Mon, 06 Apr 2026 15:00:23 GMT"
         }
       ],
       "error": null
@@ -476,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Wall Street Journal Editor-in-Chief Instructs Staff to Welcome AI Sloplords",
+          "link": "https://futurism.com/artificial-intelligence/wall-street-journal-sloplords",
+          "date": "Tue, 07 Apr 2026 11:15:19 -0400"
+        },
+        {
           "title": "Frontier AI Models Are Doing Something Absolutely Bizarre When Asked to Diagnose Medical X-Rays",
           "link": "https://futurism.com/artificial-intelligence/frontier-models-medical-advice-x-rays-cant-see",
           "date": "Tue, 07 Apr 2026 09:06:31 -0400"
@@ -494,11 +447,6 @@
           "title": "Startup Approved to Let AI System Prescribe Psychiatric Medication",
           "link": "https://futurism.com/health-medicine/startup-ai-system-prescribe-psychiatric-medication",
           "date": "Mon, 06 Apr 2026 13:47:12 -0400"
-        },
-        {
-          "title": "Sam Altman Watches Awkwardly As He\u2019s Shown Bizarre ChatGPT Issue: \u201cUh, Maybe, Uhhh\u2026\u201d",
-          "link": "https://futurism.com/artificial-intelligence/sam-altman-awkward-reaction-chatgpt-issue",
-          "date": "Mon, 06 Apr 2026 12:31:14 -0400"
         }
       ],
       "error": null
