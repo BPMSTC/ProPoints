@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T19:06:25.916533+00:00",
+  "generatedAt": "2026-04-07T20:43:13.161300+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,14 +150,40 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Asylon and Thrive Logic bring physical AI to enterprise perimeter security",
+          "link": "https://www.artificialintelligence-news.com/news/physical-ai-security-at-the-enterprise-perimeter-takes-a-step-closer/",
+          "date": "Tue, 07 Apr 2026 14:40:42 +0000"
+        },
+        {
+          "title": "Boomi calls it \u201cdata activation\u201d and says it\u2019s the missing step in every AI deployment",
+          "link": "https://www.artificialintelligence-news.com/news/boomi-agentic-ai-data-activation-missing-step/",
+          "date": "Tue, 07 Apr 2026 12:00:00 +0000"
+        },
+        {
+          "title": "Anthropic\u2019s refusal to arm AI is exactly why the UK wants it",
+          "link": "https://www.artificialintelligence-news.com/news/anthropic-uk-expansion-london-pentagon/",
+          "date": "Tue, 07 Apr 2026 10:00:00 +0000"
+        },
+        {
+          "title": "As AI agents take on more tasks, governance becomes a priority",
+          "link": "https://www.artificialintelligence-news.com/news/as-ai-agents-take-on-more-tasks-governance-becomes-a-priority/",
+          "date": "Mon, 06 Apr 2026 10:00:00 +0000"
+        },
+        {
+          "title": "KiloClaw targets shadow AI with autonomous agent governance",
+          "link": "https://www.artificialintelligence-news.com/news/kiloclaw-targets-shadow-ai-autonomous-agent-governance/",
+          "date": "Thu, 02 Apr 2026 16:30:53 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
       "url": "https://venturebeat.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>"
+      "error": "document declared as us-ascii, but parsed as utf-8"
     },
     {
       "name": "AI Now Institute",
@@ -194,8 +220,34 @@
     {
       "name": "Ai Prompt Programming",
       "url": "https://www.reddit.com/r/aipromptprogramming/.rss",
-      "items": [],
-      "error": "<unknown>:2:12: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Agentic Flow: Easily switch between low/no-cost AI models (OpenRouter/Onnx/Gemini) in Claude Code and Claude Agent SDK. Build agents in Claude Code, deploy them anywhere. >_ npx agentic-flow",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1nzvbsl/agentic_flow_easily_switch_between_lownocost_ai/",
+          "date": "2025-10-06T21:02:20+00:00"
+        },
+        {
+          "title": "I created an Agentic Coding Competition MCP for Cline/Claude-Code/Cursor/Co-pilot using E2B Sandboxes. I'm looking for some Beta Testers. > npx flow-nexus@latest",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1nc75k5/i_created_an_agentic_coding_competition_mcp_for/",
+          "date": "2025-09-09T02:25:04+00:00"
+        },
+        {
+          "title": "Meshy MCP Is Here - Big Step for AI 3D Workflows",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1see7bk/meshy_mcp_is_here_big_step_for_ai_3d_workflows/",
+          "date": "2026-04-06T22:46:50+00:00"
+        },
+        {
+          "title": "Terminal-based oscilloscope with CRT phosphor physics, vibe coded in Nim",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1see9s0/terminalbased_oscilloscope_with_crt_phosphor/",
+          "date": "2026-04-06T22:49:40+00:00"
+        },
+        {
+          "title": "New SOTA OpenSource AI to decompose live2D layers!",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1sdwgp8/new_sota_opensource_ai_to_decompose_live2d_layers/",
+          "date": "2026-04-06T11:42:19+00:00"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI \u2013 SiliconANGLE",
@@ -264,6 +316,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "What the heck is wrong with our AI overlords?",
+          "link": "https://arstechnica.com/tech-policy/2026/04/what-the-heck-is-wrong-with-our-ai-overlords/",
+          "date": "Tue, 07 Apr 2026 20:02:25 +0000"
+        },
+        {
+          "title": "Bluesky users are mastering the fine art of blaming everything on \"vibe coding\"",
+          "link": "https://arstechnica.com/ai/2026/04/bluesky-users-are-mastering-the-fine-art-of-blaming-everything-on-vibe-coding/",
+          "date": "Tue, 07 Apr 2026 19:09:44 +0000"
+        },
+        {
           "title": "SCOTUS overturns 5th Circuit ruling that told ISP to kick pirates off Internet",
           "link": "https://arstechnica.com/tech-policy/2026/04/scotus-overturns-5th-circuit-ruling-that-told-isp-to-kick-pirates-off-internet/",
           "date": "Tue, 07 Apr 2026 18:00:20 +0000"
@@ -277,16 +339,6 @@
           "title": "Linux kernel maintainers are following through on removing Intel 486 support",
           "link": "https://arstechnica.com/gadgets/2026/04/linux-kernel-maintainers-are-following-through-on-removing-intel-486-support/",
           "date": "Tue, 07 Apr 2026 16:39:12 +0000"
-        },
-        {
-          "title": "Finally, Artemis delivers some exceptional, high-quality photos of the Moon",
-          "link": "https://arstechnica.com/space/2026/04/the-artemis-ii-mission-sends-back-stunning-images-of-the-far-side-of-the-moon/",
-          "date": "Tue, 07 Apr 2026 15:54:54 +0000"
-        },
-        {
-          "title": "The Rivian R2 will launch with 335 miles of range",
-          "link": "https://arstechnica.com/cars/2026/04/rivian-r2-epa-certification-leaked-gets-335-miles-of-range/",
-          "date": "Tue, 07 Apr 2026 14:54:16 +0000"
         }
       ],
       "error": null
@@ -294,8 +346,34 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
-      "error": "<unknown>:2:12: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "The public needs to control AI-run infrastructure, labor, education, and governance\u2014 NOT private actors",
+          "link": "https://www.reddit.com/r/artificial/comments/1sf4rk9/the_public_needs_to_control_airun_infrastructure/",
+          "date": "2026-04-07T18:40:50+00:00"
+        },
+        {
+          "title": "China drafts law regulating 'digital humans' and banning addictive virtual services for children",
+          "link": "https://www.reddit.com/r/artificial/comments/1seqb6n/china_drafts_law_regulating_digital_humans_and/",
+          "date": "2026-04-07T08:41:24+00:00"
+        },
+        {
+          "title": "FYI the Tennessee bill makes making an AI friend the same level as murder or aggravated rape",
+          "link": "https://www.reddit.com/r/artificial/comments/1sf2cc6/fyi_the_tennessee_bill_makes_making_an_ai_friend/",
+          "date": "2026-04-07T17:16:36+00:00"
+        },
+        {
+          "title": "Data Centers Are Military Targets Now",
+          "link": "https://www.reddit.com/r/artificial/comments/1sf6h6e/data_centers_are_military_targets_now/",
+          "date": "2026-04-07T19:42:29+00:00"
+        },
+        {
+          "title": "The \"Jarvis on day one\" trap: why trying to build one AI agent that does everything costs you months",
+          "link": "https://www.reddit.com/r/artificial/comments/1seu2cw/the_jarvis_on_day_one_trap_why_trying_to_build/",
+          "date": "2026-04-07T12:06:52+00:00"
+        }
+      ],
+      "error": null
     },
     {
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
@@ -398,7 +476,12 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
-          "title": "College Students Losing Ability to Participate in Class Discussions Since They Offloaded Their Thinking to AI",
+          "title": "Sam Altman\u2019s Coworkers Say He Can Barely Code and Misunderstands Basic Machine Learning Concepts",
+          "link": "https://futurism.com/artificial-intelligence/sam-altman-technical-coding",
+          "date": "Tue, 07 Apr 2026 16:11:14 -0400"
+        },
+        {
+          "title": "College Students Losing Ability to Participate in Class Discussions Because They Offloaded Their Thinking to AI",
           "link": "https://futurism.com/artificial-intelligence/ai-college-students-homogenized",
           "date": "Tue, 07 Apr 2026 14:01:29 -0400"
         },
@@ -416,11 +499,6 @@
           "title": "The Entire State of Maine Is Poised to Ban New Data Centers",
           "link": "https://futurism.com/artificial-intelligence/state-maine-ban-new-data-centers",
           "date": "Mon, 06 Apr 2026 17:06:52 -0400"
-        },
-        {
-          "title": "Inside Sources Say Sam Altman Is a Sociopath",
-          "link": "https://futurism.com/artificial-intelligence/sources-sam-altman-sociopath",
-          "date": "Mon, 06 Apr 2026 16:10:00 -0400"
         }
       ],
       "error": null
