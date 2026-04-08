@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-08T22:36:04.172828+00:00",
+  "generatedAt": "2026-04-08T23:35:19.917611+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "AI\u2019s software development success and central management needs",
-          "link": "https://www.artificialintelligence-news.com/news/ai-workflows-developer-success-and-central-project-management-needs/",
-          "date": "Wed, 08 Apr 2026 10:43:00 +0000"
-        },
-        {
-          "title": "Microsoft open-source toolkit secures AI agents at runtime",
-          "link": "https://www.artificialintelligence-news.com/news/microsoft-open-source-toolkit-secures-ai-agents-at-runtime/",
-          "date": "Wed, 08 Apr 2026 10:23:53 +0000"
-        },
-        {
-          "title": "Asylon and Thrive Logic bring physical AI to enterprise perimeter security",
-          "link": "https://www.artificialintelligence-news.com/news/physical-ai-security-at-the-enterprise-perimeter-takes-a-step-closer/",
-          "date": "Tue, 07 Apr 2026 14:40:42 +0000"
-        },
-        {
-          "title": "Boomi calls it \u201cdata activation\u201d and says it\u2019s the missing step in every AI deployment",
-          "link": "https://www.artificialintelligence-news.com/news/boomi-agentic-ai-data-activation-missing-step/",
-          "date": "Tue, 07 Apr 2026 12:00:00 +0000"
-        },
-        {
-          "title": "Anthropic\u2019s refusal to arm AI is exactly why the UK wants it",
-          "link": "https://www.artificialintelligence-news.com/news/anthropic-uk-expansion-london-pentagon/",
-          "date": "Tue, 07 Apr 2026 10:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -316,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Trump admin makes sweeping request for medical records of federal workers",
+          "link": "https://arstechnica.com/health/2026/04/trump-admin-seeks-medical-records-of-federal-workers-for-vague-reasons/",
+          "date": "Wed, 08 Apr 2026 22:00:11 +0000"
+        },
+        {
           "title": "LinkedIn scanning users' browser extensions sparks controversy and two lawsuits",
           "link": "https://arstechnica.com/tech-policy/2026/04/linkedin-scanning-users-browser-extensions-sparks-controversy-and-two-lawsuits/",
           "date": "Wed, 08 Apr 2026 21:08:06 +0000"
@@ -334,11 +313,6 @@
           "title": "How our digital devices are putting our right to privacy at risk",
           "link": "https://arstechnica.com/culture/2026/04/how-our-digital-devices-are-putting-our-right-to-privacy-at-risk/",
           "date": "Wed, 08 Apr 2026 19:17:30 +0000"
-        },
-        {
-          "title": "Motorola suddenly raises budget phone prices up to 50%\u2014you can probably thank AI",
-          "link": "https://arstechnica.com/gadgets/2026/04/motorolas-budget-phones-are-now-up-to-50-more-expensive-as-memory-shortage-drags-on/",
-          "date": "Wed, 08 Apr 2026 18:39:08 +0000"
         }
       ],
       "error": null
@@ -508,7 +482,7 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
-          "title": "Anthropic Supply-Chain Risk Label Should Stay In Place, Appeals Court Says",
+          "title": "Conflicting Rulings Leave Anthropic in \u2018Supply-Chain Risk\u2019 Limbo",
           "link": "https://www.wired.com/story/anthropic-appeals-court-ruling/",
           "date": "Wed, 08 Apr 2026 22:27:26 +0000"
         },
