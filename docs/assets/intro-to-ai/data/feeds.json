@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-08T16:59:04.847415+00:00",
+  "generatedAt": "2026-04-08T18:11:48.327093+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "AI\u2019s software development success and central management needs",
+          "link": "https://www.artificialintelligence-news.com/news/ai-workflows-developer-success-and-central-project-management-needs/",
+          "date": "Wed, 08 Apr 2026 10:43:00 +0000"
+        },
+        {
+          "title": "Microsoft open-source toolkit secures AI agents at runtime",
+          "link": "https://www.artificialintelligence-news.com/news/microsoft-open-source-toolkit-secures-ai-agents-at-runtime/",
+          "date": "Wed, 08 Apr 2026 10:23:53 +0000"
+        },
+        {
+          "title": "Asylon and Thrive Logic bring physical AI to enterprise perimeter security",
+          "link": "https://www.artificialintelligence-news.com/news/physical-ai-security-at-the-enterprise-perimeter-takes-a-step-closer/",
+          "date": "Tue, 07 Apr 2026 14:40:42 +0000"
+        },
+        {
+          "title": "Boomi calls it \u201cdata activation\u201d and says it\u2019s the missing step in every AI deployment",
+          "link": "https://www.artificialintelligence-news.com/news/boomi-agentic-ai-data-activation-missing-step/",
+          "date": "Tue, 07 Apr 2026 12:00:00 +0000"
+        },
+        {
+          "title": "Anthropic\u2019s refusal to arm AI is exactly why the UK wants it",
+          "link": "https://www.artificialintelligence-news.com/news/anthropic-uk-expansion-london-pentagon/",
+          "date": "Tue, 07 Apr 2026 10:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,7 +316,22 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "No F-150 in France? US automakers complain the EU blocks big trucks.",
+          "title": "Iran demands cryptocurrency toll from tankers passing through Strait of Hormuz",
+          "link": "https://arstechnica.com/tech-policy/2026/04/iran-demands-cryptocurrency-toll-from-tankers-passing-through-strait-of-hormuz/",
+          "date": "Wed, 08 Apr 2026 17:25:34 +0000"
+        },
+        {
+          "title": "Steam client files point to \"framerate estimator\" feature in the works",
+          "link": "https://arstechnica.com/gaming/2026/04/steam-client-files-point-to-framerate-estimator-feature-in-the-works/",
+          "date": "Wed, 08 Apr 2026 15:37:04 +0000"
+        },
+        {
+          "title": "For the first time ever, Amazon is cutting old Kindles off from the Kindle Store",
+          "link": "https://arstechnica.com/gadgets/2026/04/starting-in-may-pre-2013-kindles-wont-be-able-to-buy-or-download-new-books/",
+          "date": "Wed, 08 Apr 2026 15:26:57 +0000"
+        },
+        {
+          "title": "No big trucks for little roads: American OEMs say EU is blocking imports",
           "link": "https://arstechnica.com/cars/2026/04/no-f-150-in-france-us-automakers-complain-the-eu-blocks-big-trucks/",
           "date": "Wed, 08 Apr 2026 15:13:20 +0000"
         },
@@ -298,21 +339,6 @@
           "title": "With Orion still flying, NASA is nearing key decisions about Artemis III",
           "link": "https://arstechnica.com/space/2026/04/with-orion-still-flying-nasa-is-nearing-key-decisions-about-artemis-iii/",
           "date": "Wed, 08 Apr 2026 14:15:10 +0000"
-        },
-        {
-          "title": "Anthropic limits access to Mythos, its new cybersecurity AI model",
-          "link": "https://arstechnica.com/ai/2026/04/anthropic-limits-access-to-mythos-its-new-cybersecurity-ai-model/",
-          "date": "Wed, 08 Apr 2026 13:34:17 +0000"
-        },
-        {
-          "title": "Thousands of consumer routers hacked by Russia's military",
-          "link": "https://arstechnica.com/security/2026/04/russias-military-hacks-thousands-of-consumer-routers-to-steal-credentials/",
-          "date": "Wed, 08 Apr 2026 11:00:08 +0000"
-        },
-        {
-          "title": "Valve brings native Steam Link app to Apple's Vision Pro",
-          "link": "https://arstechnica.com/gaming/2026/04/valve-brings-native-steam-link-app-to-apples-vision-pro/",
-          "date": "Tue, 07 Apr 2026 22:21:21 +0000"
         }
       ],
       "error": null
@@ -332,6 +358,11 @@
           "date": "2026-04-08T14:12:15+00:00"
         },
         {
+          "title": "AI tools i actually use as a busy college student",
+          "link": "https://www.reddit.com/r/artificial/comments/1sfxsp9/ai_tools_i_actually_use_as_a_busy_college_student/",
+          "date": "2026-04-08T16:27:35+00:00"
+        },
+        {
           "title": "Why would Anthropic keep a cyber model like Project Glasswing invite-only?",
           "link": "https://www.reddit.com/r/artificial/comments/1sfnauw/why_would_anthropic_keep_a_cyber_model_like/",
           "date": "2026-04-08T08:49:57+00:00"
@@ -340,11 +371,6 @@
           "title": "Built a demo where an agent can provision 2 GPUs, then gets hard-blocked on the 3rd call",
           "link": "https://www.reddit.com/r/artificial/comments/1sfy8qf/built_a_demo_where_an_agent_can_provision_2_gpus/",
           "date": "2026-04-08T16:43:14+00:00"
-        },
-        {
-          "title": "Anthropic develops AI \u2018too dangerous to release to public\u2019",
-          "link": "https://www.reddit.com/r/artificial/comments/1sfx14g/anthropic_develops_ai_too_dangerous_to_release_to/",
-          "date": "2026-04-08T16:00:36+00:00"
         }
       ],
       "error": null
@@ -386,6 +412,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Anthropic says its latest AI model can expose weaknesses in software security",
+          "link": "https://www.theguardian.com/technology/2026/apr/08/anthropic-ai-cybersecurity-software",
+          "date": "Wed, 08 Apr 2026 17:15:38 GMT"
+        },
+        {
           "title": "Alarm in health service over Palantir staff being given NHS email accounts",
           "link": "https://www.theguardian.com/society/2026/apr/08/alarm-health-service-palantir-staff-nhs-email-accounts",
           "date": "Wed, 08 Apr 2026 14:15:08 GMT"
@@ -404,11 +435,6 @@
           "title": "Family of man killed in shooting at Florida State University to sue ChatGPT and OpenAI",
           "link": "https://www.theguardian.com/us-news/2026/apr/08/florida-state-university-shooting-robert-morales-family-sue-chatgpt-openai",
           "date": "Wed, 08 Apr 2026 12:00:32 GMT"
-        },
-        {
-          "title": "AI-generated Lego videos and Trump\u2019s poo-bombing: welcome to the Iran-US slopaganda wars | Mark Alfano and Micha\u0142 Klincewicz for the Conversation",
-          "link": "https://www.theguardian.com/commentisfree/2026/apr/08/lego-videos-iran-trump-ai-video-meme-propaganda-movie-animation",
-          "date": "Wed, 08 Apr 2026 03:52:49 GMT"
         }
       ],
       "error": null
@@ -450,6 +476,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Microsoft Mocked for Terms of Service That Admit Copilot Is for \u201cEntertainment Purposes Only\u201d",
+          "link": "https://futurism.com/artificial-intelligence/microsoft-mocked-terms-of-service-entertainment-only",
+          "date": "Wed, 08 Apr 2026 13:03:00 -0400"
+        },
+        {
           "title": "Anthropic Warns That \u201cReckless\u201d Claude Mythos Escaped a Sandbox Environment During Testing",
           "link": "https://futurism.com/artificial-intelligence/anthropic-claude-mythos-escaped-sandbox",
           "date": "Wed, 08 Apr 2026 12:06:42 -0400"
@@ -468,11 +499,6 @@
           "title": "College Students Losing Ability to Participate in Class Discussions Because They Offloaded Their Thinking to AI",
           "link": "https://futurism.com/artificial-intelligence/ai-college-students-homogenized",
           "date": "Tue, 07 Apr 2026 14:01:29 -0400"
-        },
-        {
-          "title": "Wall Street Journal Editor-in-Chief Instructs Staff to Welcome AI Sloplords",
-          "link": "https://futurism.com/artificial-intelligence/wall-street-journal-sloplords",
-          "date": "Tue, 07 Apr 2026 11:15:19 -0400"
         }
       ],
       "error": null
@@ -482,6 +508,21 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "The US Army Is Building Its Own Chatbot for Combat",
+          "link": "https://www.wired.com/story/army-developing-ai-system-victor-chatbot-soldiers/",
+          "date": "Wed, 08 Apr 2026 18:00:00 +0000"
+        },
+        {
+          "title": "5 Burning Questions About Elon Musk\u2019s Terafab Chip Partnership with Intel",
+          "link": "https://www.wired.com/story/5-burning-questions-about-elon-musks-terafab-chip-partnership-with-intel/",
+          "date": "Wed, 08 Apr 2026 17:13:33 +0000"
+        },
+        {
+          "title": "Anthropic\u2019s New Product Aims to Handle the Hard Part of Building AI Agents",
+          "link": "https://www.wired.com/story/anthropic-launches-claude-managed-agents/",
+          "date": "Wed, 08 Apr 2026 17:00:00 +0000"
+        },
+        {
           "title": "Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything",
           "link": "https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/",
           "date": "Tue, 07 Apr 2026 18:49:50 +0000"
@@ -490,21 +531,6 @@
           "title": "The Ridiculously Nerdy Intel Bet That Could Rake in Billions",
           "link": "https://www.wired.com/story/why-chip-packaging-could-decide-the-next-phase-of-the-ai-boom/",
           "date": "Mon, 06 Apr 2026 09:00:00 +0000"
-        },
-        {
-          "title": "Hackers Are Posting the Claude Code Leak With Bonus Malware",
-          "link": "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/",
-          "date": "Sat, 04 Apr 2026 10:30:00 +0000"
-        },
-        {
-          "title": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk",
-          "link": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
-          "date": "Fri, 03 Apr 2026 21:28:14 +0000"
-        },
-        {
-          "title": "OpenAI\u2019s Fidji Simo Is Taking Medical Leave Amid an Executive Shake-Up",
-          "link": "https://www.wired.com/story/openais-fidji-simo-is-taking-a-leave-of-absence/",
-          "date": "Fri, 03 Apr 2026 19:38:35 +0000"
         }
       ],
       "error": null
