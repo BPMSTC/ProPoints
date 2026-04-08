@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-08T15:06:58.805144+00:00",
+  "generatedAt": "2026-04-08T16:59:04.847415+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Anthropic\u2019s Project Glasswing May Not Be Enough to Prevent Model Abuse",
+          "link": "https://aibusiness.com/generative-ai/anthropic-s-project-glasswing-not-enough-to-prevent-model-abuse",
+          "date": "Wed, 08 Apr 2026 16:03:31 GMT"
+        },
+        {
           "title": "Intel Joins Elon Musk\u2019s $25B Chip-Making Masterplan",
           "link": "https://aibusiness.com/generative-ai/intel-joins-elon-musk-s-25b-chip-making-masterplan",
           "date": "Wed, 08 Apr 2026 14:02:40 GMT"
@@ -132,11 +137,6 @@
           "title": "Spanish Startup Xoople Lands $130M to Build Satellites for AI",
           "link": "https://aibusiness.com/generative-ai/spanish-startup-xoople-lands-130m-build-satellites-for-ai",
           "date": "Tue, 07 Apr 2026 15:11:28 GMT"
-        },
-        {
-          "title": "Anthropic Forges Chip Deals to Accelerate Claude\u2019s Growth",
-          "link": "https://aibusiness.com/generative-ai/anthropic-forges-chip-deals-accelerate-claude-s-growth",
-          "date": "Tue, 07 Apr 2026 14:39:52 GMT"
         }
       ],
       "error": null
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "AI\u2019s software development success and central management needs",
-          "link": "https://www.artificialintelligence-news.com/news/ai-workflows-developer-success-and-central-project-management-needs/",
-          "date": "Wed, 08 Apr 2026 10:43:00 +0000"
-        },
-        {
-          "title": "Microsoft open-source toolkit secures AI agents at runtime",
-          "link": "https://www.artificialintelligence-news.com/news/microsoft-open-source-toolkit-secures-ai-agents-at-runtime/",
-          "date": "Wed, 08 Apr 2026 10:23:53 +0000"
-        },
-        {
-          "title": "Asylon and Thrive Logic bring physical AI to enterprise perimeter security",
-          "link": "https://www.artificialintelligence-news.com/news/physical-ai-security-at-the-enterprise-perimeter-takes-a-step-closer/",
-          "date": "Tue, 07 Apr 2026 14:40:42 +0000"
-        },
-        {
-          "title": "Boomi calls it \u201cdata activation\u201d and says it\u2019s the missing step in every AI deployment",
-          "link": "https://www.artificialintelligence-news.com/news/boomi-agentic-ai-data-activation-missing-step/",
-          "date": "Tue, 07 Apr 2026 12:00:00 +0000"
-        },
-        {
-          "title": "Anthropic\u2019s refusal to arm AI is exactly why the UK wants it",
-          "link": "https://www.artificialintelligence-news.com/news/anthropic-uk-expansion-london-pentagon/",
-          "date": "Tue, 07 Apr 2026 10:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -316,6 +290,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "No F-150 in France? US automakers complain the EU blocks big trucks.",
+          "link": "https://arstechnica.com/cars/2026/04/no-f-150-in-france-us-automakers-complain-the-eu-blocks-big-trucks/",
+          "date": "Wed, 08 Apr 2026 15:13:20 +0000"
+        },
+        {
+          "title": "With Orion still flying, NASA is nearing key decisions about Artemis III",
+          "link": "https://arstechnica.com/space/2026/04/with-orion-still-flying-nasa-is-nearing-key-decisions-about-artemis-iii/",
+          "date": "Wed, 08 Apr 2026 14:15:10 +0000"
+        },
+        {
           "title": "Anthropic limits access to Mythos, its new cybersecurity AI model",
           "link": "https://arstechnica.com/ai/2026/04/anthropic-limits-access-to-mythos-its-new-cybersecurity-ai-model/",
           "date": "Wed, 08 Apr 2026 13:34:17 +0000"
@@ -329,16 +313,6 @@
           "title": "Valve brings native Steam Link app to Apple's Vision Pro",
           "link": "https://arstechnica.com/gaming/2026/04/valve-brings-native-steam-link-app-to-apples-vision-pro/",
           "date": "Tue, 07 Apr 2026 22:21:21 +0000"
-        },
-        {
-          "title": "Apple and Lenovo have the least repairable laptops, analysis finds",
-          "link": "https://arstechnica.com/gadgets/2026/04/apple-has-the-lowest-grades-in-laptop-phone-repairability-analysis/",
-          "date": "Tue, 07 Apr 2026 22:08:32 +0000"
-        },
-        {
-          "title": "What the heck is wrong with our AI overlords?",
-          "link": "https://arstechnica.com/tech-policy/2026/04/what-the-heck-is-wrong-with-our-ai-overlords/",
-          "date": "Tue, 07 Apr 2026 20:02:25 +0000"
         }
       ],
       "error": null
@@ -363,14 +337,14 @@
           "date": "2026-04-08T08:49:57+00:00"
         },
         {
-          "title": "MegaTrain: Full Precision Training of 100B+ Parameter Large Language Models on a Single GPU",
-          "link": "https://www.reddit.com/r/artificial/comments/1sfsogm/megatrain_full_precision_training_of_100b/",
-          "date": "2026-04-08T13:20:59+00:00"
+          "title": "Built a demo where an agent can provision 2 GPUs, then gets hard-blocked on the 3rd call",
+          "link": "https://www.reddit.com/r/artificial/comments/1sfy8qf/built_a_demo_where_an_agent_can_provision_2_gpus/",
+          "date": "2026-04-08T16:43:14+00:00"
         },
         {
-          "title": "The public needs to control AI-run infrastructure, labor, education, and governance\u2014 NOT private actors",
-          "link": "https://www.reddit.com/r/artificial/comments/1sf4rk9/the_public_needs_to_control_airun_infrastructure/",
-          "date": "2026-04-07T18:40:50+00:00"
+          "title": "Anthropic develops AI \u2018too dangerous to release to public\u2019",
+          "link": "https://www.reddit.com/r/artificial/comments/1sfx14g/anthropic_develops_ai_too_dangerous_to_release_to/",
+          "date": "2026-04-08T16:00:36+00:00"
         }
       ],
       "error": null
@@ -379,6 +353,16 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Artificial intelligence and biology: AI\u2019s potential for launching a novel era for health and medicine",
+          "link": "https://theconversation.com/artificial-intelligence-and-biology-ais-potential-for-launching-a-novel-era-for-health-and-medicine-275170",
+          "date": "2026-04-08T16:43:14Z"
+        },
+        {
+          "title": "Just how bad are generative AI chatbots for our mental health?",
+          "link": "https://theconversation.com/just-how-bad-are-generative-ai-chatbots-for-our-mental-health-279736",
+          "date": "2026-04-08T16:21:45Z"
+        },
         {
           "title": "Why AI shouldn\u2019t be used even to decide \u2018simple\u2019 court cases",
           "link": "https://theconversation.com/why-ai-shouldnt-be-used-even-to-decide-simple-court-cases-273535",
@@ -393,16 +377,6 @@
           "title": "AI pragmatists: How language teachers are navigating AI with nuance",
           "link": "https://theconversation.com/ai-pragmatists-how-language-teachers-are-navigating-ai-with-nuance-279041",
           "date": "2026-04-06T20:29:59Z"
-        },
-        {
-          "title": "Could NZ\u2019s next Christchurch Call be a push for fairer, safer AI?",
-          "link": "https://theconversation.com/could-nzs-next-christchurch-call-be-a-push-for-fairer-safer-ai-279085",
-          "date": "2026-04-06T18:20:22Z"
-        },
-        {
-          "title": "From Jurassic Park to dreams of AI doom, pop culture shapes science more than we like to admit",
-          "link": "https://theconversation.com/from-jurassic-park-to-dreams-of-ai-doom-pop-culture-shapes-science-more-than-we-like-to-admit-279245",
-          "date": "2026-04-06T18:20:11Z"
         }
       ],
       "error": null
@@ -476,6 +450,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Anthropic Warns That \u201cReckless\u201d Claude Mythos Escaped a Sandbox Environment During Testing",
+          "link": "https://futurism.com/artificial-intelligence/anthropic-claude-mythos-escaped-sandbox",
+          "date": "Wed, 08 Apr 2026 12:06:42 -0400"
+        },
+        {
           "title": "ChatGPT Is Sending People Into Obsessive Spirals of Hypochondria",
           "link": "https://futurism.com/artificial-intelligence/chatgpt-hypochondria",
           "date": "Wed, 08 Apr 2026 09:11:15 -0400"
@@ -494,11 +473,6 @@
           "title": "Wall Street Journal Editor-in-Chief Instructs Staff to Welcome AI Sloplords",
           "link": "https://futurism.com/artificial-intelligence/wall-street-journal-sloplords",
           "date": "Tue, 07 Apr 2026 11:15:19 -0400"
-        },
-        {
-          "title": "Frontier AI Models Are Doing Something Absolutely Bizarre When Asked to Diagnose Medical X-Rays",
-          "link": "https://futurism.com/artificial-intelligence/frontier-models-medical-advice-x-rays-cant-see",
-          "date": "Tue, 07 Apr 2026 09:06:31 -0400"
         }
       ],
       "error": null
