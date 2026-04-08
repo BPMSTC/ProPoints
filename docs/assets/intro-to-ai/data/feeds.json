@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-08T10:11:00.164833+00:00",
+  "generatedAt": "2026-04-08T11:53:03.666614+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "Asylon and Thrive Logic bring physical AI to enterprise perimeter security",
-          "link": "https://www.artificialintelligence-news.com/news/physical-ai-security-at-the-enterprise-perimeter-takes-a-step-closer/",
-          "date": "Tue, 07 Apr 2026 14:40:42 +0000"
-        },
-        {
-          "title": "Boomi calls it \u201cdata activation\u201d and says it\u2019s the missing step in every AI deployment",
-          "link": "https://www.artificialintelligence-news.com/news/boomi-agentic-ai-data-activation-missing-step/",
-          "date": "Tue, 07 Apr 2026 12:00:00 +0000"
-        },
-        {
-          "title": "Anthropic\u2019s refusal to arm AI is exactly why the UK wants it",
-          "link": "https://www.artificialintelligence-news.com/news/anthropic-uk-expansion-london-pentagon/",
-          "date": "Tue, 07 Apr 2026 10:00:00 +0000"
-        },
-        {
-          "title": "As AI agents take on more tasks, governance becomes a priority",
-          "link": "https://www.artificialintelligence-news.com/news/as-ai-agents-take-on-more-tasks-governance-becomes-a-priority/",
-          "date": "Mon, 06 Apr 2026 10:00:00 +0000"
-        },
-        {
-          "title": "KiloClaw targets shadow AI with autonomous agent governance",
-          "link": "https://www.artificialintelligence-news.com/news/kiloclaw-targets-shadow-ai-autonomous-agent-governance/",
-          "date": "Thu, 02 Apr 2026 16:30:53 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -348,6 +322,16 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
+          "title": "Why would Anthropic keep a cyber model like Project Glasswing invite-only?",
+          "link": "https://www.reddit.com/r/artificial/comments/1sfnauw/why_would_anthropic_keep_a_cyber_model_like/",
+          "date": "2026-04-08T08:49:57+00:00"
+        },
+        {
+          "title": "ai is having trouble discussing Trump because he's too insane.",
+          "link": "https://www.reddit.com/r/artificial/comments/1sfmj0t/ai_is_having_trouble_discussing_trump_because_hes/",
+          "date": "2026-04-08T08:01:45+00:00"
+        },
+        {
           "title": "The public needs to control AI-run infrastructure, labor, education, and governance\u2014 NOT private actors",
           "link": "https://www.reddit.com/r/artificial/comments/1sf4rk9/the_public_needs_to_control_airun_infrastructure/",
           "date": "2026-04-07T18:40:50+00:00"
@@ -358,19 +342,9 @@
           "date": "2026-04-07T19:42:29+00:00"
         },
         {
-          "title": "Can we even achieve AGI with LLMs, why do AI bros still believe we can?",
-          "link": "https://www.reddit.com/r/artificial/comments/1sfmnyc/can_we_even_achieve_agi_with_llms_why_do_ai_bros/",
-          "date": "2026-04-08T08:10:32+00:00"
-        },
-        {
-          "title": "ai is having trouble discussing Trump because he's too insane.",
-          "link": "https://www.reddit.com/r/artificial/comments/1sfmj0t/ai_is_having_trouble_discussing_trump_because_hes/",
-          "date": "2026-04-08T08:01:45+00:00"
-        },
-        {
-          "title": "Right to compute laws are a Trojan horse",
-          "link": "https://www.reddit.com/r/artificial/comments/1sfhzan/right_to_compute_laws_are_a_trojan_horse/",
-          "date": "2026-04-08T03:44:28+00:00"
+          "title": "You can now prompt OpenClaw into existence. fully 1st party on top of Claude Code",
+          "link": "https://www.reddit.com/r/artificial/comments/1sfmudm/you_can_now_prompt_openclaw_into_existence_fully/",
+          "date": "2026-04-08T08:21:23+00:00"
         }
       ],
       "error": null
