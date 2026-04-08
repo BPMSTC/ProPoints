@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-08T05:08:54.809571+00:00",
+  "generatedAt": "2026-04-08T07:14:48.198419+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "Asylon and Thrive Logic bring physical AI to enterprise perimeter security",
-          "link": "https://www.artificialintelligence-news.com/news/physical-ai-security-at-the-enterprise-perimeter-takes-a-step-closer/",
-          "date": "Tue, 07 Apr 2026 14:40:42 +0000"
-        },
-        {
-          "title": "Boomi calls it \u201cdata activation\u201d and says it\u2019s the missing step in every AI deployment",
-          "link": "https://www.artificialintelligence-news.com/news/boomi-agentic-ai-data-activation-missing-step/",
-          "date": "Tue, 07 Apr 2026 12:00:00 +0000"
-        },
-        {
-          "title": "Anthropic\u2019s refusal to arm AI is exactly why the UK wants it",
-          "link": "https://www.artificialintelligence-news.com/news/anthropic-uk-expansion-london-pentagon/",
-          "date": "Tue, 07 Apr 2026 10:00:00 +0000"
-        },
-        {
-          "title": "As AI agents take on more tasks, governance becomes a priority",
-          "link": "https://www.artificialintelligence-news.com/news/as-ai-agents-take-on-more-tasks-governance-becomes-a-priority/",
-          "date": "Mon, 06 Apr 2026 10:00:00 +0000"
-        },
-        {
-          "title": "KiloClaw targets shadow AI with autonomous agent governance",
-          "link": "https://www.artificialintelligence-news.com/news/kiloclaw-targets-shadow-ai-autonomous-agent-governance/",
-          "date": "Thu, 02 Apr 2026 16:30:53 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
