@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T09:03:58.548066+00:00",
+  "generatedAt": "2026-04-09T10:56:10.369788+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "AI\u2019s software development success and central management needs",
+          "link": "https://www.artificialintelligence-news.com/news/ai-workflows-developer-success-and-central-project-management-needs/",
+          "date": "Wed, 08 Apr 2026 10:43:00 +0000"
+        },
+        {
+          "title": "Microsoft open-source toolkit secures AI agents at runtime",
+          "link": "https://www.artificialintelligence-news.com/news/microsoft-open-source-toolkit-secures-ai-agents-at-runtime/",
+          "date": "Wed, 08 Apr 2026 10:23:53 +0000"
+        },
+        {
+          "title": "Asylon and Thrive Logic bring physical AI to enterprise perimeter security",
+          "link": "https://www.artificialintelligence-news.com/news/physical-ai-security-at-the-enterprise-perimeter-takes-a-step-closer/",
+          "date": "Tue, 07 Apr 2026 14:40:42 +0000"
+        },
+        {
+          "title": "Boomi calls it \u201cdata activation\u201d and says it\u2019s the missing step in every AI deployment",
+          "link": "https://www.artificialintelligence-news.com/news/boomi-agentic-ai-data-activation-missing-step/",
+          "date": "Tue, 07 Apr 2026 12:00:00 +0000"
+        },
+        {
+          "title": "Anthropic\u2019s refusal to arm AI is exactly why the UK wants it",
+          "link": "https://www.artificialintelligence-news.com/news/anthropic-uk-expansion-london-pentagon/",
+          "date": "Tue, 07 Apr 2026 10:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -342,9 +368,9 @@
           "date": "2026-04-08T20:59:19+00:00"
         },
         {
-          "title": "Vance says Iran sent 3 different versions of 10-point proposal, one of them 'written by ChatGPT'",
-          "link": "https://www.reddit.com/r/artificial/comments/1sgh7ux/vance_says_iran_sent_3_different_versions_of/",
-          "date": "2026-04-09T05:56:54+00:00"
+          "title": "I compiled every major AI agent security incident from 2024-2026 in one place - 90 incidents, all sourced, updated weekly",
+          "link": "https://www.reddit.com/r/artificial/comments/1sgm6dz/i_compiled_every_major_ai_agent_security_incident/",
+          "date": "2026-04-09T10:49:30+00:00"
         }
       ],
       "error": null
@@ -482,6 +508,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "This AI Wearable From Ex-Apple Engineers Looks Like an iPod Shuffle",
+          "link": "https://www.wired.com/story/this-ai-button-wearable-from-ex-apple-engineers-looks-like-an-ipod-shuffle/",
+          "date": "Thu, 09 Apr 2026 09:30:00 +0000"
+        },
+        {
           "title": "Conflicting Rulings Leave Anthropic in \u2018Supply-Chain Risk\u2019 Limbo",
           "link": "https://www.wired.com/story/anthropic-appeals-court-ruling/",
           "date": "Wed, 08 Apr 2026 22:27:26 +0000"
@@ -500,11 +531,6 @@
           "title": "5 Burning Questions About Elon Musk\u2019s Terafab Chip Partnership with Intel",
           "link": "https://www.wired.com/story/5-burning-questions-about-elon-musks-terafab-chip-partnership-with-intel/",
           "date": "Wed, 08 Apr 2026 17:13:33 +0000"
-        },
-        {
-          "title": "Anthropic\u2019s New Product Aims to Handle the Hard Part of Building AI Agents",
-          "link": "https://www.wired.com/story/anthropic-launches-claude-managed-agents/",
-          "date": "Wed, 08 Apr 2026 17:00:00 +0000"
         }
       ],
       "error": null
