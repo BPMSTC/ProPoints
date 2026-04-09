@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-08T23:35:19.917611+00:00",
+  "generatedAt": "2026-04-09T02:01:10.860885+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "AI\u2019s software development success and central management needs",
+          "link": "https://www.artificialintelligence-news.com/news/ai-workflows-developer-success-and-central-project-management-needs/",
+          "date": "Wed, 08 Apr 2026 10:43:00 +0000"
+        },
+        {
+          "title": "Microsoft open-source toolkit secures AI agents at runtime",
+          "link": "https://www.artificialintelligence-news.com/news/microsoft-open-source-toolkit-secures-ai-agents-at-runtime/",
+          "date": "Wed, 08 Apr 2026 10:23:53 +0000"
+        },
+        {
+          "title": "Asylon and Thrive Logic bring physical AI to enterprise perimeter security",
+          "link": "https://www.artificialintelligence-news.com/news/physical-ai-security-at-the-enterprise-perimeter-takes-a-step-closer/",
+          "date": "Tue, 07 Apr 2026 14:40:42 +0000"
+        },
+        {
+          "title": "Boomi calls it \u201cdata activation\u201d and says it\u2019s the missing step in every AI deployment",
+          "link": "https://www.artificialintelligence-news.com/news/boomi-agentic-ai-data-activation-missing-step/",
+          "date": "Tue, 07 Apr 2026 12:00:00 +0000"
+        },
+        {
+          "title": "Anthropic\u2019s refusal to arm AI is exactly why the UK wants it",
+          "link": "https://www.artificialintelligence-news.com/news/anthropic-uk-expansion-london-pentagon/",
+          "date": "Tue, 07 Apr 2026 10:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -332,6 +358,11 @@
           "date": "2026-04-08T18:43:40+00:00"
         },
         {
+          "title": "OpenAI said ads were a \"last resort.\" Then crossed $100M in 6 weeks.",
+          "link": "https://www.reddit.com/r/artificial/comments/1sg9hyb/openai_said_ads_were_a_last_resort_then_crossed/",
+          "date": "2026-04-08T23:47:07+00:00"
+        },
+        {
           "title": "~77% of all new \"Success\" self-help books on Amazon are likely written by AI, with 1 author, Noah Felix Bennett, publishing a stunning 74 books in mid-2025 alone, at a rate of >1 per day. Richard Trillion Mantey, who has published hundreds of books, was assessed to have used AI for every single book",
           "link": "https://www.reddit.com/r/artificial/comments/1sg5cuz/77_of_all_new_success_selfhelp_books_on_amazon/",
           "date": "2026-04-08T20:59:19+00:00"
@@ -340,11 +371,6 @@
           "title": "What actually makes something the best AI meeting recorder?",
           "link": "https://www.reddit.com/r/artificial/comments/1sfu0m9/what_actually_makes_something_the_best_ai_meeting/",
           "date": "2026-04-08T14:12:15+00:00"
-        },
-        {
-          "title": "Q: Helium & AI Capacity?",
-          "link": "https://www.reddit.com/r/artificial/comments/1sg3beh/q_helium_ai_capacity/",
-          "date": "2026-04-08T19:43:53+00:00"
         }
       ],
       "error": null
