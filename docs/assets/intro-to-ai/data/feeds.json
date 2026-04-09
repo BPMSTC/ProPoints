@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-04-09T15:20:22.627118+00:00",
+  "generatedAt": "2026-04-09T17:04:38.518949+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Farmer Arrested for Speaking Too Long at Datacenter Town Hall Vows to Fight",
+          "link": "https://www.404media.co/farmer-arrested-for-speaking-too-long-at-datacenter-town-hall-vows-to-fight/",
+          "date": "Thu, 09 Apr 2026 15:21:05 GMT"
+        },
         {
           "title": "FBI Extracts Suspect\u2019s Deleted Signal Messages Saved in iPhone Notification Database",
           "link": "https://www.404media.co/fbi-extracts-suspects-deleted-signal-messages-saved-in-iphone-notification-database-2/",
@@ -24,11 +29,6 @@
           "title": "I Wish I Didn\u2019t Care About 'Marathon' Player Numbers, But I Do",
           "link": "https://www.404media.co/i-wish-i-didnt-care-about-marathon-player-numbers-but-i-do/",
           "date": "Wed, 08 Apr 2026 14:08:37 GMT"
-        },
-        {
-          "title": "Microsoft Abruptly Terminates VeraCrypt Account, Halting Windows Updates",
-          "link": "https://www.404media.co/microsoft-abruptly-terminates-veracrypt-account-halting-windows-updates/",
-          "date": "Wed, 08 Apr 2026 13:59:46 GMT"
         }
       ],
       "error": null
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Meta, CoreWeave In $21B Deal to Expand AI Partnership",
+          "link": "https://aibusiness.com/generative-ai/meta-coreweave-21b-deal-expand-ai-partnership",
+          "date": "Thu, 09 Apr 2026 16:25:31 GMT"
+        },
+        {
           "title": "New Anthropic Tool Speeds up AI Agent Development for Enterprises",
           "link": "https://aibusiness.com/agentic-ai/new-anthropic-tool-speeds-ai-agent-development-enterprises",
           "date": "Thu, 09 Apr 2026 13:40:02 GMT"
@@ -132,11 +137,6 @@
           "title": "Intel Joins Elon Musk\u2019s $25B Chip-Making Masterplan",
           "link": "https://aibusiness.com/generative-ai/intel-joins-elon-musk-s-25b-chip-making-masterplan",
           "date": "Wed, 08 Apr 2026 14:02:40 GMT"
-        },
-        {
-          "title": "Uber Expands AWS Partnership to Build AI Capabilities",
-          "link": "https://aibusiness.com/generative-ai/uber-expands-aws-partnership-build-ai-capabilities",
-          "date": "Wed, 08 Apr 2026 12:45:16 GMT"
         }
       ],
       "error": null
@@ -353,19 +353,19 @@
           "date": "2026-04-09T13:22:35+00:00"
         },
         {
-          "title": "this is how an AI generated cow looked 12 years ago",
-          "link": "https://www.reddit.com/r/artificial/comments/1sfqix8/this_is_how_an_ai_generated_cow_looked_12_years/",
-          "date": "2026-04-08T11:48:30+00:00"
-        },
-        {
           "title": "US firm's humanoid robot tracks emotions with AI, recalls past conversations",
           "link": "https://www.reddit.com/r/artificial/comments/1sgs8ef/us_firms_humanoid_robot_tracks_emotions_with_ai/",
           "date": "2026-04-09T15:05:38+00:00"
         },
         {
-          "title": "Why Anthropic\u2019s new model has cybersecurity experts rattled",
-          "link": "https://www.reddit.com/r/artificial/comments/1sgr44y/why_anthropics_new_model_has_cybersecurity/",
-          "date": "2026-04-09T14:25:07+00:00"
+          "title": "this is how an AI generated cow looked 12 years ago",
+          "link": "https://www.reddit.com/r/artificial/comments/1sfqix8/this_is_how_an_ai_generated_cow_looked_12_years/",
+          "date": "2026-04-08T11:48:30+00:00"
+        },
+        {
+          "title": "I legitimately think Anthropic is worth $100B more than it was a week ago",
+          "link": "https://www.reddit.com/r/artificial/comments/1sgry22/i_legitimately_think_anthropic_is_worth_100b_more/",
+          "date": "2026-04-09T14:55:38+00:00"
         },
         {
           "title": "OpenAI said ads were a \"last resort.\" Then crossed $100M in 6 weeks.",
@@ -417,7 +417,12 @@
           "date": "Wed, 08 Apr 2026 22:10:39 GMT"
         },
         {
-          "title": "OpenAI shelves landmark \u00a331bn UK investment package",
+          "title": "Meta debuts new AI model in first test of costly \u2018superintelligence\u2019 team",
+          "link": "https://www.theguardian.com/technology/2026/apr/09/meta-first-ai-model-muse-sparks",
+          "date": "Thu, 09 Apr 2026 16:47:46 GMT"
+        },
+        {
+          "title": "OpenAI shelves Stargate UK investment citing high energy costs",
           "link": "https://www.theguardian.com/technology/2026/apr/09/openai-pulls-out-of-landmark-31bn-uk-investment",
           "date": "Thu, 09 Apr 2026 14:20:41 GMT"
         },
@@ -430,11 +435,6 @@
           "title": "Alarm in health service over Palantir staff being given NHS email accounts",
           "link": "https://www.theguardian.com/society/2026/apr/08/alarm-health-service-palantir-staff-nhs-email-accounts",
           "date": "Wed, 08 Apr 2026 14:15:08 GMT"
-        },
-        {
-          "title": "Scientists develop AI tool to spot heart failure risk five years before it strikes",
-          "link": "https://www.theguardian.com/society/2026/apr/08/oxford-scientists-develop-ai-tool-spot-heart-failure",
-          "date": "Wed, 08 Apr 2026 14:00:43 GMT"
         }
       ],
       "error": null
@@ -476,6 +476,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Google News Now Prominently Featuring Polymarket Bets",
+          "link": "https://futurism.com/future-society/google-news-polymarket",
+          "date": "Thu, 09 Apr 2026 13:01:00 -0400"
+        },
+        {
           "title": "We Talked to a Writer Accused of Publishing An AI-Generated Essay in The New York Times",
           "link": "https://futurism.com/artificial-intelligence/kate-gilgan-ai-new-york-times",
           "date": "Thu, 09 Apr 2026 10:06:48 -0400"
@@ -494,11 +499,6 @@
           "title": "Anthropic Warns That \u201cReckless\u201d Claude Mythos Escaped a Sandbox Environment During Testing",
           "link": "https://futurism.com/artificial-intelligence/anthropic-claude-mythos-escaped-sandbox",
           "date": "Wed, 08 Apr 2026 12:06:42 -0400"
-        },
-        {
-          "title": "ChatGPT Is Sending People Into Obsessive Spirals of Hypochondria",
-          "link": "https://futurism.com/artificial-intelligence/chatgpt-hypochondria",
-          "date": "Wed, 08 Apr 2026 09:11:15 -0400"
         }
       ],
       "error": null
@@ -518,7 +518,7 @@
           "date": "Thu, 09 Apr 2026 09:30:00 +0000"
         },
         {
-          "title": "Conflicting Rulings Leave Anthropic in \u2018Supply-Chain Risk\u2019 Limbo",
+          "title": "Anthropic vs. the Pentagon: This Time, a US Court Has Ruled in the Government's Favor",
           "link": "https://www.wired.com/story/anthropic-appeals-court-ruling/",
           "date": "Wed, 08 Apr 2026 22:27:26 +0000"
         },
