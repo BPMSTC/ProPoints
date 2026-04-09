@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T21:42:20.247244+00:00",
+  "generatedAt": "2026-04-09T22:38:13.199801+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Agentic AI\u2019s governance challenges under the EU AI Act in 2026",
+          "link": "https://www.artificialintelligence-news.com/news/agentic-ais-governance-challenges-under-the-eu-ai-act-in-2026/",
+          "date": "Thu, 09 Apr 2026 15:02:00 +0000"
+        },
+        {
+          "title": "Anthropic keeps new AI model private after it finds thousands of external vulnerabilities",
+          "link": "https://www.artificialintelligence-news.com/news/anthropic-keeps-new-ai-model-private-after-it-finds-thousands-of-external-vulnerabilities/",
+          "date": "Thu, 09 Apr 2026 12:00:00 +0000"
+        },
+        {
+          "title": "AI\u2019s software development success and central management needs",
+          "link": "https://www.artificialintelligence-news.com/news/ai-workflows-developer-success-and-central-project-management-needs/",
+          "date": "Wed, 08 Apr 2026 10:43:00 +0000"
+        },
+        {
+          "title": "Microsoft open-source toolkit secures AI agents at runtime",
+          "link": "https://www.artificialintelligence-news.com/news/microsoft-open-source-toolkit-secures-ai-agents-at-runtime/",
+          "date": "Wed, 08 Apr 2026 10:23:53 +0000"
+        },
+        {
+          "title": "Asylon and Thrive Logic bring physical AI to enterprise perimeter security",
+          "link": "https://www.artificialintelligence-news.com/news/physical-ai-security-at-the-enterprise-perimeter-takes-a-step-closer/",
+          "date": "Tue, 07 Apr 2026 14:40:42 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +316,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "AI on the couch: Anthropic gives Claude 20 hours of psychiatry",
+          "link": "https://arstechnica.com/ai/2026/04/why-anthropic-sent-its-claude-ai-to-an-actual-psychiatrist/",
+          "date": "Thu, 09 Apr 2026 21:20:31 +0000"
+        },
+        {
           "title": "Clinical trial shows gene editing works for \u03b2-Thalassaemia, too",
           "link": "https://arstechnica.com/science/2026/04/clinical-trial-shows-gene-editing-works-for-%ce%b2-thalassaemia-too/",
           "date": "Thu, 09 Apr 2026 20:28:48 +0000"
@@ -308,11 +339,6 @@
           "title": "The gravity of their experience hasn't quite set in for the Artemis II astronauts",
           "link": "https://arstechnica.com/space/2026/04/astronauts-recall-the-sci-fi-experience-of-flying-in-the-shadow-of-the-moon/",
           "date": "Thu, 09 Apr 2026 18:19:49 +0000"
-        },
-        {
-          "title": "Trump-appointed judges refuse to block Trump blacklisting of Anthropic AI tech",
-          "link": "https://arstechnica.com/tech-policy/2026/04/trump-appointed-judges-refuse-to-block-trump-blacklisting-of-anthropic-ai-tech/",
-          "date": "Thu, 09 Apr 2026 18:07:56 +0000"
         }
       ],
       "error": null
@@ -342,9 +368,9 @@
           "date": "2026-04-08T11:48:30+00:00"
         },
         {
-          "title": "I legitimately think Anthropic is worth $100B more than it was a week ago",
-          "link": "https://www.reddit.com/r/artificial/comments/1sgry22/i_legitimately_think_anthropic_is_worth_100b_more/",
-          "date": "2026-04-09T14:55:38+00:00"
+          "title": "bad grammar is literally the last proof that ur human. and i think thats actually terrifying ngl",
+          "link": "https://www.reddit.com/r/artificial/comments/1sgykr1/bad_grammar_is_literally_the_last_proof_that_ur/",
+          "date": "2026-04-09T18:50:11+00:00"
         }
       ],
       "error": null
@@ -386,11 +412,6 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Anthropic keeps latest AI tool out of public\u2019s hands for fear of enabling widespread hacking",
-          "link": "https://www.theguardian.com/technology/2026/apr/08/anthropic-ai-cybersecurity-software",
-          "date": "Wed, 08 Apr 2026 22:10:39 GMT"
-        },
-        {
           "title": "US defense official overseeing AI reaped millions selling xAI stock after Pentagon entered agreement with company",
           "link": "https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai-xai-emil-michael",
           "date": "Thu, 09 Apr 2026 19:35:29 GMT"
@@ -409,6 +430,11 @@
           "title": "Ohio man becomes first to be convicted under new AI statute for sexually explicit images",
           "link": "https://www.theguardian.com/us-news/2026/apr/08/ohio-man-convicted-ai-sexually-explicit-images",
           "date": "Wed, 08 Apr 2026 22:13:18 GMT"
+        },
+        {
+          "title": "Anthropic keeps latest AI tool out of public\u2019s hands for fear of enabling widespread hacking",
+          "link": "https://www.theguardian.com/technology/2026/apr/08/anthropic-ai-cybersecurity-software",
+          "date": "Wed, 08 Apr 2026 22:10:39 GMT"
         }
       ],
       "error": null
@@ -450,6 +476,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "AI-Powered Drug Marketer Medvi Responds After Allegations About Fake Doctors and Patients",
+          "link": "https://futurism.com/artificial-intelligence/ai-drug-marketer-medvi-responds",
+          "date": "Thu, 09 Apr 2026 18:07:46 -0400"
+        },
+        {
           "title": "Google News Now Prominently Featuring Polymarket Bets",
           "link": "https://futurism.com/future-society/google-news-polymarket",
           "date": "Thu, 09 Apr 2026 13:01:00 -0400"
@@ -468,11 +499,6 @@
           "title": "Microsoft Mocked for Terms of Service That Admit Copilot Is for \u201cEntertainment Purposes Only\u201d",
           "link": "https://futurism.com/artificial-intelligence/microsoft-mocked-terms-of-service-entertainment-only",
           "date": "Wed, 08 Apr 2026 13:03:00 -0400"
-        },
-        {
-          "title": "Anthropic Warns That \u201cReckless\u201d Claude Mythos Escaped a Sandbox Environment During Testing",
-          "link": "https://futurism.com/artificial-intelligence/anthropic-claude-mythos-escaped-sandbox",
-          "date": "Wed, 08 Apr 2026 12:06:42 -0400"
         }
       ],
       "error": null
