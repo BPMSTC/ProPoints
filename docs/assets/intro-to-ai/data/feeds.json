@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-04-09T13:21:21.010313+00:00",
+  "generatedAt": "2026-04-09T15:20:22.627118+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "FBI Extracts Suspect\u2019s Deleted Signal Messages Saved in iPhone Notification Database",
+          "link": "https://www.404media.co/fbi-extracts-suspects-deleted-signal-messages-saved-in-iphone-notification-database-2/",
+          "date": "Thu, 09 Apr 2026 13:27:50 GMT"
+        },
         {
           "title": "Podcast: Wildlife Cops Are Searching AI Cameras for ICE",
           "link": "https://www.404media.co/podcast-wildlife-cops-are-searching-ai-cameras-for-ice/",
@@ -24,11 +29,6 @@
           "title": "Microsoft Abruptly Terminates VeraCrypt Account, Halting Windows Updates",
           "link": "https://www.404media.co/microsoft-abruptly-terminates-veracrypt-account-halting-windows-updates/",
           "date": "Wed, 08 Apr 2026 13:59:46 GMT"
-        },
-        {
-          "title": "Maine Is Close to Passing a Moratorium on New Datacenters",
-          "link": "https://www.404media.co/maine-datacenter-construction-bill-ld-307/",
-          "date": "Tue, 07 Apr 2026 15:56:48 GMT"
         }
       ],
       "error": null
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "New Anthropic Tool Speeds up AI Agent Development for Enterprises",
+          "link": "https://aibusiness.com/agentic-ai/new-anthropic-tool-speeds-ai-agent-development-enterprises",
+          "date": "Thu, 09 Apr 2026 13:40:02 GMT"
+        },
+        {
           "title": "Meta Releases First Proprietary AI Model: Muse Spark",
           "link": "https://aibusiness.com/generative-ai/meta-releases-first-proprietary-ai-model-muse-spark",
           "date": "Wed, 08 Apr 2026 19:38:51 GMT"
@@ -132,11 +137,6 @@
           "title": "Uber Expands AWS Partnership to Build AI Capabilities",
           "link": "https://aibusiness.com/generative-ai/uber-expands-aws-partnership-build-ai-capabilities",
           "date": "Wed, 08 Apr 2026 12:45:16 GMT"
-        },
-        {
-          "title": "C3 AI Launches C3 Code for Businesses Seeking Domain Expertise",
-          "link": "https://aibusiness.com/agentic-ai/c3-launches-c3-code-businesses-seeking-domain-expertise",
-          "date": "Tue, 07 Apr 2026 20:51:09 GMT"
         }
       ],
       "error": null
@@ -150,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Agentic AI\u2019s governance challenges under the EU AI Act in 2026",
+          "link": "https://www.artificialintelligence-news.com/news/agentic-ais-governance-challenges-under-the-eu-ai-act-in-2026/",
+          "date": "Thu, 09 Apr 2026 15:02:00 +0000"
+        },
+        {
+          "title": "Anthropic keeps new AI model private after it finds thousands of external vulnerabilities",
+          "link": "https://www.artificialintelligence-news.com/news/anthropic-keeps-new-ai-model-private-after-it-finds-thousands-of-external-vulnerabilities/",
+          "date": "Thu, 09 Apr 2026 12:00:00 +0000"
+        },
+        {
+          "title": "AI\u2019s software development success and central management needs",
+          "link": "https://www.artificialintelligence-news.com/news/ai-workflows-developer-success-and-central-project-management-needs/",
+          "date": "Wed, 08 Apr 2026 10:43:00 +0000"
+        },
+        {
+          "title": "Microsoft open-source toolkit secures AI agents at runtime",
+          "link": "https://www.artificialintelligence-news.com/news/microsoft-open-source-toolkit-secures-ai-agents-at-runtime/",
+          "date": "Wed, 08 Apr 2026 10:23:53 +0000"
+        },
+        {
+          "title": "Asylon and Thrive Logic bring physical AI to enterprise perimeter security",
+          "link": "https://www.artificialintelligence-news.com/news/physical-ai-security-at-the-enterprise-perimeter-takes-a-step-closer/",
+          "date": "Tue, 07 Apr 2026 14:40:42 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +316,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "First, Tesla canceled the Model 2\u2014now it's working on a new small EV",
+          "link": "https://arstechnica.com/cars/2026/04/first-tesla-canceled-the-model-2-now-its-working-on-a-new-small-ev/",
+          "date": "Thu, 09 Apr 2026 14:10:40 +0000"
+        },
+        {
+          "title": "Trump's emergency orders pushing coal power are \"illegal\" as well as dumb",
+          "link": "https://arstechnica.com/science/2026/04/trumps-emergency-orders-pushing-coal-power-are-illegal-as-well-as-dumb/",
+          "date": "Thu, 09 Apr 2026 13:54:30 +0000"
+        },
+        {
           "title": "The Moon is already on Google Maps\u2014did Artemis II really tell us anything new?",
           "link": "https://arstechnica.com/space/2026/04/the-moon-is-already-on-google-maps-did-artemis-ii-really-tell-us-anything-new/",
           "date": "Thu, 09 Apr 2026 03:44:24 +0000"
@@ -303,16 +339,6 @@
           "title": "LinkedIn scanning users' browser extensions sparks controversy and two lawsuits",
           "link": "https://arstechnica.com/tech-policy/2026/04/linkedin-scanning-users-browser-extensions-sparks-controversy-and-two-lawsuits/",
           "date": "Wed, 08 Apr 2026 21:08:06 +0000"
-        },
-        {
-          "title": "Iran-linked hackers disrupt operations at US critical infrastructure sites",
-          "link": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/",
-          "date": "Wed, 08 Apr 2026 20:49:11 +0000"
-        },
-        {
-          "title": "Meta's Superintelligence Lab unveils its first public model, Muse Spark",
-          "link": "https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/",
-          "date": "Wed, 08 Apr 2026 19:59:10 +0000"
         }
       ],
       "error": null
@@ -322,29 +348,29 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
+          "title": "White-collar workers are quietly rebelling against AI as 80% outright refuse adoption mandates",
+          "link": "https://www.reddit.com/r/artificial/comments/1sgphq9/whitecollar_workers_are_quietly_rebelling_against/",
+          "date": "2026-04-09T13:22:35+00:00"
+        },
+        {
           "title": "this is how an AI generated cow looked 12 years ago",
           "link": "https://www.reddit.com/r/artificial/comments/1sfqix8/this_is_how_an_ai_generated_cow_looked_12_years/",
           "date": "2026-04-08T11:48:30+00:00"
         },
         {
+          "title": "US firm's humanoid robot tracks emotions with AI, recalls past conversations",
+          "link": "https://www.reddit.com/r/artificial/comments/1sgs8ef/us_firms_humanoid_robot_tracks_emotions_with_ai/",
+          "date": "2026-04-09T15:05:38+00:00"
+        },
+        {
+          "title": "Why Anthropic\u2019s new model has cybersecurity experts rattled",
+          "link": "https://www.reddit.com/r/artificial/comments/1sgr44y/why_anthropics_new_model_has_cybersecurity/",
+          "date": "2026-04-09T14:25:07+00:00"
+        },
+        {
           "title": "OpenAI said ads were a \"last resort.\" Then crossed $100M in 6 weeks.",
           "link": "https://www.reddit.com/r/artificial/comments/1sg9hyb/openai_said_ads_were_a_last_resort_then_crossed/",
           "date": "2026-04-08T23:47:07+00:00"
-        },
-        {
-          "title": "Meta commits to spending additional $21 billion with CoreWeave as AI costs keep rising",
-          "link": "https://www.reddit.com/r/artificial/comments/1sgn05s/meta_commits_to_spending_additional_21_billion/",
-          "date": "2026-04-09T11:32:05+00:00"
-        },
-        {
-          "title": "Project Glasswing is inherently Cartel Behaviour",
-          "link": "https://www.reddit.com/r/artificial/comments/1sg1mxm/project_glasswing_is_inherently_cartel_behaviour/",
-          "date": "2026-04-08T18:43:40+00:00"
-        },
-        {
-          "title": "~77% of all new \"Success\" self-help books on Amazon are likely written by AI, with 1 author, Noah Felix Bennett, publishing a stunning 74 books in mid-2025 alone, at a rate of >1 per day. Richard Trillion Mantey, who has published hundreds of books, was assessed to have used AI for every single book",
-          "link": "https://www.reddit.com/r/artificial/comments/1sg5cuz/77_of_all_new_success_selfhelp_books_on_amazon/",
-          "date": "2026-04-08T20:59:19+00:00"
         }
       ],
       "error": null
@@ -353,6 +379,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "The more commodified your job, the more likely AI can do it \u2013 lessons from online freelancing",
+          "link": "https://theconversation.com/the-more-commodified-your-job-the-more-likely-ai-can-do-it-lessons-from-online-freelancing-280236",
+          "date": "2026-04-09T14:53:23Z"
+        },
         {
           "title": "AI can design and run thousands of lab experiments without human hands. Humanity isn\u2019t ready for the new risks this brings to biology",
           "link": "https://theconversation.com/ai-can-design-and-run-thousands-of-lab-experiments-without-human-hands-humanity-isnt-ready-for-the-new-risks-this-brings-to-biology-279191",
@@ -372,11 +403,6 @@
           "title": "Artificial intelligence and biology: AI\u2019s potential for launching a novel era for health and medicine",
           "link": "https://theconversation.com/artificial-intelligence-and-biology-ais-potential-for-launching-a-novel-era-for-health-and-medicine-275170",
           "date": "2026-04-08T16:43:14Z"
-        },
-        {
-          "title": "Just how bad are generative AI chatbots for our mental health?",
-          "link": "https://theconversation.com/just-how-bad-are-generative-ai-chatbots-for-our-mental-health-279736",
-          "date": "2026-04-08T16:21:45Z"
         }
       ],
       "error": null
@@ -391,9 +417,9 @@
           "date": "Wed, 08 Apr 2026 22:10:39 GMT"
         },
         {
-          "title": "OpenAI pulls out of landmark \u00a331bn UK investment package",
+          "title": "OpenAI shelves landmark \u00a331bn UK investment package",
           "link": "https://www.theguardian.com/technology/2026/apr/09/openai-pulls-out-of-landmark-31bn-uk-investment",
-          "date": "Thu, 09 Apr 2026 12:39:47 GMT"
+          "date": "Thu, 09 Apr 2026 14:20:41 GMT"
         },
         {
           "title": "Ohio man becomes first to be convicted under new AI statute for sexually explicit images",
@@ -450,6 +476,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "We Talked to a Writer Accused of Publishing An AI-Generated Essay in The New York Times",
+          "link": "https://futurism.com/artificial-intelligence/kate-gilgan-ai-new-york-times",
+          "date": "Thu, 09 Apr 2026 10:06:48 -0400"
+        },
+        {
           "title": "Analysis Finds That Google\u2019s AI Overviews Are Providing Misinformation at a Scale Possibly Unprecedented in the History of Human Civilization",
           "link": "https://futurism.com/artificial-intelligence/google-ai-overviews-misinformation",
           "date": "Wed, 08 Apr 2026 15:16:29 -0400"
@@ -468,11 +499,6 @@
           "title": "ChatGPT Is Sending People Into Obsessive Spirals of Hypochondria",
           "link": "https://futurism.com/artificial-intelligence/chatgpt-hypochondria",
           "date": "Wed, 08 Apr 2026 09:11:15 -0400"
-        },
-        {
-          "title": "Sam Altman\u2019s Coworkers Say He Can Barely Code and Misunderstands Basic Machine Learning Concepts",
-          "link": "https://futurism.com/artificial-intelligence/sam-altman-technical-coding",
-          "date": "Tue, 07 Apr 2026 16:11:14 -0400"
         }
       ],
       "error": null
@@ -481,6 +507,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "The Pro-Iran Meme Machine Trolling Trump With AI Lego Cartoons",
+          "link": "https://www.wired.com/story/inside-the-pro-iran-meme-machine-trolling-trump-with-ai-lego-cartoons/",
+          "date": "Thu, 09 Apr 2026 13:25:21 +0000"
+        },
         {
           "title": "This AI Wearable From Ex-Apple Engineers Looks Like an iPod Shuffle",
           "link": "https://www.wired.com/story/this-ai-button-wearable-from-ex-apple-engineers-looks-like-an-ipod-shuffle/",
@@ -500,11 +531,6 @@
           "title": "The US Army Is Building Its Own Chatbot for Combat",
           "link": "https://www.wired.com/story/army-developing-ai-system-victor-chatbot-soldiers/",
           "date": "Wed, 08 Apr 2026 18:00:00 +0000"
-        },
-        {
-          "title": "5 Burning Questions About Elon Musk\u2019s Terafab Chip Partnership with Intel",
-          "link": "https://www.wired.com/story/5-burning-questions-about-elon-musks-terafab-chip-partnership-with-intel/",
-          "date": "Wed, 08 Apr 2026 17:13:33 +0000"
         }
       ],
       "error": null
