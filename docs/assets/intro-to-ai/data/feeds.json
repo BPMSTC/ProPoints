@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T11:54:37.132390+00:00",
+  "generatedAt": "2026-04-09T13:21:21.010313+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "AI\u2019s software development success and central management needs",
-          "link": "https://www.artificialintelligence-news.com/news/ai-workflows-developer-success-and-central-project-management-needs/",
-          "date": "Wed, 08 Apr 2026 10:43:00 +0000"
-        },
-        {
-          "title": "Microsoft open-source toolkit secures AI agents at runtime",
-          "link": "https://www.artificialintelligence-news.com/news/microsoft-open-source-toolkit-secures-ai-agents-at-runtime/",
-          "date": "Wed, 08 Apr 2026 10:23:53 +0000"
-        },
-        {
-          "title": "Asylon and Thrive Logic bring physical AI to enterprise perimeter security",
-          "link": "https://www.artificialintelligence-news.com/news/physical-ai-security-at-the-enterprise-perimeter-takes-a-step-closer/",
-          "date": "Tue, 07 Apr 2026 14:40:42 +0000"
-        },
-        {
-          "title": "Boomi calls it \u201cdata activation\u201d and says it\u2019s the missing step in every AI deployment",
-          "link": "https://www.artificialintelligence-news.com/news/boomi-agentic-ai-data-activation-missing-step/",
-          "date": "Tue, 07 Apr 2026 12:00:00 +0000"
-        },
-        {
-          "title": "Anthropic\u2019s refusal to arm AI is exactly why the UK wants it",
-          "link": "https://www.artificialintelligence-news.com/news/anthropic-uk-expansion-london-pentagon/",
-          "date": "Tue, 07 Apr 2026 10:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -358,6 +332,11 @@
           "date": "2026-04-08T23:47:07+00:00"
         },
         {
+          "title": "Meta commits to spending additional $21 billion with CoreWeave as AI costs keep rising",
+          "link": "https://www.reddit.com/r/artificial/comments/1sgn05s/meta_commits_to_spending_additional_21_billion/",
+          "date": "2026-04-09T11:32:05+00:00"
+        },
+        {
           "title": "Project Glasswing is inherently Cartel Behaviour",
           "link": "https://www.reddit.com/r/artificial/comments/1sg1mxm/project_glasswing_is_inherently_cartel_behaviour/",
           "date": "2026-04-08T18:43:40+00:00"
@@ -366,11 +345,6 @@
           "title": "~77% of all new \"Success\" self-help books on Amazon are likely written by AI, with 1 author, Noah Felix Bennett, publishing a stunning 74 books in mid-2025 alone, at a rate of >1 per day. Richard Trillion Mantey, who has published hundreds of books, was assessed to have used AI for every single book",
           "link": "https://www.reddit.com/r/artificial/comments/1sg5cuz/77_of_all_new_success_selfhelp_books_on_amazon/",
           "date": "2026-04-08T20:59:19+00:00"
-        },
-        {
-          "title": "Vance says Iran sent 3 different versions of 10-point proposal, one of them 'written by ChatGPT'",
-          "link": "https://www.reddit.com/r/artificial/comments/1sgh7ux/vance_says_iran_sent_3_different_versions_of/",
-          "date": "2026-04-09T05:56:54+00:00"
         }
       ],
       "error": null
@@ -379,6 +353,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "AI can design and run thousands of lab experiments without human hands. Humanity isn\u2019t ready for the new risks this brings to biology",
+          "link": "https://theconversation.com/ai-can-design-and-run-thousands-of-lab-experiments-without-human-hands-humanity-isnt-ready-for-the-new-risks-this-brings-to-biology-279191",
+          "date": "2026-04-09T12:23:01Z"
+        },
         {
           "title": "How AI\u2019s language barrier limits climate disaster responses",
           "link": "https://theconversation.com/how-ais-language-barrier-limits-climate-disaster-responses-278020",
@@ -398,11 +377,6 @@
           "title": "Just how bad are generative AI chatbots for our mental health?",
           "link": "https://theconversation.com/just-how-bad-are-generative-ai-chatbots-for-our-mental-health-279736",
           "date": "2026-04-08T16:21:45Z"
-        },
-        {
-          "title": "Why AI shouldn\u2019t be used even to decide \u2018simple\u2019 court cases",
-          "link": "https://theconversation.com/why-ai-shouldnt-be-used-even-to-decide-simple-court-cases-273535",
-          "date": "2026-04-07T15:20:08Z"
         }
       ],
       "error": null
@@ -415,6 +389,11 @@
           "title": "Anthropic keeps latest AI tool out of public\u2019s hands for fear of enabling widespread hacking",
           "link": "https://www.theguardian.com/technology/2026/apr/08/anthropic-ai-cybersecurity-software",
           "date": "Wed, 08 Apr 2026 22:10:39 GMT"
+        },
+        {
+          "title": "OpenAI pulls out of landmark \u00a331bn UK investment package",
+          "link": "https://www.theguardian.com/technology/2026/apr/09/openai-pulls-out-of-landmark-31bn-uk-investment",
+          "date": "Thu, 09 Apr 2026 12:39:47 GMT"
         },
         {
           "title": "Ohio man becomes first to be convicted under new AI statute for sexually explicit images",
@@ -430,11 +409,6 @@
           "title": "Scientists develop AI tool to spot heart failure risk five years before it strikes",
           "link": "https://www.theguardian.com/society/2026/apr/08/oxford-scientists-develop-ai-tool-spot-heart-failure",
           "date": "Wed, 08 Apr 2026 14:00:43 GMT"
-        },
-        {
-          "title": "It\u2019s finally happened: I\u2019m now worried about AI. And consulting ChatGPT did nothing to allay my fears | Emma Brockes",
-          "link": "https://www.theguardian.com/commentisfree/2026/apr/08/ai-chat-gpt-new-yorker-feature-sam-altman",
-          "date": "Wed, 08 Apr 2026 13:36:44 GMT"
         }
       ],
       "error": null
