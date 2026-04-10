@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-04-10T15:50:53.188742+00:00",
+  "generatedAt": "2026-04-10T16:47:37.413715+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Behind the Blog: Smoking the Whole Carton",
+          "link": "https://www.404media.co/behind-the-blog-smoking-the-whole-carton/",
+          "date": "Fri, 10 Apr 2026 16:07:51 GMT"
+        },
         {
           "title": "World\u2019s Largest Group of Chimps Waging Deadly \u2018Civil War,\u2019 Scientists Discover",
           "link": "https://www.404media.co/worlds-largest-group-of-chimps-waging-deadly-civil-war-scientists-discover/",
@@ -24,11 +29,6 @@
           "title": "Podcast: Wildlife Cops Are Searching AI Cameras for ICE",
           "link": "https://www.404media.co/podcast-wildlife-cops-are-searching-ai-cameras-for-ice/",
           "date": "Wed, 08 Apr 2026 14:31:59 GMT"
-        },
-        {
-          "title": "A 'Self-Doxing' Rave Helps Trans People Stay Safe Online",
-          "link": "https://www.404media.co/trans-rights-privacy-online-cybersecurity-workshop-deadname-not-found/",
-          "date": "Wed, 08 Apr 2026 14:18:44 GMT"
         }
       ],
       "error": null
@@ -140,6 +140,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Anthropic\u2019s Glasswing Highlights AI\u2019s Security Paradox",
+          "link": "https://aibusiness.com/generative-ai/anthropic-s-glasswing-highlights-ai-s-security-paradox",
+          "date": "Fri, 10 Apr 2026 15:39:11 GMT"
+        },
+        {
           "title": "Intel Secures New AI Infrastructure Deal With Google",
           "link": "https://aibusiness.com/generative-ai/intel-secures-new-ai-infrastructure-deal-google",
           "date": "Fri, 10 Apr 2026 15:21:07 GMT"
@@ -158,11 +163,6 @@
           "title": "New Anthropic Tool Speeds up AI Agent Development for Enterprises",
           "link": "https://aibusiness.com/agentic-ai/new-anthropic-tool-speeds-ai-agent-development-enterprises",
           "date": "Thu, 09 Apr 2026 13:40:02 GMT"
-        },
-        {
-          "title": "Meta Releases First Proprietary AI Model: Muse Spark",
-          "link": "https://aibusiness.com/generative-ai/meta-releases-first-proprietary-ai-model-muse-spark",
-          "date": "Wed, 08 Apr 2026 19:38:51 GMT"
         }
       ],
       "error": null
@@ -391,6 +391,11 @@
           "date": "Fri, 10 Apr 2026 08:16:02 GMT"
         },
         {
+          "title": "Anthropic\u2019s new AI tool has implications for us all \u2013 whether we want it or not | Shakeel Hashim",
+          "link": "https://www.theguardian.com/technology/2026/apr/10/anthropic-new-ai-model-claude-mythos-implications",
+          "date": "Fri, 10 Apr 2026 16:15:20 GMT"
+        },
+        {
           "title": "\u2018There\u2019s no shortage of terrifying technology\u2019: how AI became TV drama\u2019s new go-to villain",
           "link": "https://www.theguardian.com/tv-and-radio/2026/apr/10/how-ai-became-tv-dramas-new-go-to-villain",
           "date": "Fri, 10 Apr 2026 14:16:10 GMT"
@@ -404,11 +409,6 @@
           "title": "I baulked at the idea of \u2018friction-maxxing\u2019. But there\u2019s more to it than meets the eye | Gaby Hinsliff",
           "link": "https://www.theguardian.com/commentisfree/2026/apr/09/friction-maxxing-self-help-hacks-cooking-from-scratch-friends-human",
           "date": "Fri, 10 Apr 2026 06:00:10 GMT"
-        },
-        {
-          "title": "Elon Musk\u2019s xAI sues Colorado over new rules for artificial intelligence",
-          "link": "https://www.theguardian.com/technology/2026/apr/09/elon-musk-xai-colorado-lawsuit",
-          "date": "Fri, 10 Apr 2026 00:52:48 GMT"
         }
       ],
       "error": null
@@ -482,6 +482,16 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Suspect Arrested For Allegedly Throwing Molotov Cocktail at Sam Altman's Home",
+          "link": "https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/",
+          "date": "Fri, 10 Apr 2026 16:32:19 +0000"
+        },
+        {
+          "title": "This Startup Wants You to Pay Up to Talk With AI Versions of Human Experts",
+          "link": "https://www.wired.com/story/onix-substack-ai-platform-therapy-medicine-nutrition/",
+          "date": "Fri, 10 Apr 2026 16:00:00 +0000"
+        },
+        {
           "title": "AI Podcasters Really Want to Tell You How to Keep a Man Happy",
           "link": "https://www.wired.com/story/ai-podcasters-really-want-to-tell-you-how-to-keep-a-man-happy/",
           "date": "Fri, 10 Apr 2026 10:30:00 +0000"
@@ -495,16 +505,6 @@
           "title": "OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters",
           "link": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
           "date": "Fri, 10 Apr 2026 00:19:53 +0000"
-        },
-        {
-          "title": "The 70-Person AI Image Startup Taking on Silicon Valley's Giants",
-          "link": "https://www.wired.com/story/black-forest-labs-ai-image-generation/",
-          "date": "Thu, 09 Apr 2026 18:00:00 +0000"
-        },
-        {
-          "title": "The Pro-Iran Meme Machine Trolling Trump With AI Lego Cartoons",
-          "link": "https://www.wired.com/story/inside-the-pro-iran-meme-machine-trolling-trump-with-ai-lego-cartoons/",
-          "date": "Thu, 09 Apr 2026 13:25:21 +0000"
         }
       ],
       "error": null
