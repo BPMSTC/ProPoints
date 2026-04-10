@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T23:35:36.093938+00:00",
+  "generatedAt": "2026-04-10T02:13:03.559707+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -309,12 +309,17 @@
       "name": "Announcements - Stability AI",
       "url": "https://stability.ai/blog?format=rss",
       "items": [],
-      "error": "<unknown>:2:0: syntax error"
+      "error": null
     },
     {
       "name": "Ars Technica - All content",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
+        {
+          "title": "Orion helium leak no threat to Artemis II reentry, but will require redesign",
+          "link": "https://arstechnica.com/space/2026/04/nasa-homes-in-on-likely-redesign-to-fix-orion-spacecrafts-leaky-valves/",
+          "date": "Fri, 10 Apr 2026 00:55:51 +0000"
+        },
         {
           "title": "RFK Jr. rewrites CDC panel's charter, opening door to anti-vaccine quacks",
           "link": "https://arstechnica.com/health/2026/04/rfk-jr-rewrites-cdc-panels-charter-opening-door-to-anti-vaccine-quacks/",
@@ -334,11 +339,6 @@
           "title": "\u201cNegative\u201d views of Broadcom driving thousands of VMware migrations, rival says",
           "link": "https://arstechnica.com/information-technology/2026/04/nutanix-claims-it-has-poached-30000-vmware-customers/",
           "date": "Thu, 09 Apr 2026 19:44:31 +0000"
-        },
-        {
-          "title": "Ugandan chimps split into two factions, then killed rivals",
-          "link": "https://arstechnica.com/science/2026/04/ugandan-chimps-split-into-two-factions-then-killed-rivals/",
-          "date": "Thu, 09 Apr 2026 19:21:59 +0000"
         }
       ],
       "error": null
@@ -353,24 +353,24 @@
           "date": "2026-04-09T13:22:35+00:00"
         },
         {
-          "title": "bad grammar is literally the last proof that ur human. and i think thats actually terrifying ngl",
-          "link": "https://www.reddit.com/r/artificial/comments/1sgykr1/bad_grammar_is_literally_the_last_proof_that_ur/",
-          "date": "2026-04-09T18:50:11+00:00"
-        },
-        {
           "title": "Ohio man becomes first to be convicted under new AI statute for sexually explicit images",
           "link": "https://www.reddit.com/r/artificial/comments/1sh1gp5/ohio_man_becomes_first_to_be_convicted_under_new/",
           "date": "2026-04-09T20:33:18+00:00"
         },
         {
-          "title": "US firm's humanoid robot tracks emotions with AI, recalls past conversations",
-          "link": "https://www.reddit.com/r/artificial/comments/1sgs8ef/us_firms_humanoid_robot_tracks_emotions_with_ai/",
-          "date": "2026-04-09T15:05:38+00:00"
+          "title": "Google\u2019s Gemini AI can answer your questions with 3D models and simulations",
+          "link": "https://www.reddit.com/r/artificial/comments/1sgy05n/googles_gemini_ai_can_answer_your_questions_with/",
+          "date": "2026-04-09T18:29:55+00:00"
         },
         {
           "title": "AI CEO vs Engineer (2026).",
           "link": "https://www.reddit.com/r/artificial/comments/1sgsldo/ai_ceo_vs_engineer_2026/",
           "date": "2026-04-09T15:18:24+00:00"
+        },
+        {
+          "title": "US firm's humanoid robot tracks emotions with AI, recalls past conversations",
+          "link": "https://www.reddit.com/r/artificial/comments/1sgs8ef/us_firms_humanoid_robot_tracks_emotions_with_ai/",
+          "date": "2026-04-09T15:05:38+00:00"
         }
       ],
       "error": null
@@ -412,6 +412,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Elon Musk\u2019s xAI sues Colorado over new rules for artificial intelligence",
+          "link": "https://www.theguardian.com/technology/2026/apr/09/elon-musk-xai-colorado-lawsuit",
+          "date": "Fri, 10 Apr 2026 00:52:48 GMT"
+        },
+        {
           "title": "US defense official overseeing AI reaped millions selling xAI stock after Pentagon entered agreement with company",
           "link": "https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai-xai-emil-michael",
           "date": "Thu, 09 Apr 2026 19:35:29 GMT"
@@ -430,11 +435,6 @@
           "title": "Ohio man becomes first to be convicted under new AI statute for sexually explicit images",
           "link": "https://www.theguardian.com/us-news/2026/apr/08/ohio-man-convicted-ai-sexually-explicit-images",
           "date": "Wed, 08 Apr 2026 22:13:18 GMT"
-        },
-        {
-          "title": "Anthropic keeps latest AI tool out of public\u2019s hands for fear of enabling widespread hacking",
-          "link": "https://www.theguardian.com/technology/2026/apr/08/anthropic-ai-cybersecurity-software",
-          "date": "Wed, 08 Apr 2026 22:10:39 GMT"
         }
       ],
       "error": null
@@ -508,6 +508,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters",
+          "link": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
+          "date": "Fri, 10 Apr 2026 00:19:53 +0000"
+        },
+        {
           "title": "The 70-Person AI Image Startup Taking on Silicon Valley's Giants",
           "link": "https://www.wired.com/story/black-forest-labs-ai-image-generation/",
           "date": "Thu, 09 Apr 2026 18:00:00 +0000"
@@ -526,11 +531,6 @@
           "title": "Anthropic vs. the Pentagon: This Time, a US Court Has Ruled in the Government's Favor",
           "link": "https://www.wired.com/story/anthropic-appeals-court-ruling/",
           "date": "Wed, 08 Apr 2026 22:27:26 +0000"
-        },
-        {
-          "title": "Meta\u2019s New AI Model Gives Mark Zuckerberg a Seat at the Big Kid\u2019s Table",
-          "link": "https://www.wired.com/story/muse-spark-meta-open-source-closed-source/",
-          "date": "Wed, 08 Apr 2026 18:51:09 +0000"
         }
       ],
       "error": null
