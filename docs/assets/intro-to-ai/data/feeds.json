@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-10T05:22:50.674204+00:00",
+  "generatedAt": "2026-04-10T07:23:39.623672+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "SoftServe Launches New Brand Identity: \u2018Technology Elevated\u2019",
+          "link": "https://ai-techpark.com/softserve-launches-new-brand-identity-technology-elevated/",
+          "date": "Thu, 09 Apr 2026 18:00:00 +0000"
+        },
+        {
+          "title": "LGI Healthcare Solutions appoints Luc Gagnon as Chief Technology Officer",
+          "link": "https://ai-techpark.com/lgi-healthcare-solutions-appoints-luc-gagnon-as-chief-technology-officer/",
+          "date": "Thu, 09 Apr 2026 16:00:00 +0000"
+        },
+        {
+          "title": "SiMa.ai Secures Micron Investment to Scale Physical AI",
+          "link": "https://ai-techpark.com/sima-ai-secures-micron-investment-to-scale-physical-ai/",
+          "date": "Thu, 09 Apr 2026 15:45:00 +0000"
+        },
+        {
+          "title": "Cloudera Enhances Hybrid Data Platform with Scale, Stability",
+          "link": "https://ai-techpark.com/cloudera-enhances-hybrid-data-platform-with-scale-stability/",
+          "date": "Thu, 09 Apr 2026 10:15:00 +0000"
+        },
+        {
+          "title": "Semidynamics Lands Investment to Advance AI Inference Chips",
+          "link": "https://ai-techpark.com/semidynamics-lands-investment-to-advance-ai-inference-chips/",
+          "date": "Thu, 09 Apr 2026 07:45:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -348,9 +374,19 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
+          "title": "Anyone compared Gemma 4 31B",
+          "link": "https://www.reddit.com/r/artificial/comments/1shcmqj/anyone_compared_gemma_4_31b/",
+          "date": "2026-04-10T04:39:31+00:00"
+        },
+        {
           "title": "White-collar workers are quietly rebelling against AI as 80% outright refuse adoption mandates",
           "link": "https://www.reddit.com/r/artificial/comments/1sgphq9/whitecollar_workers_are_quietly_rebelling_against/",
           "date": "2026-04-09T13:22:35+00:00"
+        },
+        {
+          "title": "OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters",
+          "link": "https://www.reddit.com/r/artificial/comments/1shd7cz/openai_backs_bill_that_would_limit_liability_for/",
+          "date": "2026-04-10T05:10:18+00:00"
         },
         {
           "title": "Ohio man becomes first to be convicted under new AI statute for sexually explicit images",
@@ -361,16 +397,6 @@
           "title": "Google\u2019s Gemini AI can answer your questions with 3D models and simulations",
           "link": "https://www.reddit.com/r/artificial/comments/1sgy05n/googles_gemini_ai_can_answer_your_questions_with/",
           "date": "2026-04-09T18:29:55+00:00"
-        },
-        {
-          "title": "OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters",
-          "link": "https://www.reddit.com/r/artificial/comments/1shd7cz/openai_backs_bill_that_would_limit_liability_for/",
-          "date": "2026-04-10T05:10:18+00:00"
-        },
-        {
-          "title": "Anyone compared Gemma 4 31B",
-          "link": "https://www.reddit.com/r/artificial/comments/1shcmqj/anyone_compared_gemma_4_31b/",
-          "date": "2026-04-10T04:39:31+00:00"
         }
       ],
       "error": null
@@ -417,6 +443,16 @@
           "date": "Fri, 10 Apr 2026 00:52:48 GMT"
         },
         {
+          "title": "AI products are reaching further into our lives. Does it matter who controls the companies behind them? | Van Badham",
+          "link": "https://www.theguardian.com/commentisfree/2026/apr/10/ai-companies-owners-openai-chatgpt-sam-altman",
+          "date": "Fri, 10 Apr 2026 07:20:05 GMT"
+        },
+        {
+          "title": "I baulked at the idea of \u2018friction-maxxing\u2019. But there\u2019s more to it than meets the eye | Gaby Hinsliff",
+          "link": "https://www.theguardian.com/commentisfree/2026/apr/09/friction-maxxing-self-help-hacks-cooking-from-scratch-friends-human",
+          "date": "Fri, 10 Apr 2026 06:00:10 GMT"
+        },
+        {
           "title": "US defense official overseeing AI reaped millions selling xAI stock after Pentagon entered agreement with company",
           "link": "https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai-xai-emil-michael",
           "date": "Thu, 09 Apr 2026 19:35:29 GMT"
@@ -425,16 +461,6 @@
           "title": "OpenAI shelves Stargate UK in blow to Britain\u2019s AI ambitions",
           "link": "https://www.theguardian.com/technology/2026/apr/09/openai-pulls-out-of-landmark-31bn-uk-investment",
           "date": "Thu, 09 Apr 2026 17:13:00 GMT"
-        },
-        {
-          "title": "Meta debuts new AI model in first test of costly \u2018superintelligence\u2019 team",
-          "link": "https://www.theguardian.com/technology/2026/apr/09/meta-first-ai-model-muse-sparks",
-          "date": "Thu, 09 Apr 2026 16:47:46 GMT"
-        },
-        {
-          "title": "Ohio man becomes first to be convicted under new AI statute for sexually explicit images",
-          "link": "https://www.theguardian.com/us-news/2026/apr/08/ohio-man-convicted-ai-sexually-explicit-images",
-          "date": "Wed, 08 Apr 2026 22:13:18 GMT"
         }
       ],
       "error": null
