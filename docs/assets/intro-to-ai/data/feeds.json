@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-10T07:23:39.623672+00:00",
+  "generatedAt": "2026-04-10T09:06:07.239609+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "SoftServe Launches New Brand Identity: \u2018Technology Elevated\u2019",
-          "link": "https://ai-techpark.com/softserve-launches-new-brand-identity-technology-elevated/",
-          "date": "Thu, 09 Apr 2026 18:00:00 +0000"
-        },
-        {
-          "title": "LGI Healthcare Solutions appoints Luc Gagnon as Chief Technology Officer",
-          "link": "https://ai-techpark.com/lgi-healthcare-solutions-appoints-luc-gagnon-as-chief-technology-officer/",
-          "date": "Thu, 09 Apr 2026 16:00:00 +0000"
-        },
-        {
-          "title": "SiMa.ai Secures Micron Investment to Scale Physical AI",
-          "link": "https://ai-techpark.com/sima-ai-secures-micron-investment-to-scale-physical-ai/",
-          "date": "Thu, 09 Apr 2026 15:45:00 +0000"
-        },
-        {
-          "title": "Cloudera Enhances Hybrid Data Platform with Scale, Stability",
-          "link": "https://ai-techpark.com/cloudera-enhances-hybrid-data-platform-with-scale-stability/",
-          "date": "Thu, 09 Apr 2026 10:15:00 +0000"
-        },
-        {
-          "title": "Semidynamics Lands Investment to Advance AI Inference Chips",
-          "link": "https://ai-techpark.com/semidynamics-lands-investment-to-advance-ai-inference-chips/",
-          "date": "Thu, 09 Apr 2026 07:45:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -178,6 +152,11 @@
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [
         {
+          "title": "Meta has a competitive AI model but loses its open-source identity",
+          "link": "https://www.artificialintelligence-news.com/news/meta-muse-spark-ai-model-open-source/",
+          "date": "Fri, 10 Apr 2026 08:00:00 +0000"
+        },
+        {
           "title": "Agentic AI\u2019s governance challenges under the EU AI Act in 2026",
           "link": "https://www.artificialintelligence-news.com/news/agentic-ais-governance-challenges-under-the-eu-ai-act-in-2026/",
           "date": "Thu, 09 Apr 2026 15:02:00 +0000"
@@ -196,11 +175,6 @@
           "title": "Microsoft open-source toolkit secures AI agents at runtime",
           "link": "https://www.artificialintelligence-news.com/news/microsoft-open-source-toolkit-secures-ai-agents-at-runtime/",
           "date": "Wed, 08 Apr 2026 10:23:53 +0000"
-        },
-        {
-          "title": "Asylon and Thrive Logic bring physical AI to enterprise perimeter security",
-          "link": "https://www.artificialintelligence-news.com/news/physical-ai-security-at-the-enterprise-perimeter-takes-a-step-closer/",
-          "date": "Tue, 07 Apr 2026 14:40:42 +0000"
         }
       ],
       "error": null
@@ -438,9 +412,9 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Elon Musk\u2019s xAI sues Colorado over new rules for artificial intelligence",
-          "link": "https://www.theguardian.com/technology/2026/apr/09/elon-musk-xai-colorado-lawsuit",
-          "date": "Fri, 10 Apr 2026 00:52:48 GMT"
+          "title": "US summoned bank bosses to discuss cyber risks posed by Anthropic\u2019s latest AI model",
+          "link": "https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model",
+          "date": "Fri, 10 Apr 2026 08:16:02 GMT"
         },
         {
           "title": "AI products are reaching further into our lives. Does it matter who controls the companies behind them? | Van Badham",
@@ -453,14 +427,14 @@
           "date": "Fri, 10 Apr 2026 06:00:10 GMT"
         },
         {
+          "title": "Elon Musk\u2019s xAI sues Colorado over new rules for artificial intelligence",
+          "link": "https://www.theguardian.com/technology/2026/apr/09/elon-musk-xai-colorado-lawsuit",
+          "date": "Fri, 10 Apr 2026 00:52:48 GMT"
+        },
+        {
           "title": "US defense official overseeing AI reaped millions selling xAI stock after Pentagon entered agreement with company",
           "link": "https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai-xai-emil-michael",
           "date": "Thu, 09 Apr 2026 19:35:29 GMT"
-        },
-        {
-          "title": "OpenAI shelves Stargate UK in blow to Britain\u2019s AI ambitions",
-          "link": "https://www.theguardian.com/technology/2026/apr/09/openai-pulls-out-of-landmark-31bn-uk-investment",
-          "date": "Thu, 09 Apr 2026 17:13:00 GMT"
         }
       ],
       "error": null
