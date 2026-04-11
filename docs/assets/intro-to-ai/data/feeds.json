@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T19:32:49.079493+00:00",
+  "generatedAt": "2026-04-11T20:29:31.274929+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -220,8 +220,34 @@
     {
       "name": "Ai Prompt Programming",
       "url": "https://www.reddit.com/r/aipromptprogramming/.rss",
-      "items": [],
-      "error": "<unknown>:2:12: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Agentic Flow: Easily switch between low/no-cost AI models (OpenRouter/Onnx/Gemini) in Claude Code and Claude Agent SDK. Build agents in Claude Code, deploy them anywhere. >_ npx agentic-flow",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1nzvbsl/agentic_flow_easily_switch_between_lownocost_ai/",
+          "date": "2025-10-06T21:02:20+00:00"
+        },
+        {
+          "title": "I created an Agentic Coding Competition MCP for Cline/Claude-Code/Cursor/Co-pilot using E2B Sandboxes. I'm looking for some Beta Testers. > npx flow-nexus@latest",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1nc75k5/i_created_an_agentic_coding_competition_mcp_for/",
+          "date": "2025-09-09T02:25:04+00:00"
+        },
+        {
+          "title": "Meshy MCP Is Here - Big Step for AI 3D Workflows",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1see7bk/meshy_mcp_is_here_big_step_for_ai_3d_workflows/",
+          "date": "2026-04-06T22:46:50+00:00"
+        },
+        {
+          "title": "Terminal-based oscilloscope with CRT phosphor physics, vibe coded in Nim",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1see9s0/terminalbased_oscilloscope_with_crt_phosphor/",
+          "date": "2026-04-06T22:49:40+00:00"
+        },
+        {
+          "title": "New SOTA OpenSource AI to decompose live2D layers!",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1sdwgp8/new_sota_opensource_ai_to_decompose_live2d_layers/",
+          "date": "2026-04-06T11:42:19+00:00"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI \u2013 SiliconANGLE",
@@ -320,8 +346,34 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
-      "error": "<unknown>:2:12: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "6 Months Using AI for Actual Work: What's Incredible, What's Overhyped, and What's Quietly Dangerous",
+          "link": "https://www.reddit.com/r/artificial/comments/1si5uiw/6_months_using_ai_for_actual_work_whats/",
+          "date": "2026-04-11T01:47:47+00:00"
+        },
+        {
+          "title": "AMD's GAIA now allows building custom AI agents via chat, becomes \"true desktop app\"",
+          "link": "https://www.reddit.com/r/artificial/comments/1sitbvu/amds_gaia_now_allows_building_custom_ai_agents/",
+          "date": "2026-04-11T20:02:07+00:00"
+        },
+        {
+          "title": "What\u2019s a \u201cgood\u201d feedback loop for social skills without turning life into a scoreboard?",
+          "link": "https://www.reddit.com/r/artificial/comments/1sineq9/whats_a_good_feedback_loop_for_social_skills/",
+          "date": "2026-04-11T16:19:30+00:00"
+        },
+        {
+          "title": "Cloudflare just turned Browser Rendering into a lot more powerful MCP infrastructure",
+          "link": "https://www.reddit.com/r/artificial/comments/1sieggh/cloudflare_just_turned_browser_rendering_into_a/",
+          "date": "2026-04-11T09:29:46+00:00"
+        },
+        {
+          "title": "How has Claude far surpassed the competitors? They were not first to market or ever had the most cash yet their feature are far and away the best on the market.",
+          "link": "https://www.reddit.com/r/artificial/comments/1shypcx/how_has_claude_far_surpassed_the_competitors_they/",
+          "date": "2026-04-10T20:46:39+00:00"
+        }
+      ],
+      "error": null
     },
     {
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
@@ -360,6 +412,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Brian Cox: \u2018We don\u2019t know how powerful AI is going to become \u2013 it\u2019s both exciting and potentially a problem\u2019",
+          "link": "https://www.theguardian.com/science/2026/apr/11/brian-cox-physicist-interview-ai-science-paul-mccartney",
+          "date": "Sat, 11 Apr 2026 20:00:05 GMT"
+        },
+        {
           "title": "\u2018It has your name on it, but I don\u2019t think it\u2019s you\u2019: how AI is impersonating musicians on Spotify",
           "link": "https://www.theguardian.com/technology/2026/apr/11/ai-impersonating-musicians-spotify",
           "date": "Sat, 11 Apr 2026 12:00:48 GMT"
@@ -378,11 +435,6 @@
           "title": "\u2018There\u2019s no shortage of terrifying technology\u2019: how AI became TV drama\u2019s new go-to villain",
           "link": "https://www.theguardian.com/tv-and-radio/2026/apr/10/how-ai-became-tv-dramas-new-go-to-villain",
           "date": "Fri, 10 Apr 2026 14:16:10 GMT"
-        },
-        {
-          "title": "US summons bank bosses over cyber risks from Anthropic\u2019s latest AI model",
-          "link": "https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model",
-          "date": "Fri, 10 Apr 2026 08:16:02 GMT"
         }
       ],
       "error": null
