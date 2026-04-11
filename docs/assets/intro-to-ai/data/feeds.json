@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T09:37:26.154062+00:00",
+  "generatedAt": "2026-04-11T10:31:37.777560+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -176,8 +176,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "IBM: How robust AI governance protects enterprise margins",
+          "link": "https://www.artificialintelligence-news.com/news/ibm-how-robust-ai-governance-protects-enterprise-margins/",
+          "date": "Fri, 10 Apr 2026 13:57:15 +0000"
+        },
+        {
+          "title": "Why companies like Apple are building AI agents with limits",
+          "link": "https://www.artificialintelligence-news.com/news/why-companies-like-apple-are-building-ai-agents-with-limits/",
+          "date": "Fri, 10 Apr 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Meta has a competitive AI model but loses its open-source identity",
+          "link": "https://www.artificialintelligence-news.com/news/meta-muse-spark-ai-model-open-source/",
+          "date": "Fri, 10 Apr 2026 08:00:00 +0000"
+        },
+        {
+          "title": "Agentic AI\u2019s governance challenges under the EU AI Act in 2026",
+          "link": "https://www.artificialintelligence-news.com/news/agentic-ais-governance-challenges-under-the-eu-ai-act-in-2026/",
+          "date": "Thu, 09 Apr 2026 15:02:00 +0000"
+        },
+        {
+          "title": "Anthropic keeps new AI model private after it finds thousands of external vulnerabilities",
+          "link": "https://www.artificialintelligence-news.com/news/anthropic-keeps-new-ai-model-private-after-it-finds-thousands-of-external-vulnerabilities/",
+          "date": "Thu, 09 Apr 2026 12:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -424,6 +450,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "People Who Lose Their Job to AI Are in for a World of Pain, Goldman Sachs Report Finds",
+          "link": "https://futurism.com/artificial-intelligence/ai-job-loss-consequences",
+          "date": "Sat, 11 Apr 2026 06:00:00 -0400"
+        },
+        {
           "title": "OpenAI Says Not to Worry About UBI, Because It Has Another Idea",
           "link": "https://futurism.com/artificial-intelligence/openai-ubi-superintelligence",
           "date": "Fri, 10 Apr 2026 16:01:33 -0400"
@@ -442,11 +473,6 @@
           "title": "First AI Model From Zuckerberg\u2019s Wildly Expensive Superintelligence Lab Flops Compared to Virtually All Rivals",
           "link": "https://futurism.com/artificial-intelligence/first-model-zuckerberg-superintelligence-labs-flops",
           "date": "Fri, 10 Apr 2026 10:07:58 -0400"
-        },
-        {
-          "title": "Economists Starting to Admit They May Have Been Wrong About AI Never Replacing Human Jobs",
-          "link": "https://futurism.com/future-society/economist-ai-job-forecast",
-          "date": "Fri, 10 Apr 2026 09:10:34 -0400"
         }
       ],
       "error": null
