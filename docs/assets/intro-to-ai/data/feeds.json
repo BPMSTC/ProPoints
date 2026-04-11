@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T22:29:15.610780+00:00",
+  "generatedAt": "2026-04-11T23:30:36.251535+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Fingerprint Unveils AI-Enhanced Suspect Score",
+          "link": "https://ai-techpark.com/fingerprint-unveils-ai-enhanced-suspect-score/",
+          "date": "Fri, 10 Apr 2026 10:30:00 +0000"
+        },
+        {
+          "title": "UltiSim announced the launch of Data Fusion Plane",
+          "link": "https://ai-techpark.com/ultisim-announced-the-launch-of-data-fusion-plane/",
+          "date": "Fri, 10 Apr 2026 10:02:58 +0000"
+        },
+        {
+          "title": "SoftServe Launches New Brand Identity: \u2018Technology Elevated\u2019",
+          "link": "https://ai-techpark.com/softserve-launches-new-brand-identity-technology-elevated/",
+          "date": "Thu, 09 Apr 2026 18:00:00 +0000"
+        },
+        {
+          "title": "LGI Healthcare Solutions appoints Luc Gagnon as Chief Technology Officer",
+          "link": "https://ai-techpark.com/lgi-healthcare-solutions-appoints-luc-gagnon-as-chief-technology-officer/",
+          "date": "Thu, 09 Apr 2026 16:00:00 +0000"
+        },
+        {
+          "title": "SiMa.ai Secures Micron Investment to Scale Physical AI",
+          "link": "https://ai-techpark.com/sima-ai-secures-micron-investment-to-scale-physical-ai/",
+          "date": "Thu, 09 Apr 2026 15:45:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -348,14 +374,19 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
+          "title": "AMD's GAIA now allows building custom AI agents via chat, becomes \"true desktop app\"",
+          "link": "https://www.reddit.com/r/artificial/comments/1sitbvu/amds_gaia_now_allows_building_custom_ai_agents/",
+          "date": "2026-04-11T20:02:07+00:00"
+        },
+        {
           "title": "6 Months Using AI for Actual Work: What's Incredible, What's Overhyped, and What's Quietly Dangerous",
           "link": "https://www.reddit.com/r/artificial/comments/1si5uiw/6_months_using_ai_for_actual_work_whats/",
           "date": "2026-04-11T01:47:47+00:00"
         },
         {
-          "title": "AMD's GAIA now allows building custom AI agents via chat, becomes \"true desktop app\"",
-          "link": "https://www.reddit.com/r/artificial/comments/1sitbvu/amds_gaia_now_allows_building_custom_ai_agents/",
-          "date": "2026-04-11T20:02:07+00:00"
+          "title": "AGI is the wrong term, how do we define progress?",
+          "link": "https://www.reddit.com/r/artificial/comments/1sixbvg/agi_is_the_wrong_term_how_do_we_define_progress/",
+          "date": "2026-04-11T22:45:47+00:00"
         },
         {
           "title": "What\u2019s a \u201cgood\u201d feedback loop for social skills without turning life into a scoreboard?",
@@ -366,11 +397,6 @@
           "title": "What happens when intelligent systems move beyond simple utility?",
           "link": "https://www.reddit.com/r/artificial/comments/1siwdnl/what_happens_when_intelligent_systems_move_beyond/",
           "date": "2026-04-11T22:05:23+00:00"
-        },
-        {
-          "title": "Cloudflare just turned Browser Rendering into a lot more powerful MCP infrastructure",
-          "link": "https://www.reddit.com/r/artificial/comments/1sieggh/cloudflare_just_turned_browser_rendering_into_a/",
-          "date": "2026-04-11T09:29:46+00:00"
         }
       ],
       "error": null
