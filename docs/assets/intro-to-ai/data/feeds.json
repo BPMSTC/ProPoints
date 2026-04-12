@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-12T10:35:57.205616+00:00",
+  "generatedAt": "2026-04-12T11:32:28.130414+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -176,8 +176,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "IBM: How robust AI governance protects enterprise margins",
+          "link": "https://www.artificialintelligence-news.com/news/ibm-how-robust-ai-governance-protects-enterprise-margins/",
+          "date": "Fri, 10 Apr 2026 13:57:15 +0000"
+        },
+        {
+          "title": "Why companies like Apple are building AI agents with limits",
+          "link": "https://www.artificialintelligence-news.com/news/why-companies-like-apple-are-building-ai-agents-with-limits/",
+          "date": "Fri, 10 Apr 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Meta has a competitive AI model but loses its open-source identity",
+          "link": "https://www.artificialintelligence-news.com/news/meta-muse-spark-ai-model-open-source/",
+          "date": "Fri, 10 Apr 2026 08:00:00 +0000"
+        },
+        {
+          "title": "Agentic AI\u2019s governance challenges under the EU AI Act in 2026",
+          "link": "https://www.artificialintelligence-news.com/news/agentic-ais-governance-challenges-under-the-eu-ai-act-in-2026/",
+          "date": "Thu, 09 Apr 2026 15:02:00 +0000"
+        },
+        {
+          "title": "Anthropic keeps new AI model private after it finds thousands of external vulnerabilities",
+          "link": "https://www.artificialintelligence-news.com/news/anthropic-keeps-new-ai-model-private-after-it-finds-thousands-of-external-vulnerabilities/",
+          "date": "Thu, 09 Apr 2026 12:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -353,6 +379,11 @@
           "date": "2026-04-11T23:45:51+00:00"
         },
         {
+          "title": "If you think AI is a threat, think again. AI needs human input for out put. The threat is Quantum, (Super AI). Quantum will NOT need human input. NO nation will control Quantum. Why would super intelligence listen to a lesser intelligence?Wait until Quantum creates its OWN AI . Then we are fk\u2019d.",
+          "link": "https://www.reddit.com/r/artificial/comments/1sjbvhb/if_you_think_ai_is_a_threat_think_again_ai_needs/",
+          "date": "2026-04-12T11:21:28+00:00"
+        },
+        {
           "title": "Been building a multi-agent framework in public for 5 weeks, its been a Journey.",
           "link": "https://www.reddit.com/r/artificial/comments/1sj6o0i/been_building_a_multiagent_framework_in_public/",
           "date": "2026-04-12T06:22:28+00:00"
@@ -366,11 +397,6 @@
           "title": "AMD's GAIA now allows building custom AI agents via chat, becomes \"true desktop app\"",
           "link": "https://www.reddit.com/r/artificial/comments/1sitbvu/amds_gaia_now_allows_building_custom_ai_agents/",
           "date": "2026-04-11T20:02:07+00:00"
-        },
-        {
-          "title": "6 Months Using AI for Actual Work: What's Incredible, What's Overhyped, and What's Quietly Dangerous",
-          "link": "https://www.reddit.com/r/artificial/comments/1si5uiw/6_months_using_ai_for_actual_work_whats/",
-          "date": "2026-04-11T01:47:47+00:00"
         }
       ],
       "error": null
@@ -417,6 +443,11 @@
           "date": "Sun, 12 Apr 2026 10:00:14 GMT"
         },
         {
+          "title": "Is AI the greatest art heist in history?",
+          "link": "https://www.theguardian.com/books/2026/apr/12/is-ai-the-greatest-art-heist-in-history",
+          "date": "Sun, 12 Apr 2026 11:00:17 GMT"
+        },
+        {
           "title": "\u2018Too powerful for the public\u2019: Inside Anthropic\u2019s bid to win the AI publicity war",
           "link": "https://www.theguardian.com/technology/2026/apr/12/too-powerful-for-the-public-inside-anthropics-bid-to-win-the-ai-publicity-war",
           "date": "Sun, 12 Apr 2026 09:00:13 GMT"
@@ -430,11 +461,6 @@
           "title": "\u2018It has your name on it, but I don\u2019t think it\u2019s you\u2019: how AI is impersonating musicians on Spotify",
           "link": "https://www.theguardian.com/technology/2026/apr/11/ai-impersonating-musicians-spotify",
           "date": "Sat, 11 Apr 2026 12:00:48 GMT"
-        },
-        {
-          "title": "OpenAI CEO Sam Altman\u2019s home targeted with molotov cocktail",
-          "link": "https://www.theguardian.com/technology/2026/apr/10/sam-altman-home-molotov-cocktail",
-          "date": "Fri, 10 Apr 2026 19:08:27 GMT"
         }
       ],
       "error": null
@@ -476,6 +502,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "OpenAI\u2019s Latest Thing It\u2019s Bragging About Is Actually Kind of Sad",
+          "link": "https://futurism.com/artificial-intelligence/openai-bragging-compute-sad",
+          "date": "Sun, 12 Apr 2026 07:30:00 -0400"
+        },
+        {
+          "title": "Gen Z Sabotaging AI at Work So It Won\u2019t Take Their Job",
+          "link": "https://futurism.com/artificial-intelligence/zoomers-ai-sabotage",
+          "date": "Sun, 12 Apr 2026 06:45:00 -0400"
+        },
+        {
           "title": "Why Does It Suddenly Feel Like OpenAI Is Melting Down Into Disaster?",
           "link": "https://futurism.com/artificial-intelligence/openai-melting-down-disaster",
           "date": "Sun, 12 Apr 2026 06:00:00 -0400"
@@ -489,16 +525,6 @@
           "title": "Foolish Pollsters Are Now Just Asking AI What Voters Would Say in Response to Questions and Publishing It at Face Value",
           "link": "https://futurism.com/artificial-intelligence/ai-polls-silicon-sampling",
           "date": "Sat, 11 Apr 2026 09:00:00 -0400"
-        },
-        {
-          "title": "OpenAI Says It\u2019s Already Made $100 Million by Stuffing ChatGPT With Ads",
-          "link": "https://futurism.com/artificial-intelligence/openai-money-chatgpt-ads",
-          "date": "Sat, 11 Apr 2026 08:15:00 -0400"
-        },
-        {
-          "title": "AI Is Causing Healthcare Costs to Surge",
-          "link": "https://futurism.com/artificial-intelligence/ai-healthcare-costs-rising",
-          "date": "Sat, 11 Apr 2026 07:30:00 -0400"
         }
       ],
       "error": null
