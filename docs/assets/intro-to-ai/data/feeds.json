@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-12T09:42:26.357303+00:00",
+  "generatedAt": "2026-04-12T10:35:57.205616+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -176,34 +176,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "IBM: How robust AI governance protects enterprise margins",
-          "link": "https://www.artificialintelligence-news.com/news/ibm-how-robust-ai-governance-protects-enterprise-margins/",
-          "date": "Fri, 10 Apr 2026 13:57:15 +0000"
-        },
-        {
-          "title": "Why companies like Apple are building AI agents with limits",
-          "link": "https://www.artificialintelligence-news.com/news/why-companies-like-apple-are-building-ai-agents-with-limits/",
-          "date": "Fri, 10 Apr 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Meta has a competitive AI model but loses its open-source identity",
-          "link": "https://www.artificialintelligence-news.com/news/meta-muse-spark-ai-model-open-source/",
-          "date": "Fri, 10 Apr 2026 08:00:00 +0000"
-        },
-        {
-          "title": "Agentic AI\u2019s governance challenges under the EU AI Act in 2026",
-          "link": "https://www.artificialintelligence-news.com/news/agentic-ais-governance-challenges-under-the-eu-ai-act-in-2026/",
-          "date": "Thu, 09 Apr 2026 15:02:00 +0000"
-        },
-        {
-          "title": "Anthropic keeps new AI model private after it finds thousands of external vulnerabilities",
-          "link": "https://www.artificialintelligence-news.com/news/anthropic-keeps-new-ai-model-private-after-it-finds-thousands-of-external-vulnerabilities/",
-          "date": "Thu, 09 Apr 2026 12:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -438,6 +412,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "AI companies know they have an image problem. Will funding policy papers and thinktanks dig them out?",
+          "link": "https://www.theguardian.com/technology/2026/apr/12/ai-image-problem-policy-papers-thinktanks",
+          "date": "Sun, 12 Apr 2026 10:00:14 GMT"
+        },
+        {
           "title": "\u2018Too powerful for the public\u2019: Inside Anthropic\u2019s bid to win the AI publicity war",
           "link": "https://www.theguardian.com/technology/2026/apr/12/too-powerful-for-the-public-inside-anthropics-bid-to-win-the-ai-publicity-war",
           "date": "Sun, 12 Apr 2026 09:00:13 GMT"
@@ -456,11 +435,6 @@
           "title": "OpenAI CEO Sam Altman\u2019s home targeted with molotov cocktail",
           "link": "https://www.theguardian.com/technology/2026/apr/10/sam-altman-home-molotov-cocktail",
           "date": "Fri, 10 Apr 2026 19:08:27 GMT"
-        },
-        {
-          "title": "Anthropic\u2019s new AI tool has implications for us all \u2013 whether we can use it or not | Shakeel Hashim",
-          "link": "https://www.theguardian.com/technology/2026/apr/10/anthropic-new-ai-model-claude-mythos-implications",
-          "date": "Fri, 10 Apr 2026 17:31:45 GMT"
         }
       ],
       "error": null
@@ -502,6 +476,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Why Does It Suddenly Feel Like OpenAI Is Melting Down Into Disaster?",
+          "link": "https://futurism.com/artificial-intelligence/openai-melting-down-disaster",
+          "date": "Sun, 12 Apr 2026 06:00:00 -0400"
+        },
+        {
           "title": "The Effects of AI-Generated Code Tearing Through Corporations Is Actually Kind of Funny",
           "link": "https://futurism.com/artificial-intelligence/ai-code-tearing-through-corporations",
           "date": "Sat, 11 Apr 2026 12:45:00 -0400"
@@ -520,11 +499,6 @@
           "title": "AI Is Causing Healthcare Costs to Surge",
           "link": "https://futurism.com/artificial-intelligence/ai-healthcare-costs-rising",
           "date": "Sat, 11 Apr 2026 07:30:00 -0400"
-        },
-        {
-          "title": "There\u2019s a Mass Rebellion Against AI in the Workplace",
-          "link": "https://futurism.com/future-society/ai-enterprise-workers-survey",
-          "date": "Sat, 11 Apr 2026 06:45:00 -0400"
         }
       ],
       "error": null
