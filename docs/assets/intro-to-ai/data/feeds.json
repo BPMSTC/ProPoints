@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-13T22:39:56.685399+00:00",
+  "generatedAt": "2026-04-13T23:39:42.738378+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Strengthening enterprise governance for rising edge AI workloads",
+          "link": "https://www.artificialintelligence-news.com/news/strengthening-enterprise-governance-for-rising-edge-ai-workloads/",
+          "date": "Mon, 13 Apr 2026 13:02:01 +0000"
+        },
+        {
+          "title": "Companies expand AI adoption while keeping control",
+          "link": "https://www.artificialintelligence-news.com/news/companies-expand-ai-adoption-while-keeping-control/",
+          "date": "Mon, 13 Apr 2026 10:00:00 +0000"
+        },
+        {
+          "title": "IBM: How robust AI governance protects enterprise margins",
+          "link": "https://www.artificialintelligence-news.com/news/ibm-how-robust-ai-governance-protects-enterprise-margins/",
+          "date": "Fri, 10 Apr 2026 13:57:15 +0000"
+        },
+        {
+          "title": "Why companies like Apple are building AI agents with limits",
+          "link": "https://www.artificialintelligence-news.com/news/why-companies-like-apple-are-building-ai-agents-with-limits/",
+          "date": "Fri, 10 Apr 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Meta has a competitive AI model but loses its open-source identity",
+          "link": "https://www.artificialintelligence-news.com/news/meta-muse-spark-ai-model-open-source/",
+          "date": "Fri, 10 Apr 2026 08:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
