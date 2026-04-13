@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-04-13T12:00:23.371819+00:00",
+  "generatedAt": "2026-04-13T14:03:06.546229+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "WebinarTV Secretly Scraped Zoom Meetings of Anonymous Recovery Programs",
+          "link": "https://www.404media.co/webinartv-secretly-scraped-zoom-meetings-of-anonymous-recovery-programs/",
+          "date": "Mon, 13 Apr 2026 13:15:01 GMT"
+        },
         {
           "title": "The Oldest Octopus Fossil Ever Isn\u2019t An Octopus At All, Scientists Discover",
           "link": "https://www.404media.co/the-oldest-octopus-fossil-ever-isnt-an-octopus-at-all-scientists-discover/",
@@ -24,11 +29,6 @@
           "title": "Farmer Arrested for Speaking Too Long at Datacenter Town Hall Vows to Fight",
           "link": "https://www.404media.co/farmer-arrested-for-speaking-too-long-at-datacenter-town-hall-vows-to-fight/",
           "date": "Thu, 09 Apr 2026 15:21:05 GMT"
-        },
-        {
-          "title": "FBI Extracts Suspect\u2019s Deleted Signal Messages Saved in iPhone Notification Database",
-          "link": "https://www.404media.co/fbi-extracts-suspects-deleted-signal-messages-saved-in-iphone-notification-database-2/",
-          "date": "Thu, 09 Apr 2026 13:27:50 GMT"
         }
       ],
       "error": null
@@ -150,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Strengthening enterprise governance for rising edge AI workloads",
+          "link": "https://www.artificialintelligence-news.com/news/strengthening-enterprise-governance-for-rising-edge-ai-workloads/",
+          "date": "Mon, 13 Apr 2026 13:02:01 +0000"
+        },
+        {
+          "title": "Companies expand AI adoption while keeping control",
+          "link": "https://www.artificialintelligence-news.com/news/companies-expand-ai-adoption-while-keeping-control/",
+          "date": "Mon, 13 Apr 2026 10:00:00 +0000"
+        },
+        {
+          "title": "IBM: How robust AI governance protects enterprise margins",
+          "link": "https://www.artificialintelligence-news.com/news/ibm-how-robust-ai-governance-protects-enterprise-margins/",
+          "date": "Fri, 10 Apr 2026 13:57:15 +0000"
+        },
+        {
+          "title": "Why companies like Apple are building AI agents with limits",
+          "link": "https://www.artificialintelligence-news.com/news/why-companies-like-apple-are-building-ai-agents-with-limits/",
+          "date": "Fri, 10 Apr 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Meta has a competitive AI model but loses its open-source identity",
+          "link": "https://www.artificialintelligence-news.com/news/meta-muse-spark-ai-model-open-source/",
+          "date": "Fri, 10 Apr 2026 08:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -264,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "To teach in the time of ChatGPT is to know pain",
+          "link": "https://arstechnica.com/science/2026/04/to-teach-in-the-time-of-chatgpt-is-to-know-pain/",
+          "date": "Mon, 13 Apr 2026 11:00:32 +0000"
+        },
+        {
           "title": "Shock from Iran war has Trump's vision for US energy dominance flailing",
           "link": "https://arstechnica.com/science/2026/04/shock-from-iran-war-has-trumps-vision-for-us-energy-dominance-flailing/",
           "date": "Sun, 12 Apr 2026 11:17:26 +0000"
@@ -282,11 +313,6 @@
           "title": "Four astronauts are back home after a daring ride around the Moon",
           "link": "https://arstechnica.com/space/2026/04/four-astronauts-are-back-home-after-a-daring-ride-around-the-moon/",
           "date": "Sat, 11 Apr 2026 01:21:10 +0000"
-        },
-        {
-          "title": "Californians sue over AI tool that records doctor visits",
-          "link": "https://arstechnica.com/tech-policy/2026/04/californians-sue-over-ai-tool-that-records-doctor-visits/",
-          "date": "Fri, 10 Apr 2026 21:43:33 +0000"
         }
       ],
       "error": null
@@ -301,6 +327,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Does \u2018federated unlearning\u2019 in AI improve data privacy, or create a new cybersecurity risk?",
+          "link": "https://theconversation.com/does-federated-unlearning-in-ai-improve-data-privacy-or-create-a-new-cybersecurity-risk-279640",
+          "date": "2026-04-13T13:02:18Z"
+        },
         {
           "title": "Claude Mythos and Project Glasswing: why an AI superhacker has the tech world on alert",
           "link": "https://theconversation.com/claude-mythos-and-project-glasswing-why-an-ai-superhacker-has-the-tech-world-on-alert-280374",
@@ -320,11 +351,6 @@
           "title": "AI can design and run thousands of lab experiments without human hands. Humanity isn\u2019t ready for the new risks this brings to biology",
           "link": "https://theconversation.com/ai-can-design-and-run-thousands-of-lab-experiments-without-human-hands-humanity-isnt-ready-for-the-new-risks-this-brings-to-biology-279191",
           "date": "2026-04-09T12:23:01Z"
-        },
-        {
-          "title": "How AI\u2019s language barrier limits climate disaster responses",
-          "link": "https://theconversation.com/how-ais-language-barrier-limits-climate-disaster-responses-278020",
-          "date": "2026-04-09T11:18:58Z"
         }
       ],
       "error": null
@@ -334,11 +360,6 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "\u2018It feels as if I\u2019ve made a new best friend\u2019: my experiment with AI journalling",
-          "link": "https://www.theguardian.com/technology/2026/apr/12/experiment-with-ai-journalling",
-          "date": "Sun, 12 Apr 2026 13:00:18 GMT"
-        },
-        {
           "title": "AI to predict how bowel cancer patients will respond to new NHS drug",
           "link": "https://www.theguardian.com/society/2026/apr/13/ai-bowel-cancer-patients-nhs-drug",
           "date": "Mon, 13 Apr 2026 09:00:43 GMT"
@@ -347,6 +368,11 @@
           "title": "The Guardian view on AI politics: US datacentre protests are a warning to big tech | Editorial",
           "link": "https://www.theguardian.com/commentisfree/2026/apr/12/the-guardian-view-on-ai-politics-us-datacentre-protests-are-a-warning-to-big-tech",
           "date": "Sun, 12 Apr 2026 16:42:51 GMT"
+        },
+        {
+          "title": "\u2018It feels as if I\u2019ve made a new best friend\u2019: my experiment with AI journalling",
+          "link": "https://www.theguardian.com/technology/2026/apr/12/experiment-with-ai-journalling",
+          "date": "Sun, 12 Apr 2026 13:00:18 GMT"
         },
         {
           "title": "Readers reply: Should we be polite to voice assistants and AIs?",
@@ -462,6 +488,11 @@
       "url": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "items": [
         {
+          "title": "\u201cGiant superatoms\u201d could finally solve quantum computing\u2019s biggest problem",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260413043155.htm",
+          "date": "Mon, 13 Apr 2026 08:38:46 EDT"
+        },
+        {
           "title": "This new chip could slash data center energy waste",
           "link": "https://www.sciencedaily.com/releases/2026/04/260409101103.htm",
           "date": "Fri, 10 Apr 2026 08:45:22 EDT"
@@ -480,11 +511,6 @@
           "title": "DNA robots could deliver drugs and hunt viruses inside your body",
           "link": "https://www.sciencedaily.com/releases/2026/03/260331001104.htm",
           "date": "Tue, 31 Mar 2026 07:16:58 EDT"
-        },
-        {
-          "title": "AI-powered robot learns how to harvest tomatoes more efficiently",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260317064512.htm",
-          "date": "Wed, 18 Mar 2026 00:26:44 EDT"
         }
       ],
       "error": null
