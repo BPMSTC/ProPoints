@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-13T07:58:49.102234+00:00",
+  "generatedAt": "2026-04-13T10:01:25.066052+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -152,6 +152,11 @@
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [
         {
+          "title": "Companies expand AI adoption while keeping control",
+          "link": "https://www.artificialintelligence-news.com/news/companies-expand-ai-adoption-while-keeping-control/",
+          "date": "Mon, 13 Apr 2026 10:00:00 +0000"
+        },
+        {
           "title": "IBM: How robust AI governance protects enterprise margins",
           "link": "https://www.artificialintelligence-news.com/news/ibm-how-robust-ai-governance-protects-enterprise-margins/",
           "date": "Fri, 10 Apr 2026 13:57:15 +0000"
@@ -170,11 +175,6 @@
           "title": "Agentic AI\u2019s governance challenges under the EU AI Act in 2026",
           "link": "https://www.artificialintelligence-news.com/news/agentic-ais-governance-challenges-under-the-eu-ai-act-in-2026/",
           "date": "Thu, 09 Apr 2026 15:02:00 +0000"
-        },
-        {
-          "title": "Anthropic keeps new AI model private after it finds thousands of external vulnerabilities",
-          "link": "https://www.artificialintelligence-news.com/news/anthropic-keeps-new-ai-model-private-after-it-finds-thousands-of-external-vulnerabilities/",
-          "date": "Thu, 09 Apr 2026 12:00:00 +0000"
         }
       ],
       "error": null
@@ -220,34 +220,8 @@
     {
       "name": "Ai Prompt Programming",
       "url": "https://www.reddit.com/r/aipromptprogramming/.rss",
-      "items": [
-        {
-          "title": "Agentic Flow: Easily switch between low/no-cost AI models (OpenRouter/Onnx/Gemini) in Claude Code and Claude Agent SDK. Build agents in Claude Code, deploy them anywhere. >_ npx agentic-flow",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1nzvbsl/agentic_flow_easily_switch_between_lownocost_ai/",
-          "date": "2025-10-06T21:02:20+00:00"
-        },
-        {
-          "title": "I created an Agentic Coding Competition MCP for Cline/Claude-Code/Cursor/Co-pilot using E2B Sandboxes. I'm looking for some Beta Testers. > npx flow-nexus@latest",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1nc75k5/i_created_an_agentic_coding_competition_mcp_for/",
-          "date": "2025-09-09T02:25:04+00:00"
-        },
-        {
-          "title": "Meshy MCP Is Here - Big Step for AI 3D Workflows",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1see7bk/meshy_mcp_is_here_big_step_for_ai_3d_workflows/",
-          "date": "2026-04-06T22:46:50+00:00"
-        },
-        {
-          "title": "Terminal-based oscilloscope with CRT phosphor physics, vibe coded in Nim",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1see9s0/terminalbased_oscilloscope_with_crt_phosphor/",
-          "date": "2026-04-06T22:49:40+00:00"
-        },
-        {
-          "title": "New SOTA OpenSource AI to decompose live2D layers!",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1sdwgp8/new_sota_opensource_ai_to_decompose_live2d_layers/",
-          "date": "2026-04-06T11:42:19+00:00"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:12: not well-formed (invalid token)"
     },
     {
       "name": "AI \u2013 SiliconANGLE",
@@ -346,39 +320,18 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "NYC hospitals will stop sharing patients' private health data with Palantir",
-          "link": "https://www.reddit.com/r/artificial/comments/1sjvbfw/nyc_hospitals_will_stop_sharing_patients_private/",
-          "date": "2026-04-13T00:21:21+00:00"
-        },
-        {
-          "title": "Claude cannot be trusted to perform complex engineering tasks",
-          "link": "https://www.reddit.com/r/artificial/comments/1sjgytc/claude_cannot_be_trusted_to_perform_complex/",
-          "date": "2026-04-12T15:05:48+00:00"
-        },
-        {
-          "title": "We're Learning Backwards: LLMs build intelligence in reverse, and the Scaling Hypothesis is bounded",
-          "link": "https://www.reddit.com/r/artificial/comments/1sjjw03/were_learning_backwards_llms_build_intelligence/",
-          "date": "2026-04-12T16:56:20+00:00"
-        },
-        {
-          "title": "Are Data Centers Sitting On A Goldmine Of Wasted Energy?",
-          "link": "https://www.reddit.com/r/artificial/comments/1sjtff8/are_data_centers_sitting_on_a_goldmine_of_wasted/",
-          "date": "2026-04-12T22:58:39+00:00"
-        },
-        {
-          "title": "Palantir CEO says AI 'will destroy' humanities jobs, but there will be 'more than enough jobs' for people with vocational training",
-          "link": "https://www.reddit.com/r/artificial/comments/1sjqjji/palantir_ceo_says_ai_will_destroy_humanities_jobs/",
-          "date": "2026-04-12T21:02:54+00:00"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:12: not well-formed (invalid token)"
     },
     {
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Claude Mythos and Project Glasswing: why an AI superhacker has the tech world on alert",
+          "link": "https://theconversation.com/claude-mythos-and-project-glasswing-why-an-ai-superhacker-has-the-tech-world-on-alert-280374",
+          "date": "2026-04-13T08:02:39Z"
+        },
         {
           "title": "Algorithms don\u2019t care: how AI worsens the double burden for Indonesia\u2019s female gig workers",
           "link": "https://theconversation.com/algorithms-dont-care-how-ai-worsens-the-double-burden-for-indonesias-female-gig-workers-279978",
@@ -398,11 +351,6 @@
           "title": "How AI\u2019s language barrier limits climate disaster responses",
           "link": "https://theconversation.com/how-ais-language-barrier-limits-climate-disaster-responses-278020",
           "date": "2026-04-09T11:18:58Z"
-        },
-        {
-          "title": "Could revisiting Asimov\u2019s laws help us avoid AI\u2019s \u2018Chernobyl moment\u2019?",
-          "link": "https://theconversation.com/could-revisiting-asimovs-laws-help-us-avoid-ais-chernobyl-moment-278744",
-          "date": "2026-04-09T11:15:02Z"
         }
       ],
       "error": null
@@ -415,6 +363,11 @@
           "title": "\u2018It feels as if I\u2019ve made a new best friend\u2019: my experiment with AI journalling",
           "link": "https://www.theguardian.com/technology/2026/apr/12/experiment-with-ai-journalling",
           "date": "Sun, 12 Apr 2026 13:00:18 GMT"
+        },
+        {
+          "title": "AI to predict how bowel cancer patients will respond to new NHS drug",
+          "link": "https://www.theguardian.com/society/2026/apr/13/ai-bowel-cancer-patients-nhs-drug",
+          "date": "Mon, 13 Apr 2026 09:00:43 GMT"
         },
         {
           "title": "The Guardian view on AI politics: US datacentre protests are a warning to big tech | Editorial",
@@ -430,11 +383,6 @@
           "title": "Is AI the greatest art heist in history?",
           "link": "https://www.theguardian.com/books/2026/apr/12/is-ai-the-greatest-art-heist-in-history",
           "date": "Sun, 12 Apr 2026 11:00:17 GMT"
-        },
-        {
-          "title": "AI companies know they have an image problem. Will funding policy papers and thinktanks dig them out?",
-          "link": "https://www.theguardian.com/technology/2026/apr/12/ai-image-problem-policy-papers-thinktanks",
-          "date": "Sun, 12 Apr 2026 10:00:14 GMT"
         }
       ],
       "error": null
