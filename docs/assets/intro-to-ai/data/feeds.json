@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-13T02:27:52.895588+00:00",
+  "generatedAt": "2026-04-13T05:38:50.967840+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -102,6 +102,11 @@
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [
         {
+          "title": "SpartanX Launches Autonomous AI Full-Stack Red Teaming Platform",
+          "link": "https://ai-techpark.com/spartanx-launches-autonomous-ai-full-stack-red-teaming-platform/",
+          "date": "Fri, 10 Apr 2026 12:00:00 +0000"
+        },
+        {
           "title": "Fingerprint Unveils AI-Enhanced Suspect Score",
           "link": "https://ai-techpark.com/fingerprint-unveils-ai-enhanced-suspect-score/",
           "date": "Fri, 10 Apr 2026 10:30:00 +0000"
@@ -120,11 +125,6 @@
           "title": "LGI Healthcare Solutions appoints Luc Gagnon as Chief Technology Officer",
           "link": "https://ai-techpark.com/lgi-healthcare-solutions-appoints-luc-gagnon-as-chief-technology-officer/",
           "date": "Thu, 09 Apr 2026 16:00:00 +0000"
-        },
-        {
-          "title": "SiMa.ai Secures Micron Investment to Scale Physical AI",
-          "link": "https://ai-techpark.com/sima-ai-secures-micron-investment-to-scale-physical-ai/",
-          "date": "Thu, 09 Apr 2026 15:45:00 +0000"
         }
       ],
       "error": null
@@ -176,8 +176,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "IBM: How robust AI governance protects enterprise margins",
+          "link": "https://www.artificialintelligence-news.com/news/ibm-how-robust-ai-governance-protects-enterprise-margins/",
+          "date": "Fri, 10 Apr 2026 13:57:15 +0000"
+        },
+        {
+          "title": "Why companies like Apple are building AI agents with limits",
+          "link": "https://www.artificialintelligence-news.com/news/why-companies-like-apple-are-building-ai-agents-with-limits/",
+          "date": "Fri, 10 Apr 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Meta has a competitive AI model but loses its open-source identity",
+          "link": "https://www.artificialintelligence-news.com/news/meta-muse-spark-ai-model-open-source/",
+          "date": "Fri, 10 Apr 2026 08:00:00 +0000"
+        },
+        {
+          "title": "Agentic AI\u2019s governance challenges under the EU AI Act in 2026",
+          "link": "https://www.artificialintelligence-news.com/news/agentic-ais-governance-challenges-under-the-eu-ai-act-in-2026/",
+          "date": "Thu, 09 Apr 2026 15:02:00 +0000"
+        },
+        {
+          "title": "Anthropic keeps new AI model private after it finds thousands of external vulnerabilities",
+          "link": "https://www.artificialintelligence-news.com/news/anthropic-keeps-new-ai-model-private-after-it-finds-thousands-of-external-vulnerabilities/",
+          "date": "Thu, 09 Apr 2026 12:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -380,6 +406,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Algorithms don\u2019t care: how AI worsens the double burden for Indonesia\u2019s female gig workers",
+          "link": "https://theconversation.com/algorithms-dont-care-how-ai-worsens-the-double-burden-for-indonesias-female-gig-workers-279978",
+          "date": "2026-04-13T03:14:52Z"
+        },
+        {
           "title": "The more commodified your job, the more likely AI can do it \u2013 lessons from online freelancing",
           "link": "https://theconversation.com/the-more-commodified-your-job-the-more-likely-ai-can-do-it-lessons-from-online-freelancing-280236",
           "date": "2026-04-09T14:53:23Z"
@@ -398,11 +429,6 @@
           "title": "Could revisiting Asimov\u2019s laws help us avoid AI\u2019s \u2018Chernobyl moment\u2019?",
           "link": "https://theconversation.com/could-revisiting-asimovs-laws-help-us-avoid-ais-chernobyl-moment-278744",
           "date": "2026-04-09T11:15:02Z"
-        },
-        {
-          "title": "Artificial intelligence and biology: AI\u2019s potential for launching a novel era for health and medicine",
-          "link": "https://theconversation.com/artificial-intelligence-and-biology-ais-potential-for-launching-a-novel-era-for-health-and-medicine-275170",
-          "date": "2026-04-08T16:43:14Z"
         }
       ],
       "error": null
