@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-13T20:51:52.006048+00:00",
+  "generatedAt": "2026-04-13T21:44:23.845036+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "Strengthening enterprise governance for rising edge AI workloads",
-          "link": "https://www.artificialintelligence-news.com/news/strengthening-enterprise-governance-for-rising-edge-ai-workloads/",
-          "date": "Mon, 13 Apr 2026 13:02:01 +0000"
-        },
-        {
-          "title": "Companies expand AI adoption while keeping control",
-          "link": "https://www.artificialintelligence-news.com/news/companies-expand-ai-adoption-while-keeping-control/",
-          "date": "Mon, 13 Apr 2026 10:00:00 +0000"
-        },
-        {
-          "title": "IBM: How robust AI governance protects enterprise margins",
-          "link": "https://www.artificialintelligence-news.com/news/ibm-how-robust-ai-governance-protects-enterprise-margins/",
-          "date": "Fri, 10 Apr 2026 13:57:15 +0000"
-        },
-        {
-          "title": "Why companies like Apple are building AI agents with limits",
-          "link": "https://www.artificialintelligence-news.com/news/why-companies-like-apple-are-building-ai-agents-with-limits/",
-          "date": "Fri, 10 Apr 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Meta has a competitive AI model but loses its open-source identity",
-          "link": "https://www.artificialintelligence-news.com/news/meta-muse-spark-ai-model-open-source/",
-          "date": "Fri, 10 Apr 2026 08:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +264,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Google shoehorned Rust into Pixel 10 modem to make legacy code safer",
+          "link": "https://arstechnica.com/gadgets/2026/04/google-shoehorned-rust-into-pixel-10-modem-to-make-legacy-code-safer/",
+          "date": "Mon, 13 Apr 2026 21:12:51 +0000"
+        },
+        {
+          "title": "NZXT agrees to let customers keep their rental PCs in class-action settlement",
+          "link": "https://arstechnica.com/gadgets/2026/04/nzxt-agrees-to-3-45-million-settlement-over-controversial-rental-pc-program/",
+          "date": "Mon, 13 Apr 2026 20:55:35 +0000"
+        },
+        {
+          "title": "Your tech support company runs scams. Stop\u2014or disguise with more fraud?",
+          "link": "https://arstechnica.com/tech-policy/2026/04/your-tech-support-company-runs-scams-stop-or-disguise-with-more-fraud/",
+          "date": "Mon, 13 Apr 2026 19:58:33 +0000"
+        },
+        {
           "title": "Sunrise on the Reaping teaser brings us a Second Quarter Quell",
           "link": "https://arstechnica.com/culture/2026/04/sunrise-on-the-reaping-teaser-brings-us-a-second-quarter-quell/",
           "date": "Mon, 13 Apr 2026 18:15:59 +0000"
@@ -298,21 +287,6 @@
           "title": "IBM folds to Trump anti-DEI push, admits no misconduct but pays $17M penalty",
           "link": "https://arstechnica.com/tech-policy/2026/04/ibm-folds-to-trump-anti-dei-push-admits-no-misconduct-but-pays-17m-penalty/",
           "date": "Mon, 13 Apr 2026 17:53:46 +0000"
-        },
-        {
-          "title": "Slate Auto raises $650 million as production gets closer and closer",
-          "link": "https://arstechnica.com/cars/2026/04/slate-auto-raises-650-million-as-production-gets-closer-and-closer/",
-          "date": "Mon, 13 Apr 2026 14:35:29 +0000"
-        },
-        {
-          "title": "Meta spins up AI version of Mark Zuckerberg to engage with employees",
-          "link": "https://arstechnica.com/ai/2026/04/meta-spins-up-ai-version-of-mark-zuckerberg-to-engage-with-employees/",
-          "date": "Mon, 13 Apr 2026 13:52:46 +0000"
-        },
-        {
-          "title": "To teach in the time of ChatGPT is to know pain",
-          "link": "https://arstechnica.com/science/2026/04/to-teach-in-the-time-of-chatgpt-is-to-know-pain/",
-          "date": "Mon, 13 Apr 2026 11:00:32 +0000"
         }
       ],
       "error": null
