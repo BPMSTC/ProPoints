@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-12T23:31:59.287499+00:00",
+  "generatedAt": "2026-04-13T02:27:52.895588+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -176,34 +176,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "IBM: How robust AI governance protects enterprise margins",
-          "link": "https://www.artificialintelligence-news.com/news/ibm-how-robust-ai-governance-protects-enterprise-margins/",
-          "date": "Fri, 10 Apr 2026 13:57:15 +0000"
-        },
-        {
-          "title": "Why companies like Apple are building AI agents with limits",
-          "link": "https://www.artificialintelligence-news.com/news/why-companies-like-apple-are-building-ai-agents-with-limits/",
-          "date": "Fri, 10 Apr 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Meta has a competitive AI model but loses its open-source identity",
-          "link": "https://www.artificialintelligence-news.com/news/meta-muse-spark-ai-model-open-source/",
-          "date": "Fri, 10 Apr 2026 08:00:00 +0000"
-        },
-        {
-          "title": "Agentic AI\u2019s governance challenges under the EU AI Act in 2026",
-          "link": "https://www.artificialintelligence-news.com/news/agentic-ais-governance-challenges-under-the-eu-ai-act-in-2026/",
-          "date": "Thu, 09 Apr 2026 15:02:00 +0000"
-        },
-        {
-          "title": "Anthropic keeps new AI model private after it finds thousands of external vulnerabilities",
-          "link": "https://www.artificialintelligence-news.com/news/anthropic-keeps-new-ai-model-private-after-it-finds-thousands-of-external-vulnerabilities/",
-          "date": "Thu, 09 Apr 2026 12:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -374,6 +348,11 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
+          "title": "NYC hospitals will stop sharing patients' private health data with Palantir",
+          "link": "https://www.reddit.com/r/artificial/comments/1sjvbfw/nyc_hospitals_will_stop_sharing_patients_private/",
+          "date": "2026-04-13T00:21:21+00:00"
+        },
+        {
           "title": "Claude cannot be trusted to perform complex engineering tasks",
           "link": "https://www.reddit.com/r/artificial/comments/1sjgytc/claude_cannot_be_trusted_to_perform_complex/",
           "date": "2026-04-12T15:05:48+00:00"
@@ -384,19 +363,14 @@
           "date": "2026-04-12T16:56:20+00:00"
         },
         {
-          "title": "It's autocomplete with style",
-          "link": "https://www.reddit.com/r/artificial/comments/1sjlkzh/its_autocomplete_with_style/",
-          "date": "2026-04-12T17:59:11+00:00"
-        },
-        {
           "title": "Are Data Centers Sitting On A Goldmine Of Wasted Energy?",
           "link": "https://www.reddit.com/r/artificial/comments/1sjtff8/are_data_centers_sitting_on_a_goldmine_of_wasted/",
           "date": "2026-04-12T22:58:39+00:00"
         },
         {
-          "title": "Spent today at MIT's Open Agentic Web conference. Six things worth thinking about.",
-          "link": "https://www.reddit.com/r/artificial/comments/1siypay/spent_today_at_mits_open_agentic_web_conference/",
-          "date": "2026-04-11T23:45:51+00:00"
+          "title": "It's autocomplete with style",
+          "link": "https://www.reddit.com/r/artificial/comments/1sjlkzh/its_autocomplete_with_style/",
+          "date": "2026-04-12T17:59:11+00:00"
         }
       ],
       "error": null
