@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-13T17:58:23.464057+00:00",
+  "generatedAt": "2026-04-13T19:19:41.849203+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -226,34 +226,8 @@
     {
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
-      "items": [
-        {
-          "title": "GTC preview: Inside the AI factory \u2014 The $1T infrastructure war under the hood of the AI economy",
-          "link": "https://siliconangle.com/2026/03/14/gtc-preview-inside-ai-factory-1t-infrastructure-war-hood-ai-economy/",
-          "date": "Sun, 15 Mar 2026 03:01:34 +0000"
-        },
-        {
-          "title": "Twenty years in, Amazon S3 finds itself at the center of AWS\u2019 push beyond storage",
-          "link": "https://siliconangle.com/2026/03/14/amazon-s3-anniversary-marks-20-years-evolution-awspiday/",
-          "date": "Sat, 14 Mar 2026 15:00:53 +0000"
-        },
-        {
-          "title": "Uber co-founder Travis Kalanick launches robotics venture Atoms",
-          "link": "https://siliconangle.com/2026/03/13/uber-co-founder-travis-kalanick-launches-robotics-venture-atoms/",
-          "date": "Sat, 14 Mar 2026 01:41:16 +0000"
-        },
-        {
-          "title": "Gumloop reels in $50M for its AI automation platform",
-          "link": "https://siliconangle.com/2026/03/13/gumloop-reels-50m-ai-automation-platform/",
-          "date": "Fri, 13 Mar 2026 23:52:21 +0000"
-        },
-        {
-          "title": "AWS will bring Cerebras\u2019 wafer-size WSE-3 chip to its cloud platform",
-          "link": "https://siliconangle.com/2026/03/13/aws-will-bring-cerebras-wafer-size-wse-3-chip-cloud-platform/",
-          "date": "Fri, 13 Mar 2026 21:11:49 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:7:2: mismatched tag"
     },
     {
       "name": "AI Snake Oil",
@@ -424,6 +398,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Meta Secretly Building a Photorealistic AI Clone of Mark Zuckerberg so No Employee Can Ever Escape His Watchful Eye",
+          "link": "https://futurism.com/artificial-intelligence/meta-photorealistic-ai-clone-mark-zuckerberg",
+          "date": "Mon, 13 Apr 2026 14:04:45 -0400"
+        },
+        {
           "title": "Recent Grads Say AI Is Making It Impossible to Find a Job",
           "link": "https://futurism.com/artificial-intelligence/graduates-college-ai-jobs",
           "date": "Mon, 13 Apr 2026 13:07:11 -0400"
@@ -442,11 +421,6 @@
           "title": "Nike\u2019s AI Designed World Cup Jerseys Are a Disaster",
           "link": "https://futurism.com/artificial-intelligence/nikes-ai-designed-world-cup-jerseys",
           "date": "Sun, 12 Apr 2026 15:00:00 -0400"
-        },
-        {
-          "title": "OpenAI Backing Law That Protects It When AI Causes Mass Deaths and Other Mayhem",
-          "link": "https://futurism.com/artificial-intelligence/openai-backing-law-protects-ai-causes-mass-deaths",
-          "date": "Sun, 12 Apr 2026 11:15:00 -0400"
         }
       ],
       "error": null
