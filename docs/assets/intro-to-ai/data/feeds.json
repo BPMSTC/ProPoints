@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-14T21:51:42.446340+00:00",
+  "generatedAt": "2026-04-14T22:42:13.506467+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "items": [
+        {
+          "title": "AfterQuery Raises $30 Mn Series A Round at $300 Million Valuation",
+          "link": "https://ai-techpark.com/afterquery-raises-30-mn-series-a-round-at-300-million-valuation/",
+          "date": "Tue, 14 Apr 2026 20:30:00 +0000"
+        },
+        {
+          "title": "Haast Raises $12M to Solve AI Compliance Bottlenecks",
+          "link": "https://ai-techpark.com/haast-raises-12m-to-solve-ai-compliance-bottlenecks/",
+          "date": "Tue, 14 Apr 2026 19:30:00 +0000"
+        },
+        {
+          "title": "Airia Partners with Performa IT to Expand AI Solutions into Brazilian Market",
+          "link": "https://ai-techpark.com/airia-partners-with-performa-it-to-expand-ai-solutions-into-brazilian-market/",
+          "date": "Tue, 14 Apr 2026 18:15:00 +0000"
+        },
+        {
+          "title": "iFLYTEK Demonstrates All-In-One AI Solutions at GITEX ASIA 2026",
+          "link": "https://ai-techpark.com/iflytek-demonstrates-all-in-one-ai-solutions-at-gitex-asia-2026/",
+          "date": "Tue, 14 Apr 2026 18:00:00 +0000"
+        },
+        {
+          "title": "BrainChip Unveils Radar Reference Platform",
+          "link": "https://ai-techpark.com/brainchip-unveils-radar-reference-platform/",
+          "date": "Tue, 14 Apr 2026 17:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -113,6 +139,11 @@
       "name": "AI Business",
       "url": "https://aibusiness.com/rss.xml",
       "items": [
+        {
+          "title": "Anthropic Mythos Prompting Calls for More Security Measures",
+          "link": "https://aibusiness.com/generative-ai/anthropic-mythos-prompting-calls-more-security-measures",
+          "date": "Tue, 14 Apr 2026 22:05:25 GMT"
+        },
         {
           "title": "Oracle Expands AI Infrastructure Drive with Bloom Deal",
           "link": "https://aibusiness.com/generative-ai/oracle-expands-ai-infrastructure-drive-bloom-deal",
@@ -132,11 +163,6 @@
           "title": "Anthropic's Glasswing Highlights AI's Security Paradox",
           "link": "https://aibusiness.com/generative-ai/anthropic-s-glasswing-highlights-ai-s-security-paradox",
           "date": "Fri, 10 Apr 2026 15:39:11 GMT"
-        },
-        {
-          "title": "Intel Secures New AI Infrastructure Deal With Google",
-          "link": "https://aibusiness.com/generative-ai/intel-secures-new-ai-infrastructure-deal-google",
-          "date": "Fri, 10 Apr 2026 15:21:07 GMT"
         }
       ],
       "error": null
@@ -290,6 +316,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Sony killing features for antenna, set-top box users of Bravia smart TVs in May",
+          "link": "https://arstechnica.com/gadgets/2026/04/sony-killing-features-for-antenna-set-top-box-users-of-bravia-smart-tvs-in-may/",
+          "date": "Tue, 14 Apr 2026 22:00:31 +0000"
+        },
+        {
           "title": "Americans ask AI for health care. Hospitals think the answer is more chatbots.",
           "link": "https://arstechnica.com/health/2026/04/americans-ask-ai-for-health-care-hospitals-think-the-answer-is-more-chatbots/",
           "date": "Tue, 14 Apr 2026 20:30:20 +0000"
@@ -308,11 +339,6 @@
           "title": "UK gov's Mythos AI tests help separate cybersecurity threat from hype",
           "link": "https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/",
           "date": "Tue, 14 Apr 2026 19:11:25 +0000"
-        },
-        {
-          "title": "Google introduces \"Skills\" in Chrome to make Gemini prompts instantly reusable",
-          "link": "https://arstechnica.com/google/2026/04/google-introduces-skills-in-chrome-to-make-gemini-prompts-instantly-reusable/",
-          "date": "Tue, 14 Apr 2026 17:00:37 +0000"
         }
       ],
       "error": null
@@ -367,7 +393,7 @@
         {
           "title": "NAACP lawsuit accuses Elon Musk\u2019s xAI of polluting Black neighborhoods near Memphis",
           "link": "https://www.theguardian.com/technology/2026/apr/14/naacp-lawsuit-elon-musk-xai-memphis",
-          "date": "Tue, 14 Apr 2026 20:54:50 GMT"
+          "date": "Tue, 14 Apr 2026 22:19:02 GMT"
         },
         {
           "title": "Could AI write this column? In a world of slop-inion, I\u2019m certifying myself human | Peter Lewis",
@@ -424,6 +450,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "AI Use Appears to Have a \u201cBoiling Frog\u201d Effect on Human Cognition, New Study Warns",
+          "link": "https://futurism.com/artificial-intelligence/ai-boiling-frog-human-cognition-study",
+          "date": "Tue, 14 Apr 2026 18:05:25 -0400"
+        },
+        {
           "title": "Man Who Threw Molotov at Sam Altman\u2019s House Warned AI Will Exterminate Humankind",
           "link": "https://futurism.com/artificial-intelligence/altman-mansion-molotov",
           "date": "Tue, 14 Apr 2026 16:35:44 -0400"
@@ -442,11 +473,6 @@
           "title": "Why Do ChatGPT Users Keep Committing Mass Shootings?",
           "link": "https://futurism.com/artificial-intelligence/chatgpt-users-mass-shootings",
           "date": "Tue, 14 Apr 2026 12:32:26 -0400"
-        },
-        {
-          "title": "Woman Sues OpenAI, Saying ChatGPT Unleashed a Vicious Stalker Against Her and Did Nothing When She Begged for Help",
-          "link": "https://futurism.com/artificial-intelligence/woman-sues-openai-chatgpt-stalker",
-          "date": "Tue, 14 Apr 2026 10:01:37 -0400"
         }
       ],
       "error": null
