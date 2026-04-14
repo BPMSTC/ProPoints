@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-14T14:48:48.017453+00:00",
+  "generatedAt": "2026-04-14T16:08:01.139999+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "What analytics engineering  didn\u2019t prepare me for in AI",
+          "link": "https://www.aiacceleratorinstitute.com/what-analytics-engineering-didnt-prepare-me-for-in-ai/",
+          "date": "Tue, 14 Apr 2026 15:45:28 GMT"
+        },
+        {
           "title": "AI\u2019s new era:  Train once, infer forever",
           "link": "https://www.aiacceleratorinstitute.com/ais-new-era-train-once-infer-forever/",
           "date": "Mon, 13 Apr 2026 14:21:07 GMT"
@@ -88,11 +93,6 @@
           "title": "AI doesn\u2019t actually learn. Here\u2019s the problem",
           "link": "https://www.aiacceleratorinstitute.com/ai-doesnt-actually-learn-heres-the-problem/",
           "date": "Fri, 10 Apr 2026 10:45:41 GMT"
-        },
-        {
-          "title": "How AIRA2 breaks AI research  bottlenecks",
-          "link": "https://www.aiacceleratorinstitute.com/how-aira2-breaks-ai-research-bottlenecks/",
-          "date": "Wed, 01 Apr 2026 13:44:36 GMT"
         }
       ],
       "error": null
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "Moovila Earns Multiple AI Industry Honors, Recognised in Second CRN AI 100",
-          "link": "https://ai-techpark.com/moovila-earns-multiple-ai-industry-honors-recognised-in-second-crn-ai-100/",
-          "date": "Mon, 13 Apr 2026 08:15:00 +0000"
-        },
-        {
-          "title": "Adversa AI Wins Artificial Intelligence Excellence in Safety and Alignment",
-          "link": "https://ai-techpark.com/adversa-ai-wins-artificial-intelligence-excellence-in-safety-and-alignment/",
-          "date": "Mon, 13 Apr 2026 07:45:00 +0000"
-        },
-        {
-          "title": "Strobes Security Unveils Proprietary AI Harness",
-          "link": "https://ai-techpark.com/strobes-security-unveils-proprietary-ai-harness/",
-          "date": "Mon, 13 Apr 2026 07:36:41 +0000"
-        },
-        {
-          "title": "SpartanX Launches Autonomous AI Full-Stack Red Teaming Platform",
-          "link": "https://ai-techpark.com/spartanx-launches-autonomous-ai-full-stack-red-teaming-platform/",
-          "date": "Fri, 10 Apr 2026 12:00:00 +0000"
-        },
-        {
-          "title": "Fingerprint Unveils AI-Enhanced Suspect Score",
-          "link": "https://ai-techpark.com/fingerprint-unveils-ai-enhanced-suspect-score/",
-          "date": "Fri, 10 Apr 2026 10:30:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -391,6 +365,11 @@
           "date": "Mon, 13 Apr 2026 16:23:14 GMT"
         },
         {
+          "title": "Could AI write this column? In a world of slop-inion, I\u2019m certifying myself human | Peter Lewis",
+          "link": "https://www.theguardian.com/commentisfree/2026/apr/14/ai-opinion-piece-column-writing-articles-certified-human-writer",
+          "date": "Tue, 14 Apr 2026 15:00:43 GMT"
+        },
+        {
           "title": "Bosses say AI boosts productivity \u2013 workers say they\u2019re drowning in \u2018workslop\u2019",
           "link": "https://www.theguardian.com/technology/2026/apr/14/ai-productivity-workplace-errors",
           "date": "Tue, 14 Apr 2026 14:00:58 GMT"
@@ -404,11 +383,6 @@
           "title": "AI companies make powerful tech \u2013 but they\u2019re also savvy marketers",
           "link": "https://www.theguardian.com/technology/2026/apr/13/ai-tech-marketing",
           "date": "Tue, 14 Apr 2026 12:04:48 GMT"
-        },
-        {
-          "title": "AI learns language from skewed sources. That could change how we humans speak \u2013 and think | Bruce Schneier",
-          "link": "https://www.theguardian.com/commentisfree/2026/apr/14/ai-language-human-speech",
-          "date": "Tue, 14 Apr 2026 12:00:56 GMT"
         }
       ],
       "error": null
@@ -417,6 +391,11 @@
       "name": "artificial intelligence Archives - SpaceNews",
       "url": "https://spacenews.com/tag/artificial-intelligence/feed/",
       "items": [
+        {
+          "title": "Xoople and L3Harris team up to build satellites for \u2018Earth AI\u2019",
+          "link": "https://spacenews.com/xoople-and-l3harris-team-up-to-build-satellites-for-earth-ai/",
+          "date": "Tue, 14 Apr 2026 15:00:00 +0000"
+        },
         {
           "title": "The\u00a0moon\u00a0base\u00a0has\u00a0a\u00a0hardware\u00a0plan. It\u00a0needs\u00a0a\u00a0software\u00a0strategy,\u00a0too.",
           "link": "https://spacenews.com/the-moon-base-has-a-hardware-plan-it-needs-a-software-strategy-too/",
@@ -436,11 +415,6 @@
           "title": "Sift raises $42 million in Series B round",
           "link": "https://spacenews.com/sift-raises-42-million-in-series-b-round/",
           "date": "Wed, 25 Mar 2026 15:14:02 +0000"
-        },
-        {
-          "title": "Kayhan targets investors, insurers with expanded orbital intelligence platform",
-          "link": "https://spacenews.com/kayhan-targets-investors-insurers-with-expanded-orbital-intelligence-platform/",
-          "date": "Fri, 20 Mar 2026 11:00:00 +0000"
         }
       ],
       "error": null
@@ -482,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Anthropic Opposes the Extreme AI Liability Bill That OpenAI Backed",
+          "link": "https://www.wired.com/story/anthropic-opposes-the-extreme-ai-liability-bill-that-openai-backed/",
+          "date": "Tue, 14 Apr 2026 15:21:44 +0000"
+        },
+        {
           "title": "Silicon Valley Is Spending Millions to Stop One of Its Own",
           "link": "https://www.wired.com/story/the-big-interview-podcast-new-york-state-representative-alex-bores/",
           "date": "Tue, 14 Apr 2026 10:30:00 +0000"
@@ -500,11 +479,6 @@
           "title": "The Internet's Most Powerful Archiving Tool Is in Peril",
           "link": "https://www.wired.com/story/the-internets-most-powerful-archiving-tool-is-in-mortal-peril/",
           "date": "Mon, 13 Apr 2026 11:00:00 +0000"
-        },
-        {
-          "title": "AI Agents Are Coming for Your Dating Life",
-          "link": "https://www.wired.com/story/ai-agents-are-coming-for-your-dating-life-next/",
-          "date": "Mon, 13 Apr 2026 10:00:00 +0000"
         }
       ],
       "error": null
