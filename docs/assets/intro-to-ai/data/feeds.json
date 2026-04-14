@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-14T16:08:01.139999+00:00",
+  "generatedAt": "2026-04-14T18:02:36.473112+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "items": [
+        {
+          "title": "BrainChip Unveils Radar Reference Platform",
+          "link": "https://ai-techpark.com/brainchip-unveils-radar-reference-platform/",
+          "date": "Tue, 14 Apr 2026 17:00:00 +0000"
+        },
+        {
+          "title": "Moovila Earns Multiple AI Industry Honors, Recognised in Second CRN AI 100",
+          "link": "https://ai-techpark.com/moovila-earns-multiple-ai-industry-honors-recognised-in-second-crn-ai-100/",
+          "date": "Mon, 13 Apr 2026 08:15:00 +0000"
+        },
+        {
+          "title": "Adversa AI Wins Artificial Intelligence Excellence in Safety and Alignment",
+          "link": "https://ai-techpark.com/adversa-ai-wins-artificial-intelligence-excellence-in-safety-and-alignment/",
+          "date": "Mon, 13 Apr 2026 07:45:00 +0000"
+        },
+        {
+          "title": "Strobes Security Unveils Proprietary AI Harness",
+          "link": "https://ai-techpark.com/strobes-security-unveils-proprietary-ai-harness/",
+          "date": "Mon, 13 Apr 2026 07:36:41 +0000"
+        },
+        {
+          "title": "SpartanX Launches Autonomous AI Full-Stack Red Teaming Platform",
+          "link": "https://ai-techpark.com/spartanx-launches-autonomous-ai-full-stack-red-teaming-platform/",
+          "date": "Fri, 10 Apr 2026 12:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -290,29 +316,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Retro Rewind re-creates the glorious drudgery of working a '90s video store",
-          "link": "https://arstechnica.com/gaming/2026/04/retro-rewind-re-creates-the-glorious-drudgery-of-working-a-90s-video-store/",
-          "date": "Mon, 13 Apr 2026 21:58:41 +0000"
+          "title": "Google introduces \"Skills\" in Chrome to make Gemini prompts instantly reusable",
+          "link": "https://arstechnica.com/google/2026/04/google-introduces-skills-in-chrome-to-make-gemini-prompts-instantly-reusable/",
+          "date": "Tue, 14 Apr 2026 17:00:37 +0000"
         },
         {
-          "title": "Measles takes a plane to Idaho, which has worst vaccination rate in US",
-          "link": "https://arstechnica.com/health/2026/04/airport-measles-case-reported-in-idaho-state-with-lowest-vaccination-rate/",
-          "date": "Mon, 13 Apr 2026 21:32:48 +0000"
+          "title": "Physicists think they've resolved the proton size puzzle",
+          "link": "https://arstechnica.com/science/2026/04/physicists-think-theyve-resolved-the-proton-size-puzzle/",
+          "date": "Tue, 14 Apr 2026 16:52:34 +0000"
         },
         {
-          "title": "Google shoehorned Rust into Pixel 10 modem to make legacy code safer",
-          "link": "https://arstechnica.com/gadgets/2026/04/google-shoehorned-rust-into-pixel-10-modem-to-make-legacy-code-safer/",
-          "date": "Mon, 13 Apr 2026 21:12:51 +0000"
+          "title": "NASA chose the right crew to launch a new era of human space exploration",
+          "link": "https://arstechnica.com/space/2026/04/rockets-and-spaceships-are-cool-but-the-humanity-of-artemis-ii-resonated-most/",
+          "date": "Tue, 14 Apr 2026 16:10:17 +0000"
         },
         {
-          "title": "NZXT agrees to let customers keep their rental PCs in class-action settlement",
-          "link": "https://arstechnica.com/gadgets/2026/04/nzxt-agrees-to-3-45-million-settlement-over-controversial-rental-pc-program/",
-          "date": "Mon, 13 Apr 2026 20:55:35 +0000"
+          "title": "Google will begin punishing sites for back button hijacking in June",
+          "link": "https://arstechnica.com/gadgets/2026/04/websites-that-hijack-your-back-button-must-stop-by-june-15-or-face-googles-wrath/",
+          "date": "Tue, 14 Apr 2026 15:48:41 +0000"
         },
         {
-          "title": "Your tech support company runs scams. Stop\u2014or disguise with more fraud?",
-          "link": "https://arstechnica.com/tech-policy/2026/04/your-tech-support-company-runs-scams-stop-or-disguise-with-more-fraud/",
-          "date": "Mon, 13 Apr 2026 19:58:33 +0000"
+          "title": "IONNA Rechargeries are coming to more than 350 Circle K stations",
+          "link": "https://arstechnica.com/cars/2026/04/circle-k-partners-with-ionna-to-upgrade-its-ev-charging-experience/",
+          "date": "Tue, 14 Apr 2026 15:37:00 +0000"
         }
       ],
       "error": null
@@ -360,9 +386,9 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Don\u2019t make Marshal Foch\u2019s mistake on AI | Letters",
-          "link": "https://www.theguardian.com/technology/2026/apr/13/dont-make-marshal-fochs-mistake-on-ai",
-          "date": "Mon, 13 Apr 2026 16:23:14 GMT"
+          "title": "China now AI\u2019s \u2018good guy\u2019 as US takes a \u2018wild west\u2019 approach, MPs told",
+          "link": "https://www.theguardian.com/technology/2026/apr/14/china-now-ais-good-guy-as-us-takes-a-wild-west-approach-mps-told",
+          "date": "Tue, 14 Apr 2026 17:56:47 GMT"
         },
         {
           "title": "Could AI write this column? In a world of slop-inion, I\u2019m certifying myself human | Peter Lewis",
@@ -424,6 +450,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Why Do ChatGPT Users Keep Committing Mass Shootings?",
+          "link": "https://futurism.com/artificial-intelligence/chatgpt-users-mass-shootings",
+          "date": "Tue, 14 Apr 2026 12:32:26 -0400"
+        },
+        {
           "title": "Woman Sues OpenAI, Saying ChatGPT Unleashed a Vicious Stalker Against Her and Did Nothing When She Begged for Help",
           "link": "https://futurism.com/artificial-intelligence/woman-sues-openai-chatgpt-stalker",
           "date": "Tue, 14 Apr 2026 10:01:37 -0400"
@@ -442,11 +473,6 @@
           "title": "Recent Grads Say AI Is Making It Impossible to Find a Job",
           "link": "https://futurism.com/artificial-intelligence/graduates-college-ai-jobs",
           "date": "Mon, 13 Apr 2026 13:07:11 -0400"
-        },
-        {
-          "title": "Moon Denialists Are So Pathetic That They\u2019re Using AI to Fake Artemis Footage",
-          "link": "https://futurism.com/artificial-intelligence/moon-denialists-ai-fake-artemis-footage",
-          "date": "Mon, 13 Apr 2026 11:07:10 -0400"
         }
       ],
       "error": null
@@ -455,6 +481,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "How to Use Google Chrome\u2019s New AI-Powered \u2018Skills\u2019",
+          "link": "https://www.wired.com/story/how-to-use-google-chrome-ai-powered-skills/",
+          "date": "Tue, 14 Apr 2026 17:00:00 +0000"
+        },
         {
           "title": "Anthropic Opposes the Extreme AI Liability Bill That OpenAI Backed",
           "link": "https://www.wired.com/story/anthropic-opposes-the-extreme-ai-liability-bill-that-openai-backed/",
@@ -474,11 +505,6 @@
           "title": "Meta Is Warned That Facial Recognition Glasses Will Arm Sexual Predators",
           "link": "https://www.wired.com/story/meta-ray-ban-oakley-smart-glasses-no-face-recognition-civil-society/",
           "date": "Mon, 13 Apr 2026 16:01:30 +0000"
-        },
-        {
-          "title": "The Internet's Most Powerful Archiving Tool Is in Peril",
-          "link": "https://www.wired.com/story/the-internets-most-powerful-archiving-tool-is-in-mortal-peril/",
-          "date": "Mon, 13 Apr 2026 11:00:00 +0000"
         }
       ],
       "error": null
