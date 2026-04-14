@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-14T20:03:28.585003+00:00",
+  "generatedAt": "2026-04-14T21:51:42.446340+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "Haast Raises $12M to Solve AI Compliance Bottlenecks",
-          "link": "https://ai-techpark.com/haast-raises-12m-to-solve-ai-compliance-bottlenecks/",
-          "date": "Tue, 14 Apr 2026 19:30:00 +0000"
-        },
-        {
-          "title": "Airia Partners with Performa IT to Expand AI Solutions into Brazilian Market",
-          "link": "https://ai-techpark.com/airia-partners-with-performa-it-to-expand-ai-solutions-into-brazilian-market/",
-          "date": "Tue, 14 Apr 2026 18:15:00 +0000"
-        },
-        {
-          "title": "iFLYTEK Demonstrates All-In-One AI Solutions at GITEX ASIA 2026",
-          "link": "https://ai-techpark.com/iflytek-demonstrates-all-in-one-ai-solutions-at-gitex-asia-2026/",
-          "date": "Tue, 14 Apr 2026 18:00:00 +0000"
-        },
-        {
-          "title": "BrainChip Unveils Radar Reference Platform",
-          "link": "https://ai-techpark.com/brainchip-unveils-radar-reference-platform/",
-          "date": "Tue, 14 Apr 2026 17:00:00 +0000"
-        },
-        {
-          "title": "Moovila Earns Multiple AI Industry Honors, Recognised in Second CRN AI 100",
-          "link": "https://ai-techpark.com/moovila-earns-multiple-ai-industry-honors-recognised-in-second-crn-ai-100/",
-          "date": "Mon, 13 Apr 2026 08:15:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -316,6 +290,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Americans ask AI for health care. Hospitals think the answer is more chatbots.",
+          "link": "https://arstechnica.com/health/2026/04/americans-ask-ai-for-health-care-hospitals-think-the-answer-is-more-chatbots/",
+          "date": "Tue, 14 Apr 2026 20:30:20 +0000"
+        },
+        {
+          "title": "Two-year-old Surface PCs get $300 price hikes as sub-$1,000 models go away",
+          "link": "https://arstechnica.com/gadgets/2026/04/two-year-old-surface-pcs-get-300-price-hikes-as-sub-1000-models-go-away/",
+          "date": "Tue, 14 Apr 2026 19:58:52 +0000"
+        },
+        {
+          "title": "Apple chooses Amazon satellites for iPhone, years after rejecting Starlink offer",
+          "link": "https://arstechnica.com/tech-policy/2026/04/amazon-to-merge-with-globalstar-become-iphones-primary-satellite-provider/",
+          "date": "Tue, 14 Apr 2026 19:50:16 +0000"
+        },
+        {
           "title": "UK gov's Mythos AI tests help separate cybersecurity threat from hype",
           "link": "https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/",
           "date": "Tue, 14 Apr 2026 19:11:25 +0000"
@@ -324,21 +313,6 @@
           "title": "Google introduces \"Skills\" in Chrome to make Gemini prompts instantly reusable",
           "link": "https://arstechnica.com/google/2026/04/google-introduces-skills-in-chrome-to-make-gemini-prompts-instantly-reusable/",
           "date": "Tue, 14 Apr 2026 17:00:37 +0000"
-        },
-        {
-          "title": "Physicists think they've resolved the proton size puzzle",
-          "link": "https://arstechnica.com/science/2026/04/physicists-think-theyve-resolved-the-proton-size-puzzle/",
-          "date": "Tue, 14 Apr 2026 16:52:34 +0000"
-        },
-        {
-          "title": "NASA chose the right crew to launch a new era of human space exploration",
-          "link": "https://arstechnica.com/space/2026/04/rockets-and-spaceships-are-cool-but-the-humanity-of-artemis-ii-resonated-most/",
-          "date": "Tue, 14 Apr 2026 16:10:17 +0000"
-        },
-        {
-          "title": "Google will begin punishing sites for back button hijacking in June",
-          "link": "https://arstechnica.com/gadgets/2026/04/websites-that-hijack-your-back-button-must-stop-by-june-15-or-face-googles-wrath/",
-          "date": "Tue, 14 Apr 2026 15:48:41 +0000"
         }
       ],
       "error": null
@@ -353,6 +327,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "When AI starts shopping for you, fashion may be entering a new era of pricing",
+          "link": "https://theconversation.com/when-ai-starts-shopping-for-you-fashion-may-be-entering-a-new-era-of-pricing-280142",
+          "date": "2026-04-14T19:41:22Z"
+        },
         {
           "title": "AI companions can give constant support \u2013 but distort ideas about what a relationship really is",
           "link": "https://theconversation.com/ai-companions-can-give-constant-support-but-distort-ideas-about-what-a-relationship-really-is-278284",
@@ -372,11 +351,6 @@
           "title": "Claude Mythos and Project Glasswing: why an AI superhacker has the tech world on alert",
           "link": "https://theconversation.com/claude-mythos-and-project-glasswing-why-an-ai-superhacker-has-the-tech-world-on-alert-280374",
           "date": "2026-04-13T08:02:39Z"
-        },
-        {
-          "title": "Algorithms don\u2019t care: how AI worsens the double burden for Indonesia\u2019s female gig workers",
-          "link": "https://theconversation.com/algorithms-dont-care-how-ai-worsens-the-double-burden-for-indonesias-female-gig-workers-279978",
-          "date": "2026-04-13T03:14:52Z"
         }
       ],
       "error": null
@@ -389,6 +363,11 @@
           "title": "China now the \u2018good guy\u2019 on AI as Trump takes \u2018wild west\u2019 approach, MPs told",
           "link": "https://www.theguardian.com/technology/2026/apr/14/china-now-ais-good-guy-as-us-takes-a-wild-west-approach-mps-told",
           "date": "Tue, 14 Apr 2026 17:56:47 GMT"
+        },
+        {
+          "title": "NAACP lawsuit accuses Elon Musk\u2019s xAI of polluting Black neighborhoods near Memphis",
+          "link": "https://www.theguardian.com/technology/2026/apr/14/naacp-lawsuit-elon-musk-xai-memphis",
+          "date": "Tue, 14 Apr 2026 20:54:50 GMT"
         },
         {
           "title": "Could AI write this column? In a world of slop-inion, I\u2019m certifying myself human | Peter Lewis",
@@ -404,11 +383,6 @@
           "title": "Nissan turnaround plan pins hopes on \u2018AI-defined vehicles\u2019",
           "link": "https://www.theguardian.com/business/2026/apr/14/nissan-turnaround-plan-pins-hopes-on-ai-defined-vehicles",
           "date": "Tue, 14 Apr 2026 12:25:51 GMT"
-        },
-        {
-          "title": "AI companies make powerful tech \u2013 but they\u2019re also savvy marketers",
-          "link": "https://www.theguardian.com/technology/2026/apr/13/ai-tech-marketing",
-          "date": "Tue, 14 Apr 2026 12:04:48 GMT"
         }
       ],
       "error": null
@@ -450,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Man Who Threw Molotov at Sam Altman\u2019s House Warned AI Will Exterminate Humankind",
+          "link": "https://futurism.com/artificial-intelligence/altman-mansion-molotov",
+          "date": "Tue, 14 Apr 2026 16:35:44 -0400"
+        },
+        {
           "title": "Trump Is Inflicting Massive Damage to His Public Image by Posting Offensive AI Slop",
           "link": "https://futurism.com/artificial-intelligence/trump-damage-public-image-offensive-ai-slop",
           "date": "Tue, 14 Apr 2026 15:51:06 -0400"
@@ -468,11 +447,6 @@
           "title": "Woman Sues OpenAI, Saying ChatGPT Unleashed a Vicious Stalker Against Her and Did Nothing When She Begged for Help",
           "link": "https://futurism.com/artificial-intelligence/woman-sues-openai-chatgpt-stalker",
           "date": "Tue, 14 Apr 2026 10:01:37 -0400"
-        },
-        {
-          "title": "Huge Group of Experts Warns Meta That Its Pervert Glasses Will Enable Terrible Crimes",
-          "link": "https://futurism.com/artificial-intelligence/coalition-rights-meta-glasses-facial-recognition",
-          "date": "Mon, 13 Apr 2026 16:16:36 -0400"
         }
       ],
       "error": null
