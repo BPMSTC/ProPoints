@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-04-14T18:02:36.473112+00:00",
+  "generatedAt": "2026-04-14T20:03:28.585003+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Thomson Reuters Fired Worker For Speaking Out About ICE, Former Employee Says",
+          "link": "https://www.404media.co/thomson-reuters-fired-worker-for-speaking-out-about-ice-former-employee-says/",
+          "date": "Tue, 14 Apr 2026 19:50:35 GMT"
+        },
         {
           "title": "Airbnb Hosts Don't Want to Talk to Guests Anymore, Are Outsourcing Messages to AI",
           "link": "https://www.404media.co/airbnb-hosts-dont-want-to-talk-to-guests-anymore-are-outsourcing-messages-to-ai/",
@@ -24,11 +29,6 @@
           "title": "How the Internet Became Hell (with Whitney Phillips)",
           "link": "https://www.404media.co/how-the-internet-became-hell-with-whitney-phillips/",
           "date": "Mon, 13 Apr 2026 14:48:19 GMT"
-        },
-        {
-          "title": "WebinarTV Secretly Scraped Zoom Meetings of Anonymous Recovery Programs",
-          "link": "https://www.404media.co/webinartv-secretly-scraped-zoom-meetings-of-anonymous-recovery-programs/",
-          "date": "Mon, 13 Apr 2026 13:15:01 GMT"
         }
       ],
       "error": null
@@ -102,6 +102,21 @@
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [
         {
+          "title": "Haast Raises $12M to Solve AI Compliance Bottlenecks",
+          "link": "https://ai-techpark.com/haast-raises-12m-to-solve-ai-compliance-bottlenecks/",
+          "date": "Tue, 14 Apr 2026 19:30:00 +0000"
+        },
+        {
+          "title": "Airia Partners with Performa IT to Expand AI Solutions into Brazilian Market",
+          "link": "https://ai-techpark.com/airia-partners-with-performa-it-to-expand-ai-solutions-into-brazilian-market/",
+          "date": "Tue, 14 Apr 2026 18:15:00 +0000"
+        },
+        {
+          "title": "iFLYTEK Demonstrates All-In-One AI Solutions at GITEX ASIA 2026",
+          "link": "https://ai-techpark.com/iflytek-demonstrates-all-in-one-ai-solutions-at-gitex-asia-2026/",
+          "date": "Tue, 14 Apr 2026 18:00:00 +0000"
+        },
+        {
           "title": "BrainChip Unveils Radar Reference Platform",
           "link": "https://ai-techpark.com/brainchip-unveils-radar-reference-platform/",
           "date": "Tue, 14 Apr 2026 17:00:00 +0000"
@@ -110,21 +125,6 @@
           "title": "Moovila Earns Multiple AI Industry Honors, Recognised in Second CRN AI 100",
           "link": "https://ai-techpark.com/moovila-earns-multiple-ai-industry-honors-recognised-in-second-crn-ai-100/",
           "date": "Mon, 13 Apr 2026 08:15:00 +0000"
-        },
-        {
-          "title": "Adversa AI Wins Artificial Intelligence Excellence in Safety and Alignment",
-          "link": "https://ai-techpark.com/adversa-ai-wins-artificial-intelligence-excellence-in-safety-and-alignment/",
-          "date": "Mon, 13 Apr 2026 07:45:00 +0000"
-        },
-        {
-          "title": "Strobes Security Unveils Proprietary AI Harness",
-          "link": "https://ai-techpark.com/strobes-security-unveils-proprietary-ai-harness/",
-          "date": "Mon, 13 Apr 2026 07:36:41 +0000"
-        },
-        {
-          "title": "SpartanX Launches Autonomous AI Full-Stack Red Teaming Platform",
-          "link": "https://ai-techpark.com/spartanx-launches-autonomous-ai-full-stack-red-teaming-platform/",
-          "date": "Fri, 10 Apr 2026 12:00:00 +0000"
         }
       ],
       "error": null
@@ -316,6 +316,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "UK gov's Mythos AI tests help separate cybersecurity threat from hype",
+          "link": "https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/",
+          "date": "Tue, 14 Apr 2026 19:11:25 +0000"
+        },
+        {
           "title": "Google introduces \"Skills\" in Chrome to make Gemini prompts instantly reusable",
           "link": "https://arstechnica.com/google/2026/04/google-introduces-skills-in-chrome-to-make-gemini-prompts-instantly-reusable/",
           "date": "Tue, 14 Apr 2026 17:00:37 +0000"
@@ -334,11 +339,6 @@
           "title": "Google will begin punishing sites for back button hijacking in June",
           "link": "https://arstechnica.com/gadgets/2026/04/websites-that-hijack-your-back-button-must-stop-by-june-15-or-face-googles-wrath/",
           "date": "Tue, 14 Apr 2026 15:48:41 +0000"
-        },
-        {
-          "title": "IONNA Rechargeries are coming to more than 350 Circle K stations",
-          "link": "https://arstechnica.com/cars/2026/04/circle-k-partners-with-ionna-to-upgrade-its-ev-charging-experience/",
-          "date": "Tue, 14 Apr 2026 15:37:00 +0000"
         }
       ],
       "error": null
@@ -386,7 +386,7 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "China now AI\u2019s \u2018good guy\u2019 as US takes a \u2018wild west\u2019 approach, MPs told",
+          "title": "China now the \u2018good guy\u2019 on AI as Trump takes \u2018wild west\u2019 approach, MPs told",
           "link": "https://www.theguardian.com/technology/2026/apr/14/china-now-ais-good-guy-as-us-takes-a-wild-west-approach-mps-told",
           "date": "Tue, 14 Apr 2026 17:56:47 GMT"
         },
@@ -450,6 +450,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Trump Is Inflicting Massive Damage to His Public Image by Posting Offensive AI Slop",
+          "link": "https://futurism.com/artificial-intelligence/trump-damage-public-image-offensive-ai-slop",
+          "date": "Tue, 14 Apr 2026 15:51:06 -0400"
+        },
+        {
+          "title": "There\u2019s Something Fundamentally Wrong With LLMs",
+          "link": "https://futurism.com/artificial-intelligence/something-fundamentally-wrong-llms-communicate",
+          "date": "Tue, 14 Apr 2026 14:33:20 -0400"
+        },
+        {
           "title": "Why Do ChatGPT Users Keep Committing Mass Shootings?",
           "link": "https://futurism.com/artificial-intelligence/chatgpt-users-mass-shootings",
           "date": "Tue, 14 Apr 2026 12:32:26 -0400"
@@ -463,16 +473,6 @@
           "title": "Huge Group of Experts Warns Meta That Its Pervert Glasses Will Enable Terrible Crimes",
           "link": "https://futurism.com/artificial-intelligence/coalition-rights-meta-glasses-facial-recognition",
           "date": "Mon, 13 Apr 2026 16:16:36 -0400"
-        },
-        {
-          "title": "Meta Secretly Building a Photorealistic AI Clone of Mark Zuckerberg so No Employee Can Ever Escape His Watchful Eye",
-          "link": "https://futurism.com/artificial-intelligence/meta-photorealistic-ai-clone-mark-zuckerberg",
-          "date": "Mon, 13 Apr 2026 14:04:45 -0400"
-        },
-        {
-          "title": "Recent Grads Say AI Is Making It Impossible to Find a Job",
-          "link": "https://futurism.com/artificial-intelligence/graduates-college-ai-jobs",
-          "date": "Mon, 13 Apr 2026 13:07:11 -0400"
         }
       ],
       "error": null
