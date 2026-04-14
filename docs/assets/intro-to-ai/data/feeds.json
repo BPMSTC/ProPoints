@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-04-14T12:04:02.411236+00:00",
+  "generatedAt": "2026-04-14T14:48:48.017453+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Airbnb Hosts Don't Want to Talk to Guests Anymore, Are Outsourcing Messages to AI",
+          "link": "https://www.404media.co/airbnb-hosts-dont-want-to-talk-to-guests-anymore-are-outsourcing-messages-to-ai/",
+          "date": "Tue, 14 Apr 2026 14:39:02 GMT"
+        },
+        {
+          "title": "Google, Microsoft, Meta All Tracking You Even When You Opt Out, According to an Independent Audit",
+          "link": "https://www.404media.co/google-microsoft-meta-all-tracking-you-even-when-you-opt-out-according-to-an-independent-audit/",
+          "date": "Tue, 14 Apr 2026 13:13:34 GMT"
+        },
         {
           "title": "Hacker Compromises a16z-Backed Phone Farm, Tries to Post Memes Calling a16z the \u2018Antichrist\u2019",
           "link": "https://www.404media.co/hacker-compromises-a16z-backed-phone-farm-tries-to-post-memes-calling-a16z-the-antichrist/",
@@ -19,16 +29,6 @@
           "title": "WebinarTV Secretly Scraped Zoom Meetings of Anonymous Recovery Programs",
           "link": "https://www.404media.co/webinartv-secretly-scraped-zoom-meetings-of-anonymous-recovery-programs/",
           "date": "Mon, 13 Apr 2026 13:15:01 GMT"
-        },
-        {
-          "title": "The Oldest Octopus Fossil Ever Isn\u2019t An Octopus At All, Scientists Discover",
-          "link": "https://www.404media.co/the-oldest-octopus-fossil-ever-isnt-an-octopus-at-all-scientists-discover/",
-          "date": "Sat, 11 Apr 2026 13:00:06 GMT"
-        },
-        {
-          "title": "Behind the Blog: Smoking the Whole Carton",
-          "link": "https://www.404media.co/behind-the-blog-smoking-the-whole-carton/",
-          "date": "Fri, 10 Apr 2026 16:07:51 GMT"
         }
       ],
       "error": null
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+      "items": [
+        {
+          "title": "Moovila Earns Multiple AI Industry Honors, Recognised in Second CRN AI 100",
+          "link": "https://ai-techpark.com/moovila-earns-multiple-ai-industry-honors-recognised-in-second-crn-ai-100/",
+          "date": "Mon, 13 Apr 2026 08:15:00 +0000"
+        },
+        {
+          "title": "Adversa AI Wins Artificial Intelligence Excellence in Safety and Alignment",
+          "link": "https://ai-techpark.com/adversa-ai-wins-artificial-intelligence-excellence-in-safety-and-alignment/",
+          "date": "Mon, 13 Apr 2026 07:45:00 +0000"
+        },
+        {
+          "title": "Strobes Security Unveils Proprietary AI Harness",
+          "link": "https://ai-techpark.com/strobes-security-unveils-proprietary-ai-harness/",
+          "date": "Mon, 13 Apr 2026 07:36:41 +0000"
+        },
+        {
+          "title": "SpartanX Launches Autonomous AI Full-Stack Red Teaming Platform",
+          "link": "https://ai-techpark.com/spartanx-launches-autonomous-ai-full-stack-red-teaming-platform/",
+          "date": "Fri, 10 Apr 2026 12:00:00 +0000"
+        },
+        {
+          "title": "Fingerprint Unveils AI-Enhanced Suspect Score",
+          "link": "https://ai-techpark.com/fingerprint-unveils-ai-enhanced-suspect-score/",
+          "date": "Fri, 10 Apr 2026 10:30:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -113,6 +139,16 @@
       "name": "AI Business",
       "url": "https://aibusiness.com/rss.xml",
       "items": [
+        {
+          "title": "Oracle Expands AI Infrastructure Drive with Bloom Deal",
+          "link": "https://aibusiness.com/generative-ai/oracle-expands-ai-infrastructure-drive-bloom-deal",
+          "date": "Tue, 14 Apr 2026 14:12:55 GMT"
+        },
+        {
+          "title": "AI Spreading at 'Historic Speed,' According to Stanford Report",
+          "link": "https://aibusiness.com/generative-ai/ai-spreading-historic-speed-according-stanford-report",
+          "date": "Tue, 14 Apr 2026 13:00:54 GMT"
+        },
         {
           "title": "Kia Unveils Robotics Strategy for Car Manufacturing, Deliveries",
           "link": "https://aibusiness.com/automation/kia-use-robots-build-its-cars-also-delivery-vehicles",
@@ -127,16 +163,6 @@
           "title": "Intel Secures New AI Infrastructure Deal With Google",
           "link": "https://aibusiness.com/generative-ai/intel-secures-new-ai-infrastructure-deal-google",
           "date": "Fri, 10 Apr 2026 15:21:07 GMT"
-        },
-        {
-          "title": "South Korean Chipmaker Partners with SKT, Arm for Sovereign AI",
-          "link": "https://aibusiness.com/generative-ai/south-korean-chipmaker-partners-skt-arm-sovereign-ai",
-          "date": "Fri, 10 Apr 2026 12:01:02 GMT"
-        },
-        {
-          "title": "Meta, CoreWeave In $21B Deal to Expand AI Partnership",
-          "link": "https://aibusiness.com/generative-ai/meta-coreweave-21b-deal-expand-ai-partnership",
-          "date": "Thu, 09 Apr 2026 16:25:31 GMT"
         }
       ],
       "error": null
@@ -151,6 +177,11 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [
+        {
+          "title": "SAP brings agentic AI to human capital management",
+          "link": "https://www.artificialintelligence-news.com/news/sap-brings-agentic-ai-human-capital-management/",
+          "date": "Tue, 14 Apr 2026 12:55:09 +0000"
+        },
         {
           "title": "Canada\u2019s Scotiabank preps for its AI future",
           "link": "https://www.artificialintelligence-news.com/news/canadas-scotiabank-preps-for-its-ai-future/",
@@ -170,11 +201,6 @@
           "title": "Companies expand AI adoption while keeping control",
           "link": "https://www.artificialintelligence-news.com/news/companies-expand-ai-adoption-while-keeping-control/",
           "date": "Mon, 13 Apr 2026 10:00:00 +0000"
-        },
-        {
-          "title": "IBM: How robust AI governance protects enterprise margins",
-          "link": "https://www.artificialintelligence-news.com/news/ibm-how-robust-ai-governance-protects-enterprise-margins/",
-          "date": "Fri, 10 Apr 2026 13:57:15 +0000"
         }
       ],
       "error": null
@@ -328,6 +354,16 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "AI companions can give constant support \u2013 but distort ideas about what a relationship really is",
+          "link": "https://theconversation.com/ai-companions-can-give-constant-support-but-distort-ideas-about-what-a-relationship-really-is-278284",
+          "date": "2026-04-14T12:40:02Z"
+        },
+        {
+          "title": "Industries most exposed to AI are not only seeing productivity gains but jobs and wage growth too",
+          "link": "https://theconversation.com/industries-most-exposed-to-ai-are-not-only-seeing-productivity-gains-but-jobs-and-wage-growth-too-224487",
+          "date": "2026-04-14T12:37:24Z"
+        },
+        {
           "title": "Does \u2018federated unlearning\u2019 in AI improve data privacy, or create a new cybersecurity risk?",
           "link": "https://theconversation.com/does-federated-unlearning-in-ai-improve-data-privacy-or-create-a-new-cybersecurity-risk-279640",
           "date": "2026-04-13T13:02:18Z"
@@ -341,16 +377,6 @@
           "title": "Algorithms don\u2019t care: how AI worsens the double burden for Indonesia\u2019s female gig workers",
           "link": "https://theconversation.com/algorithms-dont-care-how-ai-worsens-the-double-burden-for-indonesias-female-gig-workers-279978",
           "date": "2026-04-13T03:14:52Z"
-        },
-        {
-          "title": "The more commodified your job, the more likely AI can do it \u2013 lessons from online freelancing",
-          "link": "https://theconversation.com/the-more-commodified-your-job-the-more-likely-ai-can-do-it-lessons-from-online-freelancing-280236",
-          "date": "2026-04-09T14:53:23Z"
-        },
-        {
-          "title": "AI can design and run thousands of lab experiments without human hands. Humanity isn\u2019t ready for the new risks this brings to biology",
-          "link": "https://theconversation.com/ai-can-design-and-run-thousands-of-lab-experiments-without-human-hands-humanity-isnt-ready-for-the-new-risks-this-brings-to-biology-279191",
-          "date": "2026-04-09T12:23:01Z"
         }
       ],
       "error": null
@@ -365,24 +391,24 @@
           "date": "Mon, 13 Apr 2026 16:23:14 GMT"
         },
         {
+          "title": "Bosses say AI boosts productivity \u2013 workers say they\u2019re drowning in \u2018workslop\u2019",
+          "link": "https://www.theguardian.com/technology/2026/apr/14/ai-productivity-workplace-errors",
+          "date": "Tue, 14 Apr 2026 14:00:58 GMT"
+        },
+        {
+          "title": "Nissan turnaround plan pins hopes on \u2018AI-defined vehicles\u2019",
+          "link": "https://www.theguardian.com/business/2026/apr/14/nissan-turnaround-plan-pins-hopes-on-ai-defined-vehicles",
+          "date": "Tue, 14 Apr 2026 12:25:51 GMT"
+        },
+        {
+          "title": "AI companies make powerful tech \u2013 but they\u2019re also savvy marketers",
+          "link": "https://www.theguardian.com/technology/2026/apr/13/ai-tech-marketing",
+          "date": "Tue, 14 Apr 2026 12:04:48 GMT"
+        },
+        {
           "title": "AI learns language from skewed sources. That could change how we humans speak \u2013 and think | Bruce Schneier",
           "link": "https://www.theguardian.com/commentisfree/2026/apr/14/ai-language-human-speech",
           "date": "Tue, 14 Apr 2026 12:00:56 GMT"
-        },
-        {
-          "title": "Goldman Sachs chief \u2018hyper-aware\u2019 of risks from Anthropic\u2019s Mythos AI",
-          "link": "https://www.theguardian.com/business/2026/apr/13/goldman-sachs-chief-hyper-aware-risks-anthropics-mythos-ai-david-solomon",
-          "date": "Mon, 13 Apr 2026 16:48:37 GMT"
-        },
-        {
-          "title": "Meta creating AI version of Mark Zuckerberg so staff can talk to the boss",
-          "link": "https://www.theguardian.com/technology/2026/apr/13/meta-ai-mark-zuckerberg-staff-talk-to-the-boss",
-          "date": "Mon, 13 Apr 2026 15:27:53 GMT"
-        },
-        {
-          "title": "AI to predict how bowel cancer patients will respond to new NHS drug",
-          "link": "https://www.theguardian.com/society/2026/apr/13/ai-bowel-cancer-patients-nhs-drug",
-          "date": "Mon, 13 Apr 2026 09:00:43 GMT"
         }
       ],
       "error": null
@@ -424,6 +450,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Woman Sues OpenAI, Saying ChatGPT Unleashed a Vicious Stalker Against Her and Did Nothing When She Begged for Help",
+          "link": "https://futurism.com/artificial-intelligence/woman-sues-openai-chatgpt-stalker",
+          "date": "Tue, 14 Apr 2026 10:01:37 -0400"
+        },
+        {
           "title": "Huge Group of Experts Warns Meta That Its Pervert Glasses Will Enable Terrible Crimes",
           "link": "https://futurism.com/artificial-intelligence/coalition-rights-meta-glasses-facial-recognition",
           "date": "Mon, 13 Apr 2026 16:16:36 -0400"
@@ -442,11 +473,6 @@
           "title": "Moon Denialists Are So Pathetic That They\u2019re Using AI to Fake Artemis Footage",
           "link": "https://futurism.com/artificial-intelligence/moon-denialists-ai-fake-artemis-footage",
           "date": "Mon, 13 Apr 2026 11:07:10 -0400"
-        },
-        {
-          "title": "Man Suing City After AI Camera Flags Him For Wrongful Arrest",
-          "link": "https://futurism.com/artificial-intelligence/facial-recognition-ai-reno",
-          "date": "Sun, 12 Apr 2026 15:45:00 -0400"
         }
       ],
       "error": null
