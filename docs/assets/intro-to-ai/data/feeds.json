@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T09:16:24.374041+00:00",
+  "generatedAt": "2026-04-15T10:59:24.579682+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "Data I/O introduces new era with products and brand update",
-          "link": "https://ai-techpark.com/data-i-o-introduces-new-era-with-products-and-brand-update/",
-          "date": "Wed, 15 Apr 2026 08:30:00 +0000"
-        },
-        {
-          "title": "QuSecure shares post-quantum migration outlook on World Quantum Day",
-          "link": "https://ai-techpark.com/qusecure-shares-post-quantum-migration-outlook-on-world-quantum-day/",
-          "date": "Wed, 15 Apr 2026 07:45:39 +0000"
-        },
-        {
-          "title": "Reveel Announced the Launch of Reveel IQ",
-          "link": "https://ai-techpark.com/reveel-announced-the-launch-of-reveel-iq/",
-          "date": "Wed, 15 Apr 2026 07:40:36 +0000"
-        },
-        {
-          "title": "Yobi, Microsoft Partner on AI for Predictive Behavior Insights",
-          "link": "https://ai-techpark.com/yobi-microsoft-partner-on-ai-for-predictive-behavior-insights/",
-          "date": "Wed, 15 Apr 2026 07:31:44 +0000"
-        },
-        {
-          "title": "AfterQuery Raises $30 Mn Series A Round at $300 Million Valuation",
-          "link": "https://ai-techpark.com/afterquery-raises-30-mn-series-a-round-at-300-million-valuation/",
-          "date": "Tue, 14 Apr 2026 20:30:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -178,6 +152,11 @@
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [
         {
+          "title": "The US-China AI gap closed. The responsible AI gap didn\u2019t",
+          "link": "https://www.artificialintelligence-news.com/news/ai-safety-benchmarks-stanford-hai-2026-report/",
+          "date": "Wed, 15 Apr 2026 10:00:00 +0000"
+        },
+        {
           "title": "SAP brings agentic AI to human capital management",
           "link": "https://www.artificialintelligence-news.com/news/sap-brings-agentic-ai-human-capital-management/",
           "date": "Tue, 14 Apr 2026 12:55:09 +0000"
@@ -196,11 +175,6 @@
           "title": "Strengthening enterprise governance for rising edge AI workloads",
           "link": "https://www.artificialintelligence-news.com/news/strengthening-enterprise-governance-for-rising-edge-ai-workloads/",
           "date": "Mon, 13 Apr 2026 13:02:01 +0000"
-        },
-        {
-          "title": "Companies expand AI adoption while keeping control",
-          "link": "https://www.artificialintelligence-news.com/news/companies-expand-ai-adoption-while-keeping-control/",
-          "date": "Mon, 13 Apr 2026 10:00:00 +0000"
         }
       ],
       "error": null
@@ -391,6 +365,11 @@
           "date": "Tue, 14 Apr 2026 17:56:47 GMT"
         },
         {
+          "title": "Tell us your experience with AI in job interviews",
+          "link": "https://www.theguardian.com/money/2026/apr/15/tell-us-your-experience-with-ai-in-job-interviews",
+          "date": "Wed, 15 Apr 2026 10:27:06 GMT"
+        },
+        {
           "title": "NAACP lawsuit accuses Elon Musk\u2019s xAI of polluting Black neighborhoods near Memphis",
           "link": "https://www.theguardian.com/technology/2026/apr/14/naacp-lawsuit-elon-musk-xai-memphis",
           "date": "Tue, 14 Apr 2026 22:19:02 GMT"
@@ -404,11 +383,6 @@
           "title": "Bosses say AI boosts productivity \u2013 workers say they\u2019re drowning in \u2018workslop\u2019",
           "link": "https://www.theguardian.com/technology/2026/apr/14/ai-productivity-workplace-errors",
           "date": "Tue, 14 Apr 2026 14:00:58 GMT"
-        },
-        {
-          "title": "Nissan turnaround plan pins hopes on \u2018AI-defined vehicles\u2019",
-          "link": "https://www.theguardian.com/business/2026/apr/14/nissan-turnaround-plan-pins-hopes-on-ai-defined-vehicles",
-          "date": "Tue, 14 Apr 2026 12:25:51 GMT"
         }
       ],
       "error": null
@@ -482,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "The Deepfake Nudes Crisis in Schools Is Much Worse Than You Thought",
+          "link": "https://www.wired.com/story/deepfake-nudify-schools-global-crisis/",
+          "date": "Wed, 15 Apr 2026 10:00:00 +0000"
+        },
+        {
           "title": "How to Use Google Chrome\u2019s New AI-Powered \u2018Skills\u2019",
           "link": "https://www.wired.com/story/how-to-use-google-chrome-ai-powered-skills/",
           "date": "Tue, 14 Apr 2026 17:00:00 +0000"
@@ -500,11 +479,6 @@
           "title": "You Can Soon Buy a $4,370 Humanoid Robot on AliExpress",
           "link": "https://www.wired.com/story/unitree-r1-humanoid-robot-for-sale-on-aliexpress/",
           "date": "Mon, 13 Apr 2026 23:37:38 +0000"
-        },
-        {
-          "title": "Meta Is Warned That Facial Recognition Glasses Will Arm Sexual Predators",
-          "link": "https://www.wired.com/story/meta-ray-ban-oakley-smart-glasses-no-face-recognition-civil-society/",
-          "date": "Mon, 13 Apr 2026 16:01:30 +0000"
         }
       ],
       "error": null
@@ -513,6 +487,11 @@
       "name": "Artificial Intelligence News -- ScienceDaily",
       "url": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "items": [
+        {
+          "title": "This simple change stops robot swarms from getting stuck",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260414075639.htm",
+          "date": "Wed, 15 Apr 2026 03:45:51 EDT"
+        },
         {
           "title": "\u201cGiant superatoms\u201d could finally solve quantum computing\u2019s biggest problem",
           "link": "https://www.sciencedaily.com/releases/2026/04/260413043155.htm",
@@ -532,11 +511,6 @@
           "title": "AI breakthrough cuts energy use by 100x while boosting accuracy",
           "link": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm",
           "date": "Sun, 05 Apr 2026 21:23:54 EDT"
-        },
-        {
-          "title": "DNA robots could deliver drugs and hunt viruses inside your body",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260331001104.htm",
-          "date": "Tue, 31 Mar 2026 07:16:58 EDT"
         }
       ],
       "error": null
