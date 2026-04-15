@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T10:59:24.579682+00:00",
+  "generatedAt": "2026-04-15T11:56:59.286284+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -152,6 +152,11 @@
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [
         {
+          "title": "Drones get smarter for large farm holdings",
+          "link": "https://www.artificialintelligence-news.com/news/agricultural-drones-get-smarter-for-large-farm-holdings/",
+          "date": "Wed, 15 Apr 2026 11:03:00 +0000"
+        },
+        {
           "title": "The US-China AI gap closed. The responsible AI gap didn\u2019t",
           "link": "https://www.artificialintelligence-news.com/news/ai-safety-benchmarks-stanford-hai-2026-report/",
           "date": "Wed, 15 Apr 2026 10:00:00 +0000"
@@ -170,11 +175,6 @@
           "title": "Hyundai expands into robotics and physical AI systems",
           "link": "https://www.artificialintelligence-news.com/news/hyundai-expands-into-robotics-and-physical-ai-systems/",
           "date": "Tue, 14 Apr 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Strengthening enterprise governance for rising edge AI workloads",
-          "link": "https://www.artificialintelligence-news.com/news/strengthening-enterprise-governance-for-rising-edge-ai-workloads/",
-          "date": "Mon, 13 Apr 2026 13:02:01 +0000"
         }
       ],
       "error": null
@@ -456,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "AI Slop Is Making the Internet Fake-Happy",
+          "link": "https://www.wired.com/story/ai-slop-is-changing-the-internet-just-not-how-you-might-think/",
+          "date": "Wed, 15 Apr 2026 11:00:00 +0000"
+        },
+        {
           "title": "The Deepfake Nudes Crisis in Schools Is Much Worse Than You Thought",
           "link": "https://www.wired.com/story/deepfake-nudify-schools-global-crisis/",
           "date": "Wed, 15 Apr 2026 10:00:00 +0000"
@@ -474,11 +479,6 @@
           "title": "Silicon Valley Is Spending Millions to Stop One of Its Own",
           "link": "https://www.wired.com/story/the-big-interview-podcast-new-york-state-representative-alex-bores/",
           "date": "Tue, 14 Apr 2026 10:30:00 +0000"
-        },
-        {
-          "title": "You Can Soon Buy a $4,370 Humanoid Robot on AliExpress",
-          "link": "https://www.wired.com/story/unitree-r1-humanoid-robot-for-sale-on-aliexpress/",
-          "date": "Mon, 13 Apr 2026 23:37:38 +0000"
         }
       ],
       "error": null
