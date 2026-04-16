@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-04-15T23:39:14.807789+00:00",
+  "generatedAt": "2026-04-16T02:27:17.056809+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Thomson Reuters Shareholders Demand Investigation into ICE Contracts",
+          "link": "https://www.404media.co/thomson-reuters-shareholders-demand-investigation-into-ice-contracts/",
+          "date": "Thu, 16 Apr 2026 00:09:26 GMT"
+        },
         {
           "title": "Ukraine Says Russians are Surrendering to Robots",
           "link": "https://www.404media.co/ukraine-says-russians-are-surrendering-to-robots/",
@@ -24,11 +29,6 @@
           "title": "Thomson Reuters Fired Worker For Speaking Out About ICE, Former Employee Says",
           "link": "https://www.404media.co/thomson-reuters-fired-worker-for-speaking-out-about-ice-former-employee-says/",
           "date": "Tue, 14 Apr 2026 19:50:35 GMT"
-        },
-        {
-          "title": "Airbnb Hosts Don't Want to Talk to Guests Anymore, Are Outsourcing Messages to AI",
-          "link": "https://www.404media.co/airbnb-hosts-dont-want-to-talk-to-guests-anymore-are-outsourcing-messages-to-ai/",
-          "date": "Tue, 14 Apr 2026 14:39:02 GMT"
         }
       ],
       "error": null
@@ -150,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Commvault launches a \u2018Ctrl-Z\u2019 for cloud AI workloads",
+          "link": "https://www.artificialintelligence-news.com/news/commvault-launches-ctrl-z-for-cloud-ai-workloads/",
+          "date": "Wed, 15 Apr 2026 16:28:19 +0000"
+        },
+        {
+          "title": "Citizen developers now have their own Wingman",
+          "link": "https://www.artificialintelligence-news.com/news/citizen-developers-now-have-their-own-wingman/",
+          "date": "Wed, 15 Apr 2026 14:42:00 +0000"
+        },
+        {
+          "title": "Drones get smarter for large farm holdings",
+          "link": "https://www.artificialintelligence-news.com/news/agricultural-drones-get-smarter-for-large-farm-holdings/",
+          "date": "Wed, 15 Apr 2026 11:03:00 +0000"
+        },
+        {
+          "title": "The US-China AI gap closed. The responsible AI gap didn\u2019t",
+          "link": "https://www.artificialintelligence-news.com/news/ai-safety-benchmarks-stanford-hai-2026-report/",
+          "date": "Wed, 15 Apr 2026 10:00:00 +0000"
+        },
+        {
+          "title": "SAP brings agentic AI to human capital management",
+          "link": "https://www.artificialintelligence-news.com/news/sap-brings-agentic-ai-human-capital-management/",
+          "date": "Tue, 14 Apr 2026 12:55:09 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -302,6 +328,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "How do teens really use AI companions? With more creativity than you might think",
+          "link": "https://theconversation.com/how-do-teens-really-use-ai-companions-with-more-creativity-than-you-might-think-278532",
+          "date": "2026-04-16T00:11:28Z"
+        },
+        {
           "title": "Employment data shows the early signs of AI job disruption are already here",
           "link": "https://theconversation.com/employment-data-shows-the-early-signs-of-ai-job-disruption-are-already-here-280273",
           "date": "2026-04-15T20:09:26Z"
@@ -320,11 +351,6 @@
           "title": "Was Trump\u2019s so-called \u2018Jesus\u2019 image blasphemy? A religious expert explains",
           "link": "https://theconversation.com/was-trumps-so-called-jesus-image-blasphemy-a-religious-expert-explains-280603",
           "date": "2026-04-15T00:30:14Z"
-        },
-        {
-          "title": "In the face of rampant AI, is \u2018data poisoning\u2019 a new form of civil disobedience?",
-          "link": "https://theconversation.com/in-the-face-of-rampant-ai-is-data-poisoning-a-new-form-of-civil-disobedience-280146",
-          "date": "2026-04-15T00:28:48Z"
         }
       ],
       "error": null
