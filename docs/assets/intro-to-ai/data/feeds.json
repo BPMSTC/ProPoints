@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T02:27:17.056809+00:00",
+  "generatedAt": "2026-04-16T05:28:25.561072+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "Commvault launches a \u2018Ctrl-Z\u2019 for cloud AI workloads",
-          "link": "https://www.artificialintelligence-news.com/news/commvault-launches-ctrl-z-for-cloud-ai-workloads/",
-          "date": "Wed, 15 Apr 2026 16:28:19 +0000"
-        },
-        {
-          "title": "Citizen developers now have their own Wingman",
-          "link": "https://www.artificialintelligence-news.com/news/citizen-developers-now-have-their-own-wingman/",
-          "date": "Wed, 15 Apr 2026 14:42:00 +0000"
-        },
-        {
-          "title": "Drones get smarter for large farm holdings",
-          "link": "https://www.artificialintelligence-news.com/news/agricultural-drones-get-smarter-for-large-farm-holdings/",
-          "date": "Wed, 15 Apr 2026 11:03:00 +0000"
-        },
-        {
-          "title": "The US-China AI gap closed. The responsible AI gap didn\u2019t",
-          "link": "https://www.artificialintelligence-news.com/news/ai-safety-benchmarks-stanford-hai-2026-report/",
-          "date": "Wed, 15 Apr 2026 10:00:00 +0000"
-        },
-        {
-          "title": "SAP brings agentic AI to human capital management",
-          "link": "https://www.artificialintelligence-news.com/news/sap-brings-agentic-ai-human-capital-management/",
-          "date": "Tue, 14 Apr 2026 12:55:09 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -360,6 +334,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Australian federal court warns lawyers over \u2018unacceptable\u2019 use of AI",
+          "link": "https://www.theguardian.com/law/2026/apr/16/australia-federal-court-warning-lawyers-ai-artificial-intelligence",
+          "date": "Thu, 16 Apr 2026 04:14:52 GMT"
+        },
+        {
           "title": "Shares in Allbirds surge after maker of wool sneakers announces pivot to AI",
           "link": "https://www.theguardian.com/business/2026/apr/15/allbirds-stock-ai-pivot",
           "date": "Wed, 15 Apr 2026 21:00:47 GMT"
@@ -378,11 +357,6 @@
           "title": "NAACP lawsuit accuses Elon Musk\u2019s xAI of polluting Black neighborhoods near Memphis",
           "link": "https://www.theguardian.com/technology/2026/apr/14/naacp-lawsuit-elon-musk-xai-memphis",
           "date": "Wed, 15 Apr 2026 20:58:07 GMT"
-        },
-        {
-          "title": "The Guardian view on social science research: embracing uncertainty | Editorial",
-          "link": "https://www.theguardian.com/commentisfree/2026/apr/15/the-guardian-view-on-social-science-research-embracing-uncertainty",
-          "date": "Wed, 15 Apr 2026 17:43:37 GMT"
         }
       ],
       "error": null
