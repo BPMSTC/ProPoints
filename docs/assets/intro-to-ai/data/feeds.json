@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-17T10:52:51.513594+00:00",
+  "generatedAt": "2026-04-17T11:50:05.009898+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Recent advances push Big Tech closer to the Q-Day danger zone",
+          "link": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course/",
+          "date": "Fri, 17 Apr 2026 11:00:50 +0000"
+        },
+        {
           "title": "After a saga of broken promises, a European rover finally has a ride to Mars",
           "link": "https://arstechnica.com/space/2026/04/after-a-saga-of-broken-promises-a-european-rover-finally-has-a-ride-to-mars/",
           "date": "Fri, 17 Apr 2026 03:15:54 +0000"
@@ -308,11 +313,6 @@
           "title": "OpenAI starts offering a biology-tuned LLM",
           "link": "https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/",
           "date": "Thu, 16 Apr 2026 21:17:47 +0000"
-        },
-        {
-          "title": "As they got close to the Moon, Artemis II astronauts were eager to land",
-          "link": "https://arstechnica.com/space/2026/04/artemis-ii-astronauts-say-landing-on-the-moon-is-absolutely-doable-soon/",
-          "date": "Thu, 16 Apr 2026 21:00:38 +0000"
         }
       ],
       "error": null
@@ -456,7 +456,7 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
-          "title": "The Battle for OpenAI\u2019s Soul",
+          "title": "Musk v. Altman Is a Battle for OpenAI\u2019s Soul",
           "link": "https://www.wired.com/story/musk-v-altman-trial-openai-xai/",
           "date": "Thu, 16 Apr 2026 18:00:00 +0000"
         },
