@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-17T15:57:58.444470+00:00",
+  "generatedAt": "2026-04-17T16:57:47.235234+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,16 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "The Real AI Shift Isn\u2019t New Models. It\u2019s Control.",
+          "link": "https://aibusiness.com/generative-ai/the-real-ai-shift-isn-t-new-models-s-control-",
+          "date": "Fri, 17 Apr 2026 16:05:09 GMT"
+        },
+        {
+          "title": "OpenAI GPT-5.4-Cyber is More Open Than Claude Mythos",
+          "link": "https://aibusiness.com/generative-ai/openai-gpt-5-4-cyber-more-open-than-claude-mythos",
+          "date": "Fri, 17 Apr 2026 15:47:37 GMT"
+        },
+        {
           "title": "Anthropic Releases Good but not Great Claude Opus 4.7",
           "link": "https://aibusiness.com/generative-ai/anthropic-releases-good-not-great-claude-opus-4-7",
           "date": "Thu, 16 Apr 2026 20:41:33 GMT"
@@ -127,16 +137,6 @@
           "title": "Nvidia Partners with Chip Software Maker to Close Sim-to-Real Gap",
           "link": "https://aibusiness.com/robotics/nvidia-partners-chip-software-maker-close-sim-to-real-gap",
           "date": "Thu, 16 Apr 2026 15:45:34 GMT"
-        },
-        {
-          "title": "OpenAI Updates Agents SDK, Aims at Building Secure Agents",
-          "link": "https://aibusiness.com/agentic-ai/openai-updates-agents-sdk-aims-building-secure-agents",
-          "date": "Thu, 16 Apr 2026 15:16:48 GMT"
-        },
-        {
-          "title": "As AI Infosec Woes Heighten, IBM Intros Autonomous Security Service",
-          "link": "https://aibusiness.com/agentic-ai/ai-infosec-woes-heighten-ibm-autonomous-security-service",
-          "date": "Wed, 15 Apr 2026 19:40:38 GMT"
         }
       ],
       "error": null
@@ -150,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "OpenAI Agents SDK improves governance with sandbox execution",
+          "link": "https://www.artificialintelligence-news.com/news/openai-agents-sdk-improves-governance-sandbox-execution/",
+          "date": "Thu, 16 Apr 2026 11:20:00 +0000"
+        },
+        {
+          "title": "Cadence expands AI and robotic partnerships with Nvidia, Google Cloud",
+          "link": "https://www.artificialintelligence-news.com/news/cadence-expands-ai-and-robotics-partnerships-with-nvidia-google-cloud/",
+          "date": "Thu, 16 Apr 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Commvault launches a \u2018Ctrl-Z\u2019 for cloud AI workloads",
+          "link": "https://www.artificialintelligence-news.com/news/commvault-launches-ctrl-z-for-cloud-ai-workloads/",
+          "date": "Wed, 15 Apr 2026 16:28:19 +0000"
+        },
+        {
+          "title": "Citizen developers now have their own Wingman",
+          "link": "https://www.artificialintelligence-news.com/news/citizen-developers-now-have-their-own-wingman/",
+          "date": "Wed, 15 Apr 2026 14:42:00 +0000"
+        },
+        {
+          "title": "Drones get smarter for large farm holdings",
+          "link": "https://www.artificialintelligence-news.com/news/agricultural-drones-get-smarter-for-large-farm-holdings/",
+          "date": "Wed, 15 Apr 2026 11:03:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
