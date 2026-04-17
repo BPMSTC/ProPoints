@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-04-17T14:53:25.276612+00:00",
+  "generatedAt": "2026-04-17T15:57:58.444470+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "FAA Scraps Civil and Criminal Penalties for Flying Drones Near ICE Vehicles",
+          "link": "https://www.404media.co/faa-scraps-civil-and-criminal-penalties-for-flying-drones-near-ice-vehicles/",
+          "date": "Fri, 17 Apr 2026 15:44:59 GMT"
+        },
         {
           "title": "The Destroyed Remnants of a Lost World Are Falling to Earth, Scientists Discover",
           "link": "https://www.404media.co/the-destroyed-remnants-of-a-lost-world-are-falling-to-earth-scientists-discover/",
@@ -24,11 +29,6 @@
           "title": "I Almost Lost My Mind in the Bridal Algorithm",
           "link": "https://www.404media.co/wedding-planning-algorithm-weddingtok/",
           "date": "Thu, 16 Apr 2026 13:00:34 GMT"
-        },
-        {
-          "title": "Thomson Reuters Shareholders Demand Investigation into ICE Contracts",
-          "link": "https://www.404media.co/thomson-reuters-shareholders-demand-investigation-into-ice-contracts/",
-          "date": "Thu, 16 Apr 2026 00:09:26 GMT"
         }
       ],
       "error": null
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "OpenAI Agents SDK improves governance with sandbox execution",
-          "link": "https://www.artificialintelligence-news.com/news/openai-agents-sdk-improves-governance-sandbox-execution/",
-          "date": "Thu, 16 Apr 2026 11:20:00 +0000"
-        },
-        {
-          "title": "Cadence expands AI and robotic partnerships with Nvidia, Google Cloud",
-          "link": "https://www.artificialintelligence-news.com/news/cadence-expands-ai-and-robotics-partnerships-with-nvidia-google-cloud/",
-          "date": "Thu, 16 Apr 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Commvault launches a \u2018Ctrl-Z\u2019 for cloud AI workloads",
-          "link": "https://www.artificialintelligence-news.com/news/commvault-launches-ctrl-z-for-cloud-ai-workloads/",
-          "date": "Wed, 15 Apr 2026 16:28:19 +0000"
-        },
-        {
-          "title": "Citizen developers now have their own Wingman",
-          "link": "https://www.artificialintelligence-news.com/news/citizen-developers-now-have-their-own-wingman/",
-          "date": "Wed, 15 Apr 2026 14:42:00 +0000"
-        },
-        {
-          "title": "Drones get smarter for large farm holdings",
-          "link": "https://www.artificialintelligence-news.com/news/agricultural-drones-get-smarter-for-large-farm-holdings/",
-          "date": "Wed, 15 Apr 2026 11:03:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -430,6 +404,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "AI Drafting My Stories? Over My Dead Body",
+          "link": "https://www.wired.com/story/backchannel-the-problem-with-letting-ai-do-the-writing/",
+          "date": "Fri, 17 Apr 2026 15:46:06 +0000"
+        },
+        {
           "title": "Musk v. Altman Is a Battle for OpenAI\u2019s Soul",
           "link": "https://www.wired.com/story/musk-v-altman-trial-openai-xai/",
           "date": "Thu, 16 Apr 2026 18:00:00 +0000"
@@ -448,11 +427,6 @@
           "title": "Anthropic Plots Major London Expansion",
           "link": "https://www.wired.com/story/anthropic-plots-major-london-expansion/",
           "date": "Thu, 16 Apr 2026 13:49:35 +0000"
-        },
-        {
-          "title": "This Beanie Is Designed to Read Your Thoughts",
-          "link": "https://www.wired.com/story/this-beanie-is-designed-to-read-your-thoughts/",
-          "date": "Thu, 16 Apr 2026 11:00:00 +0000"
         }
       ],
       "error": null
