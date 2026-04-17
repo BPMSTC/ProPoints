@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-17T13:13:30.179018+00:00",
+  "generatedAt": "2026-04-17T14:53:25.276612+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -152,11 +152,6 @@
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [
         {
-          "title": "5 top cloud migration software for Infrastructure as Code (IaC)",
-          "link": "https://www.artificialintelligence-news.com/news/5-top-cloud-migration-software-for-infrastructure-as-code-iac/",
-          "date": "Thu, 16 Apr 2026 12:30:30 +0000"
-        },
-        {
           "title": "OpenAI Agents SDK improves governance with sandbox execution",
           "link": "https://www.artificialintelligence-news.com/news/openai-agents-sdk-improves-governance-sandbox-execution/",
           "date": "Thu, 16 Apr 2026 11:20:00 +0000"
@@ -175,6 +170,11 @@
           "title": "Citizen developers now have their own Wingman",
           "link": "https://www.artificialintelligence-news.com/news/citizen-developers-now-have-their-own-wingman/",
           "date": "Wed, 15 Apr 2026 14:42:00 +0000"
+        },
+        {
+          "title": "Drones get smarter for large farm holdings",
+          "link": "https://www.artificialintelligence-news.com/news/agricultural-drones-get-smarter-for-large-farm-holdings/",
+          "date": "Wed, 15 Apr 2026 11:03:00 +0000"
         }
       ],
       "error": null
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Rocket Report: Starship V3 test-fired; ESA's tentative step toward crew launch",
+          "link": "https://arstechnica.com/space/2026/04/rocket-report-starship-v3-test-fired-esas-tentative-step-toward-crew-launch/",
+          "date": "Fri, 17 Apr 2026 13:06:24 +0000"
+        },
+        {
           "title": "Recent advances push Big Tech closer to the Q-Day danger zone",
           "link": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course/",
           "date": "Fri, 17 Apr 2026 11:00:50 +0000"
@@ -308,11 +313,6 @@
           "title": "Intel refreshes non-Ultra Core CPUs with new silicon for the first time",
           "link": "https://arstechnica.com/gadgets/2026/04/intels-non-ultra-core-cpus-are-new-silicon-this-year-for-a-change/",
           "date": "Thu, 16 Apr 2026 21:33:33 +0000"
-        },
-        {
-          "title": "OpenAI starts offering a biology-tuned LLM",
-          "link": "https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/",
-          "date": "Thu, 16 Apr 2026 21:17:47 +0000"
         }
       ],
       "error": null
@@ -390,39 +390,18 @@
     {
       "name": "artificial intelligence Archives - SpaceNews",
       "url": "https://spacenews.com/tag/artificial-intelligence/feed/",
-      "items": [
-        {
-          "title": "Xoople and L3Harris team up to build satellites for \u2018Earth AI\u2019",
-          "link": "https://spacenews.com/xoople-and-l3harris-team-up-to-build-satellites-for-earth-ai/",
-          "date": "Tue, 14 Apr 2026 15:00:00 +0000"
-        },
-        {
-          "title": "The\u00a0moon\u00a0base\u00a0has\u00a0a\u00a0hardware\u00a0plan. It\u00a0needs\u00a0a\u00a0software\u00a0strategy,\u00a0too.",
-          "link": "https://spacenews.com/the-moon-base-has-a-hardware-plan-it-needs-a-software-strategy-too/",
-          "date": "Mon, 06 Apr 2026 13:00:00 +0000"
-        },
-        {
-          "title": "Agentic AI: the future of space warfare",
-          "link": "https://spacenews.com/agentic-ai-the-future-of-space-warfare/",
-          "date": "Tue, 31 Mar 2026 13:00:00 +0000"
-        },
-        {
-          "title": "The \u2018ground truth\u2019 gap in AgTech: Why satellites alone can\u2019t save supply chains",
-          "link": "https://spacenews.com/the-ground-truth-gap-in-agtech-why-satellites-alone-cant-save-supply-chains/",
-          "date": "Fri, 27 Mar 2026 13:00:00 +0000"
-        },
-        {
-          "title": "Sift raises $42 million in Series B round",
-          "link": "https://spacenews.com/sift-raises-42-million-in-series-b-round/",
-          "date": "Wed, 25 Mar 2026 15:14:02 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:47:3: mismatched tag"
     },
     {
       "name": "Artificial Intelligence \u2013 Futurism",
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
+        {
+          "title": "Fury Erupts as Val Kilmer\u2019s Estate Announces Starring Role in AI Film Made From Beyond the Grave",
+          "link": "https://futurism.com/artificial-intelligence/fury-val-kilmer-role-ai-film",
+          "date": "Fri, 17 Apr 2026 09:21:20 -0400"
+        },
         {
           "title": "Allbirds Stock Now Crashing as Reality Sets in About Its Delusional AI Pivot",
           "link": "https://futurism.com/artificial-intelligence/allbirds-stock-now-crashing",
@@ -442,11 +421,6 @@
           "title": "Teens Alarmed at What AI Is Doing to Their Minds",
           "link": "https://futurism.com/artificial-intelligence/teens-ai-chatbot-characterai",
           "date": "Thu, 16 Apr 2026 11:52:36 -0400"
-        },
-        {
-          "title": "What It Really Means That a Failing Shoe Brand \u201cPivoted to AI\u201d and Its Stock Soared 700 Percent",
-          "link": "https://futurism.com/artificial-intelligence/failing-shoe-brand-pivot-to-ai",
-          "date": "Thu, 16 Apr 2026 09:29:00 -0400"
         }
       ],
       "error": null
