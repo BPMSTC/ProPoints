@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-18T02:06:05.846817+00:00",
+  "generatedAt": "2026-04-18T05:04:17.182337+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "OpenAI Agents SDK improves governance with sandbox execution",
+          "link": "https://www.artificialintelligence-news.com/news/openai-agents-sdk-improves-governance-sandbox-execution/",
+          "date": "Thu, 16 Apr 2026 11:20:00 +0000"
+        },
+        {
+          "title": "Cadence expands AI and robotic partnerships with Nvidia, Google Cloud",
+          "link": "https://www.artificialintelligence-news.com/news/cadence-expands-ai-and-robotics-partnerships-with-nvidia-google-cloud/",
+          "date": "Thu, 16 Apr 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Commvault launches a \u2018Ctrl-Z\u2019 for cloud AI workloads",
+          "link": "https://www.artificialintelligence-news.com/news/commvault-launches-ctrl-z-for-cloud-ai-workloads/",
+          "date": "Wed, 15 Apr 2026 16:28:19 +0000"
+        },
+        {
+          "title": "Citizen developers now have their own Wingman",
+          "link": "https://www.artificialintelligence-news.com/news/citizen-developers-now-have-their-own-wingman/",
+          "date": "Wed, 15 Apr 2026 14:42:00 +0000"
+        },
+        {
+          "title": "Drones get smarter for large farm holdings",
+          "link": "https://www.artificialintelligence-news.com/news/agricultural-drones-get-smarter-for-large-farm-holdings/",
+          "date": "Wed, 15 Apr 2026 11:03:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
