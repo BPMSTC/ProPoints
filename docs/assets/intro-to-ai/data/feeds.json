@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-18T15:35:10.228815+00:00",
+  "generatedAt": "2026-04-18T16:36:35.481153+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "OpenAI Agents SDK improves governance with sandbox execution",
-          "link": "https://www.artificialintelligence-news.com/news/openai-agents-sdk-improves-governance-sandbox-execution/",
-          "date": "Thu, 16 Apr 2026 11:20:00 +0000"
-        },
-        {
-          "title": "Cadence expands AI and robotic partnerships with Nvidia, Google Cloud",
-          "link": "https://www.artificialintelligence-news.com/news/cadence-expands-ai-and-robotics-partnerships-with-nvidia-google-cloud/",
-          "date": "Thu, 16 Apr 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Commvault launches a \u2018Ctrl-Z\u2019 for cloud AI workloads",
-          "link": "https://www.artificialintelligence-news.com/news/commvault-launches-ctrl-z-for-cloud-ai-workloads/",
-          "date": "Wed, 15 Apr 2026 16:28:19 +0000"
-        },
-        {
-          "title": "Citizen developers now have their own Wingman",
-          "link": "https://www.artificialintelligence-news.com/news/citizen-developers-now-have-their-own-wingman/",
-          "date": "Wed, 15 Apr 2026 14:42:00 +0000"
-        },
-        {
-          "title": "Drones get smarter for large farm holdings",
-          "link": "https://www.artificialintelligence-news.com/news/agricultural-drones-get-smarter-for-large-farm-holdings/",
-          "date": "Wed, 15 Apr 2026 11:03:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -398,6 +372,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Democrats Warned Not to Upset Multi-Million Dollar AI Lobbyists, Even Though It\u2019d Be a Slam Dunk With Voters",
+          "link": "https://futurism.com/artificial-intelligence/democrats-ai-voters",
+          "date": "Sat, 18 Apr 2026 12:00:00 -0400"
+        },
+        {
           "title": "City Council Wrecked in Voter Bloodbath After Allowing New Data Center",
           "link": "https://futurism.com/artificial-intelligence/ctiy-council-data-center",
           "date": "Sat, 18 Apr 2026 10:30:00 -0400"
@@ -416,11 +395,6 @@
           "title": "Millions of Americans Are Talking to AI Instead of Going to the Doctor, and It\u2019s Giving Them Horrendously Flawed Medical Advice",
           "link": "https://futurism.com/artificial-intelligence/millions-americans-ai-instead-doctor-bad-advice",
           "date": "Fri, 17 Apr 2026 16:06:52 -0400"
-        },
-        {
-          "title": "There Are Signs of a Massive AI Backlash",
-          "link": "https://futurism.com/artificial-intelligence/signs-massive-ai-backlash",
-          "date": "Fri, 17 Apr 2026 14:07:12 -0400"
         }
       ],
       "error": null
@@ -430,13 +404,13 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
-          "title": "Schematik Is \u2018Cursor for Hardware.\u2019 Anthropic Wants In",
-          "link": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
+          "title": "It Takes 2 Minutes to Hack the EU\u2019s New Age-Verification App",
+          "link": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
           "date": "Sat, 18 Apr 2026 10:30:00 +0000"
         },
         {
-          "title": "It Takes 2 Minutes to Hack the EU\u2019s New Age-Verification App",
-          "link": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
+          "title": "Schematik Is \u2018Cursor for Hardware.\u2019 Anthropic Wants In",
+          "link": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
           "date": "Sat, 18 Apr 2026 10:30:00 +0000"
         },
         {
@@ -462,6 +436,16 @@
       "url": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "items": [
         {
+          "title": "Artificial neurons successfully communicate with living brain cells",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
+          "date": "Sat, 18 Apr 2026 03:32:36 EDT"
+        },
+        {
+          "title": "Quantum AI just got shockingly good at predicting chaos",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260417224455.htm",
+          "date": "Fri, 17 Apr 2026 23:51:09 EDT"
+        },
+        {
           "title": "This simple change stops robot swarms from getting stuck",
           "link": "https://www.sciencedaily.com/releases/2026/04/260414075639.htm",
           "date": "Wed, 15 Apr 2026 03:45:51 EDT"
@@ -475,16 +459,6 @@
           "title": "This new chip could slash data center energy waste",
           "link": "https://www.sciencedaily.com/releases/2026/04/260409101103.htm",
           "date": "Fri, 10 Apr 2026 08:45:22 EDT"
-        },
-        {
-          "title": "This new chip survives 1300\u00b0F (700\u00b0C) and could change AI forever",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260406192904.htm",
-          "date": "Tue, 07 Apr 2026 01:32:38 EDT"
-        },
-        {
-          "title": "AI breakthrough cuts energy use by 100x while boosting accuracy",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm",
-          "date": "Sun, 05 Apr 2026 21:23:54 EDT"
         }
       ],
       "error": null
