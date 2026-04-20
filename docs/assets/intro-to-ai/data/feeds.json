@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-04-20T12:01:57.159201+00:00",
+  "generatedAt": "2026-04-20T14:47:40.690237+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Why Journalists Are Going Indie (with Maddy Myers)",
+          "link": "https://www.404media.co/maddy-myers-mothership-interview/",
+          "date": "Mon, 20 Apr 2026 13:00:27 GMT"
+        },
         {
           "title": "Babies Born from Dead Parents Will Increase with New Tech. Are We Ready?",
           "link": "https://www.404media.co/babies-born-from-dead-parents-will-increase-with-new-tech-are-we-ready/",
@@ -24,11 +29,6 @@
           "title": "Behind the Blog: Jazz and Journalism",
           "link": "https://www.404media.co/behind-the-blog-jazz-and-journalism/",
           "date": "Fri, 17 Apr 2026 13:00:29 GMT"
-        },
-        {
-          "title": "App Stores Push Users Toward Nudify Apps, New Research Shows",
-          "link": "https://www.404media.co/app-stores-apple-google-nudify-undress-deepfakes/",
-          "date": "Thu, 16 Apr 2026 16:34:12 GMT"
         }
       ],
       "error": null
@@ -114,29 +114,29 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Physical AI Edges Closer to Real-World Deployments",
+          "link": "https://aibusiness.com/generative-ai/physical-ai-edges-closer-real-world-deployments",
+          "date": "Mon, 20 Apr 2026 13:50:47 GMT"
+        },
+        {
+          "title": "Chinese Vendor Claims First Large-Scale Embodied AI Deployment",
+          "link": "https://aibusiness.com/generative-ai/chinese-vendor-large-scale-embodied-ai-deployment",
+          "date": "Mon, 20 Apr 2026 13:20:49 GMT"
+        },
+        {
+          "title": "UK Launches $675 Million Fund for AI Startups",
+          "link": "https://aibusiness.com/generative-ai/uk-launches-675-million-fund-ai-startups",
+          "date": "Mon, 20 Apr 2026 12:47:45 GMT"
+        },
+        {
+          "title": "US, California Use Purchasing Power to Set AI Rules",
+          "link": "https://aibusiness.com/generative-ai/us-california-purchasing-power-set-ai-rules",
+          "date": "Mon, 20 Apr 2026 12:15:04 GMT"
+        },
+        {
           "title": "The Real AI Shift Isn\u2019t New Models. It\u2019s Control.",
           "link": "https://aibusiness.com/generative-ai/the-real-ai-shift-isn-t-new-models-s-control-",
           "date": "Fri, 17 Apr 2026 16:05:09 GMT"
-        },
-        {
-          "title": "OpenAI GPT-5.4-Cyber is More Open Than Claude Mythos",
-          "link": "https://aibusiness.com/generative-ai/openai-gpt-5-4-cyber-more-open-than-claude-mythos",
-          "date": "Fri, 17 Apr 2026 15:47:37 GMT"
-        },
-        {
-          "title": "Anthropic Releases Good but not Great Claude Opus 4.7",
-          "link": "https://aibusiness.com/generative-ai/anthropic-releases-good-not-great-claude-opus-4-7",
-          "date": "Thu, 16 Apr 2026 20:41:33 GMT"
-        },
-        {
-          "title": "Stellantis Ramps Up AI Strategy With Microsoft Deal",
-          "link": "https://aibusiness.com/generative-ai/stellantis-ramps-ai-strategy-microsoft-deal",
-          "date": "Thu, 16 Apr 2026 18:07:59 GMT"
-        },
-        {
-          "title": "Nvidia Partners with Chip Software Maker to Close Sim-to-Real Gap",
-          "link": "https://aibusiness.com/robotics/nvidia-partners-chip-software-maker-close-sim-to-real-gap",
-          "date": "Thu, 16 Apr 2026 15:45:34 GMT"
         }
       ],
       "error": null
@@ -151,6 +151,11 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [
+        {
+          "title": "Bobyard 2.0 offers improved takeoffs and unified AI for estimators",
+          "link": "https://www.artificialintelligence-news.com/news/bobyard-2-0-offers-improved-takeoffs-and-unified-ai-for-estimators/",
+          "date": "Mon, 20 Apr 2026 13:15:51 +0000"
+        },
         {
           "title": "How to prepare for and remediate an AI system incident",
           "link": "https://www.artificialintelligence-news.com/news/how-to-prepare-for-and-remediate-an-ai-system-incident/",
@@ -170,11 +175,6 @@
           "title": "Cadence expands AI and robotic partnerships with Nvidia, Google Cloud",
           "link": "https://www.artificialintelligence-news.com/news/cadence-expands-ai-and-robotics-partnerships-with-nvidia-google-cloud/",
           "date": "Thu, 16 Apr 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Commvault launches a \u2018Ctrl-Z\u2019 for cloud AI workloads",
-          "link": "https://www.artificialintelligence-news.com/news/commvault-launches-ctrl-z-for-cloud-ai-workloads/",
-          "date": "Wed, 15 Apr 2026 16:28:19 +0000"
         }
       ],
       "error": null
@@ -328,6 +328,16 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Exploring conversational AI and poetry but not as we know it",
+          "link": "https://theconversation.com/exploring-conversational-ai-and-poetry-but-not-as-we-know-it-280284",
+          "date": "2026-04-20T13:40:54Z"
+        },
+        {
+          "title": "Most people do not realize when a personal message they receive was written by AI, study finds",
+          "link": "https://theconversation.com/most-people-do-not-realize-when-a-personal-message-they-receive-was-written-by-ai-study-finds-278874",
+          "date": "2026-04-20T12:33:12Z"
+        },
+        {
           "title": "Half of AI health answers are wrong even though they sound convincing \u2013 new study",
           "link": "https://theconversation.com/half-of-ai-health-answers-are-wrong-even-though-they-sound-convincing-new-study-280512",
           "date": "2026-04-20T09:15:18Z"
@@ -341,16 +351,6 @@
           "title": "How do teens really use AI companions? With more creativity than you might think",
           "link": "https://theconversation.com/how-do-teens-really-use-ai-companions-with-more-creativity-than-you-might-think-278532",
           "date": "2026-04-16T00:11:28Z"
-        },
-        {
-          "title": "Employment data shows the early signs of AI job disruption are already here",
-          "link": "https://theconversation.com/employment-data-shows-the-early-signs-of-ai-job-disruption-are-already-here-280273",
-          "date": "2026-04-15T20:09:26Z"
-        },
-        {
-          "title": "Thousands of AI-written, edited or \u2018polished\u2019 books are being sold \u2013 an eerie echo of Orwell\u2019s \u2018novel-writing machines\u2019",
-          "link": "https://theconversation.com/thousands-of-ai-written-edited-or-polished-books-are-being-sold-an-eerie-echo-of-orwells-novel-writing-machines-276008",
-          "date": "2026-04-15T12:41:51Z"
         }
       ],
       "error": null
@@ -430,6 +430,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Prego Has a Dinner-Conversation-Recording Device, Capisce?",
+          "link": "https://www.wired.com/story/prego-has-a-dinner-recording-device-capiche/",
+          "date": "Mon, 20 Apr 2026 13:00:00 +0000"
+        },
+        {
           "title": "Tech CEOs Think AI Will Let Them Be Everywhere at Once",
           "link": "https://www.wired.com/story/tech-ceos-using-ai-to-be-everywhere-at-once/",
           "date": "Mon, 20 Apr 2026 11:00:00 +0000"
@@ -448,11 +453,6 @@
           "title": "OpenAI Executive Kevin Weil Is Leaving the Company",
           "link": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
           "date": "Fri, 17 Apr 2026 19:56:42 +0000"
-        },
-        {
-          "title": "Gazing Into Sam Altman\u2019s Orb Now Proves You\u2019re Human on Tinder",
-          "link": "https://www.wired.com/story/gazing-into-sam-altmans-orb-now-proves-youre-human-on-tinder/",
-          "date": "Fri, 17 Apr 2026 17:14:51 +0000"
         }
       ],
       "error": null
