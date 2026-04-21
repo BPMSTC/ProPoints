@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T13:20:16.693149+00:00",
+  "generatedAt": "2026-04-21T15:10:05.651769+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -152,6 +152,11 @@
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [
         {
+          "title": "Snowflake expands its technical and mainstream AI platforms",
+          "link": "https://www.artificialintelligence-news.com/news/snowflake-expands-its-technical-and-mainstream-ai-platforms/",
+          "date": "Tue, 21 Apr 2026 14:29:00 +0000"
+        },
+        {
           "title": "Siemens introduces AI system for automation engineering",
           "link": "https://www.artificialintelligence-news.com/news/siemens-ai-automation-engineering-workflows/",
           "date": "Tue, 21 Apr 2026 10:00:00 +0000"
@@ -170,11 +175,6 @@
           "title": "Anthropic walks into the White House and Mythos is the reason Washington let it in",
           "link": "https://www.artificialintelligence-news.com/news/anthropic-mythos-ai-cybersecurity-white-house/",
           "date": "Mon, 20 Apr 2026 08:00:00 +0000"
-        },
-        {
-          "title": "OpenAI Agents SDK improves governance with sandbox execution",
-          "link": "https://www.artificialintelligence-news.com/news/openai-agents-sdk-improves-governance-sandbox-execution/",
-          "date": "Thu, 16 Apr 2026 11:20:00 +0000"
         }
       ],
       "error": null
@@ -259,7 +259,7 @@
       "name": "AI Snake Oil",
       "url": "https://aisnakeoil.substack.com/feed",
       "items": [],
-      "error": "<unknown>:2:751: not well-formed (invalid token)"
+      "error": "<unknown>:2:1328: not well-formed (invalid token)"
     },
     {
       "name": "AI \u2013 Uber Engineering Blog",
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Contrary to popular superstition, AES 128 is just fine in a post-quantum world",
+          "link": "https://arstechnica.com/security/2026/04/contrary-to-popular-superstition-aes-128-is-just-fine-in-a-post-quantum-world/",
+          "date": "Tue, 21 Apr 2026 12:35:20 +0000"
+        },
+        {
           "title": "Global growth in solar \"the largest ever observed for any source\"",
           "link": "https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/",
           "date": "Tue, 21 Apr 2026 11:00:16 +0000"
@@ -308,11 +313,6 @@
           "title": "Absurd study suggests eating fruits and vegetables leads to cancer",
           "link": "https://arstechnica.com/health/2026/04/absurdly-bad-study-spurs-headlines-linking-healthy-diet-to-lung-cancer/",
           "date": "Mon, 20 Apr 2026 20:53:04 +0000"
-        },
-        {
-          "title": "US opens refund portal to start paying back Trump's illegal tariffs",
-          "link": "https://arstechnica.com/tech-policy/2026/04/us-opens-refund-portal-to-start-paying-back-trumps-illegal-tariffs/",
-          "date": "Mon, 20 Apr 2026 18:53:21 +0000"
         }
       ],
       "error": null
