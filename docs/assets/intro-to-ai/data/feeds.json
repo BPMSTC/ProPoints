@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T18:00:21.553636+00:00",
+  "generatedAt": "2026-04-21T19:24:03.891457+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -145,39 +145,13 @@
       "name": "AIModels.fyi",
       "url": "https://aimodels.substack.com/feed",
       "items": [],
-      "error": "<unknown>:2:1328: not well-formed (invalid token)"
+      "error": "<unknown>:2:1240: not well-formed (invalid token)"
     },
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "Snowflake expands its technical and mainstream AI platforms",
-          "link": "https://www.artificialintelligence-news.com/news/snowflake-expands-its-technical-and-mainstream-ai-platforms/",
-          "date": "Tue, 21 Apr 2026 14:29:00 +0000"
-        },
-        {
-          "title": "Siemens introduces AI system for automation engineering",
-          "link": "https://www.artificialintelligence-news.com/news/siemens-ai-automation-engineering-workflows/",
-          "date": "Tue, 21 Apr 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Bobyard 2.0 offers improved takeoffs and unified AI for estimators",
-          "link": "https://www.artificialintelligence-news.com/news/bobyard-2-0-offers-improved-takeoffs-and-unified-ai-for-estimators/",
-          "date": "Mon, 20 Apr 2026 13:15:51 +0000"
-        },
-        {
-          "title": "How to prepare for and remediate an AI system incident",
-          "link": "https://www.artificialintelligence-news.com/news/how-to-prepare-for-and-remediate-an-ai-system-incident/",
-          "date": "Mon, 20 Apr 2026 11:39:41 +0000"
-        },
-        {
-          "title": "Anthropic walks into the White House and Mythos is the reason Washington let it in",
-          "link": "https://www.artificialintelligence-news.com/news/anthropic-mythos-ai-cybersecurity-white-house/",
-          "date": "Mon, 20 Apr 2026 08:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -259,7 +233,7 @@
       "name": "AI Snake Oil",
       "url": "https://aisnakeoil.substack.com/feed",
       "items": [],
-      "error": "<unknown>:2:751: not well-formed (invalid token)"
+      "error": "<unknown>:2:1240: not well-formed (invalid token)"
     },
     {
       "name": "AI \u2013 Uber Engineering Blog",
@@ -290,29 +264,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Microsoft removes Call of Duty from Game Pass, lowers subscription pricing",
+          "link": "https://arstechnica.com/gaming/2026/04/microsofts-game-pass-gets-cheaper-loses-launch-day-call-of-duty-access/",
+          "date": "Tue, 21 Apr 2026 18:18:27 +0000"
+        },
+        {
+          "title": "Framework Laptop 13 Pro is a major overhaul for the modular, upgradeable laptop",
+          "link": "https://arstechnica.com/gadgets/2026/04/framework-laptop-13-pro-is-the-first-major-revision-to-the-original-framework-laptop/",
+          "date": "Tue, 21 Apr 2026 18:15:15 +0000"
+        },
+        {
+          "title": "Framework Laptop 16 upgrades make it look less like an unfinished prototype",
+          "link": "https://arstechnica.com/gadgets/2026/04/framework-laptop-16-upgrades-make-it-look-less-like-an-unfinished-prototype/",
+          "date": "Tue, 21 Apr 2026 18:15:03 +0000"
+        },
+        {
+          "title": "Internal emails show how Amazon raises prices across the Internet, lawsuit says",
+          "link": "https://arstechnica.com/tech-policy/2026/04/internal-emails-show-how-amazon-raises-prices-across-the-internet-lawsuit-says/",
+          "date": "Tue, 21 Apr 2026 18:06:06 +0000"
+        },
+        {
           "title": "Anthropic gets $5B investment from Amazon, will use it to buy Amazon chips",
           "link": "https://arstechnica.com/ai/2026/04/anthropic-gets-5b-investment-from-amazon-will-use-it-to-buy-amazon-chips/",
           "date": "Tue, 21 Apr 2026 17:00:04 +0000"
-        },
-        {
-          "title": "CATL's new LFP battery can charge from 10 to 98% in less than 7 minutes",
-          "link": "https://arstechnica.com/cars/2026/04/catls-new-lfp-battery-can-charge-from-10-to-98-in-less-than-7-minutes/",
-          "date": "Tue, 21 Apr 2026 15:01:43 +0000"
-        },
-        {
-          "title": "AMD Ryzen 9 9950X3D2 Dual Edition review: Tons of cache for tons of dollars",
-          "link": "https://arstechnica.com/gadgets/2026/04/amd-ryzen-9-9950x3d2-dual-edition-review-tons-of-cache-for-tons-of-dollars/",
-          "date": "Tue, 21 Apr 2026 14:45:36 +0000"
-        },
-        {
-          "title": "What's the deal with spacesuits for the Moon? Will they be ready in time?",
-          "link": "https://arstechnica.com/space/2026/04/whats-the-deal-with-spacesuits-for-the-moon-will-they-be-ready-in-time/",
-          "date": "Tue, 21 Apr 2026 14:24:09 +0000"
-        },
-        {
-          "title": "Loneliness in older adults can often lead to memory impairment",
-          "link": "https://arstechnica.com/health/2026/04/loneliness-in-older-adults-can-often-lead-to-memory-impairment/",
-          "date": "Tue, 21 Apr 2026 14:23:24 +0000"
         }
       ],
       "error": null
@@ -360,6 +334,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Four key takeaways from Apple\u2019s change of leadership",
+          "link": "https://www.theguardian.com/global/2026/apr/21/four-key-takeaways-from-apple-change-of-leadership",
+          "date": "Tue, 21 Apr 2026 18:24:49 GMT"
+        },
+        {
           "title": "\u2018I\u2019ll key your car\u2019: ChatGPT can become abusive when fed real-life arguments, study finds",
           "link": "https://www.theguardian.com/technology/2026/apr/21/chatgpt-abusive-language-when-fed-real-life-arguments-study",
           "date": "Tue, 21 Apr 2026 17:43:41 GMT"
@@ -378,11 +357,6 @@
           "title": "Diplomatic duties for Tim Cook after stepping down as Apple CEO",
           "link": "https://www.theguardian.com/technology/2026/apr/21/tim-cook-apple-techscape",
           "date": "Tue, 21 Apr 2026 12:02:02 GMT"
-        },
-        {
-          "title": "\u2018Uber for nurses\u2019: gig-work apps lobby to deregulate healthcare, report finds",
-          "link": "https://www.theguardian.com/us-news/2026/apr/21/healthcare-nurses-gig-work-ai-apps",
-          "date": "Tue, 21 Apr 2026 10:00:46 GMT"
         }
       ],
       "error": null
@@ -397,6 +371,11 @@
       "name": "Artificial Intelligence \u2013 Futurism",
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
+        {
+          "title": "Chinese Workers Horrified as Bosses Direct Them to Train Their AI Replacements",
+          "link": "https://futurism.com/artificial-intelligence/chinese-workers-train-ai-replacements",
+          "date": "Tue, 21 Apr 2026 14:01:00 -0400"
+        },
         {
           "title": "Concern Grows That AI Is Damaging Users\u2019 Cognitive Abilities",
           "link": "https://futurism.com/artificial-intelligence/concern-grows-ai-damaging-think",
@@ -416,11 +395,6 @@
           "title": "CEO of $1.5 Billion AI Startup Accused of Massive Fraud by Justice Department",
           "link": "https://futurism.com/artificial-intelligence/ai-ilearning-fraud-crime",
           "date": "Mon, 20 Apr 2026 15:32:36 -0400"
-        },
-        {
-          "title": "Palantir Issues Ominous Corporate Manifesto",
-          "link": "https://futurism.com/artificial-intelligence/palantir-corporate-manifesto",
-          "date": "Mon, 20 Apr 2026 14:01:40 -0400"
         }
       ],
       "error": null
@@ -430,7 +404,17 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
-          "title": "Tim Cook's Legacy Is Turning Apple Into a Subscription",
+          "title": "OpenAI Beefs Up ChatGPT's Image Generation Model",
+          "link": "https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model/",
+          "date": "Tue, 21 Apr 2026 19:00:00 +0000"
+        },
+        {
+          "title": "Mozilla Used Anthropic\u2019s Mythos to Find and Fix 271 Bugs in Firefox",
+          "link": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/",
+          "date": "Tue, 21 Apr 2026 18:30:00 +0000"
+        },
+        {
+          "title": "Tim Cook\u2019s Legacy Is Turning Apple Into a Subscription",
           "link": "https://www.wired.com/story/apple-tim-cook-subscription-business/",
           "date": "Tue, 21 Apr 2026 17:35:12 +0000"
         },
@@ -443,16 +427,6 @@
           "title": "A Humanoid Robot Set a Half-Marathon Record in China",
           "link": "https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/",
           "date": "Mon, 20 Apr 2026 22:33:27 +0000"
-        },
-        {
-          "title": "Prego Has a Dinner-Conversation-Recording Device, Capisce?",
-          "link": "https://www.wired.com/story/prego-has-a-dinner-recording-device-capiche/",
-          "date": "Mon, 20 Apr 2026 13:00:00 +0000"
-        },
-        {
-          "title": "Tech CEOs Think AI Will Let Them Be Everywhere at Once",
-          "link": "https://www.wired.com/story/tech-ceos-using-ai-to-be-everywhere-at-once/",
-          "date": "Mon, 20 Apr 2026 11:00:00 +0000"
         }
       ],
       "error": null
