@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T16:57:47.578537+00:00",
+  "generatedAt": "2026-04-21T18:00:21.553636+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Hyundai, DeepX Partner to Develop AI Platform for Robotics",
+          "link": "https://aibusiness.com/robotics/hyundai-deepx-partner-develop-ai-platform-robotics",
+          "date": "Tue, 21 Apr 2026 17:36:21 GMT"
+        },
+        {
           "title": "Neura Robotics, AWS Collaborate to Bring Physical AI to the Real World",
           "link": "https://aibusiness.com/generative-ai/neura-robotics-aws-collaborate-bring-physical-ai-real-world",
           "date": "Tue, 21 Apr 2026 15:50:47 GMT"
@@ -132,11 +137,6 @@
           "title": "Adobe Launches AI Agent Platform for CX",
           "link": "https://aibusiness.com/agentic-ai/adobe-launches-ai-agent-platform-for-cx",
           "date": "Mon, 20 Apr 2026 21:20:59 GMT"
-        },
-        {
-          "title": "Siemens Trials Nvidia-Powered Humanoid",
-          "link": "https://aibusiness.com/generative-ai/siemens-trials-nvidia-powered-humanoid",
-          "date": "Mon, 20 Apr 2026 18:42:44 GMT"
         }
       ],
       "error": null
@@ -145,7 +145,7 @@
       "name": "AIModels.fyi",
       "url": "https://aimodels.substack.com/feed",
       "items": [],
-      "error": "<unknown>:2:1240: not well-formed (invalid token)"
+      "error": "<unknown>:2:1328: not well-formed (invalid token)"
     },
     {
       "name": "AI News",
@@ -259,7 +259,7 @@
       "name": "AI Snake Oil",
       "url": "https://aisnakeoil.substack.com/feed",
       "items": [],
-      "error": "<unknown>:2:1328: not well-formed (invalid token)"
+      "error": "<unknown>:2:751: not well-formed (invalid token)"
     },
     {
       "name": "AI \u2013 Uber Engineering Blog",
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Anthropic gets $5B investment from Amazon, will use it to buy Amazon chips",
+          "link": "https://arstechnica.com/ai/2026/04/anthropic-gets-5b-investment-from-amazon-will-use-it-to-buy-amazon-chips/",
+          "date": "Tue, 21 Apr 2026 17:00:04 +0000"
+        },
+        {
           "title": "CATL's new LFP battery can charge from 10 to 98% in less than 7 minutes",
           "link": "https://arstechnica.com/cars/2026/04/catls-new-lfp-battery-can-charge-from-10-to-98-in-less-than-7-minutes/",
           "date": "Tue, 21 Apr 2026 15:01:43 +0000"
@@ -308,11 +313,6 @@
           "title": "Loneliness in older adults can often lead to memory impairment",
           "link": "https://arstechnica.com/health/2026/04/loneliness-in-older-adults-can-often-lead-to-memory-impairment/",
           "date": "Tue, 21 Apr 2026 14:23:24 +0000"
-        },
-        {
-          "title": "Contrary to popular superstition, AES 128 is just fine in a post-quantum world",
-          "link": "https://arstechnica.com/security/2026/04/contrary-to-popular-superstition-aes-128-is-just-fine-in-a-post-quantum-world/",
-          "date": "Tue, 21 Apr 2026 12:35:20 +0000"
         }
       ],
       "error": null
@@ -360,6 +360,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "\u2018I\u2019ll key your car\u2019: ChatGPT can become abusive when fed real-life arguments, study finds",
+          "link": "https://www.theguardian.com/technology/2026/apr/21/chatgpt-abusive-language-when-fed-real-life-arguments-study",
+          "date": "Tue, 21 Apr 2026 17:43:41 GMT"
+        },
+        {
           "title": "The social sciences need tools for the 21st century | Letters",
           "link": "https://www.theguardian.com/education/2026/apr/21/the-social-sciences-need-tools-for-the-21st-century",
           "date": "Tue, 21 Apr 2026 16:30:54 GMT"
@@ -378,11 +383,6 @@
           "title": "\u2018Uber for nurses\u2019: gig-work apps lobby to deregulate healthcare, report finds",
           "link": "https://www.theguardian.com/us-news/2026/apr/21/healthcare-nurses-gig-work-ai-apps",
           "date": "Tue, 21 Apr 2026 10:00:46 GMT"
-        },
-        {
-          "title": "Why are respected film-makers suddenly embracing AI?",
-          "link": "https://www.theguardian.com/film/2026/apr/21/ai-film-soderbergh-aronofsky",
-          "date": "Tue, 21 Apr 2026 09:00:20 GMT"
         }
       ],
       "error": null
@@ -397,6 +397,11 @@
       "name": "Artificial Intelligence \u2013 Futurism",
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
+        {
+          "title": "Concern Grows That AI Is Damaging Users\u2019 Cognitive Abilities",
+          "link": "https://futurism.com/artificial-intelligence/concern-grows-ai-damaging-think",
+          "date": "Tue, 21 Apr 2026 13:02:56 -0400"
+        },
         {
           "title": "JPMorganChase Data Center Gets $77 Million Handout to Create Grand Total of One Job",
           "link": "https://futurism.com/artificial-intelligence/orangeburg-data-center-tax-subsidy",
@@ -416,11 +421,6 @@
           "title": "Palantir Issues Ominous Corporate Manifesto",
           "link": "https://futurism.com/artificial-intelligence/palantir-corporate-manifesto",
           "date": "Mon, 20 Apr 2026 14:01:40 -0400"
-        },
-        {
-          "title": "Madison Square Garden Reportedly Used Facial Recognition to Stalk Trans Woman For Two Years",
-          "link": "https://futurism.com/artificial-intelligence/msg-facial-recognition-cameras",
-          "date": "Sun, 19 Apr 2026 20:15:00 -0400"
         }
       ],
       "error": null
@@ -429,6 +429,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Tim Cook's Legacy Is Turning Apple Into a Subscription",
+          "link": "https://www.wired.com/story/apple-tim-cook-subscription-business/",
+          "date": "Tue, 21 Apr 2026 17:35:12 +0000"
+        },
         {
           "title": "This Scammer Used an AI-Generated MAGA Girl to Grift \u2018Super Dumb\u2019 Men",
           "link": "https://www.wired.com/story/ai-generated-maga-girls/",
@@ -448,11 +453,6 @@
           "title": "Tech CEOs Think AI Will Let Them Be Everywhere at Once",
           "link": "https://www.wired.com/story/tech-ceos-using-ai-to-be-everywhere-at-once/",
           "date": "Mon, 20 Apr 2026 11:00:00 +0000"
-        },
-        {
-          "title": "It Takes 2 Minutes to Hack the EU\u2019s New Age-Verification App",
-          "link": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
-          "date": "Sat, 18 Apr 2026 10:30:00 +0000"
         }
       ],
       "error": null
