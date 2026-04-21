@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T19:24:03.891457+00:00",
+  "generatedAt": "2026-04-21T20:49:59.668781+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Chinese Volkswagens to Feature AI Agents That Give Cars \u2018Personality\u2019",
+          "link": "https://aibusiness.com/agentic-ai/chinese-volkswagens-feature-ai-agents-give-cars-personality-",
+          "date": "Tue, 21 Apr 2026 19:10:06 GMT"
+        },
+        {
           "title": "Hyundai, DeepX Partner to Develop AI Platform for Robotics",
           "link": "https://aibusiness.com/robotics/hyundai-deepx-partner-develop-ai-platform-robotics",
           "date": "Tue, 21 Apr 2026 17:36:21 GMT"
@@ -132,11 +137,6 @@
           "title": "AMD's Vision for AI PCs in the Age of Agentic AI",
           "link": "https://aibusiness.com/generative-ai/amd-s-vision-for-ai-pcs-age-of-agentic-ai",
           "date": "Tue, 21 Apr 2026 12:18:13 GMT"
-        },
-        {
-          "title": "Adobe Launches AI Agent Platform for CX",
-          "link": "https://aibusiness.com/agentic-ai/adobe-launches-ai-agent-platform-for-cx",
-          "date": "Mon, 20 Apr 2026 21:20:59 GMT"
         }
       ],
       "error": null
@@ -150,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Snowflake expands its technical and mainstream AI platforms",
+          "link": "https://www.artificialintelligence-news.com/news/snowflake-expands-its-technical-and-mainstream-ai-platforms/",
+          "date": "Tue, 21 Apr 2026 14:29:00 +0000"
+        },
+        {
+          "title": "Siemens introduces AI system for automation engineering",
+          "link": "https://www.artificialintelligence-news.com/news/siemens-ai-automation-engineering-workflows/",
+          "date": "Tue, 21 Apr 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Bobyard 2.0 offers improved takeoffs and unified AI for estimators",
+          "link": "https://www.artificialintelligence-news.com/news/bobyard-2-0-offers-improved-takeoffs-and-unified-ai-for-estimators/",
+          "date": "Mon, 20 Apr 2026 13:15:51 +0000"
+        },
+        {
+          "title": "How to prepare for and remediate an AI system incident",
+          "link": "https://www.artificialintelligence-news.com/news/how-to-prepare-for-and-remediate-an-ai-system-incident/",
+          "date": "Mon, 20 Apr 2026 11:39:41 +0000"
+        },
+        {
+          "title": "Anthropic walks into the White House and Mythos is the reason Washington let it in",
+          "link": "https://www.artificialintelligence-news.com/news/anthropic-mythos-ai-cybersecurity-white-house/",
+          "date": "Mon, 20 Apr 2026 08:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -264,6 +290,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Florida probes ChatGPT role in mass shooting. OpenAI says bot \"not responsible.\"",
+          "link": "https://arstechnica.com/tech-policy/2026/04/florida-probes-chatgpt-role-in-mass-shooting-openai-says-bot-not-responsible/",
+          "date": "Tue, 21 Apr 2026 20:01:36 +0000"
+        },
+        {
+          "title": "Report: Meta will train AI agents by tracking employees' mouse, keyboard use",
+          "link": "https://arstechnica.com/ai/2026/04/meta-will-use-employee-tracking-software-to-help-train-ai-agents-report/",
+          "date": "Tue, 21 Apr 2026 19:30:52 +0000"
+        },
+        {
           "title": "Microsoft removes Call of Duty from Game Pass, lowers subscription pricing",
           "link": "https://arstechnica.com/gaming/2026/04/microsofts-game-pass-gets-cheaper-loses-launch-day-call-of-duty-access/",
           "date": "Tue, 21 Apr 2026 18:18:27 +0000"
@@ -277,16 +313,6 @@
           "title": "Framework Laptop 16 upgrades make it look less like an unfinished prototype",
           "link": "https://arstechnica.com/gadgets/2026/04/framework-laptop-16-upgrades-make-it-look-less-like-an-unfinished-prototype/",
           "date": "Tue, 21 Apr 2026 18:15:03 +0000"
-        },
-        {
-          "title": "Internal emails show how Amazon raises prices across the Internet, lawsuit says",
-          "link": "https://arstechnica.com/tech-policy/2026/04/internal-emails-show-how-amazon-raises-prices-across-the-internet-lawsuit-says/",
-          "date": "Tue, 21 Apr 2026 18:06:06 +0000"
-        },
-        {
-          "title": "Anthropic gets $5B investment from Amazon, will use it to buy Amazon chips",
-          "link": "https://arstechnica.com/ai/2026/04/anthropic-gets-5b-investment-from-amazon-will-use-it-to-buy-amazon-chips/",
-          "date": "Tue, 21 Apr 2026 17:00:04 +0000"
         }
       ],
       "error": null
@@ -404,7 +430,7 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
-          "title": "OpenAI Beefs Up ChatGPT's Image Generation Model",
+          "title": "OpenAI Beefs Up ChatGPT\u2019s Image Generation Model",
           "link": "https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model/",
           "date": "Tue, 21 Apr 2026 19:00:00 +0000"
         },
