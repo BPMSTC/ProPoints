@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T07:28:36.398507+00:00",
+  "generatedAt": "2026-04-22T09:17:40.828558+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -152,6 +152,11 @@
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [
         {
+          "title": "The role of AI in modern forex bot development",
+          "link": "https://www.artificialintelligence-news.com/news/the-role-of-ai-in-modern-forex-bot-development/",
+          "date": "Wed, 22 Apr 2026 07:34:01 +0000"
+        },
+        {
           "title": "Snowflake expands its technical and mainstream AI platforms",
           "link": "https://www.artificialintelligence-news.com/news/snowflake-expands-its-technical-and-mainstream-ai-platforms/",
           "date": "Tue, 21 Apr 2026 14:29:00 +0000"
@@ -170,11 +175,6 @@
           "title": "How to prepare for and remediate an AI system incident",
           "link": "https://www.artificialintelligence-news.com/news/how-to-prepare-for-and-remediate-an-ai-system-incident/",
           "date": "Mon, 20 Apr 2026 11:39:41 +0000"
-        },
-        {
-          "title": "Anthropic walks into the White House and Mythos is the reason Washington let it in",
-          "link": "https://www.artificialintelligence-news.com/news/anthropic-mythos-ai-cybersecurity-white-house/",
-          "date": "Mon, 20 Apr 2026 08:00:00 +0000"
         }
       ],
       "error": null
@@ -259,7 +259,7 @@
       "name": "AI Snake Oil",
       "url": "https://aisnakeoil.substack.com/feed",
       "items": [],
-      "error": "<unknown>:2:1328: not well-formed (invalid token)"
+      "error": "<unknown>:2:1240: not well-formed (invalid token)"
     },
     {
       "name": "AI \u2013 Uber Engineering Blog",
@@ -360,6 +360,16 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Anthropic investigates report of rogue access to hack-enabling Mythos AI",
+          "link": "https://www.theguardian.com/technology/2026/apr/22/anthropic-investigates-report-of-rogue-access-to-hack-enabling-mythos-ai",
+          "date": "Wed, 22 Apr 2026 08:58:06 GMT"
+        },
+        {
+          "title": "AI hallucinations found in high-profile Wall Street law firm filing",
+          "link": "https://www.theguardian.com/technology/2026/apr/22/ai-hallucinations-found-in-high-profile-wall-street-law-firm-filing",
+          "date": "Wed, 22 Apr 2026 08:09:34 GMT"
+        },
+        {
           "title": "UK could face \u2018hacktivist attacks at scale\u2019, says head of security agency",
           "link": "https://www.theguardian.com/technology/2026/apr/22/uk-hacktivist-attacks-at-scale-security-agency",
           "date": "Wed, 22 Apr 2026 05:00:10 GMT"
@@ -373,16 +383,6 @@
           "title": "Florida to open criminal investigation into OpenAI over ChatGPT\u2019s influence on alleged mass shooter",
           "link": "https://www.theguardian.com/us-news/2026/apr/21/florida-openai-chatgpt-investigation",
           "date": "Tue, 21 Apr 2026 21:28:34 GMT"
-        },
-        {
-          "title": "Four key takeaways from Apple\u2019s change of leadership",
-          "link": "https://www.theguardian.com/global/2026/apr/21/four-key-takeaways-from-apple-change-of-leadership",
-          "date": "Tue, 21 Apr 2026 18:24:49 GMT"
-        },
-        {
-          "title": "\u2018I\u2019ll key your car\u2019: ChatGPT can become abusive when fed real-life arguments, study finds",
-          "link": "https://www.theguardian.com/technology/2026/apr/21/chatgpt-abusive-language-when-fed-real-life-arguments-study",
-          "date": "Tue, 21 Apr 2026 17:43:41 GMT"
         }
       ],
       "error": null
