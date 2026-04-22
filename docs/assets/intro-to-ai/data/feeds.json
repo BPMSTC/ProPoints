@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T17:59:57.848485+00:00",
+  "generatedAt": "2026-04-22T19:25:40.883271+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Accenture Showcases Humanoid Robot Warehouse Pilot",
+          "link": "https://aibusiness.com/robotics/accenture-showcases-humanoid-robot-warehouse-pilot",
+          "date": "Wed, 22 Apr 2026 18:08:52 GMT"
+        },
+        {
           "title": "SpaceX Agrees to Potential $60B Deal to Acquire Cursor",
           "link": "https://aibusiness.com/generative-ai/spacex-agrees-potential-60b-deal-acquire-cursor",
           "date": "Wed, 22 Apr 2026 17:37:38 GMT"
@@ -132,11 +137,6 @@
           "title": "Chinese Volkswagens to Feature AI Agents That Give Cars \u2018Personality\u2019",
           "link": "https://aibusiness.com/agentic-ai/chinese-volkswagens-feature-ai-agents-give-cars-personality-",
           "date": "Tue, 21 Apr 2026 19:10:06 GMT"
-        },
-        {
-          "title": "Hyundai, DeepX Partner to Develop AI Platform for Robotics",
-          "link": "https://aibusiness.com/robotics/hyundai-deepx-partner-develop-ai-platform-robotics",
-          "date": "Tue, 21 Apr 2026 17:36:21 GMT"
         }
       ],
       "error": null
@@ -365,6 +365,11 @@
           "date": "Wed, 22 Apr 2026 15:03:44 GMT"
         },
         {
+          "title": "What Trump\u2019s Bible stunt says about his complicated history with Christianity",
+          "link": "https://www.theguardian.com/us-news/2026/apr/22/trumps-special-relationship-with-christianity",
+          "date": "Wed, 22 Apr 2026 18:00:32 GMT"
+        },
+        {
           "title": "Pentagon asks for $54bn in pivot towards AI-powered war",
           "link": "https://www.theguardian.com/us-news/2026/apr/22/pentagon-asks-for-54bn-in-pivot-towards-ai-powered-war",
           "date": "Wed, 22 Apr 2026 17:24:02 GMT"
@@ -378,11 +383,6 @@
           "title": "Met police in talks to buy Palantir AI tech for use in criminal investigations",
           "link": "https://www.theguardian.com/uk-news/2026/apr/22/met-police-talks-palantir-ai-tech-criminal-investigations-automate-intelligence",
           "date": "Wed, 22 Apr 2026 14:00:26 GMT"
-        },
-        {
-          "title": "Emma the joke-telling robot cracks up the care home: Paula Hornickel\u2019s best photograph",
-          "link": "https://www.theguardian.com/artanddesign/2026/apr/22/emma-robot-care-home-paula-hornickel-best-photograph",
-          "date": "Wed, 22 Apr 2026 13:49:48 GMT"
         }
       ],
       "error": null
@@ -398,6 +398,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Leak Shows ICE Planning to Use Facial Recognition Glasses to Identify Targets in Real Time",
+          "link": "https://futurism.com/artificial-intelligence/ice-facial-surveillance-glasses",
+          "date": "Wed, 22 Apr 2026 15:19:32 -0400"
+        },
+        {
+          "title": "SpaceX Admits AI Data Centers in Space May Be a Really Terrible Idea",
+          "link": "https://futurism.com/space/spacex-admits-ai-data-centers-terrible-idea",
+          "date": "Wed, 22 Apr 2026 14:13:50 -0400"
+        },
+        {
           "title": "Today Is the Day Anthropic Promised That Fully Autonomous Employees Would Be Tearing Through the Business World",
           "link": "https://futurism.com/artificial-intelligence/anthropic-ai-agents-prediction",
           "date": "Wed, 22 Apr 2026 13:03:20 -0400"
@@ -411,16 +421,6 @@
           "title": "Florida Opens Criminal Probe Into ChatGPT\u2019s Role in School Shooting",
           "link": "https://futurism.com/artificial-intelligence/florida-opens-criminal-probe-chatgpt-school-shooting",
           "date": "Wed, 22 Apr 2026 10:58:30 -0400"
-        },
-        {
-          "title": "AI Chatbots Telling Cancer Patients to Try Useless Woo-Woo Treatments Instead of Chemotherapy",
-          "link": "https://futurism.com/artificial-intelligence/ai-chatbots-cancer-alternative-cures",
-          "date": "Wed, 22 Apr 2026 10:07:58 -0400"
-        },
-        {
-          "title": "Meta Installing Software on Employee Computers to Track Everything They Do, Feed the Data to AI",
-          "link": "https://futurism.com/artificial-intelligence/meta-track-everything-workers-type-click-train-ai",
-          "date": "Tue, 21 Apr 2026 20:41:07 -0400"
         }
       ],
       "error": null
@@ -429,6 +429,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "5 AI Models Tried to Scam Me. Some of Them Were Scary Good",
+          "link": "https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/",
+          "date": "Wed, 22 Apr 2026 18:00:00 +0000"
+        },
         {
           "title": "AI Tools Are Helping Mediocre North Korean Hackers Steal Millions",
           "link": "https://www.wired.com/story/ai-tools-are-helping-mediocre-north-korean-hackers-steal-millions/",
@@ -448,11 +453,6 @@
           "title": "OpenAI Beefs Up ChatGPT\u2019s Image Generation Model",
           "link": "https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model/",
           "date": "Tue, 21 Apr 2026 19:00:00 +0000"
-        },
-        {
-          "title": "Mozilla Used Anthropic\u2019s Mythos to Find and Fix 271 Bugs in Firefox",
-          "link": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/",
-          "date": "Tue, 21 Apr 2026 18:30:00 +0000"
         }
       ],
       "error": null
