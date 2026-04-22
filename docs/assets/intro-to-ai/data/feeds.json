@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-04-22T11:02:19.552215+00:00",
+  "generatedAt": "2026-04-22T13:21:21.249362+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Startups Brag They Spend More Money on AI Than Human Employees",
+          "link": "https://www.404media.co/startups-brag-they-spend-more-money-on-ai-than-human-employees/",
+          "date": "Wed, 22 Apr 2026 13:11:08 GMT"
+        },
+        {
+          "title": "Podcast: How Algorithms Make Us Feel Bad and Weird",
+          "link": "https://www.404media.co/podcast-how-algorithms-make-us-feel-bad-and-weird/",
+          "date": "Wed, 22 Apr 2026 12:57:16 GMT"
+        },
         {
           "title": "EMERGENCY BREAKING NEWS PODCAST: Tim, Cooked",
           "link": "https://www.404media.co/emergency-breaking-news-podcast-tim-cooked/",
@@ -19,16 +29,6 @@
           "title": "Scientists Gave a Bunch of Salmon Cocaine. This Is What Happened Next",
           "link": "https://www.404media.co/scientists-gave-a-bunch-of-salmon-cocaine-this-is-what-happened-next/",
           "date": "Mon, 20 Apr 2026 19:40:33 GMT"
-        },
-        {
-          "title": "Forbes Prediction Market Gamifies Story About Mass Shooting of 8 Children",
-          "link": "https://www.404media.co/forbes-prediction-market-gamefies-story-about-mass-shooting-of-8-children/",
-          "date": "Mon, 20 Apr 2026 16:18:26 GMT"
-        },
-        {
-          "title": "Why Journalists Are Going Indie (with Maddy Myers)",
-          "link": "https://www.404media.co/maddy-myers-mothership-interview/",
-          "date": "Mon, 20 Apr 2026 13:00:27 GMT"
         }
       ],
       "error": null
@@ -114,6 +114,16 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "ChatGPT Images Tool Upgraded With \u2018Thinking\u2019 Capability",
+          "link": "https://aibusiness.com/generative-ai/chatgpt-images-tool-upgraded-with-thinking-capability",
+          "date": "Wed, 22 Apr 2026 12:44:04 GMT"
+        },
+        {
+          "title": "Gemini Agent Platform Tackles Enterprise Deployment Challenges",
+          "link": "https://aibusiness.com/agentic-ai/gemini-agent-platform-tackles-enterprise-deployment",
+          "date": "Tue, 21 Apr 2026 23:32:10 GMT"
+        },
+        {
           "title": "Chinese Volkswagens to Feature AI Agents That Give Cars \u2018Personality\u2019",
           "link": "https://aibusiness.com/agentic-ai/chinese-volkswagens-feature-ai-agents-give-cars-personality-",
           "date": "Tue, 21 Apr 2026 19:10:06 GMT"
@@ -127,16 +137,6 @@
           "title": "Neura Robotics, AWS Collaborate to Bring Physical AI to the Real World",
           "link": "https://aibusiness.com/generative-ai/neura-robotics-aws-collaborate-bring-physical-ai-real-world",
           "date": "Tue, 21 Apr 2026 15:50:47 GMT"
-        },
-        {
-          "title": "Anthropic Seals $100B Infrastructure Deal With Amazon",
-          "link": "https://aibusiness.com/generative-ai/anthropic-seals-100b-infrastructure-deal-amazon",
-          "date": "Tue, 21 Apr 2026 15:22:52 GMT"
-        },
-        {
-          "title": "AMD's Vision for AI PCs in the Age of Agentic AI",
-          "link": "https://aibusiness.com/generative-ai/amd-s-vision-for-ai-pcs-age-of-agentic-ai",
-          "date": "Tue, 21 Apr 2026 12:18:13 GMT"
         }
       ],
       "error": null
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "The role of AI in modern forex bot development",
-          "link": "https://www.artificialintelligence-news.com/news/the-role-of-ai-in-modern-forex-bot-development/",
-          "date": "Wed, 22 Apr 2026 07:34:01 +0000"
-        },
-        {
-          "title": "Snowflake expands its technical and mainstream AI platforms",
-          "link": "https://www.artificialintelligence-news.com/news/snowflake-expands-its-technical-and-mainstream-ai-platforms/",
-          "date": "Tue, 21 Apr 2026 14:29:00 +0000"
-        },
-        {
-          "title": "Siemens introduces AI system for automation engineering",
-          "link": "https://www.artificialintelligence-news.com/news/siemens-ai-automation-engineering-workflows/",
-          "date": "Tue, 21 Apr 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Bobyard 2.0 offers improved takeoffs and unified AI for estimators",
-          "link": "https://www.artificialintelligence-news.com/news/bobyard-2-0-offers-improved-takeoffs-and-unified-ai-for-estimators/",
-          "date": "Mon, 20 Apr 2026 13:15:51 +0000"
-        },
-        {
-          "title": "How to prepare for and remediate an AI system incident",
-          "link": "https://www.artificialintelligence-news.com/news/how-to-prepare-for-and-remediate-an-ai-system-incident/",
-          "date": "Mon, 20 Apr 2026 11:39:41 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +264,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Our favorite gear at Sea Otter Classic wasn't the bikes\u2014it was the accessories",
+          "link": "https://arstechnica.com/cars/2026/04/our-favorite-gear-at-sea-otter-classic-wasnt-the-bikes-it-was-the-accessories/",
+          "date": "Wed, 22 Apr 2026 11:15:49 +0000"
+        },
+        {
+          "title": "Investors lost billions on Trump\u2019s memecoin. Another gala won\u2019t fix that.",
+          "link": "https://arstechnica.com/tech-policy/2026/04/investors-lost-billions-on-trumps-memecoin-another-gala-wont-fix-that/",
+          "date": "Wed, 22 Apr 2026 11:00:02 +0000"
+        },
+        {
           "title": "Pentagon wants $54B for drones, more than most nations\u2019 military budgets",
           "link": "https://arstechnica.com/ai/2026/04/pentagon-wants-54b-for-drones-more-than-most-nations-military-budgets/",
           "date": "Tue, 21 Apr 2026 21:57:54 +0000"
@@ -303,16 +287,6 @@
           "title": "Supreme Court arguments make it clear that FCC fines are \"nonbinding\"",
           "link": "https://arstechnica.com/tech-policy/2026/04/supreme-court-arguments-make-it-clear-that-fcc-fines-are-nonbinding/",
           "date": "Tue, 21 Apr 2026 21:28:27 +0000"
-        },
-        {
-          "title": "Silo S3 teaser hints at the wasteland's origins",
-          "link": "https://arstechnica.com/culture/2026/04/silo-s3-teaser-turns-back-the-clock-to-a-greener-past/",
-          "date": "Tue, 21 Apr 2026 20:53:06 +0000"
-        },
-        {
-          "title": "Framework's CEO on the RAM crisis and creating a \"MacBook Pro for Linux users\"",
-          "link": "https://arstechnica.com/gadgets/2026/04/frameworks-ceo-on-the-ram-crisis-and-creating-a-macbook-pro-for-linux-users/",
-          "date": "Tue, 21 Apr 2026 20:22:20 +0000"
         }
       ],
       "error": null
@@ -365,6 +339,11 @@
           "date": "Wed, 22 Apr 2026 08:58:06 GMT"
         },
         {
+          "title": "\u2018In two years, nobody will care\u2019 if actors are AI or not, predicts La Haine director",
+          "link": "https://www.theguardian.com/film/2026/apr/22/actors-ai-la-haine-director-mathieu-kassovitz",
+          "date": "Wed, 22 Apr 2026 13:05:24 GMT"
+        },
+        {
           "title": "AI hallucinations found in high-profile Wall Street law firm filing",
           "link": "https://www.theguardian.com/technology/2026/apr/22/ai-hallucinations-found-in-high-profile-wall-street-law-firm-filing",
           "date": "Wed, 22 Apr 2026 08:09:34 GMT"
@@ -378,11 +357,6 @@
           "title": "SpaceX secures option to buy AI startup Cursor for $60bn or partner for $10bn",
           "link": "https://www.theguardian.com/technology/2026/apr/21/spacex-cursor-ai-startup",
           "date": "Wed, 22 Apr 2026 00:13:51 GMT"
-        },
-        {
-          "title": "Florida to open criminal investigation into OpenAI over ChatGPT\u2019s influence on alleged mass shooter",
-          "link": "https://www.theguardian.com/us-news/2026/apr/21/florida-openai-chatgpt-investigation",
-          "date": "Tue, 21 Apr 2026 21:28:34 GMT"
         }
       ],
       "error": null
