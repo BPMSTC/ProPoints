@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T09:17:40.828558+00:00",
+  "generatedAt": "2026-04-22T11:02:19.552215+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -145,7 +145,7 @@
       "name": "AIModels.fyi",
       "url": "https://aimodels.substack.com/feed",
       "items": [],
-      "error": "<unknown>:2:1240: not well-formed (invalid token)"
+      "error": "<unknown>:2:1328: not well-formed (invalid token)"
     },
     {
       "name": "AI News",
@@ -259,7 +259,7 @@
       "name": "AI Snake Oil",
       "url": "https://aisnakeoil.substack.com/feed",
       "items": [],
-      "error": "<unknown>:2:1240: not well-formed (invalid token)"
+      "error": "<unknown>:2:1328: not well-formed (invalid token)"
     },
     {
       "name": "AI \u2013 Uber Engineering Blog",
@@ -430,6 +430,16 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Join Our Livestream: Musk v. Altman and the Future of OpenAI",
+          "link": "https://www.wired.com/story/livestream-musk-v-altman-trial/",
+          "date": "Wed, 22 Apr 2026 10:00:00 +0000"
+        },
+        {
+          "title": "The Pope\u2019s Warnings About AI Were AI-Generated, a Detection Tool Claims",
+          "link": "https://www.wired.com/story/pope-tweets-ai-generated-pangram-chrome-extension/",
+          "date": "Wed, 22 Apr 2026 09:30:00 +0000"
+        },
+        {
           "title": "OpenAI Beefs Up ChatGPT\u2019s Image Generation Model",
           "link": "https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model/",
           "date": "Tue, 21 Apr 2026 19:00:00 +0000"
@@ -443,16 +453,6 @@
           "title": "Tim Cook\u2019s Legacy Is Turning Apple Into a Subscription",
           "link": "https://www.wired.com/story/apple-tim-cook-subscription-business/",
           "date": "Tue, 21 Apr 2026 17:35:12 +0000"
-        },
-        {
-          "title": "This Scammer Used an AI-Generated MAGA Girl to Grift \u2018Super Dumb\u2019 Men",
-          "link": "https://www.wired.com/story/ai-generated-maga-girls/",
-          "date": "Tue, 21 Apr 2026 11:00:00 +0000"
-        },
-        {
-          "title": "A Humanoid Robot Set a Half-Marathon Record in China",
-          "link": "https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/",
-          "date": "Mon, 20 Apr 2026 22:33:27 +0000"
         }
       ],
       "error": null
