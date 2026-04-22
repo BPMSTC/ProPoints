@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T13:21:21.249362+00:00",
+  "generatedAt": "2026-04-22T15:10:22.474132+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -145,13 +145,39 @@
       "name": "AIModels.fyi",
       "url": "https://aimodels.substack.com/feed",
       "items": [],
-      "error": "<unknown>:2:1328: not well-formed (invalid token)"
+      "error": "<unknown>:2:751: not well-formed (invalid token)"
     },
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "AI in law firms entering its closing summaries",
+          "link": "https://www.artificialintelligence-news.com/news/ai-in-law-firms-entering-its-closing-summaries/",
+          "date": "Wed, 22 Apr 2026 13:51:00 +0000"
+        },
+        {
+          "title": "The role of AI in modern forex bot development",
+          "link": "https://www.artificialintelligence-news.com/news/the-role-of-ai-in-modern-forex-bot-development/",
+          "date": "Wed, 22 Apr 2026 07:34:01 +0000"
+        },
+        {
+          "title": "Snowflake expands its technical and mainstream AI platforms",
+          "link": "https://www.artificialintelligence-news.com/news/snowflake-expands-its-technical-and-mainstream-ai-platforms/",
+          "date": "Tue, 21 Apr 2026 14:29:00 +0000"
+        },
+        {
+          "title": "Siemens introduces AI system for automation engineering",
+          "link": "https://www.artificialintelligence-news.com/news/siemens-ai-automation-engineering-workflows/",
+          "date": "Tue, 21 Apr 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Bobyard 2.0 offers improved takeoffs and unified AI for estimators",
+          "link": "https://www.artificialintelligence-news.com/news/bobyard-2-0-offers-improved-takeoffs-and-unified-ai-for-estimators/",
+          "date": "Mon, 20 Apr 2026 13:15:51 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -233,7 +259,7 @@
       "name": "AI Snake Oil",
       "url": "https://aisnakeoil.substack.com/feed",
       "items": [],
-      "error": "<unknown>:2:1328: not well-formed (invalid token)"
+      "error": "<unknown>:2:751: not well-formed (invalid token)"
     },
     {
       "name": "AI \u2013 Uber Engineering Blog",
@@ -264,6 +290,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Indian med student rakes in thousands with AI-generated MAGA hottie",
+          "link": "https://arstechnica.com/tech-policy/2026/04/indian-med-student-rakes-in-thousands-with-ai-generated-maga-hottie/",
+          "date": "Wed, 22 Apr 2026 14:13:01 +0000"
+        },
+        {
+          "title": "As EV batteries improve, ChargePoint debuts 600 kW fast charger",
+          "link": "https://arstechnica.com/cars/2026/04/as-ev-batteries-improve-chargepoint-debuts-600-kw-fast-charger/",
+          "date": "Wed, 22 Apr 2026 13:49:09 +0000"
+        },
+        {
           "title": "Our favorite gear at Sea Otter Classic wasn't the bikes\u2014it was the accessories",
           "link": "https://arstechnica.com/cars/2026/04/our-favorite-gear-at-sea-otter-classic-wasnt-the-bikes-it-was-the-accessories/",
           "date": "Wed, 22 Apr 2026 11:15:49 +0000"
@@ -277,16 +313,6 @@
           "title": "Pentagon wants $54B for drones, more than most nations\u2019 military budgets",
           "link": "https://arstechnica.com/ai/2026/04/pentagon-wants-54b-for-drones-more-than-most-nations-military-budgets/",
           "date": "Tue, 21 Apr 2026 21:57:54 +0000"
-        },
-        {
-          "title": "Mozilla: Anthropic's Mythos found 271 security vulnerabilities in Firefox 150",
-          "link": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/",
-          "date": "Tue, 21 Apr 2026 21:40:41 +0000"
-        },
-        {
-          "title": "Supreme Court arguments make it clear that FCC fines are \"nonbinding\"",
-          "link": "https://arstechnica.com/tech-policy/2026/04/supreme-court-arguments-make-it-clear-that-fcc-fines-are-nonbinding/",
-          "date": "Tue, 21 Apr 2026 21:28:27 +0000"
         }
       ],
       "error": null
@@ -301,6 +327,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Pamphlets, radio, and now Iran\u2019s AI-generated Lego videos: the new frontier of information warfare",
+          "link": "https://theconversation.com/pamphlets-radio-and-now-irans-ai-generated-lego-videos-the-new-frontier-of-information-warfare-280170",
+          "date": "2026-04-22T14:34:10Z"
+        },
         {
           "title": "\u2018No accountability, no checks and balances, no responsibility\u2019: how Indigenous peoples think about AI",
           "link": "https://theconversation.com/no-accountability-no-checks-and-balances-no-responsibility-how-indigenous-peoples-think-about-ai-280734",
@@ -320,11 +351,6 @@
           "title": "OpenAI gets set to go public: can we entrust the financial markets with ChatGPT and AI?",
           "link": "https://theconversation.com/openai-gets-set-to-go-public-can-we-entrust-the-financial-markets-with-chatgpt-and-ai-280943",
           "date": "2026-04-21T10:47:25Z"
-        },
-        {
-          "title": "Slanguage: Why AI\u2019s stylistic negation \u2014 \u2018it\u2019s not X, it\u2019s Y\u2019 \u2014 is both annoying and doesn\u2019t work",
-          "link": "https://theconversation.com/slanguage-why-ais-stylistic-negation-its-not-x-its-y-is-both-annoying-and-doesnt-work-278967",
-          "date": "2026-04-20T19:00:36Z"
         }
       ],
       "error": null
@@ -334,29 +360,29 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Anthropic investigates report of rogue access to hack-enabling Mythos AI",
-          "link": "https://www.theguardian.com/technology/2026/apr/22/anthropic-investigates-report-of-rogue-access-to-hack-enabling-mythos-ai",
-          "date": "Wed, 22 Apr 2026 08:58:06 GMT"
+          "title": "What is Mythos AI and why could it be a threat to global cybersecurity?",
+          "link": "https://www.theguardian.com/technology/2026/apr/22/what-is-anthropic-mythos-ai-threat-global-cybersecurity",
+          "date": "Wed, 22 Apr 2026 15:03:44 GMT"
+        },
+        {
+          "title": "AI-powered robot beats elite table tennis players",
+          "link": "https://www.theguardian.com/science/2026/apr/22/ai-powered-robot-beats-elite-table-tennis-players-milestone-robotics",
+          "date": "Wed, 22 Apr 2026 15:00:30 GMT"
+        },
+        {
+          "title": "Met police in talks to buy Palantir AI tech for use in criminal investigations",
+          "link": "https://www.theguardian.com/uk-news/2026/apr/22/met-police-talks-palantir-ai-tech-criminal-investigations-automate-intelligence",
+          "date": "Wed, 22 Apr 2026 14:00:26 GMT"
+        },
+        {
+          "title": "Emma the joke-telling robot cracks up the care home: Paula Hornickel\u2019s best photograph",
+          "link": "https://www.theguardian.com/artanddesign/2026/apr/22/emma-robot-care-home-paula-hornickel-best-photograph",
+          "date": "Wed, 22 Apr 2026 13:49:48 GMT"
         },
         {
           "title": "\u2018In two years, nobody will care\u2019 if actors are AI or not, predicts La Haine director",
           "link": "https://www.theguardian.com/film/2026/apr/22/actors-ai-la-haine-director-mathieu-kassovitz",
           "date": "Wed, 22 Apr 2026 13:05:24 GMT"
-        },
-        {
-          "title": "AI hallucinations found in high-profile Wall Street law firm filing",
-          "link": "https://www.theguardian.com/technology/2026/apr/22/ai-hallucinations-found-in-high-profile-wall-street-law-firm-filing",
-          "date": "Wed, 22 Apr 2026 08:09:34 GMT"
-        },
-        {
-          "title": "UK could face \u2018hacktivist attacks at scale\u2019, says head of security agency",
-          "link": "https://www.theguardian.com/technology/2026/apr/22/uk-hacktivist-attacks-at-scale-security-agency",
-          "date": "Wed, 22 Apr 2026 05:00:10 GMT"
-        },
-        {
-          "title": "SpaceX secures option to buy AI startup Cursor for $60bn or partner for $10bn",
-          "link": "https://www.theguardian.com/technology/2026/apr/21/spacex-cursor-ai-startup",
-          "date": "Wed, 22 Apr 2026 00:13:51 GMT"
         }
       ],
       "error": null
@@ -372,6 +398,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Florida Opens Criminal Probe Into ChatGPT\u2019s Role in School Shooting",
+          "link": "https://futurism.com/artificial-intelligence/florida-opens-criminal-probe-chatgpt-school-shooting",
+          "date": "Wed, 22 Apr 2026 10:58:30 -0400"
+        },
+        {
+          "title": "AI Chatbots Telling Cancer Patients to Try Useless Woo-Woo Treatments Instead of Chemotherapy",
+          "link": "https://futurism.com/artificial-intelligence/ai-chatbots-cancer-alternative-cures",
+          "date": "Wed, 22 Apr 2026 10:07:58 -0400"
+        },
+        {
           "title": "Meta Installing Software on Employee Computers to Track Everything They Do, Feed the Data to AI",
           "link": "https://futurism.com/artificial-intelligence/meta-track-everything-workers-type-click-train-ai",
           "date": "Tue, 21 Apr 2026 20:41:07 -0400"
@@ -385,16 +421,6 @@
           "title": "Concern Grows That AI Is Damaging Users\u2019 Cognitive Abilities",
           "link": "https://futurism.com/artificial-intelligence/concern-grows-ai-damaging-think",
           "date": "Tue, 21 Apr 2026 13:02:56 -0400"
-        },
-        {
-          "title": "JPMorganChase Data Center Gets $77 Million Handout to Create Grand Total of One Job",
-          "link": "https://futurism.com/artificial-intelligence/orangeburg-data-center-tax-subsidy",
-          "date": "Tue, 21 Apr 2026 08:51:09 -0400"
-        },
-        {
-          "title": "Nvidia CEO Loses His Cool at Tough Question",
-          "link": "https://futurism.com/artificial-intelligence/nvidia-ceo-podcast-china",
-          "date": "Mon, 20 Apr 2026 16:24:49 -0400"
         }
       ],
       "error": null
