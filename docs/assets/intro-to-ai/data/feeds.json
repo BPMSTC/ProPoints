@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T19:25:40.883271+00:00",
+  "generatedAt": "2026-04-22T20:52:32.586054+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "Reversing enterprise security costs with AI vulnerability discovery",
-          "link": "https://www.artificialintelligence-news.com/news/reversing-enterprise-security-costs-with-ai-vulnerability-discovery/",
-          "date": "Wed, 22 Apr 2026 15:45:14 +0000"
-        },
-        {
-          "title": "AI in law firms entering its closing summaries",
-          "link": "https://www.artificialintelligence-news.com/news/ai-in-law-firms-entering-its-closing-summaries/",
-          "date": "Wed, 22 Apr 2026 13:51:00 +0000"
-        },
-        {
-          "title": "The role of AI in modern forex bot development",
-          "link": "https://www.artificialintelligence-news.com/news/the-role-of-ai-in-modern-forex-bot-development/",
-          "date": "Wed, 22 Apr 2026 07:34:01 +0000"
-        },
-        {
-          "title": "Snowflake expands its technical and mainstream AI platforms",
-          "link": "https://www.artificialintelligence-news.com/news/snowflake-expands-its-technical-and-mainstream-ai-platforms/",
-          "date": "Tue, 21 Apr 2026 14:29:00 +0000"
-        },
-        {
-          "title": "Siemens introduces AI system for automation engineering",
-          "link": "https://www.artificialintelligence-news.com/news/siemens-ai-automation-engineering-workflows/",
-          "date": "Tue, 21 Apr 2026 10:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,29 +264,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "You want your Moon landings in HDTV? So does NASA\u2014here's how it's happening.",
+          "link": "https://arstechnica.com/space/2026/04/you-want-your-moon-landings-in-hdtv-so-does-nasa-heres-how-its-happening/",
+          "date": "Wed, 22 Apr 2026 19:42:13 +0000"
+        },
+        {
+          "title": "Microsoft issues emergency update for macOS and Linux ASP.NET threat",
+          "link": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/",
+          "date": "Wed, 22 Apr 2026 19:32:56 +0000"
+        },
+        {
+          "title": "Anthropic tested removing Claude Code from the Pro plan",
+          "link": "https://arstechnica.com/ai/2026/04/anthropic-tested-removing-claude-code-from-the-pro-plan/",
+          "date": "Wed, 22 Apr 2026 18:34:16 +0000"
+        },
+        {
+          "title": "Coyote vs. Acme is finally getting released\u2014with a killer trailer",
+          "link": "https://arstechnica.com/culture/2026/04/coyote-vs-acme-is-finally-getting-released-with-a-killer-trailer/",
+          "date": "Wed, 22 Apr 2026 17:55:09 +0000"
+        },
+        {
           "title": "Google unveils two new TPUs designed for the \"agentic era\"",
           "link": "https://arstechnica.com/ai/2026/04/google-unveils-two-new-tpus-designed-for-the-agentic-era/",
           "date": "Wed, 22 Apr 2026 17:10:32 +0000"
-        },
-        {
-          "title": "Tabloid reports linking 10 missing and dead scientists spur FBI probe",
-          "link": "https://arstechnica.com/tech-policy/2026/04/tabloid-reports-linking-10-missing-and-dead-scientists-spur-fbi-probe/",
-          "date": "Wed, 22 Apr 2026 16:46:31 +0000"
-        },
-        {
-          "title": "Physicists think they've solved the muon mystery",
-          "link": "https://arstechnica.com/science/2026/04/physicists-think-theyve-solved-the-muon-mystery/",
-          "date": "Wed, 22 Apr 2026 15:40:02 +0000"
-        },
-        {
-          "title": "New court ruling blocks many of the government's anti-renewable policies",
-          "link": "https://arstechnica.com/tech-policy/2026/04/new-court-ruling-blocks-many-of-the-governments-anti-renewable-policies/",
-          "date": "Wed, 22 Apr 2026 15:09:28 +0000"
-        },
-        {
-          "title": "Indian med student rakes in thousands with AI-generated MAGA hottie",
-          "link": "https://arstechnica.com/tech-policy/2026/04/indian-med-student-rakes-in-thousands-with-ai-generated-maga-hottie/",
-          "date": "Wed, 22 Apr 2026 14:13:01 +0000"
         }
       ],
       "error": null
@@ -398,6 +372,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Rogue Group Gains Access to Anthropic\u2019s Dangerous New Mythos AI",
+          "link": "https://futurism.com/artificial-intelligence/rogue-group-gains-access-anthropic-ai",
+          "date": "Wed, 22 Apr 2026 16:27:39 -0400"
+        },
+        {
           "title": "Leak Shows ICE Planning to Use Facial Recognition Glasses to Identify Targets in Real Time",
           "link": "https://futurism.com/artificial-intelligence/ice-facial-surveillance-glasses",
           "date": "Wed, 22 Apr 2026 15:19:32 -0400"
@@ -416,11 +395,6 @@
           "title": "Nvidia CEO Says AI Will Be a Permanent Micromanaging Boss Who Never Stops Nagging You",
           "link": "https://futurism.com/artificial-intelligence/nvidia-ceo-ai-micromanaging-boss",
           "date": "Wed, 22 Apr 2026 12:13:29 -0400"
-        },
-        {
-          "title": "Florida Opens Criminal Probe Into ChatGPT\u2019s Role in School Shooting",
-          "link": "https://futurism.com/artificial-intelligence/florida-opens-criminal-probe-chatgpt-school-shooting",
-          "date": "Wed, 22 Apr 2026 10:58:30 -0400"
         }
       ],
       "error": null
