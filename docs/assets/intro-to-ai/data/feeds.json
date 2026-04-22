@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T05:23:11.773875+00:00",
+  "generatedAt": "2026-04-22T07:28:36.398507+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Snowflake expands its technical and mainstream AI platforms",
+          "link": "https://www.artificialintelligence-news.com/news/snowflake-expands-its-technical-and-mainstream-ai-platforms/",
+          "date": "Tue, 21 Apr 2026 14:29:00 +0000"
+        },
+        {
+          "title": "Siemens introduces AI system for automation engineering",
+          "link": "https://www.artificialintelligence-news.com/news/siemens-ai-automation-engineering-workflows/",
+          "date": "Tue, 21 Apr 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Bobyard 2.0 offers improved takeoffs and unified AI for estimators",
+          "link": "https://www.artificialintelligence-news.com/news/bobyard-2-0-offers-improved-takeoffs-and-unified-ai-for-estimators/",
+          "date": "Mon, 20 Apr 2026 13:15:51 +0000"
+        },
+        {
+          "title": "How to prepare for and remediate an AI system incident",
+          "link": "https://www.artificialintelligence-news.com/news/how-to-prepare-for-and-remediate-an-ai-system-incident/",
+          "date": "Mon, 20 Apr 2026 11:39:41 +0000"
+        },
+        {
+          "title": "Anthropic walks into the White House and Mythos is the reason Washington let it in",
+          "link": "https://www.artificialintelligence-news.com/news/anthropic-mythos-ai-cybersecurity-white-house/",
+          "date": "Mon, 20 Apr 2026 08:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -233,7 +259,7 @@
       "name": "AI Snake Oil",
       "url": "https://aisnakeoil.substack.com/feed",
       "items": [],
-      "error": "<unknown>:2:1240: not well-formed (invalid token)"
+      "error": "<unknown>:2:1328: not well-formed (invalid token)"
     },
     {
       "name": "AI \u2013 Uber Engineering Blog",
