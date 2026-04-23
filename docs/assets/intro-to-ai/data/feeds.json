@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T22:40:47.601534+00:00",
+  "generatedAt": "2026-04-23T23:42:04.041816+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "The billion-dollar startup with a different idea for AI",
-          "link": "https://www.artificialintelligence-news.com/news/the-billion-dollar-startup-with-a-different-idea-for-ai-ami-labs-yann-lecun/",
-          "date": "Thu, 23 Apr 2026 12:30:00 +0000"
-        },
-        {
-          "title": "NVIDIA and Google infrastructure cuts AI inference costs",
-          "link": "https://www.artificialintelligence-news.com/news/nvidia-and-google-infrastructure-cuts-ai-inference-costs/",
-          "date": "Thu, 23 Apr 2026 12:19:36 +0000"
-        },
-        {
-          "title": "Sony AI robot beats players as humanoid robot wins Beijing race",
-          "link": "https://www.artificialintelligence-news.com/news/sony-ai-robot-table-tennis-humanoid-robot-beijing-race/",
-          "date": "Thu, 23 Apr 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Reversing enterprise security costs with AI vulnerability discovery",
-          "link": "https://www.artificialintelligence-news.com/news/reversing-enterprise-security-costs-with-ai-vulnerability-discovery/",
-          "date": "Wed, 22 Apr 2026 15:45:14 +0000"
-        },
-        {
-          "title": "AI in law firms entering its closing summaries",
-          "link": "https://www.artificialintelligence-news.com/news/ai-in-law-firms-entering-its-closing-summaries/",
-          "date": "Wed, 22 Apr 2026 13:51:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +264,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Visitors to this private space station won't be wearing shorts and T-shirts",
+          "link": "https://arstechnica.com/space/2026/04/vast-reveals-flight-suit-tests-timepiece-for-commercial-space-station/",
+          "date": "Thu, 23 Apr 2026 22:14:16 +0000"
+        },
+        {
           "title": "US accuses China of \u201cindustrial-scale\u201d AI theft. China says it\u2019s \u201cslander.\u201d",
           "link": "https://arstechnica.com/tech-policy/2026/04/us-accuses-china-of-industrial-scale-ai-theft-china-says-its-slander/",
           "date": "Thu, 23 Apr 2026 21:45:10 +0000"
@@ -308,11 +287,6 @@
           "title": "In a first, a ransomware family is confirmed to be quantum-safe",
           "link": "https://arstechnica.com/security/2026/04/now-even-ransomware-is-using-post-quantum-cryptography/",
           "date": "Thu, 23 Apr 2026 20:41:23 +0000"
-        },
-        {
-          "title": "RFK Jr.\u2019s rejection of germ theory debunked in Senate hearing",
-          "link": "https://arstechnica.com/health/2026/04/rfk-jr-s-rejection-of-germ-theory-debunked-in-senate-hearing/",
-          "date": "Thu, 23 Apr 2026 18:05:53 +0000"
         }
       ],
       "error": null
@@ -360,9 +334,9 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Microsoft and Meta announce sweeping layoffs as they spend big on AI",
+          "title": "Microsoft and Meta announce large staff reductions as they spend big on AI",
           "link": "https://www.theguardian.com/technology/2026/apr/23/meta-microsoft-tech-ai-layoffs",
-          "date": "Thu, 23 Apr 2026 21:23:38 GMT"
+          "date": "Thu, 23 Apr 2026 22:51:49 GMT"
         },
         {
           "title": "The Guardian view on Anthropic\u2019s Claude Mythos: when AI finds every flaw, who controls the internet? | Editorial",
@@ -398,6 +372,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Trump\u2019s Huge AI Data Center Project Is Falling Apart Behind the Scenes",
+          "link": "https://futurism.com/artificial-intelligence/trump-data-center-fermi",
+          "date": "Thu, 23 Apr 2026 19:41:05 -0400"
+        },
+        {
           "title": "ChatGPT\u2019s Tool for Ordering Starbucks Is So Staggeringly Bad That It\u2019s Breaking Containment",
           "link": "https://futurism.com/artificial-intelligence/chatgpt-starbucks-breaks-containment",
           "date": "Thu, 23 Apr 2026 11:02:30 -0400"
@@ -416,11 +395,6 @@
           "title": "Leak Shows ICE Planning to Use Facial Recognition Glasses to Identify Targets in Real Time",
           "link": "https://futurism.com/artificial-intelligence/ice-facial-surveillance-glasses",
           "date": "Wed, 22 Apr 2026 15:19:32 -0400"
-        },
-        {
-          "title": "SpaceX Admits AI Data Centers in Space May Be a Really Terrible Idea",
-          "link": "https://futurism.com/space/spacex-admits-ai-data-centers-terrible-idea",
-          "date": "Wed, 22 Apr 2026 14:13:50 -0400"
         }
       ],
       "error": null
