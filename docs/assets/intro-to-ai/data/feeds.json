@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-04-23T19:04:18.809840+00:00",
+  "generatedAt": "2026-04-23T20:49:27.679974+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Community Votes to Deny Water to Nuclear Weapons Data Center",
+          "link": "https://www.404media.co/community-votes-to-deny-water-to-nuclear-weapons-data-center/",
+          "date": "Thu, 23 Apr 2026 20:30:30 GMT"
+        },
         {
           "title": "Researchers Simulated a Delusional User to Test Chatbot Safety",
           "link": "https://www.404media.co/delusion-using-chatgpt-gemini-claude-grok-safety-ai-psychosis-study/",
@@ -24,11 +29,6 @@
           "title": "Podcast: How Algorithms Make Us Feel Bad and Weird",
           "link": "https://www.404media.co/podcast-how-algorithms-make-us-feel-bad-and-weird/",
           "date": "Wed, 22 Apr 2026 12:57:16 GMT"
-        },
-        {
-          "title": "EMERGENCY BREAKING NEWS PODCAST: Tim, Cooked",
-          "link": "https://www.404media.co/emergency-breaking-news-podcast-tim-cooked/",
-          "date": "Tue, 21 Apr 2026 21:06:13 GMT"
         }
       ],
       "error": null
@@ -290,7 +290,12 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Apple's M4 Mac mini, including the $599 one, is gradually becoming impossible to buy",
+          "title": "RFK Jr.\u2019s rejection of germ theory debunked in Senate hearing",
+          "link": "https://arstechnica.com/health/2026/04/rfk-jr-s-rejection-of-germ-theory-debunked-in-senate-hearing/",
+          "date": "Thu, 23 Apr 2026 18:05:53 +0000"
+        },
+        {
+          "title": "Why are the Mac mini and Mac Studio gradually becoming impossible to buy?",
           "link": "https://arstechnica.com/gadgets/2026/04/apples-m4-mac-mini-including-the-599-one-is-gradually-becoming-impossible-to-buy/",
           "date": "Thu, 23 Apr 2026 17:06:08 +0000"
         },
@@ -308,11 +313,6 @@
           "title": "Eight months early and under budget, the Roman Telescope is ready to launch",
           "link": "https://arstechnica.com/science/2026/04/eight-months-early-and-under-budget-the-roman-telescope-is-ready-to-launch/",
           "date": "Thu, 23 Apr 2026 16:27:07 +0000"
-        },
-        {
-          "title": "BMW bumps the 7 Series for 2027, adds all-new battery",
-          "link": "https://arstechnica.com/cars/2026/04/bmw-bumps-the-7-series-for-2027-adds-all-new-battery/",
-          "date": "Thu, 23 Apr 2026 15:01:11 +0000"
         }
       ],
       "error": null
@@ -327,6 +327,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Why the world\u2019s banks are so worried about Anthropic\u2019s latest AI model",
+          "link": "https://theconversation.com/why-the-worlds-banks-are-so-worried-about-anthropics-latest-ai-model-281218",
+          "date": "2026-04-23T20:09:54Z"
+        },
         {
           "title": "AI has crossed a threshold \u2013 what Claude Mythos means for the future of cybersecurity",
           "link": "https://theconversation.com/ai-has-crossed-a-threshold-what-claude-mythos-means-for-the-future-of-cybersecurity-281308",
@@ -346,11 +351,6 @@
           "title": "\u2018No accountability, no checks and balances, no responsibility\u2019: how Indigenous peoples think about AI",
           "link": "https://theconversation.com/no-accountability-no-checks-and-balances-no-responsibility-how-indigenous-peoples-think-about-ai-280734",
           "date": "2026-04-22T04:01:34Z"
-        },
-        {
-          "title": "US government ramps up mass surveillance with help of AI tech, data brokers \u2013 and your apps and devices",
-          "link": "https://theconversation.com/us-government-ramps-up-mass-surveillance-with-help-of-ai-tech-data-brokers-and-your-apps-and-devices-277440",
-          "date": "2026-04-21T12:20:21Z"
         }
       ],
       "error": null
@@ -430,6 +430,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Apple\u2019s Next Chapter, SpaceX and Cursor Strike a Deal, and Palantir\u2019s Controversial Manifesto",
+          "link": "https://www.wired.com/story/uncanny-valley-podcast-apple-next-chapter-spacex-cursor-deal-palantir-manifesto/",
+          "date": "Thu, 23 Apr 2026 19:26:11 +0000"
+        },
+        {
           "title": "At 'AI Coachella,' Stanford Students Line Up to Learn From Silicon Valley Royalty",
           "link": "https://www.wired.com/story/stanford-cs-class-ai-coachella-ben-horowitz/",
           "date": "Thu, 23 Apr 2026 18:24:37 +0000"
@@ -448,11 +453,6 @@
           "title": "AI Tools Are Helping Mediocre North Korean Hackers Steal Millions",
           "link": "https://www.wired.com/story/ai-tools-are-helping-mediocre-north-korean-hackers-steal-millions/",
           "date": "Wed, 22 Apr 2026 16:00:00 +0000"
-        },
-        {
-          "title": "Join Our Livestream: Musk v. Altman and the Future of OpenAI",
-          "link": "https://www.wired.com/story/livestream-musk-v-altman-trial/",
-          "date": "Wed, 22 Apr 2026 10:00:00 +0000"
         }
       ],
       "error": null
