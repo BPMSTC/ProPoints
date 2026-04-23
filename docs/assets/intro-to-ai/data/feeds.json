@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-04-23T13:22:33.608877+00:00",
+  "generatedAt": "2026-04-23T15:50:16.008280+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Researchers Simulated a Delusional User to Test Chatbot Safety",
+          "link": "https://www.404media.co/delusion-using-chatgpt-gemini-claude-grok-safety-ai-psychosis-study/",
+          "date": "Thu, 23 Apr 2026 13:52:19 GMT"
+        },
         {
           "title": "Trump Wants to Double Production of New Nuclear Weapon Cores",
           "link": "https://www.404media.co/trump-2027-budget-nuclear-weapons/",
@@ -24,11 +29,6 @@
           "title": "EMERGENCY BREAKING NEWS PODCAST: Tim, Cooked",
           "link": "https://www.404media.co/emergency-breaking-news-podcast-tim-cooked/",
           "date": "Tue, 21 Apr 2026 21:06:13 GMT"
-        },
-        {
-          "title": "This AI Tool Rips Off Open Source Software Without Violating Copyright",
-          "link": "https://www.404media.co/this-ai-tool-rips-off-open-source-software-without-violating-copyright/",
-          "date": "Tue, 21 Apr 2026 13:00:44 GMT"
         }
       ],
       "error": null
@@ -145,12 +145,17 @@
       "name": "AIModels.fyi",
       "url": "https://aimodels.substack.com/feed",
       "items": [],
-      "error": "<unknown>:2:751: not well-formed (invalid token)"
+      "error": "<unknown>:2:1240: not well-formed (invalid token)"
     },
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [
+        {
+          "title": "The billion-dollar startup with a different idea for AI",
+          "link": "https://www.artificialintelligence-news.com/news/the-billion-dollar-startup-with-a-different-idea-for-ai-ami-labs-yann-lecun/",
+          "date": "Thu, 23 Apr 2026 12:30:00 +0000"
+        },
         {
           "title": "NVIDIA and Google infrastructure cuts AI inference costs",
           "link": "https://www.artificialintelligence-news.com/news/nvidia-and-google-infrastructure-cuts-ai-inference-costs/",
@@ -170,11 +175,6 @@
           "title": "AI in law firms entering its closing summaries",
           "link": "https://www.artificialintelligence-news.com/news/ai-in-law-firms-entering-its-closing-summaries/",
           "date": "Wed, 22 Apr 2026 13:51:00 +0000"
-        },
-        {
-          "title": "The role of AI in modern forex bot development",
-          "link": "https://www.artificialintelligence-news.com/news/the-role-of-ai-in-modern-forex-bot-development/",
-          "date": "Wed, 22 Apr 2026 07:34:01 +0000"
         }
       ],
       "error": null
@@ -190,6 +190,16 @@
       "url": "https://ainowinstitute.org/category/news/feed",
       "items": [
         {
+          "title": "Nurses Sound Alarm as \u2018Uber for Nursing\u2019 Apps Push to Deregulate Healthcare",
+          "link": "https://ainowinstitute.org/news/press/nurses-sound-alarm-as-uber-for-nursing-apps-push-to-deregulate-healthcare",
+          "date": "Thu, 23 Apr 2026 14:09:30 +0000"
+        },
+        {
+          "title": "\u2018Uber for nurses\u2019: gig-work apps lobby to deregulate healthcare, report finds",
+          "link": "https://ainowinstitute.org/news/press/uber-for-nurses-gig-work-apps-lobby-to-deregulate-healthcare-report-finds",
+          "date": "Tue, 21 Apr 2026 14:09:55 +0000"
+        },
+        {
           "title": "\u2018Safety first\u2019 puts Anthropic ahead in game of AI spin",
           "link": "https://ainowinstitute.org/news/press/safety-first-puts-anthropic-ahead-in-game-of-ai-spin",
           "date": "Sun, 12 Apr 2026 20:09:53 +0000"
@@ -203,16 +213,6 @@
           "title": "AI Giants Go on Charm Offensive to Avert Public Backlash",
           "link": "https://ainowinstitute.org/news/press/ai-giants-go-on-charm-offensive-to-avert-public-backlash",
           "date": "Tue, 07 Apr 2026 20:04:34 +0000"
-        },
-        {
-          "title": "U.S. military is using AI to help plan Iran air attacks, sources say, as lawmakers call for oversight",
-          "link": "https://ainowinstitute.org/news/u-s-military-is-using-ai-to-help-plan-iran-air-attacks-sources-say-as-lawmakers-call-for-oversight",
-          "date": "Wed, 11 Mar 2026 01:39:49 +0000"
-        },
-        {
-          "title": "The one question everyone should be asking after OpenAI\u2019s deal with the Pentagon",
-          "link": "https://ainowinstitute.org/news/12263",
-          "date": "Fri, 06 Mar 2026 01:39:28 +0000"
         }
       ],
       "error": null
@@ -290,6 +290,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "BMW bumps the 7 Series for 2027, adds all-new battery",
+          "link": "https://arstechnica.com/cars/2026/04/bmw-bumps-the-7-series-for-2027-adds-all-new-battery/",
+          "date": "Thu, 23 Apr 2026 15:01:11 +0000"
+        },
+        {
+          "title": "Greenhouse gases from data center boom could outpace entire nations",
+          "link": "https://arstechnica.com/ai/2026/04/greenhouse-gases-from-data-center-boom-could-outpace-entire-nations/",
+          "date": "Thu, 23 Apr 2026 14:51:16 +0000"
+        },
+        {
           "title": "Crypto scam lures ships into Strait of Hormuz, falsely promising safe passage",
           "link": "https://arstechnica.com/security/2026/04/crypto-scam-lures-ships-into-strait-of-hormuz-falsely-promising-safe-passage/",
           "date": "Wed, 22 Apr 2026 22:07:54 +0000"
@@ -303,16 +313,6 @@
           "title": "Our newsroom AI policy",
           "link": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
           "date": "Wed, 22 Apr 2026 20:40:59 +0000"
-        },
-        {
-          "title": "Lawsuit: Nintendo is getting tariff refunds\u2014its customers should get them instead",
-          "link": "https://arstechnica.com/tech-policy/2026/04/lawsuit-nintendo-is-getting-tariff-refunds-its-customers-should-get-them-instead/",
-          "date": "Wed, 22 Apr 2026 20:27:24 +0000"
-        },
-        {
-          "title": "RFK Jr. won't back CDC director on vaccines as agency scraps positive data",
-          "link": "https://arstechnica.com/health/2026/04/rfk-jr-doubles-down-on-vaccine-meddling-as-cdc-junks-scientific-study/",
-          "date": "Wed, 22 Apr 2026 20:06:49 +0000"
         }
       ],
       "error": null
@@ -360,11 +360,6 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "What is Mythos AI and why could it be a threat to global cybersecurity?",
-          "link": "https://www.theguardian.com/technology/2026/apr/22/what-is-anthropic-mythos-ai-threat-global-cybersecurity",
-          "date": "Wed, 22 Apr 2026 15:03:44 GMT"
-        },
-        {
           "title": "To be human is to live with friction. That\u2019s something AI boosters will never understand | Alexander Hurst",
           "link": "https://www.theguardian.com/commentisfree/2026/apr/23/humanity-friction-artificial-intelligence-capitalism-black-mirror",
           "date": "Thu, 23 Apr 2026 04:00:46 GMT"
@@ -378,6 +373,11 @@
           "title": "Pentagon asks for $54bn in pivot towards AI-powered war",
           "link": "https://www.theguardian.com/us-news/2026/apr/22/pentagon-asks-for-54bn-in-pivot-towards-ai-powered-war",
           "date": "Wed, 22 Apr 2026 17:24:02 GMT"
+        },
+        {
+          "title": "What is Mythos AI and why could it be a threat to global cybersecurity?",
+          "link": "https://www.theguardian.com/technology/2026/apr/22/what-is-anthropic-mythos-ai-threat-global-cybersecurity",
+          "date": "Wed, 22 Apr 2026 15:03:44 GMT"
         },
         {
           "title": "AI-powered robot beats elite table tennis players",
@@ -398,6 +398,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "ChatGPT\u2019s Tool for Ordering Starbucks Is So Staggeringly Bad That It\u2019s Breaking Containment",
+          "link": "https://futurism.com/artificial-intelligence/chatgpt-starbucks-breaks-containment",
+          "date": "Thu, 23 Apr 2026 11:02:30 -0400"
+        },
+        {
+          "title": "Certain Chatbots Vastly Worse For AI Psychosis, Study Finds",
+          "link": "https://futurism.com/artificial-intelligence/certain-chatbots-worse-ai-psychosis-study",
+          "date": "Thu, 23 Apr 2026 10:03:06 -0400"
+        },
+        {
           "title": "Rogue Group Gains Access to Anthropic\u2019s Dangerous New Mythos AI",
           "link": "https://futurism.com/artificial-intelligence/rogue-group-gains-access-anthropic-ai",
           "date": "Wed, 22 Apr 2026 16:27:39 -0400"
@@ -411,16 +421,6 @@
           "title": "SpaceX Admits AI Data Centers in Space May Be a Really Terrible Idea",
           "link": "https://futurism.com/space/spacex-admits-ai-data-centers-terrible-idea",
           "date": "Wed, 22 Apr 2026 14:13:50 -0400"
-        },
-        {
-          "title": "Today Is the Day Anthropic Promised That Fully Autonomous Employees Would Be Tearing Through the Business World",
-          "link": "https://futurism.com/artificial-intelligence/anthropic-ai-agents-prediction",
-          "date": "Wed, 22 Apr 2026 13:03:20 -0400"
-        },
-        {
-          "title": "Nvidia CEO Says AI Will Be a Permanent Micromanaging Boss Who Never Stops Nagging You",
-          "link": "https://futurism.com/artificial-intelligence/nvidia-ceo-ai-micromanaging-boss",
-          "date": "Wed, 22 Apr 2026 12:13:29 -0400"
         }
       ],
       "error": null
