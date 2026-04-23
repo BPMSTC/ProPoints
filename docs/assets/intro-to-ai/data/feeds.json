@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T15:50:16.008280+00:00",
+  "generatedAt": "2026-04-23T17:17:14.321993+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Microsoft to Spend $18B on AI Infrastructure in Australia",
+          "link": "https://aibusiness.com/generative-ai/microsoft-spend-18b-ai-infrastructure-australia",
+          "date": "Thu, 23 Apr 2026 16:31:00 GMT"
+        },
+        {
           "title": "Accenture Showcases Humanoid Robot Warehouse Pilot",
           "link": "https://aibusiness.com/robotics/accenture-showcases-humanoid-robot-warehouse-pilot",
           "date": "Wed, 22 Apr 2026 18:08:52 GMT"
@@ -132,11 +137,6 @@
           "title": "Gemini Agent Platform Tackles Enterprise Deployment Challenges",
           "link": "https://aibusiness.com/agentic-ai/gemini-agent-platform-tackles-enterprise-deployment",
           "date": "Tue, 21 Apr 2026 23:32:10 GMT"
-        },
-        {
-          "title": "Chinese Volkswagens to Feature AI Agents That Give Cars \u2018Personality\u2019",
-          "link": "https://aibusiness.com/agentic-ai/chinese-volkswagens-feature-ai-agents-give-cars-personality-",
-          "date": "Tue, 21 Apr 2026 19:10:06 GMT"
         }
       ],
       "error": null
@@ -145,7 +145,7 @@
       "name": "AIModels.fyi",
       "url": "https://aimodels.substack.com/feed",
       "items": [],
-      "error": "<unknown>:2:1240: not well-formed (invalid token)"
+      "error": "<unknown>:2:1326: not well-formed (invalid token)"
     },
     {
       "name": "AI News",
@@ -259,7 +259,7 @@
       "name": "AI Snake Oil",
       "url": "https://aisnakeoil.substack.com/feed",
       "items": [],
-      "error": "<unknown>:2:751: not well-formed (invalid token)"
+      "error": "<unknown>:2:1326: not well-formed (invalid token)"
     },
     {
       "name": "AI \u2013 Uber Engineering Blog",
@@ -328,6 +328,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "AI has crossed a threshold \u2013 what Claude Mythos means for the future of cybersecurity",
+          "link": "https://theconversation.com/ai-has-crossed-a-threshold-what-claude-mythos-means-for-the-future-of-cybersecurity-281308",
+          "date": "2026-04-23T16:03:27Z"
+        },
+        {
           "title": "What we lose when artificial intelligence does our shopping",
           "link": "https://theconversation.com/what-we-lose-when-artificial-intelligence-does-our-shopping-280251",
           "date": "2026-04-23T12:22:43Z"
@@ -346,11 +351,6 @@
           "title": "US government ramps up mass surveillance with help of AI tech, data brokers \u2013 and your apps and devices",
           "link": "https://theconversation.com/us-government-ramps-up-mass-surveillance-with-help-of-ai-tech-data-brokers-and-your-apps-and-devices-277440",
           "date": "2026-04-21T12:20:21Z"
-        },
-        {
-          "title": "Politics with Michelle Grattan: former minister Ed Husic on why Labor must \u2018stare down\u2019 gas companies over tax",
-          "link": "https://theconversation.com/politics-with-michelle-grattan-former-minister-ed-husic-on-why-labor-must-stare-down-gas-companies-over-tax-281124",
-          "date": "2026-04-21T10:59:14Z"
         }
       ],
       "error": null
