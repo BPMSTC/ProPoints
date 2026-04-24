@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T15:05:40.932486+00:00",
+  "generatedAt": "2026-04-24T16:52:58.338645+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "The AI Race Is Becoming an Infrastructure Contest",
+          "link": "https://aibusiness.com/generative-ai/the-ai-race-becoming-infrastructure-contest",
+          "date": "Fri, 24 Apr 2026 15:09:37 GMT"
+        },
+        {
           "title": "AWS Bets on Frontier Agents as the Next Era of Enterprise AI",
           "link": "https://aibusiness.com/agentic-ai/aws-bets-frontier-agents-as-next-era-enterprise-ai",
           "date": "Thu, 23 Apr 2026 18:05:07 GMT"
@@ -132,11 +137,6 @@
           "title": "SpaceX Agrees to Potential $60B Deal to Acquire Cursor",
           "link": "https://aibusiness.com/generative-ai/spacex-agrees-potential-60b-deal-acquire-cursor",
           "date": "Wed, 22 Apr 2026 17:37:38 GMT"
-        },
-        {
-          "title": "ChatGPT Images Tool Upgraded With \u2018Thinking\u2019 Capability",
-          "link": "https://aibusiness.com/generative-ai/chatgpt-images-tool-upgraded-with-thinking-capability",
-          "date": "Wed, 22 Apr 2026 12:44:04 GMT"
         }
       ],
       "error": null
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "How AI models use real-time cryptocurrency data to interpret market behaviour",
-          "link": "https://www.artificialintelligence-news.com/news/how-ai-models-use-real-time-cryptocurrency-data-to-interpret-market-behaviour/",
-          "date": "Fri, 24 Apr 2026 07:47:32 +0000"
-        },
-        {
-          "title": "The billion-dollar startup with a different idea for AI",
-          "link": "https://www.artificialintelligence-news.com/news/the-billion-dollar-startup-with-a-different-idea-for-ai-ami-labs-yann-lecun/",
-          "date": "Thu, 23 Apr 2026 12:30:00 +0000"
-        },
-        {
-          "title": "NVIDIA and Google infrastructure cuts AI inference costs",
-          "link": "https://www.artificialintelligence-news.com/news/nvidia-and-google-infrastructure-cuts-ai-inference-costs/",
-          "date": "Thu, 23 Apr 2026 12:19:36 +0000"
-        },
-        {
-          "title": "Sony AI robot beats players as humanoid robot wins Beijing race",
-          "link": "https://www.artificialintelligence-news.com/news/sony-ai-robot-table-tennis-humanoid-robot-beijing-race/",
-          "date": "Thu, 23 Apr 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Reversing enterprise security costs with AI vulnerability discovery",
-          "link": "https://www.artificialintelligence-news.com/news/reversing-enterprise-security-costs-with-ai-vulnerability-discovery/",
-          "date": "Wed, 22 Apr 2026 15:45:14 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +264,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Man faces 5 years in prison for using AI to fake sighting of runaway wolf",
+          "link": "https://arstechnica.com/tech-policy/2026/04/after-wolf-escaped-zoo-man-arrested-for-creating-fake-ai-sighting-for-fun/",
+          "date": "Fri, 24 Apr 2026 15:05:23 +0000"
+        },
+        {
           "title": "Well, this is embarrassing: The Lunar Gateway's primary modules are corroded",
           "link": "https://arstechnica.com/space/2026/04/well-this-is-embarrassing-the-lunar-gateways-primary-modules-are-corroded/",
           "date": "Fri, 24 Apr 2026 14:47:19 +0000"
@@ -308,11 +287,6 @@
           "title": "Trump administration attempt to gut Endangered Species Act hits roadblock",
           "link": "https://arstechnica.com/tech-policy/2026/04/trump-administration-attempt-to-gut-endangered-species-act-hits-roadblock/",
           "date": "Fri, 24 Apr 2026 13:17:00 +0000"
-        },
-        {
-          "title": "Rocket Report: Artemis III rocket getting ready; SpaceX is now an AI company",
-          "link": "https://arstechnica.com/space/2026/04/rocket-report-some-canadians-dont-want-a-spaceport-falcon-hits-600-landings/",
-          "date": "Fri, 24 Apr 2026 11:00:36 +0000"
         }
       ],
       "error": null
@@ -360,6 +334,16 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Officials hugely underestimated impact of AI datacentres on UK carbon emissions",
+          "link": "https://www.theguardian.com/technology/2026/apr/24/officials-hugely-underestimated-impact-of-ai-datacentres-on-uk-carbon-emissions",
+          "date": "Fri, 24 Apr 2026 16:31:37 GMT"
+        },
+        {
+          "title": "\u2018Look, no hands\u2019: China chases the driverless dream at Beijing car show",
+          "link": "https://www.theguardian.com/technology/2026/apr/24/china-chases-driverless-dream-beijing-car-show-ai",
+          "date": "Fri, 24 Apr 2026 16:08:53 GMT"
+        },
+        {
           "title": "Grok tells researchers pretending to be delusional \u2018drive an iron nail through the mirror while reciting Psalm 91 backwards\u2019",
           "link": "https://www.theguardian.com/technology/2026/apr/24/musk-grok-x-ai-researchers-delusional-advice-inputs",
           "date": "Fri, 24 Apr 2026 02:35:43 GMT"
@@ -373,16 +357,6 @@
           "title": "Microsoft and Meta announce large staff reductions as they spend big on AI",
           "link": "https://www.theguardian.com/technology/2026/apr/23/meta-microsoft-tech-ai-layoffs",
           "date": "Thu, 23 Apr 2026 22:51:49 GMT"
-        },
-        {
-          "title": "The Guardian view on Anthropic\u2019s Claude Mythos: when AI finds every flaw, who controls the internet? | Editorial",
-          "link": "https://www.theguardian.com/commentisfree/2026/apr/23/the-guardian-view-on-anthropics-claude-mythos-when-ai-finds-every-flaw-who-controls-the-internet",
-          "date": "Thu, 23 Apr 2026 17:27:59 GMT"
-        },
-        {
-          "title": "Ben Jennings on the Met\u2019s interest in using Palantir AI technology \u2013 cartoon",
-          "link": "https://www.theguardian.com/commentisfree/picture/2026/apr/23/ben-jennings-the-met-interest-buying-palantir-ai-cartoon",
-          "date": "Thu, 23 Apr 2026 17:22:45 GMT"
         }
       ],
       "error": null
@@ -397,6 +371,11 @@
       "name": "Artificial Intelligence \u2013 Futurism",
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
+        {
+          "title": "Tech Companies Are Using Insidious Tactics to Build Data Centers on Indigenous Lands, Activists Say",
+          "link": "https://futurism.com/artificial-intelligence/data-centers-tribal-communities",
+          "date": "Fri, 24 Apr 2026 11:58:19 -0400"
+        },
         {
           "title": "The Horrible Economics of AI Are Starting to Come Crashing Down",
           "link": "https://futurism.com/artificial-intelligence/economics-ai-tokens-crashing-down",
@@ -416,11 +395,6 @@
           "title": "ChatGPT\u2019s Tool for Ordering Starbucks Is So Staggeringly Bad That It\u2019s Breaking Containment",
           "link": "https://futurism.com/artificial-intelligence/chatgpt-starbucks-breaks-containment",
           "date": "Thu, 23 Apr 2026 11:02:30 -0400"
-        },
-        {
-          "title": "Certain Chatbots Vastly Worse For AI Psychosis, Study Finds",
-          "link": "https://futurism.com/artificial-intelligence/certain-chatbots-worse-ai-psychosis-study",
-          "date": "Thu, 23 Apr 2026 10:03:06 -0400"
         }
       ],
       "error": null
@@ -435,7 +409,7 @@
           "date": "Fri, 24 Apr 2026 15:00:00 +0000"
         },
         {
-          "title": "These AI Thirst Trap Creators Say They're Misunderstood",
+          "title": "These AI Thirst Trap Creators Say They\u2019re Misunderstood",
           "link": "https://www.wired.com/story/gay-ai-instagram-influencers-red-carpet/",
           "date": "Fri, 24 Apr 2026 09:30:00 +0000"
         },
