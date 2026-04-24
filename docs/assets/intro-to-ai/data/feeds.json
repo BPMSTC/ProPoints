@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T23:42:04.041816+00:00",
+  "generatedAt": "2026-04-24T02:26:31.691171+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "The billion-dollar startup with a different idea for AI",
+          "link": "https://www.artificialintelligence-news.com/news/the-billion-dollar-startup-with-a-different-idea-for-ai-ami-labs-yann-lecun/",
+          "date": "Thu, 23 Apr 2026 12:30:00 +0000"
+        },
+        {
+          "title": "NVIDIA and Google infrastructure cuts AI inference costs",
+          "link": "https://www.artificialintelligence-news.com/news/nvidia-and-google-infrastructure-cuts-ai-inference-costs/",
+          "date": "Thu, 23 Apr 2026 12:19:36 +0000"
+        },
+        {
+          "title": "Sony AI robot beats players as humanoid robot wins Beijing race",
+          "link": "https://www.artificialintelligence-news.com/news/sony-ai-robot-table-tennis-humanoid-robot-beijing-race/",
+          "date": "Thu, 23 Apr 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Reversing enterprise security costs with AI vulnerability discovery",
+          "link": "https://www.artificialintelligence-news.com/news/reversing-enterprise-security-costs-with-ai-vulnerability-discovery/",
+          "date": "Wed, 22 Apr 2026 15:45:14 +0000"
+        },
+        {
+          "title": "AI in law firms entering its closing summaries",
+          "link": "https://www.artificialintelligence-news.com/news/ai-in-law-firms-entering-its-closing-summaries/",
+          "date": "Wed, 22 Apr 2026 13:51:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -334,6 +360,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Will the backlash against AI turn violent? \u2013 podcast",
+          "link": "https://www.theguardian.com/news/audio/2026/apr/24/will-the-backlash-against-ai-turn-violent-podcast",
+          "date": "Fri, 24 Apr 2026 02:00:27 GMT"
+        },
+        {
           "title": "Microsoft and Meta announce large staff reductions as they spend big on AI",
           "link": "https://www.theguardian.com/technology/2026/apr/23/meta-microsoft-tech-ai-layoffs",
           "date": "Thu, 23 Apr 2026 22:51:49 GMT"
@@ -352,11 +383,6 @@
           "title": "To be human is to live with friction. That\u2019s something AI boosters will never understand | Alexander Hurst",
           "link": "https://www.theguardian.com/commentisfree/2026/apr/23/humanity-friction-artificial-intelligence-capitalism-black-mirror",
           "date": "Thu, 23 Apr 2026 04:00:46 GMT"
-        },
-        {
-          "title": "What Trump\u2019s Bible stunt says about his complicated history with Christianity",
-          "link": "https://www.theguardian.com/us-news/2026/apr/22/trumps-special-relationship-with-christianity",
-          "date": "Wed, 22 Apr 2026 18:00:32 GMT"
         }
       ],
       "error": null
