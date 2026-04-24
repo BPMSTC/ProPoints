@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-04-24T16:52:58.338645+00:00",
+  "generatedAt": "2026-04-24T17:48:13.433340+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Behind the Blog: Waiting in the Apple Store",
+          "link": "https://www.404media.co/behind-the-blog-waiting-in-the-apple-store/",
+          "date": "Fri, 24 Apr 2026 17:05:15 GMT"
+        },
         {
           "title": "The AI Compute Crunch Is Here (and It's Affecting the Entire Economy)",
           "link": "https://www.404media.co/the-ai-compute-crunch-is-here-and-its-affecting-the-entire-economy/",
@@ -24,11 +29,6 @@
           "title": "Trump Wants to Double Production of New Nuclear Weapon Cores",
           "link": "https://www.404media.co/trump-2027-budget-nuclear-weapons/",
           "date": "Wed, 22 Apr 2026 15:45:59 GMT"
-        },
-        {
-          "title": "Startups Brag They Spend More Money on AI Than Human Employees",
-          "link": "https://www.404media.co/startups-brag-they-spend-more-money-on-ai-than-human-employees/",
-          "date": "Wed, 22 Apr 2026 13:11:08 GMT"
         }
       ],
       "error": null
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "GPT-5.5 Boasts Coding Advancements, But Falls Short of Opus 4.7",
+          "link": "https://aibusiness.com/generative-ai/gpt-5-5-boasts-coding-advancements-falls-short-opus-4-7",
+          "date": "Fri, 24 Apr 2026 16:59:50 GMT"
+        },
+        {
           "title": "The AI Race Is Becoming an Infrastructure Contest",
           "link": "https://aibusiness.com/generative-ai/the-ai-race-becoming-infrastructure-contest",
           "date": "Fri, 24 Apr 2026 15:09:37 GMT"
@@ -132,11 +137,6 @@
           "title": "Accenture Showcases Humanoid Robot Warehouse Pilot",
           "link": "https://aibusiness.com/robotics/accenture-showcases-humanoid-robot-warehouse-pilot",
           "date": "Wed, 22 Apr 2026 18:08:52 GMT"
-        },
-        {
-          "title": "SpaceX Agrees to Potential $60B Deal to Acquire Cursor",
-          "link": "https://aibusiness.com/generative-ai/spacex-agrees-potential-60b-deal-acquire-cursor",
-          "date": "Wed, 22 Apr 2026 17:37:38 GMT"
         }
       ],
       "error": null
@@ -150,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Why AI agents need interaction infrastructure",
+          "link": "https://www.artificialintelligence-news.com/news/why-ai-agents-need-interaction-infrastructure/",
+          "date": "Fri, 24 Apr 2026 16:24:17 +0000"
+        },
+        {
+          "title": "How AI models use real-time cryptocurrency data to interpret market behaviour",
+          "link": "https://www.artificialintelligence-news.com/news/how-ai-models-use-real-time-cryptocurrency-data-to-interpret-market-behaviour/",
+          "date": "Fri, 24 Apr 2026 07:47:32 +0000"
+        },
+        {
+          "title": "The billion-dollar startup with a different idea for AI",
+          "link": "https://www.artificialintelligence-news.com/news/the-billion-dollar-startup-with-a-different-idea-for-ai-ami-labs-yann-lecun/",
+          "date": "Thu, 23 Apr 2026 12:30:00 +0000"
+        },
+        {
+          "title": "NVIDIA and Google infrastructure cuts AI inference costs",
+          "link": "https://www.artificialintelligence-news.com/news/nvidia-and-google-infrastructure-cuts-ai-inference-costs/",
+          "date": "Thu, 23 Apr 2026 12:19:36 +0000"
+        },
+        {
+          "title": "Sony AI robot beats players as humanoid robot wins Beijing race",
+          "link": "https://www.artificialintelligence-news.com/news/sony-ai-robot-table-tennis-humanoid-robot-beijing-race/",
+          "date": "Thu, 23 Apr 2026 10:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -336,7 +362,7 @@
         {
           "title": "Officials hugely underestimated impact of AI datacentres on UK carbon emissions",
           "link": "https://www.theguardian.com/technology/2026/apr/24/officials-hugely-underestimated-impact-of-ai-datacentres-on-uk-carbon-emissions",
-          "date": "Fri, 24 Apr 2026 16:31:37 GMT"
+          "date": "Fri, 24 Apr 2026 16:57:16 GMT"
         },
         {
           "title": "\u2018Look, no hands\u2019: China chases the driverless dream at Beijing car show",
@@ -372,6 +398,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Palantir\u2019s Employees Are in Crisis",
+          "link": "https://futurism.com/artificial-intelligence/palantirs-employees-crisis",
+          "date": "Fri, 24 Apr 2026 13:03:26 -0400"
+        },
+        {
           "title": "Tech Companies Are Using Insidious Tactics to Build Data Centers on Indigenous Lands, Activists Say",
           "link": "https://futurism.com/artificial-intelligence/data-centers-tribal-communities",
           "date": "Fri, 24 Apr 2026 11:58:19 -0400"
@@ -390,11 +421,6 @@
           "title": "Trump\u2019s Huge AI Data Center Project Is Falling Apart Behind the Scenes",
           "link": "https://futurism.com/artificial-intelligence/trump-data-center-fermi",
           "date": "Thu, 23 Apr 2026 19:41:05 -0400"
-        },
-        {
-          "title": "ChatGPT\u2019s Tool for Ordering Starbucks Is So Staggeringly Bad That It\u2019s Breaking Containment",
-          "link": "https://futurism.com/artificial-intelligence/chatgpt-starbucks-breaks-containment",
-          "date": "Thu, 23 Apr 2026 11:02:30 -0400"
         }
       ],
       "error": null
@@ -403,6 +429,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials",
+          "link": "https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/",
+          "date": "Fri, 24 Apr 2026 17:17:36 +0000"
+        },
         {
           "title": "Apple's Next CEO Needs to Launch a Killer AI Product",
           "link": "https://www.wired.com/story/apples-next-ceo-needs-to-launch-a-killer-ai-product/",
@@ -422,11 +453,6 @@
           "title": "Apple\u2019s Next Chapter, SpaceX and Cursor Strike a Deal, and Palantir\u2019s Controversial Manifesto",
           "link": "https://www.wired.com/story/uncanny-valley-podcast-apple-next-chapter-spacex-cursor-deal-palantir-manifesto/",
           "date": "Thu, 23 Apr 2026 19:26:11 +0000"
-        },
-        {
-          "title": "At 'AI Coachella,' Stanford Students Line Up to Learn From Silicon Valley Royalty",
-          "link": "https://www.wired.com/story/stanford-cs-class-ai-coachella-ben-horowitz/",
-          "date": "Thu, 23 Apr 2026 18:24:37 +0000"
         }
       ],
       "error": null
