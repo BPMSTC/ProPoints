@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-04-24T13:18:02.693014+00:00",
+  "generatedAt": "2026-04-24T15:05:40.932486+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "The AI Compute Crunch Is Here (and It's Affecting the Entire Economy)",
+          "link": "https://www.404media.co/the-ai-compute-crunch-is-here-and-its-affecting-the-entire-economy/",
+          "date": "Fri, 24 Apr 2026 13:53:57 GMT"
+        },
         {
           "title": "Community Votes to Deny Water to Nuclear Weapons Data Center",
           "link": "https://www.404media.co/community-votes-to-deny-water-to-nuclear-weapons-data-center/",
@@ -24,11 +29,6 @@
           "title": "Startups Brag They Spend More Money on AI Than Human Employees",
           "link": "https://www.404media.co/startups-brag-they-spend-more-money-on-ai-than-human-employees/",
           "date": "Wed, 22 Apr 2026 13:11:08 GMT"
-        },
-        {
-          "title": "Podcast: How Algorithms Make Us Feel Bad and Weird",
-          "link": "https://www.404media.co/podcast-how-algorithms-make-us-feel-bad-and-weird/",
-          "date": "Wed, 22 Apr 2026 12:57:16 GMT"
         }
       ],
       "error": null
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "Agentic AI: The pathway  architecture to GenAI",
+          "link": "https://www.aiacceleratorinstitute.com/agentic-ai-the-pathway-architecture-to-genai/",
+          "date": "Fri, 24 Apr 2026 15:02:51 GMT"
+        },
+        {
           "title": "AIAI Summits, Silicon Valley 2026",
           "link": "https://www.aiacceleratorinstitute.com/aiai-summits-silicon-valley-2026/",
           "date": "Fri, 24 Apr 2026 11:05:01 GMT"
@@ -88,11 +93,6 @@
           "title": "How access models are shaping  AI cybersecurity deployment",
           "link": "https://www.aiacceleratorinstitute.com/how-access-models-are-shaping-ai-cybersecurity-deployment/",
           "date": "Fri, 17 Apr 2026 10:35:17 GMT"
-        },
-        {
-          "title": "Why AI safety breaks at the system level",
-          "link": "https://www.aiacceleratorinstitute.com/why-ai-safety-breaks-at-the-system-level/",
-          "date": "Thu, 16 Apr 2026 15:11:52 GMT"
         }
       ],
       "error": null
@@ -150,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "How AI models use real-time cryptocurrency data to interpret market behaviour",
+          "link": "https://www.artificialintelligence-news.com/news/how-ai-models-use-real-time-cryptocurrency-data-to-interpret-market-behaviour/",
+          "date": "Fri, 24 Apr 2026 07:47:32 +0000"
+        },
+        {
+          "title": "The billion-dollar startup with a different idea for AI",
+          "link": "https://www.artificialintelligence-news.com/news/the-billion-dollar-startup-with-a-different-idea-for-ai-ami-labs-yann-lecun/",
+          "date": "Thu, 23 Apr 2026 12:30:00 +0000"
+        },
+        {
+          "title": "NVIDIA and Google infrastructure cuts AI inference costs",
+          "link": "https://www.artificialintelligence-news.com/news/nvidia-and-google-infrastructure-cuts-ai-inference-costs/",
+          "date": "Thu, 23 Apr 2026 12:19:36 +0000"
+        },
+        {
+          "title": "Sony AI robot beats players as humanoid robot wins Beijing race",
+          "link": "https://www.artificialintelligence-news.com/news/sony-ai-robot-table-tennis-humanoid-robot-beijing-race/",
+          "date": "Thu, 23 Apr 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Reversing enterprise security costs with AI vulnerability discovery",
+          "link": "https://www.artificialintelligence-news.com/news/reversing-enterprise-security-costs-with-ai-vulnerability-discovery/",
+          "date": "Wed, 22 Apr 2026 15:45:14 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -264,29 +290,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Well, this is embarrassing: The Lunar Gateway's primary modules are corroded",
+          "link": "https://arstechnica.com/space/2026/04/well-this-is-embarrassing-the-lunar-gateways-primary-modules-are-corroded/",
+          "date": "Fri, 24 Apr 2026 14:47:19 +0000"
+        },
+        {
+          "title": "As electric aspirations fade, Porsche sells its stake in Bugatti",
+          "link": "https://arstechnica.com/cars/2026/04/as-electric-aspirations-fade-porsche-sells-its-stake-in-bugatti/",
+          "date": "Fri, 24 Apr 2026 13:54:17 +0000"
+        },
+        {
+          "title": "Six things I'll remember when I think about Tim Cook's version of Apple",
+          "link": "https://arstechnica.com/gadgets/2026/04/six-things-ill-remember-when-i-think-about-tim-cooks-version-of-apple/",
+          "date": "Fri, 24 Apr 2026 13:40:50 +0000"
+        },
+        {
+          "title": "Trump administration attempt to gut Endangered Species Act hits roadblock",
+          "link": "https://arstechnica.com/tech-policy/2026/04/trump-administration-attempt-to-gut-endangered-species-act-hits-roadblock/",
+          "date": "Fri, 24 Apr 2026 13:17:00 +0000"
+        },
+        {
           "title": "Rocket Report: Artemis III rocket getting ready; SpaceX is now an AI company",
           "link": "https://arstechnica.com/space/2026/04/rocket-report-some-canadians-dont-want-a-spaceport-falcon-hits-600-landings/",
           "date": "Fri, 24 Apr 2026 11:00:36 +0000"
-        },
-        {
-          "title": "Visitors to this private space station won't be wearing shorts and T-shirts",
-          "link": "https://arstechnica.com/space/2026/04/vast-reveals-flight-suit-tests-timepiece-for-commercial-space-station/",
-          "date": "Thu, 23 Apr 2026 22:14:16 +0000"
-        },
-        {
-          "title": "US accuses China of \u201cindustrial-scale\u201d AI theft. China says it\u2019s \u201cslander.\u201d",
-          "link": "https://arstechnica.com/tech-policy/2026/04/us-accuses-china-of-industrial-scale-ai-theft-china-says-its-slander/",
-          "date": "Thu, 23 Apr 2026 21:45:10 +0000"
-        },
-        {
-          "title": "Carbon nanotube wiring gets closer to competing with copper",
-          "link": "https://arstechnica.com/science/2026/04/researchers-get-carbon-nanotube-wiring-to-conduct-more-like-copper/",
-          "date": "Thu, 23 Apr 2026 21:22:09 +0000"
-        },
-        {
-          "title": "We still don't have a more precise value for \"Big G\"",
-          "link": "https://arstechnica.com/science/2026/04/we-still-dont-have-a-more-precise-value-for-big-g/",
-          "date": "Thu, 23 Apr 2026 20:57:35 +0000"
         }
       ],
       "error": null
@@ -372,6 +398,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "The Horrible Economics of AI Are Starting to Come Crashing Down",
+          "link": "https://futurism.com/artificial-intelligence/economics-ai-tokens-crashing-down",
+          "date": "Fri, 24 Apr 2026 10:09:14 -0400"
+        },
+        {
+          "title": "Google Exec Says Your Favorite Video Games Are Secretly Made With AI",
+          "link": "https://futurism.com/artificial-intelligence/google-exec-video-games-secretly-ai",
+          "date": "Fri, 24 Apr 2026 09:25:12 -0400"
+        },
+        {
           "title": "Trump\u2019s Huge AI Data Center Project Is Falling Apart Behind the Scenes",
           "link": "https://futurism.com/artificial-intelligence/trump-data-center-fermi",
           "date": "Thu, 23 Apr 2026 19:41:05 -0400"
@@ -385,16 +421,6 @@
           "title": "Certain Chatbots Vastly Worse For AI Psychosis, Study Finds",
           "link": "https://futurism.com/artificial-intelligence/certain-chatbots-worse-ai-psychosis-study",
           "date": "Thu, 23 Apr 2026 10:03:06 -0400"
-        },
-        {
-          "title": "Rogue Group Gains Access to Anthropic\u2019s Dangerous New Mythos AI",
-          "link": "https://futurism.com/artificial-intelligence/rogue-group-gains-access-anthropic-ai",
-          "date": "Wed, 22 Apr 2026 16:27:39 -0400"
-        },
-        {
-          "title": "Leak Shows ICE Planning to Use Facial Recognition Glasses to Identify Targets in Real Time",
-          "link": "https://futurism.com/artificial-intelligence/ice-facial-surveillance-glasses",
-          "date": "Wed, 22 Apr 2026 15:19:32 -0400"
         }
       ],
       "error": null
@@ -404,7 +430,12 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
-          "title": "The Men Behind Your Favorite AI Gay Thirst Traps",
+          "title": "Apple's Next CEO Needs to Launch a Killer AI Product",
+          "link": "https://www.wired.com/story/apples-next-ceo-needs-to-launch-a-killer-ai-product/",
+          "date": "Fri, 24 Apr 2026 15:00:00 +0000"
+        },
+        {
+          "title": "These AI Thirst Trap Creators Say They're Misunderstood",
           "link": "https://www.wired.com/story/gay-ai-instagram-influencers-red-carpet/",
           "date": "Fri, 24 Apr 2026 09:30:00 +0000"
         },
@@ -422,11 +453,6 @@
           "title": "At 'AI Coachella,' Stanford Students Line Up to Learn From Silicon Valley Royalty",
           "link": "https://www.wired.com/story/stanford-cs-class-ai-coachella-ben-horowitz/",
           "date": "Thu, 23 Apr 2026 18:24:37 +0000"
-        },
-        {
-          "title": "Sam Altman\u2019s Orb Company Promoted a Bruno Mars Partnership That Doesn't Exist",
-          "link": "https://www.wired.com/story/sam-altman-orb-company-bruno-mars-partnership-fake/",
-          "date": "Wed, 22 Apr 2026 22:11:15 +0000"
         }
       ],
       "error": null
