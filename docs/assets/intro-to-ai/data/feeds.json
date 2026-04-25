@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T08:49:20.368754+00:00",
+  "generatedAt": "2026-04-25T09:50:08.049154+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Why AI agents need interaction infrastructure",
+          "link": "https://www.artificialintelligence-news.com/news/why-ai-agents-need-interaction-infrastructure/",
+          "date": "Fri, 24 Apr 2026 16:24:17 +0000"
+        },
+        {
+          "title": "How AI models use real-time cryptocurrency data to interpret market behaviour",
+          "link": "https://www.artificialintelligence-news.com/news/how-ai-models-use-real-time-cryptocurrency-data-to-interpret-market-behaviour/",
+          "date": "Fri, 24 Apr 2026 07:47:32 +0000"
+        },
+        {
+          "title": "The billion-dollar startup with a different idea for AI",
+          "link": "https://www.artificialintelligence-news.com/news/the-billion-dollar-startup-with-a-different-idea-for-ai-ami-labs-yann-lecun/",
+          "date": "Thu, 23 Apr 2026 12:30:00 +0000"
+        },
+        {
+          "title": "NVIDIA and Google infrastructure cuts AI inference costs",
+          "link": "https://www.artificialintelligence-news.com/news/nvidia-and-google-infrastructure-cuts-ai-inference-costs/",
+          "date": "Thu, 23 Apr 2026 12:19:36 +0000"
+        },
+        {
+          "title": "Sony AI robot beats players as humanoid robot wins Beijing race",
+          "link": "https://www.artificialintelligence-news.com/news/sony-ai-robot-table-tennis-humanoid-robot-beijing-race/",
+          "date": "Thu, 23 Apr 2026 10:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -404,6 +430,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Ace the Ping-Pong Robot Can Whup Your Ass",
+          "link": "https://www.wired.com/story/ace-the-robot-wants-to-become-the-world-table-tennis-champion/",
+          "date": "Sat, 25 Apr 2026 09:30:00 +0000"
+        },
+        {
           "title": "AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials",
           "link": "https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/",
           "date": "Fri, 24 Apr 2026 17:17:36 +0000"
@@ -422,11 +453,6 @@
           "title": "5 Reasons to Think Twice Before Using ChatGPT\u2014or Any Chatbot\u2014for Financial Advice",
           "link": "https://www.wired.com/story/5-reasons-to-think-twice-before-using-chatgpt-for-financial-advice/",
           "date": "Fri, 24 Apr 2026 09:00:00 +0000"
-        },
-        {
-          "title": "Apple\u2019s Next Chapter, SpaceX and Cursor Strike a Deal, and Palantir\u2019s Controversial Manifesto",
-          "link": "https://www.wired.com/story/uncanny-valley-podcast-apple-next-chapter-spacex-cursor-deal-palantir-manifesto/",
-          "date": "Thu, 23 Apr 2026 19:26:11 +0000"
         }
       ],
       "error": null
