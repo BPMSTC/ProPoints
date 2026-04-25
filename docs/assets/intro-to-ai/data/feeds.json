@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T11:36:07.370826+00:00",
+  "generatedAt": "2026-04-25T12:58:51.323845+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Why AI agents need interaction infrastructure",
+          "link": "https://www.artificialintelligence-news.com/news/why-ai-agents-need-interaction-infrastructure/",
+          "date": "Fri, 24 Apr 2026 16:24:17 +0000"
+        },
+        {
+          "title": "How AI models use real-time cryptocurrency data to interpret market behaviour",
+          "link": "https://www.artificialintelligence-news.com/news/how-ai-models-use-real-time-cryptocurrency-data-to-interpret-market-behaviour/",
+          "date": "Fri, 24 Apr 2026 07:47:32 +0000"
+        },
+        {
+          "title": "The billion-dollar startup with a different idea for AI",
+          "link": "https://www.artificialintelligence-news.com/news/the-billion-dollar-startup-with-a-different-idea-for-ai-ami-labs-yann-lecun/",
+          "date": "Thu, 23 Apr 2026 12:30:00 +0000"
+        },
+        {
+          "title": "NVIDIA and Google infrastructure cuts AI inference costs",
+          "link": "https://www.artificialintelligence-news.com/news/nvidia-and-google-infrastructure-cuts-ai-inference-costs/",
+          "date": "Thu, 23 Apr 2026 12:19:36 +0000"
+        },
+        {
+          "title": "Sony AI robot beats players as humanoid robot wins Beijing race",
+          "link": "https://www.artificialintelligence-news.com/news/sony-ai-robot-table-tennis-humanoid-robot-beijing-race/",
+          "date": "Thu, 23 Apr 2026 10:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -264,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Artemis II broke Fred Haise's distance record, but he is happy to pass it on",
+          "link": "https://arstechnica.com/science/2026/04/artemis-ii-broke-fred-haises-distance-record-but-he-is-happy-to-pass-it-on/",
+          "date": "Sat, 25 Apr 2026 11:40:58 +0000"
+        },
+        {
           "title": "Palantir employees are talking about company's \"descent into fascism\"",
           "link": "https://arstechnica.com/tech-policy/2026/04/palantir-employees-are-talking-about-companys-descent-into-fascism/",
           "date": "Sat, 25 Apr 2026 10:49:52 +0000"
@@ -282,11 +313,6 @@
           "title": "Europe\u2014not US\u2014first to authorize Moderna's combo mRNA flu-COVID vaccine",
           "link": "https://arstechnica.com/health/2026/04/europe-not-us-first-to-authorize-modernas-combo-mrna-flu-covid-vaccine/",
           "date": "Fri, 24 Apr 2026 21:11:43 +0000"
-        },
-        {
-          "title": "FCC: Router ban includes portable hotspots, but not phones with hotspot features",
-          "link": "https://arstechnica.com/tech-policy/2026/04/fcc-says-ban-on-foreign-made-routers-includes-portable-wi-fi-hotspots/",
-          "date": "Fri, 24 Apr 2026 19:30:14 +0000"
         }
       ],
       "error": null
@@ -339,6 +365,11 @@
           "date": "Fri, 24 Apr 2026 16:57:16 GMT"
         },
         {
+          "title": "Facing AI and a tough job market, gen Z turns to entrepreneurship: \u2018I have to prove myself\u2019",
+          "link": "https://www.theguardian.com/technology/ng-interactive/2026/apr/25/gen-z-entrepreneurs-business-ai",
+          "date": "Sat, 25 Apr 2026 12:00:45 GMT"
+        },
+        {
           "title": "US justice department steps in on behalf of xAI in Colorado regulation case",
           "link": "https://www.theguardian.com/us-news/2026/apr/24/xai-colorado-elon-musk-trump",
           "date": "Fri, 24 Apr 2026 22:12:59 GMT"
@@ -352,11 +383,6 @@
           "title": "\u2018Look, no hands\u2019: China chases the driverless dream at Beijing car show",
           "link": "https://www.theguardian.com/technology/2026/apr/24/china-chases-driverless-dream-beijing-car-show-ai",
           "date": "Fri, 24 Apr 2026 16:08:53 GMT"
-        },
-        {
-          "title": "Grok tells researchers pretending to be delusional \u2018drive an iron nail through the mirror while reciting Psalm 91 backwards\u2019",
-          "link": "https://www.theguardian.com/technology/2026/apr/24/musk-grok-x-ai-researchers-delusional-advice-inputs",
-          "date": "Fri, 24 Apr 2026 02:35:43 GMT"
         }
       ],
       "error": null
