@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-27T11:01:10.915173+00:00",
+  "generatedAt": "2026-04-27T13:46:39.260518+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Google Could Invest Another $40 Billion in Anthropic",
+          "link": "https://aibusiness.com/generative-ai/google-could-invest-another-40-billion-anthropic",
+          "date": "Mon, 27 Apr 2026 13:14:10 GMT"
+        },
+        {
           "title": "Canadian, German AI Startups Join Forces to Challenge US Dominance",
           "link": "https://aibusiness.com/generative-ai/canadian-german-ai-startups-forces-challenge-us-dominance",
           "date": "Fri, 24 Apr 2026 17:29:31 GMT"
@@ -132,11 +137,6 @@
           "title": "AWS Bets on Frontier Agents as the Next Era of Enterprise AI",
           "link": "https://aibusiness.com/agentic-ai/aws-bets-frontier-agents-as-next-era-enterprise-ai",
           "date": "Thu, 23 Apr 2026 18:05:07 GMT"
-        },
-        {
-          "title": "Microsoft to Spend $18B on AI Infrastructure in Australia",
-          "link": "https://aibusiness.com/generative-ai/microsoft-spend-18b-ai-infrastructure-australia",
-          "date": "Thu, 23 Apr 2026 16:31:00 GMT"
         }
       ],
       "error": null
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "Why AI agents need interaction infrastructure",
-          "link": "https://www.artificialintelligence-news.com/news/why-ai-agents-need-interaction-infrastructure/",
-          "date": "Fri, 24 Apr 2026 16:24:17 +0000"
-        },
-        {
-          "title": "How AI models use real-time cryptocurrency data to interpret market behaviour",
-          "link": "https://www.artificialintelligence-news.com/news/how-ai-models-use-real-time-cryptocurrency-data-to-interpret-market-behaviour/",
-          "date": "Fri, 24 Apr 2026 07:47:32 +0000"
-        },
-        {
-          "title": "The billion-dollar startup with a different idea for AI",
-          "link": "https://www.artificialintelligence-news.com/news/the-billion-dollar-startup-with-a-different-idea-for-ai-ami-labs-yann-lecun/",
-          "date": "Thu, 23 Apr 2026 12:30:00 +0000"
-        },
-        {
-          "title": "NVIDIA and Google infrastructure cuts AI inference costs",
-          "link": "https://www.artificialintelligence-news.com/news/nvidia-and-google-infrastructure-cuts-ai-inference-costs/",
-          "date": "Thu, 23 Apr 2026 12:19:36 +0000"
-        },
-        {
-          "title": "Sony AI robot beats players as humanoid robot wins Beijing race",
-          "link": "https://www.artificialintelligence-news.com/news/sony-ai-robot-table-tennis-humanoid-robot-beijing-race/",
-          "date": "Thu, 23 Apr 2026 10:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +264,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Meet the players who lost big money on Peter Molyneux\u2019s failed Legacy",
+          "link": "https://arstechnica.com/gaming/2026/04/how-legacy-became-a-costly-crypto-bust-for-players-and-a-business-win-for-peter-molyneux/",
+          "date": "Mon, 27 Apr 2026 10:45:31 +0000"
+        },
+        {
           "title": "Strange New Worlds S4 teaser strikes a more serious tone",
           "link": "https://arstechnica.com/culture/2026/04/strange-new-worlds-s4-teaser-strikes-a-more-serious-tone/",
           "date": "Sun, 26 Apr 2026 19:52:22 +0000"
@@ -308,11 +287,6 @@
           "title": "Artemis II broke Fred Haise's distance record, but he is happy to pass it on",
           "link": "https://arstechnica.com/science/2026/04/artemis-ii-broke-fred-haises-distance-record-but-he-is-happy-to-pass-it-on/",
           "date": "Sat, 25 Apr 2026 11:40:58 +0000"
-        },
-        {
-          "title": "Palantir employees are talking about company's \"descent into fascism\"",
-          "link": "https://arstechnica.com/tech-policy/2026/04/palantir-employees-are-talking-about-companys-descent-into-fascism/",
-          "date": "Sat, 25 Apr 2026 10:49:52 +0000"
         }
       ],
       "error": null
@@ -327,6 +301,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Sora\u2019s downfall signals broader problems with AI\u2019s creative utility",
+          "link": "https://theconversation.com/soras-downfall-signals-broader-problems-with-ais-creative-utility-280013",
+          "date": "2026-04-27T12:15:45Z"
+        },
         {
           "title": "How principles of self-compassion help fight loneliness in the age of AI",
           "link": "https://theconversation.com/how-principles-of-self-compassion-help-fight-loneliness-in-the-age-of-ai-276574",
@@ -346,11 +325,6 @@
           "title": "Why the world\u2019s banks are so worried about Anthropic\u2019s latest AI model",
           "link": "https://theconversation.com/why-the-worlds-banks-are-so-worried-about-anthropics-latest-ai-model-281218",
           "date": "2026-04-23T20:09:54Z"
-        },
-        {
-          "title": "AI has crossed a threshold \u2013 what Claude Mythos means for the future of cybersecurity",
-          "link": "https://theconversation.com/ai-has-crossed-a-threshold-what-claude-mythos-means-for-the-future-of-cybersecurity-281308",
-          "date": "2026-04-23T16:03:27Z"
         }
       ],
       "error": null
@@ -360,9 +334,14 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Oil at three-week high as US-Iran peace talks stall; China blocks Meta\u2019s takeover of AI agent Manus \u2013 business live",
+          "title": "Goldman raises oil price forecasts as Iran war deadlock continues; Shell buying Canada\u2019s ARC in $13.6bn deal \u2013 business live",
           "link": "https://www.theguardian.com/business/live/2026/apr/27/oil-prices-high-us-iran-peace-talks-stock-markets-house-prices-latest-news-updates",
-          "date": "Mon, 27 Apr 2026 10:58:50 GMT"
+          "date": "Mon, 27 Apr 2026 13:12:28 GMT"
+        },
+        {
+          "title": "Sadiq Khan may try to stop Scotland Yard signing Palantir contract",
+          "link": "https://www.theguardian.com/politics/2026/apr/27/sadiq-khan-may-try-to-stop-scotland-yard-signing-palantir-contract",
+          "date": "Mon, 27 Apr 2026 13:11:45 GMT"
         },
         {
           "title": "China blocks $2bn Meta takeover of AI agent developer Manus",
@@ -378,11 +357,6 @@
           "title": "Inside China\u2019s robotics revolution \u2013 podcast",
           "link": "https://www.theguardian.com/news/audio/2026/apr/27/inside-chinas-robotics-revolution-podcast",
           "date": "Mon, 27 Apr 2026 04:00:33 GMT"
-        },
-        {
-          "title": "Bosses don\u2019t like the sound of a \u2018four-day workweek\u2019. Maybe it\u2019s time to rebrand it",
-          "link": "https://www.theguardian.com/business/2026/apr/26/four-day-workweek-employment",
-          "date": "Sun, 26 Apr 2026 14:00:16 GMT"
         }
       ],
       "error": null
