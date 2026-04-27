@@ -1,10 +1,25 @@
 {
-  "generatedAt": "2026-04-27T13:46:39.260518+00:00",
+  "generatedAt": "2026-04-27T15:45:10.898944+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Study Finds A Third of New Websites are AI-Generated",
+          "link": "https://www.404media.co/study-finds-a-third-of-new-websites-are-ai-generated/",
+          "date": "Mon, 27 Apr 2026 15:05:55 GMT"
+        },
+        {
+          "title": "Government Hacking Tools Are Now in Criminals' Hands (with Lorenzo Franceschi-Bicchierai)",
+          "link": "https://www.404media.co/government-hacking-tools-are-now-in-criminals-hands-with-lorenzo-franceschi-bicchierai/",
+          "date": "Mon, 27 Apr 2026 14:02:44 GMT"
+        },
+        {
+          "title": "Google DeepMind Paper Argues LLMs Will Never Be Conscious",
+          "link": "https://www.404media.co/google-deepmind-paper-argues-llms-will-never-be-conscious/",
+          "date": "Mon, 27 Apr 2026 13:54:36 GMT"
+        },
         {
           "title": "A Mysterious Golden Orb Was Discovered Under the Sea. We Finally Know What It Is.",
           "link": "https://www.404media.co/a-mysterious-golden-orb-was-discovered-under-the-sea-we-finally-know-what-it-is/",
@@ -14,21 +29,6 @@
           "title": "Behind the Blog: Waiting in the Apple Store",
           "link": "https://www.404media.co/behind-the-blog-waiting-in-the-apple-store/",
           "date": "Fri, 24 Apr 2026 17:05:15 GMT"
-        },
-        {
-          "title": "The AI Compute Crunch Is Here (and It's Affecting the Entire Economy)",
-          "link": "https://www.404media.co/the-ai-compute-crunch-is-here-and-its-affecting-the-entire-economy/",
-          "date": "Fri, 24 Apr 2026 13:53:57 GMT"
-        },
-        {
-          "title": "Community Votes to Deny Water to Nuclear Weapons Data Center",
-          "link": "https://www.404media.co/community-votes-to-deny-water-to-nuclear-weapons-data-center/",
-          "date": "Thu, 23 Apr 2026 20:30:30 GMT"
-        },
-        {
-          "title": "Researchers Simulated a Delusional User to Test Chatbot Safety",
-          "link": "https://www.404media.co/delusion-using-chatgpt-gemini-claude-grok-safety-ai-psychosis-study/",
-          "date": "Thu, 23 Apr 2026 13:52:19 GMT"
         }
       ],
       "error": null
@@ -114,6 +114,16 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "China Moves to Block Meta\u2019s $2B Acquisition of AI Startup",
+          "link": "https://aibusiness.com/agentic-ai/china-moves-block-meta-s-2b-acquisition-ai-startup",
+          "date": "Mon, 27 Apr 2026 14:51:31 GMT"
+        },
+        {
+          "title": "DeepSeek-V4 Models Could Change Global AI Race",
+          "link": "https://aibusiness.com/generative-ai/deepseek-v4-models-could-change-global-ai-race",
+          "date": "Mon, 27 Apr 2026 14:24:42 GMT"
+        },
+        {
           "title": "Google Could Invest Another $40 Billion in Anthropic",
           "link": "https://aibusiness.com/generative-ai/google-could-invest-another-40-billion-anthropic",
           "date": "Mon, 27 Apr 2026 13:14:10 GMT"
@@ -127,16 +137,6 @@
           "title": "GPT-5.5 Boasts Coding Advancements, But Falls Short of Opus 4.7",
           "link": "https://aibusiness.com/generative-ai/gpt-5-5-boasts-coding-advancements-falls-short-opus-4-7",
           "date": "Fri, 24 Apr 2026 16:59:50 GMT"
-        },
-        {
-          "title": "The AI Race Is Becoming an Infrastructure Contest",
-          "link": "https://aibusiness.com/generative-ai/the-ai-race-becoming-infrastructure-contest",
-          "date": "Fri, 24 Apr 2026 15:09:37 GMT"
-        },
-        {
-          "title": "AWS Bets on Frontier Agents as the Next Era of Enterprise AI",
-          "link": "https://aibusiness.com/agentic-ai/aws-bets-frontier-agents-as-next-era-enterprise-ai",
-          "date": "Thu, 23 Apr 2026 18:05:07 GMT"
         }
       ],
       "error": null
@@ -150,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Google warns malicious web pages are poisoning AI agents",
+          "link": "https://www.artificialintelligence-news.com/news/google-warns-malicious-web-pages-poisoning-ai-agents/",
+          "date": "Mon, 27 Apr 2026 11:12:52 +0000"
+        },
+        {
+          "title": "Why AI agents need interaction infrastructure",
+          "link": "https://www.artificialintelligence-news.com/news/why-ai-agents-need-interaction-infrastructure/",
+          "date": "Fri, 24 Apr 2026 16:24:17 +0000"
+        },
+        {
+          "title": "How AI models use real-time cryptocurrency data to interpret market behaviour",
+          "link": "https://www.artificialintelligence-news.com/news/how-ai-models-use-real-time-cryptocurrency-data-to-interpret-market-behaviour/",
+          "date": "Fri, 24 Apr 2026 07:47:32 +0000"
+        },
+        {
+          "title": "The billion-dollar startup with a different idea for AI",
+          "link": "https://www.artificialintelligence-news.com/news/the-billion-dollar-startup-with-a-different-idea-for-ai-ami-labs-yann-lecun/",
+          "date": "Thu, 23 Apr 2026 12:30:00 +0000"
+        },
+        {
+          "title": "NVIDIA and Google infrastructure cuts AI inference costs",
+          "link": "https://www.artificialintelligence-news.com/news/nvidia-and-google-infrastructure-cuts-ai-inference-costs/",
+          "date": "Thu, 23 Apr 2026 12:19:36 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -334,29 +360,29 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Goldman raises oil price forecasts as Iran war deadlock continues; Shell buying Canada\u2019s ARC in $13.6bn deal \u2013 business live",
+          "title": "If it\u2019s only AI that\u2019s keeping you up at night, maybe you\u2019re doing OK | Letters",
+          "link": "https://www.theguardian.com/technology/2026/apr/27/if-its-only-ai-thats-keeping-you-up-at-night-maybe-youre-doing-ok",
+          "date": "Mon, 27 Apr 2026 15:30:40 GMT"
+        },
+        {
+          "title": "Goldman raises oil price forecasts as Iran war deadlock continues; Shell buying Canada\u2019s ARC in $13.6bn deal \u2013 as it happened",
           "link": "https://www.theguardian.com/business/live/2026/apr/27/oil-prices-high-us-iran-peace-talks-stock-markets-house-prices-latest-news-updates",
-          "date": "Mon, 27 Apr 2026 13:12:28 GMT"
+          "date": "Mon, 27 Apr 2026 15:39:33 GMT"
+        },
+        {
+          "title": "How AI job scams are destroying people\u2019s hopes | Letters",
+          "link": "https://www.theguardian.com/money/2026/apr/27/how-ai-job-scams-are-destroying-peoples-hopes",
+          "date": "Mon, 27 Apr 2026 15:32:42 GMT"
+        },
+        {
+          "title": "China blocks $2bn Meta takeover of AI agent developer Manus",
+          "link": "https://www.theguardian.com/world/2026/apr/27/china-blocks-meta-takeover-manus-ai-agent-developer",
+          "date": "Mon, 27 Apr 2026 14:35:32 GMT"
         },
         {
           "title": "Sadiq Khan may try to stop Scotland Yard signing Palantir contract",
           "link": "https://www.theguardian.com/politics/2026/apr/27/sadiq-khan-may-try-to-stop-scotland-yard-signing-palantir-contract",
           "date": "Mon, 27 Apr 2026 13:11:45 GMT"
-        },
-        {
-          "title": "China blocks $2bn Meta takeover of AI agent developer Manus",
-          "link": "https://www.theguardian.com/world/2026/apr/27/china-blocks-meta-takeover-manus-ai-agent-developer",
-          "date": "Mon, 27 Apr 2026 10:44:22 GMT"
-        },
-        {
-          "title": "Elon Musk and Sam Altman face off in court over OpenAI\u2019s founding mission",
-          "link": "https://www.theguardian.com/technology/2026/apr/27/elon-musk-sam-altman-open-ai-lawsuit",
-          "date": "Mon, 27 Apr 2026 08:00:38 GMT"
-        },
-        {
-          "title": "Inside China\u2019s robotics revolution \u2013 podcast",
-          "link": "https://www.theguardian.com/news/audio/2026/apr/27/inside-chinas-robotics-revolution-podcast",
-          "date": "Mon, 27 Apr 2026 04:00:33 GMT"
         }
       ],
       "error": null
@@ -371,6 +397,11 @@
       "name": "Artificial Intelligence \u2013 Futurism",
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
+        {
+          "title": "Sam Altman Issues Grim Apology",
+          "link": "https://futurism.com/artificial-intelligence/sam-altman-shooting-apology",
+          "date": "Mon, 27 Apr 2026 10:43:51 -0400"
+        },
         {
           "title": "Top Medical Journal Publishes Searing Article Warning Against Medical AI",
           "link": "https://futurism.com/artificial-intelligence/top-medical-journal-warning-against-medical-ai",
@@ -390,11 +421,6 @@
           "title": "Experts Warn of AI Swarms Hijacking Democracy With Fake Citizens",
           "link": "https://futurism.com/artificial-intelligence/ai-swarm-democracy-security",
           "date": "Sun, 26 Apr 2026 09:45:00 -0400"
-        },
-        {
-          "title": "New AI-Powered Robot Can Destroy Human Champions at Ping Pong",
-          "link": "https://futurism.com/robots-and-machines/ai-powered-robot-destroy-table-tennis-pros",
-          "date": "Sun, 26 Apr 2026 09:00:00 -0400"
         }
       ],
       "error": null
@@ -403,6 +429,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path",
+          "link": "https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/",
+          "date": "Mon, 27 Apr 2026 14:00:00 +0000"
+        },
         {
           "title": "Discord Sleuths Gained Unauthorized Access to Anthropic\u2019s Mythos",
           "link": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/",
@@ -422,11 +453,6 @@
           "title": "Apple's Next CEO Needs to Launch a Killer AI Product",
           "link": "https://www.wired.com/story/apples-next-ceo-needs-to-launch-a-killer-ai-product/",
           "date": "Fri, 24 Apr 2026 15:00:00 +0000"
-        },
-        {
-          "title": "These AI Thirst Trap Creators Say They\u2019re Misunderstood",
-          "link": "https://www.wired.com/story/gay-ai-instagram-influencers-red-carpet/",
-          "date": "Fri, 24 Apr 2026 09:30:00 +0000"
         }
       ],
       "error": null
