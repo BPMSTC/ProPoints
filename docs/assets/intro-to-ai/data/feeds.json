@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-04-28T13:59:10.789790+00:00",
+  "generatedAt": "2026-04-28T16:10:04.845529+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "SXSW Used AI-Powered Trademark Tool To Censor Dissent on Instagram",
+          "link": "https://www.404media.co/sxsw-used-ai-powered-trademark-tool-to-censor-dissent-on-instagram/",
+          "date": "Tue, 28 Apr 2026 15:59:23 GMT"
+        },
         {
           "title": "University Professors Disturbed to Find Their Lectures Chopped Up and Turned Into AI Slop",
           "link": "https://www.404media.co/asu-atomic-ai-modules-arizona-state-university/",
@@ -24,11 +29,6 @@
           "title": "Study Finds A Third of New Websites are AI-Generated",
           "link": "https://www.404media.co/study-finds-a-third-of-new-websites-are-ai-generated/",
           "date": "Mon, 27 Apr 2026 15:05:55 GMT"
-        },
-        {
-          "title": "Government Hacking Tools Are Now in Criminals' Hands (with Lorenzo Franceschi-Bicchierai)",
-          "link": "https://www.404media.co/government-hacking-tools-are-now-in-criminals-hands-with-lorenzo-franceschi-bicchierai/",
-          "date": "Mon, 27 Apr 2026 14:02:44 GMT"
         }
       ],
       "error": null
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "Are your agents quietly draining your budget?",
+          "link": "https://www.aiacceleratorinstitute.com/financial-blind-spots-in-autonomous-ai/",
+          "date": "Tue, 28 Apr 2026 14:44:10 GMT"
+        },
+        {
           "title": "AI Builders Summit: Healthcare Boston 2026",
           "link": "https://www.aiacceleratorinstitute.com/ai-builders-summit-healthcare-boston-2026/",
           "date": "Tue, 28 Apr 2026 13:56:24 GMT"
@@ -88,11 +93,6 @@
           "title": "Is the AI value gap wider than   anyone is admitting?",
           "link": "https://www.aiacceleratorinstitute.com/is-the-ai-value-gap-wider-than-anyone-is-admitting/",
           "date": "Thu, 23 Apr 2026 13:16:32 GMT"
-        },
-        {
-          "title": "Verifiable execution for  AI agents",
-          "link": "https://www.aiacceleratorinstitute.com/verifiable-execution-for-ai-agents/",
-          "date": "Tue, 21 Apr 2026 15:22:22 GMT"
         }
       ],
       "error": null
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Nvidia Nemotron 3 Nano Omni Powers Enterprise AI Agents",
+          "link": "https://aibusiness.com/agentic-ai/nvidia-nemotron-3-nano-omni-powers-enterprise-ai-agents",
+          "date": "Tue, 28 Apr 2026 14:49:23 GMT"
+        },
+        {
           "title": "Record $1.1B Seed Funding for Reinforcement Learning Startup",
           "link": "https://aibusiness.com/generative-ai/record-1-1b-seed-funding-reinforcement-learning-startup",
           "date": "Tue, 28 Apr 2026 13:16:56 GMT"
@@ -132,11 +137,6 @@
           "title": "DeepSeek-V4 Could Change Global AI Model Race",
           "link": "https://aibusiness.com/generative-ai/deepseek-v4-models-could-change-global-ai-race",
           "date": "Mon, 27 Apr 2026 14:24:42 GMT"
-        },
-        {
-          "title": "Google Could Invest Another $40B in Anthropic",
-          "link": "https://aibusiness.com/generative-ai/google-could-invest-another-40-billion-anthropic",
-          "date": "Mon, 27 Apr 2026 13:14:10 GMT"
         }
       ],
       "error": null
@@ -150,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "The evolution of encoders: From simple models to multimodal AI",
+          "link": "https://www.artificialintelligence-news.com/news/the-evolution-of-encoders-from-simple-models-to-multimodal-ai/",
+          "date": "Tue, 28 Apr 2026 13:01:51 +0000"
+        },
+        {
+          "title": "Kakao Mobility details Level 4 autonomous driving roadmap for physical AI",
+          "link": "https://www.artificialintelligence-news.com/news/kakao-mobility-level-4-autonomous-driving-roadmap/",
+          "date": "Tue, 28 Apr 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Lightelligence\u2019s 400% debut is a bet that AI\u2019s next bottleneck is the optical interconnect",
+          "link": "https://www.artificialintelligence-news.com/news/lightelligence-ipo-optical-interconnect-ai-infrastructure/",
+          "date": "Tue, 28 Apr 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Google warns malicious web pages are poisoning AI agents",
+          "link": "https://www.artificialintelligence-news.com/news/google-warns-malicious-web-pages-poisoning-ai-agents/",
+          "date": "Mon, 27 Apr 2026 11:12:52 +0000"
+        },
+        {
+          "title": "Why AI agents need interaction infrastructure",
+          "link": "https://www.artificialintelligence-news.com/news/why-ai-agents-need-interaction-infrastructure/",
+          "date": "Fri, 24 Apr 2026 16:24:17 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -283,12 +309,27 @@
       "name": "Announcements - Stability AI",
       "url": "https://stability.ai/blog?format=rss",
       "items": [],
-      "error": "<unknown>:2:0: syntax error"
+      "error": "<urlopen error [Errno 104] Connection reset by peer>"
     },
     {
       "name": "Ars Technica - All content",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
+        {
+          "title": "Electrical current might be the key to a better cup of coffee",
+          "link": "https://arstechnica.com/science/2026/04/electrical-current-might-be-the-key-to-a-better-cup-of-coffee/",
+          "date": "Tue, 28 Apr 2026 15:00:11 +0000"
+        },
+        {
+          "title": "The great American data center divide",
+          "link": "https://arstechnica.com/ai/2026/04/rural-america-is-resisting-the-surge-in-data-center-construction/",
+          "date": "Tue, 28 Apr 2026 14:15:11 +0000"
+        },
+        {
+          "title": "A billion miles in less than a decade: GM's Super Cruise reaches a milestone",
+          "link": "https://arstechnica.com/cars/2026/04/gms-super-cruise-passes-a-billion-driven-miles-since-2017/",
+          "date": "Tue, 28 Apr 2026 14:00:26 +0000"
+        },
         {
           "title": "Start with the sensors, then design the rest: How Zoox built its robotaxi",
           "link": "https://arstechnica.com/cars/2026/04/start-with-the-sensors-then-design-the-rest-how-zoox-built-its-robotaxi/",
@@ -298,21 +339,6 @@
           "title": "Neanderthal brains measure up to ours\u2014literally",
           "link": "https://arstechnica.com/science/2026/04/neanderthal-brains-measure-up-to-ours-literally/",
           "date": "Tue, 28 Apr 2026 11:05:46 +0000"
-        },
-        {
-          "title": "Put it in pencil: NASA's Artemis III mission will launch no earlier than late 2027",
-          "link": "https://arstechnica.com/space/2026/04/put-it-in-pencil-nasas-artemis-iii-mission-will-launch-no-earlier-than-late-2027/",
-          "date": "Tue, 28 Apr 2026 00:14:09 +0000"
-        },
-        {
-          "title": "Open source package with 1 million monthly downloads stole user credentials",
-          "link": "https://arstechnica.com/security/2026/04/open-source-package-with-1-million-monthly-downloads-stole-user-credentials/",
-          "date": "Mon, 27 Apr 2026 21:04:03 +0000"
-        },
-        {
-          "title": "Musk and Altman face off in trial that will determine OpenAI's future",
-          "link": "https://arstechnica.com/tech-policy/2026/04/musk-and-altman-face-off-in-trial-that-will-determine-openais-future/",
-          "date": "Mon, 27 Apr 2026 20:45:18 +0000"
         }
       ],
       "error": null
@@ -337,14 +363,14 @@
           "date": "2026-04-28T12:25:41+00:00"
         },
         {
+          "title": "What will be the first major catastrophe caused by a rogue AI agent?",
+          "link": "https://www.reddit.com/r/artificial/comments/1sy4n8u/what_will_be_the_first_major_catastrophe_caused/",
+          "date": "2026-04-28T15:26:37+00:00"
+        },
+        {
           "title": "open models keep catching up and the frontier keeps moving. at some point one of those has to stop",
           "link": "https://www.reddit.com/r/artificial/comments/1sxt644/open_models_keep_catching_up_and_the_frontier/",
           "date": "2026-04-28T06:20:56+00:00"
-        },
-        {
-          "title": "AI in Medicine - PLEASE give me your opinions good and bad for my journalism paper",
-          "link": "https://www.reddit.com/r/artificial/comments/1sxv0sh/ai_in_medicine_please_give_me_your_opinions_good/",
-          "date": "2026-04-28T08:07:55+00:00"
         }
       ],
       "error": null
@@ -424,6 +450,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "OpenAI in Shambles as IPO Looms",
+          "link": "https://futurism.com/artificial-intelligence/openai-shambles-users-revenue-ipo",
+          "date": "Tue, 28 Apr 2026 10:58:46 -0400"
+        },
+        {
+          "title": "A Tiny Town Is Building So Many Data Centers That There\u2019ll Be Almost Nothing Else Left",
+          "link": "https://futurism.com/artificial-intelligence/archbald-pennsylvania-data-centers",
+          "date": "Tue, 28 Apr 2026 10:00:07 -0400"
+        },
+        {
           "title": "Weird Things Happen When You Give AI Agents Money and Let Them Spend It",
           "link": "https://futurism.com/artificial-intelligence/claude-give-ai-agents-money-project-deal",
           "date": "Mon, 27 Apr 2026 20:01:00 -0400"
@@ -437,16 +473,6 @@
           "title": "AI Agents Linked to OpenAI Are Pretending to Be Human Journalists",
           "link": "https://futurism.com/artificial-intelligence/ai-agents-openai-pretending-human-journalists",
           "date": "Mon, 27 Apr 2026 15:21:35 -0400"
-        },
-        {
-          "title": "Sam Altman Issues Grim Apology",
-          "link": "https://futurism.com/artificial-intelligence/sam-altman-shooting-apology",
-          "date": "Mon, 27 Apr 2026 10:43:51 -0400"
-        },
-        {
-          "title": "Top Medical Journal Publishes Searing Article Warning Against Medical AI",
-          "link": "https://futurism.com/artificial-intelligence/top-medical-journal-warning-against-medical-ai",
-          "date": "Sun, 26 Apr 2026 13:30:00 -0400"
         }
       ],
       "error": null
