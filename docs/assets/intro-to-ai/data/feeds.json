@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T08:26:55.307210+00:00",
+  "generatedAt": "2026-04-28T11:02:44.332993+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "Google warns malicious web pages are poisoning AI agents",
-          "link": "https://www.artificialintelligence-news.com/news/google-warns-malicious-web-pages-poisoning-ai-agents/",
-          "date": "Mon, 27 Apr 2026 11:12:52 +0000"
-        },
-        {
-          "title": "Why AI agents need interaction infrastructure",
-          "link": "https://www.artificialintelligence-news.com/news/why-ai-agents-need-interaction-infrastructure/",
-          "date": "Fri, 24 Apr 2026 16:24:17 +0000"
-        },
-        {
-          "title": "How AI models use real-time cryptocurrency data to interpret market behaviour",
-          "link": "https://www.artificialintelligence-news.com/news/how-ai-models-use-real-time-cryptocurrency-data-to-interpret-market-behaviour/",
-          "date": "Fri, 24 Apr 2026 07:47:32 +0000"
-        },
-        {
-          "title": "The billion-dollar startup with a different idea for AI",
-          "link": "https://www.artificialintelligence-news.com/news/the-billion-dollar-startup-with-a-different-idea-for-ai-ami-labs-yann-lecun/",
-          "date": "Thu, 23 Apr 2026 12:30:00 +0000"
-        },
-        {
-          "title": "NVIDIA and Google infrastructure cuts AI inference costs",
-          "link": "https://www.artificialintelligence-news.com/news/nvidia-and-google-infrastructure-cuts-ai-inference-costs/",
-          "date": "Thu, 23 Apr 2026 12:19:36 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -220,8 +194,34 @@
     {
       "name": "Ai Prompt Programming",
       "url": "https://www.reddit.com/r/aipromptprogramming/.rss",
-      "items": [],
-      "error": "<unknown>:2:12: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Agentic Flow: Easily switch between low/no-cost AI models (OpenRouter/Onnx/Gemini) in Claude Code and Claude Agent SDK. Build agents in Claude Code, deploy them anywhere. >_ npx agentic-flow",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1nzvbsl/agentic_flow_easily_switch_between_lownocost_ai/",
+          "date": "2025-10-06T21:02:20+00:00"
+        },
+        {
+          "title": "I created an Agentic Coding Competition MCP for Cline/Claude-Code/Cursor/Co-pilot using E2B Sandboxes. I'm looking for some Beta Testers. > npx flow-nexus@latest",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1nc75k5/i_created_an_agentic_coding_competition_mcp_for/",
+          "date": "2025-09-09T02:25:04+00:00"
+        },
+        {
+          "title": "NVIDIA Open-Sourced an AI Model for Explorable 3D World Generation",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1sphnpg/nvidia_opensourced_an_ai_model_for_explorable_3d/",
+          "date": "2026-04-19T03:21:25+00:00"
+        },
+        {
+          "title": "Meshy MCP Is Here - Big Step for AI 3D Workflows",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1see7bk/meshy_mcp_is_here_big_step_for_ai_3d_workflows/",
+          "date": "2026-04-06T22:46:50+00:00"
+        },
+        {
+          "title": "Terminal-based oscilloscope with CRT phosphor physics, vibe coded in Nim",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1see9s0/terminalbased_oscilloscope_with_crt_phosphor/",
+          "date": "2026-04-06T22:49:40+00:00"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI \u2013 SiliconANGLE",
@@ -320,8 +320,34 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
-      "error": "<unknown>:2:12: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "A comedian\u2019s strategy for poisoning AI training data",
+          "link": "https://www.reddit.com/r/artificial/comments/1sx7sjl/a_comedians_strategy_for_poisoning_ai_training/",
+          "date": "2026-04-27T15:54:25+00:00"
+        },
+        {
+          "title": "Is it reasonable to force AI companies to produce at least half of their electricity?",
+          "link": "https://www.reddit.com/r/artificial/comments/1sxtui9/is_it_reasonable_to_force_ai_companies_to_produce/",
+          "date": "2026-04-28T06:59:42+00:00"
+        },
+        {
+          "title": "open models keep catching up and the frontier keeps moving. at some point one of those has to stop",
+          "link": "https://www.reddit.com/r/artificial/comments/1sxt644/open_models_keep_catching_up_and_the_frontier/",
+          "date": "2026-04-28T06:20:56+00:00"
+        },
+        {
+          "title": "AI in Medicine - PLEASE give me your opinions good and bad for my journalism paper",
+          "link": "https://www.reddit.com/r/artificial/comments/1sxv0sh/ai_in_medicine_please_give_me_your_opinions_good/",
+          "date": "2026-04-28T08:07:55+00:00"
+        },
+        {
+          "title": "If AI is about to get 10x smarter, how do we prevent the internet from collapsing under synthetic noise?",
+          "link": "https://www.reddit.com/r/artificial/comments/1sxka9a/if_ai_is_about_to_get_10x_smarter_how_do_we/",
+          "date": "2026-04-27T23:24:32+00:00"
+        }
+      ],
+      "error": null
     },
     {
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
@@ -360,9 +386,19 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "If it\u2019s only AI that\u2019s keeping you up at night, maybe you\u2019re doing OK | Letters",
-          "link": "https://www.theguardian.com/technology/2026/apr/27/if-its-only-ai-thats-keeping-you-up-at-night-maybe-youre-doing-ok",
-          "date": "Mon, 27 Apr 2026 15:30:40 GMT"
+          "title": "Tell us: have you become emotionally attached to AI?",
+          "link": "https://www.theguardian.com/technology/2026/apr/28/tell-us-have-you-become-emotionally-attached-to-ai",
+          "date": "Tue, 28 Apr 2026 09:15:41 GMT"
+        },
+        {
+          "title": "If it feels like the world is rejecting science and truth, here are five ways to fight back | Helen Pearson",
+          "link": "https://www.theguardian.com/commentisfree/2026/apr/28/world-rejecting-science-truth-five-ways-fight-back",
+          "date": "Tue, 28 Apr 2026 10:20:35 GMT"
+        },
+        {
+          "title": "\u2018They\u2019re supposed to be handmade\u2019: zine creators fight to resist AI influence",
+          "link": "https://www.theguardian.com/technology/2026/apr/28/zine-creators-fight-to-resist-ai-influence",
+          "date": "Tue, 28 Apr 2026 09:00:46 GMT"
         },
         {
           "title": "Tech giants face new levy to pay for Australian news as Meta calls position \u2018simply wrong\u2019",
@@ -373,16 +409,6 @@
           "title": "Humanoid robots to become baggage handlers in Japan airport experiment",
           "link": "https://www.theguardian.com/world/2026/apr/28/humanoid-robots-baggage-handlers-japan-airports",
           "date": "Tue, 28 Apr 2026 03:14:34 GMT"
-        },
-        {
-          "title": "Elon Musk and Sam Altman face off in court over OpenAI\u2019s founding mission",
-          "link": "https://www.theguardian.com/technology/2026/apr/27/elon-musk-sam-altman-open-ai-lawsuit",
-          "date": "Mon, 27 Apr 2026 20:29:04 GMT"
-        },
-        {
-          "title": "Sadiq Khan may try to stop Scotland Yard signing Palantir contract",
-          "link": "https://www.theguardian.com/politics/2026/apr/27/sadiq-khan-may-try-to-stop-scotland-yard-signing-palantir-contract",
-          "date": "Mon, 27 Apr 2026 16:57:47 GMT"
         }
       ],
       "error": null
@@ -430,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "The Bloomberg Terminal Is Getting an AI Makeover, Like It or Not",
+          "link": "https://www.wired.com/story/the-bloomberg-terminal-is-getting-an-ai-makeover-like-it-or-not/",
+          "date": "Tue, 28 Apr 2026 08:30:00 +0000"
+        },
+        {
           "title": "Some Musk v. Altman Jurors Don't Like Elon Musk",
           "link": "https://www.wired.com/story/some-musk-v-altman-jurors-dont-like-elon-musk/",
           "date": "Tue, 28 Apr 2026 00:39:30 +0000"
@@ -448,11 +479,6 @@
           "title": "Discord Sleuths Gained Unauthorized Access to Anthropic\u2019s Mythos",
           "link": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/",
           "date": "Sat, 25 Apr 2026 10:30:00 +0000"
-        },
-        {
-          "title": "Ace the Ping-Pong Robot Can Whup Your Ass",
-          "link": "https://www.wired.com/story/ace-the-robot-wants-to-become-the-world-table-tennis-champion/",
-          "date": "Sat, 25 Apr 2026 09:30:00 +0000"
         }
       ],
       "error": null
