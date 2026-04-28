@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-04-28T16:10:04.845529+00:00",
+  "generatedAt": "2026-04-28T18:15:19.756253+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Scientists Investigated a Frequency Linked to \u2018Paranormal\u2019 Encounters. The Results Were Unsettling.",
+          "link": "https://www.404media.co/scientists-investigated-a-frequency-linked-to-paranormal-encounters-the-results-were-unsettling/",
+          "date": "Tue, 28 Apr 2026 17:19:29 GMT"
+        },
         {
           "title": "SXSW Used AI-Powered Trademark Tool To Censor Dissent on Instagram",
           "link": "https://www.404media.co/sxsw-used-ai-powered-trademark-tool-to-censor-dissent-on-instagram/",
@@ -24,11 +29,6 @@
           "title": "Did a Time Traveling Superintelligent AI Try to Warn About White House Correspondents Dinner Shooting? An Investigation",
           "link": "https://www.404media.co/did-a-time-traveling-superintelligent-ai-try-to-warn-about-white-house-correspondents-dinner-shooting-an-investigation/",
           "date": "Mon, 27 Apr 2026 18:38:55 GMT"
-        },
-        {
-          "title": "Study Finds A Third of New Websites are AI-Generated",
-          "link": "https://www.404media.co/study-finds-a-third-of-new-websites-are-ai-generated/",
-          "date": "Mon, 27 Apr 2026 15:05:55 GMT"
         }
       ],
       "error": null
@@ -152,6 +152,11 @@
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [
         {
+          "title": "IBM launches AI platform Bob to regulate SDLC costs",
+          "link": "https://www.artificialintelligence-news.com/news/ibm-launches-ai-platform-bob-to-regulate-sdlc-costs/",
+          "date": "Tue, 28 Apr 2026 17:34:21 +0000"
+        },
+        {
           "title": "The evolution of encoders: From simple models to multimodal AI",
           "link": "https://www.artificialintelligence-news.com/news/the-evolution-of-encoders-from-simple-models-to-multimodal-ai/",
           "date": "Tue, 28 Apr 2026 13:01:51 +0000"
@@ -170,11 +175,6 @@
           "title": "Google warns malicious web pages are poisoning AI agents",
           "link": "https://www.artificialintelligence-news.com/news/google-warns-malicious-web-pages-poisoning-ai-agents/",
           "date": "Mon, 27 Apr 2026 11:12:52 +0000"
-        },
-        {
-          "title": "Why AI agents need interaction infrastructure",
-          "link": "https://www.artificialintelligence-news.com/news/why-ai-agents-need-interaction-infrastructure/",
-          "date": "Fri, 24 Apr 2026 16:24:17 +0000"
         }
       ],
       "error": null
@@ -309,12 +309,17 @@
       "name": "Announcements - Stability AI",
       "url": "https://stability.ai/blog?format=rss",
       "items": [],
-      "error": "<urlopen error [Errno 104] Connection reset by peer>"
+      "error": "<unknown>:2:0: syntax error"
     },
     {
       "name": "Ars Technica - All content",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
+        {
+          "title": "GitHub will start charging Copilot users based on their actual AI usage",
+          "link": "https://arstechnica.com/ai/2026/04/github-will-start-charging-copilot-users-based-on-their-actual-ai-usage/",
+          "date": "Tue, 28 Apr 2026 15:41:32 +0000"
+        },
         {
           "title": "Electrical current might be the key to a better cup of coffee",
           "link": "https://arstechnica.com/science/2026/04/electrical-current-might-be-the-key-to-a-better-cup-of-coffee/",
@@ -334,11 +339,6 @@
           "title": "Start with the sensors, then design the rest: How Zoox built its robotaxi",
           "link": "https://arstechnica.com/cars/2026/04/start-with-the-sensors-then-design-the-rest-how-zoox-built-its-robotaxi/",
           "date": "Tue, 28 Apr 2026 11:20:49 +0000"
-        },
-        {
-          "title": "Neanderthal brains measure up to ours\u2014literally",
-          "link": "https://arstechnica.com/science/2026/04/neanderthal-brains-measure-up-to-ours-literally/",
-          "date": "Tue, 28 Apr 2026 11:05:46 +0000"
         }
       ],
       "error": null
@@ -363,9 +363,9 @@
           "date": "2026-04-28T12:25:41+00:00"
         },
         {
-          "title": "What will be the first major catastrophe caused by a rogue AI agent?",
-          "link": "https://www.reddit.com/r/artificial/comments/1sy4n8u/what_will_be_the_first_major_catastrophe_caused/",
-          "date": "2026-04-28T15:26:37+00:00"
+          "title": "AMDXDNA driver preps hardware scheduler time quantum for Ryzen AI multi-user fairness",
+          "link": "https://www.reddit.com/r/artificial/comments/1sy6wjo/amdxdna_driver_preps_hardware_scheduler_time/",
+          "date": "2026-04-28T16:46:30+00:00"
         },
         {
           "title": "open models keep catching up and the frontier keeps moving. at some point one of those has to stop",
@@ -412,9 +412,19 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Tell us: have you become emotionally attached to AI?",
-          "link": "https://www.theguardian.com/technology/2026/apr/28/tell-us-have-you-become-emotionally-attached-to-ai",
-          "date": "Tue, 28 Apr 2026 09:15:41 GMT"
+          "title": "UK must seize AI initiative or be left at the \u2018mercy\u2019 of the future, Liz Kendall warns",
+          "link": "https://www.theguardian.com/technology/2026/apr/28/uk-must-seize-ai-initiative-or-be-left-at-the-mercy-of-the-future-liz-kendall-warns",
+          "date": "Tue, 28 Apr 2026 17:03:00 GMT"
+        },
+        {
+          "title": "\u2018Stole a charity\u2019: Elon Musk accuses Sam Altman of betrayal in courtroom showdown",
+          "link": "https://www.theguardian.com/technology/2026/apr/28/sam-altman-open-ai-elon-musk-trial",
+          "date": "Tue, 28 Apr 2026 18:10:37 GMT"
+        },
+        {
+          "title": "Google reportedly signs classified AI deal with US Pentagon",
+          "link": "https://www.theguardian.com/technology/2026/apr/28/google-classified-ai-deal-pentagon",
+          "date": "Tue, 28 Apr 2026 16:57:57 GMT"
         },
         {
           "title": "The personal pettiness of the Elon Musk v OpenAI trial",
@@ -425,16 +435,6 @@
           "title": "If it feels like the world is rejecting science and truth, here are five ways to fight back | Helen Pearson",
           "link": "https://www.theguardian.com/commentisfree/2026/apr/28/world-rejecting-science-truth-five-ways-fight-back",
           "date": "Tue, 28 Apr 2026 10:20:35 GMT"
-        },
-        {
-          "title": "\u2018They\u2019re supposed to be handmade\u2019: zine creators fight to resist AI influence",
-          "link": "https://www.theguardian.com/technology/2026/apr/28/zine-creators-fight-to-resist-ai-influence",
-          "date": "Tue, 28 Apr 2026 09:00:46 GMT"
-        },
-        {
-          "title": "Tech giants face new levy to pay for Australian news as Meta calls position \u2018simply wrong\u2019",
-          "link": "https://www.theguardian.com/australia-news/2026/apr/28/albanese-tech-companies-australian-media",
-          "date": "Tue, 28 Apr 2026 06:02:23 GMT"
         }
       ],
       "error": null
