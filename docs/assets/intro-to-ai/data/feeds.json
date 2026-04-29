@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-04-29T15:10:43.452655+00:00",
+  "generatedAt": "2026-04-29T17:25:32.195503+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "World\u2019s Largest Digital Human Rights Conference Suddenly 'Postponed'",
+          "link": "https://www.404media.co/rightscon-human-rights-conference-suddenly-postponed/",
+          "date": "Wed, 29 Apr 2026 16:54:33 GMT"
+        },
         {
           "title": "DHS Plans to Buy More Predator-Style Drones",
           "link": "https://www.404media.co/dhs-plans-to-buy-more-predator-style-drones/",
@@ -24,11 +29,6 @@
           "title": "Scientists Investigated a Frequency Linked to \u2018Paranormal\u2019 Encounters. The Results Were Unsettling.",
           "link": "https://www.404media.co/scientists-investigated-a-frequency-linked-to-paranormal-encounters-the-results-were-unsettling/",
           "date": "Tue, 28 Apr 2026 17:19:29 GMT"
-        },
-        {
-          "title": "SXSW Used AI-Powered Trademark Tool To Censor Dissent on Instagram",
-          "link": "https://www.404media.co/sxsw-used-ai-powered-trademark-tool-to-censor-dissent-on-instagram/",
-          "date": "Tue, 28 Apr 2026 15:59:23 GMT"
         }
       ],
       "error": null
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Scout AI Raises $100M to Build \u2018AI Brain' for Autonomous Warfare",
+          "link": "https://aibusiness.com/robotics/scout-ai-raises-100m-build-ai-brain-autonomous-warfare",
+          "date": "Wed, 29 Apr 2026 16:05:17 GMT"
+        },
+        {
           "title": "Humanoid Bots to Start Airport Pilot in Japan",
           "link": "https://aibusiness.com/robotics/humanoid-bots-start-airport-pilot-japan",
           "date": "Wed, 29 Apr 2026 12:27:18 GMT"
@@ -132,11 +137,6 @@
           "title": "Record $1.1B Seed Funding for Reinforcement Learning Startup",
           "link": "https://aibusiness.com/generative-ai/record-1-1b-seed-funding-reinforcement-learning-startup",
           "date": "Tue, 28 Apr 2026 13:16:56 GMT"
-        },
-        {
-          "title": "Meta Taps Solar Energy to Power Data Centers",
-          "link": "https://aibusiness.com/generative-ai/meta-taps-solar-energy-power-data-centers",
-          "date": "Mon, 27 Apr 2026 17:55:02 GMT"
         }
       ],
       "error": null
@@ -316,6 +316,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Nvidia fixes the 8GB RAM problem with one of its GPUs\u2014if you can pay for it",
+          "link": "https://arstechnica.com/gadgets/2026/04/nvidia-fixes-the-8gb-ram-problem-with-one-of-its-gpus-if-you-can-pay-for-it/",
+          "date": "Wed, 29 Apr 2026 16:06:28 +0000"
+        },
+        {
+          "title": "Professional school grads from diverse classes get higher salaries",
+          "link": "https://arstechnica.com/science/2026/04/professional-school-grads-from-diverse-classes-get-higher-salaries/",
+          "date": "Wed, 29 Apr 2026 15:55:55 +0000"
+        },
+        {
           "title": "Attempt to repeal Colorado's right-to-repair law fails",
           "link": "https://arstechnica.com/tech-policy/2026/04/attempt-to-repeal-colorados-right-to-repair-law-fails/",
           "date": "Wed, 29 Apr 2026 14:00:19 +0000"
@@ -329,16 +339,6 @@
           "title": "Sam Altman is \u201cthe face of evil\u201d for not reporting school shooter, says lawyer",
           "link": "https://arstechnica.com/tech-policy/2026/04/school-shooting-lawsuits-accuse-openai-of-hiding-violent-chatgpt-users/",
           "date": "Wed, 29 Apr 2026 12:00:41 +0000"
-        },
-        {
-          "title": "Check your gravity with NASA's Artemis II zero-g indicator",
-          "link": "https://arstechnica.com/space/2026/04/check-your-gravity-with-nasas-artemis-ii-zero-g-indicator/",
-          "date": "Wed, 29 Apr 2026 11:30:59 +0000"
-        },
-        {
-          "title": "Why a recent supply-chain attack singled out security firms Checkmarx and Bitwarden",
-          "link": "https://arstechnica.com/information-technology/2026/04/why-a-recent-supply-chain-attack-singled-out-security-firms-checkmarx-and-bitwarden/",
-          "date": "Wed, 29 Apr 2026 11:00:24 +0000"
         }
       ],
       "error": null
@@ -363,14 +363,14 @@
           "date": "2026-04-29T09:39:39+00:00"
         },
         {
-          "title": "Snapchat moves ads into chats with AI agents designed to feel like conversation",
-          "link": "https://www.reddit.com/r/artificial/comments/1synpjx/snapchat_moves_ads_into_chats_with_ai_agents/",
-          "date": "2026-04-29T03:54:35+00:00"
+          "title": "87% Cost Savings & Sub-3s Latency: I built a \"Warm-Cache\" harness for persistent Claude agents.",
+          "link": "https://www.reddit.com/r/artificial/comments/1syw5al/87_cost_savings_sub3s_latency_i_built_a_warmcache/",
+          "date": "2026-04-29T11:33:35+00:00"
         },
         {
-          "title": "From 355 lbs to 182 lbs. I finally stopped quitting because I made tracking as easy as taking a photo.",
-          "link": "https://www.reddit.com/r/artificial/comments/1syzl1d/from_355_lbs_to_182_lbs_i_finally_stopped/",
-          "date": "2026-04-29T13:57:15+00:00"
+          "title": "Run, learn and test Agentic AI on your browser, for free and no setup!",
+          "link": "https://www.reddit.com/r/artificial/comments/1syzh75/run_learn_and_test_agentic_ai_on_your_browser_for/",
+          "date": "2026-04-29T13:53:13+00:00"
         }
       ],
       "error": null
@@ -417,7 +417,7 @@
           "date": "Wed, 29 Apr 2026 09:00:51 GMT"
         },
         {
-          "title": "Making AI chatbots more friendly leads to mistakes and support of conspiracy theories, study finds",
+          "title": "Friendly AI chatbots more likely to support conspiracy theories, study finds",
           "link": "https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study",
           "date": "Wed, 29 Apr 2026 15:00:52 GMT"
         },
@@ -432,7 +432,7 @@
           "date": "Wed, 29 Apr 2026 05:00:46 GMT"
         },
         {
-          "title": "A whole new world: Disneyland adds facial recognition to some entrance lanes",
+          "title": "Mickey Mouse is watching you: Disneyland deploys facial recognition",
           "link": "https://www.theguardian.com/us-news/2026/apr/28/disneyland-entrance-facial-recognition",
           "date": "Wed, 29 Apr 2026 01:44:42 GMT"
         }
@@ -449,6 +449,11 @@
       "name": "Artificial Intelligence \u2013 Futurism",
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
+        {
+          "title": "Uninstalls of ChatGPT Are Spiking at the Worst Time Imaginable for OpenAI",
+          "link": "https://futurism.com/artificial-intelligence/downloads-chatgpt-slowing-worst-time-openai",
+          "date": "Wed, 29 Apr 2026 12:58:51 -0400"
+        },
         {
           "title": "Man Trapped in Dystopian Nightmare Thanks to AI Surveillance Cameras Flagging His Every Move",
           "link": "https://futurism.com/future-society/flock-ai-surveillance-colorado",
@@ -468,11 +473,6 @@
           "title": "OpenAI Hit With Barrage of Lawsuits Over Failure to Report School Shooter Before Massacre",
           "link": "https://futurism.com/artificial-intelligence/openai-school-shooter-tumbler-ridge-lawsuits",
           "date": "Wed, 29 Apr 2026 08:07:17 -0400"
-        },
-        {
-          "title": "Police Are Using AI Camera Networks to Stalk Women",
-          "link": "https://futurism.com/artificial-intelligence/police-ai-surveillance-stalking",
-          "date": "Tue, 28 Apr 2026 15:56:21 -0400"
         }
       ],
       "error": null
