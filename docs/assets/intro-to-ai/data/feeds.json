@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T08:21:38.724463+00:00",
+  "generatedAt": "2026-04-30T10:52:50.498783+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "AI agent governance takes focus as regulators flag control gaps",
+          "link": "https://www.artificialintelligence-news.com/news/ai-agent-governance-control-gaps/",
+          "date": "Thu, 30 Apr 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Big Tech just proved AI infrastructure spending works. Then it raised the bill anyway",
+          "link": "https://www.artificialintelligence-news.com/news/big-tech-ai-infrastructure-spending-q1-2026-results/",
+          "date": "Thu, 30 Apr 2026 10:00:00 +0000"
+        },
+        {
+          "title": "IDC: How EMEA CIOs can jumpstart AI rollouts",
+          "link": "https://www.artificialintelligence-news.com/news/idc-how-emea-cios-can-jumpstart-ai-rollouts/",
+          "date": "Wed, 29 Apr 2026 14:02:45 +0000"
+        },
+        {
+          "title": "GPT-5.5 is OpenAI\u2019s most capable agentic AI model yet",
+          "link": "https://www.artificialintelligence-news.com/news/gpt-5-5-is-openais-most-capable-agentic-ai-model-yet-at-twice-the-api-price/",
+          "date": "Wed, 29 Apr 2026 09:08:13 +0000"
+        },
+        {
+          "title": "IBM launches AI platform Bob to regulate SDLC costs",
+          "link": "https://www.artificialintelligence-news.com/news/ibm-launches-ai-platform-bob-to-regulate-sdlc-costs/",
+          "date": "Tue, 28 Apr 2026 17:34:21 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -327,24 +353,24 @@
           "date": "2026-04-30T06:50:14+00:00"
         },
         {
-          "title": "Building an AI food tracker and currently tackling Apple Health integration. How do you prefer your \"active calories\" to be handled?",
-          "link": "https://www.reddit.com/r/artificial/comments/1szn099/building_an_ai_food_tracker_and_currently/",
-          "date": "2026-04-30T05:33:45+00:00"
-        },
-        {
           "title": "\u2018The cost of compute is far beyond the costs of the employees\u2019: Nvidia exec says right now AI is more expensive than paying human workers",
           "link": "https://www.reddit.com/r/artificial/comments/1syp2jz/the_cost_of_compute_is_far_beyond_the_costs_of/",
           "date": "2026-04-29T05:02:40+00:00"
         },
         {
+          "title": "Google has expanded its list of real-world GenAI use cases to 1,302, highlighting implementations from top companies like Accenture, Deloitte, and BMW.",
+          "link": "https://www.reddit.com/r/artificial/comments/1szrff2/google_has_expanded_its_list_of_realworld_genai/",
+          "date": "2026-04-30T09:46:36+00:00"
+        },
+        {
+          "title": "Building an Al food tracker and currently tackling Apple Health integration. How do you prefer your \u201eactive calories\u201c to be handled?",
+          "link": "https://www.reddit.com/r/artificial/comments/1szqhrk/building_an_al_food_tracker_and_currently/",
+          "date": "2026-04-30T08:52:22+00:00"
+        },
+        {
           "title": "Google just released Deep Research Max \u2014 an autonomous research agent that writes expert-grade reports on its own",
           "link": "https://www.reddit.com/r/artificial/comments/1syxef3/google_just_released_deep_research_max_an/",
           "date": "2026-04-29T12:29:52+00:00"
-        },
-        {
-          "title": "Anthropic Reportedly Plotting to Surpass OpenAI\u2019s Valuation in Next Funding Round",
-          "link": "https://www.reddit.com/r/artificial/comments/1szjigc/anthropic_reportedly_plotting_to_surpass_openais/",
-          "date": "2026-04-30T02:39:05+00:00"
         }
       ],
       "error": null
@@ -353,6 +379,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Overcoming the algorithmic gender bias in AI-driven personal finance",
+          "link": "https://theconversation.com/overcoming-the-algorithmic-gender-bias-in-ai-driven-personal-finance-281250",
+          "date": "2026-04-30T09:27:23Z"
+        },
         {
           "title": "Evolvable AI: are we on the brink of the next major evolutionary transition?",
           "link": "https://theconversation.com/evolvable-ai-are-we-on-the-brink-of-the-next-major-evolutionary-transition-281740",
@@ -372,11 +403,6 @@
           "title": "Elon Musk vs Sam Altman: how the legal battle of the tech billionaires could shape the future of AI",
           "link": "https://theconversation.com/elon-musk-vs-sam-altman-how-the-legal-battle-of-the-tech-billionaires-could-shape-the-future-of-ai-281732",
           "date": "2026-04-29T06:02:36Z"
-        },
-        {
-          "title": "Supervillain or Cicero? Why Palantir\u2019s manifesto has such sinister vibes",
-          "link": "https://theconversation.com/supervillain-or-cicero-why-palantirs-manifesto-has-such-sinister-vibes-281521",
-          "date": "2026-04-29T05:10:49Z"
         }
       ],
       "error": null
@@ -385,16 +411,6 @@
       "name": "Artificial intelligence (AI) | The Guardian",
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
-        {
-          "title": "Meet the AI jailbreakers: \u2018I see the worst things humanity has produced\u2019",
-          "link": "https://www.theguardian.com/technology/2026/apr/29/meet-the-ai-jailbreakers-i-see-the-worst-things-humanity-has-produced",
-          "date": "Wed, 29 Apr 2026 09:00:51 GMT"
-        },
-        {
-          "title": "I took an algorithm to court in Sweden. The algorithm won | Charlotta Kronblad",
-          "link": "https://www.theguardian.com/commentisfree/2026/apr/30/i-took-an-algorithm-to-court-in-sweden-the-algorithm-won",
-          "date": "Thu, 30 Apr 2026 04:00:07 GMT"
-        },
         {
           "title": "Bernie Sanders urges international cooperation to halt AI\u2019s \u2018runaway train\u2019",
           "link": "https://www.theguardian.com/us-news/2026/apr/29/bernie-sanders-ai-panel",
@@ -409,6 +425,16 @@
           "title": "Claude AI agent\u2019s confession after deleting a firm\u2019s entire database: \u2018I violated every principle I was given\u2019",
           "link": "https://www.theguardian.com/technology/2026/apr/29/claude-ai-deletes-firm-database",
           "date": "Wed, 29 Apr 2026 22:12:49 GMT"
+        },
+        {
+          "title": "Stephen Fry sues tech conference organisers for \u00a3100,000 over fall from stage",
+          "link": "https://www.theguardian.com/culture/2026/apr/29/stephen-fry-sues-tech-conference-organisers-for-100000-over-fall-from-stage",
+          "date": "Wed, 29 Apr 2026 21:28:33 GMT"
+        },
+        {
+          "title": "Friendly AI chatbots more likely to support conspiracy theories, study finds",
+          "link": "https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study",
+          "date": "Wed, 29 Apr 2026 15:00:52 GMT"
         }
       ],
       "error": null
@@ -456,6 +482,16 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "These Men Allegedly Profit Off Teaching People How to Make AI Porn",
+          "link": "https://www.wired.com/story/ai-porn-lawsuit-arizona/",
+          "date": "Thu, 30 Apr 2026 10:30:00 +0000"
+        },
+        {
+          "title": "Reid Hoffman Thinks Doctors Should Ask AI for a Second Opinion",
+          "link": "https://www.wired.com/story/reid-hoffman-ai-doctor-second-opinion-wired-health/",
+          "date": "Thu, 30 Apr 2026 09:00:00 +0000"
+        },
+        {
           "title": "How Elon Musk Squeezed OpenAI: They 'Are Gonna Want to Kill Me\u2019",
           "link": "https://www.wired.com/story/model-behavior-elon-musk-cross-examined-sam-altman/",
           "date": "Wed, 29 Apr 2026 23:41:51 +0000"
@@ -469,16 +505,6 @@
           "title": "Taylor Swift Wants to Trademark Her Likeness. These TikTok Deepfake Ads Show Why",
           "link": "https://www.wired.com/story/taylor-swift-rihanna-tiktok-deepfake-ads/",
           "date": "Wed, 29 Apr 2026 20:36:53 +0000"
-        },
-        {
-          "title": "Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed",
-          "link": "https://www.wired.com/story/chinese-ai-giant-sensetime-is-running-its-new-model-on-chinese-chips/",
-          "date": "Wed, 29 Apr 2026 17:23:52 +0000"
-        },
-        {
-          "title": "I've Covered Robots for Years. This One Is Different",
-          "link": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
-          "date": "Wed, 29 Apr 2026 10:00:00 +0000"
         }
       ],
       "error": null
@@ -487,6 +513,11 @@
       "name": "Artificial Intelligence News -- ScienceDaily",
       "url": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "items": [
+        {
+          "title": "This AI knew the answers but didn\u2019t understand the questions",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260429102035.htm",
+          "date": "Thu, 30 Apr 2026 02:44:03 EDT"
+        },
         {
           "title": "AI swarms could hijack democracy without anyone noticing",
           "link": "https://www.sciencedaily.com/releases/2026/04/260420014748.htm",
@@ -506,11 +537,6 @@
           "title": "Quantum AI just got shockingly good at predicting chaos",
           "link": "https://www.sciencedaily.com/releases/2026/04/260417224455.htm",
           "date": "Fri, 17 Apr 2026 23:51:09 EDT"
-        },
-        {
-          "title": "This simple change stops robot swarms from getting stuck",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260414075639.htm",
-          "date": "Wed, 15 Apr 2026 03:45:51 EDT"
         }
       ],
       "error": null
