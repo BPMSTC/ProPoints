@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T05:56:10.945445+00:00",
+  "generatedAt": "2026-04-30T08:21:38.724463+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "IDC: How EMEA CIOs can jumpstart AI rollouts",
-          "link": "https://www.artificialintelligence-news.com/news/idc-how-emea-cios-can-jumpstart-ai-rollouts/",
-          "date": "Wed, 29 Apr 2026 14:02:45 +0000"
-        },
-        {
-          "title": "GPT-5.5 is OpenAI\u2019s most capable agentic AI model yet",
-          "link": "https://www.artificialintelligence-news.com/news/gpt-5-5-is-openais-most-capable-agentic-ai-model-yet-at-twice-the-api-price/",
-          "date": "Wed, 29 Apr 2026 09:08:13 +0000"
-        },
-        {
-          "title": "IBM launches AI platform Bob to regulate SDLC costs",
-          "link": "https://www.artificialintelligence-news.com/news/ibm-launches-ai-platform-bob-to-regulate-sdlc-costs/",
-          "date": "Tue, 28 Apr 2026 17:34:21 +0000"
-        },
-        {
-          "title": "The evolution of encoders: From simple models to multimodal AI",
-          "link": "https://www.artificialintelligence-news.com/news/the-evolution-of-encoders-from-simple-models-to-multimodal-ai/",
-          "date": "Tue, 28 Apr 2026 13:01:51 +0000"
-        },
-        {
-          "title": "Kakao Mobility details Level 4 autonomous driving roadmap for physical AI",
-          "link": "https://www.artificialintelligence-news.com/news/kakao-mobility-level-4-autonomous-driving-roadmap/",
-          "date": "Tue, 28 Apr 2026 10:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -348,6 +322,16 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
+          "title": "Anthropic mass shipped 9 connectors and accidentally leaked their entire creative industry strategy",
+          "link": "https://www.reddit.com/r/artificial/comments/1szoe78/anthropic_mass_shipped_9_connectors_and/",
+          "date": "2026-04-30T06:50:14+00:00"
+        },
+        {
+          "title": "Building an AI food tracker and currently tackling Apple Health integration. How do you prefer your \"active calories\" to be handled?",
+          "link": "https://www.reddit.com/r/artificial/comments/1szn099/building_an_ai_food_tracker_and_currently/",
+          "date": "2026-04-30T05:33:45+00:00"
+        },
+        {
           "title": "\u2018The cost of compute is far beyond the costs of the employees\u2019: Nvidia exec says right now AI is more expensive than paying human workers",
           "link": "https://www.reddit.com/r/artificial/comments/1syp2jz/the_cost_of_compute_is_far_beyond_the_costs_of/",
           "date": "2026-04-29T05:02:40+00:00"
@@ -356,16 +340,6 @@
           "title": "Google just released Deep Research Max \u2014 an autonomous research agent that writes expert-grade reports on its own",
           "link": "https://www.reddit.com/r/artificial/comments/1syxef3/google_just_released_deep_research_max_an/",
           "date": "2026-04-29T12:29:52+00:00"
-        },
-        {
-          "title": "Are people putting any control layer between AI agents and destructive actions?",
-          "link": "https://www.reddit.com/r/artificial/comments/1szn5uy/are_people_putting_any_control_layer_between_ai/",
-          "date": "2026-04-30T05:42:04+00:00"
-        },
-        {
-          "title": "Building an AI food tracker and currently tackling Apple Health integration. How do you prefer your \"active calories\" to be handled?",
-          "link": "https://www.reddit.com/r/artificial/comments/1szn099/building_an_ai_food_tracker_and_currently/",
-          "date": "2026-04-30T05:33:45+00:00"
         },
         {
           "title": "Anthropic Reportedly Plotting to Surpass OpenAI\u2019s Valuation in Next Funding Round",
