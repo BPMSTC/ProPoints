@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T10:52:50.498783+00:00",
+  "generatedAt": "2026-04-30T12:13:08.158233+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -70,7 +70,7 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
-          "title": "Powering reliable AI agent creation with observability",
+          "title": "How observability keeps AI systems reliable at scale",
           "link": "https://www.aiacceleratorinstitute.com/reliable-ai-agent-creation-with-observability/",
           "date": "Wed, 29 Apr 2026 13:25:40 GMT"
         },
@@ -152,6 +152,11 @@
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [
         {
+          "title": "A guide to APIs, MCPs, and MCP Gateways",
+          "link": "https://www.artificialintelligence-news.com/news/a-guide-to-apis-and-mcps-and-mcp-gateways/",
+          "date": "Thu, 30 Apr 2026 11:18:00 +0000"
+        },
+        {
           "title": "AI agent governance takes focus as regulators flag control gaps",
           "link": "https://www.artificialintelligence-news.com/news/ai-agent-governance-control-gaps/",
           "date": "Thu, 30 Apr 2026 10:00:00 +0000"
@@ -170,11 +175,6 @@
           "title": "GPT-5.5 is OpenAI\u2019s most capable agentic AI model yet",
           "link": "https://www.artificialintelligence-news.com/news/gpt-5-5-is-openais-most-capable-agentic-ai-model-yet-at-twice-the-api-price/",
           "date": "Wed, 29 Apr 2026 09:08:13 +0000"
-        },
-        {
-          "title": "IBM launches AI platform Bob to regulate SDLC costs",
-          "link": "https://www.artificialintelligence-news.com/news/ibm-launches-ai-platform-bob-to-regulate-sdlc-costs/",
-          "date": "Tue, 28 Apr 2026 17:34:21 +0000"
         }
       ],
       "error": null
@@ -353,14 +353,14 @@
           "date": "2026-04-30T06:50:14+00:00"
         },
         {
-          "title": "\u2018The cost of compute is far beyond the costs of the employees\u2019: Nvidia exec says right now AI is more expensive than paying human workers",
-          "link": "https://www.reddit.com/r/artificial/comments/1syp2jz/the_cost_of_compute_is_far_beyond_the_costs_of/",
-          "date": "2026-04-29T05:02:40+00:00"
-        },
-        {
           "title": "Google has expanded its list of real-world GenAI use cases to 1,302, highlighting implementations from top companies like Accenture, Deloitte, and BMW.",
           "link": "https://www.reddit.com/r/artificial/comments/1szrff2/google_has_expanded_its_list_of_realworld_genai/",
           "date": "2026-04-30T09:46:36+00:00"
+        },
+        {
+          "title": "\u2018The cost of compute is far beyond the costs of the employees\u2019: Nvidia exec says right now AI is more expensive than paying human workers",
+          "link": "https://www.reddit.com/r/artificial/comments/1syp2jz/the_cost_of_compute_is_far_beyond_the_costs_of/",
+          "date": "2026-04-29T05:02:40+00:00"
         },
         {
           "title": "Building an Al food tracker and currently tackling Apple Health integration. How do you prefer your \u201eactive calories\u201c to be handled?",
