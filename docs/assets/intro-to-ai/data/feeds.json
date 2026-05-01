@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T19:16:38.853048+00:00",
+  "generatedAt": "2026-05-01T20:49:38.507201+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -316,6 +316,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Ubuntu infrastructure has been down for more than a day",
+          "link": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
+          "date": "Fri, 01 May 2026 19:12:26 +0000"
+        },
+        {
           "title": "Senators ban themselves from prediction markets after candidates bet on own races",
           "link": "https://arstechnica.com/tech-policy/2026/05/senators-ban-themselves-from-prediction-markets-after-candidates-bet-on-own-races/",
           "date": "Fri, 01 May 2026 17:51:24 +0000"
@@ -334,11 +339,6 @@
           "title": "Scorpions go terminator mode and reinforce their weapons with metal",
           "link": "https://arstechnica.com/science/2026/05/scorpions-go-terminator-mode-and-reinforce-their-weapons-with-metal/",
           "date": "Fri, 01 May 2026 16:24:45 +0000"
-        },
-        {
-          "title": "GPT-5.5 matches heavily hyped Mythos Preview in new cybersecurity tests",
-          "link": "https://arstechnica.com/ai/2026/05/amid-mythos-hyped-cybersecurity-prowess-researchers-find-gpt-5-5-is-just-as-good/",
-          "date": "Fri, 01 May 2026 15:32:27 +0000"
         }
       ],
       "error": null
@@ -363,14 +363,14 @@
           "date": "2026-05-01T12:36:50+00:00"
         },
         {
-          "title": "Mark Zuckerberg Says AI Costs Contributed To Layoffs Of 8,000 Staffers, Report Says",
-          "link": "https://www.reddit.com/r/artificial/comments/1t0cy0n/mark_zuckerberg_says_ai_costs_contributed_to/",
-          "date": "2026-04-30T23:46:05+00:00"
-        },
-        {
           "title": "I built a router that automatically sends your AI tasks to the most appropriate model to handle them at low cost - 9,200 tasks in, $21 saved at $0.14 actual cost",
           "link": "https://www.reddit.com/r/artificial/comments/1t0soki/i_built_a_router_that_automatically_sends_your_ai/",
           "date": "2026-05-01T12:56:46+00:00"
+        },
+        {
+          "title": "Mark Zuckerberg Says AI Costs Contributed To Layoffs Of 8,000 Staffers, Report Says",
+          "link": "https://www.reddit.com/r/artificial/comments/1t0cy0n/mark_zuckerberg_says_ai_costs_contributed_to/",
+          "date": "2026-04-30T23:46:05+00:00"
         }
       ],
       "error": null
@@ -482,6 +482,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
+          "link": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
+          "date": "Fri, 01 May 2026 20:25:28 +0000"
+        },
+        {
           "title": "How Shivon Zilis Operated as Elon Musk\u2019s OpenAI Insider",
           "link": "https://www.wired.com/story/model-behavior-why-everything-in-musk-v-altman-leads-back-to-shivon-zelis/",
           "date": "Fri, 01 May 2026 00:51:18 +0000"
@@ -500,11 +505,6 @@
           "title": "Elon Musk Seemingly Admits xAI Has Used OpenAI\u2019s Models to Train Its Own",
           "link": "https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/",
           "date": "Thu, 30 Apr 2026 17:41:14 +0000"
-        },
-        {
-          "title": "OpenAI Rolls Out \u2018Advanced\u2019 Security Mode for At-Risk Accounts",
-          "link": "https://www.wired.com/story/openai-chatgpt-codex-advanced-account-security/",
-          "date": "Thu, 30 Apr 2026 17:30:39 +0000"
         }
       ],
       "error": null
