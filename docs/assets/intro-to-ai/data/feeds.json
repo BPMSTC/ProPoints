@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T10:26:02.709260+00:00",
+  "generatedAt": "2026-05-01T11:57:19.657958+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -152,6 +152,11 @@
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [
         {
+          "title": "Per-token AI charges come to GitHub Copilot",
+          "link": "https://www.artificialintelligence-news.com/news/per-token-ai-charging-comes-to-github-copilot/",
+          "date": "Fri, 01 May 2026 11:00:00 +0000"
+        },
+        {
           "title": "What LG and NVIDIA\u2019s talks reveal about the future of physical AI",
           "link": "https://www.artificialintelligence-news.com/news/what-lg-and-nvidia-talks-reveal-future-of-physical-ai/",
           "date": "Thu, 30 Apr 2026 15:59:54 +0000"
@@ -170,11 +175,6 @@
           "title": "Big Tech just proved AI infrastructure spending works. Then it raised the bill anyway",
           "link": "https://www.artificialintelligence-news.com/news/big-tech-ai-infrastructure-spending-q1-2026-results/",
           "date": "Thu, 30 Apr 2026 10:00:00 +0000"
-        },
-        {
-          "title": "IDC: How EMEA CIOs can jumpstart AI rollouts",
-          "link": "https://www.artificialintelligence-news.com/news/idc-how-emea-cios-can-jumpstart-ai-rollouts/",
-          "date": "Wed, 29 Apr 2026 14:02:45 +0000"
         }
       ],
       "error": null
@@ -353,6 +353,16 @@
           "date": "2026-04-30T23:46:05+00:00"
         },
         {
+          "title": "Anthropic just analyzed 1 million Claude conversations. 6% of people were asking Claude whether to quit their jobs, who to date, and if they should move countries.",
+          "link": "https://www.reddit.com/r/artificial/comments/1t0qlvx/anthropic_just_analyzed_1_million_claude/",
+          "date": "2026-05-01T11:23:16+00:00"
+        },
+        {
+          "title": "AI outperforms doctors in Harvard trial of emergency triage diagnoses",
+          "link": "https://www.reddit.com/r/artificial/comments/1t0p7ej/ai_outperforms_doctors_in_harvard_trial_of/",
+          "date": "2026-05-01T10:10:00+00:00"
+        },
+        {
           "title": "Anthropic mass shipped 9 connectors and accidentally leaked their entire creative industry strategy",
           "link": "https://www.reddit.com/r/artificial/comments/1szoe78/anthropic_mass_shipped_9_connectors_and/",
           "date": "2026-04-30T06:50:14+00:00"
@@ -361,16 +371,6 @@
           "title": "Deepfakes don't have to be believed to work. They just have to consume the response budget.",
           "link": "https://www.reddit.com/r/artificial/comments/1t0jlc5/deepfakes_dont_have_to_be_believed_to_work_they/",
           "date": "2026-05-01T04:56:05+00:00"
-        },
-        {
-          "title": "Elon Musk says his xAI startup\u2019s models were partially trained on OpenAI\u2019s tech",
-          "link": "https://www.reddit.com/r/artificial/comments/1t03h0n/elon_musk_says_his_xai_startups_models_were/",
-          "date": "2026-04-30T17:45:51+00:00"
-        },
-        {
-          "title": "Text-to-image is easy. Chaining LLMs to generate, critique, and iterate on images autonomously is a routing nightmare. AgentSwarms now supports Image generation playground and creative media workflows!",
-          "link": "https://www.reddit.com/r/artificial/comments/1t0ns35/texttoimage_is_easy_chaining_llms_to_generate/",
-          "date": "2026-05-01T08:48:29+00:00"
         }
       ],
       "error": null
