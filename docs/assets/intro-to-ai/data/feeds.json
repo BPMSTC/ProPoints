@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T11:57:19.657958+00:00",
+  "generatedAt": "2026-05-01T13:22:56.704356+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Anthropic Launches New Security Tool for Enterprises",
+          "link": "https://aibusiness.com/generative-ai/anthropic-launches-security-tool-for-enterprises",
+          "date": "Fri, 01 May 2026 12:07:58 GMT"
+        },
+        {
           "title": "Mistral\u2019s Model Lets You Vibe Long-Running Code in the Cloud",
           "link": "https://aibusiness.com/agentic-ai/mistral-s-model-vibe-long-running-code-in-the-cloud",
           "date": "Thu, 30 Apr 2026 18:23:07 GMT"
@@ -132,11 +137,6 @@
           "title": "AWS Launches Managed Agents with OpenAI Partnership",
           "link": "https://aibusiness.com/agentic-ai/aws-launches-managed-agents-openai-partnership",
           "date": "Wed, 29 Apr 2026 18:22:30 GMT"
-        },
-        {
-          "title": "Scout AI Raises $100M to Build \u2018AI Brain' for Autonomous Warfare",
-          "link": "https://aibusiness.com/robotics/scout-ai-raises-100m-build-ai-brain-autonomous-warfare",
-          "date": "Wed, 29 Apr 2026 16:05:17 GMT"
         }
       ],
       "error": null
@@ -151,6 +151,11 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [
+        {
+          "title": "SAP: How enterprise AI governance secures profit margins",
+          "link": "https://www.artificialintelligence-news.com/news/sap-how-enterprise-ai-governance-secures-profit-margins/",
+          "date": "Fri, 01 May 2026 13:05:37 +0000"
+        },
         {
           "title": "Per-token AI charges come to GitHub Copilot",
           "link": "https://www.artificialintelligence-news.com/news/per-token-ai-charging-comes-to-github-copilot/",
@@ -169,11 +174,6 @@
         {
           "title": "AI agent governance takes focus as regulators flag control gaps",
           "link": "https://www.artificialintelligence-news.com/news/ai-agent-governance-control-gaps/",
-          "date": "Thu, 30 Apr 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Big Tech just proved AI infrastructure spending works. Then it raised the bill anyway",
-          "link": "https://www.artificialintelligence-news.com/news/big-tech-ai-infrastructure-spending-q1-2026-results/",
           "date": "Thu, 30 Apr 2026 10:00:00 +0000"
         }
       ],
@@ -316,6 +316,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "There's a lot of hype about Chinese EVs\u2014is any of it true?",
+          "link": "https://arstechnica.com/cars/2026/05/theres-a-lot-of-hype-about-chinese-evs-is-any-of-it-true/",
+          "date": "Fri, 01 May 2026 11:00:15 +0000"
+        },
+        {
           "title": "Trump nominates Fox News doctor to be the next surgeon general",
           "link": "https://arstechnica.com/health/2026/04/trump-nominates-fox-news-doctor-to-be-the-next-surgeon-general/",
           "date": "Thu, 30 Apr 2026 22:09:36 +0000"
@@ -334,11 +339,6 @@
           "title": "Elon Musk's 7 biggest stumbles on the stand at OpenAI trial",
           "link": "https://arstechnica.com/tech-policy/2026/04/elon-musks-7-biggest-stumbles-on-the-stand-at-openai-trial/",
           "date": "Thu, 30 Apr 2026 21:11:51 +0000"
-        },
-        {
-          "title": "The most severe Linux threat to surface in years catches the world flat-footed",
-          "link": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
-          "date": "Thu, 30 Apr 2026 20:20:48 +0000"
         }
       ],
       "error": null
@@ -348,14 +348,19 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
+          "title": "Anthropic just analyzed 1 million Claude conversations. 6% of people were asking Claude whether to quit their jobs, who to date, and if they should move countries.",
+          "link": "https://www.reddit.com/r/artificial/comments/1t0qlvx/anthropic_just_analyzed_1_million_claude/",
+          "date": "2026-05-01T11:23:16+00:00"
+        },
+        {
           "title": "Mark Zuckerberg Says AI Costs Contributed To Layoffs Of 8,000 Staffers, Report Says",
           "link": "https://www.reddit.com/r/artificial/comments/1t0cy0n/mark_zuckerberg_says_ai_costs_contributed_to/",
           "date": "2026-04-30T23:46:05+00:00"
         },
         {
-          "title": "Anthropic just analyzed 1 million Claude conversations. 6% of people were asking Claude whether to quit their jobs, who to date, and if they should move countries.",
-          "link": "https://www.reddit.com/r/artificial/comments/1t0qlvx/anthropic_just_analyzed_1_million_claude/",
-          "date": "2026-05-01T11:23:16+00:00"
+          "title": "I built a router that automatically sends your AI tasks to the most appropriate model to handle them at low cost - 9,200 tasks in, $21 saved at $0.14 actual cost",
+          "link": "https://www.reddit.com/r/artificial/comments/1t0soki/i_built_a_router_that_automatically_sends_your_ai/",
+          "date": "2026-05-01T12:56:46+00:00"
         },
         {
           "title": "AI outperforms doctors in Harvard trial of emergency triage diagnoses",
@@ -366,11 +371,6 @@
           "title": "Anthropic mass shipped 9 connectors and accidentally leaked their entire creative industry strategy",
           "link": "https://www.reddit.com/r/artificial/comments/1szoe78/anthropic_mass_shipped_9_connectors_and/",
           "date": "2026-04-30T06:50:14+00:00"
-        },
-        {
-          "title": "Deepfakes don't have to be believed to work. They just have to consume the response budget.",
-          "link": "https://www.reddit.com/r/artificial/comments/1t0jlc5/deepfakes_dont_have_to_be_believed_to_work_they/",
-          "date": "2026-05-01T04:56:05+00:00"
         }
       ],
       "error": null
@@ -379,6 +379,16 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "AI chatbots can prioritize flattery over facts \u2013 and that carries serious risks",
+          "link": "https://theconversation.com/ai-chatbots-can-prioritize-flattery-over-facts-and-that-carries-serious-risks-274298",
+          "date": "2026-05-01T12:23:44Z"
+        },
+        {
+          "title": "AI data center boom is leaving consumer electronics short of chips \u2212 even though they don\u2019t use the same kinds",
+          "link": "https://theconversation.com/ai-data-center-boom-is-leaving-consumer-electronics-short-of-chips-even-though-they-dont-use-the-same-kinds-277069",
+          "date": "2026-05-01T12:20:39Z"
+        },
         {
           "title": "Sramcbled wrods: the real reason you can still read jumbled text",
           "link": "https://theconversation.com/sramcbled-wrods-the-real-reason-you-can-still-read-jumbled-text-280457",
@@ -393,16 +403,6 @@
           "title": "Overcoming the algorithmic gender bias in AI-driven personal finance",
           "link": "https://theconversation.com/overcoming-the-algorithmic-gender-bias-in-ai-driven-personal-finance-281250",
           "date": "2026-04-30T09:27:23Z"
-        },
-        {
-          "title": "Evolvable AI: are we on the brink of the next major evolutionary transition?",
-          "link": "https://theconversation.com/evolvable-ai-are-we-on-the-brink-of-the-next-major-evolutionary-transition-281740",
-          "date": "2026-04-30T03:30:55Z"
-        },
-        {
-          "title": "Why the world needs the UN to keep an eye on AI",
-          "link": "https://theconversation.com/why-the-world-needs-the-un-to-keep-an-eye-on-ai-277143",
-          "date": "2026-04-29T15:02:26Z"
         }
       ],
       "error": null
@@ -415,6 +415,11 @@
           "title": "\u2018Awkward and humiliating\u2019: UK job hunters share frustration with AI interviews",
           "link": "https://www.theguardian.com/technology/2026/may/01/uk-job-hunters-frustration-ai-interviews",
           "date": "Fri, 01 May 2026 05:00:38 GMT"
+        },
+        {
+          "title": "Pentagon plans to make US military \u2018AI-first fighting force\u2019 by pairing with companies",
+          "link": "https://www.theguardian.com/us-news/2026/may/01/pentagon-us-military-pairs-with-spacex-google-openai",
+          "date": "Fri, 01 May 2026 12:35:14 GMT"
         },
         {
           "title": "UN warns women in public life face increasingly sophisticated online violence",
@@ -430,11 +435,6 @@
           "title": "Judge cuts off Musk\u2019s AI doomsday talk as his testimony ends in OpenAI case",
           "link": "https://www.theguardian.com/technology/2026/apr/30/openai-founding-trial-elon-musk-sam-altman",
           "date": "Thu, 30 Apr 2026 20:05:46 GMT"
-        },
-        {
-          "title": "Spotify rolls out \u2018Verified\u2019 badge to distinguish human artists from AI",
-          "link": "https://www.theguardian.com/technology/2026/apr/30/spotify-verified-badge-human-artists-from-ai",
-          "date": "Thu, 30 Apr 2026 19:56:12 GMT"
         }
       ],
       "error": null
@@ -448,34 +448,8 @@
     {
       "name": "Artificial Intelligence \u2013 Futurism",
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
-      "items": [
-        {
-          "title": "Elon Musk Just Got Badly Humiliated in Court",
-          "link": "https://futurism.com/artificial-intelligence/elon-musk-openai-lawsuit",
-          "date": "Thu, 30 Apr 2026 16:18:37 -0400"
-        },
-        {
-          "title": "Amazon\u2019s New AI-Generated \u201cPodcasts\u201d Shilling Every Imaginable Products Are Already Backfiring Spectacularly",
-          "link": "https://futurism.com/artificial-intelligence/amazon-ai-generated-infomercials-backfiring",
-          "date": "Thu, 30 Apr 2026 16:01:34 -0400"
-        },
-        {
-          "title": "OpenAI Strangely Concerned About Goblins",
-          "link": "https://futurism.com/artificial-intelligence/openai-concerned-about-goblins",
-          "date": "Thu, 30 Apr 2026 15:27:22 -0400"
-        },
-        {
-          "title": "If OpenAI Loses This Trial, It Could Effectively Be Eliminated in Its Current Form",
-          "link": "https://futurism.com/future-society/openai-collapse-weeks-elon-musk-lawsuit",
-          "date": "Thu, 30 Apr 2026 13:10:57 -0400"
-        },
-        {
-          "title": "Mark Zuckerberg Just Got Shot Down by China, Again",
-          "link": "https://futurism.com/artificial-intelligence/mark-zuckerberg-shot-down-by-china",
-          "date": "Thu, 30 Apr 2026 09:57:41 -0400"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:39: junk after document element"
     },
     {
       "name": "Artificial Intelligence Latest - Wired",
