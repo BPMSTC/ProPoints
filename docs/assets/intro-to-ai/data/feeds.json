@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-05-01T15:55:05.291384+00:00",
+  "generatedAt": "2026-05-01T16:55:34.780849+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Behind the Blog: Big Questions of Consciousness",
+          "link": "https://www.404media.co/behind-the-blog-big-questions-of-consciousness/",
+          "date": "Fri, 01 May 2026 16:50:32 GMT"
+        },
         {
           "title": "People Are Selling Kills of Marathon\u2019s Hardest Boss on eBay",
           "link": "https://www.404media.co/buy-marathon-compiler-kill/",
@@ -24,11 +29,6 @@
           "title": "World\u2019s Largest Digital Human Rights Conference Suddenly Canceled",
           "link": "https://www.404media.co/rightscon-human-rights-conference-suddenly-postponed/",
           "date": "Wed, 29 Apr 2026 16:54:33 GMT"
-        },
-        {
-          "title": "DHS Plans to Buy More Predator-Style Drones",
-          "link": "https://www.404media.co/dhs-plans-to-buy-more-predator-style-drones/",
-          "date": "Wed, 29 Apr 2026 14:35:14 GMT"
         }
       ],
       "error": null
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "AI Demand Is Outpacing the Scaffolding to Support It",
+          "link": "https://aibusiness.com/generative-ai/ai-demand-outpacing-the-scaffolding-support-it",
+          "date": "Fri, 01 May 2026 16:30:28 GMT"
+        },
+        {
           "title": "Anthropic Launches New Security Tool for Enterprises",
           "link": "https://aibusiness.com/generative-ai/anthropic-launches-security-tool-for-enterprises",
           "date": "Fri, 01 May 2026 12:07:58 GMT"
@@ -132,11 +137,6 @@
           "title": "Glean's Model Aims to Redefine Enterprise Search With AI",
           "link": "https://aibusiness.com/agentic-ai/glean-s-model-aims-redefine-enterprise-search-with-ai",
           "date": "Wed, 29 Apr 2026 21:54:48 GMT"
-        },
-        {
-          "title": "AWS Launches Managed Agents with OpenAI Partnership",
-          "link": "https://aibusiness.com/agentic-ai/aws-launches-managed-agents-openai-partnership",
-          "date": "Wed, 29 Apr 2026 18:22:30 GMT"
         }
       ],
       "error": null
@@ -358,19 +358,19 @@
           "date": "2026-05-01T13:32:12+00:00"
         },
         {
-          "title": "Mark Zuckerberg Says AI Costs Contributed To Layoffs Of 8,000 Staffers, Report Says",
-          "link": "https://www.reddit.com/r/artificial/comments/1t0cy0n/mark_zuckerberg_says_ai_costs_contributed_to/",
-          "date": "2026-04-30T23:46:05+00:00"
-        },
-        {
           "title": "I built a router that automatically sends your AI tasks to the most appropriate model to handle them at low cost - 9,200 tasks in, $21 saved at $0.14 actual cost",
           "link": "https://www.reddit.com/r/artificial/comments/1t0soki/i_built_a_router_that_automatically_sends_your_ai/",
           "date": "2026-05-01T12:56:46+00:00"
         },
         {
-          "title": "AI outperforms doctors in Harvard trial of emergency triage diagnoses",
-          "link": "https://www.reddit.com/r/artificial/comments/1t0p7ej/ai_outperforms_doctors_in_harvard_trial_of/",
-          "date": "2026-05-01T10:10:00+00:00"
+          "title": "Mark Zuckerberg Says AI Costs Contributed To Layoffs Of 8,000 Staffers, Report Says",
+          "link": "https://www.reddit.com/r/artificial/comments/1t0cy0n/mark_zuckerberg_says_ai_costs_contributed_to/",
+          "date": "2026-04-30T23:46:05+00:00"
+        },
+        {
+          "title": "Public photos are not consent to biometric search infrastructure",
+          "link": "https://www.reddit.com/r/artificial/comments/1t0s7yh/public_photos_are_not_consent_to_biometric_search/",
+          "date": "2026-05-01T12:36:50+00:00"
         }
       ],
       "error": null
@@ -417,14 +417,14 @@
           "date": "Fri, 01 May 2026 05:00:38 GMT"
         },
         {
+          "title": "Pentagon inks deals with seven AI companies for classified military work",
+          "link": "https://www.theguardian.com/us-news/2026/may/01/pentagon-us-military-pairs-with-spacex-google-openai",
+          "date": "Fri, 01 May 2026 16:08:06 GMT"
+        },
+        {
           "title": "UN warns women in public life face increasingly sophisticated online violence",
           "link": "https://www.theguardian.com/society/2026/may/01/un-warns-women-in-public-life-face-increasingly-sophisticated-online-violence",
           "date": "Fri, 01 May 2026 15:51:58 GMT"
-        },
-        {
-          "title": "Pentagon inks deals with seven AI companies for classified military work",
-          "link": "https://www.theguardian.com/us-news/2026/may/01/pentagon-us-military-pairs-with-spacex-google-openai",
-          "date": "Fri, 01 May 2026 14:52:00 GMT"
         },
         {
           "title": "Robo athletes miss the point of sport \u2013 there is no drama without emotion | Emma John",
@@ -450,6 +450,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "New England Journal of Medicine Retracts Paper Because Photo of Patient\u2019s Insides Was Garbled by AI",
+          "link": "https://futurism.com/artificial-intelligence/new-england-journal-of-medicine-retracts-paper-photo-ai",
+          "date": "Fri, 01 May 2026 12:01:28 -0400"
+        },
+        {
           "title": "Gen Z Is Turning Against AI in an Incredible Way",
           "link": "https://futurism.com/artificial-intelligence/gen-z-turning-against-ai",
           "date": "Fri, 01 May 2026 08:56:15 -0400"
@@ -468,11 +473,6 @@
           "title": "OpenAI Strangely Concerned About Goblins",
           "link": "https://futurism.com/artificial-intelligence/openai-concerned-about-goblins",
           "date": "Thu, 30 Apr 2026 15:27:22 -0400"
-        },
-        {
-          "title": "If OpenAI Loses This Trial, It Could Effectively Be Eliminated in Its Current Form",
-          "link": "https://futurism.com/future-society/openai-collapse-weeks-elon-musk-lawsuit",
-          "date": "Thu, 30 Apr 2026 13:10:57 -0400"
         }
       ],
       "error": null
