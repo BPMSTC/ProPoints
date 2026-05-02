@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T07:28:48.811968+00:00",
+  "generatedAt": "2026-05-02T09:03:10.279979+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "SAP: How enterprise AI governance secures profit margins",
-          "link": "https://www.artificialintelligence-news.com/news/sap-how-enterprise-ai-governance-secures-profit-margins/",
-          "date": "Fri, 01 May 2026 13:05:37 +0000"
-        },
-        {
-          "title": "Per-token AI charges come to GitHub Copilot",
-          "link": "https://www.artificialintelligence-news.com/news/per-token-ai-charging-comes-to-github-copilot/",
-          "date": "Fri, 01 May 2026 11:00:00 +0000"
-        },
-        {
-          "title": "What LG and NVIDIA\u2019s talks reveal about the future of physical AI",
-          "link": "https://www.artificialintelligence-news.com/news/what-lg-and-nvidia-talks-reveal-future-of-physical-ai/",
-          "date": "Thu, 30 Apr 2026 15:59:54 +0000"
-        },
-        {
-          "title": "A guide to APIs, MCPs, and MCP Gateways",
-          "link": "https://www.artificialintelligence-news.com/news/a-guide-to-apis-and-mcps-and-mcp-gateways/",
-          "date": "Thu, 30 Apr 2026 11:18:00 +0000"
-        },
-        {
-          "title": "AI agent governance takes focus as regulators flag control gaps",
-          "link": "https://www.artificialintelligence-news.com/news/ai-agent-governance-control-gaps/",
-          "date": "Thu, 30 Apr 2026 10:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -363,14 +337,14 @@
           "date": "2026-05-01T13:32:12+00:00"
         },
         {
-          "title": "The Override Problem: The Same AI Behavior That Helps Users Can Delete Production Data",
-          "link": "https://www.reddit.com/r/artificial/comments/1t1hsah/the_override_problem_the_same_ai_behavior_that/",
-          "date": "2026-05-02T06:15:28+00:00"
+          "title": "\"Prompt Engineering\" certs are a joke. So we built a FREE Agentic AI Practitioner Exam that actually forces you to build working swarms to pass.",
+          "link": "https://www.reddit.com/r/artificial/comments/1t1k9mr/prompt_engineering_certs_are_a_joke_so_we_built_a/",
+          "date": "2026-05-02T08:36:54+00:00"
         },
         {
-          "title": "I Cut Claude API Costs by 50% Using This Self Modifying Agentic System",
-          "link": "https://www.reddit.com/r/artificial/comments/1t1fjek/i_cut_claude_api_costs_by_50_using_this_self/",
-          "date": "2026-05-02T04:15:50+00:00"
+          "title": "Pentagon inks deals with seven AI companies for classified military work | Trump administration",
+          "link": "https://www.reddit.com/r/artificial/comments/1t18zba/pentagon_inks_deals_with_seven_ai_companies_for/",
+          "date": "2026-05-01T23:08:36+00:00"
         }
       ],
       "error": null
