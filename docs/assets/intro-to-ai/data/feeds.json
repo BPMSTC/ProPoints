@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T11:39:44.113461+00:00",
+  "generatedAt": "2026-05-03T13:03:51.126114+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "SAP: How enterprise AI governance secures profit margins",
+          "link": "https://www.artificialintelligence-news.com/news/sap-how-enterprise-ai-governance-secures-profit-margins/",
+          "date": "Fri, 01 May 2026 13:05:37 +0000"
+        },
+        {
+          "title": "Per-token AI charges come to GitHub Copilot",
+          "link": "https://www.artificialintelligence-news.com/news/per-token-ai-charging-comes-to-github-copilot/",
+          "date": "Fri, 01 May 2026 11:00:00 +0000"
+        },
+        {
+          "title": "What LG and NVIDIA\u2019s talks reveal about the future of physical AI",
+          "link": "https://www.artificialintelligence-news.com/news/what-lg-and-nvidia-talks-reveal-future-of-physical-ai/",
+          "date": "Thu, 30 Apr 2026 15:59:54 +0000"
+        },
+        {
+          "title": "A guide to APIs, MCPs, and MCP Gateways",
+          "link": "https://www.artificialintelligence-news.com/news/a-guide-to-apis-and-mcps-and-mcp-gateways/",
+          "date": "Thu, 30 Apr 2026 11:18:00 +0000"
+        },
+        {
+          "title": "AI agent governance takes focus as regulators flag control gaps",
+          "link": "https://www.artificialintelligence-news.com/news/ai-agent-governance-control-gaps/",
+          "date": "Thu, 30 Apr 2026 10:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -332,6 +358,11 @@
           "date": "2026-05-02T10:44:48+00:00"
         },
         {
+          "title": "\ud835\udd4f is now marking your photos if they are made or partially made by AI",
+          "link": "https://www.reddit.com/r/artificial/comments/1t2jf9p/\ud835\udd4f_is_now_marking_your_photos_if_they_are_made_or/",
+          "date": "2026-05-03T11:55:20+00:00"
+        },
+        {
           "title": "California to begin ticketing driverless cars that violate traffic laws",
           "link": "https://www.reddit.com/r/artificial/comments/1t1xwmc/california_to_begin_ticketing_driverless_cars/",
           "date": "2026-05-02T18:35:47+00:00"
@@ -340,11 +371,6 @@
           "title": "AI is starting to beat doctors at making correct diagnoses",
           "link": "https://www.reddit.com/r/artificial/comments/1t26als/ai_is_starting_to_beat_doctors_at_making_correct/",
           "date": "2026-05-03T00:19:46+00:00"
-        },
-        {
-          "title": "My dream of a fully generative game is getting pretty close to possible now. I made a demo where you can prompt any spell and fight online.",
-          "link": "https://www.reddit.com/r/artificial/comments/1t1vk3h/my_dream_of_a_fully_generative_game_is_getting/",
-          "date": "2026-05-02T17:08:10+00:00"
         }
       ],
       "error": null
@@ -353,6 +379,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "How should schools teach AI? 3 models to consider",
+          "link": "https://theconversation.com/how-should-schools-teach-ai-3-models-to-consider-278041",
+          "date": "2026-05-03T12:10:42Z"
+        },
         {
           "title": "The four-day week won\u2019t happen overnight, but it could transform how we live and work",
           "link": "https://theconversation.com/the-four-day-week-wont-happen-overnight-but-it-could-transform-how-we-live-and-work-281934",
@@ -372,11 +403,6 @@
           "title": "Sramcbled wrods: the real reason you can still read jumbled text",
           "link": "https://theconversation.com/sramcbled-wrods-the-real-reason-you-can-still-read-jumbled-text-280457",
           "date": "2026-04-30T20:12:04Z"
-        },
-        {
-          "title": "\u2018Just looping you in\u2019: why letting AI write our emails might actually create more work",
-          "link": "https://theconversation.com/just-looping-you-in-why-letting-ai-write-our-emails-might-actually-create-more-work-281225",
-          "date": "2026-04-30T20:11:53Z"
         }
       ],
       "error": null
@@ -424,6 +450,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "The Economics of Using AI to Churn Out Code Are Looking Worse Than Ever",
+          "link": "https://futurism.com/artificial-intelligence/economics-ai-churn-code",
+          "date": "Sun, 03 May 2026 08:15:00 -0400"
+        },
+        {
           "title": "The White House Suddenly Seems Pretty Terrified of Anthropic",
           "link": "https://futurism.com/artificial-intelligence/white-house-terrified-anthropic-mythos",
           "date": "Sun, 03 May 2026 06:45:00 -0400"
@@ -442,11 +473,6 @@
           "title": "There\u2019s Something Bizarre About the Offices of AI Startups",
           "link": "https://futurism.com/artificial-intelligence/ai-startup-offices-nyc",
           "date": "Sat, 02 May 2026 12:45:00 -0400"
-        },
-        {
-          "title": "Bank CEO Brags He Used AI Clone of Himself to Host Conference Call",
-          "link": "https://futurism.com/artificial-intelligence/bank-ceo-ai-clone-call",
-          "date": "Sat, 02 May 2026 10:30:00 -0400"
         }
       ],
       "error": null
