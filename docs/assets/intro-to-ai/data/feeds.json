@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T10:01:20.126317+00:00",
+  "generatedAt": "2026-05-03T11:39:44.113461+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "SAP: How enterprise AI governance secures profit margins",
-          "link": "https://www.artificialintelligence-news.com/news/sap-how-enterprise-ai-governance-secures-profit-margins/",
-          "date": "Fri, 01 May 2026 13:05:37 +0000"
-        },
-        {
-          "title": "Per-token AI charges come to GitHub Copilot",
-          "link": "https://www.artificialintelligence-news.com/news/per-token-ai-charging-comes-to-github-copilot/",
-          "date": "Fri, 01 May 2026 11:00:00 +0000"
-        },
-        {
-          "title": "What LG and NVIDIA\u2019s talks reveal about the future of physical AI",
-          "link": "https://www.artificialintelligence-news.com/news/what-lg-and-nvidia-talks-reveal-future-of-physical-ai/",
-          "date": "Thu, 30 Apr 2026 15:59:54 +0000"
-        },
-        {
-          "title": "A guide to APIs, MCPs, and MCP Gateways",
-          "link": "https://www.artificialintelligence-news.com/news/a-guide-to-apis-and-mcps-and-mcp-gateways/",
-          "date": "Thu, 30 Apr 2026 11:18:00 +0000"
-        },
-        {
-          "title": "AI agent governance takes focus as regulators flag control gaps",
-          "link": "https://www.artificialintelligence-news.com/news/ai-agent-governance-control-gaps/",
-          "date": "Thu, 30 Apr 2026 10:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -363,14 +337,14 @@
           "date": "2026-05-02T18:35:47+00:00"
         },
         {
-          "title": "My dream of a fully generative game is getting pretty close to possible now. I made a demo where you can prompt any spell and fight online.",
-          "link": "https://www.reddit.com/r/artificial/comments/1t1vk3h/my_dream_of_a_fully_generative_game_is_getting/",
-          "date": "2026-05-02T17:08:10+00:00"
-        },
-        {
           "title": "AI is starting to beat doctors at making correct diagnoses",
           "link": "https://www.reddit.com/r/artificial/comments/1t26als/ai_is_starting_to_beat_doctors_at_making_correct/",
           "date": "2026-05-03T00:19:46+00:00"
+        },
+        {
+          "title": "My dream of a fully generative game is getting pretty close to possible now. I made a demo where you can prompt any spell and fight online.",
+          "link": "https://www.reddit.com/r/artificial/comments/1t1vk3h/my_dream_of_a_fully_generative_game_is_getting/",
+          "date": "2026-05-02T17:08:10+00:00"
         }
       ],
       "error": null
@@ -412,6 +386,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Will human minds still be special in an age of AI?",
+          "link": "https://www.theguardian.com/books/2026/may/03/will-human-minds-still-be-special-in-an-age-of-ai",
+          "date": "Sun, 03 May 2026 11:00:54 GMT"
+        },
+        {
           "title": "Mystery sitter in Holbein portrait could be Anne Boleyn, AI analysis finds",
           "link": "https://www.theguardian.com/artanddesign/2026/may/03/unnamed-holbein-portrait-anne-boleyn-ai-analysis",
           "date": "Sun, 03 May 2026 08:33:29 GMT"
@@ -430,11 +409,6 @@
           "title": "Pentagon inks deals with seven AI companies for classified military work",
           "link": "https://www.theguardian.com/us-news/2026/may/01/pentagon-us-military-pairs-with-spacex-google-openai",
           "date": "Fri, 01 May 2026 16:08:06 GMT"
-        },
-        {
-          "title": "UN warns women in public life face increasingly sophisticated online violence",
-          "link": "https://www.theguardian.com/society/2026/may/01/un-warns-women-in-public-life-face-increasingly-sophisticated-online-violence",
-          "date": "Fri, 01 May 2026 15:51:57 GMT"
         }
       ],
       "error": null
@@ -449,6 +423,11 @@
       "name": "Artificial Intelligence \u2013 Futurism",
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
+        {
+          "title": "The White House Suddenly Seems Pretty Terrified of Anthropic",
+          "link": "https://futurism.com/artificial-intelligence/white-house-terrified-anthropic-mythos",
+          "date": "Sun, 03 May 2026 06:45:00 -0400"
+        },
         {
           "title": "Democrat and Republican Voters United on Key Issue: Hatred of Data Centers",
           "link": "https://futurism.com/artificial-intelligence/democrat-republican-voters-united-data-centers",
@@ -468,11 +447,6 @@
           "title": "Bank CEO Brags He Used AI Clone of Himself to Host Conference Call",
           "link": "https://futurism.com/artificial-intelligence/bank-ceo-ai-clone-call",
           "date": "Sat, 02 May 2026 10:30:00 -0400"
-        },
-        {
-          "title": "New AI Trained Only on Pre-1930 Data Speaks Like the Most Old-Timey Guy Imaginable",
-          "link": "https://futurism.com/artificial-intelligence/old-timey-ai-pre-1930",
-          "date": "Sat, 02 May 2026 09:45:00 -0400"
         }
       ],
       "error": null
