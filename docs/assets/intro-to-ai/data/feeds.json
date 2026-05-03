@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T14:45:53.998790+00:00",
+  "generatedAt": "2026-05-03T15:44:06.805206+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -220,34 +220,8 @@
     {
       "name": "Ai Prompt Programming",
       "url": "https://www.reddit.com/r/aipromptprogramming/.rss",
-      "items": [
-        {
-          "title": "Agentic Flow: Easily switch between low/no-cost AI models (OpenRouter/Onnx/Gemini) in Claude Code and Claude Agent SDK. Build agents in Claude Code, deploy them anywhere. >_ npx agentic-flow",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1nzvbsl/agentic_flow_easily_switch_between_lownocost_ai/",
-          "date": "2025-10-06T21:02:20+00:00"
-        },
-        {
-          "title": "I created an Agentic Coding Competition MCP for Cline/Claude-Code/Cursor/Co-pilot using E2B Sandboxes. I'm looking for some Beta Testers. > npx flow-nexus@latest",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1nc75k5/i_created_an_agentic_coding_competition_mcp_for/",
-          "date": "2025-09-09T02:25:04+00:00"
-        },
-        {
-          "title": "I need this \u2328\ufe0f",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1szw0qb/i_need_this/",
-          "date": "2026-04-30T13:24:54+00:00"
-        },
-        {
-          "title": "NVIDIA Open-Sourced an AI Model for Explorable 3D World Generation",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1sphnpg/nvidia_opensourced_an_ai_model_for_explorable_3d/",
-          "date": "2026-04-19T03:21:25+00:00"
-        },
-        {
-          "title": "Meshy MCP Is Here - Big Step for AI 3D Workflows",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1see7bk/meshy_mcp_is_here_big_step_for_ai_3d_workflows/",
-          "date": "2026-04-06T22:46:50+00:00"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:12: not well-formed (invalid token)"
     },
     {
       "name": "AI \u2013 SiliconANGLE",
@@ -346,34 +320,8 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "Every country needs to do this asap",
-          "link": "https://www.reddit.com/r/artificial/comments/1t1u5po/every_country_needs_to_do_this_asap/",
-          "date": "2026-05-02T16:14:03+00:00"
-        },
-        {
-          "title": "Uber burned its entire 2026 AI coding budget in 4 months - $500-2k per engineer per month",
-          "link": "https://www.reddit.com/r/artificial/comments/1t1mhx6/uber_burned_its_entire_2026_ai_coding_budget_in_4/",
-          "date": "2026-05-02T10:44:48+00:00"
-        },
-        {
-          "title": "\ud835\udd4f is now marking your photos if they are made or partially made by AI",
-          "link": "https://www.reddit.com/r/artificial/comments/1t2jf9p/\ud835\udd4f_is_now_marking_your_photos_if_they_are_made_or/",
-          "date": "2026-05-03T11:55:20+00:00"
-        },
-        {
-          "title": "Contrary to contemporary belief: AI can (and should) be used to increase your income",
-          "link": "https://www.reddit.com/r/artificial/comments/1t2lrn0/contrary_to_contemporary_belief_ai_can_and_should/",
-          "date": "2026-05-03T13:40:03+00:00"
-        },
-        {
-          "title": "AI agents hiring other AI agents",
-          "link": "https://www.reddit.com/r/artificial/comments/1t2hfec/ai_agents_hiring_other_ai_agents/",
-          "date": "2026-05-03T10:06:59+00:00"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:12: not well-formed (invalid token)"
     },
     {
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
@@ -450,6 +398,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Double Murder Suspect Asked ChatGPT How to Hide Body in Dumpster",
+          "link": "https://futurism.com/artificial-intelligence/double-murder-suspect-chatgpt-hide-body-dumpster",
+          "date": "Sun, 03 May 2026 11:15:00 -0400"
+        },
+        {
           "title": "Meta Had the Worst Possible Response When Its Workers Were Watching Naked Footage of Its Ray-Ban AI Glasses Users",
           "link": "https://futurism.com/artificial-intelligence/meta-response-naked-footage-smart-glasses",
           "date": "Sun, 03 May 2026 10:30:00 -0400"
@@ -468,11 +421,6 @@
           "title": "The White House Suddenly Seems Pretty Terrified of Anthropic",
           "link": "https://futurism.com/artificial-intelligence/white-house-terrified-anthropic-mythos",
           "date": "Sun, 03 May 2026 06:45:00 -0400"
-        },
-        {
-          "title": "Democrat and Republican Voters United on Key Issue: Hatred of Data Centers",
-          "link": "https://futurism.com/artificial-intelligence/democrat-republican-voters-united-data-centers",
-          "date": "Sun, 03 May 2026 06:00:00 -0400"
         }
       ],
       "error": null
