@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T18:55:48.986961+00:00",
+  "generatedAt": "2026-05-03T19:53:43.848682+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "SAP: How enterprise AI governance secures profit margins",
-          "link": "https://www.artificialintelligence-news.com/news/sap-how-enterprise-ai-governance-secures-profit-margins/",
-          "date": "Fri, 01 May 2026 13:05:37 +0000"
-        },
-        {
-          "title": "Per-token AI charges come to GitHub Copilot",
-          "link": "https://www.artificialintelligence-news.com/news/per-token-ai-charging-comes-to-github-copilot/",
-          "date": "Fri, 01 May 2026 11:00:00 +0000"
-        },
-        {
-          "title": "What LG and NVIDIA\u2019s talks reveal about the future of physical AI",
-          "link": "https://www.artificialintelligence-news.com/news/what-lg-and-nvidia-talks-reveal-future-of-physical-ai/",
-          "date": "Thu, 30 Apr 2026 15:59:54 +0000"
-        },
-        {
-          "title": "A guide to APIs, MCPs, and MCP Gateways",
-          "link": "https://www.artificialintelligence-news.com/news/a-guide-to-apis-and-mcps-and-mcp-gateways/",
-          "date": "Thu, 30 Apr 2026 11:18:00 +0000"
-        },
-        {
-          "title": "AI agent governance takes focus as regulators flag control gaps",
-          "link": "https://www.artificialintelligence-news.com/news/ai-agent-governance-control-gaps/",
-          "date": "Thu, 30 Apr 2026 10:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
