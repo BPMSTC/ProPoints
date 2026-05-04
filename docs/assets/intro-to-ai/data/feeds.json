@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T06:09:50.078446+00:00",
+  "generatedAt": "2026-05-04T09:19:04.535384+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -220,8 +220,34 @@
     {
       "name": "Ai Prompt Programming",
       "url": "https://www.reddit.com/r/aipromptprogramming/.rss",
-      "items": [],
-      "error": "<unknown>:2:12: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Agentic Flow: Easily switch between low/no-cost AI models (OpenRouter/Onnx/Gemini) in Claude Code and Claude Agent SDK. Build agents in Claude Code, deploy them anywhere. >_ npx agentic-flow",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1nzvbsl/agentic_flow_easily_switch_between_lownocost_ai/",
+          "date": "2025-10-06T21:02:20+00:00"
+        },
+        {
+          "title": "I created an Agentic Coding Competition MCP for Cline/Claude-Code/Cursor/Co-pilot using E2B Sandboxes. I'm looking for some Beta Testers. > npx flow-nexus@latest",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1nc75k5/i_created_an_agentic_coding_competition_mcp_for/",
+          "date": "2025-09-09T02:25:04+00:00"
+        },
+        {
+          "title": "I need this \u2328\ufe0f",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1szw0qb/i_need_this/",
+          "date": "2026-04-30T13:24:54+00:00"
+        },
+        {
+          "title": "NVIDIA Open-Sourced an AI Model for Explorable 3D World Generation",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1sphnpg/nvidia_opensourced_an_ai_model_for_explorable_3d/",
+          "date": "2026-04-19T03:21:25+00:00"
+        },
+        {
+          "title": "Meshy MCP Is Here - Big Step for AI 3D Workflows",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1see7bk/meshy_mcp_is_here_big_step_for_ai_3d_workflows/",
+          "date": "2026-04-06T22:46:50+00:00"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI \u2013 SiliconANGLE",
@@ -320,8 +346,34 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
-      "error": "<unknown>:2:12: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Richard Dawkins spent 3 days with Claude and named her \"Claudia.\" what he concluded after is hard to defend.",
+          "link": "https://www.reddit.com/r/artificial/comments/1t2z0tn/richard_dawkins_spent_3_days_with_claude_and/",
+          "date": "2026-05-03T22:04:24+00:00"
+        },
+        {
+          "title": "I gave my local LLM a \"suffering\" meter, and now it won\u2019t stop self-modifying to fix its own stress.",
+          "link": "https://www.reddit.com/r/artificial/comments/1t31ghg/i_gave_my_local_llm_a_suffering_meter_and_now_it/",
+          "date": "2026-05-03T23:49:38+00:00"
+        },
+        {
+          "title": "AI finds signs of pancreatic cancer before tumors develop",
+          "link": "https://www.reddit.com/r/artificial/comments/1t2r7nb/ai_finds_signs_of_pancreatic_cancer_before_tumors/",
+          "date": "2026-05-03T17:09:51+00:00"
+        },
+        {
+          "title": "Xiaomi mimo coding plan is a absolute scam/misleading marketing",
+          "link": "https://www.reddit.com/r/artificial/comments/1t37jxt/xiaomi_mimo_coding_plan_is_a_absolute/",
+          "date": "2026-05-04T04:34:33+00:00"
+        },
+        {
+          "title": "claude Mythos x Godong Engine game Jam day 2 - final release",
+          "link": "https://www.reddit.com/r/artificial/comments/1t38e90/claude_mythos_x_godong_engine_game_jam_day_2/",
+          "date": "2026-05-04T05:19:38+00:00"
+        }
+      ],
+      "error": null
     },
     {
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
@@ -360,6 +412,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Wikipedia founder brands Australia\u2019s social media ban an \u2018unmitigated disaster\u2019 and \u2018embarrassment\u2019",
+          "link": "https://www.theguardian.com/technology/2026/may/04/wikipedia-founder-brands-australias-social-media-ban-an-unmitigated-disaster-and-an-embarrassment",
+          "date": "Mon, 04 May 2026 06:49:38 GMT"
+        },
+        {
           "title": "Flaws in Kenya\u2019s AI-driven health reforms driving up costs for the poorest",
           "link": "https://www.theguardian.com/global-development/2026/may/04/kenya-ai-healthcare-reforms-driving-up-costs-for-poor",
           "date": "Mon, 04 May 2026 06:00:16 GMT"
@@ -378,11 +435,6 @@
           "title": "Will human minds still be special in an age of AI?",
           "link": "https://www.theguardian.com/books/2026/may/03/will-human-minds-still-be-special-in-an-age-of-ai",
           "date": "Sun, 03 May 2026 11:00:54 GMT"
-        },
-        {
-          "title": "Mystery sitter in Holbein portrait could be Anne Boleyn, AI analysis finds",
-          "link": "https://www.theguardian.com/artanddesign/2026/may/03/unnamed-holbein-portrait-anne-boleyn-ai-analysis",
-          "date": "Sun, 03 May 2026 08:33:29 GMT"
         }
       ],
       "error": null
