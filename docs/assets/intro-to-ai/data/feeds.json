@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T18:08:12.947885+00:00",
+  "generatedAt": "2026-05-05T20:05:18.772456+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "SoundHound Launches Self-Learning AI Agent Platform",
+          "link": "https://aibusiness.com/agentic-ai/soundhound-launches-self-learning-ai-agent-platform",
+          "date": "Tue, 05 May 2026 18:10:23 GMT"
+        },
+        {
           "title": "Anthropic Teams With Wall Street Firms on AI Venture",
           "link": "https://aibusiness.com/foundation-models/anthropic-wall-street-firms-ai-venture",
           "date": "Tue, 05 May 2026 17:16:01 GMT"
@@ -132,11 +137,6 @@
           "title": "A New Way of Searching for Jobs with LinkedIn",
           "link": "https://aibusiness.com/generative-ai/a-new-way-of-searching-jobs-with-linkedin",
           "date": "Mon, 04 May 2026 19:59:46 GMT"
-        },
-        {
-          "title": "Pentagon Seals AI Deal with Eight Major Vendors, but Anthropic Out",
-          "link": "https://aibusiness.com/generative-ai/pentagon-seals-ai-deal-eight-major-vendors-anthropic-out",
-          "date": "Mon, 04 May 2026 15:31:36 GMT"
         }
       ],
       "error": null
@@ -150,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Physical AI raises governance questions for autonomous systems",
+          "link": "https://www.artificialintelligence-news.com/news/physical-ai-governance-autonomous-systems/",
+          "date": "Mon, 04 May 2026 11:00:00 +0000"
+        },
+        {
+          "title": "Google made agentic AI governance a product. Enterprises still have to catch up.",
+          "link": "https://www.artificialintelligence-news.com/news/agentic-ai-governance-enterprise-readiness-google/",
+          "date": "Mon, 04 May 2026 10:00:00 +0000"
+        },
+        {
+          "title": "SAP: How enterprise AI governance secures profit margins",
+          "link": "https://www.artificialintelligence-news.com/news/sap-how-enterprise-ai-governance-secures-profit-margins/",
+          "date": "Fri, 01 May 2026 13:05:37 +0000"
+        },
+        {
+          "title": "Per-token AI charges come to GitHub Copilot",
+          "link": "https://www.artificialintelligence-news.com/news/per-token-ai-charging-comes-to-github-copilot/",
+          "date": "Fri, 01 May 2026 11:00:00 +0000"
+        },
+        {
+          "title": "What LG and NVIDIA\u2019s talks reveal about the future of physical AI",
+          "link": "https://www.artificialintelligence-news.com/news/what-lg-and-nvidia-talks-reveal-future-of-physical-ai/",
+          "date": "Thu, 30 Apr 2026 15:59:54 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +316,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Google Home gets upgraded Gemini voice assistant and new camera controls",
+          "link": "https://arstechnica.com/gadgets/2026/05/google-home-gets-upgraded-gemini-voice-assistant-and-new-camera-controls/",
+          "date": "Tue, 05 May 2026 17:17:25 +0000"
+        },
+        {
+          "title": "Trump SEC lets Musk settle $150 million Twitter lawsuit for $1.5 million",
+          "link": "https://arstechnica.com/tech-policy/2026/05/trump-sec-lets-musk-settle-150-million-twitter-lawsuit-for-1-5-million/",
+          "date": "Tue, 05 May 2026 17:07:32 +0000"
+        },
+        {
           "title": "How do you design a $30,000 electric pickup? Inside Ford's skunkworks.",
           "link": "https://arstechnica.com/cars/2026/05/how-do-you-design-a-30000-electric-pickup-inside-fords-skunkworks/",
           "date": "Tue, 05 May 2026 15:39:21 +0000"
@@ -303,16 +339,6 @@
           "title": "Musk's Europe gamble: Will others follow the Dutch and approve FSD?",
           "link": "https://arstechnica.com/cars/2026/05/tesla-fsd-other-european-regulators-skeptical-despite-dutch-approval/",
           "date": "Tue, 05 May 2026 15:09:58 +0000"
-        },
-        {
-          "title": "DHS abuses 1930s customs law in attempt to get data on Canadian from Google",
-          "link": "https://arstechnica.com/tech-policy/2026/05/dhs-abuses-1930s-customs-law-in-attempt-to-get-data-on-canadian-from-google/",
-          "date": "Tue, 05 May 2026 14:02:19 +0000"
-        },
-        {
-          "title": "Why Reddit blocked my daily visit to its mobile website",
-          "link": "https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/",
-          "date": "Tue, 05 May 2026 11:20:08 +0000"
         }
       ],
       "error": null
@@ -391,9 +417,14 @@
           "date": "Tue, 05 May 2026 15:17:19 GMT"
         },
         {
+          "title": "US and tech firms strike deal to review AI models for national security before public release",
+          "link": "https://www.theguardian.com/technology/2026/may/05/commerce-department-ai-agreements-google-microsoft-xai",
+          "date": "Tue, 05 May 2026 18:44:22 GMT"
+        },
+        {
           "title": "OpenAI president\u2019s \u2018deeply personal\u2019 diary becomes focus in Musk\u2019s case against Altman",
           "link": "https://www.theguardian.com/technology/2026/may/05/openai-president-personal-diary-musk-altman-case",
-          "date": "Tue, 05 May 2026 17:36:13 GMT"
+          "date": "Tue, 05 May 2026 18:30:33 GMT"
         },
         {
           "title": "Major publishers sue Meta for copyright infringement over AI training",
@@ -404,11 +435,6 @@
           "title": "\u2018Think before sharing,\u2019 Giorgia Meloni says as AI-made lingerie image of her goes viral",
           "link": "https://www.theguardian.com/world/2026/may/05/giorgia-meloni-ai-generated-lingerie-image-deepfake",
           "date": "Tue, 05 May 2026 16:53:39 GMT"
-        },
-        {
-          "title": "AI costs are coming to consumers",
-          "link": "https://www.theguardian.com/global/2026/may/04/ai-costs-are-coming-to-consumers",
-          "date": "Tue, 05 May 2026 16:53:16 GMT"
         }
       ],
       "error": null
@@ -423,6 +449,11 @@
       "name": "Artificial Intelligence \u2013 Futurism",
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
+        {
+          "title": "Even After Two Massacres, OpenAI Still Hasn\u2019t Stopped ChatGPT From Helping Plan School Shootings",
+          "link": "https://futurism.com/artificial-intelligence/two-shootings-openai-stopped",
+          "date": "Tue, 05 May 2026 14:58:09 -0400"
+        },
         {
           "title": "Apple Is Blocking Vibe Coding Apps From the App Store, Infuriating Developers",
           "link": "https://futurism.com/artificial-intelligence/apple-block-vibe-coding-apps",
@@ -442,11 +473,6 @@
           "title": "Zuckerberg Trying to Simulate Human Biology at the Cellular Level",
           "link": "https://futurism.com/artificial-intelligence/zuckerberg-biohealth-ai",
           "date": "Mon, 04 May 2026 19:01:00 -0400"
-        },
-        {
-          "title": "The Chinese Streaming Industry Is Being Gutted by AI-Generated Shows",
-          "link": "https://futurism.com/artificial-intelligence/chinese-streaming-industry-gutted-ai-generated-shows",
-          "date": "Mon, 04 May 2026 17:10:18 -0400"
         }
       ],
       "error": null
