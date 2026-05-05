@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-05-05T11:59:04.424976+00:00",
+  "generatedAt": "2026-05-05T14:13:00.121905+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "UK iPhone and iPad Users Can Watch Porn Again",
+          "link": "https://www.404media.co/uk-iphone-ipad-ios-users-porn-age-verification/",
+          "date": "Tue, 05 May 2026 14:11:49 GMT"
+        },
+        {
+          "title": "The AI Hard Drive Shortage Is Making It More Expensive and Harder to Archive the Internet",
+          "link": "https://www.404media.co/the-ai-hard-drive-shortage-is-making-it-more-expensive-and-harder-to-archive-the-internet/",
+          "date": "Tue, 05 May 2026 13:20:31 GMT"
+        },
         {
           "title": "'Nature' Retracts Paper on the Benefits of ChatGPT in Education",
           "link": "https://www.404media.co/nature-retracts-paper-on-the-benefits-of-chatgpt-in-education/",
@@ -19,16 +29,6 @@
           "title": "How a University\u2019s Censorship Conference Got Censored",
           "link": "https://www.404media.co/how-a-universitys-censorship-conference-got-censored/",
           "date": "Mon, 04 May 2026 13:55:41 GMT"
-        },
-        {
-          "title": "This Personality Trait Makes Dreams More Bizarre, Scientists Discover",
-          "link": "https://www.404media.co/this-personality-trait-makes-dreams-more-bizarre-scientists-discover/",
-          "date": "Sat, 02 May 2026 13:00:40 GMT"
-        },
-        {
-          "title": "China Pressure Canceled World\u2019s Largest Digital Human Rights Conference",
-          "link": "https://www.404media.co/china-pressure-canceled-worlds-largest-digital-human-rights-conference/",
-          "date": "Fri, 01 May 2026 18:32:53 GMT"
         }
       ],
       "error": null
@@ -316,6 +316,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Why Reddit blocked my daily visit to its mobile website",
+          "link": "https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/",
+          "date": "Tue, 05 May 2026 11:20:08 +0000"
+        },
+        {
           "title": "\"Notepad++ for Mac\" release is disavowed by the creator of the original",
           "link": "https://arstechnica.com/gadgets/2026/05/unofficial-vibe-coded-notepad-for-mac-draws-objections-from-original-author/",
           "date": "Mon, 04 May 2026 21:38:37 +0000"
@@ -334,11 +339,6 @@
           "title": "GameStop offers $56 billion for eBay, struggles to explain how it'll pay for it",
           "link": "https://arstechnica.com/tech-policy/2026/05/gamestop-offers-56-billion-for-ebay-struggles-to-explain-how-itll-pay-for-it/",
           "date": "Mon, 04 May 2026 17:57:46 +0000"
-        },
-        {
-          "title": "F1 in Miami: That's what it looks like when an upgrade works",
-          "link": "https://arstechnica.com/cars/2026/05/f1-in-miami-thats-what-it-looks-like-when-an-upgrade-works/",
-          "date": "Mon, 04 May 2026 17:47:05 +0000"
         }
       ],
       "error": null
@@ -348,19 +348,14 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "Anthropic Launches Enterprise AI Firm With Wall Street Giants",
-          "link": "https://www.reddit.com/r/artificial/comments/1t42w30/anthropic_launches_enterprise_ai_firm_with_wall/",
-          "date": "2026-05-05T02:44:35+00:00"
+          "title": "X user tricks Grok into sending them $200,000 in crypto using morse code",
+          "link": "https://www.reddit.com/r/artificial/comments/1t4cisv/x_user_tricks_grok_into_sending_them_200000_in/",
+          "date": "2026-05-05T11:22:11+00:00"
         },
         {
-          "title": "How accurate is AI at general knowledge?",
-          "link": "https://www.reddit.com/r/artificial/comments/1t4asbk/how_accurate_is_ai_at_general_knowledge/",
-          "date": "2026-05-05T09:53:24+00:00"
-        },
-        {
-          "title": "Richard Dawkins spent 3 days with Claude and named her \"Claudia.\" what he concluded after is hard to defend.",
-          "link": "https://www.reddit.com/r/artificial/comments/1t2z0tn/richard_dawkins_spent_3_days_with_claude_and/",
-          "date": "2026-05-03T22:04:24+00:00"
+          "title": "Made a tool that builds its own training data and improves each cycle by learning from what it got wrong",
+          "link": "https://www.reddit.com/r/artificial/comments/1t4egej/made_a_tool_that_builds_its_own_training_data_and/",
+          "date": "2026-05-05T12:47:40+00:00"
         },
         {
           "title": "Two failure modes I caught in my AI lab in one day. Both involve the system silently lying about its own state.",
@@ -368,9 +363,14 @@
           "date": "2026-05-05T11:40:43+00:00"
         },
         {
-          "title": "Chinese court sides with worker who was replaced by AI",
-          "link": "https://www.reddit.com/r/artificial/comments/1t3txpn/chinese_court_sides_with_worker_who_was_replaced/",
-          "date": "2026-05-04T20:37:41+00:00"
+          "title": "Anthropic Launches Enterprise AI Firm With Wall Street Giants",
+          "link": "https://www.reddit.com/r/artificial/comments/1t42w30/anthropic_launches_enterprise_ai_firm_with_wall/",
+          "date": "2026-05-05T02:44:35+00:00"
+        },
+        {
+          "title": "Uber Shares What Happens When 1.500 AI Agents Hit Production",
+          "link": "https://www.reddit.com/r/artificial/comments/1t48gnn/uber_shares_what_happens_when_1500_ai_agents_hit/",
+          "date": "2026-05-05T07:35:06+00:00"
         }
       ],
       "error": null
@@ -379,6 +379,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "AI is showing up in court cases \u2013 but only a human jury can grapple with the moral weight of assessing guilt",
+          "link": "https://theconversation.com/ai-is-showing-up-in-court-cases-but-only-a-human-jury-can-grapple-with-the-moral-weight-of-assessing-guilt-281833",
+          "date": "2026-05-05T12:26:53Z"
+        },
         {
           "title": "From Taylor Swift to Bollywood, stars turn to the civil courts to fight deepfakes",
           "link": "https://theconversation.com/from-taylor-swift-to-bollywood-stars-turn-to-the-civil-courts-to-fight-deepfakes-281745",
@@ -398,11 +403,6 @@
           "title": "AI road safety cameras are fuelling a surge in driver fines. Are they fair?",
           "link": "https://theconversation.com/ai-road-safety-cameras-are-fuelling-a-surge-in-driver-fines-are-they-fair-280375",
           "date": "2026-05-03T19:20:34Z"
-        },
-        {
-          "title": "How should schools teach AI? 3 models to consider",
-          "link": "https://theconversation.com/how-should-schools-teach-ai-3-models-to-consider-278041",
-          "date": "2026-05-03T12:10:42Z"
         }
       ],
       "error": null
@@ -450,6 +450,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Approaching Half of New Podcasts Appear to Be AI Slop",
+          "link": "https://futurism.com/artificial-intelligence/half-ai-podcasts-slop",
+          "date": "Tue, 05 May 2026 10:01:00 -0400"
+        },
+        {
+          "title": "Richard Dawkins One-Shotted By AI Girl",
+          "link": "https://futurism.com/artificial-intelligence/richard-dawkins-ai-girl",
+          "date": "Tue, 05 May 2026 09:00:00 -0400"
+        },
+        {
           "title": "Zuckerberg Trying to Simulate Human Biology at the Cellular Level",
           "link": "https://futurism.com/artificial-intelligence/zuckerberg-biohealth-ai",
           "date": "Mon, 04 May 2026 19:01:00 -0400"
@@ -463,16 +473,6 @@
           "title": "Startup Says It\u2019s Invented a Beanie That Reads Your Mind",
           "link": "https://futurism.com/health-medicine/startup-mind-reading-beanie",
           "date": "Mon, 04 May 2026 15:51:46 -0400"
-        },
-        {
-          "title": "Grok Convinces Man to Arm Himself Because Assassins Are Coming to Kill Him",
-          "link": "https://futurism.com/artificial-intelligence/grok-convinces-man-arm-himself-hammer",
-          "date": "Mon, 04 May 2026 13:37:22 -0400"
-        },
-        {
-          "title": "Frontier AI Models Giving Specific, Actionable Instructions to Perpetrate Bioterror Attack",
-          "link": "https://futurism.com/artificial-intelligence/ai-bioterror-pathogens",
-          "date": "Sun, 03 May 2026 13:30:00 -0400"
         }
       ],
       "error": null
@@ -481,6 +481,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Google DeepMind Workers Vote to Unionize Over Military AI Deals",
+          "link": "https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/",
+          "date": "Tue, 05 May 2026 11:59:20 +0000"
+        },
         {
           "title": "He Couldn\u2019t Land a Job Interview. Was AI to Blame?",
           "link": "https://www.wired.com/story/he-couldnt-land-a-job-interview-was-ai-to-blame/",
@@ -500,11 +505,6 @@
           "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
           "link": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
           "date": "Fri, 01 May 2026 20:25:28 +0000"
-        },
-        {
-          "title": "How Shivon Zilis Operated as Elon Musk\u2019s OpenAI Insider",
-          "link": "https://www.wired.com/story/model-behavior-why-everything-in-musk-v-altman-leads-back-to-shivon-zelis/",
-          "date": "Fri, 01 May 2026 00:51:18 +0000"
         }
       ],
       "error": null
