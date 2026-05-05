@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T14:13:00.121905+00:00",
+  "generatedAt": "2026-05-05T16:22:12.545626+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "Physical AI raises governance questions for autonomous systems",
-          "link": "https://www.artificialintelligence-news.com/news/physical-ai-governance-autonomous-systems/",
-          "date": "Mon, 04 May 2026 11:00:00 +0000"
-        },
-        {
-          "title": "Google made agentic AI governance a product. Enterprises still have to catch up.",
-          "link": "https://www.artificialintelligence-news.com/news/agentic-ai-governance-enterprise-readiness-google/",
-          "date": "Mon, 04 May 2026 10:00:00 +0000"
-        },
-        {
-          "title": "SAP: How enterprise AI governance secures profit margins",
-          "link": "https://www.artificialintelligence-news.com/news/sap-how-enterprise-ai-governance-secures-profit-margins/",
-          "date": "Fri, 01 May 2026 13:05:37 +0000"
-        },
-        {
-          "title": "Per-token AI charges come to GitHub Copilot",
-          "link": "https://www.artificialintelligence-news.com/news/per-token-ai-charging-comes-to-github-copilot/",
-          "date": "Fri, 01 May 2026 11:00:00 +0000"
-        },
-        {
-          "title": "What LG and NVIDIA\u2019s talks reveal about the future of physical AI",
-          "link": "https://www.artificialintelligence-news.com/news/what-lg-and-nvidia-talks-reveal-future-of-physical-ai/",
-          "date": "Thu, 30 Apr 2026 15:59:54 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -316,29 +290,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "How do you design a $30,000 electric pickup? Inside Ford's skunkworks.",
+          "link": "https://arstechnica.com/cars/2026/05/how-do-you-design-a-30000-electric-pickup-inside-fords-skunkworks/",
+          "date": "Tue, 05 May 2026 15:39:21 +0000"
+        },
+        {
+          "title": "Charlize Theron is a bewitching Circe in Odyssey trailer",
+          "link": "https://arstechnica.com/culture/2026/05/nolans-the-odyssey-gets-a-new-trailer-and-were-here-for-it/",
+          "date": "Tue, 05 May 2026 15:20:24 +0000"
+        },
+        {
+          "title": "Musk's Europe gamble: Will others follow the Dutch and approve FSD?",
+          "link": "https://arstechnica.com/cars/2026/05/tesla-fsd-other-european-regulators-skeptical-despite-dutch-approval/",
+          "date": "Tue, 05 May 2026 15:09:58 +0000"
+        },
+        {
+          "title": "DHS abuses 1930s customs law in attempt to get data on Canadian from Google",
+          "link": "https://arstechnica.com/tech-policy/2026/05/dhs-abuses-1930s-customs-law-in-attempt-to-get-data-on-canadian-from-google/",
+          "date": "Tue, 05 May 2026 14:02:19 +0000"
+        },
+        {
           "title": "Why Reddit blocked my daily visit to its mobile website",
           "link": "https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/",
           "date": "Tue, 05 May 2026 11:20:08 +0000"
-        },
-        {
-          "title": "\"Notepad++ for Mac\" release is disavowed by the creator of the original",
-          "link": "https://arstechnica.com/gadgets/2026/05/unofficial-vibe-coded-notepad-for-mac-draws-objections-from-original-author/",
-          "date": "Mon, 04 May 2026 21:38:37 +0000"
-        },
-        {
-          "title": "Canadian election databases use \"canary traps\"\u2014and they work",
-          "link": "https://arstechnica.com/tech-policy/2026/05/in-canada-a-canary-trap-springs-shut-and-ids-election-database-leak/",
-          "date": "Mon, 04 May 2026 19:45:57 +0000"
-        },
-        {
-          "title": "Influential study touting ChatGPT in education retracted over red flags",
-          "link": "https://arstechnica.com/ai/2026/05/influential-study-touting-chatgpt-in-education-retracted-over-red-flags/",
-          "date": "Mon, 04 May 2026 19:03:39 +0000"
-        },
-        {
-          "title": "GameStop offers $56 billion for eBay, struggles to explain how it'll pay for it",
-          "link": "https://arstechnica.com/tech-policy/2026/05/gamestop-offers-56-billion-for-ebay-struggles-to-explain-how-itll-pay-for-it/",
-          "date": "Mon, 04 May 2026 17:57:46 +0000"
         }
       ],
       "error": null
@@ -358,19 +332,19 @@
           "date": "2026-05-05T12:47:40+00:00"
         },
         {
+          "title": "Uber Shares What Happens When 1.500 AI Agents Hit Production",
+          "link": "https://www.reddit.com/r/artificial/comments/1t48gnn/uber_shares_what_happens_when_1500_ai_agents_hit/",
+          "date": "2026-05-05T07:35:06+00:00"
+        },
+        {
           "title": "Two failure modes I caught in my AI lab in one day. Both involve the system silently lying about its own state.",
           "link": "https://www.reddit.com/r/artificial/comments/1t4cx88/two_failure_modes_i_caught_in_my_ai_lab_in_one/",
           "date": "2026-05-05T11:40:43+00:00"
         },
         {
-          "title": "Anthropic Launches Enterprise AI Firm With Wall Street Giants",
-          "link": "https://www.reddit.com/r/artificial/comments/1t42w30/anthropic_launches_enterprise_ai_firm_with_wall/",
-          "date": "2026-05-05T02:44:35+00:00"
-        },
-        {
-          "title": "Uber Shares What Happens When 1.500 AI Agents Hit Production",
-          "link": "https://www.reddit.com/r/artificial/comments/1t48gnn/uber_shares_what_happens_when_1500_ai_agents_hit/",
-          "date": "2026-05-05T07:35:06+00:00"
+          "title": "Pennsylvania sues AI company, saying its chatbots illegally hold themselves out as licensed doctors",
+          "link": "https://www.reddit.com/r/artificial/comments/1t4jn6g/pennsylvania_sues_ai_company_saying_its_chatbots/",
+          "date": "2026-05-05T15:58:35+00:00"
         }
       ],
       "error": null
@@ -412,9 +386,9 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "AI platforms reference Nigel Farage more than other leaders when prompted on UK politics, study shows",
-          "link": "https://www.theguardian.com/technology/2026/may/04/ai-platforms-nigel-farage-prompted-uk-politics-study",
-          "date": "Mon, 04 May 2026 16:00:27 GMT"
+          "title": "Richard Dawkins concludes AI is conscious, even if it doesn\u2019t know it",
+          "link": "https://www.theguardian.com/technology/2026/may/05/richard-dawkins-ai-consciousness-anthropic-claude-openai-chatgpt",
+          "date": "Tue, 05 May 2026 15:17:19 GMT"
         },
         {
           "title": "An AI version of Milton\u2019s Paradise Lost is fundamentally unworthy of one of the great works of art",
@@ -450,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Apple Is Blocking Vibe Coding Apps From the App Store, Infuriating Developers",
+          "link": "https://futurism.com/artificial-intelligence/apple-block-vibe-coding-apps",
+          "date": "Tue, 05 May 2026 11:01:00 -0400"
+        },
+        {
           "title": "Approaching Half of New Podcasts Appear to Be AI Slop",
           "link": "https://futurism.com/artificial-intelligence/half-ai-podcasts-slop",
           "date": "Tue, 05 May 2026 10:01:00 -0400"
@@ -468,11 +447,6 @@
           "title": "The Chinese Streaming Industry Is Being Gutted by AI-Generated Shows",
           "link": "https://futurism.com/artificial-intelligence/chinese-streaming-industry-gutted-ai-generated-shows",
           "date": "Mon, 04 May 2026 17:10:18 -0400"
-        },
-        {
-          "title": "Startup Says It\u2019s Invented a Beanie That Reads Your Mind",
-          "link": "https://futurism.com/health-medicine/startup-mind-reading-beanie",
-          "date": "Mon, 04 May 2026 15:51:46 -0400"
         }
       ],
       "error": null
