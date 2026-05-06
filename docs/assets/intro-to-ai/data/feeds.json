@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T20:19:38.539503+00:00",
+  "generatedAt": "2026-05-06T21:54:13.418125+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "OpenAI Launches Training Spec to Boost Large-Scale AI",
+          "link": "https://aibusiness.com/generative-ai/openai-launches-training-spec-boost-large-scale-ai",
+          "date": "Wed, 06 May 2026 20:18:15 GMT"
+        },
+        {
           "title": "SAP Plans to Turn Spreadsheet AI Startup Into Top Frontier Lab",
           "link": "https://aibusiness.com/generative-ai/sap-plans-turn-spreadsheet-ai-startup-top-frontier-lab",
           "date": "Wed, 06 May 2026 17:24:08 GMT"
@@ -132,11 +137,6 @@
           "title": "Enter Bob,\u00a0IBM\u2019s\u00a0Friendly\u00a0AI Coding Assistant",
           "link": "https://aibusiness.com/agentic-ai/bob-ibm-ai-coding-assistant",
           "date": "Wed, 06 May 2026 00:01:56 GMT"
-        },
-        {
-          "title": "Enterprises Contain AI Agents to Balance Risk, Reward",
-          "link": "https://aibusiness.com/agentic-ai/enterprises-contain-agents-balance-risk-reward",
-          "date": "Tue, 05 May 2026 22:52:09 GMT"
         }
       ],
       "error": null
@@ -150,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "HP and the art of AI and data for the enterprise",
+          "link": "https://www.artificialintelligence-news.com/news/hps-ai-and-data-offerings-for-the-enterprise/",
+          "date": "Wed, 06 May 2026 15:14:00 +0000"
+        },
+        {
+          "title": "US government increases AI suppliers and rethinks Anthropic\u2019s role",
+          "link": "https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/",
+          "date": "Wed, 06 May 2026 12:23:00 +0000"
+        },
+        {
+          "title": "Google tests Remy AI agent for Gemini as focus turns to user control",
+          "link": "https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/",
+          "date": "Wed, 06 May 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Physical AI raises governance questions for autonomous systems",
+          "link": "https://www.artificialintelligence-news.com/news/physical-ai-governance-autonomous-systems/",
+          "date": "Mon, 04 May 2026 11:00:00 +0000"
+        },
+        {
+          "title": "Google made agentic AI governance a product. Enterprises still have to catch up.",
+          "link": "https://www.artificialintelligence-news.com/news/agentic-ai-governance-enterprise-readiness-google/",
+          "date": "Mon, 04 May 2026 10:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -337,14 +363,14 @@
           "date": "2026-05-06T14:41:03+00:00"
         },
         {
+          "title": "Be honest: How much of \"Claude Mythos\" is just hype?",
+          "link": "https://www.reddit.com/r/artificial/comments/1t5ibwc/be_honest_how_much_of_claude_mythos_is_just_hype/",
+          "date": "2026-05-06T16:42:03+00:00"
+        },
+        {
           "title": "X user tricks Grok into sending them $200,000 in crypto using morse code",
           "link": "https://www.reddit.com/r/artificial/comments/1t4cisv/x_user_tricks_grok_into_sending_them_200000_in/",
           "date": "2026-05-05T11:22:11+00:00"
-        },
-        {
-          "title": "Google\u2019s AI search summaries will now quote Reddit",
-          "link": "https://www.reddit.com/r/artificial/comments/1t5ct5o/googles_ai_search_summaries_will_now_quote_reddit/",
-          "date": "2026-05-06T13:22:45+00:00"
         }
       ],
       "error": null
@@ -353,6 +379,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Transcribing speech is never neutral. It shapes power and bias",
+          "link": "https://theconversation.com/transcribing-speech-is-never-neutral-it-shapes-power-and-bias-281527",
+          "date": "2026-05-06T20:19:19Z"
+        },
         {
           "title": "College students are noticing their AI-smoothed writing sounds strong \u2014 and not like them",
           "link": "https://theconversation.com/college-students-are-noticing-their-ai-smoothed-writing-sounds-strong-and-not-like-them-279436",
@@ -372,11 +403,6 @@
           "title": "AI is showing up in court cases \u2013 but only a human jury can grapple with the moral weight of assessing guilt",
           "link": "https://theconversation.com/ai-is-showing-up-in-court-cases-but-only-a-human-jury-can-grapple-with-the-moral-weight-of-assessing-guilt-281833",
           "date": "2026-05-05T12:26:53Z"
-        },
-        {
-          "title": "From Taylor Swift to Bollywood, stars turn to the civil courts to fight deepfakes",
-          "link": "https://theconversation.com/from-taylor-swift-to-bollywood-stars-turn-to-the-civil-courts-to-fight-deepfakes-281745",
-          "date": "2026-05-04T20:11:08Z"
         }
       ],
       "error": null
