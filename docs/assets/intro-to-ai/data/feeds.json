@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T08:23:06.491276+00:00",
+  "generatedAt": "2026-05-06T11:04:08.651997+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -152,6 +152,11 @@
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [
         {
+          "title": "Google tests Remy AI agent for Gemini as focus turns to user control",
+          "link": "https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/",
+          "date": "Wed, 06 May 2026 10:00:00 +0000"
+        },
+        {
           "title": "Physical AI raises governance questions for autonomous systems",
           "link": "https://www.artificialintelligence-news.com/news/physical-ai-governance-autonomous-systems/",
           "date": "Mon, 04 May 2026 11:00:00 +0000"
@@ -170,11 +175,6 @@
           "title": "Per-token AI charges come to GitHub Copilot",
           "link": "https://www.artificialintelligence-news.com/news/per-token-ai-charging-comes-to-github-copilot/",
           "date": "Fri, 01 May 2026 11:00:00 +0000"
-        },
-        {
-          "title": "What LG and NVIDIA\u2019s talks reveal about the future of physical AI",
-          "link": "https://www.artificialintelligence-news.com/news/what-lg-and-nvidia-talks-reveal-future-of-physical-ai/",
-          "date": "Thu, 30 Apr 2026 15:59:54 +0000"
         }
       ],
       "error": null
@@ -363,9 +363,9 @@
           "date": "2026-05-05T21:08:38+00:00"
         },
         {
-          "title": "Meta Hit With Massive Lawsuit\u2014Publishers Say AI Was Trained on \u201cStolen\u201d Books",
-          "link": "https://www.reddit.com/r/artificial/comments/1t4m85o/meta_hit_with_massive_lawsuitpublishers_say_ai/",
-          "date": "2026-05-05T17:27:02+00:00"
+          "title": "AI is getting better at doing things, but still bad at deciding what to do?",
+          "link": "https://www.reddit.com/r/artificial/comments/1t50i19/ai_is_getting_better_at_doing_things_but_still/",
+          "date": "2026-05-06T02:49:14+00:00"
         },
         {
           "title": "Pennsylvania sues AI company, saying its chatbots illegally hold themselves out as licensed doctors",
@@ -448,39 +448,23 @@
     {
       "name": "Artificial Intelligence \u2013 Futurism",
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
-      "items": [
-        {
-          "title": "Even After Two Massacres, OpenAI Still Hasn\u2019t Stopped ChatGPT From Helping Plan School Shootings",
-          "link": "https://futurism.com/artificial-intelligence/two-shootings-openai-stopped",
-          "date": "Tue, 05 May 2026 14:58:09 -0400"
-        },
-        {
-          "title": "Apple Is Blocking Vibe Coding Apps From the App Store, Infuriating Developers",
-          "link": "https://futurism.com/artificial-intelligence/apple-block-vibe-coding-apps",
-          "date": "Tue, 05 May 2026 11:01:00 -0400"
-        },
-        {
-          "title": "Approaching Half of New Podcasts Appear to Be AI Slop",
-          "link": "https://futurism.com/artificial-intelligence/half-ai-podcasts-slop",
-          "date": "Tue, 05 May 2026 10:01:00 -0400"
-        },
-        {
-          "title": "Richard Dawkins One-Shotted By AI Girl",
-          "link": "https://futurism.com/artificial-intelligence/richard-dawkins-ai-girl",
-          "date": "Tue, 05 May 2026 09:00:00 -0400"
-        },
-        {
-          "title": "Zuckerberg Trying to Simulate Human Biology at the Cellular Level",
-          "link": "https://futurism.com/artificial-intelligence/zuckerberg-biohealth-ai",
-          "date": "Mon, 04 May 2026 19:01:00 -0400"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:39: junk after document element"
     },
     {
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Apple Will Pay $250 Million to Settle Lawsuit Over Siri's AI Features",
+          "link": "https://www.wired.com/story/apple-will-pay-dollar250-million-to-settle-lawsuit-over-siris-ai-features/",
+          "date": "Wed, 06 May 2026 10:41:37 +0000"
+        },
+        {
+          "title": "Hasan Piker, Self-Described \u2018Ayatollah of Woke,\u2019 Wants AI to Die",
+          "link": "https://www.wired.com/story/hasan-piker-user-behavior/",
+          "date": "Wed, 06 May 2026 10:00:00 +0000"
+        },
         {
           "title": "\u2018I Actually Thought He Was Going to Hit Me,\u2019 OpenAI\u2019s Greg Brockman Says of Elon Musk",
           "link": "https://www.wired.com/story/greg-brockman-testifies-elon-musk-fight-trial/",
@@ -495,16 +479,6 @@
           "title": "He Couldn\u2019t Land a Job Interview. Was AI to Blame?",
           "link": "https://www.wired.com/story/he-couldnt-land-a-job-interview-was-ai-to-blame/",
           "date": "Tue, 05 May 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Greg Brockman Defends $30B OpenAI Stake: \u2018Blood, Sweat, and Tears\u2019",
-          "link": "https://www.wired.com/story/greg-brockman-testifies-musk-v-altman-trial/",
-          "date": "Mon, 04 May 2026 23:19:52 +0000"
-        },
-        {
-          "title": "Disneyland Now Uses Face Recognition on Visitors",
-          "link": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
-          "date": "Sat, 02 May 2026 10:30:00 +0000"
         }
       ],
       "error": null
