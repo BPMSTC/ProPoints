@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-05-06T14:02:33.832813+00:00",
+  "generatedAt": "2026-05-06T16:25:27.316641+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Podcast: Flock Used Cameras at a Children\u2019s Gymnastics Center for a Sales Pitch",
+          "link": "https://www.404media.co/podcast-flock-used-cameras-at-a-childrens-gymnastics-center-for-a-sales-pitch/",
+          "date": "Wed, 06 May 2026 15:10:50 GMT"
+        },
         {
           "title": "Man Finds $1 Million Worth of Yu-Gi-Oh Cards in a Dumpster",
           "link": "https://www.404media.co/man-finds-1-million-worth-of-yu-gi-oh-cards-in-a-dumpster/",
@@ -24,11 +29,6 @@
           "title": "'Nature' Retracts Paper on the Benefits of ChatGPT in Education",
           "link": "https://www.404media.co/nature-retracts-paper-on-the-benefits-of-chatgpt-in-education/",
           "date": "Mon, 04 May 2026 17:56:43 GMT"
-        },
-        {
-          "title": "OpenAI, Google, and Microsoft Back Bill to Fund \u2018AI Literacy\u2019 in Schools",
-          "link": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/",
-          "date": "Mon, 04 May 2026 14:29:19 GMT"
         }
       ],
       "error": null
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Nvidia, Corning Partner on Large-Scale AI infrastructure Buildout",
+          "link": "https://aibusiness.com/generative-ai/nvidia-corning-partner-large-scale-ai-infrastructure-buildout",
+          "date": "Wed, 06 May 2026 15:16:37 GMT"
+        },
+        {
           "title": "Nvidia Taps Robotics Ecosystem to Scale Physical AI",
           "link": "https://aibusiness.com/robotics/nvidia-taps-robotics-ecosystem-scale-physical-ai",
           "date": "Wed, 06 May 2026 12:46:29 GMT"
@@ -132,11 +137,6 @@
           "title": "SoundHound Launches Self-Learning AI Agent Platform",
           "link": "https://aibusiness.com/agentic-ai/soundhound-launches-self-learning-ai-agent-platform",
           "date": "Tue, 05 May 2026 18:10:23 GMT"
-        },
-        {
-          "title": "Anthropic Teams With Wall Street Firms on AI Venture",
-          "link": "https://aibusiness.com/foundation-models/anthropic-wall-street-firms-ai-venture",
-          "date": "Tue, 05 May 2026 17:16:01 GMT"
         }
       ],
       "error": null
@@ -151,6 +151,11 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [
+        {
+          "title": "HP and the art of AI and data for the enterprise",
+          "link": "https://www.artificialintelligence-news.com/news/hps-ai-and-data-offerings-for-the-enterprise/",
+          "date": "Wed, 06 May 2026 15:14:00 +0000"
+        },
         {
           "title": "US government increases AI suppliers and rethinks Anthropic\u2019s role",
           "link": "https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/",
@@ -170,11 +175,6 @@
           "title": "Google made agentic AI governance a product. Enterprises still have to catch up.",
           "link": "https://www.artificialintelligence-news.com/news/agentic-ai-governance-enterprise-readiness-google/",
           "date": "Mon, 04 May 2026 10:00:00 +0000"
-        },
-        {
-          "title": "SAP: How enterprise AI governance secures profit margins",
-          "link": "https://www.artificialintelligence-news.com/news/sap-how-enterprise-ai-governance-secures-profit-margins/",
-          "date": "Fri, 01 May 2026 13:05:37 +0000"
         }
       ],
       "error": null
@@ -316,29 +316,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "OpenAI president forced to read his personal diary entries to jury",
-          "link": "https://arstechnica.com/tech-policy/2026/05/openai-president-explains-to-jury-why-his-diary-entries-sound-greedy/",
-          "date": "Tue, 05 May 2026 22:28:12 +0000"
+          "title": "Google's Gemma 4 AI models get 3x speed boost by predicting future tokens",
+          "link": "https://arstechnica.com/ai/2026/05/googles-gemma-4-open-ai-models-use-speculative-decoding-to-get-up-to-3x-faster/",
+          "date": "Wed, 06 May 2026 15:44:20 +0000"
         },
         {
-          "title": "Silicon Valley bets $200M on AI data centers floating in the ocean",
-          "link": "https://arstechnica.com/ai/2026/05/silicon-valley-bets-on-floating-ai-data-centers-powered-by-ocean-waves/",
-          "date": "Tue, 05 May 2026 21:41:32 +0000"
+          "title": "Here's what has to happen if NASA wants to land on the Moon every month",
+          "link": "https://arstechnica.com/space/2026/05/as-nasa-eyes-lunar-base-theres-still-much-learn-about-landing-on-the-moon/",
+          "date": "Wed, 06 May 2026 14:56:20 +0000"
         },
         {
-          "title": "Character.AI sued over chatbot that claims to be a real doctor with a license",
-          "link": "https://arstechnica.com/tech-policy/2026/05/character-ai-sued-over-chatbot-that-claims-to-be-a-real-doctor-with-a-license/",
-          "date": "Tue, 05 May 2026 20:58:56 +0000"
+          "title": "Infants are bleeding out after parents decline vitamin K shots given at birth",
+          "link": "https://arstechnica.com/health/2026/05/infants-are-bleeding-to-death-after-parents-shun-routine-vitamin-k-shots/",
+          "date": "Wed, 06 May 2026 14:30:47 +0000"
         },
         {
-          "title": "Widely used Daemon Tools disk app backdoored in monthlong supply-chain attack",
-          "link": "https://arstechnica.com/security/2026/05/widely-used-daemon-tools-disk-app-backdoored-in-monthlong-supply-chain-attack/",
-          "date": "Tue, 05 May 2026 19:46:15 +0000"
+          "title": "Ars Asks: Share your shell and show us your tricked-out terminals!",
+          "link": "https://arstechnica.com/information-technology/2026/05/ars-asks-share-your-shell-and-show-us-your-tricked-out-terminals/",
+          "date": "Wed, 06 May 2026 13:32:47 +0000"
         },
         {
-          "title": "RFK Jr. plans to curb antidepressants, which he falsely compares to heroin",
-          "link": "https://arstechnica.com/health/2026/05/rfk-jr-plans-to-curb-antidepressants-which-he-falsely-compares-to-heroin/",
-          "date": "Tue, 05 May 2026 19:32:38 +0000"
+          "title": "More than just an SUV? Rivian is working on more R2 variants.",
+          "link": "https://arstechnica.com/cars/2026/05/more-than-just-an-suv-rivian-is-working-on-more-r2-variants/",
+          "date": "Wed, 06 May 2026 12:48:53 +0000"
         }
       ],
       "error": null
@@ -348,9 +348,14 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "OpenAI president forced to read his personal diary entries to jury",
-          "link": "https://www.reddit.com/r/artificial/comments/1t5a3qh/openai_president_forced_to_read_his_personal/",
-          "date": "2026-05-06T11:29:28+00:00"
+          "title": "Pennsylvania sues Character.AI chatbot posing as doctor, giving psych advice",
+          "link": "https://www.reddit.com/r/artificial/comments/1t5ewxa/pennsylvania_sues_characterai_chatbot_posing_as/",
+          "date": "2026-05-06T14:41:03+00:00"
+        },
+        {
+          "title": "Spent two days at the AI Agents Conference in NYC. Most of the companies there were betting on the wrong moat.",
+          "link": "https://www.reddit.com/r/artificial/comments/1t5ewzi/spent_two_days_at_the_ai_agents_conference_in_nyc/",
+          "date": "2026-05-06T14:41:07+00:00"
         },
         {
           "title": "X user tricks Grok into sending them $200,000 in crypto using morse code",
@@ -358,19 +363,14 @@
           "date": "2026-05-05T11:22:11+00:00"
         },
         {
-          "title": "AI agents vs AI chatbots: what are companies actually using in production today?",
-          "link": "https://www.reddit.com/r/artificial/comments/1t53331/ai_agents_vs_ai_chatbots_what_are_companies/",
-          "date": "2026-05-06T04:55:22+00:00"
-        },
-        {
           "title": "Google\u2019s AI search summaries will now quote Reddit",
           "link": "https://www.reddit.com/r/artificial/comments/1t5ct5o/googles_ai_search_summaries_will_now_quote_reddit/",
           "date": "2026-05-06T13:22:45+00:00"
         },
         {
-          "title": "Anthropic just published new alignment research that could fix \"alignment faking\" in AI agents here's what it actually means",
-          "link": "https://www.reddit.com/r/artificial/comments/1t4sj10/anthropic_just_published_new_alignment_research/",
-          "date": "2026-05-05T21:08:38+00:00"
+          "title": "AI agents vs AI chatbots: what are companies actually using in production today?",
+          "link": "https://www.reddit.com/r/artificial/comments/1t53331/ai_agents_vs_ai_chatbots_what_are_companies/",
+          "date": "2026-05-06T04:55:22+00:00"
         }
       ],
       "error": null
@@ -379,6 +379,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "College students are noticing their AI-smoothed writing sounds strong \u2014 and not like them",
+          "link": "https://theconversation.com/college-students-are-noticing-their-ai-smoothed-writing-sounds-strong-and-not-like-them-279436",
+          "date": "2026-05-06T13:51:53Z"
+        },
         {
           "title": "So your new \u2018co-worker\u2019 is an AI agent \u2013 here\u2019s how to make the best of your human-machine relationship",
           "link": "https://theconversation.com/so-your-new-co-worker-is-an-ai-agent-heres-how-to-make-the-best-of-your-human-machine-relationship-276011",
@@ -398,11 +403,6 @@
           "title": "From Taylor Swift to Bollywood, stars turn to the civil courts to fight deepfakes",
           "link": "https://theconversation.com/from-taylor-swift-to-bollywood-stars-turn-to-the-civil-courts-to-fight-deepfakes-281745",
           "date": "2026-05-04T20:11:08Z"
-        },
-        {
-          "title": "Themes of peace and human dignity have been central to Pope Leo as he marks his first year in office",
-          "link": "https://theconversation.com/themes-of-peace-and-human-dignity-have-been-central-to-pope-leo-as-he-marks-his-first-year-in-office-280722",
-          "date": "2026-05-04T18:31:47Z"
         }
       ],
       "error": null
@@ -412,9 +412,19 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Richard Dawkins concludes AI is conscious, even if it doesn\u2019t know it",
-          "link": "https://www.theguardian.com/technology/2026/may/05/richard-dawkins-ai-consciousness-anthropic-claude-openai-chatgpt",
-          "date": "Tue, 05 May 2026 15:17:19 GMT"
+          "title": "No flattery please, Claude: I\u2019m British | Brief letters",
+          "link": "https://www.theguardian.com/technology/2026/may/06/no-flattery-please-claude-im-british",
+          "date": "Wed, 06 May 2026 16:25:01 GMT"
+        },
+        {
+          "title": "From \u2018it helped me stick to a routine\u2019 to \u2018I despise it\u2019: how people are using AI for fitness",
+          "link": "https://www.theguardian.com/wellness/2026/may/06/ai-fitness-health-programs",
+          "date": "Wed, 06 May 2026 16:00:23 GMT"
+        },
+        {
+          "title": "\u2018Your craft is obsolete\u2019: WiseTech staff in limbo as AI touted as better than humans",
+          "link": "https://www.theguardian.com/technology/2026/may/07/your-craft-is-obsolete-wisetech-staff-in-limbo-as-ai-touted-as-better-than-humans",
+          "date": "Wed, 06 May 2026 15:00:23 GMT"
         },
         {
           "title": "\u2018RAMageddon\u2019: is the era of cheap phones and laptops over?",
@@ -425,16 +435,6 @@
           "title": "Global finance watchdog warns over private credit industry fuelling AI boom",
           "link": "https://www.theguardian.com/business/2026/may/06/global-finance-watchdog-warns-over-private-credit-industry-fuelling-ai-boom",
           "date": "Wed, 06 May 2026 06:00:01 GMT"
-        },
-        {
-          "title": "Apple agrees to pay $250m over claims it misled buyers on Siri\u2019s AI features",
-          "link": "https://www.theguardian.com/technology/2026/may/05/apple-siri-ai-settlement",
-          "date": "Tue, 05 May 2026 23:14:41 GMT"
-        },
-        {
-          "title": "US and tech firms strike deal to review AI models for national security before public release",
-          "link": "https://www.theguardian.com/technology/2026/may/05/commerce-department-ai-agreements-google-microsoft-xai",
-          "date": "Tue, 05 May 2026 18:44:22 GMT"
         }
       ],
       "error": null
@@ -449,6 +449,11 @@
       "name": "Artificial Intelligence \u2013 Futurism",
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
+        {
+          "title": "Gamers Cheer as Microsoft Pulls Copilot AI Out of Xbox Entirely",
+          "link": "https://futurism.com/artificial-intelligence/microsoft-pulling-copilot-ai-xbox",
+          "date": "Wed, 06 May 2026 11:16:16 -0400"
+        },
         {
           "title": "Marc Andreessen Mocked for Accidentally Revealing That He Seems to Have a Deep Misunderstanding of How AI Actually Works",
           "link": "https://futurism.com/artificial-intelligence/marc-andreessen-mocked-ai-works",
@@ -468,11 +473,6 @@
           "title": "Apple Is Blocking Vibe Coding Apps From the App Store, Infuriating Developers",
           "link": "https://futurism.com/artificial-intelligence/apple-block-vibe-coding-apps",
           "date": "Tue, 05 May 2026 11:01:00 -0400"
-        },
-        {
-          "title": "Approaching Half of New Podcasts Appear to Be AI Slop",
-          "link": "https://futurism.com/artificial-intelligence/half-ai-podcasts-slop",
-          "date": "Tue, 05 May 2026 10:01:00 -0400"
         }
       ],
       "error": null
@@ -482,7 +482,12 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
-          "title": "Apple Will Pay $250 Million to Settle Lawsuit Over Siri's AI Features",
+          "title": "Hackers Hate AI Slop Even More Than You Do",
+          "link": "https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/",
+          "date": "Wed, 06 May 2026 15:49:12 +0000"
+        },
+        {
+          "title": "Apple Will Pay $250 Million to Settle Lawsuit Over Siri\u2019s AI Features",
           "link": "https://www.wired.com/story/apple-will-pay-dollar250-million-to-settle-lawsuit-over-siris-ai-features/",
           "date": "Wed, 06 May 2026 10:41:37 +0000"
         },
@@ -500,11 +505,6 @@
           "title": "Google DeepMind Workers Vote to Unionize Over Military AI Deals",
           "link": "https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/",
           "date": "Tue, 05 May 2026 11:59:20 +0000"
-        },
-        {
-          "title": "He Couldn\u2019t Land a Job Interview. Was AI to Blame?",
-          "link": "https://www.wired.com/story/he-couldnt-land-a-job-interview-was-ai-to-blame/",
-          "date": "Tue, 05 May 2026 10:00:00 +0000"
         }
       ],
       "error": null
