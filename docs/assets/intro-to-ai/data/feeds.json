@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T18:13:51.277721+00:00",
+  "generatedAt": "2026-05-06T20:19:38.539503+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "HP and the art of AI and data for the enterprise",
-          "link": "https://www.artificialintelligence-news.com/news/hps-ai-and-data-offerings-for-the-enterprise/",
-          "date": "Wed, 06 May 2026 15:14:00 +0000"
-        },
-        {
-          "title": "US government increases AI suppliers and rethinks Anthropic\u2019s role",
-          "link": "https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/",
-          "date": "Wed, 06 May 2026 12:23:00 +0000"
-        },
-        {
-          "title": "Google tests Remy AI agent for Gemini as focus turns to user control",
-          "link": "https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/",
-          "date": "Wed, 06 May 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Physical AI raises governance questions for autonomous systems",
-          "link": "https://www.artificialintelligence-news.com/news/physical-ai-governance-autonomous-systems/",
-          "date": "Mon, 04 May 2026 11:00:00 +0000"
-        },
-        {
-          "title": "Google made agentic AI governance a product. Enterprises still have to catch up.",
-          "link": "https://www.artificialintelligence-news.com/news/agentic-ai-governance-enterprise-readiness-google/",
-          "date": "Mon, 04 May 2026 10:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -348,14 +322,19 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "Pennsylvania sues Character.AI chatbot posing as doctor, giving psych advice",
-          "link": "https://www.reddit.com/r/artificial/comments/1t5ewxa/pennsylvania_sues_characterai_chatbot_posing_as/",
-          "date": "2026-05-06T14:41:03+00:00"
+          "title": "Anthropic just partnered with SpaceX and doubled Claude Code rate limits effective today",
+          "link": "https://www.reddit.com/r/artificial/comments/1t5l92i/anthropic_just_partnered_with_spacex_and_doubled/",
+          "date": "2026-05-06T18:20:46+00:00"
         },
         {
           "title": "Spent two days at the AI Agents Conference in NYC. Most of the companies there were betting on the wrong moat.",
           "link": "https://www.reddit.com/r/artificial/comments/1t5ewzi/spent_two_days_at_the_ai_agents_conference_in_nyc/",
           "date": "2026-05-06T14:41:07+00:00"
+        },
+        {
+          "title": "Pennsylvania sues Character.AI chatbot posing as doctor, giving psych advice",
+          "link": "https://www.reddit.com/r/artificial/comments/1t5ewxa/pennsylvania_sues_characterai_chatbot_posing_as/",
+          "date": "2026-05-06T14:41:03+00:00"
         },
         {
           "title": "X user tricks Grok into sending them $200,000 in crypto using morse code",
@@ -366,11 +345,6 @@
           "title": "Google\u2019s AI search summaries will now quote Reddit",
           "link": "https://www.reddit.com/r/artificial/comments/1t5ct5o/googles_ai_search_summaries_will_now_quote_reddit/",
           "date": "2026-05-06T13:22:45+00:00"
-        },
-        {
-          "title": "AI agents vs AI chatbots: what are companies actually using in production today?",
-          "link": "https://www.reddit.com/r/artificial/comments/1t53331/ai_agents_vs_ai_chatbots_what_are_companies/",
-          "date": "2026-05-06T04:55:22+00:00"
         }
       ],
       "error": null
@@ -417,12 +391,12 @@
           "date": "Wed, 06 May 2026 16:25:01 GMT"
         },
         {
-          "title": "Shivon Zilis, mother of Elon Musk\u2019s children, testifies in lawsuit against OpenAI",
+          "title": "Shivon Zilis, mother of four of Elon Musk\u2019s children, testifies in OpenAI trial",
           "link": "https://www.theguardian.com/technology/2026/may/06/shivon-zilis-testimony-elon-musk-openai-lawsuit",
           "date": "Wed, 06 May 2026 17:13:57 GMT"
         },
         {
-          "title": "From \u2018it helped me stick to a routine\u2019 to \u2018I despise it\u2019: how people are using AI for fitness",
+          "title": "From \u2018it helped me stick to a routine\u2019 to \u2018I despise it\u2019: 11 people explain how they\u2019re using AI for fitness",
           "link": "https://www.theguardian.com/wellness/2026/may/06/ai-fitness-health-programs",
           "date": "Wed, 06 May 2026 16:00:23 GMT"
         },
@@ -450,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "FBI Director Kash Patel Says AI Has Stopped Numerous Violent Attacks Against America. We\u2019d Love to See a Single Whiff of Evidence",
+          "link": "https://futurism.com/artificial-intelligence/fbi-kash-patel-ai-violent-attacks",
+          "date": "Wed, 06 May 2026 15:19:42 -0400"
+        },
+        {
           "title": "Sam Altman Frets That Frontier AI Models Are Acting Strange, Asking for Favors",
           "link": "https://futurism.com/artificial-intelligence/sam-altman-frontier-ai-models-favors",
           "date": "Wed, 06 May 2026 13:55:46 -0400"
@@ -468,11 +447,6 @@
           "title": "Ordinary People Fear AI, While the Tech Leaders Working to Create a Permanent Underclass Say They\u2019re Extremely Psyched About It",
           "link": "https://futurism.com/artificial-intelligence/ai-perception-underclass",
           "date": "Wed, 06 May 2026 09:04:28 -0400"
-        },
-        {
-          "title": "Even After Two Massacres, OpenAI Still Hasn\u2019t Stopped ChatGPT From Helping Plan School Shootings",
-          "link": "https://futurism.com/artificial-intelligence/two-shootings-openai-stopped",
-          "date": "Tue, 05 May 2026 14:58:09 -0400"
         }
       ],
       "error": null
@@ -481,6 +455,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird",
+          "link": "https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/",
+          "date": "Wed, 06 May 2026 18:28:52 +0000"
+        },
         {
           "title": "Using AI for Just 10 Minutes Might Make You Lazy and Dumb, Study Shows",
           "link": "https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/",
@@ -500,11 +479,6 @@
           "title": "Apple Will Pay $250 Million to Settle Lawsuit Over Siri\u2019s AI Features",
           "link": "https://www.wired.com/story/apple-will-pay-dollar250-million-to-settle-lawsuit-over-siris-ai-features/",
           "date": "Wed, 06 May 2026 10:41:37 +0000"
-        },
-        {
-          "title": "Hasan Piker, Self-Described \u2018Ayatollah of Woke,\u2019 Wants AI to Die",
-          "link": "https://www.wired.com/story/hasan-piker-user-behavior/",
-          "date": "Wed, 06 May 2026 10:00:00 +0000"
         }
       ],
       "error": null
