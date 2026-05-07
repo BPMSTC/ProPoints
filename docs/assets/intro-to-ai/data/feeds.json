@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-05-07T02:38:12.393145+00:00",
+  "generatedAt": "2026-05-07T06:07:37.168907+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Scientists Gave \u2018Aggressive\u2019 Fish Psychedelic Drugs. A Breakthrough Came Next",
+          "link": "https://www.404media.co/fish-psilocybin-magic-mushrooms-study-psychedelics/",
+          "date": "Thu, 07 May 2026 04:01:26 GMT"
+        },
         {
           "title": "Podcast: Flock Used Cameras at a Children\u2019s Gymnastics Center for a Sales Pitch",
           "link": "https://www.404media.co/podcast-flock-used-cameras-at-a-childrens-gymnastics-center-for-a-sales-pitch/",
@@ -24,11 +29,6 @@
           "title": "The AI Hard Drive Shortage Is Making It More Expensive and Harder to Archive the Internet",
           "link": "https://www.404media.co/the-ai-hard-drive-shortage-is-making-it-more-expensive-and-harder-to-archive-the-internet/",
           "date": "Tue, 05 May 2026 13:20:31 GMT"
-        },
-        {
-          "title": "'Nature' Retracts Paper on the Benefits of ChatGPT in Education",
-          "link": "https://www.404media.co/nature-retracts-paper-on-the-benefits-of-chatgpt-in-education/",
-          "date": "Mon, 04 May 2026 17:56:43 GMT"
         }
       ],
       "error": null
@@ -232,6 +232,11 @@
           "date": "2025-09-09T02:25:04+00:00"
         },
         {
+          "title": "Subquadratic Sparse Attention for Edge LLM Inference (7b LLM on Raspberry Pi 5 and 1b on Pi Zero)",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1t5z4n0/subquadratic_sparse_attention_for_edge_llm/",
+          "date": "2026-05-07T03:39:29+00:00"
+        },
+        {
           "title": "I need this \u2328\ufe0f",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1szw0qb/i_need_this/",
           "date": "2026-04-30T13:24:54+00:00"
@@ -240,11 +245,6 @@
           "title": "NVIDIA Open-Sourced an AI Model for Explorable 3D World Generation",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1sphnpg/nvidia_opensourced_an_ai_model_for_explorable_3d/",
           "date": "2026-04-19T03:21:25+00:00"
-        },
-        {
-          "title": "Meshy MCP Is Here - Big Step for AI 3D Workflows",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1see7bk/meshy_mcp_is_here_big_step_for_ai_3d_workflows/",
-          "date": "2026-04-06T22:46:50+00:00"
         }
       ],
       "error": null
@@ -358,19 +358,19 @@
           "date": "2026-05-06T14:41:07+00:00"
         },
         {
-          "title": "Pennsylvania sues Character.AI chatbot posing as doctor, giving psych advice",
-          "link": "https://www.reddit.com/r/artificial/comments/1t5ewxa/pennsylvania_sues_characterai_chatbot_posing_as/",
-          "date": "2026-05-06T14:41:03+00:00"
-        },
-        {
           "title": "AI Podcasts made learning economics way less painful for me",
           "link": "https://www.reddit.com/r/artificial/comments/1t5q6pd/ai_podcasts_made_learning_economics_way_less/",
           "date": "2026-05-06T21:16:43+00:00"
         },
         {
-          "title": "Be honest: How much of \"Claude Mythos\" is just hype?",
-          "link": "https://www.reddit.com/r/artificial/comments/1t5ibwc/be_honest_how_much_of_claude_mythos_is_just_hype/",
-          "date": "2026-05-06T16:42:03+00:00"
+          "title": "Anthropic researchers detail \u201cmodel spec midtraining\u201d, which adds a stage between pretraining and fine-tuning to improve generalization from alignment training",
+          "link": "https://www.reddit.com/r/artificial/comments/1t5zoq4/anthropic_researchers_detail_model_spec/",
+          "date": "2026-05-07T04:06:31+00:00"
+        },
+        {
+          "title": "Pennsylvania sues Character.AI chatbot posing as doctor, giving psych advice",
+          "link": "https://www.reddit.com/r/artificial/comments/1t5ewxa/pennsylvania_sues_characterai_chatbot_posing_as/",
+          "date": "2026-05-06T14:41:03+00:00"
         }
       ],
       "error": null
@@ -412,14 +412,19 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "No flattery please, Claude: I\u2019m British | Brief letters",
-          "link": "https://www.theguardian.com/technology/2026/may/06/no-flattery-please-claude-im-british",
-          "date": "Wed, 06 May 2026 16:25:01 GMT"
+          "title": "Europe\u2019s AI translation industry told it risks reputation by partnering with US firms",
+          "link": "https://www.theguardian.com/technology/2026/may/07/europe-ai-translation-industry-deepl-partnering-us-firms",
+          "date": "Thu, 07 May 2026 06:00:40 GMT"
         },
         {
           "title": "Shivon Zilis, mother of four of Elon Musk\u2019s children, testifies in OpenAI trial",
           "link": "https://www.theguardian.com/technology/2026/may/06/shivon-zilis-testimony-elon-musk-openai-lawsuit",
           "date": "Wed, 06 May 2026 22:58:58 GMT"
+        },
+        {
+          "title": "No flattery please, Claude: I\u2019m British | Brief letters",
+          "link": "https://www.theguardian.com/technology/2026/may/06/no-flattery-please-claude-im-british",
+          "date": "Wed, 06 May 2026 16:25:01 GMT"
         },
         {
           "title": "From \u2018it helped me stick to a routine\u2019 to \u2018I despise it\u2019: 11 people explain how they\u2019re using AI for fitness",
@@ -430,11 +435,6 @@
           "title": "\u2018Your craft is obsolete\u2019: WiseTech staff in limbo as AI touted as better than humans",
           "link": "https://www.theguardian.com/technology/2026/may/07/your-craft-is-obsolete-wisetech-staff-in-limbo-as-ai-touted-as-better-than-humans",
           "date": "Wed, 06 May 2026 15:00:23 GMT"
-        },
-        {
-          "title": "\u2018RAMageddon\u2019: is the era of cheap phones and laptops over?",
-          "link": "https://www.theguardian.com/business/2026/may/06/ramageddon-cheap-phones-laptops-macbooks-ps5s-ai-chips",
-          "date": "Wed, 06 May 2026 06:00:03 GMT"
         }
       ],
       "error": null
