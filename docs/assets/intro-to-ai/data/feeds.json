@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T22:58:54.058247+00:00",
+  "generatedAt": "2026-05-07T23:59:36.956442+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "AI helping ease the UK\u2019s NHS burden",
+          "link": "https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/",
+          "date": "Thu, 07 May 2026 09:35:00 +0000"
+        },
+        {
+          "title": "HP and the art of AI and data for the enterprise",
+          "link": "https://www.artificialintelligence-news.com/news/hps-ai-and-data-offerings-for-the-enterprise/",
+          "date": "Wed, 06 May 2026 15:14:00 +0000"
+        },
+        {
+          "title": "US government increases AI suppliers and rethinks Anthropic\u2019s role",
+          "link": "https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/",
+          "date": "Wed, 06 May 2026 12:23:00 +0000"
+        },
+        {
+          "title": "Google tests Remy AI agent for Gemini as focus turns to user control",
+          "link": "https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/",
+          "date": "Wed, 06 May 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Physical AI raises governance questions for autonomous systems",
+          "link": "https://www.artificialintelligence-news.com/news/physical-ai-governance-autonomous-systems/",
+          "date": "Mon, 04 May 2026 11:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -265,7 +291,7 @@
       "name": "AI \u2013 Uber Engineering Blog",
       "url": "https://eng.uber.com/category/articles/ai/feed",
       "items": [],
-      "error": null
+      "error": "<unknown>:2:0: syntax error"
     },
     {
       "name": "Anaconda Blog",
@@ -332,6 +358,11 @@
           "date": "2026-05-07T21:25:41+00:00"
         },
         {
+          "title": "Artificial Intelligence will save entertainment production in the future",
+          "link": "https://www.reddit.com/r/artificial/comments/1t6q8mk/artificial_intelligence_will_save_entertainment/",
+          "date": "2026-05-07T22:54:23+00:00"
+        },
+        {
           "title": "Coinbase Cuts 700 Jobs and CEO Warns Every Company Will Do the Same",
           "link": "https://www.reddit.com/r/artificial/comments/1t6gf3v/coinbase_cuts_700_jobs_and_ceo_warns_every/",
           "date": "2026-05-07T16:57:07+00:00"
@@ -340,11 +371,6 @@
           "title": "English Centric AI Is Merging Unrelated Communities and Distorting Identities",
           "link": "https://www.reddit.com/r/artificial/comments/1t6ipmk/english_centric_ai_is_merging_unrelated/",
           "date": "2026-05-07T18:15:50+00:00"
-        },
-        {
-          "title": "Artificial Intelligence will save entertainment production in the future",
-          "link": "https://www.reddit.com/r/artificial/comments/1t6q8mk/artificial_intelligence_will_save_entertainment/",
-          "date": "2026-05-07T22:54:23+00:00"
         }
       ],
       "error": null
