@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T13:26:52.308376+00:00",
+  "generatedAt": "2026-05-08T15:19:42.183122+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "Becoming AI ready:  Building a company with 12 AI agents as my first hires",
+          "link": "https://www.aiacceleratorinstitute.com/becoming-ai-ready-building-a-company-with-12-ai-agents-as-my-first-hires/",
+          "date": "Fri, 08 May 2026 15:00:33 GMT"
+        },
+        {
           "title": "7 signs your AI agent system  needs to start building its own tools",
           "link": "https://www.aiacceleratorinstitute.com/7-signs-your-ai-agent-system-needs-to-start-building-its-own-tools/",
           "date": "Fri, 08 May 2026 09:33:40 GMT"
@@ -88,11 +93,6 @@
           "title": "The rise of agent  experience (AX)",
           "link": "https://www.aiacceleratorinstitute.com/the-rise-of-agent-experience-ax/",
           "date": "Thu, 30 Apr 2026 13:10:09 GMT"
-        },
-        {
-          "title": "How observability keeps AI systems reliable at scale",
-          "link": "https://www.aiacceleratorinstitute.com/reliable-ai-agent-creation-with-observability/",
-          "date": "Wed, 29 Apr 2026 13:25:40 GMT"
         }
       ],
       "error": null
@@ -114,7 +114,12 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
-          "title": "Beijing lab at $20B as AI investors look to China",
+          "title": "Prompt: AI Agents Are Becoming Operational Infrastructure",
+          "link": "https://aibusiness.com/agentic-ai/prompt-ai-agents-becoming-operational-infrastructure",
+          "date": "Fri, 08 May 2026 13:46:54 GMT"
+        },
+        {
+          "title": "Beijing Lab at $20B as AI Investors Look to China",
           "link": "https://aibusiness.com/generative-ai/beijing-lab-20b-ai-investors-look-to-china",
           "date": "Fri, 08 May 2026 12:17:16 GMT"
         },
@@ -132,11 +137,6 @@
           "title": "Anthropic and SpaceX Agree to Major Compute Capacity Deal",
           "link": "https://aibusiness.com/generative-ai/anthropic-spacex-agree-major-compute-capacity-deal",
           "date": "Thu, 07 May 2026 14:23:20 GMT"
-        },
-        {
-          "title": "Anthropic Finance Agents Pose Threat to Established Service Providers",
-          "link": "https://aibusiness.com/agentic-ai/anthropic-finance-agents-threaten-established-service-providers",
-          "date": "Wed, 06 May 2026 22:17:15 GMT"
         }
       ],
       "error": null
@@ -151,6 +151,11 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [
+        {
+          "title": "RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist",
+          "link": "https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/",
+          "date": "Fri, 08 May 2026 14:54:00 +0000"
+        },
         {
           "title": "AI helping ease the UK\u2019s NHS burden",
           "link": "https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/",
@@ -170,11 +175,6 @@
           "title": "Google tests Remy AI agent for Gemini as focus turns to user control",
           "link": "https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/",
           "date": "Wed, 06 May 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Physical AI raises governance questions for autonomous systems",
-          "link": "https://www.artificialintelligence-news.com/news/physical-ai-governance-autonomous-systems/",
-          "date": "Mon, 04 May 2026 11:00:00 +0000"
         }
       ],
       "error": null
@@ -232,6 +232,11 @@
           "date": "2025-09-09T02:25:04+00:00"
         },
         {
+          "title": "AgentDB: Vector memory that gets smarter every time your agent uses it.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1t78wb7/agentdb_vector_memory_that_gets_smarter_every/",
+          "date": "2026-05-08T14:03:07+00:00"
+        },
+        {
           "title": "Subquadratic Sparse Attention for Edge LLM Inference (7b LLM on Raspberry Pi 5 and 1b on Pi Zero)",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1t5z4n0/subquadratic_sparse_attention_for_edge_llm/",
           "date": "2026-05-07T03:39:29+00:00"
@@ -240,11 +245,6 @@
           "title": "I need this \u2328\ufe0f",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1szw0qb/i_need_this/",
           "date": "2026-04-30T13:24:54+00:00"
-        },
-        {
-          "title": "NVIDIA Open-Sourced an AI Model for Explorable 3D World Generation",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1sphnpg/nvidia_opensourced_an_ai_model_for_explorable_3d/",
-          "date": "2026-04-19T03:21:25+00:00"
         }
       ],
       "error": null
@@ -353,24 +353,24 @@
           "date": "2026-05-08T06:23:32+00:00"
         },
         {
-          "title": "We gave 45 psychological questionnaires to 50 LLMs. What we found was not \u201cpersonality.\u201d",
-          "link": "https://www.reddit.com/r/artificial/comments/1t6o1dl/we_gave_45_psychological_questionnaires_to_50/",
-          "date": "2026-05-07T21:25:41+00:00"
+          "title": "What's the best AI video generator for long videos?",
+          "link": "https://www.reddit.com/r/artificial/comments/1t78zcm/whats_the_best_ai_video_generator_for_long_videos/",
+          "date": "2026-05-08T14:06:13+00:00"
         },
         {
-          "title": "Stop using USE.AI",
-          "link": "https://www.reddit.com/r/artificial/comments/1t76vtf/stop_using_useai/",
-          "date": "2026-05-08T12:45:40+00:00"
+          "title": "Do you think edge AI ends up mattering more for autonomy, robotics, or local private inference?",
+          "link": "https://www.reddit.com/r/artificial/comments/1t78u2r/do_you_think_edge_ai_ends_up_mattering_more_for/",
+          "date": "2026-05-08T14:00:53+00:00"
         },
         {
-          "title": "Nanoleaf bets its future on robots, red light therapy, and AI",
-          "link": "https://www.reddit.com/r/artificial/comments/1t76r14/nanoleaf_bets_its_future_on_robots_red_light/",
-          "date": "2026-05-08T12:40:08+00:00"
+          "title": "AMD's local, open-source AI can now easily interact with your Gmail",
+          "link": "https://www.reddit.com/r/artificial/comments/1t77n9a/amds_local_opensource_ai_can_now_easily_interact/",
+          "date": "2026-05-08T13:15:33+00:00"
         },
         {
-          "title": "Anthropic Secures SpaceX Colossus 1 After Growing 80x to a $1.2T Valuation",
-          "link": "https://www.reddit.com/r/artificial/comments/1t6b6uz/anthropic_secures_spacex_colossus_1_after_growing/",
-          "date": "2026-05-07T13:51:56+00:00"
+          "title": "New AI model spots pancreatic cancer up to 3 years earlier than human doctors in test",
+          "link": "https://www.reddit.com/r/artificial/comments/1t7au63/new_ai_model_spots_pancreatic_cancer_up_to_3/",
+          "date": "2026-05-08T15:12:35+00:00"
         }
       ],
       "error": null
@@ -417,24 +417,24 @@
           "date": "Fri, 08 May 2026 04:00:37 GMT"
         },
         {
+          "title": "AI-powered surveillance company Palantir created a chore coat. Great, now I have no choice but to burn mine | Van Badham",
+          "link": "https://www.theguardian.com/technology/commentisfree/2026/may/08/palantir-chore-coat-jacket-merch",
+          "date": "Fri, 08 May 2026 15:00:31 GMT"
+        },
+        {
+          "title": "White House calls Mark Hamill \u2018sick\u2019 for posting AI image of Trump in a grave",
+          "link": "https://www.theguardian.com/us-news/2026/may/08/white-house-mark-hamill-ai-trump-picture-grave-post",
+          "date": "Fri, 08 May 2026 14:04:19 GMT"
+        },
+        {
+          "title": "The fight against AI data centers isn\u2019t just about tech \u2013 it\u2019s about democracy | Astra Taylor and Saul Levin",
+          "link": "https://www.theguardian.com/commentisfree/2026/may/08/ai-datacenters-democracy",
+          "date": "Fri, 08 May 2026 14:00:31 GMT"
+        },
+        {
           "title": "How dangerous is Anthropic\u2019s Mythos AI? | Bruce Schneier",
           "link": "https://www.theguardian.com/commentisfree/2026/may/08/how-dangerous-is-anthropics-mythos-ai",
           "date": "Fri, 08 May 2026 12:00:27 GMT"
-        },
-        {
-          "title": "The AI jailbreakers \u2013 podcast",
-          "link": "https://www.theguardian.com/news/audio/2026/may/08/the-ai-jailbreakers-podcast",
-          "date": "Fri, 08 May 2026 02:00:32 GMT"
-        },
-        {
-          "title": "The Guardian view on facial recognition technology: mistaken identities are a political issue | Editorial",
-          "link": "https://www.theguardian.com/commentisfree/2026/may/07/the-guardian-view-on-facial-recognition-technology-mistaken-identities-are-a-political-issue",
-          "date": "Thu, 07 May 2026 17:35:10 GMT"
-        },
-        {
-          "title": "Financial stability risks are rising as AI fuels cyber-attacks, IMF warns; oil below $100 on Iran peace hopes \u2013 as it happened",
-          "link": "https://www.theguardian.com/business/live/2026/may/07/iran-deal-shell-profits-oil-gas-stock-markets-business-live",
-          "date": "Thu, 07 May 2026 15:53:57 GMT"
         }
       ],
       "error": null
@@ -449,6 +449,11 @@
       "name": "Artificial Intelligence \u2013 Futurism",
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
+        {
+          "title": "Cursed New AI Service Writes a Mother\u2019s Day Card and Mails It to Your Mom, Without Any Human Involvement Except Inputting Your Credit Card Details",
+          "link": "https://futurism.com/artificial-intelligence/mothers-day-ai",
+          "date": "Fri, 08 May 2026 11:00:16 -0400"
+        },
         {
           "title": "Scammers Furious That Their Fellow Criminals Are Using AI, Saying It\u2019s Unethical",
           "link": "https://futurism.com/artificial-intelligence/scammers-furious-ai",
@@ -468,11 +473,6 @@
           "title": "You\u2019ll Never Guess Trade Unions\u2019 Position on AI Data Centers",
           "link": "https://futurism.com/artificial-intelligence/union-labor-data-center",
           "date": "Thu, 07 May 2026 12:59:43 -0400"
-        },
-        {
-          "title": "James Cameron Accused of Stealing 14-Year-Old Girl\u2019s Face for Main Character of Billion-Dollar \u201cAvatar\u201d Films",
-          "link": "https://futurism.com/future-society/james-cameron-accused-stealing-face-avatar",
-          "date": "Thu, 07 May 2026 12:35:15 -0400"
         }
       ],
       "error": null
@@ -481,6 +481,16 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Nick Bostrom Has a Plan for Humanity\u2019s \u2018Big Retirement\u2019",
+          "link": "https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/",
+          "date": "Fri, 08 May 2026 15:00:00 +0000"
+        },
+        {
+          "title": "There's a Long Shot Proposal to Protect California Workers From AI",
+          "link": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
+          "date": "Fri, 08 May 2026 15:00:00 +0000"
+        },
         {
           "title": "The New Wild West of AI Kids\u2019 Toys",
           "link": "https://www.wired.com/story/the-new-wild-west-of-ai-kids-toys/",
@@ -495,16 +505,6 @@
           "title": "Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained",
           "link": "https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/",
           "date": "Thu, 07 May 2026 21:37:20 +0000"
-        },
-        {
-          "title": "How to Disable Google's Gemini in Chrome",
-          "link": "https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/",
-          "date": "Thu, 07 May 2026 20:31:57 +0000"
-        },
-        {
-          "title": "ChatGPT Has \u2018Goblin\u2019 Mania in the US. In China It Will \u2018Catch You Steadily\u2019",
-          "link": "https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/",
-          "date": "Thu, 07 May 2026 16:25:48 +0000"
         }
       ],
       "error": null
