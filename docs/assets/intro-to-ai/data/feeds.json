@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T21:59:59.701879+00:00",
+  "generatedAt": "2026-05-08T23:02:53.525965+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist",
+          "link": "https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/",
+          "date": "Fri, 08 May 2026 14:54:00 +0000"
+        },
+        {
+          "title": "AI helping ease the UK\u2019s NHS burden",
+          "link": "https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/",
+          "date": "Thu, 07 May 2026 09:35:00 +0000"
+        },
+        {
+          "title": "HP and the art of AI and data for the enterprise",
+          "link": "https://www.artificialintelligence-news.com/news/hps-ai-and-data-offerings-for-the-enterprise/",
+          "date": "Wed, 06 May 2026 15:14:00 +0000"
+        },
+        {
+          "title": "US government increases AI suppliers and rethinks Anthropic\u2019s role",
+          "link": "https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/",
+          "date": "Wed, 06 May 2026 12:23:00 +0000"
+        },
+        {
+          "title": "Google tests Remy AI agent for Gemini as focus turns to user control",
+          "link": "https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/",
+          "date": "Wed, 06 May 2026 10:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +316,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Trump reportedly plans to fire FDA Commissioner Marty Makary",
+          "link": "https://arstechnica.com/health/2026/05/trump-reportedly-plans-to-fire-fda-commissioner-marty-makary/",
+          "date": "Fri, 08 May 2026 22:10:58 +0000"
+        },
+        {
           "title": "ABC refuses to capitulate to Trump admin, fights FCC probe into The View",
           "link": "https://arstechnica.com/tech-policy/2026/05/abc-fights-trump-fccs-attempt-to-control-content-of-broadcast-tv-shows/",
           "date": "Fri, 08 May 2026 21:08:42 +0000"
@@ -308,11 +339,6 @@
           "title": "Course correction: Google to link more sources in AI Overviews",
           "link": "https://arstechnica.com/google/2026/05/google-will-put-more-links-to-websites-in-ai-overviews/",
           "date": "Fri, 08 May 2026 19:43:47 +0000"
-        },
-        {
-          "title": "Court rules Trump's 10% tariff is just as illegal as the tariff it replaced",
-          "link": "https://arstechnica.com/tech-policy/2026/05/trumps-10-global-tariff-is-illegal-court-rules/",
-          "date": "Fri, 08 May 2026 19:25:30 +0000"
         }
       ],
       "error": null
