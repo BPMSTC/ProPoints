@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T02:37:24.910193+00:00",
+  "generatedAt": "2026-05-09T05:46:37.257605+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist",
-          "link": "https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/",
-          "date": "Fri, 08 May 2026 14:54:00 +0000"
-        },
-        {
-          "title": "AI helping ease the UK\u2019s NHS burden",
-          "link": "https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/",
-          "date": "Thu, 07 May 2026 09:35:00 +0000"
-        },
-        {
-          "title": "HP and the art of AI and data for the enterprise",
-          "link": "https://www.artificialintelligence-news.com/news/hps-ai-and-data-offerings-for-the-enterprise/",
-          "date": "Wed, 06 May 2026 15:14:00 +0000"
-        },
-        {
-          "title": "US government increases AI suppliers and rethinks Anthropic\u2019s role",
-          "link": "https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/",
-          "date": "Wed, 06 May 2026 12:23:00 +0000"
-        },
-        {
-          "title": "Google tests Remy AI agent for Gemini as focus turns to user control",
-          "link": "https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/",
-          "date": "Wed, 06 May 2026 10:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -353,6 +327,16 @@
           "date": "2026-05-08T06:23:32+00:00"
         },
         {
+          "title": "Joscha Bach: Mapping Every Neuron Won't Give You a Mind",
+          "link": "https://www.reddit.com/r/artificial/comments/1t7swff/joscha_bach_mapping_every_neuron_wont_give_you_a/",
+          "date": "2026-05-09T03:02:03+00:00"
+        },
+        {
+          "title": "I made a desktop crab that bullies you back",
+          "link": "https://www.reddit.com/r/artificial/comments/1t7scgr/i_made_a_desktop_crab_that_bullies_you_back/",
+          "date": "2026-05-09T02:35:46+00:00"
+        },
+        {
           "title": "I like ChatGPT, I like AI",
           "link": "https://www.reddit.com/r/artificial/comments/1t7kzq1/i_like_chatgpt_i_like_ai/",
           "date": "2026-05-08T21:17:09+00:00"
@@ -361,16 +345,6 @@
           "title": "New AI model spots pancreatic cancer up to 3 years earlier than human doctors in test",
           "link": "https://www.reddit.com/r/artificial/comments/1t7au63/new_ai_model_spots_pancreatic_cancer_up_to_3/",
           "date": "2026-05-08T15:12:35+00:00"
-        },
-        {
-          "title": "Is this as unnerving as it sounds?",
-          "link": "https://www.reddit.com/r/artificial/comments/1t7nvn9/is_this_as_unnerving_as_it_sounds/",
-          "date": "2026-05-08T23:13:08+00:00"
-        },
-        {
-          "title": "AI tooling is starting to feel like PC modding culture",
-          "link": "https://www.reddit.com/r/artificial/comments/1t7gfud/ai_tooling_is_starting_to_feel_like_pc_modding/",
-          "date": "2026-05-08T18:30:05+00:00"
         }
       ],
       "error": null
@@ -412,9 +386,9 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "\u2018Being human helps\u2019: despite rise of AI is there still hope for Europe\u2019s translators?",
-          "link": "https://www.theguardian.com/technology/2026/may/08/being-human-helps-despite-rise-of-ai-is-there-still-hope-for-europes-translators",
-          "date": "Fri, 08 May 2026 04:00:37 GMT"
+          "title": "AI will make language barriers disappear \u2013 and diminish our understanding of other cultures",
+          "link": "https://www.theguardian.com/world/commentisfree/2026/may/09/ai-interpretation-diego-marani",
+          "date": "Sat, 09 May 2026 04:00:47 GMT"
         },
         {
           "title": "AI-powered surveillance company Palantir created a chore coat. Great, now I have no choice but to burn mine | Van Badham",
