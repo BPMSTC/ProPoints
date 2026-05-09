@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T09:16:56.532833+00:00",
+  "generatedAt": "2026-05-09T10:55:12.375468+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist",
+          "link": "https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/",
+          "date": "Fri, 08 May 2026 14:54:00 +0000"
+        },
+        {
+          "title": "AI helping ease the UK\u2019s NHS burden",
+          "link": "https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/",
+          "date": "Thu, 07 May 2026 09:35:00 +0000"
+        },
+        {
+          "title": "HP and the art of AI and data for the enterprise",
+          "link": "https://www.artificialintelligence-news.com/news/hps-ai-and-data-offerings-for-the-enterprise/",
+          "date": "Wed, 06 May 2026 15:14:00 +0000"
+        },
+        {
+          "title": "US government increases AI suppliers and rethinks Anthropic\u2019s role",
+          "link": "https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/",
+          "date": "Wed, 06 May 2026 12:23:00 +0000"
+        },
+        {
+          "title": "Google tests Remy AI agent for Gemini as focus turns to user control",
+          "link": "https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/",
+          "date": "Wed, 06 May 2026 10:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -322,14 +348,14 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "Marc Andreessen Mocked for Accidentally Revealing That He Seems to Have a Deep Misunderstanding of How AI Actually Works",
-          "link": "https://www.reddit.com/r/artificial/comments/1t6zm1l/marc_andreessen_mocked_for_accidentally_revealing/",
-          "date": "2026-05-08T06:23:32+00:00"
-        },
-        {
           "title": "Joscha Bach: Mapping Every Neuron Won't Give You a Mind",
           "link": "https://www.reddit.com/r/artificial/comments/1t7swff/joscha_bach_mapping_every_neuron_wont_give_you_a/",
           "date": "2026-05-09T03:02:03+00:00"
+        },
+        {
+          "title": "Marc Andreessen Mocked for Accidentally Revealing That He Seems to Have a Deep Misunderstanding of How AI Actually Works",
+          "link": "https://www.reddit.com/r/artificial/comments/1t6zm1l/marc_andreessen_mocked_for_accidentally_revealing/",
+          "date": "2026-05-08T06:23:32+00:00"
         },
         {
           "title": "I made a desktop crab that bullies you back",
@@ -337,14 +363,14 @@
           "date": "2026-05-09T02:35:46+00:00"
         },
         {
+          "title": "GPT-5.5 may burn fewer tokens, but it always burns more cash",
+          "link": "https://www.reddit.com/r/artificial/comments/1t80mvk/gpt55_may_burn_fewer_tokens_but_it_always_burns/",
+          "date": "2026-05-09T09:58:02+00:00"
+        },
+        {
           "title": "I like ChatGPT, I like AI",
           "link": "https://www.reddit.com/r/artificial/comments/1t7kzq1/i_like_chatgpt_i_like_ai/",
           "date": "2026-05-08T21:17:09+00:00"
-        },
-        {
-          "title": "New AI model spots pancreatic cancer up to 3 years earlier than human doctors in test",
-          "link": "https://www.reddit.com/r/artificial/comments/1t7au63/new_ai_model_spots_pancreatic_cancer_up_to_3/",
-          "date": "2026-05-08T15:12:35+00:00"
         }
       ],
       "error": null
@@ -386,6 +412,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Who is Louis Mosley, the man tasked with defending Palantir against its critics?",
+          "link": "https://www.theguardian.com/technology/2026/may/09/who-is-louis-mosley-defending-palantir-critics",
+          "date": "Sat, 09 May 2026 10:00:53 GMT"
+        },
+        {
           "title": "AI will make language barriers disappear \u2013 and diminish our understanding of other cultures",
           "link": "https://www.theguardian.com/world/commentisfree/2026/may/09/ai-interpretation-diego-marani",
           "date": "Sat, 09 May 2026 04:00:47 GMT"
@@ -404,11 +435,6 @@
           "title": "The fight against AI data centers isn\u2019t just about tech \u2013 it\u2019s about democracy | Astra Taylor and Saul Levin",
           "link": "https://www.theguardian.com/commentisfree/2026/may/08/ai-datacenters-democracy",
           "date": "Fri, 08 May 2026 14:00:31 GMT"
-        },
-        {
-          "title": "How dangerous is Anthropic\u2019s Mythos AI? | Bruce Schneier",
-          "link": "https://www.theguardian.com/commentisfree/2026/may/08/how-dangerous-is-anthropics-mythos-ai",
-          "date": "Fri, 08 May 2026 12:00:27 GMT"
         }
       ],
       "error": null
@@ -456,6 +482,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Hackable Robot Lawn Mower Unlocks a New Nightmare",
+          "link": "https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/",
+          "date": "Sat, 09 May 2026 10:30:00 +0000"
+        },
+        {
           "title": "Nick Bostrom Has a Plan for Humanity\u2019s \u2018Big Retirement\u2019",
           "link": "https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/",
           "date": "Fri, 08 May 2026 15:00:00 +0000"
@@ -474,11 +505,6 @@
           "title": "Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
           "link": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
           "date": "Fri, 08 May 2026 01:42:14 +0000"
-        },
-        {
-          "title": "Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained",
-          "link": "https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/",
-          "date": "Thu, 07 May 2026 21:37:20 +0000"
         }
       ],
       "error": null
