@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T23:43:43.322693+00:00",
+  "generatedAt": "2026-05-10T02:42:15.579665+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist",
-          "link": "https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/",
-          "date": "Fri, 08 May 2026 14:54:00 +0000"
-        },
-        {
-          "title": "AI helping ease the UK\u2019s NHS burden",
-          "link": "https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/",
-          "date": "Thu, 07 May 2026 09:35:00 +0000"
-        },
-        {
-          "title": "HP and the art of AI and data for the enterprise",
-          "link": "https://www.artificialintelligence-news.com/news/hps-ai-and-data-offerings-for-the-enterprise/",
-          "date": "Wed, 06 May 2026 15:14:00 +0000"
-        },
-        {
-          "title": "US government increases AI suppliers and rethinks Anthropic\u2019s role",
-          "link": "https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/",
-          "date": "Wed, 06 May 2026 12:23:00 +0000"
-        },
-        {
-          "title": "Google tests Remy AI agent for Gemini as focus turns to user control",
-          "link": "https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/",
-          "date": "Wed, 06 May 2026 10:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -363,14 +337,14 @@
           "date": "2026-05-09T21:16:50+00:00"
         },
         {
+          "title": "Is Google\u2019s market share on LLMs bulls**t?",
+          "link": "https://www.reddit.com/r/artificial/comments/1t8qxy8/is_googles_market_share_on_llms_bullst/",
+          "date": "2026-05-09T23:50:10+00:00"
+        },
+        {
           "title": "I made a desktop crab that bullies you back",
           "link": "https://www.reddit.com/r/artificial/comments/1t7scgr/i_made_a_desktop_crab_that_bullies_you_back/",
           "date": "2026-05-09T02:35:46+00:00"
-        },
-        {
-          "title": "Marc Andreessen Mocked for Accidentally Revealing That He Seems to Have a Deep Misunderstanding of How AI Actually Works",
-          "link": "https://www.reddit.com/r/artificial/comments/1t6zm1l/marc_andreessen_mocked_for_accidentally_revealing/",
-          "date": "2026-05-08T06:23:32+00:00"
         }
       ],
       "error": null
