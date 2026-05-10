@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T22:43:28.175462+00:00",
+  "generatedAt": "2026-05-10T23:50:17.521099+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -348,14 +348,14 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "I think AI is changing something deeper than jobs or productivity",
-          "link": "https://www.reddit.com/r/artificial/comments/1t987td/i_think_ai_is_changing_something_deeper_than_jobs/",
-          "date": "2026-05-10T14:19:53+00:00"
-        },
-        {
           "title": "Meta's own AI safety director lost 200 emails to a rogue agent and she couldn't stop it from her phone",
           "link": "https://www.reddit.com/r/artificial/comments/1t9fnwv/metas_own_ai_safety_director_lost_200_emails_to_a/",
           "date": "2026-05-10T19:00:45+00:00"
+        },
+        {
+          "title": "I think AI is changing something deeper than jobs or productivity",
+          "link": "https://www.reddit.com/r/artificial/comments/1t987td/i_think_ai_is_changing_something_deeper_than_jobs/",
+          "date": "2026-05-10T14:19:53+00:00"
         },
         {
           "title": "What\u2019s the best advice about using AI that genuinely changed how you work or learn?",
@@ -368,9 +368,9 @@
           "date": "2026-05-09T19:26:35+00:00"
         },
         {
-          "title": "What ai tool is this?",
-          "link": "https://www.reddit.com/r/artificial/comments/1t9gzdb/what_ai_tool_is_this/",
-          "date": "2026-05-10T19:49:52+00:00"
+          "title": "Will LLMs ever be capable of emulating comedy ?",
+          "link": "https://www.reddit.com/r/artificial/comments/1t9jz88/will_llms_ever_be_capable_of_emulating_comedy/",
+          "date": "2026-05-10T21:47:39+00:00"
         }
       ],
       "error": null
@@ -379,6 +379,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "\u2018Polyanna policy\u2019 \u2013 is NZ\u2019s framework for AI use in government overly optimistic?",
+          "link": "https://theconversation.com/polyanna-policy-is-nzs-framework-for-ai-use-in-government-overly-optimistic-281425",
+          "date": "2026-05-10T22:35:13Z"
+        },
         {
           "title": "The AI scientist: now academic papers can be fully automated, what does this mean for the future of research?",
           "link": "https://theconversation.com/the-ai-scientist-now-academic-papers-can-be-fully-automated-what-does-this-mean-for-the-future-of-research-282161",
@@ -398,11 +403,6 @@
           "title": "Transcribing speech is never neutral. It shapes power and bias",
           "link": "https://theconversation.com/transcribing-speech-is-never-neutral-it-shapes-power-and-bias-281527",
           "date": "2026-05-06T20:19:19Z"
-        },
-        {
-          "title": "College students are noticing their AI-smoothed writing sounds strong \u2014 and not like them",
-          "link": "https://theconversation.com/college-students-are-noticing-their-ai-smoothed-writing-sounds-strong-and-not-like-them-279436",
-          "date": "2026-05-06T13:51:53Z"
         }
       ],
       "error": null
@@ -455,7 +455,7 @@
           "date": "Sun, 10 May 2026 12:45:00 -0400"
         },
         {
-          "title": "ChatGPT Is Saying VWeird Things in Chinese",
+          "title": "ChatGPT Is Saying Weird Things in Chinese",
           "link": "https://futurism.com/artificial-intelligence/chatpgt-weird-chinese",
           "date": "Sun, 10 May 2026 11:15:00 -0400"
         },
