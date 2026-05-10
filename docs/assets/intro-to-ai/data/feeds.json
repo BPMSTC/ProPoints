@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T08:51:09.619134+00:00",
+  "generatedAt": "2026-05-10T10:12:03.921516+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist",
-          "link": "https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/",
-          "date": "Fri, 08 May 2026 14:54:00 +0000"
-        },
-        {
-          "title": "AI helping ease the UK\u2019s NHS burden",
-          "link": "https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/",
-          "date": "Thu, 07 May 2026 09:35:00 +0000"
-        },
-        {
-          "title": "HP and the art of AI and data for the enterprise",
-          "link": "https://www.artificialintelligence-news.com/news/hps-ai-and-data-offerings-for-the-enterprise/",
-          "date": "Wed, 06 May 2026 15:14:00 +0000"
-        },
-        {
-          "title": "US government increases AI suppliers and rethinks Anthropic\u2019s role",
-          "link": "https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/",
-          "date": "Wed, 06 May 2026 12:23:00 +0000"
-        },
-        {
-          "title": "Google tests Remy AI agent for Gemini as focus turns to user control",
-          "link": "https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/",
-          "date": "Wed, 06 May 2026 10:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -358,11 +332,6 @@
           "date": "2026-05-10T08:18:18+00:00"
         },
         {
-          "title": "What if Agentic AI security was a Non Issue?",
-          "link": "https://www.reddit.com/r/artificial/comments/1t8yiq4/what_if_agentic_ai_security_was_a_non_issue/",
-          "date": "2026-05-10T05:58:11+00:00"
-        },
-        {
           "title": "Joscha Bach: Mapping Every Neuron Won't Give You a Mind",
           "link": "https://www.reddit.com/r/artificial/comments/1t7swff/joscha_bach_mapping_every_neuron_wont_give_you_a/",
           "date": "2026-05-09T03:02:03+00:00"
@@ -371,6 +340,11 @@
           "title": "Is agentic AI governance even a computationally bounded process?",
           "link": "https://www.reddit.com/r/artificial/comments/1t8ncct/is_agentic_ai_governance_even_a_computationally/",
           "date": "2026-05-09T21:16:50+00:00"
+        },
+        {
+          "title": "Countries are building AI regulators before they have AI to regulate. Is this a trap?",
+          "link": "https://www.reddit.com/r/artificial/comments/1t91mu6/countries_are_building_ai_regulators_before_they/",
+          "date": "2026-05-10T08:54:02+00:00"
         }
       ],
       "error": null
