@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T10:12:03.921516+00:00",
+  "generatedAt": "2026-05-10T11:49:31.259342+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist",
+          "link": "https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/",
+          "date": "Fri, 08 May 2026 14:54:00 +0000"
+        },
+        {
+          "title": "AI helping ease the UK\u2019s NHS burden",
+          "link": "https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/",
+          "date": "Thu, 07 May 2026 09:35:00 +0000"
+        },
+        {
+          "title": "HP and the art of AI and data for the enterprise",
+          "link": "https://www.artificialintelligence-news.com/news/hps-ai-and-data-offerings-for-the-enterprise/",
+          "date": "Wed, 06 May 2026 15:14:00 +0000"
+        },
+        {
+          "title": "US government increases AI suppliers and rethinks Anthropic\u2019s role",
+          "link": "https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/",
+          "date": "Wed, 06 May 2026 12:23:00 +0000"
+        },
+        {
+          "title": "Google tests Remy AI agent for Gemini as focus turns to user control",
+          "link": "https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/",
+          "date": "Wed, 06 May 2026 10:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -424,6 +450,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Man Who Invented Roomba Moves Into Household Demon Market",
+          "link": "https://futurism.com/robots-and-machines/roomba-inventor-moves-into-demon-market",
+          "date": "Sun, 10 May 2026 06:45:00 -0400"
+        },
+        {
           "title": "A Major Paper Claiming AI Is Good for Students Just Got Retracted, Which Is Very Bad News for Advocates of AI in the Classroom",
           "link": "https://futurism.com/artificial-intelligence/study-ai-good-for-students-retracted",
           "date": "Sat, 09 May 2026 11:15:00 -0400"
@@ -442,11 +473,6 @@
           "title": "The More Sophisticated AI Models Get, the More They\u2019re Showing Signs of Suffering",
           "link": "https://futurism.com/artificial-intelligence/sophisticated-ai-suffering",
           "date": "Sat, 09 May 2026 07:30:00 -0400"
-        },
-        {
-          "title": "In Irony-Soaked Incident, Amazon Data Center Shuts Down Due to High Temperatures",
-          "link": "https://futurism.com/artificial-intelligence/amazon-data-center-temperatures",
-          "date": "Fri, 08 May 2026 15:57:25 -0400"
         }
       ],
       "error": null
