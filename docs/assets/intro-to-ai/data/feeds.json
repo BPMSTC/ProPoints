@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T16:30:33.876877+00:00",
+  "generatedAt": "2026-05-11T18:56:14.700430+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "AI automates HR compliance, except for the area tech companies need",
-          "link": "https://www.artificialintelligence-news.com/news/ai-automates-hr-compliance-except-for-the-area-tech-companies-need/",
-          "date": "Mon, 11 May 2026 14:34:05 +0000"
-        },
-        {
-          "title": "Bain sees US$100 billion SaaS market in agentic AI automation",
-          "link": "https://www.artificialintelligence-news.com/news/bain-agentic-ai-saas-market/",
-          "date": "Mon, 11 May 2026 10:00:00 +0000"
-        },
-        {
-          "title": "RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist",
-          "link": "https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/",
-          "date": "Fri, 08 May 2026 14:54:00 +0000"
-        },
-        {
-          "title": "AI helping ease the UK\u2019s NHS burden",
-          "link": "https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/",
-          "date": "Thu, 07 May 2026 09:35:00 +0000"
-        },
-        {
-          "title": "HP and the art of AI and data for the enterprise",
-          "link": "https://www.artificialintelligence-news.com/news/hps-ai-and-data-offerings-for-the-enterprise/",
-          "date": "Wed, 06 May 2026 15:14:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -316,29 +290,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Passengers from hantavirus ship arrive in US; 3 people in biocontainment",
+          "link": "https://arstechnica.com/health/2026/05/passengers-from-hantavirus-ship-arrive-in-us-3-people-in-biocontainment/",
+          "date": "Mon, 11 May 2026 18:12:43 +0000"
+        },
+        {
+          "title": "Starlink shuts down its GPS-style cheat code. Researchers may unlock it anyway.",
+          "link": "https://arstechnica.com/gadgets/2026/05/starlink-blocks-access-to-its-gps-alternative-ahead-of-spacex-ipo/",
+          "date": "Mon, 11 May 2026 17:55:34 +0000"
+        },
+        {
+          "title": "iOS, macOS, and iPadOS 26.5 updates arrive with encrypted RCS messaging and more",
+          "link": "https://arstechnica.com/gadgets/2026/05/ios-macos-and-ipados-26-5-updates-arrive-with-encrypted-rcs-messaging-and-more/",
+          "date": "Mon, 11 May 2026 17:20:39 +0000"
+        },
+        {
+          "title": "Samsung made a \u201cmockery\u201d of Dua Lipa by putting her picture on TV boxes, lawsuit says",
+          "link": "https://arstechnica.com/gadgets/2026/05/singer-dua-lipa-sues-samsung-for-15-million-for-using-her-image-on-tv-boxes/",
+          "date": "Mon, 11 May 2026 17:15:16 +0000"
+        },
+        {
           "title": "Pirates are already playing Forza Horizon 6 days before its launch",
           "link": "https://arstechnica.com/gaming/2026/05/pirates-are-already-playing-forza-horizon-6-days-before-its-launch/",
           "date": "Mon, 11 May 2026 15:29:16 +0000"
-        },
-        {
-          "title": "F1 set for another engine tweak in 2027, and what's this about V8s?",
-          "link": "https://arstechnica.com/cars/2026/05/f1-set-for-another-engine-tweak-in-2027-and-whats-this-about-v8s/",
-          "date": "Mon, 11 May 2026 15:20:09 +0000"
-        },
-        {
-          "title": "A promising Indian launch startup nears its first orbital test flight",
-          "link": "https://arstechnica.com/space/2026/05/with-skyroot-at-the-head-of-the-class-indias-private-space-industry-seeks-to-take-off/",
-          "date": "Mon, 11 May 2026 13:53:24 +0000"
-        },
-        {
-          "title": "Sony's failed war against Internet piracy may doom other copyright lawsuits",
-          "link": "https://arstechnica.com/tech-policy/2026/05/sonys-failed-war-against-internet-piracy-may-doom-other-copyright-lawsuits/",
-          "date": "Mon, 11 May 2026 11:00:33 +0000"
-        },
-        {
-          "title": "Do you take after your dad\u2019s RNA?",
-          "link": "https://arstechnica.com/science/2026/05/do-you-take-after-your-dads-rna/",
-          "date": "Sun, 10 May 2026 11:15:44 +0000"
         }
       ],
       "error": null
@@ -348,29 +322,29 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
+          "title": "The rise of \u2018Stacey face\u2019: How AI enhancements are warping our beauty standards",
+          "link": "https://www.reddit.com/r/artificial/comments/1ta95lq/the_rise_of_stacey_face_how_ai_enhancements_are/",
+          "date": "2026-05-11T16:54:23+00:00"
+        },
+        {
           "title": "AWS just gave AI agents their own wallets. Your agent can now pay for itself.",
           "link": "https://www.reddit.com/r/artificial/comments/1t9ybtb/aws_just_gave_ai_agents_their_own_wallets_your/",
           "date": "2026-05-11T09:38:19+00:00"
         },
         {
+          "title": "Cybercriminals Are Making Powerful Hacking Tools With AI, Google Warns",
+          "link": "https://www.reddit.com/r/artificial/comments/1ta92pt/cybercriminals_are_making_powerful_hacking_tools/",
+          "date": "2026-05-11T16:51:49+00:00"
+        },
+        {
+          "title": "Palantir to be granted \u2018unlimited access\u2019 to NHS patient data",
+          "link": "https://www.reddit.com/r/artificial/comments/1tacllr/palantir_to_be_granted_unlimited_access_to_nhs/",
+          "date": "2026-05-11T18:50:40+00:00"
+        },
+        {
           "title": "Sony says \"efficient\" AI tools will lead to even more games flooding the market",
           "link": "https://www.reddit.com/r/artificial/comments/1t9vixb/sony_says_efficient_ai_tools_will_lead_to_even/",
           "date": "2026-05-11T06:56:47+00:00"
-        },
-        {
-          "title": "Meta's own AI safety director lost 200 emails to a rogue agent and she couldn't stop it from her phone",
-          "link": "https://www.reddit.com/r/artificial/comments/1t9fnwv/metas_own_ai_safety_director_lost_200_emails_to_a/",
-          "date": "2026-05-10T19:00:45+00:00"
-        },
-        {
-          "title": "I think AI is changing something deeper than jobs or productivity",
-          "link": "https://www.reddit.com/r/artificial/comments/1t987td/i_think_ai_is_changing_something_deeper_than_jobs/",
-          "date": "2026-05-10T14:19:53+00:00"
-        },
-        {
-          "title": "We stopped optimizing our LLM stack manually \u2014 it optimizes itself now",
-          "link": "https://www.reddit.com/r/artificial/comments/1t9on1e/we_stopped_optimizing_our_llm_stack_manually_it/",
-          "date": "2026-05-11T01:12:24+00:00"
         }
       ],
       "error": null
@@ -379,6 +353,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "From AI companions to climate action, we\u00a0 undervalue what lies ahead",
+          "link": "https://theconversation.com/from-ai-companions-to-climate-action-we-undervalue-what-lies-ahead-279838",
+          "date": "2026-05-11T16:02:27Z"
+        },
         {
           "title": "We studied what happened when financially struggling artists received $1,000 a month, no strings attached, for 18 months",
           "link": "https://theconversation.com/we-studied-what-happened-when-financially-struggling-artists-received-1-000-a-month-no-strings-attached-for-18-months-280799",
@@ -398,11 +377,6 @@
           "title": "Worried about your job? You\u2019re not alone. But there are proven ways to ease job insecurity",
           "link": "https://theconversation.com/worried-about-your-job-youre-not-alone-but-there-are-proven-ways-to-ease-job-insecurity-281128",
           "date": "2026-05-11T01:53:12Z"
-        },
-        {
-          "title": "\u2018Polyanna policy\u2019 \u2013 is NZ\u2019s framework for AI use in government overly optimistic?",
-          "link": "https://theconversation.com/polyanna-policy-is-nzs-framework-for-ai-use-in-government-overly-optimistic-281425",
-          "date": "2026-05-10T22:35:13Z"
         }
       ],
       "error": null
@@ -450,8 +424,13 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Graduation Speaker Shocked When She\u2019s Loudly Booed by Students for Saying AI Is the Future",
+          "link": "https://futurism.com/artificial-intelligence/graduation-speaker-booed-ai",
+          "date": "Mon, 11 May 2026 14:20:55 -0400"
+        },
+        {
           "title": "New Data Center Equivalent to Setting Off 23 Nuclear Bombs Per Day, Professor Finds",
-          "link": "https://futurism.com/artificial-intelligence/data-center-atom-boms",
+          "link": "https://futurism.com/artificial-intelligence/data-center-atom-bombs",
           "date": "Mon, 11 May 2026 12:29:39 -0400"
         },
         {
@@ -468,11 +447,6 @@
           "title": "ChatGPT Is Saying Weird Things in Chinese",
           "link": "https://futurism.com/artificial-intelligence/chatpgt-weird-chinese",
           "date": "Sun, 10 May 2026 11:15:00 -0400"
-        },
-        {
-          "title": "Researchers Alarmed by AI That Can Self-Replicate Into Another Machine",
-          "link": "https://futurism.com/artificial-intelligence/researchers-teach-ai-self-replicate",
-          "date": "Sun, 10 May 2026 09:45:00 -0400"
         }
       ],
       "error": null
@@ -497,13 +471,13 @@
           "date": "Sat, 09 May 2026 10:30:00 +0000"
         },
         {
-          "title": "There\u2019s a Long-Shot Proposal to Protect California Workers From AI",
-          "link": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
+          "title": "Nick Bostrom Has a Plan for Humanity\u2019s \u2018Big Retirement\u2019",
+          "link": "https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/",
           "date": "Fri, 08 May 2026 15:00:00 +0000"
         },
         {
-          "title": "Nick Bostrom Has a Plan for Humanity\u2019s \u2018Big Retirement\u2019",
-          "link": "https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/",
+          "title": "There\u2019s a Long-Shot Proposal to Protect California Workers From AI",
+          "link": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
           "date": "Fri, 08 May 2026 15:00:00 +0000"
         }
       ],
