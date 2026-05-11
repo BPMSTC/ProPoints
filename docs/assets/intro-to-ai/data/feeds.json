@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T18:56:14.700430+00:00",
+  "generatedAt": "2026-05-11T20:45:53.346462+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "AI automates HR compliance, except for the area tech companies need",
+          "link": "https://www.artificialintelligence-news.com/news/ai-automates-hr-compliance-except-for-the-area-tech-companies-need/",
+          "date": "Mon, 11 May 2026 14:34:05 +0000"
+        },
+        {
+          "title": "Bain sees US$100 billion SaaS market in agentic AI automation",
+          "link": "https://www.artificialintelligence-news.com/news/bain-agentic-ai-saas-market/",
+          "date": "Mon, 11 May 2026 10:00:00 +0000"
+        },
+        {
+          "title": "RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist",
+          "link": "https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/",
+          "date": "Fri, 08 May 2026 14:54:00 +0000"
+        },
+        {
+          "title": "AI helping ease the UK\u2019s NHS burden",
+          "link": "https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/",
+          "date": "Thu, 07 May 2026 09:35:00 +0000"
+        },
+        {
+          "title": "HP and the art of AI and data for the enterprise",
+          "link": "https://www.artificialintelligence-news.com/news/hps-ai-and-data-offerings-for-the-enterprise/",
+          "date": "Wed, 06 May 2026 15:14:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -322,6 +348,11 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
+          "title": "Palantir to be granted \u2018unlimited access\u2019 to NHS patient data",
+          "link": "https://www.reddit.com/r/artificial/comments/1tacllr/palantir_to_be_granted_unlimited_access_to_nhs/",
+          "date": "2026-05-11T18:50:40+00:00"
+        },
+        {
           "title": "The rise of \u2018Stacey face\u2019: How AI enhancements are warping our beauty standards",
           "link": "https://www.reddit.com/r/artificial/comments/1ta95lq/the_rise_of_stacey_face_how_ai_enhancements_are/",
           "date": "2026-05-11T16:54:23+00:00"
@@ -335,11 +366,6 @@
           "title": "Cybercriminals Are Making Powerful Hacking Tools With AI, Google Warns",
           "link": "https://www.reddit.com/r/artificial/comments/1ta92pt/cybercriminals_are_making_powerful_hacking_tools/",
           "date": "2026-05-11T16:51:49+00:00"
-        },
-        {
-          "title": "Palantir to be granted \u2018unlimited access\u2019 to NHS patient data",
-          "link": "https://www.reddit.com/r/artificial/comments/1tacllr/palantir_to_be_granted_unlimited_access_to_nhs/",
-          "date": "2026-05-11T18:50:40+00:00"
         },
         {
           "title": "Sony says \"efficient\" AI tools will lead to even more games flooding the market",
@@ -424,6 +450,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Google Alarmed by Formidable AI-Powered Zero-Day Cyberattack",
+          "link": "https://futurism.com/artificial-intelligence/google-ai-cyberattack",
+          "date": "Mon, 11 May 2026 16:40:37 -0400"
+        },
+        {
+          "title": "Angry Mom Defeats Entire AI Data Center",
+          "link": "https://futurism.com/artificial-intelligence/wisconsin-mom-ai-data-center",
+          "date": "Mon, 11 May 2026 15:26:06 -0400"
+        },
+        {
           "title": "Graduation Speaker Shocked When She\u2019s Loudly Booed by Students for Saying AI Is the Future",
           "link": "https://futurism.com/artificial-intelligence/graduation-speaker-booed-ai",
           "date": "Mon, 11 May 2026 14:20:55 -0400"
@@ -437,16 +473,6 @@
           "title": "OpenAI Sued for Mass Shooting: \u201cIf ChatGPT Were a Person, It Would Be Facing Murder Charges\u201d",
           "link": "https://futurism.com/artificial-intelligence/openai-sued-mass-shooting",
           "date": "Mon, 11 May 2026 11:04:40 -0400"
-        },
-        {
-          "title": "Residents Furious After Their Town Board Rejected an OpenAI Data Center, But a Billionaire Developer Forced It Through Anyway",
-          "link": "https://futurism.com/artificial-intelligence/data-center-openai-residents",
-          "date": "Sun, 10 May 2026 12:45:00 -0400"
-        },
-        {
-          "title": "ChatGPT Is Saying Weird Things in Chinese",
-          "link": "https://futurism.com/artificial-intelligence/chatpgt-weird-chinese",
-          "date": "Sun, 10 May 2026 11:15:00 -0400"
         }
       ],
       "error": null
