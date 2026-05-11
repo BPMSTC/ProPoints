@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-05-11T10:35:53.096959+00:00",
+  "generatedAt": "2026-05-11T13:46:10.735970+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Students Boo Commencement Speaker After She Calls AI the \u2018Next Industrial Revolution\u2019",
+          "link": "https://www.404media.co/ucf-ai-commencement-speaker-booed/",
+          "date": "Mon, 11 May 2026 13:03:56 GMT"
+        },
         {
           "title": "Scientists Studied 906 Mafia Marriages and Found Something Surprising",
           "link": "https://www.404media.co/scientists-studied-906-mafia-marriages-and-found-something-surprising/",
@@ -24,11 +29,6 @@
           "title": "'The Biggest Student Data Privacy Disaster in History': Canvas Hack Shows the Danger of Centralized EdTech",
           "link": "https://www.404media.co/the-biggest-student-data-privacy-disaster-in-history-canvas-hack-shows-the-danger-of-centralized-edtech/",
           "date": "Fri, 08 May 2026 15:50:03 GMT"
-        },
-        {
-          "title": "ICE Plans to Develop Own Smart Glasses to \u2018Supplement\u2019 Its Facial Recognition App",
-          "link": "https://www.404media.co/ice-plans-to-develop-own-smart-glasses-to-supplement-its-facial-recognition-app/",
-          "date": "Thu, 07 May 2026 21:05:27 GMT"
         }
       ],
       "error": null
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Nvidia in $2.1B Deal With Data Center Provider IREN",
+          "link": "https://aibusiness.com/generative-ai/nvidia-2-1b-deal-with-data-center-provider-iren",
+          "date": "Mon, 11 May 2026 12:01:54 GMT"
+        },
+        {
           "title": "Prompt: AI Agents Are Becoming Operational Infrastructure",
           "link": "https://aibusiness.com/agentic-ai/prompt-ai-agents-becoming-operational-infrastructure",
           "date": "Fri, 08 May 2026 13:46:54 GMT"
@@ -132,11 +137,6 @@
           "title": "EU Nations Approve Deal to Roll Back AI Restrictions",
           "link": "https://aibusiness.com/ai-policy/eu-nations-approve-deal-roll-back-ai-restrictions",
           "date": "Thu, 07 May 2026 14:46:01 GMT"
-        },
-        {
-          "title": "Anthropic and SpaceX Agree to Major Compute Capacity Deal",
-          "link": "https://aibusiness.com/generative-ai/anthropic-spacex-agree-major-compute-capacity-deal",
-          "date": "Thu, 07 May 2026 14:23:20 GMT"
         }
       ],
       "error": null
@@ -316,6 +316,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Sony's failed war against Internet piracy may doom other copyright lawsuits",
+          "link": "https://arstechnica.com/tech-policy/2026/05/sonys-failed-war-against-internet-piracy-may-doom-other-copyright-lawsuits/",
+          "date": "Mon, 11 May 2026 11:00:33 +0000"
+        },
+        {
           "title": "Do you take after your dad\u2019s RNA?",
           "link": "https://arstechnica.com/science/2026/05/do-you-take-after-your-dads-rna/",
           "date": "Sun, 10 May 2026 11:15:44 +0000"
@@ -334,11 +339,6 @@
           "title": "Manufacturing qubits that can move",
           "link": "https://arstechnica.com/science/2026/05/manufacturing-qubits-that-can-move/",
           "date": "Fri, 08 May 2026 23:13:57 +0000"
-        },
-        {
-          "title": "Trump reportedly plans to fire FDA Commissioner Marty Makary",
-          "link": "https://arstechnica.com/health/2026/05/trump-reportedly-plans-to-fire-fda-commissioner-marty-makary/",
-          "date": "Fri, 08 May 2026 22:10:58 +0000"
         }
       ],
       "error": null
@@ -348,9 +348,9 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "Meta's own AI safety director lost 200 emails to a rogue agent and she couldn't stop it from her phone",
-          "link": "https://www.reddit.com/r/artificial/comments/1t9fnwv/metas_own_ai_safety_director_lost_200_emails_to_a/",
-          "date": "2026-05-10T19:00:45+00:00"
+          "title": "AWS just gave AI agents their own wallets. Your agent can now pay for itself.",
+          "link": "https://www.reddit.com/r/artificial/comments/1t9ybtb/aws_just_gave_ai_agents_their_own_wallets_your/",
+          "date": "2026-05-11T09:38:19+00:00"
         },
         {
           "title": "Sony says \"efficient\" AI tools will lead to even more games flooding the market",
@@ -358,19 +358,19 @@
           "date": "2026-05-11T06:56:47+00:00"
         },
         {
-          "title": "I think AI is changing something deeper than jobs or productivity",
-          "link": "https://www.reddit.com/r/artificial/comments/1t987td/i_think_ai_is_changing_something_deeper_than_jobs/",
-          "date": "2026-05-10T14:19:53+00:00"
-        },
-        {
-          "title": "AWS just gave AI agents their own wallets. Your agent can now pay for itself.",
-          "link": "https://www.reddit.com/r/artificial/comments/1t9ybtb/aws_just_gave_ai_agents_their_own_wallets_your/",
-          "date": "2026-05-11T09:38:19+00:00"
+          "title": "Meta's own AI safety director lost 200 emails to a rogue agent and she couldn't stop it from her phone",
+          "link": "https://www.reddit.com/r/artificial/comments/1t9fnwv/metas_own_ai_safety_director_lost_200_emails_to_a/",
+          "date": "2026-05-10T19:00:45+00:00"
         },
         {
           "title": "We stopped optimizing our LLM stack manually \u2014 it optimizes itself now",
           "link": "https://www.reddit.com/r/artificial/comments/1t9on1e/we_stopped_optimizing_our_llm_stack_manually_it/",
           "date": "2026-05-11T01:12:24+00:00"
+        },
+        {
+          "title": "I think AI is changing something deeper than jobs or productivity",
+          "link": "https://www.reddit.com/r/artificial/comments/1t987td/i_think_ai_is_changing_something_deeper_than_jobs/",
+          "date": "2026-05-10T14:19:53+00:00"
         }
       ],
       "error": null
@@ -380,6 +380,21 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "We studied what happened when financially struggling artists received $1,000 a month, no strings attached, for 18 months",
+          "link": "https://theconversation.com/we-studied-what-happened-when-financially-struggling-artists-received-1-000-a-month-no-strings-attached-for-18-months-280799",
+          "date": "2026-05-11T12:42:06Z"
+        },
+        {
+          "title": "How AI can lead to false arrests and wrongful convictions",
+          "link": "https://theconversation.com/how-ai-can-lead-to-false-arrests-and-wrongful-convictions-281102",
+          "date": "2026-05-11T12:41:43Z"
+        },
+        {
+          "title": "What happens when scientists trust AI more than colleagues?",
+          "link": "https://theconversation.com/what-happens-when-scientists-trust-ai-more-than-colleagues-281374",
+          "date": "2026-05-11T10:33:58Z"
+        },
+        {
           "title": "Worried about your job? You\u2019re not alone. But there are proven ways to ease job insecurity",
           "link": "https://theconversation.com/worried-about-your-job-youre-not-alone-but-there-are-proven-ways-to-ease-job-insecurity-281128",
           "date": "2026-05-11T01:53:12Z"
@@ -388,21 +403,6 @@
           "title": "\u2018Polyanna policy\u2019 \u2013 is NZ\u2019s framework for AI use in government overly optimistic?",
           "link": "https://theconversation.com/polyanna-policy-is-nzs-framework-for-ai-use-in-government-overly-optimistic-281425",
           "date": "2026-05-10T22:35:13Z"
-        },
-        {
-          "title": "The AI scientist: now academic papers can be fully automated, what does this mean for the future of research?",
-          "link": "https://theconversation.com/the-ai-scientist-now-academic-papers-can-be-fully-automated-what-does-this-mean-for-the-future-of-research-282161",
-          "date": "2026-05-07T15:37:46Z"
-        },
-        {
-          "title": "AI in the emergency department: promising, powerful but still unproven",
-          "link": "https://theconversation.com/ai-in-the-emergency-department-promising-powerful-but-still-unproven-282029",
-          "date": "2026-05-07T12:38:29Z"
-        },
-        {
-          "title": "Is Richard Dawkins right about Claude? No. But it\u2019s not surprising AI chatbots feel conscious to us",
-          "link": "https://theconversation.com/is-richard-dawkins-right-about-claude-no-but-its-not-surprising-ai-chatbots-feel-conscious-to-us-282151",
-          "date": "2026-05-07T01:30:37Z"
         }
       ],
       "error": null
@@ -412,6 +412,21 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Moli\u00e8re Ex Machina: AI used to create \u2018new work\u2019 by beloved French playwright",
+          "link": "https://www.theguardian.com/stage/2026/may/11/moliere-ex-machina-ai-create-new-work-france-equivalent-shakespeare",
+          "date": "Mon, 11 May 2026 12:29:36 GMT"
+        },
+        {
+          "title": "Palantir\u2019s access to identifiable NHS England patient data is \u2018dangerous\u2019, MPs say",
+          "link": "https://www.theguardian.com/society/2026/may/11/palantir-access-nhs-england-patient-data",
+          "date": "Mon, 11 May 2026 12:01:26 GMT"
+        },
+        {
+          "title": "Forget the AI job apocalypse. AI\u2019s real threat is worker control and surveillance",
+          "link": "https://www.theguardian.com/technology/2026/may/11/ai-worker-control-surveillance",
+          "date": "Mon, 11 May 2026 11:00:53 GMT"
+        },
+        {
           "title": "Mistaking AI behaviour for conscious being | Letter",
           "link": "https://www.theguardian.com/technology/2026/may/10/mistaking-ai-behaviour-for-conscious-being",
           "date": "Sun, 10 May 2026 15:55:14 GMT"
@@ -420,21 +435,6 @@
           "title": "I knew my writing students were using AI. Their confessions led to a powerful teaching moment | Micah Nathan",
           "link": "https://www.theguardian.com/us-news/ng-interactive/2026/may/10/fiction-writing-professor-ai",
           "date": "Sun, 10 May 2026 13:00:27 GMT"
-        },
-        {
-          "title": "Google developers significantly misstate carbon emissions of proposed UK datacentres",
-          "link": "https://www.theguardian.com/technology/2026/may/09/google-developers-significantly-misstate-carbon-emissions-of-proposed-uk-datacentres",
-          "date": "Sat, 09 May 2026 16:00:01 GMT"
-        },
-        {
-          "title": "Who is Louis Mosley, the man tasked with defending Palantir against its critics?",
-          "link": "https://www.theguardian.com/technology/2026/may/09/who-is-louis-mosley-defending-palantir-critics",
-          "date": "Sat, 09 May 2026 10:00:53 GMT"
-        },
-        {
-          "title": "AI will make language barriers disappear \u2013 and diminish our understanding of other cultures",
-          "link": "https://www.theguardian.com/world/commentisfree/2026/may/09/ai-interpretation-diego-marani",
-          "date": "Sat, 09 May 2026 04:00:47 GMT"
         }
       ],
       "error": null
