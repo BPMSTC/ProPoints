@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T22:04:51.627525+00:00",
+  "generatedAt": "2026-05-11T23:55:40.068168+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -316,6 +316,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Linux bitten by second severe vulnerability in as many weeks",
+          "link": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",
+          "date": "Mon, 11 May 2026 22:28:19 +0000"
+        },
+        {
+          "title": "Audi has a new Q9 flagship coming soon: Here's its interior",
+          "link": "https://arstechnica.com/cars/2026/05/take-a-look-inside-audis-new-big-three-row-q9-suv/",
+          "date": "Mon, 11 May 2026 22:01:57 +0000"
+        },
+        {
           "title": "After banning foreign routers, FCC says existing ones can get updates until 2029",
           "link": "https://arstechnica.com/tech-policy/2026/05/fcc-slightly-relaxes-foreign-router-ban-allows-software-updates-until-2029/",
           "date": "Mon, 11 May 2026 20:48:33 +0000"
@@ -329,16 +339,6 @@
           "title": "Passengers from hantavirus ship arrive in US; 3 people in biocontainment",
           "link": "https://arstechnica.com/health/2026/05/passengers-from-hantavirus-ship-arrive-in-us-3-people-in-biocontainment/",
           "date": "Mon, 11 May 2026 18:12:43 +0000"
-        },
-        {
-          "title": "Starlink shuts down its GPS-style cheat code. Researchers may unlock it anyway.",
-          "link": "https://arstechnica.com/gadgets/2026/05/starlink-blocks-access-to-its-gps-alternative-ahead-of-spacex-ipo/",
-          "date": "Mon, 11 May 2026 17:55:34 +0000"
-        },
-        {
-          "title": "iOS, macOS, and iPadOS 26.5 updates arrive with encrypted RCS messaging and more",
-          "link": "https://arstechnica.com/gadgets/2026/05/ios-macos-and-ipados-26-5-updates-arrive-with-encrypted-rcs-messaging-and-more/",
-          "date": "Mon, 11 May 2026 17:20:39 +0000"
         }
       ],
       "error": null
@@ -358,19 +358,19 @@
           "date": "2026-05-11T16:54:23+00:00"
         },
         {
-          "title": "AWS just gave AI agents their own wallets. Your agent can now pay for itself.",
-          "link": "https://www.reddit.com/r/artificial/comments/1t9ybtb/aws_just_gave_ai_agents_their_own_wallets_your/",
-          "date": "2026-05-11T09:38:19+00:00"
-        },
-        {
           "title": "Cybercriminals Are Making Powerful Hacking Tools With AI, Google Warns",
           "link": "https://www.reddit.com/r/artificial/comments/1ta92pt/cybercriminals_are_making_powerful_hacking_tools/",
           "date": "2026-05-11T16:51:49+00:00"
         },
         {
-          "title": "Sony says \"efficient\" AI tools will lead to even more games flooding the market",
-          "link": "https://www.reddit.com/r/artificial/comments/1t9vixb/sony_says_efficient_ai_tools_will_lead_to_even/",
-          "date": "2026-05-11T06:56:47+00:00"
+          "title": "AWS just gave AI agents their own wallets. Your agent can now pay for itself.",
+          "link": "https://www.reddit.com/r/artificial/comments/1t9ybtb/aws_just_gave_ai_agents_their_own_wallets_your/",
+          "date": "2026-05-11T09:38:19+00:00"
+        },
+        {
+          "title": "Google disrupts hackers using AI to exploit an unknown weakness in a company's digital defense",
+          "link": "https://www.reddit.com/r/artificial/comments/1tak7x9/google_disrupts_hackers_using_ai_to_exploit_an/",
+          "date": "2026-05-11T23:31:18+00:00"
         }
       ],
       "error": null
@@ -448,39 +448,18 @@
     {
       "name": "Artificial Intelligence \u2013 Futurism",
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
-      "items": [
-        {
-          "title": "Google Alarmed by Formidable AI-Powered Zero-Day Cyberattack",
-          "link": "https://futurism.com/artificial-intelligence/google-ai-cyberattack",
-          "date": "Mon, 11 May 2026 16:40:37 -0400"
-        },
-        {
-          "title": "Angry Mom Defeats Entire AI Data Center",
-          "link": "https://futurism.com/artificial-intelligence/wisconsin-mom-ai-data-center",
-          "date": "Mon, 11 May 2026 15:26:06 -0400"
-        },
-        {
-          "title": "Graduation Speaker Shocked When She\u2019s Loudly Booed by Students for Saying AI Is the Future",
-          "link": "https://futurism.com/artificial-intelligence/graduation-speaker-booed-ai",
-          "date": "Mon, 11 May 2026 14:20:55 -0400"
-        },
-        {
-          "title": "New Data Center Equivalent to Setting Off 23 Nuclear Bombs Per Day, Professor Finds",
-          "link": "https://futurism.com/artificial-intelligence/data-center-atom-bombs",
-          "date": "Mon, 11 May 2026 12:29:39 -0400"
-        },
-        {
-          "title": "OpenAI Sued for Mass Shooting: \u201cIf ChatGPT Were a Person, It Would Be Facing Murder Charges\u201d",
-          "link": "https://futurism.com/artificial-intelligence/openai-sued-mass-shooting",
-          "date": "Mon, 11 May 2026 11:04:40 -0400"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:39: junk after document element"
     },
     {
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Ilya Sutskever Stands by His Role in Sam Altman\u2019s OpenAI Ouster: \u2018I Didn\u2019t Want It to Be Destroyed\u2019",
+          "link": "https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/",
+          "date": "Mon, 11 May 2026 23:51:35 +0000"
+        },
         {
           "title": "CUDA Proves Nvidia Is a Software Company",
           "link": "https://www.wired.com/story/cuda-proves-nvidia-is-a-software-company/",
@@ -499,11 +478,6 @@
         {
           "title": "Nick Bostrom Has a Plan for Humanity\u2019s \u2018Big Retirement\u2019",
           "link": "https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/",
-          "date": "Fri, 08 May 2026 15:00:00 +0000"
-        },
-        {
-          "title": "There\u2019s a Long-Shot Proposal to Protect California Workers From AI",
-          "link": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
           "date": "Fri, 08 May 2026 15:00:00 +0000"
         }
       ],
