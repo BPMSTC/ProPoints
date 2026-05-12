@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T14:16:38.970032+00:00",
+  "generatedAt": "2026-05-12T17:08:08.095629+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,16 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Startup That Aims to Widen Access to Compute Draws $1.3B",
+          "link": "https://aibusiness.com/data-centers/startup-that-aims-widen-access-compute-draws-1-3b",
+          "date": "Tue, 12 May 2026 15:25:49 GMT"
+        },
+        {
+          "title": "Nokia Launches Agentic AI for Networks",
+          "link": "https://aibusiness.com/agentic-ai/nokia-launches-agentic-ai-networks",
+          "date": "Tue, 12 May 2026 14:27:21 GMT"
+        },
+        {
           "title": "Nscale Gets $790M in Financing for Norway AI Buildout",
           "link": "https://aibusiness.com/data-centers/nscale-gets-790m-financing-norway-ai-buildout",
           "date": "Tue, 12 May 2026 13:22:13 GMT"
@@ -127,16 +137,6 @@
           "title": "Nvidia in $2.1B Deal With Data Center Provider IREN",
           "link": "https://aibusiness.com/generative-ai/nvidia-2-1b-deal-with-data-center-provider-iren",
           "date": "Mon, 11 May 2026 12:01:54 GMT"
-        },
-        {
-          "title": "Prompt: AI Agents Are Becoming Operational Infrastructure",
-          "link": "https://aibusiness.com/agentic-ai/prompt-ai-agents-becoming-operational-infrastructure",
-          "date": "Fri, 08 May 2026 13:46:54 GMT"
-        },
-        {
-          "title": "Beijing Lab at $20B as AI Investors Look to China",
-          "link": "https://aibusiness.com/generative-ai/beijing-lab-20b-ai-investors-look-to-china",
-          "date": "Fri, 08 May 2026 12:17:16 GMT"
         }
       ],
       "error": null
@@ -151,6 +151,11 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [
+        {
+          "title": "JBS Dev: On imperfect data and the AI last mile \u2013 from model capability to cost sustainability",
+          "link": "https://www.artificialintelligence-news.com/news/jbs-dev-on-imperfect-data-and-the-ai-last-mile-from-model-capability-to-cost-sustainability/",
+          "date": "Tue, 12 May 2026 15:37:43 +0000"
+        },
         {
           "title": "Hugging Face hosted malicious software masquerading as OpenAI release",
           "link": "https://www.artificialintelligence-news.com/news/malware-on-hugging-face-malicious-software-masquerading-as-openai-release/",
@@ -170,11 +175,6 @@
           "title": "Bain sees US$100 billion SaaS market in agentic AI automation",
           "link": "https://www.artificialintelligence-news.com/news/bain-agentic-ai-saas-market/",
           "date": "Mon, 11 May 2026 10:00:00 +0000"
-        },
-        {
-          "title": "RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist",
-          "link": "https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/",
-          "date": "Fri, 08 May 2026 14:54:00 +0000"
         }
       ],
       "error": null
@@ -353,6 +353,11 @@
           "date": "2026-05-12T10:06:32+00:00"
         },
         {
+          "title": "Google detects hackers using AI-generated code to bypass 2FA with zero-day vulnerability",
+          "link": "https://www.reddit.com/r/artificial/comments/1tb5quh/google_detects_hackers_using_aigenerated_code_to/",
+          "date": "2026-05-12T15:54:03+00:00"
+        },
+        {
           "title": "Palantir to be granted \u2018unlimited access\u2019 to NHS patient data",
           "link": "https://www.reddit.com/r/artificial/comments/1tacllr/palantir_to_be_granted_unlimited_access_to_nhs/",
           "date": "2026-05-11T18:50:40+00:00"
@@ -363,14 +368,9 @@
           "date": "2026-05-11T16:54:23+00:00"
         },
         {
-          "title": "AI May Reshape Institutions More Than It Replaces Jobs",
-          "link": "https://www.reddit.com/r/artificial/comments/1tb1299/ai_may_reshape_institutions_more_than_it_replaces/",
-          "date": "2026-05-12T13:05:12+00:00"
-        },
-        {
-          "title": "Cybercriminals Are Making Powerful Hacking Tools With AI, Google Warns",
-          "link": "https://www.reddit.com/r/artificial/comments/1ta92pt/cybercriminals_are_making_powerful_hacking_tools/",
-          "date": "2026-05-11T16:51:49+00:00"
+          "title": "China Sought Access to Anthropic\u2019s Newest A.I. The Answer Was No.",
+          "link": "https://www.reddit.com/r/artificial/comments/1tb3kzh/china_sought_access_to_anthropics_newest_ai_the/",
+          "date": "2026-05-12T14:38:52+00:00"
         }
       ],
       "error": null
@@ -380,6 +380,21 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "AI doesn\u2019t create bias, it inherits it \u2013 how do we ensure fairness when it comes to automated decisions?",
+          "link": "https://theconversation.com/ai-doesnt-create-bias-it-inherits-it-how-do-we-ensure-fairness-when-it-comes-to-automated-decisions-280927",
+          "date": "2026-05-12T15:54:06Z"
+        },
+        {
+          "title": "Hacking the bomb? What Claude Mythos AI reveals about the gamble of nuclear deterrence",
+          "link": "https://theconversation.com/hacking-the-bomb-what-claude-mythos-ai-reveals-about-the-gamble-of-nuclear-deterrence-282614",
+          "date": "2026-05-12T15:01:21Z"
+        },
+        {
+          "title": "Is your AI chatbot manipulating you? Subtly reshaping your opinions?",
+          "link": "https://theconversation.com/is-your-ai-chatbot-manipulating-you-subtly-reshaping-your-opinions-280800",
+          "date": "2026-05-12T14:09:37Z"
+        },
+        {
           "title": "Button-pushing explorers: How to grasp that AI agents can do amazing things while knowing nothing",
           "link": "https://theconversation.com/button-pushing-explorers-how-to-grasp-that-ai-agents-can-do-amazing-things-while-knowing-nothing-281498",
           "date": "2026-05-12T12:38:56Z"
@@ -388,21 +403,6 @@
           "title": "Self-driving cars struggle to see at night or in fog \u2013 but imitating the human brain can make them safe",
           "link": "https://theconversation.com/self-driving-cars-struggle-to-see-at-night-or-in-fog-but-imitating-the-human-brain-can-make-them-safe-282284",
           "date": "2026-05-12T09:47:28Z"
-        },
-        {
-          "title": "From AI companions to climate action, we\u00a0 undervalue what lies ahead",
-          "link": "https://theconversation.com/from-ai-companions-to-climate-action-we-undervalue-what-lies-ahead-279838",
-          "date": "2026-05-11T16:02:27Z"
-        },
-        {
-          "title": "We studied what happened when financially struggling artists received $1,000 a month, no strings attached, for 18 months",
-          "link": "https://theconversation.com/we-studied-what-happened-when-financially-struggling-artists-received-1-000-a-month-no-strings-attached-for-18-months-280799",
-          "date": "2026-05-11T12:42:06Z"
-        },
-        {
-          "title": "How AI can lead to false arrests and wrongful convictions",
-          "link": "https://theconversation.com/how-ai-can-lead-to-false-arrests-and-wrongful-convictions-281102",
-          "date": "2026-05-11T12:41:43Z"
         }
       ],
       "error": null
@@ -412,29 +412,29 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "AI-powered hacking has exploded into industrial-scale threat, Google says",
-          "link": "https://www.theguardian.com/technology/2026/may/11/ai-powered-hacking-industrial-scale-threat-three-months-google",
-          "date": "Mon, 11 May 2026 14:43:00 GMT"
+          "title": "Film world must not resist rise of artificial intelligence, says Demi Moore",
+          "link": "https://www.theguardian.com/film/2026/may/12/film-world-must-not-resist-artificial-intelligence-demi-moore",
+          "date": "Tue, 12 May 2026 17:02:55 GMT"
+        },
+        {
+          "title": "Google announces raft of free upgrades for Android phones",
+          "link": "https://www.theguardian.com/technology/2026/may/12/google-upgrades-gemini-intelligence-android-phones",
+          "date": "Tue, 12 May 2026 17:00:05 GMT"
+        },
+        {
+          "title": "AI has cut my pay as a memoir writer in half | Letter",
+          "link": "https://www.theguardian.com/books/2026/may/12/ai-has-cut-my-pay-as-a-memoir-writer-in-half",
+          "date": "Tue, 12 May 2026 16:31:13 GMT"
+        },
+        {
+          "title": "Stephen Colbert on Trump\u2019s 22ft gold statue at his golf club: \u2018recreational idolatry\u2019",
+          "link": "https://www.theguardian.com/culture/2026/may/12/stephen-colbert-trump-statue-iran-peace-plan",
+          "date": "Tue, 12 May 2026 15:05:50 GMT"
         },
         {
           "title": "The end of typing? Why workers are suddenly ditching their keyboards",
           "link": "https://www.theguardian.com/technology/2026/may/12/end-of-typing-workers-ditching-keyboards-voicepilling-ai-dictation",
           "date": "Tue, 12 May 2026 14:00:12 GMT"
-        },
-        {
-          "title": "Chasing Utopia review \u2013 renegade Google exec Mo Gawdat searches for ethical AI in alarming insider warning",
-          "link": "https://www.theguardian.com/film/2026/may/12/chasing-utopia-review-renegade-google-exec-mo-gawdat-searches-for-ethical-ai-in-alarming-insider-warning",
-          "date": "Tue, 12 May 2026 12:00:46 GMT"
-        },
-        {
-          "title": "Datacentres should be forced to invest in wind and solar energy, all states agree \u2013 except Queensland",
-          "link": "https://www.theguardian.com/environment/2026/may/12/datacentres-australia-wind-solar-energy-investment",
-          "date": "Tue, 12 May 2026 05:16:37 GMT"
-        },
-        {
-          "title": "Moli\u00e8re Ex Machina: AI used to create \u2018new work\u2019 by beloved French playwright",
-          "link": "https://www.theguardian.com/stage/2026/may/11/moliere-ex-machina-ai-create-new-work-france-equivalent-shakespeare",
-          "date": "Mon, 11 May 2026 12:29:36 GMT"
         }
       ],
       "error": null
@@ -450,6 +450,21 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Researchers Put Google Gemini in Charge of an Entire Coffee Shop, and It\u2019s Inexorably Driving It Out of Business",
+          "link": "https://futurism.com/artificial-intelligence/google-gemini-runs-entire-coffee-shop",
+          "date": "Tue, 12 May 2026 12:35:35 -0400"
+        },
+        {
+          "title": "Man Behind Simulation Hypothesis Warns That Extinction of Humanity Is a Risk We Have to Take",
+          "link": "https://futurism.com/artificial-intelligence/simulation-hypothesis-ai-extinction-humanity",
+          "date": "Tue, 12 May 2026 11:12:16 -0400"
+        },
+        {
+          "title": "Unitree Shows Off Fully Functional Mecha Suit",
+          "link": "https://futurism.com/artificial-intelligence/unitree-mecha-suit",
+          "date": "Tue, 12 May 2026 10:31:29 -0400"
+        },
+        {
           "title": "Husband Alarmed as Wife Starts Whispering Quietly to Her Computer",
           "link": "https://futurism.com/artificial-intelligence/husband-alarmed-wife-whispering",
           "date": "Tue, 12 May 2026 09:55:36 -0400"
@@ -458,21 +473,6 @@
           "title": "AI Is Giving Your Boss Tools to Be More Monstrous Than Ever Before",
           "link": "https://futurism.com/artificial-intelligence/ai-boss-surveillance",
           "date": "Tue, 12 May 2026 09:06:41 -0400"
-        },
-        {
-          "title": "Google Alarmed by Formidable AI-Powered Zero-Day Cyberattack",
-          "link": "https://futurism.com/artificial-intelligence/google-ai-cyberattack",
-          "date": "Mon, 11 May 2026 16:40:37 -0400"
-        },
-        {
-          "title": "Angry Mom Defeats Entire AI Data Center",
-          "link": "https://futurism.com/artificial-intelligence/wisconsin-mom-ai-data-center",
-          "date": "Mon, 11 May 2026 15:26:06 -0400"
-        },
-        {
-          "title": "Graduation Speaker Shocked When She\u2019s Loudly Booed by Students for Saying AI Is the Future",
-          "link": "https://futurism.com/artificial-intelligence/graduation-speaker-booed-ai",
-          "date": "Mon, 11 May 2026 14:20:55 -0400"
         }
       ],
       "error": null
