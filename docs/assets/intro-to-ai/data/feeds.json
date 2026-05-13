@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T07:47:02.098825+00:00",
+  "generatedAt": "2026-05-13T10:23:30.738545+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+      "items": [
+        {
+          "title": "JBS Dev: On imperfect data and the AI last mile \u2013 from model capability to cost sustainability",
+          "link": "https://www.artificialintelligence-news.com/news/jbs-dev-on-imperfect-data-and-the-ai-last-mile-from-model-capability-to-cost-sustainability/",
+          "date": "Tue, 12 May 2026 15:37:43 +0000"
+        },
+        {
+          "title": "Hugging Face hosted malicious software masquerading as OpenAI release",
+          "link": "https://www.artificialintelligence-news.com/news/malware-on-hugging-face-malicious-software-masquerading-as-openai-release/",
+          "date": "Tue, 12 May 2026 13:52:00 +0000"
+        },
+        {
+          "title": "Laserfiche unveils AI agents for natural language workflows",
+          "link": "https://www.artificialintelligence-news.com/news/laserfiche-ai-agents-act-autonomously-for-the-platforms-users/",
+          "date": "Tue, 12 May 2026 08:57:13 +0000"
+        },
+        {
+          "title": "AI automates HR compliance, except for the area tech companies need",
+          "link": "https://www.artificialintelligence-news.com/news/ai-automates-hr-compliance-except-for-the-area-tech-companies-need/",
+          "date": "Mon, 11 May 2026 14:34:05 +0000"
+        },
+        {
+          "title": "Bain sees US$100 billion SaaS market in agentic AI automation",
+          "link": "https://www.artificialintelligence-news.com/news/bain-agentic-ai-saas-market/",
+          "date": "Mon, 11 May 2026 10:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -337,14 +363,14 @@
           "date": "2026-05-12T15:54:03+00:00"
         },
         {
+          "title": "Getting good predictions without data cleaning (Why \"Garbage In, Garbage Out\" is sometimes a trap)",
+          "link": "https://www.reddit.com/r/artificial/comments/1tbrxim/getting_good_predictions_without_data_cleaning/",
+          "date": "2026-05-13T07:00:08+00:00"
+        },
+        {
           "title": "Epistemic Hygiene and How It Can Reduce AI Hallucinations",
           "link": "https://www.reddit.com/r/artificial/comments/1tbq353/epistemic_hygiene_and_how_it_can_reduce_ai/",
           "date": "2026-05-13T05:19:48+00:00"
-        },
-        {
-          "title": "Created a free tool to check what PII your LLM prompts are leaking before they hit the provider",
-          "link": "https://www.reddit.com/r/artificial/comments/1tbhvlq/created_a_free_tool_to_check_what_pii_your_llm/",
-          "date": "2026-05-12T23:07:42+00:00"
         }
       ],
       "error": null
@@ -353,6 +379,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "From AirTags to AI nudification: the growing toolkit of technology-facilitated abuse",
+          "link": "https://theconversation.com/from-airtags-to-ai-nudification-the-growing-toolkit-of-technology-facilitated-abuse-274468",
+          "date": "2026-05-13T09:47:40Z"
+        },
         {
           "title": "AI doesn\u2019t create bias, it inherits it \u2013 how do we ensure fairness when it comes to automated decisions?",
           "link": "https://theconversation.com/ai-doesnt-create-bias-it-inherits-it-how-do-we-ensure-fairness-when-it-comes-to-automated-decisions-280927",
@@ -372,11 +403,6 @@
           "title": "Button-pushing explorers: How to grasp that AI agents can do amazing things while knowing nothing",
           "link": "https://theconversation.com/button-pushing-explorers-how-to-grasp-that-ai-agents-can-do-amazing-things-while-knowing-nothing-281498",
           "date": "2026-05-12T12:38:56Z"
-        },
-        {
-          "title": "Self-driving cars struggle to see at night or in fog \u2013 but imitating the human brain can make them safe",
-          "link": "https://theconversation.com/self-driving-cars-struggle-to-see-at-night-or-in-fog-but-imitating-the-human-brain-can-make-them-safe-282284",
-          "date": "2026-05-12T09:47:28Z"
         }
       ],
       "error": null
@@ -389,11 +415,6 @@
           "title": "Florida students boo graduation speaker who called AI \u2018next Industrial Revolution\u2019",
           "link": "https://www.theguardian.com/technology/2026/may/12/florida-students-boo-graduation-speaker-ai",
           "date": "Tue, 12 May 2026 20:30:15 GMT"
-        },
-        {
-          "title": "Nvidia\u2019s Jensen Huang joins Trump as tech dominates China trip",
-          "link": "https://www.theguardian.com/technology/2026/may/13/nvidia-jensen-huang-joins-trump-as-tech-dominates-china-trip",
-          "date": "Wed, 13 May 2026 07:41:26 GMT"
         },
         {
           "title": "Chelsea flower show garden designers clash over use of AI",
@@ -409,6 +430,11 @@
           "title": "Sam Altman defends OpenAI in courtroom showdown with Elon Musk",
           "link": "https://www.theguardian.com/technology/2026/may/12/sam-altman-openai-trial-elon-musk",
           "date": "Tue, 12 May 2026 20:48:15 GMT"
+        },
+        {
+          "title": "Film industry cannot fight rise of artificial intelligence, says Demi Moore",
+          "link": "https://www.theguardian.com/film/2026/may/12/film-world-must-not-resist-artificial-intelligence-demi-moore",
+          "date": "Tue, 12 May 2026 17:20:17 GMT"
         }
       ],
       "error": null
@@ -456,6 +482,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Meet the Sad Wives of AI",
+          "link": "https://www.wired.com/story/meet-the-sad-wives-of-ai/",
+          "date": "Wed, 13 May 2026 10:00:00 +0000"
+        },
+        {
           "title": "Elon Musk Had \u2018Hair-Raising\u2019 Idea of Passing OpenAI On to His Kids, Sam Altman Says",
           "link": "https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/",
           "date": "Wed, 13 May 2026 00:10:05 +0000"
@@ -474,11 +505,6 @@
           "title": "Ilya Sutskever Stands by His Role in Sam Altman\u2019s OpenAI Ouster: \u2018I Didn\u2019t Want It to Be Destroyed\u2019",
           "link": "https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/",
           "date": "Mon, 11 May 2026 23:51:35 +0000"
-        },
-        {
-          "title": "CUDA Proves Nvidia Is a Software Company",
-          "link": "https://www.wired.com/story/cuda-proves-nvidia-is-a-software-company/",
-          "date": "Mon, 11 May 2026 10:00:00 +0000"
         }
       ],
       "error": null
