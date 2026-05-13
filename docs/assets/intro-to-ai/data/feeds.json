@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-05-13T10:23:30.738545+00:00",
+  "generatedAt": "2026-05-13T13:08:46.822027+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Software Developers Say AI Is Rotting Their Brains",
+          "link": "https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/",
+          "date": "Wed, 13 May 2026 13:00:48 GMT"
+        },
         {
           "title": "ICE Agents Have List of 20 Million People on Their iPhones Thanks to Palantir",
           "link": "https://www.404media.co/ice-agents-have-list-of-20-million-people-on-their-iphones-thanks-to-palantir/",
@@ -24,11 +29,6 @@
           "title": "Students Boo Commencement Speaker After She Calls AI the \u2018Next Industrial Revolution\u2019",
           "link": "https://www.404media.co/ucf-ai-commencement-speaker-booed/",
           "date": "Mon, 11 May 2026 13:03:56 GMT"
-        },
-        {
-          "title": "Scientists Studied 906 Mafia Marriages and Found Something Surprising",
-          "link": "https://www.404media.co/scientists-studied-906-mafia-marriages-and-found-something-surprising/",
-          "date": "Sat, 09 May 2026 13:00:26 GMT"
         }
       ],
       "error": null
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "JBS Dev: On imperfect data and the AI last mile \u2013 from model capability to cost sustainability",
-          "link": "https://www.artificialintelligence-news.com/news/jbs-dev-on-imperfect-data-and-the-ai-last-mile-from-model-capability-to-cost-sustainability/",
-          "date": "Tue, 12 May 2026 15:37:43 +0000"
-        },
-        {
-          "title": "Hugging Face hosted malicious software masquerading as OpenAI release",
-          "link": "https://www.artificialintelligence-news.com/news/malware-on-hugging-face-malicious-software-masquerading-as-openai-release/",
-          "date": "Tue, 12 May 2026 13:52:00 +0000"
-        },
-        {
-          "title": "Laserfiche unveils AI agents for natural language workflows",
-          "link": "https://www.artificialintelligence-news.com/news/laserfiche-ai-agents-act-autonomously-for-the-platforms-users/",
-          "date": "Tue, 12 May 2026 08:57:13 +0000"
-        },
-        {
-          "title": "AI automates HR compliance, except for the area tech companies need",
-          "link": "https://www.artificialintelligence-news.com/news/ai-automates-hr-compliance-except-for-the-area-tech-companies-need/",
-          "date": "Mon, 11 May 2026 14:34:05 +0000"
-        },
-        {
-          "title": "Bain sees US$100 billion SaaS market in agentic AI automation",
-          "link": "https://www.artificialintelligence-news.com/news/bain-agentic-ai-saas-market/",
-          "date": "Mon, 11 May 2026 10:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -316,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Could this be the moment that drug manufacturing takes off in orbit?",
+          "link": "https://arstechnica.com/space/2026/05/varda-signs-deal-with-major-us-pharma-firm-to-develop-drugs-in-space/",
+          "date": "Wed, 13 May 2026 10:00:28 +0000"
+        },
+        {
           "title": "The newest AI boom pitch: Host a mini data center at your home",
           "link": "https://arstechnica.com/ai/2026/05/the-newest-ai-boom-pitch-host-a-mini-data-center-at-your-home/",
           "date": "Tue, 12 May 2026 21:59:03 +0000"
@@ -334,11 +313,6 @@
           "title": "\u201cWill I be OK?\u201d Teen died after ChatGPT pushed deadly mix of drugs, lawsuit says",
           "link": "https://arstechnica.com/tech-policy/2026/05/will-i-be-ok-teen-died-after-chatgpt-pushed-deadly-mix-of-drugs-lawsuit-says/",
           "date": "Tue, 12 May 2026 19:00:25 +0000"
-        },
-        {
-          "title": "Microsoft will lean on your CPU to speed up Windows 11's apps and animations",
-          "link": "https://arstechnica.com/gadgets/2026/05/speed-boosting-low-latency-profile-is-one-of-the-improvements-coming-to-windows-11/",
-          "date": "Tue, 12 May 2026 17:49:21 +0000"
         }
       ],
       "error": null
@@ -363,14 +337,14 @@
           "date": "2026-05-12T15:54:03+00:00"
         },
         {
+          "title": "AgentKanban for VS Code - A task board with AI agent harness integration. Create and plan tasks with real-time collaboration, then hand off to GitHub Copilot",
+          "link": "https://www.reddit.com/r/artificial/comments/1tbwq7l/agentkanban_for_vs_code_a_task_board_with_ai/",
+          "date": "2026-05-13T11:24:22+00:00"
+        },
+        {
           "title": "Getting good predictions without data cleaning (Why \"Garbage In, Garbage Out\" is sometimes a trap)",
           "link": "https://www.reddit.com/r/artificial/comments/1tbrxim/getting_good_predictions_without_data_cleaning/",
           "date": "2026-05-13T07:00:08+00:00"
-        },
-        {
-          "title": "Epistemic Hygiene and How It Can Reduce AI Hallucinations",
-          "link": "https://www.reddit.com/r/artificial/comments/1tbq353/epistemic_hygiene_and_how_it_can_reduce_ai/",
-          "date": "2026-05-13T05:19:48+00:00"
         }
       ],
       "error": null
@@ -417,6 +391,16 @@
           "date": "Tue, 12 May 2026 20:30:15 GMT"
         },
         {
+          "title": "\u2018Irresponsible\u2019: backlash as Utah approves datacenter twice the size of Manhattan",
+          "link": "https://www.theguardian.com/us-news/2026/may/13/utah-approves-datacenter-backlash",
+          "date": "Wed, 13 May 2026 11:30:56 GMT"
+        },
+        {
+          "title": "Datacentres using 6% of electricity supply in UK and US, research says",
+          "link": "https://www.theguardian.com/technology/2026/may/13/datacentres-electricity-consumption-uk-us-ai",
+          "date": "Wed, 13 May 2026 10:48:13 GMT"
+        },
+        {
           "title": "Chelsea flower show garden designers clash over use of AI",
           "link": "https://www.theguardian.com/lifeandstyle/2026/may/13/chelsea-flower-show-garden-designers-clash-over-ai",
           "date": "Wed, 13 May 2026 05:00:19 GMT"
@@ -425,16 +409,6 @@
           "title": "Is Big Brother watching you shop? \u2013 podcast",
           "link": "https://www.theguardian.com/news/audio/2026/may/13/is-big-brother-watching-you-shop-podcast",
           "date": "Wed, 13 May 2026 02:00:16 GMT"
-        },
-        {
-          "title": "Sam Altman defends OpenAI in courtroom showdown with Elon Musk",
-          "link": "https://www.theguardian.com/technology/2026/may/12/sam-altman-openai-trial-elon-musk",
-          "date": "Tue, 12 May 2026 20:48:15 GMT"
-        },
-        {
-          "title": "Film industry cannot fight rise of artificial intelligence, says Demi Moore",
-          "link": "https://www.theguardian.com/film/2026/may/12/film-world-must-not-resist-artificial-intelligence-demi-moore",
-          "date": "Tue, 12 May 2026 17:20:17 GMT"
         }
       ],
       "error": null
@@ -482,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Submit Your Questions: AI Is Changing Your Job\u2014Now What?",
+          "link": "https://www.wired.com/story/livestream-ai-is-changing-your-job-now-what/",
+          "date": "Wed, 13 May 2026 11:00:00 +0000"
+        },
+        {
           "title": "Meet the Sad Wives of AI",
           "link": "https://www.wired.com/story/meet-the-sad-wives-of-ai/",
           "date": "Wed, 13 May 2026 10:00:00 +0000"
@@ -500,11 +479,6 @@
           "title": "The Unitree GD01 Is a Giant Mecha Robot You Can Actually Buy",
           "link": "https://www.wired.com/story/unitree-gd01-mecha-robot/",
           "date": "Tue, 12 May 2026 22:51:45 +0000"
-        },
-        {
-          "title": "Ilya Sutskever Stands by His Role in Sam Altman\u2019s OpenAI Ouster: \u2018I Didn\u2019t Want It to Be Destroyed\u2019",
-          "link": "https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/",
-          "date": "Mon, 11 May 2026 23:51:35 +0000"
         }
       ],
       "error": null
