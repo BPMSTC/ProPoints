@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-05-13T13:08:46.822027+00:00",
+  "generatedAt": "2026-05-13T16:16:15.229654+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "War and Data Centers Are Driving Up the Cost of Fiber-Optic Cable",
+          "link": "https://www.404media.co/war-and-data-centers-are-driving-up-the-cost-of-fiber-optic-cable/",
+          "date": "Wed, 13 May 2026 14:24:03 GMT"
+        },
+        {
+          "title": "Podcast: The Chinese Deepfake Software Powering Scams",
+          "link": "https://www.404media.co/podcast-the-chinese-deepfake-software-powering-scams/",
+          "date": "Wed, 13 May 2026 13:10:19 GMT"
+        },
         {
           "title": "Software Developers Say AI Is Rotting Their Brains",
           "link": "https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/",
@@ -19,16 +29,6 @@
           "title": "How the World Became a Casino",
           "link": "https://www.404media.co/how-the-world-became-a-casino/",
           "date": "Mon, 11 May 2026 15:09:42 GMT"
-        },
-        {
-          "title": "Your AI Use Is Breaking My Brain",
-          "link": "https://www.404media.co/your-ai-use-is-breaking-my-brain/",
-          "date": "Mon, 11 May 2026 13:57:35 GMT"
-        },
-        {
-          "title": "Students Boo Commencement Speaker After She Calls AI the \u2018Next Industrial Revolution\u2019",
-          "link": "https://www.404media.co/ucf-ai-commencement-speaker-booed/",
-          "date": "Mon, 11 May 2026 13:03:56 GMT"
         }
       ],
       "error": null
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "The future AI team: What  enterprise AI organizations may look like by 2030",
+          "link": "https://www.aiacceleratorinstitute.com/the-future-ai-team-what-enterprise-ai-organizations-may-look-like-by-2030/",
+          "date": "Wed, 13 May 2026 15:32:37 GMT"
+        },
+        {
           "title": "8 ways self-evolving AI agents  are about to change how we build software",
           "link": "https://www.aiacceleratorinstitute.com/8-ways-self-evolving-ai-agents-are-about-to-change-how-we-build-software/",
           "date": "Tue, 12 May 2026 08:23:25 GMT"
@@ -88,11 +93,6 @@
           "title": "5 ways to prepare for  physical AI, today",
           "link": "https://www.aiacceleratorinstitute.com/5-ways-to-prepare-for-physical-ai-today/",
           "date": "Wed, 06 May 2026 12:47:41 GMT"
-        },
-        {
-          "title": "What's shaping frontier AI in 2026?  Find out in London, May 21st",
-          "link": "https://www.aiacceleratorinstitute.com/whats-shaping-frontier-ai-in-2026-find-out-in-london-may-21st/",
-          "date": "Fri, 01 May 2026 15:41:36 GMT"
         }
       ],
       "error": null
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Bosch, Researchers Develop AI for Humanoid Dexterity",
+          "link": "https://aibusiness.com/robotics/bosch-researchers-develop-ai-humanoid-dexterity",
+          "date": "Wed, 13 May 2026 13:53:32 GMT"
+        },
+        {
           "title": "OpenAI Launches Daybreak, a New Initiative to Challenge Glasswing",
           "link": "https://aibusiness.com/cybersecurity/openai-launches-daybreak-new-initiative-challenge-glasswing",
           "date": "Tue, 12 May 2026 20:45:10 GMT"
@@ -132,11 +137,6 @@
           "title": "Nscale Gets $790M in Financing for Norway AI Buildout",
           "link": "https://aibusiness.com/data-centers/nscale-gets-790m-financing-norway-ai-buildout",
           "date": "Tue, 12 May 2026 13:22:13 GMT"
-        },
-        {
-          "title": "OpenAI Launches AI Consulting Company, Following Anthropic",
-          "link": "https://aibusiness.com/generative-ai/openai-launches-ai-consulting-company-anthropic",
-          "date": "Mon, 11 May 2026 21:08:40 GMT"
         }
       ],
       "error": null
@@ -150,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Physical AI Conference Comes to San Jose as Robotics & Autonomous AI Go Mainstream",
+          "link": "https://www.artificialintelligence-news.com/news/physical-ai-conference-comes-to-san-jose-as-robotics-autonomous-ai-go-mainstream/",
+          "date": "Wed, 13 May 2026 13:43:38 +0000"
+        },
+        {
+          "title": "JBS Dev: On imperfect data and the AI last mile \u2013 from model capability to cost sustainability",
+          "link": "https://www.artificialintelligence-news.com/news/jbs-dev-on-imperfect-data-and-the-ai-last-mile-from-model-capability-to-cost-sustainability/",
+          "date": "Tue, 12 May 2026 15:37:43 +0000"
+        },
+        {
+          "title": "Hugging Face hosted malicious software masquerading as OpenAI release",
+          "link": "https://www.artificialintelligence-news.com/news/malware-on-hugging-face-malicious-software-masquerading-as-openai-release/",
+          "date": "Tue, 12 May 2026 13:52:00 +0000"
+        },
+        {
+          "title": "Laserfiche unveils AI agents for natural language workflows",
+          "link": "https://www.artificialintelligence-news.com/news/laserfiche-ai-agents-act-autonomously-for-the-platforms-users/",
+          "date": "Tue, 12 May 2026 08:57:13 +0000"
+        },
+        {
+          "title": "AI automates HR compliance, except for the area tech companies need",
+          "link": "https://www.artificialintelligence-news.com/news/ai-automates-hr-compliance-except-for-the-area-tech-companies-need/",
+          "date": "Mon, 11 May 2026 14:34:05 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,29 +316,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Gravitational lens shows a galaxy just 800 million years post-Big Bang",
+          "link": "https://arstechnica.com/science/2026/05/gravitational-lens-shows-a-galaxy-just-800-million-years-post-big-bang/",
+          "date": "Wed, 13 May 2026 15:53:20 +0000"
+        },
+        {
+          "title": "Blue Origin may need external funding to hit ambitious launch targets",
+          "link": "https://arstechnica.com/space/2026/05/blue-origin-may-need-external-funding-to-hit-ambitious-launch-targets/",
+          "date": "Wed, 13 May 2026 14:20:04 +0000"
+        },
+        {
+          "title": "Daredevil: Born Again S2 gives us a darker, grittier canvas",
+          "link": "https://arstechnica.com/culture/2026/05/daredevil-born-again-s2-gives-us-a-darker-grittier-canvas/",
+          "date": "Wed, 13 May 2026 13:15:19 +0000"
+        },
+        {
+          "title": "Rivian adds a new onboard AI assistant to its latest software update",
+          "link": "https://arstechnica.com/cars/2026/05/rivian-adds-a-new-onboard-ai-assistant-to-its-latest-software-update/",
+          "date": "Wed, 13 May 2026 12:45:30 +0000"
+        },
+        {
           "title": "Could this be the moment that drug manufacturing takes off in orbit?",
           "link": "https://arstechnica.com/space/2026/05/varda-signs-deal-with-major-us-pharma-firm-to-develop-drugs-in-space/",
           "date": "Wed, 13 May 2026 10:00:28 +0000"
-        },
-        {
-          "title": "The newest AI boom pitch: Host a mini data center at your home",
-          "link": "https://arstechnica.com/ai/2026/05/the-newest-ai-boom-pitch-host-a-mini-data-center-at-your-home/",
-          "date": "Tue, 12 May 2026 21:59:03 +0000"
-        },
-        {
-          "title": "FDA chief resigns after Trump admin forced approval of fruity e-cigs",
-          "link": "https://arstechnica.com/health/2026/05/fda-chief-resigns-after-trump-admin-forced-approval-of-fruity-e-cigs/",
-          "date": "Tue, 12 May 2026 21:26:47 +0000"
-        },
-        {
-          "title": "Twin brothers wipe 96 gov't databases minutes after being fired",
-          "link": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
-          "date": "Tue, 12 May 2026 19:12:07 +0000"
-        },
-        {
-          "title": "\u201cWill I be OK?\u201d Teen died after ChatGPT pushed deadly mix of drugs, lawsuit says",
-          "link": "https://arstechnica.com/tech-policy/2026/05/will-i-be-ok-teen-died-after-chatgpt-pushed-deadly-mix-of-drugs-lawsuit-says/",
-          "date": "Tue, 12 May 2026 19:00:25 +0000"
         }
       ],
       "error": null
@@ -327,24 +353,24 @@
           "date": "2026-05-12T18:46:27+00:00"
         },
         {
+          "title": "AI transcriber for use by Ontario doctors 'hallucinated,' generated errors, auditor finds | CBC News",
+          "link": "https://www.reddit.com/r/artificial/comments/1tc2qre/ai_transcriber_for_use_by_ontario_doctors/",
+          "date": "2026-05-13T15:19:24+00:00"
+        },
+        {
+          "title": "Anthropic's new interpretability tool found Claude suspects it is being tested in 26% of benchmarks and never says so",
+          "link": "https://www.reddit.com/r/artificial/comments/1tc1hq0/anthropics_new_interpretability_tool_found_claude/",
+          "date": "2026-05-13T14:34:39+00:00"
+        },
+        {
+          "title": "AI slop is becoming a provenance crisis, not just a content-quality problem",
+          "link": "https://www.reddit.com/r/artificial/comments/1tc3lkp/ai_slop_is_becoming_a_provenance_crisis_not_just/",
+          "date": "2026-05-13T15:48:26+00:00"
+        },
+        {
           "title": "My god there is an enormous crash just waiting to happen",
           "link": "https://www.reddit.com/r/artificial/comments/1tax3dz/my_god_there_is_an_enormous_crash_just_waiting_to/",
           "date": "2026-05-12T10:06:32+00:00"
-        },
-        {
-          "title": "Google detects hackers using AI-generated code to bypass 2FA with zero-day vulnerability",
-          "link": "https://www.reddit.com/r/artificial/comments/1tb5quh/google_detects_hackers_using_aigenerated_code_to/",
-          "date": "2026-05-12T15:54:03+00:00"
-        },
-        {
-          "title": "AgentKanban for VS Code - A task board with AI agent harness integration. Create and plan tasks with real-time collaboration, then hand off to GitHub Copilot",
-          "link": "https://www.reddit.com/r/artificial/comments/1tbwq7l/agentkanban_for_vs_code_a_task_board_with_ai/",
-          "date": "2026-05-13T11:24:22+00:00"
-        },
-        {
-          "title": "Getting good predictions without data cleaning (Why \"Garbage In, Garbage Out\" is sometimes a trap)",
-          "link": "https://www.reddit.com/r/artificial/comments/1tbrxim/getting_good_predictions_without_data_cleaning/",
-          "date": "2026-05-13T07:00:08+00:00"
         }
       ],
       "error": null
@@ -353,6 +379,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "How tarot readers are using AI \u2013 and what it says about our growing reliance on chatbots for emotional support and advice",
+          "link": "https://theconversation.com/how-tarot-readers-are-using-ai-and-what-it-says-about-our-growing-reliance-on-chatbots-for-emotional-support-and-advice-280106",
+          "date": "2026-05-13T12:49:59Z"
+        },
         {
           "title": "From AirTags to AI nudification: the growing toolkit of technology-facilitated abuse",
           "link": "https://theconversation.com/from-airtags-to-ai-nudification-the-growing-toolkit-of-technology-facilitated-abuse-274468",
@@ -372,11 +403,6 @@
           "title": "Is your AI chatbot manipulating you? Subtly reshaping your opinions?",
           "link": "https://theconversation.com/is-your-ai-chatbot-manipulating-you-subtly-reshaping-your-opinions-280800",
           "date": "2026-05-12T14:09:37Z"
-        },
-        {
-          "title": "Button-pushing explorers: How to grasp that AI agents can do amazing things while knowing nothing",
-          "link": "https://theconversation.com/button-pushing-explorers-how-to-grasp-that-ai-agents-can-do-amazing-things-while-knowing-nothing-281498",
-          "date": "2026-05-12T12:38:56Z"
         }
       ],
       "error": null
@@ -391,6 +417,16 @@
           "date": "Tue, 12 May 2026 20:30:15 GMT"
         },
         {
+          "title": "One in seven prefer consulting AI chatbots to seeing a doctor, UK study shows",
+          "link": "https://www.theguardian.com/society/2026/may/13/one-in-seven-prefer-ai-chatbots-to-seeing-doctor-uk-study",
+          "date": "Wed, 13 May 2026 15:55:17 GMT"
+        },
+        {
+          "title": "Chinese court awards compensation to sacked worker replaced by AI",
+          "link": "https://www.theguardian.com/world/2026/may/13/china-court-awards-compensation-sacked-worker-replaced-by-ai",
+          "date": "Wed, 13 May 2026 14:58:57 GMT"
+        },
+        {
           "title": "\u2018Irresponsible\u2019: backlash as Utah approves datacenter twice the size of Manhattan",
           "link": "https://www.theguardian.com/us-news/2026/may/13/utah-approves-datacenter-backlash",
           "date": "Wed, 13 May 2026 11:30:56 GMT"
@@ -399,16 +435,6 @@
           "title": "Datacentres using 6% of electricity supply in UK and US, research says",
           "link": "https://www.theguardian.com/technology/2026/may/13/datacentres-electricity-consumption-uk-us-ai",
           "date": "Wed, 13 May 2026 10:48:13 GMT"
-        },
-        {
-          "title": "Chelsea flower show garden designers clash over use of AI",
-          "link": "https://www.theguardian.com/lifeandstyle/2026/may/13/chelsea-flower-show-garden-designers-clash-over-ai",
-          "date": "Wed, 13 May 2026 05:00:19 GMT"
-        },
-        {
-          "title": "Is Big Brother watching you shop? \u2013 podcast",
-          "link": "https://www.theguardian.com/news/audio/2026/may/13/is-big-brother-watching-you-shop-podcast",
-          "date": "Wed, 13 May 2026 02:00:16 GMT"
         }
       ],
       "error": null
@@ -424,6 +450,21 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Mark Zuckerberg Is Realizing That When You Treat Your Workers Like Human Garbage, They Might Not Like You Anymore",
+          "link": "https://futurism.com/artificial-intelligence/mark-zuckerberg-treating-workers-poorly",
+          "date": "Wed, 13 May 2026 12:08:34 -0400"
+        },
+        {
+          "title": "Anthropic Says Claude Turned Evil for a Bizarre Reason",
+          "link": "https://futurism.com/artificial-intelligence/anthropic-claude-evil-internet-blame",
+          "date": "Wed, 13 May 2026 11:06:42 -0400"
+        },
+        {
+          "title": "The AI Industry Is Secretly Powered by Homeless People",
+          "link": "https://futurism.com/artificial-intelligence/ai-industry-homeless",
+          "date": "Wed, 13 May 2026 10:29:31 -0400"
+        },
+        {
           "title": "Large Study Finds That Replacing Workers With AI Is Backfiring Badly",
           "link": "https://futurism.com/artificial-intelligence/layoffs-ai-automation-backfire",
           "date": "Tue, 12 May 2026 16:32:54 -0400"
@@ -432,21 +473,6 @@
           "title": "OpenAI Sued Over ChatGPT Medical Advice That Allegedly Killed College Student",
           "link": "https://futurism.com/artificial-intelligence/openai-sued-chatgpt-medical-advice-killed-student",
           "date": "Tue, 12 May 2026 14:47:31 -0400"
-        },
-        {
-          "title": "New York Times Issues Stern Warning to Its Freelance Writers About AI Use",
-          "link": "https://futurism.com/artificial-intelligence/new-york-times-freelancers-ai-rules",
-          "date": "Tue, 12 May 2026 13:24:21 -0400"
-        },
-        {
-          "title": "Researchers Put Google Gemini in Charge of an Entire Coffee Shop, and It\u2019s Inexorably Driving It Out of Business",
-          "link": "https://futurism.com/artificial-intelligence/google-gemini-runs-entire-coffee-shop",
-          "date": "Tue, 12 May 2026 12:35:35 -0400"
-        },
-        {
-          "title": "Man Behind Simulation Hypothesis Warns That Extinction of Humanity Is a Risk We Have to Take",
-          "link": "https://futurism.com/artificial-intelligence/simulation-hypothesis-ai-extinction-humanity",
-          "date": "Tue, 12 May 2026 11:12:16 -0400"
         }
       ],
       "error": null
@@ -455,6 +481,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "WhatsApp Adds Meta AI Chats That Are Built to Be Fully Private",
+          "link": "https://www.wired.com/story/whatsapp-incognito-chat-meta-ai/",
+          "date": "Wed, 13 May 2026 14:00:00 +0000"
+        },
         {
           "title": "Submit Your Questions: AI Is Changing Your Job\u2014Now What?",
           "link": "https://www.wired.com/story/livestream-ai-is-changing-your-job-now-what/",
@@ -474,11 +505,6 @@
           "title": "xAI Adds 19 New Gas Turbines Despite Ongoing Lawsuit",
           "link": "https://www.wired.com/story/xai-adds-19-new-gas-turbines-despite-ongoing-lawsuit/",
           "date": "Wed, 13 May 2026 00:00:00 +0000"
-        },
-        {
-          "title": "The Unitree GD01 Is a Giant Mecha Robot You Can Actually Buy",
-          "link": "https://www.wired.com/story/unitree-gd01-mecha-robot/",
-          "date": "Tue, 12 May 2026 22:51:45 +0000"
         }
       ],
       "error": null
@@ -487,6 +513,16 @@
       "name": "Artificial Intelligence News -- ScienceDaily",
       "url": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "items": [
+        {
+          "title": "New quantum algorithm solves \u201cimpossible\u201d materials problem in seconds",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+          "date": "Wed, 13 May 2026 03:33:27 EDT"
+        },
+        {
+          "title": "Your \u201cum\u201d and pauses could reveal early dementia risk",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260512202333.htm",
+          "date": "Wed, 13 May 2026 00:18:33 EDT"
+        },
         {
           "title": "AI lets chemists design molecules by simply describing them",
           "link": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
@@ -501,16 +537,6 @@
           "title": "AI swarms could hijack democracy without anyone noticing",
           "link": "https://www.sciencedaily.com/releases/2026/04/260420014748.htm",
           "date": "Mon, 20 Apr 2026 05:47:25 EDT"
-        },
-        {
-          "title": "Artificial neurons successfully communicate with living brain cells",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
-          "date": "Sat, 18 Apr 2026 03:32:36 EDT"
-        },
-        {
-          "title": "Think AI \"knows\" what it\u2019s doing? Scientists say think again",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260417224505.htm",
-          "date": "Sun, 19 Apr 2026 04:02:23 EDT"
         }
       ],
       "error": null
