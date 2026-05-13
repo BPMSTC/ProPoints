@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T04:40:53.259660+00:00",
+  "generatedAt": "2026-05-13T07:47:02.098825+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "JBS Dev: On imperfect data and the AI last mile \u2013 from model capability to cost sustainability",
-          "link": "https://www.artificialintelligence-news.com/news/jbs-dev-on-imperfect-data-and-the-ai-last-mile-from-model-capability-to-cost-sustainability/",
-          "date": "Tue, 12 May 2026 15:37:43 +0000"
-        },
-        {
-          "title": "Hugging Face hosted malicious software masquerading as OpenAI release",
-          "link": "https://www.artificialintelligence-news.com/news/malware-on-hugging-face-malicious-software-masquerading-as-openai-release/",
-          "date": "Tue, 12 May 2026 13:52:00 +0000"
-        },
-        {
-          "title": "Laserfiche unveils AI agents for natural language workflows",
-          "link": "https://www.artificialintelligence-news.com/news/laserfiche-ai-agents-act-autonomously-for-the-platforms-users/",
-          "date": "Tue, 12 May 2026 08:57:13 +0000"
-        },
-        {
-          "title": "AI automates HR compliance, except for the area tech companies need",
-          "link": "https://www.artificialintelligence-news.com/news/ai-automates-hr-compliance-except-for-the-area-tech-companies-need/",
-          "date": "Mon, 11 May 2026 14:34:05 +0000"
-        },
-        {
-          "title": "Bain sees US$100 billion SaaS market in agentic AI automation",
-          "link": "https://www.artificialintelligence-news.com/news/bain-agentic-ai-saas-market/",
-          "date": "Mon, 11 May 2026 10:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -363,14 +337,14 @@
           "date": "2026-05-12T15:54:03+00:00"
         },
         {
+          "title": "Epistemic Hygiene and How It Can Reduce AI Hallucinations",
+          "link": "https://www.reddit.com/r/artificial/comments/1tbq353/epistemic_hygiene_and_how_it_can_reduce_ai/",
+          "date": "2026-05-13T05:19:48+00:00"
+        },
+        {
           "title": "Created a free tool to check what PII your LLM prompts are leaking before they hit the provider",
           "link": "https://www.reddit.com/r/artificial/comments/1tbhvlq/created_a_free_tool_to_check_what_pii_your_llm/",
           "date": "2026-05-12T23:07:42+00:00"
-        },
-        {
-          "title": "The AI labs whose models are eroding democratic trust are the same labs now embedding themselves in government.",
-          "link": "https://www.reddit.com/r/artificial/comments/1tbf0p9/the_ai_labs_whose_models_are_eroding_democratic/",
-          "date": "2026-05-12T21:15:25+00:00"
         }
       ],
       "error": null
@@ -417,6 +391,16 @@
           "date": "Tue, 12 May 2026 20:30:15 GMT"
         },
         {
+          "title": "Nvidia\u2019s Jensen Huang joins Trump as tech dominates China trip",
+          "link": "https://www.theguardian.com/technology/2026/may/13/nvidia-jensen-huang-joins-trump-as-tech-dominates-china-trip",
+          "date": "Wed, 13 May 2026 07:41:26 GMT"
+        },
+        {
+          "title": "Chelsea flower show garden designers clash over use of AI",
+          "link": "https://www.theguardian.com/lifeandstyle/2026/may/13/chelsea-flower-show-garden-designers-clash-over-ai",
+          "date": "Wed, 13 May 2026 05:00:19 GMT"
+        },
+        {
           "title": "Is Big Brother watching you shop? \u2013 podcast",
           "link": "https://www.theguardian.com/news/audio/2026/may/13/is-big-brother-watching-you-shop-podcast",
           "date": "Wed, 13 May 2026 02:00:16 GMT"
@@ -425,16 +409,6 @@
           "title": "Sam Altman defends OpenAI in courtroom showdown with Elon Musk",
           "link": "https://www.theguardian.com/technology/2026/may/12/sam-altman-openai-trial-elon-musk",
           "date": "Tue, 12 May 2026 20:48:15 GMT"
-        },
-        {
-          "title": "Film industry cannot fight rise of artificial intelligence, says Demi Moore",
-          "link": "https://www.theguardian.com/film/2026/may/12/film-world-must-not-resist-artificial-intelligence-demi-moore",
-          "date": "Tue, 12 May 2026 17:20:17 GMT"
-        },
-        {
-          "title": "Google announces raft of free upgrades for Android phones",
-          "link": "https://www.theguardian.com/technology/2026/may/12/google-upgrades-gemini-intelligence-android-phones",
-          "date": "Tue, 12 May 2026 17:00:05 GMT"
         }
       ],
       "error": null
