@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T18:57:13.705671+00:00",
+  "generatedAt": "2026-05-14T20:27:05.262884+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "Physical AI moves closer to factory floors as companies test humanoid robots",
-          "link": "https://www.artificialintelligence-news.com/news/physical-ai-humanoid-robots-factories/",
-          "date": "Thu, 14 May 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Top real estate app development companies in the US: Abilities and costs",
-          "link": "https://www.artificialintelligence-news.com/news/top-real-estate-app-development-companies-in-the-us-abilities-and-costs/",
-          "date": "Thu, 14 May 2026 07:51:58 +0000"
-        },
-        {
-          "title": "Physical AI Conference Comes to San Jose as Robotics & Autonomous AI Go Mainstream",
-          "link": "https://www.artificialintelligence-news.com/news/physical-ai-conference-comes-to-san-jose-as-robotics-autonomous-ai-go-mainstream/",
-          "date": "Wed, 13 May 2026 13:43:38 +0000"
-        },
-        {
-          "title": "JBS Dev: On imperfect data and the AI last mile \u2013 from model capability to cost sustainability",
-          "link": "https://www.artificialintelligence-news.com/news/jbs-dev-on-imperfect-data-and-the-ai-last-mile-from-model-capability-to-cost-sustainability/",
-          "date": "Tue, 12 May 2026 15:37:43 +0000"
-        },
-        {
-          "title": "Hugging Face hosted malicious software masquerading as OpenAI release",
-          "link": "https://www.artificialintelligence-news.com/news/malware-on-hugging-face-malicious-software-masquerading-as-openai-release/",
-          "date": "Tue, 12 May 2026 13:52:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -316,29 +290,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Vaporware or not? Aptera assembles its first five validation models.",
-          "link": "https://arstechnica.com/cars/2026/05/vaporware-or-not-aptera-assembles-its-first-five-validation-models/",
-          "date": "Thu, 14 May 2026 17:06:23 +0000"
+          "title": "Cell phone users can't stop incriminating themselves",
+          "link": "https://arstechnica.com/tech-policy/2026/05/cell-phones-users-cant-stop-incriminating-themselves/",
+          "date": "Thu, 14 May 2026 19:27:50 +0000"
         },
         {
-          "title": "Cisco announces record revenue and 4,000 layoffs in the same day",
-          "link": "https://arstechnica.com/information-technology/2026/05/cisco-announces-record-revenue-and-4000-layoffs-in-the-same-day/",
-          "date": "Thu, 14 May 2026 16:47:43 +0000"
+          "title": "Energy supplier abandons Lake Tahoe residents to serve data centers",
+          "link": "https://arstechnica.com/ai/2026/05/energy-supplier-abandons-lake-tahoe-residents-to-serve-data-centers/",
+          "date": "Thu, 14 May 2026 19:17:28 +0000"
         },
         {
-          "title": "Forecasters predict wildfires, floods, severe heatwaves from incoming El Ni\u00f1o",
-          "link": "https://arstechnica.com/science/2026/05/forecasters-predict-wildfires-floods-severe-heatwaves-from-incoming-el-nino/",
-          "date": "Thu, 14 May 2026 13:09:46 +0000"
+          "title": "Over a year later, AMD is bringing improved FSR 4 upscaling to its older GPUs",
+          "link": "https://arstechnica.com/gadgets/2026/05/amd-promises-to-bring-improved-hardware-backed-fsr-4-upscaling-to-older-radeon-gpus/",
+          "date": "Thu, 14 May 2026 18:55:54 +0000"
         },
         {
-          "title": "Motorola Razr Fold review: Fits neatly in your pocket but not your budget",
-          "link": "https://arstechnica.com/gadgets/2026/05/motorola-razr-fold-review-looking-for-an-edge/",
-          "date": "Thu, 14 May 2026 13:00:28 +0000"
+          "title": "Judge probes whether Musk settlement with Trump admin is tainted by corruption",
+          "link": "https://arstechnica.com/tech-policy/2026/05/judge-probes-whether-musk-settlement-with-trump-admin-is-tainted-by-corruption/",
+          "date": "Thu, 14 May 2026 18:45:01 +0000"
         },
         {
-          "title": "Desperate Trump taps \"Tim Apple,\" Jensen Huang, Elon Musk to attend Xi summit",
-          "link": "https://arstechnica.com/tech-policy/2026/05/desperate-trump-taps-tim-apple-jensen-huang-elon-musk-to-attend-xi-summit/",
-          "date": "Thu, 14 May 2026 11:00:58 +0000"
+          "title": "Zero-day exploit completely defeats default Windows 11 BitLocker protections",
+          "link": "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/",
+          "date": "Thu, 14 May 2026 18:32:01 +0000"
         }
       ],
       "error": null
@@ -358,9 +332,9 @@
           "date": "2026-05-13T19:33:36+00:00"
         },
         {
-          "title": "Anthropic\u2019s Claude Helps Recover Lost Bitcoin Wallet Holding $400K After 11 Years",
-          "link": "https://www.reddit.com/r/artificial/comments/1tcvrjx/anthropics_claude_helps_recover_lost_bitcoin/",
-          "date": "2026-05-14T11:48:58+00:00"
+          "title": "Anthropic just published a pretty alarming 2028 AI scenario paper and it's not about AGI safety in the usual sense",
+          "link": "https://www.reddit.com/r/artificial/comments/1td99uw/anthropic_just_published_a_pretty_alarming_2028/",
+          "date": "2026-05-14T19:53:12+00:00"
         },
         {
           "title": "I asked 4 AIs to pick a number. Why they all said 7?",
@@ -368,9 +342,9 @@
           "date": "2026-05-14T00:17:38+00:00"
         },
         {
-          "title": "*\"Why treating AI as a partner on eye-level yields better results than strict prompting.\"*",
-          "link": "https://www.reddit.com/r/artificial/comments/1td5jwn/why_treating_ai_as_a_partner_on_eyelevel_yields/",
-          "date": "2026-05-14T17:44:28+00:00"
+          "title": "Anthropic\u2019s Claude Helps Recover Lost Bitcoin Wallet Holding $400K After 11 Years",
+          "link": "https://www.reddit.com/r/artificial/comments/1tcvrjx/anthropics_claude_helps_recover_lost_bitcoin/",
+          "date": "2026-05-14T11:48:58+00:00"
         }
       ],
       "error": null
@@ -379,6 +353,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Museums have always been entangled with European imperialism. Will the world\u2019s first \u2018AI art\u2019 museum be any different?",
+          "link": "https://theconversation.com/museums-have-always-been-entangled-with-european-imperialism-will-the-worlds-first-ai-art-museum-be-any-different-281871",
+          "date": "2026-05-14T20:10:55Z"
+        },
         {
           "title": "Is AI really \u2018writing\u2019? From a priestess to philosophers, ancient authors would have said \u2018no\u2019",
           "link": "https://theconversation.com/is-ai-really-writing-from-a-priestess-to-philosophers-ancient-authors-would-have-said-no-280133",
@@ -398,11 +377,6 @@
           "title": "From AirTags to AI nudification: the growing toolkit of technology-facilitated abuse",
           "link": "https://theconversation.com/from-airtags-to-ai-nudification-the-growing-toolkit-of-technology-facilitated-abuse-274468",
           "date": "2026-05-13T09:47:40Z"
-        },
-        {
-          "title": "AI doesn\u2019t create bias, it inherits it \u2013 how do we ensure fairness when it comes to automated decisions?",
-          "link": "https://theconversation.com/ai-doesnt-create-bias-it-inherits-it-how-do-we-ensure-fairness-when-it-comes-to-automated-decisions-280927",
-          "date": "2026-05-12T15:54:06Z"
         }
       ],
       "error": null
@@ -450,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Sam Altman Faces Nightmare Questions in Cross-Examination",
+          "link": "https://futurism.com/artificial-intelligence/sam-altman-cross-examination",
+          "date": "Thu, 14 May 2026 16:12:46 -0400"
+        },
+        {
           "title": "Microsoft AI Researchers Just Discovered Something That\u2019s Going to Make Their Bosses Extremely Mad",
           "link": "https://futurism.com/artificial-intelligence/microsoft-ai-researchers-workslop",
           "date": "Thu, 14 May 2026 14:26:15 -0400"
@@ -468,11 +447,6 @@
           "title": "A Deranged New Wikipedia Clone Is Made Entirely of Surreal AI Hallucinations",
           "link": "https://futurism.com/artificial-intelligence/deranged-wikipedia-clone-made-entirely-of-ai-hallucinations",
           "date": "Wed, 13 May 2026 15:09:11 -0400"
-        },
-        {
-          "title": "Four Financial Journalists Accused of Being Fake AI-Generated Puppets That Shill Crypto in Forbes, HuffPost, and More",
-          "link": "https://futurism.com/artificial-intelligence/financial-journalists-accused-ai-fakes",
-          "date": "Wed, 13 May 2026 13:58:11 -0400"
         }
       ],
       "error": null
@@ -481,6 +455,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Trump\u2019s Tech Posse in China, Who\u2019s Winning in Musk v. Altman, and Hantavirus Conspiracy Theories",
+          "link": "https://www.wired.com/story/uncanny-valley-podcast-trump-tech-posse-china-musk-v-altman-trial-hantavirus-conspiracy-theories/",
+          "date": "Thu, 14 May 2026 19:04:47 +0000"
+        },
         {
           "title": "AI Promised the Audemars Piguet x Swatch Wristwatch. China Will Deliver It",
           "link": "https://www.wired.com/story/ai-ruined-the-audemars-piguet-x-swatch-collaboration-china-could-save-it/",
@@ -500,11 +479,6 @@
           "title": "Everyone at the Musk v. Altman Trial Is Using Fancy Butt Cushions",
           "link": "https://www.wired.com/story/fancy-butt-pillows-musk-v-altman-trial/",
           "date": "Wed, 13 May 2026 21:58:47 +0000"
-        },
-        {
-          "title": "What It Will Take to Make AI Sustainable",
-          "link": "https://www.wired.com/story/what-it-will-take-to-make-ai-sustainable/",
-          "date": "Wed, 13 May 2026 19:15:59 +0000"
         }
       ],
       "error": null
