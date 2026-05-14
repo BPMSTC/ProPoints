@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T20:27:05.262884+00:00",
+  "generatedAt": "2026-05-14T22:08:18.833676+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Physical AI moves closer to factory floors as companies test humanoid robots",
+          "link": "https://www.artificialintelligence-news.com/news/physical-ai-humanoid-robots-factories/",
+          "date": "Thu, 14 May 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Top real estate app development companies in the US: Abilities and costs",
+          "link": "https://www.artificialintelligence-news.com/news/top-real-estate-app-development-companies-in-the-us-abilities-and-costs/",
+          "date": "Thu, 14 May 2026 07:51:58 +0000"
+        },
+        {
+          "title": "Physical AI Conference Comes to San Jose as Robotics & Autonomous AI Go Mainstream",
+          "link": "https://www.artificialintelligence-news.com/news/physical-ai-conference-comes-to-san-jose-as-robotics-autonomous-ai-go-mainstream/",
+          "date": "Wed, 13 May 2026 13:43:38 +0000"
+        },
+        {
+          "title": "JBS Dev: On imperfect data and the AI last mile \u2013 from model capability to cost sustainability",
+          "link": "https://www.artificialintelligence-news.com/news/jbs-dev-on-imperfect-data-and-the-ai-last-mile-from-model-capability-to-cost-sustainability/",
+          "date": "Tue, 12 May 2026 15:37:43 +0000"
+        },
+        {
+          "title": "Hugging Face hosted malicious software masquerading as OpenAI release",
+          "link": "https://www.artificialintelligence-news.com/news/malware-on-hugging-face-malicious-software-masquerading-as-openai-release/",
+          "date": "Tue, 12 May 2026 13:52:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +316,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Fired hacker twins forget to end Teams recording, capture own crimes",
+          "link": "https://arstechnica.com/tech-policy/2026/05/fired-hacker-twins-forget-to-end-teams-recording-capture-own-crimes/",
+          "date": "Thu, 14 May 2026 21:02:53 +0000"
+        },
+        {
           "title": "Cell phone users can't stop incriminating themselves",
           "link": "https://arstechnica.com/tech-policy/2026/05/cell-phones-users-cant-stop-incriminating-themselves/",
           "date": "Thu, 14 May 2026 19:27:50 +0000"
@@ -308,11 +339,6 @@
           "title": "Judge probes whether Musk settlement with Trump admin is tainted by corruption",
           "link": "https://arstechnica.com/tech-policy/2026/05/judge-probes-whether-musk-settlement-with-trump-admin-is-tainted-by-corruption/",
           "date": "Thu, 14 May 2026 18:45:01 +0000"
-        },
-        {
-          "title": "Zero-day exploit completely defeats default Windows 11 BitLocker protections",
-          "link": "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/",
-          "date": "Thu, 14 May 2026 18:32:01 +0000"
         }
       ],
       "error": null
@@ -321,6 +347,11 @@
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
+        {
+          "title": "Anthropic just published a pretty alarming 2028 AI scenario paper and it's not about AGI safety in the usual sense",
+          "link": "https://www.reddit.com/r/artificial/comments/1td99uw/anthropic_just_published_a_pretty_alarming_2028/",
+          "date": "2026-05-14T19:53:12+00:00"
+        },
         {
           "title": "AWS user hit with 30000 dollar bill after Claude runaway on Bedrock",
           "link": "https://www.reddit.com/r/artificial/comments/1tcu7w5/aws_user_hit_with_30000_dollar_bill_after_claude/",
@@ -332,19 +363,14 @@
           "date": "2026-05-13T19:33:36+00:00"
         },
         {
-          "title": "Anthropic just published a pretty alarming 2028 AI scenario paper and it's not about AGI safety in the usual sense",
-          "link": "https://www.reddit.com/r/artificial/comments/1td99uw/anthropic_just_published_a_pretty_alarming_2028/",
-          "date": "2026-05-14T19:53:12+00:00"
+          "title": "All-in-one AI platforms are quietly taking over end-to-end production. Thoughts?",
+          "link": "https://www.reddit.com/r/artificial/comments/1tdaejb/allinone_ai_platforms_are_quietly_taking_over/",
+          "date": "2026-05-14T20:33:08+00:00"
         },
         {
-          "title": "I asked 4 AIs to pick a number. Why they all said 7?",
-          "link": "https://www.reddit.com/r/artificial/comments/1tchsrd/i_asked_4_ais_to_pick_a_number_why_they_all_said_7/",
-          "date": "2026-05-14T00:17:38+00:00"
-        },
-        {
-          "title": "Anthropic\u2019s Claude Helps Recover Lost Bitcoin Wallet Holding $400K After 11 Years",
-          "link": "https://www.reddit.com/r/artificial/comments/1tcvrjx/anthropics_claude_helps_recover_lost_bitcoin/",
-          "date": "2026-05-14T11:48:58+00:00"
+          "title": "[Virtual] AI Saturdays - Learn how to setup a local LLM (16th May, 6 PM ET)",
+          "link": "https://www.reddit.com/r/artificial/comments/1tdch80/virtual_ai_saturdays_learn_how_to_setup_a_local/",
+          "date": "2026-05-14T21:50:40+00:00"
         }
       ],
       "error": null
@@ -424,6 +450,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Elon Musk Flees OpenAI Trial as Tide Turns Against Him",
+          "link": "https://futurism.com/artificial-intelligence/elon-musk-flees-trial",
+          "date": "Thu, 14 May 2026 16:58:43 -0400"
+        },
+        {
           "title": "Sam Altman Faces Nightmare Questions in Cross-Examination",
           "link": "https://futurism.com/artificial-intelligence/sam-altman-cross-examination",
           "date": "Thu, 14 May 2026 16:12:46 -0400"
@@ -442,11 +473,6 @@
           "title": "Sam Altman Accuses Elon Musk of Laughing at Memes During Important OpenAI Meetings",
           "link": "https://futurism.com/artificial-intelligence/altman-accuses-musk-laughing-at-memes-during-meetings",
           "date": "Thu, 14 May 2026 11:07:37 -0400"
-        },
-        {
-          "title": "A Deranged New Wikipedia Clone Is Made Entirely of Surreal AI Hallucinations",
-          "link": "https://futurism.com/artificial-intelligence/deranged-wikipedia-clone-made-entirely-of-ai-hallucinations",
-          "date": "Wed, 13 May 2026 15:09:11 -0400"
         }
       ],
       "error": null
@@ -455,6 +481,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "An Engineer\u2019s Post Protesting Laptop Surveillance Is Going Viral Inside Meta",
+          "link": "https://www.wired.com/story/meta-employee-protest-mouse-tracking-surveillance-ai-training/",
+          "date": "Thu, 14 May 2026 20:27:34 +0000"
+        },
         {
           "title": "Trump\u2019s Tech Posse in China, Who\u2019s Winning in Musk v. Altman, and Hantavirus Conspiracy Theories",
           "link": "https://www.wired.com/story/uncanny-valley-podcast-trump-tech-posse-china-musk-v-altman-trial-hantavirus-conspiracy-theories/",
@@ -474,11 +505,6 @@
           "title": "Meta\u2019s New Reality: Record High Profits. Record Low Morale",
           "link": "https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/",
           "date": "Thu, 14 May 2026 09:00:00 +0000"
-        },
-        {
-          "title": "Everyone at the Musk v. Altman Trial Is Using Fancy Butt Cushions",
-          "link": "https://www.wired.com/story/fancy-butt-pillows-musk-v-altman-trial/",
-          "date": "Wed, 13 May 2026 21:58:47 +0000"
         }
       ],
       "error": null
