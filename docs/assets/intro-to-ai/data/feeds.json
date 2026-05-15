@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-05-15T14:00:31.827440+00:00",
+  "generatedAt": "2026-05-15T16:08:42.773788+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "ArXiv to Ban Researchers for a Year if They Submit AI Slop",
+          "link": "https://www.404media.co/new-arxiv-rules-ai-generated-papers-ban/",
+          "date": "Fri, 15 May 2026 15:52:12 GMT"
+        },
+        {
+          "title": "Behind the Blog: New Music and a Crash Out",
+          "link": "https://www.404media.co/behind-the-blog-new-music-and-a-crash-out/",
+          "date": "Fri, 15 May 2026 15:19:07 GMT"
+        },
         {
           "title": "Mayo Clinic is Using AI to Listen to Emergency Room Visits",
           "link": "https://www.404media.co/mayo-clinic-is-using-ai-to-listen-to-emergency-room-visits/",
@@ -19,16 +29,6 @@
           "title": "Internet of Shit: AI Poop Analysis App Offered to Sell Me Database of Its Users' Poops",
           "link": "https://www.404media.co/ai-poop-analysis-app-offered-to-sell-me-access-to-its-users-poops/",
           "date": "Thu, 14 May 2026 13:30:52 GMT"
-        },
-        {
-          "title": "At Least We Know the Washington Post Isn't Buying Views",
-          "link": "https://www.404media.co/washington-post-make-it-make-sense-opinion-podcast/",
-          "date": "Wed, 13 May 2026 17:02:59 GMT"
-        },
-        {
-          "title": "War and Data Centers Are Driving Up the Cost of Fiber-Optic Cable",
-          "link": "https://www.404media.co/war-and-data-centers-are-driving-up-the-cost-of-fiber-optic-cable/",
-          "date": "Wed, 13 May 2026 14:24:03 GMT"
         }
       ],
       "error": null
@@ -114,6 +114,21 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Prompt: The More Operational AI Becomes, the Bigger the Security Challenge",
+          "link": "https://aibusiness.com/generative-ai/the-more-operational-ai-becomes-bigger-security-challenge",
+          "date": "Fri, 15 May 2026 15:45:28 GMT"
+        },
+        {
+          "title": "Cerebras Must Overcome Obstacles to Maintain IPO Value",
+          "link": "https://aibusiness.com/generative-ai/cerebras-must-overcome-obstacles-maintain-ipo-value",
+          "date": "Fri, 15 May 2026 15:24:59 GMT"
+        },
+        {
+          "title": "Anthropic and PwC in New Push to Embed Claude in Corporate World",
+          "link": "https://aibusiness.com/generative-ai/anthropic-and-pwc-new-push-embed-claude-corporate-world",
+          "date": "Fri, 15 May 2026 15:04:30 GMT"
+        },
+        {
           "title": "Rivian Spinoff Raises $400M for Industrial Robots",
           "link": "https://aibusiness.com/robotics/rivian-spinoff-raises-400m-industrial-robots",
           "date": "Thu, 14 May 2026 14:44:03 GMT"
@@ -122,21 +137,6 @@
           "title": "Nvidia Taps British AI Startup to Build \u2018Next Frontier\u2019 of AI",
           "link": "https://aibusiness.com/generative-ai/nvidia-taps-british-ai-startup-build-next-frontier-ai",
           "date": "Thu, 14 May 2026 14:15:24 GMT"
-        },
-        {
-          "title": "Anthropic Targets Small Businesses With Latest Claude Release",
-          "link": "https://aibusiness.com/generative-ai/anthropic-targets-small-businesses-latest-claude-release",
-          "date": "Thu, 14 May 2026 13:55:46 GMT"
-        },
-        {
-          "title": "Anthropic Further Targets Legal With New Connectors",
-          "link": "https://aibusiness.com/generative-ai/anthropic-further-targets-legal-new-connectors",
-          "date": "Wed, 13 May 2026 19:12:53 GMT"
-        },
-        {
-          "title": "Bosch, Researchers Develop AI for Humanoid Dexterity",
-          "link": "https://aibusiness.com/robotics/bosch-researchers-develop-ai-humanoid-dexterity",
-          "date": "Wed, 13 May 2026 13:53:32 GMT"
         }
       ],
       "error": null
@@ -151,6 +151,11 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [
+        {
+          "title": "Deloitte: Scale \u2018autonomous intelligence\u2019 for real growth",
+          "link": "https://www.artificialintelligence-news.com/news/deloitte-scale-autonomous-intelligence-for-real-growth/",
+          "date": "Fri, 15 May 2026 15:02:00 +0000"
+        },
         {
           "title": "Physical AI moves closer to factory floors as companies test humanoid robots",
           "link": "https://www.artificialintelligence-news.com/news/physical-ai-humanoid-robots-factories/",
@@ -170,11 +175,6 @@
           "title": "JBS Dev: On imperfect data and the AI last mile \u2013 from model capability to cost sustainability",
           "link": "https://www.artificialintelligence-news.com/news/jbs-dev-on-imperfect-data-and-the-ai-last-mile-from-model-capability-to-cost-sustainability/",
           "date": "Tue, 12 May 2026 15:37:43 +0000"
-        },
-        {
-          "title": "Hugging Face hosted malicious software masquerading as OpenAI release",
-          "link": "https://www.artificialintelligence-news.com/news/malware-on-hugging-face-malicious-software-masquerading-as-openai-release/",
-          "date": "Tue, 12 May 2026 13:52:00 +0000"
         }
       ],
       "error": null
@@ -316,6 +316,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Rocket Report: Russia claims success with new ICBM; spaceplane d\u00e9j\u00e0 vu in Europe",
+          "link": "https://arstechnica.com/space/2026/05/rocket-report-russia-claims-success-with-new-icbm-spaceplane-deja-vu-in-europe/",
+          "date": "Fri, 15 May 2026 14:24:31 +0000"
+        },
+        {
+          "title": "Routine vaccines may cut dementia risk\u2014experts have startling hypothesis on how",
+          "link": "https://arstechnica.com/health/2026/05/routine-vaccines-may-cut-dementia-risk-experts-have-startling-hypothesis-on-how/",
+          "date": "Fri, 15 May 2026 14:01:23 +0000"
+        },
+        {
+          "title": "Pennsylvanians use town hall meeting to rail against data center boom",
+          "link": "https://arstechnica.com/ai/2026/05/pennsylvanians-use-town-hall-meeting-to-rail-against-data-center-boom/",
+          "date": "Fri, 15 May 2026 13:51:04 +0000"
+        },
+        {
           "title": "The perfect commuter bike? Velotric's Discover 3 makes its case.",
           "link": "https://arstechnica.com/cars/2026/05/the-perfect-commuter-bike-velotrics-discover-3-makes-its-case/",
           "date": "Fri, 15 May 2026 11:00:44 +0000"
@@ -324,21 +339,6 @@
           "title": "Claude Code's product lead talks usage limits, transparency, and the \"lean harness\"",
           "link": "https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/",
           "date": "Fri, 15 May 2026 10:30:01 +0000"
-        },
-        {
-          "title": "Men use \"vocal fry\" more than women, counter to stereotype",
-          "link": "https://arstechnica.com/science/2026/05/men-use-vocal-fry-more-than-women-counter-to-stereotype/",
-          "date": "Thu, 14 May 2026 21:32:29 +0000"
-        },
-        {
-          "title": "Fired hacker twins forget to end Teams recording, capture own crimes",
-          "link": "https://arstechnica.com/tech-policy/2026/05/fired-hacker-twins-forget-to-end-teams-recording-capture-own-crimes/",
-          "date": "Thu, 14 May 2026 21:02:53 +0000"
-        },
-        {
-          "title": "Cell phone users can't stop incriminating themselves",
-          "link": "https://arstechnica.com/tech-policy/2026/05/cell-phones-users-cant-stop-incriminating-themselves/",
-          "date": "Thu, 14 May 2026 19:27:50 +0000"
         }
       ],
       "error": null
@@ -348,14 +348,14 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "Anthropic just published a pretty alarming 2028 AI scenario paper and it's not about AGI safety in the usual sense",
-          "link": "https://www.reddit.com/r/artificial/comments/1td99uw/anthropic_just_published_a_pretty_alarming_2028/",
-          "date": "2026-05-14T19:53:12+00:00"
-        },
-        {
           "title": "Recent poll shows that 70% of Americans don't want AI data centers being built in their local area",
           "link": "https://www.reddit.com/r/artificial/comments/1tdw8if/recent_poll_shows_that_70_of_americans_dont_want/",
           "date": "2026-05-15T13:22:10+00:00"
+        },
+        {
+          "title": "Anthropic just published a pretty alarming 2028 AI scenario paper and it's not about AGI safety in the usual sense",
+          "link": "https://www.reddit.com/r/artificial/comments/1td99uw/anthropic_just_published_a_pretty_alarming_2028/",
+          "date": "2026-05-14T19:53:12+00:00"
         },
         {
           "title": "Chatbotapp AI and the Truth About Using Multiple AI Models",
@@ -363,14 +363,14 @@
           "date": "2026-05-15T10:26:45+00:00"
         },
         {
-          "title": "Adaptive Markdown",
-          "link": "https://www.reddit.com/r/artificial/comments/1tdhoxd/adaptive_markdown/",
-          "date": "2026-05-15T01:29:12+00:00"
+          "title": "Father of VR Jaron Lanier on the AI future where humans get paid to be creative",
+          "link": "https://www.reddit.com/r/artificial/comments/1tdyjqb/father_of_vr_jaron_lanier_on_the_ai_future_where/",
+          "date": "2026-05-15T14:47:49+00:00"
         },
         {
-          "title": "AWS user hit with 30000 dollar bill after Claude runaway on Bedrock",
-          "link": "https://www.reddit.com/r/artificial/comments/1tcu7w5/aws_user_hit_with_30000_dollar_bill_after_claude/",
-          "date": "2026-05-14T10:35:03+00:00"
+          "title": "Has anyone come across this AI civilisation experiment? Curious what people think",
+          "link": "https://www.reddit.com/r/artificial/comments/1te0p1f/has_anyone_come_across_this_ai_civilisation/",
+          "date": "2026-05-15T16:03:33+00:00"
         }
       ],
       "error": null
@@ -450,6 +450,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "AI Appears to Be Trapping Certain Job Applicants in a Limbo Where They Never Get an Interview for \u201cReasons\u201d That Are Completely Unfair",
+          "link": "https://futurism.com/artificial-intelligence/ai-job-applicant-limbo-cortex",
+          "date": "Fri, 15 May 2026 11:10:14 -0400"
+        },
+        {
           "title": "If AI Causes a Mass Unemployment Crisis, Will the Public Explode Into Violence?",
           "link": "https://futurism.com/artificial-intelligence/ai-mass-unemployement-violence",
           "date": "Fri, 15 May 2026 08:48:46 -0400"
@@ -468,11 +473,6 @@
           "title": "Microsoft AI Researchers Just Discovered Something That\u2019s Going to Make Their Bosses Extremely Mad",
           "link": "https://futurism.com/artificial-intelligence/microsoft-ai-researchers-workslop",
           "date": "Thu, 14 May 2026 14:26:15 -0400"
-        },
-        {
-          "title": "OpenAI Accused of Handing Over Your Intimate Personal Information to Meta and Google",
-          "link": "https://futurism.com/artificial-intelligence/openai-personal-information-meta-google",
-          "date": "Thu, 14 May 2026 12:53:10 -0400"
         }
       ],
       "error": null
