@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T22:55:40.305823+00:00",
+  "generatedAt": "2026-05-15T23:53:14.135655+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "Deloitte: Scale \u2018autonomous intelligence\u2019 for real growth",
-          "link": "https://www.artificialintelligence-news.com/news/deloitte-scale-autonomous-intelligence-for-real-growth/",
-          "date": "Fri, 15 May 2026 15:02:00 +0000"
-        },
-        {
-          "title": "Physical AI moves closer to factory floors as companies test humanoid robots",
-          "link": "https://www.artificialintelligence-news.com/news/physical-ai-humanoid-robots-factories/",
-          "date": "Thu, 14 May 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Top real estate app development companies in the US: Abilities and costs",
-          "link": "https://www.artificialintelligence-news.com/news/top-real-estate-app-development-companies-in-the-us-abilities-and-costs/",
-          "date": "Thu, 14 May 2026 07:51:58 +0000"
-        },
-        {
-          "title": "Physical AI Conference Comes to San Jose as Robotics & Autonomous AI Go Mainstream",
-          "link": "https://www.artificialintelligence-news.com/news/physical-ai-conference-comes-to-san-jose-as-robotics-autonomous-ai-go-mainstream/",
-          "date": "Wed, 13 May 2026 13:43:38 +0000"
-        },
-        {
-          "title": "JBS Dev: On imperfect data and the AI last mile \u2013 from model capability to cost sustainability",
-          "link": "https://www.artificialintelligence-news.com/news/jbs-dev-on-imperfect-data-and-the-ai-last-mile-from-model-capability-to-cost-sustainability/",
-          "date": "Tue, 12 May 2026 15:37:43 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -353,6 +327,11 @@
           "date": "2026-05-15T13:22:10+00:00"
         },
         {
+          "title": "Stanford studied 51 real AI deployments and found a 71% vs 40% productivity gap - here's what separates the two groups",
+          "link": "https://www.reddit.com/r/artificial/comments/1tebiq4/stanford_studied_51_real_ai_deployments_and_found/",
+          "date": "2026-05-15T22:37:32+00:00"
+        },
+        {
           "title": "The Trust\u2013Oversight Paradox: As AI Gets Better, Humans May Stop Really Overseeing It",
           "link": "https://www.reddit.com/r/artificial/comments/1te26qi/the_trustoversight_paradox_as_ai_gets_better/",
           "date": "2026-05-15T16:56:11+00:00"
@@ -366,11 +345,6 @@
           "title": "Anthropic just published a pretty alarming 2028 AI scenario paper and it's not about AGI safety in the usual sense",
           "link": "https://www.reddit.com/r/artificial/comments/1td99uw/anthropic_just_published_a_pretty_alarming_2028/",
           "date": "2026-05-14T19:53:12+00:00"
-        },
-        {
-          "title": "Greg Brockman Officially Takes Control of OpenAI\u2019s Products in Latest Shake-Up",
-          "link": "https://www.reddit.com/r/artificial/comments/1te8mon/greg_brockman_officially_takes_control_of_openais/",
-          "date": "2026-05-15T20:44:44+00:00"
         }
       ],
       "error": null
@@ -450,7 +424,7 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
-          "title": "Meta Employee Attacks Zuckerberg for Collecting Every Employee Keystroke: \u201cI Don\u2019t Want to Live in a World Where Humans \u2014 Employees or Otherwise \u2014 Are Exploited for Their Training Data\u201d",
+          "title": "Meta Employee Attacks Zuckerberg for Collecting Every Employee Keystroke",
           "link": "https://futurism.com/artificial-intelligence/meta-employee-attacks-zuckerberg-employee-data",
           "date": "Fri, 15 May 2026 13:53:24 -0400"
         },
