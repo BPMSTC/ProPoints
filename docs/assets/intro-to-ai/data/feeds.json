@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T13:16:10.717899+00:00",
+  "generatedAt": "2026-05-16T14:53:32.630331+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -220,8 +220,34 @@
     {
       "name": "Ai Prompt Programming",
       "url": "https://www.reddit.com/r/aipromptprogramming/.rss",
-      "items": [],
-      "error": "<unknown>:2:12: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Agentic Flow: Easily switch between low/no-cost AI models (OpenRouter/Onnx/Gemini) in Claude Code and Claude Agent SDK. Build agents in Claude Code, deploy them anywhere. >_ npx agentic-flow",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1nzvbsl/agentic_flow_easily_switch_between_lownocost_ai/",
+          "date": "2025-10-06T21:02:20+00:00"
+        },
+        {
+          "title": "I created an Agentic Coding Competition MCP for Cline/Claude-Code/Cursor/Co-pilot using E2B Sandboxes. I'm looking for some Beta Testers. > npx flow-nexus@latest",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1nc75k5/i_created_an_agentic_coding_competition_mcp_for/",
+          "date": "2025-09-09T02:25:04+00:00"
+        },
+        {
+          "title": "A Subquadratic sparse attention engine in pure Rust that runs LLMs on Raspberry Pi Zero, and Pi 5 without CUDA",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1t7b6ha/a_subquadratic_sparse_attention_engine_in_pure/",
+          "date": "2026-05-08T15:25:04+00:00"
+        },
+        {
+          "title": "AgentDB: Vector memory that gets smarter every time your agent uses it.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1t78wb7/agentdb_vector_memory_that_gets_smarter_every/",
+          "date": "2026-05-08T14:03:07+00:00"
+        },
+        {
+          "title": "Subquadratic Sparse Attention for Edge LLM Inference (7b LLM on Raspberry Pi 5 and 1b on Pi Zero)",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1t5z4n0/subquadratic_sparse_attention_for_edge_llm/",
+          "date": "2026-05-07T03:39:29+00:00"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI \u2013 SiliconANGLE",
@@ -320,8 +346,34 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
-      "error": "<unknown>:2:12: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Recent poll shows that 70% of Americans don't want AI data centers being built in their local area",
+          "link": "https://www.reddit.com/r/artificial/comments/1tdw8if/recent_poll_shows_that_70_of_americans_dont_want/",
+          "date": "2026-05-15T13:22:10+00:00"
+        },
+        {
+          "title": "Stanford studied 51 real AI deployments and found a 71% vs 40% productivity gap - here's what separates the two groups",
+          "link": "https://www.reddit.com/r/artificial/comments/1tebiq4/stanford_studied_51_real_ai_deployments_and_found/",
+          "date": "2026-05-15T22:37:32+00:00"
+        },
+        {
+          "title": "My professor uses an AI detector that flags literally everything. Here is how I finally beat it.",
+          "link": "https://www.reddit.com/r/artificial/comments/1tevp2m/my_professor_uses_an_ai_detector_that_flags/",
+          "date": "2026-05-16T14:46:35+00:00"
+        },
+        {
+          "title": "Tech's Push to Be the Next Public Utility",
+          "link": "https://www.reddit.com/r/artificial/comments/1tejpmh/techs_push_to_be_the_next_public_utility/",
+          "date": "2026-05-16T04:51:53+00:00"
+        },
+        {
+          "title": "Most enterprises are trying to scale AI on top of organizational chaos",
+          "link": "https://www.reddit.com/r/artificial/comments/1tevqds/most_enterprises_are_trying_to_scale_ai_on_top_of/",
+          "date": "2026-05-16T14:48:03+00:00"
+        }
+      ],
+      "error": null
     },
     {
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
@@ -398,6 +450,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Men Haven\u2019t Yet Noticed That a Large Number of Women Are Disgusted by AI",
+          "link": "https://futurism.com/artificial-intelligence/men-women-ai-relationships",
+          "date": "Sat, 16 May 2026 10:30:00 -0400"
+        },
+        {
           "title": "These Smart Glasses That Show Captions of What Everyone\u2019s Saying Without a Creepy Spy Camera Actually Seem Pretty Awesome",
           "link": "https://futurism.com/health-medicine/transcription-smart-glasses",
           "date": "Sat, 16 May 2026 08:15:00 -0400"
@@ -416,11 +473,6 @@
           "title": "Meta Employee Attacks Zuckerberg for Collecting Every Employee Keystroke",
           "link": "https://futurism.com/artificial-intelligence/meta-employee-attacks-zuckerberg-employee-data",
           "date": "Fri, 15 May 2026 13:53:24 -0400"
-        },
-        {
-          "title": "Devious Prankster Posts Real Monet Painting, Tells People It\u2019s AI-Generated, and Watches the Chaos Unfold",
-          "link": "https://futurism.com/artificial-intelligence/real-monet-ai-chaos",
-          "date": "Fri, 15 May 2026 12:57:32 -0400"
         }
       ],
       "error": null
