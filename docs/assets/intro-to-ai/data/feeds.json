@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T22:42:00.186379+00:00",
+  "generatedAt": "2026-05-16T23:50:16.642376+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "Deloitte: Scale \u2018autonomous intelligence\u2019 for real growth",
-          "link": "https://www.artificialintelligence-news.com/news/deloitte-scale-autonomous-intelligence-for-real-growth/",
-          "date": "Fri, 15 May 2026 15:02:00 +0000"
-        },
-        {
-          "title": "Physical AI moves closer to factory floors as companies test humanoid robots",
-          "link": "https://www.artificialintelligence-news.com/news/physical-ai-humanoid-robots-factories/",
-          "date": "Thu, 14 May 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Top real estate app development companies in the US: Abilities and costs",
-          "link": "https://www.artificialintelligence-news.com/news/top-real-estate-app-development-companies-in-the-us-abilities-and-costs/",
-          "date": "Thu, 14 May 2026 07:51:58 +0000"
-        },
-        {
-          "title": "Physical AI Conference Comes to San Jose as Robotics & Autonomous AI Go Mainstream",
-          "link": "https://www.artificialintelligence-news.com/news/physical-ai-conference-comes-to-san-jose-as-robotics-autonomous-ai-go-mainstream/",
-          "date": "Wed, 13 May 2026 13:43:38 +0000"
-        },
-        {
-          "title": "JBS Dev: On imperfect data and the AI last mile \u2013 from model capability to cost sustainability",
-          "link": "https://www.artificialintelligence-news.com/news/jbs-dev-on-imperfect-data-and-the-ai-last-mile-from-model-capability-to-cost-sustainability/",
-          "date": "Tue, 12 May 2026 15:37:43 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -363,14 +337,14 @@
           "date": "2026-05-15T13:22:10+00:00"
         },
         {
-          "title": "Your AI agent is one poisoned webpage away from doing something catastrophic",
-          "link": "https://www.reddit.com/r/artificial/comments/1tf7841/your_ai_agent_is_one_poisoned_webpage_away_from/",
-          "date": "2026-05-16T22:15:51+00:00"
-        },
-        {
           "title": "Tech's Push to Be the Next Public Utility",
           "link": "https://www.reddit.com/r/artificial/comments/1tejpmh/techs_push_to_be_the_next_public_utility/",
           "date": "2026-05-16T04:51:53+00:00"
+        },
+        {
+          "title": "Stanford studied 51 real AI deployments and found a 71% vs 40% productivity gap - here's what separates the two groups",
+          "link": "https://www.reddit.com/r/artificial/comments/1tebiq4/stanford_studied_51_real_ai_deployments_and_found/",
+          "date": "2026-05-15T22:37:32+00:00"
         }
       ],
       "error": null
