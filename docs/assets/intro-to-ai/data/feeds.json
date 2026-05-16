@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-05-16T11:00:27.988731+00:00",
+  "generatedAt": "2026-05-16T13:16:10.717899+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Scientists Discover Strange New Crystal Formed by Nuclear Blast",
+          "link": "https://www.404media.co/scientists-discover-strange-new-crystal-formed-by-nuclear-blast/",
+          "date": "Sat, 16 May 2026 13:00:34 GMT"
+        },
         {
           "title": "Tech Companies to Discuss Iran's Future During 'Private Conference' at Uber HQ",
           "link": "https://www.404media.co/tech-companies-to-discuss-irans-future-during-private-conference-at-uber-hq/",
@@ -24,11 +29,6 @@
           "title": "Mayo Clinic is Using AI to Listen to Emergency Room Visits",
           "link": "https://www.404media.co/mayo-clinic-is-using-ai-to-listen-to-emergency-room-visits/",
           "date": "Fri, 15 May 2026 13:00:08 GMT"
-        },
-        {
-          "title": "DOGE Cuts Unleashed a Deadly Wave of Violence Across Africa, Study Finds",
-          "link": "https://www.404media.co/doge-cuts-unleashed-a-deadly-wave-of-violence-across-africa-study-finds/",
-          "date": "Thu, 14 May 2026 18:00:56 GMT"
         }
       ],
       "error": null
@@ -37,6 +37,11 @@
       "name": "Ahead of AI",
       "url": "https://magazine.sebastianraschka.com/feed",
       "items": [
+        {
+          "title": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
+          "link": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+          "date": "Sat, 16 May 2026 11:33:51 GMT"
+        },
         {
           "title": "My Workflow for Understanding LLM Architectures",
           "link": "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
@@ -56,11 +61,6 @@
           "title": "A Dream of Spring for Open-Weight LLMs: 10 Architectures from Jan-Feb 2026",
           "link": "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
           "date": "Wed, 25 Feb 2026 13:26:56 GMT"
-        },
-        {
-          "title": "Categories of Inference-Time Scaling for Improved LLM Reasoning",
-          "link": "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
-          "date": "Sat, 24 Jan 2026 11:23:18 GMT"
         }
       ],
       "error": null
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "The US is betting on AI to catch insider trading in prediction markets",
+          "link": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/",
+          "date": "Sat, 16 May 2026 11:00:01 +0000"
+        },
+        {
           "title": "Russia pressures university students to become wartime drone pilots",
           "link": "https://arstechnica.com/gadgets/2026/05/russia-pressures-university-students-to-become-wartime-drone-pilots/",
           "date": "Fri, 15 May 2026 22:19:12 +0000"
@@ -305,14 +310,9 @@
           "date": "Fri, 15 May 2026 21:31:53 +0000"
         },
         {
-          "title": "Review: Good Omens finale sticks the landing",
+          "title": "Review: Good Omens finale (mostly) sticks the landing",
           "link": "https://arstechnica.com/culture/2026/05/review-chaotically-uneven-good-omens-finale-still-conjures-up-old-magic/",
           "date": "Fri, 15 May 2026 21:17:19 +0000"
-        },
-        {
-          "title": "Solar power production undercut by coal pollution",
-          "link": "https://arstechnica.com/science/2026/05/solar-power-production-undercut-by-coal-pollution/",
-          "date": "Fri, 15 May 2026 20:36:05 +0000"
         }
       ],
       "error": null
@@ -365,6 +365,11 @@
           "date": "Fri, 15 May 2026 16:56:01 GMT"
         },
         {
+          "title": "Pity the poor AI data centers facing \u2018discrimination\u2019 | Arwa Mahdawi",
+          "link": "https://www.theguardian.com/commentisfree/2026/may/16/pity-the-poor-ai-datacenters-facing-discrimination",
+          "date": "Sat, 16 May 2026 12:00:10 GMT"
+        },
+        {
           "title": "\u2018I didn\u2019t want to be the guinea pig\u2019: inside tech\u2019s AI-fueled manager purge",
           "link": "https://www.theguardian.com/technology/2026/may/15/ai-manager-purge-tech",
           "date": "Fri, 15 May 2026 11:34:24 GMT"
@@ -378,11 +383,6 @@
           "title": "Digital arson spree by \u2018AI Bonnie and Clyde\u2019 raises fears over autonomous tech",
           "link": "https://www.theguardian.com/technology/2026/may/14/ai-agents-behaviour-arson-safety",
           "date": "Thu, 14 May 2026 18:00:14 GMT"
-        },
-        {
-          "title": "The Elon Musk v Sam Altman battle is a distraction | Karen Hao",
-          "link": "https://www.theguardian.com/technology/commentisfree/2026/may/14/elon-musk-sam-altman-ai-feud",
-          "date": "Thu, 14 May 2026 11:00:24 GMT"
         }
       ],
       "error": null
@@ -398,6 +398,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "These Smart Glasses That Show Captions of What Everyone\u2019s Saying Without a Creepy Spy Camera Actually Seem Pretty Awesome",
+          "link": "https://futurism.com/health-medicine/transcription-smart-glasses",
+          "date": "Sat, 16 May 2026 08:15:00 -0400"
+        },
+        {
+          "title": "Programmer Breaks Out of the Matrix",
+          "link": "https://futurism.com/artificial-intelligence/programmer-breaks-matrix",
+          "date": "Sat, 16 May 2026 07:30:00 -0400"
+        },
+        {
           "title": "Residents Say Data Centers Are Radiating Bizarre Frequencies",
           "link": "https://futurism.com/science-energy/data-centers-noise-pollution-infrasound",
           "date": "Sat, 16 May 2026 06:45:00 -0400"
@@ -411,16 +421,6 @@
           "title": "Devious Prankster Posts Real Monet Painting, Tells People It\u2019s AI-Generated, and Watches the Chaos Unfold",
           "link": "https://futurism.com/artificial-intelligence/real-monet-ai-chaos",
           "date": "Fri, 15 May 2026 12:57:32 -0400"
-        },
-        {
-          "title": "AI Appears to Be Trapping Certain Job Applicants in a Limbo Where They Never Get an Interview for \u201cReasons\u201d That Are Completely Unfair",
-          "link": "https://futurism.com/artificial-intelligence/ai-job-applicant-limbo-cortex",
-          "date": "Fri, 15 May 2026 11:10:14 -0400"
-        },
-        {
-          "title": "If AI Causes a Mass Unemployment Crisis, Will the Public Explode Into Violence?",
-          "link": "https://futurism.com/artificial-intelligence/ai-mass-unemployement-violence",
-          "date": "Fri, 15 May 2026 08:48:46 -0400"
         }
       ],
       "error": null
