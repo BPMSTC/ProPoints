@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T11:03:19.072687+00:00",
+  "generatedAt": "2026-05-17T13:14:40.435018+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -316,6 +316,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "A revolutionary cancer treatment could transform autoimmune disease",
+          "link": "https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/",
+          "date": "Sun, 17 May 2026 11:00:14 +0000"
+        },
+        {
           "title": "The US is betting on AI to catch insider trading in prediction markets",
           "link": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/",
           "date": "Sat, 16 May 2026 11:00:01 +0000"
@@ -334,11 +339,6 @@
           "title": "US hantavirus case was false positive; outbreak cases drop from 11 to 10",
           "link": "https://arstechnica.com/health/2026/05/us-hantavirus-case-was-false-positive-outbreak-cases-drop-from-11-to-10/",
           "date": "Fri, 15 May 2026 21:31:53 +0000"
-        },
-        {
-          "title": "Review: Good Omens finale (mostly) sticks the landing",
-          "link": "https://arstechnica.com/culture/2026/05/review-chaotically-uneven-good-omens-finale-still-conjures-up-old-magic/",
-          "date": "Fri, 15 May 2026 21:17:19 +0000"
         }
       ],
       "error": null
@@ -347,6 +347,11 @@
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
+        {
+          "title": "A mini-computer you run from a folder on your computer that can train small LLMS",
+          "link": "https://www.reddit.com/r/artificial/comments/1tfm5ns/a_minicomputer_you_run_from_a_folder_on_your/",
+          "date": "2026-05-17T10:51:54+00:00"
+        },
         {
           "title": "THE UNDERPRIVILEGED AI FOUNDATION Because every little model deserves a chance",
           "link": "https://www.reddit.com/r/artificial/comments/1tfk4ry/the_underprivileged_ai_foundation_because_every/",
@@ -358,19 +363,14 @@
           "date": "2026-05-16T15:05:06+00:00"
         },
         {
-          "title": "A mini-computer you run from a folder on your computer that can train small LLMS",
-          "link": "https://www.reddit.com/r/artificial/comments/1tfm5ns/a_minicomputer_you_run_from_a_folder_on_your/",
-          "date": "2026-05-17T10:51:54+00:00"
-        },
-        {
           "title": "Most enterprises are trying to scale AI on top of organizational chaos",
           "link": "https://www.reddit.com/r/artificial/comments/1tevqds/most_enterprises_are_trying_to_scale_ai_on_top_of/",
           "date": "2026-05-16T14:48:03+00:00"
         },
         {
-          "title": "Recent poll shows that 70% of Americans don't want AI data centers being built in their local area",
-          "link": "https://www.reddit.com/r/artificial/comments/1tdw8if/recent_poll_shows_that_70_of_americans_dont_want/",
-          "date": "2026-05-15T13:22:10+00:00"
+          "title": "Making an AI companion that degrades over time",
+          "link": "https://www.reddit.com/r/artificial/comments/1texbv6/making_an_ai_companion_that_degrades_over_time/",
+          "date": "2026-05-16T15:49:06+00:00"
         }
       ],
       "error": null
