@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T17:58:43.525761+00:00",
+  "generatedAt": "2026-05-17T19:18:13.512170+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Deloitte: Scale \u2018autonomous intelligence\u2019 for real growth",
+          "link": "https://www.artificialintelligence-news.com/news/deloitte-scale-autonomous-intelligence-for-real-growth/",
+          "date": "Fri, 15 May 2026 15:02:00 +0000"
+        },
+        {
+          "title": "Physical AI moves closer to factory floors as companies test humanoid robots",
+          "link": "https://www.artificialintelligence-news.com/news/physical-ai-humanoid-robots-factories/",
+          "date": "Thu, 14 May 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Top real estate app development companies in the US: Abilities and costs",
+          "link": "https://www.artificialintelligence-news.com/news/top-real-estate-app-development-companies-in-the-us-abilities-and-costs/",
+          "date": "Thu, 14 May 2026 07:51:58 +0000"
+        },
+        {
+          "title": "Physical AI Conference Comes to San Jose as Robotics & Autonomous AI Go Mainstream",
+          "link": "https://www.artificialintelligence-news.com/news/physical-ai-conference-comes-to-san-jose-as-robotics-autonomous-ai-go-mainstream/",
+          "date": "Wed, 13 May 2026 13:43:38 +0000"
+        },
+        {
+          "title": "JBS Dev: On imperfect data and the AI last mile \u2013 from model capability to cost sustainability",
+          "link": "https://www.artificialintelligence-news.com/news/jbs-dev-on-imperfect-data-and-the-ai-last-mile-from-model-capability-to-cost-sustainability/",
+          "date": "Tue, 12 May 2026 15:37:43 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -322,14 +348,14 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "Tried to write a book with ai for a year - honest breakdown!!!",
-          "link": "https://www.reddit.com/r/artificial/comments/1tftc22/tried_to_write_a_book_with_ai_for_a_year_honest/",
-          "date": "2026-05-17T15:52:53+00:00"
-        },
-        {
           "title": "A mini-computer you run from a folder on your computer that can train small LLMS",
           "link": "https://www.reddit.com/r/artificial/comments/1tfm5ns/a_minicomputer_you_run_from_a_folder_on_your/",
           "date": "2026-05-17T10:51:54+00:00"
+        },
+        {
+          "title": "Tried to write a book with ai for a year - honest breakdown!!!",
+          "link": "https://www.reddit.com/r/artificial/comments/1tftc22/tried_to_write_a_book_with_ai_for_a_year_honest/",
+          "date": "2026-05-17T15:52:53+00:00"
         },
         {
           "title": "Publicis buys LiveRamp for $2.5 billion in agentic AI data play",
@@ -337,9 +363,9 @@
           "date": "2026-05-17T17:26:46+00:00"
         },
         {
-          "title": "ai slop? who knows~",
-          "link": "https://www.reddit.com/r/artificial/comments/1tfvruf/ai_slop_who_knows/",
-          "date": "2026-05-17T17:22:52+00:00"
+          "title": "Started Learning - DL, feels stuck need help!",
+          "link": "https://www.reddit.com/r/artificial/comments/1tfy65s/started_learning_dl_feels_stuck_need_help/",
+          "date": "2026-05-17T18:50:01+00:00"
         },
         {
           "title": "We keep saying AI \"understands\" things. Does it? Or are we just pattern-matching our own anthropomorphism?",
