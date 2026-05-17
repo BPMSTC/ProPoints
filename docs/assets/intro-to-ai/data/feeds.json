@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T16:58:12.556102+00:00",
+  "generatedAt": "2026-05-17T17:58:43.525761+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -332,19 +332,19 @@
           "date": "2026-05-17T10:51:54+00:00"
         },
         {
+          "title": "Publicis buys LiveRamp for $2.5 billion in agentic AI data play",
+          "link": "https://www.reddit.com/r/artificial/comments/1tfvvn3/publicis_buys_liveramp_for_25_billion_in_agentic/",
+          "date": "2026-05-17T17:26:46+00:00"
+        },
+        {
+          "title": "ai slop? who knows~",
+          "link": "https://www.reddit.com/r/artificial/comments/1tfvruf/ai_slop_who_knows/",
+          "date": "2026-05-17T17:22:52+00:00"
+        },
+        {
           "title": "We keep saying AI \"understands\" things. Does it? Or are we just pattern-matching our own anthropomorphism?",
           "link": "https://www.reddit.com/r/artificial/comments/1tew6gr/we_keep_saying_ai_understands_things_does_it_or/",
           "date": "2026-05-16T15:05:06+00:00"
-        },
-        {
-          "title": "THE UNDERPRIVILEGED AI FOUNDATION Because every little model deserves a chance",
-          "link": "https://www.reddit.com/r/artificial/comments/1tfk4ry/the_underprivileged_ai_foundation_because_every/",
-          "date": "2026-05-17T08:58:49+00:00"
-        },
-        {
-          "title": "Most enterprises are trying to scale AI on top of organizational chaos",
-          "link": "https://www.reddit.com/r/artificial/comments/1tevqds/most_enterprises_are_trying_to_scale_ai_on_top_of/",
-          "date": "2026-05-16T14:48:03+00:00"
         }
       ],
       "error": null
