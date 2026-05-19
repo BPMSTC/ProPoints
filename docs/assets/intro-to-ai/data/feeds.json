@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-05-19T12:06:29.039327+00:00",
+  "generatedAt": "2026-05-19T16:16:45.121877+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Lawyer for Guy Who Sued Women Who Called Him \u2018Psycho\u2019 Caught Using AI",
+          "link": "https://www.404media.co/are-we-dating-the-same-guy-lawsuit-ai-attorney-nikko-dambrosio/",
+          "date": "Tue, 19 May 2026 13:23:47 GMT"
+        },
         {
           "title": "The FBI Wants to Buy Nationwide Access to License Plate Readers",
           "link": "https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/",
@@ -24,11 +29,6 @@
           "title": "Scientists Discover Strange New Crystal Formed by Nuclear Blast",
           "link": "https://www.404media.co/scientists-discover-strange-new-crystal-formed-by-nuclear-blast/",
           "date": "Sat, 16 May 2026 13:00:34 GMT"
-        },
-        {
-          "title": "Tech Companies to Discuss Iran's Future During 'Private Conference' at Uber HQ",
-          "link": "https://www.404media.co/tech-companies-to-discuss-irans-future-during-private-conference-at-uber-hq/",
-          "date": "Fri, 15 May 2026 21:17:09 GMT"
         }
       ],
       "error": null
@@ -107,12 +107,27 @@
       "name": "AI Archives | KnowTechie",
       "url": "https://knowtechie.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1016)>"
+      "error": "text/html; charset=UTF-8 is not an XML media type"
     },
     {
       "name": "AI Business",
       "url": "https://aibusiness.com/rss.xml",
       "items": [
+        {
+          "title": "Sub-Sea AI Data Center is Operating in China",
+          "link": "https://aibusiness.com/data-centers/sub-sea-ai-data-center-operating-in-china",
+          "date": "Tue, 19 May 2026 15:04:59 GMT"
+        },
+        {
+          "title": "Stellantis, Accenture, Nvidia to Accelerate AI-Driven Auto Production",
+          "link": "https://aibusiness.com/generative-ai/stellantis-accenture-nvidia-accelerate-ai-driven-car-production",
+          "date": "Tue, 19 May 2026 13:32:31 GMT"
+        },
+        {
+          "title": "How Dataminr Kept the Human in the Loop",
+          "link": "https://aibusiness.com/generative-ai/how-dataminr-kept-the-human-in-the-loop",
+          "date": "Tue, 19 May 2026 11:56:36 GMT"
+        },
         {
           "title": "Jury Ruling in Musk Lawsuit Favors OpenAI",
           "link": "https://aibusiness.com/generative-ai/jury-ruling-in-musk-lawsuit-favors-openai",
@@ -122,21 +137,6 @@
           "title": "Humanoid, Schaeffler to Bring Thousands of Robots to Factories",
           "link": "https://aibusiness.com/robotics/humanoid-schaeffler-bring-thousands-robots-to-factories",
           "date": "Mon, 18 May 2026 14:35:44 GMT"
-        },
-        {
-          "title": "Musk\u2019s xAI Launches Grok Build to Take on Claude Code, Codex",
-          "link": "https://aibusiness.com/generative-ai/musk-s-xai-launches-grok-build-take-claude-code-codex",
-          "date": "Mon, 18 May 2026 13:50:52 GMT"
-        },
-        {
-          "title": "Prompt: The More Operational AI Becomes, the Bigger the Security Challenge",
-          "link": "https://aibusiness.com/generative-ai/the-more-operational-ai-becomes-bigger-security-challenge",
-          "date": "Fri, 15 May 2026 15:45:28 GMT"
-        },
-        {
-          "title": "Cerebras Must Overcome Obstacles to Maintain IPO Value",
-          "link": "https://aibusiness.com/generative-ai/cerebras-must-overcome-obstacles-maintain-ipo-value",
-          "date": "Fri, 15 May 2026 15:24:59 GMT"
         }
       ],
       "error": null
@@ -316,6 +316,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Electrical utility megamerger is all about the data centers",
+          "link": "https://arstechnica.com/tech-policy/2026/05/electrical-utility-megamerger-is-all-about-the-data-centers/",
+          "date": "Tue, 19 May 2026 13:45:31 +0000"
+        },
+        {
+          "title": "In addition to space stations, Vast says it will now build high-power satellites",
+          "link": "https://arstechnica.com/space/2026/05/vast-space-seeks-to-diversify-by-building-satellites-as-well-as-space-stations/",
+          "date": "Tue, 19 May 2026 13:00:45 +0000"
+        },
+        {
+          "title": "Iran demands Big Tech pay fees for undersea Internet cables in Strait of Hormuz",
+          "link": "https://arstechnica.com/tech-policy/2026/05/iran-demands-big-tech-pay-fees-for-undersea-internet-cables-in-strait-of-hormuz/",
+          "date": "Tue, 19 May 2026 11:00:49 +0000"
+        },
+        {
           "title": "Ebola outbreak: WHO declares emergency, US restricts travel, American infected",
           "link": "https://arstechnica.com/health/2026/05/ebola-outbreak-who-declares-emergency-us-restricts-travel-american-infected/",
           "date": "Mon, 18 May 2026 20:41:14 +0000"
@@ -324,21 +339,6 @@
           "title": "Legal fail: Don\u2019t use AI to sue Facebook users for calling you a bad date",
           "link": "https://arstechnica.com/tech-policy/2026/05/legal-fail-dont-use-ai-to-sue-facebook-users-for-calling-you-a-bad-date/",
           "date": "Mon, 18 May 2026 20:27:15 +0000"
-        },
-        {
-          "title": "One Mars spacecraft, two senators, and a cloud of questions",
-          "link": "https://arstechnica.com/space/2026/05/one-mars-spacecraft-two-senators-and-a-cloud-of-questions/",
-          "date": "Mon, 18 May 2026 19:49:00 +0000"
-        },
-        {
-          "title": "Australian Aboriginals cared for a dingo's grave for decades",
-          "link": "https://arstechnica.com/science/2026/05/1000-year-old-burial-reveals-close-bonds-between-people-and-dingoes/",
-          "date": "Mon, 18 May 2026 18:37:55 +0000"
-        },
-        {
-          "title": "Elon Musk took too long to sue OpenAI, jury unanimously agrees",
-          "link": "https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/",
-          "date": "Mon, 18 May 2026 18:09:41 +0000"
         }
       ],
       "error": null
@@ -353,6 +353,11 @@
           "date": "2026-05-18T18:04:33+00:00"
         },
         {
+          "title": "Meta Made $56B in Q1 and Is Still Firing 8,000 People to Pay for AI",
+          "link": "https://www.reddit.com/r/artificial/comments/1thq6cn/meta_made_56b_in_q1_and_is_still_firing_8000/",
+          "date": "2026-05-19T15:21:28+00:00"
+        },
+        {
           "title": "Checkout this Explainer Video, Made in under $1 with Claude Design + Eleven Labs",
           "link": "https://www.reddit.com/r/artificial/comments/1thf55q/checkout_this_explainer_video_made_in_under_1/",
           "date": "2026-05-19T07:07:53+00:00"
@@ -363,14 +368,9 @@
           "date": "2026-05-18T21:52:59+00:00"
         },
         {
-          "title": "The next big challenge for AI agents might not be intelligence, but trust",
-          "link": "https://www.reddit.com/r/artificial/comments/1thipmj/the_next_big_challenge_for_ai_agents_might_not_be/",
-          "date": "2026-05-19T10:24:55+00:00"
-        },
-        {
-          "title": "Cloudflare just published what they found after running Anthropic's Mythos Preview against 50+ of their own repos and the results are worth reading",
-          "link": "https://www.reddit.com/r/artificial/comments/1tgy0j4/cloudflare_just_published_what_they_found_after/",
-          "date": "2026-05-18T19:20:02+00:00"
+          "title": "Are AI agents actually becoming productive, or just more capable?",
+          "link": "https://www.reddit.com/r/artificial/comments/1thnkez/are_ai_agents_actually_becoming_productive_or/",
+          "date": "2026-05-19T13:48:57+00:00"
         }
       ],
       "error": null
@@ -380,6 +380,21 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Fears of helping the enemy are blocking international agreements on AI in weapons systems",
+          "link": "https://theconversation.com/fears-of-helping-the-enemy-are-blocking-international-agreements-on-ai-in-weapons-systems-282160",
+          "date": "2026-05-19T15:43:43Z"
+        },
+        {
+          "title": "Six tech-free tips from history for designing your garden",
+          "link": "https://theconversation.com/six-tech-free-tips-from-history-for-designing-your-garden-283008",
+          "date": "2026-05-19T14:50:47Z"
+        },
+        {
+          "title": "AI interviewers can\u2019t connect with people the way human researchers can \u2013 they can produce only data, not meaning",
+          "link": "https://theconversation.com/ai-interviewers-cant-connect-with-people-the-way-human-researchers-can-they-can-produce-only-data-not-meaning-279437",
+          "date": "2026-05-19T12:24:56Z"
+        },
+        {
           "title": "Elon Musk sued OpenAI and lost. But the core question of the case remains unanswered",
           "link": "https://theconversation.com/elon-musk-sued-openai-and-lost-but-the-core-question-of-the-case-remains-unanswered-283256",
           "date": "2026-05-19T06:34:23Z"
@@ -388,21 +403,6 @@
           "title": "Can you trademark identity? The new legal strategy celebrities are using against AI",
           "link": "https://theconversation.com/can-you-trademark-identity-the-new-legal-strategy-celebrities-are-using-against-ai-282976",
           "date": "2026-05-19T05:17:06Z"
-        },
-        {
-          "title": "A key science publishing platform is cracking down on AI slop",
-          "link": "https://theconversation.com/a-key-science-publishing-platform-is-cracking-down-on-ai-slop-283136",
-          "date": "2026-05-18T20:08:48Z"
-        },
-        {
-          "title": "Most mainstream films already use AI. The new Oscars rules won\u2019t stop that",
-          "link": "https://theconversation.com/most-mainstream-films-already-use-ai-the-new-oscars-rules-wont-stop-that-282598",
-          "date": "2026-05-18T20:08:34Z"
-        },
-        {
-          "title": "Uncovering coded antisemitism online takes both human expertise and AI automation",
-          "link": "https://theconversation.com/uncovering-coded-antisemitism-online-takes-both-human-expertise-and-ai-automation-272150",
-          "date": "2026-05-18T12:21:48Z"
         }
       ],
       "error": null
@@ -417,6 +417,16 @@
           "date": "Mon, 18 May 2026 23:01:00 GMT"
         },
         {
+          "title": "What are Samsung union workers demanding and how might a strike play out?",
+          "link": "https://www.theguardian.com/technology/2026/may/19/samsung-union-strike-explained",
+          "date": "Tue, 19 May 2026 16:05:26 GMT"
+        },
+        {
+          "title": "Musk v Altman: tech bros at war over OpenAI \u2013 The Latest",
+          "link": "https://www.theguardian.com/technology/audio/2026/may/19/musk-v-altman-tech-bros-at-war-over-openai-the-latest",
+          "date": "Tue, 19 May 2026 16:01:43 GMT"
+        },
+        {
           "title": "Billionaires are trying to lull us into AI complacency. Don\u2019t let them | Steven Greenhouse",
           "link": "https://www.theguardian.com/commentisfree/2026/may/19/billionaires-ai-complacency-resistance",
           "date": "Tue, 19 May 2026 12:00:03 GMT"
@@ -425,16 +435,6 @@
           "title": "Who\u2019s behind the Facebook page posting hateful AI slop about the UK? The answer might lie in south Asia | Niamh McIntyre",
           "link": "https://www.theguardian.com/commentisfree/2026/may/19/social-media-facebook-ai-slop-hateful-south-asia",
           "date": "Tue, 19 May 2026 10:40:27 GMT"
-        },
-        {
-          "title": "Standard Chartered to cut more than 7,000 jobs as it steps up AI use",
-          "link": "https://www.theguardian.com/business/2026/may/19/standard-chartered-bank-cut-jobs-ai-london",
-          "date": "Tue, 19 May 2026 09:57:06 GMT"
-        },
-        {
-          "title": "Pocock urges CGT changes as Albanese laughs off AI meme campaign",
-          "link": "https://www.theguardian.com/australia-news/2026/may/19/australia-federal-budget-responses-albanese-ai-memes-david-pocock-warning",
-          "date": "Tue, 19 May 2026 08:23:33 GMT"
         }
       ],
       "error": null
@@ -476,6 +476,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Students Boo and Jeer as AI Name-Reader Flops Spectacularly at College Graduation Ceremony",
+          "link": "https://futurism.com/artificial-intelligence/ai-name-reader-flops-college-graduation",
+          "date": "Tue, 19 May 2026 12:04:36 -0400"
+        },
+        {
           "title": "Sports Illustrated Just Deleted Every Article by One of Its Writers After Accusation of AI Plagiarism",
           "link": "https://futurism.com/artificial-intelligence/sports-illustrated-deletes-author-accusation-ai-plagiarism",
           "date": "Mon, 18 May 2026 18:04:53 -0400"
@@ -494,11 +499,6 @@
           "title": "People Are Getting Plastic Surgery to Look More AI-Generated",
           "link": "https://futurism.com/artificial-intelligence/plastic-surgery-ai",
           "date": "Mon, 18 May 2026 13:15:03 -0400"
-        },
-        {
-          "title": "Grade Inflation Is Going Nuts as Every Student Is Basically Submitting the Same Essay",
-          "link": "https://futurism.com/artificial-intelligence/grade-inflation-ai",
-          "date": "Mon, 18 May 2026 11:10:10 -0400"
         }
       ],
       "error": null
@@ -507,6 +507,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Former OpenAI Staffers Warn That xAI\u2019s Poor Safety Record Could Complicate SpaceX\u2019s IPO",
+          "link": "https://www.wired.com/story/ex-openai-staffers-warn-spacex-investors-of-ai-safety-risks/",
+          "date": "Tue, 19 May 2026 15:00:28 +0000"
+        },
         {
           "title": "Tom Steyer Wants to Save California From Billionaires. But Also Doesn\u2019t Want Them to Leave",
           "link": "https://www.wired.com/story/the-big-interview-podcast-tom-steyer/",
@@ -526,11 +531,6 @@
           "title": "Some Asexuals Are Using AI Companions for Intimacy Without the Sex",
           "link": "https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/",
           "date": "Sat, 16 May 2026 09:30:00 +0000"
-        },
-        {
-          "title": "Greg Brockman Officially Takes Control of OpenAI\u2019s Products in Latest Shake-Up",
-          "link": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
-          "date": "Fri, 15 May 2026 17:09:17 +0000"
         }
       ],
       "error": null
