@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-05-19T16:16:45.121877+00:00",
+  "generatedAt": "2026-05-19T18:57:41.175492+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Streamer Realtime Deepfakes Himself into Mr. Beast, Says He Loves 'Touching Little Boys'",
+          "link": "https://www.404media.co/streamer-realtime-deepfakes-himself-into-mr-beast-says-he-loves-touching-little-boys/",
+          "date": "Tue, 19 May 2026 17:48:18 GMT"
+        },
         {
           "title": "Lawyer for Guy Who Sued Women Who Called Him \u2018Psycho\u2019 Caught Using AI",
           "link": "https://www.404media.co/are-we-dating-the-same-guy-lawsuit-ai-attorney-nikko-dambrosio/",
@@ -24,11 +29,6 @@
           "title": "Researchers Wanted Preschool Teachers to Wear Cameras to Train AI",
           "link": "https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai/",
           "date": "Mon, 18 May 2026 13:17:44 GMT"
-        },
-        {
-          "title": "Scientists Discover Strange New Crystal Formed by Nuclear Blast",
-          "link": "https://www.404media.co/scientists-discover-strange-new-crystal-formed-by-nuclear-blast/",
-          "date": "Sat, 16 May 2026 13:00:34 GMT"
         }
       ],
       "error": null
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Blackstone to Invest $5B in AI Cloud Company Using Google TPUs",
+          "link": "https://aibusiness.com/data-centers/blackstone-invest-5b-ai-cloud-company-using-google-tpus",
+          "date": "Tue, 19 May 2026 16:37:28 GMT"
+        },
+        {
           "title": "Sub-Sea AI Data Center is Operating in China",
           "link": "https://aibusiness.com/data-centers/sub-sea-ai-data-center-operating-in-china",
           "date": "Tue, 19 May 2026 15:04:59 GMT"
@@ -132,11 +137,6 @@
           "title": "Jury Ruling in Musk Lawsuit Favors OpenAI",
           "link": "https://aibusiness.com/generative-ai/jury-ruling-in-musk-lawsuit-favors-openai",
           "date": "Mon, 18 May 2026 23:34:38 GMT"
-        },
-        {
-          "title": "Humanoid, Schaeffler to Bring Thousands of Robots to Factories",
-          "link": "https://aibusiness.com/robotics/humanoid-schaeffler-bring-thousands-robots-to-factories",
-          "date": "Mon, 18 May 2026 14:35:44 GMT"
         }
       ],
       "error": null
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "The Nvidia H200 China deal survived the Trump-Xi summit\u2013just not in the way anyone expected",
-          "link": "https://www.artificialintelligence-news.com/news/nvidia-h200-china-deal-stalled-trump-xi-summit-2026/",
-          "date": "Tue, 19 May 2026 10:00:00 +0000"
-        },
-        {
-          "title": "AI is a matter of power, infrastructure and security: TechEx North America",
-          "link": "https://www.artificialintelligence-news.com/news/techex-north-america-day-one-lessons-for-all-around-ai-and-more/",
-          "date": "Tue, 19 May 2026 01:36:26 +0000"
-        },
-        {
-          "title": "Amazon launches Alexa for Shopping as Rufus moves behind the scenes",
-          "link": "https://www.artificialintelligence-news.com/news/amazon-alexa-for-shopping-rufus-ai-assistant/",
-          "date": "Mon, 18 May 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Deloitte: Scale \u2018autonomous intelligence\u2019 for real growth",
-          "link": "https://www.artificialintelligence-news.com/news/deloitte-scale-autonomous-intelligence-for-real-growth/",
-          "date": "Fri, 15 May 2026 15:02:00 +0000"
-        },
-        {
-          "title": "Physical AI moves closer to factory floors as companies test humanoid robots",
-          "link": "https://www.artificialintelligence-news.com/news/physical-ai-humanoid-robots-factories/",
-          "date": "Thu, 14 May 2026 10:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -316,29 +290,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Electrical utility megamerger is all about the data centers",
-          "link": "https://arstechnica.com/tech-policy/2026/05/electrical-utility-megamerger-is-all-about-the-data-centers/",
-          "date": "Tue, 19 May 2026 13:45:31 +0000"
+          "title": "RFK Jr. forced to withdraw charter that opened CDC panel to anti-vaccine quacks",
+          "link": "https://arstechnica.com/health/2026/05/rfk-jr-forced-to-withdraw-charter-that-opened-cdc-panel-to-anti-vaccine-quacks/",
+          "date": "Tue, 19 May 2026 18:17:54 +0000"
         },
         {
-          "title": "In addition to space stations, Vast says it will now build high-power satellites",
-          "link": "https://arstechnica.com/space/2026/05/vast-space-seeks-to-diversify-by-building-satellites-as-well-as-space-stations/",
-          "date": "Tue, 19 May 2026 13:00:45 +0000"
+          "title": "Google announces agent-optimized Gemini 3.5.Flash and a do-anything model called Omni",
+          "link": "https://arstechnica.com/google/2026/05/google-announces-agent-optimized-gemini-3-5-flash-and-a-do-anything-model-called-omni/",
+          "date": "Tue, 19 May 2026 18:11:50 +0000"
         },
         {
-          "title": "Iran demands Big Tech pay fees for undersea Internet cables in Strait of Hormuz",
-          "link": "https://arstechnica.com/tech-policy/2026/05/iran-demands-big-tech-pay-fees-for-undersea-internet-cables-in-strait-of-hormuz/",
-          "date": "Tue, 19 May 2026 11:00:49 +0000"
+          "title": "The era of 1,000 Hz gaming monitors has arrived, but why?",
+          "link": "https://arstechnica.com/gaming/2026/05/you-probably-dont-need-a-1000-hz-gaming-monitor/",
+          "date": "Tue, 19 May 2026 16:26:56 +0000"
         },
         {
-          "title": "Ebola outbreak: WHO declares emergency, US restricts travel, American infected",
-          "link": "https://arstechnica.com/health/2026/05/ebola-outbreak-who-declares-emergency-us-restricts-travel-american-infected/",
-          "date": "Mon, 18 May 2026 20:41:14 +0000"
+          "title": "EV drivers will pay $130 a year under Congress' 2026 transportation bill",
+          "link": "https://arstechnica.com/cars/2026/05/bipartisan-bill-in-congress-includes-130-annual-ev-registration-fee/",
+          "date": "Tue, 19 May 2026 16:12:01 +0000"
         },
         {
-          "title": "Legal fail: Don\u2019t use AI to sue Facebook users for calling you a bad date",
-          "link": "https://arstechnica.com/tech-policy/2026/05/legal-fail-dont-use-ai-to-sue-facebook-users-for-calling-you-a-bad-date/",
-          "date": "Mon, 18 May 2026 20:27:15 +0000"
+          "title": "Civilization VII finally lets you build a civ that stands the test of time",
+          "link": "https://arstechnica.com/gaming/2026/05/civilization-vii-finally-lets-you-build-a-civilization-that-stands-the-test-of-time/",
+          "date": "Tue, 19 May 2026 16:00:01 +0000"
         }
       ],
       "error": null
@@ -348,9 +322,19 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "Jury rules against Elon Musk in his feud with OpenAI, saying he filed his lawsuit too late",
-          "link": "https://www.reddit.com/r/artificial/comments/1tgv85s/jury_rules_against_elon_musk_in_his_feud_with/",
-          "date": "2026-05-18T18:04:33+00:00"
+          "title": "I think people are underestimating how quickly AI-generated content will blend in online",
+          "link": "https://www.reddit.com/r/artificial/comments/1thrz6z/i_think_people_are_underestimating_how_quickly/",
+          "date": "2026-05-19T16:23:04+00:00"
+        },
+        {
+          "title": "Give back my em-dashes!",
+          "link": "https://www.reddit.com/r/artificial/comments/1thvyif/give_back_my_emdashes/",
+          "date": "2026-05-19T18:35:40+00:00"
+        },
+        {
+          "title": "Book on Truth in the Age of A.I. Contains Quotes Made Up by A.I.",
+          "link": "https://www.reddit.com/r/artificial/comments/1thtite/book_on_truth_in_the_age_of_ai_contains_quotes/",
+          "date": "2026-05-19T17:15:28+00:00"
         },
         {
           "title": "Meta Made $56B in Q1 and Is Still Firing 8,000 People to Pay for AI",
@@ -358,19 +342,9 @@
           "date": "2026-05-19T15:21:28+00:00"
         },
         {
-          "title": "Checkout this Explainer Video, Made in under $1 with Claude Design + Eleven Labs",
-          "link": "https://www.reddit.com/r/artificial/comments/1thf55q/checkout_this_explainer_video_made_in_under_1/",
-          "date": "2026-05-19T07:07:53+00:00"
-        },
-        {
-          "title": "What's the most useful thing an LLM does for you that isn't writing or coding?",
-          "link": "https://www.reddit.com/r/artificial/comments/1th2m6p/whats_the_most_useful_thing_an_llm_does_for_you/",
-          "date": "2026-05-18T21:52:59+00:00"
-        },
-        {
-          "title": "Are AI agents actually becoming productive, or just more capable?",
-          "link": "https://www.reddit.com/r/artificial/comments/1thnkez/are_ai_agents_actually_becoming_productive_or/",
-          "date": "2026-05-19T13:48:57+00:00"
+          "title": "Google just dropped Gemini 3.5 Flash",
+          "link": "https://www.reddit.com/r/artificial/comments/1thuxcj/google_just_dropped_gemini_35_flash/",
+          "date": "2026-05-19T18:01:45+00:00"
         }
       ],
       "error": null
@@ -417,24 +391,24 @@
           "date": "Mon, 18 May 2026 23:01:00 GMT"
         },
         {
-          "title": "What are Samsung union workers demanding and how might a strike play out?",
-          "link": "https://www.theguardian.com/technology/2026/may/19/samsung-union-strike-explained",
-          "date": "Tue, 19 May 2026 16:05:26 GMT"
+          "title": "Meta is rapidly reorganizing its workers\u2019 jobs around AI: \u2018Transfers aren\u2019t optional\u2019",
+          "link": "https://www.theguardian.com/technology/2026/may/19/meta-jobs-ai-transfers",
+          "date": "Tue, 19 May 2026 17:51:53 GMT"
+        },
+        {
+          "title": "Dangers of putting pupils\u2019 images on school websites | Letters",
+          "link": "https://www.theguardian.com/technology/2026/may/19/dangers-of-putting-pupils-images-on-school-websites",
+          "date": "Tue, 19 May 2026 16:49:33 GMT"
         },
         {
           "title": "Musk v Altman: tech bros at war over OpenAI \u2013 The Latest",
-          "link": "https://www.theguardian.com/technology/audio/2026/may/19/musk-v-altman-tech-bros-at-war-over-openai-the-latest",
-          "date": "Tue, 19 May 2026 16:01:43 GMT"
+          "link": "https://www.theguardian.com/news/video/2026/may/19/musk-v-altman-tech-bros-at-war-over-openai-the-latest",
+          "date": "Tue, 19 May 2026 16:27:23 GMT"
         },
         {
-          "title": "Billionaires are trying to lull us into AI complacency. Don\u2019t let them | Steven Greenhouse",
-          "link": "https://www.theguardian.com/commentisfree/2026/may/19/billionaires-ai-complacency-resistance",
-          "date": "Tue, 19 May 2026 12:00:03 GMT"
-        },
-        {
-          "title": "Who\u2019s behind the Facebook page posting hateful AI slop about the UK? The answer might lie in south Asia | Niamh McIntyre",
-          "link": "https://www.theguardian.com/commentisfree/2026/may/19/social-media-facebook-ai-slop-hateful-south-asia",
-          "date": "Tue, 19 May 2026 10:40:27 GMT"
+          "title": "What are Samsung union workers demanding and how might a strike play out?",
+          "link": "https://www.theguardian.com/technology/2026/may/19/samsung-union-strike-explained",
+          "date": "Tue, 19 May 2026 16:05:26 GMT"
         }
       ],
       "error": null
@@ -476,6 +450,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Book About AI\u2019s Effects on the \u201cFuture of Truth\u201d Found to Contain Slew of AI-Hallucinated Quotations",
+          "link": "https://futurism.com/artificial-intelligence/book-ai-truth-ai-hallucinated-quotes",
+          "date": "Tue, 19 May 2026 13:53:29 -0400"
+        },
+        {
+          "title": "Elon Musk Compares His Work to Miracles Performed by Jesus Christ",
+          "link": "https://futurism.com/future-society/elon-musk-compares-jesus",
+          "date": "Tue, 19 May 2026 13:05:45 -0400"
+        },
+        {
           "title": "Students Boo and Jeer as AI Name-Reader Flops Spectacularly at College Graduation Ceremony",
           "link": "https://futurism.com/artificial-intelligence/ai-name-reader-flops-college-graduation",
           "date": "Tue, 19 May 2026 12:04:36 -0400"
@@ -489,16 +473,6 @@
           "title": "Parents Explode in Fury at School\u2019s Plan to Constantly Film Their Children to Train AI",
           "link": "https://futurism.com/artificial-intelligence/parents-fury-film-children-ai",
           "date": "Mon, 18 May 2026 15:01:00 -0400"
-        },
-        {
-          "title": "AI CEOs Baffled by Hatred of Their Technology",
-          "link": "https://futurism.com/artificial-intelligence/ai-ceos-baffled-hatred",
-          "date": "Mon, 18 May 2026 14:01:00 -0400"
-        },
-        {
-          "title": "People Are Getting Plastic Surgery to Look More AI-Generated",
-          "link": "https://futurism.com/artificial-intelligence/plastic-surgery-ai",
-          "date": "Mon, 18 May 2026 13:15:03 -0400"
         }
       ],
       "error": null
@@ -508,29 +482,29 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Demis Hassabis Thinks AI Job Cuts Are Dumb",
+          "link": "https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/",
+          "date": "Tue, 19 May 2026 17:45:00 +0000"
+        },
+        {
+          "title": "Google Search Goes Agentic\u2014and Doesn\u2019t Need You Anymore",
+          "link": "https://www.wired.com/story/google-search-goes-agentic-and-doesnt-need-you-anymore/",
+          "date": "Tue, 19 May 2026 17:45:00 +0000"
+        },
+        {
+          "title": "Google Makes It Easy to Deepfake Yourself",
+          "link": "https://www.wired.com/story/google-makes-it-easy-to-make-a-deepfake-of-yourself/",
+          "date": "Tue, 19 May 2026 17:45:00 +0000"
+        },
+        {
+          "title": "Gemini Spark Is Google\u2019s Response to OpenClaw\u2019s 24/7 AI Agent",
+          "link": "https://www.wired.com/story/googles-response-to-openclaws-24-7-ai-agent/",
+          "date": "Tue, 19 May 2026 17:45:00 +0000"
+        },
+        {
           "title": "Former OpenAI Staffers Warn That xAI\u2019s Poor Safety Record Could Complicate SpaceX\u2019s IPO",
           "link": "https://www.wired.com/story/ex-openai-staffers-warn-spacex-investors-of-ai-safety-risks/",
           "date": "Tue, 19 May 2026 15:00:28 +0000"
-        },
-        {
-          "title": "Tom Steyer Wants to Save California From Billionaires. But Also Doesn\u2019t Want Them to Leave",
-          "link": "https://www.wired.com/story/the-big-interview-podcast-tom-steyer/",
-          "date": "Tue, 19 May 2026 10:30:00 +0000"
-        },
-        {
-          "title": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
-          "link": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
-          "date": "Mon, 18 May 2026 17:40:30 +0000"
-        },
-        {
-          "title": "I\u2019m a Normie. Can Normies Really Vibe Code?",
-          "link": "https://www.wired.com/story/normie-vibe-code/",
-          "date": "Mon, 18 May 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Some Asexuals Are Using AI Companions for Intimacy Without the Sex",
-          "link": "https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/",
-          "date": "Sat, 16 May 2026 09:30:00 +0000"
         }
       ],
       "error": null
