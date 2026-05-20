@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T19:22:21.332698+00:00",
+  "generatedAt": "2026-05-20T21:49:45.790250+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -309,36 +309,36 @@
       "name": "Announcements - Stability AI",
       "url": "https://stability.ai/blog?format=rss",
       "items": [],
-      "error": null
+      "error": "<unknown>:2:0: syntax error"
     },
     {
       "name": "Ars Technica - All content",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Buckle up: Google is set to remake search with agentic AI in 2026",
-          "link": "https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/",
-          "date": "Wed, 20 May 2026 17:31:04 +0000"
+          "title": "Masters of the Universe final trailer brings the '80s nostalgia",
+          "link": "https://arstechnica.com/culture/2026/05/masters-of-the-universe-final-trailer-brings-the-80s-nostalgia/",
+          "date": "Wed, 20 May 2026 20:29:39 +0000"
         },
         {
-          "title": "Man jailed for posting Trump meme wins $835,000 settlement",
-          "link": "https://arstechnica.com/tech-policy/2026/05/man-wins-835k-after-sheriff-jailed-him-for-a-month-over-charlie-kirk-post/",
-          "date": "Wed, 20 May 2026 14:50:40 +0000"
+          "title": "Leaving the V8 in the past: The all-electric Mercedes-AMG GT 4-Door",
+          "link": "https://arstechnica.com/cars/2026/05/leaving-the-v8-in-the-past-the-all-electric-mercedes-amg-gt-4-door/",
+          "date": "Wed, 20 May 2026 19:53:34 +0000"
         },
         {
-          "title": "Russia's plan to advertise on rockets and spacecraft takes off",
-          "link": "https://arstechnica.com/space/2026/05/russias-plan-to-advertise-on-rockets-and-spacecraft-takes-off/",
-          "date": "Wed, 20 May 2026 14:28:57 +0000"
+          "title": "\"Ryzen 5800X3D 10th Anniversary Edition\" may help you avoid paying for a new PC",
+          "link": "https://arstechnica.com/gadgets/2026/05/amd-reportedly-plans-ryzen-5800x3d-re-release-for-upgraders-on-a-budget/",
+          "date": "Wed, 20 May 2026 19:19:44 +0000"
         },
         {
-          "title": "Yearslong fight over users' right to tweak smart TV software heads to trial",
-          "link": "https://arstechnica.com/gadgets/2026/05/inside-the-fight-to-force-vizio-to-share-linux-based-source-code-for-its-tvs-os/",
-          "date": "Wed, 20 May 2026 13:32:49 +0000"
+          "title": "Google publishes exploit code threatening millions of Chromium users",
+          "link": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
+          "date": "Wed, 20 May 2026 19:10:36 +0000"
         },
         {
-          "title": "China banned RTX 5090D V2 while Nvidia CEO Jensen Huang was visiting",
-          "link": "https://arstechnica.com/tech-policy/2026/05/china-banned-rtx-5090d-v2-while-nvidia-ceo-jensen-huang-was-visiting/",
-          "date": "Wed, 20 May 2026 13:10:15 +0000"
+          "title": "Trump wants $1B to protect White House ballroom from drones and other threats",
+          "link": "https://arstechnica.com/tech-policy/2026/05/trump-wants-1b-to-protect-white-house-ballroom-from-drones-and-other-threats/",
+          "date": "Wed, 20 May 2026 18:59:52 +0000"
         }
       ],
       "error": null
@@ -348,14 +348,14 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
+          "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+          "link": "https://www.reddit.com/r/artificial/comments/1tixhbv/an_openai_model_has_disproved_a_central/",
+          "date": "2026-05-20T20:13:10+00:00"
+        },
+        {
           "title": "\u201cAI vs Creativity\u201d from a pro-AI greedy corpo",
           "link": "https://www.reddit.com/r/artificial/comments/1ti5pq7/ai_vs_creativity_from_a_proai_greedy_corpo/",
           "date": "2026-05-20T00:37:19+00:00"
-        },
-        {
-          "title": "Google I/O 2026 confirms AI companies are creating their own bubble narrative",
-          "link": "https://www.reddit.com/r/artificial/comments/1tif4el/google_io_2026_confirms_ai_companies_are_creating/",
-          "date": "2026-05-20T08:12:44+00:00"
         },
         {
           "title": "sales pitch of the last 3 years, summarized",
@@ -363,14 +363,14 @@
           "date": "2026-05-20T18:00:46+00:00"
         },
         {
+          "title": "Google I/O 2026 confirms AI companies are creating their own bubble narrative",
+          "link": "https://www.reddit.com/r/artificial/comments/1tif4el/google_io_2026_confirms_ai_companies_are_creating/",
+          "date": "2026-05-20T08:12:44+00:00"
+        },
+        {
           "title": "Barnes & Noble CEO backs selling AI-written books in stores",
           "link": "https://www.reddit.com/r/artificial/comments/1ti86hf/barnes_noble_ceo_backs_selling_aiwritten_books_in/",
           "date": "2026-05-20T02:24:04+00:00"
-        },
-        {
-          "title": "Synthetic DMS Training Data Generation with Video Models",
-          "link": "https://www.reddit.com/r/artificial/comments/1tinw56/synthetic_dms_training_data_generation_with_video/",
-          "date": "2026-05-20T14:46:34+00:00"
         }
       ],
       "error": null
@@ -476,6 +476,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Why Is Mark Zuckerberg Taunting His Employees Before Firing Them?",
+          "link": "https://futurism.com/artificial-intelligence/zuckerberg-meta-taunting-employees-firing",
+          "date": "Wed, 20 May 2026 16:02:06 -0400"
+        },
+        {
           "title": "New Data Suggests That AI Really Is Already Replacing Human Jobs",
           "link": "https://futurism.com/artificial-intelligence/jobs-replacement-ai-unemployment",
           "date": "Wed, 20 May 2026 15:04:07 -0400"
@@ -486,7 +491,7 @@
           "date": "Wed, 20 May 2026 13:57:38 -0400"
         },
         {
-          "title": "This Robot Trying to Dance Like Michael Jackson But Wiping Out Pathetically in Front of a Crowd Perfectly Illustrates the Industry\u2019s Deep-Seated Problem",
+          "title": "This Robot Trying to Dance Like Michael Jackson But Wiping Out Pathetically in Front of a Crowd Perfectly Illustrates a Deep-Seated Problem in the Sector",
           "link": "https://futurism.com/robots-and-machines/robot-michael-jackson-wiping-out-illustrates-industry-problem",
           "date": "Wed, 20 May 2026 11:18:13 -0400"
         },
@@ -494,11 +499,6 @@
           "title": "Book About AI\u2019s Effects on the \u201cFuture of Truth\u201d Found to Contain Slew of AI-Hallucinated Quotations",
           "link": "https://futurism.com/artificial-intelligence/book-ai-truth-ai-hallucinated-quotes",
           "date": "Tue, 19 May 2026 13:53:29 -0400"
-        },
-        {
-          "title": "Elon Musk Compares His Work to Miracles Performed by Jesus Christ",
-          "link": "https://futurism.com/future-society/elon-musk-compares-jesus",
-          "date": "Tue, 19 May 2026 13:05:45 -0400"
         }
       ],
       "error": null
