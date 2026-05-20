@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T22:13:46.137943+00:00",
+  "generatedAt": "2026-05-20T00:01:54.259354+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Google Aims at Enterprise Cost Efficiency With Gemini 3.5 Flash",
+          "link": "https://aibusiness.com/generative-ai/google-aims-enterprise-cost-efficiency-with-gemini-3-5-flash",
+          "date": "Tue, 19 May 2026 23:46:13 GMT"
+        },
+        {
           "title": "Blackstone to Invest $5B in AI Cloud Company Using Google TPUs",
           "link": "https://aibusiness.com/data-centers/blackstone-invest-5b-ai-cloud-company-using-google-tpus",
           "date": "Tue, 19 May 2026 16:37:28 GMT"
@@ -132,11 +137,6 @@
           "title": "How Dataminr Kept the Human in the Loop",
           "link": "https://aibusiness.com/generative-ai/how-dataminr-kept-the-human-in-the-loop",
           "date": "Tue, 19 May 2026 11:56:36 GMT"
-        },
-        {
-          "title": "Jury Ruling in Musk Lawsuit Favors OpenAI",
-          "link": "https://aibusiness.com/generative-ai/jury-ruling-in-musk-lawsuit-favors-openai",
-          "date": "Mon, 18 May 2026 23:34:38 GMT"
         }
       ],
       "error": null
@@ -150,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "The Nvidia H200 China deal survived the Trump-Xi summit\u2013just not in the way anyone expected",
+          "link": "https://www.artificialintelligence-news.com/news/nvidia-h200-china-deal-stalled-trump-xi-summit-2026/",
+          "date": "Tue, 19 May 2026 10:00:00 +0000"
+        },
+        {
+          "title": "AI is a matter of power, infrastructure and security: TechEx North America",
+          "link": "https://www.artificialintelligence-news.com/news/techex-north-america-day-one-lessons-for-all-around-ai-and-more/",
+          "date": "Tue, 19 May 2026 01:36:26 +0000"
+        },
+        {
+          "title": "Amazon launches Alexa for Shopping as Rufus moves behind the scenes",
+          "link": "https://www.artificialintelligence-news.com/news/amazon-alexa-for-shopping-rufus-ai-assistant/",
+          "date": "Mon, 18 May 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Deloitte: Scale \u2018autonomous intelligence\u2019 for real growth",
+          "link": "https://www.artificialintelligence-news.com/news/deloitte-scale-autonomous-intelligence-for-real-growth/",
+          "date": "Fri, 15 May 2026 15:02:00 +0000"
+        },
+        {
+          "title": "Physical AI moves closer to factory floors as companies test humanoid robots",
+          "link": "https://www.artificialintelligence-news.com/news/physical-ai-humanoid-robots-factories/",
+          "date": "Thu, 14 May 2026 10:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +316,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "FBI seeks US-wide access to license plate cameras, wants \"data in near real time\"",
+          "link": "https://arstechnica.com/tech-policy/2026/05/fbi-seeks-us-wide-access-to-license-plate-cameras-wants-data-in-near-real-time/",
+          "date": "Tue, 19 May 2026 21:29:33 +0000"
+        },
+        {
           "title": "Spider-Noir final trailer gives us a classic villain",
           "link": "https://arstechnica.com/culture/2026/05/spider-noirs-final-trailer-leans-into-the-deadpan-humor/",
           "date": "Tue, 19 May 2026 20:58:51 +0000"
@@ -308,11 +339,6 @@
           "title": "Two AI-based science assistants succeed with drug-retargeting tasks",
           "link": "https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/",
           "date": "Tue, 19 May 2026 18:55:56 +0000"
-        },
-        {
-          "title": "Google's SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more",
-          "link": "https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/",
-          "date": "Tue, 19 May 2026 18:37:02 +0000"
         }
       ],
       "error": null
@@ -386,11 +412,6 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Third of university students in Great Britain think AI job losses will cause social unrest, poll finds",
-          "link": "https://www.theguardian.com/technology/2026/may/19/third-university-students-think-ai-job-losses-cause-social-unrest-poll",
-          "date": "Mon, 18 May 2026 23:01:00 GMT"
-        },
-        {
           "title": "\u2018Obvious markers of AI\u2019: doubts raised over winner of short story prize",
           "link": "https://www.theguardian.com/books/2026/may/19/commonwealth-short-story-prize-winner-doubts-ai-artificial-intelligence",
           "date": "Tue, 19 May 2026 19:25:56 GMT"
@@ -409,6 +430,11 @@
           "title": "Musk v Altman: tech bros at war over OpenAI \u2013 The Latest",
           "link": "https://www.theguardian.com/news/video/2026/may/19/musk-v-altman-tech-bros-at-war-over-openai-the-latest",
           "date": "Tue, 19 May 2026 16:27:23 GMT"
+        },
+        {
+          "title": "What are Samsung union workers demanding and how might a strike play out?",
+          "link": "https://www.theguardian.com/technology/2026/may/19/samsung-union-strike-explained",
+          "date": "Tue, 19 May 2026 16:05:26 GMT"
         }
       ],
       "error": null
@@ -482,6 +508,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal",
+          "link": "https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations/",
+          "date": "Tue, 19 May 2026 22:53:04 +0000"
+        },
+        {
           "title": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses",
           "link": "https://www.wired.com/story/everything-google-announced-at-google-io-2026/",
           "date": "Tue, 19 May 2026 20:00:48 +0000"
@@ -492,18 +523,13 @@
           "date": "Tue, 19 May 2026 19:00:46 +0000"
         },
         {
-          "title": "Google Search Goes Agentic\u2014and Doesn\u2019t Need You Anymore",
-          "link": "https://www.wired.com/story/google-search-goes-agentic-and-doesnt-need-you-anymore/",
+          "title": "Demis Hassabis Thinks AI Job Cuts Are Dumb",
+          "link": "https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/",
           "date": "Tue, 19 May 2026 17:45:00 +0000"
         },
         {
           "title": "Google Makes It Easy to Deepfake Yourself",
           "link": "https://www.wired.com/story/google-makes-it-easy-to-make-a-deepfake-of-yourself/",
-          "date": "Tue, 19 May 2026 17:45:00 +0000"
-        },
-        {
-          "title": "Demis Hassabis Thinks AI Job Cuts Are Dumb",
-          "link": "https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/",
           "date": "Tue, 19 May 2026 17:45:00 +0000"
         }
       ],
