@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T05:01:42.171779+00:00",
+  "generatedAt": "2026-05-20T09:26:14.512794+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "Enterprise AI roadblocks and roadmaps, security and physical AI: Day two at TechEx",
-          "link": "https://www.artificialintelligence-news.com/news/tech-ex-north-america-day-two-roundup-of-themes-issues-discussions/",
-          "date": "Tue, 19 May 2026 19:18:00 +0000"
-        },
-        {
-          "title": "The Nvidia H200 China deal survived the Trump-Xi summit\u2013just not in the way anyone expected",
-          "link": "https://www.artificialintelligence-news.com/news/nvidia-h200-china-deal-stalled-trump-xi-summit-2026/",
-          "date": "Tue, 19 May 2026 10:00:00 +0000"
-        },
-        {
-          "title": "AI is a matter of power, infrastructure and security: TechEx North America",
-          "link": "https://www.artificialintelligence-news.com/news/techex-north-america-day-one-lessons-for-all-around-ai-and-more/",
-          "date": "Tue, 19 May 2026 01:36:26 +0000"
-        },
-        {
-          "title": "Amazon launches Alexa for Shopping as Rufus moves behind the scenes",
-          "link": "https://www.artificialintelligence-news.com/news/amazon-alexa-for-shopping-rufus-ai-assistant/",
-          "date": "Mon, 18 May 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Deloitte: Scale \u2018autonomous intelligence\u2019 for real growth",
-          "link": "https://www.artificialintelligence-news.com/news/deloitte-scale-autonomous-intelligence-for-real-growth/",
-          "date": "Fri, 15 May 2026 15:02:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -316,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Moose-proof and megacasting: Ars drives the new Volvo EX60",
+          "link": "https://arstechnica.com/cars/2026/05/moose-proof-and-megacasting-ars-drives-the-new-volvo-ex60/",
+          "date": "Wed, 20 May 2026 07:00:57 +0000"
+        },
+        {
           "title": "FBI seeks US-wide access to license plate cameras, wants \"data in near real time\"",
           "link": "https://arstechnica.com/tech-policy/2026/05/fbi-seeks-us-wide-access-to-license-plate-cameras-wants-data-in-near-real-time/",
           "date": "Tue, 19 May 2026 21:29:33 +0000"
@@ -334,11 +313,6 @@
           "title": "Plex's 200% Lifetime Pass price hike tries forcing users to another subscription",
           "link": "https://arstechnica.com/gadgets/2026/05/plexs-200-lifetime-pass-price-hike-tries-forcing-users-to-another-subscription/",
           "date": "Tue, 19 May 2026 19:52:01 +0000"
-        },
-        {
-          "title": "Two AI-based science assistants succeed with drug-retargeting tasks",
-          "link": "https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/",
-          "date": "Tue, 19 May 2026 18:55:56 +0000"
         }
       ],
       "error": null
@@ -363,14 +337,14 @@
           "date": "2026-05-20T02:24:04+00:00"
         },
         {
-          "title": "I think people are underestimating how quickly AI-generated content will blend in online",
-          "link": "https://www.reddit.com/r/artificial/comments/1thrz6z/i_think_people_are_underestimating_how_quickly/",
-          "date": "2026-05-19T16:23:04+00:00"
+          "title": "Google I/O 2026 confirms AI companies are creating their own bubble narrative",
+          "link": "https://www.reddit.com/r/artificial/comments/1tif4el/google_io_2026_confirms_ai_companies_are_creating/",
+          "date": "2026-05-20T08:12:44+00:00"
         },
         {
-          "title": "If AI didn't threaten our jobs, would most people feel differently about it?",
-          "link": "https://www.reddit.com/r/artificial/comments/1ti8wc0/if_ai_didnt_threaten_our_jobs_would_most_people/",
-          "date": "2026-05-20T02:55:17+00:00"
+          "title": "Feels like AI tooling is evolving faster than developer experience lately give full pist content",
+          "link": "https://www.reddit.com/r/artificial/comments/1tif4kd/feels_like_ai_tooling_is_evolving_faster_than/",
+          "date": "2026-05-20T08:12:59+00:00"
         }
       ],
       "error": null
@@ -379,6 +353,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "New \u2018AI scientists\u2019 are improving \u2013 but reveal their fundamental limits",
+          "link": "https://theconversation.com/new-ai-scientists-are-improving-but-reveal-their-fundamental-limits-283281",
+          "date": "2026-05-20T06:26:05Z"
+        },
         {
           "title": "Fears of helping the enemy are blocking international agreements on AI in weapons systems",
           "link": "https://theconversation.com/fears-of-helping-the-enemy-are-blocking-international-agreements-on-ai-in-weapons-systems-282160",
@@ -398,11 +377,6 @@
           "title": "Elon Musk sued OpenAI and lost. But the core question of the case remains unanswered",
           "link": "https://theconversation.com/elon-musk-sued-openai-and-lost-but-the-core-question-of-the-case-remains-unanswered-283256",
           "date": "2026-05-19T06:34:23Z"
-        },
-        {
-          "title": "Can you trademark identity? The new legal strategy celebrities are using against AI",
-          "link": "https://theconversation.com/can-you-trademark-identity-the-new-legal-strategy-celebrities-are-using-against-ai-282976",
-          "date": "2026-05-19T05:17:06Z"
         }
       ],
       "error": null
@@ -412,6 +386,21 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Tell us: have you used an AI chatbot to make a significant decision \u2013 and regretted it?",
+          "link": "https://www.theguardian.com/technology/2026/may/20/tell-us-have-you-used-ai-chatbot-tsignificant-decision-regretted-it",
+          "date": "Wed, 20 May 2026 08:43:09 GMT"
+        },
+        {
+          "title": "Real or AI: can a photographer and internet addict spot fake portraits? \u2013 video",
+          "link": "https://www.theguardian.com/global/video/2026/may/20/real-or-ai-can-a-photographer-and-internet-addict-spot-fake-portraits-video",
+          "date": "Wed, 20 May 2026 07:01:05 GMT"
+        },
+        {
+          "title": "AI engineer says Google unfairly sacked him after he protested against work for Israel",
+          "link": "https://www.theguardian.com/technology/2026/may/20/ai-engineer-says-google-unfairly-sacked-him-after-he-protested-against-work-for-israel",
+          "date": "Wed, 20 May 2026 06:00:26 GMT"
+        },
+        {
           "title": "\u2018Obvious markers of AI\u2019: doubts raised over winner of short story prize",
           "link": "https://www.theguardian.com/books/2026/may/19/commonwealth-short-story-prize-winner-doubts-ai-artificial-intelligence",
           "date": "Tue, 19 May 2026 19:25:56 GMT"
@@ -420,21 +409,6 @@
           "title": "Meta is rapidly reorganizing its workers\u2019 jobs around AI: \u2018Transfers aren\u2019t optional\u2019",
           "link": "https://www.theguardian.com/technology/2026/may/19/meta-jobs-ai-transfers",
           "date": "Tue, 19 May 2026 17:51:53 GMT"
-        },
-        {
-          "title": "Dangers of putting pupils\u2019 images on school websites | Letters",
-          "link": "https://www.theguardian.com/technology/2026/may/19/dangers-of-putting-pupils-images-on-school-websites",
-          "date": "Tue, 19 May 2026 16:49:33 GMT"
-        },
-        {
-          "title": "Musk v Altman: tech bros at war over OpenAI \u2013 The Latest",
-          "link": "https://www.theguardian.com/news/video/2026/may/19/musk-v-altman-tech-bros-at-war-over-openai-the-latest",
-          "date": "Tue, 19 May 2026 16:27:23 GMT"
-        },
-        {
-          "title": "What are Samsung union workers demanding and how might a strike play out?",
-          "link": "https://www.theguardian.com/technology/2026/may/19/samsung-union-strike-explained",
-          "date": "Tue, 19 May 2026 16:05:26 GMT"
         }
       ],
       "error": null
