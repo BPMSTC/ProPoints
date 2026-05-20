@@ -1,10 +1,25 @@
 {
-  "generatedAt": "2026-05-20T12:21:20.735197+00:00",
+  "generatedAt": "2026-05-20T16:24:52.136306+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Township Leader Resigns in Tears Over OpenAI Data Center Death Threats",
+          "link": "https://www.404media.co/township-leader-resigns-in-tears-over-openai-data-center-death-threats/",
+          "date": "Wed, 20 May 2026 13:56:27 GMT"
+        },
+        {
+          "title": "After Town Bans Flock, Councilmember Crashes Out, Proposes Internet and Phone Ban",
+          "link": "https://www.404media.co/after-town-bans-flock-councilmember-crashes-out-proposes-internet-and-phone-ban/",
+          "date": "Wed, 20 May 2026 13:44:08 GMT"
+        },
+        {
+          "title": "Podcast: Elites Just Don't Get AI",
+          "link": "https://www.404media.co/podcast-elites-just-dont-get-ai/",
+          "date": "Wed, 20 May 2026 13:00:14 GMT"
+        },
         {
           "title": "Streamer Realtime Deepfakes Himself into Mr. Beast, Says He Loves 'Touching Little Boys'",
           "link": "https://www.404media.co/streamer-realtime-deepfakes-himself-into-mr-beast-says-he-loves-touching-little-boys/",
@@ -14,21 +29,6 @@
           "title": "Lawyer for Guy Who Sued Women Who Called Him \u2018Psycho\u2019 Caught Using AI",
           "link": "https://www.404media.co/are-we-dating-the-same-guy-lawsuit-ai-attorney-nikko-dambrosio/",
           "date": "Tue, 19 May 2026 13:23:47 GMT"
-        },
-        {
-          "title": "The FBI Wants to Buy Nationwide Access to License Plate Readers",
-          "link": "https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/",
-          "date": "Mon, 18 May 2026 18:19:45 GMT"
-        },
-        {
-          "title": "Podcast: The Physical Politics of the Internet with Britt Paris",
-          "link": "https://www.404media.co/podcast-the-physical-politics-of-the-internet-with-britt-paris/",
-          "date": "Mon, 18 May 2026 13:19:15 GMT"
-        },
-        {
-          "title": "Researchers Wanted Preschool Teachers to Wear Cameras to Train AI",
-          "link": "https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai/",
-          "date": "Mon, 18 May 2026 13:17:44 GMT"
         }
       ],
       "error": null
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "AI agents keep breaking in production. Here's why nobody's fixed it yet",
+          "link": "https://www.aiacceleratorinstitute.com/ai-agents-keep-breaking-in-production-heres-why-nobodys-fixed-it-yet/",
+          "date": "Wed, 20 May 2026 16:03:57 GMT"
+        },
+        {
           "title": "Is your AI is evaluating you?",
           "link": "https://www.aiacceleratorinstitute.com/is-your-ai-under-observation/",
           "date": "Tue, 19 May 2026 11:46:36 GMT"
@@ -88,11 +93,6 @@
           "title": "8 ways self-evolving AI agents  are about to change how we build software",
           "link": "https://www.aiacceleratorinstitute.com/8-ways-self-evolving-ai-agents-are-about-to-change-how-we-build-software/",
           "date": "Tue, 12 May 2026 08:23:25 GMT"
-        },
-        {
-          "title": "Becoming AI ready:  Building a company with 12 AI agents as my first hires",
-          "link": "https://www.aiacceleratorinstitute.com/becoming-ai-ready-building-a-company-with-12-ai-agents-as-my-first-hires/",
-          "date": "Fri, 08 May 2026 15:00:33 GMT"
         }
       ],
       "error": null
@@ -107,12 +107,22 @@
       "name": "AI Archives | KnowTechie",
       "url": "https://knowtechie.com/category/ai/feed/",
       "items": [],
-      "error": "text/html; charset=UTF-8 is not an XML media type"
+      "error": "<unknown>:7:2: mismatched tag"
     },
     {
       "name": "AI Business",
       "url": "https://aibusiness.com/rss.xml",
       "items": [
+        {
+          "title": "GITEX AI EUROPE",
+          "link": "https://aibusiness.com/events/gitex-ai-europe",
+          "date": "2026-06-30T11:00:00.000Z"
+        },
+        {
+          "title": "Flurry of Deals Reaffirms Sizzling AI Market",
+          "link": "https://aibusiness.com/generative-ai/flurry-of-deals-reaffirms-sizzling-ai-market",
+          "date": "Wed, 20 May 2026 13:51:24 GMT"
+        },
         {
           "title": "Google Aims at Enterprise Cost Efficiency With Gemini 3.5 Flash",
           "link": "https://aibusiness.com/generative-ai/google-aims-enterprise-cost-efficiency-with-gemini-3-5-flash",
@@ -127,16 +137,6 @@
           "title": "Sub-Sea AI Data Center is Operating in China",
           "link": "https://aibusiness.com/data-centers/sub-sea-ai-data-center-operating-in-china",
           "date": "Tue, 19 May 2026 15:04:59 GMT"
-        },
-        {
-          "title": "Stellantis, Accenture, Nvidia to Accelerate AI-Driven Auto Production",
-          "link": "https://aibusiness.com/generative-ai/stellantis-accenture-nvidia-accelerate-ai-driven-car-production",
-          "date": "Tue, 19 May 2026 13:32:31 GMT"
-        },
-        {
-          "title": "How Dataminr Kept the Human in the Loop",
-          "link": "https://aibusiness.com/generative-ai/how-dataminr-kept-the-human-in-the-loop",
-          "date": "Tue, 19 May 2026 11:56:36 GMT"
         }
       ],
       "error": null
@@ -150,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Alibaba is designing AI chips around agents, and that changes what the race is actually about",
+          "link": "https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/",
+          "date": "Wed, 20 May 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Enterprise AI roadblocks and roadmaps, security and physical AI: Day two at TechEx",
+          "link": "https://www.artificialintelligence-news.com/news/tech-ex-north-america-day-two-roundup-of-themes-issues-discussions/",
+          "date": "Tue, 19 May 2026 19:18:00 +0000"
+        },
+        {
+          "title": "The Nvidia H200 China deal survived the Trump-Xi summit\u2013just not in the way anyone expected",
+          "link": "https://www.artificialintelligence-news.com/news/nvidia-h200-china-deal-stalled-trump-xi-summit-2026/",
+          "date": "Tue, 19 May 2026 10:00:00 +0000"
+        },
+        {
+          "title": "AI is a matter of power, infrastructure and security: TechEx North America",
+          "link": "https://www.artificialintelligence-news.com/news/techex-north-america-day-one-lessons-for-all-around-ai-and-more/",
+          "date": "Tue, 19 May 2026 01:36:26 +0000"
+        },
+        {
+          "title": "Amazon launches Alexa for Shopping as Rufus moves behind the scenes",
+          "link": "https://www.artificialintelligence-news.com/news/amazon-alexa-for-shopping-rufus-ai-assistant/",
+          "date": "Mon, 18 May 2026 10:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,29 +316,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Man jailed for posting Trump meme wins $835,000 settlement",
+          "link": "https://arstechnica.com/tech-policy/2026/05/man-wins-835k-after-sheriff-jailed-him-for-a-month-over-charlie-kirk-post/",
+          "date": "Wed, 20 May 2026 14:50:40 +0000"
+        },
+        {
+          "title": "Russia's plan to advertise on rockets and spacecraft takes off",
+          "link": "https://arstechnica.com/space/2026/05/russias-plan-to-advertise-on-rockets-and-spacecraft-takes-off/",
+          "date": "Wed, 20 May 2026 14:28:57 +0000"
+        },
+        {
+          "title": "Yearslong fight over users' right to tweak smart TV software heads to trial",
+          "link": "https://arstechnica.com/gadgets/2026/05/inside-the-fight-to-force-vizio-to-share-linux-based-source-code-for-its-tvs-os/",
+          "date": "Wed, 20 May 2026 13:32:49 +0000"
+        },
+        {
+          "title": "China banned RTX 5090D V2 while Nvidia CEO Jensen Huang was visiting",
+          "link": "https://arstechnica.com/tech-policy/2026/05/china-banned-rtx-5090d-v2-while-nvidia-ceo-jensen-huang-was-visiting/",
+          "date": "Wed, 20 May 2026 13:10:15 +0000"
+        },
+        {
           "title": "The Internet can't stop watching Figure AI's humanoid robots handling packages",
           "link": "https://arstechnica.com/ai/2026/05/the-internet-cant-stop-watching-figure-ais-humanoid-robots-handling-packages/",
           "date": "Wed, 20 May 2026 11:00:34 +0000"
-        },
-        {
-          "title": "Moose-proof and megacasting: Ars drives the new Volvo EX60",
-          "link": "https://arstechnica.com/cars/2026/05/moose-proof-and-megacasting-ars-drives-the-new-volvo-ex60/",
-          "date": "Wed, 20 May 2026 07:00:57 +0000"
-        },
-        {
-          "title": "FBI seeks US-wide access to license plate cameras, wants \"data in near real time\"",
-          "link": "https://arstechnica.com/tech-policy/2026/05/fbi-seeks-us-wide-access-to-license-plate-cameras-wants-data-in-near-real-time/",
-          "date": "Tue, 19 May 2026 21:29:33 +0000"
-        },
-        {
-          "title": "Spider-Noir final trailer gives us a classic villain",
-          "link": "https://arstechnica.com/culture/2026/05/spider-noirs-final-trailer-leans-into-the-deadpan-humor/",
-          "date": "Tue, 19 May 2026 20:58:51 +0000"
-        },
-        {
-          "title": "\"I'll buy 10 of those\"\u2014NASA science chief yearns for mass-produced satellites",
-          "link": "https://arstechnica.com/space/2026/05/ill-buy-10-of-those-nasa-science-chief-yearns-for-mass-produced-satellites/",
-          "date": "Tue, 19 May 2026 20:43:31 +0000"
         }
       ],
       "error": null
@@ -342,9 +368,9 @@
           "date": "2026-05-19T18:35:40+00:00"
         },
         {
-          "title": "Feels like AI tooling is evolving faster than developer experience lately give full pist content",
-          "link": "https://www.reddit.com/r/artificial/comments/1tif4kd/feels_like_ai_tooling_is_evolving_faster_than/",
-          "date": "2026-05-20T08:12:59+00:00"
+          "title": "Synthetic DMS Training Data Generation with Video Models",
+          "link": "https://www.reddit.com/r/artificial/comments/1tinw56/synthetic_dms_training_data_generation_with_video/",
+          "date": "2026-05-20T14:46:34+00:00"
         }
       ],
       "error": null
@@ -353,6 +379,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Accentism for profit? What Telus is getting wrong about accents",
+          "link": "https://theconversation.com/accentism-for-profit-what-telus-is-getting-wrong-about-accents-282560",
+          "date": "2026-05-20T15:32:01Z"
+        },
         {
           "title": "New \u2018AI scientists\u2019 are improving \u2013 but reveal their fundamental limits",
           "link": "https://theconversation.com/new-ai-scientists-are-improving-but-reveal-their-fundamental-limits-283281",
@@ -372,11 +403,6 @@
           "title": "AI interviewers can\u2019t connect with people the way human researchers can \u2013 they can produce only data, not meaning",
           "link": "https://theconversation.com/ai-interviewers-cant-connect-with-people-the-way-human-researchers-can-they-can-produce-only-data-not-meaning-279437",
           "date": "2026-05-19T12:24:56Z"
-        },
-        {
-          "title": "Elon Musk sued OpenAI and lost. But the core question of the case remains unanswered",
-          "link": "https://theconversation.com/elon-musk-sued-openai-and-lost-but-the-core-question-of-the-case-remains-unanswered-283256",
-          "date": "2026-05-19T06:34:23Z"
         }
       ],
       "error": null
@@ -386,9 +412,14 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Tell us: have you used an AI chatbot to make a significant decision \u2013 and regretted it?",
-          "link": "https://www.theguardian.com/technology/2026/may/20/tell-us-have-you-used-ai-chatbot-tsignificant-decision-regretted-it",
-          "date": "Wed, 20 May 2026 08:43:09 GMT"
+          "title": "ChatGPT and other AI bots made huge errors before Scottish election, study finds",
+          "link": "https://www.theguardian.com/technology/2026/may/20/ai-chatbots-chatgpt-replika-grok-gemini-misinformation-scottish-election-demos",
+          "date": "Wed, 20 May 2026 14:56:13 GMT"
+        },
+        {
+          "title": "Google DeepMind in talks with UK unions amid staff concern over US and Israel\u2019s AI use",
+          "link": "https://www.theguardian.com/technology/2026/may/20/google-deepmind-talks-uk-unions-ai-use-israel-us-defence",
+          "date": "Wed, 20 May 2026 14:41:38 GMT"
         },
         {
           "title": "\u2018I don\u2019t worry about a robot takeover\u2019: AI expert Michael Wooldridge on big tech\u2019s real dangers (and occasional blessings)",
@@ -401,14 +432,9 @@
           "date": "Wed, 20 May 2026 10:00:33 GMT"
         },
         {
-          "title": "Real or AI: can a photographer and internet addict spot fake portraits? \u2013 video",
-          "link": "https://www.theguardian.com/global/video/2026/may/20/real-or-ai-can-a-photographer-and-internet-addict-spot-fake-portraits-video",
-          "date": "Wed, 20 May 2026 07:01:05 GMT"
-        },
-        {
-          "title": "AI engineer says Google unfairly sacked him after he protested against work for Israel",
-          "link": "https://www.theguardian.com/technology/2026/may/20/ai-engineer-says-google-unfairly-sacked-him-after-he-protested-against-work-for-israel",
-          "date": "Wed, 20 May 2026 06:00:26 GMT"
+          "title": "Tell us: have you used an AI chatbot to make a significant decision \u2013 and regretted it?",
+          "link": "https://www.theguardian.com/technology/2026/may/20/tell-us-have-you-used-ai-chatbot-tsignificant-decision-regretted-it",
+          "date": "Wed, 20 May 2026 08:43:09 GMT"
         }
       ],
       "error": null
@@ -450,6 +476,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "This Robot Trying to Dance Like Michael Jackson But Wiping Out Pathetically in Front of a Crowd Perfectly Illustrates the Industry\u2019s Deep-Seated Problem",
+          "link": "https://futurism.com/robots-and-machines/robot-michael-jackson-wiping-out-illustrates-industry-problem",
+          "date": "Wed, 20 May 2026 11:18:13 -0400"
+        },
+        {
           "title": "Book About AI\u2019s Effects on the \u201cFuture of Truth\u201d Found to Contain Slew of AI-Hallucinated Quotations",
           "link": "https://futurism.com/artificial-intelligence/book-ai-truth-ai-hallucinated-quotes",
           "date": "Tue, 19 May 2026 13:53:29 -0400"
@@ -468,11 +499,6 @@
           "title": "Sports Illustrated Just Deleted Every Article by One of Its Writers After Accusation of AI Plagiarism",
           "link": "https://futurism.com/artificial-intelligence/sports-illustrated-deletes-author-accusation-ai-plagiarism",
           "date": "Mon, 18 May 2026 18:04:53 -0400"
-        },
-        {
-          "title": "Parents Explode in Fury at School\u2019s Plan to Constantly Film Their Children to Train AI",
-          "link": "https://futurism.com/artificial-intelligence/parents-fury-film-children-ai",
-          "date": "Mon, 18 May 2026 15:01:00 -0400"
         }
       ],
       "error": null
