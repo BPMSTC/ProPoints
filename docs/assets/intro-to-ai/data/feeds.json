@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T17:54:14.073826+00:00",
+  "generatedAt": "2026-05-21T19:49:57.326595+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "Nvidia\u2019s Vera chip is the US$200 billion bet Jensen Huang doesn\u2019t want you to overlook",
-          "link": "https://www.artificialintelligence-news.com/news/nvidia-vera-chip-200-billion-market/",
-          "date": "Thu, 21 May 2026 08:00:00 +0000"
-        },
-        {
-          "title": "Alibaba is designing AI chips around agents, and that changes what the race is actually about",
-          "link": "https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/",
-          "date": "Wed, 20 May 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Enterprise AI roadblocks and roadmaps, security and physical AI: Day two at TechEx",
-          "link": "https://www.artificialintelligence-news.com/news/tech-ex-north-america-day-two-roundup-of-themes-issues-discussions/",
-          "date": "Tue, 19 May 2026 19:18:00 +0000"
-        },
-        {
-          "title": "The Nvidia H200 China deal survived the Trump-Xi summit\u2013just not in the way anyone expected",
-          "link": "https://www.artificialintelligence-news.com/news/nvidia-h200-china-deal-stalled-trump-xi-summit-2026/",
-          "date": "Tue, 19 May 2026 10:00:00 +0000"
-        },
-        {
-          "title": "AI is a matter of power, infrastructure and security: TechEx North America",
-          "link": "https://www.artificialintelligence-news.com/news/techex-north-america-day-one-lessons-for-all-around-ai-and-more/",
-          "date": "Tue, 19 May 2026 01:36:26 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -316,7 +290,12 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Top Gun turns 40",
+          "title": "Zillow loses thousands of listings in fight over \u201chidden\u201d homes",
+          "link": "https://arstechnica.com/tech-policy/2026/05/zillow-loses-access-to-thousands-of-home-listings-amid-bitter-legal-feud/",
+          "date": "Thu, 21 May 2026 18:35:38 +0000"
+        },
+        {
+          "title": "Stunning aerial footage still best thing about Top Gun at 40",
           "link": "https://arstechnica.com/culture/2026/05/top-gun-turns-40/",
           "date": "Thu, 21 May 2026 16:42:43 +0000"
         },
@@ -334,11 +313,6 @@
           "title": "Plug-in hybrids get plugged in more than you might think",
           "link": "https://arstechnica.com/cars/2026/05/plug-in-hybrids-get-plugged-in-more-than-you-might-think/",
           "date": "Thu, 21 May 2026 13:34:53 +0000"
-        },
-        {
-          "title": "These clever active beam headlights are finally coming to America",
-          "link": "https://arstechnica.com/cars/2026/05/these-clever-active-beam-headlights-are-finally-coming-to-america/",
-          "date": "Thu, 21 May 2026 13:00:09 +0000"
         }
       ],
       "error": null
@@ -347,6 +321,11 @@
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
+        {
+          "title": "College Graduation Ceremony Erupts In Boos After 'New AI System' Allegedly Misses 'Hundreds' Of Graduates' Names",
+          "link": "https://www.reddit.com/r/artificial/comments/1tjv204/college_graduation_ceremony_erupts_in_boos_after/",
+          "date": "2026-05-21T19:24:32+00:00"
+        },
         {
           "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
           "link": "https://www.reddit.com/r/artificial/comments/1tixhbv/an_openai_model_has_disproved_a_central/",
@@ -363,14 +342,9 @@
           "date": "2026-05-21T17:16:40+00:00"
         },
         {
-          "title": "Anthropic's $10.9B Q2 Tops 2025 and Grows Faster Than Google and Meta Pre-IPO",
-          "link": "https://www.reddit.com/r/artificial/comments/1tjr61r/anthropics_109b_q2_tops_2025_and_grows_faster/",
-          "date": "2026-05-21T17:15:11+00:00"
-        },
-        {
-          "title": "Google is officially replacing Vertex AI with the new \"Gemini Enterprise Agent Platform\"",
-          "link": "https://www.reddit.com/r/artificial/comments/1tj9m8s/google_is_officially_replacing_vertex_ai_with_the/",
-          "date": "2026-05-21T04:26:34+00:00"
+          "title": "So, what is Yann LeCun's \"World Models\" and JEPA and is it Really a Replacement for LLMs?",
+          "link": "https://www.reddit.com/r/artificial/comments/1tjuats/so_what_is_yann_lecuns_world_models_and_jepa_and/",
+          "date": "2026-05-21T18:59:11+00:00"
         }
       ],
       "error": null
@@ -417,6 +391,11 @@
           "date": "Thu, 21 May 2026 16:36:58 GMT"
         },
         {
+          "title": "Sadiq Khan sparks row with Met after blocking \u00a350m AI deal with Palantir",
+          "link": "https://www.theguardian.com/uk-news/2026/may/21/london-mayor-sadiq-khan-blocks-met-police-deal-with-palantir",
+          "date": "Thu, 21 May 2026 18:07:40 GMT"
+        },
+        {
           "title": "OpenAI makes breakthrough on 80-year-old maths problem",
           "link": "https://www.theguardian.com/technology/2026/may/21/openai-paul-erdos-maths-problem-breakthrough",
           "date": "Thu, 21 May 2026 16:24:14 GMT"
@@ -430,11 +409,6 @@
           "title": "BT warns of smartphone price rises due to chip shortages from AI boom",
           "link": "https://www.theguardian.com/business/2026/may/21/bt-smartphone-price-rises-chip-shortages-ai-boom",
           "date": "Thu, 21 May 2026 14:05:29 GMT"
-        },
-        {
-          "title": "London mayor Sadiq Khan blocks \u00a350m Met police deal with Palantir",
-          "link": "https://www.theguardian.com/uk-news/2026/may/21/london-mayor-sadiq-khan-blocks-met-police-deal-with-palantir",
-          "date": "Thu, 21 May 2026 11:00:09 GMT"
         }
       ],
       "error": null
@@ -476,6 +450,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Jeff Bezos Lectures the Public, Saying They Should Be Grateful for the Wonders of AI",
+          "link": "https://futurism.com/artificial-intelligence/jeff-bezos-public-grateful-ai",
+          "date": "Thu, 21 May 2026 14:00:52 -0400"
+        },
+        {
           "title": "Zuckerberg Tells the Tattered Remainder of His Workers That He Won\u2019t Conduct Another a Mass Firing for at Least Seven Months",
           "link": "https://futurism.com/artificial-intelligence/zuckerberg-mass-firing-seven-months",
           "date": "Thu, 21 May 2026 13:07:52 -0400"
@@ -494,11 +473,6 @@
           "title": "Google Is Making Huge Changes That Are Poised to Decimate What\u2019s Left of Journalism",
           "link": "https://futurism.com/artificial-intelligence/google-search-destroy-journalism",
           "date": "Thu, 21 May 2026 09:16:53 -0400"
-        },
-        {
-          "title": "Why Is Mark Zuckerberg Taunting His Employees Before Firing Them?",
-          "link": "https://futurism.com/artificial-intelligence/zuckerberg-meta-taunting-employees-firing",
-          "date": "Wed, 20 May 2026 16:02:06 -0400"
         }
       ],
       "error": null
