@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T23:09:30.094491+00:00",
+  "generatedAt": "2026-05-21T03:24:18.886746+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -316,6 +316,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Famously secret about its finances, SpaceX opens its books for the first time",
+          "link": "https://arstechnica.com/space/2026/05/spacex-submits-detailed-financial-filing-ahead-of-going-public-in-june/",
+          "date": "Wed, 20 May 2026 23:02:49 +0000"
+        },
+        {
           "title": "Trump admin didn't want Ebola-exposed Americans, sent them to Berlin, Prague",
           "link": "https://arstechnica.com/health/2026/05/trump-admin-didnt-want-ebola-exposed-americans-sent-them-to-berlin-prague/",
           "date": "Wed, 20 May 2026 21:58:01 +0000"
@@ -334,11 +339,6 @@
           "title": "Leaving the V8 in the past: The all-electric Mercedes-AMG GT 4-Door",
           "link": "https://arstechnica.com/cars/2026/05/leaving-the-v8-in-the-past-the-all-electric-mercedes-amg-gt-4-door/",
           "date": "Wed, 20 May 2026 19:53:34 +0000"
-        },
-        {
-          "title": "\"Ryzen 5800X3D 10th Anniversary Edition\" may help you avoid paying for a new PC",
-          "link": "https://arstechnica.com/gadgets/2026/05/amd-reportedly-plans-ryzen-5800x3d-re-release-for-upgraders-on-a-budget/",
-          "date": "Wed, 20 May 2026 19:19:44 +0000"
         }
       ],
       "error": null
@@ -368,9 +368,9 @@
           "date": "2026-05-20T08:12:44+00:00"
         },
         {
-          "title": "GOP State Attorneys General Ask SEC to Review Sam Altman\u2019s Business Dealings",
-          "link": "https://www.reddit.com/r/artificial/comments/1tixrg5/gop_state_attorneys_general_ask_sec_to_review_sam/",
-          "date": "2026-05-20T20:22:56+00:00"
+          "title": "Claude Code's product lead talks usage limits, transparency, and the \"lean harness\"",
+          "link": "https://www.reddit.com/r/artificial/comments/1tj6386/claude_codes_product_lead_talks_usage_limits/",
+          "date": "2026-05-21T01:48:46+00:00"
         }
       ],
       "error": null
@@ -379,6 +379,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "When AI giants go public, will ordinary investors know if they are along for the ride?",
+          "link": "https://theconversation.com/when-ai-giants-go-public-will-ordinary-investors-know-if-they-are-along-for-the-ride-282963",
+          "date": "2026-05-20T22:54:58Z"
+        },
         {
           "title": "Accentism for profit? What Telus is getting wrong about accents",
           "link": "https://theconversation.com/accentism-for-profit-what-telus-is-getting-wrong-about-accents-282560",
@@ -398,11 +403,6 @@
           "title": "Six tech-free tips from history for designing your garden",
           "link": "https://theconversation.com/six-tech-free-tips-from-history-for-designing-your-garden-283008",
           "date": "2026-05-19T14:50:47Z"
-        },
-        {
-          "title": "AI interviewers can\u2019t connect with people the way human researchers can \u2013 they can produce only data, not meaning",
-          "link": "https://theconversation.com/ai-interviewers-cant-connect-with-people-the-way-human-researchers-can-they-can-produce-only-data-not-meaning-279437",
-          "date": "2026-05-19T12:24:56Z"
         }
       ],
       "error": null
@@ -508,6 +508,16 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "SpaceX Listed Grok\u2019s \u2018Spicy\u2019 Mode as a Risk in Its IPO Filing",
+          "link": "https://www.wired.com/story/spacex-ipo-grok-spicy-mode-risks/",
+          "date": "Thu, 21 May 2026 00:43:13 +0000"
+        },
+        {
+          "title": "SpaceX Is Spending $2.8 Billion to Buy Gas Turbines for Its AI Data Centers",
+          "link": "https://www.wired.com/story/elon-musk-spacex-spending-gas-turbines-grok/",
+          "date": "Wed, 20 May 2026 23:30:06 +0000"
+        },
+        {
           "title": "I Gave My OpenClaw Agent a Physical Body",
           "link": "https://www.wired.com/story/i-gave-my-openclaw-agent-physical-body-robot/",
           "date": "Wed, 20 May 2026 18:00:00 +0000"
@@ -521,16 +531,6 @@
           "title": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses",
           "link": "https://www.wired.com/story/everything-google-announced-at-google-io-2026/",
           "date": "Tue, 19 May 2026 20:00:48 +0000"
-        },
-        {
-          "title": "Meta Employees Are Scrambling to Use Up Benefits Ahead of Layoffs",
-          "link": "https://www.wired.com/story/meta-employees-scramble-benefits-layoffs-ai/",
-          "date": "Tue, 19 May 2026 19:00:46 +0000"
-        },
-        {
-          "title": "Demis Hassabis Thinks AI Job Cuts Are Dumb",
-          "link": "https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/",
-          "date": "Tue, 19 May 2026 17:45:00 +0000"
         }
       ],
       "error": null
