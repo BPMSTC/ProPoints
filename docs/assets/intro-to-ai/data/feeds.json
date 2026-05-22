@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T10:47:05.185531+00:00",
+  "generatedAt": "2026-05-22T13:28:54.480798+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "OpenAI opens Singapore AI lab as IMDA updates AI framework",
-          "link": "https://www.artificialintelligence-news.com/news/openai-singapore-ai-lab-imda-agentic-ai-framework/",
-          "date": "Fri, 22 May 2026 10:00:00 +0000"
-        },
-        {
-          "title": "China\u2019s AI just mapped its entire renewable energy grid. Here\u2019s why the rest of the world should pay attention",
-          "link": "https://www.artificialintelligence-news.com/news/ai-energy-grid-mapping-china/",
-          "date": "Fri, 22 May 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Musk and Zuckerberg convinced Trump to scrap AI executive order",
-          "link": "https://www.artificialintelligence-news.com/news/trump-ai-executive-order-scrapped-musk-zuckerberg-china/",
-          "date": "Fri, 22 May 2026 09:00:00 +0000"
-        },
-        {
-          "title": "Nvidia\u2019s Vera chip is the US$200 billion bet Jensen Huang doesn\u2019t want you to overlook",
-          "link": "https://www.artificialintelligence-news.com/news/nvidia-vera-chip-200-billion-market/",
-          "date": "Thu, 21 May 2026 08:00:00 +0000"
-        },
-        {
-          "title": "Alibaba is designing AI chips around agents, and that changes what the race is actually about",
-          "link": "https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/",
-          "date": "Wed, 20 May 2026 10:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -316,29 +290,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "First vaccines, now mammograms? RFK Jr.\u2019s latest firings have doctors outraged.",
+          "link": "https://arstechnica.com/health/2026/05/doctors-outraged-after-rfk-jr-fires-leaders-of-key-preventive-medicine-panel/",
+          "date": "Fri, 22 May 2026 11:30:38 +0000"
+        },
+        {
+          "title": "Rocket Report: Starship launch delayed, German launch company may aid Canada",
+          "link": "https://arstechnica.com/space/2026/05/rocket-report-starship-launch-delayed-german-launch-company-may-aid-canada/",
+          "date": "Fri, 22 May 2026 11:20:43 +0000"
+        },
+        {
+          "title": "The $58,000 TV bill: When DirecTV sued O.J. Simpson for piracy",
+          "link": "https://arstechnica.com/tech-policy/2026/05/the-58000-tv-bill-when-directv-sued-o-j-simpson-for-piracy/",
+          "date": "Fri, 22 May 2026 11:00:43 +0000"
+        },
+        {
+          "title": "A hacker group is poisoning open source code at an unprecedented scale",
+          "link": "https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/",
+          "date": "Fri, 22 May 2026 10:30:14 +0000"
+        },
+        {
           "title": "Ground system issue scrubs first launch of SpaceX's Starship V3 rocket",
           "link": "https://arstechnica.com/space/2026/05/ground-system-issue-scrubs-first-launch-of-spacexs-starship-v3-rocket/",
           "date": "Fri, 22 May 2026 02:05:37 +0000"
-        },
-        {
-          "title": "IoT gadget maker AcuRite shares reasoning for killing customers\u2019 favorite app",
-          "link": "https://arstechnica.com/gadgets/2026/05/iot-gadget-maker-acurite-shares-reasoning-for-killing-customers-favorite-app/",
-          "date": "Thu, 21 May 2026 22:26:34 +0000"
-        },
-        {
-          "title": "As Grok flounders, SpaceX bets future on beating Big Tech at AI",
-          "link": "https://arstechnica.com/ai/2026/05/as-grok-flounders-spacex-bets-future-on-beating-big-tech-at-ai/",
-          "date": "Thu, 21 May 2026 21:51:26 +0000"
-        },
-        {
-          "title": "AT&T sues California in attempt to shut off old phone network",
-          "link": "https://arstechnica.com/tech-policy/2026/05/att-sues-california-in-attempt-to-shut-off-old-phone-network/",
-          "date": "Thu, 21 May 2026 21:10:01 +0000"
-        },
-        {
-          "title": "JWST maps the weather on a hot gas giant 700 light-years away",
-          "link": "https://arstechnica.com/science/2026/05/jwst-maps-the-weather-on-a-hot-gas-giant-700-light-years-away/",
-          "date": "Thu, 21 May 2026 19:26:03 +0000"
         }
       ],
       "error": null
@@ -358,19 +332,19 @@
           "date": "2026-05-21T19:24:32+00:00"
         },
         {
-          "title": "Interesting Response from Gemini",
-          "link": "https://www.reddit.com/r/artificial/comments/1tk3y45/interesting_response_from_gemini/",
-          "date": "2026-05-22T01:12:52+00:00"
-        },
-        {
           "title": "Rethinking AI Bubble",
           "link": "https://www.reddit.com/r/artificial/comments/1tkb6p9/rethinking_ai_bubble/",
           "date": "2026-05-22T07:01:30+00:00"
         },
         {
-          "title": "I asked Claude how it feels about being used in battlefield. What it answered is really concerning!",
-          "link": "https://www.reddit.com/r/artificial/comments/1tkf1fj/i_asked_claude_how_it_feels_about_being_used_in/",
-          "date": "2026-05-22T10:32:36+00:00"
+          "title": "Interesting Response from Gemini",
+          "link": "https://www.reddit.com/r/artificial/comments/1tk3y45/interesting_response_from_gemini/",
+          "date": "2026-05-22T01:12:52+00:00"
+        },
+        {
+          "title": "Multi-agent AI systems are now automating scientific discovery and nobody seems ready",
+          "link": "https://www.reddit.com/r/artificial/comments/1tk6mjs/multiagent_ai_systems_are_now_automating/",
+          "date": "2026-05-22T03:12:11+00:00"
         }
       ],
       "error": null
@@ -417,6 +391,16 @@
           "date": "Thu, 21 May 2026 16:36:58 GMT"
         },
         {
+          "title": "Pressure mounts on Democratic national committee chair over delayed 2024 election autopsy report  \u2013 US politics live",
+          "link": "https://www.theguardian.com/us-news/live/2026/may/22/donald-trump-ai-china-iran-war-powers-hormuz-latest-news-updates",
+          "date": "Fri, 22 May 2026 13:26:41 GMT"
+        },
+        {
+          "title": "Standard Chartered boss apologises for \u2018lower-value human capital\u2019 comments amid job cuts",
+          "link": "https://www.theguardian.com/business/2026/may/22/standard-chartered-boss-apologises-for-lower-value-human-capital-comments-amid-job-cuts",
+          "date": "Fri, 22 May 2026 11:39:29 GMT"
+        },
+        {
           "title": "Mars colony and Grok warnings: five strange details in SpaceX\u2019s pitch to investors",
           "link": "https://www.theguardian.com/technology/2026/may/22/spacex-ipo-filing-details",
           "date": "Fri, 22 May 2026 09:00:55 GMT"
@@ -425,16 +409,6 @@
           "title": "If Australia is home to an AI gold rush, let\u2019s not squander it. Let\u2019s fjord a different path | Peter Lewis",
           "link": "https://www.theguardian.com/commentisfree/2026/may/22/australia-artificial-intelligence-ai-investment-wealth-fund",
           "date": "Fri, 22 May 2026 01:06:51 GMT"
-        },
-        {
-          "title": "Spotify and Universal Music agree deal to let subscribers create AI remixes",
-          "link": "https://www.theguardian.com/technology/2026/may/21/spotify-and-universal-music-agree-deal-to-let-subscribers-create-ai-remixes",
-          "date": "Thu, 21 May 2026 20:24:37 GMT"
-        },
-        {
-          "title": "Sadiq Khan sparks row with Met after blocking \u00a350m AI deal with Palantir",
-          "link": "https://www.theguardian.com/uk-news/2026/may/21/london-mayor-sadiq-khan-blocks-met-police-deal-with-palantir",
-          "date": "Thu, 21 May 2026 18:07:40 GMT"
         }
       ],
       "error": null
