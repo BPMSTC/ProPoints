@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T13:19:04.453950+00:00",
+  "generatedAt": "2026-05-23T14:58:13.035680+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "OpenAI opens Singapore AI lab as IMDA updates AI framework",
-          "link": "https://www.artificialintelligence-news.com/news/openai-singapore-ai-lab-imda-agentic-ai-framework/",
-          "date": "Fri, 22 May 2026 10:00:00 +0000"
-        },
-        {
-          "title": "China\u2019s AI just mapped its entire renewable energy grid. Here\u2019s why the rest of the world should pay attention",
-          "link": "https://www.artificialintelligence-news.com/news/ai-energy-grid-mapping-china/",
-          "date": "Fri, 22 May 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Musk and Zuckerberg convinced Trump to scrap AI executive order",
-          "link": "https://www.artificialintelligence-news.com/news/trump-ai-executive-order-scrapped-musk-zuckerberg-china/",
-          "date": "Fri, 22 May 2026 09:00:00 +0000"
-        },
-        {
-          "title": "Nvidia\u2019s Vera chip is the US$200 billion bet Jensen Huang doesn\u2019t want you to overlook",
-          "link": "https://www.artificialintelligence-news.com/news/nvidia-vera-chip-200-billion-market/",
-          "date": "Thu, 21 May 2026 08:00:00 +0000"
-        },
-        {
-          "title": "Alibaba is designing AI chips around agents, and that changes what the race is actually about",
-          "link": "https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/",
-          "date": "Wed, 20 May 2026 10:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -353,24 +327,24 @@
           "date": "2026-05-23T10:28:49+00:00"
         },
         {
-          "title": "Microsoft Cancels Internal Anthropic Licenses As Shift To Token-Based AI Billing Blows Up Annual Budgets In Months",
-          "link": "https://www.reddit.com/r/artificial/comments/1tkb0op/microsoft_cancels_internal_anthropic_licenses_as/",
-          "date": "2026-05-22T06:52:39+00:00"
-        },
-        {
           "title": "The musical chairs game of AI",
           "link": "https://www.reddit.com/r/artificial/comments/1tldakl/the_musical_chairs_game_of_ai/",
           "date": "2026-05-23T10:56:26+00:00"
         },
         {
-          "title": "AI is changing the internet forever. Here\u2019s how",
-          "link": "https://www.reddit.com/r/artificial/comments/1tlffb2/ai_is_changing_the_internet_forever_heres_how/",
-          "date": "2026-05-23T12:40:29+00:00"
+          "title": "Amnesty : US software company Palantir and other contractors were granted unlimited access to identifiable NHS England patient information",
+          "link": "https://www.reddit.com/r/artificial/comments/1tlig93/amnesty_us_software_company_palantir_and_other/",
+          "date": "2026-05-23T14:46:39+00:00"
         },
         {
-          "title": "Rethinking AI Bubble",
-          "link": "https://www.reddit.com/r/artificial/comments/1tkb6p9/rethinking_ai_bubble/",
-          "date": "2026-05-22T07:01:30+00:00"
+          "title": "OpenAI is hiring a $445,000 researcher. Requirements? Be 'tasteful and strategic.'",
+          "link": "https://www.reddit.com/r/artificial/comments/1tlh2gh/openai_is_hiring_a_445000_researcher_requirements/",
+          "date": "2026-05-23T13:51:17+00:00"
+        },
+        {
+          "title": "Microsoft Cancels Internal Anthropic Licenses As Shift To Token-Based AI Billing Blows Up Annual Budgets In Months",
+          "link": "https://www.reddit.com/r/artificial/comments/1tkb0op/microsoft_cancels_internal_anthropic_licenses_as/",
+          "date": "2026-05-22T06:52:39+00:00"
         }
       ],
       "error": null
@@ -412,6 +386,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "How big tech got its way on Trump\u2019s AI executive order",
+          "link": "https://www.theguardian.com/technology/2026/may/23/trump-ai-order-big-tech",
+          "date": "Sat, 23 May 2026 14:00:29 GMT"
+        },
+        {
           "title": "\u2018You can\u2019t control everything\u2019: the rise in plastic surgeons asked to create \u2018AI face\u2019",
           "link": "https://www.theguardian.com/technology/2026/may/23/rise-in-plastic-surgeons-asked-to-create-ai-face-cosmetic-surgery",
           "date": "Sat, 23 May 2026 11:00:28 GMT"
@@ -430,11 +409,6 @@
           "title": "Palantir hits back at Sadiq Khan after \u00a350m contract with Met police blocked",
           "link": "https://www.theguardian.com/technology/2026/may/22/palantir-hits-back-sadiq-khan-contract-met-police-blocked",
           "date": "Fri, 22 May 2026 13:45:37 GMT"
-        },
-        {
-          "title": "Standard Chartered boss apologises for \u2018lower-value human capital\u2019 comments amid job cuts",
-          "link": "https://www.theguardian.com/business/2026/may/22/standard-chartered-boss-apologises-for-lower-value-human-capital-comments-amid-job-cuts",
-          "date": "Fri, 22 May 2026 11:39:29 GMT"
         }
       ],
       "error": null
@@ -476,6 +450,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "The Amish Are Embracing ChatGPT",
+          "link": "https://futurism.com/artificial-intelligence/amish-chatgpt",
+          "date": "Sat, 23 May 2026 10:30:00 -0400"
+        },
+        {
           "title": "Academics in Meltdown Now That They\u2019re Responsible for AI Hallucinations in Their Research Papers",
           "link": "https://futurism.com/artificial-intelligence/academics-meltdown-ai-hallucinations-research",
           "date": "Sat, 23 May 2026 06:45:00 -0400"
@@ -494,11 +473,6 @@
           "title": "Marc Andreessen Sputters Incomprehensibly at Question About How AI Will Actually Benefit Humankind",
           "link": "https://futurism.com/artificial-intelligence/marc-andreessen-sputters-ai-benefits",
           "date": "Fri, 22 May 2026 15:04:53 -0400"
-        },
-        {
-          "title": "Cannes Film Festival Says the Wall Street Journal Is Wrong: It\u2019s Not Debuting an AI-Generated Feature Film This Week",
-          "link": "https://futurism.com/artificial-intelligence/cannes-not-showing-ai-generated-movie",
-          "date": "Fri, 22 May 2026 14:01:31 -0400"
         }
       ],
       "error": null
