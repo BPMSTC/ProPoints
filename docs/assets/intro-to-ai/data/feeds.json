@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T16:04:18.657354+00:00",
+  "generatedAt": "2026-05-23T17:59:06.447582+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "OpenAI opens Singapore AI lab as IMDA updates AI framework",
-          "link": "https://www.artificialintelligence-news.com/news/openai-singapore-ai-lab-imda-agentic-ai-framework/",
-          "date": "Fri, 22 May 2026 10:00:00 +0000"
-        },
-        {
-          "title": "China\u2019s AI just mapped its entire renewable energy grid. Here\u2019s why the rest of the world should pay attention",
-          "link": "https://www.artificialintelligence-news.com/news/ai-energy-grid-mapping-china/",
-          "date": "Fri, 22 May 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Musk and Zuckerberg convinced Trump to scrap AI executive order",
-          "link": "https://www.artificialintelligence-news.com/news/trump-ai-executive-order-scrapped-musk-zuckerberg-china/",
-          "date": "Fri, 22 May 2026 09:00:00 +0000"
-        },
-        {
-          "title": "Nvidia\u2019s Vera chip is the US$200 billion bet Jensen Huang doesn\u2019t want you to overlook",
-          "link": "https://www.artificialintelligence-news.com/news/nvidia-vera-chip-200-billion-market/",
-          "date": "Thu, 21 May 2026 08:00:00 +0000"
-        },
-        {
-          "title": "Alibaba is designing AI chips around agents, and that changes what the race is actually about",
-          "link": "https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/",
-          "date": "Wed, 20 May 2026 10:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -363,14 +337,14 @@
           "date": "2026-05-23T10:56:26+00:00"
         },
         {
-          "title": "OpenAI is hiring a $445,000 researcher. Requirements? Be 'tasteful and strategic.'",
-          "link": "https://www.reddit.com/r/artificial/comments/1tlh2gh/openai_is_hiring_a_445000_researcher_requirements/",
-          "date": "2026-05-23T13:51:17+00:00"
-        },
-        {
           "title": "Microsoft Cancels Internal Anthropic Licenses As Shift To Token-Based AI Billing Blows Up Annual Budgets In Months",
           "link": "https://www.reddit.com/r/artificial/comments/1tkb0op/microsoft_cancels_internal_anthropic_licenses_as/",
           "date": "2026-05-22T06:52:39+00:00"
+        },
+        {
+          "title": "OpenAI is hiring a $445,000 researcher. Requirements? Be 'tasteful and strategic.'",
+          "link": "https://www.reddit.com/r/artificial/comments/1tlh2gh/openai_is_hiring_a_445000_researcher_requirements/",
+          "date": "2026-05-23T13:51:17+00:00"
         }
       ],
       "error": null
@@ -476,6 +450,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Barnes and Noble CEO Says Sure, Why Not Sell AI-Generated Books and Set Our Reputation On Fire?",
+          "link": "https://futurism.com/artificial-intelligence/barnes-and-noble-ceo-ai-book",
+          "date": "Sat, 23 May 2026 12:45:00 -0400"
+        },
+        {
           "title": "Insiders at SoftBank Worry Their CEO Is Getting Conned by Sam Altman",
           "link": "https://futurism.com/artificial-intelligence/insiders-softbank-sam-altman",
           "date": "Sat, 23 May 2026 12:00:00 -0400"
@@ -494,11 +473,6 @@
           "title": "Academics in Meltdown Now That They\u2019re Responsible for AI Hallucinations in Their Research Papers",
           "link": "https://futurism.com/artificial-intelligence/academics-meltdown-ai-hallucinations-research",
           "date": "Sat, 23 May 2026 06:45:00 -0400"
-        },
-        {
-          "title": "Why Are So Many Websites Suddenly Demanding Evidence You\u2019re Not a Robot?",
-          "link": "https://futurism.com/artificial-intelligence/verification-captcha-increase-ai-bots",
-          "date": "Sat, 23 May 2026 06:00:00 -0400"
         }
       ],
       "error": null
