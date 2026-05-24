@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T06:38:05.863309+00:00",
+  "generatedAt": "2026-05-24T09:20:09.658167+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "OpenAI opens Singapore AI lab as IMDA updates AI framework",
+          "link": "https://www.artificialintelligence-news.com/news/openai-singapore-ai-lab-imda-agentic-ai-framework/",
+          "date": "Fri, 22 May 2026 10:00:00 +0000"
+        },
+        {
+          "title": "China\u2019s AI just mapped its entire renewable energy grid. Here\u2019s why the rest of the world should pay attention",
+          "link": "https://www.artificialintelligence-news.com/news/ai-energy-grid-mapping-china/",
+          "date": "Fri, 22 May 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Musk and Zuckerberg convinced Trump to scrap AI executive order",
+          "link": "https://www.artificialintelligence-news.com/news/trump-ai-executive-order-scrapped-musk-zuckerberg-china/",
+          "date": "Fri, 22 May 2026 09:00:00 +0000"
+        },
+        {
+          "title": "Nvidia\u2019s Vera chip is the US$200 billion bet Jensen Huang doesn\u2019t want you to overlook",
+          "link": "https://www.artificialintelligence-news.com/news/nvidia-vera-chip-200-billion-market/",
+          "date": "Thu, 21 May 2026 08:00:00 +0000"
+        },
+        {
+          "title": "Alibaba is designing AI chips around agents, and that changes what the race is actually about",
+          "link": "https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/",
+          "date": "Wed, 20 May 2026 10:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -342,9 +368,9 @@
           "date": "2026-05-23T10:28:49+00:00"
         },
         {
-          "title": "Who am I even supposed to trust when it comes to the future of AI?",
-          "link": "https://www.reddit.com/r/artificial/comments/1tltq6b/who_am_i_even_supposed_to_trust_when_it_comes_to/",
-          "date": "2026-05-23T22:09:41+00:00"
+          "title": "I think AI training is way more accessible than people realize",
+          "link": "https://www.reddit.com/r/artificial/comments/1tlpv9g/i_think_ai_training_is_way_more_accessible_than/",
+          "date": "2026-05-23T19:33:38+00:00"
         }
       ],
       "error": null
@@ -391,6 +417,11 @@
           "date": "Sun, 24 May 2026 06:00:50 GMT"
         },
         {
+          "title": "I avoid AI tools because thinking is supposed to be hard. It\u2019s what makes us human | Wendy Liu",
+          "link": "https://www.theguardian.com/commentisfree/2026/may/24/ai-tools-thinking-human-hard-coding-writing-technology",
+          "date": "Sun, 24 May 2026 07:00:50 GMT"
+        },
+        {
           "title": "\u2018We\u2019re expanding the cinematic toolbox\u2019: AI fault lines on show at Cannes",
           "link": "https://www.theguardian.com/technology/2026/may/24/cinematic-toolbox-ai-fault-lines-cannes",
           "date": "Sun, 24 May 2026 05:00:48 GMT"
@@ -404,11 +435,6 @@
           "title": "\u2018You can\u2019t control everything\u2019: the rise in plastic surgeons asked to create \u2018AI face\u2019",
           "link": "https://www.theguardian.com/technology/2026/may/23/rise-in-plastic-surgeons-asked-to-create-ai-face-cosmetic-surgery",
           "date": "Sat, 23 May 2026 11:00:28 GMT"
-        },
-        {
-          "title": "Sunrise Movement takes credit for disrupting Trump\u2019s New York state rally \u2013\u00a0as it happened",
-          "link": "https://www.theguardian.com/us-news/live/2026/may/22/donald-trump-ai-china-iran-war-powers-hormuz-latest-news-updates",
-          "date": "Sat, 23 May 2026 01:58:52 GMT"
         }
       ],
       "error": null
