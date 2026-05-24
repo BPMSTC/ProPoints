@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T19:26:05.960663+00:00",
+  "generatedAt": "2026-05-24T20:52:16.070182+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "OpenAI opens Singapore AI lab as IMDA updates AI framework",
+          "link": "https://www.artificialintelligence-news.com/news/openai-singapore-ai-lab-imda-agentic-ai-framework/",
+          "date": "Fri, 22 May 2026 10:00:00 +0000"
+        },
+        {
+          "title": "China\u2019s AI just mapped its entire renewable energy grid. Here\u2019s why the rest of the world should pay attention",
+          "link": "https://www.artificialintelligence-news.com/news/ai-energy-grid-mapping-china/",
+          "date": "Fri, 22 May 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Musk and Zuckerberg convinced Trump to scrap AI executive order",
+          "link": "https://www.artificialintelligence-news.com/news/trump-ai-executive-order-scrapped-musk-zuckerberg-china/",
+          "date": "Fri, 22 May 2026 09:00:00 +0000"
+        },
+        {
+          "title": "Nvidia\u2019s Vera chip is the US$200 billion bet Jensen Huang doesn\u2019t want you to overlook",
+          "link": "https://www.artificialintelligence-news.com/news/nvidia-vera-chip-200-billion-market/",
+          "date": "Thu, 21 May 2026 08:00:00 +0000"
+        },
+        {
+          "title": "Alibaba is designing AI chips around agents, and that changes what the race is actually about",
+          "link": "https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/",
+          "date": "Wed, 20 May 2026 10:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -322,6 +348,11 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
+          "title": "What AI image generator do you use?",
+          "link": "https://www.reddit.com/r/artificial/comments/1tmkupv/what_ai_image_generator_do_you_use/",
+          "date": "2026-05-24T18:55:26+00:00"
+        },
+        {
           "title": "\"I'm retired. I showed my MS Paint paintings to AI for feedback. It accidentally invented an entire fake art movement. Google believes it's real.\"",
           "link": "https://www.reddit.com/r/artificial/comments/1tmb7c6/im_retired_i_showed_my_ms_paint_paintings_to_ai/",
           "date": "2026-05-24T12:44:24+00:00"
@@ -332,19 +363,14 @@
           "date": "2026-05-24T14:42:17+00:00"
         },
         {
-          "title": "What AI image generator do you use?",
-          "link": "https://www.reddit.com/r/artificial/comments/1tmkupv/what_ai_image_generator_do_you_use/",
-          "date": "2026-05-24T18:55:26+00:00"
+          "title": "Testing a Cold War-Era AI on Satellite Image Datasets",
+          "link": "https://www.reddit.com/r/artificial/comments/1tmnb54/testing_a_cold_warera_ai_on_satellite_image/",
+          "date": "2026-05-24T20:29:09+00:00"
         },
         {
           "title": "Vision-capable LLMs vs. OCR for long-document (including charts, images, tables, etc.) QA",
           "link": "https://www.reddit.com/r/artificial/comments/1tlzy43/visioncapable_llms_vs_ocr_for_longdocument/",
           "date": "2026-05-24T02:52:53+00:00"
-        },
-        {
-          "title": "Elon, stop trying to make Grok happen. New data suggests government workers don\u2019t like Elon Musk\u2019s chatbot. Does anybody?",
-          "link": "https://www.reddit.com/r/artificial/comments/1tlp9gz/elon_stop_trying_to_make_grok_happen_new_data/",
-          "date": "2026-05-23T19:09:53+00:00"
         }
       ],
       "error": null
