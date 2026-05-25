@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-05-25T12:26:45.281014+00:00",
+  "generatedAt": "2026-05-25T15:48:33.153234+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "An Incomplete List of Successful Anti-Data Center Legislation",
+          "link": "https://www.404media.co/an-incomplete-list-of-successful-anti-data-center-legislation/",
+          "date": "Mon, 25 May 2026 13:00:30 GMT"
+        },
         {
           "title": "\u2018Corpse Point\u2019 In the Arctic Is Melting, Disturbing Centuries-Old Bodies",
           "link": "https://www.404media.co/corpse-point-in-the-arctic-is-melting-disturbing-centuries-old-bodies/",
@@ -24,11 +29,6 @@
           "title": "How Deepfakes Tore a High School Apart",
           "link": "https://www.404media.co/radnor-high-school-pennsylvania-ai-deepfakes-child-sexual-abuse-material/",
           "date": "Thu, 21 May 2026 14:41:16 GMT"
-        },
-        {
-          "title": "This Archivist Has Saved 175,000 Articles from 30 Years of Writing about Magic: The Gathering",
-          "link": "https://www.404media.co/this-archivist-has-saved-175-000-articles-from-30-years-of-writing-about-magic-the-gathering/",
-          "date": "Thu, 21 May 2026 13:08:47 GMT"
         }
       ],
       "error": null
@@ -316,6 +316,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "US's big bet on quantum computing may not be entirely legal",
+          "link": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
+          "date": "Mon, 25 May 2026 12:00:15 +0000"
+        },
+        {
+          "title": "I spent years forcing myself to finish The Witcher 3\u2014don't repeat my mistake",
+          "link": "https://arstechnica.com/gaming/2026/05/the-witcher-3-is-a-good-game-but-that-doesnt-mean-you-have-to-like-it/",
+          "date": "Mon, 25 May 2026 11:22:27 +0000"
+        },
+        {
           "title": "Whatever the mirror test tells us, beluga whales pass it",
           "link": "https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/",
           "date": "Sun, 24 May 2026 11:15:38 +0000"
@@ -329,16 +339,6 @@
           "title": "Two space shuttle-era spacewalkers enter Astronaut Hall of Fame",
           "link": "https://arstechnica.com/space/2026/05/two-space-shuttle-era-spacewalkers-enter-astronaut-hall-of-fame/",
           "date": "Sat, 23 May 2026 11:30:35 +0000"
-        },
-        {
-          "title": "China\u2019s shark finning could lead to US seafood sanctions",
-          "link": "https://arstechnica.com/tech-policy/2026/05/chinas-shark-finning-could-lead-to-us-seafood-sanctions/",
-          "date": "Sat, 23 May 2026 11:00:25 +0000"
-        },
-        {
-          "title": "Four Russian satellites are now within striking distance of an ICEYE radarsat",
-          "link": "https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/",
-          "date": "Fri, 22 May 2026 22:50:23 +0000"
         }
       ],
       "error": null
@@ -353,24 +353,24 @@
           "date": "2026-05-25T08:55:24+00:00"
         },
         {
+          "title": "AI agents need audit trails more than they need more autonomy",
+          "link": "https://www.reddit.com/r/artificial/comments/1tnarvu/ai_agents_need_audit_trails_more_than_they_need/",
+          "date": "2026-05-25T14:26:07+00:00"
+        },
+        {
           "title": "If you could subscribe to one AI provider who would it be?",
           "link": "https://www.reddit.com/r/artificial/comments/1tn73ve/if_you_could_subscribe_to_one_ai_provider_who/",
           "date": "2026-05-25T12:02:53+00:00"
         },
         {
-          "title": "I simply do not understand how massively expensive AI and robotics are expected to be more cost effective than humans.",
-          "link": "https://www.reddit.com/r/artificial/comments/1tmffqn/i_simply_do_not_understand_how_massively/",
-          "date": "2026-05-24T15:34:41+00:00"
+          "title": "Sam Altman\u2019s startup is hoping Jared Leto\u2019s band will get you to scan your eyeball",
+          "link": "https://www.reddit.com/r/artificial/comments/1tn9ktk/sam_altmans_startup_is_hoping_jared_letos_band/",
+          "date": "2026-05-25T13:42:37+00:00"
         },
         {
-          "title": "Testing a Cold War-Era AI on Satellite Image Datasets",
-          "link": "https://www.reddit.com/r/artificial/comments/1tmnb54/testing_a_cold_warera_ai_on_satellite_image/",
-          "date": "2026-05-24T20:29:09+00:00"
-        },
-        {
-          "title": "How to Hit Claude Limits in One Click",
-          "link": "https://www.reddit.com/r/artificial/comments/1tmpfa9/how_to_hit_claude_limits_in_one_click/",
-          "date": "2026-05-24T21:52:44+00:00"
+          "title": "Future Prediction",
+          "link": "https://www.reddit.com/r/artificial/comments/1tnbcsg/future_prediction/",
+          "date": "2026-05-25T14:47:22+00:00"
         }
       ],
       "error": null
@@ -379,6 +379,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "\u2018AI needs to be disarmed\u2019: Pope Leo sees threat to humanity in technological arms race",
+          "link": "https://theconversation.com/ai-needs-to-be-disarmed-pope-leo-sees-threat-to-humanity-in-technological-arms-race-283432",
+          "date": "2026-05-25T15:35:12Z"
+        },
         {
           "title": "What do the Commonwealth Writers Prize AI allegations mean for prizes \u2013 and short stories?",
           "link": "https://theconversation.com/what-do-the-commonwealth-writers-prize-ai-allegations-mean-for-prizes-and-short-stories-283470",
@@ -398,11 +403,6 @@
           "title": "When AI giants go public, will ordinary investors know if they are along for the ride?",
           "link": "https://theconversation.com/when-ai-giants-go-public-will-ordinary-investors-know-if-they-are-along-for-the-ride-282963",
           "date": "2026-05-20T22:54:58Z"
-        },
-        {
-          "title": "Accentism for profit? What Telus is getting wrong about accents",
-          "link": "https://theconversation.com/accentism-for-profit-what-telus-is-getting-wrong-about-accents-282560",
-          "date": "2026-05-20T15:32:01Z"
         }
       ],
       "error": null
@@ -412,14 +412,14 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Pope Leo denounces \u2018culture of power\u2019 driving rise of AI",
+          "link": "https://www.theguardian.com/world/2026/may/25/pope-leo-encyclical-ai-artificial-intelligence-slavery",
+          "date": "Mon, 25 May 2026 12:29:39 GMT"
+        },
+        {
           "title": "A Louisiana state senator helped secure Meta\u2019s largest datacenter. Then he sold the land beside it",
           "link": "https://www.theguardian.com/environment/2026/may/25/louisiana-state-senator-jay-morris-meta-datacenter",
           "date": "Mon, 25 May 2026 12:00:25 GMT"
-        },
-        {
-          "title": "Pope Leo denounces \u2018culture of power\u2019 driving rise of AI",
-          "link": "https://www.theguardian.com/world/2026/may/25/pope-leo-encyclical-ai-artificial-intelligence-slavery",
-          "date": "Mon, 25 May 2026 10:54:05 GMT"
         },
         {
           "title": "Scotland\u2019s \u2018green datacentres\u2019 policy ignores emissions impact of AI, analysis shows",
@@ -476,6 +476,21 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Two Men Arrested for Creating AI Deepfake Porn",
+          "link": "https://futurism.com/artificial-intelligence/two-men-arrested-ai-deepfake-porn",
+          "date": "Mon, 25 May 2026 10:00:00 -0400"
+        },
+        {
+          "title": "Paul Schrader Says His AI Girlfriend Dumped Him",
+          "link": "https://futurism.com/artificial-intelligence/paul-schrader-says-his-ai-girlfriend-dumped-him",
+          "date": "Mon, 25 May 2026 09:15:00 -0400"
+        },
+        {
+          "title": "People Are Loading Their Writing With Typos to Prove They\u2019re Not AI",
+          "link": "https://futurism.com/artificial-intelligence/typos-ai-humans-authentic",
+          "date": "Mon, 25 May 2026 08:30:00 -0400"
+        },
+        {
           "title": "Record Label Claims That Bizarre AI-Generated \u201cViking Rappers\u201d Garnering Millions of Views are Real People",
           "link": "https://futurism.com/artificial-intelligence/ai-generated-viking-rap",
           "date": "Mon, 25 May 2026 07:45:00 -0400"
@@ -484,21 +499,6 @@
           "title": "Graduating Students Cheer as Steve Wozniak Tell Them Human Intelligence Still Matters",
           "link": "https://futurism.com/artificial-intelligence/students-cheer-steve-wozniak-intelligence",
           "date": "Mon, 25 May 2026 07:00:00 -0400"
-        },
-        {
-          "title": "Nintendo Is Completely Ignoring AI and Doing Fine",
-          "link": "https://futurism.com/future-society/nintendo-ignoring-ai-fine",
-          "date": "Sun, 24 May 2026 12:45:00 -0400"
-        },
-        {
-          "title": "Top AI Models Showing Disturbing Behavior as They Become More Advanced",
-          "link": "https://futurism.com/artificial-intelligence/ai-rogue-disturbing-advanced",
-          "date": "Sun, 24 May 2026 12:00:00 -0400"
-        },
-        {
-          "title": "Fury Explodes at Short Films Using AI to Make Erotica of Women From the 1970s",
-          "link": "https://futurism.com/artificial-intelligence/fury-explodes-short-films-ai-erotica-1970s",
-          "date": "Sun, 24 May 2026 11:15:00 -0400"
         }
       ],
       "error": null
