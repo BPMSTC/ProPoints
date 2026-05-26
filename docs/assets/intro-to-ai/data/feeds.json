@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T19:17:34.625082+00:00",
+  "generatedAt": "2026-05-26T21:41:54.909877+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -316,6 +316,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
+          "link": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+          "date": "Tue, 26 May 2026 19:50:33 +0000"
+        },
+        {
           "title": "Want an oxygen-rich atmosphere? Stuff oxygen\u2019s friends in the mantle.",
           "link": "https://arstechnica.com/science/2026/05/the-oxygenation-of-earths-air-might-owe-a-lot-to-plate-tectonics/",
           "date": "Tue, 26 May 2026 18:30:58 +0000"
@@ -334,11 +339,6 @@
           "title": "Windows' classic 3D Space Cadet pinball is getting a physical re-creation",
           "link": "https://arstechnica.com/gaming/2026/05/windows-classic-3d-space-cadet-pinball-is-getting-a-physical-re-creation/",
           "date": "Tue, 26 May 2026 16:24:02 +0000"
-        },
-        {
-          "title": "Review: The Boroughs is a smart, pitch-perfect creature feature",
-          "link": "https://arstechnica.com/culture/2026/05/review-the-boroughs-is-a-smart-pitch-perfect-creature-feature/",
-          "date": "Tue, 26 May 2026 14:35:13 +0000"
         }
       ],
       "error": null
@@ -348,29 +348,29 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "Which AI image generator is actually worth the money?",
-          "link": "https://www.reddit.com/r/artificial/comments/1to5v3m/which_ai_image_generator_is_actually_worth_the/",
-          "date": "2026-05-26T12:45:06+00:00"
-        },
-        {
           "title": "AI is becoming epistemic infrastructure controlled by a handful of private individuals?",
           "link": "https://www.reddit.com/r/artificial/comments/1to0dmn/ai_is_becoming_epistemic_infrastructure/",
           "date": "2026-05-26T08:10:37+00:00"
         },
         {
+          "title": "Which AI image generator is actually worth the money?",
+          "link": "https://www.reddit.com/r/artificial/comments/1to5v3m/which_ai_image_generator_is_actually_worth_the/",
+          "date": "2026-05-26T12:45:06+00:00"
+        },
+        {
+          "title": "Built an AI companion architecture with real internal needs \u2014 looking for first investor after publishing research paper",
+          "link": "https://www.reddit.com/r/artificial/comments/1tokn46/built_an_ai_companion_architecture_with_real/",
+          "date": "2026-05-26T21:20:05+00:00"
+        },
+        {
+          "title": "Built a tool to save Claude responses (and ChatGPT, Gemini) into one searchable vault - sharing in case it's useful",
+          "link": "https://www.reddit.com/r/artificial/comments/1toga8l/built_a_tool_to_save_claude_responses_and_chatgpt/",
+          "date": "2026-05-26T18:48:35+00:00"
+        },
+        {
           "title": "Uber's COO says it's getting harder to justify the money spent on AI tokenmaxxing",
           "link": "https://www.reddit.com/r/artificial/comments/1tndgv8/ubers_coo_says_its_getting_harder_to_justify_the/",
           "date": "2026-05-25T16:02:18+00:00"
-        },
-        {
-          "title": "Memory Curator Agent a governance layer for memory in multi-agent systems",
-          "link": "https://www.reddit.com/r/artificial/comments/1to9p3u/memory_curator_agent_a_governance_layer_for/",
-          "date": "2026-05-26T15:05:31+00:00"
-        },
-        {
-          "title": "Wiz Integrates with Anthropic's Compliance API",
-          "link": "https://www.reddit.com/r/artificial/comments/1tnvmgt/wiz_integrates_with_anthropics_compliance_api/",
-          "date": "2026-05-26T04:01:45+00:00"
         }
       ],
       "error": null
@@ -476,6 +476,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "99 Percent of CEOs Are Preparing to Lay Off Workers and Replace Them With AI Within Two Years, Survey Finds",
+          "link": "https://futurism.com/artificial-intelligence/99-percent-ceos-workers-ai-survey",
+          "date": "Tue, 26 May 2026 15:17:37 -0400"
+        },
+        {
           "title": "The Pope Just Low Key Declared Holy War on Artificial Intelligence",
           "link": "https://futurism.com/artificial-intelligence/pope-holy-war-artificial-intelligence",
           "date": "Tue, 26 May 2026 12:18:21 -0400"
@@ -494,11 +499,6 @@
           "title": "Man Humiliated by His AI Use Says He Just Can\u2019t Quit",
           "link": "https://futurism.com/artificial-intelligence/man-humiliated-by-ai-cant-quit",
           "date": "Tue, 26 May 2026 09:19:50 -0400"
-        },
-        {
-          "title": "OpenAI\u2019s Attempt at an AI-Generated Pixar-Style Movie Is in Shambles",
-          "link": "https://futurism.com/artificial-intelligence/openai-attempt-ai-pixar-movie-shambles",
-          "date": "Tue, 26 May 2026 08:36:14 -0400"
         }
       ],
       "error": null
@@ -507,6 +507,16 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Why the Vatican Invited Anthropic to the Pope\u2019s AI Encyclical Presentation",
+          "link": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
+          "date": "Tue, 26 May 2026 20:46:03 +0000"
+        },
+        {
+          "title": "What Pope Leo XIV\u2019s First Encyclical Says About the Power of AI",
+          "link": "https://www.wired.com/story/what-pope-leo-xivs-first-encyclical-says-about-the-power-of-ai/",
+          "date": "Tue, 26 May 2026 20:17:47 +0000"
+        },
         {
           "title": "AI Agents Plunged the Tech World Into Chaos. Here\u2019s Exactly How That Happened",
           "link": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
@@ -520,16 +530,6 @@
         {
           "title": "AI Is Taking Over the Most Cursed Job in the World",
           "link": "https://www.wired.com/story/ai-takes-over-debt-collection/",
-          "date": "Tue, 26 May 2026 10:00:00 +0000"
-        },
-        {
-          "title": "I Spent a Week Recording Myself Doing Chores for Money. Who's the Robot Now?",
-          "link": "https://www.wired.com/story/household-chores-training-robots/",
-          "date": "Tue, 26 May 2026 10:00:00 +0000"
-        },
-        {
-          "title": "I\u2019m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
-          "link": "https://www.wired.com/story/fact-checking-ai/",
           "date": "Tue, 26 May 2026 10:00:00 +0000"
         }
       ],
