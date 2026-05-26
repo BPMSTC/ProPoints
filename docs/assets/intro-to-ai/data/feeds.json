@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T16:40:15.721139+00:00",
+  "generatedAt": "2026-05-26T19:17:34.625082+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Anthropic Update Underscores Power of AI Flaw Finder Mythos",
+          "link": "https://aibusiness.com/generative-ai/anthropic-update-underscores-power-ai-flaw-finder-mythos",
+          "date": "Tue, 26 May 2026 16:27:08 GMT"
+        },
+        {
           "title": "Mistral AI Taps Legal Sector With Harvey Partnership",
           "link": "https://aibusiness.com/generative-ai/mistral-ai-taps-legal-sector-harvey-partnership",
           "date": "Tue, 26 May 2026 15:42:42 GMT"
@@ -132,11 +137,6 @@
           "title": "SpaceX IPO Filing Opens Up xAI Finances",
           "link": "https://aibusiness.com/generative-ai/spacex-ipo-filing-opens-up-xai-finances",
           "date": "Thu, 21 May 2026 17:13:10 GMT"
-        },
-        {
-          "title": "Google Ads in AI Mode Will Help Businesses Be Discovered",
-          "link": "https://aibusiness.com/generative-ai/google-ads-ai-mode-will-help-businesses-discovered",
-          "date": "Thu, 21 May 2026 15:12:45 GMT"
         }
       ],
       "error": null
@@ -316,29 +316,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Want an oxygen-rich atmosphere? Stuff oxygen\u2019s friends in the mantle.",
+          "link": "https://arstechnica.com/science/2026/05/the-oxygenation-of-earths-air-might-owe-a-lot-to-plate-tectonics/",
+          "date": "Tue, 26 May 2026 18:30:58 +0000"
+        },
+        {
+          "title": "FBI agent explains how easy it is to ID people posting AI porn without consent",
+          "link": "https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/",
+          "date": "Tue, 26 May 2026 17:46:01 +0000"
+        },
+        {
+          "title": "3D-printable humanoid legs let robotics experiments run wild",
+          "link": "https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/",
+          "date": "Tue, 26 May 2026 17:16:07 +0000"
+        },
+        {
+          "title": "Windows' classic 3D Space Cadet pinball is getting a physical re-creation",
+          "link": "https://arstechnica.com/gaming/2026/05/windows-classic-3d-space-cadet-pinball-is-getting-a-physical-re-creation/",
+          "date": "Tue, 26 May 2026 16:24:02 +0000"
+        },
+        {
           "title": "Review: The Boroughs is a smart, pitch-perfect creature feature",
           "link": "https://arstechnica.com/culture/2026/05/review-the-boroughs-is-a-smart-pitch-perfect-creature-feature/",
           "date": "Tue, 26 May 2026 14:35:13 +0000"
-        },
-        {
-          "title": "A global brand but local cars is Audi's future, says CEO",
-          "link": "https://arstechnica.com/cars/2026/05/audis-boss-talks-local-production-wagons-and-maybe-a-new-r8-supercar/",
-          "date": "Tue, 26 May 2026 14:21:33 +0000"
-        },
-        {
-          "title": "Analyst on China's spent rocket stages: \"Things only continue to get worse\"",
-          "link": "https://arstechnica.com/space/2026/05/analyst-on-chinas-spent-rocket-stages-things-only-continue-to-get-worse/",
-          "date": "Tue, 26 May 2026 13:57:30 +0000"
-        },
-        {
-          "title": "Amazing interior, controversial exterior: Ferrari's first electric car",
-          "link": "https://arstechnica.com/cars/2026/05/the-most-controversial-ferrari-ever-meet-the-luce-its-first-ever-ev/",
-          "date": "Tue, 26 May 2026 12:56:32 +0000"
-        },
-        {
-          "title": "Driving Porsche's most powerful car\u2014and no, it's not a 911",
-          "link": "https://arstechnica.com/cars/2026/05/porsches-cayenne-coupe-electric-brings-formula-e-tech-to-the-autobahn/",
-          "date": "Tue, 26 May 2026 12:00:11 +0000"
         }
       ],
       "error": null
@@ -363,14 +363,14 @@
           "date": "2026-05-25T16:02:18+00:00"
         },
         {
+          "title": "Memory Curator Agent a governance layer for memory in multi-agent systems",
+          "link": "https://www.reddit.com/r/artificial/comments/1to9p3u/memory_curator_agent_a_governance_layer_for/",
+          "date": "2026-05-26T15:05:31+00:00"
+        },
+        {
           "title": "Wiz Integrates with Anthropic's Compliance API",
           "link": "https://www.reddit.com/r/artificial/comments/1tnvmgt/wiz_integrates_with_anthropics_compliance_api/",
           "date": "2026-05-26T04:01:45+00:00"
-        },
-        {
-          "title": "Current Gen-AI is like a sophisticated parrot. Here's what happened when I gave one server access.",
-          "link": "https://www.reddit.com/r/artificial/comments/1toad1p/current_genai_is_like_a_sophisticated_parrot/",
-          "date": "2026-05-26T15:29:02+00:00"
         }
       ],
       "error": null
@@ -528,8 +528,8 @@
           "date": "Tue, 26 May 2026 10:00:00 +0000"
         },
         {
-          "title": "To Land a Job in AI, Try Reading Kant",
-          "link": "https://www.wired.com/story/to-land-a-job-in-ai-try-reading-kant/",
+          "title": "I\u2019m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
+          "link": "https://www.wired.com/story/fact-checking-ai/",
           "date": "Tue, 26 May 2026 10:00:00 +0000"
         }
       ],
