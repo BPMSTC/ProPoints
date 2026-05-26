@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T00:09:10.984984+00:00",
+  "generatedAt": "2026-05-26T05:00:46.631531+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "OpenAI opens Singapore AI lab as IMDA updates AI framework",
-          "link": "https://www.artificialintelligence-news.com/news/openai-singapore-ai-lab-imda-agentic-ai-framework/",
-          "date": "Fri, 22 May 2026 10:00:00 +0000"
-        },
-        {
-          "title": "China\u2019s AI just mapped its entire renewable energy grid. Here\u2019s why the rest of the world should pay attention",
-          "link": "https://www.artificialintelligence-news.com/news/ai-energy-grid-mapping-china/",
-          "date": "Fri, 22 May 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Musk and Zuckerberg convinced Trump to scrap AI executive order",
-          "link": "https://www.artificialintelligence-news.com/news/trump-ai-executive-order-scrapped-musk-zuckerberg-china/",
-          "date": "Fri, 22 May 2026 09:00:00 +0000"
-        },
-        {
-          "title": "Nvidia\u2019s Vera chip is the US$200 billion bet Jensen Huang doesn\u2019t want you to overlook",
-          "link": "https://www.artificialintelligence-news.com/news/nvidia-vera-chip-200-billion-market/",
-          "date": "Thu, 21 May 2026 08:00:00 +0000"
-        },
-        {
-          "title": "Alibaba is designing AI chips around agents, and that changes what the race is actually about",
-          "link": "https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/",
-          "date": "Wed, 20 May 2026 10:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -348,14 +322,19 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
+          "title": "Scientists trained an AI model using an IBM quantum computer \u2014 and it answered questions correctly that the base model couldn't",
+          "link": "https://www.reddit.com/r/artificial/comments/1tnreia/scientists_trained_an_ai_model_using_an_ibm/",
+          "date": "2026-05-26T00:53:11+00:00"
+        },
+        {
           "title": "Uber's COO says it's getting harder to justify the money spent on AI tokenmaxxing",
           "link": "https://www.reddit.com/r/artificial/comments/1tndgv8/ubers_coo_says_its_getting_harder_to_justify_the/",
           "date": "2026-05-25T16:02:18+00:00"
         },
         {
-          "title": "We're reaching a point where \"AI-generated but visually realistic\" content will become the norm, not the exception. \ud83d\udc40",
-          "link": "https://www.reddit.com/r/artificial/comments/1tn3e7k/were_reaching_a_point_where_aigenerated_but/",
-          "date": "2026-05-25T08:55:24+00:00"
+          "title": "Wiz Integrates with Anthropic's Compliance API",
+          "link": "https://www.reddit.com/r/artificial/comments/1tnvmgt/wiz_integrates_with_anthropics_compliance_api/",
+          "date": "2026-05-26T04:01:45+00:00"
         },
         {
           "title": "Top 10 Fastest Growing AI repos this week",
@@ -363,14 +342,9 @@
           "date": "2026-05-25T19:36:35+00:00"
         },
         {
-          "title": "AI agents need audit trails more than they need more autonomy",
-          "link": "https://www.reddit.com/r/artificial/comments/1tnarvu/ai_agents_need_audit_trails_more_than_they_need/",
-          "date": "2026-05-25T14:26:07+00:00"
-        },
-        {
-          "title": "Why is there a sudden demand for a bunch of data centers?",
-          "link": "https://www.reddit.com/r/artificial/comments/1tndecr/why_is_there_a_sudden_demand_for_a_bunch_of_data/",
-          "date": "2026-05-25T16:00:07+00:00"
+          "title": "We're reaching a point where \"AI-generated but visually realistic\" content will become the norm, not the exception. \ud83d\udc40",
+          "link": "https://www.reddit.com/r/artificial/comments/1tn3e7k/were_reaching_a_point_where_aigenerated_but/",
+          "date": "2026-05-25T08:55:24+00:00"
         }
       ],
       "error": null
@@ -379,6 +353,16 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "An AI solution to an 80-year-old problem has shocked mathematicians",
+          "link": "https://theconversation.com/an-ai-solution-to-an-80-year-old-problem-has-shocked-mathematicians-283686",
+          "date": "2026-05-26T04:28:45Z"
+        },
+        {
+          "title": "Pope Leo warns of AI\u2019s risks to humanity in his first encyclical",
+          "link": "https://theconversation.com/pope-leo-warns-of-ais-risks-to-humanity-in-his-first-encyclical-283684",
+          "date": "2026-05-26T00:08:01Z"
+        },
         {
           "title": "Three ways to avoid being fooled by AI slop",
           "link": "https://theconversation.com/three-ways-to-avoid-being-fooled-by-ai-slop-282974",
@@ -393,16 +377,6 @@
           "title": "What do the Commonwealth Writers Prize AI allegations mean for prizes \u2013 and short stories?",
           "link": "https://theconversation.com/what-do-the-commonwealth-writers-prize-ai-allegations-mean-for-prizes-and-short-stories-283470",
           "date": "2026-05-22T02:38:50Z"
-        },
-        {
-          "title": "Would you trust AI to help you find \u2018the one\u2019? Dating apps are betting it can",
-          "link": "https://theconversation.com/would-you-trust-ai-to-help-you-find-the-one-dating-apps-are-betting-it-can-283083",
-          "date": "2026-05-21T20:11:48Z"
-        },
-        {
-          "title": "AI can design cities, but can it understand what matters to people? 10 ways to keep humans in control",
-          "link": "https://theconversation.com/ai-can-design-cities-but-can-it-understand-what-matters-to-people-10-ways-to-keep-humans-in-control-281471",
-          "date": "2026-05-21T13:49:08Z"
         }
       ],
       "error": null
