@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T05:00:46.631531+00:00",
+  "generatedAt": "2026-05-26T09:50:20.170725+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "AI agents keep breaking in production.  Here's why nobody's fixed it yet.",
+          "link": "https://www.aiacceleratorinstitute.com/ai-agents-keep-breaking-in-production-heres-why-nobodys-fixed-it-yet-2/",
+          "date": "Tue, 26 May 2026 09:02:36 GMT"
+        },
+        {
           "title": "The 3 reasons your AI never  makes it to production",
           "link": "https://www.aiacceleratorinstitute.com/the-3-reasons-your-ai-never-makes-it-to-production/",
           "date": "Fri, 22 May 2026 15:00:40 GMT"
@@ -88,11 +93,6 @@
           "title": "Your data engineers may be  more influential than you think",
           "link": "https://www.aiacceleratorinstitute.com/your-data-engineers-may-be-more-influential-than-you-think/",
           "date": "Thu, 14 May 2026 15:59:02 GMT"
-        },
-        {
-          "title": "The future AI team: What  enterprise AI organizations may look like by 2030",
-          "link": "https://www.aiacceleratorinstitute.com/the-future-ai-team-what-enterprise-ai-organizations-may-look-like-by-2030/",
-          "date": "Wed, 13 May 2026 15:32:37 GMT"
         }
       ],
       "error": null
@@ -150,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "OpenAI opens Singapore AI lab as IMDA updates AI framework",
+          "link": "https://www.artificialintelligence-news.com/news/openai-singapore-ai-lab-imda-agentic-ai-framework/",
+          "date": "Fri, 22 May 2026 10:00:00 +0000"
+        },
+        {
+          "title": "China\u2019s AI just mapped its entire renewable energy grid. Here\u2019s why the rest of the world should pay attention",
+          "link": "https://www.artificialintelligence-news.com/news/ai-energy-grid-mapping-china/",
+          "date": "Fri, 22 May 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Musk and Zuckerberg convinced Trump to scrap AI executive order",
+          "link": "https://www.artificialintelligence-news.com/news/trump-ai-executive-order-scrapped-musk-zuckerberg-china/",
+          "date": "Fri, 22 May 2026 09:00:00 +0000"
+        },
+        {
+          "title": "Nvidia\u2019s Vera chip is the US$200 billion bet Jensen Huang doesn\u2019t want you to overlook",
+          "link": "https://www.artificialintelligence-news.com/news/nvidia-vera-chip-200-billion-market/",
+          "date": "Thu, 21 May 2026 08:00:00 +0000"
+        },
+        {
+          "title": "Alibaba is designing AI chips around agents, and that changes what the race is actually about",
+          "link": "https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/",
+          "date": "Wed, 20 May 2026 10:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -337,14 +363,14 @@
           "date": "2026-05-26T04:01:45+00:00"
         },
         {
+          "title": "AI is becoming epistemic infrastructure controlled by a handful of private individuals?",
+          "link": "https://www.reddit.com/r/artificial/comments/1to0dmn/ai_is_becoming_epistemic_infrastructure/",
+          "date": "2026-05-26T08:10:37+00:00"
+        },
+        {
           "title": "Top 10 Fastest Growing AI repos this week",
           "link": "https://www.reddit.com/r/artificial/comments/1tnjhts/top_10_fastest_growing_ai_repos_this_week/",
           "date": "2026-05-25T19:36:35+00:00"
-        },
-        {
-          "title": "We're reaching a point where \"AI-generated but visually realistic\" content will become the norm, not the exception. \ud83d\udc40",
-          "link": "https://www.reddit.com/r/artificial/comments/1tn3e7k/were_reaching_a_point_where_aigenerated_but/",
-          "date": "2026-05-25T08:55:24+00:00"
         }
       ],
       "error": null
@@ -386,6 +412,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "US students on why they booed their pro-AI graduation speakers: \u2018They\u2019re not reading the room\u2019",
+          "link": "https://www.theguardian.com/technology/2026/may/26/students-boo-pro-ai-graduation-speakers",
+          "date": "Tue, 26 May 2026 08:00:49 GMT"
+        },
+        {
           "title": "Rachel Reeves tells ministers to \u2018buy British\u2019 in four key industries",
           "link": "https://www.theguardian.com/politics/2026/may/25/rachel-reeves-tells-ministers-to-buy-british-in-four-key-industries",
           "date": "Mon, 25 May 2026 18:43:39 GMT"
@@ -404,11 +435,6 @@
           "title": "A Louisiana state senator helped secure Meta\u2019s largest datacenter. Then he sold the land beside it",
           "link": "https://www.theguardian.com/environment/2026/may/25/louisiana-state-senator-jay-morris-meta-datacenter",
           "date": "Mon, 25 May 2026 12:00:25 GMT"
-        },
-        {
-          "title": "Scotland\u2019s \u2018green datacentres\u2019 policy ignores emissions impact of AI, analysis shows",
-          "link": "https://www.theguardian.com/uk-news/2026/may/25/scotland-policy-green-datacentres-emissions-impact-ai-analysis",
-          "date": "Sun, 24 May 2026 23:01:09 GMT"
         }
       ],
       "error": null
@@ -482,6 +508,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "US Law Enforcement Warns of \u2018Anti-Tech Extremism\u2019 as AI Hatred Grows",
+          "link": "https://www.wired.com/story/us-law-enforcement-warns-of-anti-tech-extremism/",
+          "date": "Tue, 26 May 2026 09:30:00 +0000"
+        },
+        {
           "title": "The AI Era Is Creating a Bug Hunting Arms Race",
           "link": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
           "date": "Mon, 25 May 2026 10:30:00 +0000"
@@ -500,11 +531,6 @@
           "title": "The Gulf\u2019s AI Boom Has an Undersea Cable Problem",
           "link": "https://www.wired.com/story/the-gulfs-ai-boom-has-an-undersea-cable-problem/",
           "date": "Fri, 22 May 2026 09:00:00 +0000"
-        },
-        {
-          "title": "Can OpenAI\u2019s \u2018Master of Disaster\u2019 Fix AI\u2019s Reputation Crisis?",
-          "link": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/",
-          "date": "Fri, 22 May 2026 00:04:25 +0000"
         }
       ],
       "error": null
