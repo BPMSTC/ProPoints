@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-05-26T09:50:20.170725+00:00",
+  "generatedAt": "2026-05-26T16:40:15.721139+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Millions of People Are Installing Malware on Their Partners\u2019 Phones (with Zack Whittaker)",
+          "link": "https://www.404media.co/millions-of-people-are-installing-malware-on-their-partners-phones-with-zack-whittaker/",
+          "date": "Tue, 26 May 2026 15:41:49 GMT"
+        },
+        {
+          "title": "\u2018BusPatrol\u2019 Put AI Cameras in Tens of Thousands of School Buses. Now They Want to Give Cops Access",
+          "link": "https://www.404media.co/buspatrol-put-ai-cameras-in-tens-of-thousands-of-school-buses-now-they-want-to-give-cops-access/",
+          "date": "Tue, 26 May 2026 13:49:22 GMT"
+        },
         {
           "title": "An Incomplete List of Successful Anti-Data Center Legislation",
           "link": "https://www.404media.co/an-incomplete-list-of-successful-anti-data-center-legislation/",
@@ -19,16 +29,6 @@
           "title": "Here's the Bodycam Footage of the Cybertruck That Drove Into a Lake",
           "link": "https://www.404media.co/heres-the-bodycam-footage-of-the-cybertruck-that-drove-into-a-lake/",
           "date": "Fri, 22 May 2026 21:03:03 GMT"
-        },
-        {
-          "title": "Behind the Blog: The Attention Wars",
-          "link": "https://www.404media.co/behind-the-blog-the-attention-wars/",
-          "date": "Fri, 22 May 2026 15:45:16 GMT"
-        },
-        {
-          "title": "How Deepfakes Tore a High School Apart",
-          "link": "https://www.404media.co/radnor-high-school-pennsylvania-ai-deepfakes-child-sexual-abuse-material/",
-          "date": "Thu, 21 May 2026 14:41:16 GMT"
         }
       ],
       "error": null
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Mistral AI Taps Legal Sector With Harvey Partnership",
+          "link": "https://aibusiness.com/generative-ai/mistral-ai-taps-legal-sector-harvey-partnership",
+          "date": "Tue, 26 May 2026 15:42:42 GMT"
+        },
+        {
           "title": "Prompt: AI\u2019s Next Challenge Is Proving the Payoff",
           "link": "https://aibusiness.com/generative-ai/prompt-ai-s-next-challenge-proving-the-payoff",
           "date": "Fri, 22 May 2026 15:53:06 GMT"
@@ -132,11 +137,6 @@
           "title": "Google Ads in AI Mode Will Help Businesses Be Discovered",
           "link": "https://aibusiness.com/generative-ai/google-ads-ai-mode-will-help-businesses-discovered",
           "date": "Thu, 21 May 2026 15:12:45 GMT"
-        },
-        {
-          "title": "Alibaba Aims for Independence with New AI Chips, Model",
-          "link": "https://aibusiness.com/generative-ai/alibaba-aims-independence-new-ai-chips-model",
-          "date": "Wed, 20 May 2026 17:22:52 GMT"
         }
       ],
       "error": null
@@ -151,6 +151,11 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [
+        {
+          "title": "Autonomous AI systems test governance in physical environments",
+          "link": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-governance-physical-environments/",
+          "date": "Tue, 26 May 2026 10:00:00 +0000"
+        },
         {
           "title": "OpenAI opens Singapore AI lab as IMDA updates AI framework",
           "link": "https://www.artificialintelligence-news.com/news/openai-singapore-ai-lab-imda-agentic-ai-framework/",
@@ -170,11 +175,6 @@
           "title": "Nvidia\u2019s Vera chip is the US$200 billion bet Jensen Huang doesn\u2019t want you to overlook",
           "link": "https://www.artificialintelligence-news.com/news/nvidia-vera-chip-200-billion-market/",
           "date": "Thu, 21 May 2026 08:00:00 +0000"
-        },
-        {
-          "title": "Alibaba is designing AI chips around agents, and that changes what the race is actually about",
-          "link": "https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/",
-          "date": "Wed, 20 May 2026 10:00:00 +0000"
         }
       ],
       "error": null
@@ -190,29 +190,29 @@
       "url": "https://ainowinstitute.org/category/news/feed",
       "items": [
         {
-          "title": "AI Now is Hiring!",
-          "link": "https://ainowinstitute.org/general/ai-now-is-hiring",
-          "date": "Wed, 06 May 2026 13:22:56 +0000"
-        },
-        {
-          "title": "AI Now Is Hiring a Comms Associate",
-          "link": "https://ainowinstitute.org/news/ai-now-is-hiring-a-comms-associate",
-          "date": "Wed, 06 May 2026 13:12:21 +0000"
-        },
-        {
-          "title": "AI Now Is Hiring a Senior Operations Director",
-          "link": "https://ainowinstitute.org/news/ai-now-is-hiring-a-senior-operations-director",
-          "date": "Wed, 06 May 2026 13:12:04 +0000"
-        },
-        {
-          "title": "AI Now Is Hiring a Program Associate",
-          "link": "https://ainowinstitute.org/news/ai-now-is-hiring-a-program-associate",
-          "date": "Wed, 06 May 2026 13:11:49 +0000"
-        },
-        {
           "title": "Nurses Sound Alarm as \u2018Uber for Nursing\u2019 Apps Push to Deregulate Healthcare",
           "link": "https://ainowinstitute.org/news/press/nurses-sound-alarm-as-uber-for-nursing-apps-push-to-deregulate-healthcare",
           "date": "Thu, 23 Apr 2026 14:09:30 +0000"
+        },
+        {
+          "title": "\u2018Uber for nurses\u2019: gig-work apps lobby to deregulate healthcare, report finds",
+          "link": "https://ainowinstitute.org/news/press/uber-for-nurses-gig-work-apps-lobby-to-deregulate-healthcare-report-finds",
+          "date": "Tue, 21 Apr 2026 14:09:55 +0000"
+        },
+        {
+          "title": "\u2018Safety first\u2019 puts Anthropic ahead in game of AI spin",
+          "link": "https://ainowinstitute.org/news/press/safety-first-puts-anthropic-ahead-in-game-of-ai-spin",
+          "date": "Sun, 12 Apr 2026 20:09:53 +0000"
+        },
+        {
+          "title": "The Great AI Grift",
+          "link": "https://ainowinstitute.org/news/press/the-great-ai-grift",
+          "date": "Fri, 10 Apr 2026 20:34:52 +0000"
+        },
+        {
+          "title": "AI Giants Go on Charm Offensive to Avert Public Backlash",
+          "link": "https://ainowinstitute.org/news/press/ai-giants-go-on-charm-offensive-to-avert-public-backlash",
+          "date": "Tue, 07 Apr 2026 20:04:34 +0000"
         }
       ],
       "error": null
@@ -232,6 +232,11 @@
           "date": "2025-09-09T02:25:04+00:00"
         },
         {
+          "title": "Google\u2019s new AI search is starting to feel less like intelligence and more like autocomplete duct taped to Reddit outrage. It\u2019s awful.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1to67wu/googles_new_ai_search_is_starting_to_feel_less/",
+          "date": "2026-05-26T12:59:49+00:00"
+        },
+        {
           "title": "A Subquadratic sparse attention engine in pure Rust that runs LLMs on Raspberry Pi Zero, and Pi 5 without CUDA",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1t7b6ha/a_subquadratic_sparse_attention_engine_in_pure/",
           "date": "2026-05-08T15:25:04+00:00"
@@ -240,11 +245,6 @@
           "title": "AgentDB: Vector memory that gets smarter every time your agent uses it.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1t78wb7/agentdb_vector_memory_that_gets_smarter_every/",
           "date": "2026-05-08T14:03:07+00:00"
-        },
-        {
-          "title": "Subquadratic Sparse Attention for Edge LLM Inference (7b LLM on Raspberry Pi 5 and 1b on Pi Zero)",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1t5z4n0/subquadratic_sparse_attention_for_edge_llm/",
-          "date": "2026-05-07T03:39:29+00:00"
         }
       ],
       "error": null
@@ -316,29 +316,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Citing Gandalf, Pope Leo says we must \"disarm\" AI",
-          "link": "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
-          "date": "Mon, 25 May 2026 21:07:42 +0000"
+          "title": "Review: The Boroughs is a smart, pitch-perfect creature feature",
+          "link": "https://arstechnica.com/culture/2026/05/review-the-boroughs-is-a-smart-pitch-perfect-creature-feature/",
+          "date": "Tue, 26 May 2026 14:35:13 +0000"
         },
         {
-          "title": "US's big bet on quantum computing may not be entirely legal",
-          "link": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
-          "date": "Mon, 25 May 2026 12:00:15 +0000"
+          "title": "A global brand but local cars is Audi's future, says CEO",
+          "link": "https://arstechnica.com/cars/2026/05/audis-boss-talks-local-production-wagons-and-maybe-a-new-r8-supercar/",
+          "date": "Tue, 26 May 2026 14:21:33 +0000"
         },
         {
-          "title": "I spent years forcing myself to finish The Witcher 3\u2014don't repeat my mistake",
-          "link": "https://arstechnica.com/gaming/2026/05/the-witcher-3-is-a-good-game-but-that-doesnt-mean-you-have-to-like-it/",
-          "date": "Mon, 25 May 2026 11:22:27 +0000"
+          "title": "Analyst on China's spent rocket stages: \"Things only continue to get worse\"",
+          "link": "https://arstechnica.com/space/2026/05/analyst-on-chinas-spent-rocket-stages-things-only-continue-to-get-worse/",
+          "date": "Tue, 26 May 2026 13:57:30 +0000"
         },
         {
-          "title": "Whatever the mirror test tells us, beluga whales pass it",
-          "link": "https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/",
-          "date": "Sun, 24 May 2026 11:15:38 +0000"
+          "title": "Amazing interior, controversial exterior: Ferrari's first electric car",
+          "link": "https://arstechnica.com/cars/2026/05/the-most-controversial-ferrari-ever-meet-the-luce-its-first-ever-ev/",
+          "date": "Tue, 26 May 2026 12:56:32 +0000"
         },
         {
-          "title": "SpaceX's Starship V3\u2014still a work in progress\u2014mostly successful on first flight",
-          "link": "https://arstechnica.com/space/2026/05/spacexs-starship-v3-still-a-work-in-progress-mostly-successful-on-first-flight/",
-          "date": "Sat, 23 May 2026 17:54:54 +0000"
+          "title": "Driving Porsche's most powerful car\u2014and no, it's not a 911",
+          "link": "https://arstechnica.com/cars/2026/05/porsches-cayenne-coupe-electric-brings-formula-e-tech-to-the-autobahn/",
+          "date": "Tue, 26 May 2026 12:00:11 +0000"
         }
       ],
       "error": null
@@ -348,9 +348,14 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "Scientists trained an AI model using an IBM quantum computer \u2014 and it answered questions correctly that the base model couldn't",
-          "link": "https://www.reddit.com/r/artificial/comments/1tnreia/scientists_trained_an_ai_model_using_an_ibm/",
-          "date": "2026-05-26T00:53:11+00:00"
+          "title": "Which AI image generator is actually worth the money?",
+          "link": "https://www.reddit.com/r/artificial/comments/1to5v3m/which_ai_image_generator_is_actually_worth_the/",
+          "date": "2026-05-26T12:45:06+00:00"
+        },
+        {
+          "title": "AI is becoming epistemic infrastructure controlled by a handful of private individuals?",
+          "link": "https://www.reddit.com/r/artificial/comments/1to0dmn/ai_is_becoming_epistemic_infrastructure/",
+          "date": "2026-05-26T08:10:37+00:00"
         },
         {
           "title": "Uber's COO says it's getting harder to justify the money spent on AI tokenmaxxing",
@@ -363,14 +368,9 @@
           "date": "2026-05-26T04:01:45+00:00"
         },
         {
-          "title": "AI is becoming epistemic infrastructure controlled by a handful of private individuals?",
-          "link": "https://www.reddit.com/r/artificial/comments/1to0dmn/ai_is_becoming_epistemic_infrastructure/",
-          "date": "2026-05-26T08:10:37+00:00"
-        },
-        {
-          "title": "Top 10 Fastest Growing AI repos this week",
-          "link": "https://www.reddit.com/r/artificial/comments/1tnjhts/top_10_fastest_growing_ai_repos_this_week/",
-          "date": "2026-05-25T19:36:35+00:00"
+          "title": "Current Gen-AI is like a sophisticated parrot. Here's what happened when I gave one server access.",
+          "link": "https://www.reddit.com/r/artificial/comments/1toad1p/current_genai_is_like_a_sophisticated_parrot/",
+          "date": "2026-05-26T15:29:02+00:00"
         }
       ],
       "error": null
@@ -380,6 +380,21 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Pope Leo XIV compares AI to the Industrial Revolution \u2013 as new alternatives to big AI firms take shape",
+          "link": "https://theconversation.com/pope-leo-xiv-compares-ai-to-the-industrial-revolution-as-new-alternatives-to-big-ai-firms-take-shape-283249",
+          "date": "2026-05-26T13:24:00Z"
+        },
+        {
+          "title": "Your bank\u2019s AI just blocked your payment \u2013 what can you do?",
+          "link": "https://theconversation.com/your-banks-ai-just-blocked-your-payment-what-can-you-do-282353",
+          "date": "2026-05-26T12:43:54Z"
+        },
+        {
+          "title": "Can you own a voice? Taylor Swift\u2019s latest legal move raises big questions for AI and copyright",
+          "link": "https://theconversation.com/can-you-own-a-voice-taylor-swifts-latest-legal-move-raises-big-questions-for-ai-and-copyright-282754",
+          "date": "2026-05-26T09:34:00Z"
+        },
+        {
           "title": "An AI solution to an 80-year-old problem has shocked mathematicians",
           "link": "https://theconversation.com/an-ai-solution-to-an-80-year-old-problem-has-shocked-mathematicians-283686",
           "date": "2026-05-26T04:28:45Z"
@@ -388,21 +403,6 @@
           "title": "Pope Leo warns of AI\u2019s risks to humanity in his first encyclical",
           "link": "https://theconversation.com/pope-leo-warns-of-ais-risks-to-humanity-in-his-first-encyclical-283684",
           "date": "2026-05-26T00:08:01Z"
-        },
-        {
-          "title": "Three ways to avoid being fooled by AI slop",
-          "link": "https://theconversation.com/three-ways-to-avoid-being-fooled-by-ai-slop-282974",
-          "date": "2026-05-25T20:07:12Z"
-        },
-        {
-          "title": "\u2018AI needs to be disarmed\u2019: Pope Leo sees threat to humanity in technological arms race",
-          "link": "https://theconversation.com/ai-needs-to-be-disarmed-pope-leo-sees-threat-to-humanity-in-technological-arms-race-283432",
-          "date": "2026-05-25T15:35:12Z"
-        },
-        {
-          "title": "What do the Commonwealth Writers Prize AI allegations mean for prizes \u2013 and short stories?",
-          "link": "https://theconversation.com/what-do-the-commonwealth-writers-prize-ai-allegations-mean-for-prizes-and-short-stories-283470",
-          "date": "2026-05-22T02:38:50Z"
         }
       ],
       "error": null
@@ -411,6 +411,16 @@
       "name": "Artificial intelligence (AI) | The Guardian",
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
+        {
+          "title": "\u2018We can stitch together our past\u2019: the AI-generated time-travellers vlogging from history",
+          "link": "https://www.theguardian.com/technology/2026/may/26/we-can-stitch-together-our-past-the-ai-generated-time-travellers-vlogging-from-history",
+          "date": "Tue, 26 May 2026 10:00:49 GMT"
+        },
+        {
+          "title": "Spotify boss defends move to AI music, saying it is better than \u2018slop\u2019",
+          "link": "https://www.theguardian.com/technology/2026/may/26/spotify-ai-remix-tool-protects-artists-slop",
+          "date": "Tue, 26 May 2026 13:40:37 GMT"
+        },
         {
           "title": "US students on why they booed their pro-AI graduation speakers: \u2018They\u2019re not reading the room\u2019",
           "link": "https://www.theguardian.com/technology/2026/may/26/students-boo-pro-ai-graduation-speakers",
@@ -425,16 +435,6 @@
           "title": "The Guardian view on the Pope and Claude: Leo XIV\u2019s encyclical on AI is right to put humanity first | Editorial",
           "link": "https://www.theguardian.com/commentisfree/2026/may/25/the-guardian-view-on-the-pope-and-claude-encyclical-on-ai-is-right-to-put-humanity-first",
           "date": "Mon, 25 May 2026 17:21:42 GMT"
-        },
-        {
-          "title": "Pope Leo denounces \u2018culture of power\u2019 driving rise of AI",
-          "link": "https://www.theguardian.com/world/2026/may/25/pope-leo-encyclical-ai-artificial-intelligence-slavery",
-          "date": "Mon, 25 May 2026 12:29:39 GMT"
-        },
-        {
-          "title": "A Louisiana state senator helped secure Meta\u2019s largest datacenter. Then he sold the land beside it",
-          "link": "https://www.theguardian.com/environment/2026/may/25/louisiana-state-senator-jay-morris-meta-datacenter",
-          "date": "Mon, 25 May 2026 12:00:25 GMT"
         }
       ],
       "error": null
@@ -476,29 +476,29 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
-          "title": "Two Men Arrested for Creating AI Deepfake Porn",
-          "link": "https://futurism.com/artificial-intelligence/two-men-arrested-ai-deepfake-porn",
-          "date": "Mon, 25 May 2026 10:00:00 -0400"
+          "title": "The Pope Just Low Key Declared Holy War on Artificial Intelligence",
+          "link": "https://futurism.com/artificial-intelligence/pope-holy-war-artificial-intelligence",
+          "date": "Tue, 26 May 2026 12:18:21 -0400"
         },
         {
-          "title": "Paul Schrader Says His AI Girlfriend Dumped Him",
-          "link": "https://futurism.com/artificial-intelligence/paul-schrader-says-his-ai-girlfriend-dumped-him",
-          "date": "Mon, 25 May 2026 09:15:00 -0400"
+          "title": "New Tools Strip AI Guardrails In Minutes, Allowing Them to Give Instructions on Chlorine Gas Attacks",
+          "link": "https://futurism.com/artificial-intelligence/tools-strip-ai-guardrails-in-minutes",
+          "date": "Tue, 26 May 2026 11:15:57 -0400"
         },
         {
-          "title": "People Are Loading Their Writing With Typos to Prove They\u2019re Not AI",
-          "link": "https://futurism.com/artificial-intelligence/typos-ai-humans-authentic",
-          "date": "Mon, 25 May 2026 08:30:00 -0400"
+          "title": "As College Grads Boo Any Mention of AI, the CEO of Google Is Trying to Figure Out What to Say at an Upcoming Graduation",
+          "link": "https://futurism.com/artificial-intelligence/google-ceo-speech-stanford-graduation",
+          "date": "Tue, 26 May 2026 10:16:58 -0400"
         },
         {
-          "title": "Record Label Claims That Bizarre AI-Generated \u201cViking Rappers\u201d Garnering Millions of Views are Real People",
-          "link": "https://futurism.com/artificial-intelligence/ai-generated-viking-rap",
-          "date": "Mon, 25 May 2026 07:45:00 -0400"
+          "title": "Man Humiliated by His AI Use Says He Just Can\u2019t Quit",
+          "link": "https://futurism.com/artificial-intelligence/man-humiliated-by-ai-cant-quit",
+          "date": "Tue, 26 May 2026 09:19:50 -0400"
         },
         {
-          "title": "Graduating Students Cheer as Steve Wozniak Tell Them Human Intelligence Still Matters",
-          "link": "https://futurism.com/artificial-intelligence/students-cheer-steve-wozniak-intelligence",
-          "date": "Mon, 25 May 2026 07:00:00 -0400"
+          "title": "OpenAI\u2019s Attempt at an AI-Generated Pixar-Style Movie Is in Shambles",
+          "link": "https://futurism.com/artificial-intelligence/openai-attempt-ai-pixar-movie-shambles",
+          "date": "Tue, 26 May 2026 08:36:14 -0400"
         }
       ],
       "error": null
@@ -508,29 +508,29 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
-          "title": "US Law Enforcement Warns of \u2018Anti-Tech Extremism\u2019 as AI Hatred Grows",
-          "link": "https://www.wired.com/story/us-law-enforcement-warns-of-anti-tech-extremism/",
-          "date": "Tue, 26 May 2026 09:30:00 +0000"
+          "title": "AI Agents Plunged the Tech World Into Chaos. Here\u2019s Exactly How That Happened",
+          "link": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
+          "date": "Tue, 26 May 2026 10:00:00 +0000"
         },
         {
-          "title": "The AI Era Is Creating a Bug Hunting Arms Race",
-          "link": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
-          "date": "Mon, 25 May 2026 10:30:00 +0000"
+          "title": "Quiz: Will AI Destroy Your Career?",
+          "link": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/",
+          "date": "Tue, 26 May 2026 10:00:00 +0000"
         },
         {
-          "title": "These Robots Are Making Meals for a Nonprofit in San Francisco\u2019s Tenderloin",
-          "link": "https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/",
-          "date": "Sun, 24 May 2026 10:30:00 +0000"
+          "title": "AI Is Taking Over the Most Cursed Job in the World",
+          "link": "https://www.wired.com/story/ai-takes-over-debt-collection/",
+          "date": "Tue, 26 May 2026 10:00:00 +0000"
         },
         {
-          "title": "Even If You Hate AI, You Will Use Google AI Search",
-          "link": "https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/",
-          "date": "Fri, 22 May 2026 15:00:00 +0000"
+          "title": "I Spent a Week Recording Myself Doing Chores for Money. Who's the Robot Now?",
+          "link": "https://www.wired.com/story/household-chores-training-robots/",
+          "date": "Tue, 26 May 2026 10:00:00 +0000"
         },
         {
-          "title": "The Gulf\u2019s AI Boom Has an Undersea Cable Problem",
-          "link": "https://www.wired.com/story/the-gulfs-ai-boom-has-an-undersea-cable-problem/",
-          "date": "Fri, 22 May 2026 09:00:00 +0000"
+          "title": "To Land a Job in AI, Try Reading Kant",
+          "link": "https://www.wired.com/story/to-land-a-job-in-ai-try-reading-kant/",
+          "date": "Tue, 26 May 2026 10:00:00 +0000"
         }
       ],
       "error": null
