@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T15:33:47.020166+00:00",
+  "generatedAt": "2026-05-27T18:24:28.990253+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -70,11 +70,6 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
-          "title": "AI agents keep breaking in production.  Here's why nobody's fixed it yet.",
-          "link": "https://www.aiacceleratorinstitute.com/ai-agents-keep-breaking-in-production-heres-why-nobodys-fixed-it-yet-2/",
-          "date": "Tue, 26 May 2026 09:02:36 GMT"
-        },
-        {
           "title": "The 3 reasons your AI never  makes it to production",
           "link": "https://www.aiacceleratorinstitute.com/the-3-reasons-your-ai-never-makes-it-to-production/",
           "date": "Fri, 22 May 2026 15:00:40 GMT"
@@ -93,6 +88,11 @@
           "title": "Your data engineers may be  more influential than you think",
           "link": "https://www.aiacceleratorinstitute.com/your-data-engineers-may-be-more-influential-than-you-think/",
           "date": "Thu, 14 May 2026 15:59:02 GMT"
+        },
+        {
+          "title": "The future AI team: What  enterprise AI organizations may look like by 2030",
+          "link": "https://www.aiacceleratorinstitute.com/the-future-ai-team-what-enterprise-ai-organizations-may-look-like-by-2030/",
+          "date": "Wed, 13 May 2026 15:32:37 GMT"
         }
       ],
       "error": null
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "Google folds Display Ads into AI-first Demand Gen platform",
-          "link": "https://www.artificialintelligence-news.com/news/google-folds-display-ads-ai-first-demand-gen-platform/",
-          "date": "Wed, 27 May 2026 13:12:06 +0000"
-        },
-        {
-          "title": "Exploring the Benefits of AI Bots for Forex Trading in Forex Markets",
-          "link": "https://www.artificialintelligence-news.com/news/exploring-the-benefits-of-ai-bots-for-forex-trading-in-forex-markets/",
-          "date": "Wed, 27 May 2026 12:38:44 +0000"
-        },
-        {
-          "title": "Autonomous AI systems test governance in physical environments",
-          "link": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-governance-physical-environments/",
-          "date": "Tue, 26 May 2026 10:00:00 +0000"
-        },
-        {
-          "title": "OpenAI opens Singapore AI lab as IMDA updates AI framework",
-          "link": "https://www.artificialintelligence-news.com/news/openai-singapore-ai-lab-imda-agentic-ai-framework/",
-          "date": "Fri, 22 May 2026 10:00:00 +0000"
-        },
-        {
-          "title": "China\u2019s AI just mapped its entire renewable energy grid. Here\u2019s why the rest of the world should pay attention",
-          "link": "https://www.artificialintelligence-news.com/news/ai-energy-grid-mapping-china/",
-          "date": "Fri, 22 May 2026 10:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -316,29 +290,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Motorola's 2026 Razrs are almost worth buying just for their stunning looks\u2026 almost",
-          "link": "https://arstechnica.com/gadgets/2026/05/motorolas-2026-razrs-are-almost-worth-buying-just-for-their-stunning-looks-almost/",
-          "date": "Wed, 27 May 2026 11:00:28 +0000"
+          "title": "US Space Force confirms SpaceX will build sensor-to-shooter targeting network",
+          "link": "https://arstechnica.com/space/2026/05/us-space-force-confirms-spacex-will-build-sensor-to-shooter-targeting-network/",
+          "date": "Wed, 27 May 2026 18:19:51 +0000"
         },
         {
-          "title": "US law enforcement warns of \"anti-tech extremism\" as AI hatred grows",
-          "link": "https://arstechnica.com/ai/2026/05/us-law-enforcement-warns-of-anti-tech-extremism-as-ai-hatred-grows/",
-          "date": "Wed, 27 May 2026 10:30:28 +0000"
+          "title": "Disclosure Day final trailer features Spielberg himself",
+          "link": "https://arstechnica.com/culture/2026/05/disclosure-day-final-trailer-features-spielberg-himself/",
+          "date": "Wed, 27 May 2026 17:51:07 +0000"
         },
         {
-          "title": "Is Peter Thiel the target of Pope Leo's Gandalf quote? An investigation.",
-          "link": "https://arstechnica.com/tech-policy/2026/05/is-peter-thiel-the-target-of-pope-leos-gandalf-quote-an-investigation/",
-          "date": "Tue, 26 May 2026 22:27:32 +0000"
+          "title": "YouTube to begin automatically labeling AI videos",
+          "link": "https://arstechnica.com/google/2026/05/youtube-to-begin-automatically-labeling-ai-videos/",
+          "date": "Wed, 27 May 2026 17:36:10 +0000"
         },
         {
-          "title": "Musk says US military suicide drones used Starlink in violation of SpaceX rules",
-          "link": "https://arstechnica.com/tech-policy/2026/05/musk-says-us-military-suicide-drones-used-starlink-in-violation-of-spacex-rules/",
-          "date": "Tue, 26 May 2026 21:23:56 +0000"
+          "title": "Smart light company Govee apologizes for \u201cwhite supremacy\u201d marketing imagery",
+          "link": "https://arstechnica.com/gadgets/2026/05/govee-says-it-mistakenly-licensed-white-supremacy-book-pic-to-sell-smart-lights/",
+          "date": "Wed, 27 May 2026 17:00:50 +0000"
         },
         {
-          "title": "NASA takes steps toward building Moon Base, including discussing a \"perimeter\"",
-          "link": "https://arstechnica.com/space/2026/05/nasa-takes-steps-toward-building-moon-base-including-discussing-a-perimeter/",
-          "date": "Tue, 26 May 2026 21:03:03 +0000"
+          "title": "Nvidia kills Windows XP-era Control Panel \"after 20 years of dedicated service\"",
+          "link": "https://arstechnica.com/gadgets/2026/05/nvidia-kills-windows-xp-era-control-panel-after-20-years-of-dedicated-service/",
+          "date": "Wed, 27 May 2026 15:06:01 +0000"
         }
       ],
       "error": null
@@ -347,6 +321,11 @@
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
+        {
+          "title": "Nothing is real anymore. We are reaching the point where crowd scenes can be entirely generated by AI.",
+          "link": "https://www.reddit.com/r/artificial/comments/1tp9ujl/nothing_is_real_anymore_we_are_reaching_the_point/",
+          "date": "2026-05-27T15:59:20+00:00"
+        },
         {
           "title": "Looking for an AI image generator, what's the best one",
           "link": "https://www.reddit.com/r/artificial/comments/1tp80d6/looking_for_an_ai_image_generator_whats_the_best/",
@@ -363,14 +342,9 @@
           "date": "2026-05-27T02:38:41+00:00"
         },
         {
-          "title": "Trisha Gee: AI Won't Fix Your Broken Pipeline",
-          "link": "https://www.reddit.com/r/artificial/comments/1tp6ang/trisha_gee_ai_wont_fix_your_broken_pipeline/",
-          "date": "2026-05-27T13:54:37+00:00"
-        },
-        {
-          "title": "How to not doom over AI? Anything encouraging about the future?",
-          "link": "https://www.reddit.com/r/artificial/comments/1tp38j9/how_to_not_doom_over_ai_anything_encouraging/",
-          "date": "2026-05-27T11:51:59+00:00"
+          "title": "The Most Terrifying Superintelligence Might Not Want to Rule Us at All.",
+          "link": "https://www.reddit.com/r/artificial/comments/1tp6f4m/the_most_terrifying_superintelligence_might_not/",
+          "date": "2026-05-27T13:59:25+00:00"
         }
       ],
       "error": null
@@ -417,6 +391,11 @@
           "date": "Wed, 27 May 2026 11:41:20 GMT"
         },
         {
+          "title": "The Guardian view on Tony Blair\u2019s advice for Labour: policymaking like it\u2019s 1999 will not lead to a revival | Editorial",
+          "link": "https://www.theguardian.com/commentisfree/2026/may/27/the-guardian-view-on-tony-blairs-advice-for-labour-policymaking-like-its-1999-will-not-lead-to-a-revival",
+          "date": "Wed, 27 May 2026 17:58:40 GMT"
+        },
+        {
           "title": "Tony Blair is strong on diagnosis, deluded on prescription: Britain\u2019s ills can\u2019t be fixed by him | Larry Elliott",
           "link": "https://www.theguardian.com/commentisfree/2026/may/27/tony-blair-strong-diagnosis-deluded-prescription-britain-artificial-intelligence",
           "date": "Wed, 27 May 2026 13:26:40 GMT"
@@ -430,11 +409,6 @@
           "title": "Spotify boss defends move to AI music, saying it is better than \u2018slop\u2019",
           "link": "https://www.theguardian.com/technology/2026/may/26/spotify-ai-remix-tool-protects-artists-slop",
           "date": "Tue, 26 May 2026 13:40:37 GMT"
-        },
-        {
-          "title": "\u2018We can stitch together our past\u2019: the AI-generated time-travellers vlogging from history",
-          "link": "https://www.theguardian.com/technology/2026/may/26/we-can-stitch-together-our-past-the-ai-generated-time-travellers-vlogging-from-history",
-          "date": "Tue, 26 May 2026 10:00:49 GMT"
         }
       ],
       "error": null
@@ -476,6 +450,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Nvidia CEO Begs Execs to Stop Telling Workers They\u2019re Fired Because of AI",
+          "link": "https://futurism.com/artificial-intelligence/nvidia-ceo-begs-execs-stop-fired-ai",
+          "date": "Wed, 27 May 2026 13:01:05 -0400"
+        },
+        {
           "title": "Uber Says Its AI Costs Just Aren\u2019t Worth It",
           "link": "https://futurism.com/artificial-intelligence/uber-ai-costs-arent-worth-it",
           "date": "Wed, 27 May 2026 10:57:39 -0400"
@@ -494,11 +473,6 @@
           "title": "99 Percent of CEOs Are Preparing to Lay Off Workers and Replace Them With AI Within Two Years, Survey Finds",
           "link": "https://futurism.com/artificial-intelligence/99-percent-ceos-workers-ai-survey",
           "date": "Tue, 26 May 2026 15:17:37 -0400"
-        },
-        {
-          "title": "The Pope Just Low Key Declared Holy War on Artificial Intelligence",
-          "link": "https://futurism.com/artificial-intelligence/pope-holy-war-artificial-intelligence",
-          "date": "Tue, 26 May 2026 12:18:21 -0400"
         }
       ],
       "error": null
@@ -507,6 +481,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Huawei's \u2018Chip Queen\u2019 Throws Down the Gauntlet",
+          "link": "https://www.wired.com/story/huawei-chip-queen-moores-law-tau/",
+          "date": "Wed, 27 May 2026 18:00:00 +0000"
+        },
         {
           "title": "Former Google and Apple Researchers Launch a Startup to Build AI\u2019s Missing Feedback Loop",
           "link": "https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/",
@@ -526,11 +505,6 @@
           "title": "What Pope Leo XIV\u2019s First Encyclical Says About the Power of AI",
           "link": "https://www.wired.com/story/what-pope-leo-xivs-first-encyclical-says-about-the-power-of-ai/",
           "date": "Tue, 26 May 2026 20:17:47 +0000"
-        },
-        {
-          "title": "AI Agents Plunged the Tech World Into Chaos. Here\u2019s Exactly How That Happened",
-          "link": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
-          "date": "Tue, 26 May 2026 10:00:00 +0000"
         }
       ],
       "error": null
