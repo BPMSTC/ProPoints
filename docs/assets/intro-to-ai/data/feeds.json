@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-05-29T13:57:27.784922+00:00",
+  "generatedAt": "2026-05-29T17:34:59.813266+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Behind the Blog: Being New and Some Numbers",
+          "link": "https://www.404media.co/behind-the-blog-being-new-and-some-numbers/",
+          "date": "Fri, 29 May 2026 16:06:59 GMT"
+        },
         {
           "title": "New Study Reveals the Manipulative \u2018Dark Patterns\u2019 of AI Chatbots",
           "link": "https://www.404media.co/new-study-reveals-the-manipulative-dark-patterns-of-ai-chatbots/",
@@ -24,11 +29,6 @@
           "title": "\u2018Cracked Oura\u2019 Is an App For Using the Oura Ring Without the Monthly Subscription",
           "link": "https://www.404media.co/cracked-oura-can-you-use-oura-without-monthly-subscription/",
           "date": "Thu, 28 May 2026 14:40:07 GMT"
-        },
-        {
-          "title": "Headway Therapy Patients Forced to Scan Their Faces to Keep Getting Care",
-          "link": "https://www.404media.co/headway-therapy-facial-scan-biometric-data-identity-verification/",
-          "date": "Thu, 28 May 2026 13:53:25 GMT"
         }
       ],
       "error": null
@@ -114,12 +114,22 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Prompt: Robinhood Wants AI Agents to Trade, Spend on Your Behalf",
+          "link": "https://aibusiness.com/agentic-ai/robinhood-wants-ai-agents-trade-spend-your-behalf",
+          "date": "Fri, 29 May 2026 15:28:39 GMT"
+        },
+        {
+          "title": "Anthropic Opus 4.8 Shows the AI Lab is Paying Attention to Customers",
+          "link": "https://aibusiness.com/generative-ai/anthropic-opus-4-8-shows-ai-lab-is-paying-attention-customers",
+          "date": "Fri, 29 May 2026 15:14:28 GMT"
+        },
+        {
           "title": "Neocloud Vendor CoreWeave Builds Up Software Stack",
           "link": "https://aibusiness.com/data-centers/neocloud-vendor-coreweave-builds-up-software-stack",
           "date": "Thu, 28 May 2026 20:28:15 GMT"
         },
         {
-          "title": "IBM and Red Hat Invest $5 Billion to Make Open Source More Secure",
+          "title": "IBM and Red Hat Invest $5B to Make Open Source More Secure",
           "link": "https://aibusiness.com/generative-ai/ibm-red-hat-invest-5-billion-make-open-source-more-secure",
           "date": "Thu, 28 May 2026 19:49:48 GMT"
         },
@@ -127,16 +137,6 @@
           "title": "Mistral AI, Digital Realty Partner to Scale European AI Infrastructure",
           "link": "https://aibusiness.com/generative-ai/mistral-ai-digital-realty-partner-scale-european-ai-infrastructure",
           "date": "Thu, 28 May 2026 19:10:33 GMT"
-        },
-        {
-          "title": "AI Coding Startup Now Valued at $26 billion",
-          "link": "https://aibusiness.com/generative-ai/ai-coding-startup-valued-at-26-billion",
-          "date": "Thu, 28 May 2026 18:50:05 GMT"
-        },
-        {
-          "title": "AWS Rebuilds OpenSearch Serverless, Intros Agent Skills",
-          "link": "https://aibusiness.com/generative-ai/aws-rebuilds-opensearch-serverless-intros-agent-skills",
-          "date": "Thu, 28 May 2026 18:18:56 GMT"
         }
       ],
       "error": null
@@ -150,8 +150,34 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "Scaling safe enterprise AI with OpenAI governance frameworks",
+          "link": "https://www.artificialintelligence-news.com/news/scaling-safe-enterprise-ai-openai-governance-frameworks/",
+          "date": "Fri, 29 May 2026 16:24:58 +0000"
+        },
+        {
+          "title": "Anthropic releases Claude Opus 4.8",
+          "link": "https://www.artificialintelligence-news.com/news/anthropic-releases-claude-opus-4-8-news/",
+          "date": "Fri, 29 May 2026 10:44:00 +0000"
+        },
+        {
+          "title": "Google Pay preps for AI agents with Universal Commerce Protocol",
+          "link": "https://www.artificialintelligence-news.com/news/google-pay-ai-agents-universal-commerce-protocol/",
+          "date": "Thu, 28 May 2026 14:55:43 +0000"
+        },
+        {
+          "title": "NBA plans AI system for automatic out-of-bounds calls",
+          "link": "https://www.artificialintelligence-news.com/news/nba-ai-out-of-bounds-calls/",
+          "date": "Thu, 28 May 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Google folds Display Ads into AI-first Demand Gen platform",
+          "link": "https://www.artificialintelligence-news.com/news/google-folds-display-ads-ai-first-demand-gen-platform/",
+          "date": "Wed, 27 May 2026 13:12:06 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,29 +316,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Startup offers free home cleaning\u2014if it can record it all for robot training",
+          "link": "https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/",
+          "date": "Fri, 29 May 2026 16:16:14 +0000"
+        },
+        {
+          "title": "After years of stability, F1 reliability can no longer be taken for granted",
+          "link": "https://arstechnica.com/cars/2026/05/f1-in-2026-to-finish-first-first-you-have-to-finish/",
+          "date": "Fri, 29 May 2026 16:03:28 +0000"
+        },
+        {
+          "title": "Severed sea cucumber appendages don't seem to die",
+          "link": "https://arstechnica.com/science/2026/05/severed-sea-cucumber-appendages-dont-seem-to-die/",
+          "date": "Fri, 29 May 2026 15:10:29 +0000"
+        },
+        {
           "title": "Rocket Report: A dark day for Blue Origin; Pentagon eyes new launch site",
           "link": "https://arstechnica.com/space/2026/05/rocket-report-blue-origin-suffers-setback-spacexs-falcon-9-wins-new-business/",
           "date": "Fri, 29 May 2026 13:03:46 +0000"
         },
         {
           "title": "Here's why the failure of Blue Origin's New Glenn rocket is so catastrophic",
-          "link": "https://arstechnica.com/features/2026/05/heres-why-the-failure-of-blue-origins-new-glenn-rocket-is-so-catastrophic/",
+          "link": "https://arstechnica.com/space/2026/05/heres-why-the-failure-of-blue-origins-new-glenn-rocket-is-so-catastrophic/",
           "date": "Fri, 29 May 2026 12:43:35 +0000"
-        },
-        {
-          "title": "These researchers would be in Africa fighting ebola\u2014but Trump cut their funding",
-          "link": "https://arstechnica.com/health/2026/05/these-researchers-would-be-in-africa-fighting-ebola-but-trump-cut-their-funding/",
-          "date": "Fri, 29 May 2026 10:30:40 +0000"
-        },
-        {
-          "title": "The most spectacular rocket explosion since N1 just happened in Florida",
-          "link": "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
-          "date": "Fri, 29 May 2026 02:21:08 +0000"
-        },
-        {
-          "title": "2027 Audi RS5 first drive: A performance PHEV with split personalities",
-          "link": "https://arstechnica.com/cars/2026/05/2027-audi-rs5-first-drive-a-performance-phev-with-split-personalities/",
-          "date": "Thu, 28 May 2026 22:01:02 +0000"
         }
       ],
       "error": null
@@ -322,9 +348,19 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
+          "title": "Your brain does on 20 watts what AI needs a nuclear reactor to attempt. Last week a team figured out how to print something that actually speaks to living brain cells.",
+          "link": "https://www.reddit.com/r/artificial/comments/1tr4kau/your_brain_does_on_20_watts_what_ai_needs_a/",
+          "date": "2026-05-29T15:01:27+00:00"
+        },
+        {
           "title": "Microsoft data suggests using AI is more expensive than hiring people",
           "link": "https://www.reddit.com/r/artificial/comments/1tqm10c/microsoft_data_suggests_using_ai_is_more/",
           "date": "2026-05-29T00:48:14+00:00"
+        },
+        {
+          "title": "Anthropic overtakes OpenAI as the most valuable AI startup at $965B",
+          "link": "https://www.reddit.com/r/artificial/comments/1tr0chv/anthropic_overtakes_openai_as_the_most_valuable/",
+          "date": "2026-05-29T12:28:48+00:00"
         },
         {
           "title": "Google reached AGI ?\ud83d\udea8\ud83d\udea8",
@@ -335,16 +371,6 @@
           "title": "Researchers let AI models run a simulated society. Claude was the safest\u2014and Grok committed 180 crimes and went extinct within 4 days",
           "link": "https://www.reddit.com/r/artificial/comments/1tqsdd9/researchers_let_ai_models_run_a_simulated_society/",
           "date": "2026-05-29T05:43:20+00:00"
-        },
-        {
-          "title": "Apparently I\u2019m using Boogle",
-          "link": "https://www.reddit.com/r/artificial/comments/1tr0w0a/apparently_im_using_boogle/",
-          "date": "2026-05-29T12:50:27+00:00"
-        },
-        {
-          "title": "Anthropic overtakes OpenAI as the most valuable AI startup at $965B",
-          "link": "https://www.reddit.com/r/artificial/comments/1tr0chv/anthropic_overtakes_openai_as_the_most_valuable/",
-          "date": "2026-05-29T12:28:48+00:00"
         }
       ],
       "error": null
@@ -450,6 +476,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "DuckDuckGo Installs Spike as Google Moves to Replace Search With AI",
+          "link": "https://futurism.com/artificial-intelligence/duckduckgo-installs-spike-google-search-ai",
+          "date": "Fri, 29 May 2026 13:08:17 -0400"
+        },
+        {
           "title": "Corporations Reeling From Huge AI Costs With No Clear Benefits",
           "link": "https://futurism.com/artificial-intelligence/corporations-ai-costs-no-benefits",
           "date": "Fri, 29 May 2026 09:04:38 -0400"
@@ -468,11 +499,6 @@
           "title": "Anthropic Customers Creeped Out by Its Newest Models",
           "link": "https://futurism.com/artificial-intelligence/anthropic-customers-creeped-out-models",
           "date": "Thu, 28 May 2026 14:01:59 -0400"
-        },
-        {
-          "title": "Influential Tech Founder Says His Peers Are Suffering From Mass AI Psychosis",
-          "link": "https://futurism.com/artificial-intelligence/influential-tech-founder-box-ai-psychosis",
-          "date": "Thu, 28 May 2026 11:46:58 -0400"
         }
       ],
       "error": null
@@ -481,6 +507,16 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "We Asked the \u2018Future of Truth\u2019 Author to Explain How He Used AI. It Didn\u2019t Go Well",
+          "link": "https://www.wired.com/story/future-of-truth-ai-interview/",
+          "date": "Fri, 29 May 2026 16:30:00 +0000"
+        },
+        {
+          "title": "The Vatican\u2019s Man Inside Anthropic",
+          "link": "https://www.wired.com/story/the-vaticans-man-inside-anthropic/",
+          "date": "Fri, 29 May 2026 15:00:00 +0000"
+        },
         {
           "title": "Here Comes Ojai, Waymo\u2019s New Chinese-Made Robotaxi",
           "link": "https://www.wired.com/story/here-comes-ojai-waymos-new-chinese-made-robotaxi/",
@@ -495,16 +531,6 @@
           "title": "Amazon Thinks the Future of Data Centers Depends on a Technical Problem It Just Solved",
           "link": "https://www.wired.com/story/amazon-thinks-the-future-of-data-centers-depends-on-a-technical-problem-it-just-solved/",
           "date": "Thu, 28 May 2026 10:30:00 +0000"
-        },
-        {
-          "title": "Illinois Lawmakers Just Passed America\u2019s Strongest AI Safety Bill",
-          "link": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
-          "date": "Thu, 28 May 2026 00:10:42 +0000"
-        },
-        {
-          "title": "Huawei's \u2018Chip Queen\u2019 Throws Down the Gauntlet",
-          "link": "https://www.wired.com/story/huawei-chip-queen-moores-law-tau/",
-          "date": "Wed, 27 May 2026 18:00:00 +0000"
         }
       ],
       "error": null
