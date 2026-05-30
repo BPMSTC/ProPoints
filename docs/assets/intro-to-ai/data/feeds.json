@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-05-30T11:23:19.204980+00:00",
+  "generatedAt": "2026-05-30T13:23:17.067999+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "\u2018Highly Plausible\u2019 Aliens on Europa Are Earthlings\u2019 Descendants, Study Says",
+          "link": "https://www.404media.co/highly-plausible-aliens-on-europa-are-earthlings-descendants-study-says/",
+          "date": "Sat, 30 May 2026 13:00:00 GMT"
+        },
         {
           "title": "Behind the Blog: Being New and Some Numbers",
           "link": "https://www.404media.co/behind-the-blog-being-new-and-some-numbers/",
@@ -24,11 +29,6 @@
           "title": "The Sun Is Undergoing a Mysterious Change and Nobody Knows Why",
           "link": "https://www.404media.co/sun-magnetic-activity-changes-study/",
           "date": "Thu, 28 May 2026 15:28:47 GMT"
-        },
-        {
-          "title": "\u2018Cracked Oura\u2019 Is an App For Using the Oura Ring Without the Monthly Subscription",
-          "link": "https://www.404media.co/cracked-oura-can-you-use-oura-without-monthly-subscription/",
-          "date": "Thu, 28 May 2026 14:40:07 GMT"
         }
       ],
       "error": null
@@ -150,34 +150,8 @@
     {
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
-      "items": [
-        {
-          "title": "Scaling safe enterprise AI with OpenAI governance frameworks",
-          "link": "https://www.artificialintelligence-news.com/news/scaling-safe-enterprise-ai-openai-governance-frameworks/",
-          "date": "Fri, 29 May 2026 16:24:58 +0000"
-        },
-        {
-          "title": "Anthropic releases Claude Opus 4.8",
-          "link": "https://www.artificialintelligence-news.com/news/anthropic-releases-claude-opus-4-8-news/",
-          "date": "Fri, 29 May 2026 10:44:00 +0000"
-        },
-        {
-          "title": "Google Pay preps for AI agents with Universal Commerce Protocol",
-          "link": "https://www.artificialintelligence-news.com/news/google-pay-ai-agents-universal-commerce-protocol/",
-          "date": "Thu, 28 May 2026 14:55:43 +0000"
-        },
-        {
-          "title": "NBA plans AI system for automatic out-of-bounds calls",
-          "link": "https://www.artificialintelligence-news.com/news/nba-ai-out-of-bounds-calls/",
-          "date": "Thu, 28 May 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Google folds Display Ads into AI-first Demand Gen platform",
-          "link": "https://www.artificialintelligence-news.com/news/google-folds-display-ads-ai-first-demand-gen-platform/",
-          "date": "Wed, 27 May 2026 13:12:06 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -316,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Grifters, cynics, and true believers: The family tree of vaccine opponents",
+          "link": "https://arstechnica.com/science/2026/05/grifters-cynics-and-true-believers-the-family-tree-of-vaccine-opponents/",
+          "date": "Sat, 30 May 2026 11:00:05 +0000"
+        },
+        {
           "title": "Environmentalists turn out in force to oppose Trump coal ash rollbacks",
           "link": "https://arstechnica.com/tech-policy/2026/05/environmentalists-turn-out-in-force-to-oppose-trump-coal-ash-rollbacks/",
           "date": "Sat, 30 May 2026 10:00:38 +0000"
@@ -334,11 +313,6 @@
           "title": "Botnet of more than 17 million devices dismantled",
           "link": "https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/",
           "date": "Fri, 29 May 2026 18:46:33 +0000"
-        },
-        {
-          "title": "Analysis of Texas measles outbreak shows just how dangerous virus is",
-          "link": "https://arstechnica.com/health/2026/05/analysis-of-texas-measles-outbreak-shows-just-how-dangerous-virus-is/",
-          "date": "Fri, 29 May 2026 18:35:38 +0000"
         }
       ],
       "error": null
@@ -412,6 +386,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Anthropic\u2019s alliance with pope on AI harms: all in good faith or \u2018Vatican-washing?\u2019",
+          "link": "https://www.theguardian.com/technology/2026/may/30/pope-leo-anthropic-ai",
+          "date": "Sat, 30 May 2026 13:00:20 GMT"
+        },
+        {
           "title": "Americans echo Pope Leo\u2019s concerns about AI: \u2018It threatens workers, privacy and human life\u2019",
           "link": "https://www.theguardian.com/world/2026/may/30/pope-leo-ai-reaction",
           "date": "Sat, 30 May 2026 11:00:17 GMT"
@@ -430,11 +409,6 @@
           "title": "Why I\u2019m grateful to the Pope for his encyclical on AI | Francine Prose",
           "link": "https://www.theguardian.com/commentisfree/2026/may/29/pope-ai-encyclical",
           "date": "Fri, 29 May 2026 10:00:47 GMT"
-        },
-        {
-          "title": "Anthropic reaches valuation of $965bn, beating OpenAI to become world\u2019s most valuable AI firm",
-          "link": "https://www.theguardian.com/technology/2026/may/28/anthropic-ai-valuation",
-          "date": "Thu, 28 May 2026 19:56:23 GMT"
         }
       ],
       "error": null
@@ -476,6 +450,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Harvard Graduation Speaker Unloads on AI in Profanity-Loaded Tirade, Prompting Cheers From Students: \u201cI\u2019m Here to Tell You the Mission of Your Generation Is to Destroy AI\u201d",
+          "link": "https://futurism.com/artificial-intelligence/harvard-graduation-ronny-chieng-ai-tirade",
+          "date": "Sat, 30 May 2026 09:00:00 -0400"
+        },
+        {
           "title": "Tesla Insiders Admit Self-Driving Is a Complete Disaster",
           "link": "https://futurism.com/advanced-transport/tesla-insiders-self-driving-disaster",
           "date": "Fri, 29 May 2026 16:10:11 -0400"
@@ -494,11 +473,6 @@
           "title": "Corporations Reeling From Huge AI Costs With No Clear Benefits",
           "link": "https://futurism.com/artificial-intelligence/corporations-ai-costs-no-benefits",
           "date": "Fri, 29 May 2026 09:04:38 -0400"
-        },
-        {
-          "title": "CEO Receives Violent Threats After Kicking Off AI Layoffs",
-          "link": "https://futurism.com/artificial-intelligence/ceo-receives-threats-ai-layoffs",
-          "date": "Thu, 28 May 2026 16:09:53 -0400"
         }
       ],
       "error": null
