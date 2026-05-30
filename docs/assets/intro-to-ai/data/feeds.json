@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T15:03:42.234416+00:00",
+  "generatedAt": "2026-05-30T17:00:19.082968+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -450,6 +450,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "AI Filmmaker Compares His Tech to Something That Gets Worse the More You Think About It",
+          "link": "https://futurism.com/artificial-intelligence/ai-filmmaker-normal-analogy-of-all-time",
+          "date": "Sat, 30 May 2026 11:15:00 -0400"
+        },
+        {
           "title": "Why Is Sam Altman Teaming Up With Jared Leto, a Creep With Extensive Sex Abuse Allegations?",
           "link": "https://futurism.com/artificial-intelligence/sam-altman-jared-leto-sex-abuse-allegations",
           "date": "Sat, 30 May 2026 10:30:00 -0400"
@@ -468,11 +473,6 @@
           "title": "Tesla Insiders Admit Self-Driving Is a Complete Disaster",
           "link": "https://futurism.com/advanced-transport/tesla-insiders-self-driving-disaster",
           "date": "Fri, 29 May 2026 16:10:11 -0400"
-        },
-        {
-          "title": "Fans Aghast as New York Jets Say They\u2019re Switching to AI",
-          "link": "https://futurism.com/artificial-intelligence/nfl-new-york-jets-ai",
-          "date": "Fri, 29 May 2026 15:10:02 -0400"
         }
       ],
       "error": null
