@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T12:09:17.855361+00:00",
+  "generatedAt": "2026-05-31T14:41:48.961564+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -322,24 +322,24 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
+          "title": "Can you actually feel when something was written by ChatGPT even without checking?",
+          "link": "https://www.reddit.com/r/artificial/comments/1tsu37g/can_you_actually_feel_when_something_was_written/",
+          "date": "2026-05-31T12:31:47+00:00"
+        },
+        {
+          "title": "How does AI help with Job productivity?",
+          "link": "https://www.reddit.com/r/artificial/comments/1tswbg4/how_does_ai_help_with_job_productivity/",
+          "date": "2026-05-31T14:06:27+00:00"
+        },
+        {
+          "title": "Has anyone here actually switched from Opus to GPT-5.5 for daily coding?",
+          "link": "https://www.reddit.com/r/artificial/comments/1tsv8od/has_anyone_here_actually_switched_from_opus_to/",
+          "date": "2026-05-31T13:21:50+00:00"
+        },
+        {
           "title": "Why Pope Leo is right to call on EU to disarm lethal AI weapons",
           "link": "https://www.reddit.com/r/artificial/comments/1ts8trn/why_pope_leo_is_right_to_call_on_eu_to_disarm/",
           "date": "2026-05-30T19:19:19+00:00"
-        },
-        {
-          "title": "What is AI useful for?",
-          "link": "https://www.reddit.com/r/artificial/comments/1tstha4/what_is_ai_useful_for/",
-          "date": "2026-05-31T12:03:38+00:00"
-        },
-        {
-          "title": "What's the biggest problem you still haven't solved with AI?",
-          "link": "https://www.reddit.com/r/artificial/comments/1tstatq/whats_the_biggest_problem_you_still_havent_solved/",
-          "date": "2026-05-31T11:55:38+00:00"
-        },
-        {
-          "title": "Convergence Point Theory: Why LLM uncertainty is determined by the topic, not the model",
-          "link": "https://www.reddit.com/r/artificial/comments/1tssx03/convergence_point_theory_why_llm_uncertainty_is/",
-          "date": "2026-05-31T11:36:24+00:00"
         },
         {
           "title": "Society Is About To Change. And No One Is Ready | Richard Hames meets Garrison Lovely",
@@ -386,9 +386,9 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Anthropic\u2019s alliance with pope on AI harms: all in good faith or \u2018Vatican-washing?\u2019",
-          "link": "https://www.theguardian.com/technology/2026/may/30/pope-leo-anthropic-ai",
-          "date": "Sat, 30 May 2026 13:00:20 GMT"
+          "title": "Our tech overlords are planning for conscious AI to conquer the cosmos. What could go wrong? | Eduardo Porter",
+          "link": "https://www.theguardian.com/us-news/ng-interactive/2026/may/31/transhuman-silicon-valley-ai",
+          "date": "Sun, 31 May 2026 13:00:49 GMT"
         },
         {
           "title": "Are \u2018mind children\u2019 the future of reproduction?",
@@ -401,14 +401,14 @@
           "date": "Sat, 30 May 2026 20:00:30 GMT"
         },
         {
+          "title": "Anthropic\u2019s alliance with pope on AI harms: all in good faith or \u2018Vatican-washing?\u2019",
+          "link": "https://www.theguardian.com/technology/2026/may/30/pope-leo-anthropic-ai",
+          "date": "Sat, 30 May 2026 13:00:20 GMT"
+        },
+        {
           "title": "Americans echo Pope Leo\u2019s concerns about AI: \u2018It threatens workers, privacy and human life\u2019",
           "link": "https://www.theguardian.com/world/2026/may/30/pope-leo-ai-reaction",
           "date": "Sat, 30 May 2026 11:00:17 GMT"
-        },
-        {
-          "title": "\u2018Like a billionaire on acid\u2019: Star Wars director Gareth Edwards comes out in favour of AI",
-          "link": "https://www.theguardian.com/film/2026/may/29/star-wars-rogue-one-director-gareth-edwards-praises-ai-film-making",
-          "date": "Fri, 29 May 2026 10:55:01 GMT"
         }
       ],
       "error": null
@@ -450,6 +450,21 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Take-No-Prisoners Professor Will Fail Any Student Who Uses AI",
+          "link": "https://futurism.com/future-society/professor-fail-any-student-uses-ai",
+          "date": "Sun, 31 May 2026 10:30:00 -0400"
+        },
+        {
+          "title": "AI Company Paying Random People $2,000 Per Month to Crank the Hog",
+          "link": "https://futurism.com/artificial-intelligence/ai-company-cranking-hog",
+          "date": "Sun, 31 May 2026 09:45:00 -0400"
+        },
+        {
+          "title": "Was This the Moment That AI Psychosis Began?",
+          "link": "https://futurism.com/artificial-intelligence/chatgpt-memory-ai-psychosis",
+          "date": "Sun, 31 May 2026 08:15:00 -0400"
+        },
+        {
           "title": "California State University Made a Huge Deal With OpenAI and It\u2019s Been a Disaster",
           "link": "https://futurism.com/artificial-intelligence/california-state-university-openai-deal-disaster",
           "date": "Sun, 31 May 2026 06:00:00 -0400"
@@ -458,21 +473,6 @@
           "title": "Woman Alarmed When Her Trusted Therapist Starts Recording Her With AI",
           "link": "https://futurism.com/artificial-intelligence/woman-alarmed-therapist-recording-ai",
           "date": "Sat, 30 May 2026 13:30:00 -0400"
-        },
-        {
-          "title": "AI Filmmaker Compares His Tech to Something That Gets Worse the More You Think About It",
-          "link": "https://futurism.com/artificial-intelligence/ai-filmmaker-normal-analogy-of-all-time",
-          "date": "Sat, 30 May 2026 11:15:00 -0400"
-        },
-        {
-          "title": "Why Is Sam Altman Teaming Up With Jared Leto, a Creep With Extensive Sex Abuse Allegations?",
-          "link": "https://futurism.com/artificial-intelligence/sam-altman-jared-leto-sex-abuse-allegations",
-          "date": "Sat, 30 May 2026 10:30:00 -0400"
-        },
-        {
-          "title": "Tech CEOs Have a Problem: Even Their Closest Allies Now See AI as a Sign of Laziness and Dishonesty",
-          "link": "https://futurism.com/artificial-intelligence/tech-ceos-problem-ai-laziness",
-          "date": "Sat, 30 May 2026 09:45:00 -0400"
         }
       ],
       "error": null
