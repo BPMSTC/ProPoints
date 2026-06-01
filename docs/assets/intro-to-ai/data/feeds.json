@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T09:23:31.317030+00:00",
+  "generatedAt": "2026-06-01T15:53:59.130270+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,16 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "SoftBank Commits $87.3B to France AI Infrastructure Buildout",
+          "link": "https://aibusiness.com/generative-ai/softbank-commits-87-3b-france-ai-infrastructure-buildout",
+          "date": "Mon, 01 Jun 2026 13:29:11 GMT"
+        },
+        {
+          "title": "Enterprise AI Implementation is Growing -- As Are the Challenges",
+          "link": "https://aibusiness.com/generative-ai/enterprise-ai-implementation-growing-as-are-challenges",
+          "date": "Fri, 29 May 2026 20:28:21 GMT"
+        },
+        {
           "title": "All-New Waymo Robotaxi Finally Debuts",
           "link": "https://aibusiness.com/generative-ai/all-new-waymo-robotaxi-finally-debuts",
           "date": "Fri, 29 May 2026 17:35:57 GMT"
@@ -127,16 +137,6 @@
           "title": "Anthropic Opus 4.8 Shows the AI Lab is Paying Attention to Customers",
           "link": "https://aibusiness.com/generative-ai/anthropic-opus-4-8-shows-ai-lab-is-paying-attention-customers",
           "date": "Fri, 29 May 2026 15:14:28 GMT"
-        },
-        {
-          "title": "Neocloud Vendor CoreWeave Builds Up Software Stack",
-          "link": "https://aibusiness.com/data-centers/neocloud-vendor-coreweave-builds-up-software-stack",
-          "date": "Thu, 28 May 2026 20:28:15 GMT"
-        },
-        {
-          "title": "IBM and Red Hat Invest $5B to Make Open Source More Secure",
-          "link": "https://aibusiness.com/generative-ai/ibm-red-hat-invest-5-billion-make-open-source-more-secure",
-          "date": "Thu, 28 May 2026 19:49:48 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Intel: Our upcoming AI chip will be cheaper, run cooler than Nvidia, AMD options",
+          "link": "https://arstechnica.com/ai/2026/06/intel-our-upcoming-ai-chip-will-be-cheaper-run-cooler-than-nvidia-amd-options/",
+          "date": "Mon, 01 Jun 2026 13:32:16 +0000"
+        },
+        {
+          "title": "An OpenAI model solved a famous math problem that stumped humans for 80 years",
+          "link": "https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/",
+          "date": "Mon, 01 Jun 2026 11:00:00 +0000"
+        },
+        {
           "title": "On its 40th anniversary, we reassess 1986's SpaceCamp",
           "link": "https://arstechnica.com/culture/2026/05/on-its-40th-anniversary-we-reassess-1986s-spacecamp/",
           "date": "Sun, 31 May 2026 11:15:12 +0000"
@@ -303,16 +313,6 @@
           "title": "Grifters, cynics, and true believers: The family tree of vaccine opponents",
           "link": "https://arstechnica.com/science/2026/05/grifters-cynics-and-true-believers-the-family-tree-of-vaccine-opponents/",
           "date": "Sat, 30 May 2026 11:00:05 +0000"
-        },
-        {
-          "title": "Environmentalists turn out in force to oppose Trump coal ash rollbacks",
-          "link": "https://arstechnica.com/tech-policy/2026/05/environmentalists-turn-out-in-force-to-oppose-trump-coal-ash-rollbacks/",
-          "date": "Sat, 30 May 2026 10:00:38 +0000"
-        },
-        {
-          "title": "Proposed new US funding rules: We can cancel any grant at any time",
-          "link": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
-          "date": "Fri, 29 May 2026 22:58:29 +0000"
         }
       ],
       "error": null
@@ -322,29 +322,29 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
+          "title": "Bernie Sanders: A.I. Belongs to the People, Not to Billionaires",
+          "link": "https://www.reddit.com/r/artificial/comments/1ttpt5c/bernie_sanders_ai_belongs_to_the_people_not_to/",
+          "date": "2026-06-01T11:50:54+00:00"
+        },
+        {
           "title": "Cognitive debt might be the most underrated problem AI is creating",
           "link": "https://www.reddit.com/r/artificial/comments/1tteup9/cognitive_debt_might_be_the_most_underrated/",
           "date": "2026-06-01T02:25:36+00:00"
         },
         {
-          "title": "In 1997 I built a chatbot for an IRC channel. I shut it down when people started preferring it to talking to each other.",
-          "link": "https://www.reddit.com/r/artificial/comments/1tt2bwx/in_1997_i_built_a_chatbot_for_an_irc_channel_i/",
-          "date": "2026-05-31T17:55:56+00:00"
+          "title": "My AI chats are becoming dead archives.",
+          "link": "https://www.reddit.com/r/artificial/comments/1ttpxsn/my_ai_chats_are_becoming_dead_archives/",
+          "date": "2026-06-01T11:56:46+00:00"
         },
         {
-          "title": "I think AI is making me dumber and I have proof",
-          "link": "https://www.reddit.com/r/artificial/comments/1tte09c/i_think_ai_is_making_me_dumber_and_i_have_proof/",
-          "date": "2026-06-01T01:46:20+00:00"
+          "title": "Why do people hate/refuse to use anything with AI involved?",
+          "link": "https://www.reddit.com/r/artificial/comments/1ttw89x/why_do_people_haterefuse_to_use_anything_with_ai/",
+          "date": "2026-06-01T15:46:34+00:00"
         },
         {
-          "title": "If you run multiple AI sessions, what do you find yourself manually carrying between them?",
-          "link": "https://www.reddit.com/r/artificial/comments/1ttkpwj/if_you_run_multiple_ai_sessions_what_do_you_find/",
-          "date": "2026-06-01T07:21:16+00:00"
-        },
-        {
-          "title": "Maven, a personal AI agent that feels like JARVIS \u2014 what an open agent harness looks like in 2026",
-          "link": "https://www.reddit.com/r/artificial/comments/1tth2e1/maven_a_personal_ai_agent_that_feels_like_jarvis/",
-          "date": "2026-06-01T04:09:58+00:00"
+          "title": "I analyzed 25,500 LLM resume screenings to measure hiring bias. The results are a wake-up call.",
+          "link": "https://www.reddit.com/r/artificial/comments/1ttsr9b/i_analyzed_25500_llm_resume_screenings_to_measure/",
+          "date": "2026-06-01T13:46:59+00:00"
         }
       ],
       "error": null
@@ -353,6 +353,16 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "AI and journalism in southern Africa: editors are using it but balanced with human expertise and editorial judgement",
+          "link": "https://theconversation.com/ai-and-journalism-in-southern-africa-editors-are-using-it-but-balanced-with-human-expertise-and-editorial-judgement-282644",
+          "date": "2026-06-01T13:31:42Z"
+        },
+        {
+          "title": "Your phone screen doesn\u2019t have the same color range as the human eye \u2013 and AI widens the gap between digital images and the real thing",
+          "link": "https://theconversation.com/your-phone-screen-doesnt-have-the-same-color-range-as-the-human-eye-and-ai-widens-the-gap-between-digital-images-and-the-real-thing-283252",
+          "date": "2026-06-01T12:22:58Z"
+        },
         {
           "title": "The story of Pope Leo\u2019s \u2018landmark\u2019 text on AI technology \u2013 by a member of its launch panel",
           "link": "https://theconversation.com/the-story-of-pope-leos-landmark-text-on-ai-technology-by-a-member-of-its-launch-panel-283993",
@@ -367,16 +377,6 @@
           "title": "\u2018Like drinking from a firehose\u2019 \u2013 what it\u2019s like to be the human in the AI loop",
           "link": "https://theconversation.com/like-drinking-from-a-firehose-what-its-like-to-be-the-human-in-the-ai-loop-280708",
           "date": "2026-05-27T20:14:54Z"
-        },
-        {
-          "title": "In a sea of hype, here are the AI \u2018nothingburgers\u2019 you don\u2019t hear about",
-          "link": "https://theconversation.com/in-a-sea-of-hype-here-are-the-ai-nothingburgers-you-dont-hear-about-283767",
-          "date": "2026-05-27T20:14:01Z"
-        },
-        {
-          "title": "Holocaust education has a growing Gen AI problem",
-          "link": "https://theconversation.com/holocaust-education-has-a-growing-gen-ai-problem-278962",
-          "date": "2026-05-27T12:52:04Z"
         }
       ],
       "error": null
@@ -385,6 +385,11 @@
       "name": "Artificial intelligence (AI) | The Guardian",
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
+        {
+          "title": "Ghost in the Machine review \u2013 entertaining AI polemic dives into its dark history in race politics and eugenics",
+          "link": "https://www.theguardian.com/film/2026/jun/01/ghost-in-the-machine-review-entertaining-ai-polemic-dives-into-its-dark-history-in-race-politics-and-eugenics",
+          "date": "Mon, 01 Jun 2026 12:00:16 GMT"
+        },
         {
           "title": "The dating apps that failed to deliver the joys of sex and romance now offer AI as cupid. No thanks | Tatum Hunter",
           "link": "https://www.theguardian.com/commentisfree/2026/jun/01/dating-apps-failed-sex-romance-ai-cupid-swiping-bumble",
@@ -404,11 +409,6 @@
           "title": "This model is not a real person: how AI is changing online shopping \u2013 video",
           "link": "https://www.theguardian.com/fashion/video/2026/jun/01/how-ai-is-shaking-up-fashion-video",
           "date": "Sun, 31 May 2026 15:00:51 GMT"
-        },
-        {
-          "title": "Our tech overlords are planning for conscious AI to conquer the cosmos. What could go wrong? | Eduardo Porter",
-          "link": "https://www.theguardian.com/us-news/ng-interactive/2026/may/31/transhuman-silicon-valley-ai",
-          "date": "Sun, 31 May 2026 13:00:49 GMT"
         }
       ],
       "error": null
@@ -450,6 +450,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Neighbors Horrified by Data Center Twice the Size of Manhattan",
+          "link": "https://futurism.com/artificial-intelligence/neighbors-horrified-data-center-utah",
+          "date": "Mon, 01 Jun 2026 10:49:32 -0400"
+        },
+        {
           "title": "Major Teachers Union Pleads With Elementary Schools to Stop Giving Young Kids AI",
           "link": "https://futurism.com/artificial-intelligence/teachers-union-schools-kids-ai",
           "date": "Sun, 31 May 2026 13:00:00 -0400"
@@ -468,11 +473,6 @@
           "title": "Was This the Moment That AI Psychosis Began?",
           "link": "https://futurism.com/artificial-intelligence/chatgpt-memory-ai-psychosis",
           "date": "Sun, 31 May 2026 08:15:00 -0400"
-        },
-        {
-          "title": "California State University Made a Huge Deal With OpenAI and It\u2019s Been a Disaster",
-          "link": "https://futurism.com/artificial-intelligence/california-state-university-openai-deal-disaster",
-          "date": "Sun, 31 May 2026 06:00:00 -0400"
         }
       ],
       "error": null
@@ -481,6 +481,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Norse Atlantic Airways Offers Dirt-Cheap Tickets. There\u2019s a Catch",
+          "link": "https://www.wired.com/story/norse-airlines-ftc-complaints-ai-scams/",
+          "date": "Mon, 01 Jun 2026 11:00:00 +0000"
+        },
         {
           "title": "How Turkey Hacked the Hair Transplant Industry",
           "link": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
@@ -500,11 +505,6 @@
           "title": "Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend",
           "link": "https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/",
           "date": "Fri, 29 May 2026 19:07:46 +0000"
-        },
-        {
-          "title": "We Asked the \u2018Future of Truth\u2019 Author to Explain How He Used AI. It Didn\u2019t Go Well",
-          "link": "https://www.wired.com/story/future-of-truth-ai-interview/",
-          "date": "Fri, 29 May 2026 16:30:00 +0000"
         }
       ],
       "error": null
