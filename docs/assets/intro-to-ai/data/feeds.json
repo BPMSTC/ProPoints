@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-06-01T15:53:59.130270+00:00",
+  "generatedAt": "2026-06-01T20:14:59.361522+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
         {
+          "title": "Amazon Shuts Down Internal AI Leaderboard After Employees Cheated",
+          "link": "https://www.404media.co/amazon-shuts-down-internal-ai-leaderboard-after-employees-cheated/",
+          "date": "Mon, 01 Jun 2026 17:15:20 GMT"
+        },
+        {
+          "title": "Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked",
+          "link": "https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/",
+          "date": "Mon, 01 Jun 2026 17:03:36 GMT"
+        },
+        {
+          "title": "We Sued ICE to Get Its Spyware Contract. The Agency Is Redacting Essentially Everything",
+          "link": "https://www.404media.co/we-sued-ice-to-get-its-spyware-contract-the-agency-is-redacting-essentially-everything/",
+          "date": "Mon, 01 Jun 2026 13:57:48 GMT"
+        },
+        {
+          "title": "AI Grifters Are Making Anti-Data Center Slop With AI",
+          "link": "https://www.404media.co/ai-grifters-are-making-anti-data-center-slop-with-ai/",
+          "date": "Mon, 01 Jun 2026 13:49:15 GMT"
+        },
+        {
           "title": "\u2018Highly Plausible\u2019 Aliens on Europa Are Earthlings\u2019 Descendants, Study Says",
           "link": "https://www.404media.co/highly-plausible-aliens-on-europa-are-earthlings-descendants-study-says/",
           "date": "Sat, 30 May 2026 13:00:00 GMT"
-        },
-        {
-          "title": "Behind the Blog: Being New and Some Numbers",
-          "link": "https://www.404media.co/behind-the-blog-being-new-and-some-numbers/",
-          "date": "Fri, 29 May 2026 16:06:59 GMT"
-        },
-        {
-          "title": "New Study Reveals the Manipulative \u2018Dark Patterns\u2019 of AI Chatbots",
-          "link": "https://www.404media.co/new-study-reveals-the-manipulative-dark-patterns-of-ai-chatbots/",
-          "date": "Fri, 29 May 2026 13:16:21 GMT"
-        },
-        {
-          "title": "Cities Are Covering Flock Cameras With Trash Bags",
-          "link": "https://www.404media.co/cities-are-covering-flock-cameras-with-trash-bags/",
-          "date": "Thu, 28 May 2026 16:18:52 GMT"
-        },
-        {
-          "title": "The Sun Is Undergoing a Mysterious Change and Nobody Knows Why",
-          "link": "https://www.404media.co/sun-magnetic-activity-changes-study/",
-          "date": "Thu, 28 May 2026 15:28:47 GMT"
         }
       ],
       "error": null
@@ -114,6 +114,16 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Nvidia Taps Unitree for Humanoid Robot Platform",
+          "link": "https://aibusiness.com/robotics/nvidia-taps-unitree-humanoid-robot-platform",
+          "date": "Mon, 01 Jun 2026 19:19:18 GMT"
+        },
+        {
+          "title": "US Humanoid Robots Being Tested in Ukraine War",
+          "link": "https://aibusiness.com/robotics/us-humanoid-robots-being-tested-ukraine-war",
+          "date": "Mon, 01 Jun 2026 16:42:20 GMT"
+        },
+        {
           "title": "SoftBank Commits $87.3B to France AI Infrastructure Buildout",
           "link": "https://aibusiness.com/generative-ai/softbank-commits-87-3b-france-ai-infrastructure-buildout",
           "date": "Mon, 01 Jun 2026 13:29:11 GMT"
@@ -127,16 +137,6 @@
           "title": "All-New Waymo Robotaxi Finally Debuts",
           "link": "https://aibusiness.com/generative-ai/all-new-waymo-robotaxi-finally-debuts",
           "date": "Fri, 29 May 2026 17:35:57 GMT"
-        },
-        {
-          "title": "Prompt: Robinhood Wants AI Agents to Trade, Spend on Your Behalf",
-          "link": "https://aibusiness.com/agentic-ai/robinhood-wants-ai-agents-trade-spend-your-behalf",
-          "date": "Fri, 29 May 2026 15:28:39 GMT"
-        },
-        {
-          "title": "Anthropic Opus 4.8 Shows the AI Lab is Paying Attention to Customers",
-          "link": "https://aibusiness.com/generative-ai/anthropic-opus-4-8-shows-ai-lab-is-paying-attention-customers",
-          "date": "Fri, 29 May 2026 15:14:28 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,29 +290,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Intel: Our upcoming AI chip will be cheaper, run cooler than Nvidia, AMD options",
-          "link": "https://arstechnica.com/ai/2026/06/intel-our-upcoming-ai-chip-will-be-cheaper-run-cooler-than-nvidia-amd-options/",
-          "date": "Mon, 01 Jun 2026 13:32:16 +0000"
+          "title": "Doctors blast Trump for doubling down on vaccine policy modeled after Denmark",
+          "link": "https://arstechnica.com/health/2026/06/doctors-blast-trump-for-doubling-down-on-vaccine-policy-modeled-after-denmark/",
+          "date": "Mon, 01 Jun 2026 19:07:58 +0000"
         },
         {
-          "title": "An OpenAI model solved a famous math problem that stumped humans for 80 years",
-          "link": "https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/",
-          "date": "Mon, 01 Jun 2026 11:00:00 +0000"
+          "title": "Florida sues OpenAI, Sam Altman after multiple ChatGPT-linked murders",
+          "link": "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/",
+          "date": "Mon, 01 Jun 2026 18:52:19 +0000"
         },
         {
-          "title": "On its 40th anniversary, we reassess 1986's SpaceCamp",
-          "link": "https://arstechnica.com/culture/2026/05/on-its-40th-anniversary-we-reassess-1986s-spacecamp/",
-          "date": "Sun, 31 May 2026 11:15:12 +0000"
+          "title": "From 15 hours to one minute: How AI/ML is speeding up GM's development",
+          "link": "https://arstechnica.com/cars/2026/06/from-15-hours-to-one-minute-how-ai-ml-is-speeding-up-gms-development/",
+          "date": "Mon, 01 Jun 2026 17:41:47 +0000"
         },
         {
-          "title": "They call it stupid hot for a reason: Heat muddles animal brains",
-          "link": "https://arstechnica.com/science/2026/05/they-call-it-stupid-hot-for-a-reason-heat-muddles-animal-brains/",
-          "date": "Sun, 31 May 2026 10:00:07 +0000"
+          "title": "Allegedly trashing Airbnbs to test robots puts startup in legal trouble",
+          "link": "https://arstechnica.com/ai/2026/06/allegedly-trashing-airbnbs-to-test-robots-puts-startup-in-legal-trouble/",
+          "date": "Mon, 01 Jun 2026 17:17:55 +0000"
         },
         {
-          "title": "Grifters, cynics, and true believers: The family tree of vaccine opponents",
-          "link": "https://arstechnica.com/science/2026/05/grifters-cynics-and-true-believers-the-family-tree-of-vaccine-opponents/",
-          "date": "Sat, 30 May 2026 11:00:05 +0000"
+          "title": "AMD extends Socket AM5 support through at least 2029; AM4 refuses to die",
+          "link": "https://arstechnica.com/gadgets/2026/06/amd-extends-socket-am5-support-through-at-least-2029-am4-refuses-to-die/",
+          "date": "Mon, 01 Jun 2026 17:02:22 +0000"
         }
       ],
       "error": null
@@ -327,6 +327,11 @@
           "date": "2026-06-01T11:50:54+00:00"
         },
         {
+          "title": "I analyzed 25,500 LLM resume screenings to measure hiring bias. The results are a wake-up call.",
+          "link": "https://www.reddit.com/r/artificial/comments/1ttsr9b/i_analyzed_25500_llm_resume_screenings_to_measure/",
+          "date": "2026-06-01T13:46:59+00:00"
+        },
+        {
           "title": "Cognitive debt might be the most underrated problem AI is creating",
           "link": "https://www.reddit.com/r/artificial/comments/1tteup9/cognitive_debt_might_be_the_most_underrated/",
           "date": "2026-06-01T02:25:36+00:00"
@@ -337,14 +342,9 @@
           "date": "2026-06-01T11:56:46+00:00"
         },
         {
-          "title": "Why do people hate/refuse to use anything with AI involved?",
-          "link": "https://www.reddit.com/r/artificial/comments/1ttw89x/why_do_people_haterefuse_to_use_anything_with_ai/",
-          "date": "2026-06-01T15:46:34+00:00"
-        },
-        {
-          "title": "I analyzed 25,500 LLM resume screenings to measure hiring bias. The results are a wake-up call.",
-          "link": "https://www.reddit.com/r/artificial/comments/1ttsr9b/i_analyzed_25500_llm_resume_screenings_to_measure/",
-          "date": "2026-06-01T13:46:59+00:00"
+          "title": "How much published AI research is wrong because of data leakage?",
+          "link": "https://www.reddit.com/r/artificial/comments/1tu0ri0/how_much_published_ai_research_is_wrong_because/",
+          "date": "2026-06-01T18:15:09+00:00"
         }
       ],
       "error": null
@@ -386,6 +386,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Anthropic confidentially files for initial public offering on US stock market",
+          "link": "https://www.theguardian.com/technology/2026/jun/01/anthropic-ai-ipo",
+          "date": "Mon, 01 Jun 2026 18:12:30 GMT"
+        },
+        {
           "title": "Ghost in the Machine review \u2013 entertaining AI polemic dives into its dark history in race politics and eugenics",
           "link": "https://www.theguardian.com/film/2026/jun/01/ghost-in-the-machine-review-entertaining-ai-polemic-dives-into-its-dark-history-in-race-politics-and-eugenics",
           "date": "Mon, 01 Jun 2026 12:00:16 GMT"
@@ -404,11 +409,6 @@
           "title": "Charities decry UK plan to use AI to assess age of young asylum seekers",
           "link": "https://www.theguardian.com/uk-news/2026/jun/01/charities-decry-uk-plan-to-use-ai-to-assess-age-of-young-asylum-seekers",
           "date": "Mon, 01 Jun 2026 05:00:08 GMT"
-        },
-        {
-          "title": "This model is not a real person: how AI is changing online shopping \u2013 video",
-          "link": "https://www.theguardian.com/fashion/video/2026/jun/01/how-ai-is-shaking-up-fashion-video",
-          "date": "Sun, 31 May 2026 15:00:51 GMT"
         }
       ],
       "error": null
@@ -450,6 +450,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Unfortunate Company Accidentally Blows Half a Billion Dollars on Claude in One Month",
+          "link": "https://futurism.com/artificial-intelligence/company-half-billion-dollars-claude-one-month",
+          "date": "Mon, 01 Jun 2026 12:50:26 -0400"
+        },
+        {
           "title": "Neighbors Horrified by Data Center Twice the Size of Manhattan",
           "link": "https://futurism.com/artificial-intelligence/neighbors-horrified-data-center-utah",
           "date": "Mon, 01 Jun 2026 10:49:32 -0400"
@@ -468,11 +473,6 @@
           "title": "AI Company Paying Random People $2,000 Per Month to Crank the Hog",
           "link": "https://futurism.com/artificial-intelligence/ai-company-cranking-hog",
           "date": "Sun, 31 May 2026 09:45:00 -0400"
-        },
-        {
-          "title": "Was This the Moment That AI Psychosis Began?",
-          "link": "https://futurism.com/artificial-intelligence/chatgpt-memory-ai-psychosis",
-          "date": "Sun, 31 May 2026 08:15:00 -0400"
         }
       ],
       "error": null
@@ -481,6 +481,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever",
+          "link": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
+          "date": "Mon, 01 Jun 2026 17:17:58 +0000"
+        },
         {
           "title": "Norse Atlantic Airways Offers Dirt-Cheap Tickets. There\u2019s a Catch",
           "link": "https://www.wired.com/story/norse-airlines-ftc-complaints-ai-scams/",
@@ -500,11 +505,6 @@
           "title": "Amazon Is Making an AI-Animated \u2018Good Advice Cupcake\u2019 TV Show. Its Original Creator Is Furious",
           "link": "https://www.wired.com/story/story/amazon-is-making-an-ai-animated-good-advice-cupcake-tv-show-its-original-creator-is-furious/",
           "date": "Fri, 29 May 2026 20:56:59 +0000"
-        },
-        {
-          "title": "Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend",
-          "link": "https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/",
-          "date": "Fri, 29 May 2026 19:07:46 +0000"
         }
       ],
       "error": null
