@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-06-02T18:39:28.701153+00:00",
+  "generatedAt": "2026-06-02T21:46:03.533437+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Microsoft Wants to 'Make People Addicted' to its New AI Assistant, Internal Documents Reveal",
+          "link": "https://www.404media.co/microsoft-wants-to-make-people-addicted-to-scout-its-new-ai-assistant-internal-documents-reveal/",
+          "date": "Tue, 02 Jun 2026 18:46:10 GMT"
+        },
         {
           "title": "Nvidia and Microsoft Researchers Say AI Agents Don't Care About Safety or Reliability",
           "link": "https://www.404media.co/nvidia-and-microsoft-researchers-say-ai-agents-dont-care-about-safety-or-reliability/",
@@ -24,11 +29,6 @@
           "title": "Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked",
           "link": "https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/",
           "date": "Mon, 01 Jun 2026 17:03:36 GMT"
-        },
-        {
-          "title": "We Sued ICE to Get Its Spyware Contract. The Agency Is Redacting Essentially Everything",
-          "link": "https://www.404media.co/we-sued-ice-to-get-its-spyware-contract-the-agency-is-redacting-essentially-everything/",
-          "date": "Mon, 01 Jun 2026 13:57:48 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -226,8 +226,34 @@
     {
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
-      "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "items": [
+        {
+          "title": "Boomi makes its AI control plane case: theCUBE\u2019s Boomi World keynote analysis",
+          "link": "https://siliconangle.com/2026/05/13/ai-control-plane-takes-center-stage-boomi-world-boomiworld/",
+          "date": "Wed, 13 May 2026 18:49:36 +0000"
+        },
+        {
+          "title": "AI ambition is crashing into a decade of deferred IT maintenance, says Red Hat CEO",
+          "link": "https://siliconangle.com/2026/05/13/enterprise-ai-infrastructure-modernization-now-urgent-rhsummit/",
+          "date": "Wed, 13 May 2026 16:35:28 +0000"
+        },
+        {
+          "title": "Veeam\u2019s big pivot on display at VeeamON 2026",
+          "link": "https://siliconangle.com/2026/05/13/veeams-big-pivot-display-veeamon-2026/",
+          "date": "Wed, 13 May 2026 15:46:45 +0000"
+        },
+        {
+          "title": "Red Hat and Intel spotlight scalable AI inference as enterprises move beyond the GPU gold rush",
+          "link": "https://siliconangle.com/2026/05/13/scalable-ai-inference-focus-amid-move-beyond-gpus-rhsummit/",
+          "date": "Wed, 13 May 2026 13:52:35 +0000"
+        },
+        {
+          "title": "Exclusive: AirOps targets emerging AI search market with autonomous content optimization agent",
+          "link": "https://siliconangle.com/2026/05/13/exclusive-airops-targets-emerging-ai-search-market-autonomous-content-optimization-agent/",
+          "date": "Wed, 13 May 2026 12:30:44 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Snake Oil",
@@ -311,9 +337,9 @@
           "date": "2026-06-02T15:53:22+00:00"
         },
         {
-          "title": "Nvdia\u2019s Jensen Huang calls out CEOs using AI as an excuse to fire people",
-          "link": "https://www.reddit.com/r/artificial/comments/1tugpc2/nvdias_jensen_huang_calls_out_ceos_using_ai_as_an/",
-          "date": "2026-06-02T04:51:19+00:00"
+          "title": "AI Alliance launches a global coalition to build sovereign frontier models, with Yann LeCun as chief science advisor",
+          "link": "https://www.reddit.com/r/artificial/comments/1tv2x9j/ai_alliance_launches_a_global_coalition_to_build/",
+          "date": "2026-06-02T20:20:09+00:00"
         },
         {
           "title": "Nvidia and Microsoft Researchers Say AI Agents Don't Care About Safety or Reliability",
@@ -327,6 +353,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "From cloning romance authors to YouTube piracy, AI is transforming audiobooks",
+          "link": "https://theconversation.com/from-cloning-romance-authors-to-youtube-piracy-ai-is-transforming-audiobooks-283885",
+          "date": "2026-06-02T20:10:57Z"
+        },
         {
           "title": "Powerful AI is making facial recognition better at identifying you",
           "link": "https://theconversation.com/powerful-ai-is-making-facial-recognition-better-at-identifying-you-276743",
@@ -346,11 +377,6 @@
           "title": "AI and journalism in southern Africa: editors are using it but balanced with human expertise and editorial judgement",
           "link": "https://theconversation.com/ai-and-journalism-in-southern-africa-editors-are-using-it-but-balanced-with-human-expertise-and-editorial-judgement-282644",
           "date": "2026-06-01T13:31:42Z"
-        },
-        {
-          "title": "Your phone screen doesn\u2019t have the same color range as the human eye \u2013 and AI widens the gap between digital images and the real thing",
-          "link": "https://theconversation.com/your-phone-screen-doesnt-have-the-same-color-range-as-the-human-eye-and-ai-widens-the-gap-between-digital-images-and-the-real-thing-283252",
-          "date": "2026-06-01T12:22:58Z"
         }
       ],
       "error": null
@@ -424,6 +450,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Film Community Aghast as Martin Scorsese Extolls AI Startup, Says He Now Uses AI for Storyboards",
+          "link": "https://futurism.com/artificial-intelligence/film-community-aghast-as-martin-scorsese-extolls-ai-startup",
+          "date": "Tue, 02 Jun 2026 17:04:16 -0400"
+        },
+        {
           "title": "Now You Gotta Buy a Second Computer Just for Your AI Agent, Nvidia Declares",
           "link": "https://futurism.com/artificial-intelligence/second-computer-ai-agent-nvidia-declares",
           "date": "Tue, 02 Jun 2026 11:43:21 -0400"
@@ -442,11 +473,6 @@
           "title": "Neighbors Horrified by Data Center Twice the Size of Manhattan",
           "link": "https://futurism.com/artificial-intelligence/neighbors-horrified-data-center-utah",
           "date": "Mon, 01 Jun 2026 10:49:32 -0400"
-        },
-        {
-          "title": "Major Teachers Union Pleads With Elementary Schools to Stop Giving Young Kids AI",
-          "link": "https://futurism.com/artificial-intelligence/teachers-union-schools-kids-ai",
-          "date": "Sun, 31 May 2026 13:00:00 -0400"
         }
       ],
       "error": null
