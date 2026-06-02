@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-06-02T10:18:20.791399+00:00",
+  "generatedAt": "2026-06-02T14:49:53.057526+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Here is the Contract for Palantir\u2019s Super API for the IRS",
+          "link": "https://www.404media.co/here-is-the-contract-for-palantirs-super-api-for-the-irs/",
+          "date": "Tue, 02 Jun 2026 14:08:52 GMT"
+        },
         {
           "title": "Amazon Shuts Down Internal AI Leaderboard After Employees Cheated",
           "link": "https://www.404media.co/amazon-shuts-down-internal-ai-leaderboard-after-employees-cheated/",
@@ -24,11 +29,6 @@
           "title": "AI Grifters Are Making Anti-Data Center Slop With AI",
           "link": "https://www.404media.co/ai-grifters-are-making-anti-data-center-slop-with-ai/",
           "date": "Mon, 01 Jun 2026 13:49:15 GMT"
-        },
-        {
-          "title": "\u2018Highly Plausible\u2019 Aliens on Europa Are Earthlings\u2019 Descendants, Study Says",
-          "link": "https://www.404media.co/highly-plausible-aliens-on-europa-are-earthlings-descendants-study-says/",
-          "date": "Sat, 30 May 2026 13:00:00 GMT"
         }
       ],
       "error": null
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "6 things to fix before RLHF turns  your biases into features",
+          "link": "https://www.aiacceleratorinstitute.com/6-things-to-fix-before-rlhf-turns-your-biases-into-features/",
+          "date": "Tue, 02 Jun 2026 10:47:46 GMT"
+        },
+        {
           "title": "Is multi-turn reasoning broken?",
           "link": "https://www.aiacceleratorinstitute.com/is-multi-turn-reasoning-broken/",
           "date": "Mon, 01 Jun 2026 15:44:20 GMT"
@@ -88,11 +93,6 @@
           "title": "AI agents keep breaking in production. Here's why nobody's fixed it yet",
           "link": "https://www.aiacceleratorinstitute.com/ai-agents-keep-breaking-in-production-heres-why-nobodys-fixed-it-yet/",
           "date": "Wed, 20 May 2026 16:03:57 GMT"
-        },
-        {
-          "title": "Is your AI is evaluating you?",
-          "link": "https://www.aiacceleratorinstitute.com/is-your-ai-under-observation/",
-          "date": "Tue, 19 May 2026 11:46:36 GMT"
         }
       ],
       "error": null
@@ -114,6 +114,21 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "EU Tech Sovereignty Package Risks Outpacing Data Center Capacity",
+          "link": "https://aibusiness.com/ai-policy/eu-tech-sovereignty-outpacing-data-center-capacity",
+          "date": "Tue, 02 Jun 2026 14:02:55 GMT"
+        },
+        {
+          "title": "Vendor Training Robots With Human Data Raises $60 Million",
+          "link": "https://aibusiness.com/robotics/vendor-training-robots-human-data-raises-60-million",
+          "date": "Tue, 02 Jun 2026 12:32:11 GMT"
+        },
+        {
+          "title": "Navigating the Future of Work with AI",
+          "link": "https://aibusiness.com/generative-ai/navigating-future-of-work-with-ai",
+          "date": "Mon, 01 Jun 2026 23:16:32 GMT"
+        },
+        {
           "title": "Anthropic\u2019s IPO Filing and How It Affects Its Responsible AI Stance",
           "link": "https://aibusiness.com/generative-ai/anthropic-s-ipo-filing-how-affects-responsible-ai-stance",
           "date": "Mon, 01 Jun 2026 21:01:12 GMT"
@@ -122,21 +137,6 @@
           "title": "Nvidia Taps Unitree for Humanoid Robot Platform",
           "link": "https://aibusiness.com/robotics/nvidia-taps-unitree-humanoid-robot-platform",
           "date": "Mon, 01 Jun 2026 19:19:18 GMT"
-        },
-        {
-          "title": "US Humanoid Robots Being Tested in Ukraine War",
-          "link": "https://aibusiness.com/robotics/us-humanoid-robots-being-tested-ukraine-war",
-          "date": "Mon, 01 Jun 2026 16:42:20 GMT"
-        },
-        {
-          "title": "SoftBank Commits $87.3B to France AI Infrastructure Buildout",
-          "link": "https://aibusiness.com/generative-ai/softbank-commits-87-3b-france-ai-infrastructure-buildout",
-          "date": "Mon, 01 Jun 2026 13:29:11 GMT"
-        },
-        {
-          "title": "Enterprise AI Implementation is Growing -- As Are the Challenges",
-          "link": "https://aibusiness.com/generative-ai/enterprise-ai-implementation-growing-as-are-challenges",
-          "date": "Fri, 29 May 2026 20:28:21 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Trump's DOE restarts energy rebate program with dumb conditions",
+          "link": "https://arstechnica.com/tech-policy/2026/06/trumps-doe-restarts-energy-rebate-program-with-dumb-conditions/",
+          "date": "Tue, 02 Jun 2026 13:29:00 +0000"
+        },
+        {
+          "title": "Impulse Space raises $500 million as orbital maneuvering race heats up",
+          "link": "https://arstechnica.com/space/2026/06/impulse-space-raises-500-million-as-orbital-maneuvering-race-heats-up/",
+          "date": "Tue, 02 Jun 2026 12:00:54 +0000"
+        },
+        {
           "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system.",
           "link": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
           "date": "Mon, 01 Jun 2026 22:18:09 +0000"
@@ -303,16 +313,6 @@
           "title": "Moderna gets $50 million to develop mRNA Ebola vaccine against Bundibugyo",
           "link": "https://arstechnica.com/health/2026/06/moderna-gets-50-million-to-develop-mrna-ebola-vaccine-against-bundibugyo/",
           "date": "Mon, 01 Jun 2026 20:58:34 +0000"
-        },
-        {
-          "title": "Hackers duped Meta AI support chatbot to steal celebrity Instagram accounts",
-          "link": "https://arstechnica.com/ai/2026/06/meta-ai-support-chatbot-gave-hackers-access-to-notable-instagram-accounts/",
-          "date": "Mon, 01 Jun 2026 20:44:37 +0000"
-        },
-        {
-          "title": "Microsoft's Surface Laptop Ultra looks like its first true MacBook Pro competitor",
-          "link": "https://arstechnica.com/gadgets/2026/06/microsoft-surface-laptop-ultra-will-be-among-the-first-nvidia-rtx-spark-arm-pcs/",
-          "date": "Mon, 01 Jun 2026 20:13:09 +0000"
         }
       ],
       "error": null
@@ -322,29 +322,29 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
+          "title": "AI isn\u2019t the Problem - it\u2019s Capitalism",
+          "link": "https://www.reddit.com/r/artificial/comments/1tumllh/ai_isnt_the_problem_its_capitalism/",
+          "date": "2026-06-02T10:14:29+00:00"
+        },
+        {
+          "title": "The AI bottleneck has shifted and most people haven't caught up yet",
+          "link": "https://www.reddit.com/r/artificial/comments/1tuqkp0/the_ai_bottleneck_has_shifted_and_most_people/",
+          "date": "2026-06-02T13:12:37+00:00"
+        },
+        {
           "title": "Nvdia\u2019s Jensen Huang calls out CEOs using AI as an excuse to fire people",
           "link": "https://www.reddit.com/r/artificial/comments/1tugpc2/nvdias_jensen_huang_calls_out_ceos_using_ai_as_an/",
           "date": "2026-06-02T04:51:19+00:00"
         },
         {
-          "title": "Bernie Sanders: A.I. Belongs to the People, Not to Billionaires",
-          "link": "https://www.reddit.com/r/artificial/comments/1ttpt5c/bernie_sanders_ai_belongs_to_the_people_not_to/",
-          "date": "2026-06-01T11:50:54+00:00"
+          "title": "Alphabet Is Raising $80B and Berkshire Bet $10B Even After $174B in Cash Flow",
+          "link": "https://www.reddit.com/r/artificial/comments/1tuqtfb/alphabet_is_raising_80b_and_berkshire_bet_10b/",
+          "date": "2026-06-02T13:21:54+00:00"
         },
         {
-          "title": "I analyzed 25,500 LLM resume screenings to measure hiring bias. The results are a wake-up call.",
-          "link": "https://www.reddit.com/r/artificial/comments/1ttsr9b/i_analyzed_25500_llm_resume_screenings_to_measure/",
-          "date": "2026-06-01T13:46:59+00:00"
-        },
-        {
-          "title": "How much published AI research is wrong because of data leakage?",
-          "link": "https://www.reddit.com/r/artificial/comments/1tu0ri0/how_much_published_ai_research_is_wrong_because/",
-          "date": "2026-06-01T18:15:09+00:00"
-        },
-        {
-          "title": "People are making weird things with Google Stitch",
-          "link": "https://www.reddit.com/r/artificial/comments/1tujl2t/people_are_making_weird_things_with_google_stitch/",
-          "date": "2026-06-02T07:25:11+00:00"
+          "title": "Why is tool access in a multi agent system so hard to manage without conflicts?",
+          "link": "https://www.reddit.com/r/artificial/comments/1tup033/why_is_tool_access_in_a_multi_agent_system_so/",
+          "date": "2026-06-02T12:08:57+00:00"
         }
       ],
       "error": null
@@ -353,6 +353,16 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Powerful AI is making facial recognition better at identifying you",
+          "link": "https://theconversation.com/powerful-ai-is-making-facial-recognition-better-at-identifying-you-276743",
+          "date": "2026-06-02T12:25:12Z"
+        },
+        {
+          "title": "Chief Purpose Officers: A leadership solution or another management fad?",
+          "link": "https://theconversation.com/chief-purpose-officers-a-leadership-solution-or-another-management-fad-282319",
+          "date": "2026-06-02T10:20:30Z"
+        },
         {
           "title": "\u2018Utter disregard for the risk to human life\u2019: Florida sues OpenAI and Sam Altman over AI safety",
           "link": "https://theconversation.com/utter-disregard-for-the-risk-to-human-life-florida-sues-openai-and-sam-altman-over-ai-safety-284289",
@@ -367,16 +377,6 @@
           "title": "Your phone screen doesn\u2019t have the same color range as the human eye \u2013 and AI widens the gap between digital images and the real thing",
           "link": "https://theconversation.com/your-phone-screen-doesnt-have-the-same-color-range-as-the-human-eye-and-ai-widens-the-gap-between-digital-images-and-the-real-thing-283252",
           "date": "2026-06-01T12:22:58Z"
-        },
-        {
-          "title": "The story of Pope Leo\u2019s \u2018landmark\u2019 text on AI technology \u2013 by a member of its launch panel",
-          "link": "https://theconversation.com/the-story-of-pope-leos-landmark-text-on-ai-technology-by-a-member-of-its-launch-panel-283993",
-          "date": "2026-05-28T13:48:06Z"
-        },
-        {
-          "title": "Taylor Swift trademarking her voice and likeness points to a new legal frontier in combating AI deepfakes",
-          "link": "https://theconversation.com/taylor-swift-trademarking-her-voice-and-likeness-points-to-a-new-legal-frontier-in-combating-ai-deepfakes-282558",
-          "date": "2026-05-28T12:42:59Z"
         }
       ],
       "error": null
@@ -386,29 +386,29 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "AI to drive up UK youth unemployment, as Alphabet raises $80bn for spending splurge \u2013 business live",
+          "title": "Alphabet\u2019s shares drop after announcing $80bn share sale, as AI threatens to drive up youth unemployment \u2013 business live",
           "link": "https://www.theguardian.com/business/live/2026/jun/02/alphabet-80bn-share-sales-ai-spending-berkshire-hathaway-stock-markets-oil-interest-rates-inflation-latest-news-updates",
-          "date": "Tue, 02 Jun 2026 10:09:29 GMT"
+          "date": "Tue, 02 Jun 2026 14:13:35 GMT"
+        },
+        {
+          "title": "Democrats are at a huge crossroads in California governor\u2019s race | Normon Solomon",
+          "link": "https://www.theguardian.com/commentisfree/2026/jun/02/democrats-tom-steyer-california-governor-race",
+          "date": "Tue, 02 Jun 2026 14:00:26 GMT"
+        },
+        {
+          "title": "Anthropic surges as OpenAI struggles to keep up",
+          "link": "https://www.theguardian.com/technology/2026/jun/01/anthropic-openai-techscape",
+          "date": "Tue, 02 Jun 2026 13:06:01 GMT"
         },
         {
           "title": "Google owner Alphabet to sell $80bn in stock to fund AI spending spree",
           "link": "https://www.theguardian.com/technology/2026/jun/02/google-alphabet-sell-stock-ai-share-sale-berkshire-hathaway",
-          "date": "Tue, 02 Jun 2026 08:38:22 GMT"
+          "date": "Tue, 02 Jun 2026 12:33:23 GMT"
         },
         {
-          "title": "Tuesday briefing: Palantir\u2019s rise \u2013 and why so many oppose its role in the British state",
-          "link": "https://www.theguardian.com/world/2026/jun/02/tuesday-briefing-palantirs-rise-and-why-so-many-oppose-its-role-in-the-british-state",
-          "date": "Tue, 02 Jun 2026 05:46:12 GMT"
-        },
-        {
-          "title": "Hackers trick Meta AI support bot to infiltrate Obama White House Instagram account",
-          "link": "https://www.theguardian.com/technology/2026/jun/01/meta-ai-hack-obama-sephora-instagram",
-          "date": "Mon, 01 Jun 2026 22:32:26 GMT"
-        },
-        {
-          "title": "Florida lawsuit accuses OpenAI of ignoring safety warnings and putting children at risk",
-          "link": "https://www.theguardian.com/technology/2026/jun/01/florida-lawsuit-openai-sam-altman",
-          "date": "Mon, 01 Jun 2026 21:51:03 GMT"
+          "title": "Will the AI economy create a permanent underclass?",
+          "link": "https://www.theguardian.com/business/2026/jun/02/will-the-ai-economy-create-a-permanent-underclass",
+          "date": "Tue, 02 Jun 2026 12:27:52 GMT"
         }
       ],
       "error": null
