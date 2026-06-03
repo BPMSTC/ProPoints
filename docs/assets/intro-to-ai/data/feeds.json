@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T08:52:42.118070+00:00",
+  "generatedAt": "2026-06-03T13:13:49.016360+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -119,6 +119,11 @@
           "date": "Tue, 02 Jun 2026 22:07:07 GMT"
         },
         {
+          "title": "OpenAI vs. Anthropic vs. Google: But the Model Isn't the Point",
+          "link": "https://aibusiness.com/generative-ai/openai-vs-anthropic-vs-google-model-isn-t-the-point",
+          "date": "Tue, 02 Jun 2026 18:58:06 GMT"
+        },
+        {
           "title": "Alphabet Sets $80B AI Funding Goal",
           "link": "https://aibusiness.com/generative-ai/alphabet-sets-80b-ai-funding-goal",
           "date": "Tue, 02 Jun 2026 15:34:36 GMT"
@@ -132,11 +137,6 @@
           "title": "Vendor Training Robots With Human Data Raises $60 Million",
           "link": "https://aibusiness.com/robotics/vendor-training-robots-human-data-raises-60-million",
           "date": "Tue, 02 Jun 2026 12:32:11 GMT"
-        },
-        {
-          "title": "Navigating the Future of Work with AI",
-          "link": "https://aibusiness.com/generative-ai/navigating-future-of-work-with-ai",
-          "date": "Mon, 01 Jun 2026 23:16:32 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,7 +290,17 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Male bowerbirds hope to dazzle females with bright human-made items",
+          "title": "Beans use an immune receptor to call in airstrikes on caterpillars",
+          "link": "https://arstechnica.com/science/2026/06/beans-use-an-immune-receptor-to-call-in-airstrikes-on-caterpillars/",
+          "date": "Wed, 03 Jun 2026 11:15:07 +0000"
+        },
+        {
+          "title": "How long will it take to rebuild Blue Origin's launch pad? We asked some SpaceX vets.",
+          "link": "https://arstechnica.com/space/2026/06/how-long-will-it-take-to-rebuild-blue-origins-launch-pad-we-asked-some-spacex-vets/",
+          "date": "Wed, 03 Jun 2026 10:00:07 +0000"
+        },
+        {
+          "title": "Male bowerbirds prefer to dazzle females with bright human-made items",
           "link": "https://arstechnica.com/science/2026/06/male-bowerbirds-prefer-colorful-human-items-to-decorate-bowers/",
           "date": "Tue, 02 Jun 2026 23:05:31 +0000"
         },
@@ -303,16 +313,6 @@
           "title": "Microsoft's Project Solara is an Android OS designed for agents instead of apps",
           "link": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
           "date": "Tue, 02 Jun 2026 20:47:54 +0000"
-        },
-        {
-          "title": "Amazon-owned Ring should pay Americans for scanning their faces, lawsuit says",
-          "link": "https://arstechnica.com/tech-policy/2026/06/amazon-owned-ring-should-pay-americans-for-scanning-their-faces-lawsuit-says/",
-          "date": "Tue, 02 Jun 2026 20:17:41 +0000"
-        },
-        {
-          "title": "If I had a hammer... it might actually be a rhino tooth",
-          "link": "https://arstechnica.com/science/2026/06/experiments-reveal-that-neanderthals-used-rhino-teeth-as-hammers/",
-          "date": "Tue, 02 Jun 2026 19:54:14 +0000"
         }
       ],
       "error": null
@@ -327,9 +327,9 @@
           "date": "2026-06-03T07:39:28+00:00"
         },
         {
-          "title": "AI isn\u2019t the Problem - it\u2019s Capitalism",
-          "link": "https://www.reddit.com/r/artificial/comments/1tumllh/ai_isnt_the_problem_its_capitalism/",
-          "date": "2026-06-02T10:14:29+00:00"
+          "title": "Perplexity is STEALING from users, violating Law and hiding behind their AI bots Sam",
+          "link": "https://www.reddit.com/r/artificial/comments/1tvliqu/perplexity_is_stealing_from_users_violating_law/",
+          "date": "2026-06-03T10:40:49+00:00"
         },
         {
           "title": "AI adoption inside companies feels much slower than AI adoption online",
@@ -337,9 +337,9 @@
           "date": "2026-06-03T07:03:08+00:00"
         },
         {
-          "title": "AI Alliance launches a global coalition to build sovereign frontier models, with Yann LeCun as chief science advisor",
-          "link": "https://www.reddit.com/r/artificial/comments/1tv2x9j/ai_alliance_launches_a_global_coalition_to_build/",
-          "date": "2026-06-02T20:20:09+00:00"
+          "title": "AI isn\u2019t the Problem - it\u2019s Capitalism",
+          "link": "https://www.reddit.com/r/artificial/comments/1tumllh/ai_isnt_the_problem_its_capitalism/",
+          "date": "2026-06-02T10:14:29+00:00"
         },
         {
           "title": "A reckoning is coming for US AI coding tools",
@@ -354,6 +354,16 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Pain shouldn\u2019t be judged with a lie detector test \u2013 here\u2019s why",
+          "link": "https://theconversation.com/pain-shouldnt-be-judged-with-a-lie-detector-test-heres-why-282799",
+          "date": "2026-06-03T11:10:19Z"
+        },
+        {
+          "title": "Chatbot teddies for three-year-olds? Why AI toys are risky for kids",
+          "link": "https://theconversation.com/chatbot-teddies-for-three-year-olds-why-ai-toys-are-risky-for-kids-284195",
+          "date": "2026-06-03T10:05:59Z"
+        },
+        {
           "title": "Australia\u2019s economy slows as households tighten their belts, while AI investment surges",
           "link": "https://theconversation.com/australias-economy-slows-as-households-tighten-their-belts-while-ai-investment-surges-284423",
           "date": "2026-06-03T04:33:43Z"
@@ -367,16 +377,6 @@
           "title": "From cloning romance authors to YouTube piracy, AI is transforming audiobooks",
           "link": "https://theconversation.com/from-cloning-romance-authors-to-youtube-piracy-ai-is-transforming-audiobooks-283885",
           "date": "2026-06-02T20:10:57Z"
-        },
-        {
-          "title": "Powerful AI is making facial recognition better at identifying you",
-          "link": "https://theconversation.com/powerful-ai-is-making-facial-recognition-better-at-identifying-you-276743",
-          "date": "2026-06-02T12:25:12Z"
-        },
-        {
-          "title": "Chief Purpose Officers: A leadership solution or another management fad?",
-          "link": "https://theconversation.com/chief-purpose-officers-a-leadership-solution-or-another-management-fad-282319",
-          "date": "2026-06-02T10:20:30Z"
         }
       ],
       "error": null
@@ -386,29 +386,29 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "As the tech mega-IPO race heats up, has OpenAI missed its moment?",
+          "link": "https://www.theguardian.com/technology/2026/jun/03/as-the-tech-mega-ipo-race-hots-up-has-openai-missed-its-moment",
+          "date": "Wed, 03 Jun 2026 10:38:09 GMT"
+        },
+        {
+          "title": "Can autonomous AI-powered killer drones take morality onboard?",
+          "link": "https://www.theguardian.com/world/2026/jun/03/can-autonomous-ai-powered-killer-drones-take-morality-onboard",
+          "date": "Wed, 03 Jun 2026 11:00:05 GMT"
+        },
+        {
+          "title": "Future AI weapons such as drones should have moral code, says former UK spy chief",
+          "link": "https://www.theguardian.com/science/2026/jun/03/ai-weapons-drones-moral-code-former-uk-gchq-chief-david-omand",
+          "date": "Wed, 03 Jun 2026 11:00:04 GMT"
+        },
+        {
+          "title": "Thank God for Pope Leo. He\u2019s the leader our world desperately needs | Arwa Mahdawi",
+          "link": "https://www.theguardian.com/commentisfree/2026/jun/03/pope-leo-ai-technology",
+          "date": "Wed, 03 Jun 2026 09:00:47 GMT"
+        },
+        {
           "title": "UK media websites given power to block Google using their articles in AI search",
           "link": "https://www.theguardian.com/business/2026/jun/03/uk-media-groups-power-opt-out-google-ai-search-summaries",
           "date": "Wed, 03 Jun 2026 08:43:52 GMT"
-        },
-        {
-          "title": "\u2018The CGI would have cost millions. I spent $2,000.\u2019 Is Dreams of Violets AI slop \u2013 or the future of film-making?",
-          "link": "https://www.theguardian.com/film/2026/jun/03/dreams-of-violets-ash-koosha-iran-tribeca-film-festival",
-          "date": "Wed, 03 Jun 2026 04:00:42 GMT"
-        },
-        {
-          "title": "Sydney academic used AI to write SMH opinion piece urging students to avoid using tech to \u2018cut corners\u2019",
-          "link": "https://www.theguardian.com/australia-news/2026/jun/03/sydney-academic-used-ai-opinion-piece-urging-students-to-avoid-using-it-ntwnfb",
-          "date": "Wed, 03 Jun 2026 03:06:28 GMT"
-        },
-        {
-          "title": "Chip, chip ... boom? South Korea tech makers join the trillion-dollar club but some fear a short-circuit looms",
-          "link": "https://www.theguardian.com/world/2026/jun/03/south-korea-ai-boom-tech-companies-trillion-dollar-club-kospi-",
-          "date": "Wed, 03 Jun 2026 02:43:43 GMT"
-        },
-        {
-          "title": "Trump signs executive order seeking early access to new AI releases",
-          "link": "https://www.theguardian.com/us-news/2026/jun/02/trump-executive-order-ai-voluntary-review",
-          "date": "Tue, 02 Jun 2026 17:23:26 GMT"
         }
       ],
       "error": null
@@ -482,6 +482,21 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Nvidia\u2019s RTX Spark Laptops Look Hell-Bent on Disruption",
+          "link": "https://www.wired.com/story/nvidia-rtx-spark-laptop-disruption/",
+          "date": "Wed, 03 Jun 2026 11:00:00 +0000"
+        },
+        {
+          "title": "What\u2019s Worth More Than Cash in San Francisco Real Estate? Anthropic Stock",
+          "link": "https://www.wired.com/story/whats-worth-more-than-san-francisco-real-estate-anthropic-stock/",
+          "date": "Wed, 03 Jun 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Redditors Are Using AI to Beat Obscene World Cup Ticket Prices",
+          "link": "https://www.wired.com/story/redditors-are-using-ai-to-beat-obscene-fifa-world-cup-ticket-prices/",
+          "date": "Wed, 03 Jun 2026 09:00:00 +0000"
+        },
+        {
           "title": "Meet Microsoft Scout, Your AI Coworker That Never Logs Off",
           "link": "https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/",
           "date": "Tue, 02 Jun 2026 18:00:00 +0000"
@@ -490,21 +505,6 @@
           "title": "Flush With Cash From OpenAI, Opal Is Making an AI-Powered Audio Gadget",
           "link": "https://www.wired.com/story/opal-electronics-openai-investment-ai-powered-audio-gadget/",
           "date": "Tue, 02 Jun 2026 15:30:00 +0000"
-        },
-        {
-          "title": "The Trump Administration Is at War With Itself Over AI Regulation",
-          "link": "https://www.wired.com/story/the-white-house-is-at-war-with-itself-over-ai-regulation/",
-          "date": "Tue, 02 Jun 2026 09:30:00 +0000"
-        },
-        {
-          "title": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever",
-          "link": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
-          "date": "Mon, 01 Jun 2026 17:17:58 +0000"
-        },
-        {
-          "title": "Norse Atlantic Airways Offers Dirt-Cheap Tickets. There\u2019s a Catch",
-          "link": "https://www.wired.com/story/norse-airlines-ftc-complaints-ai-scams/",
-          "date": "Mon, 01 Jun 2026 11:00:00 +0000"
         }
       ],
       "error": null
