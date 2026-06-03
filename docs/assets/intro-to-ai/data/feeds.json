@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T03:48:49.438668+00:00",
+  "generatedAt": "2026-06-03T08:52:42.118070+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -322,9 +322,19 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
+          "title": "The measured productivity gain from AI is 7.8%, not 10x, and I think that gap explains the backlash",
+          "link": "https://www.reddit.com/r/artificial/comments/1tvi92v/the_measured_productivity_gain_from_ai_is_78_not/",
+          "date": "2026-06-03T07:39:28+00:00"
+        },
+        {
           "title": "AI isn\u2019t the Problem - it\u2019s Capitalism",
           "link": "https://www.reddit.com/r/artificial/comments/1tumllh/ai_isnt_the_problem_its_capitalism/",
           "date": "2026-06-02T10:14:29+00:00"
+        },
+        {
+          "title": "AI adoption inside companies feels much slower than AI adoption online",
+          "link": "https://www.reddit.com/r/artificial/comments/1tvhm3j/ai_adoption_inside_companies_feels_much_slower/",
+          "date": "2026-06-03T07:03:08+00:00"
         },
         {
           "title": "AI Alliance launches a global coalition to build sovereign frontier models, with Yann LeCun as chief science advisor",
@@ -332,19 +342,9 @@
           "date": "2026-06-02T20:20:09+00:00"
         },
         {
-          "title": "We've reached the point where a tape measure is unnecessary. AI does it from your camera.",
-          "link": "https://www.reddit.com/r/artificial/comments/1tuv37l/weve_reached_the_point_where_a_tape_measure_is/",
-          "date": "2026-06-02T15:53:22+00:00"
-        },
-        {
-          "title": "The AI bottleneck has shifted and most people haven't caught up yet",
-          "link": "https://www.reddit.com/r/artificial/comments/1tuqkp0/the_ai_bottleneck_has_shifted_and_most_people/",
-          "date": "2026-06-02T13:12:37+00:00"
-        },
-        {
-          "title": "Nvidia and Microsoft Researchers Say AI Agents Don't Care About Safety or Reliability",
-          "link": "https://www.reddit.com/r/artificial/comments/1tuwns4/nvidia_and_microsoft_researchers_say_ai_agents/",
-          "date": "2026-06-02T16:46:23+00:00"
+          "title": "A reckoning is coming for US AI coding tools",
+          "link": "https://www.reddit.com/r/artificial/comments/1tvepj3/a_reckoning_is_coming_for_us_ai_coding_tools/",
+          "date": "2026-06-03T04:30:11+00:00"
         }
       ],
       "error": null
@@ -353,6 +353,16 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Australia\u2019s economy slows as households tighten their belts, while AI investment surges",
+          "link": "https://theconversation.com/australias-economy-slows-as-households-tighten-their-belts-while-ai-investment-surges-284423",
+          "date": "2026-06-03T04:33:43Z"
+        },
+        {
+          "title": "How much water and power will AI data centres use in Australia? Ironically, we don\u2019t have the data to know",
+          "link": "https://theconversation.com/how-much-water-and-power-will-ai-data-centres-use-in-australia-ironically-we-dont-have-the-data-to-know-284069",
+          "date": "2026-06-03T03:54:04Z"
+        },
         {
           "title": "From cloning romance authors to YouTube piracy, AI is transforming audiobooks",
           "link": "https://theconversation.com/from-cloning-romance-authors-to-youtube-piracy-ai-is-transforming-audiobooks-283885",
@@ -367,16 +377,6 @@
           "title": "Chief Purpose Officers: A leadership solution or another management fad?",
           "link": "https://theconversation.com/chief-purpose-officers-a-leadership-solution-or-another-management-fad-282319",
           "date": "2026-06-02T10:20:30Z"
-        },
-        {
-          "title": "\u2018Utter disregard for the risk to human life\u2019: Florida sues OpenAI and Sam Altman over AI safety",
-          "link": "https://theconversation.com/utter-disregard-for-the-risk-to-human-life-florida-sues-openai-and-sam-altman-over-ai-safety-284289",
-          "date": "2026-06-02T04:44:04Z"
-        },
-        {
-          "title": "AI and journalism in southern Africa: editors are using it but balanced with human expertise and editorial judgement",
-          "link": "https://theconversation.com/ai-and-journalism-in-southern-africa-editors-are-using-it-but-balanced-with-human-expertise-and-editorial-judgement-282644",
-          "date": "2026-06-01T13:31:42Z"
         }
       ],
       "error": null
@@ -385,6 +385,16 @@
       "name": "Artificial intelligence (AI) | The Guardian",
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
+        {
+          "title": "UK media websites given power to block Google using their articles in AI search",
+          "link": "https://www.theguardian.com/business/2026/jun/03/uk-media-groups-power-opt-out-google-ai-search-summaries",
+          "date": "Wed, 03 Jun 2026 08:43:52 GMT"
+        },
+        {
+          "title": "\u2018The CGI would have cost millions. I spent $2,000.\u2019 Is Dreams of Violets AI slop \u2013 or the future of film-making?",
+          "link": "https://www.theguardian.com/film/2026/jun/03/dreams-of-violets-ash-koosha-iran-tribeca-film-festival",
+          "date": "Wed, 03 Jun 2026 04:00:42 GMT"
+        },
         {
           "title": "Sydney academic used AI to write SMH opinion piece urging students to avoid using tech to \u2018cut corners\u2019",
           "link": "https://www.theguardian.com/australia-news/2026/jun/03/sydney-academic-used-ai-opinion-piece-urging-students-to-avoid-using-it-ntwnfb",
@@ -399,16 +409,6 @@
           "title": "Trump signs executive order seeking early access to new AI releases",
           "link": "https://www.theguardian.com/us-news/2026/jun/02/trump-executive-order-ai-voluntary-review",
           "date": "Tue, 02 Jun 2026 17:23:26 GMT"
-        },
-        {
-          "title": "Alphabet\u2019s shares drop after announcing $80bn share sale, as AI threatens to drive up youth unemployment \u2013 as it happened",
-          "link": "https://www.theguardian.com/business/live/2026/jun/02/alphabet-80bn-share-sales-ai-spending-berkshire-hathaway-stock-markets-oil-interest-rates-inflation-latest-news-updates",
-          "date": "Tue, 02 Jun 2026 15:41:21 GMT"
-        },
-        {
-          "title": "Democrats are at a huge crossroads in California governor\u2019s race | Normon Solomon",
-          "link": "https://www.theguardian.com/commentisfree/2026/jun/02/democrats-tom-steyer-california-governor-race",
-          "date": "Tue, 02 Jun 2026 14:00:26 GMT"
         }
       ],
       "error": null
