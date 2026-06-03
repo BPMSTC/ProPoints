@@ -1,10 +1,25 @@
 {
-  "generatedAt": "2026-06-03T13:13:49.016360+00:00",
+  "generatedAt": "2026-06-03T18:21:05.652534+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Demand Is Booming for New No Tech, Repairable Tractor",
+          "link": "https://www.404media.co/demand-is-booming-for-ursa-ag-new-no-tech-repairable-tractor/",
+          "date": "Wed, 03 Jun 2026 18:07:10 GMT"
+        },
+        {
+          "title": "Podcast: Hackers Asked Meta AI To Let Them In. It Worked",
+          "link": "https://www.404media.co/podcast-hackers-asked-meta-ai-to-let-them-in-it-worked/",
+          "date": "Wed, 03 Jun 2026 16:22:11 GMT"
+        },
+        {
+          "title": "Companies Are Using Reddit to Manipulate ChatGPT and Google AI Search",
+          "link": "https://www.404media.co/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search/",
+          "date": "Wed, 03 Jun 2026 14:29:28 GMT"
+        },
         {
           "title": "Google Is Quietly Buying Code From Play Store Developers to Train AI",
           "link": "https://www.404media.co/google-is-quietly-buying-code-from-play-store-developers-to-train-ai/",
@@ -14,21 +29,6 @@
           "title": "Microsoft Wants to 'Make People Addicted' to its New AI Assistant, Internal Documents Reveal",
           "link": "https://www.404media.co/microsoft-wants-to-make-people-addicted-to-scout-its-new-ai-assistant-internal-documents-reveal/",
           "date": "Tue, 02 Jun 2026 18:46:10 GMT"
-        },
-        {
-          "title": "Nvidia and Microsoft Researchers Say AI Agents Don't Care About Safety or Reliability",
-          "link": "https://www.404media.co/nvidia-and-microsoft-researchers-say-ai-agents-dont-care-about-safety-or-reliability/",
-          "date": "Tue, 02 Jun 2026 15:03:17 GMT"
-        },
-        {
-          "title": "Here is the Contract for Palantir\u2019s Super API for the IRS",
-          "link": "https://www.404media.co/here-is-the-contract-for-palantirs-super-api-for-the-irs/",
-          "date": "Tue, 02 Jun 2026 14:08:52 GMT"
-        },
-        {
-          "title": "Amazon Shuts Down Internal AI Leaderboard After Employees Cheated",
-          "link": "https://www.404media.co/amazon-shuts-down-internal-ai-leaderboard-after-employees-cheated/",
-          "date": "Mon, 01 Jun 2026 17:15:20 GMT"
         }
       ],
       "error": null
@@ -114,6 +114,21 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Trump\u2019s EO Furthers Model Exclusivity, Harming Cyber Defenders",
+          "link": "https://aibusiness.com/ai-policy/trump-s-eo-furthers-model-exclusivity-harming-cyber-defenders",
+          "date": "Wed, 03 Jun 2026 17:00:55 GMT"
+        },
+        {
+          "title": "Safeguarding SaaS Success in the Changing AI Market",
+          "link": "https://aibusiness.com/generative-ai/safeguarding-saas-success-the-changing-ai-market",
+          "date": "Wed, 03 Jun 2026 16:45:12 GMT"
+        },
+        {
+          "title": "Mythos Scaled to 150 Organizations in 15 Countries",
+          "link": "https://aibusiness.com/cybersecurity/mythos-scaled-150-organizations-15-countries",
+          "date": "Wed, 03 Jun 2026 14:36:23 GMT"
+        },
+        {
           "title": "Microsoft Fully Commits to AI Models, Intros Unmetered Intelligence",
           "link": "https://aibusiness.com/agentic-ai/microsoft-fully-commits-ai-models-intros-unmetered-intelligence",
           "date": "Tue, 02 Jun 2026 22:07:07 GMT"
@@ -122,21 +137,6 @@
           "title": "OpenAI vs. Anthropic vs. Google: But the Model Isn't the Point",
           "link": "https://aibusiness.com/generative-ai/openai-vs-anthropic-vs-google-model-isn-t-the-point",
           "date": "Tue, 02 Jun 2026 18:58:06 GMT"
-        },
-        {
-          "title": "Alphabet Sets $80B AI Funding Goal",
-          "link": "https://aibusiness.com/generative-ai/alphabet-sets-80b-ai-funding-goal",
-          "date": "Tue, 02 Jun 2026 15:34:36 GMT"
-        },
-        {
-          "title": "EU Tech Sovereignty Package Risks Outpacing Data Center Capacity",
-          "link": "https://aibusiness.com/ai-policy/eu-tech-sovereignty-outpacing-data-center-capacity",
-          "date": "Tue, 02 Jun 2026 14:02:55 GMT"
-        },
-        {
-          "title": "Vendor Training Robots With Human Data Raises $60 Million",
-          "link": "https://aibusiness.com/robotics/vendor-training-robots-human-data-raises-60-million",
-          "date": "Tue, 02 Jun 2026 12:32:11 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -332,19 +332,19 @@
           "date": "2026-06-03T10:40:49+00:00"
         },
         {
+          "title": "Top AI conference uses AI detector to reject papers for allegedly being written by AI",
+          "link": "https://www.reddit.com/r/artificial/comments/1tvvkma/top_ai_conference_uses_ai_detector_to_reject/",
+          "date": "2026-06-03T17:01:46+00:00"
+        },
+        {
           "title": "AI adoption inside companies feels much slower than AI adoption online",
           "link": "https://www.reddit.com/r/artificial/comments/1tvhm3j/ai_adoption_inside_companies_feels_much_slower/",
           "date": "2026-06-03T07:03:08+00:00"
         },
         {
-          "title": "AI isn\u2019t the Problem - it\u2019s Capitalism",
-          "link": "https://www.reddit.com/r/artificial/comments/1tumllh/ai_isnt_the_problem_its_capitalism/",
-          "date": "2026-06-02T10:14:29+00:00"
-        },
-        {
-          "title": "A reckoning is coming for US AI coding tools",
-          "link": "https://www.reddit.com/r/artificial/comments/1tvepj3/a_reckoning_is_coming_for_us_ai_coding_tools/",
-          "date": "2026-06-03T04:30:11+00:00"
+          "title": "AI tools for hearing difficulties \u2014 helpful or harmful for language learning?",
+          "link": "https://www.reddit.com/r/artificial/comments/1tvsi0d/ai_tools_for_hearing_difficulties_helpful_or/",
+          "date": "2026-06-03T15:18:27+00:00"
         }
       ],
       "error": null
@@ -353,6 +353,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "AI offers promise for agriculture, but smallholder farmers risk being left behind",
+          "link": "https://theconversation.com/ai-offers-promise-for-agriculture-but-smallholder-farmers-risk-being-left-behind-279013",
+          "date": "2026-06-03T13:42:04Z"
+        },
         {
           "title": "Pain shouldn\u2019t be judged with a lie detector test \u2013 here\u2019s why",
           "link": "https://theconversation.com/pain-shouldnt-be-judged-with-a-lie-detector-test-heres-why-282799",
@@ -372,11 +377,6 @@
           "title": "How much water and power will AI data centres use in Australia? Ironically, we don\u2019t have the data to know",
           "link": "https://theconversation.com/how-much-water-and-power-will-ai-data-centres-use-in-australia-ironically-we-dont-have-the-data-to-know-284069",
           "date": "2026-06-03T03:54:04Z"
-        },
-        {
-          "title": "From cloning romance authors to YouTube piracy, AI is transforming audiobooks",
-          "link": "https://theconversation.com/from-cloning-romance-authors-to-youtube-piracy-ai-is-transforming-audiobooks-283885",
-          "date": "2026-06-02T20:10:57Z"
         }
       ],
       "error": null
@@ -386,29 +386,29 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "As the tech mega-IPO race heats up, has OpenAI missed its moment?",
-          "link": "https://www.theguardian.com/technology/2026/jun/03/as-the-tech-mega-ipo-race-hots-up-has-openai-missed-its-moment",
-          "date": "Wed, 03 Jun 2026 10:38:09 GMT"
+          "title": "What do UK watchdog\u2019s new rules on Google AI results mean for publishers?",
+          "link": "https://www.theguardian.com/business/2026/jun/03/what-does-uk-watchdog-new-google-ai-results-rule-means-publishers",
+          "date": "Wed, 03 Jun 2026 17:17:37 GMT"
         },
         {
-          "title": "Can autonomous AI-powered killer drones take morality onboard?",
-          "link": "https://www.theguardian.com/world/2026/jun/03/can-autonomous-ai-powered-killer-drones-take-morality-onboard",
-          "date": "Wed, 03 Jun 2026 11:00:05 GMT"
+          "title": "Labour MP sues Elon Musk\u2019s AI company over fake sexualised images",
+          "link": "https://www.theguardian.com/technology/2026/jun/03/labour-mp-sues-elon-musks-ai-company-over-fake-sexualised-images",
+          "date": "Wed, 03 Jun 2026 17:48:06 GMT"
         },
         {
-          "title": "Future AI weapons such as drones should have moral code, says former UK spy chief",
-          "link": "https://www.theguardian.com/science/2026/jun/03/ai-weapons-drones-moral-code-former-uk-gchq-chief-david-omand",
-          "date": "Wed, 03 Jun 2026 11:00:04 GMT"
+          "title": "EU aims to ensure foreign governments or firms cannot disrupt tech services with \u2018kill switch\u2019",
+          "link": "https://www.theguardian.com/world/2026/jun/03/eu-commission-foreign-providers-kill-switch-disrupt-tech-europe",
+          "date": "Wed, 03 Jun 2026 17:04:48 GMT"
         },
         {
-          "title": "Thank God for Pope Leo. He\u2019s the leader our world desperately needs | Arwa Mahdawi",
-          "link": "https://www.theguardian.com/commentisfree/2026/jun/03/pope-leo-ai-technology",
-          "date": "Wed, 03 Jun 2026 09:00:47 GMT"
+          "title": "The risks of inviting AI into the heart of our economy, society and governance | Letters",
+          "link": "https://www.theguardian.com/technology/2026/jun/03/the-risks-of-inviting-ai-into-the-heart-of-our-economy-society-and-governance",
+          "date": "Wed, 03 Jun 2026 16:36:01 GMT"
         },
         {
-          "title": "UK media websites given power to block Google using their articles in AI search",
-          "link": "https://www.theguardian.com/business/2026/jun/03/uk-media-groups-power-opt-out-google-ai-search-summaries",
-          "date": "Wed, 03 Jun 2026 08:43:52 GMT"
+          "title": "Former police officer in hiding after being falsely linked to Henry Nowak arrest",
+          "link": "https://www.theguardian.com/uk-news/2026/jun/03/former-officer-hampshire-hiding-after-being-falsely-linked-henry-nowak-arrest",
+          "date": "Wed, 03 Jun 2026 16:28:01 GMT"
         }
       ],
       "error": null
@@ -450,29 +450,29 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "In Leaked Document, Microsoft Plots How to Get People \u201cAddicted\u201d to Its AI",
+          "link": "https://futurism.com/artificial-intelligence/microsoft-plots-addicted-to-its-ai",
+          "date": "Wed, 03 Jun 2026 13:04:04 -0400"
+        },
+        {
+          "title": "State of Florida Sues OpenAI, Saying Sam Altman Showed \u201cUtter Disregard for the Risk to Human Life\u201d",
+          "link": "https://futurism.com/artificial-intelligence/florida-openai-sam-altman-lawsuit",
+          "date": "Wed, 03 Jun 2026 11:54:49 -0400"
+        },
+        {
+          "title": "Amazon\u2019s AI-Generated Animated Series Canceled After Relentless Derision",
+          "link": "https://futurism.com/artificial-intelligence/amazon-ai-generated-series-canceled",
+          "date": "Wed, 03 Jun 2026 10:48:01 -0400"
+        },
+        {
+          "title": "Anthropic and DeepMind Now Actively Investigating AI Consciousness",
+          "link": "https://futurism.com/artificial-intelligence/anthropic-deemind-ai-consciousness",
+          "date": "Wed, 03 Jun 2026 09:55:12 -0400"
+        },
+        {
           "title": "Film Community Aghast as Martin Scorsese Extolls AI Startup, Says He Now Uses AI for Storyboards",
           "link": "https://futurism.com/artificial-intelligence/film-community-aghast-as-martin-scorsese-extolls-ai-startup",
           "date": "Tue, 02 Jun 2026 17:04:16 -0400"
-        },
-        {
-          "title": "Now You Gotta Buy a Second Computer Just for Your AI Agent, Nvidia Declares",
-          "link": "https://futurism.com/artificial-intelligence/second-computer-ai-agent-nvidia-declares",
-          "date": "Tue, 02 Jun 2026 11:43:21 -0400"
-        },
-        {
-          "title": "Meta\u2019s AI Support Bot Is Giving Hackers Access to Other People\u2019s Instagram Accounts Just by Asking",
-          "link": "https://futurism.com/future-society/meta-ai-support-bot-hackers-access-instagram-accounts",
-          "date": "Mon, 01 Jun 2026 16:44:28 -0400"
-        },
-        {
-          "title": "Unfortunate Company Accidentally Blows Half a Billion Dollars on Claude in One Month",
-          "link": "https://futurism.com/artificial-intelligence/company-half-billion-dollars-claude-one-month",
-          "date": "Mon, 01 Jun 2026 12:50:26 -0400"
-        },
-        {
-          "title": "Neighbors Horrified by Data Center Twice the Size of Manhattan",
-          "link": "https://futurism.com/artificial-intelligence/neighbors-horrified-data-center-utah",
-          "date": "Mon, 01 Jun 2026 10:49:32 -0400"
         }
       ],
       "error": null
@@ -481,6 +481,16 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "The Humanoid Robot of the Future Is a 6-Foot-Tall Beefcake With a Chinese Body and an American Brain",
+          "link": "https://www.wired.com/story/nvidia-unitree-humanoid-robot-h2-plus/",
+          "date": "Wed, 03 Jun 2026 18:00:00 +0000"
+        },
+        {
+          "title": "This Is How Trump Finally Signed the AI Executive Order",
+          "link": "https://www.wired.com/story/this-is-how-trump-finally-signed-the-ai-executive-order/",
+          "date": "Wed, 03 Jun 2026 15:46:52 +0000"
+        },
         {
           "title": "Nvidia\u2019s RTX Spark Laptops Look Hell-Bent on Disruption",
           "link": "https://www.wired.com/story/nvidia-rtx-spark-laptop-disruption/",
@@ -495,16 +505,6 @@
           "title": "Redditors Are Using AI to Beat Obscene World Cup Ticket Prices",
           "link": "https://www.wired.com/story/redditors-are-using-ai-to-beat-obscene-fifa-world-cup-ticket-prices/",
           "date": "Wed, 03 Jun 2026 09:00:00 +0000"
-        },
-        {
-          "title": "Meet Microsoft Scout, Your AI Coworker That Never Logs Off",
-          "link": "https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/",
-          "date": "Tue, 02 Jun 2026 18:00:00 +0000"
-        },
-        {
-          "title": "Flush With Cash From OpenAI, Opal Is Making an AI-Powered Audio Gadget",
-          "link": "https://www.wired.com/story/opal-electronics-openai-investment-ai-powered-audio-gadget/",
-          "date": "Tue, 02 Jun 2026 15:30:00 +0000"
         }
       ],
       "error": null
