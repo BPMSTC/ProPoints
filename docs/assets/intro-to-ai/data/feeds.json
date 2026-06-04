@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-06-04T11:50:00.214064+00:00",
+  "generatedAt": "2026-06-04T14:53:05.932007+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Watch These Judges Rip Into Lawyers For Citing Cases That Don't Exist",
+          "link": "https://www.404media.co/new-york-court-ai-citations-landberg-case/",
+          "date": "Thu, 04 Jun 2026 14:33:57 GMT"
+        },
+        {
+          "title": "Google Employees Internally Share Memes About How Its AI Sucks",
+          "link": "https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/",
+          "date": "Thu, 04 Jun 2026 13:30:13 GMT"
+        },
         {
           "title": "Demand Is Booming for New No Tech, Repairable Tractor",
           "link": "https://www.404media.co/demand-is-booming-for-ursa-ag-new-no-tech-repairable-tractor/",
@@ -19,16 +29,6 @@
           "title": "Companies Are Using Reddit to Manipulate ChatGPT and Google AI Search",
           "link": "https://www.404media.co/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search/",
           "date": "Wed, 03 Jun 2026 14:29:28 GMT"
-        },
-        {
-          "title": "Google Is Quietly Buying Code From Play Store Developers to Train AI",
-          "link": "https://www.404media.co/google-is-quietly-buying-code-from-play-store-developers-to-train-ai/",
-          "date": "Wed, 03 Jun 2026 00:16:47 GMT"
-        },
-        {
-          "title": "Microsoft Wants to 'Make People Addicted' to its New AI Assistant, Internal Documents Reveal",
-          "link": "https://www.404media.co/microsoft-wants-to-make-people-addicted-to-scout-its-new-ai-assistant-internal-documents-reveal/",
-          "date": "Tue, 02 Jun 2026 18:46:10 GMT"
         }
       ],
       "error": null
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Google\u2019s Gemma 4 12B Shows AI Race Moving to Edge Devices",
+          "link": "https://aibusiness.com/agentic-ai/google-s-gemma-4-12b-shows-ai-race-moving-edge-devices",
+          "date": "Thu, 04 Jun 2026 14:40:27 GMT"
+        },
+        {
           "title": "Trump\u2019s EO Furthers Model Exclusivity, Harming Cyber Defenders",
           "link": "https://aibusiness.com/ai-policy/trump-s-eo-furthers-model-exclusivity-harming-cyber-defenders",
           "date": "Wed, 03 Jun 2026 17:00:55 GMT"
@@ -132,11 +137,6 @@
           "title": "Microsoft Fully Commits to AI Models, Intros Unmetered Intelligence",
           "link": "https://aibusiness.com/agentic-ai/microsoft-fully-commits-ai-models-intros-unmetered-intelligence",
           "date": "Tue, 02 Jun 2026 22:07:07 GMT"
-        },
-        {
-          "title": "OpenAI vs. Anthropic vs. Google: But the Model Isn't the Point",
-          "link": "https://aibusiness.com/generative-ai/openai-vs-anthropic-vs-google-model-isn-t-the-point",
-          "date": "Tue, 02 Jun 2026 18:58:06 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -322,9 +322,9 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "Google just dropped Gemma 4 12B on your laptop!!",
-          "link": "https://www.reddit.com/r/artificial/comments/1tw0cqv/google_just_dropped_gemma_4_12b_on_your_laptop/",
-          "date": "2026-06-03T19:42:27+00:00"
+          "title": "Claude is completely unusable now",
+          "link": "https://www.reddit.com/r/artificial/comments/1twn3m7/claude_is_completely_unusable_now/",
+          "date": "2026-06-04T13:05:10+00:00"
         },
         {
           "title": "Ran gemma 4 12b on my 3090 yesterday and I think the local model game just changed",
@@ -332,19 +332,19 @@
           "date": "2026-06-04T07:45:35+00:00"
         },
         {
-          "title": "Companies Are Using Reddit to Manipulate ChatGPT and Google AI Search. Peptide companies have been doing AI-engine optimization by spamming the biohackers subreddit to manipulate ChatGPT and Google.",
-          "link": "https://www.reddit.com/r/artificial/comments/1tw6hb9/companies_are_using_reddit_to_manipulate_chatgpt/",
-          "date": "2026-06-03T23:31:49+00:00"
+          "title": "Google just dropped Gemma 4 12B on your laptop!!",
+          "link": "https://www.reddit.com/r/artificial/comments/1tw0cqv/google_just_dropped_gemma_4_12b_on_your_laptop/",
+          "date": "2026-06-03T19:42:27+00:00"
         },
         {
-          "title": "Can prompting reduce AI sycophancy or is it mostly model behavior?",
-          "link": "https://www.reddit.com/r/artificial/comments/1twf0vl/can_prompting_reduce_ai_sycophancy_or_is_it/",
-          "date": "2026-06-04T06:08:07+00:00"
+          "title": "Hassabis says AGI in three years but I keep thinking about the harness layer",
+          "link": "https://www.reddit.com/r/artificial/comments/1twpobj/hassabis_says_agi_in_three_years_but_i_keep/",
+          "date": "2026-06-04T14:41:38+00:00"
         },
         {
-          "title": "Companies are letting AI gains go to waste, study says",
-          "link": "https://www.reddit.com/r/artificial/comments/1tw5v4v/companies_are_letting_ai_gains_go_to_waste_study/",
-          "date": "2026-06-03T23:06:42+00:00"
+          "title": "What model do you use and how many tokens do you consume",
+          "link": "https://www.reddit.com/r/artificial/comments/1twoc22/what_model_do_you_use_and_how_many_tokens_do_you/",
+          "date": "2026-06-04T13:52:23+00:00"
         }
       ],
       "error": null
@@ -353,6 +353,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Eroding a virtue: AI trains people to expect instant answers \u2013 and that\u2019s bad news for patience",
+          "link": "https://theconversation.com/eroding-a-virtue-ai-trains-people-to-expect-instant-answers-and-thats-bad-news-for-patience-280759",
+          "date": "2026-06-04T12:19:46Z"
+        },
         {
           "title": "UN report warns AI could soon use 3% of world\u2019s electricity and more water than we need to drink",
           "link": "https://theconversation.com/un-report-warns-ai-could-soon-use-3-of-worlds-electricity-and-more-water-than-we-need-to-drink-284442",
@@ -372,11 +377,6 @@
           "title": "Chatbot teddies for three-year-olds? Why AI toys are risky for kids",
           "link": "https://theconversation.com/chatbot-teddies-for-three-year-olds-why-ai-toys-are-risky-for-kids-284195",
           "date": "2026-06-03T10:05:59Z"
-        },
-        {
-          "title": "Australia\u2019s economy slows as households tighten their belts, while AI investment surges",
-          "link": "https://theconversation.com/australias-economy-slows-as-households-tighten-their-belts-while-ai-investment-surges-284423",
-          "date": "2026-06-03T04:33:43Z"
         }
       ],
       "error": null
@@ -391,6 +391,11 @@
           "date": "Thu, 04 Jun 2026 04:00:25 GMT"
         },
         {
+          "title": "SpaceX targets biggest ever stock market debut, putting Musk on course to be trillionaire",
+          "link": "https://www.theguardian.com/science/2026/jun/03/spacex-ipo-stock-musk",
+          "date": "Thu, 04 Jun 2026 14:27:20 GMT"
+        },
+        {
           "title": "\u2018Happiness is not just about GDP\u2019: ambitious plan or utopia?",
           "link": "https://www.theguardian.com/environment/2026/jun/04/happiness-is-not-just-about-gdp-ambitious-plan-or-utopia",
           "date": "Thu, 04 Jun 2026 06:28:10 GMT"
@@ -401,14 +406,9 @@
           "date": "Thu, 04 Jun 2026 04:00:26 GMT"
         },
         {
-          "title": "Seattle, home to Amazon and Microsoft, poised to pass moratorium on new datacenters",
+          "title": "Seattle poised to ban new datacenters in blow to big tech hub",
           "link": "https://www.theguardian.com/technology/2026/jun/03/seattle-datacenter-moratorium",
           "date": "Thu, 04 Jun 2026 00:17:42 GMT"
-        },
-        {
-          "title": "SpaceX targets biggest ever stock market debut, putting Musk on course to be trillionaire",
-          "link": "https://www.theguardian.com/science/2026/jun/03/spacex-ipo-stock-musk",
-          "date": "Wed, 03 Jun 2026 22:45:20 GMT"
         }
       ],
       "error": null
