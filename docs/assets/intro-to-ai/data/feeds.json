@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T21:23:00.012487+00:00",
+  "generatedAt": "2026-06-05T23:05:35.229449+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,7 +290,12 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Highly reviewed speaker can be hacked over the air to infect connected devices",
+          "title": "Baby botulism outbreak: FDA still doesn't know cause\u2014or how to prevent it",
+          "link": "https://arstechnica.com/health/2026/06/baby-botulism-outbreak-fda-still-doesnt-know-cause-or-how-to-prevent-it/",
+          "date": "Fri, 05 Jun 2026 22:36:21 +0000"
+        },
+        {
+          "title": "How a USB-connected speaker can infect a PC without ever being touched",
           "link": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
           "date": "Fri, 05 Jun 2026 21:00:29 +0000"
         },
@@ -308,11 +313,6 @@
           "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
           "link": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
           "date": "Fri, 05 Jun 2026 18:45:20 +0000"
-        },
-        {
-          "title": "\"We pissed off a lot of people\": Giant data center plan cut 50% amid protests",
-          "link": "https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/",
-          "date": "Fri, 05 Jun 2026 18:23:00 +0000"
         }
       ],
       "error": null
@@ -327,11 +327,6 @@
           "date": "2026-06-05T16:04:12+00:00"
         },
         {
-          "title": "Ramp launched an AI operating system for accounting firms",
-          "link": "https://www.reddit.com/r/artificial/comments/1txqetk/ramp_launched_an_ai_operating_system_for/",
-          "date": "2026-06-05T16:47:25+00:00"
-        },
-        {
           "title": "Why the Great Calculator Debate of the 1980s is still relevant today and how Isaac Asimov got AI right in 1956",
           "link": "https://www.reddit.com/r/artificial/comments/1txrw9m/why_the_great_calculator_debate_of_the_1980s_is/",
           "date": "2026-06-05T17:40:07+00:00"
@@ -342,9 +337,14 @@
           "date": "2026-06-05T08:32:45+00:00"
         },
         {
-          "title": "AI agents fail at the auth step more than at the reasoning step. anyone else seeing this?",
-          "link": "https://www.reddit.com/r/artificial/comments/1txqkqx/ai_agents_fail_at_the_auth_step_more_than_at_the/",
-          "date": "2026-06-05T16:53:17+00:00"
+          "title": "Ramp launched an AI operating system for accounting firms",
+          "link": "https://www.reddit.com/r/artificial/comments/1txqetk/ramp_launched_an_ai_operating_system_for/",
+          "date": "2026-06-05T16:47:25+00:00"
+        },
+        {
+          "title": "AI Replacing Jobs? I Think People Are Overestimating It",
+          "link": "https://www.reddit.com/r/artificial/comments/1txzq72/ai_replacing_jobs_i_think_people_are/",
+          "date": "2026-06-05T22:35:58+00:00"
         }
       ],
       "error": null
