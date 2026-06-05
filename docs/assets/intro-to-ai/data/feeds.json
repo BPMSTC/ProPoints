@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T22:18:20.490651+00:00",
+  "generatedAt": "2026-06-05T00:03:45.376159+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,29 +290,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "The skeptic\u2019s guide to humanoid robots going viral on the Internet",
+          "link": "https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/",
+          "date": "Thu, 04 Jun 2026 22:23:36 +0000"
+        },
+        {
+          "title": "AT&T and Verizon lose Supreme Court case over fines for selling location data",
+          "link": "https://arstechnica.com/tech-policy/2026/06/att-and-verizon-lose-supreme-court-case-over-fines-for-selling-location-data/",
+          "date": "Thu, 04 Jun 2026 21:25:19 +0000"
+        },
+        {
+          "title": "These LLMs are the best at resisting Russian propaganda",
+          "link": "https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/",
+          "date": "Thu, 04 Jun 2026 20:44:31 +0000"
+        },
+        {
+          "title": "Dashlane explains how attackers managed to download encrypted password vaults",
+          "link": "https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/",
+          "date": "Thu, 04 Jun 2026 20:02:04 +0000"
+        },
+        {
           "title": "Elon Musk tries again to escape FTC audits of X data handling",
           "link": "https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/",
           "date": "Thu, 04 Jun 2026 19:49:12 +0000"
-        },
-        {
-          "title": "Cable lobby warns of chaos if FCC doesn't relax ban on foreign routers",
-          "link": "https://arstechnica.com/tech-policy/2026/06/cable-lobby-warns-of-chaos-if-fcc-doesnt-relax-ban-on-foreign-routers/",
-          "date": "Thu, 04 Jun 2026 18:34:33 +0000"
-        },
-        {
-          "title": "Bumblebees can spontaneously solve problems, study finds",
-          "link": "https://arstechnica.com/science/2026/06/bumblebees-can-spontaneously-solve-problems-study-finds/",
-          "date": "Thu, 04 Jun 2026 18:00:35 +0000"
-        },
-        {
-          "title": "After 11 years at Mars, NASA's MAVEN spacecraft went out with a whisper",
-          "link": "https://arstechnica.com/space/2026/06/after-11-years-at-mars-nasas-maven-spacecraft-went-out-with-a-whisper/",
-          "date": "Thu, 04 Jun 2026 16:21:06 +0000"
-        },
-        {
-          "title": "It doesn't feel very agricultural: The 2026 Subaru Solterra review",
-          "link": "https://arstechnica.com/cars/2026/06/2026-subaru-solterra-review-the-badge-engineered-bz-aint-bad/",
-          "date": "Thu, 04 Jun 2026 15:43:51 +0000"
         }
       ],
       "error": null
@@ -337,14 +337,14 @@
           "date": "2026-06-04T07:45:35+00:00"
         },
         {
-          "title": "Google just dropped Gemma 4 12B on your laptop!!",
-          "link": "https://www.reddit.com/r/artificial/comments/1tw0cqv/google_just_dropped_gemma_4_12b_on_your_laptop/",
-          "date": "2026-06-03T19:42:27+00:00"
-        },
-        {
           "title": "ive started to realize the \"this changes everything\" AI post is literally the same post every month and i keep falling for it anyway",
           "link": "https://www.reddit.com/r/artificial/comments/1twsx01/ive_started_to_realize_the_this_changes/",
           "date": "2026-06-04T16:35:04+00:00"
+        },
+        {
+          "title": "Google just dropped Gemma 4 12B on your laptop!!",
+          "link": "https://www.reddit.com/r/artificial/comments/1tw0cqv/google_just_dropped_gemma_4_12b_on_your_laptop/",
+          "date": "2026-06-03T19:42:27+00:00"
         }
       ],
       "error": null
@@ -353,6 +353,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Australia now has access to Anthropic\u2019s Claude Mythos. It may improve cyber safety \u2013 but not for everyone",
+          "link": "https://theconversation.com/australia-now-has-access-to-anthropics-claude-mythos-it-may-improve-cyber-safety-but-not-for-everyone-284544",
+          "date": "2026-06-04T23:35:16Z"
+        },
         {
           "title": "Friday essay: love, sex and intimacy in the time of AI",
           "link": "https://theconversation.com/friday-essay-love-sex-and-intimacy-in-the-time-of-ai-283146",
@@ -372,11 +377,6 @@
           "title": "UN report warns AI could soon use 3% of world\u2019s electricity and more water than we need to drink",
           "link": "https://theconversation.com/un-report-warns-ai-could-soon-use-3-of-worlds-electricity-and-more-water-than-we-need-to-drink-284442",
           "date": "2026-06-04T02:25:56Z"
-        },
-        {
-          "title": "AI offers promise for agriculture, but smallholder farmers risk being left behind",
-          "link": "https://theconversation.com/ai-offers-promise-for-agriculture-but-smallholder-farmers-risk-being-left-behind-279013",
-          "date": "2026-06-03T13:42:04Z"
         }
       ],
       "error": null
