@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T17:51:15.992864+00:00",
+  "generatedAt": "2026-06-05T19:50:29.557489+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "S&P 500 blocks fast SpaceX entry, won\u2019t waive rule for unprofitable AI firms",
+          "link": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+          "date": "Fri, 05 Jun 2026 18:45:20 +0000"
+        },
+        {
+          "title": "\"We pissed off a lot of people\": Giant data center plan cut 50% amid protests",
+          "link": "https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/",
+          "date": "Fri, 05 Jun 2026 18:23:00 +0000"
+        },
+        {
           "title": "Review: Spider-Noir recaptures the magic of a bygone era",
           "link": "https://arstechnica.com/culture/2026/06/review-spider-noir-recaptures-the-magic-of-a-bygone-era/",
           "date": "Fri, 05 Jun 2026 17:05:02 +0000"
@@ -303,16 +313,6 @@
           "title": "The Fitbit Air is a good wearable weighed down by a chatty AI \"coach\"",
           "link": "https://arstechnica.com/gadgets/2026/06/the-fitbit-air-is-great-but-googles-ai-is-too-nice-to-be-your-coach/",
           "date": "Fri, 05 Jun 2026 15:40:48 +0000"
-        },
-        {
-          "title": "Not the next R8? Audi reveals mid-engined plug-in hybrid V8 Nuvolari.",
-          "link": "https://arstechnica.com/cars/2026/06/not-the-next-r8-audi-reveals-mid-engined-plug-in-hybrid-v8-nuvolari/",
-          "date": "Fri, 05 Jun 2026 14:44:04 +0000"
-        },
-        {
-          "title": "Rocket Report: Blue Origin explosion still making headlines; Impulse raises money",
-          "link": "https://arstechnica.com/space/2026/06/rocket-report-blue-origin-explosion-still-making-headlines-impulse-raises-money/",
-          "date": "Fri, 05 Jun 2026 14:20:54 +0000"
         }
       ],
       "error": null
@@ -337,14 +337,14 @@
           "date": "2026-06-05T08:32:45+00:00"
         },
         {
-          "title": "I am now negotiating with AI as part of my job, and it's going like you would expect. How can I circumvent it to speak to a representative?",
-          "link": "https://www.reddit.com/r/artificial/comments/1tx56d7/i_am_now_negotiating_with_ai_as_part_of_my_job/",
-          "date": "2026-06-05T00:15:01+00:00"
+          "title": "Why the Great Calculator Debate of the 1980s is still relevant today and how Isaac Asimov got AI right in 1956",
+          "link": "https://www.reddit.com/r/artificial/comments/1txrw9m/why_the_great_calculator_debate_of_the_1980s_is/",
+          "date": "2026-06-05T17:40:07+00:00"
         },
         {
-          "title": "AI agents fail at the auth step more than at the reasoning step. anyone else seeing this?",
-          "link": "https://www.reddit.com/r/artificial/comments/1txqkqx/ai_agents_fail_at_the_auth_step_more_than_at_the/",
-          "date": "2026-06-05T16:53:17+00:00"
+          "title": "Why can't claude use agents.md?",
+          "link": "https://www.reddit.com/r/artificial/comments/1txuigl/why_cant_claude_use_agentsmd/",
+          "date": "2026-06-05T19:14:47+00:00"
         }
       ],
       "error": null
@@ -450,6 +450,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Anthropic Scared, Calls for Global Freeze on AI Advances",
+          "link": "https://futurism.com/artificial-intelligence/anthropic-scared-calls-global-freeze-ai",
+          "date": "Fri, 05 Jun 2026 15:48:28 -0400"
+        },
+        {
+          "title": "CEO Says There Will Be No Raises Because He Spent All the Money on AI",
+          "link": "https://futurism.com/future-society/ceo-no-raises-money-ai",
+          "date": "Fri, 05 Jun 2026 13:52:37 -0400"
+        },
+        {
           "title": "Kevin O\u2019Leary Pleads With Locals to Allow His Massive Data Center If He Shrinks It Down to the Size of One Manhattan",
           "link": "https://futurism.com/artificial-intelligence/kevin-oleary-shrink-data-center",
           "date": "Fri, 05 Jun 2026 12:50:00 -0400"
@@ -463,16 +473,6 @@
           "title": "Data Centers Have Become Shockingly Unpopular, Poll Finds",
           "link": "https://futurism.com/artificial-intelligence/data-centers-shockingly-unpopular-poll",
           "date": "Thu, 04 Jun 2026 16:56:00 -0400"
-        },
-        {
-          "title": "Basketball Fans Disgusted as ESPN Airs AI Slop Version of NBA Champion Tony Parker During the Finals",
-          "link": "https://futurism.com/artificial-intelligence/basketball-fans-espn-nba-tony-parker-ai-slop",
-          "date": "Thu, 04 Jun 2026 14:50:00 -0400"
-        },
-        {
-          "title": "Mayor Caught on Camera Saying the Only Voters Who Oppose Data Centers Are Disgusting Poor People",
-          "link": "https://futurism.com/artificial-intelligence/mayor-calls-data-center-critics-disgusting-poor-people",
-          "date": "Thu, 04 Jun 2026 13:50:00 -0400"
         }
       ],
       "error": null
