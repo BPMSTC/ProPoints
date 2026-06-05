@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T09:40:58.324599+00:00",
+  "generatedAt": "2026-06-05T12:34:16.683907+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "Why smart companies don't  add AI everywhere",
+          "link": "https://www.aiacceleratorinstitute.com/why-smart-companies-dont-add-ai-everywhere/",
+          "date": "Fri, 05 Jun 2026 12:07:58 GMT"
+        },
+        {
           "title": "Building compliant AI Agents: Preparing Enterprise teams for the EU AI Act",
           "link": "https://www.aiacceleratorinstitute.com/building-compliant-ai-agents-preparing-enterprise-teams/",
           "date": "Thu, 04 Jun 2026 08:27:56 GMT"
@@ -88,11 +93,6 @@
           "title": "Is multi-turn reasoning broken?",
           "link": "https://www.aiacceleratorinstitute.com/is-multi-turn-reasoning-broken/",
           "date": "Mon, 01 Jun 2026 15:44:20 GMT"
-        },
-        {
-          "title": "The AI-first GTM strategist:  agents, workflows, and knowing when to stop",
-          "link": "https://www.aiacceleratorinstitute.com/the-ai-first-gtm-strategist-agents-workflows-and-knowing-when-to-stop/",
-          "date": "Thu, 28 May 2026 14:45:06 GMT"
         }
       ],
       "error": null
@@ -322,24 +322,24 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "I am now negotiating with AI as part of my job, and it's going like you would expect. How can I circumvent it to speak to a representative?",
-          "link": "https://www.reddit.com/r/artificial/comments/1tx56d7/i_am_now_negotiating_with_ai_as_part_of_my_job/",
-          "date": "2026-06-05T00:15:01+00:00"
-        },
-        {
           "title": "anthropic wants a global ai freeze. they're also about to ipo at $1 trillion.",
           "link": "https://www.reddit.com/r/artificial/comments/1txeysy/anthropic_wants_a_global_ai_freeze_theyre_also/",
           "date": "2026-06-05T08:32:45+00:00"
         },
         {
-          "title": "Claude is completely unusable now",
-          "link": "https://www.reddit.com/r/artificial/comments/1twn3m7/claude_is_completely_unusable_now/",
-          "date": "2026-06-04T13:05:10+00:00"
+          "title": "I am now negotiating with AI as part of my job, and it's going like you would expect. How can I circumvent it to speak to a representative?",
+          "link": "https://www.reddit.com/r/artificial/comments/1tx56d7/i_am_now_negotiating_with_ai_as_part_of_my_job/",
+          "date": "2026-06-05T00:15:01+00:00"
         },
         {
           "title": "$2.5T in AI spending this year. 95% produces zero P&L impact.",
           "link": "https://www.reddit.com/r/artificial/comments/1twupqt/25t_in_ai_spending_this_year_95_produces_zero_pl/",
           "date": "2026-06-04T17:37:45+00:00"
+        },
+        {
+          "title": "Claude is completely unusable now",
+          "link": "https://www.reddit.com/r/artificial/comments/1twn3m7/claude_is_completely_unusable_now/",
+          "date": "2026-06-04T13:05:10+00:00"
         },
         {
           "title": "Trying to automate too early made my workflows worse, not better",
@@ -482,6 +482,16 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "OpenAI and Anthropic May Be Rivals, but Investors Aren\u2019t Picking Sides",
+          "link": "https://www.wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides/",
+          "date": "Fri, 05 Jun 2026 10:30:00 +0000"
+        },
+        {
+          "title": "Why Apple Might Put Cameras Into Its Next AirPods",
+          "link": "https://www.wired.com/story/why-apple-might-put-cameras-into-its-next-airpods/",
+          "date": "Fri, 05 Jun 2026 10:00:00 +0000"
+        },
+        {
           "title": "AI Has Come for Serif Fonts",
           "link": "https://www.wired.com/story/ai-has-come-for-serif-fonts/",
           "date": "Fri, 05 Jun 2026 09:00:00 +0000"
@@ -495,16 +505,6 @@
           "title": "Jeff Bezos Is Funding a Wild Hunt for the Brain\u2019s \u2018Core Algorithm\u2019",
           "link": "https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/",
           "date": "Thu, 04 Jun 2026 10:30:00 +0000"
-        },
-        {
-          "title": "Alpha School\u2019s Ritzy New York City Campus Costs $65,000 a Year\u2014but Isn\u2019t Actually a School",
-          "link": "https://www.wired.com/story/alpha-schools-new-york-city-campus-isnt-actually-a-school/",
-          "date": "Thu, 04 Jun 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Quantum Computing Is Having Its Public Market Moment",
-          "link": "https://www.wired.com/story/quantum-computing-is-having-its-public-market-moment-quantinuum/",
-          "date": "Thu, 04 Jun 2026 09:34:23 +0000"
         }
       ],
       "error": null
