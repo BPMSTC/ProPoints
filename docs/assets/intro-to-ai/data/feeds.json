@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T05:13:40.518874+00:00",
+  "generatedAt": "2026-06-05T09:40:58.324599+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -322,6 +322,16 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
+          "title": "I am now negotiating with AI as part of my job, and it's going like you would expect. How can I circumvent it to speak to a representative?",
+          "link": "https://www.reddit.com/r/artificial/comments/1tx56d7/i_am_now_negotiating_with_ai_as_part_of_my_job/",
+          "date": "2026-06-05T00:15:01+00:00"
+        },
+        {
+          "title": "anthropic wants a global ai freeze. they're also about to ipo at $1 trillion.",
+          "link": "https://www.reddit.com/r/artificial/comments/1txeysy/anthropic_wants_a_global_ai_freeze_theyre_also/",
+          "date": "2026-06-05T08:32:45+00:00"
+        },
+        {
           "title": "Claude is completely unusable now",
           "link": "https://www.reddit.com/r/artificial/comments/1twn3m7/claude_is_completely_unusable_now/",
           "date": "2026-06-04T13:05:10+00:00"
@@ -332,19 +342,9 @@
           "date": "2026-06-04T17:37:45+00:00"
         },
         {
-          "title": "I am now negotiating with AI as part of my job, and it's going like you would expect. How can I circumvent it to speak to a representative?",
-          "link": "https://www.reddit.com/r/artificial/comments/1tx56d7/i_am_now_negotiating_with_ai_as_part_of_my_job/",
-          "date": "2026-06-05T00:15:01+00:00"
-        },
-        {
-          "title": "Sam, Dario, and Demis Hassabis have signed a joint open letter calling for Law Protecting against Biological Weapons.",
-          "link": "https://www.reddit.com/r/artificial/comments/1tx7brf/sam_dario_and_demis_hassabis_have_signed_a_joint/",
-          "date": "2026-06-05T01:51:30+00:00"
-        },
-        {
-          "title": "ive started to realize the \"this changes everything\" AI post is literally the same post every month and i keep falling for it anyway",
-          "link": "https://www.reddit.com/r/artificial/comments/1twsx01/ive_started_to_realize_the_this_changes/",
-          "date": "2026-06-04T16:35:04+00:00"
+          "title": "Trying to automate too early made my workflows worse, not better",
+          "link": "https://www.reddit.com/r/artificial/comments/1txbcwb/trying_to_automate_too_early_made_my_workflows/",
+          "date": "2026-06-05T05:08:03+00:00"
         }
       ],
       "error": null
@@ -391,6 +391,11 @@
           "date": "Thu, 04 Jun 2026 15:00:11 GMT"
         },
         {
+          "title": "New claimants seek to sue Elon Musk\u2019s xAI after Labour MP\u2019s test case",
+          "link": "https://www.theguardian.com/technology/2026/jun/05/grok-ai-elon-musk-jess-asato-labour-mp-lawsuit",
+          "date": "Fri, 05 Jun 2026 06:00:28 GMT"
+        },
+        {
           "title": "A uni professor admitted using AI to write an opinion piece. Here\u2019s what it revealed about trust in the technology",
           "link": "https://www.theguardian.com/australia-news/2026/jun/05/trust-in-ai-roy-morgan-australia-university-professor-opinion-piece-technology",
           "date": "Fri, 05 Jun 2026 04:49:15 GMT"
@@ -404,11 +409,6 @@
           "title": "Starmer accuses Musk of trying to \u2018whip up division\u2019 in UK over Henry Nowak murder",
           "link": "https://www.theguardian.com/politics/2026/jun/04/keir-starmer-elon-musk-division-henry-nowak",
           "date": "Thu, 04 Jun 2026 18:06:38 GMT"
-        },
-        {
-          "title": "Careers guidance should be at the centre of Alan Milburn\u2019s final Neet report  | Letters",
-          "link": "https://www.theguardian.com/society/2026/jun/04/careers-guidance-should-be-at-the-centre-of-alan-milburn-final-neet-report",
-          "date": "Thu, 04 Jun 2026 16:59:20 GMT"
         }
       ],
       "error": null
@@ -482,6 +482,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "AI Has Come for Serif Fonts",
+          "link": "https://www.wired.com/story/ai-has-come-for-serif-fonts/",
+          "date": "Fri, 05 Jun 2026 09:00:00 +0000"
+        },
+        {
           "title": "The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets Hacked",
           "link": "https://www.wired.com/story/uncanny-valley-podcast-ai-ipo-race-elon-musk-doge-whistleblower-instagram-hacking-incident/",
           "date": "Thu, 04 Jun 2026 18:44:49 +0000"
@@ -500,11 +505,6 @@
           "title": "Quantum Computing Is Having Its Public Market Moment",
           "link": "https://www.wired.com/story/quantum-computing-is-having-its-public-market-moment-quantinuum/",
           "date": "Thu, 04 Jun 2026 09:34:23 +0000"
-        },
-        {
-          "title": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
-          "link": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
-          "date": "Thu, 04 Jun 2026 01:01:00 +0000"
         }
       ],
       "error": null
