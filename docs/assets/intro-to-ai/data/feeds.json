@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-06-06T13:25:59.017911+00:00",
+  "generatedAt": "2026-06-06T15:12:35.764295+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Scientists Discover Hidden Symmetry on Earth That Nobody Can Explain",
+          "link": "https://www.404media.co/scientists-discover-hidden-symmetry-on-earth-that-nobody-can-explain/",
+          "date": "Sat, 06 Jun 2026 13:36:56 GMT"
+        },
         {
           "title": "ICE\u2019s Plan to Let Cops Around the Country Scan Faces to Verify Immigration Status",
           "link": "https://www.404media.co/ices-plan-to-let-cops-around-the-country-scan-faces-to-verify-immigration-status/",
@@ -24,11 +29,6 @@
           "title": "K-pop Fans Are Calling Out Creepy Deepfakes of Idols",
           "link": "https://www.404media.co/k-pop-fans-deepfakes-ai-generated-idols/",
           "date": "Fri, 05 Jun 2026 14:52:30 GMT"
-        },
-        {
-          "title": "Satya Nadella \u2018Not Sure\u2019 Who Said Microsoft Wanted to Make Addictive AI, Is Looking for Guy Who Did This",
-          "link": "https://www.404media.co/satya-nadella-not-sure-who-said-microsoft-wanted-to-make-addictive-ai-is-looking-for-guy-who-did-this/",
-          "date": "Thu, 04 Jun 2026 22:03:02 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -322,29 +322,29 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
+          "title": "A company just sent me the most detailed rejection email I\u2019ve ever received",
+          "link": "https://www.reddit.com/r/artificial/comments/1tyimc0/a_company_just_sent_me_the_most_detailed/",
+          "date": "2026-06-06T14:23:28+00:00"
+        },
+        {
+          "title": "Slow browser agents are going to eat your AI budget and nobody's really talking about it yet",
+          "link": "https://www.reddit.com/r/artificial/comments/1tyh08z/slow_browser_agents_are_going_to_eat_your_ai/",
+          "date": "2026-06-06T13:15:13+00:00"
+        },
+        {
           "title": "Benefits and Risks of AI at Harvard Class Day 2026",
           "link": "https://www.reddit.com/r/artificial/comments/1ty7pt5/benefits_and_risks_of_ai_at_harvard_class_day_2026/",
           "date": "2026-06-06T04:49:30+00:00"
         },
         {
+          "title": "Help me understand AI a bit more because I don't think AI is as bad as everyone says.",
+          "link": "https://www.reddit.com/r/artificial/comments/1tyi9r2/help_me_understand_ai_a_bit_more_because_i_dont/",
+          "date": "2026-06-06T14:09:43+00:00"
+        },
+        {
           "title": "The strange thing about LLM reasoning research: we're now trying to remove the chain-of-thought traces",
           "link": "https://www.reddit.com/r/artificial/comments/1txp7ah/the_strange_thing_about_llm_reasoning_research/",
           "date": "2026-06-05T16:04:12+00:00"
-        },
-        {
-          "title": "Why the Great Calculator Debate of the 1980s is still relevant today and how Isaac Asimov got AI right in 1956",
-          "link": "https://www.reddit.com/r/artificial/comments/1txrw9m/why_the_great_calculator_debate_of_the_1980s_is/",
-          "date": "2026-06-05T17:40:07+00:00"
-        },
-        {
-          "title": "where did all the other ai companies go?",
-          "link": "https://www.reddit.com/r/artificial/comments/1tygmti/where_did_all_the_other_ai_companies_go/",
-          "date": "2026-06-06T12:58:55+00:00"
-        },
-        {
-          "title": "I launched a brand-new author identity with zero web presence. An AI cited him correctly in 6 days \u2014 while a firewall blocked every AI crawler from the site the whole time",
-          "link": "https://www.reddit.com/r/artificial/comments/1txvhd1/i_launched_a_brandnew_author_identity_with_zero/",
-          "date": "2026-06-05T19:50:47+00:00"
         }
       ],
       "error": null
@@ -514,6 +514,11 @@
       "url": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "items": [
         {
+          "title": "Scientists are seriously asking if bees and ChatGPT are conscious",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260604044258.htm",
+          "date": "Fri, 05 Jun 2026 01:27:32 EDT"
+        },
+        {
           "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
           "link": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
           "date": "Mon, 18 May 2026 20:23:26 EDT"
@@ -532,11 +537,6 @@
           "title": "Your \u201cum\u201d and pauses could reveal early dementia risk",
           "link": "https://www.sciencedaily.com/releases/2026/05/260512202333.htm",
           "date": "Wed, 13 May 2026 00:18:33 EDT"
-        },
-        {
-          "title": "AI lets chemists design molecules by simply describing them",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
-          "date": "Tue, 05 May 2026 20:20:57 EDT"
         }
       ],
       "error": null
