@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T09:23:45.321280+00:00",
+  "generatedAt": "2026-06-06T11:23:27.423125+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -38,6 +38,11 @@
       "url": "https://magazine.sebastianraschka.com/feed",
       "items": [
         {
+          "title": "LLM Research Papers: The 2026 List (January to May)",
+          "link": "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+          "date": "Sat, 06 Jun 2026 11:16:22 GMT"
+        },
+        {
           "title": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
           "link": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
           "date": "Sat, 16 May 2026 11:33:51 GMT"
@@ -56,11 +61,6 @@
           "title": "A Visual Guide to Attention Variants in Modern LLMs",
           "link": "https://magazine.sebastianraschka.com/p/visual-attention-variants",
           "date": "Sun, 22 Mar 2026 11:55:40 GMT"
-        },
-        {
-          "title": "A Dream of Spring for Open-Weight LLMs: 10 Architectures from Jan-Feb 2026",
-          "link": "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
-          "date": "Wed, 25 Feb 2026 13:26:56 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -322,6 +322,11 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
+          "title": "Benefits and Risks of AI at Harvard Class Day 2026",
+          "link": "https://www.reddit.com/r/artificial/comments/1ty7pt5/benefits_and_risks_of_ai_at_harvard_class_day_2026/",
+          "date": "2026-06-06T04:49:30+00:00"
+        },
+        {
           "title": "The strange thing about LLM reasoning research: we're now trying to remove the chain-of-thought traces",
           "link": "https://www.reddit.com/r/artificial/comments/1txp7ah/the_strange_thing_about_llm_reasoning_research/",
           "date": "2026-06-05T16:04:12+00:00"
@@ -330,11 +335,6 @@
           "title": "Why the Great Calculator Debate of the 1980s is still relevant today and how Isaac Asimov got AI right in 1956",
           "link": "https://www.reddit.com/r/artificial/comments/1txrw9m/why_the_great_calculator_debate_of_the_1980s_is/",
           "date": "2026-06-05T17:40:07+00:00"
-        },
-        {
-          "title": "Benefits and Risks of AI at Harvard Class Day 2026",
-          "link": "https://www.reddit.com/r/artificial/comments/1ty7pt5/benefits_and_risks_of_ai_at_harvard_class_day_2026/",
-          "date": "2026-06-06T04:49:30+00:00"
         },
         {
           "title": "I launched a brand-new author identity with zero web presence. An AI cited him correctly in 6 days \u2014 while a firewall blocked every AI crawler from the site the whole time",
@@ -450,6 +450,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Over 150 Mathematicians Warn Governments Not to \u201cBelieve the Hype\u201d About AI",
+          "link": "https://futurism.com/artificial-intelligence/mathematicians-warn-governments-hype-ai",
+          "date": "Sat, 06 Jun 2026 06:00:00 -0400"
+        },
+        {
           "title": "New York Times Roasted for \u201cProfiling\u201d the \u201cAI-Generated Actress\u201d Tilly Northwood",
           "link": "https://futurism.com/artificial-intelligence/new-york-times-roasted-profiling-ai-actress",
           "date": "Fri, 05 Jun 2026 16:50:00 -0400"
@@ -468,11 +473,6 @@
           "title": "Kevin O\u2019Leary Pleads With Locals to Allow His Massive Data Center If He Shrinks It Down to the Size of One Manhattan",
           "link": "https://futurism.com/artificial-intelligence/kevin-oleary-shrink-data-center",
           "date": "Fri, 05 Jun 2026 12:50:00 -0400"
-        },
-        {
-          "title": "While Google\u2019s CEO Pumps Up AI, Its Actual Employees Are Disgusted by It",
-          "link": "https://futurism.com/artificial-intelligence/google-employees-mocking-ai",
-          "date": "Fri, 05 Jun 2026 09:12:00 -0400"
         }
       ],
       "error": null
@@ -481,6 +481,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Crypto-Funded Chinese Peptide Labs Are Booming",
+          "link": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/",
+          "date": "Sat, 06 Jun 2026 10:30:00 +0000"
+        },
         {
           "title": "Has Microsoft Lost Its Mojo (Again)?",
           "link": "https://www.wired.com/story/has-microsoft-lost-its-mojo-again/",
@@ -500,11 +505,6 @@
           "title": "AI Has Come for Serif Fonts",
           "link": "https://www.wired.com/story/ai-has-come-for-serif-fonts/",
           "date": "Fri, 05 Jun 2026 09:00:00 +0000"
-        },
-        {
-          "title": "The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets Hacked",
-          "link": "https://www.wired.com/story/uncanny-valley-podcast-ai-ipo-race-elon-musk-doge-whistleblower-instagram-hacking-incident/",
-          "date": "Thu, 04 Jun 2026 18:44:49 +0000"
         }
       ],
       "error": null
