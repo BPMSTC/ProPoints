@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T17:09:39.828920+00:00",
+  "generatedAt": "2026-06-06T19:17:29.989225+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -332,19 +332,19 @@
           "date": "2026-06-06T04:49:30+00:00"
         },
         {
+          "title": "I've been making AI short films for a while \u2014 here are some things I noticed that most people get wrong about AI video generation",
+          "link": "https://www.reddit.com/r/artificial/comments/1typ7hj/ive_been_making_ai_short_films_for_a_while_here/",
+          "date": "2026-06-06T18:40:05+00:00"
+        },
+        {
           "title": "Does anyone else say please and thank you to AI? Or am I just wierd?",
           "link": "https://www.reddit.com/r/artificial/comments/1tylcl1/does_anyone_else_say_please_and_thank_you_to_ai/",
           "date": "2026-06-06T16:11:12+00:00"
         },
         {
-          "title": "Help me understand AI a bit more because I don't think AI is as bad as everyone says.",
-          "link": "https://www.reddit.com/r/artificial/comments/1tyi9r2/help_me_understand_ai_a_bit_more_because_i_dont/",
-          "date": "2026-06-06T14:09:43+00:00"
-        },
-        {
-          "title": "The strange thing about LLM reasoning research: we're now trying to remove the chain-of-thought traces",
-          "link": "https://www.reddit.com/r/artificial/comments/1txp7ah/the_strange_thing_about_llm_reasoning_research/",
-          "date": "2026-06-05T16:04:12+00:00"
+          "title": "Ai general question",
+          "link": "https://www.reddit.com/r/artificial/comments/1tyonst/ai_general_question/",
+          "date": "2026-06-06T18:18:52+00:00"
         }
       ],
       "error": null
