@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T02:51:30.665158+00:00",
+  "generatedAt": "2026-06-06T06:28:20.563649+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -332,19 +332,19 @@
           "date": "2026-06-05T17:40:07+00:00"
         },
         {
-          "title": "anthropic wants a global ai freeze. they're also about to ipo at $1 trillion.",
-          "link": "https://www.reddit.com/r/artificial/comments/1txeysy/anthropic_wants_a_global_ai_freeze_theyre_also/",
-          "date": "2026-06-05T08:32:45+00:00"
+          "title": "Benefits and Risks of AI at Harvard Class Day 2026",
+          "link": "https://www.reddit.com/r/artificial/comments/1ty7pt5/benefits_and_risks_of_ai_at_harvard_class_day_2026/",
+          "date": "2026-06-06T04:49:30+00:00"
         },
         {
-          "title": "Ramp launched an AI operating system for accounting firms",
-          "link": "https://www.reddit.com/r/artificial/comments/1txqetk/ramp_launched_an_ai_operating_system_for/",
-          "date": "2026-06-05T16:47:25+00:00"
+          "title": "AI Detection Text Scanners Do Not Work. None of Them",
+          "link": "https://www.reddit.com/r/artificial/comments/1ty64ky/ai_detection_text_scanners_do_not_work_none_of/",
+          "date": "2026-06-06T03:29:41+00:00"
         },
         {
-          "title": "Michael Saylor Says Bitcoin Drop A 'Capital Rotation' To AI",
-          "link": "https://www.reddit.com/r/artificial/comments/1txzsi4/michael_saylor_says_bitcoin_drop_a_capital/",
-          "date": "2026-06-05T22:38:38+00:00"
+          "title": "I launched a brand-new author identity with zero web presence. An AI cited him correctly in 6 days \u2014 while a firewall blocked every AI crawler from the site the whole time",
+          "link": "https://www.reddit.com/r/artificial/comments/1txvhd1/i_launched_a_brandnew_author_identity_with_zero/",
+          "date": "2026-06-05T19:50:47+00:00"
         }
       ],
       "error": null
@@ -391,6 +391,11 @@
           "date": "Fri, 05 Jun 2026 17:00:04 GMT"
         },
         {
+          "title": "It\u2019s no surprise that an AI-faked presidential speech condemning foreign exploitation went viral \u2013 the world is suffering from a leadership vacuum",
+          "link": "https://www.theguardian.com/global-development/2026/jun/06/african-leader-speech-decolonisation-ai-generated-fake-president-namibia-africa-caribbean",
+          "date": "Sat, 06 Jun 2026 06:00:01 GMT"
+        },
+        {
           "title": "Fifa expanding AI use at World Cup to reduce amount of abuse seen by players",
           "link": "https://www.theguardian.com/football/2026/jun/05/fifa-expanding-ai-use-at-world-cup-to-reduce-amount-of-abuse-seen-by-players",
           "date": "Fri, 05 Jun 2026 16:00:03 GMT"
@@ -404,11 +409,6 @@
           "title": "New claimants seek to sue Elon Musk\u2019s xAI after Labour MP\u2019s test case",
           "link": "https://www.theguardian.com/technology/2026/jun/05/grok-ai-elon-musk-jess-asato-labour-mp-lawsuit",
           "date": "Fri, 05 Jun 2026 06:00:28 GMT"
-        },
-        {
-          "title": "A uni professor admitted using AI to write an opinion piece. Here\u2019s what it revealed about trust in the technology",
-          "link": "https://www.theguardian.com/australia-news/2026/jun/05/trust-in-ai-roy-morgan-australia-university-professor-opinion-piece-technology",
-          "date": "Fri, 05 Jun 2026 04:49:15 GMT"
         }
       ],
       "error": null
