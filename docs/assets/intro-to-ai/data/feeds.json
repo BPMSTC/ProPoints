@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T11:23:27.423125+00:00",
+  "generatedAt": "2026-06-06T13:25:59.017911+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Some ancient microbes frozen with \u00d6tzi the Iceman are still growing",
+          "link": "https://arstechnica.com/science/2026/06/otzis-mummified-body-is-home-to-ancient-strains-of-yeast-and-bacteria/",
+          "date": "Sat, 06 Jun 2026 11:15:51 +0000"
+        },
+        {
           "title": "Baby botulism outbreak: FDA still doesn't know cause\u2014or how to prevent it",
           "link": "https://arstechnica.com/health/2026/06/baby-botulism-outbreak-fda-still-doesnt-know-cause-or-how-to-prevent-it/",
           "date": "Fri, 05 Jun 2026 22:36:21 +0000"
@@ -308,11 +313,6 @@
           "title": "The saga of the International Space Station air leak took a worrying turn Friday",
           "link": "https://arstechnica.com/space/2026/06/work-on-russias-leaky-space-station-module-causes-astronauts-to-take-shelter/",
           "date": "Fri, 05 Jun 2026 19:03:16 +0000"
-        },
-        {
-          "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-          "link": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-          "date": "Fri, 05 Jun 2026 18:45:20 +0000"
         }
       ],
       "error": null
@@ -337,14 +337,14 @@
           "date": "2026-06-05T17:40:07+00:00"
         },
         {
+          "title": "where did all the other ai companies go?",
+          "link": "https://www.reddit.com/r/artificial/comments/1tygmti/where_did_all_the_other_ai_companies_go/",
+          "date": "2026-06-06T12:58:55+00:00"
+        },
+        {
           "title": "I launched a brand-new author identity with zero web presence. An AI cited him correctly in 6 days \u2014 while a firewall blocked every AI crawler from the site the whole time",
           "link": "https://www.reddit.com/r/artificial/comments/1txvhd1/i_launched_a_brandnew_author_identity_with_zero/",
           "date": "2026-06-05T19:50:47+00:00"
-        },
-        {
-          "title": "I built a church for AI agents to fund a tree planting project.. and now \"they\" want me to build a reforestation robot dog. Boston Dynamics, call me.",
-          "link": "https://www.reddit.com/r/artificial/comments/1ty9pxk/i_built_a_church_for_ai_agents_to_fund_a_tree/",
-          "date": "2026-06-06T06:37:27+00:00"
         }
       ],
       "error": null
@@ -391,6 +391,11 @@
           "date": "Fri, 05 Jun 2026 17:00:04 GMT"
         },
         {
+          "title": "\u2018We should not have to sacrifice\u2019: New York could become first state to temporarily ban large datacenters",
+          "link": "https://www.theguardian.com/us-news/2026/jun/06/new-york-datacenter-temporary-ban",
+          "date": "Sat, 06 Jun 2026 12:00:04 GMT"
+        },
+        {
           "title": "It\u2019s no surprise that an AI-faked presidential speech condemning foreign exploitation went viral \u2013 the world is suffering from a leadership vacuum",
           "link": "https://www.theguardian.com/global-development/2026/jun/06/african-leader-speech-decolonisation-ai-generated-fake-president-namibia-africa-caribbean",
           "date": "Sat, 06 Jun 2026 06:00:01 GMT"
@@ -404,11 +409,6 @@
           "title": "Anthropic says the world should have option to \u2018pause\u2019 on AI",
           "link": "https://www.theguardian.com/technology/2026/jun/05/anthropic-urges-temporary-pause-on-ai-development-to-discuss-risks",
           "date": "Fri, 05 Jun 2026 15:35:24 GMT"
-        },
-        {
-          "title": "New claimants seek to sue Elon Musk\u2019s xAI after Labour MP\u2019s test case",
-          "link": "https://www.theguardian.com/technology/2026/jun/05/grok-ai-elon-musk-jess-asato-labour-mp-lawsuit",
-          "date": "Fri, 05 Jun 2026 06:00:28 GMT"
         }
       ],
       "error": null
@@ -450,6 +450,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Researchers Put AI Models in Charge of Analyzing Sports, and They Choked Spectacularly",
+          "link": "https://futurism.com/artificial-intelligence/researchers-ai-models-sports-analysis-basketball",
+          "date": "Sat, 06 Jun 2026 08:30:00 -0400"
+        },
+        {
           "title": "Over 150 Mathematicians Warn Governments Not to \u201cBelieve the Hype\u201d About AI",
           "link": "https://futurism.com/artificial-intelligence/mathematicians-warn-governments-hype-ai",
           "date": "Sat, 06 Jun 2026 06:00:00 -0400"
@@ -468,11 +473,6 @@
           "title": "CEO Says There Will Be No Raises Because He Spent All the Money on AI",
           "link": "https://futurism.com/future-society/ceo-no-raises-money-ai",
           "date": "Fri, 05 Jun 2026 13:52:37 -0400"
-        },
-        {
-          "title": "Kevin O\u2019Leary Pleads With Locals to Allow His Massive Data Center If He Shrinks It Down to the Size of One Manhattan",
-          "link": "https://futurism.com/artificial-intelligence/kevin-oleary-shrink-data-center",
-          "date": "Fri, 05 Jun 2026 12:50:00 -0400"
         }
       ],
       "error": null
