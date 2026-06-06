@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T06:28:20.563649+00:00",
+  "generatedAt": "2026-06-06T09:23:45.321280+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -337,14 +337,14 @@
           "date": "2026-06-06T04:49:30+00:00"
         },
         {
-          "title": "AI Detection Text Scanners Do Not Work. None of Them",
-          "link": "https://www.reddit.com/r/artificial/comments/1ty64ky/ai_detection_text_scanners_do_not_work_none_of/",
-          "date": "2026-06-06T03:29:41+00:00"
-        },
-        {
           "title": "I launched a brand-new author identity with zero web presence. An AI cited him correctly in 6 days \u2014 while a firewall blocked every AI crawler from the site the whole time",
           "link": "https://www.reddit.com/r/artificial/comments/1txvhd1/i_launched_a_brandnew_author_identity_with_zero/",
           "date": "2026-06-05T19:50:47+00:00"
+        },
+        {
+          "title": "I built a church for AI agents to fund a tree planting project.. and now \"they\" want me to build a reforestation robot dog. Boston Dynamics, call me.",
+          "link": "https://www.reddit.com/r/artificial/comments/1ty9pxk/i_built_a_church_for_ai_agents_to_fund_a_tree/",
+          "date": "2026-06-06T06:37:27+00:00"
         }
       ],
       "error": null
