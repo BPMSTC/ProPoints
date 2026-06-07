@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T18:01:03.210343+00:00",
+  "generatedAt": "2026-06-07T20:08:41.547055+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "RIP Anthony Head: Our 10 favorite moments of Buffy's Giles",
+          "link": "https://arstechnica.com/culture/2026/06/rip-anthony-head-our-10-favorite-moments-of-buffys-giles/",
+          "date": "Sun, 07 Jun 2026 19:34:05 +0000"
+        },
+        {
           "title": "School shooting survivor sues AI gun detection firm after system failed to spot weapon",
           "link": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
           "date": "Sun, 07 Jun 2026 11:08:30 +0000"
@@ -308,11 +313,6 @@
           "title": "Baby botulism outbreak: FDA still doesn't know cause\u2014or how to prevent it",
           "link": "https://arstechnica.com/health/2026/06/baby-botulism-outbreak-fda-still-doesnt-know-cause-or-how-to-prevent-it/",
           "date": "Fri, 05 Jun 2026 22:36:21 +0000"
-        },
-        {
-          "title": "How a USB-connected speaker can infect a PC without ever being touched",
-          "link": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
-          "date": "Fri, 05 Jun 2026 21:00:29 +0000"
         }
       ],
       "error": null
@@ -327,24 +327,24 @@
           "date": "2026-06-07T15:46:23+00:00"
         },
         {
+          "title": "Has anyone else noticed this LLM language bias?",
+          "link": "https://www.reddit.com/r/artificial/comments/1tzf2b4/has_anyone_else_noticed_this_llm_language_bias/",
+          "date": "2026-06-07T15:25:01+00:00"
+        },
+        {
+          "title": "Generated a fully AI \"creator\" walking out of a subway at 2AM \u2014 at what point can people just not tell anymore?",
+          "link": "https://www.reddit.com/r/artificial/comments/1tzki46/generated_a_fully_ai_creator_walking_out_of_a/",
+          "date": "2026-06-07T18:49:41+00:00"
+        },
+        {
           "title": "What would make AI SPM useful instead of just another vendor category?",
           "link": "https://www.reddit.com/r/artificial/comments/1tzgsp6/what_would_make_ai_spm_useful_instead_of_just/",
           "date": "2026-06-07T16:31:15+00:00"
         },
         {
-          "title": "I got tired of Al making stuff up about my PDFs, so I built something that actually cites its sources",
-          "link": "https://www.reddit.com/r/artificial/comments/1tzaylp/i_got_tired_of_al_making_stuff_up_about_my_pdfs/",
-          "date": "2026-06-07T12:34:45+00:00"
-        },
-        {
-          "title": "AI keeps getting blamed for tech layoffs, but the numbers don't really line up",
-          "link": "https://www.reddit.com/r/artificial/comments/1tyq91e/ai_keeps_getting_blamed_for_tech_layoffs_but_the/",
-          "date": "2026-06-06T19:20:48+00:00"
-        },
-        {
-          "title": "Has anyone else noticed this LLM language bias?",
-          "link": "https://www.reddit.com/r/artificial/comments/1tzf2b4/has_anyone_else_noticed_this_llm_language_bias/",
-          "date": "2026-06-07T15:25:01+00:00"
+          "title": "K-pop Fans Are Calling Out Creepy Deepfakes of Idols",
+          "link": "https://www.reddit.com/r/artificial/comments/1tzkzsk/kpop_fans_are_calling_out_creepy_deepfakes_of/",
+          "date": "2026-06-07T19:07:35+00:00"
         }
       ],
       "error": null
