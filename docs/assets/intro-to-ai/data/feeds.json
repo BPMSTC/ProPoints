@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T16:11:48.394923+00:00",
+  "generatedAt": "2026-06-07T18:01:03.210343+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -322,6 +322,16 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
+          "title": "The harsh truth",
+          "link": "https://www.reddit.com/r/artificial/comments/1tzfm7l/the_harsh_truth/",
+          "date": "2026-06-07T15:46:23+00:00"
+        },
+        {
+          "title": "What would make AI SPM useful instead of just another vendor category?",
+          "link": "https://www.reddit.com/r/artificial/comments/1tzgsp6/what_would_make_ai_spm_useful_instead_of_just/",
+          "date": "2026-06-07T16:31:15+00:00"
+        },
+        {
           "title": "I got tired of Al making stuff up about my PDFs, so I built something that actually cites its sources",
           "link": "https://www.reddit.com/r/artificial/comments/1tzaylp/i_got_tired_of_al_making_stuff_up_about_my_pdfs/",
           "date": "2026-06-07T12:34:45+00:00"
@@ -332,19 +342,9 @@
           "date": "2026-06-06T19:20:48+00:00"
         },
         {
-          "title": "AI on an older PC with a CPU that apparently doesn't have AVX >:,(",
-          "link": "https://www.reddit.com/r/artificial/comments/1tzehpi/ai_on_an_older_pc_with_a_cpu_that_apparently/",
-          "date": "2026-06-07T15:02:43+00:00"
-        },
-        {
-          "title": "Roguelite MMO Beta Vibe Coded In 4 Weeks",
-          "link": "https://www.reddit.com/r/artificial/comments/1tzdj0o/roguelite_mmo_beta_vibe_coded_in_4_weeks/",
-          "date": "2026-06-07T14:24:22+00:00"
-        },
-        {
-          "title": "Claude is the best AI, convince me otherwise.",
-          "link": "https://www.reddit.com/r/artificial/comments/1tzf5uc/claude_is_the_best_ai_convince_me_otherwise/",
-          "date": "2026-06-07T15:28:54+00:00"
+          "title": "Has anyone else noticed this LLM language bias?",
+          "link": "https://www.reddit.com/r/artificial/comments/1tzf2b4/has_anyone_else_noticed_this_llm_language_bias/",
+          "date": "2026-06-07T15:25:01+00:00"
         }
       ],
       "error": null
@@ -450,6 +450,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "US Soccer Scanning Videos of Millions of Youth Players to Identify New Stars",
+          "link": "https://futurism.com/artificial-intelligence/us-soccer-scanning-videos-millions-players",
+          "date": "Sun, 07 Jun 2026 13:00:00 -0400"
+        },
+        {
           "title": "Meta So Desperate for Compute That It\u2019s Building \u201cData Centers\u201d That Are Just Tents Filled With AI Chips",
           "link": "https://futurism.com/artificial-intelligence/meta-compute-ai-data-centers-tents-chips",
           "date": "Sat, 06 Jun 2026 12:30:00 -0400"
@@ -468,11 +473,6 @@
           "title": "Over 150 Mathematicians Warn Governments Not to \u201cBelieve the Hype\u201d About AI",
           "link": "https://futurism.com/artificial-intelligence/mathematicians-warn-governments-hype-ai",
           "date": "Sat, 06 Jun 2026 06:00:00 -0400"
-        },
-        {
-          "title": "New York Times Roasted for \u201cProfiling\u201d the \u201cAI-Generated Actress\u201d Tilly Northwood",
-          "link": "https://futurism.com/artificial-intelligence/new-york-times-roasted-profiling-ai-actress",
-          "date": "Fri, 05 Jun 2026 16:50:00 -0400"
         }
       ],
       "error": null
