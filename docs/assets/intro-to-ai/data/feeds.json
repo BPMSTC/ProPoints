@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T14:49:23.856129+00:00",
+  "generatedAt": "2026-06-07T16:11:48.394923+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -332,19 +332,19 @@
           "date": "2026-06-06T19:20:48+00:00"
         },
         {
+          "title": "AI on an older PC with a CPU that apparently doesn't have AVX >:,(",
+          "link": "https://www.reddit.com/r/artificial/comments/1tzehpi/ai_on_an_older_pc_with_a_cpu_that_apparently/",
+          "date": "2026-06-07T15:02:43+00:00"
+        },
+        {
           "title": "Roguelite MMO Beta Vibe Coded In 4 Weeks",
           "link": "https://www.reddit.com/r/artificial/comments/1tzdj0o/roguelite_mmo_beta_vibe_coded_in_4_weeks/",
           "date": "2026-06-07T14:24:22+00:00"
         },
         {
-          "title": "Benefits and Risks of AI at Harvard Class Day 2026",
-          "link": "https://www.reddit.com/r/artificial/comments/1ty7pt5/benefits_and_risks_of_ai_at_harvard_class_day_2026/",
-          "date": "2026-06-06T04:49:30+00:00"
-        },
-        {
-          "title": "Does anyone else say please and thank you to AI? Or am I just wierd?",
-          "link": "https://www.reddit.com/r/artificial/comments/1tylcl1/does_anyone_else_say_please_and_thank_you_to_ai/",
-          "date": "2026-06-06T16:11:12+00:00"
+          "title": "Claude is the best AI, convince me otherwise.",
+          "link": "https://www.reddit.com/r/artificial/comments/1tzf5uc/claude_is_the_best_ai_convince_me_otherwise/",
+          "date": "2026-06-07T15:28:54+00:00"
         }
       ],
       "error": null
