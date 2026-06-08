@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T00:03:46.223189+00:00",
+  "generatedAt": "2026-06-08T05:28:13.400050+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -322,9 +322,14 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "The harsh truth",
-          "link": "https://www.reddit.com/r/artificial/comments/1tzfm7l/the_harsh_truth/",
-          "date": "2026-06-07T15:46:23+00:00"
+          "title": "I think we're about 12 months away from the first major AI agent disaster",
+          "link": "https://www.reddit.com/r/artificial/comments/1tzy180/i_think_were_about_12_months_away_from_the_first/",
+          "date": "2026-06-08T04:48:03+00:00"
+        },
+        {
+          "title": "Am I using AI in a bad way or no?",
+          "link": "https://www.reddit.com/r/artificial/comments/1tzwfqq/am_i_using_ai_in_a_bad_way_or_no/",
+          "date": "2026-06-08T03:25:43+00:00"
         },
         {
           "title": "Has anyone else noticed this LLM language bias?",
@@ -332,19 +337,14 @@
           "date": "2026-06-07T15:25:01+00:00"
         },
         {
-          "title": "What would make AI SPM useful instead of just another vendor category?",
-          "link": "https://www.reddit.com/r/artificial/comments/1tzgsp6/what_would_make_ai_spm_useful_instead_of_just/",
-          "date": "2026-06-07T16:31:15+00:00"
+          "title": "Ai as a teaching method\u2026",
+          "link": "https://www.reddit.com/r/artificial/comments/1tzvq5w/ai_as_a_teaching_method/",
+          "date": "2026-06-08T02:50:52+00:00"
         },
         {
-          "title": "K-pop Fans Are Calling Out Creepy Deepfakes of Idols",
-          "link": "https://www.reddit.com/r/artificial/comments/1tzkzsk/kpop_fans_are_calling_out_creepy_deepfakes_of/",
-          "date": "2026-06-07T19:07:35+00:00"
-        },
-        {
-          "title": "Generated a fully AI \"creator\" walking out of a subway at 2AM \u2014 at what point can people just not tell anymore?",
-          "link": "https://www.reddit.com/r/artificial/comments/1tzki46/generated_a_fully_ai_creator_walking_out_of_a/",
-          "date": "2026-06-07T18:49:41+00:00"
+          "title": "Theory of Mind - LLM vs Human",
+          "link": "https://www.reddit.com/r/artificial/comments/1tzui6p/theory_of_mind_llm_vs_human/",
+          "date": "2026-06-08T01:51:15+00:00"
         }
       ],
       "error": null
@@ -353,6 +353,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Seahorses and shark fins are illegally trafficked. An AI tool could help stop this crime",
+          "link": "https://theconversation.com/seahorses-and-shark-fins-are-illegally-trafficked-an-ai-tool-could-help-stop-this-crime-284448",
+          "date": "2026-06-07T23:31:33Z"
+        },
         {
           "title": "UK Home Office to use AI age estimation on asylum seekers \u2013 how accurate is the technology?",
           "link": "https://theconversation.com/uk-home-office-to-use-ai-age-estimation-on-asylum-seekers-how-accurate-is-the-technology-284125",
@@ -372,11 +377,6 @@
           "title": "Australia now has access to Anthropic\u2019s Claude Mythos. It may improve cyber safety \u2013 but not for everyone",
           "link": "https://theconversation.com/australia-now-has-access-to-anthropics-claude-mythos-it-may-improve-cyber-safety-but-not-for-everyone-284544",
           "date": "2026-06-04T23:35:16Z"
-        },
-        {
-          "title": "Friday essay: love, sex and intimacy in the time of AI",
-          "link": "https://theconversation.com/friday-essay-love-sex-and-intimacy-in-the-time-of-ai-283146",
-          "date": "2026-06-04T20:09:14Z"
         }
       ],
       "error": null
@@ -391,24 +391,24 @@
           "date": "Sun, 07 Jun 2026 11:00:31 GMT"
         },
         {
+          "title": "Aviva detects record \u00a3230m in bogus insurance claims as use of AI rises",
+          "link": "https://www.theguardian.com/business/2026/jun/08/aviva-ai-bogus-insurance-claims-rocket",
+          "date": "Mon, 08 Jun 2026 05:00:17 GMT"
+        },
+        {
+          "title": "Silicon Valley including Meta has embraced Maga politics, says Nick Clegg",
+          "link": "https://www.theguardian.com/politics/2026/jun/08/silicon-valley-meta-maga-politics-nick-clegg",
+          "date": "Mon, 08 Jun 2026 04:00:17 GMT"
+        },
+        {
+          "title": "Writing is an exercise in the art of persuasion. If we use AI we lose the art | Alan Finkel",
+          "link": "https://www.theguardian.com/commentisfree/2026/jun/08/writing-is-an-exercise-in-the-art-of-persuasion-if-we-use-ai-we-lose-the-art",
+          "date": "Mon, 08 Jun 2026 00:54:49 GMT"
+        },
+        {
           "title": "\u2018A driver of political violence\u2019: how the breakneck AI boom is fueling anti-tech extremism",
           "link": "https://www.theguardian.com/technology/2026/jun/07/anti-ai-tech-extremism-violence",
           "date": "Sun, 07 Jun 2026 10:00:31 GMT"
-        },
-        {
-          "title": "\u2018Poisoned\u2019 AI: the ChatGPT shopping scams that lead to fake websites",
-          "link": "https://www.theguardian.com/money/2026/jun/07/ai-chatgpt-shopping-scams-fake-websites",
-          "date": "Sun, 07 Jun 2026 06:00:26 GMT"
-        },
-        {
-          "title": "Suit filed against controversial planned Stratos datacenter project in Utah",
-          "link": "https://www.theguardian.com/us-news/2026/jun/06/stratos-datacenter-utah-suit",
-          "date": "Sat, 06 Jun 2026 20:07:35 GMT"
-        },
-        {
-          "title": "\u2018We should not have to sacrifice\u2019: New York could become first state to temporarily ban large datacenters",
-          "link": "https://www.theguardian.com/us-news/2026/jun/06/new-york-datacenter-temporary-ban",
-          "date": "Sat, 06 Jun 2026 12:00:04 GMT"
         }
       ],
       "error": null
