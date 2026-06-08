@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T20:12:41.243919+00:00",
+  "generatedAt": "2026-06-08T22:23:44.617477+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,16 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Uber and Wayve to Launch London\u2019s First AI Robotaxis",
+          "link": "https://aibusiness.com/generative-ai/uber-and-wayve-launch-london-s-first-ai-robotaxis",
+          "date": "Mon, 08 Jun 2026 21:26:56 GMT"
+        },
+        {
+          "title": "Nvidia Forges South Korea Tech Deals in AI Push",
+          "link": "https://aibusiness.com/generative-ai/nvidia-forges-south-korea-tech-deals-ai-push",
+          "date": "Mon, 08 Jun 2026 19:28:30 GMT"
+        },
+        {
           "title": "How Enterprises Should Combat the Growing Shadow AI Problem",
           "link": "https://aibusiness.com/generative-ai/how-enterprises-should-combat-growing-shadow-ai-problem",
           "date": "Mon, 08 Jun 2026 14:53:24 GMT"
@@ -127,16 +137,6 @@
           "title": "Prompt: Anthropic's IPO Filing Signals AI's Next Phase",
           "link": "https://aibusiness.com/generative-ai/prompt-anthropic-s-ipo-filing-signals-ai-s-next-phase",
           "date": "Fri, 05 Jun 2026 14:35:02 GMT"
-        },
-        {
-          "title": "Amazon Unveils Next-Generation Robot in $11.6B European Push",
-          "link": "https://aibusiness.com/robotics/amazon-unveils-next-generation-robot-11-6b-european-push",
-          "date": "Fri, 05 Jun 2026 13:13:02 GMT"
-        },
-        {
-          "title": "Nvidia Unveils New Physical AI Research and Agent Workflows",
-          "link": "https://aibusiness.com/generative-ai/nvidia-unveils-physical-ai-research-agent-workflows",
-          "date": "Thu, 04 Jun 2026 18:30:45 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -226,8 +226,34 @@
     {
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
-      "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "items": [
+        {
+          "title": "Boomi makes its AI control plane case: theCUBE\u2019s Boomi World keynote analysis",
+          "link": "https://siliconangle.com/2026/05/13/ai-control-plane-takes-center-stage-boomi-world-boomiworld/",
+          "date": "Wed, 13 May 2026 18:49:36 +0000"
+        },
+        {
+          "title": "AI ambition is crashing into a decade of deferred IT maintenance, says Red Hat CEO",
+          "link": "https://siliconangle.com/2026/05/13/enterprise-ai-infrastructure-modernization-now-urgent-rhsummit/",
+          "date": "Wed, 13 May 2026 16:35:28 +0000"
+        },
+        {
+          "title": "Veeam\u2019s big pivot on display at VeeamON 2026",
+          "link": "https://siliconangle.com/2026/05/13/veeams-big-pivot-display-veeamon-2026/",
+          "date": "Wed, 13 May 2026 15:46:45 +0000"
+        },
+        {
+          "title": "Red Hat and Intel spotlight scalable AI inference as enterprises move beyond the GPU gold rush",
+          "link": "https://siliconangle.com/2026/05/13/scalable-ai-inference-focus-amid-move-beyond-gpus-rhsummit/",
+          "date": "Wed, 13 May 2026 13:52:35 +0000"
+        },
+        {
+          "title": "Exclusive: AirOps targets emerging AI search market with autonomous content optimization agent",
+          "link": "https://siliconangle.com/2026/05/13/exclusive-airops-targets-emerging-ai-search-market-autonomous-content-optimization-agent/",
+          "date": "Wed, 13 May 2026 12:30:44 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Snake Oil",
@@ -264,7 +290,22 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Artemis II crew flew fast, earned new patch: Astronauts' Mach 39 emblem",
+          "title": "macOS 27 requires Apple Silicon, as Apple draws down the Intel Mac era",
+          "link": "https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/",
+          "date": "Mon, 08 Jun 2026 21:03:56 +0000"
+        },
+        {
+          "title": "iOS 27 and iPadOS 27 don't drop support for any iPhones\u2014and just a few iPads",
+          "link": "https://arstechnica.com/gadgets/2026/06/ios-27-and-ipados-27-dont-drop-support-for-any-iphones-and-just-a-few-ipads/",
+          "date": "Mon, 08 Jun 2026 20:55:58 +0000"
+        },
+        {
+          "title": "Meta alleges NSO violated spyware injunction with new WhatsApp attacks",
+          "link": "https://arstechnica.com/tech-policy/2026/06/meta-alleges-nso-violated-spyware-injunction-with-new-whatsapp-attacks/",
+          "date": "Mon, 08 Jun 2026 20:26:14 +0000"
+        },
+        {
+          "title": "The fastest humans in the galaxy just got a spiffy patch to prove it",
           "link": "https://arstechnica.com/space/2026/06/artemis-ii-crew-flew-fast-earned-new-patch-astronauts-mach-39-emblem/",
           "date": "Mon, 08 Jun 2026 19:40:05 +0000"
         },
@@ -272,21 +313,6 @@
           "title": "Say hi to \"Siri AI\"\u2014Apple announces new, more \"conversational\" voice assistant",
           "link": "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
           "date": "Mon, 08 Jun 2026 19:30:05 +0000"
-        },
-        {
-          "title": "Gemini 3.5 and Antigravity come to Google NotebookLM",
-          "link": "https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/",
-          "date": "Mon, 08 Jun 2026 19:00:30 +0000"
-        },
-        {
-          "title": "Your empty cuppa could capture carbon",
-          "link": "https://arstechnica.com/science/2026/06/your-empty-cuppa-could-capture-carbon/",
-          "date": "Mon, 08 Jun 2026 18:50:10 +0000"
-        },
-        {
-          "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
-          "link": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
-          "date": "Mon, 08 Jun 2026 18:34:23 +0000"
         }
       ],
       "error": null
@@ -311,14 +337,14 @@
           "date": "2026-06-08T04:48:03+00:00"
         },
         {
+          "title": "AI coding agents are getting better at writing code, but I'm not convinced they're getting better at understanding codebases",
+          "link": "https://www.reddit.com/r/artificial/comments/1u0m4pi/ai_coding_agents_are_getting_better_at_writing/",
+          "date": "2026-06-08T21:56:22+00:00"
+        },
+        {
           "title": "Context switching is a bigger time waster than the actual work",
           "link": "https://www.reddit.com/r/artificial/comments/1u071gq/context_switching_is_a_bigger_time_waster_than/",
           "date": "2026-06-08T12:53:27+00:00"
-        },
-        {
-          "title": "Feel like I'm becoming the glue between many AI tools",
-          "link": "https://www.reddit.com/r/artificial/comments/1u0192r/feel_like_im_becoming_the_glue_between_many_ai/",
-          "date": "2026-06-08T07:48:50+00:00"
         }
       ],
       "error": null
@@ -327,6 +353,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "To achieve \u2018AI for all\u2019 in agriculture, Canada\u2019s farmers need regional, systems-level change",
+          "link": "https://theconversation.com/to-achieve-ai-for-all-in-agriculture-canadas-farmers-need-regional-systems-level-change-282335",
+          "date": "2026-06-08T20:59:47Z"
+        },
         {
           "title": "If AI is addictive, where does the responsibility lie \u2013 with big tech or its users?",
           "link": "https://theconversation.com/if-ai-is-addictive-where-does-the-responsibility-lie-with-big-tech-or-its-users-283810",
@@ -346,11 +377,6 @@
           "title": "Seahorses and shark fins are illegally trafficked. An AI tool could help stop this crime",
           "link": "https://theconversation.com/seahorses-and-shark-fins-are-illegally-trafficked-an-ai-tool-could-help-stop-this-crime-284448",
           "date": "2026-06-07T23:31:33Z"
-        },
-        {
-          "title": "UK Home Office to use AI age estimation on asylum seekers \u2013 how accurate is the technology?",
-          "link": "https://theconversation.com/uk-home-office-to-use-ai-age-estimation-on-asylum-seekers-how-accurate-is-the-technology-284125",
-          "date": "2026-06-05T12:48:22Z"
         }
       ],
       "error": null
@@ -363,6 +389,11 @@
           "title": "Artists are making \u2018anti-slop\u2019 to rebel against AI: \u2018It\u2019s been rammed down our throats\u2019",
           "link": "https://www.theguardian.com/technology/2026/jun/08/anti-slop-ai-art",
           "date": "Mon, 08 Jun 2026 13:00:25 GMT"
+        },
+        {
+          "title": "OpenAI confidentially files for initial public offering on US stock market",
+          "link": "https://www.theguardian.com/technology/2026/jun/08/openai-ipo-files-for-public-stock-market",
+          "date": "Mon, 08 Jun 2026 21:47:14 GMT"
         },
         {
           "title": "The Guardian view on children and the internet: rolling back big tech\u2019s untrammelled power | Editorial",
@@ -378,11 +409,6 @@
           "title": "A mother\u2019s work has enormous value | Letter",
           "link": "https://www.theguardian.com/society/2026/jun/08/a-mothers-work-has-enormous-value",
           "date": "Mon, 08 Jun 2026 15:47:25 GMT"
-        },
-        {
-          "title": "If Australian data centres are going to power the AI revolution, we deserve a fair return | David Pocock",
-          "link": "https://www.theguardian.com/commentisfree/2026/jun/09/australia-datacentres-artificial-intelligence-ai-revolution-industry-fairness",
-          "date": "Mon, 08 Jun 2026 15:00:28 GMT"
         }
       ],
       "error": null
@@ -424,6 +450,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "If You Think AI Companies Are Unethical Now, Wait Until They Go Public",
+          "link": "https://futurism.com/artificial-intelligence/ai-companies-going-public-ethics",
+          "date": "Mon, 08 Jun 2026 17:13:30 -0400"
+        },
+        {
           "title": "You Can Now Get a Religious Exemption From Using AI at Work",
           "link": "https://futurism.com/artificial-intelligence/religious-exemption-ai-work",
           "date": "Mon, 08 Jun 2026 16:01:05 -0400"
@@ -442,11 +473,6 @@
           "title": "Meta Furious Over Bombshell Smart Glasses Revelation",
           "link": "https://futurism.com/artificial-intelligence/meta-furious-smart-glasses",
           "date": "Mon, 08 Jun 2026 11:19:12 -0400"
-        },
-        {
-          "title": "US Soccer Scanning Videos of Millions of Youth Players to Identify New Stars",
-          "link": "https://futurism.com/artificial-intelligence/us-soccer-scanning-videos-millions-players",
-          "date": "Sun, 07 Jun 2026 13:00:00 -0400"
         }
       ],
       "error": null
@@ -455,6 +481,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
+          "link": "https://www.wired.com/story/openai-confidentially-files-for-ipo/",
+          "date": "Mon, 08 Jun 2026 21:31:58 +0000"
+        },
         {
           "title": "Apple\u2019s New Siri AI Is Ready to Get Personal",
           "link": "https://www.wired.com/story/apples-new-siri-ai-is-ready-to-get-personal/",
@@ -474,11 +505,6 @@
           "title": "Momfluencers Are Pitching AI as a Better \u2018Coparent\u2019 Than Men",
           "link": "https://www.wired.com/story/momfluencers-are-pitching-ai-as-a-better-coparent-than-men/",
           "date": "Mon, 08 Jun 2026 10:30:00 +0000"
-        },
-        {
-          "title": "Crypto-Funded Chinese Peptide Labs Are Booming",
-          "link": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/",
-          "date": "Sat, 06 Jun 2026 10:30:00 +0000"
         }
       ],
       "error": null
