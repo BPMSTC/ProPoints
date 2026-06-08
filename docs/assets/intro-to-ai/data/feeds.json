@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-06-08T17:49:42.794101+00:00",
+  "generatedAt": "2026-06-08T20:12:41.243919+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "This Company Will Add Phone, AirPod, and Smartwatch Trackers to License Plate Readers",
+          "link": "https://www.404media.co/this-company-will-add-phone-airpod-and-smartwatch-trackers-to-license-plate-readers/",
+          "date": "Mon, 08 Jun 2026 19:08:01 GMT"
+        },
         {
           "title": "Microsoft Hacked to Deliver Malware to Claude and Gemini Users",
           "link": "https://www.404media.co/microsoft-hacked-to-deliver-malware-to-claude-and-gemini-users/",
@@ -24,11 +29,6 @@
           "title": "Scientists Discover Hidden Symmetry on Earth That Nobody Can Explain",
           "link": "https://www.404media.co/scientists-discover-hidden-symmetry-on-earth-that-nobody-can-explain/",
           "date": "Sat, 06 Jun 2026 13:36:56 GMT"
-        },
-        {
-          "title": "ICE\u2019s Plan to Let Cops Around the Country Scan Faces to Verify Immigration Status",
-          "link": "https://www.404media.co/ices-plan-to-let-cops-around-the-country-scan-faces-to-verify-immigration-status/",
-          "date": "Fri, 05 Jun 2026 16:51:47 GMT"
         }
       ],
       "error": null
@@ -119,7 +119,7 @@
           "date": "Mon, 08 Jun 2026 14:53:24 GMT"
         },
         {
-          "title": "Google to Pay SpaceX $30 billion for AI Compute",
+          "title": "Google to Pay SpaceX $30B for AI Compute",
           "link": "https://aibusiness.com/generative-ai/google-pay-spacex-30-billion-ai-compute",
           "date": "Mon, 08 Jun 2026 13:07:44 GMT"
         },
@@ -226,34 +226,8 @@
     {
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
-      "items": [
-        {
-          "title": "Boomi makes its AI control plane case: theCUBE\u2019s Boomi World keynote analysis",
-          "link": "https://siliconangle.com/2026/05/13/ai-control-plane-takes-center-stage-boomi-world-boomiworld/",
-          "date": "Wed, 13 May 2026 18:49:36 +0000"
-        },
-        {
-          "title": "AI ambition is crashing into a decade of deferred IT maintenance, says Red Hat CEO",
-          "link": "https://siliconangle.com/2026/05/13/enterprise-ai-infrastructure-modernization-now-urgent-rhsummit/",
-          "date": "Wed, 13 May 2026 16:35:28 +0000"
-        },
-        {
-          "title": "Veeam\u2019s big pivot on display at VeeamON 2026",
-          "link": "https://siliconangle.com/2026/05/13/veeams-big-pivot-display-veeamon-2026/",
-          "date": "Wed, 13 May 2026 15:46:45 +0000"
-        },
-        {
-          "title": "Red Hat and Intel spotlight scalable AI inference as enterprises move beyond the GPU gold rush",
-          "link": "https://siliconangle.com/2026/05/13/scalable-ai-inference-focus-amid-move-beyond-gpus-rhsummit/",
-          "date": "Wed, 13 May 2026 13:52:35 +0000"
-        },
-        {
-          "title": "Exclusive: AirOps targets emerging AI search market with autonomous content optimization agent",
-          "link": "https://siliconangle.com/2026/05/13/exclusive-airops-targets-emerging-ai-search-market-autonomous-content-optimization-agent/",
-          "date": "Wed, 13 May 2026 12:30:44 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:7:2: mismatched tag"
     },
     {
       "name": "AI Snake Oil",
@@ -290,29 +264,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Michigan politicians want to ban Chinese-badged cars from even visiting the US",
-          "link": "https://arstechnica.com/cars/2026/06/michigan-politicians-want-to-ban-chinese-badged-cars-from-even-visiting-the-us/",
-          "date": "Mon, 08 Jun 2026 14:02:22 +0000"
+          "title": "Artemis II crew flew fast, earned new patch: Astronauts' Mach 39 emblem",
+          "link": "https://arstechnica.com/space/2026/06/artemis-ii-crew-flew-fast-earned-new-patch-astronauts-mach-39-emblem/",
+          "date": "Mon, 08 Jun 2026 19:40:05 +0000"
         },
         {
-          "title": "\"Chat is dead\": OpenAI preps overhaul of ChatGPT",
-          "link": "https://arstechnica.com/ai/2026/06/chat-is-dead-openai-preps-overhaul-of-chatgpt/",
-          "date": "Mon, 08 Jun 2026 13:51:16 +0000"
+          "title": "Say hi to \"Siri AI\"\u2014Apple announces new, more \"conversational\" voice assistant",
+          "link": "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
+          "date": "Mon, 08 Jun 2026 19:30:05 +0000"
         },
         {
-          "title": "The weather and climate science AI revolution isn\u2019t revolutionary",
-          "link": "https://arstechnica.com/science/2026/06/the-weather-and-climate-science-ai-revolution-isnt-revolutionary/",
-          "date": "Mon, 08 Jun 2026 11:00:58 +0000"
+          "title": "Gemini 3.5 and Antigravity come to Google NotebookLM",
+          "link": "https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/",
+          "date": "Mon, 08 Jun 2026 19:00:30 +0000"
         },
         {
-          "title": "RIP Anthony Head: Our 10 favorite moments of Buffy\u2019s Giles",
-          "link": "https://arstechnica.com/culture/2026/06/rip-anthony-head-our-10-favorite-moments-of-buffys-giles/",
-          "date": "Sun, 07 Jun 2026 19:34:05 +0000"
+          "title": "Your empty cuppa could capture carbon",
+          "link": "https://arstechnica.com/science/2026/06/your-empty-cuppa-could-capture-carbon/",
+          "date": "Mon, 08 Jun 2026 18:50:10 +0000"
         },
         {
-          "title": "School shooting survivor sues AI gun detection firm after system failed to spot weapon",
-          "link": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
-          "date": "Sun, 07 Jun 2026 11:08:30 +0000"
+          "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
+          "link": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
+          "date": "Mon, 08 Jun 2026 18:34:23 +0000"
         }
       ],
       "error": null
@@ -450,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "You Can Now Get a Religious Exemption From Using AI at Work",
+          "link": "https://futurism.com/artificial-intelligence/religious-exemption-ai-work",
+          "date": "Mon, 08 Jun 2026 16:01:05 -0400"
+        },
+        {
           "title": "Zoo Officials Horrified by AI Data Center Menacing Their Endangered Animals",
           "link": "https://futurism.com/artificial-intelligence/zoo-officials-horrified-ai-data-center-animals",
           "date": "Mon, 08 Jun 2026 12:53:58 -0400"
@@ -468,11 +447,6 @@
           "title": "US Soccer Scanning Videos of Millions of Youth Players to Identify New Stars",
           "link": "https://futurism.com/artificial-intelligence/us-soccer-scanning-videos-millions-players",
           "date": "Sun, 07 Jun 2026 13:00:00 -0400"
-        },
-        {
-          "title": "Meta So Desperate for Compute That It\u2019s Building \u201cData Centers\u201d That Are Just Tents Filled With AI Chips",
-          "link": "https://futurism.com/artificial-intelligence/meta-compute-ai-data-centers-tents-chips",
-          "date": "Sat, 06 Jun 2026 12:30:00 -0400"
         }
       ],
       "error": null
@@ -481,6 +455,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Apple\u2019s New Siri AI Is Ready to Get Personal",
+          "link": "https://www.wired.com/story/apples-new-siri-ai-is-ready-to-get-personal/",
+          "date": "Mon, 08 Jun 2026 18:17:44 +0000"
+        },
         {
           "title": "The UK Is Betting on a Billion-Dollar AI Supercomputer to Kick Its Addiction to US Tech",
           "link": "https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/",
@@ -500,11 +479,6 @@
           "title": "Crypto-Funded Chinese Peptide Labs Are Booming",
           "link": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/",
           "date": "Sat, 06 Jun 2026 10:30:00 +0000"
-        },
-        {
-          "title": "Has Microsoft Lost Its Mojo (Again)?",
-          "link": "https://www.wired.com/story/has-microsoft-lost-its-mojo-again/",
-          "date": "Fri, 05 Jun 2026 15:00:00 +0000"
         }
       ],
       "error": null
