@@ -1,10 +1,25 @@
 {
-  "generatedAt": "2026-06-09T12:36:41.557237+00:00",
+  "generatedAt": "2026-06-09T15:52:25.362084+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "FCC Wants to Kill Burner Phones By Forcing Telecoms to Get All Customers\u2019 IDs",
+          "link": "https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/",
+          "date": "Tue, 09 Jun 2026 15:11:17 GMT"
+        },
+        {
+          "title": "Judge Learns Lawyers on Both Sides of Case Used AI, Cancels Trial, Kicks Everyone Off the Case",
+          "link": "https://www.404media.co/judge-learns-lawyers-on-both-sides-of-case-used-ai-cancels-trial-kicks-everyone-off-the-case/",
+          "date": "Tue, 09 Jun 2026 14:30:13 GMT"
+        },
+        {
+          "title": "'Sloppenheimer:' Amazon Employees Mock the Company\u2019s AI on Slack",
+          "link": "https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/",
+          "date": "Tue, 09 Jun 2026 13:44:03 GMT"
+        },
         {
           "title": "This Company Will Add Phone, AirPod, and Smartwatch Trackers to License Plate Readers",
           "link": "https://www.404media.co/this-company-will-add-phone-airpod-and-smartwatch-trackers-to-license-plate-readers/",
@@ -14,21 +29,6 @@
           "title": "Microsoft Hacked to Deliver Malware to Claude and Gemini Users",
           "link": "https://www.404media.co/microsoft-hacked-to-deliver-malware-to-claude-and-gemini-users/",
           "date": "Mon, 08 Jun 2026 15:50:35 GMT"
-        },
-        {
-          "title": "It\u2019s So Not Over for Hollywood (with Devindra Hardawar)",
-          "link": "https://www.404media.co/its-so-not-over-for-hollywood-with-devindra-hardawar/",
-          "date": "Mon, 08 Jun 2026 14:11:05 GMT"
-        },
-        {
-          "title": "A Farmer Donated Land to Turn into a Park. The City Is Building a Massive Data Center Instead",
-          "link": "https://www.404media.co/a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-massive-data-center-instead/",
-          "date": "Mon, 08 Jun 2026 13:00:06 GMT"
-        },
-        {
-          "title": "Scientists Discover Hidden Symmetry on Earth That Nobody Can Explain",
-          "link": "https://www.404media.co/scientists-discover-hidden-symmetry-on-earth-that-nobody-can-explain/",
-          "date": "Sat, 06 Jun 2026 13:36:56 GMT"
         }
       ],
       "error": null
@@ -114,6 +114,16 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Amazon Taps Fiber Optics Producer Corning for Data Center Expansion",
+          "link": "https://aibusiness.com/generative-ai/amazon-taps-fiber-optics-producer-corning-data-center-expansion",
+          "date": "Tue, 09 Jun 2026 14:23:48 GMT"
+        },
+        {
+          "title": "AI Adoption in the UK is Booming, but Transformation is Stalling",
+          "link": "https://aibusiness.com/generative-ai/ai-adoption-the-uk-is-booming-transformation-stalling",
+          "date": "Tue, 09 Jun 2026 14:05:00 GMT"
+        },
+        {
           "title": "Uber and Wayve to Launch London\u2019s First AI Robotaxis",
           "link": "https://aibusiness.com/generative-ai/uber-and-wayve-launch-london-s-first-ai-robotaxis",
           "date": "Mon, 08 Jun 2026 21:26:56 GMT"
@@ -127,16 +137,6 @@
           "title": "How Enterprises Should Combat the Growing Shadow AI Problem",
           "link": "https://aibusiness.com/generative-ai/how-enterprises-should-combat-growing-shadow-ai-problem",
           "date": "Mon, 08 Jun 2026 14:53:24 GMT"
-        },
-        {
-          "title": "Google to Pay SpaceX $30B for AI Compute",
-          "link": "https://aibusiness.com/generative-ai/google-pay-spacex-30-billion-ai-compute",
-          "date": "Mon, 08 Jun 2026 13:07:44 GMT"
-        },
-        {
-          "title": "Prompt: Anthropic's IPO Filing Signals AI's Next Phase",
-          "link": "https://aibusiness.com/generative-ai/prompt-anthropic-s-ipo-filing-signals-ai-s-next-phase",
-          "date": "Fri, 05 Jun 2026 14:35:02 GMT"
         }
       ],
       "error": null
@@ -226,8 +226,34 @@
     {
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
-      "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "items": [
+        {
+          "title": "Boomi makes its AI control plane case: theCUBE\u2019s Boomi World keynote analysis",
+          "link": "https://siliconangle.com/2026/05/13/ai-control-plane-takes-center-stage-boomi-world-boomiworld/",
+          "date": "Wed, 13 May 2026 18:49:36 +0000"
+        },
+        {
+          "title": "AI ambition is crashing into a decade of deferred IT maintenance, says Red Hat CEO",
+          "link": "https://siliconangle.com/2026/05/13/enterprise-ai-infrastructure-modernization-now-urgent-rhsummit/",
+          "date": "Wed, 13 May 2026 16:35:28 +0000"
+        },
+        {
+          "title": "Veeam\u2019s big pivot on display at VeeamON 2026",
+          "link": "https://siliconangle.com/2026/05/13/veeams-big-pivot-display-veeamon-2026/",
+          "date": "Wed, 13 May 2026 15:46:45 +0000"
+        },
+        {
+          "title": "Red Hat and Intel spotlight scalable AI inference as enterprises move beyond the GPU gold rush",
+          "link": "https://siliconangle.com/2026/05/13/scalable-ai-inference-focus-amid-move-beyond-gpus-rhsummit/",
+          "date": "Wed, 13 May 2026 13:52:35 +0000"
+        },
+        {
+          "title": "Exclusive: AirOps targets emerging AI search market with autonomous content optimization agent",
+          "link": "https://siliconangle.com/2026/05/13/exclusive-airops-targets-emerging-ai-search-market-autonomous-content-optimization-agent/",
+          "date": "Wed, 13 May 2026 12:30:44 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Snake Oil",
@@ -264,29 +290,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "FCC lifts looming deadline for Amazon Leo satellite broadband constellation",
-          "link": "https://arstechnica.com/space/2026/06/fcc-lifts-looming-deadline-for-amazon-leo-satellite-broadband-constellation/",
-          "date": "Tue, 09 Jun 2026 00:59:40 +0000"
+          "title": "US military claims first drone boat rescue of downed helicopter crew",
+          "link": "https://arstechnica.com/gadgets/2026/06/us-military-claims-first-drone-boat-rescue-of-downed-helicopter-crew/",
+          "date": "Tue, 09 Jun 2026 15:44:36 +0000"
         },
         {
-          "title": "Tests suggest Russian satellites can jam GPS on a continental scale",
-          "link": "https://arstechnica.com/space/2026/06/tests-suggest-russian-satellites-can-jam-gps-on-a-continental-scale/",
-          "date": "Mon, 08 Jun 2026 21:56:28 +0000"
+          "title": "High-severity vulnerability in Linux caused by a single errant character",
+          "link": "https://arstechnica.com/security/2026/06/a-single-errant-character-in-the-linux-kernel-allows-attacker-to-gain-root/",
+          "date": "Tue, 09 Jun 2026 15:12:43 +0000"
         },
         {
-          "title": "macOS 27 requires Apple Silicon, as Apple draws down the Intel Mac era",
-          "link": "https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/",
-          "date": "Mon, 08 Jun 2026 21:03:56 +0000"
+          "title": "Gold isn\u2019t inert, it just has bodyguards protecting it",
+          "link": "https://arstechnica.com/science/2026/06/gold-isnt-inert-it-just-has-bodyguards-protecting-it/",
+          "date": "Tue, 09 Jun 2026 14:23:59 +0000"
         },
         {
-          "title": "iOS 27 and iPadOS 27 don't drop support for any iPhones\u2014and just a few iPads",
-          "link": "https://arstechnica.com/gadgets/2026/06/ios-27-and-ipados-27-dont-drop-support-for-any-iphones-and-just-a-few-ipads/",
-          "date": "Mon, 08 Jun 2026 20:55:58 +0000"
+          "title": "Here's Audi's next Q7 SUV and US-only SQ7, now with an RS V8",
+          "link": "https://arstechnica.com/cars/2026/06/heres-audis-next-q7-suv-and-us-only-sq7-now-with-an-rs-v8/",
+          "date": "Tue, 09 Jun 2026 14:00:20 +0000"
         },
         {
-          "title": "Meta alleges NSO violated spyware injunction with new WhatsApp attacks",
-          "link": "https://arstechnica.com/tech-policy/2026/06/meta-alleges-nso-violated-spyware-injunction-with-new-whatsapp-attacks/",
-          "date": "Mon, 08 Jun 2026 20:26:14 +0000"
+          "title": "Apple says its AI is still private, even when it's running on Google's servers",
+          "link": "https://arstechnica.com/apple/2026/06/apple-says-its-ai-is-still-private-even-when-its-running-on-googles-servers/",
+          "date": "Tue, 09 Jun 2026 13:05:49 +0000"
         }
       ],
       "error": null
@@ -301,24 +327,24 @@
           "date": "2026-06-09T07:43:38+00:00"
         },
         {
+          "title": "Apple's New AI Models Are Built With Gemini but Designed for Privacy",
+          "link": "https://www.reddit.com/r/artificial/comments/1u173fq/apples_new_ai_models_are_built_with_gemini_but/",
+          "date": "2026-06-09T14:47:23+00:00"
+        },
+        {
+          "title": "Crazy statement by Gemini pro",
+          "link": "https://www.reddit.com/r/artificial/comments/1u12pru/crazy_statement_by_gemini_pro/",
+          "date": "2026-06-09T11:49:34+00:00"
+        },
+        {
           "title": "ArXiv to Ban Researchers for a Year if They Submit AI Slop",
           "link": "https://www.reddit.com/r/artificial/comments/1u0bptw/arxiv_to_ban_researchers_for_a_year_if_they/",
           "date": "2026-06-08T15:47:18+00:00"
         },
         {
-          "title": "the boring part of AI agents nobody builds and everyone needs",
-          "link": "https://www.reddit.com/r/artificial/comments/1u10t7w/the_boring_part_of_ai_agents_nobody_builds_and/",
-          "date": "2026-06-09T10:10:33+00:00"
-        },
-        {
           "title": "OG Will understand \ud83d\ude44",
           "link": "https://www.reddit.com/r/artificial/comments/1u0a7v0/og_will_understand/",
           "date": "2026-06-08T14:53:15+00:00"
-        },
-        {
-          "title": "Engineer builds AI laser defense system that wiped out every mosquito in his home",
-          "link": "https://www.reddit.com/r/artificial/comments/1u0r0q6/engineer_builds_ai_laser_defense_system_that/",
-          "date": "2026-06-09T01:25:17+00:00"
         }
       ],
       "error": null
@@ -328,6 +354,21 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Ocean monitoring is in trouble: without the US, it\u2019s up to Europe and Asia to avoid losing sight of the world\u2019s deep-sea ecosystems",
+          "link": "https://theconversation.com/ocean-monitoring-is-in-trouble-without-the-us-its-up-to-europe-and-asia-to-avoid-losing-sight-of-the-worlds-deep-sea-ecosystems-283297",
+          "date": "2026-06-09T14:20:54Z"
+        },
+        {
+          "title": "Can AI really spot the next football superstar \u2013 or is it changing the game in troubling ways?",
+          "link": "https://theconversation.com/can-ai-really-spot-the-next-football-superstar-or-is-it-changing-the-game-in-troubling-ways-280378",
+          "date": "2026-06-09T13:49:22Z"
+        },
+        {
+          "title": "AI in nature conservation: powerful tool or dangerous shortcut?",
+          "link": "https://theconversation.com/ai-in-nature-conservation-powerful-tool-or-dangerous-shortcut-283718",
+          "date": "2026-06-09T13:24:09Z"
+        },
+        {
           "title": "Can AI help coastal cities prepare for rising seas and extreme events?",
           "link": "https://theconversation.com/can-ai-help-coastal-cities-prepare-for-rising-seas-and-extreme-events-283726",
           "date": "2026-06-09T09:05:57Z"
@@ -336,21 +377,6 @@
           "title": "World\u2019s first AI-designed vaccine explained",
           "link": "https://theconversation.com/worlds-first-ai-designed-vaccine-explained-284668",
           "date": "2026-06-09T08:16:34Z"
-        },
-        {
-          "title": "To achieve \u2018AI for all\u2019 in agriculture, Canada\u2019s farmers need regional, systems-level change",
-          "link": "https://theconversation.com/to-achieve-ai-for-all-in-agriculture-canadas-farmers-need-regional-systems-level-change-282335",
-          "date": "2026-06-08T20:59:47Z"
-        },
-        {
-          "title": "If AI is addictive, where does the responsibility lie \u2013 with big tech or its users?",
-          "link": "https://theconversation.com/if-ai-is-addictive-where-does-the-responsibility-lie-with-big-tech-or-its-users-283810",
-          "date": "2026-06-08T15:43:14Z"
-        },
-        {
-          "title": "Will AI really make banking better for customers?",
-          "link": "https://theconversation.com/will-ai-really-make-banking-better-for-customers-281487",
-          "date": "2026-06-08T13:39:53Z"
         }
       ],
       "error": null
@@ -365,6 +391,16 @@
           "date": "Mon, 08 Jun 2026 23:01:38 GMT"
         },
         {
+          "title": "Palantir to sue Sadiq Khan over blocked \u00a350m Met police contract",
+          "link": "https://www.theguardian.com/uk-news/2026/jun/09/palantir-sue-khan-blocked-met-contract",
+          "date": "Tue, 09 Jun 2026 15:13:56 GMT"
+        },
+        {
+          "title": "All signs point to Trump pushing AI growth",
+          "link": "https://www.theguardian.com/technology/2026/jun/08/trump-ai-growth-anthropic",
+          "date": "Tue, 09 Jun 2026 13:06:03 GMT"
+        },
+        {
           "title": "Bank of England warns of AI scams as deepfakes of Farage-Bailey fight spread",
           "link": "https://www.theguardian.com/business/2026/jun/09/bank-of-england-ai-scams-deepfakes-nigel-farage-andrew-bailey-fight-x-question-time",
           "date": "Tue, 09 Jun 2026 11:01:05 GMT"
@@ -373,16 +409,6 @@
           "title": "Doctors and NHS could be sued for mistakes made by AI tools, report warns",
           "link": "https://www.theguardian.com/society/2026/jun/09/doctors-nhs-could-be-sued-mistakes-ai-tools-medical-protection-society-report",
           "date": "Tue, 09 Jun 2026 08:00:48 GMT"
-        },
-        {
-          "title": "World\u2019s first wind-powered underwater datacentre starts operating in China",
-          "link": "https://www.theguardian.com/world/2026/jun/09/worlds-first-wind-powered-underwater-datacentre-starts-operating-in-china",
-          "date": "Tue, 09 Jun 2026 05:00:45 GMT"
-        },
-        {
-          "title": "OpenAI confidentially files for initial public offering on US stock market",
-          "link": "https://www.theguardian.com/technology/2026/jun/08/openai-ipo-files-for-public-stock-market",
-          "date": "Mon, 08 Jun 2026 21:47:14 GMT"
         }
       ],
       "error": null
@@ -424,6 +450,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "McDonald\u2019s Deploying AI-Powered Drive-Thru System for Ordering Its Nauseating Foodslop",
+          "link": "https://futurism.com/artificial-intelligence/mcdonalds-deploys-ai-powered-drive-thru",
+          "date": "Tue, 09 Jun 2026 09:47:39 -0400"
+        },
+        {
+          "title": "Argentina Moves to Legalize \u201cNon-Human Corporations\u201d Run by AI",
+          "link": "https://futurism.com/artificial-intelligence/argentina-legalize-non-human-corporations-ai",
+          "date": "Tue, 09 Jun 2026 08:47:16 -0400"
+        },
+        {
           "title": "If You Think AI Companies Are Unethical Now, Wait Until They Go Public",
           "link": "https://futurism.com/artificial-intelligence/ai-companies-going-public-ethics",
           "date": "Mon, 08 Jun 2026 17:13:30 -0400"
@@ -437,16 +473,6 @@
           "title": "Zoo Officials Horrified by AI Data Center Menacing Their Endangered Animals",
           "link": "https://futurism.com/artificial-intelligence/zoo-officials-horrified-ai-data-center-animals",
           "date": "Mon, 08 Jun 2026 12:53:58 -0400"
-        },
-        {
-          "title": "Company Behind AI School Surveillance System in Major Trouble After It Fails to Spot Armed Student Walking In to Commit Mass Shooting",
-          "link": "https://futurism.com/artificial-intelligence/ai-school-surveillance-system-in-trouble",
-          "date": "Mon, 08 Jun 2026 12:18:07 -0400"
-        },
-        {
-          "title": "Meta Furious Over Bombshell Smart Glasses Revelation",
-          "link": "https://futurism.com/artificial-intelligence/meta-furious-smart-glasses",
-          "date": "Mon, 08 Jun 2026 11:19:12 -0400"
         }
       ],
       "error": null
