@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T20:18:37.474984+00:00",
+  "generatedAt": "2026-06-09T22:21:42.978862+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Netflix trying to \"poison regulators\" about WBD merger, Paramount lawyer claims",
+          "link": "https://arstechnica.com/tech-policy/2026/06/netflix-trying-to-poison-regulators-about-wbd-merger-paramount-lawyer-claims/",
+          "date": "Tue, 09 Jun 2026 20:15:45 +0000"
+        },
+        {
+          "title": "Anthropic says these topics are too dangerous to let its Fable 5 model talk about",
+          "link": "https://arstechnica.com/ai/2026/06/anthropic-says-these-topics-are-too-dangerous-to-let-its-fable-5-model-talk-about/",
+          "date": "Tue, 09 Jun 2026 19:20:25 +0000"
+        },
+        {
+          "title": "Google announces Gemini 3.5 Live Translate for instant voice-to-voice translation",
+          "link": "https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation/",
+          "date": "Tue, 09 Jun 2026 18:57:25 +0000"
+        },
+        {
           "title": "NASA assigns crew for Artemis III, sets aggressive timeline for flying it",
           "link": "https://arstechnica.com/space/2026/06/nasa-assigns-crew-for-artemis-iii-sets-aggressive-timeline-for-flying-it/",
           "date": "Tue, 09 Jun 2026 18:42:19 +0000"
@@ -298,21 +313,6 @@
           "title": "Screwworms in US: Human risk is low\u2014but they can burrow through your skull",
           "link": "https://arstechnica.com/health/2026/06/screwworms-in-us-human-risk-is-low-but-they-can-burrow-through-your-skull/",
           "date": "Tue, 09 Jun 2026 17:09:10 +0000"
-        },
-        {
-          "title": "One day after discovery, Meta pulls facial recognition code from its smart glasses",
-          "link": "https://arstechnica.com/tech-policy/2026/06/one-day-after-discovery-meta-pulls-facial-recognition-code-from-its-smart-glasses/",
-          "date": "Tue, 09 Jun 2026 16:31:10 +0000"
-        },
-        {
-          "title": "Drone boat picked up downed US Army helicopter pilots\u2014a first for sea rescues",
-          "link": "https://arstechnica.com/gadgets/2026/06/us-military-claims-first-drone-boat-rescue-of-downed-helicopter-crew/",
-          "date": "Tue, 09 Jun 2026 15:44:36 +0000"
-        },
-        {
-          "title": "High-severity vulnerability in Linux caused by a single faulty character",
-          "link": "https://arstechnica.com/security/2026/06/a-single-errant-character-in-the-linux-kernel-allows-attacker-to-gain-root/",
-          "date": "Tue, 09 Jun 2026 15:12:43 +0000"
         }
       ],
       "error": null
@@ -322,19 +322,14 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
-          "title": "Claude repeatedly implied that I was suicidal after I explicitly denied it around 30 times in one conversation",
-          "link": "https://www.reddit.com/r/artificial/comments/1u0ycl7/claude_repeatedly_implied_that_i_was_suicidal/",
-          "date": "2026-06-09T07:43:38+00:00"
-        },
-        {
           "title": "Crazy statement by Gemini pro",
           "link": "https://www.reddit.com/r/artificial/comments/1u12pru/crazy_statement_by_gemini_pro/",
           "date": "2026-06-09T11:49:34+00:00"
         },
         {
-          "title": "OpenAI ran a 44-day hiring competition. An autonomous AI agent beat everyone competitor.",
-          "link": "https://www.reddit.com/r/artificial/comments/1u19rcz/openai_ran_a_44day_hiring_competition_an/",
-          "date": "2026-06-09T16:18:53+00:00"
+          "title": "Claude repeatedly implied that I was suicidal after I explicitly denied it around 30 times in one conversation",
+          "link": "https://www.reddit.com/r/artificial/comments/1u0ycl7/claude_repeatedly_implied_that_i_was_suicidal/",
+          "date": "2026-06-09T07:43:38+00:00"
         },
         {
           "title": "Apple's New AI Models Are Built With Gemini but Designed for Privacy",
@@ -345,6 +340,11 @@
           "title": "Claude Fable & Mythos released by Anthropic",
           "link": "https://www.reddit.com/r/artificial/comments/1u1e9e4/claude_fable_mythos_released_by_anthropic/",
           "date": "2026-06-09T18:56:40+00:00"
+        },
+        {
+          "title": "Can a machine think without language?",
+          "link": "https://www.reddit.com/r/artificial/comments/1u1i3ih/can_a_machine_think_without_language/",
+          "date": "2026-06-09T21:14:52+00:00"
         }
       ],
       "error": null
