@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T16:33:18.409725+00:00",
+  "generatedAt": "2026-06-10T19:32:19.952928+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,29 +290,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Racist comments targeting politicians tripled since Meta relaxed its rules",
-          "link": "https://arstechnica.com/tech-policy/2026/06/racist-comments-targeting-politicians-tripled-since-meta-relaxed-its-rules/",
-          "date": "Wed, 10 Jun 2026 13:31:37 +0000"
+          "title": "We managed to glean some interesting details about the Artemis III mission",
+          "link": "https://arstechnica.com/space/2026/06/we-managed-to-glean-some-interesting-details-about-the-artemis-iii-mission/",
+          "date": "Wed, 10 Jun 2026 17:31:13 +0000"
         },
         {
-          "title": "GM Energy introduces V2G support and new energy storage battery chemistry",
-          "link": "https://arstechnica.com/cars/2026/06/gm-energy-introduces-v2g-support-and-new-energy-storage-battery-chemistry/",
-          "date": "Wed, 10 Jun 2026 13:13:33 +0000"
+          "title": "Nobody needs AI to search the Internet, court says in ruling against Google",
+          "link": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/",
+          "date": "Wed, 10 Jun 2026 17:19:31 +0000"
         },
         {
-          "title": "Starlink charges $10 monthly hardware fee in move away from one-time purchases",
-          "link": "https://arstechnica.com/tech-policy/2026/06/starlink-takes-page-from-cable-firms-with-10-monthly-rental-fee-for-hardware/",
-          "date": "Tue, 09 Jun 2026 21:05:39 +0000"
+          "title": "Cheap Iranian drone downed $25 million US Army helicopter\u2014maybe by chance",
+          "link": "https://arstechnica.com/gadgets/2026/06/cheap-iranian-drone-downed-25-million-us-army-helicopter-maybe-by-chance/",
+          "date": "Wed, 10 Jun 2026 17:04:47 +0000"
         },
         {
-          "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
-          "link": "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/",
-          "date": "Tue, 09 Jun 2026 20:56:52 +0000"
+          "title": "OB-GYNs release their own vaccine schedule, rejecting RFK Jr.'s meddling",
+          "link": "https://arstechnica.com/health/2026/06/bucking-rfk-jr-ob-gyns-release-vaccine-guidance-that-conflicts-with-cdc/",
+          "date": "Wed, 10 Jun 2026 16:52:36 +0000"
         },
         {
-          "title": "Three key vital signs make up the \"urban pulse\" of a city",
-          "link": "https://arstechnica.com/science/2026/06/study-how-to-take-the-urban-pulse-of-a-city/",
-          "date": "Tue, 09 Jun 2026 20:35:22 +0000"
+          "title": "Valve kills its retail gift card program due to scammers",
+          "link": "https://arstechnica.com/gaming/2026/06/valve-kills-its-retail-gift-card-program-due-to-scammers/",
+          "date": "Wed, 10 Jun 2026 16:39:43 +0000"
         }
       ],
       "error": null
@@ -321,6 +321,11 @@
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
+        {
+          "title": "I ran Fable 5 for half day and the guardrails are the real story",
+          "link": "https://www.reddit.com/r/artificial/comments/1u28c7d/i_ran_fable_5_for_half_day_and_the_guardrails_are/",
+          "date": "2026-06-10T17:09:49+00:00"
+        },
         {
           "title": "GitLab says Git is being reengineered for \"machine scale.\" Was the idea of \"Git for AI agents\" ahead of its time?",
           "link": "https://www.reddit.com/r/artificial/comments/1u20ht8/gitlab_says_git_is_being_reengineered_for_machine/",
@@ -337,14 +342,9 @@
           "date": "2026-06-10T14:23:53+00:00"
         },
         {
-          "title": "Fully autonomous AI-controlled drones have killed human soldiers for the first time",
-          "link": "https://www.reddit.com/r/artificial/comments/1u259si/fully_autonomous_aicontrolled_drones_have_killed/",
-          "date": "2026-06-10T15:21:41+00:00"
-        },
-        {
-          "title": "Pok\u00e9mon Go data \u2018exploited to develop navigation\u2019 for military drones",
-          "link": "https://www.reddit.com/r/artificial/comments/1u21qcb/pok\u00e9mon_go_data_exploited_to_develop_navigation/",
-          "date": "2026-06-10T13:08:10+00:00"
+          "title": "Thoughts on this Sam Altman quote?",
+          "link": "https://www.reddit.com/r/artificial/comments/1u2boak/thoughts_on_this_sam_altman_quote/",
+          "date": "2026-06-10T19:06:54+00:00"
         }
       ],
       "error": null
@@ -391,9 +391,9 @@
           "date": "Tue, 09 Jun 2026 22:28:29 GMT"
         },
         {
-          "title": "Florida lawsuit alleges wrongful arrest after police AI facial recognition error",
+          "title": "Florida lawsuit alleges wrongful arrest after AI facial recognition error",
           "link": "https://www.theguardian.com/us-news/2026/jun/10/florida-lawsuit-ai-facial-recognition",
-          "date": "Wed, 10 Jun 2026 16:27:23 GMT"
+          "date": "Wed, 10 Jun 2026 18:15:11 GMT"
         },
         {
           "title": "Do we really need gigantic, noisy, water-guzzling datacentres ruining our communities? In this economy? | First Dog on the Moon",
@@ -450,6 +450,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Deodorant Strictly Forbidden at Intel\u2019s AI Chip Facility",
+          "link": "https://futurism.com/artificial-intelligence/deodorant-forbidden-intel-ai-chip-facility",
+          "date": "Wed, 10 Jun 2026 12:51:09 -0400"
+        },
+        {
           "title": "Innocent Man Freed After Spending Over 50 Days in Jail Due to Horribly Inaccurate AI Facial Recognition Tech",
           "link": "https://futurism.com/artificial-intelligence/innocent-man-jail-ai-facial-recognition-arrest",
           "date": "Wed, 10 Jun 2026 11:50:33 -0400"
@@ -468,11 +473,6 @@
           "title": "Local Brand Realizes Customers Hate Its AI Ads, Switches to Charming Homemade Ones Instead",
           "link": "https://futurism.com/artificial-intelligence/brand-hate-ai-ads-homemade",
           "date": "Tue, 09 Jun 2026 12:37:34 -0400"
-        },
-        {
-          "title": "McDonald\u2019s Deploying AI-Powered Drive-Thru System for Ordering Its Nauseating Foodslop",
-          "link": "https://futurism.com/artificial-intelligence/mcdonalds-deploys-ai-powered-drive-thru",
-          "date": "Tue, 09 Jun 2026 09:47:39 -0400"
         }
       ],
       "error": null
