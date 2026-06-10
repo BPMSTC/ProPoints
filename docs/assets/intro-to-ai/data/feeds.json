@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T21:58:25.022910+00:00",
+  "generatedAt": "2026-06-10T23:38:55.859383+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Diabetes org apologizes for ejecting scientists over criticism of Trump",
+          "link": "https://arstechnica.com/health/2026/06/diabetes-org-apologizes-for-ejecting-scientists-over-criticism-of-trump/",
+          "date": "Wed, 10 Jun 2026 22:16:57 +0000"
+        },
+        {
+          "title": "Man sues Florida cops over arrest spurred by \"93% match\" in facial recognition",
+          "link": "https://arstechnica.com/tech-policy/2026/06/man-jailed-due-to-faulty-face-recognition-says-florida-cops-ignored-other-evidence/",
+          "date": "Wed, 10 Jun 2026 21:30:44 +0000"
+        },
+        {
           "title": "Logitech\u2019s foldable mouse is for people who refuse to carry a mouse with them",
           "link": "https://arstechnica.com/gadgets/2026/06/logitechs-mobi-fold-folds-for-travel-but-i-prefer-a-different-portable-mouse/",
           "date": "Wed, 10 Jun 2026 19:57:56 +0000"
@@ -303,16 +313,6 @@
           "title": "We managed to glean some interesting details about the Artemis III mission",
           "link": "https://arstechnica.com/space/2026/06/we-managed-to-glean-some-interesting-details-about-the-artemis-iii-mission/",
           "date": "Wed, 10 Jun 2026 17:31:13 +0000"
-        },
-        {
-          "title": "Nobody needs AI to search the Internet, court says in ruling against Google",
-          "link": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/",
-          "date": "Wed, 10 Jun 2026 17:19:31 +0000"
-        },
-        {
-          "title": "Cheap Iranian drone downed $25 million US Army helicopter\u2014maybe by chance",
-          "link": "https://arstechnica.com/gadgets/2026/06/cheap-iranian-drone-downed-25-million-us-army-helicopter-maybe-by-chance/",
-          "date": "Wed, 10 Jun 2026 17:04:47 +0000"
         }
       ],
       "error": null
@@ -332,19 +332,19 @@
           "date": "2026-06-10T17:09:49+00:00"
         },
         {
+          "title": "Claude Fable 5's security guardrails can be bypassed with a fake homework assignment",
+          "link": "https://www.reddit.com/r/artificial/comments/1u2cwfz/claude_fable_5s_security_guardrails_can_be/",
+          "date": "2026-06-10T19:51:28+00:00"
+        },
+        {
           "title": "GitLab says Git is being reengineered for \"machine scale.\" Was the idea of \"Git for AI agents\" ahead of its time?",
           "link": "https://www.reddit.com/r/artificial/comments/1u20ht8/gitlab_says_git_is_being_reengineered_for_machine/",
           "date": "2026-06-10T12:15:38+00:00"
         },
         {
-          "title": "Is AI at this scale actually sustainable?",
-          "link": "https://www.reddit.com/r/artificial/comments/1u2fetp/is_ai_at_this_scale_actually_sustainable/",
-          "date": "2026-06-10T21:24:18+00:00"
-        },
-        {
-          "title": "Claude Fable 5's security guardrails can be bypassed with a fake homework assignment",
-          "link": "https://www.reddit.com/r/artificial/comments/1u2cwfz/claude_fable_5s_security_guardrails_can_be/",
-          "date": "2026-06-10T19:51:28+00:00"
+          "title": "Dario Amodei \u2014 Policy on the AI Exponential",
+          "link": "https://www.reddit.com/r/artificial/comments/1u2ch83/dario_amodei_policy_on_the_ai_exponential/",
+          "date": "2026-06-10T19:36:05+00:00"
         }
       ],
       "error": null
@@ -386,11 +386,6 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Anthropic releases \u2018safe\u2019 version of Claude Mythos AI model to public",
-          "link": "https://www.theguardian.com/technology/2026/jun/09/anthropic-claude-mythos-ai-model",
-          "date": "Tue, 09 Jun 2026 22:28:29 GMT"
-        },
-        {
           "title": "Florida lawsuit alleges wrongful arrest after AI facial recognition error",
           "link": "https://www.theguardian.com/us-news/2026/jun/10/florida-lawsuit-ai-facial-recognition",
           "date": "Wed, 10 Jun 2026 18:15:11 GMT"
@@ -409,6 +404,11 @@
           "title": "How do you want to live? Both James Valentine and the pope have offered a challenge to humanity at a crossroads | Peter Lewis",
           "link": "https://www.theguardian.com/commentisfree/2026/jun/10/james-valentine-pope-ai-magnifica-humanitas-challenge-humanity-at-crossroads",
           "date": "Wed, 10 Jun 2026 01:54:08 GMT"
+        },
+        {
+          "title": "Seattle enacts year-long ban on new AI datacenters",
+          "link": "https://www.theguardian.com/us-news/2026/jun/09/seattle-ai-datacenters-ban",
+          "date": "Wed, 10 Jun 2026 00:15:54 GMT"
         }
       ],
       "error": null
