@@ -1,10 +1,25 @@
 {
-  "generatedAt": "2026-06-10T12:54:13.984625+00:00",
+  "generatedAt": "2026-06-10T16:33:18.409725+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Scientists Just Accidentally Discovered a Strange, Hidden Rule of Human Nature",
+          "link": "https://www.404media.co/scientists-just-accidentally-discovered-a-strange-hidden-rule-of-human-nature/",
+          "date": "Wed, 10 Jun 2026 13:39:58 GMT"
+        },
+        {
+          "title": "Podcast: Google Employees Meme About How Bad Their AI Is",
+          "link": "https://www.404media.co/podcast-google-employees-meme-about-how-bad-their-ai-is/",
+          "date": "Wed, 10 Jun 2026 13:36:16 GMT"
+        },
+        {
+          "title": "Cops Keep Getting Arrested for Using Flock to Stalk People",
+          "link": "https://www.404media.co/cops-keep-getting-arrested-for-using-flock-to-stalk-people/",
+          "date": "Wed, 10 Jun 2026 13:22:29 GMT"
+        },
         {
           "title": "FCC Wants to Kill Burner Phones By Forcing Telecoms to Get All Customers\u2019 IDs",
           "link": "https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/",
@@ -14,21 +29,6 @@
           "title": "Judge Learns Lawyers on Both Sides of Case Used AI, Cancels Trial, Kicks Everyone Off the Case",
           "link": "https://www.404media.co/judge-learns-lawyers-on-both-sides-of-case-used-ai-cancels-trial-kicks-everyone-off-the-case/",
           "date": "Tue, 09 Jun 2026 14:30:13 GMT"
-        },
-        {
-          "title": "'Sloppenheimer:' Amazon Employees Mock the Company\u2019s AI on Slack",
-          "link": "https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/",
-          "date": "Tue, 09 Jun 2026 13:44:03 GMT"
-        },
-        {
-          "title": "This Company Will Add Phone, AirPod, and Smartwatch Trackers to License Plate Readers",
-          "link": "https://www.404media.co/this-company-will-add-phone-airpod-and-smartwatch-trackers-to-license-plate-readers/",
-          "date": "Mon, 08 Jun 2026 19:08:01 GMT"
-        },
-        {
-          "title": "Microsoft Hacked to Deliver Malware to Claude and Gemini Users",
-          "link": "https://www.404media.co/microsoft-hacked-to-deliver-malware-to-claude-and-gemini-users/",
-          "date": "Mon, 08 Jun 2026 15:50:35 GMT"
         }
       ],
       "error": null
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Meta Partners With Reliance for First India AI Data Center",
+          "link": "https://aibusiness.com/generative-ai/meta-partners-with-reliance-first-india-ai-data-center",
+          "date": "Wed, 10 Jun 2026 14:47:50 GMT"
+        },
+        {
           "title": "The Price Enterprises Will Pay for Anthropic Claude Fable 5",
           "link": "https://aibusiness.com/generative-ai/the-price-enterprises-will-pay-anthropic-claude-fable-5",
           "date": "Tue, 09 Jun 2026 22:41:38 GMT"
@@ -132,11 +137,6 @@
           "title": "Amazon Taps Fiber Optics Producer Corning for Data Center Expansion",
           "link": "https://aibusiness.com/generative-ai/amazon-taps-fiber-optics-producer-corning-data-center-expansion",
           "date": "Tue, 09 Jun 2026 14:23:48 GMT"
-        },
-        {
-          "title": "AI Adoption in the UK is Booming, but Transformation is Stalling",
-          "link": "https://aibusiness.com/generative-ai/ai-adoption-the-uk-is-booming-transformation-stalling",
-          "date": "Tue, 09 Jun 2026 14:05:00 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Racist comments targeting politicians tripled since Meta relaxed its rules",
+          "link": "https://arstechnica.com/tech-policy/2026/06/racist-comments-targeting-politicians-tripled-since-meta-relaxed-its-rules/",
+          "date": "Wed, 10 Jun 2026 13:31:37 +0000"
+        },
+        {
+          "title": "GM Energy introduces V2G support and new energy storage battery chemistry",
+          "link": "https://arstechnica.com/cars/2026/06/gm-energy-introduces-v2g-support-and-new-energy-storage-battery-chemistry/",
+          "date": "Wed, 10 Jun 2026 13:13:33 +0000"
+        },
+        {
           "title": "Starlink charges $10 monthly hardware fee in move away from one-time purchases",
           "link": "https://arstechnica.com/tech-policy/2026/06/starlink-takes-page-from-cable-firms-with-10-monthly-rental-fee-for-hardware/",
           "date": "Tue, 09 Jun 2026 21:05:39 +0000"
@@ -303,16 +313,6 @@
           "title": "Three key vital signs make up the \"urban pulse\" of a city",
           "link": "https://arstechnica.com/science/2026/06/study-how-to-take-the-urban-pulse-of-a-city/",
           "date": "Tue, 09 Jun 2026 20:35:22 +0000"
-        },
-        {
-          "title": "Commonwealth Fusion makes the physics case for its 400 MW reactor",
-          "link": "https://arstechnica.com/science/2026/06/__trashed-19/",
-          "date": "Tue, 09 Jun 2026 20:25:56 +0000"
-        },
-        {
-          "title": "Paramount accuses Netflix of \"scorched-earth campaign\" against WBD merger",
-          "link": "https://arstechnica.com/tech-policy/2026/06/netflix-trying-to-poison-regulators-about-wbd-merger-paramount-lawyer-claims/",
-          "date": "Tue, 09 Jun 2026 20:15:45 +0000"
         }
       ],
       "error": null
@@ -327,24 +327,24 @@
           "date": "2026-06-10T12:15:38+00:00"
         },
         {
-          "title": "Would people follow an AI\u2019s life, or is that just chatbot novelty?",
-          "link": "https://www.reddit.com/r/artificial/comments/1u1ylnq/would_people_follow_an_ais_life_or_is_that_just/",
-          "date": "2026-06-10T10:44:03+00:00"
+          "title": "If you are a bad developer, AI can\u2019t help you!",
+          "link": "https://www.reddit.com/r/artificial/comments/1u23zqd/if_you_are_a_bad_developer_ai_cant_help_you/",
+          "date": "2026-06-10T14:35:47+00:00"
         },
         {
-          "title": "Can a machine think without language?",
-          "link": "https://www.reddit.com/r/artificial/comments/1u1i3ih/can_a_machine_think_without_language/",
-          "date": "2026-06-09T21:14:52+00:00"
+          "title": "AI infrastructure spending still feels early.",
+          "link": "https://www.reddit.com/r/artificial/comments/1u23oce/ai_infrastructure_spending_still_feels_early/",
+          "date": "2026-06-10T14:23:53+00:00"
         },
         {
-          "title": "AI Deepfakes and Creator Economy Fraud: Detection & Protection Guide 2026",
-          "link": "https://www.reddit.com/r/artificial/comments/1u20cxu/ai_deepfakes_and_creator_economy_fraud_detection/",
-          "date": "2026-06-10T12:09:42+00:00"
+          "title": "Fully autonomous AI-controlled drones have killed human soldiers for the first time",
+          "link": "https://www.reddit.com/r/artificial/comments/1u259si/fully_autonomous_aicontrolled_drones_have_killed/",
+          "date": "2026-06-10T15:21:41+00:00"
         },
         {
-          "title": "Control for agentic payments should start at infrastructure",
-          "link": "https://www.reddit.com/r/artificial/comments/1u1llsc/control_for_agentic_payments_should_start_at/",
-          "date": "2026-06-09T23:34:58+00:00"
+          "title": "Pok\u00e9mon Go data \u2018exploited to develop navigation\u2019 for military drones",
+          "link": "https://www.reddit.com/r/artificial/comments/1u21qcb/pok\u00e9mon_go_data_exploited_to_develop_navigation/",
+          "date": "2026-06-10T13:08:10+00:00"
         }
       ],
       "error": null
@@ -353,6 +353,16 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Canada\u2019s \u2018AI for All\u2019 strategy has ambitious growth targets, but it falls short on workers and the environment",
+          "link": "https://theconversation.com/canadas-ai-for-all-strategy-has-ambitious-growth-targets-but-it-falls-short-on-workers-and-the-environment-284648",
+          "date": "2026-06-10T15:45:49Z"
+        },
+        {
+          "title": "AI regulation in Africa: why copying the European model won\u2019t work",
+          "link": "https://theconversation.com/ai-regulation-in-africa-why-copying-the-european-model-wont-work-283524",
+          "date": "2026-06-10T13:37:56Z"
+        },
         {
           "title": "As SpaceX, OpenAI and Anthropic plan blockbuster launches, will it make AI giants more accountable?",
           "link": "https://theconversation.com/as-spacex-openai-and-anthropic-plan-blockbuster-launches-will-it-make-ai-giants-more-accountable-284665",
@@ -367,16 +377,6 @@
           "title": "Can AI really spot the next football superstar \u2013 or is it changing the game in troubling ways?",
           "link": "https://theconversation.com/can-ai-really-spot-the-next-football-superstar-or-is-it-changing-the-game-in-troubling-ways-280378",
           "date": "2026-06-09T13:49:22Z"
-        },
-        {
-          "title": "AI in nature conservation: powerful tool or dangerous shortcut?",
-          "link": "https://theconversation.com/ai-in-nature-conservation-powerful-tool-or-dangerous-shortcut-283718",
-          "date": "2026-06-09T13:24:09Z"
-        },
-        {
-          "title": "Can AI help coastal cities prepare for rising seas and extreme events?",
-          "link": "https://theconversation.com/can-ai-help-coastal-cities-prepare-for-rising-seas-and-extreme-events-283726",
-          "date": "2026-06-09T09:05:57Z"
         }
       ],
       "error": null
@@ -389,6 +389,11 @@
           "title": "Anthropic releases \u2018safe\u2019 version of Claude Mythos AI model to public",
           "link": "https://www.theguardian.com/technology/2026/jun/09/anthropic-claude-mythos-ai-model",
           "date": "Tue, 09 Jun 2026 22:28:29 GMT"
+        },
+        {
+          "title": "Florida lawsuit alleges wrongful arrest after police AI facial recognition error",
+          "link": "https://www.theguardian.com/us-news/2026/jun/10/florida-lawsuit-ai-facial-recognition",
+          "date": "Wed, 10 Jun 2026 16:27:23 GMT"
         },
         {
           "title": "Do we really need gigantic, noisy, water-guzzling datacentres ruining our communities? In this economy? | First Dog on the Moon",
@@ -404,11 +409,6 @@
           "title": "How do you want to live? Both James Valentine and the pope have offered a challenge to humanity at a crossroads | Peter Lewis",
           "link": "https://www.theguardian.com/commentisfree/2026/jun/10/james-valentine-pope-ai-magnifica-humanitas-challenge-humanity-at-crossroads",
           "date": "Wed, 10 Jun 2026 01:54:08 GMT"
-        },
-        {
-          "title": "Seattle enacts year-long ban on new AI datacenters",
-          "link": "https://www.theguardian.com/us-news/2026/jun/09/seattle-ai-datacenters-ban",
-          "date": "Wed, 10 Jun 2026 00:15:54 GMT"
         }
       ],
       "error": null
@@ -450,6 +450,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Innocent Man Freed After Spending Over 50 Days in Jail Due to Horribly Inaccurate AI Facial Recognition Tech",
+          "link": "https://futurism.com/artificial-intelligence/innocent-man-jail-ai-facial-recognition-arrest",
+          "date": "Wed, 10 Jun 2026 11:50:33 -0400"
+        },
+        {
           "title": "College Students Are Rapidly Losing the Ability to Read",
           "link": "https://futurism.com/future-society/college-students-losing-ability-read",
           "date": "Wed, 10 Jun 2026 08:44:39 -0400"
@@ -468,11 +473,6 @@
           "title": "McDonald\u2019s Deploying AI-Powered Drive-Thru System for Ordering Its Nauseating Foodslop",
           "link": "https://futurism.com/artificial-intelligence/mcdonalds-deploys-ai-powered-drive-thru",
           "date": "Tue, 09 Jun 2026 09:47:39 -0400"
-        },
-        {
-          "title": "Argentina Moves to Legalize \u201cNon-Human Corporations\u201d Run by AI",
-          "link": "https://futurism.com/artificial-intelligence/argentina-legalize-non-human-corporations-ai",
-          "date": "Tue, 09 Jun 2026 08:47:16 -0400"
         }
       ],
       "error": null
@@ -481,6 +481,16 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Wrongful Arrest Exposes Failures in One of the Oldest Police Face-Recognition Tools in the US",
+          "link": "https://www.wired.com/story/wrongful-arrest-tests-one-of-the-oldest-police-face-recognition-tools-in-the-us/",
+          "date": "Wed, 10 Jun 2026 14:00:00 +0000"
+        },
+        {
+          "title": "China Opens World\u2019s First Wind-Powered Underwater Data Center",
+          "link": "https://www.wired.com/story/china-opens-worlds-first-wind-powered-underwater-data-center/",
+          "date": "Wed, 10 Jun 2026 13:39:32 +0000"
+        },
         {
           "title": "Artificial Intelligence Sneaks Into the World Cup Thanks to Google Gemini",
           "link": "https://www.wired.com/story/artificial-intelligence-sneaks-into-the-world-cup-thanks-to-google-gemini/",
@@ -495,16 +505,6 @@
           "title": "Alex Vindman Survived Trump\u2019s Retaliation Machine. Now He\u2019s Running for Senate",
           "link": "https://www.wired.com/story/the-big-interview-podcast-alex-vindman/",
           "date": "Tue, 09 Jun 2026 10:30:00 +0000"
-        },
-        {
-          "title": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
-          "link": "https://www.wired.com/story/openai-confidentially-files-for-ipo/",
-          "date": "Mon, 08 Jun 2026 21:31:58 +0000"
-        },
-        {
-          "title": "Apple\u2019s New Siri AI Is Ready to Get Personal",
-          "link": "https://www.wired.com/story/apples-new-siri-ai-is-ready-to-get-personal/",
-          "date": "Mon, 08 Jun 2026 18:17:44 +0000"
         }
       ],
       "error": null
