@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T23:38:55.859383+00:00",
+  "generatedAt": "2026-06-11T03:39:25.636261+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -482,6 +482,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Anthropic Walks Back Policy That Could Have \u2018Sabotaged\u2019 AI Researchers Using Claude",
+          "link": "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/",
+          "date": "Thu, 11 Jun 2026 03:11:22 +0000"
+        },
+        {
           "title": "Wrongful Arrest Exposes Failures in One of the Oldest Police Face-Recognition Tools in the US",
           "link": "https://www.wired.com/story/wrongful-arrest-tests-one-of-the-oldest-police-face-recognition-tools-in-the-us/",
           "date": "Wed, 10 Jun 2026 14:00:00 +0000"
@@ -500,11 +505,6 @@
           "title": "Anthropic Offers Mythos Upgrade for Cyber Partners and a \u2018Safe\u2019 Version for the Rest of You",
           "link": "https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/",
           "date": "Tue, 09 Jun 2026 17:00:46 +0000"
-        },
-        {
-          "title": "Alex Vindman Survived Trump\u2019s Retaliation Machine. Now He\u2019s Running for Senate",
-          "link": "https://www.wired.com/story/the-big-interview-podcast-alex-vindman/",
-          "date": "Tue, 09 Jun 2026 10:30:00 +0000"
         }
       ],
       "error": null
