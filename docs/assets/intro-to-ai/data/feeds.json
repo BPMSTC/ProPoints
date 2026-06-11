@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T08:43:37.534770+00:00",
+  "generatedAt": "2026-06-11T12:43:02.662473+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "The benchmark gap, explained:  What AI leaderboards measure and what they miss",
+          "link": "https://www.aiacceleratorinstitute.com/the-benchmark-gap-explained-what-ai-leaderboards-measure-and-what-they-miss/",
+          "date": "Thu, 11 Jun 2026 11:48:08 GMT"
+        },
+        {
           "title": "6 things every AI leader needs to get right in H2 2026",
           "link": "https://www.aiacceleratorinstitute.com/6-things-every-ai-leader-needs-to-get-right-in-h2-2026/",
           "date": "Tue, 09 Jun 2026 11:44:12 GMT"
@@ -88,11 +93,6 @@
           "title": "Why smart companies don't  add AI everywhere",
           "link": "https://www.aiacceleratorinstitute.com/why-smart-companies-dont-add-ai-everywhere/",
           "date": "Fri, 05 Jun 2026 12:07:58 GMT"
-        },
-        {
-          "title": "Building compliant AI Agents: Preparing Enterprise teams for the EU AI Act",
-          "link": "https://www.aiacceleratorinstitute.com/building-compliant-ai-agents-preparing-enterprise-teams/",
-          "date": "Thu, 04 Jun 2026 08:27:56 GMT"
         }
       ],
       "error": null
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Several things I like about macOS 27 Golden Gate that have nothing to do with AI",
+          "link": "https://arstechnica.com/gadgets/2026/06/five-things-i-like-and-one-thing-i-still-want-in-the-macos-27-golden-gate-beta/",
+          "date": "Thu, 11 Jun 2026 11:00:32 +0000"
+        },
+        {
           "title": "Diabetes org apologizes for ejecting scientists over criticism of Trump",
           "link": "https://arstechnica.com/health/2026/06/diabetes-org-apologizes-for-ejecting-scientists-over-criticism-of-trump/",
           "date": "Wed, 10 Jun 2026 22:16:57 +0000"
@@ -308,11 +313,6 @@
           "title": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster",
           "link": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
           "date": "Wed, 10 Jun 2026 19:29:21 +0000"
-        },
-        {
-          "title": "We managed to glean some interesting details about the Artemis III mission",
-          "link": "https://arstechnica.com/space/2026/06/we-managed-to-glean-some-interesting-details-about-the-artemis-iii-mission/",
-          "date": "Wed, 10 Jun 2026 17:31:13 +0000"
         }
       ],
       "error": null
@@ -337,14 +337,14 @@
           "date": "2026-06-11T04:15:16+00:00"
         },
         {
-          "title": "GitLab says Git is being reengineered for \"machine scale.\" Was the idea of \"Git for AI agents\" ahead of its time?",
-          "link": "https://www.reddit.com/r/artificial/comments/1u20ht8/gitlab_says_git_is_being_reengineered_for_machine/",
-          "date": "2026-06-10T12:15:38+00:00"
+          "title": "Microsoft continues global rollout of Copilot's smiley AI companion Mico, now available in 40 countries",
+          "link": "https://www.reddit.com/r/artificial/comments/1u2uzmm/microsoft_continues_global_rollout_of_copilots/",
+          "date": "2026-06-11T10:14:14+00:00"
         },
         {
-          "title": "What AI task looked easy at first but still needs way more human cleanup than you expected?",
-          "link": "https://www.reddit.com/r/artificial/comments/1u2ljtw/what_ai_task_looked_easy_at_first_but_still_needs/",
-          "date": "2026-06-11T01:48:18+00:00"
+          "title": "When someone shares a productivity system",
+          "link": "https://www.reddit.com/r/artificial/comments/1u2wm54/when_someone_shares_a_productivity_system/",
+          "date": "2026-06-11T11:39:30+00:00"
         }
       ],
       "error": null
@@ -353,6 +353,16 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "How Pennsylvania towns are protecting themselves from the noise, heat and utility costs of massive data centers",
+          "link": "https://theconversation.com/how-pennsylvania-towns-are-protecting-themselves-from-the-noise-heat-and-utility-costs-of-massive-data-centers-282126",
+          "date": "2026-06-11T12:25:48Z"
+        },
+        {
+          "title": "Drone use poised to soar as FAA homes in on rule change allowing pilots to fly them out of sight",
+          "link": "https://theconversation.com/drone-use-poised-to-soar-as-faa-homes-in-on-rule-change-allowing-pilots-to-fly-them-out-of-sight-268350",
+          "date": "2026-06-11T12:23:42Z"
+        },
         {
           "title": "Canada\u2019s \u2018AI for All\u2019 strategy has ambitious growth targets, but it falls short on workers and the environment",
           "link": "https://theconversation.com/canadas-ai-for-all-strategy-has-ambitious-growth-targets-but-it-falls-short-on-workers-and-the-environment-284648",
@@ -367,16 +377,6 @@
           "title": "As SpaceX, OpenAI and Anthropic plan blockbuster launches, will it make AI giants more accountable?",
           "link": "https://theconversation.com/as-spacex-openai-and-anthropic-plan-blockbuster-launches-will-it-make-ai-giants-more-accountable-284665",
           "date": "2026-06-09T20:08:39Z"
-        },
-        {
-          "title": "Ocean monitoring is in trouble: without the US, it\u2019s up to Europe and Asia to avoid losing sight of the world\u2019s deep-sea ecosystems",
-          "link": "https://theconversation.com/ocean-monitoring-is-in-trouble-without-the-us-its-up-to-europe-and-asia-to-avoid-losing-sight-of-the-worlds-deep-sea-ecosystems-283297",
-          "date": "2026-06-09T14:20:54Z"
-        },
-        {
-          "title": "Can AI really spot the next football superstar \u2013 or is it changing the game in troubling ways?",
-          "link": "https://theconversation.com/can-ai-really-spot-the-next-football-superstar-or-is-it-changing-the-game-in-troubling-ways-280378",
-          "date": "2026-06-09T13:49:22Z"
         }
       ],
       "error": null
@@ -385,6 +385,16 @@
       "name": "Artificial intelligence (AI) | The Guardian",
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
+        {
+          "title": "AI absolutism is breaking our brains. The apocalyptic future we\u2019re being sold isn\u2019t inevitable",
+          "link": "https://www.theguardian.com/technology/2026/jun/11/ai-absolutism-apocalyptic-future",
+          "date": "Thu, 11 Jun 2026 10:30:19 GMT"
+        },
+        {
+          "title": "Those tedious errands, tasks and chores that AI wants to replace? They help keep you fit | Manoush Zomorodi and Keith Diaz",
+          "link": "https://www.theguardian.com/commentisfree/2026/jun/11/ai-tasks-errands-health",
+          "date": "Thu, 11 Jun 2026 10:00:19 GMT"
+        },
         {
           "title": "Labor to set terms for datacentre and AI growth as it vows not to repeat mistakes of resources boom",
           "link": "https://www.theguardian.com/australia-news/2026/jun/11/datacentre-ai-growth-economy-resources-australia-labor-government",
@@ -399,16 +409,6 @@
           "title": "Do we really need gigantic, noisy, water-guzzling datacentres ruining our communities? In this economy? | First Dog on the Moon",
           "link": "https://www.theguardian.com/commentisfree/picture/2026/jun/10/do-we-really-need-gigantic-noisy-water-guzzling-datacentres-ruining-our-communities-in-this-economy",
           "date": "Wed, 10 Jun 2026 06:31:59 GMT"
-        },
-        {
-          "title": "Chinese activist in UK told by X that abusive deepfakes do not breach rules",
-          "link": "https://www.theguardian.com/technology/2026/jun/10/chinese-activist-uk-apple-peiqing-ni-x-deepfakes",
-          "date": "Wed, 10 Jun 2026 06:00:12 GMT"
-        },
-        {
-          "title": "How do you want to live? Both James Valentine and the pope have offered a challenge to humanity at a crossroads | Peter Lewis",
-          "link": "https://www.theguardian.com/commentisfree/2026/jun/10/james-valentine-pope-ai-magnifica-humanitas-challenge-humanity-at-crossroads",
-          "date": "Wed, 10 Jun 2026 01:54:08 GMT"
         }
       ],
       "error": null
@@ -417,6 +417,11 @@
       "name": "artificial intelligence Archives - SpaceNews",
       "url": "https://spacenews.com/tag/artificial-intelligence/feed/",
       "items": [
+        {
+          "title": "Missile defense in the age of saturation warfare",
+          "link": "https://spacenews.com/missile-defense-in-the-age-of-saturation-warfare/",
+          "date": "Thu, 11 Jun 2026 11:00:00 +0000"
+        },
         {
           "title": "Speed tops price in national security contracting decisions",
           "link": "https://spacenews.com/speed-tops-price-in-national-security-contracting-decisions/",
@@ -436,11 +441,6 @@
           "title": "NATO governance policies need updating",
           "link": "https://spacenews.com/nato-governance-policies-need-updating/",
           "date": "Mon, 04 May 2026 23:30:49 +0000"
-        },
-        {
-          "title": "Tech firms partner up to push intelligence processing closer to the battlefield",
-          "link": "https://spacenews.com/tech-firms-partner-up-to-push-intelligence-processing-closer-to-the-battlefield/",
-          "date": "Mon, 04 May 2026 18:00:00 +0000"
         }
       ],
       "error": null
