@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T22:00:10.029805+00:00",
+  "generatedAt": "2026-06-11T23:45:32.841450+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -328,6 +328,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "SpaceX raised $75B in record IPO \u2013 here\u2019s why insiders like Elon Musk are much likelier than public stock buyers to get rocket-powered returns these days",
+          "link": "https://theconversation.com/spacex-raised-75b-in-record-ipo-heres-why-insiders-like-elon-musk-are-much-likelier-than-public-stock-buyers-to-get-rocket-powered-returns-these-days-285134",
+          "date": "2026-06-11T22:36:36Z"
+        },
+        {
           "title": "Friday essay: despite the AI hype, some experts warn of a bubble \u2013 what happens if it pops?",
           "link": "https://theconversation.com/friday-essay-despite-the-ai-hype-some-experts-warn-of-a-bubble-what-happens-if-it-pops-283903",
           "date": "2026-06-11T20:11:13Z"
@@ -346,11 +351,6 @@
           "title": "Drone use poised to soar as FAA homes in on rule change allowing pilots to fly them out of sight",
           "link": "https://theconversation.com/drone-use-poised-to-soar-as-faa-homes-in-on-rule-change-allowing-pilots-to-fly-them-out-of-sight-268350",
           "date": "2026-06-11T12:23:42Z"
-        },
-        {
-          "title": "Canada\u2019s \u2018AI for All\u2019 strategy has ambitious growth targets, but it falls short on workers and the environment",
-          "link": "https://theconversation.com/canadas-ai-for-all-strategy-has-ambitious-growth-targets-but-it-falls-short-on-workers-and-the-environment-284648",
-          "date": "2026-06-10T15:45:49Z"
         }
       ],
       "error": null
@@ -456,7 +456,12 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
-          "title": "Meet the OpenAI Engineer Leading ChatGPT's Biggest Transformation Yet",
+          "title": "Why You Might Already Own SpaceX Shares, Siri\u2019s AI Makeover, and Knicks Owner\u2019s Surveillance Machine",
+          "link": "https://www.wired.com/story/uncanny-valley-podcast-why-you-might-already-own-spacex-shares-siri-ai-makeover-knicks-owner-surveillance-machine/",
+          "date": "Thu, 11 Jun 2026 23:37:49 +0000"
+        },
+        {
+          "title": "Meet the OpenAI Engineer Leading ChatGPT\u2019s Biggest Transformation Yet",
           "link": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/",
           "date": "Thu, 11 Jun 2026 21:21:04 +0000"
         },
@@ -474,11 +479,6 @@
           "title": "Wrongful Arrest Exposes Failures in One of the Oldest Police Face-Recognition Tools in the US",
           "link": "https://www.wired.com/story/wrongful-arrest-tests-one-of-the-oldest-police-face-recognition-tools-in-the-us/",
           "date": "Wed, 10 Jun 2026 14:00:00 +0000"
-        },
-        {
-          "title": "China Opens World\u2019s First Wind-Powered Underwater Data Center",
-          "link": "https://www.wired.com/story/china-opens-worlds-first-wind-powered-underwater-data-center/",
-          "date": "Wed, 10 Jun 2026 13:39:32 +0000"
         }
       ],
       "error": null
