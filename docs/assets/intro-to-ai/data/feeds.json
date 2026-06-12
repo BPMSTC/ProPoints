@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T19:02:43.971643+00:00",
+  "generatedAt": "2026-06-12T21:41:20.099634+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,29 +290,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
+          "link": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
+          "date": "Fri, 12 Jun 2026 19:26:47 +0000"
+        },
+        {
+          "title": "Controversial FISA spying law expires tonight. The spying will continue.",
+          "link": "https://arstechnica.com/tech-policy/2026/06/controversial-fisa-spying-law-expires-tonight-the-spying-will-continue/",
+          "date": "Fri, 12 Jun 2026 18:57:51 +0000"
+        },
+        {
+          "title": "Here's what Jeff Bezos' new startup Prometheus will do",
+          "link": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
+          "date": "Fri, 12 Jun 2026 18:45:40 +0000"
+        },
+        {
+          "title": "Have politics finally come for the National Academies of Science?",
+          "link": "https://arstechnica.com/science/2026/06/have-politics-finally-come-for-the-national-academies-of-science/",
+          "date": "Fri, 12 Jun 2026 18:31:36 +0000"
+        },
+        {
           "title": "Ukraine's one-time test used fully autonomous drones to kill Russian soldiers",
           "link": "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/",
           "date": "Fri, 12 Jun 2026 18:03:29 +0000"
-        },
-        {
-          "title": "$130 billion in data center projects blocked by protests so far this year",
-          "link": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
-          "date": "Fri, 12 Jun 2026 17:18:49 +0000"
-        },
-        {
-          "title": "When it comes to total water use, AI data centers are a drop in the bucket",
-          "link": "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/",
-          "date": "Fri, 12 Jun 2026 16:51:38 +0000"
-        },
-        {
-          "title": "Google sues Chinese cybercrime network that used Gemini to automate scams",
-          "link": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
-          "date": "Fri, 12 Jun 2026 16:34:36 +0000"
-        },
-        {
-          "title": "RFK Jr. melts down over NYT report, admits he blacklists reporters",
-          "link": "https://arstechnica.com/health/2026/06/rfk-jr-melts-down-over-nyt-report-admits-he-blacklists-reporters/",
-          "date": "Fri, 12 Jun 2026 16:19:44 +0000"
         }
       ],
       "error": null
@@ -360,14 +360,19 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Share your views on SpaceX\u2019s stock market debut",
-          "link": "https://www.theguardian.com/science/2026/jun/12/spacex-stock-market-debut",
-          "date": "Fri, 12 Jun 2026 18:12:27 GMT"
+          "title": "Derbyshire police officer investigated over AI-generated \u2018evidential material\u2019",
+          "link": "https://www.theguardian.com/technology/2026/jun/12/police-officer-under-criminal-investigation-over-alleged-use-of-ai",
+          "date": "Fri, 12 Jun 2026 20:12:51 GMT"
         },
         {
           "title": "SpaceX to list on US stock market at historic $1.77tn valuation",
           "link": "https://www.theguardian.com/science/2026/jun/12/spacex-stock-price-ipo-spcx",
-          "date": "Fri, 12 Jun 2026 16:35:19 GMT"
+          "date": "Fri, 12 Jun 2026 20:36:41 GMT"
+        },
+        {
+          "title": "Share your views on SpaceX\u2019s stock market debut",
+          "link": "https://www.theguardian.com/science/2026/jun/12/spacex-stock-market-debut",
+          "date": "Fri, 12 Jun 2026 18:12:27 GMT"
         },
         {
           "title": "Behind the scenes at OpenAI HQ: the Stephen Collins cartoon",
@@ -378,11 +383,6 @@
           "title": "After SpaceX\u2019s huge IPO, Americans\u2019 financial future will be bound to AI",
           "link": "https://www.theguardian.com/business/2026/jun/12/ai-ipos-stock-market",
           "date": "Fri, 12 Jun 2026 09:00:41 GMT"
-        },
-        {
-          "title": "Pok\u00e9mon Go data trained AI that could assist military drones in war zones",
-          "link": "https://www.theguardian.com/technology/2026/jun/12/pokemon-go-data-trained-ai-that-could-assist-military-drones-in-war-zones",
-          "date": "Fri, 12 Jun 2026 07:06:00 GMT"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Prime Minister of the UK Vows to Unleash AI Tutors on 450,000 Poor Children",
+          "link": "https://futurism.com/future-society/uk-prime-minster-ai-tutors-poor-children",
+          "date": "Fri, 12 Jun 2026 15:10:31 -0400"
+        },
+        {
           "title": "AI Bro Convinced He Can Vibe Code GTA 6 Before the Real One Comes Out",
           "link": "https://futurism.com/artificial-intelligence/ai-bro-vibe-code-gta-6",
           "date": "Fri, 12 Jun 2026 13:09:23 -0400"
@@ -442,11 +447,6 @@
           "title": "Anthropic Was So Concerned About Its New Mythos-Based Model\u2019s Power That It Lobotomized Its Ability to Improve Itself",
           "link": "https://futurism.com/artificial-intelligence/anthropic-concerned-models-ability-improve-itself",
           "date": "Thu, 11 Jun 2026 12:17:54 -0400"
-        },
-        {
-          "title": "OpenAI Execs Are Panicking",
-          "link": "https://futurism.com/artificial-intelligence/openai-execs-panicking-price-anthropic",
-          "date": "Thu, 11 Jun 2026 11:46:58 -0400"
         }
       ],
       "error": null
@@ -456,7 +456,12 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
-          "title": "China Didn't Make People Hate Data Centers",
+          "title": "\u2018Tell Him He\u2019s a Piece of Shit\u2019: Meta\u2019s New AI Unit Is a Total Mess",
+          "link": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
+          "date": "Fri, 12 Jun 2026 21:16:25 +0000"
+        },
+        {
+          "title": "China Didn\u2019t Make Americans Hate Data Centers",
           "link": "https://www.wired.com/story/china-us-data-center-opposition/",
           "date": "Fri, 12 Jun 2026 17:17:10 +0000"
         },
@@ -474,11 +479,6 @@
           "title": "Why You Might Already Own SpaceX Shares, Siri\u2019s AI Makeover, and Knicks Owner\u2019s Surveillance Machine",
           "link": "https://www.wired.com/story/uncanny-valley-podcast-why-you-might-already-own-spacex-shares-siri-ai-makeover-knicks-owner-surveillance-machine/",
           "date": "Thu, 11 Jun 2026 23:37:49 +0000"
-        },
-        {
-          "title": "Meet the OpenAI Engineer Leading ChatGPT\u2019s Biggest Transformation Yet",
-          "link": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/",
-          "date": "Thu, 11 Jun 2026 21:21:04 +0000"
         }
       ],
       "error": null
