@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-06-12T12:16:39.453317+00:00",
+  "generatedAt": "2026-06-12T16:15:37.941702+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "\u2018You Will Not Speak on Flock Tonight\u2019: County Commissioner Refuses to Let Residents Opposing Flock Speak at Meeting",
+          "link": "https://www.404media.co/you-will-not-speak-on-flock-tonight-county-commissioner-refuses-to-let-residents-opposing-flock-speak-at-meeting/",
+          "date": "Fri, 12 Jun 2026 16:10:05 GMT"
+        },
+        {
+          "title": "Behind the Blog: World Cup Madness and Film Reviews",
+          "link": "https://www.404media.co/behind-the-blog-world-cup-madness-and-film-reviews/",
+          "date": "Fri, 12 Jun 2026 15:01:10 GMT"
+        },
         {
           "title": "Software Update Automatically Turns off Amazon Delivery Drivers\u2019 AC During Dangerous Summer Heat",
           "link": "https://www.404media.co/software-update-automatically-turns-off-amazon-delivery-drivers-ac-during-dangerous-summer-heat/",
@@ -19,16 +29,6 @@
           "title": "Flock Leaked Cops\u2019 License Plate Searches via DuckDuckGo, Bing",
           "link": "https://www.404media.co/flock-leaked-cops-license-plate-searches-via-duckduckgo-bing/",
           "date": "Thu, 11 Jun 2026 15:21:26 GMT"
-        },
-        {
-          "title": "Chatbots Keep Telling Stories About Lighthouse Keeper 'Elias Thorne'. We Might Know Why",
-          "link": "https://www.404media.co/elias-thorne-chatbots-llms-chatgpt-lighthouse-keeper-story/",
-          "date": "Thu, 11 Jun 2026 13:00:10 GMT"
-        },
-        {
-          "title": "Scientists Just Accidentally Discovered a Strange, Hidden Rule of Human Nature",
-          "link": "https://www.404media.co/scientists-just-accidentally-discovered-a-strange-hidden-rule-of-human-nature/",
-          "date": "Wed, 10 Jun 2026 13:39:58 GMT"
         }
       ],
       "error": null
@@ -114,6 +114,16 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Prompt: AI IPOs Raise a Question Enterprises Are Still Trying to Answer",
+          "link": "https://aibusiness.com/generative-ai/prompt-ai-ipos-raise-question-enterprises-still-trying-to-answer",
+          "date": "Fri, 12 Jun 2026 15:49:44 GMT"
+        },
+        {
+          "title": "Massive SpaceX IPO Kicks off New AI Financing Era",
+          "link": "https://aibusiness.com/companies/spacex-ipo-new-ai-financing-era",
+          "date": "Fri, 12 Jun 2026 14:32:11 GMT"
+        },
+        {
           "title": "AI's Hidden Energy Bill: Why Visibility is Becoming Critical for Enterprises",
           "link": "https://aibusiness.com/generative-ai/ai-s-hidden-energy-bill-why-visibility-becoming-critical-enterprises",
           "date": "Thu, 11 Jun 2026 14:31:32 GMT"
@@ -127,16 +137,6 @@
           "title": "Startup Gets OpenAI Backing to Overhaul Enterprise AI Automation",
           "link": "https://aibusiness.com/generative-ai/startup-openai-backing-overhaul-enterprise-ai-automation",
           "date": "Thu, 11 Jun 2026 13:28:02 GMT"
-        },
-        {
-          "title": "Meta Partners With Reliance for First India AI Data Center",
-          "link": "https://aibusiness.com/generative-ai/meta-partners-with-reliance-first-india-ai-data-center",
-          "date": "Wed, 10 Jun 2026 14:47:50 GMT"
-        },
-        {
-          "title": "The Price Enterprises Will Pay for Anthropic Claude Fable 5",
-          "link": "https://aibusiness.com/generative-ai/the-price-enterprises-will-pay-anthropic-claude-fable-5",
-          "date": "Tue, 09 Jun 2026 22:41:38 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Lawsuit: ChatGPT validated suicidal woman's distrust of crisis lines",
+          "link": "https://arstechnica.com/tech-policy/2026/06/lawsuit-chatgpt-validated-suicidal-womans-distrust-of-crisis-lines/",
+          "date": "Fri, 12 Jun 2026 15:03:52 +0000"
+        },
+        {
+          "title": "Cameras, sensors, and 3D body scans: All the tech helping eliminate blown calls",
+          "link": "https://arstechnica.com/gadgets/2026/06/cameras-sensors-and-3d-body-scans-all-the-tech-helping-eliminate-blown-calls/",
+          "date": "Fri, 12 Jun 2026 11:45:18 +0000"
+        },
+        {
           "title": "Ebola cases in DRC rise to 676 as Kenya protests erupt over US plans",
           "link": "https://arstechnica.com/health/2026/06/ebola-cases-in-drc-rise-to-676-as-kenya-protests-erupt-over-us-plans/",
           "date": "Fri, 12 Jun 2026 11:30:23 +0000"
@@ -303,16 +313,6 @@
           "title": "Verizon sent man a refurbished phone with MDM, then deleted his data remotely",
           "link": "https://arstechnica.com/tech-policy/2026/06/verizon-sent-man-a-refurbished-phone-with-mdm-then-deleted-his-data-remotely/",
           "date": "Fri, 12 Jun 2026 11:00:41 +0000"
-        },
-        {
-          "title": "Rocket Report: Nova moving through test campaign; SpaceX IPO launches Friday",
-          "link": "https://arstechnica.com/space/2026/06/rocket-report-nova-moving-through-test-campaign-spacex-ipo-launches-friday/",
-          "date": "Fri, 12 Jun 2026 11:00:13 +0000"
-        },
-        {
-          "title": "Ted Cruz and Ron Wyden try to fight censorship with bipartisan JAWBONE Act",
-          "link": "https://arstechnica.com/tech-policy/2026/06/ted-cruz-and-ron-wyden-try-to-fight-censorship-with-bipartisan-jawbone-act/",
-          "date": "Thu, 11 Jun 2026 19:31:37 +0000"
         }
       ],
       "error": null
@@ -327,6 +327,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "As AI plays a bigger role in relationships, true intimacy is getting lost",
+          "link": "https://theconversation.com/as-ai-plays-a-bigger-role-in-relationships-true-intimacy-is-getting-lost-284118",
+          "date": "2026-06-12T15:15:25Z"
+        },
         {
           "title": "SpaceX raised $75B in record IPO \u2013 here\u2019s why insiders like Elon Musk are much likelier than public stock buyers to get rocket-powered returns these days",
           "link": "https://theconversation.com/spacex-raised-75b-in-record-ipo-heres-why-insiders-like-elon-musk-are-much-likelier-than-public-stock-buyers-to-get-rocket-powered-returns-these-days-285134",
@@ -346,11 +351,6 @@
           "title": "How Pennsylvania towns are protecting themselves from the noise, heat and utility costs of massive data centers",
           "link": "https://theconversation.com/how-pennsylvania-towns-are-protecting-themselves-from-the-noise-heat-and-utility-costs-of-massive-data-centers-282126",
           "date": "2026-06-11T12:25:48Z"
-        },
-        {
-          "title": "Drone use poised to soar as FAA homes in on rule change allowing pilots to fly them out of sight",
-          "link": "https://theconversation.com/drone-use-poised-to-soar-as-faa-homes-in-on-rule-change-allowing-pilots-to-fly-them-out-of-sight-268350",
-          "date": "2026-06-11T12:23:42Z"
         }
       ],
       "error": null
@@ -360,9 +360,9 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Scientists are working on headphones that block annoying noises and allow the ones you love? I can\u2019t wait! | Emma Beddington",
-          "link": "https://www.theguardian.com/commentisfree/2026/jun/12/scientists-headphones-block-annoying-noises",
-          "date": "Fri, 12 Jun 2026 12:08:38 GMT"
+          "title": "SpaceX to list on US stock market at historic $1.77tn valuation",
+          "link": "https://www.theguardian.com/science/2026/jun/12/spacex-stock-price-ipo-spcx",
+          "date": "Fri, 12 Jun 2026 16:03:19 GMT"
         },
         {
           "title": "Behind the scenes at OpenAI HQ: the Stephen Collins cartoon",
@@ -375,14 +375,14 @@
           "date": "Fri, 12 Jun 2026 09:00:41 GMT"
         },
         {
-          "title": "SpaceX to list on US stock market at historic $1.77tn valuation",
-          "link": "https://www.theguardian.com/science/2026/jun/12/spacex-stock-price-ipo-spcx",
-          "date": "Fri, 12 Jun 2026 09:00:40 GMT"
-        },
-        {
           "title": "Pok\u00e9mon Go data trained AI that could assist military drones in war zones",
           "link": "https://www.theguardian.com/technology/2026/jun/12/pokemon-go-data-trained-ai-that-could-assist-military-drones-in-war-zones",
           "date": "Fri, 12 Jun 2026 07:06:00 GMT"
+        },
+        {
+          "title": "As One Nation seeks donations to \u2018fire the liar\u2019, News Corp gives it front-page billing | Weekly Beast",
+          "link": "https://www.theguardian.com/media/commentisfree/2026/jun/12/one-nation-fire-the-liar-donations-fundraising-news-corp-ntwnfb",
+          "date": "Fri, 12 Jun 2026 03:57:03 GMT"
         }
       ],
       "error": null
@@ -391,6 +391,11 @@
       "name": "artificial intelligence Archives - SpaceNews",
       "url": "https://spacenews.com/tag/artificial-intelligence/feed/",
       "items": [
+        {
+          "title": "All in on AI at Astra",
+          "link": "https://spacenews.com/all-in-on-ai-at-astra/",
+          "date": "Fri, 12 Jun 2026 13:00:00 +0000"
+        },
         {
           "title": "In aerospace, AI isn\u2019t replacing workers. It\u2019s filling a shortage",
           "link": "https://spacenews.com/in-aerospace-ai-isnt-replacing-workers-its-filling-a-shortage/",
@@ -410,11 +415,6 @@
           "title": "As satellite imagery evolves, its role in operations comes into view",
           "link": "https://spacenews.com/as-satellite-imagery-evolves-its-role-in-operations-comes-into-view/",
           "date": "Thu, 07 May 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Riding the orbital data center wave",
-          "link": "https://spacenews.com/riding-the-orbital-data-center-wave/",
-          "date": "Wed, 06 May 2026 15:00:00 +0000"
         }
       ],
       "error": null
@@ -488,6 +488,11 @@
       "url": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "items": [
         {
+          "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
+          "date": "Fri, 12 Jun 2026 06:38:54 EDT"
+        },
+        {
           "title": "A classic brain test exposed AI's biggest weakness",
           "link": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
           "date": "Wed, 10 Jun 2026 06:52:17 EDT"
@@ -506,11 +511,6 @@
           "title": "NASA\u2019s new AI space chip could let spacecraft think for themselves",
           "link": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
           "date": "Fri, 15 May 2026 04:13:15 EDT"
-        },
-        {
-          "title": "New quantum algorithm solves \u201cimpossible\u201d materials problem in seconds",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
-          "date": "Wed, 13 May 2026 03:33:27 EDT"
         }
       ],
       "error": null
