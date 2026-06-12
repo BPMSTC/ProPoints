@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T08:23:05.793437+00:00",
+  "generatedAt": "2026-06-12T12:16:39.453317+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -70,12 +70,12 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
-          "title": "The benchmark gap, explained:  What AI leaderboards measure and what they miss",
+          "title": "The benchmark gap, explained:   What AI leaderboards measure and what they miss",
           "link": "https://www.aiacceleratorinstitute.com/the-benchmark-gap-explained-what-ai-leaderboards-measure-and-what-they-miss/",
           "date": "Thu, 11 Jun 2026 11:48:08 GMT"
         },
         {
-          "title": "6 things every AI leader needs to get right in H2 2026",
+          "title": "6 things every AI leader needs  to get right in H2 2026",
           "link": "https://www.aiacceleratorinstitute.com/6-things-every-ai-leader-needs-to-get-right-in-h2-2026/",
           "date": "Tue, 09 Jun 2026 11:44:12 GMT"
         },
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,29 +290,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Ebola cases in DRC rise to 676 as Kenya protests erupt over US plans",
+          "link": "https://arstechnica.com/health/2026/06/ebola-cases-in-drc-rise-to-676-as-kenya-protests-erupt-over-us-plans/",
+          "date": "Fri, 12 Jun 2026 11:30:23 +0000"
+        },
+        {
+          "title": "Pok\u00e9mon Go players unwittingly contributed to tech with military drone uses",
+          "link": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/",
+          "date": "Fri, 12 Jun 2026 11:15:41 +0000"
+        },
+        {
+          "title": "Verizon sent man a refurbished phone with MDM, then deleted his data remotely",
+          "link": "https://arstechnica.com/tech-policy/2026/06/verizon-sent-man-a-refurbished-phone-with-mdm-then-deleted-his-data-remotely/",
+          "date": "Fri, 12 Jun 2026 11:00:41 +0000"
+        },
+        {
+          "title": "Rocket Report: Nova moving through test campaign; SpaceX IPO launches Friday",
+          "link": "https://arstechnica.com/space/2026/06/rocket-report-nova-moving-through-test-campaign-spacex-ipo-launches-friday/",
+          "date": "Fri, 12 Jun 2026 11:00:13 +0000"
+        },
+        {
           "title": "Ted Cruz and Ron Wyden try to fight censorship with bipartisan JAWBONE Act",
           "link": "https://arstechnica.com/tech-policy/2026/06/ted-cruz-and-ron-wyden-try-to-fight-censorship-with-bipartisan-jawbone-act/",
           "date": "Thu, 11 Jun 2026 19:31:37 +0000"
-        },
-        {
-          "title": "AcuRite admits new app falls short, delays old app\u2019s May shutdown to fix problems",
-          "link": "https://arstechnica.com/gadgets/2026/06/iot-gadget-firm-acurite-delays-forced-app-migration-due-to-new-apps-shortfalls/",
-          "date": "Thu, 11 Jun 2026 19:08:54 +0000"
-        },
-        {
-          "title": "After nearly breaking, NASA's Deep Space Network \"worked well\" on Artemis II",
-          "link": "https://arstechnica.com/space/2026/06/after-nearly-breaking-nasas-deep-space-network-worked-well-on-artemis-ii/",
-          "date": "Thu, 11 Jun 2026 18:34:01 +0000"
-        },
-        {
-          "title": "F1 teams spend millions on their simulators\u2014what makes them different?",
-          "link": "https://arstechnica.com/cars/2026/06/whats-so-special-about-a-formula-1-driver-in-the-loop-simulator/",
-          "date": "Thu, 11 Jun 2026 18:18:12 +0000"
-        },
-        {
-          "title": "Did Iron Age Britons remove brains of the dead?",
-          "link": "https://arstechnica.com/science/2026/06/did-iron-age-britons-remove-brains-of-the-dead/",
-          "date": "Thu, 11 Jun 2026 17:21:53 +0000"
         }
       ],
       "error": null
@@ -320,33 +320,7 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "Google's Genie 3 turns a text prompt into a playable open world you can explore. It's rough now. Future of games, or a tech demo?",
-          "link": "https://www.reddit.com/r/artificial/comments/1u3jlw6/googles_genie_3_turns_a_text_prompt_into_a/",
-          "date": "2026-06-12T03:07:41+00:00"
-        },
-        {
-          "title": "Claude Fable made me realize I don't need a better model",
-          "link": "https://www.reddit.com/r/artificial/comments/1u3acx4/claude_fable_made_me_realize_i_dont_need_a_better/",
-          "date": "2026-06-11T20:23:35+00:00"
-        },
-        {
-          "title": "This 2000s photo is 100% AI-generated. Be honest: how many details did you check before scrolling?",
-          "link": "https://www.reddit.com/r/artificial/comments/1u3lmrn/this_2000s_photo_is_100_aigenerated_be_honest_how/",
-          "date": "2026-06-12T04:52:30+00:00"
-        },
-        {
-          "title": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster | Diffusion AI is most common in image generation, but it can make text outputs much faster.",
-          "link": "https://www.reddit.com/r/artificial/comments/1u373y6/google_deepmind_releases_diffusiongemma_a_model/",
-          "date": "2026-06-11T18:24:40+00:00"
-        },
-        {
-          "title": "I think long context agents are failing in a very boring way",
-          "link": "https://www.reddit.com/r/artificial/comments/1u3kemd/i_think_long_context_agents_are_failing_in_a_very/",
-          "date": "2026-06-12T03:48:50+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
@@ -386,29 +360,29 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Scientists are working on headphones that block annoying noises and allow the ones you love? I can\u2019t wait! | Emma Beddington",
+          "link": "https://www.theguardian.com/commentisfree/2026/jun/12/scientists-headphones-block-annoying-noises",
+          "date": "Fri, 12 Jun 2026 12:08:38 GMT"
+        },
+        {
+          "title": "Behind the scenes at OpenAI HQ: the Stephen Collins cartoon",
+          "link": "https://www.theguardian.com/lifeandstyle/picture/2026/jun/12/behind-the-scenes-at-openai-hq-the-stephen-collins-cartoon",
+          "date": "Fri, 12 Jun 2026 09:30:40 GMT"
+        },
+        {
+          "title": "After SpaceX\u2019s huge IPO, Americans\u2019 financial future will be bound to AI",
+          "link": "https://www.theguardian.com/business/2026/jun/12/ai-ipos-stock-market",
+          "date": "Fri, 12 Jun 2026 09:00:41 GMT"
+        },
+        {
+          "title": "SpaceX to list on US stock market at historic $1.77tn valuation",
+          "link": "https://www.theguardian.com/science/2026/jun/12/spacex-stock-price-ipo-spcx",
+          "date": "Fri, 12 Jun 2026 09:00:40 GMT"
+        },
+        {
           "title": "Pok\u00e9mon Go data trained AI that could assist military drones in war zones",
           "link": "https://www.theguardian.com/technology/2026/jun/12/pokemon-go-data-trained-ai-that-could-assist-military-drones-in-war-zones",
           "date": "Fri, 12 Jun 2026 07:06:00 GMT"
-        },
-        {
-          "title": "As One Nation seeks donations to \u2018fire the liar\u2019, News Corp gives it front-page billing | Weekly Beast",
-          "link": "https://www.theguardian.com/media/commentisfree/2026/jun/12/one-nation-fire-the-liar-donations-fundraising-news-corp-ntwnfb",
-          "date": "Fri, 12 Jun 2026 03:57:03 GMT"
-        },
-        {
-          "title": "Canadian mother sues OpenAI, alleging ChatGPT led her daughter to kill herself",
-          "link": "https://www.theguardian.com/technology/2026/jun/11/canada-mother-chatgpt-daughter-suicide-lawsuit",
-          "date": "Thu, 11 Jun 2026 19:14:46 GMT"
-        },
-        {
-          "title": "Musk\u2019s xAI fired engineer for raising concerns about Grok chatbot, lawsuit claims",
-          "link": "https://www.theguardian.com/technology/2026/jun/11/elon-musk-engineer-fired-grok-lawsuit",
-          "date": "Thu, 11 Jun 2026 15:47:10 GMT"
-        },
-        {
-          "title": "AI wealth boom sending San Francisco home prices surging: \u2018It\u2019s ridiculous\u2019",
-          "link": "https://www.theguardian.com/us-news/2026/jun/11/ai-wealth-boom-san-francisco-home-prices",
-          "date": "Thu, 11 Jun 2026 14:00:17 GMT"
         }
       ],
       "error": null
@@ -417,6 +391,11 @@
       "name": "artificial intelligence Archives - SpaceNews",
       "url": "https://spacenews.com/tag/artificial-intelligence/feed/",
       "items": [
+        {
+          "title": "In aerospace, AI isn\u2019t replacing workers. It\u2019s filling a shortage",
+          "link": "https://spacenews.com/in-aerospace-ai-isnt-replacing-workers-its-filling-a-shortage/",
+          "date": "Fri, 12 Jun 2026 10:00:00 +0000"
+        },
         {
           "title": "Missile defense in the age of saturation warfare",
           "link": "https://spacenews.com/missile-defense-in-the-age-of-saturation-warfare/",
@@ -436,11 +415,6 @@
           "title": "Riding the orbital data center wave",
           "link": "https://spacenews.com/riding-the-orbital-data-center-wave/",
           "date": "Wed, 06 May 2026 15:00:00 +0000"
-        },
-        {
-          "title": "NATO governance policies need updating",
-          "link": "https://spacenews.com/nato-governance-policies-need-updating/",
-          "date": "Mon, 04 May 2026 23:30:49 +0000"
         }
       ],
       "error": null
@@ -482,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "You Probably Won\u2019t Get Rich Off the SpaceX IPO",
+          "link": "https://www.wired.com/story/you-probably-wont-get-rich-off-the-spacex-ipo/",
+          "date": "Fri, 12 Jun 2026 09:30:00 +0000"
+        },
+        {
           "title": "Apple\u2019s Camera Chief Thinks AI Can Give You Superpowers",
           "link": "https://www.wired.com/story/apple-camera-chief-thinks-ai-can-give-you-superpowers/",
           "date": "Fri, 12 Jun 2026 01:00:00 +0000"
@@ -500,11 +479,6 @@
           "title": "Grok Is Still Hosting Sexualized Deepfakes of Famous Women",
           "link": "https://www.wired.com/story/grok-is-still-hosting-sexualized-deepfakes-of-famous-women/",
           "date": "Thu, 11 Jun 2026 19:41:01 +0000"
-        },
-        {
-          "title": "Anthropic Walks Back Policy That Could Have \u2018Sabotaged\u2019 AI Researchers Using Claude",
-          "link": "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/",
-          "date": "Thu, 11 Jun 2026 03:11:22 +0000"
         }
       ],
       "error": null
