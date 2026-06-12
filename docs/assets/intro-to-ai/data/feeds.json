@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T03:39:07.182269+00:00",
+  "generatedAt": "2026-06-12T08:23:05.793437+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -164,6 +164,11 @@
       "url": "https://ainowinstitute.org/category/news/feed",
       "items": [
         {
+          "title": "AI Now Senior Fellow Dr. Katie J. Wells Testifies before the House Subcommittee on Workforce Protections",
+          "link": "https://ainowinstitute.org/news/announcement/wells-house-subcommittee-testimony",
+          "date": "Thu, 11 Jun 2026 09:12:23 +0000"
+        },
+        {
           "title": "Nurses Sound Alarm as \u2018Uber for Nursing\u2019 Apps Push to Deregulate Healthcare",
           "link": "https://ainowinstitute.org/news/press/nurses-sound-alarm-as-uber-for-nursing-apps-push-to-deregulate-healthcare",
           "date": "Thu, 23 Apr 2026 14:09:30 +0000"
@@ -182,11 +187,6 @@
           "title": "The Great AI Grift",
           "link": "https://ainowinstitute.org/news/press/the-great-ai-grift",
           "date": "Fri, 10 Apr 2026 20:34:52 +0000"
-        },
-        {
-          "title": "AI Giants Go on Charm Offensive to Avert Public Backlash",
-          "link": "https://ainowinstitute.org/news/press/ai-giants-go-on-charm-offensive-to-avert-public-backlash",
-          "date": "Tue, 07 Apr 2026 20:04:34 +0000"
         }
       ],
       "error": null
@@ -320,7 +320,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "Google's Genie 3 turns a text prompt into a playable open world you can explore. It's rough now. Future of games, or a tech demo?",
+          "link": "https://www.reddit.com/r/artificial/comments/1u3jlw6/googles_genie_3_turns_a_text_prompt_into_a/",
+          "date": "2026-06-12T03:07:41+00:00"
+        },
+        {
+          "title": "Claude Fable made me realize I don't need a better model",
+          "link": "https://www.reddit.com/r/artificial/comments/1u3acx4/claude_fable_made_me_realize_i_dont_need_a_better/",
+          "date": "2026-06-11T20:23:35+00:00"
+        },
+        {
+          "title": "This 2000s photo is 100% AI-generated. Be honest: how many details did you check before scrolling?",
+          "link": "https://www.reddit.com/r/artificial/comments/1u3lmrn/this_2000s_photo_is_100_aigenerated_be_honest_how/",
+          "date": "2026-06-12T04:52:30+00:00"
+        },
+        {
+          "title": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster | Diffusion AI is most common in image generation, but it can make text outputs much faster.",
+          "link": "https://www.reddit.com/r/artificial/comments/1u373y6/google_deepmind_releases_diffusiongemma_a_model/",
+          "date": "2026-06-11T18:24:40+00:00"
+        },
+        {
+          "title": "I think long context agents are failing in a very boring way",
+          "link": "https://www.reddit.com/r/artificial/comments/1u3kemd/i_think_long_context_agents_are_failing_in_a_very/",
+          "date": "2026-06-12T03:48:50+00:00"
+        }
+      ],
       "error": null
     },
     {
@@ -360,6 +386,16 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Pok\u00e9mon Go data trained AI that could assist military drones in war zones",
+          "link": "https://www.theguardian.com/technology/2026/jun/12/pokemon-go-data-trained-ai-that-could-assist-military-drones-in-war-zones",
+          "date": "Fri, 12 Jun 2026 07:06:00 GMT"
+        },
+        {
+          "title": "As One Nation seeks donations to \u2018fire the liar\u2019, News Corp gives it front-page billing | Weekly Beast",
+          "link": "https://www.theguardian.com/media/commentisfree/2026/jun/12/one-nation-fire-the-liar-donations-fundraising-news-corp-ntwnfb",
+          "date": "Fri, 12 Jun 2026 03:57:03 GMT"
+        },
+        {
           "title": "Canadian mother sues OpenAI, alleging ChatGPT led her daughter to kill herself",
           "link": "https://www.theguardian.com/technology/2026/jun/11/canada-mother-chatgpt-daughter-suicide-lawsuit",
           "date": "Thu, 11 Jun 2026 19:14:46 GMT"
@@ -373,16 +409,6 @@
           "title": "AI wealth boom sending San Francisco home prices surging: \u2018It\u2019s ridiculous\u2019",
           "link": "https://www.theguardian.com/us-news/2026/jun/11/ai-wealth-boom-san-francisco-home-prices",
           "date": "Thu, 11 Jun 2026 14:00:17 GMT"
-        },
-        {
-          "title": "AI absolutism is breaking our brains. The apocalyptic future we\u2019re being sold isn\u2019t inevitable",
-          "link": "https://www.theguardian.com/technology/2026/jun/11/ai-absolutism-apocalyptic-future",
-          "date": "Thu, 11 Jun 2026 10:30:19 GMT"
-        },
-        {
-          "title": "Those tedious errands, tasks and chores that AI wants to replace? They help keep you fit | Manoush Zomorodi and Keith Diaz",
-          "link": "https://www.theguardian.com/commentisfree/2026/jun/11/ai-tasks-errands-health",
-          "date": "Thu, 11 Jun 2026 10:00:19 GMT"
         }
       ],
       "error": null
