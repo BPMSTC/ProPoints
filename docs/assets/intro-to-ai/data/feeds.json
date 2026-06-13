@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-06-13T18:05:21.986041+00:00",
+  "generatedAt": "2026-06-13T20:13:42.204143+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Scientists Discover Vast Ancient \u2018Necropolis\u2019 Teeming With Strange New Creatures",
+          "link": "https://www.404media.co/scientists-discover-vast-ancient-necropolis-teeming-with-strange-new-creatures/",
+          "date": "Sat, 13 Jun 2026 19:10:27 GMT"
+        },
         {
           "title": "\u2018You Will Not Speak on Flock Tonight\u2019: County Commissioner Refuses to Let Residents Opposing Flock Speak at Meeting",
           "link": "https://www.404media.co/you-will-not-speak-on-flock-tonight-county-commissioner-refuses-to-let-residents-opposing-flock-speak-at-meeting/",
@@ -24,11 +29,6 @@
           "title": "Amazon Data Centers In Mississippi Have Already Raised Electricity Rates for Local Customers, Report Suggests",
           "link": "https://www.404media.co/amazon-data-centers-in-mississippi-have-already-raised-electricity-rates-for-local-customers-report-suggests/",
           "date": "Thu, 11 Jun 2026 15:52:17 GMT"
-        },
-        {
-          "title": "Flock Leaked Cops\u2019 License Plate Searches via DuckDuckGo, Bing",
-          "link": "https://www.404media.co/flock-leaked-cops-license-plate-searches-via-duckduckgo-bing/",
-          "date": "Thu, 11 Jun 2026 15:21:26 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Review: Disclosure Day is big on action, light on ideas",
+          "link": "https://arstechnica.com/culture/2026/06/review-disclosure-day-is-big-on-action-light-on-ideas/",
+          "date": "Sat, 13 Jun 2026 17:17:44 +0000"
+        },
+        {
           "title": "Threads of underground fungal networks are long enough to reach beyond the Solar System",
           "link": "https://arstechnica.com/science/2026/06/threads-of-underground-fungal-networks-are-long-enough-to-reach-beyond-the-solar-system/",
           "date": "Sat, 13 Jun 2026 11:18:42 +0000"
@@ -308,11 +313,6 @@
           "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
           "link": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
           "date": "Fri, 12 Jun 2026 19:26:47 +0000"
-        },
-        {
-          "title": "Controversial FISA spying law expires tonight. The spying will continue.",
-          "link": "https://arstechnica.com/tech-policy/2026/06/controversial-fisa-spying-law-expires-tonight-the-spying-will-continue/",
-          "date": "Fri, 12 Jun 2026 18:57:51 +0000"
         }
       ],
       "error": null
