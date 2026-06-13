@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T12:25:37.914172+00:00",
+  "generatedAt": "2026-06-13T14:58:15.848340+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -226,8 +226,34 @@
     {
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
-      "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "items": [
+        {
+          "title": "ChatSee raises $6.5M to build \u2018failure memory\u2019 for enterprise AI agents",
+          "link": "https://siliconangle.com/2026/06/12/chatsee-raises-6-5m-build-failure-memory-enterprise-ai-agents/",
+          "date": "Fri, 12 Jun 2026 15:30:12 +0000"
+        },
+        {
+          "title": "SpaceX\u2019s record IPO, Bezos\u2019 Prometheus rising and Anthropic\u2019s controversial call for AI limits",
+          "link": "https://siliconangle.com/2026/06/12/spacexs-record-ipo-bezos-prometheus-rising-anthropics-controversial-call-ai-limits/",
+          "date": "Fri, 12 Jun 2026 14:00:02 +0000"
+        },
+        {
+          "title": "AI economics reshape FinOps as enterprises seek greater visibility and control",
+          "link": "https://siliconangle.com/2026/06/12/ai-spend-visibility-finopsx/",
+          "date": "Fri, 12 Jun 2026 13:22:06 +0000"
+        },
+        {
+          "title": "OpenAI acquires AI agent orchestration startup Ona",
+          "link": "https://siliconangle.com/2026/06/11/openai-acquires-ai-agent-orchestration-startup-ona/",
+          "date": "Fri, 12 Jun 2026 00:41:43 +0000"
+        },
+        {
+          "title": "Datadog sees tagging and model governance as the foundation of AI cost management",
+          "link": "https://siliconangle.com/2026/06/11/datadogs-finops-analyst-says-ai-cost-management-starts-tagging-model-governance-finopsx/",
+          "date": "Thu, 11 Jun 2026 23:36:27 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Snake Oil",
@@ -294,33 +320,7 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "US Government Kills Fable 5: Here's What Happened",
-          "link": "https://www.reddit.com/r/artificial/comments/1u4gtk8/us_government_kills_fable_5_heres_what_happened/",
-          "date": "2026-06-13T04:06:55+00:00"
-        },
-        {
-          "title": "Anthropic suspends access to Claude Fable and Mythos for all users after US government order",
-          "link": "https://www.reddit.com/r/artificial/comments/1u4ef3y/anthropic_suspends_access_to_claude_fable_and/",
-          "date": "2026-06-13T02:06:43+00:00"
-        },
-        {
-          "title": "ML in 2010 vs ML in 2026",
-          "link": "https://www.reddit.com/r/artificial/comments/1u4jsei/ml_in_2010_vs_ml_in_2026/",
-          "date": "2026-06-13T06:49:30+00:00"
-        },
-        {
-          "title": "World of Claudecraft: The first opensource MMORPG made 100% by AI (Fable 5)",
-          "link": "https://www.reddit.com/r/artificial/comments/1u4h7k1/world_of_claudecraft_the_first_opensource_mmorpg/",
-          "date": "2026-06-13T04:27:35+00:00"
-        },
-        {
-          "title": "US government just forced Anthropic to pull Fable 5 and Mythos 5 for all users",
-          "link": "https://www.reddit.com/r/artificial/comments/1u4jsg1/us_government_just_forced_anthropic_to_pull_fable/",
-          "date": "2026-06-13T06:49:34+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
@@ -360,14 +360,19 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "UK sets out AI infrastructure push at London Tech Week \u2013 how does it stack up?",
-          "link": "https://www.theguardian.com/technology/2026/jun/13/uk-ai-hardware-london-tech-week-investment-chips",
-          "date": "Sat, 13 Jun 2026 11:01:12 GMT"
+          "title": "Anthropic to disable its most advanced AI models after US order limiting foreign access",
+          "link": "https://www.theguardian.com/technology/2026/jun/13/anthropic-disable-advanced-ai-models-us-government-order",
+          "date": "Sat, 13 Jun 2026 12:37:12 GMT"
         },
         {
           "title": "Momfluencers are co-parenting with AI. Is it better than a man? | Arwa Mahdawi",
           "link": "https://www.theguardian.com/commentisfree/2026/jun/13/momfluencers-ai-co-parenting",
           "date": "Sat, 13 Jun 2026 12:00:13 GMT"
+        },
+        {
+          "title": "UK sets out AI infrastructure push at London Tech Week \u2013 how does it stack up?",
+          "link": "https://www.theguardian.com/technology/2026/jun/13/uk-ai-hardware-london-tech-week-investment-chips",
+          "date": "Sat, 13 Jun 2026 11:01:12 GMT"
         },
         {
           "title": "Pioneering UK Nerve Lab harnesses AI to map effect of children\u2019s screen time",
@@ -378,11 +383,6 @@
           "title": "\u2018Why would you put a toxic product into the hands of a young child?\u2019: director turned activist Beeban Kidron on why big tech needs its \u2018tobacco moment\u2019",
           "link": "https://www.theguardian.com/film/2026/jun/13/beeban-kidron-interview-baroness-big-tech-online-child-abuse",
           "date": "Sat, 13 Jun 2026 10:58:12 GMT"
-        },
-        {
-          "title": "Dutch far-right party pays damages to court artist after changing image with AI",
-          "link": "https://www.theguardian.com/world/2026/jun/13/geert-wilders-pvv-dutch-far-right-party-damages-court-artist-change-image-ai",
-          "date": "Sat, 13 Jun 2026 04:00:04 GMT"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Visa Officially Allowing AI Agents to Go Ham With Your Credit Card",
+          "link": "https://futurism.com/artificial-intelligence/visa-allowing-ai-use-credit-card",
+          "date": "Sat, 13 Jun 2026 10:30:00 -0400"
+        },
+        {
           "title": "Doctors Inject Human Subjects With First Vaccine Designed by AI",
           "link": "https://futurism.com/health-medicine/doctors-inject-human-ai-vaccine",
           "date": "Sat, 13 Jun 2026 08:15:00 -0400"
@@ -442,11 +447,6 @@
           "title": "AI Bro Convinced He Can Vibe Code GTA 6 Before the Real One Comes Out",
           "link": "https://futurism.com/artificial-intelligence/ai-bro-vibe-code-gta-6",
           "date": "Fri, 12 Jun 2026 13:09:23 -0400"
-        },
-        {
-          "title": "These Logs of ChatGPT Allegedly Driving a Suicidal Woman to Her Death Are Deeply Disturbing",
-          "link": "https://futurism.com/artificial-intelligence/logs-chatgpt-suicidal-woman-death",
-          "date": "Thu, 11 Jun 2026 14:00:22 -0400"
         }
       ],
       "error": null
