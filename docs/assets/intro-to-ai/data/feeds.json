@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T16:18:15.925542+00:00",
+  "generatedAt": "2026-06-13T18:05:21.986041+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -107,7 +107,7 @@
       "name": "AI Archives | KnowTechie",
       "url": "https://knowtechie.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1016)>"
     },
     {
       "name": "AI Business",
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Meta Employee Laid Off, Immediately Detained by ICE",
+          "link": "https://futurism.com/artificial-intelligence/meta-employee-laid-off-detained-ice",
+          "date": "Sat, 13 Jun 2026 12:45:00 -0400"
+        },
+        {
           "title": "Visa Officially Allowing AI Agents to Go Ham With Your Credit Card",
           "link": "https://futurism.com/artificial-intelligence/visa-allowing-ai-use-credit-card",
           "date": "Sat, 13 Jun 2026 10:30:00 -0400"
@@ -442,11 +447,6 @@
           "title": "Prime Minister of the UK Vows to Unleash AI Tutors on 450,000 Poor Children",
           "link": "https://futurism.com/future-society/uk-prime-minster-ai-tutors-poor-children",
           "date": "Fri, 12 Jun 2026 15:10:31 -0400"
-        },
-        {
-          "title": "AI Bro Convinced He Can Vibe Code GTA 6 Before the Real One Comes Out",
-          "link": "https://futurism.com/artificial-intelligence/ai-bro-vibe-code-gta-6",
-          "date": "Fri, 12 Jun 2026 13:09:23 -0400"
         }
       ],
       "error": null
