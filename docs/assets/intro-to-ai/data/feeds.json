@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T09:29:35.098853+00:00",
+  "generatedAt": "2026-06-14T11:55:08.358687+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -365,6 +365,16 @@
           "date": "Sat, 13 Jun 2026 12:37:12 GMT"
         },
         {
+          "title": "Elon Musk and co may relish march of the robots but there must be AI boundaries in the workplace | Heather Stewart",
+          "link": "https://www.theguardian.com/business/2026/jun/14/ai-technology-workplace-boundaries-elon-musk",
+          "date": "Sun, 14 Jun 2026 11:03:07 GMT"
+        },
+        {
+          "title": "\u2018Have I been influenced, or is this actually me?\u2019 How personal taste fell out of fashion",
+          "link": "https://www.theguardian.com/media/2026/jun/14/have-i-been-influenced-personal-taste-out-of-fashion-algorithm",
+          "date": "Sun, 14 Jun 2026 11:00:42 GMT"
+        },
+        {
           "title": "Momfluencers are co-parenting with AI. Is it better than a man? | Arwa Mahdawi",
           "link": "https://www.theguardian.com/commentisfree/2026/jun/13/momfluencers-ai-co-parenting",
           "date": "Sat, 13 Jun 2026 12:00:13 GMT"
@@ -373,16 +383,6 @@
           "title": "UK sets out AI infrastructure push at London Tech Week \u2013 how does it stack up?",
           "link": "https://www.theguardian.com/technology/2026/jun/13/uk-ai-hardware-london-tech-week-investment-chips",
           "date": "Sat, 13 Jun 2026 11:01:12 GMT"
-        },
-        {
-          "title": "Pioneering UK Nerve Lab harnesses AI to map effect of children\u2019s screen time",
-          "link": "https://www.theguardian.com/society/2026/jun/13/nerve-lab-uk-ai-brain-scanning-tech-childrens-screen-time",
-          "date": "Sat, 13 Jun 2026 11:00:13 GMT"
-        },
-        {
-          "title": "\u2018Why would you put a toxic product into the hands of a young child?\u2019: director turned activist Beeban Kidron on why big tech needs its \u2018tobacco moment\u2019",
-          "link": "https://www.theguardian.com/film/2026/jun/13/beeban-kidron-interview-baroness-big-tech-online-child-abuse",
-          "date": "Sat, 13 Jun 2026 10:58:12 GMT"
         }
       ],
       "error": null
