@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T11:55:08.358687+00:00",
+  "generatedAt": "2026-06-14T13:56:29.007937+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -360,9 +360,9 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Anthropic to disable its most advanced AI models after US order limiting foreign access",
-          "link": "https://www.theguardian.com/technology/2026/jun/13/anthropic-disable-advanced-ai-models-us-government-order",
-          "date": "Sat, 13 Jun 2026 12:37:12 GMT"
+          "title": "Scientists are working on headphones that block annoying noises and allow the ones you love? I can\u2019t wait! | Emma Beddington",
+          "link": "https://www.theguardian.com/commentisfree/2026/jun/12/scientists-headphones-block-annoying-noises",
+          "date": "Sun, 14 Jun 2026 13:04:37 GMT"
         },
         {
           "title": "Elon Musk and co may relish march of the robots but there must be AI boundaries in the workplace | Heather Stewart",
@@ -375,14 +375,14 @@
           "date": "Sun, 14 Jun 2026 11:00:42 GMT"
         },
         {
+          "title": "Anthropic to disable its most advanced AI models after US order limiting foreign access",
+          "link": "https://www.theguardian.com/technology/2026/jun/13/anthropic-disable-advanced-ai-models-us-government-order",
+          "date": "Sat, 13 Jun 2026 12:37:12 GMT"
+        },
+        {
           "title": "Momfluencers are co-parenting with AI. Is it better than a man? | Arwa Mahdawi",
           "link": "https://www.theguardian.com/commentisfree/2026/jun/13/momfluencers-ai-co-parenting",
           "date": "Sat, 13 Jun 2026 12:00:13 GMT"
-        },
-        {
-          "title": "UK sets out AI infrastructure push at London Tech Week \u2013 how does it stack up?",
-          "link": "https://www.theguardian.com/technology/2026/jun/13/uk-ai-hardware-london-tech-week-investment-chips",
-          "date": "Sat, 13 Jun 2026 11:01:12 GMT"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Consulting Firm\u2019s Report on How Awesome AI Is Found to Contain Idiotic AI Hallucinations",
+          "link": "https://futurism.com/artificial-intelligence/consulting-firms-ai-report-hallucinations",
+          "date": "Sun, 14 Jun 2026 09:00:00 -0400"
+        },
+        {
           "title": "Meta Employee Laid Off, Immediately Detained by ICE",
           "link": "https://futurism.com/artificial-intelligence/meta-employee-laid-off-detained-ice",
           "date": "Sat, 13 Jun 2026 12:45:00 -0400"
@@ -442,11 +447,6 @@
           "title": "Andreessen Horowitz Partner Quit Firm, Horrified by What His Old Colleagues Are Doing to Humankind",
           "link": "https://futurism.com/future-society/andreessen-horowitz-partner-quit-ai-ethics",
           "date": "Sat, 13 Jun 2026 06:45:00 -0400"
-        },
-        {
-          "title": "Prime Minister of the UK Vows to Unleash AI Tutors on 450,000 Poor Children",
-          "link": "https://futurism.com/future-society/uk-prime-minster-ai-tutors-poor-children",
-          "date": "Fri, 12 Jun 2026 15:10:31 -0400"
         }
       ],
       "error": null
