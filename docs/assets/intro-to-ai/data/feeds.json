@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T21:08:18.153849+00:00",
+  "generatedAt": "2026-06-14T23:06:11.536137+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Woman\u2019s Death Blamed on Hospital\u2019s AI System",
+          "link": "https://futurism.com/artificial-intelligence/woman-death-hospital-brazil-ai-icu-beds",
+          "date": "Sun, 14 Jun 2026 18:45:00 -0400"
+        },
+        {
           "title": "Consulting Firm\u2019s Report on How Awesome AI Is Found to Contain Idiotic AI Hallucinations",
           "link": "https://futurism.com/artificial-intelligence/consulting-firms-ai-report-hallucinations",
           "date": "Sun, 14 Jun 2026 09:00:00 -0400"
@@ -442,11 +447,6 @@
           "title": "Doctors Inject Human Subjects With First Vaccine Designed by AI",
           "link": "https://futurism.com/health-medicine/doctors-inject-human-ai-vaccine",
           "date": "Sat, 13 Jun 2026 08:15:00 -0400"
-        },
-        {
-          "title": "Andreessen Horowitz Partner Quit Firm, Horrified by What His Old Colleagues Are Doing to Humankind",
-          "link": "https://futurism.com/future-society/andreessen-horowitz-partner-quit-ai-ethics",
-          "date": "Sat, 13 Jun 2026 06:45:00 -0400"
         }
       ],
       "error": null
