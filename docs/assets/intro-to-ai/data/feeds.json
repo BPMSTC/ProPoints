@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T20:22:53.191452+00:00",
+  "generatedAt": "2026-06-15T23:00:33.447975+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Cohere North Mini Code Gives AI Developers More Control",
+          "link": "https://aibusiness.com/agentic-ai/cohere-north-mini-code-gives-ai-developers-control",
+          "date": "Mon, 15 Jun 2026 21:46:21 GMT"
+        },
+        {
           "title": "Schneider Electric, Foxconn Partner to Build Next-Gen Data Centers",
           "link": "https://aibusiness.com/data-centers/schneider-electric-foxconn-partner-build-next-gen-data-centers",
           "date": "Mon, 15 Jun 2026 14:42:07 GMT"
@@ -132,11 +137,6 @@
           "title": "Prompt: AI IPOs Raise a Question Enterprises Are Still Trying to Answer",
           "link": "https://aibusiness.com/generative-ai/prompt-ai-ipos-raise-question-enterprises-still-trying-to-answer",
           "date": "Fri, 12 Jun 2026 15:49:44 GMT"
-        },
-        {
-          "title": "Massive SpaceX IPO Kicks off New AI Financing Era",
-          "link": "https://aibusiness.com/companies/spacex-ipo-new-ai-financing-era",
-          "date": "Fri, 12 Jun 2026 14:32:11 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Heart protection from COVID shots remains amid updates, study finds",
+          "link": "https://arstechnica.com/health/2026/06/covid-vaccines-still-protect-against-heart-problems-large-study-finds/",
+          "date": "Mon, 15 Jun 2026 21:04:26 +0000"
+        },
+        {
           "title": "UK to ban social media for kids under 16, may impose overnight curfews",
           "link": "https://arstechnica.com/tech-policy/2026/06/uk-to-ban-social-media-for-kids-under-16-may-impose-overnight-curfews/",
           "date": "Mon, 15 Jun 2026 20:14:04 +0000"
@@ -308,11 +313,6 @@
           "title": "Fox\u2019s $22B Roku acquisition aims to expand its reach into smart TVs, advertising",
           "link": "https://arstechnica.com/gadgets/2026/06/foxs-22b-roku-acquisition-aims-to-expand-its-reach-into-smart-tvs-advertising/",
           "date": "Mon, 15 Jun 2026 18:29:47 +0000"
-        },
-        {
-          "title": "Users cry foul after AMD stripped memory crypto from its consumer CPUs",
-          "link": "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/",
-          "date": "Mon, 15 Jun 2026 17:55:46 +0000"
         }
       ],
       "error": null
@@ -456,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Meta CTO Andrew Bosworth Admits the Company\u2019s AI Reorg Was \u2018Atrocious\u2019",
+          "link": "https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/",
+          "date": "Mon, 15 Jun 2026 21:33:46 +0000"
+        },
+        {
           "title": "Meta Tapped a Pentagon Supplier to Prototype Face Recognition for Its Glasses",
           "link": "https://www.wired.com/story/meta-rank-one-computing-face-recognition-smart-glasses/",
           "date": "Mon, 15 Jun 2026 09:00:00 +0000"
@@ -474,11 +479,6 @@
           "title": "Meta Employees Absolutely Hate Mark Zuckerberg\u2019s Plan for a Companywide AI Hackathon",
           "link": "https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/",
           "date": "Fri, 12 Jun 2026 23:45:26 +0000"
-        },
-        {
-          "title": "\u2018Tell Him He\u2019s a Piece of Shit\u2019: Meta\u2019s New AI Unit Is a Total Mess",
-          "link": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
-          "date": "Fri, 12 Jun 2026 21:16:25 +0000"
         }
       ],
       "error": null
