@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T03:45:48.892690+00:00",
+  "generatedAt": "2026-06-16T09:23:12.520282+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -360,6 +360,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "AI could help win \u2018race against extinction\u2019 of vital plants, say botanists",
+          "link": "https://www.theguardian.com/environment/2026/jun/16/ai-could-help-win-race-against-extinction-of-vital-plants-say-botanists",
+          "date": "Tue, 16 Jun 2026 06:00:48 GMT"
+        },
+        {
           "title": "AI use by the US government is ballooning. And the lack of transparency is troubling | Nathan E Sanders and Bruce Schneier",
           "link": "https://www.theguardian.com/commentisfree/2026/jun/15/ai-use-by-the-us-government-is-ballooning-and-the-lack-of-transparency-is-troubling",
           "date": "Mon, 15 Jun 2026 12:00:25 GMT"
@@ -378,11 +383,6 @@
           "title": "Europe is starting to break up with US big tech. But it\u2019s still abiding by the Silicon Valley rulebook | Max von Thun",
           "link": "https://www.theguardian.com/commentisfree/2026/jun/15/europe-us-big-tech-silicon-valley-european-commission",
           "date": "Mon, 15 Jun 2026 04:00:03 GMT"
-        },
-        {
-          "title": "Scientists are working on headphones that block annoying noises and allow the ones you love? I can\u2019t wait! | Emma Beddington",
-          "link": "https://www.theguardian.com/commentisfree/2026/jun/12/scientists-headphones-block-annoying-noises",
-          "date": "Sun, 14 Jun 2026 13:04:37 GMT"
         }
       ],
       "error": null
