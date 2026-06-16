@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T15:00:05.876201+00:00",
+  "generatedAt": "2026-06-16T18:56:43.055899+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "EMEA Firms Lack AI Visibility Despite Sovereignty Push, IBM Reports",
+          "link": "https://aibusiness.com/generative-ai/emea-firms-lack-ai-visibility-despite-sovereignty-ibm-reports",
+          "date": "Tue, 16 Jun 2026 14:54:34 GMT"
+        },
+        {
           "title": "ABB Robotics Enters Partnership to Advance Physical AI",
           "link": "https://aibusiness.com/robotics/abb-robotics-enters-partnership-advance-physical-ai",
           "date": "Tue, 16 Jun 2026 13:39:12 GMT"
@@ -132,11 +137,6 @@
           "title": "Anthropic Forced to Disable New Models by US Government",
           "link": "https://aibusiness.com/generative-ai/anthropic-forced-disable-new-models-us-government",
           "date": "Mon, 15 Jun 2026 13:30:49 GMT"
-        },
-        {
-          "title": "Rebellions Aims to Take on Nvidia in AI Inference Chip Battle",
-          "link": "https://aibusiness.com/generative-ai/rebellions-aims-take-nvidia-ai-inference-chip-battle",
-          "date": "Mon, 15 Jun 2026 12:00:00 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -163,6 +163,11 @@
       "name": "AI Now Institute",
       "url": "https://ainowinstitute.org/category/news/feed",
       "items": [
+        {
+          "title": "AI Now Co-Executive Director Sarah Myers West Testifies Before Senate Banking Committee",
+          "link": "https://ainowinstitute.org/general/ai-now-co-executive-director-sarah-myers-west-testifies-before-senate-banking-committee",
+          "date": "Tue, 16 Jun 2026 16:17:09 +0000"
+        },
         {
           "title": "AI Now Senior Fellow Dr. Katie J. Wells Testifies before the House Subcommittee on Workforce Protections",
           "link": "https://ainowinstitute.org/news/announcement/wells-house-subcommittee-testimony",
@@ -182,11 +187,6 @@
           "title": "\u2018Safety first\u2019 puts Anthropic ahead in game of AI spin",
           "link": "https://ainowinstitute.org/news/press/safety-first-puts-anthropic-ahead-in-game-of-ai-spin",
           "date": "Sun, 12 Apr 2026 20:09:53 +0000"
-        },
-        {
-          "title": "The Great AI Grift",
-          "link": "https://ainowinstitute.org/news/press/the-great-ai-grift",
-          "date": "Fri, 10 Apr 2026 20:34:52 +0000"
         }
       ],
       "error": null
@@ -290,29 +290,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "The Ars Technica 2026 Reader Survey: Let your voice be heard!",
-          "link": "https://arstechnica.com/staff/2026/06/the-ars-technica-2026-reader-survey-let-your-voice-be-heard/",
-          "date": "Tue, 16 Jun 2026 13:35:55 +0000"
+          "title": "Pentagon boasts of using AI to write reports mandated by Congress",
+          "link": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
+          "date": "Tue, 16 Jun 2026 18:11:05 +0000"
         },
         {
-          "title": "Critical Copilot vulnerability allowed hackers to seal 2FA code from users",
-          "link": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
-          "date": "Tue, 16 Jun 2026 11:15:46 +0000"
+          "title": "Android 17 starts hitting Pixel phones and watches today",
+          "link": "https://arstechnica.com/gadgets/2026/06/android-17-starts-hitting-pixel-phones-and-watches-today/",
+          "date": "Tue, 16 Jun 2026 18:00:08 +0000"
         },
         {
-          "title": "Commodore\u2019s newest gadget is a flip phone that blocks social media and browsers",
-          "link": "https://arstechnica.com/gadgets/2026/06/commodores-newest-gadget-is-a-flip-phone-that-blocks-social-media-and-browsers/",
-          "date": "Tue, 16 Jun 2026 09:00:51 +0000"
+          "title": "Trump admin abandons fight against wind energy as clean energy output surges",
+          "link": "https://arstechnica.com/science/2026/06/trump-admin-abandons-fight-against-wind-energy-as-clean-energy-output-surges/",
+          "date": "Tue, 16 Jun 2026 16:49:09 +0000"
         },
         {
-          "title": "Key mission for Europe's commercial space enterprise scrubbed again",
-          "link": "https://arstechnica.com/space/2026/06/key-mission-for-europes-commercial-space-enterprise-scrubbed-again/",
-          "date": "Mon, 15 Jun 2026 23:40:38 +0000"
+          "title": "SpaceX to acquire AI coding platform Cursor for $60 billion",
+          "link": "https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/",
+          "date": "Tue, 16 Jun 2026 16:37:45 +0000"
         },
         {
-          "title": "Heart protection from COVID shots remains amid updates, study finds",
-          "link": "https://arstechnica.com/health/2026/06/covid-vaccines-still-protect-against-heart-problems-large-study-finds/",
-          "date": "Mon, 15 Jun 2026 21:04:26 +0000"
+          "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
+          "link": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
+          "date": "Tue, 16 Jun 2026 16:18:07 +0000"
         }
       ],
       "error": null
@@ -320,39 +320,18 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "AI Billionaires Want to Control EVERY Aspect of Your Life | Aaron Bastani Meets Karen Hao",
-          "link": "https://www.reddit.com/r/artificial/comments/1u777te/ai_billionaires_want_to_control_every_aspect_of/",
-          "date": "2026-06-16T08:03:11+00:00"
-        },
-        {
-          "title": "What happens when frontier LLMs are deployed in rural Rwanda? Lessons on usefulness, language gaps, and incorrect answers [D]",
-          "link": "https://www.reddit.com/r/artificial/comments/1u7a3ej/what_happens_when_frontier_llms_are_deployed_in/",
-          "date": "2026-06-16T10:49:44+00:00"
-        },
-        {
-          "title": "Built a Paninian Retrieval-Augmented Generation (PRAG) framework for safer medical AI \u2014 seeking feedback",
-          "link": "https://www.reddit.com/r/artificial/comments/1u785o2/built_a_paninian_retrievalaugmented_generation/",
-          "date": "2026-06-16T09:00:35+00:00"
-        },
-        {
-          "title": "Beautiful and the Superfluous: AI Labor Market and Basic Income",
-          "link": "https://www.reddit.com/r/artificial/comments/1u7836w/beautiful_and_the_superfluous_ai_labor_market_and/",
-          "date": "2026-06-16T08:56:20+00:00"
-        },
-        {
-          "title": "Would you pay for an independent alert service that tells you when an LLM's behaviour has drifted - before your users notice?",
-          "link": "https://www.reddit.com/r/artificial/comments/1u7ahgm/would_you_pay_for_an_independent_alert_service/",
-          "date": "2026-06-16T11:09:54+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Artificial intelligence raises profound moral questions \u2014 for all of humanity to answer",
+          "link": "https://theconversation.com/artificial-intelligence-raises-profound-moral-questions-for-all-of-humanity-to-answer-284886",
+          "date": "2026-06-16T17:21:24Z"
+        },
         {
           "title": "Building data centers in space is an intriguing idea on paper, but major engineering challenges must be solved",
           "link": "https://theconversation.com/building-data-centers-in-space-is-an-intriguing-idea-on-paper-but-major-engineering-challenges-must-be-solved-284053",
@@ -372,11 +351,6 @@
           "title": "Why the US government shut down Anthropic\u2019s latest Claude AI model",
           "link": "https://theconversation.com/why-the-us-government-shut-down-anthropics-latest-claude-ai-model-285223",
           "date": "2026-06-15T04:08:34Z"
-        },
-        {
-          "title": "As AI plays a bigger role in relationships, true intimacy is getting lost",
-          "link": "https://theconversation.com/as-ai-plays-a-bigger-role-in-relationships-true-intimacy-is-getting-lost-284118",
-          "date": "2026-06-12T15:15:25Z"
         }
       ],
       "error": null
@@ -391,6 +365,16 @@
           "date": "Tue, 16 Jun 2026 14:00:00 GMT"
         },
         {
+          "title": "SpaceX overtakes Amazon as world\u2019s fifth biggest company",
+          "link": "https://www.theguardian.com/science/2026/jun/16/spacex-ai-coding-anysphere-cursor-amazon-market-valuation-xai",
+          "date": "Tue, 16 Jun 2026 18:37:43 GMT"
+        },
+        {
+          "title": "France to ditch Palantir\u2019s AI data tools in favour of domestic provider",
+          "link": "https://www.theguardian.com/world/2026/jun/16/france-ai-data-tools-palantir-chapsvision",
+          "date": "Tue, 16 Jun 2026 17:08:21 GMT"
+        },
+        {
           "title": "The Anthropic \u2018Fable\u2019 saga proves: we have opened the AI Pandora\u2019s box. What now? | Nathan E Sanders and Bruce Schneier",
           "link": "https://www.theguardian.com/commentisfree/2026/jun/16/anthropic-fable-ai",
           "date": "Tue, 16 Jun 2026 12:00:01 GMT"
@@ -399,16 +383,6 @@
           "title": "AI could help win \u2018race against extinction\u2019 of vital plants, say botanists",
           "link": "https://www.theguardian.com/environment/2026/jun/16/ai-could-help-win-race-against-extinction-of-vital-plants-say-botanists",
           "date": "Tue, 16 Jun 2026 06:00:48 GMT"
-        },
-        {
-          "title": "AI use by the US government is ballooning. And the lack of transparency is troubling | Nathan E Sanders and Bruce Schneier",
-          "link": "https://www.theguardian.com/commentisfree/2026/jun/15/ai-use-by-the-us-government-is-ballooning-and-the-lack-of-transparency-is-troubling",
-          "date": "Mon, 15 Jun 2026 12:00:25 GMT"
-        },
-        {
-          "title": "Graham Platner\u2019s victory reveals a winning midterms playbook | Pepper Culpepper",
-          "link": "https://www.theguardian.com/commentisfree/2026/jun/15/graham-platner-maine-victory-midterms-playbook",
-          "date": "Mon, 15 Jun 2026 10:00:22 GMT"
         }
       ],
       "error": null
@@ -450,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Consensus Grows That China Is Crushing the United States at AI",
+          "link": "https://futurism.com/artificial-intelligence/consensus-china-crushing-usa-ai-survey",
+          "date": "Tue, 16 Jun 2026 12:47:48 -0400"
+        },
+        {
           "title": "Mark Zuckerberg Orders His Employees to Start Having Fun Again After Brutal Layoffs Culled Their Colleagues",
           "link": "https://futurism.com/artificial-intelligence/mark-zuckerberg-employees-fun-hackathon-layoffs",
           "date": "Tue, 16 Jun 2026 08:35:39 -0400"
@@ -468,11 +447,6 @@
           "title": "Meta\u2019s Super Expensive New AI Team Is Already a Complete Catastrophe",
           "link": "https://futurism.com/artificial-intelligence/meta-new-ai-team-catastrophe",
           "date": "Mon, 15 Jun 2026 10:47:49 -0400"
-        },
-        {
-          "title": "Woman\u2019s Death Blamed on Hospital\u2019s AI System",
-          "link": "https://futurism.com/artificial-intelligence/woman-death-hospital-brazil-ai-icu-beds",
-          "date": "Sun, 14 Jun 2026 18:45:00 -0400"
         }
       ],
       "error": null
@@ -481,6 +455,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "\u2018Dangerous\u2019 AI Models Are Coming No Matter What",
+          "link": "https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/",
+          "date": "Tue, 16 Jun 2026 17:50:52 +0000"
+        },
         {
           "title": "My Father Wants to Age in Place. AI Will Be Watching",
           "link": "https://www.wired.com/story/sensi-ai-seniors-home-care-aging-in-place/",
@@ -500,11 +479,6 @@
           "title": "DOJ Lawyers Argue xAI Is \u2018Vital\u2019 for National Security in NAACP Lawsuit",
           "link": "https://www.wired.com/story/doj-lawyers-argue-xai-vital-national-security-naacp-lawsuit/",
           "date": "Tue, 16 Jun 2026 03:06:37 +0000"
-        },
-        {
-          "title": "Anthropic Is Still at Odds With the White House Over Claude Fable 5",
-          "link": "https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/",
-          "date": "Tue, 16 Jun 2026 00:53:46 +0000"
         }
       ],
       "error": null
