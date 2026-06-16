@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T18:56:43.055899+00:00",
+  "generatedAt": "2026-06-16T21:41:56.318121+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "SpaceX Aims at Agentic Coding With $60B Cursor Acquisition",
+          "link": "https://aibusiness.com/generative-ai/spacex-aims-agentic-coding-60b-cursor-acquisition",
+          "date": "Tue, 16 Jun 2026 18:49:27 GMT"
+        },
+        {
           "title": "EMEA Firms Lack AI Visibility Despite Sovereignty Push, IBM Reports",
           "link": "https://aibusiness.com/generative-ai/emea-firms-lack-ai-visibility-despite-sovereignty-ibm-reports",
           "date": "Tue, 16 Jun 2026 14:54:34 GMT"
@@ -132,11 +137,6 @@
           "title": "Schneider Electric, Foxconn Partner to Build Next-Gen Data Centers",
           "link": "https://aibusiness.com/data-centers/schneider-electric-foxconn-partner-build-next-gen-data-centers",
           "date": "Mon, 15 Jun 2026 14:42:07 GMT"
-        },
-        {
-          "title": "Anthropic Forced to Disable New Models by US Government",
-          "link": "https://aibusiness.com/generative-ai/anthropic-forced-disable-new-models-us-government",
-          "date": "Mon, 15 Jun 2026 13:30:49 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "US approval of Paramount/Warner Bros. deal surprised DOJ lawyers, report says",
+          "link": "https://arstechnica.com/tech-policy/2026/06/us-approval-of-paramount-warner-bros-deal-surprised-doj-lawyers-report-says/",
+          "date": "Tue, 16 Jun 2026 18:48:45 +0000"
+        },
+        {
           "title": "Pentagon boasts of using AI to write reports mandated by Congress",
           "link": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
           "date": "Tue, 16 Jun 2026 18:11:05 +0000"
@@ -308,11 +313,6 @@
           "title": "SpaceX to acquire AI coding platform Cursor for $60 billion",
           "link": "https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/",
           "date": "Tue, 16 Jun 2026 16:37:45 +0000"
-        },
-        {
-          "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
-          "link": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
-          "date": "Tue, 16 Jun 2026 16:18:07 +0000"
         }
       ],
       "error": null
@@ -362,7 +362,7 @@
         {
           "title": "How the fight over US datacenters is scrambling this state\u2019s politics: \u2018We don\u2019t want it\u2019",
           "link": "https://www.theguardian.com/technology/2026/jun/16/pennsylvania-datacenters-debate-politicians",
-          "date": "Tue, 16 Jun 2026 14:00:00 GMT"
+          "date": "Tue, 16 Jun 2026 21:23:59 GMT"
         },
         {
           "title": "SpaceX overtakes Amazon as world\u2019s fifth biggest company",
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "OpenAI Is Taking the \u201cCrack Cocaine\u201d Approach to Pricing",
+          "link": "https://futurism.com/artificial-intelligence/openai-crack-cocaine-approach-token-pricing",
+          "date": "Tue, 16 Jun 2026 15:04:28 -0400"
+        },
+        {
           "title": "Consensus Grows That China Is Crushing the United States at AI",
           "link": "https://futurism.com/artificial-intelligence/consensus-china-crushing-usa-ai-survey",
           "date": "Tue, 16 Jun 2026 12:47:48 -0400"
@@ -442,11 +447,6 @@
           "title": "CEOs Now Being Forced to Reverse Course, Cut AI Spending",
           "link": "https://futurism.com/artificial-intelligence/ceos-reverse-course-ai-spending",
           "date": "Mon, 15 Jun 2026 14:27:02 -0400"
-        },
-        {
-          "title": "Meta\u2019s Super Expensive New AI Team Is Already a Complete Catastrophe",
-          "link": "https://futurism.com/artificial-intelligence/meta-new-ai-team-catastrophe",
-          "date": "Mon, 15 Jun 2026 10:47:49 -0400"
         }
       ],
       "error": null
