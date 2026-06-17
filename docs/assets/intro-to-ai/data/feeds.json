@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T03:50:41.335274+00:00",
+  "generatedAt": "2026-06-17T09:00:16.223497+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -328,6 +328,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "The US government can shut off access to AI at will. What does this mean for Australia?",
+          "link": "https://theconversation.com/the-us-government-can-shut-off-access-to-ai-at-will-what-does-this-mean-for-australia-285480",
+          "date": "2026-06-17T06:48:41Z"
+        },
+        {
           "title": "Your AI habit is wasting precious resources. Here\u2019s how to use it responsibly",
           "link": "https://theconversation.com/your-ai-habit-is-wasting-precious-resources-heres-how-to-use-it-responsibly-285065",
           "date": "2026-06-17T01:47:24Z"
@@ -346,11 +351,6 @@
           "title": "AI robots can go rogue \u2013 a researcher on how easily it happens",
           "link": "https://theconversation.com/ai-robots-can-go-rogue-a-researcher-on-how-easily-it-happens-284766",
           "date": "2026-06-15T15:15:15Z"
-        },
-        {
-          "title": "AI schools like Alpha promise efficiency, but can\u2019t replicate the messy process that helps kids learn",
-          "link": "https://theconversation.com/ai-schools-like-alpha-promise-efficiency-but-cant-replicate-the-messy-process-that-helps-kids-learn-282464",
-          "date": "2026-06-15T12:38:01Z"
         }
       ],
       "error": null
