@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T09:00:16.223497+00:00",
+  "generatedAt": "2026-06-17T12:56:10.421921+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -107,7 +107,7 @@
       "name": "AI Archives | KnowTechie",
       "url": "https://knowtechie.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1016)>"
+      "error": "<unknown>:15:4: mismatched tag"
     },
     {
       "name": "AI Business",
@@ -290,6 +290,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Native NACS ports, infotainment upgrade for MY27 Porsche Taycan",
+          "link": "https://arstechnica.com/cars/2026/06/native-nacs-ports-infotainment-upgrade-for-my27-porsche-taycan/",
+          "date": "Wed, 17 Jun 2026 12:00:45 +0000"
+        },
+        {
+          "title": "Windows and Linux users: The deadline to update Secure Boot keys is near",
+          "link": "https://arstechnica.com/security/2026/06/windows-and-linux-users-the-deadline-to-update-secure-boot-keys-is-near/",
+          "date": "Wed, 17 Jun 2026 11:15:17 +0000"
+        },
+        {
           "title": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
           "link": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
           "date": "Tue, 16 Jun 2026 22:22:44 +0000"
@@ -303,16 +313,6 @@
           "title": "Cockroaches scurry around with thousands of pieces of bacterial genomes",
           "link": "https://arstechnica.com/science/2026/06/cockroaches-scurry-around-with-thousands-of-pieces-of-bacterial-genomes/",
           "date": "Tue, 16 Jun 2026 21:54:41 +0000"
-        },
-        {
-          "title": "Among the large new rockets Amazon was counting on, only Europe has delivered",
-          "link": "https://arstechnica.com/space/2026/06/amid-launch-bottleneck-amazon-has-hundreds-of-satellites-waiting-to-fly/",
-          "date": "Tue, 16 Jun 2026 21:14:08 +0000"
-        },
-        {
-          "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
-          "link": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
-          "date": "Tue, 16 Jun 2026 21:00:35 +0000"
         }
       ],
       "error": null
@@ -365,24 +365,24 @@
           "date": "Tue, 16 Jun 2026 21:23:59 GMT"
         },
         {
+          "title": "The curious case of Elias Thorne \u2013 and what he tells us about AI inbreeding | Arwa Mahdawi",
+          "link": "https://www.theguardian.com/commentisfree/2026/jun/17/elias-thorne-ai-generated-stories",
+          "date": "Wed, 17 Jun 2026 10:00:29 GMT"
+        },
+        {
+          "title": "Will it take a \u2018Chernobyl-scale disaster\u2019 for us to regulate cyber weapons of mass destruction? | Stuart Russell",
+          "link": "https://www.theguardian.com/commentisfree/2026/jun/17/anthropic-ai-rsi-fable",
+          "date": "Wed, 17 Jun 2026 10:00:28 GMT"
+        },
+        {
           "title": "Trump\u2019s DoJ intervenes to back Elon Musk in datacenter pollution lawsuit",
           "link": "https://www.theguardian.com/technology/2026/jun/16/elon-musk-xai-datacenters-trump-administration",
           "date": "Tue, 16 Jun 2026 23:01:13 GMT"
         },
         {
-          "title": "SpaceX overtakes Amazon as world\u2019s fifth most valuable company",
+          "title": "SpaceX overtakes Amazon to become world\u2019s fifth most valuable company",
           "link": "https://www.theguardian.com/science/2026/jun/16/spacex-ai-coding-anysphere-cursor-amazon-market-valuation-xai",
           "date": "Tue, 16 Jun 2026 18:37:43 GMT"
-        },
-        {
-          "title": "France to ditch Palantir\u2019s AI data tools in favour of domestic provider",
-          "link": "https://www.theguardian.com/world/2026/jun/16/france-ai-data-tools-palantir-chapsvision",
-          "date": "Tue, 16 Jun 2026 17:08:21 GMT"
-        },
-        {
-          "title": "The Anthropic \u2018Fable\u2019 saga proves: we have opened the AI Pandora\u2019s box. What now? | Nathan E Sanders and Bruce Schneier",
-          "link": "https://www.theguardian.com/commentisfree/2026/jun/16/anthropic-fable-ai",
-          "date": "Tue, 16 Jun 2026 12:00:01 GMT"
         }
       ],
       "error": null
