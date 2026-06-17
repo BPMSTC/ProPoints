@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-06-17T12:56:10.421921+00:00",
+  "generatedAt": "2026-06-17T16:38:06.179973+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "ICE Appears to Be Buying Immigrants\u2019 Tax Identifiers from a Data Broker",
+          "link": "https://www.404media.co/ice-appears-to-be-buying-immigrants-tax-identifiers-from-a-data-broker/",
+          "date": "Wed, 17 Jun 2026 14:03:51 GMT"
+        },
+        {
+          "title": "Podcast: The Government Wants to End Anonymity on Phones",
+          "link": "https://www.404media.co/podcast-the-government-wants-to-end-anonymity-on-phones/",
+          "date": "Wed, 17 Jun 2026 13:16:59 GMT"
+        },
         {
           "title": "Hackers Publish Knicks and Madison Square Garden Data Online",
           "link": "https://www.404media.co/hackers-publish-knicks-and-madison-square-garden-data-online/",
@@ -19,16 +29,6 @@
           "title": "Disclosure Day's Delusion Is That People Would Think Alien Videos Are Not AI",
           "link": "https://www.404media.co/disclosure-days-delusion-that-people-would-think-alien-videos-are-not-ai/",
           "date": "Mon, 15 Jun 2026 18:11:50 GMT"
-        },
-        {
-          "title": "Judge Rules Blacked.com Can Sue Meta for Scraping Its Porn",
-          "link": "https://www.404media.co/judge-rules-blacked-com-can-sue-meta-for-scraping-its-porn/",
-          "date": "Mon, 15 Jun 2026 14:53:19 GMT"
-        },
-        {
-          "title": "It Is Trivially Easy to Use Reddit to Manipulate AI Search, Research Suggests",
-          "link": "https://www.404media.co/it-is-trivially-easy-to-use-reddit-to-manipulate-ai-search-research-suggests/",
-          "date": "Mon, 15 Jun 2026 14:19:11 GMT"
         }
       ],
       "error": null
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "Is your most capable AI agent  also your biggest data leak?",
+          "link": "https://www.aiacceleratorinstitute.com/is-your-most-capable-ai-agent-also-your-biggest-data-leak/",
+          "date": "Wed, 17 Jun 2026 15:29:32 GMT"
+        },
+        {
           "title": "The benchmark gap, explained:   What AI leaderboards measure and what they miss",
           "link": "https://www.aiacceleratorinstitute.com/the-benchmark-gap-explained-what-ai-leaderboards-measure-and-what-they-miss/",
           "date": "Thu, 11 Jun 2026 11:48:08 GMT"
@@ -88,11 +93,6 @@
           "title": "Demystifying AI agents:  going beyond the buzzwords",
           "link": "https://www.aiacceleratorinstitute.com/demystifying-ai-agents-going-beyond-the-buzzwords/",
           "date": "Fri, 05 Jun 2026 15:00:34 GMT"
-        },
-        {
-          "title": "Why smart companies don't  add AI everywhere",
-          "link": "https://www.aiacceleratorinstitute.com/why-smart-companies-dont-add-ai-everywhere/",
-          "date": "Fri, 05 Jun 2026 12:07:58 GMT"
         }
       ],
       "error": null
@@ -107,7 +107,7 @@
       "name": "AI Archives | KnowTechie",
       "url": "https://knowtechie.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:15:4: mismatched tag"
+      "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1016)>"
     },
     {
       "name": "AI Business",
@@ -290,6 +290,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Ten months later, the $100 Google Home Speaker is finally available for preorder",
+          "link": "https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/",
+          "date": "Wed, 17 Jun 2026 15:57:14 +0000"
+        },
+        {
+          "title": "Towers once planned for California shuttle launches leveled for SpaceX rockets",
+          "link": "https://arstechnica.com/space/2026/06/towers-once-planned-for-california-shuttle-launches-leveled-for-spacex-rockets/",
+          "date": "Wed, 17 Jun 2026 15:47:09 +0000"
+        },
+        {
+          "title": "\"Truly evil\" FDA rejection of gene therapy overturned after Trump official ousted",
+          "link": "https://arstechnica.com/health/2026/06/truly-evil-fda-rejection-of-gene-therapy-overturned-after-trump-official-ousted/",
+          "date": "Wed, 17 Jun 2026 15:12:31 +0000"
+        },
+        {
           "title": "Native NACS ports, infotainment upgrade for MY27 Porsche Taycan",
           "link": "https://arstechnica.com/cars/2026/06/native-nacs-ports-infotainment-upgrade-for-my27-porsche-taycan/",
           "date": "Wed, 17 Jun 2026 12:00:45 +0000"
@@ -298,21 +313,6 @@
           "title": "Windows and Linux users: The deadline to update Secure Boot keys is near",
           "link": "https://arstechnica.com/security/2026/06/windows-and-linux-users-the-deadline-to-update-secure-boot-keys-is-near/",
           "date": "Wed, 17 Jun 2026 11:15:17 +0000"
-        },
-        {
-          "title": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
-          "link": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
-          "date": "Tue, 16 Jun 2026 22:22:44 +0000"
-        },
-        {
-          "title": "Year of free HPE software a \u201cstep in the correct direction\u201d in VMware rivalry",
-          "link": "https://arstechnica.com/information-technology/2026/06/hpe-tempts-vmware-users-partners-with-year-of-free-virtualization-software/",
-          "date": "Tue, 16 Jun 2026 22:11:15 +0000"
-        },
-        {
-          "title": "Cockroaches scurry around with thousands of pieces of bacterial genomes",
-          "link": "https://arstechnica.com/science/2026/06/cockroaches-scurry-around-with-thousands-of-pieces-of-bacterial-genomes/",
-          "date": "Tue, 16 Jun 2026 21:54:41 +0000"
         }
       ],
       "error": null
@@ -320,13 +320,44 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "Elon Musk's Grok Rained Bombs On Iran Even As Anthropic Pulled Out, Pentagon Reveals",
+          "link": "https://www.reddit.com/r/artificial/comments/1u8atbd/elon_musks_grok_rained_bombs_on_iran_even_as/",
+          "date": "2026-06-17T13:52:36+00:00"
+        },
+        {
+          "title": "A 4b model is now beating 30b ones at web research and the reason is not size",
+          "link": "https://www.reddit.com/r/artificial/comments/1u8bgrv/a_4b_model_is_now_beating_30b_ones_at_web/",
+          "date": "2026-06-17T14:17:12+00:00"
+        },
+        {
+          "title": "AI made me more productive, but somehow more tired",
+          "link": "https://www.reddit.com/r/artificial/comments/1u82hpd/ai_made_me_more_productive_but_somehow_more_tired/",
+          "date": "2026-06-17T06:37:22+00:00"
+        },
+        {
+          "title": "Apparently OpenAI's next voice model can listen and talk at the same time without freezing up",
+          "link": "https://www.reddit.com/r/artificial/comments/1u8888x/apparently_openais_next_voice_model_can_listen/",
+          "date": "2026-06-17T12:01:35+00:00"
+        },
+        {
+          "title": "Your company is probably spending more on coffee than AI",
+          "link": "https://www.reddit.com/r/artificial/comments/1u7ta74/your_company_is_probably_spending_more_on_coffee/",
+          "date": "2026-06-16T23:09:40+00:00"
+        }
+      ],
       "error": null
     },
     {
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "\u2018Alexa, tell me a joke\u2019: how talking to AI impacts young children\u2019s development",
+          "link": "https://theconversation.com/alexa-tell-me-a-joke-how-talking-to-ai-impacts-young-childrens-development-285396",
+          "date": "2026-06-17T15:50:05Z"
+        },
         {
           "title": "The US government can shut off access to AI at will. What does this mean for Australia?",
           "link": "https://theconversation.com/the-us-government-can-shut-off-access-to-ai-at-will-what-does-this-mean-for-australia-285480",
@@ -346,11 +377,6 @@
           "title": "Building data centers in space is an intriguing idea on paper, but major engineering challenges must be solved",
           "link": "https://theconversation.com/building-data-centers-in-space-is-an-intriguing-idea-on-paper-but-major-engineering-challenges-must-be-solved-284053",
           "date": "2026-06-16T12:13:24Z"
-        },
-        {
-          "title": "AI robots can go rogue \u2013 a researcher on how easily it happens",
-          "link": "https://theconversation.com/ai-robots-can-go-rogue-a-researcher-on-how-easily-it-happens-284766",
-          "date": "2026-06-15T15:15:15Z"
         }
       ],
       "error": null
@@ -365,12 +391,17 @@
           "date": "Tue, 16 Jun 2026 21:23:59 GMT"
         },
         {
+          "title": "I had a blood clot. An AI diagnosis may have saved my life | Gleb Tsipursky",
+          "link": "https://www.theguardian.com/commentisfree/2026/jun/17/blood-clot-dvt-ai-diagnosis",
+          "date": "Wed, 17 Jun 2026 13:00:31 GMT"
+        },
+        {
           "title": "The curious case of Elias Thorne \u2013 and what he tells us about AI inbreeding | Arwa Mahdawi",
           "link": "https://www.theguardian.com/commentisfree/2026/jun/17/elias-thorne-ai-generated-stories",
           "date": "Wed, 17 Jun 2026 10:00:29 GMT"
         },
         {
-          "title": "Will it take a \u2018Chernobyl-scale disaster\u2019 for us to regulate cyber weapons of mass destruction? | Stuart Russell",
+          "title": "Will it take a \u2018Chernobyl-scale disaster\u2019 for us to regulate AI? | Stuart Russell",
           "link": "https://www.theguardian.com/commentisfree/2026/jun/17/anthropic-ai-rsi-fable",
           "date": "Wed, 17 Jun 2026 10:00:28 GMT"
         },
@@ -378,11 +409,6 @@
           "title": "Trump\u2019s DoJ intervenes to back Elon Musk in datacenter pollution lawsuit",
           "link": "https://www.theguardian.com/technology/2026/jun/16/elon-musk-xai-datacenters-trump-administration",
           "date": "Tue, 16 Jun 2026 23:01:13 GMT"
-        },
-        {
-          "title": "SpaceX overtakes Amazon to become world\u2019s fifth most valuable company",
-          "link": "https://www.theguardian.com/science/2026/jun/16/spacex-ai-coding-anysphere-cursor-amazon-market-valuation-xai",
-          "date": "Tue, 16 Jun 2026 18:37:43 GMT"
         }
       ],
       "error": null
@@ -424,6 +450,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Microsoft\u2019s Copilot AI Caught Letting Hackers Steal Your 2FA Codes Through a Single Click",
+          "link": "https://futurism.com/future-society/microsofts-copilot-hackers-steal-2fa-click",
+          "date": "Wed, 17 Jun 2026 12:04:29 -0400"
+        },
+        {
           "title": "OpenAI Is Taking the \u201cCrack Cocaine\u201d Approach to Pricing",
           "link": "https://futurism.com/artificial-intelligence/openai-crack-cocaine-approach-token-pricing",
           "date": "Tue, 16 Jun 2026 15:04:28 -0400"
@@ -442,11 +473,6 @@
           "title": "Google CEO Humiliated by Graduating Stanford Students as They Walk Out of His Speech in Protest",
           "link": "https://futurism.com/artificial-intelligence/google-ceo-sundar-pichai-stanford-protest-graduation",
           "date": "Mon, 15 Jun 2026 15:25:31 -0400"
-        },
-        {
-          "title": "CEOs Now Being Forced to Reverse Course, Cut AI Spending",
-          "link": "https://futurism.com/artificial-intelligence/ceos-reverse-course-ai-spending",
-          "date": "Mon, 15 Jun 2026 14:27:02 -0400"
         }
       ],
       "error": null
@@ -455,6 +481,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "The Gemini-Powered Google Home Speaker Is Finally Here",
+          "link": "https://www.wired.com/story/the-gemini-powered-google-home-speaker-is-finally-here/",
+          "date": "Wed, 17 Jun 2026 13:00:00 +0000"
+        },
         {
           "title": "\u2018Dangerous\u2019 AI Models Are Coming No Matter What",
           "link": "https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/",
@@ -474,11 +505,6 @@
           "title": "\u2018Pretty Crazy\u2019 Token Usage Is Testing Bosses\u2019 Bet on AI",
           "link": "https://www.wired.com/story/claude-tokens-compute-cost-code-8x8/",
           "date": "Tue, 16 Jun 2026 09:30:00 +0000"
-        },
-        {
-          "title": "DOJ Lawyers Argue xAI Is \u2018Vital\u2019 for National Security in NAACP Lawsuit",
-          "link": "https://www.wired.com/story/doj-lawyers-argue-xai-vital-national-security-naacp-lawsuit/",
-          "date": "Tue, 16 Jun 2026 03:06:37 +0000"
         }
       ],
       "error": null
