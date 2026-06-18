@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-06-18T16:27:28.905603+00:00",
+  "generatedAt": "2026-06-18T19:25:04.858895+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "A New Fossil Discovery Just Rewrote 150 Years of Evolutionary Theory",
+          "link": "https://www.404media.co/a-new-fossil-discovery-just-rewrote-150-years-of-evolutionary-theory/",
+          "date": "Thu, 18 Jun 2026 18:00:35 GMT"
+        },
         {
           "title": "If AI Is Sentient Then So Is \u2018Age of Empires II\u2019",
           "link": "https://www.404media.co/if-ai-is-sentient-then-so-is-age-of-empires-ii/",
@@ -24,11 +29,6 @@
           "title": "Podcast: The Government Wants to End Anonymity on Phones",
           "link": "https://www.404media.co/podcast-the-government-wants-to-end-anonymity-on-phones/",
           "date": "Wed, 17 Jun 2026 13:16:59 GMT"
-        },
-        {
-          "title": "Hackers Publish Knicks and Madison Square Garden Data Online",
-          "link": "https://www.404media.co/hackers-publish-knicks-and-madison-square-garden-data-online/",
-          "date": "Tue, 16 Jun 2026 14:00:38 GMT"
         }
       ],
       "error": null
@@ -107,12 +107,17 @@
       "name": "AI Archives | KnowTechie",
       "url": "https://knowtechie.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1016)>"
+      "error": "<unknown>:22:0: undefined entity"
     },
     {
       "name": "AI Business",
       "url": "https://aibusiness.com/rss.xml",
       "items": [
+        {
+          "title": "Prompt: The AI Race Enters Its Sovereignty Phase",
+          "link": "https://aibusiness.com/generative-ai/prompt-ai-race-enters-sovereignty-phase",
+          "date": "Thu, 18 Jun 2026 17:52:38 GMT"
+        },
         {
           "title": "Google Cloud Bets Big on the Agentic Enterprise",
           "link": "https://aibusiness.com/generative-ai/google-cloud-bets-big-agentic-enterprise",
@@ -124,7 +129,7 @@
           "date": "Thu, 18 Jun 2026 14:55:22 GMT"
         },
         {
-          "title": "AWS\u2019s New Agentic Tools Trail Rivals, but Respond to Real Problems",
+          "title": "AWS\u2019 Agentic Tools Trail Rivals, but Respond to Real Problems",
           "link": "https://aibusiness.com/agentic-ai/aws-s-new-agentic-tools-trail-rivals-respond-real-problems",
           "date": "Wed, 17 Jun 2026 20:25:21 GMT"
         },
@@ -132,11 +137,6 @@
           "title": "SpaceX Aims at Agentic Coding With $60B Cursor Acquisition",
           "link": "https://aibusiness.com/generative-ai/spacex-aims-agentic-coding-60b-cursor-acquisition",
           "date": "Tue, 16 Jun 2026 18:49:27 GMT"
-        },
-        {
-          "title": "EMEA Firms Lack AI Visibility Despite Sovereignty Push, IBM Reports",
-          "link": "https://aibusiness.com/generative-ai/emea-firms-lack-ai-visibility-despite-sovereignty-ibm-reports",
-          "date": "Tue, 16 Jun 2026 14:54:34 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,29 +290,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Cosmonaut Aleksandr Samokutyaev, 56, is first former ISS crew member to die",
+          "title": "After Senate vote, Trump admin backs off plans to kill ocean monitoring",
+          "link": "https://arstechnica.com/science/2026/06/after-senate-vote-trump-admin-backs-off-plans-to-kill-ocean-monitoring/",
+          "date": "Thu, 18 Jun 2026 18:19:44 +0000"
+        },
+        {
+          "title": "Before SpaceX IPO, investors in China secretly acquired stakes",
+          "link": "https://arstechnica.com/information-technology/2026/06/before-spacex-ipo-investors-in-china-secretly-acquired-stakes/",
+          "date": "Thu, 18 Jun 2026 17:42:18 +0000"
+        },
+        {
+          "title": "Bernie Sanders unveils $7 trillion plan to give Americans control of AI industry",
+          "link": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/",
+          "date": "Thu, 18 Jun 2026 17:02:49 +0000"
+        },
+        {
+          "title": "Hunter-gatherers in Siberia died of a plague outbreak 5,500 years ago",
+          "link": "https://arstechnica.com/science/2026/06/hunter-gatherers-in-siberia-died-of-a-plague-outbreak-5500-years-ago/",
+          "date": "Thu, 18 Jun 2026 15:04:40 +0000"
+        },
+        {
+          "title": "The first long-duration resident of the ISS, a cosmonaut, has died",
           "link": "https://arstechnica.com/space/2026/06/cosmonaut-aleksandr-samokutyaev-56-is-first-former-iss-crew-member-to-die/",
           "date": "Thu, 18 Jun 2026 14:34:36 +0000"
-        },
-        {
-          "title": "Hulk, Punisher join Peter Parker in Spider-Man: Brand New Day trailer",
-          "link": "https://arstechnica.com/culture/2026/06/hulk-punisher-join-peter-parker-in-spider-man-brand-new-day-trailer/",
-          "date": "Thu, 18 Jun 2026 06:37:59 +0000"
-        },
-        {
-          "title": "Second carcass-eating fly species cleared by FDA for maggot wound therapy",
-          "link": "https://arstechnica.com/health/2026/06/second-carcass-eating-fly-species-cleared-by-fda-for-maggot-wound-therapy/",
-          "date": "Wed, 17 Jun 2026 22:11:20 +0000"
-        },
-        {
-          "title": "Sooner than expected? Useful quantum error correction promised for 2028.",
-          "link": "https://arstechnica.com/science/2026/06/amazon-quera-promise-useful-quantum-error-correction-by-2028/",
-          "date": "Wed, 17 Jun 2026 20:44:32 +0000"
-        },
-        {
-          "title": "California says AT&T lied to FCC in attempt to shut off old phone network",
-          "link": "https://arstechnica.com/tech-policy/2026/06/california-says-att-lied-to-fcc-in-attempt-to-shut-off-old-phone-network/",
-          "date": "Wed, 17 Jun 2026 20:07:40 +0000"
         }
       ],
       "error": null
@@ -320,7 +320,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "Most companies' AI problem is not the model",
+          "link": "https://www.reddit.com/r/artificial/comments/1u9dfh5/most_companies_ai_problem_is_not_the_model/",
+          "date": "2026-06-18T17:58:06+00:00"
+        },
+        {
+          "title": "RNNs vs Transformers vs SSMs: where should AI memory live for continual learning?",
+          "link": "https://www.reddit.com/r/artificial/comments/1u9ba5s/rnns_vs_transformers_vs_ssms_where_should_ai/",
+          "date": "2026-06-18T16:39:07+00:00"
+        },
+        {
+          "title": "Anthropic CEO Dario Amodei goes completely candid on why he left OpenAI: \"When you feel that you can't trust someone when you see disturbing patterns of behavior, dishonesty, that makes it very hard to continue.\"",
+          "link": "https://www.reddit.com/r/artificial/comments/1u8zigf/anthropic_ceo_dario_amodei_goes_completely_candid/",
+          "date": "2026-06-18T07:22:11+00:00"
+        },
+        {
+          "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows | TechCrunch",
+          "link": "https://www.reddit.com/r/artificial/comments/1u93rnf/only_16_percent_of_americans_think_ai_will_have_a/",
+          "date": "2026-06-18T11:32:56+00:00"
+        },
+        {
+          "title": "Microsoft Makes Big AI Inroads in China by Selling OpenAI Models",
+          "link": "https://www.reddit.com/r/artificial/comments/1u9a54p/microsoft_makes_big_ai_inroads_in_china_by/",
+          "date": "2026-06-18T15:56:45+00:00"
+        }
+      ],
       "error": null
     },
     {
@@ -424,6 +450,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Cop Accused of Using AI to Fake Evidence",
+          "link": "https://futurism.com/artificial-intelligence/cop-ai-fake-evidence-uk",
+          "date": "Thu, 18 Jun 2026 14:42:43 -0400"
+        },
+        {
           "title": "Anthropic Sued for Allegedly Ripping Off Its Highest-Paying Customers",
           "link": "https://futurism.com/artificial-intelligence/anthropic-sued-ripping-off-customers",
           "date": "Thu, 18 Jun 2026 12:11:32 -0400"
@@ -442,11 +473,6 @@
           "title": "The US Military Has Been Using Elon Musk\u2019s Grok AI to Bomb Iran",
           "link": "https://futurism.com/artificial-intelligence/us-military-elon-musk-grok-bomb-iran",
           "date": "Thu, 18 Jun 2026 08:59:20 -0400"
-        },
-        {
-          "title": "Snap\u2019s Stock Plunges the Moment It Reveals Its Comically Gigantic AR Glasses",
-          "link": "https://futurism.com/future-society/snap-lampooned-gigantic-ar-glasses",
-          "date": "Wed, 17 Jun 2026 14:41:00 -0400"
         }
       ],
       "error": null
