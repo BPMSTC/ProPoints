@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T03:38:28.554376+00:00",
+  "generatedAt": "2026-06-18T08:43:06.315015+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Hulk, Punisher join Peter Parker in Spider-Man: Brand New Day trailer",
+          "link": "https://arstechnica.com/culture/2026/06/hulk-punisher-join-peter-parker-in-spider-man-brand-new-day-trailer/",
+          "date": "Thu, 18 Jun 2026 06:37:59 +0000"
+        },
+        {
           "title": "Second carcass-eating fly species cleared by FDA for maggot wound therapy",
           "link": "https://arstechnica.com/health/2026/06/second-carcass-eating-fly-species-cleared-by-fda-for-maggot-wound-therapy/",
           "date": "Wed, 17 Jun 2026 22:11:20 +0000"
@@ -308,11 +313,6 @@
           "title": "Massive breach spills credentials for thousands of sensitive networks",
           "link": "https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/",
           "date": "Wed, 17 Jun 2026 19:54:31 +0000"
-        },
-        {
-          "title": "Tesco moving 40,000 server workloads off VMware amid Broadcom's \u201cabusive conduct\u201d",
-          "link": "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/",
-          "date": "Wed, 17 Jun 2026 19:43:13 +0000"
         }
       ],
       "error": null
@@ -320,7 +320,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "Anthropic CEO Dario Amodei goes completely candid on why he left OpenAI: \"When you feel that you can't trust someone when you see disturbing patterns of behavior, dishonesty, that makes it very hard to continue.\"",
+          "link": "https://www.reddit.com/r/artificial/comments/1u8zigf/anthropic_ceo_dario_amodei_goes_completely_candid/",
+          "date": "2026-06-18T07:22:11+00:00"
+        },
+        {
+          "title": "Elon Musk's Grok Rained Bombs On Iran Even As Anthropic Pulled Out, Pentagon Reveals",
+          "link": "https://www.reddit.com/r/artificial/comments/1u8atbd/elon_musks_grok_rained_bombs_on_iran_even_as/",
+          "date": "2026-06-17T13:52:36+00:00"
+        },
+        {
+          "title": "Copilot vulnerability could expose emails and 2FA codes",
+          "link": "https://www.reddit.com/r/artificial/comments/1u8wxqd/copilot_vulnerability_could_expose_emails_and_2fa/",
+          "date": "2026-06-18T04:54:25+00:00"
+        },
+        {
+          "title": "A 4b model is now beating 30b ones at web research and the reason is not size",
+          "link": "https://www.reddit.com/r/artificial/comments/1u8bgrv/a_4b_model_is_now_beating_30b_ones_at_web/",
+          "date": "2026-06-17T14:17:12+00:00"
+        },
+        {
+          "title": "Chatgpt dropping under 50% share is the boring headline, the real shift is that nobody has just one ai anymore",
+          "link": "https://www.reddit.com/r/artificial/comments/1u9075j/chatgpt_dropping_under_50_share_is_the_boring/",
+          "date": "2026-06-18T08:04:13+00:00"
+        }
+      ],
       "error": null
     },
     {
@@ -360,6 +386,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Gig workers are endlessly exploited. AI could make more of us share their fate",
+          "link": "https://www.theguardian.com/technology/2026/jun/18/ai-threatens-gig-work-rise",
+          "date": "Thu, 18 Jun 2026 08:00:00 GMT"
+        },
+        {
           "title": "I had a blood clot. An AI diagnosis may have saved my life | Gleb Tsipursky",
           "link": "https://www.theguardian.com/commentisfree/2026/jun/17/blood-clot-dvt-ai-diagnosis",
           "date": "Wed, 17 Jun 2026 13:00:31 GMT"
@@ -378,11 +409,6 @@
           "title": "Trump\u2019s DoJ intervenes to back Elon Musk in datacenter pollution lawsuit",
           "link": "https://www.theguardian.com/technology/2026/jun/16/elon-musk-xai-datacenters-trump-administration",
           "date": "Tue, 16 Jun 2026 23:01:13 GMT"
-        },
-        {
-          "title": "How the fight over US datacenters is scrambling this state\u2019s politics: \u2018We don\u2019t want it\u2019",
-          "link": "https://www.theguardian.com/technology/2026/jun/16/pennsylvania-datacenters-debate-politicians",
-          "date": "Tue, 16 Jun 2026 21:23:59 GMT"
         }
       ],
       "error": null
@@ -456,6 +482,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "The UK Will Scan Asylum-Seekers\u2019 Faces for Age Checks\u2014Despite Knowing the Tech Is Flawed",
+          "link": "https://www.wired.com/story/facial-age-estimate-uk-asylum-seekers/",
+          "date": "Thu, 18 Jun 2026 06:00:00 +0000"
+        },
+        {
           "title": "The Korean Telecom Giant at the Center of Anthropic\u2019s Mythos Controversy",
           "link": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
           "date": "Wed, 17 Jun 2026 22:52:00 +0000"
@@ -474,11 +505,6 @@
           "title": "The Gemini-Powered Google Home Speaker Is Finally Here",
           "link": "https://www.wired.com/story/the-gemini-powered-google-home-speaker-is-finally-here/",
           "date": "Wed, 17 Jun 2026 13:00:00 +0000"
-        },
-        {
-          "title": "\u2018Dangerous\u2019 AI Models Are Coming No Matter What",
-          "link": "https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/",
-          "date": "Tue, 16 Jun 2026 17:50:52 +0000"
         }
       ],
       "error": null
