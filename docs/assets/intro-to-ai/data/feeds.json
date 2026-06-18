@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T08:43:06.315015+00:00",
+  "generatedAt": "2026-06-18T12:22:17.715423+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -320,39 +320,18 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "Anthropic CEO Dario Amodei goes completely candid on why he left OpenAI: \"When you feel that you can't trust someone when you see disturbing patterns of behavior, dishonesty, that makes it very hard to continue.\"",
-          "link": "https://www.reddit.com/r/artificial/comments/1u8zigf/anthropic_ceo_dario_amodei_goes_completely_candid/",
-          "date": "2026-06-18T07:22:11+00:00"
-        },
-        {
-          "title": "Elon Musk's Grok Rained Bombs On Iran Even As Anthropic Pulled Out, Pentagon Reveals",
-          "link": "https://www.reddit.com/r/artificial/comments/1u8atbd/elon_musks_grok_rained_bombs_on_iran_even_as/",
-          "date": "2026-06-17T13:52:36+00:00"
-        },
-        {
-          "title": "Copilot vulnerability could expose emails and 2FA codes",
-          "link": "https://www.reddit.com/r/artificial/comments/1u8wxqd/copilot_vulnerability_could_expose_emails_and_2fa/",
-          "date": "2026-06-18T04:54:25+00:00"
-        },
-        {
-          "title": "A 4b model is now beating 30b ones at web research and the reason is not size",
-          "link": "https://www.reddit.com/r/artificial/comments/1u8bgrv/a_4b_model_is_now_beating_30b_ones_at_web/",
-          "date": "2026-06-17T14:17:12+00:00"
-        },
-        {
-          "title": "Chatgpt dropping under 50% share is the boring headline, the real shift is that nobody has just one ai anymore",
-          "link": "https://www.reddit.com/r/artificial/comments/1u9075j/chatgpt_dropping_under_50_share_is_the_boring/",
-          "date": "2026-06-18T08:04:13+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "AI saves time \u2013 so why does it make us feel guilty?",
+          "link": "https://theconversation.com/ai-saves-time-so-why-does-it-make-us-feel-guilty-283807",
+          "date": "2026-06-18T11:43:30Z"
+        },
         {
           "title": "Australia risks losing its \u2018corporate brain\u2019 if more high-value jobs keep being sent offshore",
           "link": "https://theconversation.com/australia-risks-losing-its-corporate-brain-if-more-high-value-jobs-keep-being-sent-offshore-285343",
@@ -372,11 +351,6 @@
           "title": "\u2018Alexa, tell me a joke\u2019: how talking to AI impacts young children\u2019s development",
           "link": "https://theconversation.com/alexa-tell-me-a-joke-how-talking-to-ai-impacts-young-childrens-development-285396",
           "date": "2026-06-17T15:50:05Z"
-        },
-        {
-          "title": "The US government can shut off access to AI at will. What does this mean for Australia?",
-          "link": "https://theconversation.com/the-us-government-can-shut-off-access-to-ai-at-will-what-does-this-mean-for-australia-285480",
-          "date": "2026-06-17T06:48:41Z"
         }
       ],
       "error": null
@@ -385,6 +359,11 @@
       "name": "Artificial intelligence (AI) | The Guardian",
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
+        {
+          "title": "Office workers of the world unite: it\u2019s time to revive the three-martini lunch | Andrea Javor",
+          "link": "https://www.theguardian.com/commentisfree/2026/jun/18/three-martini-lunch",
+          "date": "Thu, 18 Jun 2026 10:00:03 GMT"
+        },
         {
           "title": "Gig workers are endlessly exploited. AI could make more of us share their fate",
           "link": "https://www.theguardian.com/technology/2026/jun/18/ai-threatens-gig-work-rise",
@@ -404,11 +383,6 @@
           "title": "Will it take a \u2018Chernobyl-scale disaster\u2019 for us to regulate AI? | Stuart Russell",
           "link": "https://www.theguardian.com/commentisfree/2026/jun/17/anthropic-ai-rsi-fable",
           "date": "Wed, 17 Jun 2026 10:00:28 GMT"
-        },
-        {
-          "title": "Trump\u2019s DoJ intervenes to back Elon Musk in datacenter pollution lawsuit",
-          "link": "https://www.theguardian.com/technology/2026/jun/16/elon-musk-xai-datacenters-trump-administration",
-          "date": "Tue, 16 Jun 2026 23:01:13 GMT"
         }
       ],
       "error": null
