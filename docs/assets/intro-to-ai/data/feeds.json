@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T19:25:04.858895+00:00",
+  "generatedAt": "2026-06-18T22:04:27.142078+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -107,7 +107,7 @@
       "name": "AI Archives | KnowTechie",
       "url": "https://knowtechie.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:22:0: undefined entity"
+      "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1016)>"
     },
     {
       "name": "AI Business",
@@ -290,6 +290,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "NASA asks Northrop Grumman to stop working on lunar HALO module",
+          "link": "https://arstechnica.com/space/2026/06/nasas-1-1-billion-gateway-habitation-module-is-unlikely-to-be-used-for-something-else/",
+          "date": "Thu, 18 Jun 2026 20:49:55 +0000"
+        },
+        {
+          "title": "Android verification is coming: Google confirms timeline and supported app stores",
+          "link": "https://arstechnica.com/gadgets/2026/06/google-shares-updated-timeline-for-rolling-out-android-developer-verification/",
+          "date": "Thu, 18 Jun 2026 19:53:33 +0000"
+        },
+        {
+          "title": "Apple patches high-severity eavesdropping vulnerability in Beats Studio Buds",
+          "link": "https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/",
+          "date": "Thu, 18 Jun 2026 19:41:35 +0000"
+        },
+        {
           "title": "After Senate vote, Trump admin backs off plans to kill ocean monitoring",
           "link": "https://arstechnica.com/science/2026/06/after-senate-vote-trump-admin-backs-off-plans-to-kill-ocean-monitoring/",
           "date": "Thu, 18 Jun 2026 18:19:44 +0000"
@@ -298,21 +313,6 @@
           "title": "Before SpaceX IPO, investors in China secretly acquired stakes",
           "link": "https://arstechnica.com/information-technology/2026/06/before-spacex-ipo-investors-in-china-secretly-acquired-stakes/",
           "date": "Thu, 18 Jun 2026 17:42:18 +0000"
-        },
-        {
-          "title": "Bernie Sanders unveils $7 trillion plan to give Americans control of AI industry",
-          "link": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/",
-          "date": "Thu, 18 Jun 2026 17:02:49 +0000"
-        },
-        {
-          "title": "Hunter-gatherers in Siberia died of a plague outbreak 5,500 years ago",
-          "link": "https://arstechnica.com/science/2026/06/hunter-gatherers-in-siberia-died-of-a-plague-outbreak-5500-years-ago/",
-          "date": "Thu, 18 Jun 2026 15:04:40 +0000"
-        },
-        {
-          "title": "The first long-duration resident of the ISS, a cosmonaut, has died",
-          "link": "https://arstechnica.com/space/2026/06/cosmonaut-aleksandr-samokutyaev-56-is-first-former-iss-crew-member-to-die/",
-          "date": "Thu, 18 Jun 2026 14:34:36 +0000"
         }
       ],
       "error": null
@@ -320,39 +320,18 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "Most companies' AI problem is not the model",
-          "link": "https://www.reddit.com/r/artificial/comments/1u9dfh5/most_companies_ai_problem_is_not_the_model/",
-          "date": "2026-06-18T17:58:06+00:00"
-        },
-        {
-          "title": "RNNs vs Transformers vs SSMs: where should AI memory live for continual learning?",
-          "link": "https://www.reddit.com/r/artificial/comments/1u9ba5s/rnns_vs_transformers_vs_ssms_where_should_ai/",
-          "date": "2026-06-18T16:39:07+00:00"
-        },
-        {
-          "title": "Anthropic CEO Dario Amodei goes completely candid on why he left OpenAI: \"When you feel that you can't trust someone when you see disturbing patterns of behavior, dishonesty, that makes it very hard to continue.\"",
-          "link": "https://www.reddit.com/r/artificial/comments/1u8zigf/anthropic_ceo_dario_amodei_goes_completely_candid/",
-          "date": "2026-06-18T07:22:11+00:00"
-        },
-        {
-          "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows | TechCrunch",
-          "link": "https://www.reddit.com/r/artificial/comments/1u93rnf/only_16_percent_of_americans_think_ai_will_have_a/",
-          "date": "2026-06-18T11:32:56+00:00"
-        },
-        {
-          "title": "Microsoft Makes Big AI Inroads in China by Selling OpenAI Models",
-          "link": "https://www.reddit.com/r/artificial/comments/1u9a54p/microsoft_makes_big_ai_inroads_in_china_by/",
-          "date": "2026-06-18T15:56:45+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "More than chatbots: why business AI agents are Big Tech\u2019s next product battleground",
+          "link": "https://theconversation.com/more-than-chatbots-why-business-ai-agents-are-big-techs-next-product-battleground-285055",
+          "date": "2026-06-18T19:44:41Z"
+        },
         {
           "title": "People are marrying holograms and making friends with chatbots. But can AI bring true happiness?",
           "link": "https://theconversation.com/people-are-marrying-holograms-and-making-friends-with-chatbots-but-can-ai-bring-true-happiness-284872",
@@ -372,11 +351,6 @@
           "title": "Australia risks losing its \u2018corporate brain\u2019 if more high-value jobs keep being sent offshore",
           "link": "https://theconversation.com/australia-risks-losing-its-corporate-brain-if-more-high-value-jobs-keep-being-sent-offshore-285343",
           "date": "2026-06-17T20:13:03Z"
-        },
-        {
-          "title": "New study shows 1 in 7 people have been victims of sextortion \u2013 and AI is making it worse",
-          "link": "https://theconversation.com/new-study-shows-1-in-7-people-have-been-victims-of-sextortion-and-ai-is-making-it-worse-284954",
-          "date": "2026-06-17T20:12:30Z"
         }
       ],
       "error": null
@@ -482,6 +456,16 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "The White House Is Making Up Its Rules for AI in Real Time",
+          "link": "https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/",
+          "date": "Thu, 18 Jun 2026 21:03:43 +0000"
+        },
+        {
+          "title": "Meta\u2019s AI Workers Are Revolting, Peter Thiel\u2019s Secret Society, and SBF\u2019s Plea to Trump",
+          "link": "https://www.wired.com/story/uncanny-valley-podcast-meta-ai-workers-revolting-peter-thiel-secret-society-sbf-plea-to-trump/",
+          "date": "Thu, 18 Jun 2026 19:29:51 +0000"
+        },
+        {
           "title": "3 Amazon Workers Say They\u2019re Under Investigation for Speaking Out About Data Centers",
           "link": "https://www.wired.com/story/amazon-workers-under-internal-investigation-after-speaking-out-about-data-centers/",
           "date": "Thu, 18 Jun 2026 16:03:27 +0000"
@@ -495,16 +479,6 @@
           "title": "The Korean Telecom Giant at the Center of Anthropic\u2019s Mythos Controversy",
           "link": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
           "date": "Wed, 17 Jun 2026 22:52:00 +0000"
-        },
-        {
-          "title": "Operating a Humanoid With Your Body Is a Hot Job in China\u2019s Hardware Capital",
-          "link": "https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/",
-          "date": "Wed, 17 Jun 2026 18:25:35 +0000"
-        },
-        {
-          "title": "The White House Wants Anthropic to Block All Jailbreaks. That May Not Be Possible",
-          "link": "https://www.wired.com/story/the-white-house-wants-anthropic-to-block-all-jailbreaks-that-may-not-be-possible/",
-          "date": "Wed, 17 Jun 2026 17:00:00 +0000"
         }
       ],
       "error": null
