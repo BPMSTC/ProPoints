@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T06:14:58.069010+00:00",
+  "generatedAt": "2026-06-19T11:19:24.066261+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -360,6 +360,16 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Over-reliance on chatbots can diminish critical-thinking skills, study finds",
+          "link": "https://www.theguardian.com/us-news/2026/jun/19/chatbots-critical-thinking-skills",
+          "date": "Fri, 19 Jun 2026 11:00:32 GMT"
+        },
+        {
+          "title": "Jennifer Siebel Newsom\u2019s new film shines a light on the human cost of unregulated social media",
+          "link": "https://www.theguardian.com/culture/2026/jun/19/jennifer-siebel-newsom-documentary-miss-representation-rise-up",
+          "date": "Fri, 19 Jun 2026 10:00:28 GMT"
+        },
+        {
           "title": "\u2018Ordinary people are being erased\u2019: one director\u2019s audacious fightback against AI \u2013 featuring Frinton",
           "link": "https://www.theguardian.com/film/2026/jun/18/marc-isaacs-synthetic-sincerity-ai",
           "date": "Thu, 18 Jun 2026 14:33:27 GMT"
@@ -373,16 +383,6 @@
           "title": "Gig workers are endlessly exploited. AI could make more of us share their fate",
           "link": "https://www.theguardian.com/technology/2026/jun/18/ai-threatens-gig-work-rise",
           "date": "Thu, 18 Jun 2026 08:00:00 GMT"
-        },
-        {
-          "title": "I had a blood clot. An AI diagnosis may have saved my life | Gleb Tsipursky",
-          "link": "https://www.theguardian.com/commentisfree/2026/jun/17/blood-clot-dvt-ai-diagnosis",
-          "date": "Wed, 17 Jun 2026 13:00:31 GMT"
-        },
-        {
-          "title": "The curious case of Elias Thorne \u2013 and what he tells us about AI inbreeding | Arwa Mahdawi",
-          "link": "https://www.theguardian.com/commentisfree/2026/jun/17/elias-thorne-ai-generated-stories",
-          "date": "Wed, 17 Jun 2026 10:00:29 GMT"
         }
       ],
       "error": null
