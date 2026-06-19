@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T00:23:46.812908+00:00",
+  "generatedAt": "2026-06-19T06:14:58.069010+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "A bold satellite rescue mission came together in record time, but will it work?",
+          "link": "https://arstechnica.com/space/2026/06/a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/",
+          "date": "Fri, 19 Jun 2026 00:39:30 +0000"
+        },
+        {
+          "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
+          "link": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
+          "date": "Thu, 18 Jun 2026 23:28:52 +0000"
+        },
+        {
           "title": "FDA advisors unanimously vote to approve Moderna's mRNA after agency drama",
           "link": "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/",
           "date": "Thu, 18 Jun 2026 22:08:59 +0000"
@@ -303,16 +313,6 @@
           "title": "NASA asks Northrop Grumman to stop working on lunar HALO module",
           "link": "https://arstechnica.com/space/2026/06/nasas-1-1-billion-gateway-habitation-module-is-unlikely-to-be-used-for-something-else/",
           "date": "Thu, 18 Jun 2026 20:49:55 +0000"
-        },
-        {
-          "title": "Android verification is coming: Google confirms timeline and supported app stores",
-          "link": "https://arstechnica.com/gadgets/2026/06/google-shares-updated-timeline-for-rolling-out-android-developer-verification/",
-          "date": "Thu, 18 Jun 2026 19:53:33 +0000"
-        },
-        {
-          "title": "Apple patches high-severity eavesdropping vulnerability in Beats Studio Buds",
-          "link": "https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/",
-          "date": "Thu, 18 Jun 2026 19:41:35 +0000"
         }
       ],
       "error": null
@@ -488,6 +488,11 @@
       "url": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "items": [
         {
+          "title": "SpaceX wants to build AI data centers in space. Will it work?",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260618041501.htm",
+          "date": "Thu, 18 Jun 2026 23:43:09 EDT"
+        },
+        {
           "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
           "link": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
           "date": "Fri, 12 Jun 2026 06:38:54 EDT"
@@ -506,11 +511,6 @@
           "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
           "link": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
           "date": "Mon, 18 May 2026 20:23:26 EDT"
-        },
-        {
-          "title": "NASA\u2019s new AI space chip could let spacecraft think for themselves",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
-          "date": "Fri, 15 May 2026 04:13:15 EDT"
         }
       ],
       "error": null
