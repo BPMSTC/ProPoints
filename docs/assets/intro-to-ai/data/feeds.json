@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-06-19T14:58:06.264797+00:00",
+  "generatedAt": "2026-06-19T17:21:05.616588+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Behind the Blog: Landfillcore and Go Knicks",
+          "link": "https://www.404media.co/behind-the-blog-landfillcore-and-go-knicks/",
+          "date": "Fri, 19 Jun 2026 16:07:48 GMT"
+        },
         {
           "title": "A New Fossil Discovery Just Rewrote 150 Years of Evolutionary Theory",
           "link": "https://www.404media.co/a-new-fossil-discovery-just-rewrote-150-years-of-evolutionary-theory/",
@@ -24,11 +29,6 @@
           "title": "ICE Appears to Be Buying Immigrants\u2019 Tax Identifiers from a Data Broker",
           "link": "https://www.404media.co/ice-appears-to-be-buying-immigrants-tax-identifiers-from-a-data-broker/",
           "date": "Wed, 17 Jun 2026 14:03:51 GMT"
-        },
-        {
-          "title": "Podcast: The Government Wants to End Anonymity on Phones",
-          "link": "https://www.404media.co/podcast-the-government-wants-to-end-anonymity-on-phones/",
-          "date": "Wed, 17 Jun 2026 13:16:59 GMT"
         }
       ],
       "error": null
@@ -70,6 +70,21 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "AIAI New York, June 2026",
+          "link": "https://www.aiacceleratorinstitute.com/aiai-new-york-june-2026-2/",
+          "date": "Fri, 19 Jun 2026 15:36:57 GMT"
+        },
+        {
+          "title": "From prediction to decision:  Smaller models will reshape how we build AI",
+          "link": "https://www.aiacceleratorinstitute.com/from-prediction-to-decision-smaller-models-will-reshape-how-we-build-ai/",
+          "date": "Fri, 19 Jun 2026 15:00:00 GMT"
+        },
+        {
+          "title": "AIAI New York, June 2026",
+          "link": "https://www.aiacceleratorinstitute.com/aiai-new-york-2026/",
+          "date": "Fri, 19 Jun 2026 14:52:13 GMT"
+        },
+        {
           "title": "Thanks for registering",
           "link": "https://www.aiacceleratorinstitute.com/thanks-for-registering-2/",
           "date": "Fri, 19 Jun 2026 11:33:26 GMT"
@@ -78,21 +93,6 @@
           "title": "The US AI rulebook is being rewritten.  Your compliance team can't wait",
           "link": "https://www.aiacceleratorinstitute.com/the-us-ai-rulebook-is-being-rewritten-your-compliance-team-cant-wait/",
           "date": "Thu, 18 Jun 2026 13:59:05 GMT"
-        },
-        {
-          "title": "Is your most capable AI agent  also your biggest data leak?",
-          "link": "https://www.aiacceleratorinstitute.com/is-your-most-capable-ai-agent-also-your-biggest-data-leak/",
-          "date": "Wed, 17 Jun 2026 15:29:32 GMT"
-        },
-        {
-          "title": "The benchmark gap, explained:   What AI leaderboards measure and what they miss",
-          "link": "https://www.aiacceleratorinstitute.com/the-benchmark-gap-explained-what-ai-leaderboards-measure-and-what-they-miss/",
-          "date": "Thu, 11 Jun 2026 11:48:08 GMT"
-        },
-        {
-          "title": "6 things every AI leader needs  to get right in H2 2026",
-          "link": "https://www.aiacceleratorinstitute.com/6-things-every-ai-leader-needs-to-get-right-in-h2-2026/",
-          "date": "Tue, 09 Jun 2026 11:44:12 GMT"
         }
       ],
       "error": null
@@ -320,7 +320,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "The Pentagon's AI chief swore in a court filing that xAI's Grok helped fire 2,000 munitions at 2,000 targets in 96 hours",
+          "link": "https://www.reddit.com/r/artificial/comments/1ua5j2y/the_pentagons_ai_chief_swore_in_a_court_filing/",
+          "date": "2026-06-19T15:47:34+00:00"
+        },
+        {
+          "title": "Bernie Sanders wants to give every American $1000 a year from AI profits and the reasoning actually makes sense",
+          "link": "https://www.reddit.com/r/artificial/comments/1u9ifn2/bernie_sanders_wants_to_give_every_american_1000/",
+          "date": "2026-06-18T21:05:42+00:00"
+        },
+        {
+          "title": "Started maintaining a small library at work and now I genuinely understand why maintainers go quiet",
+          "link": "https://www.reddit.com/r/artificial/comments/1u9fwfx/started_maintaining_a_small_library_at_work_and/",
+          "date": "2026-06-18T19:28:58+00:00"
+        },
+        {
+          "title": "AI learned to be a villain from Hollywood. Here's how we retrain it.",
+          "link": "https://www.reddit.com/r/artificial/comments/1ua6yez/ai_learned_to_be_a_villain_from_hollywood_heres/",
+          "date": "2026-06-19T16:41:43+00:00"
+        },
+        {
+          "title": "Maybe Coding Agents Don't Need a Bigger Memory. Maybe They Need Continuity",
+          "link": "https://www.reddit.com/r/artificial/comments/1ua5h4l/maybe_coding_agents_dont_need_a_bigger_memory/",
+          "date": "2026-06-19T15:45:25+00:00"
+        }
+      ],
       "error": null
     },
     {
@@ -360,6 +386,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Say what?! New insults to use in 2026 | Fiona Katauskas",
+          "link": "https://www.theguardian.com/commentisfree/picture/2026/jun/20/say-what-new-insults-to-use-in-2026",
+          "date": "Fri, 19 Jun 2026 15:00:37 GMT"
+        },
+        {
           "title": "\u2018It\u2019s a scam\u2019: Americans express unease over SpaceX\u2019s influence on retirement savings",
           "link": "https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk",
           "date": "Fri, 19 Jun 2026 12:00:33 GMT"
@@ -378,11 +409,6 @@
           "title": "\u2018Ordinary people are being erased\u2019: one director\u2019s audacious fightback against AI \u2013 featuring Frinton",
           "link": "https://www.theguardian.com/film/2026/jun/18/marc-isaacs-synthetic-sincerity-ai",
           "date": "Thu, 18 Jun 2026 14:33:27 GMT"
-        },
-        {
-          "title": "Office workers of the world unite: it\u2019s time to revive the three-martini lunch | Andrea Javor",
-          "link": "https://www.theguardian.com/commentisfree/2026/jun/18/three-martini-lunch",
-          "date": "Thu, 18 Jun 2026 10:00:03 GMT"
         }
       ],
       "error": null
@@ -424,6 +450,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Grocery Stores Deploying \u201cAI Shopping Carts\u201d Stuffed With Cameras to Track Your Exact Coordinates and Bombard You With Ads",
+          "link": "https://futurism.com/artificial-intelligence/grocery-stores-ai-shopping-carts-surveillance",
+          "date": "Fri, 19 Jun 2026 13:00:00 -0400"
+        },
+        {
           "title": "OpenAI Just Hired a Guy Accused of Terrible Things",
           "link": "https://futurism.com/artificial-intelligence/openai-hires-noam-shazeer",
           "date": "Fri, 19 Jun 2026 10:00:00 -0400"
@@ -442,11 +473,6 @@
           "title": "Anthropic Sued for Allegedly Ripping Off Its Highest-Paying Customers",
           "link": "https://futurism.com/artificial-intelligence/anthropic-sued-ripping-off-customers",
           "date": "Thu, 18 Jun 2026 12:11:32 -0400"
-        },
-        {
-          "title": "Google\u2019s AI Overviews Feature Is Telling Users That SCP Horror Fiction Entities Are Real",
-          "link": "https://futurism.com/artificial-intelligence/google-ai-overview-scp-horror-fiction-real",
-          "date": "Thu, 18 Jun 2026 11:01:28 -0400"
         }
       ],
       "error": null
