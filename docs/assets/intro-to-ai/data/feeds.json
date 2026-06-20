@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T08:50:59.576111+00:00",
+  "generatedAt": "2026-06-20T11:14:54.358625+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -360,29 +360,29 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "A viral doomsday scenario aims to shake Europe out of its AI complacency",
+          "link": "https://www.theguardian.com/technology/2026/jun/20/europe-sleepwalking-ai-disaster-us-china",
+          "date": "Sat, 20 Jun 2026 09:59:12 GMT"
+        },
+        {
+          "title": "Lloyds Banking Group to hire 300 tech experts to work on AI",
+          "link": "https://www.theguardian.com/business/2026/jun/20/lloyds-banking-group-ai-recruitment-drive-300-tech-experts",
+          "date": "Sat, 20 Jun 2026 11:00:03 GMT"
+        },
+        {
+          "title": "How do people in the US describe customer service in 2026? \u2018Debilitating, depressing, enraging. Ugh\u2019",
+          "link": "https://www.theguardian.com/us-news/2026/jun/20/guardian-readers-consumer-battles",
+          "date": "Sat, 20 Jun 2026 11:00:03 GMT"
+        },
+        {
+          "title": "Granta stops publishing short story award winners over AI controversy",
+          "link": "https://www.theguardian.com/books/2026/jun/20/granta-magazine-commonwealth-short-story-prize-ai",
+          "date": "Sat, 20 Jun 2026 09:00:04 GMT"
+        },
+        {
           "title": "Say what?! New insults to use in 2026 | Fiona Katauskas",
           "link": "https://www.theguardian.com/commentisfree/picture/2026/jun/20/say-what-new-insults-to-use-in-2026",
           "date": "Fri, 19 Jun 2026 15:00:37 GMT"
-        },
-        {
-          "title": "\u2018It\u2019s a scam\u2019: Americans express unease over SpaceX\u2019s influence on retirement savings",
-          "link": "https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk",
-          "date": "Fri, 19 Jun 2026 12:00:33 GMT"
-        },
-        {
-          "title": "Over-reliance on chatbots can diminish critical-thinking skills, study finds",
-          "link": "https://www.theguardian.com/us-news/2026/jun/19/chatbots-critical-thinking-skills",
-          "date": "Fri, 19 Jun 2026 11:00:32 GMT"
-        },
-        {
-          "title": "Jennifer Siebel Newsom\u2019s new film shines a light on the human cost of unregulated social media",
-          "link": "https://www.theguardian.com/culture/2026/jun/19/jennifer-siebel-newsom-documentary-miss-representation-rise-up",
-          "date": "Fri, 19 Jun 2026 10:00:28 GMT"
-        },
-        {
-          "title": "\u2018Ordinary people are being erased\u2019: one director\u2019s audacious fightback against AI \u2013 featuring Frinton",
-          "link": "https://www.theguardian.com/film/2026/jun/18/marc-isaacs-synthetic-sincerity-ai",
-          "date": "Thu, 18 Jun 2026 14:33:27 GMT"
         }
       ],
       "error": null
@@ -456,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Siri AI Hands On: A Smart, Helpful Assistant",
+          "link": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
+          "date": "Sat, 20 Jun 2026 10:00:00 +0000"
+        },
+        {
           "title": "How the Peter Thiel-Linked Dialog Club Secretly Ranks Its Members",
           "link": "https://www.wired.com/story/how-peter-thiels-private-dialog-club-secretly-ranks-its-members/",
           "date": "Thu, 18 Jun 2026 22:12:45 +0000"
@@ -474,11 +479,6 @@
           "title": "3 Amazon Workers Say They\u2019re Under Investigation for Speaking Out About Data Centers",
           "link": "https://www.wired.com/story/amazon-workers-under-internal-investigation-after-speaking-out-about-data-centers/",
           "date": "Thu, 18 Jun 2026 16:03:27 +0000"
-        },
-        {
-          "title": "The UK Will Scan Asylum-Seekers\u2019 Faces for Age Checks\u2014Despite Knowing the Tech Is Flawed",
-          "link": "https://www.wired.com/story/facial-age-estimate-uk-asylum-seekers/",
-          "date": "Thu, 18 Jun 2026 06:00:00 +0000"
         }
       ],
       "error": null
