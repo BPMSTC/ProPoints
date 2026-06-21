@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T08:27:47.481873+00:00",
+  "generatedAt": "2026-06-21T11:43:39.618245+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Review: Widow's Bay is a boldly original take on comedic horror",
+          "link": "https://arstechnica.com/culture/2026/06/review-widows-bay-is-a-boldly-original-take-on-comedic-horror/",
+          "date": "Sun, 21 Jun 2026 10:00:11 +0000"
+        },
+        {
           "title": "The UK will scan asylum-seekers\u2019 faces for age checks\u2014despite knowing the tech is flawed",
           "link": "https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/",
           "date": "Sat, 20 Jun 2026 11:15:09 +0000"
@@ -308,11 +313,6 @@
           "title": "A bold satellite rescue mission came together in record time, but will it work?",
           "link": "https://arstechnica.com/space/2026/06/a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/",
           "date": "Fri, 19 Jun 2026 00:39:30 +0000"
-        },
-        {
-          "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
-          "link": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
-          "date": "Thu, 18 Jun 2026 23:28:52 +0000"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "New Law Would Give Artists Sweeping Protections Against AI Stealing Their Work",
+          "link": "https://futurism.com/artificial-intelligence/law-protect-artists-ai",
+          "date": "Sun, 21 Jun 2026 07:00:00 -0400"
+        },
+        {
           "title": "TikTok Has Been Completely Taken Over by AI Slop",
           "link": "https://futurism.com/artificial-intelligence/tiktok-taken-over-ai-slop",
           "date": "Sat, 20 Jun 2026 09:00:00 -0400"
@@ -442,11 +447,6 @@
           "title": "OpenAI Just Hired a Guy Accused of Terrible Things",
           "link": "https://futurism.com/artificial-intelligence/openai-hires-noam-shazeer",
           "date": "Fri, 19 Jun 2026 10:00:00 -0400"
-        },
-        {
-          "title": "Get Ready for a Catastrophic Leak That Reveals All Your Messages and Search History",
-          "link": "https://futurism.com/artificial-intelligence/catastrophic-leak-all-messages-search-history",
-          "date": "Fri, 19 Jun 2026 09:00:00 -0400"
         }
       ],
       "error": null
@@ -455,6 +455,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "28 Tips to Take Your ChatGPT Prompts to the Next Level",
+          "link": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/",
+          "date": "Sun, 21 Jun 2026 10:30:00 +0000"
+        },
         {
           "title": "Siri AI Hands On: A Smart, Helpful Assistant",
           "link": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
@@ -474,11 +479,6 @@
           "title": "Meta\u2019s AI Workers Are Revolting, Peter Thiel\u2019s Secret Society, and SBF\u2019s Plea to Trump",
           "link": "https://www.wired.com/story/uncanny-valley-podcast-meta-ai-workers-revolting-peter-thiel-secret-society-sbf-plea-to-trump/",
           "date": "Thu, 18 Jun 2026 19:29:51 +0000"
-        },
-        {
-          "title": "3 Amazon Workers Say They\u2019re Under Investigation for Speaking Out About Data Centers",
-          "link": "https://www.wired.com/story/amazon-workers-under-internal-investigation-after-speaking-out-about-data-centers/",
-          "date": "Thu, 18 Jun 2026 16:03:27 +0000"
         }
       ],
       "error": null
