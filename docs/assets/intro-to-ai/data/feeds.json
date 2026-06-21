@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T03:53:55.468690+00:00",
+  "generatedAt": "2026-06-21T08:27:47.481873+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -360,14 +360,9 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "A viral doomsday scenario aims to shake Europe out of its AI complacency",
-          "link": "https://www.theguardian.com/technology/2026/jun/20/europe-sleepwalking-ai-disaster-us-china",
-          "date": "Sat, 20 Jun 2026 09:59:12 GMT"
-        },
-        {
-          "title": "Lloyds Banking Group to hire 300 tech experts to work on AI",
-          "link": "https://www.theguardian.com/business/2026/jun/20/lloyds-banking-group-ai-recruitment-drive-300-tech-experts",
-          "date": "Sat, 20 Jun 2026 11:00:03 GMT"
+          "title": "Brands using AI-generated influencers to promote products on social media",
+          "link": "https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media",
+          "date": "Sun, 21 Jun 2026 06:00:23 GMT"
         },
         {
           "title": "How do people in the US describe customer service in 2026? \u2018Debilitating, depressing, enraging. Ugh\u2019",
@@ -375,14 +370,19 @@
           "date": "Sat, 20 Jun 2026 11:00:03 GMT"
         },
         {
+          "title": "Lloyds Banking Group to hire 300 tech experts to work on AI",
+          "link": "https://www.theguardian.com/business/2026/jun/20/lloyds-banking-group-ai-recruitment-drive-300-tech-experts",
+          "date": "Sat, 20 Jun 2026 11:00:03 GMT"
+        },
+        {
+          "title": "A viral doomsday scenario aims to shake Europe out of its AI complacency",
+          "link": "https://www.theguardian.com/technology/2026/jun/20/europe-sleepwalking-ai-disaster-us-china",
+          "date": "Sat, 20 Jun 2026 09:59:12 GMT"
+        },
+        {
           "title": "Granta stops publishing short story award winners over AI controversy",
           "link": "https://www.theguardian.com/books/2026/jun/20/granta-magazine-commonwealth-short-story-prize-ai",
           "date": "Sat, 20 Jun 2026 09:00:04 GMT"
-        },
-        {
-          "title": "Say what?! New insults to use in 2026 | Fiona Katauskas",
-          "link": "https://www.theguardian.com/commentisfree/picture/2026/jun/20/say-what-new-insults-to-use-in-2026",
-          "date": "Fri, 19 Jun 2026 15:00:37 GMT"
         }
       ],
       "error": null
