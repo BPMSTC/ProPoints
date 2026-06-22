@@ -1,10 +1,25 @@
 {
-  "generatedAt": "2026-06-22T12:47:11.994962+00:00",
+  "generatedAt": "2026-06-22T17:29:27.175176+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "'We Will Fight to Our Very Last Breath:' Township Leaders Vow to Fight Nuclear AI Data Center",
+          "link": "https://www.404media.co/we-will-fight-to-our-very-last-breath-township-leaders-vow-to-fight-nuclear-ai-data-center/",
+          "date": "Mon, 22 Jun 2026 15:24:09 GMT"
+        },
+        {
+          "title": "Stopping Tech Company Censorship (with Jake Hanrahan)",
+          "link": "https://www.404media.co/stopping-tech-company-censorship-with-jake-hanrahan/",
+          "date": "Mon, 22 Jun 2026 14:27:48 GMT"
+        },
+        {
+          "title": "Are Public Libraries Becoming Children\u2019s Libraries?",
+          "link": "https://www.404media.co/are-public-libraries-becoming-childrens-libraries/",
+          "date": "Mon, 22 Jun 2026 14:00:24 GMT"
+        },
         {
           "title": "Scientists Propose Black Holes Don\u2019t Exist, Are Something Much Stranger",
           "link": "https://www.404media.co/scientists-propose-black-holes-dont-exist-are-something-much-stranger/",
@@ -14,21 +29,6 @@
           "title": "Behind the Blog: Landfillcore and Go Knicks",
           "link": "https://www.404media.co/behind-the-blog-landfillcore-and-go-knicks/",
           "date": "Fri, 19 Jun 2026 16:07:48 GMT"
-        },
-        {
-          "title": "A New Fossil Discovery Just Rewrote 150 Years of Evolutionary Theory",
-          "link": "https://www.404media.co/a-new-fossil-discovery-just-rewrote-150-years-of-evolutionary-theory/",
-          "date": "Thu, 18 Jun 2026 18:00:35 GMT"
-        },
-        {
-          "title": "If AI Is Sentient Then So Is \u2018Age of Empires II\u2019",
-          "link": "https://www.404media.co/if-ai-is-sentient-then-so-is-age-of-empires-ii/",
-          "date": "Thu, 18 Jun 2026 14:22:58 GMT"
-        },
-        {
-          "title": "Salesforce\u2019s Internal AI Leaderboard Has Teams Competing for Little Trophies",
-          "link": "https://www.404media.co/salesforces-internal-ai-leaderboard-has-teams-competing-for-little-trophies/",
-          "date": "Thu, 18 Jun 2026 13:23:17 GMT"
         }
       ],
       "error": null
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "The hidden costs of scaling AI and how to get ahead of them",
+          "link": "https://www.aiacceleratorinstitute.com/the-hidden-costs-of-scaling-ai/",
+          "date": "Mon, 22 Jun 2026 15:33:03 GMT"
+        },
+        {
           "title": "AIAI New York, June 2026",
           "link": "https://www.aiacceleratorinstitute.com/aiai-new-york-june-2026-2/",
           "date": "Fri, 19 Jun 2026 15:36:57 GMT"
@@ -88,11 +93,6 @@
           "title": "Thanks for registering",
           "link": "https://www.aiacceleratorinstitute.com/thanks-for-registering-2/",
           "date": "Fri, 19 Jun 2026 11:33:26 GMT"
-        },
-        {
-          "title": "The US AI rulebook is being rewritten.  Your compliance team can't wait",
-          "link": "https://www.aiacceleratorinstitute.com/the-us-ai-rulebook-is-being-rewritten-your-compliance-team-cant-wait/",
-          "date": "Thu, 18 Jun 2026 13:59:05 GMT"
         }
       ],
       "error": null
@@ -114,6 +114,16 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Nvidia Launches System to Make Robots Safer",
+          "link": "https://aibusiness.com/robotics/nvidia-launches-system-make-robots-safer",
+          "date": "Mon, 22 Jun 2026 16:23:16 GMT"
+        },
+        {
+          "title": "World Model AI Lab Odyssey Now Valued at $1.45B",
+          "link": "https://aibusiness.com/generative-ai/world-model-ai-lab-odyssey-valued-at-1-45-billion",
+          "date": "Mon, 22 Jun 2026 14:48:31 GMT"
+        },
+        {
           "title": "Prompt: The AI Race Enters Its Sovereignty Phase",
           "link": "https://aibusiness.com/generative-ai/prompt-ai-race-enters-sovereignty-phase",
           "date": "Thu, 18 Jun 2026 17:52:38 GMT"
@@ -127,16 +137,6 @@
           "title": "Stellantis, Wayve and Uber to Develop Global Robotaxi",
           "link": "https://aibusiness.com/generative-ai/stellantis-wayve-uber-develop-global-robotaxi",
           "date": "Thu, 18 Jun 2026 14:55:22 GMT"
-        },
-        {
-          "title": "AWS\u2019 Agentic Tools Trail Rivals, but Respond to Real Problems",
-          "link": "https://aibusiness.com/agentic-ai/aws-s-new-agentic-tools-trail-rivals-respond-real-problems",
-          "date": "Wed, 17 Jun 2026 20:25:21 GMT"
-        },
-        {
-          "title": "SpaceX Aims at Agentic Coding With $60B Cursor Acquisition",
-          "link": "https://aibusiness.com/generative-ai/spacex-aims-agentic-coding-60b-cursor-acquisition",
-          "date": "Tue, 16 Jun 2026 18:49:27 GMT"
         }
       ],
       "error": null
@@ -290,29 +290,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Trump admin\u2019s coal investments assist plants with repeated violations",
-          "link": "https://arstechnica.com/science/2026/06/trump-admins-coal-investments-assist-plants-with-repeated-violations/",
-          "date": "Sun, 21 Jun 2026 17:49:35 +0000"
+          "title": "Lucid lays off 1,500 workers in second big cut of the year",
+          "link": "https://arstechnica.com/cars/2026/06/lucid-lays-off-1500-workers-in-second-big-cut-of-the-year/",
+          "date": "Mon, 22 Jun 2026 15:22:46 +0000"
         },
         {
-          "title": "Review: Widow's Bay is a boldly original take on comedic horror",
-          "link": "https://arstechnica.com/culture/2026/06/review-widows-bay-is-a-boldly-original-take-on-comedic-horror/",
-          "date": "Sun, 21 Jun 2026 10:00:11 +0000"
+          "title": "A US military exercise in space got underway with barely anyone noticing",
+          "link": "https://arstechnica.com/space/2026/06/a-us-military-exercise-in-space-got-underway-with-barely-anyone-noticing/",
+          "date": "Mon, 22 Jun 2026 15:18:23 +0000"
         },
         {
-          "title": "The UK will scan asylum-seekers\u2019 faces for age checks\u2014despite knowing the tech is flawed",
-          "link": "https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/",
-          "date": "Sat, 20 Jun 2026 11:15:09 +0000"
+          "title": "1,250 hp hybrid Corvette shatters the Pikes Peak production record",
+          "link": "https://arstechnica.com/cars/2026/06/pikes-peak-2026-was-a-battle-of-propulsion-with-an-ev-and-a-hybrid-winning-out/",
+          "date": "Mon, 22 Jun 2026 15:07:00 +0000"
         },
         {
-          "title": "Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars",
-          "link": "https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/",
-          "date": "Fri, 19 Jun 2026 13:36:53 +0000"
+          "title": "This former hacker saw the light\u2014and now wants to collect all of it",
+          "link": "https://arstechnica.com/features/2026/06/this-former-hacker-saw-the-light-and-now-wants-to-collect-all-of-it/",
+          "date": "Mon, 22 Jun 2026 14:11:03 +0000"
         },
         {
-          "title": "As global warming threatens corals, scientists search for reefs that can take the heat",
-          "link": "https://arstechnica.com/science/2026/06/as-global-warming-threatens-corals-scientists-search-for-reefs-that-can-take-the-heat/",
-          "date": "Fri, 19 Jun 2026 11:15:11 +0000"
+          "title": "How Anthropic may have talked itself into an AI export ban",
+          "link": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/",
+          "date": "Mon, 22 Jun 2026 13:45:24 +0000"
         }
       ],
       "error": null
@@ -328,6 +328,16 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Compete to survive, cooperate to exist: the sovereignty paradox at the heart of Europe\u2019s defence industry",
+          "link": "https://theconversation.com/compete-to-survive-cooperate-to-exist-the-sovereignty-paradox-at-the-heart-of-europes-defence-industry-285293",
+          "date": "2026-06-22T15:37:21Z"
+        },
+        {
+          "title": "Anyone can fake a scientific image with AI, tricking even academic journals \u2013 and undermining trust in science",
+          "link": "https://theconversation.com/anyone-can-fake-a-scientific-image-with-ai-tricking-even-academic-journals-and-undermining-trust-in-science-281853",
+          "date": "2026-06-22T12:36:17Z"
+        },
+        {
           "title": "World Cup technology: from ref cams to AI analysts, cutting-edge research is changing the game",
           "link": "https://theconversation.com/world-cup-technology-from-ref-cams-to-ai-analysts-cutting-edge-research-is-changing-the-game-285399",
           "date": "2026-06-22T07:09:05Z"
@@ -341,16 +351,6 @@
           "title": "Canada\u2019s AI strategy must reckon with the environmental implications of data centres",
           "link": "https://theconversation.com/canadas-ai-strategy-must-reckon-with-the-environmental-implications-of-data-centres-285333",
           "date": "2026-06-21T12:33:14Z"
-        },
-        {
-          "title": "More than chatbots: why business AI agents are Big Tech\u2019s next product battleground",
-          "link": "https://theconversation.com/more-than-chatbots-why-business-ai-agents-are-big-techs-next-product-battleground-285055",
-          "date": "2026-06-18T19:44:41Z"
-        },
-        {
-          "title": "People are marrying holograms and making friends with chatbots. But can AI bring true happiness?",
-          "link": "https://theconversation.com/people-are-marrying-holograms-and-making-friends-with-chatbots-but-can-ai-bring-true-happiness-284872",
-          "date": "2026-06-18T14:38:25Z"
         }
       ],
       "error": null
@@ -359,6 +359,16 @@
       "name": "Artificial intelligence (AI) | The Guardian",
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
+        {
+          "title": "AI models that can take down governments and business months away, rare Five Eyes statement warns",
+          "link": "https://www.theguardian.com/technology/2026/jun/22/anthropic-claude-fable-ai-model-artificial-intelligence-national-security",
+          "date": "Mon, 22 Jun 2026 13:00:24 GMT"
+        },
+        {
+          "title": "New York City House primary emerges as key battleground in \u2018AI civil war\u2019",
+          "link": "https://www.theguardian.com/us-news/2026/jun/22/new-york-city-house-primary-race",
+          "date": "Mon, 22 Jun 2026 13:00:25 GMT"
+        },
         {
           "title": "We are witnessing the slow death of the prestige career | Alice Lassman",
           "link": "https://www.theguardian.com/commentisfree/2026/jun/22/consulting-ai-prestige-careers",
@@ -373,16 +383,6 @@
           "title": "Lloyds Banking Group to hire 300 tech experts to work on AI",
           "link": "https://www.theguardian.com/business/2026/jun/20/lloyds-banking-group-ai-recruitment-drive-300-tech-experts",
           "date": "Sun, 21 Jun 2026 23:02:43 GMT"
-        },
-        {
-          "title": "Brands using AI-generated influencers to promote products on social media",
-          "link": "https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media",
-          "date": "Sun, 21 Jun 2026 06:00:23 GMT"
-        },
-        {
-          "title": "How do people in the US describe customer service in 2026? \u2018Debilitating, depressing, enraging. Ugh\u2019",
-          "link": "https://www.theguardian.com/us-news/2026/jun/20/guardian-readers-consumer-battles",
-          "date": "Sat, 20 Jun 2026 11:00:03 GMT"
         }
       ],
       "error": null
@@ -456,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic\u2019s Mythos",
+          "link": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
+          "date": "Mon, 22 Jun 2026 17:00:00 +0000"
+        },
+        {
           "title": "Some Electricians Think Building Data Centers Is for Sellouts",
           "link": "https://www.wired.com/story/data-center-buildout-electricians-selling-out/",
           "date": "Mon, 22 Jun 2026 09:30:00 +0000"
@@ -474,11 +479,6 @@
           "title": "Siri AI Hands On: A Smart, Helpful Assistant",
           "link": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
           "date": "Sat, 20 Jun 2026 10:00:00 +0000"
-        },
-        {
-          "title": "How the Peter Thiel-Linked Dialog Club Secretly Ranks Its Members",
-          "link": "https://www.wired.com/story/how-peter-thiels-private-dialog-club-secretly-ranks-its-members/",
-          "date": "Thu, 18 Jun 2026 22:12:45 +0000"
         }
       ],
       "error": null
