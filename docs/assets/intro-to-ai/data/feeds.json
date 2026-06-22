@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T22:11:47.255610+00:00",
+  "generatedAt": "2026-06-22T00:08:33.630160+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -367,7 +367,7 @@
         {
           "title": "Lloyds Banking Group to hire 300 tech experts to work on AI",
           "link": "https://www.theguardian.com/business/2026/jun/20/lloyds-banking-group-ai-recruitment-drive-300-tech-experts",
-          "date": "Sat, 20 Jun 2026 11:00:03 GMT"
+          "date": "Sun, 21 Jun 2026 23:02:43 GMT"
         },
         {
           "title": "How do people in the US describe customer service in 2026? \u2018Debilitating, depressing, enraging. Ugh\u2019",
