@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T06:26:06.757374+00:00",
+  "generatedAt": "2026-06-22T12:47:11.994962+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -328,6 +328,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "World Cup technology: from ref cams to AI analysts, cutting-edge research is changing the game",
+          "link": "https://theconversation.com/world-cup-technology-from-ref-cams-to-ai-analysts-cutting-edge-research-is-changing-the-game-285399",
+          "date": "2026-06-22T07:09:05Z"
+        },
+        {
           "title": "How AI prompting turned writerly description into an everyday skill",
           "link": "https://theconversation.com/how-ai-prompting-turned-writerly-description-into-an-everyday-skill-280334",
           "date": "2026-06-21T12:37:16Z"
@@ -346,11 +351,6 @@
           "title": "People are marrying holograms and making friends with chatbots. But can AI bring true happiness?",
           "link": "https://theconversation.com/people-are-marrying-holograms-and-making-friends-with-chatbots-but-can-ai-bring-true-happiness-284872",
           "date": "2026-06-18T14:38:25Z"
-        },
-        {
-          "title": "How local communities are challenging Big Tech data centers\u2019 noise, pollution and rising electricity bills",
-          "link": "https://theconversation.com/how-local-communities-are-challenging-big-tech-data-centers-noise-pollution-and-rising-electricity-bills-284642",
-          "date": "2026-06-18T12:33:38Z"
         }
       ],
       "error": null
@@ -359,6 +359,11 @@
       "name": "Artificial intelligence (AI) | The Guardian",
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
+        {
+          "title": "We are witnessing the slow death of the prestige career | Alice Lassman",
+          "link": "https://www.theguardian.com/commentisfree/2026/jun/22/consulting-ai-prestige-careers",
+          "date": "Mon, 22 Jun 2026 10:00:21 GMT"
+        },
         {
           "title": "The Reverse Centaur\u2019s Guide to Life After AI by Cory Doctorow review \u2013 the real price of artificial intelligence",
           "link": "https://www.theguardian.com/books/2026/jun/22/the-reverse-centaurs-guide-to-life-after-ai-by-cory-doctorow-review-the-real-price-of-artificial-intelligence",
@@ -378,11 +383,6 @@
           "title": "How do people in the US describe customer service in 2026? \u2018Debilitating, depressing, enraging. Ugh\u2019",
           "link": "https://www.theguardian.com/us-news/2026/jun/20/guardian-readers-consumer-battles",
           "date": "Sat, 20 Jun 2026 11:00:03 GMT"
-        },
-        {
-          "title": "A viral doomsday scenario aims to shake Europe out of its AI complacency",
-          "link": "https://www.theguardian.com/technology/2026/jun/20/europe-sleepwalking-ai-disaster-us-china",
-          "date": "Sat, 20 Jun 2026 09:59:12 GMT"
         }
       ],
       "error": null
@@ -456,6 +456,16 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Some Electricians Think Building Data Centers Is for Sellouts",
+          "link": "https://www.wired.com/story/data-center-buildout-electricians-selling-out/",
+          "date": "Mon, 22 Jun 2026 09:30:00 +0000"
+        },
+        {
+          "title": "World Cup Scams Are Getting Harder to Spot",
+          "link": "https://www.wired.com/story/world-cup-scams-are-getting-harder-to-spot/",
+          "date": "Mon, 22 Jun 2026 09:30:00 +0000"
+        },
+        {
           "title": "28 Tips to Take Your ChatGPT Prompts to the Next Level",
           "link": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/",
           "date": "Sun, 21 Jun 2026 10:30:00 +0000"
@@ -469,16 +479,6 @@
           "title": "How the Peter Thiel-Linked Dialog Club Secretly Ranks Its Members",
           "link": "https://www.wired.com/story/how-peter-thiels-private-dialog-club-secretly-ranks-its-members/",
           "date": "Thu, 18 Jun 2026 22:12:45 +0000"
-        },
-        {
-          "title": "The White House Is Making Up Its Rules for AI in Real Time",
-          "link": "https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/",
-          "date": "Thu, 18 Jun 2026 21:03:43 +0000"
-        },
-        {
-          "title": "Meta\u2019s AI Workers Are Revolting, Peter Thiel\u2019s Secret Society, and SBF\u2019s Plea to Trump",
-          "link": "https://www.wired.com/story/uncanny-valley-podcast-meta-ai-workers-revolting-peter-thiel-secret-society-sbf-plea-to-trump/",
-          "date": "Thu, 18 Jun 2026 19:29:51 +0000"
         }
       ],
       "error": null
