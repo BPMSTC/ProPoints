@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T04:57:22.801181+00:00",
+  "generatedAt": "2026-06-23T08:30:04.586260+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "With Starfall, SpaceX eyes an edge in global cargo delivery from orbit",
+          "link": "https://arstechnica.com/space/2026/06/with-starfall-spacex-eyes-an-edge-in-global-cargo-delivery-from-orbit/",
+          "date": "Tue, 23 Jun 2026 05:25:16 +0000"
+        },
+        {
           "title": "GM installs robots at flagship EV factory after laying off 1,300 workers",
           "link": "https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/",
           "date": "Mon, 22 Jun 2026 21:52:39 +0000"
@@ -308,11 +313,6 @@
           "title": "Polymarket's viral videos showed people winning big, but the bets were fake",
           "link": "https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/",
           "date": "Mon, 22 Jun 2026 20:10:34 +0000"
-        },
-        {
-          "title": "Following user outcry, AMD reinstates memory encryption in consumer CPUs",
-          "link": "https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/",
-          "date": "Mon, 22 Jun 2026 19:16:52 +0000"
         }
       ],
       "error": null
@@ -320,7 +320,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "Google Invests $75 Million in A24 to Develop AI-Powered Filmmaking Tools",
+          "link": "https://www.reddit.com/r/artificial/comments/1ud44pc/google_invests_75_million_in_a24_to_develop/",
+          "date": "2026-06-23T02:04:55+00:00"
+        },
+        {
+          "title": "Canadian government spent tens of millions on secret Palantir contract",
+          "link": "https://www.reddit.com/r/artificial/comments/1ucilr4/canadian_government_spent_tens_of_millions_on/",
+          "date": "2026-06-22T11:59:58+00:00"
+        },
+        {
+          "title": "Conversational AI giving a surprisingly layered answer about the source of its own personality",
+          "link": "https://www.reddit.com/r/artificial/comments/1ud6zvm/conversational_ai_giving_a_surprisingly_layered/",
+          "date": "2026-06-23T04:23:44+00:00"
+        },
+        {
+          "title": "Autodesk commits $350M to help prepare students, educators, job-seekers, and professionals for the 'AI jobs that design and make the physical world'",
+          "link": "https://www.reddit.com/r/artificial/comments/1ucxiby/autodesk_commits_350m_to_help_prepare_students/",
+          "date": "2026-06-22T21:24:46+00:00"
+        },
+        {
+          "title": "With AI, testing, decision-making, learning, coding, and many other tasks have become much easier. If AI makes so many things easier, then why do people still struggle despite having access to AI?",
+          "link": "https://www.reddit.com/r/artificial/comments/1ud9yvs/with_ai_testing_decisionmaking_learning_coding/",
+          "date": "2026-06-23T07:07:15+00:00"
+        }
+      ],
       "error": null
     },
     {
