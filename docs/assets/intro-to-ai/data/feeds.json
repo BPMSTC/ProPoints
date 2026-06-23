@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T00:02:53.214098+00:00",
+  "generatedAt": "2026-06-23T04:57:22.801181+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -328,6 +328,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Spy agencies say AI can help combat AI cyber risks. But don\u2019t forget the basics",
+          "link": "https://theconversation.com/spy-agencies-say-ai-can-help-combat-ai-cyber-risks-but-dont-forget-the-basics-285922",
+          "date": "2026-06-23T02:57:49Z"
+        },
+        {
           "title": "Compete to survive, cooperate to exist: the sovereignty paradox at the heart of Europe\u2019s defence industry",
           "link": "https://theconversation.com/compete-to-survive-cooperate-to-exist-the-sovereignty-paradox-at-the-heart-of-europes-defence-industry-285293",
           "date": "2026-06-22T15:37:21Z"
@@ -346,11 +351,6 @@
           "title": "How AI prompting turned writerly description into an everyday skill",
           "link": "https://theconversation.com/how-ai-prompting-turned-writerly-description-into-an-everyday-skill-280334",
           "date": "2026-06-21T12:37:16Z"
-        },
-        {
-          "title": "Canada\u2019s AI strategy must reckon with the environmental implications of data centres",
-          "link": "https://theconversation.com/canadas-ai-strategy-must-reckon-with-the-environmental-implications-of-data-centres-285333",
-          "date": "2026-06-21T12:33:14Z"
         }
       ],
       "error": null
@@ -363,6 +363,11 @@
           "title": "HR consultant wins English court case using AI lawyer in apparent legal first",
           "link": "https://www.theguardian.com/technology/2026/jun/22/artificial-intelligence-law-firm-wins-court-case-in-england-for-first-time",
           "date": "Mon, 22 Jun 2026 21:09:28 GMT"
+        },
+        {
+          "title": "\u2018Navigating the unknown together\u2019: me and my idiot AI boyfriend",
+          "link": "https://www.theguardian.com/news/2026/jun/23/navigating-the-unknown-together-me-and-my-idiot-ai-boyfriend",
+          "date": "Tue, 23 Jun 2026 04:00:30 GMT"
         },
         {
           "title": "New York City House primary emerges as key battleground in \u2018AI civil war\u2019",
@@ -378,11 +383,6 @@
           "title": "We are witnessing the slow death of the prestige career | Alice Lassman",
           "link": "https://www.theguardian.com/commentisfree/2026/jun/22/consulting-ai-prestige-careers",
           "date": "Mon, 22 Jun 2026 10:00:21 GMT"
-        },
-        {
-          "title": "The Reverse Centaur\u2019s Guide to Life After AI by Cory Doctorow review \u2013 the real price of artificial intelligence",
-          "link": "https://www.theguardian.com/books/2026/jun/22/the-reverse-centaurs-guide-to-life-after-ai-by-cory-doctorow-review-the-real-price-of-artificial-intelligence",
-          "date": "Mon, 22 Jun 2026 06:00:52 GMT"
         }
       ],
       "error": null
