@@ -1,10 +1,25 @@
 {
-  "generatedAt": "2026-06-24T13:19:44.531565+00:00",
+  "generatedAt": "2026-06-24T16:16:54.073374+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Vast \u2018Structures\u2019 In Space Reveal the Universe Isn't What We Thought",
+          "link": "https://www.404media.co/vast-structures-in-space-reveal-the-universe-isnt-what-we-thought/",
+          "date": "Wed, 24 Jun 2026 15:00:43 GMT"
+        },
+        {
+          "title": "The Trump Administration\u2019s New Census Data Rules Are a Policy Disaster",
+          "link": "https://www.404media.co/census-data-privacy-trump-policy-change-noise-infusion/",
+          "date": "Wed, 24 Jun 2026 14:39:21 GMT"
+        },
+        {
+          "title": "Snap's AI Specs: LOL",
+          "link": "https://www.404media.co/snaps-ai-ar-specs-lol/",
+          "date": "Wed, 24 Jun 2026 13:34:14 GMT"
+        },
         {
           "title": "Podcast: If AI Is Sentient Then So Is \u2018Age of Empires II",
           "link": "https://www.404media.co/podcast-if-ai-is-sentient-then-so-is-age-of-empires-ii/",
@@ -14,21 +29,6 @@
           "title": "How Hackers Broke into Madison Square Garden",
           "link": "https://www.404media.co/how-hackers-broke-into-madison-square-garden/",
           "date": "Wed, 24 Jun 2026 13:00:25 GMT"
-        },
-        {
-          "title": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
-          "link": "https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/",
-          "date": "Wed, 24 Jun 2026 12:50:56 GMT"
-        },
-        {
-          "title": "Wikipedia Cofounder Larry Sanger Banned From Site for \u2018Canvassing\u2019",
-          "link": "https://www.404media.co/wikipedia-cofounder-larry-sanger-banned-from-site-for-canvassaing/",
-          "date": "Tue, 23 Jun 2026 15:36:31 GMT"
-        },
-        {
-          "title": "Libraries Not Doing Pride Displays Say They \u2018Shouldn\u2019t Be Judged\u2019",
-          "link": "https://www.404media.co/libraries-not-doing-pride-displays-say-they-shouldnt-be-judged/",
-          "date": "Tue, 23 Jun 2026 14:37:28 GMT"
         }
       ],
       "error": null
@@ -114,6 +114,16 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Blackstone Commits $30B as Japan\u2019s AI Battle Heats Up",
+          "link": "https://aibusiness.com/data-centers/blackstone-commits-30b-japan-s-ai-battle-heats-up",
+          "date": "Wed, 24 Jun 2026 14:33:30 GMT"
+        },
+        {
+          "title": "Mistral AI Tackles Unstructured Data Challenge with OCR 4",
+          "link": "https://aibusiness.com/generative-ai/mistral-ai-tackles-unstructured-data-challenge-ocr-4",
+          "date": "Wed, 24 Jun 2026 14:03:03 GMT"
+        },
+        {
           "title": "How AI is Reshaping Europe's Digital Sovereignty Debate",
           "link": "https://aibusiness.com/ai-policy/how-ai-reshaping-europe-s-digital-sovereignty-debate",
           "date": "Tue, 23 Jun 2026 18:44:46 GMT"
@@ -127,16 +137,6 @@
           "title": "SpaceX Signs Compute Deal With Open Source Model Provider",
           "link": "https://aibusiness.com/generative-ai/spacex-signs-compute-deal-open-source-model-provider",
           "date": "Mon, 22 Jun 2026 21:46:45 GMT"
-        },
-        {
-          "title": "Anthropic Aims to Transform Enterprise Collaboration With Artifacts",
-          "link": "https://aibusiness.com/generative-ai/anthropic-aims-transform-enterprise-collaboration-artifacts",
-          "date": "Mon, 22 Jun 2026 18:21:19 GMT"
-        },
-        {
-          "title": "Nvidia Launches System to Make Robots Safer",
-          "link": "https://aibusiness.com/robotics/nvidia-launches-system-make-robots-safer",
-          "date": "Mon, 22 Jun 2026 16:23:16 GMT"
         }
       ],
       "error": null
@@ -206,19 +206,19 @@
           "date": "2025-09-09T02:25:04+00:00"
         },
         {
+          "title": "I have 20 years of Claude experience.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1uefimy/i_have_20_years_of_claude_experience/",
+          "date": "2026-06-24T14:44:52+00:00"
+        },
+        {
+          "title": "OG Claude",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1uedsr6/og_claude/",
+          "date": "2026-06-24T13:39:04+00:00"
+        },
+        {
           "title": "I analyzed 26 sessions (9K+ messages) of Fable 5 and 145 sessions (27K messages) of Opus 4.8 from my own logs and then built Fable's behavior into Opus",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1u5wg4i/i_analyzed_26_sessions_9k_messages_of_fable_5_and/",
           "date": "2026-06-14T20:53:42+00:00"
-        },
-        {
-          "title": "Google\u2019s new AI search is starting to feel less like intelligence and more like autocomplete duct taped to Reddit outrage. It\u2019s awful.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1to67wu/googles_new_ai_search_is_starting_to_feel_less/",
-          "date": "2026-05-26T12:59:49+00:00"
-        },
-        {
-          "title": "A Subquadratic sparse attention engine in pure Rust that runs LLMs on Raspberry Pi Zero, and Pi 5 without CUDA",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1t7b6ha/a_subquadratic_sparse_attention_engine_in_pure/",
-          "date": "2026-05-08T15:25:04+00:00"
         }
       ],
       "error": null
@@ -290,29 +290,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Military branches restore flu shot requirement after virus swept through base",
+          "link": "https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/",
+          "date": "Wed, 24 Jun 2026 14:54:54 +0000"
+        },
+        {
+          "title": "Slate Auto's truck builder goes live for its $25k electric pickup",
+          "link": "https://arstechnica.com/cars/2026/06/here-are-five-ways-you-could-build-a-slate-ev-from-25000-to-37000/",
+          "date": "Wed, 24 Jun 2026 14:27:16 +0000"
+        },
+        {
+          "title": "We got a sneak peek of the final space shuttle set to go on public display",
+          "link": "https://arstechnica.com/space/2026/06/november-launch-set-for-space-shuttle-endeavours-towering-display/",
+          "date": "Wed, 24 Jun 2026 14:04:56 +0000"
+        },
+        {
+          "title": "White House app auto-downloads to government phones, can't be uninstalled",
+          "link": "https://arstechnica.com/tech-policy/2026/06/white-house-app-auto-downloads-to-government-phones-cant-be-uninstalled/",
+          "date": "Wed, 24 Jun 2026 13:35:19 +0000"
+        },
+        {
           "title": "White House drastically shortens deadline for dropping quantum-vulnerable crypto",
           "link": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/",
           "date": "Tue, 23 Jun 2026 22:30:57 +0000"
-        },
-        {
-          "title": "US's climate.gov site, taken down by Trump, relaunched by nonprofit",
-          "link": "https://arstechnica.com/science/2026/06/uss-climate-gov-site-taken-down-by-trump-relaunched-by-nonprofit/",
-          "date": "Tue, 23 Jun 2026 22:07:56 +0000"
-        },
-        {
-          "title": "Odd police video shows drone removing knife from motionless suspect",
-          "link": "https://arstechnica.com/gadgets/2026/06/police-tout-using-drone-to-disarm-incapacitated-person-in-nationwide-first/",
-          "date": "Tue, 23 Jun 2026 20:43:42 +0000"
-        },
-        {
-          "title": "Oracle\u2019s 21,000 layoffs help drive its debt-fueled AI investments",
-          "link": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
-          "date": "Tue, 23 Jun 2026 20:17:38 +0000"
-        },
-        {
-          "title": "A curious crossover: The Toyota C-HR review",
-          "link": "https://arstechnica.com/cars/2026/06/a-curious-crossover-the-toyota-c-hr-review/",
-          "date": "Tue, 23 Jun 2026 18:19:50 +0000"
         }
       ],
       "error": null
@@ -360,9 +360,19 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "\u2018You can\u2019t make billions without hurting people\u2019: Cory Doctorow on Elon Musk, the AI bubble and bosses\u2019 cruel fantasies",
-          "link": "https://www.theguardian.com/technology/2026/jun/24/cory-doctorow-on-elon-musk-ai-bubble-bosses-cruel-fantasies",
-          "date": "Wed, 24 Jun 2026 09:00:41 GMT"
+          "title": "AI helps read papyrus scroll burnt to crisp during Vesuvius eruption",
+          "link": "https://www.theguardian.com/technology/2026/jun/24/ai-read-papyrus-scroll-burnt-vesuvius-eruption",
+          "date": "Wed, 24 Jun 2026 15:48:44 GMT"
+        },
+        {
+          "title": "Labor tax critic deletes anti-immigration AI video reposted from rightwing nationalist account",
+          "link": "https://www.theguardian.com/australia-news/2026/jun/25/anti-immigration-ai-video-rightwing-repost-geoff-wilson-ntwnfb",
+          "date": "Wed, 24 Jun 2026 15:00:49 GMT"
+        },
+        {
+          "title": "I was wary of driverless cars and their tech overlords \u2013 but they could give me a different future | Gabriel Stewart",
+          "link": "https://www.theguardian.com/commentisfree/2026/jun/24/driverless-cars-tech-overlords-disabilities-vehicles",
+          "date": "Wed, 24 Jun 2026 13:55:12 GMT"
         },
         {
           "title": "The weirdest things a leak revealed about Peter Thiel\u2019s secret club | Tayo Bero",
@@ -373,16 +383,6 @@
           "title": "Meta pauses employee tracker for AI training amid privacy concerns",
           "link": "https://www.theguardian.com/technology/2026/jun/24/meta-pauses-employee-tracker-for-ai-training-amid-privacy-concerns",
           "date": "Wed, 24 Jun 2026 11:38:33 GMT"
-        },
-        {
-          "title": "If an AI chatbot misleads you, who is to blame? | Bruce Schneier and Nathan E Sanders",
-          "link": "https://www.theguardian.com/commentisfree/2026/jun/24/ai-errors-companies-responsibility",
-          "date": "Wed, 24 Jun 2026 10:00:41 GMT"
-        },
-        {
-          "title": "\u2018Who is going to pay us when we\u2019re replaced by robots?\u2019 The Indian factory workers told to film themselves for AI",
-          "link": "https://www.theguardian.com/global-development/2026/jun/24/indian-factory-workers-told-film-themselves-for-ai-robots",
-          "date": "Wed, 24 Jun 2026 05:00:36 GMT"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Failing Robot Cop Company Knightscope Now Publishing Bizarre AI Slop Fan Fiction About Its Robots Solving Absurd Crimes",
+          "link": "https://futurism.com/robots-and-machines/knightscope-robot-cop-company-fan-fiction",
+          "date": "Wed, 24 Jun 2026 10:13:27 -0400"
+        },
+        {
           "title": "Meta\u2019s Program That Spies on Every Employee\u2019s Computer Just Blew Up in Its Face in Spectacular Fashion",
           "link": "https://futurism.com/artificial-intelligence/meta-program-spies-employees-backfires",
           "date": "Tue, 23 Jun 2026 16:40:29 -0400"
@@ -442,11 +447,6 @@
           "title": "New Paper Proposes What Really Causes AI Psychosis",
           "link": "https://futurism.com/artificial-intelligence/paper-proposes-ai-psychosis",
           "date": "Tue, 23 Jun 2026 10:15:34 -0400"
-        },
-        {
-          "title": "Tech Stocks Are Abruptly Collapsing",
-          "link": "https://futurism.com/space/tech-stocks-collapsing-spacex",
-          "date": "Tue, 23 Jun 2026 09:40:22 -0400"
         }
       ],
       "error": null
@@ -455,6 +455,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "The Trump White House Is Over Anthropic CEO Dario Amodei",
+          "link": "https://www.wired.com/story/the-trump-white-house-is-over-anthropics-dario-amodei/",
+          "date": "Wed, 24 Jun 2026 15:15:00 +0000"
+        },
         {
           "title": "Qualcomm Buys Buzzy Chip Startup Modular for Nearly $4 Billion",
           "link": "https://www.wired.com/story/qualcomm-buys-buzzy-chip-startup-modular-for-nearly-dollar4-billion/",
@@ -474,11 +479,6 @@
           "title": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic\u2019s Mythos",
           "link": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
           "date": "Mon, 22 Jun 2026 17:00:00 +0000"
-        },
-        {
-          "title": "Some Electricians Think Building Data Centers Is for Sellouts",
-          "link": "https://www.wired.com/story/data-center-buildout-electricians-selling-out/",
-          "date": "Mon, 22 Jun 2026 09:30:00 +0000"
         }
       ],
       "error": null
