@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-06-25T11:40:02.638198+00:00",
+  "generatedAt": "2026-06-25T14:25:47.996088+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Bodycam Shows Moment Cops Arrested a Man for Speaking Too Long at Data Center Meeting",
+          "link": "https://www.404media.co/bodycam-footage-video-claremore-oklahoma-data-center-meeting/",
+          "date": "Thu, 25 Jun 2026 13:47:00 GMT"
+        },
         {
           "title": "Vast \u2018Structures\u2019 In Space Reveal the Universe Isn't What We Thought",
           "link": "https://www.404media.co/vast-structures-in-space-reveal-the-universe-isnt-what-we-thought/",
@@ -24,11 +29,6 @@
           "title": "Podcast: If AI Is Sentient Then So Is \u2018Age of Empires II",
           "link": "https://www.404media.co/podcast-if-ai-is-sentient-then-so-is-age-of-empires-ii/",
           "date": "Wed, 24 Jun 2026 13:03:21 GMT"
-        },
-        {
-          "title": "How Hackers Broke into Madison Square Garden",
-          "link": "https://www.404media.co/how-hackers-broke-into-madison-square-garden/",
-          "date": "Wed, 24 Jun 2026 13:00:25 GMT"
         }
       ],
       "error": null
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Maker of Digit the Robot to Go Public",
+          "link": "https://aibusiness.com/robotics/maker-digit-the-robot-goes-public",
+          "date": "Thu, 25 Jun 2026 12:57:39 GMT"
+        },
+        {
           "title": "OpenAI and Broadcom Introduce AI Inference Chip",
           "link": "https://aibusiness.com/generative-ai/openai-broadcom-introduce-ai-inference-chip",
           "date": "Wed, 24 Jun 2026 20:21:53 GMT"
@@ -132,11 +137,6 @@
           "title": "Mistral AI Tackles Unstructured Data Challenge with OCR 4",
           "link": "https://aibusiness.com/generative-ai/mistral-ai-tackles-unstructured-data-challenge-ocr-4",
           "date": "Wed, 24 Jun 2026 14:03:03 GMT"
-        },
-        {
-          "title": "How AI is Reshaping Europe's Digital Sovereignty Debate",
-          "link": "https://aibusiness.com/ai-policy/how-ai-reshaping-europe-s-digital-sovereignty-debate",
-          "date": "Tue, 23 Jun 2026 18:44:46 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "The \"sad inevitability\" of Europe's heat wave",
+          "link": "https://arstechnica.com/science/2026/06/the-sad-inevitability-of-europes-heat-wave/",
+          "date": "Thu, 25 Jun 2026 13:54:46 +0000"
+        },
+        {
+          "title": "New effort will get genome sequences for entire Endangered Species list",
+          "link": "https://arstechnica.com/science/2026/06/new-effort-will-get-genome-sequences-for-entire-endangered-species-list/",
+          "date": "Thu, 25 Jun 2026 13:40:34 +0000"
+        },
+        {
+          "title": "Every Homo naledi we know of is female, and the implications are fascinating",
+          "link": "https://arstechnica.com/science/2026/06/every-homo-naledi-we-know-of-is-female-and-the-implications-are-fascinating/",
+          "date": "Thu, 25 Jun 2026 13:28:54 +0000"
+        },
+        {
           "title": "IBM claims world\u2019s first sub-1 nanometer chip technology",
           "link": "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/",
           "date": "Thu, 25 Jun 2026 10:00:55 +0000"
@@ -298,21 +313,6 @@
           "title": "Hotly anticipated Grand Theft Auto VI will cost more than other AAA games",
           "link": "https://arstechnica.com/gaming/2026/06/grand-theft-auto-vi-will-cost-80-without-a-physical-disc/",
           "date": "Wed, 24 Jun 2026 22:47:03 +0000"
-        },
-        {
-          "title": "OpenAI and Broadcom announce chip designed for LLM inference at scale",
-          "link": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/",
-          "date": "Wed, 24 Jun 2026 22:28:18 +0000"
-        },
-        {
-          "title": "13 years and $500 million for a stage adapter? Report justifies NASA cancellations.",
-          "link": "https://arstechnica.com/space/2026/06/analysis-finds-the-exploration-programs-nasa-recently-canceled-were-running-way-late/",
-          "date": "Wed, 24 Jun 2026 21:41:03 +0000"
-        },
-        {
-          "title": "US ends hantavirus outbreak response with no answers on draconian quarantines",
-          "link": "https://arstechnica.com/health/2026/06/us-ends-hantavirus-outbreak-response-with-no-answers-on-draconian-quarantines/",
-          "date": "Wed, 24 Jun 2026 21:28:39 +0000"
         }
       ],
       "error": null
@@ -320,33 +320,7 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "Claude Fable 5 may return today after 13-day government-forced suspension",
-          "link": "https://www.reddit.com/r/artificial/comments/1uf5pzu/claude_fable_5_may_return_today_after_13day/",
-          "date": "2026-06-25T09:58:37+00:00"
-        },
-        {
-          "title": "We chased a hallucinated quote through 30k training records, 4,600 transcripts, and our own system prompt. Turned out to be two separate bugs",
-          "link": "https://www.reddit.com/r/artificial/comments/1ueaya4/we_chased_a_hallucinated_quote_through_30k/",
-          "date": "2026-06-24T11:32:18+00:00"
-        },
-        {
-          "title": "Opus 4.8 The Worst Claude Ever",
-          "link": "https://www.reddit.com/r/artificial/comments/1ueqjvq/opus_48_the_worst_claude_ever/",
-          "date": "2026-06-24T21:27:37+00:00"
-        },
-        {
-          "title": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
-          "link": "https://www.reddit.com/r/artificial/comments/1uf7b0v/anthropic_accuses_chinese_rival_alibaba_of/",
-          "date": "2026-06-25T11:25:52+00:00"
-        },
-        {
-          "title": "With proper writing instructions, voice and tone guide and cadence notes is there really a change between the LLM's at Claude, ChatGPT and Gemini?",
-          "link": "https://www.reddit.com/r/artificial/comments/1uf31qr/with_proper_writing_instructions_voice_and_tone/",
-          "date": "2026-06-25T07:19:04+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
@@ -391,7 +365,7 @@
           "date": "Wed, 24 Jun 2026 15:48:44 GMT"
         },
         {
-          "title": "Datacentres facing increase in global climate-related legal cases, report finds",
+          "title": "Datacentres are growing target of global climate-related legal cases, report finds",
           "link": "https://www.theguardian.com/environment/2026/jun/25/datacentres-facing-increase-in-global-climate-related-legal-cases-report-finds",
           "date": "Thu, 25 Jun 2026 10:03:54 GMT"
         },
@@ -450,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Software Engineers Are Facing an Existential Crisis As They Drown In Horrendous AI Code",
+          "link": "https://futurism.com/artificial-intelligence/software-engineers-crisis-drown-ai-code",
+          "date": "Thu, 25 Jun 2026 08:51:15 -0400"
+        },
+        {
           "title": "Failing Robot Cop Company Knightscope Now Publishing Bizarre AI Slop Fan Fiction About Its Robots Solving Absurd Crimes",
           "link": "https://futurism.com/robots-and-machines/knightscope-robot-cop-company-fan-fiction",
           "date": "Wed, 24 Jun 2026 10:13:27 -0400"
@@ -468,11 +447,6 @@
           "title": "Amazon Just Pulled Something Absolutely Craven to Avoid Embarrassing Its Friends at OpenAI",
           "link": "https://futurism.com/future-society/amazon-craven-avoid-embarrassing-friends-openai",
           "date": "Tue, 23 Jun 2026 12:07:19 -0400"
-        },
-        {
-          "title": "New Paper Proposes What Really Causes AI Psychosis",
-          "link": "https://futurism.com/artificial-intelligence/paper-proposes-ai-psychosis",
-          "date": "Tue, 23 Jun 2026 10:15:34 -0400"
         }
       ],
       "error": null
