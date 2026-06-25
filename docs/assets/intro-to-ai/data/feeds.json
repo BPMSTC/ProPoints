@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T21:40:46.510485+00:00",
+  "generatedAt": "2026-06-25T23:15:11.810875+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Microsoft adds another year to Windows 10 extended update program",
+          "link": "https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/",
+          "date": "Thu, 25 Jun 2026 20:24:09 +0000"
+        },
+        {
+          "title": "FCC may kill $2B program that connects schools and libraries to Internet",
+          "link": "https://arstechnica.com/tech-policy/2026/06/fcc-may-kill-2b-program-that-connects-schools-and-libraries-to-internet/",
+          "date": "Thu, 25 Jun 2026 20:01:08 +0000"
+        },
+        {
           "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
           "link": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
           "date": "Thu, 25 Jun 2026 19:04:57 +0000"
@@ -303,16 +313,6 @@
           "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
           "link": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
           "date": "Thu, 25 Jun 2026 18:01:48 +0000"
-        },
-        {
-          "title": "Planet orbits so close to its star that their magnetic fields connect",
-          "link": "https://arstechnica.com/science/2026/06/planet-orbits-so-close-to-its-star-that-their-magnetic-fields-connect/",
-          "date": "Thu, 25 Jun 2026 18:00:39 +0000"
-        },
-        {
-          "title": "Feds deny Polestar authorization to sell cars in US from model year 2027",
-          "link": "https://arstechnica.com/cars/2026/06/feds-deny-polestar-authorization-to-sell-cars-in-us-from-model-year-2027/",
-          "date": "Thu, 25 Jun 2026 14:40:23 +0000"
         }
       ],
       "error": null
