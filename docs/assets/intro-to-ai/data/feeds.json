@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T14:25:47.996088+00:00",
+  "generatedAt": "2026-06-25T17:10:00.319211+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -228,6 +228,21 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Salesforce launches Help Agent to simplify AI customer service deployment",
+          "link": "https://siliconangle.com/2026/06/25/salesforce-launches-help-agent-simplify-ai-customer-service-deployment/",
+          "date": "Thu, 25 Jun 2026 13:00:56 +0000"
+        },
+        {
+          "title": "Warp lands $60M to automate payroll, compliance and HR with AI",
+          "link": "https://siliconangle.com/2026/06/25/warp-lands-60m-automate-payroll-compliance-hr-ai/",
+          "date": "Thu, 25 Jun 2026 13:00:43 +0000"
+        },
+        {
+          "title": "Exclusive: LucidLink launches MCP server to give AI agents shared access to distributed files",
+          "link": "https://siliconangle.com/2026/06/25/exclusive-lucidlink-launches-mcp-server-give-ai-agents-shared-access-distributed-files/",
+          "date": "Thu, 25 Jun 2026 13:00:00 +0000"
+        },
+        {
           "title": "Ornn raises $33M to help companies buy and sell AI compute as a commodity like oil",
           "link": "https://siliconangle.com/2026/06/24/ornn-raises-33m-help-companies-buy-sell-ai-compute-commodity-like-oil/",
           "date": "Thu, 25 Jun 2026 02:14:58 +0000"
@@ -236,21 +251,6 @@
           "title": "Agentic infrastructure startup Seltz raises $12.5M to help AI agents search the web for answers",
           "link": "https://siliconangle.com/2026/06/24/agentic-infrastructure-startup-seltz-raises-12-5m-help-ai-agents-search-web-answers/",
           "date": "Thu, 25 Jun 2026 01:22:26 +0000"
-        },
-        {
-          "title": "Memory maker SK hynix files for $29B US IPO amid AI demand",
-          "link": "https://siliconangle.com/2026/06/24/memory-maker-sk-hynix-files-29b-us-ipo-amid-ai-demand/",
-          "date": "Thu, 25 Jun 2026 00:37:32 +0000"
-        },
-        {
-          "title": "Qualcomm shares jump 14% on Modular acquisition, guidance upgrade",
-          "link": "https://siliconangle.com/2026/06/24/qualcomm-shares-jump-14-modular-acquisition-guidance-upgrade/",
-          "date": "Wed, 24 Jun 2026 22:45:55 +0000"
-        },
-        {
-          "title": "Grammarly parent Superhuman buys AI detector GPTZero",
-          "link": "https://siliconangle.com/2026/06/24/grammarly-parent-superhuman-buys-ai-detector-gptzero/",
-          "date": "Wed, 24 Jun 2026 22:30:03 +0000"
         }
       ],
       "error": null
@@ -290,6 +290,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Feds deny Polestar authorization to sell cars in US from model year 2027",
+          "link": "https://arstechnica.com/cars/2026/06/feds-deny-polestar-authorization-to-sell-cars-in-us-from-model-year-2027/",
+          "date": "Thu, 25 Jun 2026 14:40:23 +0000"
+        },
+        {
+          "title": "Apple ratchets up prices, blames the cost of memory",
+          "link": "https://arstechnica.com/apple/2026/06/apple-ratchets-up-prices-blames-the-cost-of-memory/",
+          "date": "Thu, 25 Jun 2026 14:14:37 +0000"
+        },
+        {
           "title": "The \"sad inevitability\" of Europe's heat wave",
           "link": "https://arstechnica.com/science/2026/06/the-sad-inevitability-of-europes-heat-wave/",
           "date": "Thu, 25 Jun 2026 13:54:46 +0000"
@@ -303,16 +313,6 @@
           "title": "Every Homo naledi we know of is female, and the implications are fascinating",
           "link": "https://arstechnica.com/science/2026/06/every-homo-naledi-we-know-of-is-female-and-the-implications-are-fascinating/",
           "date": "Thu, 25 Jun 2026 13:28:54 +0000"
-        },
-        {
-          "title": "IBM claims world\u2019s first sub-1 nanometer chip technology",
-          "link": "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/",
-          "date": "Thu, 25 Jun 2026 10:00:55 +0000"
-        },
-        {
-          "title": "Hotly anticipated Grand Theft Auto VI will cost more than other AAA games",
-          "link": "https://arstechnica.com/gaming/2026/06/grand-theft-auto-vi-will-cost-80-without-a-physical-disc/",
-          "date": "Wed, 24 Jun 2026 22:47:03 +0000"
         }
       ],
       "error": null
@@ -360,11 +360,6 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "AI helps read papyrus scroll burnt to crisp during Vesuvius eruption",
-          "link": "https://www.theguardian.com/technology/2026/jun/24/ai-read-papyrus-scroll-burnt-vesuvius-eruption",
-          "date": "Wed, 24 Jun 2026 15:48:44 GMT"
-        },
-        {
           "title": "Datacentres are growing target of global climate-related legal cases, report finds",
           "link": "https://www.theguardian.com/environment/2026/jun/25/datacentres-facing-increase-in-global-climate-related-legal-cases-report-finds",
           "date": "Thu, 25 Jun 2026 10:03:54 GMT"
@@ -383,6 +378,11 @@
           "title": "\u2018We should be worried\u2019: report sheds light on ICE\u2019s booming arsenal of hi-tech surveillance tools",
           "link": "https://www.theguardian.com/us-news/2026/jun/24/ice-tech-surveillance-arsenal",
           "date": "Wed, 24 Jun 2026 20:07:46 GMT"
+        },
+        {
+          "title": "Big tech spent millions on a single US congressional race. It won\u2019t be the last time",
+          "link": "https://www.theguardian.com/us-news/2026/jun/24/big-tech-new-york-alex-bores-ai-spending",
+          "date": "Wed, 24 Jun 2026 17:55:25 GMT"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "DuckDuckGo\u2019s AI Feature Is Telling Users That Trump Died of Rabies Earlier This Month",
+          "link": "https://futurism.com/artificial-intelligence/duckduckgo-ai-trump-rabies",
+          "date": "Thu, 25 Jun 2026 12:53:04 -0400"
+        },
+        {
           "title": "Software Engineers Are Facing an Existential Crisis As They Drown In Horrendous AI Code",
           "link": "https://futurism.com/artificial-intelligence/software-engineers-crisis-drown-ai-code",
           "date": "Thu, 25 Jun 2026 08:51:15 -0400"
@@ -442,11 +447,6 @@
           "title": "AI Companies Are Trying to Seize Control of Elections",
           "link": "https://futurism.com/artificial-intelligence/ai-companies-elections-midterms",
           "date": "Tue, 23 Jun 2026 12:45:36 -0400"
-        },
-        {
-          "title": "Amazon Just Pulled Something Absolutely Craven to Avoid Embarrassing Its Friends at OpenAI",
-          "link": "https://futurism.com/future-society/amazon-craven-avoid-embarrassing-friends-openai",
-          "date": "Tue, 23 Jun 2026 12:07:19 -0400"
         }
       ],
       "error": null
