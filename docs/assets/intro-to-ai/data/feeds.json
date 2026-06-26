@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T13:08:25.713917+00:00",
+  "generatedAt": "2026-06-26T16:13:24.165772+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -26,7 +26,7 @@
           "date": "Wed, 24 Jun 2026 13:34:14 GMT"
         },
         {
-          "title": "Podcast: If AI Is Sentient Then So Is \u2018Age of Empires II",
+          "title": "Podcast: If AI Is Sentient Then So Is 'Age of Empires II'",
           "link": "https://www.404media.co/podcast-if-ai-is-sentient-then-so-is-age-of-empires-ii/",
           "date": "Wed, 24 Jun 2026 13:03:21 GMT"
         }
@@ -70,7 +70,7 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
-          "title": "30 startups rebuilding enterprise software with AI agents",
+          "title": "30 startups rebuilding  enterprise software with AI agents",
           "link": "https://www.aiacceleratorinstitute.com/30-startups-rebuilding-enterprise-software-with-ai-agents/",
           "date": "Fri, 26 Jun 2026 12:02:34 GMT"
         },
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Prompt: Physical AI Is Entering Its Commercialization Phase",
+          "link": "https://aibusiness.com/generative-ai/prompt-physical-ai-entering-commercialization-phase",
+          "date": "Fri, 26 Jun 2026 15:32:20 GMT"
+        },
+        {
           "title": "India to Get Another Big AI Funding Boost From Amazon",
           "link": "https://aibusiness.com/generative-ai/india-another-ai-funding-boost-from-amazon",
           "date": "Fri, 26 Jun 2026 11:58:56 GMT"
@@ -132,11 +137,6 @@
           "title": "Maker of Digit the Robot to Go Public",
           "link": "https://aibusiness.com/robotics/maker-digit-the-robot-goes-public",
           "date": "Thu, 25 Jun 2026 12:57:39 GMT"
-        },
-        {
-          "title": "OpenAI and Broadcom Introduce AI Inference Chip",
-          "link": "https://aibusiness.com/generative-ai/openai-broadcom-introduce-ai-inference-chip",
-          "date": "Wed, 24 Jun 2026 20:21:53 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "VW may close four factories to adapt to the future, report says",
+          "link": "https://arstechnica.com/cars/2026/06/vw-may-close-four-factories-to-adapt-to-the-future-report-says/",
+          "date": "Fri, 26 Jun 2026 15:10:03 +0000"
+        },
+        {
+          "title": "Feedbacks upon feedbacks: Rock weathering and the climate",
+          "link": "https://arstechnica.com/science/2026/06/feedbacks-upon-feedbacks-rock-weathering-and-the-climate/",
+          "date": "Fri, 26 Jun 2026 14:41:18 +0000"
+        },
+        {
+          "title": "SpaceX plans to launch Starlink mobile service in the US",
+          "link": "https://arstechnica.com/space/2026/06/spacex-plans-to-launch-starlink-mobile-service-in-the-us/",
+          "date": "Fri, 26 Jun 2026 13:22:59 +0000"
+        },
+        {
           "title": "Rocket Report: China may soon attempt booster landing; Rocket Lab does rapid response",
           "link": "https://arstechnica.com/space/2026/06/rocket-report-china-may-soon-attempt-booster-landing-rocket-lab-does-rapid-response/",
           "date": "Fri, 26 Jun 2026 11:00:59 +0000"
@@ -298,21 +313,6 @@
           "title": "Microsoft adds another year to Windows 10 extended update program",
           "link": "https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/",
           "date": "Thu, 25 Jun 2026 20:24:09 +0000"
-        },
-        {
-          "title": "FCC may kill $2B program that connects schools and libraries to Internet",
-          "link": "https://arstechnica.com/tech-policy/2026/06/fcc-may-kill-2b-program-that-connects-schools-and-libraries-to-internet/",
-          "date": "Thu, 25 Jun 2026 20:01:08 +0000"
-        },
-        {
-          "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
-          "link": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
-          "date": "Thu, 25 Jun 2026 19:04:57 +0000"
-        },
-        {
-          "title": "Google finally releases a Finance Android app, promises iOS version later in 2026",
-          "link": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/",
-          "date": "Thu, 25 Jun 2026 18:38:51 +0000"
         }
       ],
       "error": null
@@ -360,6 +360,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "OpenAI staggers AI model release after Trump administration request",
+          "link": "https://www.theguardian.com/technology/2026/jun/26/openai-ai-model-release-trump-us-sam-altman-gpt-anthropic-mythos",
+          "date": "Fri, 26 Jun 2026 14:06:11 GMT"
+        },
+        {
           "title": "A little bird told her: scientist wins $100,000 prize for decoding birdsong",
           "link": "https://www.theguardian.com/science/2026/jun/26/human-animal-communication-step-closer-scientist-wins-prize-for-decoding-birdsong",
           "date": "Fri, 26 Jun 2026 06:53:54 GMT"
@@ -378,11 +383,6 @@
           "title": "\u2018More relevant than making fires\u2019: Explorer Scouts launch badges for AI and digital age",
           "link": "https://www.theguardian.com/society/2026/jun/25/explorer-scouts-launch-badges-ai-digital-age",
           "date": "Thu, 25 Jun 2026 07:40:46 GMT"
-        },
-        {
-          "title": "Met gets extension to Palantir AI project after Sadiq Khan blocked deal",
-          "link": "https://www.theguardian.com/uk-news/2026/jun/24/met-gets-extension-to-ai-project-with-spy-tech-firm-palantir-after-mayor-blocked-deal",
-          "date": "Wed, 24 Jun 2026 22:14:57 GMT"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "If There Wasn\u2019t Enough Opposition to AI Data Centers Already, Now They\u2019re Supercharging Inflation",
+          "link": "https://futurism.com/artificial-intelligence/ai-data-centers-opposition-inflation",
+          "date": "Fri, 26 Jun 2026 10:48:28 -0400"
+        },
+        {
           "title": "Peppa Pig Owner Demands Child Actors Sign Away Voice Rights to AI",
           "link": "https://futurism.com/artificial-intelligence/peppa-pig-owner-child-actors-voice-rights-ai",
           "date": "Thu, 25 Jun 2026 15:54:33 -0400"
@@ -442,11 +447,6 @@
           "title": "DuckDuckGo\u2019s AI Feature Is Telling Users That Trump Died of Rabies Earlier This Month",
           "link": "https://futurism.com/artificial-intelligence/duckduckgo-ai-trump-rabies",
           "date": "Thu, 25 Jun 2026 12:53:04 -0400"
-        },
-        {
-          "title": "Software Engineers Are Facing an Existential Crisis As They Drown In Horrendous AI Code",
-          "link": "https://futurism.com/artificial-intelligence/software-engineers-crisis-drown-ai-code",
-          "date": "Thu, 25 Jun 2026 08:51:15 -0400"
         }
       ],
       "error": null
@@ -455,6 +455,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Europe Is Fed Up and Wants Its Own AI",
+          "link": "https://www.wired.com/story/europe-is-fed-up-and-wants-its-own-ai/",
+          "date": "Fri, 26 Jun 2026 15:00:00 +0000"
+        },
         {
           "title": "How Qatar Became FIFA\u2019s Technology Test Lab",
           "link": "https://www.wired.com/story/how-qatar-became-fifas-technology-test-lab/",
@@ -474,11 +479,6 @@
           "title": "World Cup Teams Are in a Race for AI Dominance",
           "link": "https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools/",
           "date": "Thu, 25 Jun 2026 11:00:00 +0000"
-        },
-        {
-          "title": "British Police Built a Sprawling Crime-Prediction Machine. Some Results Couldn\u2019t Be Trusted",
-          "link": "https://www.wired.com/story/british-police-built-a-sprawling-crime-prediction-machine-some-results-couldnt-be-trusted/",
-          "date": "Thu, 25 Jun 2026 10:00:00 +0000"
         }
       ],
       "error": null
