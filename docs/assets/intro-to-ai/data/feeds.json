@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T07:48:11.780159+00:00",
+  "generatedAt": "2026-06-26T10:48:19.616680+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -328,6 +328,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Investigative interviews are key to solving crimes \u2013 should AI be helping police with their inquiries?",
+          "link": "https://theconversation.com/investigative-interviews-are-key-to-solving-crimes-should-ai-be-helping-police-with-their-inquiries-285874",
+          "date": "2026-06-26T09:59:10Z"
+        },
+        {
           "title": "The true danger of AI may lie in its reflection of us, warns Anna Goldsworthy",
           "link": "https://theconversation.com/the-true-danger-of-ai-may-lie-in-its-reflection-of-us-warns-anna-goldsworthy-284817",
           "date": "2026-06-25T23:49:17Z"
@@ -346,11 +351,6 @@
           "title": "The danger of confusing AI mental health support with therapy",
           "link": "https://theconversation.com/the-danger-of-confusing-ai-mental-health-support-with-therapy-285431",
           "date": "2026-06-23T12:47:17Z"
-        },
-        {
-          "title": "Spy agencies say AI can help combat AI cyber risks. But don\u2019t forget the basics",
-          "link": "https://theconversation.com/spy-agencies-say-ai-can-help-combat-ai-cyber-risks-but-dont-forget-the-basics-285922",
-          "date": "2026-06-23T02:57:49Z"
         }
       ],
       "error": null
@@ -456,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "How Qatar Became FIFA\u2019s Technology Test Lab",
+          "link": "https://www.wired.com/story/how-qatar-became-fifas-technology-test-lab/",
+          "date": "Fri, 26 Jun 2026 10:00:00 +0000"
+        },
+        {
           "title": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
           "link": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
           "date": "Fri, 26 Jun 2026 00:49:13 +0000"
@@ -474,11 +479,6 @@
           "title": "British Police Built a Sprawling Crime-Prediction Machine. Some Results Couldn\u2019t Be Trusted",
           "link": "https://www.wired.com/story/british-police-built-a-sprawling-crime-prediction-machine-some-results-couldnt-be-trusted/",
           "date": "Thu, 25 Jun 2026 10:00:00 +0000"
-        },
-        {
-          "title": "How to Opt Out of Google Search\u2019s New AI Data Training Feature",
-          "link": "https://www.wired.com/story/how-to-opt-out-of-google-search-new-ai-data-training/",
-          "date": "Wed, 24 Jun 2026 22:36:16 +0000"
         }
       ],
       "error": null
