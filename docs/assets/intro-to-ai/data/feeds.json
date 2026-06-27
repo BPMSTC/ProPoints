@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T12:07:12.736991+00:00",
+  "generatedAt": "2026-06-27T14:27:00.035858+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -206,6 +206,11 @@
           "date": "2025-09-09T02:25:04+00:00"
         },
         {
+          "title": "RuPixel: an AI search engine that sees the real world in milliseconds and runs locally in your browser",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1uh432n/rupixel_an_ai_search_engine_that_sees_the_real/",
+          "date": "2026-06-27T14:24:23+00:00"
+        },
+        {
           "title": "I have 20 years of Claude experience.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1uefimy/i_have_20_years_of_claude_experience/",
           "date": "2026-06-24T14:44:52+00:00"
@@ -214,11 +219,6 @@
           "title": "OG Claude",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1uedsr6/og_claude/",
           "date": "2026-06-24T13:39:04+00:00"
-        },
-        {
-          "title": "I analyzed 26 sessions (9K+ messages) of Fable 5 and 145 sessions (27K messages) of Opus 4.8 from my own logs and then built Fable's behavior into Opus",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1u5wg4i/i_analyzed_26_sessions_9k_messages_of_fable_5_and/",
-          "date": "2026-06-14T20:53:42+00:00"
         }
       ],
       "error": null
