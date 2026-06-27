@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T07:46:55.691703+00:00",
+  "generatedAt": "2026-06-27T10:04:26.819538+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -360,6 +360,16 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Australian rescue team uses AI-powered drone to find lost hikers \u2013 video",
+          "link": "https://www.theguardian.com/australia-news/video/2026/jun/27/australian-rescue-team-uses-ai-powered-drone-to-find-lost-hikers-video",
+          "date": "Sat, 27 Jun 2026 09:50:37 GMT"
+        },
+        {
+          "title": "Dave Eggers: \u2018Once you have a machine think and write for you, you\u2019re cooked as a species\u2019",
+          "link": "https://www.theguardian.com/books/2026/jun/27/dave-eggers-once-you-have-a-machine-think-and-write-for-you-youre-cooked-as-a-species",
+          "date": "Sat, 27 Jun 2026 08:00:34 GMT"
+        },
+        {
           "title": "Social media bans go global: big tech faces a reckoning after Australia\u2019s crackdown",
           "link": "https://www.theguardian.com/news/ng-interactive/2026/jun/27/social-media-bans-go-global-big-tech-reckoning-australia-crackdown",
           "date": "Sat, 27 Jun 2026 05:00:31 GMT"
@@ -373,16 +383,6 @@
           "title": "OpenAI staggers AI model release after Trump administration request",
           "link": "https://www.theguardian.com/technology/2026/jun/26/openai-ai-model-release-trump-us-sam-altman-gpt-anthropic-mythos",
           "date": "Fri, 26 Jun 2026 14:06:11 GMT"
-        },
-        {
-          "title": "A little bird told her: scientist wins $100,000 prize for decoding birdsong",
-          "link": "https://www.theguardian.com/science/2026/jun/26/human-animal-communication-step-closer-scientist-wins-prize-for-decoding-birdsong",
-          "date": "Fri, 26 Jun 2026 06:53:54 GMT"
-        },
-        {
-          "title": "Australian musicians sound warning note after Nick Cave, Kylie and many more slurped into AI training tool",
-          "link": "https://www.theguardian.com/culture/2026/jun/26/australian-musicians-aussie-music-ai-training-tool-nick-cave-kylie-minogue-paul-dempsey",
-          "date": "Fri, 26 Jun 2026 01:09:13 GMT"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Deranged Stalker Uses AI to Edit Her Imaginary Baby Into Man\u2019s Photos",
+          "link": "https://futurism.com/artificial-intelligence/stalker-ai-imaginary-baby",
+          "date": "Sat, 27 Jun 2026 06:00:00 -0400"
+        },
+        {
           "title": "Ford Scrambled to Rehire Engineers After Sabotaging Itself With AI",
           "link": "https://futurism.com/artificial-intelligence/ford-rehire-engineers-ai",
           "date": "Fri, 26 Jun 2026 15:39:12 -0400"
@@ -442,11 +447,6 @@
           "title": "Peppa Pig Owner Demands Child Actors Sign Away Voice Rights to AI",
           "link": "https://futurism.com/artificial-intelligence/peppa-pig-owner-child-actors-voice-rights-ai",
           "date": "Thu, 25 Jun 2026 15:54:33 -0400"
-        },
-        {
-          "title": "Softbank CEO Who\u2019s Invested $64 Billion in OpenAI Says It\u2019s \u201cBlasphemy\u201d to Mention the AI Bubble",
-          "link": "https://futurism.com/artificial-intelligence/softbank-ceo-blasphemy-ai-bubble",
-          "date": "Thu, 25 Jun 2026 14:52:29 -0400"
         }
       ],
       "error": null
