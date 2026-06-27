@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T04:50:48.711700+00:00",
+  "generatedAt": "2026-06-27T07:46:55.691703+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -360,6 +360,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Social media bans go global: big tech faces a reckoning after Australia\u2019s crackdown",
+          "link": "https://www.theguardian.com/news/ng-interactive/2026/jun/27/social-media-bans-go-global-big-tech-reckoning-australia-crackdown",
+          "date": "Sat, 27 Jun 2026 05:00:31 GMT"
+        },
+        {
           "title": "Hikers lost in Kosciuszko national park rescued within five hours by AI drone",
           "link": "https://www.theguardian.com/australia-news/2026/jun/27/ai-drone-rescue-kosciuszko-national-park-hikers-fire-rescue-nsw",
           "date": "Sat, 27 Jun 2026 03:05:44 GMT"
@@ -378,11 +383,6 @@
           "title": "Australian musicians sound warning note after Nick Cave, Kylie and many more slurped into AI training tool",
           "link": "https://www.theguardian.com/culture/2026/jun/26/australian-musicians-aussie-music-ai-training-tool-nick-cave-kylie-minogue-paul-dempsey",
           "date": "Fri, 26 Jun 2026 01:09:13 GMT"
-        },
-        {
-          "title": "Datacentres are growing target of global climate-related legal cases, report finds",
-          "link": "https://www.theguardian.com/environment/2026/jun/25/datacentres-facing-increase-in-global-climate-related-legal-cases-report-finds",
-          "date": "Thu, 25 Jun 2026 10:03:54 GMT"
         }
       ],
       "error": null
