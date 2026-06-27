@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T00:03:45.128897+00:00",
+  "generatedAt": "2026-06-27T04:50:48.711700+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -360,6 +360,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Hikers lost in Kosciuszko national park rescued within five hours by AI drone",
+          "link": "https://www.theguardian.com/australia-news/2026/jun/27/ai-drone-rescue-kosciuszko-national-park-hikers-fire-rescue-nsw",
+          "date": "Sat, 27 Jun 2026 03:05:44 GMT"
+        },
+        {
           "title": "OpenAI staggers AI model release after Trump administration request",
           "link": "https://www.theguardian.com/technology/2026/jun/26/openai-ai-model-release-trump-us-sam-altman-gpt-anthropic-mythos",
           "date": "Fri, 26 Jun 2026 14:06:11 GMT"
@@ -378,11 +383,6 @@
           "title": "Datacentres are growing target of global climate-related legal cases, report finds",
           "link": "https://www.theguardian.com/environment/2026/jun/25/datacentres-facing-increase-in-global-climate-related-legal-cases-report-finds",
           "date": "Thu, 25 Jun 2026 10:03:54 GMT"
-        },
-        {
-          "title": "\u2018More relevant than making fires\u2019: Explorer Scouts launch badges for AI and digital age",
-          "link": "https://www.theguardian.com/society/2026/jun/25/explorer-scouts-launch-badges-ai-digital-age",
-          "date": "Thu, 25 Jun 2026 07:40:46 GMT"
         }
       ],
       "error": null
@@ -456,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
+          "link": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
+          "date": "Sat, 27 Jun 2026 00:26:14 +0000"
+        },
+        {
           "title": "OpenAI Has New AI Models. Here\u2019s Why You Can\u2019t Use Them",
           "link": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
           "date": "Fri, 26 Jun 2026 17:05:40 +0000"
@@ -474,11 +479,6 @@
           "title": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
           "link": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
           "date": "Fri, 26 Jun 2026 00:49:13 +0000"
-        },
-        {
-          "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
-          "link": "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/",
-          "date": "Thu, 25 Jun 2026 23:13:45 +0000"
         }
       ],
       "error": null
