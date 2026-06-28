@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T15:15:44.880417+00:00",
+  "generatedAt": "2026-06-28T17:06:09.521850+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -211,14 +211,14 @@
           "date": "2026-06-28T13:27:31+00:00"
         },
         {
+          "title": "He\u2019s not wrong",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1ui0cyb/hes_not_wrong/",
+          "date": "2026-06-28T15:34:51+00:00"
+        },
+        {
           "title": "Misanthropic",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1uhxcwt/misanthropic/",
           "date": "2026-06-28T13:30:07+00:00"
-        },
-        {
-          "title": "Mek me rich! \ud83e\udd11",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1uhysrr/mek_me_rich/",
-          "date": "2026-06-28T14:31:50+00:00"
         }
       ],
       "error": null
