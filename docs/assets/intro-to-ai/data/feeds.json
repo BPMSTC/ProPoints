@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T11:04:28.470883+00:00",
+  "generatedAt": "2026-06-28T13:40:04.202998+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -112,8 +112,34 @@
     {
       "name": "AI Business",
       "url": "https://aibusiness.com/rss.xml",
-      "items": [],
-      "error": "<unknown>:2:0: syntax error"
+      "items": [
+        {
+          "title": "Prompt: Physical AI Is Entering Its Commercialization Phase",
+          "link": "https://aibusiness.com/generative-ai/prompt-physical-ai-entering-commercialization-phase",
+          "date": "Fri, 26 Jun 2026 15:32:20 GMT"
+        },
+        {
+          "title": "India to Get Another Big AI Funding Boost From Amazon",
+          "link": "https://aibusiness.com/generative-ai/india-another-ai-funding-boost-from-amazon",
+          "date": "Fri, 26 Jun 2026 11:58:56 GMT"
+        },
+        {
+          "title": "Anthropic Alleges That Alibaba Pilfered Claude Capabilities",
+          "link": "https://aibusiness.com/generative-ai/anthropic-alleges-alibaba-pilfered-claude-capabilities",
+          "date": "Thu, 25 Jun 2026 18:01:19 GMT"
+        },
+        {
+          "title": "How AI Could Help Address the Energy Challenge it is Creating",
+          "link": "https://aibusiness.com/data-centers/how-ai-could-help-address-energy-challenge",
+          "date": "Thu, 25 Jun 2026 17:23:04 GMT"
+        },
+        {
+          "title": "Maker of Digit the Robot to Go Public",
+          "link": "https://aibusiness.com/robotics/maker-digit-the-robot-goes-public",
+          "date": "Thu, 25 Jun 2026 12:57:39 GMT"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AIModels.fyi",
@@ -125,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -180,19 +206,19 @@
           "date": "2025-09-09T02:25:04+00:00"
         },
         {
-          "title": "My latest Autonomous Hackbot.. for fun and sport.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1uh7ect/my_latest_autonomous_hackbot_for_fun_and_sport/",
-          "date": "2026-06-27T16:39:53+00:00"
+          "title": "Anything you can build, I can build better.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1uhxav9/anything_you_can_build_i_can_build_better/",
+          "date": "2026-06-28T13:27:31+00:00"
         },
         {
-          "title": "Connectome OS - A real fly brain is running inside your laptop.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1uh8erm/connectome_os_a_real_fly_brain_is_running_inside/",
-          "date": "2026-06-27T17:20:25+00:00"
+          "title": "Misanthropic",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1uhxcwt/misanthropic/",
+          "date": "2026-06-28T13:30:07+00:00"
         },
         {
-          "title": "RuPixel: an AI search engine that sees the real world in milliseconds and runs locally in your browser",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1uh432n/rupixel_an_ai_search_engine_that_sees_the_real/",
-          "date": "2026-06-27T14:24:23+00:00"
+          "title": "Claude is down.. but i don\u2019t care. \u2018Cause GLM 5.2 is awesome",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1uhxc0x/claude_is_down_but_i_dont_care_cause_glm_52_is/",
+          "date": "2026-06-28T13:29:02+00:00"
         }
       ],
       "error": null
@@ -294,7 +320,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "So now scraping data without permission is bad for AI training all of sudden?",
+          "link": "https://www.reddit.com/r/artificial/comments/1ugwccs/so_now_scraping_data_without_permission_is_bad/",
+          "date": "2026-06-27T07:37:00+00:00"
+        },
+        {
+          "title": "The Government Built the Internet. Why Didn\u2019t It Build AI?",
+          "link": "https://www.reddit.com/r/artificial/comments/1uhxhsq/the_government_built_the_internet_why_didnt_it/",
+          "date": "2026-06-28T13:36:18+00:00"
+        },
+        {
+          "title": "AI subscriptions are cheap now\u2014but will they stay that way by 2026?",
+          "link": "https://www.reddit.com/r/artificial/comments/1uhxex9/ai_subscriptions_are_cheap_nowbut_will_they_stay/",
+          "date": "2026-06-28T13:32:42+00:00"
+        },
+        {
+          "title": "I have it on good authority that Google are going to be hit with export controls soon.",
+          "link": "https://www.reddit.com/r/artificial/comments/1uh2fc5/i_have_it_on_good_authority_that_google_are_going/",
+          "date": "2026-06-27T13:11:25+00:00"
+        },
+        {
+          "title": "What\u2019s the biggest gap between AI tool demos and actual daily use?",
+          "link": "https://www.reddit.com/r/artificial/comments/1uhlz6m/whats_the_biggest_gap_between_ai_tool_demos_and/",
+          "date": "2026-06-28T03:10:46+00:00"
+        }
+      ],
       "error": null
     },
     {
@@ -398,6 +450,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Cops Caught Using AI to Edit Picture of Pathetic Drug Bust",
+          "link": "https://futurism.com/artificial-intelligence/cops-caught-using-gen-ai-drug-bust",
+          "date": "Sun, 28 Jun 2026 08:49:00 -0400"
+        },
+        {
           "title": "Tom Hanks Frets AI Could Voice Woody in Even More \u201cToy Story\u201d Movies",
           "link": "https://futurism.com/artificial-intelligence/tom-hanks-ai-woody-toy-story-forever",
           "date": "Sat, 27 Jun 2026 14:49:00 -0400"
@@ -416,11 +473,6 @@
           "title": "Ford Scrambled to Rehire Engineers After Sabotaging Itself With AI",
           "link": "https://futurism.com/artificial-intelligence/ford-rehire-engineers-ai",
           "date": "Fri, 26 Jun 2026 15:39:12 -0400"
-        },
-        {
-          "title": "Massive Data Center Cooks Nearby Residents Alive Amidst Deadly Heatwave",
-          "link": "https://futurism.com/artificial-intelligence/data-center-cooks-nearby-residents-heatwave",
-          "date": "Fri, 26 Jun 2026 14:40:00 -0400"
         }
       ],
       "error": null
