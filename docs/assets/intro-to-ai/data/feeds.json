@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T08:18:57.864730+00:00",
+  "generatedAt": "2026-06-28T11:04:28.470883+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -112,34 +112,8 @@
     {
       "name": "AI Business",
       "url": "https://aibusiness.com/rss.xml",
-      "items": [
-        {
-          "title": "Prompt: Physical AI Is Entering Its Commercialization Phase",
-          "link": "https://aibusiness.com/generative-ai/prompt-physical-ai-entering-commercialization-phase",
-          "date": "Fri, 26 Jun 2026 15:32:20 GMT"
-        },
-        {
-          "title": "India to Get Another Big AI Funding Boost From Amazon",
-          "link": "https://aibusiness.com/generative-ai/india-another-ai-funding-boost-from-amazon",
-          "date": "Fri, 26 Jun 2026 11:58:56 GMT"
-        },
-        {
-          "title": "Anthropic Alleges That Alibaba Pilfered Claude Capabilities",
-          "link": "https://aibusiness.com/generative-ai/anthropic-alleges-alibaba-pilfered-claude-capabilities",
-          "date": "Thu, 25 Jun 2026 18:01:19 GMT"
-        },
-        {
-          "title": "How AI Could Help Address the Energy Challenge it is Creating",
-          "link": "https://aibusiness.com/data-centers/how-ai-could-help-address-energy-challenge",
-          "date": "Thu, 25 Jun 2026 17:23:04 GMT"
-        },
-        {
-          "title": "Maker of Digit the Robot to Go Public",
-          "link": "https://aibusiness.com/robotics/maker-digit-the-robot-goes-public",
-          "date": "Thu, 25 Jun 2026 12:57:39 GMT"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:0: syntax error"
     },
     {
       "name": "AIModels.fyi",
