@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-06-29T10:51:08.949754+00:00",
+  "generatedAt": "2026-06-29T14:48:47.212301+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Inside Cannes, the Advertising Industry\u2019s Biggest Party",
+          "link": "https://www.404media.co/inside-cannes-the-advertising-industrys-biggest-party/",
+          "date": "Mon, 29 Jun 2026 13:43:39 GMT"
+        },
         {
           "title": "Scientists Think They\u2019ve Uncovered the 15-Million-Year-Old Origin of Laughter",
           "link": "https://www.404media.co/scientists-think-theyve-uncovered-the-15-million-year-old-origin-of-laughter/",
@@ -24,11 +29,6 @@
           "title": "Vast \u2018Structures\u2019 In Space Reveal the Universe Isn't What We Thought",
           "link": "https://www.404media.co/vast-structures-in-space-reveal-the-universe-isnt-what-we-thought/",
           "date": "Wed, 24 Jun 2026 15:00:43 GMT"
-        },
-        {
-          "title": "The Trump Administration\u2019s New Census Data Rules Are a Policy Disaster",
-          "link": "https://www.404media.co/census-data-privacy-trump-policy-change-noise-infusion/",
-          "date": "Wed, 24 Jun 2026 14:39:21 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Comcast is splitting its media and broadband properties",
+          "link": "https://arstechnica.com/tech-policy/2026/06/comcast-is-splitting-its-media-and-broadband-properties/",
+          "date": "Mon, 29 Jun 2026 13:25:41 +0000"
+        },
+        {
+          "title": "NASA's X-59 \"frankenjet\" tests supersonic flight without the sonic boom",
+          "link": "https://arstechnica.com/gadgets/2026/06/nasas-x-59-frankenjet-tests-supersonic-flight-without-the-sonic-boom/",
+          "date": "Mon, 29 Jun 2026 10:30:36 +0000"
+        },
+        {
           "title": "Why did this journal retract two 1940s papers by Max Planck?",
           "link": "https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/",
           "date": "Sun, 28 Jun 2026 18:49:21 +0000"
@@ -303,16 +313,6 @@
           "title": "South Korea plans to train entire military as \"drone warriors\"",
           "link": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/",
           "date": "Fri, 26 Jun 2026 22:19:05 +0000"
-        },
-        {
-          "title": "Doctors suspected man had brain cancer. He actually had worms.",
-          "link": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
-          "date": "Fri, 26 Jun 2026 21:43:57 +0000"
-        },
-        {
-          "title": "Streaming services\u2019 obnoxiously loud ads become illegal on July 1 in California",
-          "link": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
-          "date": "Fri, 26 Jun 2026 21:12:07 +0000"
         }
       ],
       "error": null
@@ -328,6 +328,21 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Could AI create a new form of inequality in South Africa?",
+          "link": "https://theconversation.com/could-ai-create-a-new-form-of-inequality-in-south-africa-283725",
+          "date": "2026-06-29T14:22:19Z"
+        },
+        {
+          "title": "Is the Pope\u2019s AI encyclical a warning on Tech Messianism?",
+          "link": "https://theconversation.com/is-the-popes-ai-encyclical-a-warning-on-tech-messianism-285180",
+          "date": "2026-06-29T14:05:49Z"
+        },
+        {
+          "title": "8 principles from human ecology can help AI work for human well-being",
+          "link": "https://theconversation.com/8-principles-from-human-ecology-can-help-ai-work-for-human-well-being-279959",
+          "date": "2026-06-29T12:31:54Z"
+        },
+        {
           "title": "Investigative interviews are key to solving crimes \u2013 should AI be helping police with their inquiries?",
           "link": "https://theconversation.com/investigative-interviews-are-key-to-solving-crimes-should-ai-be-helping-police-with-their-inquiries-285874",
           "date": "2026-06-26T09:59:10Z"
@@ -336,21 +351,6 @@
           "title": "The true danger of AI may lie in its reflection of us, warns Anna Goldsworthy",
           "link": "https://theconversation.com/the-true-danger-of-ai-may-lie-in-its-reflection-of-us-warns-anna-goldsworthy-284817",
           "date": "2026-06-25T23:49:17Z"
-        },
-        {
-          "title": "Are algorithms unfairly screening out immigrant job applications?",
-          "link": "https://theconversation.com/are-algorithms-unfairly-screening-out-immigrant-job-applications-284895",
-          "date": "2026-06-24T16:22:48Z"
-        },
-        {
-          "title": "Unis are going back to in-person exams. But some students are finding new ways to cheat",
-          "link": "https://theconversation.com/unis-are-going-back-to-in-person-exams-but-some-students-are-finding-new-ways-to-cheat-285801",
-          "date": "2026-06-23T19:26:09Z"
-        },
-        {
-          "title": "The danger of confusing AI mental health support with therapy",
-          "link": "https://theconversation.com/the-danger-of-confusing-ai-mental-health-support-with-therapy-285431",
-          "date": "2026-06-23T12:47:17Z"
         }
       ],
       "error": null
@@ -360,14 +360,19 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Shares in chipmakers underpinning AI boom rocket in first half of 2026",
+          "link": "https://www.theguardian.com/business/2026/jun/29/shares-in-chipmakers-underpinning-ai-boom-surge-in-first-half-of-2026",
+          "date": "Mon, 29 Jun 2026 14:18:09 GMT"
+        },
+        {
+          "title": "Once, cyber-attacks required great skill. AI is changing that | Bruce Schneier",
+          "link": "https://www.theguardian.com/commentisfree/2026/jun/29/cyber-attacks-ai",
+          "date": "Mon, 29 Jun 2026 12:00:44 GMT"
+        },
+        {
           "title": "\u2018We\u2019re up against forces that have all the money in the world\u2019: Erin Brockovich on her battle against AI datacentres",
           "link": "https://www.theguardian.com/environment/2026/jun/29/were-up-against-forces-that-have-all-the-money-in-the-world-erin-brockovich-on-her-battle-against-ai-datacentres",
           "date": "Mon, 29 Jun 2026 04:00:28 GMT"
-        },
-        {
-          "title": "Shares in chipmakers underpinning AI boom rocket in first half of 2026",
-          "link": "https://www.theguardian.com/business/2026/jun/29/shares-in-chipmakers-underpinning-ai-boom-surge-in-first-half-of-2026",
-          "date": "Mon, 29 Jun 2026 03:00:26 GMT"
         },
         {
           "title": "Australian with retirement savings? You probably own SpaceX",
@@ -378,11 +383,6 @@
           "title": "AI claims to have the answers to life\u2019s big questions. But sometimes not knowing brings us closer to the truth | Amy Galliford",
           "link": "https://www.theguardian.com/commentisfree/2026/jun/29/ai-answers-to-lifes-big-questions-chatgp-contemplation",
           "date": "Sun, 28 Jun 2026 15:00:13 GMT"
-        },
-        {
-          "title": "David Sedaris on his Duolingo obsession: \u2018\u201cToday is the last day,\u201d I told myself \u2013 but I was powerless to stop\u2019",
-          "link": "https://www.theguardian.com/books/2026/jun/28/david-sedaris-duolingo-obsession-the-land-and-its-people-memoir",
-          "date": "Sun, 28 Jun 2026 05:00:01 GMT"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "AI Zillionaires Are Starting to Get Scared as the Public Turns Against Them",
+          "link": "https://futurism.com/artificial-intelligence/ai-tech-billionaires-mark-cuban-scared-public",
+          "date": "Mon, 29 Jun 2026 09:07:45 -0400"
+        },
+        {
           "title": "There May Be Bizarre Forms of Consciousness Drifting Through the Universe, Mind-Bending Paper Claims",
           "link": "https://futurism.com/artificial-intelligence/conciousness-forms-alien-paper",
           "date": "Sun, 28 Jun 2026 13:50:00 -0400"
@@ -442,11 +447,6 @@
           "title": "Tom Hanks Frets AI Could Voice Woody in Even More \u201cToy Story\u201d Movies",
           "link": "https://futurism.com/artificial-intelligence/tom-hanks-ai-woody-toy-story-forever",
           "date": "Sat, 27 Jun 2026 14:49:00 -0400"
-        },
-        {
-          "title": "AI Companies Are Learning an Ironic Lesson as the People They Pay to Improve Their Chatbots Are Just Feeding AI Slop Into Them",
-          "link": "https://futurism.com/artificial-intelligence/ai-companies-contractors-slop-data-training",
-          "date": "Sat, 27 Jun 2026 07:50:00 -0400"
         }
       ],
       "error": null
