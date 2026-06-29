@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T00:05:23.786826+00:00",
+  "generatedAt": "2026-06-29T05:28:18.977834+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -206,19 +206,19 @@
           "date": "2025-09-09T02:25:04+00:00"
         },
         {
-          "title": "Anything you can build, I can build better.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1uhxav9/anything_you_can_build_i_can_build_better/",
-          "date": "2026-06-28T13:27:31+00:00"
-        },
-        {
           "title": "He\u2019s not wrong",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1ui0cyb/hes_not_wrong/",
           "date": "2026-06-28T15:34:51+00:00"
         },
         {
-          "title": "Misanthropic",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1uhxcwt/misanthropic/",
-          "date": "2026-06-28T13:30:07+00:00"
+          "title": "Anything you can build, I can build better.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1uhxav9/anything_you_can_build_i_can_build_better/",
+          "date": "2026-06-28T13:27:31+00:00"
+        },
+        {
+          "title": "\ud83c\udde8\ud83c\uddf3 China rot.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1uia9eg/china_rot/",
+          "date": "2026-06-28T22:06:09+00:00"
         }
       ],
       "error": null
@@ -360,6 +360,16 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "\u2018We\u2019re up against forces that have all the money in the world\u2019: Erin Brockovich on her battle against AI datacentres",
+          "link": "https://www.theguardian.com/environment/2026/jun/29/were-up-against-forces-that-have-all-the-money-in-the-world-erin-brockovich-on-her-battle-against-ai-datacentres",
+          "date": "Mon, 29 Jun 2026 04:00:28 GMT"
+        },
+        {
+          "title": "Shares in chipmakers underpinning AI boom rocket in first half of 2026",
+          "link": "https://www.theguardian.com/business/2026/jun/29/shares-in-chipmakers-underpinning-ai-boom-surge-in-first-half-of-2026",
+          "date": "Mon, 29 Jun 2026 03:00:26 GMT"
+        },
+        {
           "title": "Australian with retirement savings? You probably own SpaceX",
           "link": "https://www.theguardian.com/australia-news/2026/jun/29/australian-with-retirement-savings-you-probably-own-spacex",
           "date": "Sun, 28 Jun 2026 15:00:15 GMT"
@@ -373,16 +383,6 @@
           "title": "David Sedaris on his Duolingo obsession: \u2018\u201cToday is the last day,\u201d I told myself \u2013 but I was powerless to stop\u2019",
           "link": "https://www.theguardian.com/books/2026/jun/28/david-sedaris-duolingo-obsession-the-land-and-its-people-memoir",
           "date": "Sun, 28 Jun 2026 05:00:01 GMT"
-        },
-        {
-          "title": "The AI bubble has further to run despite the looming crash",
-          "link": "https://www.theguardian.com/business/2026/jun/27/ai-bubble-crash-tech-firms-stock-markets",
-          "date": "Sat, 27 Jun 2026 15:00:07 GMT"
-        },
-        {
-          "title": "Australian rescue team uses AI-powered drone to find lost hikers \u2013 video",
-          "link": "https://www.theguardian.com/australia-news/video/2026/jun/27/australian-rescue-team-uses-ai-powered-drone-to-find-lost-hikers-video",
-          "date": "Sat, 27 Jun 2026 09:50:37 GMT"
         }
       ],
       "error": null
