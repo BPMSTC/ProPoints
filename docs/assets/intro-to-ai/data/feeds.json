@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T21:23:15.970128+00:00",
+  "generatedAt": "2026-06-29T22:53:56.503110+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
+          "link": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+          "date": "Mon, 29 Jun 2026 21:09:43 +0000"
+        },
+        {
           "title": "US renewable boom passes key milestone in April",
           "link": "https://arstechnica.com/science/2026/06/solar-outproduced-coal-in-april-but-not-on-the-grid/",
           "date": "Mon, 29 Jun 2026 20:12:30 +0000"
@@ -308,11 +313,6 @@
           "title": "Ozone loss was a thing even before CFCs were widely used",
           "link": "https://arstechnica.com/science/2026/06/ozone-damage-could-have-been-detected-decades-earlier/",
           "date": "Mon, 29 Jun 2026 19:00:23 +0000"
-        },
-        {
-          "title": "Google warns EU's plans to weaken its monopoly could expose user data",
-          "link": "https://arstechnica.com/gadgets/2026/06/google-warns-eus-plans-to-weaken-its-monopoly-could-expose-user-data/",
-          "date": "Mon, 29 Jun 2026 18:21:31 +0000"
         }
       ],
       "error": null
@@ -456,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
+          "link": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
+          "date": "Mon, 29 Jun 2026 21:49:26 +0000"
+        },
+        {
           "title": "This Humanoid Robot Is a Terrifyingly Competent Office Intern",
           "link": "https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/",
           "date": "Mon, 29 Jun 2026 08:00:00 +0000"
@@ -474,11 +479,6 @@
           "title": "Europe Is Fed Up and Wants Its Own AI",
           "link": "https://www.wired.com/story/europe-is-fed-up-and-wants-its-own-ai/",
           "date": "Fri, 26 Jun 2026 15:00:00 +0000"
-        },
-        {
-          "title": "How Qatar Became FIFA\u2019s Technology Test Lab",
-          "link": "https://www.wired.com/story/how-qatar-became-fifas-technology-test-lab/",
-          "date": "Fri, 26 Jun 2026 10:00:00 +0000"
         }
       ],
       "error": null
@@ -487,6 +487,11 @@
       "name": "Artificial Intelligence News -- ScienceDaily",
       "url": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "items": [
+        {
+          "title": "Millions of exploding stars could soon reveal dark energy's secrets",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260621060315.htm",
+          "date": "Mon, 29 Jun 2026 17:57:17 EDT"
+        },
         {
           "title": "SpaceX wants to build AI data centers in space. Will it work?",
           "link": "https://www.sciencedaily.com/releases/2026/06/260618041501.htm",
@@ -506,11 +511,6 @@
           "title": "Scientists are seriously asking if bees and ChatGPT are conscious",
           "link": "https://www.sciencedaily.com/releases/2026/06/260604044258.htm",
           "date": "Fri, 05 Jun 2026 01:27:32 EDT"
-        },
-        {
-          "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
-          "date": "Mon, 18 May 2026 20:23:26 EDT"
         }
       ],
       "error": null
