@@ -1,10 +1,25 @@
 {
-  "generatedAt": "2026-06-30T11:43:14.652233+00:00",
+  "generatedAt": "2026-06-30T14:12:31.158527+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Scammers Sell Seeds for Exotic AI-Generated Flowers That Don\u2019t Exist",
+          "link": "https://www.404media.co/scammers-sell-seeds-for-exotic-ai-generated-flowers-that-dont-exist/",
+          "date": "Tue, 30 Jun 2026 13:48:27 GMT"
+        },
+        {
+          "title": "Companies Are Making Claude and Codex Talk Like Cavemen to Stop AI\u2019s Soaring Costs",
+          "link": "https://www.404media.co/companies-are-making-claude-and-codex-talk-like-cavemen-to-stop-ais-soaring-costs/",
+          "date": "Tue, 30 Jun 2026 13:33:16 GMT"
+        },
+        {
+          "title": "How I Bought a Private Jet By Selling $10 Subscriptions to 404 Media",
+          "link": "https://www.404media.co/how-i-bought-a-private-jet-by-selling-10-subscriptions-to-404-media/",
+          "date": "Tue, 30 Jun 2026 13:01:06 GMT"
+        },
         {
           "title": "Tidal Says It Won\u2019t Pay Royalties for AI-Generated Music",
           "link": "https://www.404media.co/tidal-says-it-wont-pay-royalties-for-ai-generated-music/",
@@ -14,21 +29,6 @@
           "title": "Inside Cannes, the Advertising Industry\u2019s Biggest Party",
           "link": "https://www.404media.co/inside-cannes-the-advertising-industrys-biggest-party/",
           "date": "Mon, 29 Jun 2026 13:43:39 GMT"
-        },
-        {
-          "title": "Scientists Think They\u2019ve Uncovered the 15-Million-Year-Old Origin of Laughter",
-          "link": "https://www.404media.co/scientists-think-theyve-uncovered-the-15-million-year-old-origin-of-laughter/",
-          "date": "Sat, 27 Jun 2026 17:02:33 GMT"
-        },
-        {
-          "title": "Behind the Blog: Salesforce Beach",
-          "link": "https://www.404media.co/behind-the-blog-salesforce-beach/",
-          "date": "Fri, 26 Jun 2026 17:04:16 GMT"
-        },
-        {
-          "title": "Bodycam Shows Moment Cops Arrested a Man for Speaking Too Long at Data Center Meeting",
-          "link": "https://www.404media.co/bodycam-footage-video-claremore-oklahoma-data-center-meeting/",
-          "date": "Thu, 25 Jun 2026 13:47:00 GMT"
         }
       ],
       "error": null
@@ -124,6 +124,11 @@
           "date": "Mon, 29 Jun 2026 15:13:00 GMT"
         },
         {
+          "title": "How SMBs Can Take Advantage of Generative AI",
+          "link": "https://aibusiness.com/generative-ai/how-smbs-can-take-advantage-generative-ai",
+          "date": "Mon, 29 Jun 2026 14:25:29 GMT"
+        },
+        {
           "title": "Prompt: Physical AI Is Entering Its Commercialization Phase",
           "link": "https://aibusiness.com/generative-ai/prompt-physical-ai-entering-commercialization-phase",
           "date": "Fri, 26 Jun 2026 15:32:20 GMT"
@@ -132,11 +137,6 @@
           "title": "India to Get Another Big AI Funding Boost From Amazon",
           "link": "https://aibusiness.com/generative-ai/india-another-ai-funding-boost-from-amazon",
           "date": "Fri, 26 Jun 2026 11:58:56 GMT"
-        },
-        {
-          "title": "Anthropic Alleges That Alibaba Pilfered Claude Capabilities",
-          "link": "https://aibusiness.com/generative-ai/anthropic-alleges-alibaba-pilfered-claude-capabilities",
-          "date": "Thu, 25 Jun 2026 18:01:19 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -206,6 +206,11 @@
           "date": "2025-09-09T02:25:04+00:00"
         },
         {
+          "title": "GitFut \u2013 your GitHub stats as a World Cup player card, out of 99",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1ujo3tz/gitfut_your_github_stats_as_a_world_cup_player/",
+          "date": "2026-06-30T12:40:25+00:00"
+        },
+        {
           "title": "He\u2019s not wrong",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1ui0cyb/hes_not_wrong/",
           "date": "2026-06-28T15:34:51+00:00"
@@ -214,11 +219,6 @@
           "title": "\ud83c\udde8\ud83c\uddf3 China rot.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1uia9eg/china_rot/",
           "date": "2026-06-28T22:06:09+00:00"
-        },
-        {
-          "title": "Anything you can build, I can build better.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1uhxav9/anything_you_can_build_i_can_build_better/",
-          "date": "2026-06-28T13:27:31+00:00"
         }
       ],
       "error": null
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Ars Live, today: The latest on the aftermath of the New Glenn catastrophe",
+          "link": "https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/",
+          "date": "Tue, 30 Jun 2026 13:15:59 +0000"
+        },
+        {
           "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
           "link": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
           "date": "Mon, 29 Jun 2026 22:05:33 +0000"
@@ -308,11 +313,6 @@
           "title": "Supreme Court ruling guts government\u2019s use of geofence warrants",
           "link": "https://arstechnica.com/tech-policy/2026/06/supreme-court-ruling-guts-governments-use-of-geofence-warrants/",
           "date": "Mon, 29 Jun 2026 20:04:04 +0000"
-        },
-        {
-          "title": "Sony erases digital content from libraries; we're reminded we don\u2019t own what we buy",
-          "link": "https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/",
-          "date": "Mon, 29 Jun 2026 19:10:57 +0000"
         }
       ],
       "error": null
@@ -327,6 +327,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "World Cup propels surveillance to new heights",
+          "link": "https://theconversation.com/world-cup-propels-surveillance-to-new-heights-284712",
+          "date": "2026-06-30T12:35:55Z"
+        },
         {
           "title": "An Alberta school chat listed girls to assault. The response shows Canada still has a rape culture problem",
           "link": "https://theconversation.com/an-alberta-school-chat-listed-girls-to-assault-the-response-shows-canada-still-has-a-rape-culture-problem-285545",
@@ -346,11 +351,6 @@
           "title": "8 principles from human ecology can help AI work for human well-being",
           "link": "https://theconversation.com/8-principles-from-human-ecology-can-help-ai-work-for-human-well-being-279959",
           "date": "2026-06-29T12:31:54Z"
-        },
-        {
-          "title": "Investigative interviews are key to solving crimes \u2013 should AI be helping police with their inquiries?",
-          "link": "https://theconversation.com/investigative-interviews-are-key-to-solving-crimes-should-ai-be-helping-police-with-their-inquiries-285874",
-          "date": "2026-06-26T09:59:10Z"
         }
       ],
       "error": null
@@ -359,6 +359,11 @@
       "name": "Artificial intelligence (AI) | The Guardian",
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
+        {
+          "title": "Rocky week for AI as shares slump but no sign of crash \u2013\u00a0yet",
+          "link": "https://www.theguardian.com/technology/2026/jun/30/artificial-intelligence-shares",
+          "date": "Tue, 30 Jun 2026 13:14:52 GMT"
+        },
         {
           "title": "\u2018There\u2019s this deep mystery of what, actually, is this thing?\u2019: the philosopher inside Google DeepMind AI",
           "link": "https://www.theguardian.com/news/ng-interactive/2026/jun/30/theres-this-deep-mystery-of-what-actually-is-this-thing-the-philosopher-inside-google-deepmind",
@@ -378,11 +383,6 @@
           "title": "\u2018We\u2019re up against forces that have all the money in the world\u2019: Erin Brockovich on her battle against AI datacentres",
           "link": "https://www.theguardian.com/environment/2026/jun/29/were-up-against-forces-that-have-all-the-money-in-the-world-erin-brockovich-on-her-battle-against-ai-datacentres",
           "date": "Mon, 29 Jun 2026 04:00:28 GMT"
-        },
-        {
-          "title": "Australian with retirement savings? You probably own SpaceX",
-          "link": "https://www.theguardian.com/australia-news/2026/jun/29/australian-with-retirement-savings-you-probably-own-spacex",
-          "date": "Sun, 28 Jun 2026 15:00:15 GMT"
         }
       ],
       "error": null
@@ -424,6 +424,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Anthropic Hires Economist Who Says 33 Percent Chance of Human Extinction Is Acceptable",
+          "link": "https://futurism.com/artificial-intelligence/anthropic-economist-extinction",
+          "date": "Tue, 30 Jun 2026 09:50:22 -0400"
+        },
+        {
+          "title": "Anybody Who Thinks Orbital Data Centers are a Good Idea Is Suffering from AI Psychosis, Experts Argue",
+          "link": "https://futurism.com/artificial-intelligence/orbital-data-centers-ai-psychosis",
+          "date": "Tue, 30 Jun 2026 08:54:44 -0400"
+        },
+        {
           "title": "A24 Is Dealing With a Full-on Crisis Among Fans After Signing an AI Deal With Google",
           "link": "https://futurism.com/artificial-intelligence/a24-crisis-fans-signing-ai-deal-google",
           "date": "Mon, 29 Jun 2026 15:01:39 -0400"
@@ -437,16 +447,6 @@
           "title": "AI Zillionaires Are Starting to Get Scared as the Public Turns Against Them",
           "link": "https://futurism.com/artificial-intelligence/ai-tech-billionaires-mark-cuban-scared-public",
           "date": "Mon, 29 Jun 2026 09:07:45 -0400"
-        },
-        {
-          "title": "There May Be Bizarre Forms of Consciousness Drifting Through the Universe, Mind-Bending Paper Claims",
-          "link": "https://futurism.com/artificial-intelligence/conciousness-forms-alien-paper",
-          "date": "Sun, 28 Jun 2026 13:50:00 -0400"
-        },
-        {
-          "title": "Employees Are Using Their Jobs\u2019 Super-Expensive AI Tokens for the Most Hilariously Pointless Tasks Imaginable",
-          "link": "https://futurism.com/artificial-intelligence/employees-ai-tokens-pointless-tasks-finance",
-          "date": "Sun, 28 Jun 2026 10:49:00 -0400"
         }
       ],
       "error": null
