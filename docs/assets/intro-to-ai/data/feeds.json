@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-06-30T17:04:27.004287+00:00",
+  "generatedAt": "2026-06-30T19:50:44.967649+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "I Have Thoughts About That Kylie Jenner Meta Glasses Ad",
+          "link": "https://www.404media.co/meta-smart-glasses-starfire-kylie-jenner/",
+          "date": "Tue, 30 Jun 2026 18:19:17 GMT"
+        },
         {
           "title": "County With 37 Data Centers Asks Schools to \u2018Conserve Electricity\u2019",
           "link": "https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/",
@@ -24,11 +29,6 @@
           "title": "How I Bought a Private Jet By Selling $10 Subscriptions to 404 Media",
           "link": "https://www.404media.co/how-i-bought-a-private-jet-by-selling-10-subscriptions-to-404-media/",
           "date": "Tue, 30 Jun 2026 13:01:06 GMT"
-        },
-        {
-          "title": "Tidal Says It Won\u2019t Pay Royalties for AI-Generated Music",
-          "link": "https://www.404media.co/tidal-says-it-wont-pay-royalties-for-ai-generated-music/",
-          "date": "Mon, 29 Jun 2026 19:33:49 GMT"
         }
       ],
       "error": null
@@ -283,36 +283,36 @@
       "name": "Announcements - Stability AI",
       "url": "https://stability.ai/blog?format=rss",
       "items": [],
-      "error": null
+      "error": "<unknown>:2:0: syntax error"
     },
     {
       "name": "Ars Technica - All content",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Florida bans local governments from pursuing net-zero emissions goals",
-          "link": "https://arstechnica.com/science/2026/06/florida-bans-local-governments-from-pursuing-net-zero-emissions-goals/",
-          "date": "Tue, 30 Jun 2026 13:40:16 +0000"
+          "title": "Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet",
+          "link": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
+          "date": "Tue, 30 Jun 2026 18:36:10 +0000"
         },
         {
-          "title": "Ars Live, today: The latest on the aftermath of the New Glenn catastrophe",
-          "link": "https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/",
-          "date": "Tue, 30 Jun 2026 13:15:59 +0000"
+          "title": "RFK Jr. stacks FDA panel with peptide peddlers as FDA scientists oppose access",
+          "link": "https://arstechnica.com/health/2026/06/rfk-jr-stacks-fda-panel-with-peptide-peddlers-as-fda-scientists-oppose-access/",
+          "date": "Tue, 30 Jun 2026 18:25:10 +0000"
         },
         {
-          "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
-          "link": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
-          "date": "Mon, 29 Jun 2026 22:05:33 +0000"
+          "title": "Trump's plan to redesign every .gov website leads to AI-designed horrors",
+          "link": "https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/",
+          "date": "Tue, 30 Jun 2026 16:59:02 +0000"
         },
         {
-          "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
-          "link": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
-          "date": "Mon, 29 Jun 2026 21:09:43 +0000"
+          "title": "The US going 100% EV by 2040 would save more than 100k lives, study says",
+          "link": "https://arstechnica.com/cars/2026/06/the-us-going-100-ev-by-2040-would-save-more-than-100k-lives-study-says/",
+          "date": "Tue, 30 Jun 2026 16:03:44 +0000"
         },
         {
-          "title": "US renewable boom passes key milestone in April",
-          "link": "https://arstechnica.com/science/2026/06/solar-outproduced-coal-in-april-but-not-on-the-grid/",
-          "date": "Mon, 29 Jun 2026 20:12:30 +0000"
+          "title": "Trump asked Musk for SpaceX stock to seed US kids\u2019 savings accounts, report says",
+          "link": "https://arstechnica.com/tech-policy/2026/06/spacex-may-donate-stock-to-trumps-savings-accounts-for-kids-report-says/",
+          "date": "Tue, 30 Jun 2026 15:38:08 +0000"
         }
       ],
       "error": null
@@ -365,6 +365,11 @@
           "date": "Tue, 30 Jun 2026 15:04:58 GMT"
         },
         {
+          "title": "Frequent AI chatbot use linked to belief in anti-vaccine myths, poll finds",
+          "link": "https://www.theguardian.com/technology/2026/jun/30/ai-chatbot-use-anti-vaccine-myths-poll",
+          "date": "Tue, 30 Jun 2026 19:25:47 GMT"
+        },
+        {
           "title": "Silicon Valley donations make Colorado Democratic primary one of state\u2019s most expensive",
           "link": "https://www.theguardian.com/technology/2026/jun/30/silicon-valley-donations-colorado-democratic-primary",
           "date": "Tue, 30 Jun 2026 15:26:09 GMT"
@@ -378,11 +383,6 @@
           "title": "\u2018There\u2019s this deep mystery of what, actually, is this thing?\u2019: the philosopher inside Google DeepMind AI",
           "link": "https://www.theguardian.com/news/ng-interactive/2026/jun/30/theres-this-deep-mystery-of-what-actually-is-this-thing-the-philosopher-inside-google-deepmind",
           "date": "Tue, 30 Jun 2026 04:00:37 GMT"
-        },
-        {
-          "title": "Shares in chipmakers underpinning AI boom rocket in first half of 2026",
-          "link": "https://www.theguardian.com/business/2026/jun/29/shares-in-chipmakers-underpinning-ai-boom-surge-in-first-half-of-2026",
-          "date": "Mon, 29 Jun 2026 14:18:09 GMT"
         }
       ],
       "error": null
@@ -424,6 +424,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Top AI Researchers Terrified of a \u201cChernobyl Moment\u201d: a Mass Casualty Event, or Worse, That Turns the World Against AI Forever",
+          "link": "https://futurism.com/artificial-intelligence/ai-chernobyl-moment",
+          "date": "Tue, 30 Jun 2026 15:50:06 -0400"
+        },
+        {
+          "title": "Brown University Professor Horrified to Discover Largest AI Cheating Scandal in Ivy League History",
+          "link": "https://futurism.com/artificial-intelligence/brown-university-professor-cheating-scandal-ivy-league",
+          "date": "Tue, 30 Jun 2026 14:54:56 -0400"
+        },
+        {
           "title": "Anthropic Hires Economist Who Says 33 Percent Chance of Human Extinction Is Acceptable",
           "link": "https://futurism.com/artificial-intelligence/anthropic-economist-extinction",
           "date": "Tue, 30 Jun 2026 09:50:22 -0400"
@@ -437,16 +447,6 @@
           "title": "A24 Is Dealing With a Full-on Crisis Among Fans After Signing an AI Deal With Google",
           "link": "https://futurism.com/artificial-intelligence/a24-crisis-fans-signing-ai-deal-google",
           "date": "Mon, 29 Jun 2026 15:01:39 -0400"
-        },
-        {
-          "title": "Bosses Are Becoming Obsessed With AI, Using It to Make Every Decision, Barraging Their Employees With Nonsensical ChatGPT Directives, and Even Asking It Who to Fire",
-          "link": "https://futurism.com/artificial-intelligence/bosses-obsessed-with-ai",
-          "date": "Mon, 29 Jun 2026 13:50:14 -0400"
-        },
-        {
-          "title": "AI Zillionaires Are Starting to Get Scared as the Public Turns Against Them",
-          "link": "https://futurism.com/artificial-intelligence/ai-tech-billionaires-mark-cuban-scared-public",
-          "date": "Mon, 29 Jun 2026 09:07:45 -0400"
         }
       ],
       "error": null
