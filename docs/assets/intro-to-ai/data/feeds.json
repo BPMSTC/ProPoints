@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-06-30T14:12:31.158527+00:00",
+  "generatedAt": "2026-06-30T17:04:27.004287+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "County With 37 Data Centers Asks Schools to \u2018Conserve Electricity\u2019",
+          "link": "https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/",
+          "date": "Tue, 30 Jun 2026 15:49:10 GMT"
+        },
         {
           "title": "Scammers Sell Seeds for Exotic AI-Generated Flowers That Don\u2019t Exist",
           "link": "https://www.404media.co/scammers-sell-seeds-for-exotic-ai-generated-flowers-that-dont-exist/",
@@ -24,11 +29,6 @@
           "title": "Tidal Says It Won\u2019t Pay Royalties for AI-Generated Music",
           "link": "https://www.404media.co/tidal-says-it-wont-pay-royalties-for-ai-generated-music/",
           "date": "Mon, 29 Jun 2026 19:33:49 GMT"
-        },
-        {
-          "title": "Inside Cannes, the Advertising Industry\u2019s Biggest Party",
-          "link": "https://www.404media.co/inside-cannes-the-advertising-industrys-biggest-party/",
-          "date": "Mon, 29 Jun 2026 13:43:39 GMT"
         }
       ],
       "error": null
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Anthropic\u2019s Claude Models Now Available in Microsoft Foundry",
+          "link": "https://aibusiness.com/agentic-ai/anthropic-s-claude-models-available-microsoft-foundry",
+          "date": "Tue, 30 Jun 2026 14:34:51 GMT"
+        },
+        {
           "title": "Opinion: Why Token Counting Obscures ROI on AI Investments",
           "link": "https://aibusiness.com/agentic-ai/opinion-token-counting-obscures-roi-ai-investments",
           "date": "Mon, 29 Jun 2026 15:51:41 GMT"
@@ -132,11 +137,6 @@
           "title": "Prompt: Physical AI Is Entering Its Commercialization Phase",
           "link": "https://aibusiness.com/generative-ai/prompt-physical-ai-entering-commercialization-phase",
           "date": "Fri, 26 Jun 2026 15:32:20 GMT"
-        },
-        {
-          "title": "India to Get Another Big AI Funding Boost From Amazon",
-          "link": "https://aibusiness.com/generative-ai/india-another-ai-funding-boost-from-amazon",
-          "date": "Fri, 26 Jun 2026 11:58:56 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -211,14 +211,14 @@
           "date": "2026-06-30T12:40:25+00:00"
         },
         {
-          "title": "He\u2019s not wrong",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1ui0cyb/hes_not_wrong/",
-          "date": "2026-06-28T15:34:51+00:00"
-        },
-        {
           "title": "\ud83c\udde8\ud83c\uddf3 China rot.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1uia9eg/china_rot/",
           "date": "2026-06-28T22:06:09+00:00"
+        },
+        {
+          "title": "He\u2019s not wrong",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1ui0cyb/hes_not_wrong/",
+          "date": "2026-06-28T15:34:51+00:00"
         }
       ],
       "error": null
@@ -283,12 +283,17 @@
       "name": "Announcements - Stability AI",
       "url": "https://stability.ai/blog?format=rss",
       "items": [],
-      "error": "<unknown>:2:0: syntax error"
+      "error": null
     },
     {
       "name": "Ars Technica - All content",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
+        {
+          "title": "Florida bans local governments from pursuing net-zero emissions goals",
+          "link": "https://arstechnica.com/science/2026/06/florida-bans-local-governments-from-pursuing-net-zero-emissions-goals/",
+          "date": "Tue, 30 Jun 2026 13:40:16 +0000"
+        },
         {
           "title": "Ars Live, today: The latest on the aftermath of the New Glenn catastrophe",
           "link": "https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/",
@@ -308,11 +313,6 @@
           "title": "US renewable boom passes key milestone in April",
           "link": "https://arstechnica.com/science/2026/06/solar-outproduced-coal-in-april-but-not-on-the-grid/",
           "date": "Mon, 29 Jun 2026 20:12:30 +0000"
-        },
-        {
-          "title": "Supreme Court ruling guts government\u2019s use of geofence warrants",
-          "link": "https://arstechnica.com/tech-policy/2026/06/supreme-court-ruling-guts-governments-use-of-geofence-warrants/",
-          "date": "Mon, 29 Jun 2026 20:04:04 +0000"
         }
       ],
       "error": null
@@ -360,6 +360,16 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Return of the \u2018greybeards\u2019: AI backfired \u2013 so Ford had to rehire humans",
+          "link": "https://www.theguardian.com/technology/2026/jun/30/ai-backfired-so-ford-had-to-rehire-humans-greybeard-engineers",
+          "date": "Tue, 30 Jun 2026 15:04:58 GMT"
+        },
+        {
+          "title": "Silicon Valley donations make Colorado Democratic primary one of state\u2019s most expensive",
+          "link": "https://www.theguardian.com/technology/2026/jun/30/silicon-valley-donations-colorado-democratic-primary",
+          "date": "Tue, 30 Jun 2026 15:26:09 GMT"
+        },
+        {
           "title": "Rocky week for AI as shares slump but no sign of crash \u2013\u00a0yet",
           "link": "https://www.theguardian.com/technology/2026/jun/30/artificial-intelligence-shares",
           "date": "Tue, 30 Jun 2026 13:14:52 GMT"
@@ -373,16 +383,6 @@
           "title": "Shares in chipmakers underpinning AI boom rocket in first half of 2026",
           "link": "https://www.theguardian.com/business/2026/jun/29/shares-in-chipmakers-underpinning-ai-boom-surge-in-first-half-of-2026",
           "date": "Mon, 29 Jun 2026 14:18:09 GMT"
-        },
-        {
-          "title": "Once, cyber-attacks required great skill. AI is changing that | Bruce Schneier",
-          "link": "https://www.theguardian.com/commentisfree/2026/jun/29/cyber-attacks-ai",
-          "date": "Mon, 29 Jun 2026 12:00:44 GMT"
-        },
-        {
-          "title": "\u2018We\u2019re up against forces that have all the money in the world\u2019: Erin Brockovich on her battle against AI datacentres",
-          "link": "https://www.theguardian.com/environment/2026/jun/29/were-up-against-forces-that-have-all-the-money-in-the-world-erin-brockovich-on-her-battle-against-ai-datacentres",
-          "date": "Mon, 29 Jun 2026 04:00:28 GMT"
         }
       ],
       "error": null
