@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-07-01T08:08:44.696862+00:00",
+  "generatedAt": "2026-07-01T11:58:41.333065+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Apple \u2018Hide My Email\u2019 Vulnerability Reveals Peoples\u2019 Real Email Addresses",
+          "link": "https://www.404media.co/apple-hide-my-email-vulnerability-reveals-peoples-real-email-addresses/",
+          "date": "Wed, 01 Jul 2026 10:00:57 GMT"
+        },
         {
           "title": "I Have Thoughts About That Kylie Jenner Meta Glasses Ad",
           "link": "https://www.404media.co/meta-smart-glasses-starfire-kylie-jenner/",
@@ -24,11 +29,6 @@
           "title": "Companies Are Making Claude and Codex Talk Like Cavemen to Stop AI\u2019s Soaring Costs",
           "link": "https://www.404media.co/companies-are-making-claude-and-codex-talk-like-cavemen-to-stop-ais-soaring-costs/",
           "date": "Tue, 30 Jun 2026 13:33:16 GMT"
-        },
-        {
-          "title": "How I Bought a Private Jet By Selling $10 Subscriptions to 404 Media",
-          "link": "https://www.404media.co/how-i-bought-a-private-jet-by-selling-10-subscriptions-to-404-media/",
-          "date": "Tue, 30 Jun 2026 13:01:06 GMT"
         }
       ],
       "error": null
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Scientists find no link between Tylenol and autism, again, after Trump warning",
+          "link": "https://arstechnica.com/health/2026/07/trump-and-rfk-jr-still-wrong-about-tylenol-and-autism-another-study-finds/",
+          "date": "Wed, 01 Jul 2026 11:01:38 +0000"
+        },
+        {
           "title": "June research roundup: 6 cool science stories we almost missed",
           "link": "https://arstechnica.com/science/2026/06/june-research-roundup-6-cool-science-stories-we-almost-missed/",
           "date": "Tue, 30 Jun 2026 22:11:10 +0000"
@@ -308,11 +313,6 @@
           "title": "NASA may send a backup, nuclear-powered Mars rover to the Moon",
           "link": "https://arstechnica.com/space/2026/06/nasa-may-send-a-backup-nuclear-powered-mars-rover-to-the-moon/",
           "date": "Tue, 30 Jun 2026 20:50:14 +0000"
-        },
-        {
-          "title": "Google kills Tenor GIF API, forcing changes at X, Discord, and more",
-          "link": "https://arstechnica.com/gadgets/2026/06/google-kills-tenor-gif-api-forcing-changes-at-x-discord-and-more/",
-          "date": "Tue, 30 Jun 2026 20:38:51 +0000"
         }
       ],
       "error": null
@@ -360,9 +360,14 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Anthropic: US has lifted export controls on Fable and Mythos AI models after security risk fears",
+          "title": "Anthropic says US has lifted export controls on Fable and Mythos AI models after security fears",
           "link": "https://www.theguardian.com/technology/2026/jul/01/anthropic-fable-mythos-ai-models-us-export-controls-lifted",
-          "date": "Wed, 01 Jul 2026 01:51:08 GMT"
+          "date": "Wed, 01 Jul 2026 10:07:20 GMT"
+        },
+        {
+          "title": "Rapid spread of AI may worsen global inequality, UN warns",
+          "link": "https://www.theguardian.com/technology/2026/jul/01/un-report-ai-inequality",
+          "date": "Wed, 01 Jul 2026 09:00:32 GMT"
         },
         {
           "title": "Creatives sound alarm on copyright as Pocock calls $50bn datacentre proposal \u2018ultimate dirty deal\u2019",
@@ -378,11 +383,6 @@
           "title": "Silicon Valley donations make Colorado Democratic primary one of state\u2019s most expensive",
           "link": "https://www.theguardian.com/technology/2026/jun/30/silicon-valley-donations-colorado-democratic-primary",
           "date": "Tue, 30 Jun 2026 15:26:09 GMT"
-        },
-        {
-          "title": "Return of the \u2018greybeards\u2019: AI backfired \u2013 so Ford had to rehire humans",
-          "link": "https://www.theguardian.com/technology/2026/jun/30/ai-backfired-so-ford-had-to-rehire-humans-greybeard-engineers",
-          "date": "Tue, 30 Jun 2026 15:04:58 GMT"
         }
       ],
       "error": null
@@ -456,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival",
+          "link": "https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/",
+          "date": "Wed, 01 Jul 2026 10:00:00 +0000"
+        },
+        {
           "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic\u2019s Mythos and Fable AI Models",
           "link": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
           "date": "Tue, 30 Jun 2026 23:23:04 +0000"
@@ -474,11 +479,6 @@
           "title": "This Humanoid Robot Is a Terrifyingly Competent Office Intern",
           "link": "https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/",
           "date": "Mon, 29 Jun 2026 08:00:00 +0000"
-        },
-        {
-          "title": "Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
-          "link": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
-          "date": "Sat, 27 Jun 2026 00:26:14 +0000"
         }
       ],
       "error": null
