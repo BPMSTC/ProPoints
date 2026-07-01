@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T23:08:25.994500+00:00",
+  "generatedAt": "2026-07-01T03:32:31.043930+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -211,14 +211,14 @@
           "date": "2026-06-30T21:55:07+00:00"
         },
         {
+          "title": "Anthropic has embeds hidden spyware-like code in Claude Code that covertly targets Chinese users.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1uk5535/anthropic_has_embeds_hidden_spywarelike_code_in/",
+          "date": "2026-06-30T23:26:59+00:00"
+        },
+        {
           "title": "LinkedIn Vibe Coders are next level.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1uk4id2/linkedin_vibe_coders_are_next_level/",
           "date": "2026-06-30T23:00:59+00:00"
-        },
-        {
-          "title": "Hopefully? Cause Sonnet 5 sucks.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1uk3htc/hopefully_cause_sonnet_5_sucks/",
-          "date": "2026-06-30T22:19:01+00:00"
         }
       ],
       "error": null
@@ -328,6 +328,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "AI can be a personal trainer in your pocket \u2013 but is it safe?",
+          "link": "https://theconversation.com/ai-can-be-a-personal-trainer-in-your-pocket-but-is-it-safe-282586",
+          "date": "2026-07-01T00:21:34Z"
+        },
+        {
           "title": "World Cup propels surveillance to new heights",
           "link": "https://theconversation.com/world-cup-propels-surveillance-to-new-heights-284712",
           "date": "2026-06-30T12:35:55Z"
@@ -346,11 +351,6 @@
           "title": "Is the Pope\u2019s AI encyclical a warning on Tech Messianism?",
           "link": "https://theconversation.com/is-the-popes-ai-encyclical-a-warning-on-tech-messianism-285180",
           "date": "2026-06-29T14:05:49Z"
-        },
-        {
-          "title": "8 principles from human ecology can help AI work for human well-being",
-          "link": "https://theconversation.com/8-principles-from-human-ecology-can-help-ai-work-for-human-well-being-279959",
-          "date": "2026-06-29T12:31:54Z"
         }
       ],
       "error": null
@@ -360,9 +360,9 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Return of the \u2018greybeards\u2019: AI backfired \u2013 so Ford had to rehire humans",
-          "link": "https://www.theguardian.com/technology/2026/jun/30/ai-backfired-so-ford-had-to-rehire-humans-greybeard-engineers",
-          "date": "Tue, 30 Jun 2026 15:04:58 GMT"
+          "title": "Anthropic: US has lifted export controls on Fable and Mythos AI models after security risk fears",
+          "link": "https://www.theguardian.com/technology/2026/jul/01/anthropic-fable-mythos-ai-models-us-export-controls-lifted",
+          "date": "Wed, 01 Jul 2026 01:51:08 GMT"
         },
         {
           "title": "Frequent AI chatbot users more likely to believe anti-vaccine myths, poll finds",
@@ -375,14 +375,14 @@
           "date": "Tue, 30 Jun 2026 15:26:09 GMT"
         },
         {
+          "title": "Return of the \u2018greybeards\u2019: AI backfired \u2013 so Ford had to rehire humans",
+          "link": "https://www.theguardian.com/technology/2026/jun/30/ai-backfired-so-ford-had-to-rehire-humans-greybeard-engineers",
+          "date": "Tue, 30 Jun 2026 15:04:58 GMT"
+        },
+        {
           "title": "Rocky week for AI as shares slump but no sign of crash \u2013\u00a0yet",
           "link": "https://www.theguardian.com/technology/2026/jun/30/artificial-intelligence-shares",
           "date": "Tue, 30 Jun 2026 13:14:52 GMT"
-        },
-        {
-          "title": "\u2018There\u2019s this deep mystery of what, actually, is this thing?\u2019: the philosopher inside Google DeepMind AI",
-          "link": "https://www.theguardian.com/news/ng-interactive/2026/jun/30/theres-this-deep-mystery-of-what-actually-is-this-thing-the-philosopher-inside-google-deepmind",
-          "date": "Tue, 30 Jun 2026 04:00:37 GMT"
         }
       ],
       "error": null
@@ -456,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic\u2019s Mythos and Fable AI Models",
+          "link": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
+          "date": "Tue, 30 Jun 2026 23:23:04 +0000"
+        },
+        {
           "title": "Bernie Sanders Saw This Coming",
           "link": "https://www.wired.com/story/the-big-interview-podcast-senator-bernie-sanders/",
           "date": "Tue, 30 Jun 2026 10:30:00 +0000"
@@ -474,11 +479,6 @@
           "title": "Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
           "link": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
           "date": "Sat, 27 Jun 2026 00:26:14 +0000"
-        },
-        {
-          "title": "OpenAI Has New AI Models. Here\u2019s Why You Can\u2019t Use Them",
-          "link": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
-          "date": "Fri, 26 Jun 2026 17:05:40 +0000"
         }
       ],
       "error": null
