@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T21:25:07.012981+00:00",
+  "generatedAt": "2026-07-01T23:11:56.949526+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
+          "link": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
+          "date": "Wed, 01 Jul 2026 21:21:21 +0000"
+        },
+        {
           "title": "NASA chief praises progress Blue Origin is making after launch failure",
           "link": "https://arstechnica.com/space/2026/07/nasa-chief-praises-progress-blue-origin-is-making-after-launch-failure/",
           "date": "Wed, 01 Jul 2026 19:57:36 +0000"
@@ -308,11 +313,6 @@
           "title": "Sony announces end of PlayStation discs, parts of digital store in the same day",
           "link": "https://arstechnica.com/gaming/2026/07/sony-will-stop-making-physical-copies-of-playstation-games-in-2028/",
           "date": "Wed, 01 Jul 2026 18:41:49 +0000"
-        },
-        {
-          "title": "A good little EV you won't be able to buy soon: The Volvo EX30 Cross Country",
-          "link": "https://arstechnica.com/cars/2026/07/the-volvo-ex30-cross-country-review-a-victim-of-geopolitics/",
-          "date": "Wed, 01 Jul 2026 18:24:04 +0000"
         }
       ],
       "error": null
@@ -365,12 +365,17 @@
           "date": "Wed, 01 Jul 2026 19:17:11 GMT"
         },
         {
+          "title": "AI summaries of Tripadvisor hotel reviews downplay serious complaints, investigation finds",
+          "link": "https://www.theguardian.com/business/2026/jul/02/ai-summaries-tripadvisor-hotel-reviews-downplay-serious-complaints",
+          "date": "Wed, 01 Jul 2026 23:01:01 GMT"
+        },
+        {
           "title": "We can live without AI, but can we live without clean water? | Letters",
           "link": "https://www.theguardian.com/technology/2026/jul/01/we-can-live-without-ai-but-can-we-live-without-clean-water",
           "date": "Wed, 01 Jul 2026 16:12:05 GMT"
         },
         {
-          "title": "Trump accused of \u2018disgusting\u2019 greed after earning over $2bn since return to office",
+          "title": "Trump accused of \u2018disgusting\u2019 greed after being paid over $2bn since return to office",
           "link": "https://www.theguardian.com/us-news/2026/jul/01/trump-accused-one-billion-dollars-crypto-venture",
           "date": "Wed, 01 Jul 2026 15:23:45 GMT"
         },
@@ -378,11 +383,6 @@
           "title": "Short story accused of being AI-written wins overall Commonwealth prize",
           "link": "https://www.theguardian.com/books/2026/jul/01/judges-claims-ai-use-commonwealth-short-story-prize-jamir-nazir",
           "date": "Wed, 01 Jul 2026 12:44:11 GMT"
-        },
-        {
-          "title": "Anthropic says US has lifted export controls on Fable and Mythos AI models after security fears",
-          "link": "https://www.theguardian.com/technology/2026/jul/01/anthropic-fable-mythos-ai-models-us-export-controls-lifted",
-          "date": "Wed, 01 Jul 2026 10:07:20 GMT"
         }
       ],
       "error": null
