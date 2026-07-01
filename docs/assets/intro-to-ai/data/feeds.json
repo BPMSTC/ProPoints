@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T11:58:41.333065+00:00",
+  "generatedAt": "2026-07-01T14:49:05.694418+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Google Expands AI Imaging Offerings With Nano Banana Lite 2",
+          "link": "https://aibusiness.com/generative-ai/google-expands-ai-imaging-offerings-nano-banana-lite-2",
+          "date": "Wed, 01 Jul 2026 13:04:22 GMT"
+        },
+        {
           "title": "With Claude Science, Anthropic Targets Another Application",
           "link": "https://aibusiness.com/generative-ai/with-claude-science-anthropic-targets-application",
           "date": "Tue, 30 Jun 2026 21:27:58 GMT"
@@ -132,11 +137,6 @@
           "title": "South Korea Unveils $576B AI Chip Push With Samsung and SK Hynix",
           "link": "https://aibusiness.com/generative-ai/south-korea-unveils-576b-ai-chip-push-samsung-sk-hynix",
           "date": "Mon, 29 Jun 2026 15:13:00 GMT"
-        },
-        {
-          "title": "How SMBs Can Take Advantage of Generative AI",
-          "link": "https://aibusiness.com/generative-ai/how-smbs-can-take-advantage-generative-ai",
-          "date": "Mon, 29 Jun 2026 14:25:29 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "UK likely to intervene in Paramount takeover of Warner Bros Discovery",
+          "link": "https://arstechnica.com/tech-policy/2026/07/uk-likely-to-intervene-in-paramount-takeover-of-warner-bros-discovery/",
+          "date": "Wed, 01 Jul 2026 13:24:39 +0000"
+        },
+        {
           "title": "Scientists find no link between Tylenol and autism, again, after Trump warning",
           "link": "https://arstechnica.com/health/2026/07/trump-and-rfk-jr-still-wrong-about-tylenol-and-autism-another-study-finds/",
           "date": "Wed, 01 Jul 2026 11:01:38 +0000"
@@ -308,11 +313,6 @@
           "title": "Amazon blames piracy apps with malware for killing new Fire Stick sideloading",
           "link": "https://arstechnica.com/gadgets/2026/06/exec-blames-malware-threat-for-amazon-blocking-sideloading-on-new-fire-sticks/",
           "date": "Tue, 30 Jun 2026 21:04:53 +0000"
-        },
-        {
-          "title": "NASA may send a backup, nuclear-powered Mars rover to the Moon",
-          "link": "https://arstechnica.com/space/2026/06/nasa-may-send-a-backup-nuclear-powered-mars-rover-to-the-moon/",
-          "date": "Tue, 30 Jun 2026 20:50:14 +0000"
         }
       ],
       "error": null
@@ -320,7 +320,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "I have created a Chrome extension that fact checks YouTube videos as you watch",
+          "link": "https://www.reddit.com/r/artificial/comments/1uk7t49/i_have_created_a_chrome_extension_that_fact/",
+          "date": "2026-07-01T01:27:19+00:00"
+        },
+        {
+          "title": "It's great to see how automated theorem proving is moving from a niche tool to solving real math problems",
+          "link": "https://www.reddit.com/r/artificial/comments/1uknhui/its_great_to_see_how_automated_theorem_proving_is/",
+          "date": "2026-07-01T14:37:15+00:00"
+        },
+        {
+          "title": "What's the best Amharic text to speech today?",
+          "link": "https://www.reddit.com/r/artificial/comments/1ukmher/whats_the_best_amharic_text_to_speech_today/",
+          "date": "2026-07-01T13:59:01+00:00"
+        },
+        {
+          "title": "Are Redditors influencing AI the most?",
+          "link": "https://www.reddit.com/r/artificial/comments/1ujuckz/are_redditors_influencing_ai_the_most/",
+          "date": "2026-06-30T16:40:45+00:00"
+        },
+        {
+          "title": "What's one AI feature that quietly became part of your daily routine?",
+          "link": "https://www.reddit.com/r/artificial/comments/1ukld2m/whats_one_ai_feature_that_quietly_became_part_of/",
+          "date": "2026-07-01T13:13:28+00:00"
+        }
+      ],
       "error": null
     },
     {
@@ -365,6 +391,16 @@
           "date": "Wed, 01 Jul 2026 10:07:20 GMT"
         },
         {
+          "title": "Trump accused of \u2018disgusting\u2019 crypto greed after earning over $1bn since return to office",
+          "link": "https://www.theguardian.com/us-news/2026/jul/01/trump-accused-one-billion-dollars-crypto-venture",
+          "date": "Wed, 01 Jul 2026 14:10:49 GMT"
+        },
+        {
+          "title": "Short story accused of being AI-written wins overall Commonwealth prize",
+          "link": "https://www.theguardian.com/books/2026/jul/01/judges-claims-ai-use-commonwealth-short-story-prize-jamir-nazir",
+          "date": "Wed, 01 Jul 2026 12:44:11 GMT"
+        },
+        {
           "title": "Rapid spread of AI may worsen global inequality, UN warns",
           "link": "https://www.theguardian.com/technology/2026/jul/01/un-report-ai-inequality",
           "date": "Wed, 01 Jul 2026 09:00:32 GMT"
@@ -373,16 +409,6 @@
           "title": "Creatives sound alarm on copyright as Pocock calls $50bn datacentre proposal \u2018ultimate dirty deal\u2019",
           "link": "https://www.theguardian.com/australia-news/2026/jul/01/australia-ai-copyright-laws-creatives-sound-alarm-albanese-government-datacentres",
           "date": "Wed, 01 Jul 2026 06:22:22 GMT"
-        },
-        {
-          "title": "Frequent AI chatbot users more likely to believe anti-vaccine myths, poll finds",
-          "link": "https://www.theguardian.com/technology/2026/jun/30/ai-chatbot-use-anti-vaccine-myths-poll",
-          "date": "Tue, 30 Jun 2026 19:51:07 GMT"
-        },
-        {
-          "title": "Silicon Valley donations make Colorado Democratic primary one of state\u2019s most expensive",
-          "link": "https://www.theguardian.com/technology/2026/jun/30/silicon-valley-donations-colorado-democratic-primary",
-          "date": "Tue, 30 Jun 2026 15:26:09 GMT"
         }
       ],
       "error": null
