@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-07-01T19:49:38.361923+00:00",
+  "generatedAt": "2026-07-01T21:25:07.012981+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Podcast: The AI Tokenpocalypse Is Here",
+          "link": "https://www.404media.co/podcast-the-ai-tokenpocalypse-is-here/",
+          "date": "Wed, 01 Jul 2026 20:40:59 GMT"
+        },
         {
           "title": "Scientists Asked AI to Impersonate 112 Public Figures. What Happened Next Is a \u2018Dire\u2019 Warning",
           "link": "https://www.404media.co/untitled-28/",
@@ -24,11 +29,6 @@
           "title": "County With 37 Data Centers Asks Schools to \u2018Conserve Electricity\u2019",
           "link": "https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/",
           "date": "Tue, 30 Jun 2026 15:49:10 GMT"
-        },
-        {
-          "title": "Scammers Sell Seeds for Exotic AI-Generated Flowers That Don\u2019t Exist",
-          "link": "https://www.404media.co/scammers-sell-seeds-for-exotic-ai-generated-flowers-that-dont-exist/",
-          "date": "Tue, 30 Jun 2026 13:48:27 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,7 +290,22 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Sony will stop making physical copies of PlayStation games in 2028",
+          "title": "NASA chief praises progress Blue Origin is making after launch failure",
+          "link": "https://arstechnica.com/space/2026/07/nasa-chief-praises-progress-blue-origin-is-making-after-launch-failure/",
+          "date": "Wed, 01 Jul 2026 19:57:36 +0000"
+        },
+        {
+          "title": "US home battery installations hit record high on rising electricity costs",
+          "link": "https://arstechnica.com/science/2026/07/us-home-battery-installations-hit-record-high-in-early-2026/",
+          "date": "Wed, 01 Jul 2026 19:11:15 +0000"
+        },
+        {
+          "title": "Superworms could replace beetles for cleaning skeletal remains",
+          "link": "https://arstechnica.com/science/2026/07/museums-could-use-ravenous-superworms-to-clean-skeletons/",
+          "date": "Wed, 01 Jul 2026 18:59:21 +0000"
+        },
+        {
+          "title": "Sony announces end of PlayStation discs, parts of digital store in the same day",
           "link": "https://arstechnica.com/gaming/2026/07/sony-will-stop-making-physical-copies-of-playstation-games-in-2028/",
           "date": "Wed, 01 Jul 2026 18:41:49 +0000"
         },
@@ -298,21 +313,6 @@
           "title": "A good little EV you won't be able to buy soon: The Volvo EX30 Cross Country",
           "link": "https://arstechnica.com/cars/2026/07/the-volvo-ex30-cross-country-review-a-victim-of-geopolitics/",
           "date": "Wed, 01 Jul 2026 18:24:04 +0000"
-        },
-        {
-          "title": "Ithaca's king defies the gods in final The Odyssey trailer",
-          "link": "https://arstechnica.com/culture/2026/07/ithacas-king-defies-the-gods-in-final-the-odyssey-trailer/",
-          "date": "Wed, 01 Jul 2026 16:58:30 +0000"
-        },
-        {
-          "title": "After spooking Trump into safety testing, Anthropic AI models get global release",
-          "link": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
-          "date": "Wed, 01 Jul 2026 16:44:18 +0000"
-        },
-        {
-          "title": "NASA inspector general suggests Boeing's Starliner will now be a decade late",
-          "link": "https://arstechnica.com/space/2026/07/nasa-inspector-general-suggests-boeings-starliner-will-now-be-a-decade-late/",
-          "date": "Wed, 01 Jul 2026 16:11:39 +0000"
         }
       ],
       "error": null
@@ -456,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Goose, a New Gay Dating App, Appears to Be a Psyop",
+          "link": "https://www.wired.com/story/goose-a-new-gay-dating-app-appears-to-be-a-psyop/",
+          "date": "Wed, 01 Jul 2026 20:28:57 +0000"
+        },
+        {
           "title": "You Can Now Sound the Alarm on AI Behaving Badly",
           "link": "https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/",
           "date": "Wed, 01 Jul 2026 18:10:00 +0000"
@@ -474,11 +479,6 @@
           "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic\u2019s Mythos and Fable AI Models",
           "link": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
           "date": "Tue, 30 Jun 2026 23:23:04 +0000"
-        },
-        {
-          "title": "Bernie Sanders Saw This Coming",
-          "link": "https://www.wired.com/story/the-big-interview-podcast-senator-bernie-sanders/",
-          "date": "Tue, 30 Jun 2026 10:30:00 +0000"
         }
       ],
       "error": null
