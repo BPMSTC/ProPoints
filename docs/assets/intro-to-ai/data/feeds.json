@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T19:19:35.032691+00:00",
+  "generatedAt": "2026-07-02T21:01:56.654492+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Prompt: The Next AI Challenge Isn't the Model. It's the Organization.",
+          "link": "https://aibusiness.com/agentic-ai/next-challenge-scaling-ai",
+          "date": "Thu, 02 Jul 2026 19:02:35 GMT"
+        },
+        {
           "title": "Restrictions on Fable 5, Mythos 5 Lifted, as Anthropic Launches Sonnet 5",
           "link": "https://aibusiness.com/generative-ai/restrictions-fable-5-mythos-5-lifted-anthropic-launches-sonnet-5",
           "date": "Wed, 01 Jul 2026 16:33:53 GMT"
@@ -132,11 +137,6 @@
           "title": "Anthropic\u2019s Claude Models Now Available in Microsoft Foundry",
           "link": "https://aibusiness.com/agentic-ai/anthropic-s-claude-models-available-microsoft-foundry",
           "date": "Tue, 30 Jun 2026 14:34:51 GMT"
-        },
-        {
-          "title": "Opinion: Why Token Counting Obscures ROI on AI Investments",
-          "link": "https://aibusiness.com/agentic-ai/opinion-token-counting-obscures-roi-ai-investments",
-          "date": "Mon, 29 Jun 2026 15:51:41 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -283,7 +283,7 @@
       "name": "Announcements - Stability AI",
       "url": "https://stability.ai/blog?format=rss",
       "items": [],
-      "error": null
+      "error": "<unknown>:2:0: syntax error"
     },
     {
       "name": "Ars Technica - All content",
