@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T17:43:37.600231+00:00",
+  "generatedAt": "2026-07-02T19:19:35.032691+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -211,14 +211,14 @@
           "date": "2026-07-02T15:26:04+00:00"
         },
         {
+          "title": "Claude Brain Trust mode.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1ulq1xw/claude_brain_trust_mode/",
+          "date": "2026-07-02T18:16:41+00:00"
+        },
+        {
           "title": "Anthropic has embeds hidden spyware-like code in Claude Code that covertly targets Chinese users.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1uk5535/anthropic_has_embeds_hidden_spywarelike_code_in/",
           "date": "2026-06-30T23:26:59+00:00"
-        },
-        {
-          "title": "LinkedIn Vibe Coders are next level.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1uk4id2/linkedin_vibe_coders_are_next_level/",
-          "date": "2026-06-30T23:00:59+00:00"
         }
       ],
       "error": null
@@ -283,12 +283,17 @@
       "name": "Announcements - Stability AI",
       "url": "https://stability.ai/blog?format=rss",
       "items": [],
-      "error": "<unknown>:2:0: syntax error"
+      "error": null
     },
     {
       "name": "Ars Technica - All content",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
+        {
+          "title": "FAA proposal: Supersonic airliners can fly over US cities if they\u2019re quiet",
+          "link": "https://arstechnica.com/gadgets/2026/07/faa-proposal-supersonic-airliners-can-fly-over-us-cities-if-theyre-quiet/",
+          "date": "Thu, 02 Jul 2026 17:29:37 +0000"
+        },
         {
           "title": "Ars Live recap: When are the big rockets NASA desperately needs going to be ready?",
           "link": "https://arstechnica.com/space/2026/07/ars-live-recap-when-are-the-big-rockets-nasa-desperately-needs-going-to-be-ready/",
@@ -308,11 +313,6 @@
           "title": "Artificial cell manages a few rounds of cell division",
           "link": "https://arstechnica.com/science/2026/07/artificial-cell-manages-a-few-rounds-of-cell-division/",
           "date": "Thu, 02 Jul 2026 16:21:23 +0000"
-        },
-        {
-          "title": "Google loses long-running appeal of record EU fine, will have to cough up $4.7 billion",
-          "link": "https://arstechnica.com/gadgets/2026/07/google-loses-long-running-appeal-of-record-eu-fine-will-have-to-cough-up-4-7-billion/",
-          "date": "Thu, 02 Jul 2026 16:15:41 +0000"
         }
       ],
       "error": null
@@ -360,11 +360,6 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Rapid spread of AI may worsen global inequality, UN warns",
-          "link": "https://www.theguardian.com/technology/2026/jul/01/un-report-ai-inequality",
-          "date": "Wed, 01 Jul 2026 19:17:11 GMT"
-        },
-        {
           "title": "OpenAI \u2018in early talks to give 5% stake to US government\u2019",
           "link": "https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman",
           "date": "Thu, 02 Jul 2026 07:31:15 GMT"
@@ -378,6 +373,11 @@
           "title": "AI summaries of Tripadvisor hotel reviews downplay serious complaints, investigation finds",
           "link": "https://www.theguardian.com/business/2026/jul/02/ai-summaries-tripadvisor-hotel-reviews-downplay-serious-complaints",
           "date": "Wed, 01 Jul 2026 23:01:01 GMT"
+        },
+        {
+          "title": "Rapid spread of AI may worsen global inequality, UN warns",
+          "link": "https://www.theguardian.com/technology/2026/jul/01/un-report-ai-inequality",
+          "date": "Wed, 01 Jul 2026 19:17:11 GMT"
         },
         {
           "title": "We can live without AI, but can we live without clean water? | Letters",
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Lawsuit: Bipolar Man Attempted Suicide After ChatGPT Poured Gasoline on His Religious Delusions",
+          "link": "https://futurism.com/artificial-intelligence/bipolar-man-attempted-suicide-chatgpt-religious-delusions",
+          "date": "Thu, 02 Jul 2026 13:52:48 -0400"
+        },
+        {
           "title": "Mark Zuckerberg Just Got Rather Badly Humiliated",
           "link": "https://futurism.com/artificial-intelligence/mark-zuckerberg-humiliated-meta-gemini",
           "date": "Thu, 02 Jul 2026 09:47:36 -0400"
@@ -442,11 +447,6 @@
           "title": "Top AI Researchers Terrified of a \u201cChernobyl Moment\u201d: a Mass Casualty Event, or Worse, That Turns the World Against AI Forever",
           "link": "https://futurism.com/artificial-intelligence/ai-chernobyl-moment",
           "date": "Tue, 30 Jun 2026 15:50:06 -0400"
-        },
-        {
-          "title": "Brown University Professor Horrified to Discover Largest AI Cheating Scandal in Ivy League History",
-          "link": "https://futurism.com/artificial-intelligence/brown-university-professor-cheating-scandal-ivy-league",
-          "date": "Tue, 30 Jun 2026 14:54:56 -0400"
         }
       ],
       "error": null
@@ -455,6 +455,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Can Cursor Remain a Platform for OpenAI and Anthropic\u2019s Models Inside SpaceX?",
+          "link": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
+          "date": "Thu, 02 Jul 2026 18:01:20 +0000"
+        },
         {
           "title": "Meta Is Charging a Subscription for Smart Glasses Features. Welcome to the New Era of Consumer Tech",
           "link": "https://www.wired.com/story/why-meta-is-charging-a-subscription-for-on-device-smart-glasses-features/",
@@ -474,11 +479,6 @@
           "title": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration\u2019s Good Graces",
           "link": "https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/",
           "date": "Wed, 01 Jul 2026 16:00:00 +0000"
-        },
-        {
-          "title": "Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival",
-          "link": "https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/",
-          "date": "Wed, 01 Jul 2026 10:00:00 +0000"
         }
       ],
       "error": null
