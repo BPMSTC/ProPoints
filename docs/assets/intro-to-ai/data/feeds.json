@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T12:55:10.605098+00:00",
+  "generatedAt": "2026-07-02T15:13:29.842831+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -226,34 +226,8 @@
     {
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
-      "items": [
-        {
-          "title": "Salesforce launches Help Agent to simplify AI customer service deployment",
-          "link": "https://siliconangle.com/2026/06/25/salesforce-launches-help-agent-simplify-ai-customer-service-deployment/",
-          "date": "Thu, 25 Jun 2026 13:00:56 +0000"
-        },
-        {
-          "title": "Warp lands $60M to automate payroll, compliance and HR with AI",
-          "link": "https://siliconangle.com/2026/06/25/warp-lands-60m-automate-payroll-compliance-hr-ai/",
-          "date": "Thu, 25 Jun 2026 13:00:43 +0000"
-        },
-        {
-          "title": "Exclusive: LucidLink launches MCP server to give AI agents shared access to distributed files",
-          "link": "https://siliconangle.com/2026/06/25/exclusive-lucidlink-launches-mcp-server-give-ai-agents-shared-access-distributed-files/",
-          "date": "Thu, 25 Jun 2026 13:00:00 +0000"
-        },
-        {
-          "title": "Ornn raises $33M to help companies buy and sell AI compute as a commodity like oil",
-          "link": "https://siliconangle.com/2026/06/24/ornn-raises-33m-help-companies-buy-sell-ai-compute-commodity-like-oil/",
-          "date": "Thu, 25 Jun 2026 02:14:58 +0000"
-        },
-        {
-          "title": "Agentic infrastructure startup Seltz raises $12.5M to help AI agents search the web for answers",
-          "link": "https://siliconangle.com/2026/06/24/agentic-infrastructure-startup-seltz-raises-12-5m-help-ai-agents-search-web-answers/",
-          "date": "Thu, 25 Jun 2026 01:22:26 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:7:2: mismatched tag"
     },
     {
       "name": "AI Snake Oil",
@@ -290,6 +264,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Woman's puzzling decline turns out to be cobalt poisoning from hip replacement",
+          "link": "https://arstechnica.com/health/2026/07/womans-puzzling-decline-turns-out-to-be-cobalt-poisoning-from-hip-replacement/",
+          "date": "Thu, 02 Jul 2026 14:04:28 +0000"
+        },
+        {
           "title": "Google\u2019s AI buildout drove 37% increase in electricity use in 2025",
           "link": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
           "date": "Thu, 02 Jul 2026 11:15:49 +0000"
@@ -308,11 +287,6 @@
           "title": "NASA chief praises progress Blue Origin is making after launch failure",
           "link": "https://arstechnica.com/space/2026/07/nasa-chief-praises-progress-blue-origin-is-making-after-launch-failure/",
           "date": "Wed, 01 Jul 2026 19:57:36 +0000"
-        },
-        {
-          "title": "US home battery installations hit record high on rising electricity costs",
-          "link": "https://arstechnica.com/science/2026/07/us-home-battery-installations-hit-record-high-in-early-2026/",
-          "date": "Wed, 01 Jul 2026 19:11:15 +0000"
         }
       ],
       "error": null
@@ -320,7 +294,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "Do you think the future of AI will split into safe vs uncensored versions?",
+          "link": "https://www.reddit.com/r/artificial/comments/1ulc2zs/do_you_think_the_future_of_ai_will_split_into/",
+          "date": "2026-07-02T08:11:29+00:00"
+        },
+        {
+          "title": "Does AI sometimes make you feel productive without actually making progress?",
+          "link": "https://www.reddit.com/r/artificial/comments/1ulifas/does_ai_sometimes_make_you_feel_productive/",
+          "date": "2026-07-02T13:33:26+00:00"
+        },
+        {
+          "title": "Claude Code catastrophe: Entire project recursively deleted while prompting in Chinese (full video + logs)",
+          "link": "https://www.reddit.com/r/artificial/comments/1ukq4br/claude_code_catastrophe_entire_project/",
+          "date": "2026-07-01T16:13:36+00:00"
+        },
+        {
+          "title": "How will AI actually become an \"everyday essential\" for ordinary people, like smartphones or the internet?",
+          "link": "https://www.reddit.com/r/artificial/comments/1ul2whd/how_will_ai_actually_become_an_everyday_essential/",
+          "date": "2026-07-02T00:23:40+00:00"
+        },
+        {
+          "title": "OpenAI proposes giving US government 5% stake in company",
+          "link": "https://www.reddit.com/r/artificial/comments/1ulkpxs/openai_proposes_giving_us_government_5_stake_in/",
+          "date": "2026-07-02T15:02:16+00:00"
+        }
+      ],
       "error": null
     },
     {
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Mark Zuckerberg Just Got Rather Badly Humiliated",
+          "link": "https://futurism.com/artificial-intelligence/mark-zuckerberg-humiliated-meta-gemini",
+          "date": "Thu, 02 Jul 2026 09:47:36 -0400"
+        },
+        {
           "title": "CEO Says He\u2019ll Fire Any Employee Who Sends Him More AI Slop",
           "link": "https://futurism.com/future-society/ceo-fire-employee-email-chatpgt-ai-slop",
           "date": "Wed, 01 Jul 2026 14:40:35 -0400"
@@ -442,11 +447,6 @@
           "title": "Brown University Professor Horrified to Discover Largest AI Cheating Scandal in Ivy League History",
           "link": "https://futurism.com/artificial-intelligence/brown-university-professor-cheating-scandal-ivy-league",
           "date": "Tue, 30 Jun 2026 14:54:56 -0400"
-        },
-        {
-          "title": "Anthropic Hires Economist Who Says 33 Percent Chance of Human Extinction Is Acceptable",
-          "link": "https://futurism.com/artificial-intelligence/anthropic-economist-extinction",
-          "date": "Tue, 30 Jun 2026 09:50:22 -0400"
         }
       ],
       "error": null
