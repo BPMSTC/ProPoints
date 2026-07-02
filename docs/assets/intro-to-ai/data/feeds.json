@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T10:08:13.294905+00:00",
+  "generatedAt": "2026-07-02T12:55:10.605098+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "The age of AI evangelism is over.  Welcome to the evaluation era.",
+          "link": "https://www.aiacceleratorinstitute.com/the-age-of-ai-evangelism-is-over-welcome-to-the-evaluation-era/",
+          "date": "Thu, 02 Jul 2026 10:55:07 GMT"
+        },
+        {
           "title": "25 AI engineers you should be  following in 2026",
           "link": "https://www.aiacceleratorinstitute.com/25-ai-engineers-you-should-be-following-in-2026/",
           "date": "Wed, 01 Jul 2026 15:14:13 GMT"
@@ -88,11 +93,6 @@
           "title": "AIAI New York, June 2026",
           "link": "https://www.aiacceleratorinstitute.com/aiai-new-york-june-2026-2/",
           "date": "Fri, 19 Jun 2026 15:36:57 GMT"
-        },
-        {
-          "title": "From prediction to decision:  Smaller models will reshape how we build AI",
-          "link": "https://www.aiacceleratorinstitute.com/from-prediction-to-decision-smaller-models-will-reshape-how-we-build-ai/",
-          "date": "Fri, 19 Jun 2026 15:00:00 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Google\u2019s AI buildout drove 37% increase in electricity use in 2025",
+          "link": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
+          "date": "Thu, 02 Jul 2026 11:15:49 +0000"
+        },
+        {
+          "title": "Editorial: It's time to step up and have your say for science",
+          "link": "https://arstechnica.com/science/2026/07/editorial-the-most-important-thing-you-can-do-to-protect-science/",
+          "date": "Thu, 02 Jul 2026 10:00:27 +0000"
+        },
+        {
           "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
           "link": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
           "date": "Wed, 01 Jul 2026 21:21:21 +0000"
@@ -303,16 +313,6 @@
           "title": "US home battery installations hit record high on rising electricity costs",
           "link": "https://arstechnica.com/science/2026/07/us-home-battery-installations-hit-record-high-in-early-2026/",
           "date": "Wed, 01 Jul 2026 19:11:15 +0000"
-        },
-        {
-          "title": "Superworms could replace beetles for cleaning skeletal remains",
-          "link": "https://arstechnica.com/science/2026/07/museums-could-use-ravenous-superworms-to-clean-skeletons/",
-          "date": "Wed, 01 Jul 2026 18:59:21 +0000"
-        },
-        {
-          "title": "Sony announces end of PlayStation discs, parts of digital store in the same day",
-          "link": "https://arstechnica.com/gaming/2026/07/sony-will-stop-making-physical-copies-of-playstation-games-in-2028/",
-          "date": "Wed, 01 Jul 2026 18:41:49 +0000"
         }
       ],
       "error": null
