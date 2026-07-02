@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-07-02T06:41:25.141440+00:00",
+  "generatedAt": "2026-07-02T10:08:13.294905+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Companies Are Throttling Employees\u2019 AI Use Because It\u2019s Too Expensive",
+          "link": "https://www.404media.co/companies-are-throttling-employees-ai-use-because-its-too-expensive/",
+          "date": "Thu, 02 Jul 2026 10:00:09 GMT"
+        },
         {
           "title": "Podcast: The AI Tokenpocalypse Is Here",
           "link": "https://www.404media.co/podcast-the-ai-tokenpocalypse-is-here/",
@@ -24,11 +29,6 @@
           "title": "I Have Thoughts About That Kylie Jenner Meta Glasses Ad",
           "link": "https://www.404media.co/meta-smart-glasses-starfire-kylie-jenner/",
           "date": "Tue, 30 Jun 2026 18:19:17 GMT"
-        },
-        {
-          "title": "County With 37 Data Centers Asks Schools to \u2018Conserve Electricity\u2019",
-          "link": "https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/",
-          "date": "Tue, 30 Jun 2026 15:49:10 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -365,6 +365,11 @@
           "date": "Wed, 01 Jul 2026 19:17:11 GMT"
         },
         {
+          "title": "OpenAI \u2018in early talks to give 5% stake to US government\u2019",
+          "link": "https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman",
+          "date": "Thu, 02 Jul 2026 07:31:15 GMT"
+        },
+        {
           "title": "Are AI companies getting away with crime? | Fiona Katauskas",
           "link": "https://www.theguardian.com/commentisfree/picture/2026/jul/02/are-ai-companies-getting-away-with-crime",
           "date": "Thu, 02 Jul 2026 00:57:28 GMT"
@@ -378,11 +383,6 @@
           "title": "We can live without AI, but can we live without clean water? | Letters",
           "link": "https://www.theguardian.com/technology/2026/jul/01/we-can-live-without-ai-but-can-we-live-without-clean-water",
           "date": "Wed, 01 Jul 2026 16:12:05 GMT"
-        },
-        {
-          "title": "Trump accused of \u2018disgusting\u2019 greed after being paid over $2bn since return to office",
-          "link": "https://www.theguardian.com/us-news/2026/jul/01/trump-accused-one-billion-dollars-crypto-venture",
-          "date": "Wed, 01 Jul 2026 15:23:45 GMT"
         }
       ],
       "error": null
@@ -456,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Meta Is Charging a Subscription for Smart Glasses Features. Welcome to the New Era of Consumer Tech",
+          "link": "https://www.wired.com/story/why-meta-is-charging-a-subscription-for-on-device-smart-glasses-features/",
+          "date": "Thu, 02 Jul 2026 09:30:00 +0000"
+        },
+        {
           "title": "Goose, a New Gay Dating App, Appears to Be a Psyop",
           "link": "https://www.wired.com/story/goose-a-new-gay-dating-app-appears-to-be-a-psyop/",
           "date": "Wed, 01 Jul 2026 20:28:57 +0000"
@@ -474,11 +479,6 @@
           "title": "Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival",
           "link": "https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/",
           "date": "Wed, 01 Jul 2026 10:00:00 +0000"
-        },
-        {
-          "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic\u2019s Mythos and Fable AI Models",
-          "link": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
-          "date": "Tue, 30 Jun 2026 23:23:04 +0000"
         }
       ],
       "error": null
