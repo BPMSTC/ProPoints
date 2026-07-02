@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T15:13:29.842831+00:00",
+  "generatedAt": "2026-07-02T17:43:37.600231+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -206,6 +206,11 @@
           "date": "2025-09-09T02:25:04+00:00"
         },
         {
+          "title": "A fully local, fully agent-ready AI that watches 30+ live global feeds and forecasts world events in real time (mirofish)\u2014 running on your machine via Ollama",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1ullcwb/a_fully_local_fully_agentready_ai_that_watches_30/",
+          "date": "2026-07-02T15:26:04+00:00"
+        },
+        {
           "title": "Anthropic has embeds hidden spyware-like code in Claude Code that covertly targets Chinese users.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1uk5535/anthropic_has_embeds_hidden_spywarelike_code_in/",
           "date": "2026-06-30T23:26:59+00:00"
@@ -214,11 +219,6 @@
           "title": "LinkedIn Vibe Coders are next level.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1uk4id2/linkedin_vibe_coders_are_next_level/",
           "date": "2026-06-30T23:00:59+00:00"
-        },
-        {
-          "title": "Sonnet 5 kind of sucks",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1uk2w2u/sonnet_5_kind_of_sucks/",
-          "date": "2026-06-30T21:55:07+00:00"
         }
       ],
       "error": null
@@ -226,8 +226,34 @@
     {
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
-      "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "items": [
+        {
+          "title": "Salesforce launches Help Agent to simplify AI customer service deployment",
+          "link": "https://siliconangle.com/2026/06/25/salesforce-launches-help-agent-simplify-ai-customer-service-deployment/",
+          "date": "Thu, 25 Jun 2026 13:00:56 +0000"
+        },
+        {
+          "title": "Warp lands $60M to automate payroll, compliance and HR with AI",
+          "link": "https://siliconangle.com/2026/06/25/warp-lands-60m-automate-payroll-compliance-hr-ai/",
+          "date": "Thu, 25 Jun 2026 13:00:43 +0000"
+        },
+        {
+          "title": "Exclusive: LucidLink launches MCP server to give AI agents shared access to distributed files",
+          "link": "https://siliconangle.com/2026/06/25/exclusive-lucidlink-launches-mcp-server-give-ai-agents-shared-access-distributed-files/",
+          "date": "Thu, 25 Jun 2026 13:00:00 +0000"
+        },
+        {
+          "title": "Ornn raises $33M to help companies buy and sell AI compute as a commodity like oil",
+          "link": "https://siliconangle.com/2026/06/24/ornn-raises-33m-help-companies-buy-sell-ai-compute-commodity-like-oil/",
+          "date": "Thu, 25 Jun 2026 02:14:58 +0000"
+        },
+        {
+          "title": "Agentic infrastructure startup Seltz raises $12.5M to help AI agents search the web for answers",
+          "link": "https://siliconangle.com/2026/06/24/agentic-infrastructure-startup-seltz-raises-12-5m-help-ai-agents-search-web-answers/",
+          "date": "Thu, 25 Jun 2026 01:22:26 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Snake Oil",
@@ -264,29 +290,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Woman's puzzling decline turns out to be cobalt poisoning from hip replacement",
-          "link": "https://arstechnica.com/health/2026/07/womans-puzzling-decline-turns-out-to-be-cobalt-poisoning-from-hip-replacement/",
-          "date": "Thu, 02 Jul 2026 14:04:28 +0000"
+          "title": "Ars Live recap: When are the big rockets NASA desperately needs going to be ready?",
+          "link": "https://arstechnica.com/space/2026/07/ars-live-recap-when-are-the-big-rockets-nasa-desperately-needs-going-to-be-ready/",
+          "date": "Thu, 02 Jul 2026 16:46:47 +0000"
         },
         {
-          "title": "Google\u2019s AI buildout drove 37% increase in electricity use in 2025",
-          "link": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
-          "date": "Thu, 02 Jul 2026 11:15:49 +0000"
+          "title": "Plex debuts 5-year membership pass for $250",
+          "link": "https://arstechnica.com/gadgets/2026/07/250-used-to-get-you-a-lifetime-plex-pass-now-you-get-a-five-year-subscription/",
+          "date": "Thu, 02 Jul 2026 16:35:59 +0000"
         },
         {
-          "title": "Editorial: It's time to step up and have your say for science",
-          "link": "https://arstechnica.com/science/2026/07/editorial-the-most-important-thing-you-can-do-to-protect-science/",
-          "date": "Thu, 02 Jul 2026 10:00:27 +0000"
+          "title": "Africa CDC confirms Marburg case in Uganda as Ebola outbreak rages",
+          "link": "https://arstechnica.com/health/2026/07/africa-cdc-confirms-marburg-case-in-uganda-as-ebola-outbreak-rages/",
+          "date": "Thu, 02 Jul 2026 16:30:37 +0000"
         },
         {
-          "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
-          "link": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
-          "date": "Wed, 01 Jul 2026 21:21:21 +0000"
+          "title": "Artificial cell manages a few rounds of cell division",
+          "link": "https://arstechnica.com/science/2026/07/artificial-cell-manages-a-few-rounds-of-cell-division/",
+          "date": "Thu, 02 Jul 2026 16:21:23 +0000"
         },
         {
-          "title": "NASA chief praises progress Blue Origin is making after launch failure",
-          "link": "https://arstechnica.com/space/2026/07/nasa-chief-praises-progress-blue-origin-is-making-after-launch-failure/",
-          "date": "Wed, 01 Jul 2026 19:57:36 +0000"
+          "title": "Google loses long-running appeal of record EU fine, will have to cough up $4.7 billion",
+          "link": "https://arstechnica.com/gadgets/2026/07/google-loses-long-running-appeal-of-record-eu-fine-will-have-to-cough-up-4-7-billion/",
+          "date": "Thu, 02 Jul 2026 16:15:41 +0000"
         }
       ],
       "error": null
@@ -294,39 +320,18 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "Do you think the future of AI will split into safe vs uncensored versions?",
-          "link": "https://www.reddit.com/r/artificial/comments/1ulc2zs/do_you_think_the_future_of_ai_will_split_into/",
-          "date": "2026-07-02T08:11:29+00:00"
-        },
-        {
-          "title": "Does AI sometimes make you feel productive without actually making progress?",
-          "link": "https://www.reddit.com/r/artificial/comments/1ulifas/does_ai_sometimes_make_you_feel_productive/",
-          "date": "2026-07-02T13:33:26+00:00"
-        },
-        {
-          "title": "Claude Code catastrophe: Entire project recursively deleted while prompting in Chinese (full video + logs)",
-          "link": "https://www.reddit.com/r/artificial/comments/1ukq4br/claude_code_catastrophe_entire_project/",
-          "date": "2026-07-01T16:13:36+00:00"
-        },
-        {
-          "title": "How will AI actually become an \"everyday essential\" for ordinary people, like smartphones or the internet?",
-          "link": "https://www.reddit.com/r/artificial/comments/1ul2whd/how_will_ai_actually_become_an_everyday_essential/",
-          "date": "2026-07-02T00:23:40+00:00"
-        },
-        {
-          "title": "OpenAI proposes giving US government 5% stake in company",
-          "link": "https://www.reddit.com/r/artificial/comments/1ulkpxs/openai_proposes_giving_us_government_5_stake_in/",
-          "date": "2026-07-02T15:02:16+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "How generative AI and physics can help design new antibiotics",
+          "link": "https://theconversation.com/how-generative-ai-and-physics-can-help-design-new-antibiotics-285051",
+          "date": "2026-07-02T16:56:34Z"
+        },
         {
           "title": "Australia shouldn\u2019t try to build its own frontier AI. Here\u2019s why",
           "link": "https://theconversation.com/australia-shouldnt-try-to-build-its-own-frontier-ai-heres-why-286151",
@@ -346,11 +351,6 @@
           "title": "World Cup propels surveillance to new heights",
           "link": "https://theconversation.com/world-cup-propels-surveillance-to-new-heights-284712",
           "date": "2026-06-30T12:35:55Z"
-        },
-        {
-          "title": "An Alberta school chat listed girls to assault. The response shows Canada still has a rape culture problem",
-          "link": "https://theconversation.com/an-alberta-school-chat-listed-girls-to-assault-the-response-shows-canada-still-has-a-rape-culture-problem-285545",
-          "date": "2026-06-29T20:26:44Z"
         }
       ],
       "error": null
