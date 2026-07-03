@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T02:40:33.187381+00:00",
+  "generatedAt": "2026-07-03T06:28:54.486774+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -360,9 +360,9 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Australia news live: ASX to pay $23.5m after misleading statement; trial for teen over alleged Melbourne plane hijacking",
+          "title": "Australia news live: minister says it\u2019s safe to \u2018keep buying eggs, keep buying chicken\u2019 as east coast records first suspected bird flu case",
           "link": "https://www.theguardian.com/australia-news/live/2026/jul/03/politics-anthony-albanese-labor-angus-taylor-liberal-party-coalition-antisemitism-royal-commission-nsw-victorian-alps-snow-weather-ntwnfb",
-          "date": "Fri, 03 Jul 2026 02:35:24 GMT"
+          "date": "Fri, 03 Jul 2026 06:20:11 GMT"
         },
         {
           "title": "3,000% bonuses but a growing wealth divide: South Korea grapples with its AI chip boom",
