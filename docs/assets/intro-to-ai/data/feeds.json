@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T23:02:03.921071+00:00",
+  "generatedAt": "2026-07-03T02:40:33.187381+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -320,33 +320,7 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "OpenAI in talks to give Trump administration a 5% stake in the company, FT reports",
-          "link": "https://www.reddit.com/r/artificial/comments/1ulqgre/openai_in_talks_to_give_trump_administration_a_5/",
-          "date": "2026-07-02T18:31:33+00:00"
-        },
-        {
-          "title": "Independent benchmark shows big drops on Claude Fable 5 after its relaunch, here\u2019s the actual context",
-          "link": "https://www.reddit.com/r/artificial/comments/1ulvegw/independent_benchmark_shows_big_drops_on_claude/",
-          "date": "2026-07-02T21:38:11+00:00"
-        },
-        {
-          "title": "I used I-JEPA to generate SVG's and here is my code!",
-          "link": "https://www.reddit.com/r/artificial/comments/1ulw51g/i_used_ijepa_to_generate_svgs_and_here_is_my_code/",
-          "date": "2026-07-02T22:06:56+00:00"
-        },
-        {
-          "title": "Do you think the future of AI will split into safe vs uncensored versions?",
-          "link": "https://www.reddit.com/r/artificial/comments/1ulc2zs/do_you_think_the_future_of_ai_will_split_into/",
-          "date": "2026-07-02T08:11:29+00:00"
-        },
-        {
-          "title": "Does AI sometimes make you feel productive without actually making progress?",
-          "link": "https://www.reddit.com/r/artificial/comments/1ulifas/does_ai_sometimes_make_you_feel_productive/",
-          "date": "2026-07-02T13:33:26+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
@@ -386,6 +360,21 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Australia news live: ASX to pay $23.5m after misleading statement; trial for teen over alleged Melbourne plane hijacking",
+          "link": "https://www.theguardian.com/australia-news/live/2026/jul/03/politics-anthony-albanese-labor-angus-taylor-liberal-party-coalition-antisemitism-royal-commission-nsw-victorian-alps-snow-weather-ntwnfb",
+          "date": "Fri, 03 Jul 2026 02:35:24 GMT"
+        },
+        {
+          "title": "3,000% bonuses but a growing wealth divide: South Korea grapples with its AI chip boom",
+          "link": "https://www.theguardian.com/world/ng-interactive/2026/jul/03/south-korea-wealth-divide-ai-chip-boom",
+          "date": "Fri, 03 Jul 2026 02:34:40 GMT"
+        },
+        {
+          "title": "\u2018Don\u2019t kill music\u2019: Anthony Albanese\u2019s favourite bands beg PM to stop AI companies from stealing their work",
+          "link": "https://www.theguardian.com/music/2026/jul/03/dont-kill-music-anthony-albaneses-favourite-bands-beg-pm-to-stop-ai-companies-from-stealing-their-work",
+          "date": "Fri, 03 Jul 2026 01:33:50 GMT"
+        },
+        {
           "title": "OpenAI \u2018in early talks to give 5% stake to US government\u2019",
           "link": "https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman",
           "date": "Thu, 02 Jul 2026 07:31:15 GMT"
@@ -394,21 +383,6 @@
           "title": "Are AI companies getting away with crime? | Fiona Katauskas",
           "link": "https://www.theguardian.com/commentisfree/picture/2026/jul/02/are-ai-companies-getting-away-with-crime",
           "date": "Thu, 02 Jul 2026 00:57:28 GMT"
-        },
-        {
-          "title": "AI summaries of Tripadvisor hotel reviews downplay serious complaints, investigation finds",
-          "link": "https://www.theguardian.com/business/2026/jul/02/ai-summaries-tripadvisor-hotel-reviews-downplay-serious-complaints",
-          "date": "Wed, 01 Jul 2026 23:01:01 GMT"
-        },
-        {
-          "title": "Rapid spread of AI may worsen global inequality, UN warns",
-          "link": "https://www.theguardian.com/technology/2026/jul/01/un-report-ai-inequality",
-          "date": "Wed, 01 Jul 2026 19:17:11 GMT"
-        },
-        {
-          "title": "We can live without AI, but can we live without clean water? | Letters",
-          "link": "https://www.theguardian.com/technology/2026/jul/01/we-can-live-without-ai-but-can-we-live-without-clean-water",
-          "date": "Wed, 01 Jul 2026 16:12:05 GMT"
         }
       ],
       "error": null
