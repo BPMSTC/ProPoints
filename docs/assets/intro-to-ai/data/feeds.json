@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T14:26:51.105488+00:00",
+  "generatedAt": "2026-07-04T15:59:19.804512+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -206,6 +206,11 @@
           "date": "2025-09-09T02:25:04+00:00"
         },
         {
+          "title": "Nothing to see here.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1unay5e/nothing_to_see_here/",
+          "date": "2026-07-04T14:48:18+00:00"
+        },
+        {
           "title": "Claude Brain Trust mode.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1ulq1xw/claude_brain_trust_mode/",
           "date": "2026-07-02T18:16:41+00:00"
@@ -214,11 +219,6 @@
           "title": "A fully local, fully agent-ready AI that watches 30+ live global feeds and forecasts world events in real time (mirofish)\u2014 running on your machine via Ollama",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1ullcwb/a_fully_local_fully_agentready_ai_that_watches_30/",
           "date": "2026-07-02T15:26:04+00:00"
-        },
-        {
-          "title": "Anthropic has embeds hidden spyware-like code in Claude Code that covertly targets Chinese users.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1uk5535/anthropic_has_embeds_hidden_spywarelike_code_in/",
-          "date": "2026-06-30T23:26:59+00:00"
         }
       ],
       "error": null
