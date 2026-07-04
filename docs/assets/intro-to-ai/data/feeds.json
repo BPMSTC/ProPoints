@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T19:06:22.762044+00:00",
+  "generatedAt": "2026-07-04T20:53:23.710258+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -211,14 +211,14 @@
           "date": "2026-07-04T17:19:17+00:00"
         },
         {
+          "title": "I built a free, open-source menu bar app that shows your Claude Code / Codex quota before you hit the wall (zero API calls, zero Keychain access)",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1uni4eu/i_built_a_free_opensource_menu_bar_app_that_shows/",
+          "date": "2026-07-04T19:42:28+00:00"
+        },
+        {
           "title": "Nothing to see here.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1unay5e/nothing_to_see_here/",
           "date": "2026-07-04T14:48:18+00:00"
-        },
-        {
-          "title": "Claude Brain Trust mode.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1ulq1xw/claude_brain_trust_mode/",
-          "date": "2026-07-02T18:16:41+00:00"
         }
       ],
       "error": null
@@ -365,6 +365,11 @@
           "date": "Sat, 04 Jul 2026 12:00:12 GMT"
         },
         {
+          "title": "Doctors\u2019 soaring use of AI scribes prompts Australian government warning over privacy",
+          "link": "https://www.theguardian.com/australia-news/2026/jul/05/doctors-ai-scribes-australia-government-privacy-warning",
+          "date": "Sat, 04 Jul 2026 20:00:07 GMT"
+        },
+        {
           "title": "How AI is changing language",
           "link": "https://www.theguardian.com/books/ng-interactive/2026/jul/04/future-of-fiction-next-great-novel-ai-language-chat-gpt",
           "date": "Sat, 04 Jul 2026 08:00:07 GMT"
@@ -378,11 +383,6 @@
           "title": "UK parents warned over posting images of children amid AI sexual abuse fears",
           "link": "https://www.theguardian.com/society/2026/jul/03/ai-sexual-abuse-fears-uk-parents-warned-posting-images-children-national-crime-agency",
           "date": "Fri, 03 Jul 2026 17:22:59 GMT"
-        },
-        {
-          "title": "We can debate the ethics of AI but can\u2019t seem to change course | Letters",
-          "link": "https://www.theguardian.com/technology/2026/jul/03/we-can-debate-the-ethics-of-ai-but-cant-seem-to-change-course",
-          "date": "Fri, 03 Jul 2026 17:00:52 GMT"
         }
       ],
       "error": null
