@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T10:06:28.426303+00:00",
+  "generatedAt": "2026-07-04T12:04:39.665492+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -206,14 +206,14 @@
           "date": "2025-09-09T02:25:04+00:00"
         },
         {
-          "title": "A fully local, fully agent-ready AI that watches 30+ live global feeds and forecasts world events in real time (mirofish)\u2014 running on your machine via Ollama",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1ullcwb/a_fully_local_fully_agentready_ai_that_watches_30/",
-          "date": "2026-07-02T15:26:04+00:00"
-        },
-        {
           "title": "Claude Brain Trust mode.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1ulq1xw/claude_brain_trust_mode/",
           "date": "2026-07-02T18:16:41+00:00"
+        },
+        {
+          "title": "A fully local, fully agent-ready AI that watches 30+ live global feeds and forecasts world events in real time (mirofish)\u2014 running on your machine via Ollama",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1ullcwb/a_fully_local_fully_agentready_ai_that_watches_30/",
+          "date": "2026-07-02T15:26:04+00:00"
         },
         {
           "title": "Anthropic has embeds hidden spyware-like code in Claude Code that covertly targets Chinese users.",
@@ -290,6 +290,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "When the ability to smell goes away",
+          "link": "https://arstechnica.com/science/2026/07/when-the-ability-to-smell-goes-away/",
+          "date": "Sat, 04 Jul 2026 11:04:31 +0000"
+        },
+        {
+          "title": "A martian rock has lots of carbon on it, and it's not clear why",
+          "link": "https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/",
+          "date": "Sat, 04 Jul 2026 11:00:41 +0000"
+        },
+        {
           "title": "Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone",
           "link": "https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/",
           "date": "Fri, 03 Jul 2026 13:55:35 +0000"
@@ -303,16 +313,6 @@
           "title": "Despite the darkness, I still see signs of hope in America",
           "link": "https://arstechnica.com/culture/2026/07/at-250-years-there-are-still-reasons-for-hope-in-america/",
           "date": "Fri, 03 Jul 2026 11:30:22 +0000"
-        },
-        {
-          "title": "Visiting the stars (and planets, and telescopes) in VR",
-          "link": "https://arstechnica.com/culture/2026/07/smithsonian-starstruck-vr-exhibit-lets-you-stroll-through-the-stars/",
-          "date": "Fri, 03 Jul 2026 11:15:35 +0000"
-        },
-        {
-          "title": "Wing Commander IV and the FMV future that never quite was",
-          "link": "https://arstechnica.com/gaming/2026/07/wing-commander-iv-and-the-fmv-future-that-never-quite-was/",
-          "date": "Fri, 03 Jul 2026 11:03:39 +0000"
         }
       ],
       "error": null
@@ -360,14 +360,19 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "AI prey: why watchdogs are telling parents to protect children from nudification apps",
-          "link": "https://www.theguardian.com/society/2026/jul/03/ai-prey-watchdogs-telling-parents-protect-children-nudification-apps",
-          "date": "Fri, 03 Jul 2026 17:30:00 GMT"
+          "title": "OpenAI\u2019s apparent failure to visit key site raises questions over Stargate UK project",
+          "link": "https://www.theguardian.com/technology/2026/jul/04/openai-apparent-failure-visit-key-site-questions-stargate-uk-project",
+          "date": "Sat, 04 Jul 2026 12:00:12 GMT"
         },
         {
           "title": "Could the next great novel be written by AI (and would you even be able to tell)?",
           "link": "https://www.theguardian.com/books/ng-interactive/2026/jul/04/future-of-fiction-next-great-novel-ai-language-chat-gpt",
           "date": "Sat, 04 Jul 2026 08:00:07 GMT"
+        },
+        {
+          "title": "AI prey: why watchdogs are telling parents to protect children from nudification apps",
+          "link": "https://www.theguardian.com/society/2026/jul/03/ai-prey-watchdogs-telling-parents-protect-children-nudification-apps",
+          "date": "Fri, 03 Jul 2026 17:30:00 GMT"
         },
         {
           "title": "UK parents warned over posting images of children amid AI sexual abuse fears",
@@ -378,11 +383,6 @@
           "title": "We can debate the ethics of AI but can\u2019t seem to change course | Letters",
           "link": "https://www.theguardian.com/technology/2026/jul/03/we-can-debate-the-ethics-of-ai-but-cant-seem-to-change-course",
           "date": "Fri, 03 Jul 2026 17:00:52 GMT"
-        },
-        {
-          "title": "What would our lives look like if we no longer had to work? As a thought experiment I tried to imagine | Brigid Delaney",
-          "link": "https://www.theguardian.com/commentisfree/2026/jul/04/ai-disruption-dystopia-dont-need-to-work-capitalism-free-time",
-          "date": "Fri, 03 Jul 2026 15:00:33 GMT"
         }
       ],
       "error": null
