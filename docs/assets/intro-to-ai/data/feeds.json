@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T19:37:55.251034+00:00",
+  "generatedAt": "2026-07-05T20:56:19.070580+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -328,6 +328,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Should Australia pause building new data centres? We asked 5 experts",
+          "link": "https://theconversation.com/should-australia-pause-building-new-data-centres-we-asked-5-experts-286547",
+          "date": "2026-07-05T19:36:07Z"
+        },
+        {
           "title": "How generative AI and physics can help design new antibiotics",
           "link": "https://theconversation.com/how-generative-ai-and-physics-can-help-design-new-antibiotics-285051",
           "date": "2026-07-02T16:56:34Z"
@@ -346,11 +351,6 @@
           "title": "AI can be a personal trainer in your pocket \u2013 but is it safe?",
           "link": "https://theconversation.com/ai-can-be-a-personal-trainer-in-your-pocket-but-is-it-safe-282586",
           "date": "2026-07-01T00:21:34Z"
-        },
-        {
-          "title": "World Cup propels surveillance to new heights",
-          "link": "https://theconversation.com/world-cup-propels-surveillance-to-new-heights-284712",
-          "date": "2026-06-30T12:35:55Z"
         }
       ],
       "error": null
