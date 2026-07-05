@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T07:54:16.516764+00:00",
+  "generatedAt": "2026-07-05T10:09:04.463783+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -320,7 +320,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "Meta Paid Hundreds of Contractors to Pretend to Be Teenagers While Barraging Its Competitors\u2019 AI With Disturbing Content",
+          "link": "https://www.reddit.com/r/artificial/comments/1ungqh7/meta_paid_hundreds_of_contractors_to_pretend_to/",
+          "date": "2026-07-04T18:44:49+00:00"
+        },
+        {
+          "title": "Survey: 63% of Americans are uncomfortable letting AI help them choose who to vote for, and 80% are worried AI bots are answering political surveys. Is the discomfort about AI, or about trust?",
+          "link": "https://www.reddit.com/r/artificial/comments/1unmy3d/survey_63_of_americans_are_uncomfortable_letting/",
+          "date": "2026-07-04T23:20:01+00:00"
+        },
+        {
+          "title": "GPT-5.5 vs Claude Fable 5 vs Local Qwen: 3 AI Agents, 1 Task",
+          "link": "https://www.reddit.com/r/artificial/comments/1unxcp5/gpt55_vs_claude_fable_5_vs_local_qwen_3_ai_agents/",
+          "date": "2026-07-05T09:01:14+00:00"
+        },
+        {
+          "title": "This week in AI: GPT-5.6, Gemini 3.5 Flash, Claude Science, and a Qwen price war \u2014 inference cost is collapsing across every tier at once",
+          "link": "https://www.reddit.com/r/artificial/comments/1un6v9c/this_week_in_ai_gpt56_gemini_35_flash_claude/",
+          "date": "2026-07-04T11:39:19+00:00"
+        },
+        {
+          "title": "Meta Reportedly Strikes $6.5 Billion Deal with Samsung Foundry for 2nm AI Chips",
+          "link": "https://www.reddit.com/r/artificial/comments/1unfzi9/meta_reportedly_strikes_65_billion_deal_with/",
+          "date": "2026-07-04T18:13:57+00:00"
+        }
+      ],
       "error": null
     },
     {
@@ -424,6 +450,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Startup Exec Boasts About Using AI to Churn Out Sports Content\u201dWithout Human Input\u201d",
+          "link": "https://futurism.com/artificial-intelligence/ai-startup-sports-world-cup-video-slop",
+          "date": "Sun, 05 Jul 2026 06:00:00 -0400"
+        },
+        {
           "title": "Surprise! Meta Says Now You Have to Pay a Monthly Subscription to Use Key Features of Your Already Expensive Smart Glasses",
           "link": "https://futurism.com/artificial-intelligence/meta-monthly-subscription-ai-glasses",
           "date": "Sat, 04 Jul 2026 13:01:00 -0400"
@@ -442,11 +473,6 @@
           "title": "Biohackers Attempted Neurosurgery to Control a Lobster\u2019s Nervous System and Give the Controls to OpenClaw, and How It Ended Will Tell You a Lot About the Ethics and Competence of AI Bros These Days",
           "link": "https://futurism.com/artificial-intelligence/biohackers-neurosurgery-control-lobster-ai",
           "date": "Fri, 03 Jul 2026 08:02:00 -0400"
-        },
-        {
-          "title": "AI Browsers Can Basically Be Hypnotized Into Turning Against Their User and Carrying Out Devastating Hacks",
-          "link": "https://futurism.com/artificial-intelligence/ai-browsers-hypnotized-hack",
-          "date": "Fri, 03 Jul 2026 07:01:00 -0400"
         }
       ],
       "error": null
