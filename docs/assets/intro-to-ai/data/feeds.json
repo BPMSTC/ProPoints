@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T18:00:10.401784+00:00",
+  "generatedAt": "2026-07-05T19:37:55.251034+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -360,6 +360,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "AI poses \u2018Hiroshima\u2019-style threat to humanity without global rules, says Cooper",
+          "link": "https://www.theguardian.com/politics/2026/jul/05/ai-hiroshima-style-threat-humanity-global-rules-yvette-cooper",
+          "date": "Sun, 05 Jul 2026 19:00:34 GMT"
+        },
+        {
           "title": "What\u2019s Kylie\u2019s favourite masking tape? How does Lena Dunham train pigs? It\u2019s all out there \u2013 and I\u2019m loving it | Emma Beddington",
           "link": "https://www.theguardian.com/commentisfree/2026/jul/05/whats-kylies-favourite-masking-tape-how-does-lena-dunham-train-pigs-its-all-out-there-and-im-loving-it",
           "date": "Sun, 05 Jul 2026 13:00:28 GMT"
@@ -378,11 +383,6 @@
           "title": "OpenAI\u2019s apparent failure to visit key site raises questions over UK investment",
           "link": "https://www.theguardian.com/technology/2026/jul/04/openai-apparent-failure-visit-key-site-questions-stargate-uk-project",
           "date": "Sat, 04 Jul 2026 12:00:12 GMT"
-        },
-        {
-          "title": "How AI is changing language",
-          "link": "https://www.theguardian.com/books/ng-interactive/2026/jul/04/future-of-fiction-next-great-novel-ai-language-chat-gpt",
-          "date": "Sat, 04 Jul 2026 08:00:07 GMT"
         }
       ],
       "error": null
@@ -488,6 +488,11 @@
       "url": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "items": [
         {
+          "title": "Quantum mechanics once baffled scientists. Now it's changing the world",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260624025516.htm",
+          "date": "Sun, 05 Jul 2026 14:13:44 EDT"
+        },
+        {
           "title": "Millions of exploding stars could soon reveal dark energy's secrets",
           "link": "https://www.sciencedaily.com/releases/2026/06/260621060315.htm",
           "date": "Mon, 29 Jun 2026 17:57:17 EDT"
@@ -506,11 +511,6 @@
           "title": "A classic brain test exposed AI's biggest weakness",
           "link": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
           "date": "Wed, 10 Jun 2026 06:52:17 EDT"
-        },
-        {
-          "title": "Scientists are seriously asking if bees and ChatGPT are conscious",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260604044258.htm",
-          "date": "Fri, 05 Jun 2026 01:27:32 EDT"
         }
       ],
       "error": null
