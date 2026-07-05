@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T10:09:04.463783+00:00",
+  "generatedAt": "2026-07-05T12:13:25.925035+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -290,6 +290,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Chemical accidents rise as Trump administration proposes weakening safety rules",
+          "link": "https://arstechnica.com/science/2026/07/chemical-accidents-rise-as-trump-administration-proposes-weakening-safety-rules/",
+          "date": "Sun, 05 Jul 2026 11:05:22 +0000"
+        },
+        {
+          "title": "The missing 500 million: Cosmic bombardment melted Earth's first crust",
+          "link": "https://arstechnica.com/science/2026/07/the-missing-500-million-cosmic-bombardment-melted-earths-first-crust/",
+          "date": "Sun, 05 Jul 2026 10:55:02 +0000"
+        },
+        {
           "title": "Review: Supergirl is not the disaster its low box office suggests",
           "link": "https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/",
           "date": "Sat, 04 Jul 2026 16:49:14 +0000"
@@ -303,16 +313,6 @@
           "title": "A martian rock has lots of carbon on it, and it's not clear why",
           "link": "https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/",
           "date": "Sat, 04 Jul 2026 11:00:41 +0000"
-        },
-        {
-          "title": "Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone",
-          "link": "https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/",
-          "date": "Fri, 03 Jul 2026 13:55:35 +0000"
-        },
-        {
-          "title": "Inside the Luddite festival harnessing Gen Z\u2019s rage against Big Tech",
-          "link": "https://arstechnica.com/culture/2026/07/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/",
-          "date": "Fri, 03 Jul 2026 12:00:36 +0000"
         }
       ],
       "error": null
@@ -320,33 +320,7 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "Meta Paid Hundreds of Contractors to Pretend to Be Teenagers While Barraging Its Competitors\u2019 AI With Disturbing Content",
-          "link": "https://www.reddit.com/r/artificial/comments/1ungqh7/meta_paid_hundreds_of_contractors_to_pretend_to/",
-          "date": "2026-07-04T18:44:49+00:00"
-        },
-        {
-          "title": "Survey: 63% of Americans are uncomfortable letting AI help them choose who to vote for, and 80% are worried AI bots are answering political surveys. Is the discomfort about AI, or about trust?",
-          "link": "https://www.reddit.com/r/artificial/comments/1unmy3d/survey_63_of_americans_are_uncomfortable_letting/",
-          "date": "2026-07-04T23:20:01+00:00"
-        },
-        {
-          "title": "GPT-5.5 vs Claude Fable 5 vs Local Qwen: 3 AI Agents, 1 Task",
-          "link": "https://www.reddit.com/r/artificial/comments/1unxcp5/gpt55_vs_claude_fable_5_vs_local_qwen_3_ai_agents/",
-          "date": "2026-07-05T09:01:14+00:00"
-        },
-        {
-          "title": "This week in AI: GPT-5.6, Gemini 3.5 Flash, Claude Science, and a Qwen price war \u2014 inference cost is collapsing across every tier at once",
-          "link": "https://www.reddit.com/r/artificial/comments/1un6v9c/this_week_in_ai_gpt56_gemini_35_flash_claude/",
-          "date": "2026-07-04T11:39:19+00:00"
-        },
-        {
-          "title": "Meta Reportedly Strikes $6.5 Billion Deal with Samsung Foundry for 2nm AI Chips",
-          "link": "https://www.reddit.com/r/artificial/comments/1unfzi9/meta_reportedly_strikes_65_billion_deal_with/",
-          "date": "2026-07-04T18:13:57+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
@@ -386,11 +360,6 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "OpenAI\u2019s apparent failure to visit key site raises questions over UK investment",
-          "link": "https://www.theguardian.com/technology/2026/jul/04/openai-apparent-failure-visit-key-site-questions-stargate-uk-project",
-          "date": "Sat, 04 Jul 2026 12:00:12 GMT"
-        },
-        {
           "title": "NHS to use AI on its app to direct patients to appropriate services",
           "link": "https://www.theguardian.com/society/2026/jul/04/nhs-ai-app-patients-appropriate-services-health",
           "date": "Sat, 04 Jul 2026 21:30:08 GMT"
@@ -399,6 +368,11 @@
           "title": "Doctors\u2019 soaring use of AI scribes prompts Australian government warning over privacy",
           "link": "https://www.theguardian.com/australia-news/2026/jul/05/doctors-ai-scribes-australia-government-privacy-warning",
           "date": "Sat, 04 Jul 2026 20:00:07 GMT"
+        },
+        {
+          "title": "OpenAI\u2019s apparent failure to visit key site raises questions over UK investment",
+          "link": "https://www.theguardian.com/technology/2026/jul/04/openai-apparent-failure-visit-key-site-questions-stargate-uk-project",
+          "date": "Sat, 04 Jul 2026 12:00:12 GMT"
         },
         {
           "title": "How AI is changing language",
