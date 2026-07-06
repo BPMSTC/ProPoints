@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-07-06T05:07:50.500406+00:00",
+  "generatedAt": "2026-07-06T10:12:46.865354+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Footage Shows Cop Stalking Woman He Met on a TV Set After Surveilling Her With a License Plate Reader",
+          "link": "https://www.404media.co/footage-shows-cop-stalking-woman-he-met-on-a-tv-set-after-surveilling-her-with-a-license-plate-reader/",
+          "date": "Mon, 06 Jul 2026 10:00:54 GMT"
+        },
         {
           "title": "SOLVED: The Case of the Missing Megalodon",
           "link": "https://www.404media.co/solved-the-case-of-the-missing-megalodon/",
@@ -24,11 +29,6 @@
           "title": "Podcast: The AI Tokenpocalypse Is Here",
           "link": "https://www.404media.co/podcast-the-ai-tokenpocalypse-is-here/",
           "date": "Wed, 01 Jul 2026 20:40:59 GMT"
-        },
-        {
-          "title": "Scientists Asked AI to Impersonate 112 Public Figures. What Happened Next Is a \u2018Dire\u2019 Warning",
-          "link": "https://www.404media.co/untitled-28/",
-          "date": "Wed, 01 Jul 2026 18:00:53 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -328,6 +328,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "ABC will trial using AI for journalism. What are the risks and benefits?",
+          "link": "https://theconversation.com/abc-will-trial-using-ai-for-journalism-what-are-the-risks-and-benefits-286841",
+          "date": "2026-07-06T06:44:38Z"
+        },
+        {
           "title": "Should Australia pause building new data centres? We asked 5 experts",
           "link": "https://theconversation.com/should-australia-pause-building-new-data-centres-we-asked-5-experts-286547",
           "date": "2026-07-05T19:36:07Z"
@@ -346,11 +351,6 @@
           "title": "Australian musicians hate AI using their songs, but have little legal protection",
           "link": "https://theconversation.com/australian-musicians-hate-ai-using-their-songs-but-have-little-legal-protection-286154",
           "date": "2026-07-01T03:23:14Z"
-        },
-        {
-          "title": "AI can be a personal trainer in your pocket \u2013 but is it safe?",
-          "link": "https://theconversation.com/ai-can-be-a-personal-trainer-in-your-pocket-but-is-it-safe-282586",
-          "date": "2026-07-01T00:21:34Z"
         }
       ],
       "error": null
@@ -360,29 +360,29 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "\u2018It\u2019s smoke and mirrors\u2019: hope turns to fear in Scottish village chosen for AI datacentre",
+          "link": "https://www.theguardian.com/technology/2026/jul/06/scotland-lanarkshire-village-ai-datacentre",
+          "date": "Mon, 06 Jul 2026 07:00:06 GMT"
+        },
+        {
+          "title": "Israeli command system identified 850,000 targets in Gaza and Lebanon wars, says supplier",
+          "link": "https://www.theguardian.com/world/2026/jul/06/israel-command-system-identified-850000-targets-gaza-lebanon-war-supplier-elbit-systems",
+          "date": "Mon, 06 Jul 2026 08:00:05 GMT"
+        },
+        {
+          "title": "What are Britain\u2019s AI growth zones and are the plans feasible or \u2018complete bunk\u2019?",
+          "link": "https://www.theguardian.com/technology/2026/jul/06/britain-ai-growth-zones-explainer",
+          "date": "Mon, 06 Jul 2026 07:00:05 GMT"
+        },
+        {
+          "title": "Revealed: landmark Scottish AI project has no prospect of meeting renewables promise",
+          "link": "https://www.theguardian.com/technology/2026/jul/06/lanarkshire-scotland-ai-datacentre-project-renewable-energy",
+          "date": "Mon, 06 Jul 2026 07:00:05 GMT"
+        },
+        {
           "title": "I don't want a US tech bro as a patron - which is why artists must defend our copyright in the age of AI | Anna Funder",
           "link": "https://www.theguardian.com/commentisfree/2026/jul/06/authors-writers-copyright-australia-ai-artificial-intelligence-anna-funder",
           "date": "Mon, 06 Jul 2026 03:35:48 GMT"
-        },
-        {
-          "title": "China wants to solve the hardest problem in robotics \u2013 making hands",
-          "link": "https://www.theguardian.com/technology/ng-interactive/2026/jul/06/china-dextrous-robotic-hands-humanoid",
-          "date": "Mon, 06 Jul 2026 00:31:18 GMT"
-        },
-        {
-          "title": "AI poses \u2018Hiroshima\u2019-style threat to humanity without global rules, says Cooper",
-          "link": "https://www.theguardian.com/politics/2026/jul/05/ai-hiroshima-style-threat-humanity-global-rules-yvette-cooper",
-          "date": "Sun, 05 Jul 2026 19:00:34 GMT"
-        },
-        {
-          "title": "What\u2019s Kylie\u2019s favourite masking tape? How does Lena Dunham train pigs? It\u2019s all out there \u2013 and I\u2019m loving it | Emma Beddington",
-          "link": "https://www.theguardian.com/commentisfree/2026/jul/05/whats-kylies-favourite-masking-tape-how-does-lena-dunham-train-pigs-its-all-out-there-and-im-loving-it",
-          "date": "Sun, 05 Jul 2026 13:00:28 GMT"
-        },
-        {
-          "title": "NHS to use AI on its app to direct patients to appropriate services",
-          "link": "https://www.theguardian.com/society/2026/jul/04/nhs-ai-app-patients-appropriate-services-health",
-          "date": "Sat, 04 Jul 2026 21:30:08 GMT"
         }
       ],
       "error": null
