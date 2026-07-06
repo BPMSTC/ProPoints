@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T17:40:19.824820+00:00",
+  "generatedAt": "2026-07-06T19:51:25.960224+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -328,6 +328,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "If you flirt with an AI companion, does that count as cheating?",
+          "link": "https://theconversation.com/if-you-flirt-with-an-ai-companion-does-that-count-as-cheating-284931",
+          "date": "2026-07-06T18:35:57Z"
+        },
+        {
           "title": "In our deep oceans, evolution is supercharged \u2013 this diversity of life could help unlock humanity\u2019s greatest challenges",
           "link": "https://theconversation.com/in-our-deep-oceans-evolution-is-supercharged-this-diversity-of-life-could-help-unlock-humanitys-greatest-challenges-286818",
           "date": "2026-07-06T13:46:04Z"
@@ -346,11 +351,6 @@
           "title": "How generative AI and physics can help design new antibiotics",
           "link": "https://theconversation.com/how-generative-ai-and-physics-can-help-design-new-antibiotics-285051",
           "date": "2026-07-02T16:56:34Z"
-        },
-        {
-          "title": "Australia shouldn\u2019t try to build its own frontier AI. Here\u2019s why",
-          "link": "https://theconversation.com/australia-shouldnt-try-to-build-its-own-frontier-ai-heres-why-286151",
-          "date": "2026-07-02T02:01:15Z"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Meta\u2019s AI Data Center Caught Infecting Town Water Supply With Deadly Bacteria",
+          "link": "https://futurism.com/health-medicine/meta-ai-data-center-pathogen-bacteria-water",
+          "date": "Mon, 06 Jul 2026 14:45:56 -0400"
+        },
+        {
           "title": "Startup Exec Boasts About Using AI to Churn Out Sports Content\u201dWithout Human Input\u201d",
           "link": "https://futurism.com/artificial-intelligence/ai-startup-sports-world-cup-video-slop",
           "date": "Sun, 05 Jul 2026 06:00:00 -0400"
@@ -442,11 +447,6 @@
           "title": "Simple Prompt Turns ChatGPT Into a Sociopath That Ignores Safety Guardrails",
           "link": "https://futurism.com/artificial-intelligence/simple-prompt-chatgpt-sociopath",
           "date": "Fri, 03 Jul 2026 10:01:00 -0400"
-        },
-        {
-          "title": "Biohackers Attempted Neurosurgery to Control a Lobster\u2019s Nervous System and Give the Controls to OpenClaw, and How It Ended Will Tell You a Lot About the Ethics and Competence of AI Bros These Days",
-          "link": "https://futurism.com/artificial-intelligence/biohackers-neurosurgery-control-lobster-ai",
-          "date": "Fri, 03 Jul 2026 08:02:00 -0400"
         }
       ],
       "error": null
