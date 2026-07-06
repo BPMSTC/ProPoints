@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T21:26:40.199680+00:00",
+  "generatedAt": "2026-07-06T23:04:14.929430+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,7 +290,17 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "What's the oldest Americana flown in space?",
+          "title": "FCC to end Biden-era rule that forces ISPs to list all their fees",
+          "link": "https://arstechnica.com/tech-policy/2026/07/fcc-to-end-biden-era-rule-that-forces-isps-to-list-all-their-fees/",
+          "date": "Mon, 06 Jul 2026 21:13:37 +0000"
+        },
+        {
+          "title": "Kremlin suspected of flying drones over Europe using Russian shadow fleet",
+          "link": "https://arstechnica.com/gadgets/2026/07/kremlin-suspected-of-flying-drones-over-europe-using-russian-shadow-fleet/",
+          "date": "Mon, 06 Jul 2026 20:52:42 +0000"
+        },
+        {
+          "title": "What is the oldest American object ever launched into space?",
           "link": "https://arstechnica.com/space/2026/07/whats-the-oldest-americana-flown-in-space/",
           "date": "Mon, 06 Jul 2026 19:57:56 +0000"
         },
@@ -303,16 +313,6 @@
           "title": "Katalyst's satellite rescue mission is now in pursuit of NASA's Swift",
           "link": "https://arstechnica.com/space/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/",
           "date": "Mon, 06 Jul 2026 17:14:09 +0000"
-        },
-        {
-          "title": "Secret Claude tracker shocks users after Anthropic\u2019s anti-surveillance stance",
-          "link": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
-          "date": "Mon, 06 Jul 2026 16:44:18 +0000"
-        },
-        {
-          "title": "The incredible shrinking Xbox: Five studios, 3,200 employees let go",
-          "link": "https://arstechnica.com/gaming/2026/07/the-incredible-shrinking-xbox-five-studios-3200-employees-let-go/",
-          "date": "Mon, 06 Jul 2026 16:01:54 +0000"
         }
       ],
       "error": null
@@ -365,6 +365,11 @@
           "date": "Mon, 06 Jul 2026 11:00:03 GMT"
         },
         {
+          "title": "Scotland could freeze datacentre projects in challenge to UK\u2019s AI strategy",
+          "link": "https://www.theguardian.com/uk-news/2026/jul/07/scotland-could-freeze-datacentre-projects-in-challenge-to-uks-ai-strategy",
+          "date": "Mon, 06 Jul 2026 23:01:23 GMT"
+        },
+        {
           "title": "Microsoft cuts 4,800 jobs as it revamps Xbox in latest wave of mass layoffs",
           "link": "https://www.theguardian.com/technology/2026/jul/06/microsoft-cuts-jobs-xbox-overhaul-mass-layoffs",
           "date": "Mon, 06 Jul 2026 16:54:31 GMT"
@@ -378,11 +383,6 @@
           "title": "AI surveillance is being supercharged \u2013 and it will chill social progress | Bruce Schneier and Jon Penney",
           "link": "https://www.theguardian.com/commentisfree/2026/jul/06/ai-surveillance-policy",
           "date": "Mon, 06 Jul 2026 12:00:02 GMT"
-        },
-        {
-          "title": "Boost City regulator\u2019s powers to help protect UK consumers from AI, says watchdog",
-          "link": "https://www.theguardian.com/business/2026/jul/06/boost-city-regulators-powers-protect-uk-consumers-ai-cyber-crime-fraud-watchdog",
-          "date": "Mon, 06 Jul 2026 11:11:05 GMT"
         }
       ],
       "error": null
