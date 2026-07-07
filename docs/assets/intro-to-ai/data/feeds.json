@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T20:53:21.756597+00:00",
+  "generatedAt": "2026-07-07T22:11:05.889866+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Data centers\u2019 energy demand threatens Trump\u2019s \u201cMade in America\u201d plan",
+          "link": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
+          "date": "Tue, 07 Jul 2026 21:03:07 +0000"
+        },
+        {
+          "title": "Surprisingly large number of people may have marker for tick-linked meat allergy",
+          "link": "https://arstechnica.com/health/2026/07/surprisingly-large-number-of-people-may-have-marker-for-tick-linked-meat-allergy/",
+          "date": "Tue, 07 Jul 2026 20:32:39 +0000"
+        },
+        {
+          "title": "SCOTUS lets Texas enforce app store law that Big Tech calls \"censorship regime\"",
+          "link": "https://arstechnica.com/tech-policy/2026/07/supreme-court-lets-texas-enforce-age-verification-law-on-app-stores/",
+          "date": "Tue, 07 Jul 2026 20:18:24 +0000"
+        },
+        {
           "title": "Bethesda, id Software reportedly hit hard by Microsoft layoffs",
           "link": "https://arstechnica.com/gaming/2026/07/bethesda-id-software-reportedly-hit-hard-by-microsoft-layoffs/",
           "date": "Tue, 07 Jul 2026 19:52:59 +0000"
@@ -298,21 +313,6 @@
           "title": "Google's Pixel 11 launch event is set for August 12, with possible price increases",
           "link": "https://arstechnica.com/gadgets/2026/07/googles-pixel-11-launch-event-is-set-for-august-12-with-possible-price-increases/",
           "date": "Tue, 07 Jul 2026 19:08:34 +0000"
-        },
-        {
-          "title": "The Weather Channel increases streaming subscription prices by up to $20",
-          "link": "https://arstechnica.com/gadgets/2026/07/the-weather-channels-streaming-app-gets-a-67-percent-price-hike/",
-          "date": "Tue, 07 Jul 2026 18:29:24 +0000"
-        },
-        {
-          "title": "The Nintendo Switch's days are numbered\u2014but what is that number?",
-          "link": "https://arstechnica.com/gaming/2026/07/the-nintendo-switchs-days-are-numbered-but-what-is-that-number/",
-          "date": "Tue, 07 Jul 2026 18:16:29 +0000"
-        },
-        {
-          "title": "This race car is made from plant fibers, volcanoes, ... and seawater?",
-          "link": "https://arstechnica.com/cars/2026/07/this-race-car-is-made-from-plant-fibers-volcanoes-and-seawater/",
-          "date": "Tue, 07 Jul 2026 16:45:18 +0000"
         }
       ],
       "error": null
@@ -456,6 +456,16 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images\u2014Unless You Opt Out",
+          "link": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/",
+          "date": "Tue, 07 Jul 2026 21:59:29 +0000"
+        },
+        {
+          "title": "OpenAI\u2019s Chief Futurist Is Leaving the Company",
+          "link": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
+          "date": "Tue, 07 Jul 2026 21:30:00 +0000"
+        },
+        {
           "title": "Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone",
           "link": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/",
           "date": "Tue, 07 Jul 2026 16:00:00 +0000"
@@ -469,16 +479,6 @@
           "title": "Erling Haaland Is Everywhere at the World Cup. Most of It Is AI",
           "link": "https://www.wired.com/story/erling-haaland-is-everywhere-at-the-world-cup-most-of-it-is-ai/",
           "date": "Tue, 07 Jul 2026 10:00:00 +0000"
-        },
-        {
-          "title": "British Space Startup Launches Longevity Lab Into Orbit",
-          "link": "https://www.wired.com/story/british-space-startup-launches-longevity-lab-into-orbit/",
-          "date": "Tue, 07 Jul 2026 09:57:12 +0000"
-        },
-        {
-          "title": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
-          "link": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
-          "date": "Fri, 03 Jul 2026 16:30:00 +0000"
         }
       ],
       "error": null
