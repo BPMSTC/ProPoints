@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T22:11:05.889866+00:00",
+  "generatedAt": "2026-07-07T23:55:06.361840+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Michigan sees explosive outbreak of diarrheal parasite with over 700 cases",
+          "link": "https://arstechnica.com/health/2026/07/michigan-sees-explosive-outbreak-of-diarrheal-parasite-with-over-700-cases/",
+          "date": "Tue, 07 Jul 2026 22:29:00 +0000"
+        },
+        {
           "title": "Data centers\u2019 energy demand threatens Trump\u2019s \u201cMade in America\u201d plan",
           "link": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
           "date": "Tue, 07 Jul 2026 21:03:07 +0000"
@@ -308,11 +313,6 @@
           "title": "Bethesda, id Software reportedly hit hard by Microsoft layoffs",
           "link": "https://arstechnica.com/gaming/2026/07/bethesda-id-software-reportedly-hit-hard-by-microsoft-layoffs/",
           "date": "Tue, 07 Jul 2026 19:52:59 +0000"
-        },
-        {
-          "title": "Google's Pixel 11 launch event is set for August 12, with possible price increases",
-          "link": "https://arstechnica.com/gadgets/2026/07/googles-pixel-11-launch-event-is-set-for-august-12-with-possible-price-increases/",
-          "date": "Tue, 07 Jul 2026 19:08:34 +0000"
         }
       ],
       "error": null
@@ -320,7 +320,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "Air Force Engineer Accused of Cutting Down Flock AI Surveillance Cameras, Says U.S. is Becoming Police State",
+          "link": "https://www.reddit.com/r/artificial/comments/1uq91lr/air_force_engineer_accused_of_cutting_down_flock/",
+          "date": "2026-07-07T21:42:15+00:00"
+        },
+        {
+          "title": "AI can\u2019t simulate human preferences - new study tests LLMs against thousands of real users",
+          "link": "https://www.reddit.com/r/artificial/comments/1uq52r8/ai_cant_simulate_human_preferences_new_study/",
+          "date": "2026-07-07T19:19:44+00:00"
+        },
+        {
+          "title": "LinkedIn's behavioral scoring system and what it means for anyone building AI automations on the platform",
+          "link": "https://www.reddit.com/r/artificial/comments/1uq718e/linkedins_behavioral_scoring_system_and_what_it/",
+          "date": "2026-07-07T20:28:12+00:00"
+        },
+        {
+          "title": "AI is scaling 3x faster than the internet wave and it\u2019s NOT slowing down",
+          "link": "https://www.reddit.com/r/artificial/comments/1upou8z/ai_is_scaling_3x_faster_than_the_internet_wave/",
+          "date": "2026-07-07T08:21:58+00:00"
+        },
+        {
+          "title": "AI should be private and optional!",
+          "link": "https://www.reddit.com/r/artificial/comments/1uplbps/ai_should_be_private_and_optional/",
+          "date": "2026-07-07T05:07:05+00:00"
+        }
+      ],
       "error": null
     },
     {
@@ -365,6 +391,11 @@
           "date": "Tue, 07 Jul 2026 09:36:56 GMT"
         },
         {
+          "title": "\u2018Absolutely bananas\u2019: San Francisco homes sell for $1m above asking price amid AI boom",
+          "link": "https://www.theguardian.com/us-news/2026/jul/07/san-francisco-home-sale-prices-ai",
+          "date": "Tue, 07 Jul 2026 22:33:58 GMT"
+        },
+        {
           "title": "Curry, bagels \u2026 and AI? Londoners fight plan for huge datacentre in Brick Lane",
           "link": "https://www.theguardian.com/uk-news/2026/jul/07/london-campaign-planned-ai-datacentre-brick-lane",
           "date": "Tue, 07 Jul 2026 14:00:02 GMT"
@@ -378,11 +409,6 @@
           "title": "Stymied datacentre projects threaten global AI revolution",
           "link": "https://www.theguardian.com/technology/2026/jul/07/stymied-datacentre-projects-threaten-global-ai-revolution",
           "date": "Tue, 07 Jul 2026 09:00:35 GMT"
-        },
-        {
-          "title": "We Are Not Machines by Sarah O\u2019Connor review \u2013 can dignity at work survive the tech revolution?",
-          "link": "https://www.theguardian.com/books/2026/jul/07/we-are-not-machines-by-sarah-oconnor-review-can-dignity-at-work-survive-the-tech-revolution",
-          "date": "Tue, 07 Jul 2026 08:00:34 GMT"
         }
       ],
       "error": null
