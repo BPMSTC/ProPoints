@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T16:27:37.196845+00:00",
+  "generatedAt": "2026-07-07T18:59:16.918916+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "This race car is made from plant fibers, volcanoes, ... and seawater?",
+          "link": "https://arstechnica.com/cars/2026/07/this-race-car-is-made-from-plant-fibers-volcanoes-and-seawater/",
+          "date": "Tue, 07 Jul 2026 16:45:18 +0000"
+        },
+        {
+          "title": "Facing US export controls, China's DeepSeek plans to make its own chips",
+          "link": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
+          "date": "Tue, 07 Jul 2026 16:14:53 +0000"
+        },
+        {
+          "title": "Dragonflies maneuver like fighter pilots",
+          "link": "https://arstechnica.com/science/2026/07/dragonflies-maneuver-like-fighter-pilots/",
+          "date": "Tue, 07 Jul 2026 15:54:18 +0000"
+        },
+        {
           "title": "New virus catalog reveals which pathogens pose the greatest threat",
           "link": "https://arstechnica.com/health/2026/07/new-virus-catalog-reveals-which-pathogens-pose-the-greatest-threat/",
           "date": "Tue, 07 Jul 2026 13:15:49 +0000"
@@ -298,21 +313,6 @@
           "title": "ULA's last six Atlas Vs can't launch anything besides Boeing's Starliner",
           "link": "https://arstechnica.com/space/2026/07/after-a-stellar-career-ulas-atlas-v-rocket-last-act-is-waiting-on-starliner/",
           "date": "Tue, 07 Jul 2026 11:15:15 +0000"
-        },
-        {
-          "title": "How AI could enable autonomous robot workers in workplaces\u2014and maybe homes",
-          "link": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
-          "date": "Tue, 07 Jul 2026 11:00:18 +0000"
-        },
-        {
-          "title": "FCC to end Biden-era rule that forces ISPs to list all their fees",
-          "link": "https://arstechnica.com/tech-policy/2026/07/fcc-to-end-biden-era-rule-that-forces-isps-to-list-all-their-fees/",
-          "date": "Mon, 06 Jul 2026 21:13:37 +0000"
-        },
-        {
-          "title": "Kremlin suspected of flying drones over Europe using Russian shadow fleet",
-          "link": "https://arstechnica.com/gadgets/2026/07/kremlin-suspected-of-flying-drones-over-europe-using-russian-shadow-fleet/",
-          "date": "Mon, 06 Jul 2026 20:52:42 +0000"
         }
       ],
       "error": null
@@ -424,6 +424,21 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Tripadvisor\u2019s AI Is Telling Vacationers That Gruesome Horror Grottos Are Wonderful Holiday Retreats",
+          "link": "https://futurism.com/artificial-intelligence/ai-whitewashing-bad-reviews-holiday-resorts",
+          "date": "Tue, 07 Jul 2026 14:43:28 -0400"
+        },
+        {
+          "title": "Bank of America Warns That AI Investors Are in for a Nasty Reality Check",
+          "link": "https://futurism.com/artificial-intelligence/bank-of-america-ai-investors-reality-check",
+          "date": "Tue, 07 Jul 2026 13:51:56 -0400"
+        },
+        {
+          "title": "Experts Say There\u2019s Now an Open Source AI Model as Scary as Mythos",
+          "link": "https://futurism.com/artificial-intelligence/open-source-ai-model-scary-mythos",
+          "date": "Tue, 07 Jul 2026 13:12:00 -0400"
+        },
+        {
           "title": "Workplaces Have Gotten So Bizarre That People Are Just Sending AI Slop Back and Forth at Each Other",
           "link": "https://futurism.com/artificial-intelligence/workplaces-bizarre-ai-back-and-forth",
           "date": "Tue, 07 Jul 2026 11:45:16 -0400"
@@ -432,21 +447,6 @@
           "title": "AI \u201cActor\u201d Will \u201cStar\u201d In a New \u201cMovie\u201d",
           "link": "https://futurism.com/artificial-intelligence/ai-actor-tilly-norwood-movie",
           "date": "Tue, 07 Jul 2026 09:47:12 -0400"
-        },
-        {
-          "title": "Zuckerberg Admits That AI Is Not Working Out the Way He Imagined",
-          "link": "https://futurism.com/artificial-intelligence/zuckerberg-admits-ai-not-working-out",
-          "date": "Tue, 07 Jul 2026 08:48:46 -0400"
-        },
-        {
-          "title": "Microsoft\u2019s $7.3 Billion AI Data Center Just Caught a Nasty Lawsuit From Furious Neighbors",
-          "link": "https://futurism.com/artificial-intelligence/microsoft-ai-data-center-lawsuit-neighbors",
-          "date": "Mon, 06 Jul 2026 17:11:02 -0400"
-        },
-        {
-          "title": "Rich People Can Afford Good Education for Their Kids. They\u2019re Raising Them on AI Slop Anyways.",
-          "link": "https://futurism.com/future-society/rich-people-education-ai-slop",
-          "date": "Mon, 06 Jul 2026 16:41:43 -0400"
         }
       ],
       "error": null
