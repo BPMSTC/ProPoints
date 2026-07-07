@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-07-07T13:16:45.289349+00:00",
+  "generatedAt": "2026-07-07T16:27:37.196845+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Cops Say Waymo Snitched on Teens for Allegedly Drinking and Shooting a Toy Gun",
+          "link": "https://www.404media.co/waymo-called-police-on-teens-san-mateo/",
+          "date": "Tue, 07 Jul 2026 16:06:31 GMT"
+        },
         {
           "title": "Scientists Gave Mice Cocaine. This Is What It Did to Their Brains",
           "link": "https://www.404media.co/mice-cocaine-research-addiction-fens-forum/",
@@ -24,11 +29,6 @@
           "title": "Behind the Blog: With Blogs Like These, Who Needs a Private Jet",
           "link": "https://www.404media.co/behind-the-blog-with-blogs-like-these-who-needs-a-private-jet/",
           "date": "Fri, 03 Jul 2026 10:00:02 GMT"
-        },
-        {
-          "title": "Companies Are Throttling Employees\u2019 AI Use Because It\u2019s Too Expensive",
-          "link": "https://www.404media.co/companies-are-throttling-employees-ai-use-because-its-too-expensive/",
-          "date": "Thu, 02 Jul 2026 10:00:09 GMT"
         }
       ],
       "error": null
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Self-Driving Company Gets Funding and Chips From AMD",
+          "link": "https://aibusiness.com/generative-ai/self-driving-company-funding-chips-from-amd",
+          "date": "Tue, 07 Jul 2026 14:02:34 GMT"
+        },
+        {
           "title": "Microsoft Bets on Humans to Scale AI",
           "link": "https://aibusiness.com/generative-ai/microsoft-frontier-company-humans-scale-ai",
           "date": "Thu, 02 Jul 2026 20:58:10 GMT"
@@ -132,11 +137,6 @@
           "title": "Google Expands AI Imaging Offerings With Nano Banana Lite 2",
           "link": "https://aibusiness.com/generative-ai/google-expands-ai-imaging-offerings-nano-banana-lite-2",
           "date": "Wed, 01 Jul 2026 13:04:22 GMT"
-        },
-        {
-          "title": "With Claude Science, Anthropic Targets Another Application",
-          "link": "https://aibusiness.com/generative-ai/with-claude-science-anthropic-targets-application",
-          "date": "Tue, 30 Jun 2026 21:27:58 GMT"
         }
       ],
       "error": null
@@ -206,14 +206,14 @@
           "date": "2025-09-09T02:25:04+00:00"
         },
         {
-          "title": "NPM MetaHarness: Self Customizing agent harnesses built around existing AI tools (Claude Code, Hermes, Codex, and others)",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1uo3gw8/npm_metaharness_self_customizing_agent_harnesses/",
-          "date": "2026-07-05T14:23:10+00:00"
-        },
-        {
           "title": "At least they\u2019re honest..",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1unemhb/at_least_theyre_honest/",
           "date": "2026-07-04T17:19:17+00:00"
+        },
+        {
+          "title": "NPM MetaHarness: Self Customizing agent harnesses built around existing AI tools (Claude Code, Hermes, Codex, and others)",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1uo3gw8/npm_metaharness_self_customizing_agent_harnesses/",
+          "date": "2026-07-05T14:23:10+00:00"
         },
         {
           "title": "I built a free, open-source menu bar app that shows your Claude Code / Codex quota before you hit the wall (zero API calls, zero Keychain access)",
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "New virus catalog reveals which pathogens pose the greatest threat",
+          "link": "https://arstechnica.com/health/2026/07/new-virus-catalog-reveals-which-pathogens-pose-the-greatest-threat/",
+          "date": "Tue, 07 Jul 2026 13:15:49 +0000"
+        },
+        {
           "title": "ULA's last six Atlas Vs can't launch anything besides Boeing's Starliner",
           "link": "https://arstechnica.com/space/2026/07/after-a-stellar-career-ulas-atlas-v-rocket-last-act-is-waiting-on-starliner/",
           "date": "Tue, 07 Jul 2026 11:15:15 +0000"
@@ -308,11 +313,6 @@
           "title": "Kremlin suspected of flying drones over Europe using Russian shadow fleet",
           "link": "https://arstechnica.com/gadgets/2026/07/kremlin-suspected-of-flying-drones-over-europe-using-russian-shadow-fleet/",
           "date": "Mon, 06 Jul 2026 20:52:42 +0000"
-        },
-        {
-          "title": "What is the oldest American object ever launched into space?",
-          "link": "https://arstechnica.com/space/2026/07/whats-the-oldest-americana-flown-in-space/",
-          "date": "Mon, 06 Jul 2026 19:57:56 +0000"
         }
       ],
       "error": null
@@ -365,6 +365,11 @@
           "date": "Tue, 07 Jul 2026 09:36:56 GMT"
         },
         {
+          "title": "Curry, bagels \u2026 and AI? Londoners fight plan for huge datacentre in Brick Lane",
+          "link": "https://www.theguardian.com/uk-news/2026/jul/07/london-campaign-planned-ai-datacentre-brick-lane",
+          "date": "Tue, 07 Jul 2026 14:00:02 GMT"
+        },
+        {
           "title": "Big tech\u2019s lofty climate goals wrecked by energy-hungry AI",
           "link": "https://www.theguardian.com/technology/2026/jul/06/ai-climate-crisis",
           "date": "Tue, 07 Jul 2026 13:11:17 GMT"
@@ -378,11 +383,6 @@
           "title": "We Are Not Machines by Sarah O\u2019Connor review \u2013 can dignity at work survive the tech revolution?",
           "link": "https://www.theguardian.com/books/2026/jul/07/we-are-not-machines-by-sarah-oconnor-review-can-dignity-at-work-survive-the-tech-revolution",
           "date": "Tue, 07 Jul 2026 08:00:34 GMT"
-        },
-        {
-          "title": "Indecent proposal: why social media\u2019s rebrand of surveillance tech normalises harassment and non-consensual filming | Maggie Zhou",
-          "link": "https://www.theguardian.com/commentisfree/2026/jul/07/indecent-proposal-why-social-medias-rebrand-of-surveillance-tech-normalises-harassment-and-non-consensual-filming",
-          "date": "Tue, 07 Jul 2026 03:55:39 GMT"
         }
       ],
       "error": null
@@ -424,6 +424,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Workplaces Have Gotten So Bizarre That People Are Just Sending AI Slop Back and Forth at Each Other",
+          "link": "https://futurism.com/artificial-intelligence/workplaces-bizarre-ai-back-and-forth",
+          "date": "Tue, 07 Jul 2026 11:45:16 -0400"
+        },
+        {
+          "title": "AI \u201cActor\u201d Will \u201cStar\u201d In a New \u201cMovie\u201d",
+          "link": "https://futurism.com/artificial-intelligence/ai-actor-tilly-norwood-movie",
+          "date": "Tue, 07 Jul 2026 09:47:12 -0400"
+        },
+        {
           "title": "Zuckerberg Admits That AI Is Not Working Out the Way He Imagined",
           "link": "https://futurism.com/artificial-intelligence/zuckerberg-admits-ai-not-working-out",
           "date": "Tue, 07 Jul 2026 08:48:46 -0400"
@@ -437,16 +447,6 @@
           "title": "Rich People Can Afford Good Education for Their Kids. They\u2019re Raising Them on AI Slop Anyways.",
           "link": "https://futurism.com/future-society/rich-people-education-ai-slop",
           "date": "Mon, 06 Jul 2026 16:41:43 -0400"
-        },
-        {
-          "title": "Meta\u2019s AI Data Center Caught Infecting Town Water Supply With Deadly Bacteria",
-          "link": "https://futurism.com/health-medicine/meta-ai-data-center-pathogen-bacteria-water",
-          "date": "Mon, 06 Jul 2026 14:45:56 -0400"
-        },
-        {
-          "title": "Startup Exec Boasts About Using AI to Churn Out Sports Content\u201dWithout Human Input\u201d",
-          "link": "https://futurism.com/artificial-intelligence/ai-startup-sports-world-cup-video-slop",
-          "date": "Sun, 05 Jul 2026 06:00:00 -0400"
         }
       ],
       "error": null
@@ -455,6 +455,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone",
+          "link": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/",
+          "date": "Tue, 07 Jul 2026 16:00:00 +0000"
+        },
         {
           "title": "These New Smart Glasses From Solos Come With a Privacy Shield for the Cameras",
           "link": "https://www.wired.com/story/these-new-smart-glasses-from-solos-come-with-a-privacy-shield-for-the-cameras/",
@@ -474,11 +479,6 @@
           "title": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
           "link": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
           "date": "Fri, 03 Jul 2026 16:30:00 +0000"
-        },
-        {
-          "title": "Can Cursor Remain a Platform for OpenAI and Anthropic\u2019s Models Inside SpaceX?",
-          "link": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
-          "date": "Thu, 02 Jul 2026 18:01:20 +0000"
         }
       ],
       "error": null
