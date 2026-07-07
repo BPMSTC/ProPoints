@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-07-07T10:23:06.484531+00:00",
+  "generatedAt": "2026-07-07T13:16:45.289349+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Scientists Gave Mice Cocaine. This Is What It Did to Their Brains",
+          "link": "https://www.404media.co/mice-cocaine-research-addiction-fens-forum/",
+          "date": "Tue, 07 Jul 2026 12:49:05 GMT"
+        },
         {
           "title": "Footage Shows Cop Stalking Woman He Met on a TV Set After Surveilling Her With a License Plate Reader",
           "link": "https://www.404media.co/footage-shows-cop-stalking-woman-he-met-on-a-tv-set-after-surveilling-her-with-a-license-plate-reader/",
@@ -24,11 +29,6 @@
           "title": "Companies Are Throttling Employees\u2019 AI Use Because It\u2019s Too Expensive",
           "link": "https://www.404media.co/companies-are-throttling-employees-ai-use-because-its-too-expensive/",
           "date": "Thu, 02 Jul 2026 10:00:09 GMT"
-        },
-        {
-          "title": "Podcast: The AI Tokenpocalypse Is Here",
-          "link": "https://www.404media.co/podcast-the-ai-tokenpocalypse-is-here/",
-          "date": "Wed, 01 Jul 2026 20:40:59 GMT"
         }
       ],
       "error": null
@@ -290,6 +290,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "ULA's last six Atlas Vs can't launch anything besides Boeing's Starliner",
+          "link": "https://arstechnica.com/space/2026/07/after-a-stellar-career-ulas-atlas-v-rocket-last-act-is-waiting-on-starliner/",
+          "date": "Tue, 07 Jul 2026 11:15:15 +0000"
+        },
+        {
+          "title": "How AI could enable autonomous robot workers in workplaces\u2014and maybe homes",
+          "link": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
+          "date": "Tue, 07 Jul 2026 11:00:18 +0000"
+        },
+        {
           "title": "FCC to end Biden-era rule that forces ISPs to list all their fees",
           "link": "https://arstechnica.com/tech-policy/2026/07/fcc-to-end-biden-era-rule-that-forces-isps-to-list-all-their-fees/",
           "date": "Mon, 06 Jul 2026 21:13:37 +0000"
@@ -303,16 +313,6 @@
           "title": "What is the oldest American object ever launched into space?",
           "link": "https://arstechnica.com/space/2026/07/whats-the-oldest-americana-flown-in-space/",
           "date": "Mon, 06 Jul 2026 19:57:56 +0000"
-        },
-        {
-          "title": "NRC is (sort of) getting rid of \"as low as reasonably achievable\" standard",
-          "link": "https://arstechnica.com/science/2026/07/nuclear-regulatory-commission-plans-really-minor-changes-to-safety-regs/",
-          "date": "Mon, 06 Jul 2026 17:48:45 +0000"
-        },
-        {
-          "title": "Katalyst's satellite rescue mission is now in pursuit of NASA's Swift",
-          "link": "https://arstechnica.com/space/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/",
-          "date": "Mon, 06 Jul 2026 17:14:09 +0000"
         }
       ],
       "error": null
@@ -320,39 +320,28 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "SpaceX burned up 260 of its own satellites in 6 months and this is just routine apparently",
-          "link": "https://www.reddit.com/r/artificial/comments/1upbdoa/spacex_burned_up_260_of_its_own_satellites_in_6/",
-          "date": "2026-07-06T21:49:31+00:00"
-        },
-        {
-          "title": "AI is scaling 3x faster than the internet wave and it\u2019s NOT slowing down",
-          "link": "https://www.reddit.com/r/artificial/comments/1upou8z/ai_is_scaling_3x_faster_than_the_internet_wave/",
-          "date": "2026-07-07T08:21:58+00:00"
-        },
-        {
-          "title": "AI should be private and optional!",
-          "link": "https://www.reddit.com/r/artificial/comments/1uplbps/ai_should_be_private_and_optional/",
-          "date": "2026-07-07T05:07:05+00:00"
-        },
-        {
-          "title": "What do normal people use ai for?",
-          "link": "https://www.reddit.com/r/artificial/comments/1upq8r2/what_do_normal_people_use_ai_for/",
-          "date": "2026-07-07T09:42:53+00:00"
-        },
-        {
-          "title": "Scammers Sell Seeds for Exotic AI-Generated Flowers That Don\u2019t Exist",
-          "link": "https://www.reddit.com/r/artificial/comments/1upfz1n/scammers_sell_seeds_for_exotic_aigenerated/",
-          "date": "2026-07-07T00:54:36+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "When managing your money, take a chatbot\u2019s \u2018confidence\u2019 with a grain of salt",
+          "link": "https://theconversation.com/when-managing-your-money-take-a-chatbots-confidence-with-a-grain-of-salt-286106",
+          "date": "2026-07-07T12:14:03Z"
+        },
+        {
+          "title": "What will AI do for us? Young adults in lower-income countries feel more positive about its potential \u2013 new survey",
+          "link": "https://theconversation.com/what-will-ai-do-for-us-young-adults-in-lower-income-countries-feel-more-positive-about-its-potential-new-survey-286877",
+          "date": "2026-07-07T10:17:27Z"
+        },
+        {
+          "title": "How Shakespeare\u2019s The Tempest can help readers understand the hidden costs of AI",
+          "link": "https://theconversation.com/how-shakespeares-the-tempest-can-help-readers-understand-the-hidden-costs-of-ai-280544",
+          "date": "2026-07-07T09:48:29Z"
+        },
         {
           "title": "If you flirt with an AI companion, does that count as cheating?",
           "link": "https://theconversation.com/if-you-flirt-with-an-ai-companion-does-that-count-as-cheating-284931",
@@ -362,21 +351,6 @@
           "title": "In our deep oceans, evolution is supercharged \u2013 this diversity of life could help unlock humanity\u2019s greatest challenges",
           "link": "https://theconversation.com/in-our-deep-oceans-evolution-is-supercharged-this-diversity-of-life-could-help-unlock-humanitys-greatest-challenges-286818",
           "date": "2026-07-06T13:46:04Z"
-        },
-        {
-          "title": "ABC will trial using AI for journalism. What are the risks and benefits?",
-          "link": "https://theconversation.com/abc-will-trial-using-ai-for-journalism-what-are-the-risks-and-benefits-286841",
-          "date": "2026-07-06T06:44:38Z"
-        },
-        {
-          "title": "Should Australia pause building new data centres? We asked 5 experts",
-          "link": "https://theconversation.com/should-australia-pause-building-new-data-centres-we-asked-5-experts-286547",
-          "date": "2026-07-05T19:36:07Z"
-        },
-        {
-          "title": "How generative AI and physics can help design new antibiotics",
-          "link": "https://theconversation.com/how-generative-ai-and-physics-can-help-design-new-antibiotics-285051",
-          "date": "2026-07-02T16:56:34Z"
         }
       ],
       "error": null
@@ -389,6 +363,11 @@
           "title": "AI models already \u2018doing things their creators never intended\u2019, Australia\u2019s assistant technology minister warns",
           "link": "https://www.theguardian.com/technology/2026/jul/07/ai-models-doing-things-their-creators-never-intended",
           "date": "Tue, 07 Jul 2026 09:36:56 GMT"
+        },
+        {
+          "title": "Big tech\u2019s lofty climate goals wrecked by energy-hungry AI",
+          "link": "https://www.theguardian.com/technology/2026/jul/06/ai-climate-crisis",
+          "date": "Tue, 07 Jul 2026 13:11:17 GMT"
         },
         {
           "title": "Stymied datacentre projects threaten global AI revolution",
@@ -404,11 +383,6 @@
           "title": "Indecent proposal: why social media\u2019s rebrand of surveillance tech normalises harassment and non-consensual filming | Maggie Zhou",
           "link": "https://www.theguardian.com/commentisfree/2026/jul/07/indecent-proposal-why-social-medias-rebrand-of-surveillance-tech-normalises-harassment-and-non-consensual-filming",
           "date": "Tue, 07 Jul 2026 03:55:39 GMT"
-        },
-        {
-          "title": "Scotland could freeze datacentre projects in challenge to UK\u2019s AI strategy",
-          "link": "https://www.theguardian.com/uk-news/2026/jul/07/scotland-could-freeze-datacentre-projects-in-challenge-to-uks-ai-strategy",
-          "date": "Mon, 06 Jul 2026 23:01:23 GMT"
         }
       ],
       "error": null
@@ -450,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Zuckerberg Admits That AI Is Not Working Out the Way He Imagined",
+          "link": "https://futurism.com/artificial-intelligence/zuckerberg-admits-ai-not-working-out",
+          "date": "Tue, 07 Jul 2026 08:48:46 -0400"
+        },
+        {
           "title": "Microsoft\u2019s $7.3 Billion AI Data Center Just Caught a Nasty Lawsuit From Furious Neighbors",
           "link": "https://futurism.com/artificial-intelligence/microsoft-ai-data-center-lawsuit-neighbors",
           "date": "Mon, 06 Jul 2026 17:11:02 -0400"
@@ -468,11 +447,6 @@
           "title": "Startup Exec Boasts About Using AI to Churn Out Sports Content\u201dWithout Human Input\u201d",
           "link": "https://futurism.com/artificial-intelligence/ai-startup-sports-world-cup-video-slop",
           "date": "Sun, 05 Jul 2026 06:00:00 -0400"
-        },
-        {
-          "title": "Surprise! Meta Says Now You Have to Pay a Monthly Subscription to Use Key Features of Your Already Expensive Smart Glasses",
-          "link": "https://futurism.com/artificial-intelligence/meta-monthly-subscription-ai-glasses",
-          "date": "Sat, 04 Jul 2026 13:01:00 -0400"
         }
       ],
       "error": null
@@ -481,6 +455,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "These New Smart Glasses From Solos Come With a Privacy Shield for the Cameras",
+          "link": "https://www.wired.com/story/these-new-smart-glasses-from-solos-come-with-a-privacy-shield-for-the-cameras/",
+          "date": "Tue, 07 Jul 2026 13:00:00 +0000"
+        },
         {
           "title": "Erling Haaland Is Everywhere at the World Cup. Most of It Is AI",
           "link": "https://www.wired.com/story/erling-haaland-is-everywhere-at-the-world-cup-most-of-it-is-ai/",
@@ -500,11 +479,6 @@
           "title": "Can Cursor Remain a Platform for OpenAI and Anthropic\u2019s Models Inside SpaceX?",
           "link": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
           "date": "Thu, 02 Jul 2026 18:01:20 +0000"
-        },
-        {
-          "title": "Meta Is Charging a Subscription for Smart Glasses Features. Welcome to the New Era of Consumer Tech",
-          "link": "https://www.wired.com/story/why-meta-is-charging-a-subscription-for-on-device-smart-glasses-features/",
-          "date": "Thu, 02 Jul 2026 09:30:00 +0000"
         }
       ],
       "error": null
