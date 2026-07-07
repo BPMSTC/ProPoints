@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T02:48:22.134458+00:00",
+  "generatedAt": "2026-07-07T06:43:12.665833+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -360,9 +360,14 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "AI altering meaning of users\u2019 drafts on issues from abortion to climate, study finds",
-          "link": "https://www.theguardian.com/technology/2026/jul/06/ai-altering-meaning-of-users-drafts-on-issues-from-abortion-to-climate-study-finds",
-          "date": "Mon, 06 Jul 2026 11:00:03 GMT"
+          "title": "AI models already \u2018doing things their creators never intended\u2019, Australia\u2019s assistant technology minister warns",
+          "link": "https://www.theguardian.com/technology/2026/jul/07/ai-models-doing-things-their-creators-never-intended",
+          "date": "Tue, 07 Jul 2026 06:08:57 GMT"
+        },
+        {
+          "title": "Indecent proposal: why social media\u2019s rebrand of surveillance tech normalises harassment and non-consensual filming | Maggie Zhou",
+          "link": "https://www.theguardian.com/commentisfree/2026/jul/07/indecent-proposal-why-social-medias-rebrand-of-surveillance-tech-normalises-harassment-and-non-consensual-filming",
+          "date": "Tue, 07 Jul 2026 03:55:39 GMT"
         },
         {
           "title": "Scotland could freeze datacentre projects in challenge to UK\u2019s AI strategy",
@@ -378,11 +383,6 @@
           "title": "Into the spider\u2019s lair: how an Australian film-maker made an impossible documentary with AI",
           "link": "https://www.theguardian.com/film/2026/jul/07/ai-spider-documentary-guardians-of-the-burrow-australia-artificial-intelligence",
           "date": "Mon, 06 Jul 2026 15:00:15 GMT"
-        },
-        {
-          "title": "AI surveillance is being supercharged \u2013 and it will chill social progress | Bruce Schneier and Jon Penney",
-          "link": "https://www.theguardian.com/commentisfree/2026/jul/06/ai-surveillance-policy",
-          "date": "Mon, 06 Jul 2026 12:00:02 GMT"
         }
       ],
       "error": null
