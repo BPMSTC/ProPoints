@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-07-08T11:01:20.684227+00:00",
+  "generatedAt": "2026-07-08T13:56:33.119050+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "'Knockoff' Browser Extension Hides Sketchy Brands on Amazon",
+          "link": "https://www.404media.co/knockoff-browser-extension-hides-sketchy-brands-on-amazon/",
+          "date": "Wed, 08 Jul 2026 12:15:17 GMT"
+        },
+        {
+          "title": "LARPING: How Influencers Fake Being Rich",
+          "link": "https://www.404media.co/larping-how-influencers-fake-being-rich/",
+          "date": "Wed, 08 Jul 2026 11:11:45 GMT"
+        },
         {
           "title": "Cops Say Waymo Snitched on Teens for Allegedly Drinking and Shooting a Toy Gun",
           "link": "https://www.404media.co/waymo-called-police-on-teens-san-mateo/",
@@ -19,16 +29,6 @@
           "title": "Footage Shows Cop Stalking Woman He Met on a TV Set After Surveilling Her With a License Plate Reader",
           "link": "https://www.404media.co/footage-shows-cop-stalking-woman-he-met-on-a-tv-set-after-surveilling-her-with-a-license-plate-reader/",
           "date": "Mon, 06 Jul 2026 10:00:54 GMT"
-        },
-        {
-          "title": "SOLVED: The Case of the Missing Megalodon",
-          "link": "https://www.404media.co/solved-the-case-of-the-missing-megalodon/",
-          "date": "Sat, 04 Jul 2026 10:00:09 GMT"
-        },
-        {
-          "title": "Behind the Blog: With Blogs Like These, Who Needs a Private Jet",
-          "link": "https://www.404media.co/behind-the-blog-with-blogs-like-these-who-needs-a-private-jet/",
-          "date": "Fri, 03 Jul 2026 10:00:02 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Blue Origin, for the first time, is expected to raise private capital",
+          "link": "https://arstechnica.com/space/2026/07/blue-origin-for-the-first-time-is-expected-to-raise-private-capital/",
+          "date": "Wed, 08 Jul 2026 12:47:35 +0000"
+        },
+        {
           "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
           "link": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
           "date": "Wed, 08 Jul 2026 07:00:51 +0000"
@@ -308,11 +313,6 @@
           "title": "Surprisingly large number of people may have marker for tick-linked meat allergy",
           "link": "https://arstechnica.com/health/2026/07/surprisingly-large-number-of-people-may-have-marker-for-tick-linked-meat-allergy/",
           "date": "Tue, 07 Jul 2026 20:32:39 +0000"
-        },
-        {
-          "title": "SCOTUS lets Texas enforce app store law that Big Tech calls \"censorship regime\"",
-          "link": "https://arstechnica.com/tech-policy/2026/07/supreme-court-lets-texas-enforce-age-verification-law-on-app-stores/",
-          "date": "Tue, 07 Jul 2026 20:18:24 +0000"
         }
       ],
       "error": null
@@ -360,6 +360,16 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Can AI equalize political campaign ads \u2013 or will it remain a tool for spreading lies?",
+          "link": "https://www.theguardian.com/technology/2026/jul/08/ai-ads-political-campaigns",
+          "date": "Wed, 08 Jul 2026 13:00:33 GMT"
+        },
+        {
+          "title": "IMF upgrades UK growth forecast as fears over impact of Iran war diminish",
+          "link": "https://www.theguardian.com/business/2026/jul/08/imf-upgrades-uk-growth-forecast-as-fears-over-impact-of-iran-war-diminish",
+          "date": "Wed, 08 Jul 2026 13:00:32 GMT"
+        },
+        {
           "title": "My patients use ChatGPT for therapy. Now I use it too | Sarah Dargouth",
           "link": "https://www.theguardian.com/commentisfree/2026/jul/08/chatgpt-ai-therapy",
           "date": "Wed, 08 Jul 2026 10:00:26 GMT"
@@ -373,16 +383,6 @@
           "title": "The rapid rise of housefishing: are AI-enhanced property listings helpful \u2013 or sinister?",
           "link": "https://www.theguardian.com/lifeandstyle/2026/jul/08/the-rapid-rise-of-housefishing-are-ai-enhanced-property-listings-helpful-or-sinister",
           "date": "Wed, 08 Jul 2026 09:00:25 GMT"
-        },
-        {
-          "title": "\u2018Absolutely bananas\u2019: San Francisco homes sell for $1m above asking price amid AI boom",
-          "link": "https://www.theguardian.com/us-news/2026/jul/07/san-francisco-home-sale-prices-ai",
-          "date": "Tue, 07 Jul 2026 22:33:58 GMT"
-        },
-        {
-          "title": "Curry, bagels \u2026 and AI? Londoners fight plan for huge datacentre in Brick Lane",
-          "link": "https://www.theguardian.com/uk-news/2026/jul/07/london-campaign-planned-ai-datacentre-brick-lane",
-          "date": "Tue, 07 Jul 2026 14:00:02 GMT"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Scientists Identify Most Degenerate Known ChatGPT User",
+          "link": "https://futurism.com/artificial-intelligence/scientists-degenerate-chatgpt-user",
+          "date": "Wed, 08 Jul 2026 08:45:46 -0400"
+        },
+        {
           "title": "Anthropic Caught Secretly Spying on Users",
           "link": "https://futurism.com/artificial-intelligence/anthropic-caught-secretly-spying-on-users",
           "date": "Tue, 07 Jul 2026 16:42:22 -0400"
@@ -442,11 +447,6 @@
           "title": "Experts Say There\u2019s Now an Open Source AI Model as Scary as Mythos",
           "link": "https://futurism.com/artificial-intelligence/open-source-ai-model-scary-mythos",
           "date": "Tue, 07 Jul 2026 13:12:00 -0400"
-        },
-        {
-          "title": "Workplaces Have Gotten So Bizarre That People Are Just Sending AI Slop Back and Forth at Each Other",
-          "link": "https://futurism.com/artificial-intelligence/workplaces-bizarre-ai-back-and-forth",
-          "date": "Tue, 07 Jul 2026 11:45:16 -0400"
         }
       ],
       "error": null
@@ -455,6 +455,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Pickup Artist Mystery Has an AI Girlfriend",
+          "link": "https://www.wired.com/story/pickup-artist-mystery-has-an-ai-girlfriend/",
+          "date": "Wed, 08 Jul 2026 11:00:00 +0000"
+        },
         {
           "title": "This Former DeepMind Exec Thinks the AI Arms Race Could End in Disaster",
           "link": "https://www.wired.com/story/verity-harding-ai-arms-race-dangers-anthology/",
@@ -474,11 +479,6 @@
           "title": "Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone",
           "link": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/",
           "date": "Tue, 07 Jul 2026 16:00:00 +0000"
-        },
-        {
-          "title": "These New Smart Glasses From Solos Come With a Privacy Shield for the Cameras",
-          "link": "https://www.wired.com/story/these-new-smart-glasses-from-solos-come-with-a-privacy-shield-for-the-cameras/",
-          "date": "Tue, 07 Jul 2026 13:00:00 +0000"
         }
       ],
       "error": null
