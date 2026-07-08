@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T02:25:55.659131+00:00",
+  "generatedAt": "2026-07-08T05:47:55.360536+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
