@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T23:55:06.361840+00:00",
+  "generatedAt": "2026-07-08T02:25:55.659131+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -320,33 +320,7 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "Air Force Engineer Accused of Cutting Down Flock AI Surveillance Cameras, Says U.S. is Becoming Police State",
-          "link": "https://www.reddit.com/r/artificial/comments/1uq91lr/air_force_engineer_accused_of_cutting_down_flock/",
-          "date": "2026-07-07T21:42:15+00:00"
-        },
-        {
-          "title": "AI can\u2019t simulate human preferences - new study tests LLMs against thousands of real users",
-          "link": "https://www.reddit.com/r/artificial/comments/1uq52r8/ai_cant_simulate_human_preferences_new_study/",
-          "date": "2026-07-07T19:19:44+00:00"
-        },
-        {
-          "title": "LinkedIn's behavioral scoring system and what it means for anyone building AI automations on the platform",
-          "link": "https://www.reddit.com/r/artificial/comments/1uq718e/linkedins_behavioral_scoring_system_and_what_it/",
-          "date": "2026-07-07T20:28:12+00:00"
-        },
-        {
-          "title": "AI is scaling 3x faster than the internet wave and it\u2019s NOT slowing down",
-          "link": "https://www.reddit.com/r/artificial/comments/1upou8z/ai_is_scaling_3x_faster_than_the_internet_wave/",
-          "date": "2026-07-07T08:21:58+00:00"
-        },
-        {
-          "title": "AI should be private and optional!",
-          "link": "https://www.reddit.com/r/artificial/comments/1uplbps/ai_should_be_private_and_optional/",
-          "date": "2026-07-07T05:07:05+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
