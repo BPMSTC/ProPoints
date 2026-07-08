@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T08:22:39.029606+00:00",
+  "generatedAt": "2026-07-08T11:01:20.684227+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "Your AI Workforce Is Already Running. Can You Prove What It's Producing?",
+          "link": "https://www.aiacceleratorinstitute.com/prove-what-your-workforce-is-producing/",
+          "date": "Wed, 08 Jul 2026 09:11:21 GMT"
+        },
+        {
           "title": "Q&A: How Headroom went from  side project to enterprise infrastructure.",
           "link": "https://www.aiacceleratorinstitute.com/q-a-how-headroom-went-from-side-project-to-enterprise-infrastructure/",
           "date": "Tue, 07 Jul 2026 10:00:25 GMT"
@@ -88,11 +93,6 @@
           "title": "How to control AI agents  before they control you",
           "link": "https://www.aiacceleratorinstitute.com/how-to-control-ai-agents-before-they-control-you-2/",
           "date": "Fri, 03 Jul 2026 15:00:53 GMT"
-        },
-        {
-          "title": "The age of AI evangelism is over.  Welcome to the evaluation era.",
-          "link": "https://www.aiacceleratorinstitute.com/the-age-of-ai-evangelism-is-over-welcome-to-the-evaluation-era/",
-          "date": "Thu, 02 Jul 2026 10:55:07 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -360,9 +360,19 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "AI models already \u2018doing things their creators never intended\u2019, Australia\u2019s assistant technology minister warns",
-          "link": "https://www.theguardian.com/technology/2026/jul/07/ai-models-doing-things-their-creators-never-intended",
-          "date": "Tue, 07 Jul 2026 09:36:56 GMT"
+          "title": "My patients use ChatGPT for therapy. Now I use it too | Sarah Dargouth",
+          "link": "https://www.theguardian.com/commentisfree/2026/jul/08/chatgpt-ai-therapy",
+          "date": "Wed, 08 Jul 2026 10:00:26 GMT"
+        },
+        {
+          "title": "Women and university graduates in Australia most at risk of losing jobs to AI, report finds",
+          "link": "https://www.theguardian.com/australia-news/2026/jul/08/women-and-university-graduates-most-at-risk-ai-job-loss-australia-report",
+          "date": "Wed, 08 Jul 2026 09:43:03 GMT"
+        },
+        {
+          "title": "The rapid rise of housefishing: are AI-enhanced property listings helpful \u2013 or sinister?",
+          "link": "https://www.theguardian.com/lifeandstyle/2026/jul/08/the-rapid-rise-of-housefishing-are-ai-enhanced-property-listings-helpful-or-sinister",
+          "date": "Wed, 08 Jul 2026 09:00:25 GMT"
         },
         {
           "title": "\u2018Absolutely bananas\u2019: San Francisco homes sell for $1m above asking price amid AI boom",
@@ -373,16 +383,6 @@
           "title": "Curry, bagels \u2026 and AI? Londoners fight plan for huge datacentre in Brick Lane",
           "link": "https://www.theguardian.com/uk-news/2026/jul/07/london-campaign-planned-ai-datacentre-brick-lane",
           "date": "Tue, 07 Jul 2026 14:00:02 GMT"
-        },
-        {
-          "title": "Big tech\u2019s lofty climate goals wrecked by energy-hungry AI",
-          "link": "https://www.theguardian.com/technology/2026/jul/06/ai-climate-crisis",
-          "date": "Tue, 07 Jul 2026 13:11:17 GMT"
-        },
-        {
-          "title": "Stymied datacentre projects threaten global AI revolution",
-          "link": "https://www.theguardian.com/technology/2026/jul/07/stymied-datacentre-projects-threaten-global-ai-revolution",
-          "date": "Tue, 07 Jul 2026 09:00:35 GMT"
         }
       ],
       "error": null
@@ -456,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "This Former DeepMind Exec Thinks the AI Arms Race Could End in Disaster",
+          "link": "https://www.wired.com/story/verity-harding-ai-arms-race-dangers-anthology/",
+          "date": "Wed, 08 Jul 2026 09:30:00 +0000"
+        },
+        {
           "title": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images\u2014Unless You Opt Out",
           "link": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/",
           "date": "Tue, 07 Jul 2026 21:59:29 +0000"
@@ -474,11 +479,6 @@
           "title": "These New Smart Glasses From Solos Come With a Privacy Shield for the Cameras",
           "link": "https://www.wired.com/story/these-new-smart-glasses-from-solos-come-with-a-privacy-shield-for-the-cameras/",
           "date": "Tue, 07 Jul 2026 13:00:00 +0000"
-        },
-        {
-          "title": "Erling Haaland Is Everywhere at the World Cup. Most of It Is AI",
-          "link": "https://www.wired.com/story/erling-haaland-is-everywhere-at-the-world-cup-most-of-it-is-ai/",
-          "date": "Tue, 07 Jul 2026 10:00:00 +0000"
         }
       ],
       "error": null
