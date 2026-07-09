@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T19:40:42.816229+00:00",
+  "generatedAt": "2026-07-09T21:20:11.354751+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Patch for Windows Defender 0-day could allow attackers to fill hard disk",
+          "link": "https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/",
+          "date": "Thu, 09 Jul 2026 20:52:55 +0000"
+        },
+        {
+          "title": "Allstate accuses Broadcom of auditing it because it quit VMware, CA",
+          "link": "https://arstechnica.com/information-technology/2026/07/allstate-accuses-broadcom-of-auditing-it-because-it-quit-vmware-ca/",
+          "date": "Thu, 09 Jul 2026 20:28:55 +0000"
+        },
+        {
+          "title": "Humanoid robots controlled by surgeons did world-first operation on live pigs",
+          "link": "https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/",
+          "date": "Thu, 09 Jul 2026 20:12:03 +0000"
+        },
+        {
           "title": "Judge doesn't like Elon Musk settlement with SEC, but says court can't block it",
           "link": "https://arstechnica.com/tech-policy/2026/07/judge-doesnt-like-elon-musk-settlement-with-sec-but-says-court-cant-block-it/",
           "date": "Thu, 09 Jul 2026 19:10:33 +0000"
@@ -298,21 +313,6 @@
           "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
           "link": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
           "date": "Thu, 09 Jul 2026 18:57:53 +0000"
-        },
-        {
-          "title": "Surprised doctors find 10-inch worm in man's groin during elective surgery",
-          "link": "https://arstechnica.com/health/2026/07/surprised-doctors-find-10-inch-worm-in-mans-groin-during-elective-surgery/",
-          "date": "Thu, 09 Jul 2026 15:33:41 +0000"
-        },
-        {
-          "title": "Conspiracies and regrets abound in Dune: Part Three trailer",
-          "link": "https://arstechnica.com/culture/2026/07/conspiracies-and-regrets-abound-in-dune-part-three-trailer/",
-          "date": "Thu, 09 Jul 2026 14:45:44 +0000"
-        },
-        {
-          "title": "Ruf debuts new flat-eight engine at Goodwood",
-          "link": "https://arstechnica.com/cars/2026/07/ruf-debuts-new-flat-eight-engine-at-goodwood/",
-          "date": "Thu, 09 Jul 2026 14:32:48 +0000"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Someone Reportedly Mailed a Live Squirrel to Meta, Where It Sent an Employee to the Hospital",
+          "link": "https://futurism.com/artificial-intelligence/meta-squirrel-attack",
+          "date": "Thu, 09 Jul 2026 16:53:05 -0400"
+        },
+        {
           "title": "The Pollution Being Churned Out by AI Data Centers Is So Severe That It\u2019s Almost Incomprehensible",
           "link": "https://futurism.com/artificial-intelligence/pollution-ai-data-centers-severe",
           "date": "Thu, 09 Jul 2026 14:51:09 -0400"
@@ -442,11 +447,6 @@
           "title": "Scientists Identify Most Degenerate Known ChatGPT User",
           "link": "https://futurism.com/artificial-intelligence/scientists-degenerate-chatgpt-user",
           "date": "Wed, 08 Jul 2026 08:45:46 -0400"
-        },
-        {
-          "title": "Anthropic Caught Secretly Spying on Users",
-          "link": "https://futurism.com/artificial-intelligence/anthropic-caught-secretly-spying-on-users",
-          "date": "Tue, 07 Jul 2026 16:42:22 -0400"
         }
       ],
       "error": null
