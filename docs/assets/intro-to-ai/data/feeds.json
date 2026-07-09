@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-07-09T21:20:11.354751+00:00",
+  "generatedAt": "2026-07-09T23:08:22.671499+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Patreon Blocks Crawlers From Stealing Creators' Work for AI Training",
+          "link": "https://www.404media.co/patreon-cloudflare-partnership-ai-crawlers/",
+          "date": "Thu, 09 Jul 2026 21:54:58 GMT"
+        },
         {
           "title": "Farmers Finally Get a John Deere Right to Repair Agreement That Doesn\u2019t Screw Them Over",
           "link": "https://www.404media.co/farmers-finally-get-a-john-deere-right-to-repair-agreement-that-doesnt-screw-them-over/",
@@ -24,11 +29,6 @@
           "title": "Porn Platform Gives Sex Workers Stake in the Company's Profits",
           "link": "https://www.404media.co/mintstars-founder-giving-shares-to-creators/",
           "date": "Wed, 08 Jul 2026 15:51:42 GMT"
-        },
-        {
-          "title": "We Are Living in a \u2018ChatGPT Flyer Pandemic\u2019",
-          "link": "https://www.404media.co/we-are-living-in-a-chatgpt-flyer-pandemic/",
-          "date": "Wed, 08 Jul 2026 14:05:42 GMT"
         }
       ],
       "error": null
@@ -290,6 +290,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Flores Hobbits' eating habits offer clues about their evolutionary past",
+          "link": "https://arstechnica.com/science/2026/07/flores-hobbits-scavenged-komodo-dragons-elephant-kills-study-suggests/",
+          "date": "Thu, 09 Jul 2026 22:29:10 +0000"
+        },
+        {
+          "title": "Michigan's explosive outbreak of diarrheal parasite jumps to over 1,200 cases",
+          "link": "https://arstechnica.com/health/2026/07/michigans-explosive-outbreak-of-diarrheal-parasite-jumps-to-over-1200-cases/",
+          "date": "Thu, 09 Jul 2026 21:56:44 +0000"
+        },
+        {
+          "title": "OpenAI wants its new tool to do your work for you and with you",
+          "link": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
+          "date": "Thu, 09 Jul 2026 21:25:55 +0000"
+        },
+        {
           "title": "Patch for Windows Defender 0-day could allow attackers to fill hard disk",
           "link": "https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/",
           "date": "Thu, 09 Jul 2026 20:52:55 +0000"
@@ -298,21 +313,6 @@
           "title": "Allstate accuses Broadcom of auditing it because it quit VMware, CA",
           "link": "https://arstechnica.com/information-technology/2026/07/allstate-accuses-broadcom-of-auditing-it-because-it-quit-vmware-ca/",
           "date": "Thu, 09 Jul 2026 20:28:55 +0000"
-        },
-        {
-          "title": "Humanoid robots controlled by surgeons did world-first operation on live pigs",
-          "link": "https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/",
-          "date": "Thu, 09 Jul 2026 20:12:03 +0000"
-        },
-        {
-          "title": "Judge doesn't like Elon Musk settlement with SEC, but says court can't block it",
-          "link": "https://arstechnica.com/tech-policy/2026/07/judge-doesnt-like-elon-musk-settlement-with-sec-but-says-court-cant-block-it/",
-          "date": "Thu, 09 Jul 2026 19:10:33 +0000"
-        },
-        {
-          "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
-          "link": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
-          "date": "Thu, 09 Jul 2026 18:57:53 +0000"
         }
       ],
       "error": null
@@ -360,6 +360,16 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "SpaceX and AI startup wealth fuels demand for private jets",
+          "link": "https://www.theguardian.com/us-news/2026/jul/09/private-jets-ai-ipo-super-rich",
+          "date": "Thu, 09 Jul 2026 22:50:03 GMT"
+        },
+        {
+          "title": "Instagram\u2019s AI image generator alarms privacy experts",
+          "link": "https://www.theguardian.com/technology/2026/jul/09/instagram-ai-image-generator-privacy",
+          "date": "Thu, 09 Jul 2026 22:15:29 GMT"
+        },
+        {
           "title": "OpenAI releases latest ChatGPT model after delay over White House cybersecurity concerns",
           "link": "https://www.theguardian.com/technology/2026/jul/09/trump-administration-openai-chatgpt-cybersecurity",
           "date": "Thu, 09 Jul 2026 18:48:23 GMT"
@@ -373,16 +383,6 @@
           "title": "The fight against AI data centers is important \u2013 but it\u2019s just a starting point | Bruce Schneier and Nathan E Sanders",
           "link": "https://www.theguardian.com/commentisfree/2026/jul/09/ai-datacenter-company-politics",
           "date": "Thu, 09 Jul 2026 15:00:54 GMT"
-        },
-        {
-          "title": "Datacentres are a ticking timebomb. We must make sure AI\u2019s benefits outweigh the costs | Nicki Hutley",
-          "link": "https://www.theguardian.com/commentisfree/2026/jul/09/ai-artificial-intelligence-benefits-costs-datacentres-energy-water-environment",
-          "date": "Wed, 08 Jul 2026 15:00:36 GMT"
-        },
-        {
-          "title": "Wyoming tightens wastewater rules after Meta datacenter contractor flushed contaminated water",
-          "link": "https://www.theguardian.com/us-news/2026/jul/08/meta-datacenter-ai-wyoming-water",
-          "date": "Wed, 08 Jul 2026 14:08:00 GMT"
         }
       ],
       "error": null
