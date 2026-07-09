@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T17:20:51.113350+00:00",
+  "generatedAt": "2026-07-09T19:40:42.816229+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,16 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "IBM Extends Bob AI Platform With Array of New Features",
+          "link": "https://aibusiness.com/agentic-ai/ibm-extends-bob-ai-platform-array-new-features",
+          "date": "Thu, 09 Jul 2026 17:53:25 GMT"
+        },
+        {
+          "title": "Grok 4.5 Is SpaceXAI\u2019s First Real Entry Into the Enterprise",
+          "link": "https://aibusiness.com/agentic-ai/grok-4-5-spacexai-s-first-real-entry-into-enterprise",
+          "date": "Thu, 09 Jul 2026 17:20:28 GMT"
+        },
+        {
           "title": "Meta\u2019s Muse Image Might be Just What SMBs Need",
           "link": "https://aibusiness.com/generative-ai/meta-s-muse-image-might-what-smbs-need",
           "date": "Wed, 08 Jul 2026 22:47:14 GMT"
@@ -127,16 +137,6 @@
           "title": "You Will Soon Use Claude Cowork on Your Phone",
           "link": "https://aibusiness.com/agentic-ai/you-will-soon-use-claude-cowork-your-phone",
           "date": "Wed, 08 Jul 2026 15:20:51 GMT"
-        },
-        {
-          "title": "Legal AI Company Now Valued at $1.2 Billion",
-          "link": "https://aibusiness.com/generative-ai/legal-ai-company-valued-1-2-billion",
-          "date": "Wed, 08 Jul 2026 14:08:54 GMT"
-        },
-        {
-          "title": "Self-Driving Company Gets Funding and Chips From AMD",
-          "link": "https://aibusiness.com/generative-ai/self-driving-company-funding-chips-from-amd",
-          "date": "Tue, 07 Jul 2026 14:02:34 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Judge doesn't like Elon Musk settlement with SEC, but says court can't block it",
+          "link": "https://arstechnica.com/tech-policy/2026/07/judge-doesnt-like-elon-musk-settlement-with-sec-but-says-court-cant-block-it/",
+          "date": "Thu, 09 Jul 2026 19:10:33 +0000"
+        },
+        {
+          "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
+          "link": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
+          "date": "Thu, 09 Jul 2026 18:57:53 +0000"
+        },
+        {
+          "title": "Surprised doctors find 10-inch worm in man's groin during elective surgery",
+          "link": "https://arstechnica.com/health/2026/07/surprised-doctors-find-10-inch-worm-in-mans-groin-during-elective-surgery/",
+          "date": "Thu, 09 Jul 2026 15:33:41 +0000"
+        },
+        {
           "title": "Conspiracies and regrets abound in Dune: Part Three trailer",
           "link": "https://arstechnica.com/culture/2026/07/conspiracies-and-regrets-abound-in-dune-part-three-trailer/",
           "date": "Thu, 09 Jul 2026 14:45:44 +0000"
@@ -298,21 +313,6 @@
           "title": "Ruf debuts new flat-eight engine at Goodwood",
           "link": "https://arstechnica.com/cars/2026/07/ruf-debuts-new-flat-eight-engine-at-goodwood/",
           "date": "Thu, 09 Jul 2026 14:32:48 +0000"
-        },
-        {
-          "title": "Free Waymo rides in California? You can thank a regulatory quirk.",
-          "link": "https://arstechnica.com/cars/2026/07/free-waymo-rides-in-california-you-can-thank-a-regulatory-quirk/",
-          "date": "Thu, 09 Jul 2026 13:31:00 +0000"
-        },
-        {
-          "title": "The newest entrant in the military\u2019s launch competition isn't actually a launch company",
-          "link": "https://arstechnica.com/space/2026/07/the-newest-entrant-in-the-militarys-launch-competition-isnt-actually-a-launch-company/",
-          "date": "Thu, 09 Jul 2026 13:08:27 +0000"
-        },
-        {
-          "title": "Payloads used to dictate the terms of launch. That's finally changing.",
-          "link": "https://arstechnica.com/space/2026/07/rocket-developers-used-to-chase-satellite-trends-is-the-inverse-now-true/",
-          "date": "Thu, 09 Jul 2026 11:00:26 +0000"
         }
       ],
       "error": null
@@ -360,6 +360,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "OpenAI releases latest ChatGPT model after delay over White House cybersecurity concerns",
+          "link": "https://www.theguardian.com/technology/2026/jul/09/trump-administration-openai-chatgpt-cybersecurity",
+          "date": "Thu, 09 Jul 2026 18:48:23 GMT"
+        },
+        {
           "title": "We don\u2019t need AI videos of fake animals. There are real ones out there and they\u2019re really cute | Rebecca Shaw",
           "link": "https://www.theguardian.com/commentisfree/2026/jul/10/ai-videos-fake-animals-real-ones-are-cute",
           "date": "Thu, 09 Jul 2026 15:00:55 GMT"
@@ -378,11 +383,6 @@
           "title": "Wyoming tightens wastewater rules after Meta datacenter contractor flushed contaminated water",
           "link": "https://www.theguardian.com/us-news/2026/jul/08/meta-datacenter-ai-wyoming-water",
           "date": "Wed, 08 Jul 2026 14:08:00 GMT"
-        },
-        {
-          "title": "Can AI equalize political campaign ads \u2013 or will it remain a tool for spreading lies?",
-          "link": "https://www.theguardian.com/technology/2026/jul/08/ai-ads-political-campaigns",
-          "date": "Wed, 08 Jul 2026 13:00:33 GMT"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "The Pollution Being Churned Out by AI Data Centers Is So Severe That It\u2019s Almost Incomprehensible",
+          "link": "https://futurism.com/artificial-intelligence/pollution-ai-data-centers-severe",
+          "date": "Thu, 09 Jul 2026 14:51:09 -0400"
+        },
+        {
           "title": "American Tech Companies Are Suddenly Sweating Bullets as China Catches Up on AI",
           "link": "https://futurism.com/artificial-intelligence/us-ai-companies-sweating-china",
           "date": "Thu, 09 Jul 2026 09:50:26 -0400"
@@ -442,11 +447,6 @@
           "title": "Anthropic Caught Secretly Spying on Users",
           "link": "https://futurism.com/artificial-intelligence/anthropic-caught-secretly-spying-on-users",
           "date": "Tue, 07 Jul 2026 16:42:22 -0400"
-        },
-        {
-          "title": "Tripadvisor\u2019s AI Is Telling Vacationers That Gruesome Horror Grottos Are Wonderful Holiday Retreats",
-          "link": "https://futurism.com/artificial-intelligence/ai-whitewashing-bad-reviews-holiday-resorts",
-          "date": "Tue, 07 Jul 2026 14:43:28 -0400"
         }
       ],
       "error": null
@@ -456,9 +456,19 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
+          "link": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
+          "date": "Thu, 09 Jul 2026 18:30:00 +0000"
+        },
+        {
           "title": "The 1X Neo Robot Has Freaky Fast Fingers",
           "link": "https://www.wired.com/story/the-1x-neo-robot-has-freaky-fast-fingers/",
           "date": "Thu, 09 Jul 2026 16:01:22 +0000"
+        },
+        {
+          "title": "The $28 Million Mistake That Inspired Estonia\u2019s AI \u2018Fuckup Finder\u2019",
+          "link": "https://www.wired.com/story/the-28-million-dollar-mistake-that-inspired-estonias-ai-fuckup-finder/",
+          "date": "Thu, 09 Jul 2026 10:01:30 +0000"
         },
         {
           "title": "Messi and Ronaldo Are Building Tech Portfolios. Mo Salah Is Playing a Different Game",
@@ -469,16 +479,6 @@
           "title": "I Built a Self-Improving AI, and So Can You",
           "link": "https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai/",
           "date": "Wed, 08 Jul 2026 20:09:21 +0000"
-        },
-        {
-          "title": "Pickup Artist Mystery Has an AI Girlfriend",
-          "link": "https://www.wired.com/story/pickup-artist-mystery-has-an-ai-girlfriend/",
-          "date": "Wed, 08 Jul 2026 11:00:00 +0000"
-        },
-        {
-          "title": "This Former DeepMind Exec Thinks the AI Arms Race Could End in Disaster",
-          "link": "https://www.wired.com/story/verity-harding-ai-arms-race-dangers-anthology/",
-          "date": "Wed, 08 Jul 2026 09:30:00 +0000"
         }
       ],
       "error": null
