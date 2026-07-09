@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T14:51:22.130231+00:00",
+  "generatedAt": "2026-07-09T17:20:51.113350+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Conspiracies and regrets abound in Dune: Part Three trailer",
+          "link": "https://arstechnica.com/culture/2026/07/conspiracies-and-regrets-abound-in-dune-part-three-trailer/",
+          "date": "Thu, 09 Jul 2026 14:45:44 +0000"
+        },
+        {
+          "title": "Ruf debuts new flat-eight engine at Goodwood",
+          "link": "https://arstechnica.com/cars/2026/07/ruf-debuts-new-flat-eight-engine-at-goodwood/",
+          "date": "Thu, 09 Jul 2026 14:32:48 +0000"
+        },
+        {
           "title": "Free Waymo rides in California? You can thank a regulatory quirk.",
           "link": "https://arstechnica.com/cars/2026/07/free-waymo-rides-in-california-you-can-thank-a-regulatory-quirk/",
           "date": "Thu, 09 Jul 2026 13:31:00 +0000"
@@ -303,16 +313,6 @@
           "title": "Payloads used to dictate the terms of launch. That's finally changing.",
           "link": "https://arstechnica.com/space/2026/07/rocket-developers-used-to-chase-satellite-trends-is-the-inverse-now-true/",
           "date": "Thu, 09 Jul 2026 11:00:26 +0000"
-        },
-        {
-          "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
-          "link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
-          "date": "Wed, 08 Jul 2026 21:42:44 +0000"
-        },
-        {
-          "title": "Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot himself",
-          "link": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/",
-          "date": "Wed, 08 Jul 2026 19:56:37 +0000"
         }
       ],
       "error": null
@@ -327,6 +327,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Is recursive self\u2011improvement the dawning of AI superintelligence?",
+          "link": "https://theconversation.com/is-recursive-self-improvement-the-dawning-of-ai-superintelligence-287081",
+          "date": "2026-07-09T14:50:19Z"
+        },
         {
           "title": "Why Colorado replaced its AI discrimination law with a transparency requirement that the feds might challenge anyway",
           "link": "https://theconversation.com/why-colorado-replaced-its-ai-discrimination-law-with-a-transparency-requirement-that-the-feds-might-challenge-anyway-286517",
@@ -346,11 +351,6 @@
           "title": "AI can\u2019t replace mental health therapists. But here\u2019s where it might make a difference",
           "link": "https://theconversation.com/ai-cant-replace-mental-health-therapists-but-heres-where-it-might-make-a-difference-285948",
           "date": "2026-07-09T01:24:50Z"
-        },
-        {
-          "title": "How AI and digital data shape our understanding of migration",
-          "link": "https://theconversation.com/how-ai-and-digital-data-shape-our-understanding-of-migration-284932",
-          "date": "2026-07-08T15:10:09Z"
         }
       ],
       "error": null
@@ -359,6 +359,16 @@
       "name": "Artificial intelligence (AI) | The Guardian",
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
+        {
+          "title": "We don\u2019t need AI videos of fake animals. There are real ones out there and they\u2019re really cute | Rebecca Shaw",
+          "link": "https://www.theguardian.com/commentisfree/2026/jul/10/ai-videos-fake-animals-real-ones-are-cute",
+          "date": "Thu, 09 Jul 2026 15:00:55 GMT"
+        },
+        {
+          "title": "The fight against AI data centers is important \u2013 but it\u2019s just a starting point | Bruce Schneier and Nathan E Sanders",
+          "link": "https://www.theguardian.com/commentisfree/2026/jul/09/ai-datacenter-company-politics",
+          "date": "Thu, 09 Jul 2026 15:00:54 GMT"
+        },
         {
           "title": "Datacentres are a ticking timebomb. We must make sure AI\u2019s benefits outweigh the costs | Nicki Hutley",
           "link": "https://www.theguardian.com/commentisfree/2026/jul/09/ai-artificial-intelligence-benefits-costs-datacentres-energy-water-environment",
@@ -373,16 +383,6 @@
           "title": "Can AI equalize political campaign ads \u2013 or will it remain a tool for spreading lies?",
           "link": "https://www.theguardian.com/technology/2026/jul/08/ai-ads-political-campaigns",
           "date": "Wed, 08 Jul 2026 13:00:33 GMT"
-        },
-        {
-          "title": "IMF upgrades UK growth forecast as fears over impact of Iran war diminish",
-          "link": "https://www.theguardian.com/business/2026/jul/08/imf-upgrades-uk-growth-forecast-as-fears-over-impact-of-iran-war-diminish",
-          "date": "Wed, 08 Jul 2026 13:00:32 GMT"
-        },
-        {
-          "title": "My patients use ChatGPT for therapy. Now I use it too | Sarah Dargouth",
-          "link": "https://www.theguardian.com/commentisfree/2026/jul/08/chatgpt-ai-therapy",
-          "date": "Wed, 08 Jul 2026 10:00:26 GMT"
         }
       ],
       "error": null
@@ -456,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "The 1X Neo Robot Has Freaky Fast Fingers",
+          "link": "https://www.wired.com/story/the-1x-neo-robot-has-freaky-fast-fingers/",
+          "date": "Thu, 09 Jul 2026 16:01:22 +0000"
+        },
+        {
           "title": "Messi and Ronaldo Are Building Tech Portfolios. Mo Salah Is Playing a Different Game",
           "link": "https://www.wired.com/story/messi-ronaldo-tech-portfolios-salah-playing-a-different-game/",
           "date": "Wed, 08 Jul 2026 21:08:26 +0000"
@@ -474,11 +479,6 @@
           "title": "This Former DeepMind Exec Thinks the AI Arms Race Could End in Disaster",
           "link": "https://www.wired.com/story/verity-harding-ai-arms-race-dangers-anthology/",
           "date": "Wed, 08 Jul 2026 09:30:00 +0000"
-        },
-        {
-          "title": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images\u2014Unless You Opt Out",
-          "link": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/",
-          "date": "Tue, 07 Jul 2026 21:59:29 +0000"
         }
       ],
       "error": null
