@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-07-09T11:54:10.753898+00:00",
+  "generatedAt": "2026-07-09T14:51:22.130231+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Farmers Finally Get a John Deere Right to Repair Agreement That Doesn\u2019t Screw Them Over",
+          "link": "https://www.404media.co/farmers-finally-get-a-john-deere-right-to-repair-agreement-that-doesnt-screw-them-over/",
+          "date": "Thu, 09 Jul 2026 14:09:23 GMT"
+        },
+        {
+          "title": "LinkedIn and X Are Flooded With AI Spam, Browsing Data Suggests",
+          "link": "https://www.404media.co/linkedin-and-x-are-flooded-with-ai-spam-browsing-data-suggests/",
+          "date": "Thu, 09 Jul 2026 13:22:11 GMT"
+        },
         {
           "title": "Meta Patents AI Device That Tracks Your Emotions, Watches You Take Your Meds",
           "link": "https://www.404media.co/meta-patents-ai-device-that-tracks-your-emotions-watches-you-take-your-meds/",
@@ -19,16 +29,6 @@
           "title": "We Are Living in a \u2018ChatGPT Flyer Pandemic\u2019",
           "link": "https://www.404media.co/we-are-living-in-a-chatgpt-flyer-pandemic/",
           "date": "Wed, 08 Jul 2026 14:05:42 GMT"
-        },
-        {
-          "title": "'Knockoff' Browser Extension Hides Sketchy Brands on Amazon",
-          "link": "https://www.404media.co/knockoff-browser-extension-hides-sketchy-brands-on-amazon/",
-          "date": "Wed, 08 Jul 2026 12:15:17 GMT"
-        },
-        {
-          "title": "LARPING: How Influencers Fake Being Rich",
-          "link": "https://www.404media.co/larping-how-influencers-fake-being-rich/",
-          "date": "Wed, 08 Jul 2026 11:11:45 GMT"
         }
       ],
       "error": null
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "New York's AI scene:  The 25 companies you need to know",
+          "link": "https://www.aiacceleratorinstitute.com/new-yorks-ai-scene-the-25-companies-you-need-to-know/",
+          "date": "Thu, 09 Jul 2026 13:00:44 GMT"
+        },
+        {
           "title": "Your AI Workforce Is Already Running. Can You Prove What It's Producing?",
           "link": "https://www.aiacceleratorinstitute.com/prove-what-your-workforce-is-producing/",
           "date": "Wed, 08 Jul 2026 09:11:21 GMT"
@@ -88,11 +93,6 @@
           "title": "Thanks for registering",
           "link": "https://www.aiacceleratorinstitute.com/thanks-for-registering-3/",
           "date": "Mon, 06 Jul 2026 14:26:08 GMT"
-        },
-        {
-          "title": "How to control AI agents  before they control you",
-          "link": "https://www.aiacceleratorinstitute.com/how-to-control-ai-agents-before-they-control-you-2/",
-          "date": "Fri, 03 Jul 2026 15:00:53 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Free Waymo rides in California? You can thank a regulatory quirk.",
+          "link": "https://arstechnica.com/cars/2026/07/free-waymo-rides-in-california-you-can-thank-a-regulatory-quirk/",
+          "date": "Thu, 09 Jul 2026 13:31:00 +0000"
+        },
+        {
+          "title": "The newest entrant in the military\u2019s launch competition isn't actually a launch company",
+          "link": "https://arstechnica.com/space/2026/07/the-newest-entrant-in-the-militarys-launch-competition-isnt-actually-a-launch-company/",
+          "date": "Thu, 09 Jul 2026 13:08:27 +0000"
+        },
+        {
           "title": "Payloads used to dictate the terms of launch. That's finally changing.",
           "link": "https://arstechnica.com/space/2026/07/rocket-developers-used-to-chase-satellite-trends-is-the-inverse-now-true/",
           "date": "Thu, 09 Jul 2026 11:00:26 +0000"
@@ -303,16 +313,6 @@
           "title": "Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot himself",
           "link": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/",
           "date": "Wed, 08 Jul 2026 19:56:37 +0000"
-        },
-        {
-          "title": "Judge rejects Kalshi attempt to override New York state gambling laws",
-          "link": "https://arstechnica.com/tech-policy/2026/07/new-york-can-restrict-sports-gambling-on-prediction-markets-us-judge-rules/",
-          "date": "Wed, 08 Jul 2026 19:14:02 +0000"
-        },
-        {
-          "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
-          "link": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
-          "date": "Wed, 08 Jul 2026 19:01:19 +0000"
         }
       ],
       "error": null
@@ -327,6 +327,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Why Colorado replaced its AI discrimination law with a transparency requirement that the feds might challenge anyway",
+          "link": "https://theconversation.com/why-colorado-replaced-its-ai-discrimination-law-with-a-transparency-requirement-that-the-feds-might-challenge-anyway-286517",
+          "date": "2026-07-09T12:05:33Z"
+        },
         {
           "title": "Grattan on Friday: AI\u2019s opportunities and risks front and centre on Albanese government\u2019s agenda",
           "link": "https://theconversation.com/grattan-on-friday-ais-opportunities-and-risks-front-and-centre-on-albanese-governments-agenda-286043",
@@ -346,11 +351,6 @@
           "title": "How AI and digital data shape our understanding of migration",
           "link": "https://theconversation.com/how-ai-and-digital-data-shape-our-understanding-of-migration-284932",
           "date": "2026-07-08T15:10:09Z"
-        },
-        {
-          "title": "When managing your money, take a chatbot\u2019s \u2018confidence\u2019 with a grain of salt",
-          "link": "https://theconversation.com/when-managing-your-money-take-a-chatbots-confidence-with-a-grain-of-salt-286106",
-          "date": "2026-07-07T12:14:03Z"
         }
       ],
       "error": null
@@ -360,11 +360,6 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Can AI equalize political campaign ads \u2013 or will it remain a tool for spreading lies?",
-          "link": "https://www.theguardian.com/technology/2026/jul/08/ai-ads-political-campaigns",
-          "date": "Wed, 08 Jul 2026 13:00:33 GMT"
-        },
-        {
           "title": "Datacentres are a ticking timebomb. We must make sure AI\u2019s benefits outweigh the costs | Nicki Hutley",
           "link": "https://www.theguardian.com/commentisfree/2026/jul/09/ai-artificial-intelligence-benefits-costs-datacentres-energy-water-environment",
           "date": "Wed, 08 Jul 2026 15:00:36 GMT"
@@ -373,6 +368,11 @@
           "title": "Wyoming tightens wastewater rules after Meta datacenter contractor flushed contaminated water",
           "link": "https://www.theguardian.com/us-news/2026/jul/08/meta-datacenter-ai-wyoming-water",
           "date": "Wed, 08 Jul 2026 14:08:00 GMT"
+        },
+        {
+          "title": "Can AI equalize political campaign ads \u2013 or will it remain a tool for spreading lies?",
+          "link": "https://www.theguardian.com/technology/2026/jul/08/ai-ads-political-campaigns",
+          "date": "Wed, 08 Jul 2026 13:00:33 GMT"
         },
         {
           "title": "IMF upgrades UK growth forecast as fears over impact of Iran war diminish",
@@ -424,6 +424,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "American Tech Companies Are Suddenly Sweating Bullets as China Catches Up on AI",
+          "link": "https://futurism.com/artificial-intelligence/us-ai-companies-sweating-china",
+          "date": "Thu, 09 Jul 2026 09:50:26 -0400"
+        },
+        {
+          "title": "Coinbase AI Sends Mass \u201cBreaking News\u201d Alert That\u2019s Completely Hallucinated",
+          "link": "https://futurism.com/artificial-intelligence/coinbase-breaking-news-alert-hallucinated",
+          "date": "Thu, 09 Jul 2026 08:50:54 -0400"
+        },
+        {
           "title": "Scientists Identify Most Degenerate Known ChatGPT User",
           "link": "https://futurism.com/artificial-intelligence/scientists-degenerate-chatgpt-user",
           "date": "Wed, 08 Jul 2026 08:45:46 -0400"
@@ -437,16 +447,6 @@
           "title": "Tripadvisor\u2019s AI Is Telling Vacationers That Gruesome Horror Grottos Are Wonderful Holiday Retreats",
           "link": "https://futurism.com/artificial-intelligence/ai-whitewashing-bad-reviews-holiday-resorts",
           "date": "Tue, 07 Jul 2026 14:43:28 -0400"
-        },
-        {
-          "title": "Bank of America Warns That AI Investors Are in for a Nasty Reality Check",
-          "link": "https://futurism.com/artificial-intelligence/bank-of-america-ai-investors-reality-check",
-          "date": "Tue, 07 Jul 2026 13:51:56 -0400"
-        },
-        {
-          "title": "Experts Say There\u2019s Now an Open Source AI Model as Scary as Mythos",
-          "link": "https://futurism.com/artificial-intelligence/open-source-ai-model-scary-mythos",
-          "date": "Tue, 07 Jul 2026 13:12:00 -0400"
         }
       ],
       "error": null
