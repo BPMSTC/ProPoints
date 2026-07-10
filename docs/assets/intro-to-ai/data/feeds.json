@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T10:20:58.672457+00:00",
+  "generatedAt": "2026-07-10T13:09:09.768181+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,29 +290,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Wally Funk, last of Mercury 13 and oldest woman in space, dies at 87",
+          "link": "https://arstechnica.com/space/2026/07/wally-funk-last-of-mercury-13-and-oldest-woman-in-space-dies-at-87/",
+          "date": "Fri, 10 Jul 2026 11:30:29 +0000"
+        },
+        {
+          "title": "Is an air-conditioning revolution coming to Europe?",
+          "link": "https://arstechnica.com/science/2026/07/is-an-air-conditioning-revolution-coming-to-europe/",
+          "date": "Fri, 10 Jul 2026 11:10:08 +0000"
+        },
+        {
+          "title": "Rocket Report: \"Panic\" over Transporter availability; Isar to launch from Canada",
+          "link": "https://arstechnica.com/space/2026/07/rocket-report-panic-over-transporter-availability-isar-to-launch-from-canada/",
+          "date": "Fri, 10 Jul 2026 11:00:43 +0000"
+        },
+        {
+          "title": "Like a cheat code for your car: We investigate ECU tuning",
+          "link": "https://arstechnica.com/cars/2026/07/like-a-cheat-code-for-your-car-we-investigate-ecu-tuning/",
+          "date": "Fri, 10 Jul 2026 11:00:32 +0000"
+        },
+        {
           "title": "Flores Hobbits' eating habits offer clues about their evolutionary past",
           "link": "https://arstechnica.com/science/2026/07/flores-hobbits-scavenged-komodo-dragons-elephant-kills-study-suggests/",
           "date": "Thu, 09 Jul 2026 22:29:10 +0000"
-        },
-        {
-          "title": "Michigan's explosive outbreak of diarrheal parasite jumps to over 1,200 cases",
-          "link": "https://arstechnica.com/health/2026/07/michigans-explosive-outbreak-of-diarrheal-parasite-jumps-to-over-1200-cases/",
-          "date": "Thu, 09 Jul 2026 21:56:44 +0000"
-        },
-        {
-          "title": "OpenAI wants its new tool to do your work for you and with you",
-          "link": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
-          "date": "Thu, 09 Jul 2026 21:25:55 +0000"
-        },
-        {
-          "title": "Patch for Windows Defender 0-day could allow attackers to fill hard disk",
-          "link": "https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/",
-          "date": "Thu, 09 Jul 2026 20:52:55 +0000"
-        },
-        {
-          "title": "Allstate accuses Broadcom of auditing it because it quit VMware, CA",
-          "link": "https://arstechnica.com/information-technology/2026/07/allstate-accuses-broadcom-of-auditing-it-because-it-quit-vmware-ca/",
-          "date": "Thu, 09 Jul 2026 20:28:55 +0000"
         }
       ],
       "error": null
@@ -328,6 +328,16 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Why better-off cities and towns see more benefits from data centers than rural regions",
+          "link": "https://theconversation.com/why-better-off-cities-and-towns-see-more-benefits-from-data-centers-than-rural-regions-286750",
+          "date": "2026-07-10T12:16:22Z"
+        },
+        {
+          "title": "Teachers are worried about students cheating with AI, but my survey suggests the deeper issue is learning",
+          "link": "https://theconversation.com/teachers-are-worried-about-students-cheating-with-ai-but-my-survey-suggests-the-deeper-issue-is-learning-286425",
+          "date": "2026-07-10T12:07:03Z"
+        },
+        {
           "title": "Australia\u2019s government has woken up to the risks of AI. More ambition is needed",
           "link": "https://theconversation.com/australias-government-has-woken-up-to-the-risks-of-ai-more-ambition-is-needed-287059",
           "date": "2026-07-10T02:26:51Z"
@@ -341,16 +351,6 @@
           "title": "Why Colorado replaced its AI discrimination law with a transparency requirement that the feds might challenge anyway",
           "link": "https://theconversation.com/why-colorado-replaced-its-ai-discrimination-law-with-a-transparency-requirement-that-the-feds-might-challenge-anyway-286517",
           "date": "2026-07-09T12:05:33Z"
-        },
-        {
-          "title": "Grattan on Friday: AI\u2019s opportunities and risks front and centre on Albanese government\u2019s agenda",
-          "link": "https://theconversation.com/grattan-on-friday-ais-opportunities-and-risks-front-and-centre-on-albanese-governments-agenda-286043",
-          "date": "2026-07-09T07:59:01Z"
-        },
-        {
-          "title": "AI can predict how you\u2019ll respond to a survey. But that\u2019s not the same as understanding you",
-          "link": "https://theconversation.com/ai-can-predict-how-youll-respond-to-a-survey-but-thats-not-the-same-as-understanding-you-287069",
-          "date": "2026-07-09T04:34:01Z"
         }
       ],
       "error": null
@@ -359,6 +359,11 @@
       "name": "Artificial intelligence (AI) | The Guardian",
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
+        {
+          "title": "The bulging in-tray of challenges Andy Burnham faces upon entering No 10",
+          "link": "https://www.theguardian.com/politics/2026/jul/10/in-tray-of-challenges-andy-burnham-faces-as-prime-minister",
+          "date": "Fri, 10 Jul 2026 13:00:47 GMT"
+        },
         {
           "title": "Alarm over launch of facial recognition in UK shops that instantly alerts police",
           "link": "https://www.theguardian.com/technology/2026/jul/10/facewatch-facial-recognition-uk-shops-instantly-alerts-police-civil-liberties",
@@ -378,11 +383,6 @@
           "title": "Reeves to launch City \u2018skills compact\u2019 committing firms to retrain staff in AI",
           "link": "https://www.theguardian.com/business/2026/jul/10/rachel-reeves-city-skills-compact-ai-training",
           "date": "Fri, 10 Jul 2026 05:00:12 GMT"
-        },
-        {
-          "title": "Telstra CEO Vicki Brady faces questions on nationwide outage \u2013 video",
-          "link": "https://www.theguardian.com/business/video/2026/jul/10/telstra-ceo-vicki-brady-faces-questions-on-nationwide-outage-video",
-          "date": "Fri, 10 Jul 2026 04:22:18 GMT"
         }
       ],
       "error": null
@@ -456,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "A New Experiential Gallery Just Might Change Your Mind About AI Art",
+          "link": "https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/",
+          "date": "Fri, 10 Jul 2026 10:30:00 +0000"
+        },
+        {
           "title": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
           "link": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
           "date": "Fri, 10 Jul 2026 06:00:00 +0000"
@@ -474,11 +479,6 @@
           "title": "The 1X Neo Robot Has Freaky Fast Fingers",
           "link": "https://www.wired.com/story/the-1x-neo-robot-has-freaky-fast-fingers/",
           "date": "Thu, 09 Jul 2026 16:01:22 +0000"
-        },
-        {
-          "title": "The $28 Million Mistake That Inspired Estonia\u2019s AI \u2018Fuckup Finder\u2019",
-          "link": "https://www.wired.com/story/the-28-million-dollar-mistake-that-inspired-estonias-ai-fuckup-finder/",
-          "date": "Thu, 09 Jul 2026 10:01:30 +0000"
         }
       ],
       "error": null
