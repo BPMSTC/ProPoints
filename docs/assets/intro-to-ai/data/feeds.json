@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T20:19:50.294373+00:00",
+  "generatedAt": "2026-07-10T21:58:37.754992+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,29 +290,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "China recovered its first reusable rocket and showed a new way to do it",
+          "link": "https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/",
+          "date": "Fri, 10 Jul 2026 21:41:43 +0000"
+        },
+        {
+          "title": "Check out the first images of Quest shipwreck",
+          "link": "https://arstechnica.com/science/2026/07/expedition-captures-first-images-of-shackletons-last-ship/",
+          "date": "Fri, 10 Jul 2026 19:59:31 +0000"
+        },
+        {
+          "title": "Ransomware negotiator hired to represent victims was working for the attackers",
+          "link": "https://arstechnica.com/tech-policy/2026/07/ransomware-negotiator-helped-attackers-extort-his-own-clients-gets-6-year-sentence/",
+          "date": "Fri, 10 Jul 2026 19:40:11 +0000"
+        },
+        {
+          "title": "Study shows how toxic RFK Jr.\u2019s change to measles vaccine is for US toddlers",
+          "link": "https://arstechnica.com/health/2026/07/anti-vaccine-changes-under-rfk-jr-will-hurt-vulnerable-toddlers-study-confirms/",
+          "date": "Fri, 10 Jul 2026 19:25:04 +0000"
+        },
+        {
           "title": "Valve's new Steam Machine verification system is silent on these Steam Deck-busters",
           "link": "https://arstechnica.com/gaming/2026/07/valves-steam-machine-verified-ratings-offer-more-questions-than-answers/",
           "date": "Fri, 10 Jul 2026 16:53:31 +0000"
-        },
-        {
-          "title": "Firmware update bricks Hue Bridge Pro devices; Philips gives free replacements",
-          "link": "https://arstechnica.com/gadgets/2026/07/firmware-update-bricks-hue-bridge-pro-devices-philips-gives-free-replacements/",
-          "date": "Fri, 10 Jul 2026 16:36:09 +0000"
-        },
-        {
-          "title": "An orbiting disco ball gave Einstein\u2019s theory its most precise test yet",
-          "link": "https://arstechnica.com/science/2026/07/an-orbiting-disco-ball-gave-einsteins-theory-its-most-precise-test-yet/",
-          "date": "Fri, 10 Jul 2026 16:11:35 +0000"
-        },
-        {
-          "title": "Disable autoplay and infinite scroll or risk massive fines, EU tells Meta",
-          "link": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
-          "date": "Fri, 10 Jul 2026 15:46:18 +0000"
-        },
-        {
-          "title": "NASA sure seems to be asking an awful lot of private space stations",
-          "link": "https://arstechnica.com/space/2026/07/nasa-finally-releases-a-critical-planning-document-for-private-space-stations/",
-          "date": "Fri, 10 Jul 2026 15:15:58 +0000"
         }
       ],
       "error": null
@@ -456,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
+          "link": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
+          "date": "Fri, 10 Jul 2026 20:44:05 +0000"
+        },
+        {
           "title": "A New Experiential Gallery Just Might Change Your Mind About AI Art",
           "link": "https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/",
           "date": "Fri, 10 Jul 2026 10:30:00 +0000"
@@ -474,11 +479,6 @@
           "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
           "link": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
           "date": "Thu, 09 Jul 2026 18:30:00 +0000"
-        },
-        {
-          "title": "The 1X Neo Robot Has Freaky Fast Fingers",
-          "link": "https://www.wired.com/story/the-1x-neo-robot-has-freaky-fast-fingers/",
-          "date": "Thu, 09 Jul 2026 16:01:22 +0000"
         }
       ],
       "error": null
