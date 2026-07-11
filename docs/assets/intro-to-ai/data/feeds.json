@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T18:57:39.135343+00:00",
+  "generatedAt": "2026-07-11T20:06:02.741091+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -320,7 +320,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "Apple just sued OpenAI. And the details are wild.",
+          "link": "https://www.reddit.com/r/artificial/comments/1utkdha/apple_just_sued_openai_and_the_details_are_wild/",
+          "date": "2026-07-11T13:37:36+00:00"
+        },
+        {
+          "title": "OpenAI Engineer\u2019s \u2018LOL\u2019 Moment Set Stage for Legal Fight With Apple",
+          "link": "https://www.reddit.com/r/artificial/comments/1utll84/openai_engineers_lol_moment_set_stage_for_legal/",
+          "date": "2026-07-11T14:28:24+00:00"
+        },
+        {
+          "title": "ChatGPT-Live vs Pi vs Lucy OS1 vs Gemini-Live: best AI assistant to talk with?",
+          "link": "https://www.reddit.com/r/artificial/comments/1utqf02/chatgptlive_vs_pi_vs_lucy_os1_vs_geminilive_best/",
+          "date": "2026-07-11T17:38:02+00:00"
+        },
+        {
+          "title": "What would potentially limit AI Demand?",
+          "link": "https://www.reddit.com/r/artificial/comments/1utt87o/what_would_potentially_limit_ai_demand/",
+          "date": "2026-07-11T19:26:18+00:00"
+        },
+        {
+          "title": "ConwAI",
+          "link": "https://www.reddit.com/r/artificial/comments/1utu14o/conwai/",
+          "date": "2026-07-11T19:58:43+00:00"
+        }
+      ],
       "error": null
     },
     {
@@ -360,6 +386,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "AI companies want to water down Australia\u2019s copyright laws. Artists are outraged, Labor is split",
+          "link": "https://www.theguardian.com/technology/2026/jul/12/ai-australia-will-labor-water-down-copyright-laws-datacentres",
+          "date": "Sat, 11 Jul 2026 20:00:59 GMT"
+        },
+        {
           "title": "Datacentres drive up big tech\u2019s carbon emissions to a third of those of France",
           "link": "https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france",
           "date": "Sat, 11 Jul 2026 11:00:49 GMT"
@@ -378,11 +409,6 @@
           "title": "Meta ditches Muse Image AI feature because it \u2018misses the mark\u2019 on users\u2019 privacy",
           "link": "https://www.theguardian.com/technology/2026/jul/11/meta-ditches-muse-image-ai-feature-instagram-privacy",
           "date": "Sat, 11 Jul 2026 05:07:41 GMT"
-        },
-        {
-          "title": "Apple sues OpenAI, alleging artificial intelligence company stole trade secrets",
-          "link": "https://www.theguardian.com/technology/2026/jul/10/apple-sues-openai-trade-secrets",
-          "date": "Fri, 10 Jul 2026 22:33:21 GMT"
         }
       ],
       "error": null
