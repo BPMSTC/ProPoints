@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T20:06:02.741091+00:00",
+  "generatedAt": "2026-07-11T21:44:58.487734+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -320,33 +320,7 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "Apple just sued OpenAI. And the details are wild.",
-          "link": "https://www.reddit.com/r/artificial/comments/1utkdha/apple_just_sued_openai_and_the_details_are_wild/",
-          "date": "2026-07-11T13:37:36+00:00"
-        },
-        {
-          "title": "OpenAI Engineer\u2019s \u2018LOL\u2019 Moment Set Stage for Legal Fight With Apple",
-          "link": "https://www.reddit.com/r/artificial/comments/1utll84/openai_engineers_lol_moment_set_stage_for_legal/",
-          "date": "2026-07-11T14:28:24+00:00"
-        },
-        {
-          "title": "ChatGPT-Live vs Pi vs Lucy OS1 vs Gemini-Live: best AI assistant to talk with?",
-          "link": "https://www.reddit.com/r/artificial/comments/1utqf02/chatgptlive_vs_pi_vs_lucy_os1_vs_geminilive_best/",
-          "date": "2026-07-11T17:38:02+00:00"
-        },
-        {
-          "title": "What would potentially limit AI Demand?",
-          "link": "https://www.reddit.com/r/artificial/comments/1utt87o/what_would_potentially_limit_ai_demand/",
-          "date": "2026-07-11T19:26:18+00:00"
-        },
-        {
-          "title": "ConwAI",
-          "link": "https://www.reddit.com/r/artificial/comments/1utu14o/conwai/",
-          "date": "2026-07-11T19:58:43+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
