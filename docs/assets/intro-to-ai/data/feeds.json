@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T13:19:57.276935+00:00",
+  "generatedAt": "2026-07-12T14:53:00.206280+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -365,6 +365,11 @@
           "date": "Sat, 11 Jul 2026 20:00:59 GMT"
         },
         {
+          "title": "\u2018These are some of the most complex structures ever created\u2019: how tech reporting moved into the physical world",
+          "link": "https://www.theguardian.com/membership/2026/jul/12/tech-reporting-physical-world-ai-revolution-datacentres",
+          "date": "Sun, 12 Jul 2026 14:00:19 GMT"
+        },
+        {
           "title": "Chasing new skills, going back to basics and pushing for collective action: how software engineers are adapting to AI",
           "link": "https://www.theguardian.com/technology/ng-interactive/2026/jul/12/software-developers-engineers-ai",
           "date": "Sun, 12 Jul 2026 10:00:15 GMT"
@@ -378,11 +383,6 @@
           "title": "AI \u2018actor\u2019 Tilly Norwood has a movie coming out. Spare us this future | Dave Schilling",
           "link": "https://www.theguardian.com/commentisfree/2026/jul/11/ai-actor-tilly-norwood-movie",
           "date": "Sat, 11 Jul 2026 11:00:48 GMT"
-        },
-        {
-          "title": "Safe from AI: which jobs will help you thrive in the future?",
-          "link": "https://www.theguardian.com/money/2026/jul/11/ai-work-jobs-future-medicine-teaching-hotels-law",
-          "date": "Sat, 11 Jul 2026 11:00:47 GMT"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Journalist Alarmed When He\u2019s Fired, But Company Keeps Posting AI Slop Under His Name",
+          "link": "https://futurism.com/artificial-intelligence/fired-journalist-ai-posts-in-his-name",
+          "date": "Sun, 12 Jul 2026 10:01:00 -0400"
+        },
+        {
           "title": "Christopher Nolan Unloads on AI Slop",
           "link": "https://futurism.com/artificial-intelligence/christopher-nolan-ai-slop",
           "date": "Sun, 12 Jul 2026 07:00:00 -0400"
@@ -442,11 +447,6 @@
           "title": "The AI Industry Has Finally Found the Perfect Customer: Bloodthirsty Terrorists",
           "link": "https://futurism.com/artificial-intelligence/ai-industry-terrorists",
           "date": "Sat, 11 Jul 2026 10:01:00 -0400"
-        },
-        {
-          "title": "Tech Bros Puzzled by Why AI Hasn\u2019t \u201cMassively Disrupted\u201d Books Yet",
-          "link": "https://futurism.com/artificial-intelligence/tech-bros-puzzled-ai-disrupted-books-knowledge",
-          "date": "Sat, 11 Jul 2026 06:01:00 -0400"
         }
       ],
       "error": null
