@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T18:01:25.089814+00:00",
+  "generatedAt": "2026-07-12T20:04:40.193659+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -360,11 +360,6 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "AI companies want to water down Australia\u2019s copyright laws. Artists are outraged, Labor is split",
-          "link": "https://www.theguardian.com/technology/2026/jul/12/ai-australia-will-labor-water-down-copyright-laws-datacentres",
-          "date": "Sat, 11 Jul 2026 20:00:59 GMT"
-        },
-        {
           "title": "\u2018These are some of the most complex structures ever created\u2019: how tech reporting moved into the physical world",
           "link": "https://www.theguardian.com/membership/2026/jul/12/tech-reporting-physical-world-ai-revolution-datacentres",
           "date": "Sun, 12 Jul 2026 14:00:19 GMT"
@@ -373,6 +368,11 @@
           "title": "Chasing new skills, going back to basics and pushing for collective action: how software engineers are adapting to AI",
           "link": "https://www.theguardian.com/technology/ng-interactive/2026/jul/12/software-developers-engineers-ai",
           "date": "Sun, 12 Jul 2026 10:00:15 GMT"
+        },
+        {
+          "title": "AI companies want to water down Australia\u2019s copyright laws. Artists are outraged, Labor is split",
+          "link": "https://www.theguardian.com/technology/2026/jul/12/ai-australia-will-labor-water-down-copyright-laws-datacentres",
+          "date": "Sat, 11 Jul 2026 20:00:59 GMT"
         },
         {
           "title": "Datacentres drive up big tech\u2019s carbon emissions to a third of those of France",
