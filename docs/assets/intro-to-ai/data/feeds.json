@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-07-13T18:41:11.617051+00:00",
+  "generatedAt": "2026-07-13T20:11:26.701996+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Podcast: Liberation, Eroticism, and Sex in Public (with Angela Jones)",
+          "link": "https://www.404media.co/sex-in-public-with-angela-jones/",
+          "date": "Mon, 13 Jul 2026 19:23:39 GMT"
+        },
         {
           "title": "LAPD Regularly Pulled Over Innocent People Because License Plate Readers Flagged Their Cars As Stolen",
           "link": "https://www.404media.co/lapd-regularly-pulled-over-innocent-people-because-license-plate-readers-flagged-their-cars-as-stolen/",
@@ -24,11 +29,6 @@
           "title": "Scientists Solve Mystery of Bizarre \u2018Alien Megastructure\u2019 Star",
           "link": "https://www.404media.co/scientists-solve-mystery-of-bizarre-alien-megastructure-star/",
           "date": "Sat, 11 Jul 2026 14:51:18 GMT"
-        },
-        {
-          "title": "AI Fiction Is Easy to Detect Because It's Stupid and Bad, Research Finds",
-          "link": "https://www.404media.co/ai-fiction-is-easy-to-detect-because-its-stupid-and-bad-research-finds/",
-          "date": "Fri, 10 Jul 2026 18:32:21 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "US Companies Are Realizing That Chinese AI Models Are Way Cheaper, Ditch American Ones",
+          "link": "https://futurism.com/artificial-intelligence/us-realizing-chinese-ai-models-way-cheaper",
+          "date": "Mon, 13 Jul 2026 16:01:46 -0400"
+        },
+        {
           "title": "Law School Bans Laptops and Phones as AI Cheating Scandal Grows",
           "link": "https://futurism.com/future-society/law-school-bans-laptops-ai",
           "date": "Mon, 13 Jul 2026 11:48:38 -0400"
@@ -442,11 +447,6 @@
           "title": "OpenAI Is Shutting Down Its Browser That Was Supposed to Change Everything",
           "link": "https://futurism.com/artificial-intelligence/openai-shutting-down-browser",
           "date": "Sun, 12 Jul 2026 11:01:00 -0400"
-        },
-        {
-          "title": "Journalist Alarmed When He\u2019s Fired, But Company Keeps Posting AI Slop Under His Name",
-          "link": "https://futurism.com/artificial-intelligence/fired-journalist-ai-posts-in-his-name",
-          "date": "Sun, 12 Jul 2026 10:01:00 -0400"
         }
       ],
       "error": null
