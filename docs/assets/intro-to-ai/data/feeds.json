@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-07-13T13:20:37.065097+00:00",
+  "generatedAt": "2026-07-13T16:29:06.941878+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "I Bought the $3,000 Fitness Suit That Electrocutes You. I\u2019m Sending It Back",
+          "link": "https://www.404media.co/i-bought-the-3-000-fitness-suit-that-electrocutes-you-im-sending-it-back/",
+          "date": "Mon, 13 Jul 2026 14:32:05 GMT"
+        },
+        {
+          "title": "These Are the Worst ChatGPT Flyers You've Sent Us",
+          "link": "https://www.404media.co/these-are-the-worst-chatgpt-flyers-youve-sent-us/",
+          "date": "Mon, 13 Jul 2026 14:01:35 GMT"
+        },
         {
           "title": "Scientists Solve Mystery of Bizarre \u2018Alien Megastructure\u2019 Star",
           "link": "https://www.404media.co/scientists-solve-mystery-of-bizarre-alien-megastructure-star/",
@@ -19,16 +29,6 @@
           "title": "Behind the Blog: The Promise of the Internet",
           "link": "https://www.404media.co/behind-the-blog-the-promise-of-the-internet/",
           "date": "Fri, 10 Jul 2026 17:20:01 GMT"
-        },
-        {
-          "title": "Patreon Blocks Crawlers From Stealing Creators' Work for AI Training",
-          "link": "https://www.404media.co/patreon-cloudflare-partnership-ai-crawlers/",
-          "date": "Thu, 09 Jul 2026 21:54:58 GMT"
-        },
-        {
-          "title": "Farmers Finally Get a John Deere Right to Repair Agreement That Doesn\u2019t Screw Them Over",
-          "link": "https://www.404media.co/farmers-finally-get-a-john-deere-right-to-repair-agreement-that-doesnt-screw-them-over/",
-          "date": "Thu, 09 Jul 2026 14:09:23 GMT"
         }
       ],
       "error": null
@@ -70,6 +70,16 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "Barndoor Live Session",
+          "link": "https://www.aiacceleratorinstitute.com/thanks-for-registering-4/",
+          "date": "Mon, 13 Jul 2026 15:21:33 GMT"
+        },
+        {
+          "title": "The 15 AI tools Fortune 500  companies are using in 2026",
+          "link": "https://www.aiacceleratorinstitute.com/the-15-ai-tools-fortune-500-companies-are-using-in-2026/",
+          "date": "Mon, 13 Jul 2026 15:15:09 GMT"
+        },
+        {
           "title": "New York's AI scene:  Top 25 in 2026",
           "link": "https://www.aiacceleratorinstitute.com/new-yorks-ai-scene-the-25-companies-you-need-to-know/",
           "date": "Thu, 09 Jul 2026 13:00:44 GMT"
@@ -83,16 +93,6 @@
           "title": "Q&A: How Headroom went from  side project to enterprise infrastructure.",
           "link": "https://www.aiacceleratorinstitute.com/q-a-how-headroom-went-from-side-project-to-enterprise-infrastructure/",
           "date": "Tue, 07 Jul 2026 10:00:25 GMT"
-        },
-        {
-          "title": "Shifting your integration architecture to headless",
-          "link": "https://www.aiacceleratorinstitute.com/shifting-your-integration-architecture/",
-          "date": "Mon, 06 Jul 2026 15:19:52 GMT"
-        },
-        {
-          "title": "Thanks for registering",
-          "link": "https://www.aiacceleratorinstitute.com/thanks-for-registering-3/",
-          "date": "Mon, 06 Jul 2026 14:26:08 GMT"
         }
       ],
       "error": null
@@ -116,7 +116,17 @@
         {
           "title": "Chinese Tech Vendors Converge on Humanoid Robotics and Embodied AI",
           "link": "https://aibusiness.com/robotics/chinese-tech-vendors-converge-humanoid-robotics-embodied-ai",
-          "date": "Fri, 10 Jul 2026 18:15:24 GMT"
+          "date": "Mon, 13 Jul 2026 18:15:24 GMT"
+        },
+        {
+          "title": "Tokenmaxxing Is Actually Good",
+          "link": "https://aibusiness.com/responsible-ai/tokenmaxxing-is-actually-good",
+          "date": "Mon, 13 Jul 2026 13:45:54 GMT"
+        },
+        {
+          "title": "Key Feature of Meta\u2019s Muse Image Axed",
+          "link": "https://aibusiness.com/generative-ai/key-feature-meta-s-muse-image-axed",
+          "date": "Mon, 13 Jul 2026 13:23:24 GMT"
         },
         {
           "title": "New Dashboard Tool Lets You Monitor Claude Usage",
@@ -127,16 +137,6 @@
           "title": "How GPT-5.6 Reflects the New AI Regulation",
           "link": "https://aibusiness.com/generative-ai/how-gpt-5-6-reflects-new-ai-regulation",
           "date": "Fri, 10 Jul 2026 14:40:28 GMT"
-        },
-        {
-          "title": "Prompt: AI's Next Challenge Is Making Better Use of Compute",
-          "link": "https://aibusiness.com/generative-ai/prompt-ai-s-next-challenge-making-better-use-compute",
-          "date": "Fri, 10 Jul 2026 14:07:22 GMT"
-        },
-        {
-          "title": "IBM Extends Bob AI Platform With Array of New Features",
-          "link": "https://aibusiness.com/agentic-ai/ibm-extends-bob-ai-platform-array-new-features",
-          "date": "Thu, 09 Jul 2026 17:53:25 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -360,6 +360,16 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Can Labor save us from the risks of AI? \u2013 podcast",
+          "link": "https://www.theguardian.com/australia-news/audio/2026/jul/13/can-labor-save-us-from-the-risks-of-ai-full-story-podcast",
+          "date": "Mon, 13 Jul 2026 15:00:51 GMT"
+        },
+        {
+          "title": "Albanese to compare pivotal moment in AI to renewable energy transition as he outlines approach",
+          "link": "https://www.theguardian.com/australia-news/2026/jul/14/anthony-albanese-ai-speech-safety-copyright-datacentres-social-licence",
+          "date": "Mon, 13 Jul 2026 15:00:50 GMT"
+        },
+        {
           "title": "The New York nurses replaced by AI: \u2018It should concern every patient who cares about quality of care\u2019",
           "link": "https://www.theguardian.com/technology/2026/jul/13/nurses-new-york-ai",
           "date": "Mon, 13 Jul 2026 12:00:47 GMT"
@@ -373,16 +383,6 @@
           "title": "\u2018Navigating the unknown together\u2019: me and my idiot AI boyfriend \u2013 podcast",
           "link": "https://www.theguardian.com/news/audio/2026/jul/13/navigating-the-unknown-together-me-and-my-idiot-ai-boyfriend-podcast",
           "date": "Mon, 13 Jul 2026 04:00:37 GMT"
-        },
-        {
-          "title": "China\u2019s massive AI rollout - podcast",
-          "link": "https://www.theguardian.com/news/audio/2026/jul/13/chinas-massive-ai-rollout-podcast",
-          "date": "Mon, 13 Jul 2026 02:00:34 GMT"
-        },
-        {
-          "title": "Christopher Nolan says people \u2018disdain\u2019 AI and the idea it will replace humans is \u2018nonsense\u2019",
-          "link": "https://www.theguardian.com/film/2026/jul/13/christopher-nolan-odyssey-director-comments-ai-artificial-intelligence",
-          "date": "Mon, 13 Jul 2026 00:56:38 GMT"
         }
       ],
       "error": null
@@ -424,6 +424,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Law School Bans Laptops and Phones as AI Cheating Scandal Grows",
+          "link": "https://futurism.com/future-society/law-school-bans-laptops-ai",
+          "date": "Mon, 13 Jul 2026 11:48:38 -0400"
+        },
+        {
+          "title": "Lawsuit Claims the Mayo Clinic\u2019s Use of AI Is Butchering Patient Care",
+          "link": "https://futurism.com/health-medicine/lawsuit-mayo-clinic-ai-tools-hospital-maya",
+          "date": "Mon, 13 Jul 2026 09:54:21 -0400"
+        },
+        {
           "title": "Meta Caught Running Ads for Child Abuse",
           "link": "https://futurism.com/future-society/meta-running-ads-child-abuse",
           "date": "Sun, 12 Jul 2026 13:02:00 -0400"
@@ -437,16 +447,6 @@
           "title": "Journalist Alarmed When He\u2019s Fired, But Company Keeps Posting AI Slop Under His Name",
           "link": "https://futurism.com/artificial-intelligence/fired-journalist-ai-posts-in-his-name",
           "date": "Sun, 12 Jul 2026 10:01:00 -0400"
-        },
-        {
-          "title": "Christopher Nolan Unloads on AI Slop",
-          "link": "https://futurism.com/artificial-intelligence/christopher-nolan-ai-slop",
-          "date": "Sun, 12 Jul 2026 07:00:00 -0400"
-        },
-        {
-          "title": "Grok Linked to Sickening Crime in Lawsuit That Puts SpaceX in Crosshairs",
-          "link": "https://futurism.com/artificial-intelligence/grok-linked-sickening-crime",
-          "date": "Sun, 12 Jul 2026 06:01:00 -0400"
         }
       ],
       "error": null
@@ -488,6 +488,11 @@
       "url": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "items": [
         {
+          "title": "Scientists discovered the brain doesn't make decisions the way we thought",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260712011757.htm",
+          "date": "Mon, 13 Jul 2026 08:12:27 EDT"
+        },
+        {
           "title": "Quantum mechanics once baffled scientists. Now it's changing the world",
           "link": "https://www.sciencedaily.com/releases/2026/06/260624025516.htm",
           "date": "Sun, 05 Jul 2026 14:13:44 EDT"
@@ -506,11 +511,6 @@
           "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
           "link": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
           "date": "Fri, 12 Jun 2026 06:38:54 EDT"
-        },
-        {
-          "title": "A classic brain test exposed AI's biggest weakness",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
-          "date": "Wed, 10 Jun 2026 06:52:17 EDT"
         }
       ],
       "error": null
