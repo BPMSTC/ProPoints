@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T10:21:53.142705+00:00",
+  "generatedAt": "2026-07-13T13:20:37.065097+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Chinese Tech Vendors Converge on Humanoid Robotics and Embodied AI",
+          "link": "https://aibusiness.com/robotics/chinese-tech-vendors-converge-humanoid-robotics-embodied-ai",
+          "date": "Fri, 10 Jul 2026 18:15:24 GMT"
+        },
+        {
           "title": "New Dashboard Tool Lets You Monitor Claude Usage",
           "link": "https://aibusiness.com/generative-ai/new-dashboard-tool-lets-you-monitor-claude-usage",
           "date": "Fri, 10 Jul 2026 17:19:56 GMT"
@@ -132,11 +137,6 @@
           "title": "IBM Extends Bob AI Platform With Array of New Features",
           "link": "https://aibusiness.com/agentic-ai/ibm-extends-bob-ai-platform-array-new-features",
           "date": "Thu, 09 Jul 2026 17:53:25 GMT"
-        },
-        {
-          "title": "Grok 4.5 Is SpaceXAI\u2019s First Real Entry Into the Enterprise",
-          "link": "https://aibusiness.com/agentic-ai/grok-4-5-spacexai-s-first-real-entry-into-enterprise",
-          "date": "Thu, 09 Jul 2026 17:20:28 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -328,6 +328,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Despite the growth of some AI schools like Alpha, research doesn\u2019t show that AI tutors are better than human teachers",
+          "link": "https://theconversation.com/despite-the-growth-of-some-ai-schools-like-alpha-research-doesnt-show-that-ai-tutors-are-better-than-human-teachers-281290",
+          "date": "2026-07-13T12:05:08Z"
+        },
+        {
           "title": "Why better-off cities and towns see more benefits from data centers than rural regions",
           "link": "https://theconversation.com/why-better-off-cities-and-towns-see-more-benefits-from-data-centers-than-rural-regions-286750",
           "date": "2026-07-10T12:16:22Z"
@@ -346,11 +351,6 @@
           "title": "Is recursive self\u2011improvement the dawning of AI superintelligence?",
           "link": "https://theconversation.com/is-recursive-self-improvement-the-dawning-of-ai-superintelligence-287081",
           "date": "2026-07-09T14:50:19Z"
-        },
-        {
-          "title": "Why Colorado replaced its AI discrimination law with a transparency requirement that the feds might challenge anyway",
-          "link": "https://theconversation.com/why-colorado-replaced-its-ai-discrimination-law-with-a-transparency-requirement-that-the-feds-might-challenge-anyway-286517",
-          "date": "2026-07-09T12:05:33Z"
         }
       ],
       "error": null
@@ -359,6 +359,11 @@
       "name": "Artificial intelligence (AI) | The Guardian",
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
+        {
+          "title": "The New York nurses replaced by AI: \u2018It should concern every patient who cares about quality of care\u2019",
+          "link": "https://www.theguardian.com/technology/2026/jul/13/nurses-new-york-ai",
+          "date": "Mon, 13 Jul 2026 12:00:47 GMT"
+        },
         {
           "title": "Is the most popular song played on Australian radio stations the product of generative AI?",
           "link": "https://www.theguardian.com/music/2026/jul/13/josh-fawaz-like-a-prayer-song-is-it-ai-radio",
@@ -378,11 +383,6 @@
           "title": "Christopher Nolan says people \u2018disdain\u2019 AI and the idea it will replace humans is \u2018nonsense\u2019",
           "link": "https://www.theguardian.com/film/2026/jul/13/christopher-nolan-odyssey-director-comments-ai-artificial-intelligence",
           "date": "Mon, 13 Jul 2026 00:56:38 GMT"
-        },
-        {
-          "title": "\u2018These are some of the most complex structures ever created\u2019: how tech reporting moved into the physical world",
-          "link": "https://www.theguardian.com/membership/2026/jul/12/tech-reporting-physical-world-ai-revolution-datacentres",
-          "date": "Sun, 12 Jul 2026 14:00:19 GMT"
         }
       ],
       "error": null
