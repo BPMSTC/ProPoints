@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-07-14T14:46:16.444343+00:00",
+  "generatedAt": "2026-07-14T16:10:54.699441+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Is the Best Game of the Year a Failure? (With Rob Zacny)",
+          "link": "https://www.404media.co/is-the-best-game-of-the-year-a-failure-with-rob-zacny/",
+          "date": "Tue, 14 Jul 2026 15:05:20 GMT"
+        },
         {
           "title": "AI Made Cloning Games Easier Than Ever",
           "link": "https://www.404media.co/ai-made-cloning-games-easier-than-ever/",
@@ -24,11 +29,6 @@
           "title": "I Bought the $3,000 Fitness Suit That Electrocutes You. I\u2019m Sending It Back",
           "link": "https://www.404media.co/i-bought-the-3-000-fitness-suit-that-electrocutes-you-im-sending-it-back/",
           "date": "Mon, 13 Jul 2026 14:32:05 GMT"
-        },
-        {
-          "title": "These Are the Worst ChatGPT Flyers You've Sent Us",
-          "link": "https://www.404media.co/these-are-the-worst-chatgpt-flyers-youve-sent-us/",
-          "date": "Mon, 13 Jul 2026 14:01:35 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Taco Bell eyed in explosive diarrheal outbreak; leafy greens suspected",
+          "link": "https://arstechnica.com/health/2026/07/taco-bell-eyed-in-explosive-diarrheal-outbreak-leafy-greens-suspected/",
+          "date": "Tue, 14 Jul 2026 14:49:02 +0000"
+        },
+        {
+          "title": "Boomers, not Gen Z, are the generation cutting back most on alcohol",
+          "link": "https://arstechnica.com/health/2026/07/boomers-not-gen-z-are-the-generation-cutting-back-most-on-alcohol/",
+          "date": "Tue, 14 Jul 2026 13:19:16 +0000"
+        },
+        {
           "title": "SpaceX is gearing up for Starship's 13th test flight later this week",
           "link": "https://arstechnica.com/space/2026/07/spacex-is-gearing-up-for-starships-13th-test-flight-later-this-week/",
           "date": "Tue, 14 Jul 2026 01:17:14 +0000"
@@ -303,16 +313,6 @@
           "title": "The US government warns that Russia state hackers are coming after your router",
           "link": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
           "date": "Mon, 13 Jul 2026 21:03:07 +0000"
-        },
-        {
-          "title": "Ukrainian drone strikes forced Russia to stop shipping in vital sea corridor",
-          "link": "https://arstechnica.com/gadgets/2026/07/ukrainian-drone-strikes-forced-russia-to-stop-shipping-in-vital-sea-corridor/",
-          "date": "Mon, 13 Jul 2026 20:41:26 +0000"
-        },
-        {
-          "title": "California creates $3,500 rebate for new electric vehicle buyers",
-          "link": "https://arstechnica.com/cars/2026/07/first-time-ev-buyers-in-california-can-now-claim-a-new-rebate/",
-          "date": "Mon, 13 Jul 2026 19:52:48 +0000"
         }
       ],
       "error": null
@@ -456,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "YouTube and X Have Become \u2018Gateways\u2019 to Nudify Apps",
+          "link": "https://www.wired.com/story/youtube-and-x-have-become-gateways-to-nudify-apps/",
+          "date": "Tue, 14 Jul 2026 16:05:18 +0000"
+        },
+        {
           "title": "This Luddite Puppet Hopes You\u2019re Not Reading This on Your Smartphone",
           "link": "https://www.wired.com/story/the-big-interview-podcast-summer-of-ludd-gowanus/",
           "date": "Tue, 14 Jul 2026 10:30:00 +0000"
@@ -474,11 +479,6 @@
           "title": "Siri AI Is Becoming Apple\u2019s Everything Tool",
           "link": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/",
           "date": "Mon, 13 Jul 2026 21:39:09 +0000"
-        },
-        {
-          "title": "Scientists\u2019 Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
-          "link": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
-          "date": "Sun, 12 Jul 2026 10:00:00 +0000"
         }
       ],
       "error": null
