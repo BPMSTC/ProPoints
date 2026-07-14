@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T20:57:28.372723+00:00",
+  "generatedAt": "2026-07-14T21:59:33.445865+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -290,6 +290,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
+          "link": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
+          "date": "Tue, 14 Jul 2026 20:05:53 +0000"
+        },
+        {
+          "title": "Probe into explosive diarrheal cases points to Taco Bell and bad lettuce",
+          "link": "https://arstechnica.com/health/2026/07/taco-bell-eyed-in-explosive-diarrheal-outbreak-leafy-greens-suspected/",
+          "date": "Tue, 14 Jul 2026 19:00:02 +0000"
+        },
+        {
           "title": "US military sent explosive drone boats into combat for the first time",
           "link": "https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/",
           "date": "Tue, 14 Jul 2026 18:00:01 +0000"
@@ -303,16 +313,6 @@
           "title": "Google revamps image search for its 25th anniversary with more images and more AI",
           "link": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
           "date": "Tue, 14 Jul 2026 16:28:14 +0000"
-        },
-        {
-          "title": "New York bans data center construction for a year, rattling AI industry",
-          "link": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
-          "date": "Tue, 14 Jul 2026 15:06:28 +0000"
-        },
-        {
-          "title": "Probe into explosive diarrheal cases points to Taco Bell and bad lettuce",
-          "link": "https://arstechnica.com/health/2026/07/taco-bell-eyed-in-explosive-diarrheal-outbreak-leafy-greens-suspected/",
-          "date": "Tue, 14 Jul 2026 14:49:02 +0000"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Meta Used Its Own Flawed AI to Pick Which Employees to Lay Off, Lawsuit Claims",
+          "link": "https://futurism.com/artificial-intelligence/meta-biased-ai-layoffs-workers-labor-lawsuit",
+          "date": "Tue, 14 Jul 2026 16:58:28 -0400"
+        },
+        {
           "title": "New Anthropic Ad Implies AI Could Kill Us All",
           "link": "https://futurism.com/artificial-intelligence/anthropic-ad-ai-kill-us-all",
           "date": "Tue, 14 Jul 2026 15:48:13 -0400"
@@ -442,11 +447,6 @@
           "title": "A Majority of Americans Now Support Seizing Wealth From AI Industry",
           "link": "https://futurism.com/artificial-intelligence/majority-americans-seize-wealth-ai",
           "date": "Tue, 14 Jul 2026 09:49:21 -0400"
-        },
-        {
-          "title": "US Companies Are Realizing That Chinese AI Models Are Way Cheaper, Ditch American Ones",
-          "link": "https://futurism.com/artificial-intelligence/us-realizing-chinese-ai-models-way-cheaper",
-          "date": "Mon, 13 Jul 2026 16:01:46 -0400"
         }
       ],
       "error": null
