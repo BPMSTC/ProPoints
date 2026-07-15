@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T18:03:08.498221+00:00",
+  "generatedAt": "2026-07-15T20:05:28.537349+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,29 +290,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "FCC to repeal 39% TV ownership cap in boost for Trump-friendly news orgs",
+          "link": "https://arstechnica.com/tech-policy/2026/07/fcc-to-repeal-39-tv-ownership-cap-in-boost-for-trump-friendly-news-orgs/",
+          "date": "Wed, 15 Jul 2026 18:52:22 +0000"
+        },
+        {
+          "title": "In memoriam: 7 of our favorite Sam Neill films",
+          "link": "https://arstechnica.com/culture/2026/07/in-memoriam-seven-of-our-favorite-sam-neill-films/",
+          "date": "Wed, 15 Jul 2026 18:39:58 +0000"
+        },
+        {
+          "title": "Third-party app stores coming to Google Play next week as Epic settlement withdrawn",
+          "link": "https://arstechnica.com/gadgets/2026/07/third-party-app-stores-coming-to-google-play-next-week-as-epic-settlement-withdrawn/",
+          "date": "Wed, 15 Jul 2026 16:55:12 +0000"
+        },
+        {
+          "title": "OpenAI's first branded hardware is... a light-up keyboard?",
+          "link": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/",
+          "date": "Wed, 15 Jul 2026 16:00:33 +0000"
+        },
+        {
           "title": "A most improbable astronaut just went to space",
           "link": "https://arstechnica.com/space/2026/07/a-most-improbable-astronaut-just-went-to-space/",
           "date": "Wed, 15 Jul 2026 11:30:07 +0000"
-        },
-        {
-          "title": "How hard is it to build orbital data centers, actually?",
-          "link": "https://arstechnica.com/space/2026/07/how-hard-is-it-to-build-orbital-data-centers-actually/",
-          "date": "Wed, 15 Jul 2026 11:00:09 +0000"
-        },
-        {
-          "title": "Sotheby's big T. rex auction raises concerns hype and wealth are upending science",
-          "link": "https://arstechnica.com/science/2026/07/sothebys-big-t-rex-auction-raises-concerns-hype-and-wealth-are-upending-science/",
-          "date": "Wed, 15 Jul 2026 10:30:39 +0000"
-        },
-        {
-          "title": "Microsoft\u2019s Secure Boot has been broken for a decade and no one noticed until now",
-          "link": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
-          "date": "Tue, 14 Jul 2026 22:20:48 +0000"
-        },
-        {
-          "title": "Trump admin puts Americans in Congo on \"do-not-board\" list, barring return",
-          "link": "https://arstechnica.com/health/2026/07/americans-in-congo-barred-from-returning-home-amid-ebola-outbreak/",
-          "date": "Tue, 14 Jul 2026 22:09:31 +0000"
         }
       ],
       "error": null
@@ -365,6 +365,11 @@
           "date": "Wed, 15 Jul 2026 06:18:06 GMT"
         },
         {
+          "title": "Trump rails against New York\u2019s statewide datacenter moratorium",
+          "link": "https://www.theguardian.com/us-news/2026/jul/15/trump-new-york-datacenter-moratorium",
+          "date": "Wed, 15 Jul 2026 18:05:46 GMT"
+        },
+        {
           "title": "Albanese\u2019s AI plan is admirable \u2013 but will face tech giants more powerful than most national governments",
           "link": "https://www.theguardian.com/australia-news/2026/jul/16/albanese-ai-plan-tech-giants-regulating-social-media-analysis",
           "date": "Wed, 15 Jul 2026 15:00:59 GMT"
@@ -378,11 +383,6 @@
           "title": "Anthony Albanese says he wants to do AI 'the Australian way' \u2013 video",
           "link": "https://www.theguardian.com/australia-news/video/2026/jul/15/anthony-albanese-says-he-wants-to-do-ai-the-australian-way-video",
           "date": "Wed, 15 Jul 2026 10:24:56 GMT"
-        },
-        {
-          "title": "Once again we are told AI may be conscious \u2013 I study consciousness, and I have my doubts | Anil Seth",
-          "link": "https://www.theguardian.com/commentisfree/2026/jul/15/ai-consciousness-anthropic-claude-dawkins",
-          "date": "Wed, 15 Jul 2026 06:00:47 GMT"
         }
       ],
       "error": null
@@ -424,6 +424,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "OpenAI Strikes Bold Deal With Kalshi to Mix Together the Most Hated Technologies in Existence: AI and Prediction Markets",
+          "link": "https://futurism.com/artificial-intelligence/openai-deal-kalshi-prediction-markets",
+          "date": "Wed, 15 Jul 2026 15:33:08 -0400"
+        },
+        {
+          "title": "Health Care Workers Furious as NYC Replaces Nurses With AI",
+          "link": "https://futurism.com/artificial-intelligence/nyc-replaces-nurses-with-ai",
+          "date": "Wed, 15 Jul 2026 14:32:49 -0400"
+        },
+        {
           "title": "We\u2019d Rather Live Through the Trojan War Than Spend 135 Minutes Watching an Entirely AI Version of \u201cThe Odyssey\u201d",
           "link": "https://futurism.com/artificial-intelligence/odyssey-film-ai-slop",
           "date": "Wed, 15 Jul 2026 10:45:55 -0400"
@@ -437,16 +447,6 @@
           "title": "New Anthropic Ad Implies AI Could Kill Us All",
           "link": "https://futurism.com/artificial-intelligence/anthropic-ad-ai-kill-us-all",
           "date": "Tue, 14 Jul 2026 15:48:13 -0400"
-        },
-        {
-          "title": "New York Becomes First State to Ban AI Data Centers",
-          "link": "https://futurism.com/artificial-intelligence/new-york-hochul-executive-order-ban-ai-data-centers",
-          "date": "Tue, 14 Jul 2026 14:54:50 -0400"
-        },
-        {
-          "title": "Grok\u2019s Foul-Mouthed AI \u201cTranslation\u201d Feature Puts Unspeakably Ghoulish Words Into Users\u2019 Mouths",
-          "link": "https://futurism.com/artificial-intelligence/grok-foul-mouthed-ai-translation-feature",
-          "date": "Tue, 14 Jul 2026 13:54:24 -0400"
         }
       ],
       "error": null
@@ -455,6 +455,16 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "AI Isn\u2019t Smarter Than a Baby\u2014Yet",
+          "link": "https://www.wired.com/story/ai-isnt-smarter-than-a-baby-yet/",
+          "date": "Wed, 15 Jul 2026 18:30:00 +0000"
+        },
+        {
+          "title": "Thinking Machines Lab Drops Its First Model",
+          "link": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
+          "date": "Wed, 15 Jul 2026 18:05:00 +0000"
+        },
         {
           "title": "An Inventor of Apple\u2019s FaceID Wants to Analyze Your Brain\u2019s Health With AI",
           "link": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
@@ -469,16 +479,6 @@
           "title": "OpenAI Staffers Are Funding a Rival Super PAC to Take on Their Boss",
           "link": "https://www.wired.com/story/openai-employees-donations-guardrails-alliance-leading-the-future/",
           "date": "Wed, 15 Jul 2026 09:00:00 +0000"
-        },
-        {
-          "title": "YouTube and X Have Become \u2018Gateways\u2019 to Nudify Apps",
-          "link": "https://www.wired.com/story/youtube-and-x-have-become-gateways-to-nudify-apps/",
-          "date": "Tue, 14 Jul 2026 16:05:18 +0000"
-        },
-        {
-          "title": "This Luddite Puppet Hopes You\u2019re Not Reading This on Your Smartphone",
-          "link": "https://www.wired.com/story/the-big-interview-podcast-summer-of-ludd-gowanus/",
-          "date": "Tue, 14 Jul 2026 10:30:00 +0000"
         }
       ],
       "error": null
