@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T20:05:28.537349+00:00",
+  "generatedAt": "2026-07-15T21:56:40.854609+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,16 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Startup Raises $50 Million to Develop Sovereign AI Infrastructure",
+          "link": "https://aibusiness.com/generative-ai/startup-banks-50-million-develop-sovereign-ai-infrastructure",
+          "date": "Wed, 15 Jul 2026 21:42:30 GMT"
+        },
+        {
+          "title": "Perplexity AI Introduces Space Sandbox for Agents",
+          "link": "https://aibusiness.com/agentic-ai/perplexity-ai-introduces-sandbox-for-agents",
+          "date": "Wed, 15 Jul 2026 20:48:12 GMT"
+        },
+        {
           "title": "Moving Enterprise AI From Pilots to Payoff",
           "link": "https://aibusiness.com/agentic-ai/moving-enterprise-ai-from-pilots-payoff",
           "date": "Wed, 15 Jul 2026 14:34:16 GMT"
@@ -127,16 +137,6 @@
           "title": "Taiwan\u2019s Second-Largest Chipmaker Hits Photonics Production Milestone",
           "link": "https://aibusiness.com/data-centers/taiwan-s-second-largest-chipmaker-photonics-production-milestone",
           "date": "Tue, 14 Jul 2026 16:52:24 GMT"
-        },
-        {
-          "title": "Cost to Build Meta\u2019s 5GW Louisiana AI Supercluster Hits $50 Billion",
-          "link": "https://aibusiness.com/generative-ai/cost-to-build-meta-louisiana-ai-supercluster-hits-50-billion",
-          "date": "Tue, 14 Jul 2026 14:16:25 GMT"
-        },
-        {
-          "title": "Mistral AI Unveils Vision Model for Robot Navigation",
-          "link": "https://aibusiness.com/generative-ai/mistral-ai-unveils-vision-model-robot-navigation",
-          "date": "Tue, 14 Jul 2026 13:46:55 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,29 +290,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Sheetz moves 838 stores off VMware: Broadcom created \u201ctoo much uncertainty\"",
+          "link": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/",
+          "date": "Wed, 15 Jul 2026 21:41:56 +0000"
+        },
+        {
+          "title": "Judge: Trump can\u2019t deport researchers just for working in content moderation",
+          "link": "https://arstechnica.com/tech-policy/2026/07/judge-trump-cant-deport-researchers-just-for-working-in-content-moderation/",
+          "date": "Wed, 15 Jul 2026 21:26:02 +0000"
+        },
+        {
+          "title": "Engineer identifies and explains every '90s computer seen in Jurassic Park",
+          "link": "https://arstechnica.com/gadgets/2026/07/engineer-identifies-and-explains-every-90s-computer-seen-in-jurassic-park/",
+          "date": "Wed, 15 Jul 2026 21:04:22 +0000"
+        },
+        {
+          "title": "Windows 0-day drops the same day Microsoft releases record number of patches",
+          "link": "https://arstechnica.com/security/2026/07/windows-0-day-drops-the-same-day-microsoft-releases-record-number-of-patches/",
+          "date": "Wed, 15 Jul 2026 19:59:48 +0000"
+        },
+        {
           "title": "FCC to repeal 39% TV ownership cap in boost for Trump-friendly news orgs",
           "link": "https://arstechnica.com/tech-policy/2026/07/fcc-to-repeal-39-tv-ownership-cap-in-boost-for-trump-friendly-news-orgs/",
           "date": "Wed, 15 Jul 2026 18:52:22 +0000"
-        },
-        {
-          "title": "In memoriam: 7 of our favorite Sam Neill films",
-          "link": "https://arstechnica.com/culture/2026/07/in-memoriam-seven-of-our-favorite-sam-neill-films/",
-          "date": "Wed, 15 Jul 2026 18:39:58 +0000"
-        },
-        {
-          "title": "Third-party app stores coming to Google Play next week as Epic settlement withdrawn",
-          "link": "https://arstechnica.com/gadgets/2026/07/third-party-app-stores-coming-to-google-play-next-week-as-epic-settlement-withdrawn/",
-          "date": "Wed, 15 Jul 2026 16:55:12 +0000"
-        },
-        {
-          "title": "OpenAI's first branded hardware is... a light-up keyboard?",
-          "link": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/",
-          "date": "Wed, 15 Jul 2026 16:00:33 +0000"
-        },
-        {
-          "title": "A most improbable astronaut just went to space",
-          "link": "https://arstechnica.com/space/2026/07/a-most-improbable-astronaut-just-went-to-space/",
-          "date": "Wed, 15 Jul 2026 11:30:07 +0000"
         }
       ],
       "error": null
@@ -327,6 +327,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "What do human relationships with chatbots say about friendship? A philosopher considers",
+          "link": "https://theconversation.com/what-do-human-relationships-with-chatbots-say-about-friendship-a-philosopher-considers-284188",
+          "date": "2026-07-15T19:41:59Z"
+        },
         {
           "title": "Politics with Michelle Grattan: Wayne Swan on a \u2018dramatically different\u2019 political contest",
           "link": "https://theconversation.com/politics-with-michelle-grattan-wayne-swan-on-a-dramatically-different-political-contest-287570",
@@ -346,11 +351,6 @@
           "title": "Large language models often prioritize Western moral values, overlooking other cultures",
           "link": "https://theconversation.com/large-language-models-often-prioritize-western-moral-values-overlooking-other-cultures-285660",
           "date": "2026-07-14T12:04:47Z"
-        },
-        {
-          "title": "An AI lab says chatbots have what may be a key feature of consciousness. Are they right? And what now?",
-          "link": "https://theconversation.com/an-ai-lab-says-chatbots-have-what-may-be-a-key-feature-of-consciousness-are-they-right-and-what-now-287190",
-          "date": "2026-07-13T19:48:35Z"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Sixteen Nobel-Winning Economists Warn That Major AI Job Losses Are Coming",
+          "link": "https://futurism.com/artificial-intelligence/economists-warning-ai-job-losses",
+          "date": "Wed, 15 Jul 2026 16:41:45 -0400"
+        },
+        {
           "title": "OpenAI Strikes Bold Deal With Kalshi to Mix Together the Most Hated Technologies in Existence: AI and Prediction Markets",
           "link": "https://futurism.com/artificial-intelligence/openai-deal-kalshi-prediction-markets",
           "date": "Wed, 15 Jul 2026 15:33:08 -0400"
@@ -442,11 +447,6 @@
           "title": "Meta Used Its Own Flawed AI to Pick Which Employees to Lay Off, Lawsuit Claims",
           "link": "https://futurism.com/artificial-intelligence/meta-biased-ai-layoffs-workers-labor-lawsuit",
           "date": "Tue, 14 Jul 2026 16:58:28 -0400"
-        },
-        {
-          "title": "New Anthropic Ad Implies AI Could Kill Us All",
-          "link": "https://futurism.com/artificial-intelligence/anthropic-ad-ai-kill-us-all",
-          "date": "Tue, 14 Jul 2026 15:48:13 -0400"
         }
       ],
       "error": null
