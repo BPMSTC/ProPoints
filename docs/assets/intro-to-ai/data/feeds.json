@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T08:02:51.368064+00:00",
+  "generatedAt": "2026-07-15T10:46:05.386541+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -365,6 +365,11 @@
           "date": "Wed, 15 Jul 2026 06:18:06 GMT"
         },
         {
+          "title": "Anthony Albanese says he wants to do AI 'the Australian way' \u2013 video",
+          "link": "https://www.theguardian.com/australia-news/video/2026/jul/15/anthony-albanese-says-he-wants-to-do-ai-the-australian-way-video",
+          "date": "Wed, 15 Jul 2026 10:24:56 GMT"
+        },
+        {
           "title": "Once again we are told AI may be conscious \u2013 I study consciousness, and I have my doubts | Anil Seth",
           "link": "https://www.theguardian.com/commentisfree/2026/jul/15/ai-consciousness-anthropic-claude-dawkins",
           "date": "Wed, 15 Jul 2026 06:00:47 GMT"
@@ -378,11 +383,6 @@
           "title": "AI may be the toughest challenge Anthony Albanese faces this term. Guardrails are urgently needed | Peter Lewis",
           "link": "https://www.theguardian.com/commentisfree/2026/jul/15/australia-ai-challenge-anthony-albanese",
           "date": "Wed, 15 Jul 2026 02:53:48 GMT"
-        },
-        {
-          "title": "Meta used AI to tag workers who took leave to be laid off, lawsuit claims",
-          "link": "https://www.theguardian.com/technology/2026/jul/14/meta-ai-mass-layoffs-lawsuit",
-          "date": "Tue, 14 Jul 2026 23:36:20 GMT"
         }
       ],
       "error": null
@@ -456,6 +456,16 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "My Ebike Delivery Went Missing. When I Tried to Recover It, I Ended Up in Chatbot Hell",
+          "link": "https://www.wired.com/story/ebike-delivery-missing-when-i-tried-to-recover-it-i-ended-up-in-chatbot-hell/",
+          "date": "Wed, 15 Jul 2026 10:00:00 +0000"
+        },
+        {
+          "title": "OpenAI Staffers Are Funding a Rival Super PAC to Take on Their Boss",
+          "link": "https://www.wired.com/story/openai-employees-donations-guardrails-alliance-leading-the-future/",
+          "date": "Wed, 15 Jul 2026 09:00:00 +0000"
+        },
+        {
           "title": "YouTube and X Have Become \u2018Gateways\u2019 to Nudify Apps",
           "link": "https://www.wired.com/story/youtube-and-x-have-become-gateways-to-nudify-apps/",
           "date": "Tue, 14 Jul 2026 16:05:18 +0000"
@@ -469,16 +479,6 @@
           "title": "The Chatbot That Foretold Why People Share Secrets With ChatGPT",
           "link": "https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/",
           "date": "Tue, 14 Jul 2026 10:00:00 +0000"
-        },
-        {
-          "title": "DOGE Used AI for Housing Policy. The Government Won\u2019t Say How",
-          "link": "https://www.wired.com/story/doge-deployed-ai-housing-policy/",
-          "date": "Tue, 14 Jul 2026 09:00:00 +0000"
-        },
-        {
-          "title": "Siri AI Is Becoming Apple\u2019s Everything Tool",
-          "link": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/",
-          "date": "Mon, 13 Jul 2026 21:39:09 +0000"
         }
       ],
       "error": null
