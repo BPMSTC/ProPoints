@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-07-15T12:12:15.288669+00:00",
+  "generatedAt": "2026-07-15T14:46:22.149346+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Hack Reveals Suno AI Music Generator Scraped YouTube, Deezer, and Genius",
+          "link": "https://www.404media.co/hack-reveals-suno-ai-music-generator-scraped-youtube-deezer-and-genius/",
+          "date": "Wed, 15 Jul 2026 13:59:38 GMT"
+        },
         {
           "title": "Is the Best Game of the Year a Failure? (With Rob Zacny)",
           "link": "https://www.404media.co/is-the-best-game-of-the-year-a-failure-with-rob-zacny/",
@@ -24,11 +29,6 @@
           "title": "LAPD Regularly Pulled Over Innocent People Because License Plate Readers Flagged Their Cars As Stolen",
           "link": "https://www.404media.co/lapd-regularly-pulled-over-innocent-people-because-license-plate-readers-flagged-their-cars-as-stolen/",
           "date": "Mon, 13 Jul 2026 17:18:26 GMT"
-        },
-        {
-          "title": "I Bought the $3,000 Fitness Suit That Electrocutes You. I\u2019m Sending It Back",
-          "link": "https://www.404media.co/i-bought-the-3-000-fitness-suit-that-electrocutes-you-im-sending-it-back/",
-          "date": "Mon, 13 Jul 2026 14:32:05 GMT"
         }
       ],
       "error": null
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Moving Enterprise AI From Pilots to Payoff",
+          "link": "https://aibusiness.com/agentic-ai/moving-enterprise-ai-from-pilots-payoff",
+          "date": "Wed, 15 Jul 2026 14:34:16 GMT"
+        },
+        {
           "title": "Oracle Focuses on Fusion App Developers With Agentic AI Tools",
           "link": "https://aibusiness.com/agentic-ai/oracle-fusion-app-developers-agentic-tools",
           "date": "Tue, 14 Jul 2026 16:53:12 GMT"
@@ -132,11 +137,6 @@
           "title": "Mistral AI Unveils Vision Model for Robot Navigation",
           "link": "https://aibusiness.com/generative-ai/mistral-ai-unveils-vision-model-robot-navigation",
           "date": "Tue, 14 Jul 2026 13:46:55 GMT"
-        },
-        {
-          "title": "How Enterprises Should Respond to Economists\u2019 AI Risk Letter",
-          "link": "https://aibusiness.com/generative-ai/how-enterprises-should-respond-economists-ai-risk-letter",
-          "date": "Mon, 13 Jul 2026 20:16:25 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "A most improbable astronaut just went to space",
+          "link": "https://arstechnica.com/space/2026/07/a-most-improbable-astronaut-just-went-to-space/",
+          "date": "Wed, 15 Jul 2026 11:30:07 +0000"
+        },
+        {
           "title": "How hard is it to build orbital data centers, actually?",
           "link": "https://arstechnica.com/space/2026/07/how-hard-is-it-to-build-orbital-data-centers-actually/",
           "date": "Wed, 15 Jul 2026 11:00:09 +0000"
@@ -308,11 +313,6 @@
           "title": "Trump admin puts Americans in Congo on \"do-not-board\" list, barring return",
           "link": "https://arstechnica.com/health/2026/07/americans-in-congo-barred-from-returning-home-amid-ebola-outbreak/",
           "date": "Tue, 14 Jul 2026 22:09:31 +0000"
-        },
-        {
-          "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
-          "link": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
-          "date": "Tue, 14 Jul 2026 20:05:53 +0000"
         }
       ],
       "error": null
@@ -365,6 +365,11 @@
           "date": "Wed, 15 Jul 2026 06:18:06 GMT"
         },
         {
+          "title": "George Lucas likens AI sceptics to luddites clinging to horses and carts",
+          "link": "https://www.theguardian.com/film/2026/jul/15/george-lucas-likens-ai-sceptics-to-luddites-clinging-to-horses-and-carts",
+          "date": "Wed, 15 Jul 2026 14:13:45 GMT"
+        },
+        {
           "title": "Anthony Albanese says he wants to do AI 'the Australian way' \u2013 video",
           "link": "https://www.theguardian.com/australia-news/video/2026/jul/15/anthony-albanese-says-he-wants-to-do-ai-the-australian-way-video",
           "date": "Wed, 15 Jul 2026 10:24:56 GMT"
@@ -378,11 +383,6 @@
           "title": "I investigated Palantir\u2019s foothold in the British state \u2013 and what I found should worry us all | Peter Geoghegan",
           "link": "https://www.theguardian.com/commentisfree/2026/jul/15/palantir-british-state-political-access-us-tech-firm-nhs",
           "date": "Wed, 15 Jul 2026 04:00:45 GMT"
-        },
-        {
-          "title": "AI may be the toughest challenge Anthony Albanese faces this term. Guardrails are urgently needed | Peter Lewis",
-          "link": "https://www.theguardian.com/commentisfree/2026/jul/15/australia-ai-challenge-anthony-albanese",
-          "date": "Wed, 15 Jul 2026 02:53:48 GMT"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "We\u2019d Rather Live Through the Trojan War Than Spend 135 Minutes Watching an Entirely AI Version of \u201cThe Odyssey\u201d",
+          "link": "https://futurism.com/artificial-intelligence/odyssey-film-ai-slop",
+          "date": "Wed, 15 Jul 2026 10:45:55 -0400"
+        },
+        {
           "title": "Meta Used Its Own Flawed AI to Pick Which Employees to Lay Off, Lawsuit Claims",
           "link": "https://futurism.com/artificial-intelligence/meta-biased-ai-layoffs-workers-labor-lawsuit",
           "date": "Tue, 14 Jul 2026 16:58:28 -0400"
@@ -442,11 +447,6 @@
           "title": "Grok\u2019s Foul-Mouthed AI \u201cTranslation\u201d Feature Puts Unspeakably Ghoulish Words Into Users\u2019 Mouths",
           "link": "https://futurism.com/artificial-intelligence/grok-foul-mouthed-ai-translation-feature",
           "date": "Tue, 14 Jul 2026 13:54:24 -0400"
-        },
-        {
-          "title": "A Majority of Americans Now Support Seizing Wealth From AI Industry",
-          "link": "https://futurism.com/artificial-intelligence/majority-americans-seize-wealth-ai",
-          "date": "Tue, 14 Jul 2026 09:49:21 -0400"
         }
       ],
       "error": null
@@ -456,7 +456,7 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
-          "title": "The Apple FaceID Co-Inventor Building a Frontier AI Model for the Human Brain",
+          "title": "An Inventor of Apple's FaceID Wants to Analyze Your Brain's Health With AI",
           "link": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
           "date": "Wed, 15 Jul 2026 12:00:00 +0000"
         },
