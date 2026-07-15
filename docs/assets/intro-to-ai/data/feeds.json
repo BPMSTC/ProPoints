@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T05:27:21.732589+00:00",
+  "generatedAt": "2026-07-15T08:02:51.368064+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -328,6 +328,16 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Politics with Michelle Grattan: Wayne Swan on a \u2018dramatically different\u2019 political contest",
+          "link": "https://theconversation.com/politics-with-michelle-grattan-wayne-swan-on-a-dramatically-different-political-contest-287570",
+          "date": "2026-07-15T06:48:15Z"
+        },
+        {
+          "title": "Australia wants to \u2018manage\u2019 AI. What will that look like?",
+          "link": "https://theconversation.com/australia-wants-to-manage-ai-what-will-that-look-like-287496",
+          "date": "2026-07-15T05:13:18Z"
+        },
+        {
           "title": "View from The Hill: Albanese takes oversight of government\u2019s response to AI under his own wing",
           "link": "https://theconversation.com/view-from-the-hill-albanese-takes-oversight-of-governments-response-to-ai-under-his-own-wing-287494",
           "date": "2026-07-14T12:52:19Z"
@@ -341,16 +351,6 @@
           "title": "An AI lab says chatbots have what may be a key feature of consciousness. Are they right? And what now?",
           "link": "https://theconversation.com/an-ai-lab-says-chatbots-have-what-may-be-a-key-feature-of-consciousness-are-they-right-and-what-now-287190",
           "date": "2026-07-13T19:48:35Z"
-        },
-        {
-          "title": "More than 50% of Australian university assignments used AI. How should unis respond?",
-          "link": "https://theconversation.com/more-than-50-of-australian-university-assignments-used-ai-how-should-unis-respond-287179",
-          "date": "2026-07-13T19:47:56Z"
-        },
-        {
-          "title": "Despite the growth of some AI schools like Alpha, research doesn\u2019t show that AI tutors are better than human teachers",
-          "link": "https://theconversation.com/despite-the-growth-of-some-ai-schools-like-alpha-research-doesnt-show-that-ai-tutors-are-better-than-human-teachers-281290",
-          "date": "2026-07-13T12:05:08Z"
         }
       ],
       "error": null
@@ -360,9 +360,14 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Global cooperation needed to tackle AI threats, says Bank of England governor",
-          "link": "https://www.theguardian.com/technology/2026/jul/14/global-cooperation-needed-to-tackle-ai-threats-says-bank-of-england-governor",
-          "date": "Tue, 14 Jul 2026 20:10:34 GMT"
+          "title": "\u2018Not up for grabs\u2019: Albanese establishes AI office and vows to protect Australian creatives from copyright \u2018theft\u2019",
+          "link": "https://www.theguardian.com/technology/2026/jul/15/office-of-ai-artificial-intelligence-copyright-australia-government",
+          "date": "Wed, 15 Jul 2026 06:18:06 GMT"
+        },
+        {
+          "title": "Once again we are told AI may be conscious \u2013 I study consciousness, and I have my doubts | Anil Seth",
+          "link": "https://www.theguardian.com/commentisfree/2026/jul/15/ai-consciousness-anthropic-claude-dawkins",
+          "date": "Wed, 15 Jul 2026 06:00:47 GMT"
         },
         {
           "title": "I investigated Palantir\u2019s foothold in the British state \u2013 and what I found should worry us all | Peter Geoghegan",
@@ -378,11 +383,6 @@
           "title": "Meta used AI to tag workers who took leave to be laid off, lawsuit claims",
           "link": "https://www.theguardian.com/technology/2026/jul/14/meta-ai-mass-layoffs-lawsuit",
           "date": "Tue, 14 Jul 2026 23:36:20 GMT"
-        },
-        {
-          "title": "Book publishers sue Google for copyright infringement over Gemini AI training",
-          "link": "https://www.theguardian.com/books/2026/jul/14/publishers-sue-google-gemini-ai-training",
-          "date": "Tue, 14 Jul 2026 18:16:56 GMT"
         }
       ],
       "error": null
