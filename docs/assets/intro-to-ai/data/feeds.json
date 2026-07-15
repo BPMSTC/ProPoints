@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-07-15T14:46:22.149346+00:00",
+  "generatedAt": "2026-07-15T16:17:58.340153+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Podcast: We Are Living in a \u2018ChatGPT Flyer Pandemic\u2019",
+          "link": "https://www.404media.co/podcast-we-are-living-in-a-chatgpt-flyer-pandemic/",
+          "date": "Wed, 15 Jul 2026 15:58:34 GMT"
+        },
         {
           "title": "Hack Reveals Suno AI Music Generator Scraped YouTube, Deezer, and Genius",
           "link": "https://www.404media.co/hack-reveals-suno-ai-music-generator-scraped-youtube-deezer-and-genius/",
@@ -24,11 +29,6 @@
           "title": "Podcast: Liberation, Eroticism, and Sex in Public (with Angela Jones)",
           "link": "https://www.404media.co/sex-in-public-with-angela-jones/",
           "date": "Mon, 13 Jul 2026 19:23:39 GMT"
-        },
-        {
-          "title": "LAPD Regularly Pulled Over Innocent People Because License Plate Readers Flagged Their Cars As Stolen",
-          "link": "https://www.404media.co/lapd-regularly-pulled-over-innocent-people-because-license-plate-readers-flagged-their-cars-as-stolen/",
-          "date": "Mon, 13 Jul 2026 17:18:26 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -365,6 +365,11 @@
           "date": "Wed, 15 Jul 2026 06:18:06 GMT"
         },
         {
+          "title": "Albanese\u2019s AI plan is admirable \u2013 but will face tech giants more powerful than most national governments",
+          "link": "https://www.theguardian.com/australia-news/2026/jul/16/albanese-ai-plan-tech-giants-regulating-social-media-analysis",
+          "date": "Wed, 15 Jul 2026 15:00:59 GMT"
+        },
+        {
           "title": "George Lucas likens AI sceptics to luddites clinging to horses and carts",
           "link": "https://www.theguardian.com/film/2026/jul/15/george-lucas-likens-ai-sceptics-to-luddites-clinging-to-horses-and-carts",
           "date": "Wed, 15 Jul 2026 14:13:45 GMT"
@@ -378,11 +383,6 @@
           "title": "Once again we are told AI may be conscious \u2013 I study consciousness, and I have my doubts | Anil Seth",
           "link": "https://www.theguardian.com/commentisfree/2026/jul/15/ai-consciousness-anthropic-claude-dawkins",
           "date": "Wed, 15 Jul 2026 06:00:47 GMT"
-        },
-        {
-          "title": "I investigated Palantir\u2019s foothold in the British state \u2013 and what I found should worry us all | Peter Geoghegan",
-          "link": "https://www.theguardian.com/commentisfree/2026/jul/15/palantir-british-state-political-access-us-tech-firm-nhs",
-          "date": "Wed, 15 Jul 2026 04:00:45 GMT"
         }
       ],
       "error": null
@@ -456,7 +456,7 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
-          "title": "An Inventor of Apple's FaceID Wants to Analyze Your Brain's Health With AI",
+          "title": "An Inventor of Apple\u2019s FaceID Wants to Analyze Your Brain\u2019s Health With AI",
           "link": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
           "date": "Wed, 15 Jul 2026 12:00:00 +0000"
         },
