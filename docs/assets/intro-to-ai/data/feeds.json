@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T15:36:47.983735+00:00",
+  "generatedAt": "2026-07-16T17:12:13.704591+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -164,9 +164,14 @@
       "url": "https://ainowinstitute.org/category/news/feed",
       "items": [
         {
-          "title": "AI Now is Hiring a Senior Fellow, Global Programs",
-          "link": "https://ainowinstitute.org/general/ai-now-is-hiring-a-senior-fellow-global-programs",
-          "date": "Tue, 16 Jun 2026 22:51:38 +0000"
+          "title": "Big Tech is spending trillions on AI. Investors now want proof it will pay off.",
+          "link": "https://ainowinstitute.org/news/press/big-tech-is-spending-trillions-on-ai-investors-now-want-proof-it-will-pay-off",
+          "date": "Fri, 26 Jun 2026 15:01:11 +0000"
+        },
+        {
+          "title": "Gig workers are endlessly exploited. AI could make more of us share their fate",
+          "link": "https://ainowinstitute.org/news/press/gig-workers-are-endlessly-exploited-ai-could-make-more-of-us-share-their-fate",
+          "date": "Thu, 18 Jun 2026 15:07:11 +0000"
         },
         {
           "title": "AI Now Co-Executive Director Sarah Myers West Testifies Before Senate Banking Committee",
@@ -179,14 +184,9 @@
           "date": "Thu, 11 Jun 2026 09:12:23 +0000"
         },
         {
-          "title": "Nurses Sound Alarm as \u2018Uber for Nursing\u2019 Apps Push to Deregulate Healthcare",
-          "link": "https://ainowinstitute.org/news/press/nurses-sound-alarm-as-uber-for-nursing-apps-push-to-deregulate-healthcare",
-          "date": "Thu, 23 Apr 2026 14:09:30 +0000"
-        },
-        {
-          "title": "\u2018Uber for nurses\u2019: gig-work apps lobby to deregulate healthcare, report finds",
-          "link": "https://ainowinstitute.org/news/press/uber-for-nurses-gig-work-apps-lobby-to-deregulate-healthcare-report-finds",
-          "date": "Tue, 21 Apr 2026 14:09:55 +0000"
+          "title": "Here\u2019s How Long It Will Take for AI to Reach Its Potential",
+          "link": "https://ainowinstitute.org/news/heres-how-long-it-will-take-for-ai-to-reach-its-potential",
+          "date": "Sun, 07 Jun 2026 15:10:33 +0000"
         }
       ],
       "error": null
@@ -206,6 +206,11 @@
           "date": "2025-09-09T02:25:04+00:00"
         },
         {
+          "title": "New moderators needed - comment on this post to volunteer to become a moderator of this community.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1uy7qwu/new_moderators_needed_comment_on_this_post_to/",
+          "date": "2026-07-16T16:28:02+00:00"
+        },
+        {
           "title": "NPM MetaHarness: Self Customizing agent harnesses built around existing AI tools (Claude Code, Hermes, Codex, and others)",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1uo3gw8/npm_metaharness_self_customizing_agent_harnesses/",
           "date": "2026-07-05T14:23:10+00:00"
@@ -214,11 +219,6 @@
           "title": "At least they\u2019re honest..",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1unemhb/at_least_theyre_honest/",
           "date": "2026-07-04T17:19:17+00:00"
-        },
-        {
-          "title": "I built a free, open-source menu bar app that shows your Claude Code / Codex quota before you hit the wall (zero API calls, zero Keychain access)",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1uni4eu/i_built_a_free_opensource_menu_bar_app_that_shows/",
-          "date": "2026-07-04T19:42:28+00:00"
         }
       ],
       "error": null
@@ -290,29 +290,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "OnePlus ends phone releases in US and Europe, further reducing smartphone choice",
+          "link": "https://arstechnica.com/gadgets/2026/07/oneplus-ends-phone-releases-in-us-and-europe-further-reducing-smartphone-choice/",
+          "date": "Thu, 16 Jul 2026 16:29:46 +0000"
+        },
+        {
+          "title": "Could China and Russia really destroy Starlink? Only with a boomerang.",
+          "link": "https://arstechnica.com/space/2026/07/could-china-and-russia-really-destroy-starlink-only-with-a-boomerang/",
+          "date": "Thu, 16 Jul 2026 16:19:28 +0000"
+        },
+        {
+          "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
+          "link": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
+          "date": "Thu, 16 Jul 2026 15:48:21 +0000"
+        },
+        {
+          "title": "Tesla driver who blamed crash on autopilot pressed accelerator 100%, NTSB finds",
+          "link": "https://arstechnica.com/tech-policy/2026/07/tesla-driver-who-blamed-crash-on-autopilot-pressed-accelerator-100-ntsb-finds/",
+          "date": "Thu, 16 Jul 2026 14:48:32 +0000"
+        },
+        {
           "title": "Move over, GPS: Navigation satellites in low-Earth orbit are making a comeback",
           "link": "https://arstechnica.com/space/2026/07/move-over-gps-navigation-satellites-in-low-earth-orbit-are-making-a-comeback/",
           "date": "Thu, 16 Jul 2026 11:00:21 +0000"
-        },
-        {
-          "title": "Hundreds rally at Bethesda HQ to protest Xbox layoffs, and Ars was there",
-          "link": "https://arstechnica.com/gaming/2026/07/hundreds-rally-at-bethesda-hq-to-protest-xbox-layoffs-and-ars-was-there/",
-          "date": "Wed, 15 Jul 2026 22:36:28 +0000"
-        },
-        {
-          "title": "Buzz Aldrin sells famous felt-tip pen that helped launch Apollo from the Moon",
-          "link": "https://arstechnica.com/space/2026/07/apollo-11s-broken-switch-and-mission-saving-pen-sell-for-860k/",
-          "date": "Wed, 15 Jul 2026 22:10:41 +0000"
-        },
-        {
-          "title": "Sheetz is quitting VMware, migrating 11,000 virtual machines",
-          "link": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/",
-          "date": "Wed, 15 Jul 2026 21:41:56 +0000"
-        },
-        {
-          "title": "Judge: Trump can\u2019t deport researchers just for working in content moderation",
-          "link": "https://arstechnica.com/tech-policy/2026/07/judge-trump-cant-deport-researchers-just-for-working-in-content-moderation/",
-          "date": "Wed, 15 Jul 2026 21:26:02 +0000"
         }
       ],
       "error": null
