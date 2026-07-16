@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T09:10:38.464177+00:00",
+  "generatedAt": "2026-07-16T11:41:15.818988+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "Berlin, Paris, London:  how Europe's AI hubs are diverging",
+          "link": "https://www.aiacceleratorinstitute.com/berlin-paris-london-how-europes-ai-hubs-are-diverging/",
+          "date": "Thu, 16 Jul 2026 11:31:47 GMT"
+        },
+        {
           "title": "Barndoor Live Session",
           "link": "https://www.aiacceleratorinstitute.com/thanks-for-registering-4/",
           "date": "Mon, 13 Jul 2026 15:21:33 GMT"
@@ -88,11 +93,6 @@
           "title": "Your AI Workforce Is Already Running. Can You Prove What It's Producing?",
           "link": "https://www.aiacceleratorinstitute.com/prove-what-your-workforce-is-producing/",
           "date": "Wed, 08 Jul 2026 09:11:21 GMT"
-        },
-        {
-          "title": "Q&A: How Headroom went from  side project to enterprise infrastructure.",
-          "link": "https://www.aiacceleratorinstitute.com/q-a-how-headroom-went-from-side-project-to-enterprise-infrastructure/",
-          "date": "Tue, 07 Jul 2026 10:00:25 GMT"
         }
       ],
       "error": null
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -113,6 +113,11 @@
       "name": "AI Business",
       "url": "https://aibusiness.com/rss.xml",
       "items": [
+        {
+          "title": "Foundation Launched to Standardize AI Payments",
+          "link": "https://aibusiness.com/agentic-ai/foundation-standardize-ai-payments",
+          "date": "Thu, 16 Jul 2026 10:55:56 GMT"
+        },
         {
           "title": "Startup Raises $50 Million to Develop Sovereign AI Infrastructure",
           "link": "https://aibusiness.com/generative-ai/startup-banks-50-million-develop-sovereign-ai-infrastructure",
@@ -132,11 +137,6 @@
           "title": "Oracle Focuses on Fusion App Developers With Agentic AI Tools",
           "link": "https://aibusiness.com/agentic-ai/oracle-fusion-app-developers-agentic-tools",
           "date": "Tue, 14 Jul 2026 16:53:12 GMT"
-        },
-        {
-          "title": "Taiwan\u2019s Second-Largest Chipmaker Hits Photonics Production Milestone",
-          "link": "https://aibusiness.com/data-centers/taiwan-s-second-largest-chipmaker-photonics-production-milestone",
-          "date": "Tue, 14 Jul 2026 16:52:24 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -328,6 +328,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Wherever AI is heading next, older people want a say",
+          "link": "https://theconversation.com/wherever-ai-is-heading-next-older-people-want-a-say-285580",
+          "date": "2026-07-16T10:39:28Z"
+        },
+        {
           "title": "Gen Z is pushing back against AI \u2013 a reminder to all of us that the future isn\u2019t written",
           "link": "https://theconversation.com/gen-z-is-pushing-back-against-ai-a-reminder-to-all-of-us-that-the-future-isnt-written-284955",
           "date": "2026-07-15T23:50:10Z"
@@ -346,11 +351,6 @@
           "title": "Australia wants to \u2018manage\u2019 AI. What will that look like?",
           "link": "https://theconversation.com/australia-wants-to-manage-ai-what-will-that-look-like-287496",
           "date": "2026-07-15T05:13:18Z"
-        },
-        {
-          "title": "View from The Hill: Albanese takes oversight of government\u2019s response to AI under his own wing",
-          "link": "https://theconversation.com/view-from-the-hill-albanese-takes-oversight-of-governments-response-to-ai-under-his-own-wing-287494",
-          "date": "2026-07-14T12:52:19Z"
         }
       ],
       "error": null
@@ -456,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Please Stop Making Me Opt Out of AI",
+          "link": "https://www.wired.com/story/please-stop-making-me-opt-out-of-ai/",
+          "date": "Thu, 16 Jul 2026 10:00:00 +0000"
+        },
+        {
           "title": "AI Isn\u2019t Smarter Than a Baby\u2014Yet",
           "link": "https://www.wired.com/story/ai-isnt-smarter-than-a-baby-yet/",
           "date": "Wed, 15 Jul 2026 18:30:00 +0000"
@@ -474,11 +479,6 @@
           "title": "My Ebike Delivery Went Missing. When I Tried to Recover It, I Ended Up in Chatbot Hell",
           "link": "https://www.wired.com/story/ebike-delivery-missing-when-i-tried-to-recover-it-i-ended-up-in-chatbot-hell/",
           "date": "Wed, 15 Jul 2026 10:00:00 +0000"
-        },
-        {
-          "title": "OpenAI Staffers Are Funding a Rival Super PAC to Take on Their Boss",
-          "link": "https://www.wired.com/story/openai-employees-donations-guardrails-alliance-leading-the-future/",
-          "date": "Wed, 15 Jul 2026 09:00:00 +0000"
         }
       ],
       "error": null
