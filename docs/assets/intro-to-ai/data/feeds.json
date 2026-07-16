@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-07-16T17:12:13.704591+00:00",
+  "generatedAt": "2026-07-16T19:04:36.040938+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Scientists Discover Planet Has Everything to Host \u2018Earth-Like Life\u2019 In Breakthrough",
+          "link": "https://www.404media.co/scientists-discover-planet-has-everything-to-host-earth-like-life-in-breakthrough/",
+          "date": "Thu, 16 Jul 2026 18:00:10 GMT"
+        },
         {
           "title": "How Cops Use Flock to Track People, Not Cars",
           "link": "https://www.404media.co/how-cops-use-flock-to-track-people-not-cars/",
@@ -24,11 +29,6 @@
           "title": "Is the Best Game of the Year a Failure? (With Rob Zacny)",
           "link": "https://www.404media.co/is-the-best-game-of-the-year-a-failure-with-rob-zacny/",
           "date": "Tue, 14 Jul 2026 15:05:20 GMT"
-        },
-        {
-          "title": "AI Made Cloning Games Easier Than Ever",
-          "link": "https://www.404media.co/ai-made-cloning-games-easier-than-ever/",
-          "date": "Tue, 14 Jul 2026 13:20:54 GMT"
         }
       ],
       "error": null
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Thinking Machines Rolls Out Broad but Efficient Model",
+          "link": "https://aibusiness.com/foundation-models/thinking-machines-inkling-model",
+          "date": "Thu, 16 Jul 2026 18:35:21 GMT"
+        },
+        {
           "title": "Nebius Embarks on &quot;Asset-Light&quot; Data Center Model",
           "link": "https://aibusiness.com/data-centers/nebius-asset-light-data-center-model",
           "date": "Thu, 16 Jul 2026 12:02:06 GMT"
@@ -132,11 +137,6 @@
           "title": "Perplexity AI Introduces Space Sandbox for Agents",
           "link": "https://aibusiness.com/agentic-ai/perplexity-ai-introduces-sandbox-for-agents",
           "date": "Wed, 15 Jul 2026 20:48:12 GMT"
-        },
-        {
-          "title": "Moving Enterprise AI From Pilots to Payoff",
-          "link": "https://aibusiness.com/agentic-ai/moving-enterprise-ai-from-pilots-payoff",
-          "date": "Wed, 15 Jul 2026 14:34:16 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,7 +290,12 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "OnePlus ends phone releases in US and Europe, further reducing smartphone choice",
+          "title": "We've seen helium baked off a rocky exoplanet's atmosphere",
+          "link": "https://arstechnica.com/science/2026/07/weve-seen-helium-baked-off-a-rocky-exoplanets-atmosphere/",
+          "date": "Thu, 16 Jul 2026 18:00:15 +0000"
+        },
+        {
+          "title": "OnePlus confirms shutdown in the US and Europe, ending months of speculation",
           "link": "https://arstechnica.com/gadgets/2026/07/oneplus-ends-phone-releases-in-us-and-europe-further-reducing-smartphone-choice/",
           "date": "Thu, 16 Jul 2026 16:29:46 +0000"
         },
@@ -308,11 +313,6 @@
           "title": "Tesla driver who blamed crash on autopilot pressed accelerator 100%, NTSB finds",
           "link": "https://arstechnica.com/tech-policy/2026/07/tesla-driver-who-blamed-crash-on-autopilot-pressed-accelerator-100-ntsb-finds/",
           "date": "Thu, 16 Jul 2026 14:48:32 +0000"
-        },
-        {
-          "title": "Move over, GPS: Navigation satellites in low-Earth orbit are making a comeback",
-          "link": "https://arstechnica.com/space/2026/07/move-over-gps-navigation-satellites-in-low-earth-orbit-are-making-a-comeback/",
-          "date": "Thu, 16 Jul 2026 11:00:21 +0000"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Elon Musk\u2019s AI Startup Is a Complete Disaster Behind the Scenes",
+          "link": "https://futurism.com/artificial-intelligence/elon-musk-ai-startup-disaster",
+          "date": "Thu, 16 Jul 2026 15:01:18 -0400"
+        },
+        {
           "title": "Sixteen Nobel-Winning Economists Warn That Major AI Job Losses Are Coming",
           "link": "https://futurism.com/artificial-intelligence/economists-warning-ai-job-losses",
           "date": "Wed, 15 Jul 2026 16:41:45 -0400"
@@ -442,11 +447,6 @@
           "title": "We\u2019d Rather Live Through the Trojan War Than Spend 135 Minutes Watching an Entirely AI Version of \u201cThe Odyssey\u201d",
           "link": "https://futurism.com/artificial-intelligence/odyssey-film-ai-slop",
           "date": "Wed, 15 Jul 2026 10:45:55 -0400"
-        },
-        {
-          "title": "Meta Used Its Own Flawed AI to Pick Which Employees to Lay Off, Lawsuit Claims",
-          "link": "https://futurism.com/artificial-intelligence/meta-biased-ai-layoffs-workers-labor-lawsuit",
-          "date": "Tue, 14 Jul 2026 16:58:28 -0400"
         }
       ],
       "error": null
@@ -455,6 +455,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Here\u2019s Why Anthropic Is Pushing States to Regulate AI Faster",
+          "link": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
+          "date": "Thu, 16 Jul 2026 18:35:18 +0000"
+        },
         {
           "title": "Please Stop Making Me Opt Out of AI",
           "link": "https://www.wired.com/story/please-stop-making-me-opt-out-of-ai/",
@@ -474,11 +479,6 @@
           "title": "An Inventor of Apple\u2019s FaceID Wants to Analyze Your Brain\u2019s Health With AI",
           "link": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
           "date": "Wed, 15 Jul 2026 12:00:00 +0000"
-        },
-        {
-          "title": "My Ebike Delivery Went Missing. When I Tried to Recover It, I Ended Up in Chatbot Hell",
-          "link": "https://www.wired.com/story/ebike-delivery-missing-when-i-tried-to-recover-it-i-ended-up-in-chatbot-hell/",
-          "date": "Wed, 15 Jul 2026 10:00:00 +0000"
         }
       ],
       "error": null
