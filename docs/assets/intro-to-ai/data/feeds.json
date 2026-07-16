@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T22:00:39.916658+00:00",
+  "generatedAt": "2026-07-16T23:55:56.028557+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "OpenAI Unveils GPT-Red to Test AI Model Safety",
+          "link": "https://aibusiness.com/generative-ai/openai-ugpt-red-tests-ai-model-safety",
+          "date": "Thu, 16 Jul 2026 21:32:28 GMT"
+        },
+        {
           "title": "Toyota Spin-Out Launches From Stealth With $300M",
           "link": "https://aibusiness.com/robotics/walden-robotics-emerges-from-stealth",
           "date": "Thu, 16 Jul 2026 19:52:29 GMT"
@@ -132,11 +137,6 @@
           "title": "Foundation Launched to Standardize AI Payments",
           "link": "https://aibusiness.com/agentic-ai/foundation-standardize-ai-payments",
           "date": "Thu, 16 Jul 2026 10:55:56 GMT"
-        },
-        {
-          "title": "Startup Raises $50 Million to Develop Sovereign AI Infrastructure",
-          "link": "https://aibusiness.com/generative-ai/startup-banks-50-million-develop-sovereign-ai-infrastructure",
-          "date": "Wed, 15 Jul 2026 21:42:30 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -164,14 +164,9 @@
       "url": "https://ainowinstitute.org/category/news/feed",
       "items": [
         {
-          "title": "Big Tech is spending trillions on AI. Investors now want proof it will pay off.",
-          "link": "https://ainowinstitute.org/news/press/big-tech-is-spending-trillions-on-ai-investors-now-want-proof-it-will-pay-off",
-          "date": "Fri, 26 Jun 2026 15:01:11 +0000"
-        },
-        {
-          "title": "Gig workers are endlessly exploited. AI could make more of us share their fate",
-          "link": "https://ainowinstitute.org/news/press/gig-workers-are-endlessly-exploited-ai-could-make-more-of-us-share-their-fate",
-          "date": "Thu, 18 Jun 2026 15:07:11 +0000"
+          "title": "AI Now is Hiring a Senior Fellow, Global Programs",
+          "link": "https://ainowinstitute.org/general/ai-now-is-hiring-a-senior-fellow-global-programs",
+          "date": "Tue, 16 Jun 2026 22:51:38 +0000"
         },
         {
           "title": "AI Now Co-Executive Director Sarah Myers West Testifies Before Senate Banking Committee",
@@ -184,9 +179,14 @@
           "date": "Thu, 11 Jun 2026 09:12:23 +0000"
         },
         {
-          "title": "Here\u2019s How Long It Will Take for AI to Reach Its Potential",
-          "link": "https://ainowinstitute.org/news/heres-how-long-it-will-take-for-ai-to-reach-its-potential",
-          "date": "Sun, 07 Jun 2026 15:10:33 +0000"
+          "title": "Nurses Sound Alarm as \u2018Uber for Nursing\u2019 Apps Push to Deregulate Healthcare",
+          "link": "https://ainowinstitute.org/news/press/nurses-sound-alarm-as-uber-for-nursing-apps-push-to-deregulate-healthcare",
+          "date": "Thu, 23 Apr 2026 14:09:30 +0000"
+        },
+        {
+          "title": "\u2018Uber for nurses\u2019: gig-work apps lobby to deregulate healthcare, report finds",
+          "link": "https://ainowinstitute.org/news/press/uber-for-nurses-gig-work-apps-lobby-to-deregulate-healthcare-report-finds",
+          "date": "Tue, 21 Apr 2026 14:09:55 +0000"
         }
       ],
       "error": null
@@ -456,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
+          "link": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
+          "date": "Thu, 16 Jul 2026 22:17:27 +0000"
+        },
+        {
           "title": "Here\u2019s Why Anthropic Is Pushing States to Regulate AI Faster",
           "link": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
           "date": "Thu, 16 Jul 2026 18:35:18 +0000"
@@ -474,11 +479,6 @@
           "title": "Thinking Machines Lab Drops Its First Model",
           "link": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
           "date": "Wed, 15 Jul 2026 18:05:00 +0000"
-        },
-        {
-          "title": "An Inventor of Apple\u2019s FaceID Wants to Analyze Your Brain\u2019s Health With AI",
-          "link": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
-          "date": "Wed, 15 Jul 2026 12:00:00 +0000"
         }
       ],
       "error": null
