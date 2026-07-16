@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T11:41:15.818988+00:00",
+  "generatedAt": "2026-07-16T13:43:12.682261+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -113,6 +113,11 @@
       "name": "AI Business",
       "url": "https://aibusiness.com/rss.xml",
       "items": [
+        {
+          "title": "Nebius Embarks on &quot;Asset-Light&quot; Data Center Model",
+          "link": "https://aibusiness.com/data-centers/nebius-asset-light-data-center-model",
+          "date": "Thu, 16 Jul 2026 12:02:06 GMT"
+        },
         {
           "title": "Foundation Launched to Standardize AI Payments",
           "link": "https://aibusiness.com/agentic-ai/foundation-standardize-ai-payments",
@@ -132,11 +137,6 @@
           "title": "Moving Enterprise AI From Pilots to Payoff",
           "link": "https://aibusiness.com/agentic-ai/moving-enterprise-ai-from-pilots-payoff",
           "date": "Wed, 15 Jul 2026 14:34:16 GMT"
-        },
-        {
-          "title": "Oracle Focuses on Fusion App Developers With Agentic AI Tools",
-          "link": "https://aibusiness.com/agentic-ai/oracle-fusion-app-developers-agentic-tools",
-          "date": "Tue, 14 Jul 2026 16:53:12 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Move over, GPS: Navigation satellites in low-Earth orbit are making a comeback",
+          "link": "https://arstechnica.com/space/2026/07/move-over-gps-navigation-satellites-in-low-earth-orbit-are-making-a-comeback/",
+          "date": "Thu, 16 Jul 2026 11:00:21 +0000"
+        },
+        {
           "title": "Hundreds rally at Bethesda HQ to protest Xbox layoffs, and Ars was there",
           "link": "https://arstechnica.com/gaming/2026/07/hundreds-rally-at-bethesda-hq-to-protest-xbox-layoffs-and-ars-was-there/",
           "date": "Wed, 15 Jul 2026 22:36:28 +0000"
@@ -308,11 +313,6 @@
           "title": "Judge: Trump can\u2019t deport researchers just for working in content moderation",
           "link": "https://arstechnica.com/tech-policy/2026/07/judge-trump-cant-deport-researchers-just-for-working-in-content-moderation/",
           "date": "Wed, 15 Jul 2026 21:26:02 +0000"
-        },
-        {
-          "title": "Engineer identifies and explains every '90s computer seen in Jurassic Park",
-          "link": "https://arstechnica.com/gadgets/2026/07/engineer-identifies-and-explains-every-90s-computer-seen-in-jurassic-park/",
-          "date": "Wed, 15 Jul 2026 21:04:22 +0000"
         }
       ],
       "error": null
@@ -328,6 +328,16 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Who owns an AI generated song? What we can learn from the phonograph and the evolution of copyright laws",
+          "link": "https://theconversation.com/who-owns-an-ai-generated-song-what-we-can-learn-from-the-phonograph-and-the-evolution-of-copyright-laws-285537",
+          "date": "2026-07-16T12:48:17Z"
+        },
+        {
+          "title": "Can a power company take your land to support a data center? It depends",
+          "link": "https://theconversation.com/can-a-power-company-take-your-land-to-support-a-data-center-it-depends-284061",
+          "date": "2026-07-16T12:19:04Z"
+        },
+        {
           "title": "Wherever AI is heading next, older people want a say",
           "link": "https://theconversation.com/wherever-ai-is-heading-next-older-people-want-a-say-285580",
           "date": "2026-07-16T10:39:28Z"
@@ -341,16 +351,6 @@
           "title": "What do human relationships with chatbots say about friendship? A philosopher considers",
           "link": "https://theconversation.com/what-do-human-relationships-with-chatbots-say-about-friendship-a-philosopher-considers-284188",
           "date": "2026-07-15T19:41:59Z"
-        },
-        {
-          "title": "Politics with Michelle Grattan: Wayne Swan on a \u2018dramatically different\u2019 political contest",
-          "link": "https://theconversation.com/politics-with-michelle-grattan-wayne-swan-on-a-dramatically-different-political-contest-287570",
-          "date": "2026-07-15T06:48:15Z"
-        },
-        {
-          "title": "Australia wants to \u2018manage\u2019 AI. What will that look like?",
-          "link": "https://theconversation.com/australia-wants-to-manage-ai-what-will-that-look-like-287496",
-          "date": "2026-07-15T05:13:18Z"
         }
       ],
       "error": null
@@ -359,6 +359,11 @@
       "name": "Artificial intelligence (AI) | The Guardian",
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
+        {
+          "title": "TikTok facing UK investigation amid fears over age checks and harm to children",
+          "link": "https://www.theguardian.com/technology/2026/jul/16/tiktok-uk-investigation-ofcom-child-protection-self-harm-suicide",
+          "date": "Thu, 16 Jul 2026 13:02:10 GMT"
+        },
         {
           "title": "The social media ban sceptic: are we getting it wrong on kids, tech and mental health?",
           "link": "https://www.theguardian.com/society/2026/jul/16/psychologist-candice-odgers-kids-tech-mental-health-social-media-bans",
@@ -378,11 +383,6 @@
           "title": "Anthony Albanese\u2019s AI vision scores high on vibes but the devil will be in the detail. And there is one glaring omission \u2026 | David Pocock",
           "link": "https://www.theguardian.com/australia-news/commentisfree/2026/jul/16/anthony-albanese-ai-vision-artificial-intelligence-omission",
           "date": "Thu, 16 Jul 2026 00:05:38 GMT"
-        },
-        {
-          "title": "Trump rails against New York\u2019s statewide datacenter moratorium",
-          "link": "https://www.theguardian.com/us-news/2026/jul/15/trump-new-york-datacenter-moratorium",
-          "date": "Wed, 15 Jul 2026 18:05:46 GMT"
         }
       ],
       "error": null
