@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T23:55:56.028557+00:00",
+  "generatedAt": "2026-07-17T02:30:32.323321+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -164,9 +164,14 @@
       "url": "https://ainowinstitute.org/category/news/feed",
       "items": [
         {
-          "title": "AI Now is Hiring a Senior Fellow, Global Programs",
-          "link": "https://ainowinstitute.org/general/ai-now-is-hiring-a-senior-fellow-global-programs",
-          "date": "Tue, 16 Jun 2026 22:51:38 +0000"
+          "title": "Big Tech is spending trillions on AI. Investors now want proof it will pay off.",
+          "link": "https://ainowinstitute.org/news/press/big-tech-is-spending-trillions-on-ai-investors-now-want-proof-it-will-pay-off",
+          "date": "Fri, 26 Jun 2026 15:01:11 +0000"
+        },
+        {
+          "title": "Gig workers are endlessly exploited. AI could make more of us share their fate",
+          "link": "https://ainowinstitute.org/news/press/gig-workers-are-endlessly-exploited-ai-could-make-more-of-us-share-their-fate",
+          "date": "Thu, 18 Jun 2026 15:07:11 +0000"
         },
         {
           "title": "AI Now Co-Executive Director Sarah Myers West Testifies Before Senate Banking Committee",
@@ -179,14 +184,9 @@
           "date": "Thu, 11 Jun 2026 09:12:23 +0000"
         },
         {
-          "title": "Nurses Sound Alarm as \u2018Uber for Nursing\u2019 Apps Push to Deregulate Healthcare",
-          "link": "https://ainowinstitute.org/news/press/nurses-sound-alarm-as-uber-for-nursing-apps-push-to-deregulate-healthcare",
-          "date": "Thu, 23 Apr 2026 14:09:30 +0000"
-        },
-        {
-          "title": "\u2018Uber for nurses\u2019: gig-work apps lobby to deregulate healthcare, report finds",
-          "link": "https://ainowinstitute.org/news/press/uber-for-nurses-gig-work-apps-lobby-to-deregulate-healthcare-report-finds",
-          "date": "Tue, 21 Apr 2026 14:09:55 +0000"
+          "title": "Here\u2019s How Long It Will Take for AI to Reach Its Potential",
+          "link": "https://ainowinstitute.org/news/heres-how-long-it-will-take-for-ai-to-reach-its-potential",
+          "date": "Sun, 07 Jun 2026 15:10:33 +0000"
         }
       ],
       "error": null
@@ -290,6 +290,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "SpaceX scrubs Starship launch after some of its engines didn't start",
+          "link": "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/",
+          "date": "Fri, 17 Jul 2026 00:02:54 +0000"
+        },
+        {
+          "title": "Two Trump health nominees crash and burn in tense Senate hearing",
+          "link": "https://arstechnica.com/health/2026/07/two-trump-health-nominees-crash-and-burn-in-tense-senate-hearing/",
+          "date": "Thu, 16 Jul 2026 22:33:24 +0000"
+        },
+        {
+          "title": "HP fined 1.4 billion rupees for \u201ccartelization\u201d of ink cartridges, toner, PCs",
+          "link": "https://arstechnica.com/gadgets/2026/07/hp-fined-1-4-billion-rupees-for-cartelization-of-ink-cartridges-toner-pcs/",
+          "date": "Thu, 16 Jul 2026 22:02:31 +0000"
+        },
+        {
           "title": "T-Mobile bungled forced plan migration, canceling some users' free lines",
           "link": "https://arstechnica.com/tech-policy/2026/07/t-mobile-bungled-forced-plan-migration-canceling-some-users-free-lines/",
           "date": "Thu, 16 Jul 2026 20:52:47 +0000"
@@ -298,21 +313,6 @@
           "title": "It's official: EU will force Google to share search data and open up AI on Android",
           "link": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
           "date": "Thu, 16 Jul 2026 20:41:45 +0000"
-        },
-        {
-          "title": "xAI can\u2019t deny Grok makes CSAM anymore. So it\u2019s suing users.",
-          "link": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/",
-          "date": "Thu, 16 Jul 2026 20:26:23 +0000"
-        },
-        {
-          "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
-          "link": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
-          "date": "Thu, 16 Jul 2026 20:09:48 +0000"
-        },
-        {
-          "title": "Trump teleprompter aide made $100,000 betting on what Trump would say, reports say",
-          "link": "https://arstechnica.com/culture/2026/07/trump-teleprompter-aide-made-100000-betting-on-what-trump-would-say-reports-say/",
-          "date": "Thu, 16 Jul 2026 19:55:46 +0000"
         }
       ],
       "error": null
