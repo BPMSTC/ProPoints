@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-07-17T14:40:34.239270+00:00",
+  "generatedAt": "2026-07-17T16:12:26.819513+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Behind the Blog: Infinite Bowl Machine",
+          "link": "https://www.404media.co/behind-the-blog-infinite-bowl-machine/",
+          "date": "Fri, 17 Jul 2026 16:07:19 GMT"
+        },
+        {
+          "title": "ICE to Pay Thomson Reuters $125 Million to Find \u2018Voter Fraud\u2019",
+          "link": "https://www.404media.co/ice-to-pay-thomson-reuters-125-million-to-find-voter-fraud/",
+          "date": "Fri, 17 Jul 2026 15:35:37 GMT"
+        },
         {
           "title": "Scientists Discover Planet Has Everything to Host \u2018Earth-Like Life\u2019 In Breakthrough",
           "link": "https://www.404media.co/scientists-discover-planet-has-everything-to-host-earth-like-life-in-breakthrough/",
@@ -19,16 +29,6 @@
           "title": "Podcast: We Are Living in a \u2018ChatGPT Flyer Pandemic\u2019",
           "link": "https://www.404media.co/podcast-we-are-living-in-a-chatgpt-flyer-pandemic/",
           "date": "Wed, 15 Jul 2026 15:58:34 GMT"
-        },
-        {
-          "title": "Hack Reveals Suno AI Music Generator Scraped YouTube, Deezer, and Genius",
-          "link": "https://www.404media.co/hack-reveals-suno-ai-music-generator-scraped-youtube-deezer-and-genius/",
-          "date": "Wed, 15 Jul 2026 13:59:38 GMT"
-        },
-        {
-          "title": "Is the Best Game of the Year a Failure? (With Rob Zacny)",
-          "link": "https://www.404media.co/is-the-best-game-of-the-year-a-failure-with-rob-zacny/",
-          "date": "Tue, 14 Jul 2026 15:05:20 GMT"
         }
       ],
       "error": null
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Prompt: Enterprise AI Must Prove Its Value Beyond Deployment",
+          "link": "https://aibusiness.com/agentic-ai/enterprise-ai-prove-value-beyond-deployment",
+          "date": "Fri, 17 Jul 2026 14:34:26 GMT"
+        },
+        {
           "title": "OpenAI Unveils GPT-Red to Test AI Model Safety",
           "link": "https://aibusiness.com/generative-ai/openai-ugpt-red-tests-ai-model-safety",
           "date": "Thu, 16 Jul 2026 21:32:28 GMT"
@@ -132,11 +137,6 @@
           "title": "Nebius Embarks on &quot;Asset-Light&quot; Data Center Model",
           "link": "https://aibusiness.com/data-centers/nebius-asset-light-data-center-model",
           "date": "Thu, 16 Jul 2026 12:02:06 GMT"
-        },
-        {
-          "title": "Foundation Launched to Standardize AI Payments",
-          "link": "https://aibusiness.com/agentic-ai/foundation-standardize-ai-payments",
-          "date": "Thu, 16 Jul 2026 10:55:56 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -360,9 +360,9 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Musk\u2019s xAI sues user who allegedly used Grok to create child sexual abuse material",
-          "link": "https://www.theguardian.com/technology/2026/jul/16/elon-musk-xai-sue-user-grok-csam",
-          "date": "Thu, 16 Jul 2026 15:19:27 GMT"
+          "title": "Apple dethrones Nvidia to regain title of world\u2019s most valuable company",
+          "link": "https://www.theguardian.com/technology/2026/jul/17/apple-nvidia-most-valuable-company",
+          "date": "Fri, 17 Jul 2026 15:01:09 GMT"
         },
         {
           "title": "Smart glasses are deeply creepy. Why are celebrities like Kylie Jenner endorsing them?",
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "A Chinese AI Model Just Shot to Number One on the Charts, Sending Shockwaves Through the American Tech Industry",
+          "link": "https://futurism.com/artificial-intelligence/chinese-ai-kimi-moonshot-benchmark-claude-chatgpt",
+          "date": "Fri, 17 Jul 2026 11:54:00 -0400"
+        },
+        {
           "title": "Short Sellers Are Having a Field Day Betting Against SpaceX as Shares Continue to Slip",
           "link": "https://futurism.com/artificial-intelligence/short-sellers-field-day-spacex",
           "date": "Thu, 16 Jul 2026 17:04:49 -0400"
@@ -442,11 +447,6 @@
           "title": "Sixteen Nobel-Winning Economists Warn That Major AI Job Losses Are Coming",
           "link": "https://futurism.com/artificial-intelligence/economists-warning-ai-job-losses",
           "date": "Wed, 15 Jul 2026 16:41:45 -0400"
-        },
-        {
-          "title": "OpenAI Strikes Bold Deal With Kalshi to Mix Together the Most Hated Technologies in Existence: AI and Prediction Markets",
-          "link": "https://futurism.com/artificial-intelligence/openai-deal-kalshi-prediction-markets",
-          "date": "Wed, 15 Jul 2026 15:33:08 -0400"
         }
       ],
       "error": null
