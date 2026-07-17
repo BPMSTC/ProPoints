@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-07-17T16:12:26.819513+00:00",
+  "generatedAt": "2026-07-17T18:02:41.872617+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "You're Invited: 404 Media's Third Anniversary Live Podcast and Party!",
+          "link": "https://www.404media.co/three-years/",
+          "date": "Fri, 17 Jul 2026 16:15:53 GMT"
+        },
         {
           "title": "Behind the Blog: Infinite Bowl Machine",
           "link": "https://www.404media.co/behind-the-blog-infinite-bowl-machine/",
@@ -24,11 +29,6 @@
           "title": "How Cops Use Flock to Track People, Not Cars",
           "link": "https://www.404media.co/how-cops-use-flock-to-track-people-not-cars/",
           "date": "Thu, 16 Jul 2026 13:56:48 GMT"
-        },
-        {
-          "title": "Podcast: We Are Living in a \u2018ChatGPT Flyer Pandemic\u2019",
-          "link": "https://www.404media.co/podcast-we-are-living-in-a-chatgpt-flyer-pandemic/",
-          "date": "Wed, 15 Jul 2026 15:58:34 GMT"
         }
       ],
       "error": null
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Chinese AI Startup Releases Massive Open Weight Model",
+          "link": "https://aibusiness.com/foundation-models/moonshot-ai-releases-kimi-k3",
+          "date": "Fri, 17 Jul 2026 16:22:42 GMT"
+        },
+        {
           "title": "Prompt: Enterprise AI Must Prove Its Value Beyond Deployment",
           "link": "https://aibusiness.com/agentic-ai/enterprise-ai-prove-value-beyond-deployment",
           "date": "Fri, 17 Jul 2026 14:34:26 GMT"
@@ -132,11 +137,6 @@
           "title": "Thinking Machines Rolls Out Broad but Efficient Model",
           "link": "https://aibusiness.com/foundation-models/thinking-machines-inkling-model",
           "date": "Thu, 16 Jul 2026 18:35:21 GMT"
-        },
-        {
-          "title": "Nebius Embarks on &quot;Asset-Light&quot; Data Center Model",
-          "link": "https://aibusiness.com/data-centers/nebius-asset-light-data-center-model",
-          "date": "Thu, 16 Jul 2026 12:02:06 GMT"
         }
       ],
       "error": null
@@ -290,29 +290,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "The report oil companies are worried about: Climate attribution science",
-          "link": "https://arstechnica.com/science/2026/07/national-academies-climate-attribution-is-maturing-but-still-has-limits/",
-          "date": "Fri, 17 Jul 2026 11:30:10 +0000"
+          "title": "Troubling new details emerge on diabetes ouster controversy",
+          "link": "https://arstechnica.com/science/2026/07/troubling-new-details-emerge-on-diabetes-ouster-controversy/",
+          "date": "Fri, 17 Jul 2026 17:08:05 +0000"
         },
         {
-          "title": "FCC took pricey gifts from Paramount as the company needed approval for deals",
-          "link": "https://arstechnica.com/tech-policy/2026/07/fcc-took-pricey-gifts-from-paramount-as-the-company-needed-approval-for-deals/",
-          "date": "Fri, 17 Jul 2026 11:15:55 +0000"
+          "title": "Will Russia's answer to the Falcon 9 rocket ever take flight?",
+          "link": "https://arstechnica.com/space/2026/07/will-russias-answer-to-the-falcon-9-rocket-ever-take-flight/",
+          "date": "Fri, 17 Jul 2026 16:42:19 +0000"
         },
         {
-          "title": "2026 Lucid Gravity Touring review: A strong act 2",
-          "link": "https://arstechnica.com/cars/2026/07/2026-lucid-gravity-touring-review-a-strong-act-2/",
-          "date": "Fri, 17 Jul 2026 11:00:30 +0000"
+          "title": "Fubo hikes prices by $15 after restoring some NBCU channels lost in November",
+          "link": "https://arstechnica.com/gadgets/2026/07/fubo-hikes-prices-by-15-after-restoring-some-nbcu-channels-lost-in-november/",
+          "date": "Fri, 17 Jul 2026 16:24:21 +0000"
         },
         {
-          "title": "Rocket Report: India's Vikram-1 nears debut flight; AST to become rocket company?",
-          "link": "https://arstechnica.com/space/2026/07/rocket-report-indias-vikram-1-nears-debut-flight-ast-to-become-rocket-company/",
-          "date": "Fri, 17 Jul 2026 11:00:04 +0000"
+          "title": "San Francisco orders Apple, Google to remove nudify apps from app stores",
+          "link": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
+          "date": "Fri, 17 Jul 2026 16:10:05 +0000"
         },
         {
-          "title": "SpaceX scrubs Starship launch after some of its engines didn't start",
-          "link": "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/",
-          "date": "Fri, 17 Jul 2026 00:02:54 +0000"
+          "title": "Ars is looking for a senior technology reporter, and you might be it!",
+          "link": "https://arstechnica.com/staff/2026/07/ars-is-looking-for-a-senior-technology-reporter-and-you-might-be-it/",
+          "date": "Fri, 17 Jul 2026 15:52:28 +0000"
         }
       ],
       "error": null
@@ -424,6 +424,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "AI Bubble Fears Are Starting to Spill Over",
+          "link": "https://futurism.com/artificial-intelligence/ai-bubble-fears-tsmc-nvidia-earnings",
+          "date": "Fri, 17 Jul 2026 13:47:08 -0400"
+        },
+        {
+          "title": "Elon Musk\u2019s xAI, Which is Being Sued Over AI-Generated Sexual Deepfakes, Sues Grok User Over AI-Generated Sexual Deepfakes",
+          "link": "https://futurism.com/artificial-intelligence/elon-musk-xai-sues-grok-user-deepfakes",
+          "date": "Fri, 17 Jul 2026 12:51:00 -0400"
+        },
+        {
           "title": "A Chinese AI Model Just Shot to Number One on the Charts, Sending Shockwaves Through the American Tech Industry",
           "link": "https://futurism.com/artificial-intelligence/chinese-ai-kimi-moonshot-benchmark-claude-chatgpt",
           "date": "Fri, 17 Jul 2026 11:54:00 -0400"
@@ -437,16 +447,6 @@
           "title": "Terrified Tech Execs Are Traveling With Armed Bodyguards as AI Backlash Grows",
           "link": "https://futurism.com/artificial-intelligence/tech-execs-armed-bodyguards-ai-backlash",
           "date": "Thu, 16 Jul 2026 15:56:30 -0400"
-        },
-        {
-          "title": "Elon Musk\u2019s AI Startup Is a Complete Disaster Behind the Scenes",
-          "link": "https://futurism.com/artificial-intelligence/elon-musk-ai-startup-disaster",
-          "date": "Thu, 16 Jul 2026 15:01:18 -0400"
-        },
-        {
-          "title": "Sixteen Nobel-Winning Economists Warn That Major AI Job Losses Are Coming",
-          "link": "https://futurism.com/artificial-intelligence/economists-warning-ai-job-losses",
-          "date": "Wed, 15 Jul 2026 16:41:45 -0400"
         }
       ],
       "error": null
