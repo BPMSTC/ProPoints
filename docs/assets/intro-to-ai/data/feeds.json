@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T18:58:53.237572+00:00",
+  "generatedAt": "2026-07-18T20:05:39.411610+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -360,6 +360,16 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "ANU accused of \u2018hysterical\u2019 response to students using AI to cheat as unis scramble to \u2018secure\u2019 assessments",
+          "link": "https://www.theguardian.com/australia-news/2026/jul/18/anu-accused-of-hysterical-response-to-students-using-ai-to-as-unis-scramble-to-secure-assessments",
+          "date": "Sat, 18 Jul 2026 20:00:09 GMT"
+        },
+        {
+          "title": "Albanese\u2019s AI speech was a good start. Now Australia must confront these bigger questions | Julianne Schultz",
+          "link": "https://www.theguardian.com/commentisfree/2026/jul/18/albaneses-ai-speech-was-a-good-start-now-australia-must-confront-these-bigger-questions",
+          "date": "Sat, 18 Jul 2026 20:00:07 GMT"
+        },
+        {
           "title": "UK tech advocates alarmed by Burnham plan to scrap technology department",
           "link": "https://www.theguardian.com/politics/2026/jul/18/burnham-plan-to-scrap-technology-department-triggers-backlash",
           "date": "Sat, 18 Jul 2026 13:42:43 GMT"
@@ -373,16 +383,6 @@
           "title": "Smart glasses are deeply creepy. Why are celebrities like Kylie Jenner endorsing them?",
           "link": "https://www.theguardian.com/commentisfree/2026/jul/17/ai-meta-smart-glasses",
           "date": "Fri, 17 Jul 2026 12:00:07 GMT"
-        },
-        {
-          "title": "\u2018Adversarial clothing\u2019: are garments designed to confuse facial recognition systems about to go mainstream?",
-          "link": "https://www.theguardian.com/fashion/2026/jul/17/adversarial-clothing-are-garments-designed-to-confuse-facial-recognition-systems-about-to-go-mainstream",
-          "date": "Fri, 17 Jul 2026 09:00:05 GMT"
-        },
-        {
-          "title": "Robert Laidlow: Reality Eaters album review",
-          "link": "https://www.theguardian.com/music/2026/jul/17/robert-laidlow-reality-eaters-album-review",
-          "date": "Fri, 17 Jul 2026 06:30:00 GMT"
         }
       ],
       "error": null
