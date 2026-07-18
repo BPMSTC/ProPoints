@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T11:58:50.910740+00:00",
+  "generatedAt": "2026-07-18T13:36:01.076597+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Will AI fix prior authorization\u2014or make it worse?",
+          "link": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
+          "date": "Sat, 18 Jul 2026 11:18:25 +0000"
+        },
+        {
           "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
           "link": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
           "date": "Fri, 17 Jul 2026 19:50:18 +0000"
@@ -308,11 +313,6 @@
           "title": "Taco Bell iceberg lettuce identified as source of cyclosporiasis in 5 states",
           "link": "https://arstechnica.com/health/2026/07/taco-bell-iceburg-lettuce-identified-as-source-of-cyclosporiasis-in-5-states/",
           "date": "Fri, 17 Jul 2026 18:45:23 +0000"
-        },
-        {
-          "title": "Troubling new details emerge on diabetes ouster controversy",
-          "link": "https://arstechnica.com/science/2026/07/troubling-new-details-emerge-on-diabetes-ouster-controversy/",
-          "date": "Fri, 17 Jul 2026 17:08:05 +0000"
         }
       ],
       "error": null
@@ -424,6 +424,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Top Meta Exec Describes Controversial Facial Recognition Feature in Detail After the Company Claimed It Didn\u2019t Exist",
+          "link": "https://futurism.com/artificial-intelligence/meta-exec-describes-facial-recognition-feature",
+          "date": "Sat, 18 Jul 2026 09:30:00 -0400"
+        },
+        {
+          "title": "Data Centers Are Making Electricity Brutally Expensive for the Public",
+          "link": "https://futurism.com/artificial-intelligence/data-centers-electricity-ai-public-utility-rates",
+          "date": "Sat, 18 Jul 2026 08:00:00 -0400"
+        },
+        {
           "title": "Meta Patents Technology to Detect Your Mood by Constantly Analyzing Your Tone of Voice",
           "link": "https://futurism.com/artificial-intelligence/meta-patent-detects-mood-constantly-analyzing-voice",
           "date": "Sat, 18 Jul 2026 07:00:00 -0400"
@@ -437,16 +447,6 @@
           "title": "AI Bubble Fears Are Starting to Spill Over",
           "link": "https://futurism.com/artificial-intelligence/ai-bubble-fears-tsmc-nvidia-earnings",
           "date": "Fri, 17 Jul 2026 13:47:08 -0400"
-        },
-        {
-          "title": "Elon Musk\u2019s xAI, Which is Being Sued Over AI-Generated Sexual Deepfakes, Sues Grok User Over AI-Generated Sexual Deepfakes",
-          "link": "https://futurism.com/artificial-intelligence/elon-musk-xai-sues-grok-user-deepfakes",
-          "date": "Fri, 17 Jul 2026 12:51:00 -0400"
-        },
-        {
-          "title": "A Chinese AI Model Just Shot to Number One on the Charts, Sending Shockwaves Through the American Tech Industry",
-          "link": "https://futurism.com/artificial-intelligence/chinese-ai-kimi-moonshot-benchmark-claude-chatgpt",
-          "date": "Fri, 17 Jul 2026 11:54:00 -0400"
         }
       ],
       "error": null
