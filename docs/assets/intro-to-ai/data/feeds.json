@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T19:03:20.599002+00:00",
+  "generatedAt": "2026-07-19T20:42:10.476025+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -328,6 +328,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "New trial of AI-powered traffic lights will be a test for who gets priority on public roads",
+          "link": "https://theconversation.com/new-trial-of-ai-powered-traffic-lights-will-be-a-test-for-who-gets-priority-on-public-roads-287193",
+          "date": "2026-07-19T20:05:52Z"
+        },
+        {
           "title": "Critical thinking has become an AI-era buzzword. But what does it actually mean, and how do we teach it?",
           "link": "https://theconversation.com/critical-thinking-has-become-an-ai-era-buzzword-but-what-does-it-actually-mean-and-how-do-we-teach-it-286363",
           "date": "2026-07-17T11:13:58Z"
@@ -346,11 +351,6 @@
           "title": "When can a power company take your land for data center infrastructure?",
           "link": "https://theconversation.com/when-can-a-power-company-take-your-land-for-data-center-infrastructure-284061",
           "date": "2026-07-16T12:19:04Z"
-        },
-        {
-          "title": "Wherever AI is heading next, older people want a say",
-          "link": "https://theconversation.com/wherever-ai-is-heading-next-older-people-want-a-say-285580",
-          "date": "2026-07-16T10:39:28Z"
         }
       ],
       "error": null
