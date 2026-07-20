@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T02:40:59.004398+00:00",
+  "generatedAt": "2026-07-20T06:14:23.222580+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -328,6 +328,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Stop policing AI in the classroom, start teaching it",
+          "link": "https://theconversation.com/stop-policing-ai-in-the-classroom-start-teaching-it-286351",
+          "date": "2026-07-20T03:20:28Z"
+        },
+        {
           "title": "New trial of AI-powered traffic lights will be a test for who gets priority on public roads",
           "link": "https://theconversation.com/new-trial-of-ai-powered-traffic-lights-will-be-a-test-for-who-gets-priority-on-public-roads-287193",
           "date": "2026-07-19T20:05:52Z"
@@ -346,11 +351,6 @@
           "title": "Who owns an AI generated song? What we can learn from the phonograph and the evolution of copyright laws",
           "link": "https://theconversation.com/who-owns-an-ai-generated-song-what-we-can-learn-from-the-phonograph-and-the-evolution-of-copyright-laws-285537",
           "date": "2026-07-16T12:48:17Z"
-        },
-        {
-          "title": "When can a power company take your land for data center infrastructure?",
-          "link": "https://theconversation.com/when-can-a-power-company-take-your-land-for-data-center-infrastructure-284061",
-          "date": "2026-07-16T12:19:04Z"
         }
       ],
       "error": null
@@ -363,6 +363,11 @@
           "title": "Could AI be conscious?",
           "link": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious",
           "date": "Sun, 19 Jul 2026 11:00:25 GMT"
+        },
+        {
+          "title": "Al-altered images on birdwatching forums putting research at risk",
+          "link": "https://www.theguardian.com/environment/2026/jul/20/ai-slop-manipulated-fake-images-birds-citizen-science-aoe",
+          "date": "Mon, 20 Jul 2026 04:00:45 GMT"
         },
         {
           "title": "AI job worries grow. But some human skills can\u2019t be replaced by machines | Gaynor Parkin and Dave Winsborough",
@@ -378,11 +383,6 @@
           "title": "Victoria announces new social media \u2018demasking\u2019 powers for accounts accused of vilification",
           "link": "https://www.theguardian.com/australia-news/2026/jul/19/victoria-proposes-social-media-account-identification-powers",
           "date": "Sun, 19 Jul 2026 07:22:01 GMT"
-        },
-        {
-          "title": "New York Mets reject concerns over in-game AI use after Ottavino claims",
-          "link": "https://www.theguardian.com/sport/2026/jul/18/mets-andy-green-ai-strategy-mlb-compliance-ottavino-report",
-          "date": "Sat, 18 Jul 2026 20:33:01 GMT"
         }
       ],
       "error": null
