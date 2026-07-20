@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T06:14:23.222580+00:00",
+  "generatedAt": "2026-07-20T09:56:50.363365+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -360,12 +360,12 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Could AI be conscious?",
-          "link": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious",
-          "date": "Sun, 19 Jul 2026 11:00:25 GMT"
+          "title": "Jeff Bezos and UK government invest in \u00a32bn British startup CuspAI",
+          "link": "https://www.theguardian.com/technology/2026/jul/20/jeff-bezos-uk-government-invest-in-2bn-british-startup-cuspai",
+          "date": "Mon, 20 Jul 2026 08:37:52 GMT"
         },
         {
-          "title": "Al-altered images on birdwatching forums putting research at risk",
+          "title": "AI-altered images on birdwatching forums putting research at risk",
           "link": "https://www.theguardian.com/environment/2026/jul/20/ai-slop-manipulated-fake-images-birds-citizen-science-aoe",
           "date": "Mon, 20 Jul 2026 04:00:45 GMT"
         },
@@ -380,9 +380,9 @@
           "date": "Sun, 19 Jul 2026 12:00:27 GMT"
         },
         {
-          "title": "Victoria announces new social media \u2018demasking\u2019 powers for accounts accused of vilification",
-          "link": "https://www.theguardian.com/australia-news/2026/jul/19/victoria-proposes-social-media-account-identification-powers",
-          "date": "Sun, 19 Jul 2026 07:22:01 GMT"
+          "title": "Could AI be conscious?",
+          "link": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious",
+          "date": "Sun, 19 Jul 2026 11:00:25 GMT"
         }
       ],
       "error": null
