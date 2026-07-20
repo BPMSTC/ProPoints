@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T22:56:44.424789+00:00",
+  "generatedAt": "2026-07-20T23:55:49.930307+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,29 +290,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "DA: Cop covered bodycam to snap nude prisoners on his iPhone\u2014but other cams caught him",
+          "link": "https://arstechnica.com/tech-policy/2026/07/cop-charged-with-covering-bodycam-to-photograph-naked-prisoners/",
+          "date": "Mon, 20 Jul 2026 22:15:51 +0000"
+        },
+        {
+          "title": "Firefighting drones in the works as wildfires plague US nearly year-round",
+          "link": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",
+          "date": "Mon, 20 Jul 2026 21:55:52 +0000"
+        },
+        {
+          "title": "Judge halts Paramount's $111B purchase of Warner Bros. in win for US states",
+          "link": "https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/",
+          "date": "Mon, 20 Jul 2026 21:10:14 +0000"
+        },
+        {
           "title": "The Space Force is now seeking to buy up to $30 billion in rocket launches",
-          "link": "https://arstechnica.com/science/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/",
+          "link": "https://arstechnica.com/space/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/",
           "date": "Mon, 20 Jul 2026 20:30:25 +0000"
         },
         {
           "title": "AT&T loses key ruling in bid to stop offering basic phone service in California",
           "link": "https://arstechnica.com/tech-policy/2026/07/att-loses-key-ruling-in-bid-to-stop-offering-basic-phone-service-in-california/",
           "date": "Mon, 20 Jul 2026 19:20:49 +0000"
-        },
-        {
-          "title": "RIP bargain bin: The price impact of Sony's disc-free PlayStation plan",
-          "link": "https://arstechnica.com/gaming/2026/07/our-playstation-price-analysis-shows-why-physical-games-still-matter/",
-          "date": "Mon, 20 Jul 2026 18:06:05 +0000"
-        },
-        {
-          "title": "F1 in Belgium: Machine learning algorithms are ruining the sport",
-          "link": "https://arstechnica.com/cars/2026/07/f1-in-belgium-the-2026-cars-look-pathetic-on-all-the-best-racetracks/",
-          "date": "Mon, 20 Jul 2026 15:59:18 +0000"
-        },
-        {
-          "title": "AliExpress hit with record $625M fine after failing to make EU-ordered fixes",
-          "link": "https://arstechnica.com/tech-policy/2026/07/aliexpress-fined-625m-for-failing-to-remove-unsafe-toys-dangerous-cosmetics/",
-          "date": "Mon, 20 Jul 2026 15:32:45 +0000"
         }
       ],
       "error": null
