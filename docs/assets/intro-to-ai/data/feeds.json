@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T21:04:37.313544+00:00",
+  "generatedAt": "2026-07-21T22:52:52.247999+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "New Gemini 3.5 Flash Models Are Faster and Cheaper but Not Smarter",
+          "link": "https://aibusiness.com/generative-ai/new-gemini-3-5-flash-models-are-faster-cheaper-not-smarter",
+          "date": "Tue, 21 Jul 2026 21:31:59 GMT"
+        },
+        {
           "title": "OpenAI Urges Enterprises to Use Its Scorecard to Measure Worth of AI",
           "link": "https://aibusiness.com/generative-ai/openai-urges-enterprises-use-its-scorecard-measure-worth-of-ai",
           "date": "Tue, 21 Jul 2026 17:52:30 GMT"
@@ -132,11 +137,6 @@
           "title": "As AI Spending Climbs, Enterprises Get Serious About Token Costs",
           "link": "https://aibusiness.com/generative-ai/as-ai-spending-climbs-enterprises-serious-about-token-cost",
           "date": "Mon, 20 Jul 2026 12:05:10 GMT"
-        },
-        {
-          "title": "Nvidia Broadens Physical AI Push With Robotics, Edge AI Updates",
-          "link": "https://aibusiness.com/robotics/nvidia-physical-ai-push-robotics-edge-ai-updates",
-          "date": "Fri, 17 Jul 2026 20:12:21 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -456,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "OpenAI Models Escaped Containment and Hacked HuggingFace",
+          "link": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
+          "date": "Tue, 21 Jul 2026 22:50:01 +0000"
+        },
+        {
           "title": "This Former Intel CEO Wants to Jumpstart Moore\u2019s Law With Light",
           "link": "https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/",
           "date": "Tue, 21 Jul 2026 19:05:00 +0000"
@@ -474,11 +479,6 @@
           "title": "Halliday\u2019s New Smart Glasses Skip the Camera",
           "link": "https://www.wired.com/story/halliday-new-smart-glasses-skip-the-camera/",
           "date": "Tue, 21 Jul 2026 13:00:00 +0000"
-        },
-        {
-          "title": "\u2018It\u2019s a Modern-Day Draft\u2019: Why Stanford Students Walked Out on Sundar Pichai\u2019s Commencement Speech",
-          "link": "https://www.wired.com/story/big-interview-stanford-students-booing-sundar-pichai/",
-          "date": "Tue, 21 Jul 2026 10:30:00 +0000"
         }
       ],
       "error": null
