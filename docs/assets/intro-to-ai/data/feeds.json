@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-07-21T17:14:06.451979+00:00",
+  "generatedAt": "2026-07-21T19:16:02.055226+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "What Does Olive Garden\u2019s Never-Ending Pasta Have to Do With Voting Rights?",
+          "link": "https://www.404media.co/olive-garden-never-ending-pasta-id-save-act/",
+          "date": "Tue, 21 Jul 2026 17:17:45 GMT"
+        },
         {
           "title": "Apple Fixes Hide My Email Vulnerability After 404 Media Coverage",
           "link": "https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/",
@@ -24,11 +29,6 @@
           "title": "Ancient Princesses Were Weapon-Wielding Badasses, Scientists Discover",
           "link": "https://www.404media.co/ancient-princesses-were-weapon-wielding-badasses-scientists-discover/",
           "date": "Sat, 18 Jul 2026 10:00:29 GMT"
-        },
-        {
-          "title": "You're Invited: 404 Media's Third Anniversary Live Podcast and Party!",
-          "link": "https://www.404media.co/three-years/",
-          "date": "Fri, 17 Jul 2026 16:15:53 GMT"
         }
       ],
       "error": null
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "OpenAI Urges Enterprises to Use Its Scorecard to Measure Worth of AI",
+          "link": "https://aibusiness.com/generative-ai/openai-urges-enterprises-use-its-scorecard-measure-worth-of-ai",
+          "date": "Tue, 21 Jul 2026 17:52:30 GMT"
+        },
+        {
           "title": "Alibaba Qwen 3.8 Max Shows China Closing in on U.S. Models",
           "link": "https://aibusiness.com/generative-ai/alibaba-qwen-3-8-max-shows-china-closing-on-u-s-models",
           "date": "Tue, 21 Jul 2026 16:00:50 GMT"
@@ -132,11 +137,6 @@
           "title": "Nvidia Broadens Physical AI Push With Robotics, Edge AI Updates",
           "link": "https://aibusiness.com/robotics/nvidia-physical-ai-push-robotics-edge-ai-updates",
           "date": "Fri, 17 Jul 2026 20:12:21 GMT"
-        },
-        {
-          "title": "Chinese AI Startup Releases Massive Open Weight Model",
-          "link": "https://aibusiness.com/foundation-models/moonshot-ai-releases-kimi-k3",
-          "date": "Fri, 17 Jul 2026 16:22:42 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Steam Deck sales are losing steam since May's price hike",
+          "link": "https://arstechnica.com/gaming/2026/07/steam-deck-sales-are-losing-steam-since-mays-price-hike/",
+          "date": "Tue, 21 Jul 2026 17:12:34 +0000"
+        },
+        {
+          "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
+          "link": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
+          "date": "Tue, 21 Jul 2026 16:58:25 +0000"
+        },
+        {
+          "title": "TreeSize won't renew perpetual-license support unless users subscribe",
+          "link": "https://arstechnica.com/gadgets/2026/07/treesize-wont-renew-perpetual-license-support-unless-users-subscribe/",
+          "date": "Tue, 21 Jul 2026 15:18:23 +0000"
+        },
+        {
           "title": "When your vehicle outlives its cloud: What happens next?",
           "link": "https://arstechnica.com/cars/2026/07/when-your-vehicle-outlives-its-cloud-what-happens-next/",
           "date": "Tue, 21 Jul 2026 13:36:17 +0000"
@@ -298,21 +313,6 @@
           "title": "Apps targeted at US troops contain Chinese and Russian code",
           "link": "https://arstechnica.com/security/2026/07/apps-targeted-at-us-troops-contain-chinese-and-russian-code/",
           "date": "Tue, 21 Jul 2026 13:19:38 +0000"
-        },
-        {
-          "title": "2027 Kia Seltos first drive gives you plenty of SUV for not much $",
-          "link": "https://arstechnica.com/cars/2026/07/2027-kia-seltos-first-drive-telluride-vibes-in-a-smaller-package/",
-          "date": "Tue, 21 Jul 2026 13:00:08 +0000"
-        },
-        {
-          "title": "DA: Cop covered bodycam to snap nude prisoners on his iPhone\u2014but other cams caught him",
-          "link": "https://arstechnica.com/tech-policy/2026/07/cop-charged-with-covering-bodycam-to-photograph-naked-prisoners/",
-          "date": "Mon, 20 Jul 2026 22:15:51 +0000"
-        },
-        {
-          "title": "Firefighting drones in the works as wildfires plague US nearly year-round",
-          "link": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",
-          "date": "Mon, 20 Jul 2026 21:55:52 +0000"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "It\u2019s Official: AI Execs Are Quaking in Their Boots",
+          "link": "https://futurism.com/artificial-intelligence/ai-execs-quaking-boots-chinese-models",
+          "date": "Tue, 21 Jul 2026 14:55:13 -0400"
+        },
+        {
           "title": "Author Invited to Give Speech at OpenAI Headquarters, Uses Opportunity to Trash AI to Their Faces",
           "link": "https://futurism.com/artificial-intelligence/author-speech-openai-employees-trash-ai",
           "date": "Tue, 21 Jul 2026 11:50:00 -0400"
@@ -442,11 +447,6 @@
           "title": "New \u201cAdvertisement\u201d for Kylie Jenner\u2019s Meta Perv Glasses Shows Something Extremely Funny If You Look at It From the Wrong Angle",
           "link": "https://futurism.com/future-society/new-advertisement-kylie-jenner-meta-glasses-activist",
           "date": "Tue, 21 Jul 2026 08:51:59 -0400"
-        },
-        {
-          "title": "The Proliferation of Deepfakes Is Profoundly Changing the Way Teenagers Use the Internet",
-          "link": "https://futurism.com/artificial-intelligence/deepfakes-teenagers-internet",
-          "date": "Tue, 21 Jul 2026 05:00:00 -0400"
         }
       ],
       "error": null
@@ -455,6 +455,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "This Former Intel CEO Wants to Jumpstart Moore\u2019s Law With Light",
+          "link": "https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/",
+          "date": "Tue, 21 Jul 2026 19:05:00 +0000"
+        },
         {
           "title": "A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims\u2019 Blind Spots",
           "link": "https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/",
@@ -474,11 +479,6 @@
           "title": "\u2018It\u2019s a Modern-Day Draft\u2019: Why Stanford Students Walked Out on Sundar Pichai\u2019s Commencement Speech",
           "link": "https://www.wired.com/story/big-interview-stanford-students-booing-sundar-pichai/",
           "date": "Tue, 21 Jul 2026 10:30:00 +0000"
-        },
-        {
-          "title": "The Army Is Burning Through Its AI Tokens",
-          "link": "https://www.wired.com/story/the-army-is-burning-through-its-ai-tokens/",
-          "date": "Tue, 21 Jul 2026 09:30:00 +0000"
         }
       ],
       "error": null
