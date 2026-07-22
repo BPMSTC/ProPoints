@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-07-22T17:14:00.732082+00:00",
+  "generatedAt": "2026-07-22T19:11:07.001107+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "What Happened When Flock Came to My Town",
+          "link": "https://www.404media.co/what-happened-when-flock-came-to-my-town/",
+          "date": "Wed, 22 Jul 2026 18:33:44 GMT"
+        },
         {
           "title": "Flock \u2018Objects to Our Removing Their Equipment\u2019: Emails Reveal Why a Town Put Bags Over Its Flock Cameras",
           "link": "https://www.404media.co/flock-objects-to-our-removing-their-equipment-emails-reveal-why-a-town-put-bags-over-its-flock-cameras/",
@@ -24,11 +29,6 @@
           "title": "What Does Olive Garden\u2019s Never-Ending Pasta Have to Do With Voting Rights?",
           "link": "https://www.404media.co/olive-garden-never-ending-pasta-id-save-act/",
           "date": "Tue, 21 Jul 2026 17:17:45 GMT"
-        },
-        {
-          "title": "Apple Fixes Hide My Email Vulnerability After 404 Media Coverage",
-          "link": "https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/",
-          "date": "Tue, 21 Jul 2026 15:20:10 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
+          "link": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
+          "date": "Wed, 22 Jul 2026 18:18:12 +0000"
+        },
+        {
+          "title": "Next Space Force chief throws cold water on the idea of space privateers",
+          "link": "https://arstechnica.com/space/2026/07/next-space-force-chief-throws-cold-water-on-the-idea-of-space-privateers/",
+          "date": "Wed, 22 Jul 2026 17:02:44 +0000"
+        },
+        {
+          "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
+          "link": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
+          "date": "Wed, 22 Jul 2026 16:47:49 +0000"
+        },
+        {
           "title": "What happens when you try to chop a photon in half?",
           "link": "https://arstechnica.com/science/2026/07/what-happens-when-you-try-to-chop-a-photon-in-half/",
           "date": "Wed, 22 Jul 2026 14:17:08 +0000"
@@ -298,21 +313,6 @@
           "title": "Samsung unveils new Galaxy Z8 foldables and Galaxy Watches, available August 7",
           "link": "https://arstechnica.com/gadgets/2026/07/samsung-unveils-new-galaxy-z8-foldables-and-galaxy-watches-available-august-7/",
           "date": "Wed, 22 Jul 2026 13:58:24 +0000"
-        },
-        {
-          "title": "Unlimited AI tokens aren't unlimited after all as US Army burns through supply",
-          "link": "https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/",
-          "date": "Wed, 22 Jul 2026 13:35:17 +0000"
-        },
-        {
-          "title": "Ukrainian drones deliver robots directly into battle by sea and air",
-          "link": "https://arstechnica.com/gadgets/2026/07/ukrainian-drones-deliver-robots-directly-into-battle-by-sea-and-air/",
-          "date": "Wed, 22 Jul 2026 11:15:03 +0000"
-        },
-        {
-          "title": "Range Rover answers the question: \"What if we built a not-SUV?\"",
-          "link": "https://arstechnica.com/cars/2026/07/heres-range-rovers-first-not-suv-the-range-rover-gt/",
-          "date": "Tue, 21 Jul 2026 23:01:23 +0000"
         }
       ],
       "error": null
@@ -320,7 +320,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "Nvidia's Jensen Huang defends Chinese AI amid Kimi panic",
+          "link": "https://www.reddit.com/r/artificial/comments/1v3l4t7/nvidias_jensen_huang_defends_chinese_ai_amid_kimi/",
+          "date": "2026-07-22T16:27:57+00:00"
+        },
+        {
+          "title": "An AI broke out of its sandbox yesterday. Then it hacked a company. Nobody told it to do either of those things.",
+          "link": "https://www.reddit.com/r/artificial/comments/1v3mxzb/an_ai_broke_out_of_its_sandbox_yesterday_then_it/",
+          "date": "2026-07-22T17:29:46+00:00"
+        },
+        {
+          "title": "A million people, a million personal AIs, three base models. Is that a diverse deliberation \u2014 and how would you measure it?",
+          "link": "https://www.reddit.com/r/artificial/comments/1v3otnp/a_million_people_a_million_personal_ais_three/",
+          "date": "2026-07-22T18:34:09+00:00"
+        },
+        {
+          "title": "Sutskever's List AMA",
+          "link": "https://www.reddit.com/r/artificial/comments/1v3g2tu/sutskevers_list_ama/",
+          "date": "2026-07-22T13:23:59+00:00"
+        },
+        {
+          "title": "Microsoft is testing a Chinese model (Kimi) inside Copilot. Are we entering the 'Intel Inside' era of AI?",
+          "link": "https://www.reddit.com/r/artificial/comments/1v2sguf/microsoft_is_testing_a_chinese_model_kimi_inside/",
+          "date": "2026-07-21T19:23:32+00:00"
+        }
+      ],
       "error": null
     },
     {
@@ -424,6 +450,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Elon Musk Says Grok Will Generate Its Own Feature-Length Version of \u201cThe Odyssey\u201d for People Allergic to Progressive Ideas",
+          "link": "https://futurism.com/future-society/elon-musk-ai-woke-free-odyssey",
+          "date": "Wed, 22 Jul 2026 14:50:15 -0400"
+        },
+        {
+          "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
+          "link": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+          "date": "Wed, 22 Jul 2026 13:19:52 -0400"
+        },
+        {
           "title": "OpenAI Says a Group of Its Models Broke Out of Secure Containment and Hacked a Prominent AI Site",
           "link": "https://futurism.com/artificial-intelligence/openai-broke-out-containment-hacked-hugging-face",
           "date": "Wed, 22 Jul 2026 11:01:51 -0400"
@@ -437,16 +473,6 @@
           "title": "Frontier AI Is Faceplanting at Real-World Workplace Tasks",
           "link": "https://futurism.com/artificial-intelligence/frontier-ai-faceplanting-real-world-tasks",
           "date": "Tue, 21 Jul 2026 16:33:03 -0400"
-        },
-        {
-          "title": "It\u2019s Official: AI Execs Are Quaking in Their Boots",
-          "link": "https://futurism.com/artificial-intelligence/ai-execs-quaking-boots-chinese-models",
-          "date": "Tue, 21 Jul 2026 14:55:13 -0400"
-        },
-        {
-          "title": "Author Invited to Give Speech at OpenAI Headquarters, Uses Opportunity to Trash AI to Their Faces",
-          "link": "https://futurism.com/artificial-intelligence/author-speech-openai-employees-trash-ai",
-          "date": "Tue, 21 Jul 2026 11:50:00 -0400"
         }
       ],
       "error": null
@@ -455,6 +481,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "China\u2019s Open AI Models Are Challenging Silicon Valley\u2019s Playbook",
+          "link": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/",
+          "date": "Wed, 22 Jul 2026 19:01:38 +0000"
+        },
         {
           "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
           "link": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
@@ -474,11 +505,6 @@
           "title": "Nvidia Wants to Own Every Chip Inside AI Data Centers",
           "link": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/",
           "date": "Tue, 21 Jul 2026 15:00:00 +0000"
-        },
-        {
-          "title": "Halliday\u2019s New Smart Glasses Skip the Camera",
-          "link": "https://www.wired.com/story/halliday-new-smart-glasses-skip-the-camera/",
-          "date": "Tue, 21 Jul 2026 13:00:00 +0000"
         }
       ],
       "error": null
