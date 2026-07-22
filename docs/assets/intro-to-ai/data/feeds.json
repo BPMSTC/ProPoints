@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T21:02:35.505140+00:00",
+  "generatedAt": "2026-07-22T22:58:46.493075+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Microsoft brings original Xbox backward compatibility to Windows PCs",
+          "link": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/",
+          "date": "Wed, 22 Jul 2026 20:36:19 +0000"
+        },
+        {
+          "title": "ISPs' long nightmare of having to list all the fees they charge is finally over",
+          "link": "https://arstechnica.com/tech-policy/2026/07/isps-long-nightmare-of-having-to-list-all-the-fees-they-charge-is-finally-over/",
+          "date": "Wed, 22 Jul 2026 20:17:18 +0000"
+        },
+        {
+          "title": "Clayface trailer leans into the body horror",
+          "link": "https://arstechnica.com/culture/2026/07/clayface-trailer-leans-into-the-body-horror/",
+          "date": "Wed, 22 Jul 2026 19:18:17 +0000"
+        },
+        {
           "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
           "link": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
           "date": "Wed, 22 Jul 2026 18:18:12 +0000"
@@ -298,21 +313,6 @@
           "title": "Next Space Force chief throws cold water on the idea of space privateers",
           "link": "https://arstechnica.com/space/2026/07/next-space-force-chief-throws-cold-water-on-the-idea-of-space-privateers/",
           "date": "Wed, 22 Jul 2026 17:02:44 +0000"
-        },
-        {
-          "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
-          "link": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
-          "date": "Wed, 22 Jul 2026 16:47:49 +0000"
-        },
-        {
-          "title": "What happens when you try to chop a photon in half?",
-          "link": "https://arstechnica.com/science/2026/07/what-happens-when-you-try-to-chop-a-photon-in-half/",
-          "date": "Wed, 22 Jul 2026 14:17:08 +0000"
-        },
-        {
-          "title": "Samsung unveils new Galaxy Z8 foldables and Galaxy Watches, available August 7",
-          "link": "https://arstechnica.com/gadgets/2026/07/samsung-unveils-new-galaxy-z8-foldables-and-galaxy-watches-available-august-7/",
-          "date": "Wed, 22 Jul 2026 13:58:24 +0000"
         }
       ],
       "error": null
@@ -360,7 +360,7 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "OpenAI\u2019s rogue AI agents are a wake-up call for its risks | Shakeel Hashim",
+          "title": "OpenAI\u2019s rogue agents are a wake-up call to risks posed by artificial intelligence | Shakeel Hashim",
           "link": "https://www.theguardian.com/technology/2026/jul/22/openai-hugging-face-hacked-data-risks",
           "date": "Wed, 22 Jul 2026 20:40:48 GMT"
         },
@@ -439,7 +439,7 @@
           "date": "Wed, 22 Jul 2026 13:19:52 -0400"
         },
         {
-          "title": "OpenAI Says a Group of Its Models Broke Out of Secure Containment and Hacked a Prominent AI Site",
+          "title": "OpenAI Says a Group of Its Models Broke Out of Secure Containment and Hacked Another AI Company",
           "link": "https://futurism.com/artificial-intelligence/openai-broke-out-containment-hacked-hugging-face",
           "date": "Wed, 22 Jul 2026 11:01:51 -0400"
         },
