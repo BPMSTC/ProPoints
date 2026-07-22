@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T19:11:07.001107+00:00",
+  "generatedAt": "2026-07-22T21:02:35.505140+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Startup Focused on Enterprise AI Security Valued at $1.2 billion",
+          "link": "https://aibusiness.com/cybersecurity/startup-focused-enterprise-ai-security-valued-1-2-billion",
+          "date": "Wed, 22 Jul 2026 20:49:12 GMT"
+        },
+        {
           "title": "Microsoft-Mistral Partnership is About Sovereign AI",
           "link": "https://aibusiness.com/generative-ai/microsoft-mistral-partnership-about-sovereign-ai",
           "date": "Wed, 22 Jul 2026 15:51:22 GMT"
@@ -132,11 +137,6 @@
           "title": "New Gemini 3.5 Flash Models Are Faster and Cheaper but Not Smarter",
           "link": "https://aibusiness.com/generative-ai/new-gemini-3-5-flash-models-are-faster-cheaper-not-smarter",
           "date": "Tue, 21 Jul 2026 21:31:59 GMT"
-        },
-        {
-          "title": "OpenAI Urges Enterprises to Use Its Scorecard to Measure Worth of AI",
-          "link": "https://aibusiness.com/generative-ai/openai-urges-enterprises-use-its-scorecard-measure-worth-of-ai",
-          "date": "Tue, 21 Jul 2026 17:52:30 GMT"
         }
       ],
       "error": null
@@ -320,33 +320,7 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "Nvidia's Jensen Huang defends Chinese AI amid Kimi panic",
-          "link": "https://www.reddit.com/r/artificial/comments/1v3l4t7/nvidias_jensen_huang_defends_chinese_ai_amid_kimi/",
-          "date": "2026-07-22T16:27:57+00:00"
-        },
-        {
-          "title": "An AI broke out of its sandbox yesterday. Then it hacked a company. Nobody told it to do either of those things.",
-          "link": "https://www.reddit.com/r/artificial/comments/1v3mxzb/an_ai_broke_out_of_its_sandbox_yesterday_then_it/",
-          "date": "2026-07-22T17:29:46+00:00"
-        },
-        {
-          "title": "A million people, a million personal AIs, three base models. Is that a diverse deliberation \u2014 and how would you measure it?",
-          "link": "https://www.reddit.com/r/artificial/comments/1v3otnp/a_million_people_a_million_personal_ais_three/",
-          "date": "2026-07-22T18:34:09+00:00"
-        },
-        {
-          "title": "Sutskever's List AMA",
-          "link": "https://www.reddit.com/r/artificial/comments/1v3g2tu/sutskevers_list_ama/",
-          "date": "2026-07-22T13:23:59+00:00"
-        },
-        {
-          "title": "Microsoft is testing a Chinese model (Kimi) inside Copilot. Are we entering the 'Intel Inside' era of AI?",
-          "link": "https://www.reddit.com/r/artificial/comments/1v2sguf/microsoft_is_testing_a_chinese_model_kimi_inside/",
-          "date": "2026-07-21T19:23:32+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
@@ -386,6 +360,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "OpenAI\u2019s rogue AI agents are a wake-up call for its risks | Shakeel Hashim",
+          "link": "https://www.theguardian.com/technology/2026/jul/22/openai-hugging-face-hacked-data-risks",
+          "date": "Wed, 22 Jul 2026 20:40:48 GMT"
+        },
+        {
           "title": "We must reject any notion of AI consciousness | Letters",
           "link": "https://www.theguardian.com/technology/2026/jul/22/we-must-reject-any-notion-of-ai-consciousness",
           "date": "Wed, 22 Jul 2026 16:50:58 GMT"
@@ -404,11 +383,6 @@
           "title": "Harry Potter publisher to receive millions in Anthropic copyright settlement",
           "link": "https://www.theguardian.com/technology/2026/jul/22/bloomsbury-book-publisher-anthropic-copyright-settlement",
           "date": "Wed, 22 Jul 2026 13:28:09 GMT"
-        },
-        {
-          "title": "Elon Musk says Grok Imagine will make \u2018historically accurate\u2019 AI adaptation of Homer\u2019s Odyssey",
-          "link": "https://www.theguardian.com/film/2026/jul/22/elon-musk-grok-imagine-historically-accurate-ai-homers-odyssey-christopher-nolan",
-          "date": "Wed, 22 Jul 2026 12:11:47 GMT"
         }
       ],
       "error": null
@@ -450,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Man Sues OpenAI, Saying ChatGPT Almost Killed Him With Horrendously Dangerous Medical Advice",
+          "link": "https://futurism.com/artificial-intelligence/openai-lawsuit-chatgpt-dangerous-medical-advice",
+          "date": "Wed, 22 Jul 2026 15:55:00 -0400"
+        },
+        {
           "title": "Elon Musk Says Grok Will Generate Its Own Feature-Length Version of \u201cThe Odyssey\u201d for People Allergic to Progressive Ideas",
           "link": "https://futurism.com/future-society/elon-musk-ai-woke-free-odyssey",
           "date": "Wed, 22 Jul 2026 14:50:15 -0400"
@@ -468,11 +447,6 @@
           "title": "Tech Bros Acquiring Entire Company So They Can Appoint an AI as Its CEO",
           "link": "https://futurism.com/artificial-intelligence/tech-bros-acquiring-entire-company-ai-ceo",
           "date": "Wed, 22 Jul 2026 10:12:04 -0400"
-        },
-        {
-          "title": "Frontier AI Is Faceplanting at Real-World Workplace Tasks",
-          "link": "https://futurism.com/artificial-intelligence/frontier-ai-faceplanting-real-world-tasks",
-          "date": "Tue, 21 Jul 2026 16:33:03 -0400"
         }
       ],
       "error": null
@@ -481,6 +455,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "The White House Is Trying to Figure Out What to Do About Chinese AI",
+          "link": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
+          "date": "Wed, 22 Jul 2026 21:00:00 +0000"
+        },
         {
           "title": "China\u2019s Open AI Models Are Challenging Silicon Valley\u2019s Playbook",
           "link": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/",
@@ -500,11 +479,6 @@
           "title": "A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims\u2019 Blind Spots",
           "link": "https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/",
           "date": "Tue, 21 Jul 2026 16:08:44 +0000"
-        },
-        {
-          "title": "Nvidia Wants to Own Every Chip Inside AI Data Centers",
-          "link": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/",
-          "date": "Tue, 21 Jul 2026 15:00:00 +0000"
         }
       ],
       "error": null
