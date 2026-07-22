@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T15:37:45.895336+00:00",
+  "generatedAt": "2026-07-22T17:14:00.732082+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,16 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Microsoft-Mistral Partnership is About Sovereign AI",
+          "link": "https://aibusiness.com/generative-ai/microsoft-mistral-partnership-about-sovereign-ai",
+          "date": "Wed, 22 Jul 2026 15:51:22 GMT"
+        },
+        {
+          "title": "Google Cloud, Nvidia Collaborate With German Startup for AI Robots",
+          "link": "https://aibusiness.com/robotics/google-cloud-nvidia-collaborate-german-startup-ai-robots",
+          "date": "Wed, 22 Jul 2026 15:36:15 GMT"
+        },
+        {
           "title": "Agibot Expands Embodied AI Portfolio With Four New Products",
           "link": "https://aibusiness.com/robotics/agibot-expands-embodied-ai-portfolio-new-products",
           "date": "Wed, 22 Jul 2026 12:22:19 GMT"
@@ -127,16 +137,6 @@
           "title": "OpenAI Urges Enterprises to Use Its Scorecard to Measure Worth of AI",
           "link": "https://aibusiness.com/generative-ai/openai-urges-enterprises-use-its-scorecard-measure-worth-of-ai",
           "date": "Tue, 21 Jul 2026 17:52:30 GMT"
-        },
-        {
-          "title": "Alibaba Qwen 3.8 Max Shows China Closing in on U.S. Models",
-          "link": "https://aibusiness.com/generative-ai/alibaba-qwen-3-8-max-shows-china-closing-on-u-s-models",
-          "date": "Tue, 21 Jul 2026 16:00:50 GMT"
-        },
-        {
-          "title": "Startup Launches Foundry to Develop Materials for Chips",
-          "link": "https://aibusiness.com/generative-ai/startup-launches-foundry-develop-materials-chips",
-          "date": "Mon, 20 Jul 2026 19:16:44 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -360,6 +360,16 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "We must reject any notion of AI consciousness | Letters",
+          "link": "https://www.theguardian.com/technology/2026/jul/22/we-must-reject-any-notion-of-ai-consciousness",
+          "date": "Wed, 22 Jul 2026 16:50:58 GMT"
+        },
+        {
+          "title": "AI agent went rogue and hacked startup by itself, OpenAI reveals",
+          "link": "https://www.theguardian.com/technology/2026/jul/22/openai-says-its-models-went-rogue-and-hacked-startup-in-unprecedented-incident",
+          "date": "Wed, 22 Jul 2026 16:34:23 GMT"
+        },
+        {
           "title": "Why are OpenAI and Anthropic cheering on regulation in Australia? The answer has global reach",
           "link": "https://www.theguardian.com/technology/2026/jul/23/openai-anthropic-australia-ai-regulation",
           "date": "Wed, 22 Jul 2026 15:00:19 GMT"
@@ -373,16 +383,6 @@
           "title": "Elon Musk says Grok Imagine will make \u2018historically accurate\u2019 AI adaptation of Homer\u2019s Odyssey",
           "link": "https://www.theguardian.com/film/2026/jul/22/elon-musk-grok-imagine-historically-accurate-ai-homers-odyssey-christopher-nolan",
           "date": "Wed, 22 Jul 2026 12:11:47 GMT"
-        },
-        {
-          "title": "Trump administration says 15 agencies will get $5bn in \u2018AI for science\u2019 effort",
-          "link": "https://www.theguardian.com/us-news/2026/jul/22/trump-science-funding-overhaul-ai",
-          "date": "Wed, 22 Jul 2026 11:51:44 GMT"
-        },
-        {
-          "title": "AI agent went rogue and hacked startup by itself, OpenAI reveals",
-          "link": "https://www.theguardian.com/technology/2026/jul/22/openai-says-its-models-went-rogue-and-hacked-startup-in-unprecedented-incident",
-          "date": "Wed, 22 Jul 2026 08:37:47 GMT"
         }
       ],
       "error": null
