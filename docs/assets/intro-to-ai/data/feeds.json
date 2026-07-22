@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T23:53:41.253746+00:00",
+  "generatedAt": "2026-07-22T02:22:51.112917+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -328,6 +328,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Australia just outlined more \u2018AI safety\u2019 priorities, but is the plan actually coherent?",
+          "link": "https://theconversation.com/australia-just-outlined-more-ai-safety-priorities-but-is-the-plan-actually-coherent-287882",
+          "date": "2026-07-22T00:53:24Z"
+        },
+        {
           "title": "Manchester\u2019s digital transformation could be a blueprint for other parts of the UK",
           "link": "https://theconversation.com/manchesters-digital-transformation-could-be-a-blueprint-for-other-parts-of-the-uk-287626",
           "date": "2026-07-21T15:14:34Z"
@@ -346,11 +351,6 @@
           "title": "There are already 16,000 satellites in Earth\u2019s orbit. How will we manage the next 100,000?",
           "link": "https://theconversation.com/there-are-already-16-000-satellites-in-earths-orbit-how-will-we-manage-the-next-100-000-284829",
           "date": "2026-07-20T20:14:21Z"
-        },
-        {
-          "title": "Stop policing AI in the classroom, start teaching it",
-          "link": "https://theconversation.com/stop-policing-ai-in-the-classroom-start-teaching-it-286351",
-          "date": "2026-07-20T03:20:28Z"
         }
       ],
       "error": null
