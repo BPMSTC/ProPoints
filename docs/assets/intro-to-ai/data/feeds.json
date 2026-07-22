@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T05:46:06.201795+00:00",
+  "generatedAt": "2026-07-22T08:23:09.388540+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -320,39 +320,18 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "Microsoft is testing a Chinese model (Kimi) inside Copilot. Are we entering the 'Intel Inside' era of AI?",
-          "link": "https://www.reddit.com/r/artificial/comments/1v2sguf/microsoft_is_testing_a_chinese_model_kimi_inside/",
-          "date": "2026-07-21T19:23:32+00:00"
-        },
-        {
-          "title": "Is it just me, or do Google\u2019s AI tools feel oddly fragmented across too many different products?",
-          "link": "https://www.reddit.com/r/artificial/comments/1v354dm/is_it_just_me_or_do_googles_ai_tools_feel_oddly/",
-          "date": "2026-07-22T04:04:28+00:00"
-        },
-        {
-          "title": "Half of us are using AI to write resumes, the other half is using AI to screen them, and I don't think anyone's actually looking at people anymore",
-          "link": "https://www.reddit.com/r/artificial/comments/1v2pdze/half_of_us_are_using_ai_to_write_resumes_the/",
-          "date": "2026-07-21T17:37:45+00:00"
-        },
-        {
-          "title": "Why I Left Google DeepMind By Alex Turner",
-          "link": "https://www.reddit.com/r/artificial/comments/1v2f8df/why_i_left_google_deepmind_by_alex_turner/",
-          "date": "2026-07-21T11:04:52+00:00"
-        },
-        {
-          "title": "Analyzing the OpenAI - Hugging Face ExploitGym incident",
-          "link": "https://www.reddit.com/r/artificial/comments/1v36nep/analyzing_the_openai_hugging_face_exploitgym/",
-          "date": "2026-07-22T05:21:17+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "\u2018hello there the jacobian conjecture is false thanx\u2019: why a tiny social media post has mathematicians rethinking AI",
+          "link": "https://theconversation.com/hello-there-the-jacobian-conjecture-is-false-thanx-why-a-tiny-social-media-post-has-mathematicians-rethinking-ai-283883",
+          "date": "2026-07-22T05:57:06Z"
+        },
         {
           "title": "Australia just outlined more \u2018AI safety\u2019 priorities, but is the plan actually coherent?",
           "link": "https://theconversation.com/australia-just-outlined-more-ai-safety-priorities-but-is-the-plan-actually-coherent-287882",
@@ -372,11 +351,6 @@
           "title": "Why employers still place a premium on people skills, not AI, when they make hiring decisions",
           "link": "https://theconversation.com/why-employers-still-place-a-premium-on-people-skills-not-ai-when-they-make-hiring-decisions-285583",
           "date": "2026-07-21T12:25:18Z"
-        },
-        {
-          "title": "There are already 16,000 satellites in Earth\u2019s orbit. How will we manage the next 100,000?",
-          "link": "https://theconversation.com/there-are-already-16-000-satellites-in-earths-orbit-how-will-we-manage-the-next-100-000-284829",
-          "date": "2026-07-20T20:14:21Z"
         }
       ],
       "error": null
