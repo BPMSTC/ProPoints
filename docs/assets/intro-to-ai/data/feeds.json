@@ -1,10 +1,25 @@
 {
-  "generatedAt": "2026-07-23T12:22:04.757516+00:00",
+  "generatedAt": "2026-07-23T15:06:13.522944+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "The Rise of Anti-Flock Influencers Who Make Things Up for Clout",
+          "link": "https://www.404media.co/the-rise-of-anti-flock-influencers-who-make-things-up-for-clout/",
+          "date": "Thu, 23 Jul 2026 14:51:32 GMT"
+        },
+        {
+          "title": "Leaked Document Shows the Surveillance Tech at ICE\u2019s Fingertips",
+          "link": "https://www.404media.co/leaked-document-shows-the-surveillance-tech-at-ices-fingertips/",
+          "date": "Thu, 23 Jul 2026 13:55:45 GMT"
+        },
+        {
+          "title": "Orcas Explode Fish Into Confetti, Possibly for Fun, In \u2018Astounding\u2019 New Video",
+          "link": "https://www.404media.co/orcas-explode-fish-into-confetti-possibly-for-fun-in-astounding-new-video/",
+          "date": "Thu, 23 Jul 2026 13:17:40 GMT"
+        },
         {
           "title": "Our New FOIA Forum! 7/30, 1PM ET",
           "link": "https://www.404media.co/our-new-foia-forum-7-30-1pm-et/",
@@ -14,21 +29,6 @@
           "title": "What Happened When Flock Came to My Town",
           "link": "https://www.404media.co/what-happened-when-flock-came-to-my-town/",
           "date": "Wed, 22 Jul 2026 18:33:44 GMT"
-        },
-        {
-          "title": "Flock \u2018Objects to Our Removing Their Equipment\u2019: Emails Reveal Why a Town Put Bags Over Its Flock Cameras",
-          "link": "https://www.404media.co/flock-objects-to-our-removing-their-equipment-emails-reveal-why-a-town-put-bags-over-its-flock-cameras/",
-          "date": "Wed, 22 Jul 2026 14:03:02 GMT"
-        },
-        {
-          "title": "Podcast: Flock is Tracking People, Not Just Cars",
-          "link": "https://www.404media.co/podcast-flock-is-tracking-people-not-just-cars/",
-          "date": "Wed, 22 Jul 2026 13:56:17 GMT"
-        },
-        {
-          "title": "You Opened a Credit Card. ICE Now Knows Where You Live",
-          "link": "https://www.404media.co/you-opened-a-credit-card-ice-now-knows-where-you-live/",
-          "date": "Wed, 22 Jul 2026 13:14:27 GMT"
         }
       ],
       "error": null
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "The causality test that  humbled six AI agents",
+          "link": "https://www.aiacceleratorinstitute.com/the-causality-test-that-humbled-six-ai-agents/",
+          "date": "Thu, 23 Jul 2026 14:35:15 GMT"
+        },
+        {
           "title": "The 2026 State of AI and Identity Report",
           "link": "https://www.aiacceleratorinstitute.com/the-2026-state-of-ai-and-identity-report/",
           "date": "Tue, 21 Jul 2026 15:09:44 GMT"
@@ -88,11 +93,6 @@
           "title": "The 15 AI tools Fortune 500  companies are using in 2026",
           "link": "https://www.aiacceleratorinstitute.com/the-15-ai-tools-fortune-500-companies-are-using-in-2026/",
           "date": "Mon, 13 Jul 2026 15:15:09 GMT"
-        },
-        {
-          "title": "New York's AI scene:  Top 25 in 2026",
-          "link": "https://www.aiacceleratorinstitute.com/new-yorks-ai-scene-the-25-companies-you-need-to-know/",
-          "date": "Thu, 09 Jul 2026 13:00:44 GMT"
         }
       ],
       "error": null
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "items": [
+        {
+          "title": "West Monroe Research Reveals AI Transformation Gap",
+          "link": "https://ai-techpark.com/west-monroe-research-reveals-ai-transformation-gap/",
+          "date": "Thu, 23 Jul 2026 12:40:00 +0000"
+        },
+        {
+          "title": "GMI Cloud Announces Compute Collaboration With NVIDIA",
+          "link": "https://ai-techpark.com/gmi-cloud-announces-compute-collaboration-with-nvidia/",
+          "date": "Thu, 23 Jul 2026 12:24:39 +0000"
+        },
+        {
+          "title": "FemtoAI Unlocks 5X Growth With Full-Stack AI Platform",
+          "link": "https://ai-techpark.com/femtoai-unlocks-5x-growth-with-full-stack-ai-platform/",
+          "date": "Thu, 23 Jul 2026 11:15:00 +0000"
+        },
+        {
+          "title": "Keyfactor Expands Partners for AI, Post-Quantum Future",
+          "link": "https://ai-techpark.com/keyfactor-expands-partners-for-ai-post-quantum-future/",
+          "date": "Thu, 23 Jul 2026 09:30:00 +0000"
+        },
+        {
+          "title": "Lovelace Shows Local AI Matches Top Cloud Agentic Systems",
+          "link": "https://ai-techpark.com/lovelace-shows-local-ai-matches-top-cloud-agentic-systems/",
+          "date": "Thu, 23 Jul 2026 09:00:00 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -113,6 +139,11 @@
       "name": "AI Business",
       "url": "https://aibusiness.com/rss.xml",
       "items": [
+        {
+          "title": "UK Robot Maker Humanoid Valued at $1.35 billion",
+          "link": "https://aibusiness.com/robotics/uk-robot-maker-humanoid-valued-1-35-billion",
+          "date": "Thu, 23 Jul 2026 14:28:58 GMT"
+        },
         {
           "title": "Startup Focused on Enterprise AI Security Valued at $1.2 billion",
           "link": "https://aibusiness.com/cybersecurity/startup-focused-enterprise-ai-security-valued-1-2-billion",
@@ -132,11 +163,6 @@
           "title": "Agibot Expands Embodied AI Portfolio With Four New Products",
           "link": "https://aibusiness.com/robotics/agibot-expands-embodied-ai-portfolio-new-products",
           "date": "Wed, 22 Jul 2026 12:22:19 GMT"
-        },
-        {
-          "title": "New Gemini 3.5 Flash Models Are Faster and Cheaper but Not Smarter",
-          "link": "https://aibusiness.com/generative-ai/new-gemini-3-5-flash-models-are-faster-cheaper-not-smarter",
-          "date": "Tue, 21 Jul 2026 21:31:59 GMT"
         }
       ],
       "error": null
@@ -320,33 +346,7 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "An AI broke out of its sandbox yesterday. Then it hacked a company. Nobody told it to do either of those things.",
-          "link": "https://www.reddit.com/r/artificial/comments/1v3mxzb/an_ai_broke_out_of_its_sandbox_yesterday_then_it/",
-          "date": "2026-07-22T17:29:46+00:00"
-        },
-        {
-          "title": "DeepSeek\u2019s founder reportedly laid out an AGI roadmap \u2014 and a long \u201cnot now\u201d list. What do you make of Liang Wenfeng\u2019s views on where AI should go next?",
-          "link": "https://www.reddit.com/r/artificial/comments/1v4c3ur/deepseeks_founder_reportedly_laid_out_an_agi/",
-          "date": "2026-07-23T12:10:45+00:00"
-        },
-        {
-          "title": "Nvidia's Jensen Huang defends Chinese AI amid Kimi panic",
-          "link": "https://www.reddit.com/r/artificial/comments/1v3l4t7/nvidias_jensen_huang_defends_chinese_ai_amid_kimi/",
-          "date": "2026-07-22T16:27:57+00:00"
-        },
-        {
-          "title": "AMD partners with Claude creators Anthropic, investing up to $5 billion to deploy 2 gigawatts of data center GPUs",
-          "link": "https://www.reddit.com/r/artificial/comments/1v4c3ve/amd_partners_with_claude_creators_anthropic/",
-          "date": "2026-07-23T12:10:47+00:00"
-        },
-        {
-          "title": "I used to be proud of these skills. Now AI agents do them better.",
-          "link": "https://www.reddit.com/r/artificial/comments/1v4aw17/i_used_to_be_proud_of_these_skills_now_ai_agents/",
-          "date": "2026-07-23T11:14:35+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
@@ -450,6 +450,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Public Horrified as OpenAI Pushes \u201cChild After Child Into the Grave\u201d",
+          "link": "https://futurism.com/artificial-intelligence/openai-pushes-child-into-grave",
+          "date": "Thu, 23 Jul 2026 08:49:41 -0400"
+        },
+        {
           "title": "Man Sues OpenAI, Saying ChatGPT Almost Killed Him With Horrendously Dangerous Medical Advice",
           "link": "https://futurism.com/artificial-intelligence/openai-lawsuit-chatgpt-dangerous-medical-advice",
           "date": "Wed, 22 Jul 2026 15:55:00 -0400"
@@ -468,11 +473,6 @@
           "title": "OpenAI Says a Group of Its Models Broke Out of Secure Containment and Hacked Another AI Company",
           "link": "https://futurism.com/artificial-intelligence/openai-broke-out-containment-hacked-hugging-face",
           "date": "Wed, 22 Jul 2026 11:01:51 -0400"
-        },
-        {
-          "title": "Tech Bros Acquiring Entire Company So They Can Appoint an AI as Its CEO",
-          "link": "https://futurism.com/artificial-intelligence/tech-bros-acquiring-entire-company-ai-ceo",
-          "date": "Wed, 22 Jul 2026 10:12:04 -0400"
         }
       ],
       "error": null
