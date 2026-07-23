@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-07-23T10:18:33.577949+00:00",
+  "generatedAt": "2026-07-23T12:22:04.757516+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Our New FOIA Forum! 7/30, 1PM ET",
+          "link": "https://www.404media.co/our-new-foia-forum-7-30-1pm-et/",
+          "date": "Thu, 23 Jul 2026 11:52:00 GMT"
+        },
         {
           "title": "What Happened When Flock Came to My Town",
           "link": "https://www.404media.co/what-happened-when-flock-came-to-my-town/",
@@ -24,11 +29,6 @@
           "title": "You Opened a Credit Card. ICE Now Knows Where You Live",
           "link": "https://www.404media.co/you-opened-a-credit-card-ice-now-knows-where-you-live/",
           "date": "Wed, 22 Jul 2026 13:14:27 GMT"
-        },
-        {
-          "title": "What Does Olive Garden\u2019s Never-Ending Pasta Have to Do With Voting Rights?",
-          "link": "https://www.404media.co/olive-garden-never-ending-pasta-id-save-act/",
-          "date": "Tue, 21 Jul 2026 17:17:45 GMT"
         }
       ],
       "error": null
@@ -290,6 +290,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "White House report says Trump can usher in a \"new golden age\" of science",
+          "link": "https://arstechnica.com/science/2026/07/white-house-report-says-trump-can-usher-in-a-new-golden-age-of-science/",
+          "date": "Thu, 23 Jul 2026 11:23:21 +0000"
+        },
+        {
+          "title": "I wanted a clock that never needed setting. Things escalated.",
+          "link": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/",
+          "date": "Thu, 23 Jul 2026 11:00:50 +0000"
+        },
+        {
           "title": "Orcas team up to ram sunfish until they explode",
           "link": "https://arstechnica.com/science/2026/07/orcas-team-up-to-ram-sunfish-until-they-explode/",
           "date": "Thu, 23 Jul 2026 04:00:38 +0000"
@@ -303,16 +313,6 @@
           "title": "Microsoft brings original Xbox backward compatibility to Windows PCs",
           "link": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/",
           "date": "Wed, 22 Jul 2026 20:36:19 +0000"
-        },
-        {
-          "title": "ISPs' long nightmare of having to list all the fees they charge is finally over",
-          "link": "https://arstechnica.com/tech-policy/2026/07/isps-long-nightmare-of-having-to-list-all-the-fees-they-charge-is-finally-over/",
-          "date": "Wed, 22 Jul 2026 20:17:18 +0000"
-        },
-        {
-          "title": "Clayface trailer leans into the body horror",
-          "link": "https://arstechnica.com/culture/2026/07/clayface-trailer-leans-into-the-body-horror/",
-          "date": "Wed, 22 Jul 2026 19:18:17 +0000"
         }
       ],
       "error": null
@@ -320,7 +320,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "An AI broke out of its sandbox yesterday. Then it hacked a company. Nobody told it to do either of those things.",
+          "link": "https://www.reddit.com/r/artificial/comments/1v3mxzb/an_ai_broke_out_of_its_sandbox_yesterday_then_it/",
+          "date": "2026-07-22T17:29:46+00:00"
+        },
+        {
+          "title": "DeepSeek\u2019s founder reportedly laid out an AGI roadmap \u2014 and a long \u201cnot now\u201d list. What do you make of Liang Wenfeng\u2019s views on where AI should go next?",
+          "link": "https://www.reddit.com/r/artificial/comments/1v4c3ur/deepseeks_founder_reportedly_laid_out_an_agi/",
+          "date": "2026-07-23T12:10:45+00:00"
+        },
+        {
+          "title": "Nvidia's Jensen Huang defends Chinese AI amid Kimi panic",
+          "link": "https://www.reddit.com/r/artificial/comments/1v3l4t7/nvidias_jensen_huang_defends_chinese_ai_amid_kimi/",
+          "date": "2026-07-22T16:27:57+00:00"
+        },
+        {
+          "title": "AMD partners with Claude creators Anthropic, investing up to $5 billion to deploy 2 gigawatts of data center GPUs",
+          "link": "https://www.reddit.com/r/artificial/comments/1v4c3ve/amd_partners_with_claude_creators_anthropic/",
+          "date": "2026-07-23T12:10:47+00:00"
+        },
+        {
+          "title": "I used to be proud of these skills. Now AI agents do them better.",
+          "link": "https://www.reddit.com/r/artificial/comments/1v4aw17/i_used_to_be_proud_of_these_skills_now_ai_agents/",
+          "date": "2026-07-23T11:14:35+00:00"
+        }
+      ],
       "error": null
     },
     {
