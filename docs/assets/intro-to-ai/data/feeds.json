@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T04:17:02.191755+00:00",
+  "generatedAt": "2026-07-23T07:30:18.277717+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Orcas team up to ram sunfish until they explode",
+          "link": "https://arstechnica.com/science/2026/07/orcas-team-up-to-ram-sunfish-until-they-explode/",
+          "date": "Thu, 23 Jul 2026 04:00:38 +0000"
+        },
+        {
           "title": "Sales were up at Tesla but so were costs and spending",
           "link": "https://arstechnica.com/cars/2026/07/teslas-revenues-are-up-but-profits-squeezed-as-musk-spends-on-ai/",
           "date": "Wed, 22 Jul 2026 21:15:19 +0000"
@@ -308,11 +313,6 @@
           "title": "Clayface trailer leans into the body horror",
           "link": "https://arstechnica.com/culture/2026/07/clayface-trailer-leans-into-the-body-horror/",
           "date": "Wed, 22 Jul 2026 19:18:17 +0000"
-        },
-        {
-          "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
-          "link": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
-          "date": "Wed, 22 Jul 2026 18:18:12 +0000"
         }
       ],
       "error": null
