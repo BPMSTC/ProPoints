@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T22:58:46.493075+00:00",
+  "generatedAt": "2026-07-23T00:05:33.769794+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Sales were up at Tesla but so were costs and spending",
+          "link": "https://arstechnica.com/cars/2026/07/teslas-revenues-are-up-but-profits-squeezed-as-musk-spends-on-ai/",
+          "date": "Wed, 22 Jul 2026 21:15:19 +0000"
+        },
+        {
           "title": "Microsoft brings original Xbox backward compatibility to Windows PCs",
           "link": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/",
           "date": "Wed, 22 Jul 2026 20:36:19 +0000"
@@ -308,11 +313,6 @@
           "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
           "link": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
           "date": "Wed, 22 Jul 2026 18:18:12 +0000"
-        },
-        {
-          "title": "Next Space Force chief throws cold water on the idea of space privateers",
-          "link": "https://arstechnica.com/space/2026/07/next-space-force-chief-throws-cold-water-on-the-idea-of-space-privateers/",
-          "date": "Wed, 22 Jul 2026 17:02:44 +0000"
         }
       ],
       "error": null
@@ -365,6 +365,11 @@
           "date": "Wed, 22 Jul 2026 20:40:48 GMT"
         },
         {
+          "title": "Chasing new skills, going back to basics and pushing for collective action: how software engineers are adapting to AI",
+          "link": "https://www.theguardian.com/technology/ng-interactive/2026/jul/12/software-developers-engineers-ai",
+          "date": "Wed, 22 Jul 2026 23:18:52 GMT"
+        },
+        {
           "title": "We must reject any notion of AI consciousness | Letters",
           "link": "https://www.theguardian.com/technology/2026/jul/22/we-must-reject-any-notion-of-ai-consciousness",
           "date": "Wed, 22 Jul 2026 16:50:58 GMT"
@@ -378,11 +383,6 @@
           "title": "Why are OpenAI and Anthropic cheering on regulation in Australia? The answer has global reach",
           "link": "https://www.theguardian.com/technology/2026/jul/23/openai-anthropic-australia-ai-regulation",
           "date": "Wed, 22 Jul 2026 15:00:19 GMT"
-        },
-        {
-          "title": "Harry Potter publisher to receive millions in Anthropic copyright settlement",
-          "link": "https://www.theguardian.com/technology/2026/jul/22/bloomsbury-book-publisher-anthropic-copyright-settlement",
-          "date": "Wed, 22 Jul 2026 13:28:09 GMT"
         }
       ],
       "error": null
