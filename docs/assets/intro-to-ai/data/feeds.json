@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T00:05:33.769794+00:00",
+  "generatedAt": "2026-07-23T04:17:02.191755+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -328,6 +328,16 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "OpenAI\u2019s models autonomously hacked a tech startup. It signals a seismic shift in cybersecurity",
+          "link": "https://theconversation.com/openais-models-autonomously-hacked-a-tech-startup-it-signals-a-seismic-shift-in-cybersecurity-288106",
+          "date": "2026-07-23T02:18:51Z"
+        },
+        {
+          "title": "China has cracked down on AI companions. What can we learn from this?",
+          "link": "https://theconversation.com/china-has-cracked-down-on-ai-companions-what-can-we-learn-from-this-287976",
+          "date": "2026-07-23T02:10:18Z"
+        },
+        {
           "title": "\u2018hello there the jacobian conjecture is false thanx\u2019: why a tiny social media post has mathematicians rethinking AI",
           "link": "https://theconversation.com/hello-there-the-jacobian-conjecture-is-false-thanx-why-a-tiny-social-media-post-has-mathematicians-rethinking-ai-283883",
           "date": "2026-07-22T05:57:06Z"
@@ -341,16 +351,6 @@
           "title": "Manchester\u2019s digital transformation could be a blueprint for other parts of the UK",
           "link": "https://theconversation.com/manchesters-digital-transformation-could-be-a-blueprint-for-other-parts-of-the-uk-287626",
           "date": "2026-07-21T15:14:34Z"
-        },
-        {
-          "title": "Legally or not, the US government is controlling global access to the world\u2019s most powerful AI",
-          "link": "https://theconversation.com/legally-or-not-the-us-government-is-controlling-global-access-to-the-worlds-most-powerful-ai-286118",
-          "date": "2026-07-21T12:27:32Z"
-        },
-        {
-          "title": "Why employers still place a premium on people skills, not AI, when they make hiring decisions",
-          "link": "https://theconversation.com/why-employers-still-place-a-premium-on-people-skills-not-ai-when-they-make-hiring-decisions-285583",
-          "date": "2026-07-21T12:25:18Z"
         }
       ],
       "error": null
