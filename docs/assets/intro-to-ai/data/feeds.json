@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-07-23T15:06:13.522944+00:00",
+  "generatedAt": "2026-07-23T17:18:09.410746+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Patreon Lays Off 20 Percent of Its Workforce",
+          "link": "https://www.404media.co/patreon-lays-off-20-percent-of-its-workforce/",
+          "date": "Thu, 23 Jul 2026 15:24:36 GMT"
+        },
         {
           "title": "The Rise of Anti-Flock Influencers Who Make Things Up for Clout",
           "link": "https://www.404media.co/the-rise-of-anti-flock-influencers-who-make-things-up-for-clout/",
@@ -24,11 +29,6 @@
           "title": "Our New FOIA Forum! 7/30, 1PM ET",
           "link": "https://www.404media.co/our-new-foia-forum-7-30-1pm-et/",
           "date": "Thu, 23 Jul 2026 11:52:00 GMT"
-        },
-        {
-          "title": "What Happened When Flock Came to My Town",
-          "link": "https://www.404media.co/what-happened-when-flock-came-to-my-town/",
-          "date": "Wed, 22 Jul 2026 18:33:44 GMT"
         }
       ],
       "error": null
@@ -102,6 +102,16 @@
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [
         {
+          "title": "StrongestLayer Raises $9.3M Total Seed to Combat AI Email Attacks",
+          "link": "https://ai-techpark.com/strongestlayer-raises-9-3m-total-seed-to-combat-ai-email-attacks/",
+          "date": "Thu, 23 Jul 2026 13:35:00 +0000"
+        },
+        {
+          "title": "Kong Opens Paris, Milan Offices Amid EMEA Growth",
+          "link": "https://ai-techpark.com/kong-opens-paris-milan-offices-amid-emea-growth/",
+          "date": "Thu, 23 Jul 2026 13:20:00 +0000"
+        },
+        {
           "title": "West Monroe Research Reveals AI Transformation Gap",
           "link": "https://ai-techpark.com/west-monroe-research-reveals-ai-transformation-gap/",
           "date": "Thu, 23 Jul 2026 12:40:00 +0000"
@@ -115,16 +125,6 @@
           "title": "FemtoAI Unlocks 5X Growth With Full-Stack AI Platform",
           "link": "https://ai-techpark.com/femtoai-unlocks-5x-growth-with-full-stack-ai-platform/",
           "date": "Thu, 23 Jul 2026 11:15:00 +0000"
-        },
-        {
-          "title": "Keyfactor Expands Partners for AI, Post-Quantum Future",
-          "link": "https://ai-techpark.com/keyfactor-expands-partners-for-ai-post-quantum-future/",
-          "date": "Thu, 23 Jul 2026 09:30:00 +0000"
-        },
-        {
-          "title": "Lovelace Shows Local AI Matches Top Cloud Agentic Systems",
-          "link": "https://ai-techpark.com/lovelace-shows-local-ai-matches-top-cloud-agentic-systems/",
-          "date": "Thu, 23 Jul 2026 09:00:00 +0000"
         }
       ],
       "error": null
@@ -316,6 +316,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "AI arms race in line for a reckoning after OpenAI hacking incident",
+          "link": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
+          "date": "Thu, 23 Jul 2026 14:45:05 +0000"
+        },
+        {
           "title": "White House report says Trump can usher in a \"new golden age\" of science",
           "link": "https://arstechnica.com/science/2026/07/white-house-report-says-trump-can-usher-in-a-new-golden-age-of-science/",
           "date": "Thu, 23 Jul 2026 11:23:21 +0000"
@@ -326,7 +331,7 @@
           "date": "Thu, 23 Jul 2026 11:00:50 +0000"
         },
         {
-          "title": "Orcas team up to ram sunfish until they explode",
+          "title": "Watch orcas ram a sunfish so hard it explodes",
           "link": "https://arstechnica.com/science/2026/07/orcas-team-up-to-ram-sunfish-until-they-explode/",
           "date": "Thu, 23 Jul 2026 04:00:38 +0000"
         },
@@ -334,11 +339,6 @@
           "title": "Sales were up at Tesla but so were costs and spending",
           "link": "https://arstechnica.com/cars/2026/07/teslas-revenues-are-up-but-profits-squeezed-as-musk-spends-on-ai/",
           "date": "Wed, 22 Jul 2026 21:15:19 +0000"
-        },
-        {
-          "title": "Microsoft brings original Xbox backward compatibility to Windows PCs",
-          "link": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/",
-          "date": "Wed, 22 Jul 2026 20:36:19 +0000"
         }
       ],
       "error": null
@@ -353,6 +353,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "A new \u2018golden age\u2019 of mathematics may be dawning \u2014 thanks to AI and human ingenuity",
+          "link": "https://theconversation.com/a-new-golden-age-of-mathematics-may-be-dawning-thanks-to-ai-and-human-ingenuity-287346",
+          "date": "2026-07-23T15:18:25Z"
+        },
         {
           "title": "OpenAI\u2019s models autonomously hacked a tech startup. It signals a seismic shift in cybersecurity",
           "link": "https://theconversation.com/openais-models-autonomously-hacked-a-tech-startup-it-signals-a-seismic-shift-in-cybersecurity-288106",
@@ -372,11 +377,6 @@
           "title": "Australia just outlined more \u2018AI safety\u2019 priorities, but is the plan actually coherent?",
           "link": "https://theconversation.com/australia-just-outlined-more-ai-safety-priorities-but-is-the-plan-actually-coherent-287882",
           "date": "2026-07-22T00:53:24Z"
-        },
-        {
-          "title": "Manchester\u2019s digital transformation could be a blueprint for other parts of the UK",
-          "link": "https://theconversation.com/manchesters-digital-transformation-could-be-a-blueprint-for-other-parts-of-the-uk-287626",
-          "date": "2026-07-21T15:14:34Z"
         }
       ],
       "error": null
@@ -391,24 +391,24 @@
           "date": "Wed, 22 Jul 2026 20:40:48 GMT"
         },
         {
+          "title": "Ben Jennings on Elon Musk and The Odyssey \u2013 cartoon",
+          "link": "https://www.theguardian.com/commentisfree/picture/2026/jul/23/ben-jennings-elon-musk-the-odyssey-cartoon",
+          "date": "Thu, 23 Jul 2026 16:56:51 GMT"
+        },
+        {
+          "title": "\u2018Customers prefer AI chatbots,\u2019 says British Gas owner as 1,300 call centre jobs axed",
+          "link": "https://www.theguardian.com/business/2026/jul/23/customers-prefer-ai-chatbots-says-chris-oshea-british-gas-centrica-boss",
+          "date": "Thu, 23 Jul 2026 16:45:56 GMT"
+        },
+        {
+          "title": "\u2018I got carried away\u2019: Elon Musk expresses regret about Doge and wading into Trump\u2019s orbit",
+          "link": "https://www.theguardian.com/technology/2026/jul/23/elon-musk-regret-trump-doge-ai",
+          "date": "Thu, 23 Jul 2026 15:27:52 GMT"
+        },
+        {
           "title": "Chasing new skills, going back to basics and pushing for collective action: how software engineers are adapting to AI",
           "link": "https://www.theguardian.com/technology/ng-interactive/2026/jul/12/software-developers-engineers-ai",
           "date": "Wed, 22 Jul 2026 23:18:52 GMT"
-        },
-        {
-          "title": "We must reject any notion of AI consciousness | Letters",
-          "link": "https://www.theguardian.com/technology/2026/jul/22/we-must-reject-any-notion-of-ai-consciousness",
-          "date": "Wed, 22 Jul 2026 16:50:58 GMT"
-        },
-        {
-          "title": "AI agent went rogue and hacked startup by itself, OpenAI reveals",
-          "link": "https://www.theguardian.com/technology/2026/jul/22/openai-says-its-models-went-rogue-and-hacked-startup-in-unprecedented-incident",
-          "date": "Wed, 22 Jul 2026 16:34:23 GMT"
-        },
-        {
-          "title": "Why are OpenAI and Anthropic cheering on regulation in Australia? The answer has global reach",
-          "link": "https://www.theguardian.com/technology/2026/jul/23/openai-anthropic-australia-ai-regulation",
-          "date": "Wed, 22 Jul 2026 15:00:19 GMT"
         }
       ],
       "error": null
@@ -450,6 +450,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Trump Says Images of the Iranian Elementary School His Lackeys Obliterated Could Be \u201cAI Generated\u201d",
+          "link": "https://futurism.com/artificial-intelligence/trump-images-iran-elementary-school-ai",
+          "date": "Thu, 23 Jul 2026 11:50:47 -0400"
+        },
+        {
           "title": "Public Horrified as OpenAI Pushes \u201cChild After Child Into the Grave\u201d",
           "link": "https://futurism.com/artificial-intelligence/openai-pushes-child-into-grave",
           "date": "Thu, 23 Jul 2026 08:49:41 -0400"
@@ -468,11 +473,6 @@
           "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
           "link": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
           "date": "Wed, 22 Jul 2026 13:19:52 -0400"
-        },
-        {
-          "title": "OpenAI Says a Group of Its Models Broke Out of Secure Containment and Hacked Another AI Company",
-          "link": "https://futurism.com/artificial-intelligence/openai-broke-out-containment-hacked-hugging-face",
-          "date": "Wed, 22 Jul 2026 11:01:51 -0400"
         }
       ],
       "error": null
