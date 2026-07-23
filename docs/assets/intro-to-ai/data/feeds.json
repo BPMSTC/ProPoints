@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T07:30:18.277717+00:00",
+  "generatedAt": "2026-07-23T10:18:33.577949+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -456,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Remember Jibo? Its Successor Is a Wearable That Turns Your Life Into AI Slop",
+          "link": "https://www.wired.com/story/the-beloved-jibo-robot-is-being-resurrected-as-an-ai-wearable/",
+          "date": "Thu, 23 Jul 2026 09:15:00 +0000"
+        },
+        {
           "title": "The White House Is Trying to Figure Out What to Do About Chinese AI",
           "link": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
           "date": "Wed, 22 Jul 2026 21:00:00 +0000"
@@ -474,11 +479,6 @@
           "title": "This Former Intel CEO Wants to Jumpstart Moore\u2019s Law With Light",
           "link": "https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/",
           "date": "Tue, 21 Jul 2026 19:05:00 +0000"
-        },
-        {
-          "title": "A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims\u2019 Blind Spots",
-          "link": "https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/",
-          "date": "Tue, 21 Jul 2026 16:08:44 +0000"
         }
       ],
       "error": null
