@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T08:21:57.050850+00:00",
+  "generatedAt": "2026-07-24T11:00:54.221954+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -177,7 +177,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -482,6 +482,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Some Kids Will Never Think AI Is Cool",
+          "link": "https://www.wired.com/story/some-kids-will-never-think-ai-is-cool/",
+          "date": "Fri, 24 Jul 2026 10:00:00 +0000"
+        },
+        {
           "title": "Meta\u2019s New Feel-Good AI Ad Uses a Song About the World Ending",
           "link": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/",
           "date": "Thu, 23 Jul 2026 18:45:52 +0000"
@@ -500,11 +505,6 @@
           "title": "China\u2019s Open AI Models Are Challenging Silicon Valley\u2019s Playbook",
           "link": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/",
           "date": "Wed, 22 Jul 2026 19:01:38 +0000"
-        },
-        {
-          "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
-          "link": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
-          "date": "Tue, 21 Jul 2026 22:50:01 +0000"
         }
       ],
       "error": null
