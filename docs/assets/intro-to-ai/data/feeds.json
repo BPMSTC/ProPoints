@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T13:36:49.449316+00:00",
+  "generatedAt": "2026-07-24T15:23:00.415008+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,8 +100,34 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [],
-      "error": "<unknown>:47:2: mismatched tag"
+      "items": [
+        {
+          "title": "Infinium Edge Announced the Launch of EdgeSites\u2122",
+          "link": "https://ai-techpark.com/infinium-edge-announced-the-launch-of-edgesites/",
+          "date": "Fri, 24 Jul 2026 05:48:00 +0000"
+        },
+        {
+          "title": "StrongestLayer Raises $9.3M Total Seed to Combat AI Email Attacks",
+          "link": "https://ai-techpark.com/strongestlayer-raises-9-3m-total-seed-to-combat-ai-email-attacks/",
+          "date": "Thu, 23 Jul 2026 13:35:00 +0000"
+        },
+        {
+          "title": "Kong Opens Paris, Milan Offices Amid EMEA Growth",
+          "link": "https://ai-techpark.com/kong-opens-paris-milan-offices-amid-emea-growth/",
+          "date": "Thu, 23 Jul 2026 13:20:00 +0000"
+        },
+        {
+          "title": "West Monroe Research Reveals AI Transformation Gap",
+          "link": "https://ai-techpark.com/west-monroe-research-reveals-ai-transformation-gap/",
+          "date": "Thu, 23 Jul 2026 12:40:00 +0000"
+        },
+        {
+          "title": "GMI Cloud Announces Compute Collaboration With NVIDIA",
+          "link": "https://ai-techpark.com/gmi-cloud-announces-compute-collaboration-with-nvidia/",
+          "date": "Thu, 23 Jul 2026 12:24:39 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -360,6 +386,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Is AI already beyond our control? What will we tell our kids? | Fiona Katauskas",
+          "link": "https://www.theguardian.com/commentisfree/picture/2026/jul/25/is-ai-already-beyond-our-control-what-will-we-tell-our-kids",
+          "date": "Fri, 24 Jul 2026 15:00:19 GMT"
+        },
+        {
           "title": "Be skeptical of OpenAI\u2019s rogue hacker agent story | John Thickstun",
           "link": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
           "date": "Fri, 24 Jul 2026 13:00:14 GMT"
@@ -378,11 +409,6 @@
           "title": "Trump says nearly 200 firms have signed pledge to protect Americans from costs arising from datacenters",
           "link": "https://www.theguardian.com/us-news/2026/jul/23/trump-datacenter-costs-big-tech",
           "date": "Thu, 23 Jul 2026 19:56:50 GMT"
-        },
-        {
-          "title": "Ben Jennings on Elon Musk and The Odyssey \u2013 cartoon",
-          "link": "https://www.theguardian.com/commentisfree/picture/2026/jul/23/ben-jennings-elon-musk-the-odyssey-cartoon",
-          "date": "Thu, 23 Jul 2026 16:56:51 GMT"
         }
       ],
       "error": null
@@ -456,6 +482,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Silicon Valley Is Completely Divided Over Chinese AI",
+          "link": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
+          "date": "Fri, 24 Jul 2026 15:00:00 +0000"
+        },
+        {
           "title": "Some Kids Will Never Think AI Is Cool",
           "link": "https://www.wired.com/story/some-kids-will-never-think-ai-is-cool/",
           "date": "Fri, 24 Jul 2026 10:00:00 +0000"
@@ -474,11 +505,6 @@
           "title": "The White House Is Trying to Figure Out What to Do About Chinese AI",
           "link": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
           "date": "Wed, 22 Jul 2026 21:00:00 +0000"
-        },
-        {
-          "title": "China\u2019s Open AI Models Are Challenging Silicon Valley\u2019s Playbook",
-          "link": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/",
-          "date": "Wed, 22 Jul 2026 19:01:38 +0000"
         }
       ],
       "error": null
