@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T02:46:17.245445+00:00",
+  "generatedAt": "2026-07-24T05:52:07.953292+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "StrongestLayer Raises $9.3M Total Seed to Combat AI Email Attacks",
-          "link": "https://ai-techpark.com/strongestlayer-raises-9-3m-total-seed-to-combat-ai-email-attacks/",
-          "date": "Thu, 23 Jul 2026 13:35:00 +0000"
-        },
-        {
-          "title": "Kong Opens Paris, Milan Offices Amid EMEA Growth",
-          "link": "https://ai-techpark.com/kong-opens-paris-milan-offices-amid-emea-growth/",
-          "date": "Thu, 23 Jul 2026 13:20:00 +0000"
-        },
-        {
-          "title": "West Monroe Research Reveals AI Transformation Gap",
-          "link": "https://ai-techpark.com/west-monroe-research-reveals-ai-transformation-gap/",
-          "date": "Thu, 23 Jul 2026 12:40:00 +0000"
-        },
-        {
-          "title": "GMI Cloud Announces Compute Collaboration With NVIDIA",
-          "link": "https://ai-techpark.com/gmi-cloud-announces-compute-collaboration-with-nvidia/",
-          "date": "Thu, 23 Jul 2026 12:24:39 +0000"
-        },
-        {
-          "title": "FemtoAI Unlocks 5X Growth With Full-Stack AI Platform",
-          "link": "https://ai-techpark.com/femtoai-unlocks-5x-growth-with-full-stack-ai-platform/",
-          "date": "Thu, 23 Jul 2026 11:15:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI Archives | KnowTechie",
