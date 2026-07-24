@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-07-24T17:26:35.756719+00:00",
+  "generatedAt": "2026-07-24T19:20:04.621195+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Behind the Blog: No Spoilers",
+          "link": "https://www.404media.co/behind-the-blog-no-spoilers/",
+          "date": "Fri, 24 Jul 2026 18:11:04 GMT"
+        },
         {
           "title": "A Court Reporter Submitted AI-Generated Errors in Official Court Transcript, Judge Says",
           "link": "https://www.404media.co/judge-caught-court-reporter-using-ai-transcript-errors/",
@@ -24,11 +29,6 @@
           "title": "The Rise of Anti-Flock Influencers Who Make Things Up for Clout",
           "link": "https://www.404media.co/the-rise-of-anti-flock-influencers-who-make-things-up-for-clout/",
           "date": "Thu, 23 Jul 2026 14:51:32 GMT"
-        },
-        {
-          "title": "Leaked Document Shows the Surveillance Tech at ICE\u2019s Fingertips",
-          "link": "https://www.404media.co/leaked-document-shows-the-surveillance-tech-at-ices-fingertips/",
-          "date": "Thu, 23 Jul 2026 13:55:45 GMT"
         }
       ],
       "error": null
@@ -232,6 +232,11 @@
           "date": "2025-09-09T02:25:04+00:00"
         },
         {
+          "title": "ChatGPT Photo Prompt Help",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v5ipxa/chatgpt_photo_prompt_help/",
+          "date": "2026-07-24T17:53:49+00:00"
+        },
+        {
           "title": "NPM MetaHarness: Self Customizing agent harnesses built around existing AI tools (Claude Code, Hermes, Codex, and others)",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1uo3gw8/npm_metaharness_self_customizing_agent_harnesses/",
           "date": "2026-07-05T14:23:10+00:00"
@@ -240,11 +245,6 @@
           "title": "At least they\u2019re honest..",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1unemhb/at_least_theyre_honest/",
           "date": "2026-07-04T17:19:17+00:00"
-        },
-        {
-          "title": "I built a free, open-source menu bar app that shows your Claude Code / Codex quota before you hit the wall (zero API calls, zero Keychain access)",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1uni4eu/i_built_a_free_opensource_menu_bar_app_that_shows/",
-          "date": "2026-07-04T19:42:28+00:00"
         }
       ],
       "error": null
@@ -316,29 +316,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "RFK Jr.'s hand-picked committee approves manufacture of peptides he uses",
+          "link": "https://arstechnica.com/health/2026/07/rfk-jr-s-hand-picked-committee-approves-manufacture-of-peptides-he-uses/",
+          "date": "Fri, 24 Jul 2026 19:10:09 +0000"
+        },
+        {
+          "title": "Judge rebuffs Trump admin demand for phone records from NYT reporters",
+          "link": "https://arstechnica.com/tech-policy/2026/07/judge-rebuffs-trump-admin-demand-for-phone-records-from-nyt-reporters/",
+          "date": "Fri, 24 Jul 2026 18:02:21 +0000"
+        },
+        {
+          "title": "European Union grants US request to restrict satellite images of Iran War region",
+          "link": "https://arstechnica.com/space/2026/07/european-union-grants-us-request-to-restrict-satellite-images-of-iran-war-region/",
+          "date": "Fri, 24 Jul 2026 17:45:05 +0000"
+        },
+        {
+          "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
+          "link": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
+          "date": "Fri, 24 Jul 2026 17:31:26 +0000"
+        },
+        {
           "title": "This is the world's most advanced robotic servicing satellite\u2014that we know about",
           "link": "https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/",
           "date": "Fri, 24 Jul 2026 15:23:06 +0000"
-        },
-        {
-          "title": "Rocket Report: Lightning strikes in China; Starship launch on deck",
-          "link": "https://arstechnica.com/space/2026/07/rocket-report-lightning-strikes-in-china-starship-launch-on-deck/",
-          "date": "Fri, 24 Jul 2026 14:34:25 +0000"
-        },
-        {
-          "title": "AI firms want more data centers; Trump's EPA may give neighbors less say",
-          "link": "https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/",
-          "date": "Fri, 24 Jul 2026 13:49:38 +0000"
-        },
-        {
-          "title": "Robot snakes searched for Venezuela earthquake survivors in collapsed buildings",
-          "link": "https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings/",
-          "date": "Fri, 24 Jul 2026 11:20:43 +0000"
-        },
-        {
-          "title": "Microsoft responds to LG monitors installing McAfee ads on Windows",
-          "link": "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/",
-          "date": "Thu, 23 Jul 2026 20:47:33 +0000"
         }
       ],
       "error": null
@@ -346,7 +346,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "Users tried to object to their chatgpt logs being handed to the NYT. the court ruled they were \"non-parties\" to their own conversations.",
+          "link": "https://www.reddit.com/r/artificial/comments/1v5b04p/users_tried_to_object_to_their_chatgpt_logs_being/",
+          "date": "2026-07-24T13:11:21+00:00"
+        },
+        {
+          "title": "We can live without AI, but we can\u2019t live without water. \u201cI have a jar right here. This is the current drinking water in Morgan Country, Georgia, right after a data center was constructed.\u201d This is what the drinking water now looks like next to that data center\u201d Protect our environment",
+          "link": "https://www.reddit.com/r/artificial/comments/1v4j8rn/we_can_live_without_ai_but_we_cant_live_without/",
+          "date": "2026-07-23T16:41:17+00:00"
+        },
+        {
+          "title": "Bipartisan bill would require companies to tell users when they're talking to AI",
+          "link": "https://www.reddit.com/r/artificial/comments/1v5jk23/bipartisan_bill_would_require_companies_to_tell/",
+          "date": "2026-07-24T18:22:57+00:00"
+        },
+        {
+          "title": "China\u2019s open AI strategy is changing the race",
+          "link": "https://www.reddit.com/r/artificial/comments/1v5c06c/chinas_open_ai_strategy_is_changing_the_race/",
+          "date": "2026-07-24T13:51:13+00:00"
+        },
+        {
+          "title": "\"I'm doing this because I love it\"",
+          "link": "https://www.reddit.com/r/artificial/comments/1v50yle/im_doing_this_because_i_love_it/",
+          "date": "2026-07-24T04:30:08+00:00"
+        }
+      ],
       "error": null
     },
     {
@@ -450,6 +476,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Braindead Politician Accidentally Reads AI Slop That Someone Left in His Speech: \u201cHere\u2019s a More Natural, Flowing Version of That Section That Reads Like a Legislative Speech\u201d",
+          "link": "https://futurism.com/artificial-intelligence/politician-accidentally-reads-ai-slop-speech",
+          "date": "Fri, 24 Jul 2026 14:59:59 -0400"
+        },
+        {
           "title": "Investors Laying Groundwork to Profit Massively When Economy Collapses",
           "link": "https://futurism.com/future-society/investors-shorting-economy",
           "date": "Fri, 24 Jul 2026 13:07:10 -0400"
@@ -468,11 +499,6 @@
           "title": "Neill Blomkamp Is Making It Look Like AI Is the Last Resort for Filmmakers With Failing Careers",
           "link": "https://futurism.com/artificial-intelligence/neil-blomkamp-ai",
           "date": "Thu, 23 Jul 2026 13:48:24 -0400"
-        },
-        {
-          "title": "Trump Says Images of the Iranian Elementary School His Lackeys Obliterated Could Be \u201cAI Generated\u201d",
-          "link": "https://futurism.com/artificial-intelligence/trump-images-iran-elementary-school-ai",
-          "date": "Thu, 23 Jul 2026 11:50:47 -0400"
         }
       ],
       "error": null
@@ -481,6 +507,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models",
+          "link": "https://www.wired.com/story/uncanny-valley-podcast/",
+          "date": "Fri, 24 Jul 2026 17:53:01 +0000"
+        },
         {
           "title": "Silicon Valley Is Completely Divided Over Chinese AI",
           "link": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
@@ -500,11 +531,6 @@
           "title": "Remember Jibo? Its Successor Is a Wearable That Turns Your Life Into AI Slop",
           "link": "https://www.wired.com/story/the-beloved-jibo-robot-is-being-resurrected-as-an-ai-wearable/",
           "date": "Thu, 23 Jul 2026 09:15:00 +0000"
-        },
-        {
-          "title": "The White House Is Trying to Figure Out What to Do About Chinese AI",
-          "link": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
-          "date": "Wed, 22 Jul 2026 21:00:00 +0000"
         }
       ],
       "error": null
