@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T17:55:51.453100+00:00",
+  "generatedAt": "2026-07-25T19:08:19.919667+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "Yugabyte Study Reveals Hidden Costs of Legacy Databases",
-          "link": "https://ai-techpark.com/yugabyte-study-reveals-hidden-costs-of-legacy-databases/",
-          "date": "Fri, 24 Jul 2026 16:30:00 +0000"
-        },
-        {
-          "title": "Azul to Deliver Monthly Java Security Updates for LTS Versions",
-          "link": "https://ai-techpark.com/azul-to-deliver-monthly-java-security-updates-for-lts-versions/",
-          "date": "Fri, 24 Jul 2026 16:15:00 +0000"
-        },
-        {
-          "title": "Darrow Announced Availability in the Microsoft Marketplace",
-          "link": "https://ai-techpark.com/darrow-announced-availability-in-the-microsoft-marketplace/",
-          "date": "Fri, 24 Jul 2026 15:30:00 +0000"
-        },
-        {
-          "title": "Zip Study Finds Deep AI Investment Delivers 6x ROI",
-          "link": "https://ai-techpark.com/zip-study-finds-deep-ai-investment-delivers-6x-roi/",
-          "date": "Fri, 24 Jul 2026 15:00:00 +0000"
-        },
-        {
-          "title": "Cato Networks, CrowdStrike Partner on Unified Security Operations",
-          "link": "https://ai-techpark.com/cato-networks-crowdstrike-partner-on-unified-security-operations/",
-          "date": "Fri, 24 Jul 2026 14:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -177,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -232,6 +206,11 @@
           "date": "2025-10-06T21:02:20+00:00"
         },
         {
+          "title": "Am I about to waste $9k? Complete noob wanting to buy a Mac Studio for local AI \ud83d\ude05",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v6fgxz/am_i_about_to_waste_9k_complete_noob_wanting_to/",
+          "date": "2026-07-25T18:09:43+00:00"
+        },
+        {
           "title": "Looking for the best AI subscription service for my needs!",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v6eeqi/looking_for_the_best_ai_subscription_service_for/",
           "date": "2026-07-25T17:29:37+00:00"
@@ -240,11 +219,6 @@
           "title": "What do yall think about Generative OS",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v6cqfm/what_do_yall_think_about_generative_os/",
           "date": "2026-07-25T16:24:19+00:00"
-        },
-        {
-          "title": "Share your best professional prompt",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v69uu1/share_your_best_professional_prompt/",
-          "date": "2026-07-25T14:27:29+00:00"
         }
       ],
       "error": null
@@ -316,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
+          "link": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
+          "date": "Sat, 25 Jul 2026 17:47:22 +0000"
+        },
+        {
           "title": "With help from data, art museums are reframing the visitor experience",
           "link": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
           "date": "Sat, 25 Jul 2026 11:00:32 +0000"
@@ -334,11 +313,6 @@
           "title": "Paramount/WBD merger delayed for months as states' lawsuit moves toward trial",
           "link": "https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/",
           "date": "Fri, 24 Jul 2026 21:56:02 +0000"
-        },
-        {
-          "title": "Canadian legislator reads out apparent LLM response in floor speech",
-          "link": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
-          "date": "Fri, 24 Jul 2026 21:25:15 +0000"
         }
       ],
       "error": null
