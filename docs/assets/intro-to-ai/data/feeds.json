@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T03:30:58.470293+00:00",
+  "generatedAt": "2026-07-25T06:14:09.040959+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -177,7 +177,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -222,14 +222,14 @@
       "url": "https://www.reddit.com/r/aipromptprogramming/.rss",
       "items": [
         {
+          "title": "Let's make r/aipromptprogramming active again \ud83d\ude80\ud83e\udd16",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v5y47w/lets_make_raipromptprogramming_active_again/",
+          "date": "2026-07-25T04:28:27+00:00"
+        },
+        {
           "title": "Agentic Flow: Easily switch between low/no-cost AI models (OpenRouter/Onnx/Gemini) in Claude Code and Claude Agent SDK. Build agents in Claude Code, deploy them anywhere. >_ npx agentic-flow",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1nzvbsl/agentic_flow_easily_switch_between_lownocost_ai/",
           "date": "2025-10-06T21:02:20+00:00"
-        },
-        {
-          "title": "I created an Agentic Coding Competition MCP for Cline/Claude-Code/Cursor/Co-pilot using E2B Sandboxes. I'm looking for some Beta Testers. > npx flow-nexus@latest",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1nc75k5/i_created_an_agentic_coding_competition_mcp_for/",
-          "date": "2025-09-09T02:25:04+00:00"
         },
         {
           "title": "Make AI Your Own",
@@ -386,6 +386,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "\u2018I thought, I\u2019ve tried everything else, why not give AI a shot?\u2019: the long-lost family reunited by ChatGPT",
+          "link": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/jul/25/long-lost-family-reunited-chatgpt-artificial-intelligence-ai",
+          "date": "Sat, 25 Jul 2026 05:00:35 GMT"
+        },
+        {
           "title": "Is AI already beyond our control? What will we tell our kids? | Fiona Katauskas",
           "link": "https://www.theguardian.com/commentisfree/picture/2026/jul/25/is-ai-already-beyond-our-control-what-will-we-tell-our-kids",
           "date": "Fri, 24 Jul 2026 15:00:19 GMT"
@@ -404,11 +409,6 @@
           "title": "Should you use AI for a task? Here\u2019s a simple way to decide | Bruce Schneier",
           "link": "https://www.theguardian.com/commentisfree/2026/jul/24/should-you-use-ai",
           "date": "Fri, 24 Jul 2026 12:00:14 GMT"
-        },
-        {
-          "title": "Trump says nearly 200 firms have signed pledge to protect Americans from costs arising from datacenters",
-          "link": "https://www.theguardian.com/us-news/2026/jul/23/trump-datacenter-costs-big-tech",
-          "date": "Thu, 23 Jul 2026 19:56:50 GMT"
         }
       ],
       "error": null
