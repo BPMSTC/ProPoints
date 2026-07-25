@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T22:09:38.984818+00:00",
+  "generatedAt": "2026-07-25T00:00:18.609164+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -177,7 +177,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -232,6 +232,11 @@
           "date": "2025-09-09T02:25:04+00:00"
         },
         {
+          "title": "Just vibing",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v5qw0l/just_vibing/",
+          "date": "2026-07-24T22:57:31+00:00"
+        },
+        {
           "title": "ChatGPT Photo Prompt Help",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v5ipxa/chatgpt_photo_prompt_help/",
           "date": "2026-07-24T17:53:49+00:00"
@@ -240,11 +245,6 @@
           "title": "Vibe Coding Until I Can Move Out of my Mom\u2019s Basement",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v5mflt/vibe_coding_until_i_can_move_out_of_my_moms/",
           "date": "2026-07-24T20:06:40+00:00"
-        },
-        {
-          "title": "NPM MetaHarness: Self Customizing agent harnesses built around existing AI tools (Claude Code, Hermes, Codex, and others)",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1uo3gw8/npm_metaharness_self_customizing_agent_harnesses/",
-          "date": "2026-07-05T14:23:10+00:00"
         }
       ],
       "error": null
@@ -482,7 +482,7 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
-          "title": "Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models",
+          "title": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
           "link": "https://www.wired.com/story/uncanny-valley-podcast/",
           "date": "Fri, 24 Jul 2026 17:53:01 +0000"
         },
