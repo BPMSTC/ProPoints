@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T21:56:23.765778+00:00",
+  "generatedAt": "2026-07-26T22:58:06.726198+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -316,6 +316,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "First teaser for Apple TV's Neuromancer debuts at SDCC",
+          "link": "https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/",
+          "date": "Sun, 26 Jul 2026 19:48:43 +0000"
+        },
+        {
           "title": "SDCC teaser gives us our first good look at Blade Runner 2099",
           "link": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
           "date": "Sat, 25 Jul 2026 20:52:30 +0000"
@@ -334,11 +339,6 @@
           "title": "Big Tech accused of stonewalling European social media researchers",
           "link": "https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/",
           "date": "Sat, 25 Jul 2026 10:45:32 +0000"
-        },
-        {
-          "title": "Wildfire forces evacuation of NASA's Deep Space Network complex in Spain",
-          "link": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/",
-          "date": "Fri, 24 Jul 2026 22:28:20 +0000"
         }
       ],
       "error": null
@@ -346,7 +346,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "I ran a faceless AI persona account for six weeks to see if the view money was real",
+          "link": "https://www.reddit.com/r/artificial/comments/1v6ytlg/i_ran_a_faceless_ai_persona_account_for_six_weeks/",
+          "date": "2026-07-26T09:16:31+00:00"
+        },
+        {
+          "title": "Could this be the reason why some people see large coding productivity improvement, while others almost nothing?",
+          "link": "https://www.reddit.com/r/artificial/comments/1v7dqkv/could_this_be_the_reason_why_some_people_see/",
+          "date": "2026-07-26T19:36:23+00:00"
+        },
+        {
+          "title": "A super fast, non-expensive alternative to motion capture - [ft. Sara Silkin]",
+          "link": "https://www.reddit.com/r/artificial/comments/1v70ocb/a_super_fast_nonexpensive_alternative_to_motion/",
+          "date": "2026-07-26T10:57:37+00:00"
+        },
+        {
+          "title": "Anthropic's Opus 5 and probably more recent AI models are being censored to protect Israel / US interests. Open source AI must be the way.",
+          "link": "https://www.reddit.com/r/artificial/comments/1v6ptgz/anthropics_opus_5_and_probably_more_recent_ai/",
+          "date": "2026-07-26T01:24:25+00:00"
+        },
+        {
+          "title": "30+ officially free AI/ML books, all in one curated repo",
+          "link": "https://www.reddit.com/r/artificial/comments/1v7d1lx/30_officially_free_aiml_books_all_in_one_curated/",
+          "date": "2026-07-26T19:10:31+00:00"
+        }
+      ],
       "error": null
     },
     {
