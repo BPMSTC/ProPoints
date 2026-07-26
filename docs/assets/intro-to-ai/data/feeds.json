@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T11:16:11.781506+00:00",
+  "generatedAt": "2026-07-26T13:13:18.253855+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -177,7 +177,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -227,6 +227,11 @@
           "date": "2026-07-25T04:28:27+00:00"
         },
         {
+          "title": "I got tired of babysitting backends built by AI agents, so I built one that repairs itself",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v73gml/i_got_tired_of_babysitting_backends_built_by_ai/",
+          "date": "2026-07-26T13:08:30+00:00"
+        },
+        {
           "title": "[For Hire] Seeking GenAI developer role open to referral",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v6zmsi/for_hire_seeking_genai_developer_role_open_to/",
           "date": "2026-07-26T10:01:52+00:00"
@@ -240,11 +245,6 @@
           "title": "Could AI help check whether academic citations actually support a claim? (or do you know any tools that do this already)",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v6h6ti/could_ai_help_check_whether_academic_citations/",
           "date": "2026-07-25T19:15:32+00:00"
-        },
-        {
-          "title": "Am I about to waste $9k? Complete noob wanting to buy a Mac Studio for local AI \ud83d\ude05",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v6fgxz/am_i_about_to_waste_9k_complete_noob_wanting_to/",
-          "date": "2026-07-25T18:09:43+00:00"
         }
       ],
       "error": null
@@ -386,9 +386,14 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "The AI jobs apocalypse probably isn\u2019t coming anytime soon",
-          "link": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-          "date": "Sat, 25 Jul 2026 13:00:43 GMT"
+          "title": "Why does everything feel so joyless? Welcome to the age of decadence without pleasure | Mich\u00e8le Mendelssohn and Charlie Tyson",
+          "link": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/26/age-of-decadence-pleasure-ai",
+          "date": "Sun, 26 Jul 2026 13:00:14 GMT"
+        },
+        {
+          "title": "Corporate America may be using AI to cut jobs, but small businesses are using it to keep them",
+          "link": "https://www.theguardian.com/business/2026/jul/26/small-businesses-ai",
+          "date": "Sun, 26 Jul 2026 12:00:11 GMT"
         },
         {
           "title": "Mega datacentre planned for outer Melbourne will be six times bigger than a large shopping centre",
@@ -396,19 +401,14 @@
           "date": "Sat, 25 Jul 2026 20:00:53 GMT"
         },
         {
+          "title": "The AI jobs apocalypse probably isn\u2019t coming anytime soon",
+          "link": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+          "date": "Sat, 25 Jul 2026 13:00:43 GMT"
+        },
+        {
           "title": "\u2018I thought, I\u2019ve tried everything else, why not give AI a shot?\u2019: the long-lost family reunited by ChatGPT",
           "link": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/jul/25/long-lost-family-reunited-chatgpt-artificial-intelligence-ai",
           "date": "Sat, 25 Jul 2026 05:00:35 GMT"
-        },
-        {
-          "title": "Is AI already beyond our control? What will we tell our kids? | Fiona Katauskas",
-          "link": "https://www.theguardian.com/commentisfree/picture/2026/jul/25/is-ai-already-beyond-our-control-what-will-we-tell-our-kids",
-          "date": "Fri, 24 Jul 2026 15:00:19 GMT"
-        },
-        {
-          "title": "Be skeptical of OpenAI\u2019s rogue hacker agent story | John Thickstun",
-          "link": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-          "date": "Fri, 24 Jul 2026 13:00:14 GMT"
         }
       ],
       "error": null
@@ -450,6 +450,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Sex Doll Company Strikes Bizarre Deal to Put Its Robot in High School Classrooms",
+          "link": "https://futurism.com/robots-and-machines/sex-doll-company-deal-robot-school-classrooms",
+          "date": "Sun, 26 Jul 2026 08:01:00 -0400"
+        },
+        {
           "title": "Eminent Domain Could Be Used to Seize Your Land for AI Data Centers",
           "link": "https://futurism.com/artificial-intelligence/eminent-domain-ai-data-centers",
           "date": "Sun, 26 Jul 2026 07:02:00 -0400"
@@ -468,11 +473,6 @@
           "title": "People Are Starting to Record Every Conversation They Have Without Disclosing It, and It\u2019s Gross",
           "link": "https://futurism.com/artificial-intelligence/friends-colleagues-recording-conversation",
           "date": "Sat, 25 Jul 2026 10:02:00 -0400"
-        },
-        {
-          "title": "Meta Working on Crushingly Sad AI App That Tells Bedtime Stories to Children, for \u201cTired\u201d Parents",
-          "link": "https://futurism.com/artificial-intelligence/meta-sad-ai-app-stories-children",
-          "date": "Sat, 25 Jul 2026 09:02:00 -0400"
         }
       ],
       "error": null
