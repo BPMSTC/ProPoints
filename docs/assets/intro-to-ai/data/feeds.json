@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T23:57:30.892834+00:00",
+  "generatedAt": "2026-07-26T03:16:04.017931+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -177,7 +177,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -346,7 +346,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "Americans Are Pushing Back Against Flock AI Cameras Regardless of Their Politics",
+          "link": "https://www.reddit.com/r/artificial/comments/1v6d644/americans_are_pushing_back_against_flock_ai/",
+          "date": "2026-07-25T16:41:41+00:00"
+        },
+        {
+          "title": "Man sues ChatGPT for near-fatal medical advice",
+          "link": "https://www.reddit.com/r/artificial/comments/1v6oyin/man_sues_chatgpt_for_nearfatal_medical_advice/",
+          "date": "2026-07-26T00:43:18+00:00"
+        },
+        {
+          "title": "Anthropic's Opus 5 and probably more recent AI models are being censored to protect Israel / US interests. Open source AI must be the way.",
+          "link": "https://www.reddit.com/r/artificial/comments/1v6ptgz/anthropics_opus_5_and_probably_more_recent_ai/",
+          "date": "2026-07-26T01:24:25+00:00"
+        },
+        {
+          "title": "We released an abliterated + fine-tuned GLM-5.2. High scores on adversarial benchmarks while keeping coding performance.",
+          "link": "https://www.reddit.com/r/artificial/comments/1v6i979/we_released_an_abliterated_finetuned_glm52_high/",
+          "date": "2026-07-25T19:57:36+00:00"
+        },
+        {
+          "title": "Opus 5's effort dial is not monotonic. Above \"high\", coding scores go down, and Anthropic's own migration guide says so.",
+          "link": "https://www.reddit.com/r/artificial/comments/1v60pga/opus_5s_effort_dial_is_not_monotonic_above_high/",
+          "date": "2026-07-25T06:43:36+00:00"
+        }
+      ],
       "error": null
     },
     {
