@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T13:13:18.253855+00:00",
+  "generatedAt": "2026-07-26T15:01:50.850668+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -177,7 +177,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -227,6 +227,11 @@
           "date": "2026-07-25T04:28:27+00:00"
         },
         {
+          "title": "We built a prototype of a generative AI sketch platform that you can influence in real time!",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v7435l/we_built_a_prototype_of_a_generative_ai_sketch/",
+          "date": "2026-07-26T13:35:23+00:00"
+        },
+        {
           "title": "I got tired of babysitting backends built by AI agents, so I built one that repairs itself",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v73gml/i_got_tired_of_babysitting_backends_built_by_ai/",
           "date": "2026-07-26T13:08:30+00:00"
@@ -240,11 +245,6 @@
           "title": "bucket: the nicest agent grok-build without the xAI and telemetry (truly invasive) layer.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v6ywuj/bucket_the_nicest_agent_grokbuild_without_the_xai/",
           "date": "2026-07-26T09:21:41+00:00"
-        },
-        {
-          "title": "Could AI help check whether academic citations actually support a claim? (or do you know any tools that do this already)",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v6h6ti/could_ai_help_check_whether_academic_citations/",
-          "date": "2026-07-25T19:15:32+00:00"
         }
       ],
       "error": null
@@ -386,6 +386,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "When the AI bubble bursts, what will Australia do with the tools it built? One man thinks he has the answer",
+          "link": "https://www.theguardian.com/australia-news/2026/jul/27/when-the-ai-bubble-bursts-what-will-australia-do-with-the-tools-it-built-one-man-thinks-he-has-the-answer",
+          "date": "Sun, 26 Jul 2026 15:00:16 GMT"
+        },
+        {
           "title": "Why does everything feel so joyless? Welcome to the age of decadence without pleasure | Mich\u00e8le Mendelssohn and Charlie Tyson",
           "link": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/26/age-of-decadence-pleasure-ai",
           "date": "Sun, 26 Jul 2026 13:00:14 GMT"
@@ -404,11 +409,6 @@
           "title": "The AI jobs apocalypse probably isn\u2019t coming anytime soon",
           "link": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
           "date": "Sat, 25 Jul 2026 13:00:43 GMT"
-        },
-        {
-          "title": "\u2018I thought, I\u2019ve tried everything else, why not give AI a shot?\u2019: the long-lost family reunited by ChatGPT",
-          "link": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/jul/25/long-lost-family-reunited-chatgpt-artificial-intelligence-ai",
-          "date": "Sat, 25 Jul 2026 05:00:35 GMT"
         }
       ],
       "error": null
