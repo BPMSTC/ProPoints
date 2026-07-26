@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T15:01:50.850668+00:00",
+  "generatedAt": "2026-07-26T16:55:12.344727+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -177,7 +177,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -227,9 +227,9 @@
           "date": "2026-07-25T04:28:27+00:00"
         },
         {
-          "title": "We built a prototype of a generative AI sketch platform that you can influence in real time!",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v7435l/we_built_a_prototype_of_a_generative_ai_sketch/",
-          "date": "2026-07-26T13:35:23+00:00"
+          "title": "New rule: self-promotion is now allowed on Sundays",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v77mly/new_rule_selfpromotion_is_now_allowed_on_sundays/",
+          "date": "2026-07-26T15:52:12+00:00"
         },
         {
           "title": "I got tired of babysitting backends built by AI agents, so I built one that repairs itself",
@@ -237,14 +237,14 @@
           "date": "2026-07-26T13:08:30+00:00"
         },
         {
-          "title": "[For Hire] Seeking GenAI developer role open to referral",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v6zmsi/for_hire_seeking_genai_developer_role_open_to/",
-          "date": "2026-07-26T10:01:52+00:00"
+          "title": "What I learned about Prompt engineering with Gemini 3.1 Pro from the age of 13 to now (age 15), which was in Iran and under severe internet restrictions and international restrictions and cultural problems of family",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v76jh6/what_i_learned_about_prompt_engineering_with/",
+          "date": "2026-07-26T15:11:34+00:00"
         },
         {
-          "title": "bucket: the nicest agent grok-build without the xAI and telemetry (truly invasive) layer.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v6ywuj/bucket_the_nicest_agent_grokbuild_without_the_xai/",
-          "date": "2026-07-26T09:21:41+00:00"
+          "title": "We built a prototype of a generative AI sketch platform that you can influence in real time!",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v7435l/we_built_a_prototype_of_a_generative_ai_sketch/",
+          "date": "2026-07-26T13:35:23+00:00"
         }
       ],
       "error": null
@@ -450,6 +450,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Meta Desperately Trying to Ban Creeps Misusing Its AI \u201cPervert Glasses\u201d",
+          "link": "https://futurism.com/artificial-intelligence/meta-ban-creeps-ai-pervert-glasses",
+          "date": "Sun, 26 Jul 2026 12:01:00 -0400"
+        },
+        {
           "title": "Sex Doll Company Strikes Bizarre Deal to Put Its Robot in High School Classrooms",
           "link": "https://futurism.com/robots-and-machines/sex-doll-company-deal-robot-school-classrooms",
           "date": "Sun, 26 Jul 2026 08:01:00 -0400"
@@ -468,11 +473,6 @@
           "title": "Voters Are Being Inundated by a Barrage of AI-Generated Election Ads",
           "link": "https://futurism.com/artificial-intelligence/voters-elections-conservative-generative-ai-slop-ads-deepfakes",
           "date": "Sat, 25 Jul 2026 11:01:00 -0400"
-        },
-        {
-          "title": "People Are Starting to Record Every Conversation They Have Without Disclosing It, and It\u2019s Gross",
-          "link": "https://futurism.com/artificial-intelligence/friends-colleagues-recording-conversation",
-          "date": "Sat, 25 Jul 2026 10:02:00 -0400"
         }
       ],
       "error": null
