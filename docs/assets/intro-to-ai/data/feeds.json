@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T17:59:20.751065+00:00",
+  "generatedAt": "2026-07-26T19:27:07.838092+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "Yugabyte Study Reveals Hidden Costs of Legacy Databases",
-          "link": "https://ai-techpark.com/yugabyte-study-reveals-hidden-costs-of-legacy-databases/",
-          "date": "Fri, 24 Jul 2026 16:30:00 +0000"
-        },
-        {
-          "title": "Azul to Deliver Monthly Java Security Updates for LTS Versions",
-          "link": "https://ai-techpark.com/azul-to-deliver-monthly-java-security-updates-for-lts-versions/",
-          "date": "Fri, 24 Jul 2026 16:15:00 +0000"
-        },
-        {
-          "title": "Darrow Announced Availability in the Microsoft Marketplace",
-          "link": "https://ai-techpark.com/darrow-announced-availability-in-the-microsoft-marketplace/",
-          "date": "Fri, 24 Jul 2026 15:30:00 +0000"
-        },
-        {
-          "title": "Zip Study Finds Deep AI Investment Delivers 6x ROI",
-          "link": "https://ai-techpark.com/zip-study-finds-deep-ai-investment-delivers-6x-roi/",
-          "date": "Fri, 24 Jul 2026 15:00:00 +0000"
-        },
-        {
-          "title": "Cato Networks, CrowdStrike Partner on Unified Security Operations",
-          "link": "https://ai-techpark.com/cato-networks-crowdstrike-partner-on-unified-security-operations/",
-          "date": "Fri, 24 Jul 2026 14:00:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -177,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -232,19 +206,19 @@
           "date": "2026-07-26T15:52:12+00:00"
         },
         {
-          "title": "What I learned about Prompt engineering with Gemini 3.1 Pro from the age of 13 to now (age 15), which was in Iran and under severe internet restrictions and international restrictions and cultural problems of family",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v76jh6/what_i_learned_about_prompt_engineering_with/",
-          "date": "2026-07-26T15:11:34+00:00"
+          "title": "Tired of manual database setup, so I built an AI agent workflow that connects Supabase, syncs .env keys, and runs SQL migrations automatically",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v7dh4z/tired_of_manual_database_setup_so_i_built_an_ai/",
+          "date": "2026-07-26T19:26:25+00:00"
+        },
+        {
+          "title": "The Forbidden Screenshot",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v7bdvx/the_forbidden_screenshot/",
+          "date": "2026-07-26T18:10:01+00:00"
         },
         {
           "title": "We built a prototype of a generative AI sketch platform that you can influence in real time!",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v7435l/we_built_a_prototype_of_a_generative_ai_sketch/",
           "date": "2026-07-26T13:35:23+00:00"
-        },
-        {
-          "title": "I got tired of babysitting backends built by AI agents, so I built one that repairs itself",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v73gml/i_got_tired_of_babysitting_backends_built_by_ai/",
-          "date": "2026-07-26T13:08:30+00:00"
         }
       ],
       "error": null
