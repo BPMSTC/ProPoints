@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T17:39:29.940446+00:00",
+  "generatedAt": "2026-07-27T19:22:17.336127+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -177,7 +177,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -232,19 +232,19 @@
           "date": "2026-07-26T15:52:12+00:00"
         },
         {
+          "title": "We just shipped the NORVA landing page and wanted to try something different, instead of a normal marketing site, the whole thing is a single prompt box you can actually talk to.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v899k6/we_just_shipped_the_norva_landing_page_and_wanted/",
+          "date": "2026-07-27T18:44:08+00:00"
+        },
+        {
+          "title": "Starter pack prompt!",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v89syb/starter_pack_prompt/",
+          "date": "2026-07-27T19:02:56+00:00"
+        },
+        {
           "title": "Found this interesting video on OpenWorker",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v859x5/found_this_interesting_video_on_openworker/",
           "date": "2026-07-27T16:26:16+00:00"
-        },
-        {
-          "title": "Looking for a Agentic AI Study Partner",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v8460r/looking_for_a_agentic_ai_study_partner/",
-          "date": "2026-07-27T15:47:23+00:00"
-        },
-        {
-          "title": "Here's a prompt, to make gemini speak nonsense:",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v803ep/heres_a_prompt_to_make_gemini_speak_nonsense/",
-          "date": "2026-07-27T13:14:39+00:00"
         }
       ],
       "error": null
