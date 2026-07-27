@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-07-27T21:06:42.615440+00:00",
+  "generatedAt": "2026-07-27T22:58:06.432083+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Person Opposing Data Center Arrested for Clapping at City Meeting",
+          "link": "https://www.404media.co/person-opposing-data-center-arrested-for-clapping-at-city-meeting/",
+          "date": "Mon, 27 Jul 2026 22:56:07 GMT"
+        },
         {
           "title": "This Man Bought Phone Location Data from Around the World (with Mike Yeagley)",
           "link": "https://www.404media.co/this-man-bought-phone-location-data-from-around-the-world-with-mike-yeagley/",
@@ -24,11 +29,6 @@
           "title": "Being a Luddite Is Fun Again",
           "link": "https://www.404media.co/luddite-events-nyc-off-tech-summer-of-ludd/",
           "date": "Mon, 27 Jul 2026 10:00:04 GMT"
-        },
-        {
-          "title": "Scientists Uncover Lost \u2018Golden Age\u2019 of Languages That Ended 1,000 Years Ago",
-          "link": "https://www.404media.co/scientists-uncover-lost-golden-age-of-languages-that-ended-1-000-years-ago/",
-          "date": "Sat, 25 Jul 2026 10:00:43 GMT"
         }
       ],
       "error": null
@@ -316,29 +316,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "5th Circuit blocks Texas law requiring websites to filter \"harmful\" speech",
-          "link": "https://arstechnica.com/tech-policy/2026/07/5th-circuit-blocks-texas-law-requiring-websites-to-filter-harmful-speech/",
-          "date": "Mon, 27 Jul 2026 19:18:02 +0000"
+          "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+          "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+          "date": "Mon, 27 Jul 2026 21:56:14 +0000"
         },
         {
-          "title": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
-          "link": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
-          "date": "Mon, 27 Jul 2026 18:48:41 +0000"
+          "title": "Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers",
+          "link": "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/",
+          "date": "Mon, 27 Jul 2026 21:40:27 +0000"
         },
         {
-          "title": "Experts warn current Starship heat shield tech is a \"dead end\" for rapid reuse",
-          "link": "https://arstechnica.com/space/2026/07/despite-recent-successes-rapid-reuse-of-starship-remains-a-tough-nut-to-crack/",
-          "date": "Mon, 27 Jul 2026 18:34:40 +0000"
+          "title": "Epic diarrhea outbreak has 40% of Americans avoiding fruits and veggies",
+          "link": "https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/",
+          "date": "Mon, 27 Jul 2026 20:42:13 +0000"
         },
         {
-          "title": "ChatGPT starts blocking direct requests to copy an author's style",
-          "link": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
-          "date": "Mon, 27 Jul 2026 16:58:46 +0000"
+          "title": "iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27",
+          "link": "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/",
+          "date": "Mon, 27 Jul 2026 20:32:45 +0000"
         },
         {
-          "title": "Activist charged with felony after giving border agent \"duress code\" that wiped his phone",
-          "link": "https://arstechnica.com/gadgets/2026/07/activist-charged-with-felony-after-giving-border-agent-duress-code-that-wiped-his-phone/",
-          "date": "Mon, 27 Jul 2026 15:58:34 +0000"
+          "title": "A missing underscore sent innocent man to prison for 18 months",
+          "link": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
+          "date": "Mon, 27 Jul 2026 20:22:03 +0000"
         }
       ],
       "error": null
@@ -346,7 +346,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "The world's best mathematician won his prize this week and immediately announced he's leaving academia for OpenAI. That landed differently than I expected.",
+          "link": "https://www.reddit.com/r/artificial/comments/1v8aeto/the_worlds_best_mathematician_won_his_prize_this/",
+          "date": "2026-07-27T19:24:12+00:00"
+        },
+        {
+          "title": "Kimi-K3 is published on HuggingFace",
+          "link": "https://www.reddit.com/r/artificial/comments/1v83g3l/kimik3_is_published_on_huggingface/",
+          "date": "2026-07-27T15:20:51+00:00"
+        },
+        {
+          "title": "What would a genuinely fair AI 3D tool comparison actually need to include",
+          "link": "https://www.reddit.com/r/artificial/comments/1v88xf4/what_would_a_genuinely_fair_ai_3d_tool_comparison/",
+          "date": "2026-07-27T18:32:12+00:00"
+        },
+        {
+          "title": "Open-source AI push could create troubles for venture capital",
+          "link": "https://www.reddit.com/r/artificial/comments/1v88xty/opensource_ai_push_could_create_troubles_for/",
+          "date": "2026-07-27T18:32:35+00:00"
+        },
+        {
+          "title": "The Problem with Private Safety Stacks in Government AI",
+          "link": "https://www.reddit.com/r/artificial/comments/1v8e0mc/the_problem_with_private_safety_stacks_in/",
+          "date": "2026-07-27T21:34:26+00:00"
+        }
+      ],
       "error": null
     },
     {
@@ -450,6 +476,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Suspicion Grows About OpenAI\u2019s Tale About Its Rogue Hacker AI",
+          "link": "https://futurism.com/artificial-intelligence/openai-rogue-hack-ai-suspicion-chatgpt",
+          "date": "Mon, 27 Jul 2026 17:47:13 -0400"
+        },
+        {
           "title": "High School Teacher Arrested for Clapping in Support of Anti-Data Center Activists",
           "link": "https://futurism.com/artificial-intelligence/high-school-teacher-arrested-clapping-data-center-activist",
           "date": "Mon, 27 Jul 2026 15:49:22 -0400"
@@ -468,11 +499,6 @@
           "title": "The AI Industry Has Acted So Badly That It\u2019s Now Dealing With a Huge Wave of Hatred",
           "link": "https://futurism.com/artificial-intelligence/ai-industry-ads-public-backlash",
           "date": "Mon, 27 Jul 2026 09:51:49 -0400"
-        },
-        {
-          "title": "The Type of Orbital Data Centers That Billionaires Want to Launch Into Space Would Wreak Ecological Catastrophe, Scientists Warn",
-          "link": "https://futurism.com/space/orbital-data-centers-billionaires-ecological-catastrophe-petition",
-          "date": "Mon, 27 Jul 2026 09:06:06 -0400"
         }
       ],
       "error": null
