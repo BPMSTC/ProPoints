@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T04:33:59.752097+00:00",
+  "generatedAt": "2026-07-27T08:27:17.060418+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "Cognyte Appoints Adam Philpott as CRO to Lead Global Market Expansion",
-          "link": "https://ai-techpark.com/cognyte-appoints-adam-philpott-as-cro-to-lead-global-market-expansion/",
-          "date": "Fri, 24 Jul 2026 18:35:00 +0000"
-        },
-        {
-          "title": "Databricks, Microsoft Expand Partnership to Advance Enterprise AI",
-          "link": "https://ai-techpark.com/databricks-microsoft-expand-partnership-to-advance-enterprise-ai/",
-          "date": "Fri, 24 Jul 2026 18:15:00 +0000"
-        },
-        {
-          "title": "Yugabyte Study Reveals Hidden Costs of Legacy Databases",
-          "link": "https://ai-techpark.com/yugabyte-study-reveals-hidden-costs-of-legacy-databases/",
-          "date": "Fri, 24 Jul 2026 16:30:00 +0000"
-        },
-        {
-          "title": "Azul to Deliver Monthly Java Security Updates for LTS Versions",
-          "link": "https://ai-techpark.com/azul-to-deliver-monthly-java-security-updates-for-lts-versions/",
-          "date": "Fri, 24 Jul 2026 16:15:00 +0000"
-        },
-        {
-          "title": "Darrow Announced Availability in the Microsoft Marketplace",
-          "link": "https://ai-techpark.com/darrow-announced-availability-in-the-microsoft-marketplace/",
-          "date": "Fri, 24 Jul 2026 15:30:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:47:2: mismatched tag"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -232,19 +206,19 @@
           "date": "2026-07-26T15:52:12+00:00"
         },
         {
+          "title": "What really makes a prompt engineering course useful?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v7qk3g/what_really_makes_a_prompt_engineering_course/",
+          "date": "2026-07-27T04:53:13+00:00"
+        },
+        {
+          "title": "Looking for AI/ML Opportunities",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v7rgwo/looking_for_aiml_opportunities/",
+          "date": "2026-07-27T05:41:20+00:00"
+        },
+        {
           "title": "I got tired of babysitting backends built by AI agents, so I built one that repairs itself",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v73gml/i_got_tired_of_babysitting_backends_built_by_ai/",
           "date": "2026-07-26T13:08:30+00:00"
-        },
-        {
-          "title": "Tired of manual database setup, so I built an AI agent workflow that connects Supabase, syncs .env keys, and runs SQL migrations automatically",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v7dh4z/tired_of_manual_database_setup_so_i_built_an_ai/",
-          "date": "2026-07-26T19:26:25+00:00"
-        },
-        {
-          "title": "We built a prototype of a generative AI sketch platform that you can influence in real time!",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v7435l/we_built_a_prototype_of_a_generative_ai_sketch/",
-          "date": "2026-07-26T13:35:23+00:00"
         }
       ],
       "error": null
@@ -386,6 +360,16 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Misleading AI-generated doctors pose \u2018huge danger to public safety\u2019",
+          "link": "https://www.theguardian.com/technology/2026/jul/27/misleading-ai-generated-doctors-public-safety-danger-tiktok",
+          "date": "Mon, 27 Jul 2026 06:00:34 GMT"
+        },
+        {
+          "title": "What If We Got AI Right? by Eleanor Drage review \u2013 avoiding apocalypse",
+          "link": "https://www.theguardian.com/books/2026/jul/27/what-if-we-got-ai-right-by-eleanor-drage-review-avoiding-apocalypse",
+          "date": "Mon, 27 Jul 2026 08:00:34 GMT"
+        },
+        {
           "title": "When the AI bubble bursts, what will Australia do with the tools it built? One man thinks he has the answer",
           "link": "https://www.theguardian.com/australia-news/2026/jul/27/when-the-ai-bubble-bursts-what-will-australia-do-with-the-tools-it-built-one-man-thinks-he-has-the-answer",
           "date": "Sun, 26 Jul 2026 15:00:16 GMT"
@@ -399,16 +383,6 @@
           "title": "Corporate America may be using AI to cut jobs, but small businesses are using it to keep them",
           "link": "https://www.theguardian.com/business/2026/jul/26/small-businesses-ai",
           "date": "Sun, 26 Jul 2026 12:00:11 GMT"
-        },
-        {
-          "title": "Mega datacentre planned for outer Melbourne will be six times bigger than a large shopping centre",
-          "link": "https://www.theguardian.com/australia-news/2026/jul/26/mega-datacentre-planned-for-outer-melbourne-will-be-almost-six-times-the-size-of-chadstone-shopping-centre",
-          "date": "Sat, 25 Jul 2026 20:00:53 GMT"
-        },
-        {
-          "title": "The AI jobs apocalypse probably isn\u2019t coming anytime soon",
-          "link": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-          "date": "Sat, 25 Jul 2026 13:00:43 GMT"
         }
       ],
       "error": null
