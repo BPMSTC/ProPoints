@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-07-27T08:27:17.060418+00:00",
+  "generatedAt": "2026-07-27T12:23:03.995455+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Being a Luddite Is Fun Again",
+          "link": "https://www.404media.co/luddite-events-nyc-off-tech-summer-of-ludd/",
+          "date": "Mon, 27 Jul 2026 10:00:04 GMT"
+        },
         {
           "title": "Scientists Uncover Lost \u2018Golden Age\u2019 of Languages That Ended 1,000 Years Ago",
           "link": "https://www.404media.co/scientists-uncover-lost-golden-age-of-languages-that-ended-1-000-years-ago/",
@@ -24,11 +29,6 @@
           "title": "Flock's CEO Says its ALPRs Don't Do Video After Repeatedly Announcing They Can",
           "link": "https://www.404media.co/flocks-ceo-says-its-alprs-dont-do-video-after-repeatedly-announcing-they-can/",
           "date": "Thu, 23 Jul 2026 20:12:32 GMT"
-        },
-        {
-          "title": "Patreon Lays Off 20 Percent of Its Workforce",
-          "link": "https://www.404media.co/patreon-lays-off-20-percent-of-its-workforce/",
-          "date": "Thu, 23 Jul 2026 15:24:36 GMT"
         }
       ],
       "error": null
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:47:2: mismatched tag"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Artist sues AI meme generator for selling deeply personal comic as ad template",
+          "link": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
+          "date": "Mon, 27 Jul 2026 10:50:37 +0000"
+        },
+        {
           "title": "First teaser for Apple TV's Neuromancer debuts at SDCC",
           "link": "https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/",
           "date": "Sun, 26 Jul 2026 19:48:43 +0000"
@@ -308,11 +313,6 @@
           "title": "With help from data, art museums are reframing the visitor experience",
           "link": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
           "date": "Sat, 25 Jul 2026 11:00:32 +0000"
-        },
-        {
-          "title": "Big Tech accused of stonewalling European social media researchers",
-          "link": "https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/",
-          "date": "Sat, 25 Jul 2026 10:45:32 +0000"
         }
       ],
       "error": null
@@ -320,7 +320,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "I Sat on an Idea for 7 Years. AI Helped Me File for a Patent in 2 Weeks.",
+          "link": "https://www.reddit.com/r/artificial/comments/1v7wn15/i_sat_on_an_idea_for_7_years_ai_helped_me_file/",
+          "date": "2026-07-27T10:36:33+00:00"
+        },
+        {
+          "title": "I ran a faceless AI persona account for six weeks to see if the view money was real",
+          "link": "https://www.reddit.com/r/artificial/comments/1v6ytlg/i_ran_a_faceless_ai_persona_account_for_six_weeks/",
+          "date": "2026-07-26T09:16:31+00:00"
+        },
+        {
+          "title": "How did you get your first expert network invitation?",
+          "link": "https://www.reddit.com/r/artificial/comments/1v7yorh/how_did_you_get_your_first_expert_network/",
+          "date": "2026-07-27T12:15:49+00:00"
+        },
+        {
+          "title": "We started calling video models world models while still grading them on taste",
+          "link": "https://www.reddit.com/r/artificial/comments/1v7yltm/we_started_calling_video_models_world_models/",
+          "date": "2026-07-27T12:12:11+00:00"
+        },
+        {
+          "title": "Workers are crossing job boundaries with AI, OpenAI research shows",
+          "link": "https://www.reddit.com/r/artificial/comments/1v7xarq/workers_are_crossing_job_boundaries_with_ai/",
+          "date": "2026-07-27T11:10:30+00:00"
+        }
+      ],
       "error": null
     },
     {
@@ -365,6 +391,16 @@
           "date": "Mon, 27 Jul 2026 06:00:34 GMT"
         },
         {
+          "title": "Boss of startup hacked by rogue OpenAI agent urges \u2018radical transparency\u2019 in investigation",
+          "link": "https://www.theguardian.com/technology/2026/jul/27/startup-hacked-by-rogue-openai-agent-hugging-face-artificial-intelligence",
+          "date": "Mon, 27 Jul 2026 12:15:03 GMT"
+        },
+        {
+          "title": "AI can fuel biological weapons. We must harness its power for defense | Annie Jacobsen",
+          "link": "https://www.theguardian.com/commentisfree/2026/jul/27/ai-biological-weapons-defense",
+          "date": "Mon, 27 Jul 2026 10:00:38 GMT"
+        },
+        {
           "title": "What If We Got AI Right? by Eleanor Drage review \u2013 avoiding apocalypse",
           "link": "https://www.theguardian.com/books/2026/jul/27/what-if-we-got-ai-right-by-eleanor-drage-review-avoiding-apocalypse",
           "date": "Mon, 27 Jul 2026 08:00:34 GMT"
@@ -373,16 +409,6 @@
           "title": "When the AI bubble bursts, what will Australia do with the tools it built? One man thinks he has the answer",
           "link": "https://www.theguardian.com/australia-news/2026/jul/27/when-the-ai-bubble-bursts-what-will-australia-do-with-the-tools-it-built-one-man-thinks-he-has-the-answer",
           "date": "Sun, 26 Jul 2026 15:00:16 GMT"
-        },
-        {
-          "title": "Why does everything feel so joyless? Welcome to the age of decadence without pleasure | Mich\u00e8le Mendelssohn and Charlie Tyson",
-          "link": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/26/age-of-decadence-pleasure-ai",
-          "date": "Sun, 26 Jul 2026 13:00:14 GMT"
-        },
-        {
-          "title": "Corporate America may be using AI to cut jobs, but small businesses are using it to keep them",
-          "link": "https://www.theguardian.com/business/2026/jul/26/small-businesses-ai",
-          "date": "Sun, 26 Jul 2026 12:00:11 GMT"
         }
       ],
       "error": null
@@ -391,6 +417,11 @@
       "name": "artificial intelligence Archives - SpaceNews",
       "url": "https://spacenews.com/tag/artificial-intelligence/feed/",
       "items": [
+        {
+          "title": "AI in orbit is a double-edged sword. Here\u2019s how to keep it from cutting space cooperation apart",
+          "link": "https://spacenews.com/ai-in-orbit-is-a-double-edged-sword-heres-how-to-keep-it-from-cutting-space-cooperation-apart/",
+          "date": "Mon, 27 Jul 2026 10:00:00 +0000"
+        },
         {
           "title": "Ubotica raises $11 million to scale maritime-intelligence platform",
           "link": "https://spacenews.com/ubotica-raises-11-million-to-scale-maritime-intelligence-platform/",
@@ -410,11 +441,6 @@
           "title": "Missile defense in the age of saturation warfare",
           "link": "https://spacenews.com/missile-defense-in-the-age-of-saturation-warfare/",
           "date": "Thu, 11 Jun 2026 11:00:00 +0000"
-        },
-        {
-          "title": "Speed tops price in national security contracting decisions",
-          "link": "https://spacenews.com/speed-tops-price-in-national-security-contracting-decisions/",
-          "date": "Thu, 07 May 2026 11:00:00 +0000"
         }
       ],
       "error": null
@@ -456,6 +482,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "This Is Donald Trump\u2019s AI Brain Trust",
+          "link": "https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/",
+          "date": "Mon, 27 Jul 2026 10:00:00 +0000"
+        },
+        {
           "title": "The OpenAI Models That Hacked Hugging Face Were \u2018Active on the Internet\u2019 for Days",
           "link": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
           "date": "Sat, 25 Jul 2026 10:30:00 +0000"
@@ -474,11 +505,6 @@
           "title": "Some Kids Will Never Think AI Is Cool",
           "link": "https://www.wired.com/story/some-kids-will-never-think-ai-is-cool/",
           "date": "Fri, 24 Jul 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Meta\u2019s New Feel-Good AI Ad Uses a Song About the World Ending",
-          "link": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/",
-          "date": "Thu, 23 Jul 2026 18:45:52 +0000"
         }
       ],
       "error": null
