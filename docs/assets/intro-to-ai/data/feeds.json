@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T00:02:53.427223+00:00",
+  "generatedAt": "2026-07-27T04:33:59.752097+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -102,6 +102,16 @@
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [
         {
+          "title": "Cognyte Appoints Adam Philpott as CRO to Lead Global Market Expansion",
+          "link": "https://ai-techpark.com/cognyte-appoints-adam-philpott-as-cro-to-lead-global-market-expansion/",
+          "date": "Fri, 24 Jul 2026 18:35:00 +0000"
+        },
+        {
+          "title": "Databricks, Microsoft Expand Partnership to Advance Enterprise AI",
+          "link": "https://ai-techpark.com/databricks-microsoft-expand-partnership-to-advance-enterprise-ai/",
+          "date": "Fri, 24 Jul 2026 18:15:00 +0000"
+        },
+        {
           "title": "Yugabyte Study Reveals Hidden Costs of Legacy Databases",
           "link": "https://ai-techpark.com/yugabyte-study-reveals-hidden-costs-of-legacy-databases/",
           "date": "Fri, 24 Jul 2026 16:30:00 +0000"
@@ -115,16 +125,6 @@
           "title": "Darrow Announced Availability in the Microsoft Marketplace",
           "link": "https://ai-techpark.com/darrow-announced-availability-in-the-microsoft-marketplace/",
           "date": "Fri, 24 Jul 2026 15:30:00 +0000"
-        },
-        {
-          "title": "Zip Study Finds Deep AI Investment Delivers 6x ROI",
-          "link": "https://ai-techpark.com/zip-study-finds-deep-ai-investment-delivers-6x-roi/",
-          "date": "Fri, 24 Jul 2026 15:00:00 +0000"
-        },
-        {
-          "title": "Cato Networks, CrowdStrike Partner on Unified Security Operations",
-          "link": "https://ai-techpark.com/cato-networks-crowdstrike-partner-on-unified-security-operations/",
-          "date": "Fri, 24 Jul 2026 14:00:00 +0000"
         }
       ],
       "error": null
@@ -177,7 +177,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -232,19 +232,19 @@
           "date": "2026-07-26T15:52:12+00:00"
         },
         {
-          "title": "Tired of manual database setup, so I built an AI agent workflow that connects Supabase, syncs .env keys, and runs SQL migrations automatically",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v7dh4z/tired_of_manual_database_setup_so_i_built_an_ai/",
-          "date": "2026-07-26T19:26:25+00:00"
-        },
-        {
           "title": "I got tired of babysitting backends built by AI agents, so I built one that repairs itself",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v73gml/i_got_tired_of_babysitting_backends_built_by_ai/",
           "date": "2026-07-26T13:08:30+00:00"
         },
         {
-          "title": "The Forbidden Screenshot",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v7bdvx/the_forbidden_screenshot/",
-          "date": "2026-07-26T18:10:01+00:00"
+          "title": "Tired of manual database setup, so I built an AI agent workflow that connects Supabase, syncs .env keys, and runs SQL migrations automatically",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v7dh4z/tired_of_manual_database_setup_so_i_built_an_ai/",
+          "date": "2026-07-26T19:26:25+00:00"
+        },
+        {
+          "title": "We built a prototype of a generative AI sketch platform that you can influence in real time!",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v7435l/we_built_a_prototype_of_a_generative_ai_sketch/",
+          "date": "2026-07-26T13:35:23+00:00"
         }
       ],
       "error": null
