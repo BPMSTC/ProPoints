@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T09:34:11.571233+00:00",
+  "generatedAt": "2026-07-28T11:54:50.228228+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -216,9 +216,9 @@
           "date": "2026-07-28T01:33:08+00:00"
         },
         {
-          "title": "OptMem - memory optimization for AI agents",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v8p4nz/optmem_memory_optimization_for_ai_agents/",
-          "date": "2026-07-28T05:40:56+00:00"
+          "title": "AI-coding agents kill team collaboration, according to an analysis of 25,264 agent-generated PRs across 2,361 popular GitHub repositories.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v8v25p/aicoding_agents_kill_team_collaboration_according/",
+          "date": "2026-07-28T11:00:30+00:00"
         }
       ],
       "error": null
@@ -360,6 +360,16 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "How do we prevent AI agents from going rogue? It starts with a new kind of measurement | Bruce Schneier and Barath Raghavan",
+          "link": "https://www.theguardian.com/commentisfree/2026/jul/28/rogue-ai-agent-instructions",
+          "date": "Tue, 28 Jul 2026 10:00:02 GMT"
+        },
+        {
+          "title": "Spies in the sky: how worried should we be about the arrival of AI-enabled smart lamp-posts?",
+          "link": "https://www.theguardian.com/world/2026/jul/28/spies-in-sky-worried-ai-enabled-smart-lamp-posts-surveillance",
+          "date": "Tue, 28 Jul 2026 10:00:01 GMT"
+        },
+        {
           "title": "AI sell-off intensifies as investors ditch chip stocks",
           "link": "https://www.theguardian.com/business/2026/jul/28/ai-sell-off-chip-stocks-sk-hynix-samsung",
           "date": "Tue, 28 Jul 2026 09:03:12 GMT"
@@ -373,16 +383,6 @@
           "title": "Boss of startup hacked by rogue OpenAI agent urges \u2018radical transparency\u2019 in investigation",
           "link": "https://www.theguardian.com/technology/2026/jul/27/startup-hacked-by-rogue-openai-agent-hugging-face-artificial-intelligence",
           "date": "Mon, 27 Jul 2026 12:15:03 GMT"
-        },
-        {
-          "title": "AI can fuel biological weapons. We must harness its power for defense | Annie Jacobsen",
-          "link": "https://www.theguardian.com/commentisfree/2026/jul/27/ai-biological-weapons-defense",
-          "date": "Mon, 27 Jul 2026 10:00:38 GMT"
-        },
-        {
-          "title": "What If We Got AI Right? by Eleanor Drage review \u2013 avoiding apocalypse",
-          "link": "https://www.theguardian.com/books/2026/jul/27/what-if-we-got-ai-right-by-eleanor-drage-review-avoiding-apocalypse",
-          "date": "Mon, 27 Jul 2026 08:00:34 GMT"
         }
       ],
       "error": null
@@ -456,6 +456,16 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Can the New York Times Save Journalism From Our AI Overlords?",
+          "link": "https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/",
+          "date": "Tue, 28 Jul 2026 10:30:00 +0000"
+        },
+        {
+          "title": "Silicon Valley\u2019s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
+          "link": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/",
+          "date": "Tue, 28 Jul 2026 10:00:00 +0000"
+        },
+        {
           "title": "Hugging Face Has a Deepfake Nudes Problem",
           "link": "https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/",
           "date": "Tue, 28 Jul 2026 05:30:00 +0000"
@@ -469,16 +479,6 @@
           "title": "This Is Donald Trump\u2019s AI Brain Trust",
           "link": "https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/",
           "date": "Mon, 27 Jul 2026 10:00:00 +0000"
-        },
-        {
-          "title": "The OpenAI Models That Hacked Hugging Face Were \u2018Active on the Internet\u2019 for Days",
-          "link": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
-          "date": "Sat, 25 Jul 2026 10:30:00 +0000"
-        },
-        {
-          "title": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
-          "link": "https://www.wired.com/story/uncanny-valley-podcast/",
-          "date": "Fri, 24 Jul 2026 17:53:01 +0000"
         }
       ],
       "error": null
