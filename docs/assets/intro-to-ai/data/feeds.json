@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T03:58:13.829428+00:00",
+  "generatedAt": "2026-07-28T06:30:17.260191+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -100,34 +100,8 @@
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
-      "items": [
-        {
-          "title": "mimik Operationalizes Agentic AI on AMD Ryzen AI Embedded X100",
-          "link": "https://ai-techpark.com/mimik-operationalizes-agentic-ai-on-amd-ryzen-ai-embedded-x100/",
-          "date": "Mon, 27 Jul 2026 09:00:00 +0000"
-        },
-        {
-          "title": "Lorikeet Appoints Jerry Brooner Chief Revenue Officer",
-          "link": "https://ai-techpark.com/lorikeet-appoints-jerry-brooner-chief-revenue-officer/",
-          "date": "Mon, 27 Jul 2026 08:00:00 +0000"
-        },
-        {
-          "title": "Ardent Partners, Ivalua Study Reveals AI Procurement Execution Gap",
-          "link": "https://ai-techpark.com/ardent-partners-ivalua-study-reveals-ai-procurement-execution-gap/",
-          "date": "Mon, 27 Jul 2026 07:45:00 +0000"
-        },
-        {
-          "title": "MulticoreWare, AMD Partner to Advance Physical AI and Robotics",
-          "link": "https://ai-techpark.com/multicoreware-amd-partner-to-advance-physical-ai-and-robotics/",
-          "date": "Mon, 27 Jul 2026 07:30:00 +0000"
-        },
-        {
-          "title": "Cognyte Appoints Adam Philpott as CRO to Lead Global Market Expansion",
-          "link": "https://ai-techpark.com/cognyte-appoints-adam-philpott-as-cro-to-lead-global-market-expansion/",
-          "date": "Fri, 24 Jul 2026 18:35:00 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:47:2: mismatched tag"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -177,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -242,9 +216,9 @@
           "date": "2026-07-28T01:33:08+00:00"
         },
         {
-          "title": "Best free photo to Video AI site",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v8myby/best_free_photo_to_video_ai_site/",
-          "date": "2026-07-28T03:52:10+00:00"
+          "title": "OptMem - memory optimization for AI agents",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v8p4nz/optmem_memory_optimization_for_ai_agents/",
+          "date": "2026-07-28T05:40:56+00:00"
         }
       ],
       "error": null
@@ -386,11 +360,6 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Misleading AI-generated doctors pose \u2018huge danger to public safety\u2019",
-          "link": "https://www.theguardian.com/technology/2026/jul/27/misleading-ai-generated-doctors-public-safety-danger-tiktok",
-          "date": "Mon, 27 Jul 2026 06:00:34 GMT"
-        },
-        {
           "title": "No, Centrica, customers don\u2019t prefer bots to humans | Letter",
           "link": "https://www.theguardian.com/business/2026/jul/27/no-centrica-customers-dont-prefer-bots-to-humans",
           "date": "Mon, 27 Jul 2026 16:47:22 GMT"
@@ -409,6 +378,11 @@
           "title": "What If We Got AI Right? by Eleanor Drage review \u2013 avoiding apocalypse",
           "link": "https://www.theguardian.com/books/2026/jul/27/what-if-we-got-ai-right-by-eleanor-drage-review-avoiding-apocalypse",
           "date": "Mon, 27 Jul 2026 08:00:34 GMT"
+        },
+        {
+          "title": "Misleading AI-generated doctors pose \u2018huge danger to public safety\u2019",
+          "link": "https://www.theguardian.com/technology/2026/jul/27/misleading-ai-generated-doctors-public-safety-danger-tiktok",
+          "date": "Mon, 27 Jul 2026 06:00:34 GMT"
         }
       ],
       "error": null
@@ -482,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Hugging Face Has a Deepfake Nudes Problem",
+          "link": "https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/",
+          "date": "Tue, 28 Jul 2026 05:30:00 +0000"
+        },
+        {
           "title": "Private Claude Chats Exposed in Google and Bing Search Results",
           "link": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
           "date": "Mon, 27 Jul 2026 20:08:00 +0000"
@@ -500,11 +479,6 @@
           "title": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
           "link": "https://www.wired.com/story/uncanny-valley-podcast/",
           "date": "Fri, 24 Jul 2026 17:53:01 +0000"
-        },
-        {
-          "title": "Silicon Valley Is Completely Divided Over Chinese AI",
-          "link": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
-          "date": "Fri, 24 Jul 2026 15:00:00 +0000"
         }
       ],
       "error": null
