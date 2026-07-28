@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T18:11:39.206263+00:00",
+  "generatedAt": "2026-07-28T20:14:00.632430+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Samsung Agrees to Chip Deal With Broadcom",
+          "link": "https://aibusiness.com/generative-ai/samsung-agrees-chip-deal-with-broadcom",
+          "date": "Tue, 28 Jul 2026 18:55:49 GMT"
+        },
+        {
           "title": "AI Arrives in the Private Markets Business",
           "link": "https://aibusiness.com/generative-ai/ai-arrives-private-markets-business",
           "date": "Tue, 28 Jul 2026 12:18:36 GMT"
@@ -132,11 +137,6 @@
           "title": "Tech Companies Urge Caution by US policymakers on Open Models",
           "link": "https://aibusiness.com/generative-ai/tech-companies-urge-caution-us-policymakers-open-ai-models",
           "date": "Mon, 27 Jul 2026 14:24:59 GMT"
-        },
-        {
-          "title": "Prompt: The AI Threat Model Just Changed",
-          "link": "https://aibusiness.com/cybersecurity/prompt-ai-threat-model-just-changed",
-          "date": "Fri, 24 Jul 2026 15:23:19 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "This New Meta \u201cAdvertisement\u201d Is Absolutely Brutal",
+          "link": "https://futurism.com/future-society/new-meta-advertisement-brutal-glasses-epstein",
+          "date": "Tue, 28 Jul 2026 14:24:41 -0400"
+        },
+        {
           "title": "Sam Altman Says Even the Power of AI Will Never Lead to a Shorter Work Week",
           "link": "https://futurism.com/artificial-intelligence/sam-altman-power-ai-shorter-work-week",
           "date": "Tue, 28 Jul 2026 13:29:16 -0400"
@@ -442,11 +447,6 @@
           "title": "It Seems a Lot Like Dead Internet Has Actually Come True",
           "link": "https://futurism.com/artificial-intelligence/dead-internet-theory-come-true",
           "date": "Tue, 28 Jul 2026 08:49:03 -0400"
-        },
-        {
-          "title": "Suspicion Grows About OpenAI\u2019s Tale About Its Rogue Hacker AI",
-          "link": "https://futurism.com/artificial-intelligence/openai-rogue-hack-ai-suspicion-chatgpt",
-          "date": "Mon, 27 Jul 2026 17:47:13 -0400"
         }
       ],
       "error": null
