@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T06:30:17.260191+00:00",
+  "generatedAt": "2026-07-28T09:34:11.571233+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:47:2: mismatched tag"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -360,6 +360,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "AI sell-off intensifies as investors ditch chip stocks",
+          "link": "https://www.theguardian.com/business/2026/jul/28/ai-sell-off-chip-stocks-sk-hynix-samsung",
+          "date": "Tue, 28 Jul 2026 09:03:12 GMT"
+        },
+        {
           "title": "No, Centrica, customers don\u2019t prefer bots to humans | Letter",
           "link": "https://www.theguardian.com/business/2026/jul/27/no-centrica-customers-dont-prefer-bots-to-humans",
           "date": "Mon, 27 Jul 2026 16:47:22 GMT"
@@ -378,11 +383,6 @@
           "title": "What If We Got AI Right? by Eleanor Drage review \u2013 avoiding apocalypse",
           "link": "https://www.theguardian.com/books/2026/jul/27/what-if-we-got-ai-right-by-eleanor-drage-review-avoiding-apocalypse",
           "date": "Mon, 27 Jul 2026 08:00:34 GMT"
-        },
-        {
-          "title": "Misleading AI-generated doctors pose \u2018huge danger to public safety\u2019",
-          "link": "https://www.theguardian.com/technology/2026/jul/27/misleading-ai-generated-doctors-public-safety-danger-tiktok",
-          "date": "Mon, 27 Jul 2026 06:00:34 GMT"
         }
       ],
       "error": null
