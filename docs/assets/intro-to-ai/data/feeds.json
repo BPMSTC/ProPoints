@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T00:00:24.193592+00:00",
+  "generatedAt": "2026-07-29T02:27:58.978125+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -206,6 +206,11 @@
           "date": "2026-07-27T19:58:12+00:00"
         },
         {
+          "title": "[ Removed by Reddit ]",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v9g8ko/removed_by_reddit/",
+          "date": "2026-07-29T00:23:55+00:00"
+        },
+        {
           "title": "AI-coding agents kill team collaboration, according to an analysis of 25,264 agent-generated PRs across 2,361 popular GitHub repositories.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v8v25p/aicoding_agents_kill_team_collaboration_according/",
           "date": "2026-07-28T11:00:30+00:00"
@@ -214,11 +219,6 @@
           "title": "If you could only buy one subscription, which would it be?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v9a46e/if_you_could_only_buy_one_subscription_which/",
           "date": "2026-07-28T20:22:25+00:00"
-        },
-        {
-          "title": "Professor's Hidden AI Trap Catches 32 Students Cheating",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v8jw3j/professors_hidden_ai_trap_catches_32_students/",
-          "date": "2026-07-28T01:33:08+00:00"
         }
       ],
       "error": null
@@ -422,13 +422,44 @@
     {
       "name": "Artificial Intelligence \u2013 Futurism",
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
-      "items": [],
-      "error": "<unknown>:2:39: junk after document element"
+      "items": [
+        {
+          "title": "BuzzFeed Lays Off 33 Percent of Remaining Staff After Bizarre Pivot to AI",
+          "link": "https://futurism.com/artificial-intelligence/buzzfeed-layoffs-pivot-ai",
+          "date": "Tue, 28 Jul 2026 17:06:15 -0400"
+        },
+        {
+          "title": "This New Meta \u201cAdvertisement\u201d Is Absolutely Brutal",
+          "link": "https://futurism.com/future-society/new-meta-advertisement-brutal-glasses-epstein",
+          "date": "Tue, 28 Jul 2026 14:24:41 -0400"
+        },
+        {
+          "title": "Sam Altman Says Even the Power of AI Will Never Lead to a Shorter Work Week",
+          "link": "https://futurism.com/artificial-intelligence/sam-altman-power-ai-shorter-work-week",
+          "date": "Tue, 28 Jul 2026 13:29:16 -0400"
+        },
+        {
+          "title": "Is Mark Zuckerberg Actually TRYING to Destroy Meta?",
+          "link": "https://futurism.com/artificial-intelligence/mark-zuckerberg-meta-capex-ai",
+          "date": "Tue, 28 Jul 2026 11:24:46 -0400"
+        },
+        {
+          "title": "You Are Entirely Unprepared for the Noise This Data Center Constantly Blasts at Neighbors\u2019 Homes",
+          "link": "https://futurism.com/artificial-intelligence/data-center-noise-pollution-dowagiac-michigan-blasts-homes",
+          "date": "Tue, 28 Jul 2026 09:48:09 -0400"
+        }
+      ],
+      "error": null
     },
     {
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "OpenAI\u2019s Rogue AI Agent Hacked More Than Just Hugging Face",
+          "link": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
+          "date": "Wed, 29 Jul 2026 00:15:30 +0000"
+        },
         {
           "title": "Can the New York Times Save Journalism From Our AI Overlords?",
           "link": "https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/",
@@ -448,11 +479,6 @@
           "title": "Private Claude Chats Exposed in Google and Bing Search Results",
           "link": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
           "date": "Mon, 27 Jul 2026 20:08:00 +0000"
-        },
-        {
-          "title": "This Is Donald Trump\u2019s AI Brain Trust",
-          "link": "https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/",
-          "date": "Mon, 27 Jul 2026 10:00:00 +0000"
         }
       ],
       "error": null
