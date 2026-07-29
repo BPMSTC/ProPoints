@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T22:00:56.257335+00:00",
+  "generatedAt": "2026-07-29T00:00:24.193592+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -206,11 +206,6 @@
           "date": "2026-07-27T19:58:12+00:00"
         },
         {
-          "title": "Vibe Coding Until I Can Move Out of My Mom's Basement - Day 25 - Generated Revenue: $0.00",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v9a1ef/vibe_coding_until_i_can_move_out_of_my_moms/",
-          "date": "2026-07-28T20:19:44+00:00"
-        },
-        {
           "title": "AI-coding agents kill team collaboration, according to an analysis of 25,264 agent-generated PRs across 2,361 popular GitHub repositories.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v8v25p/aicoding_agents_kill_team_collaboration_according/",
           "date": "2026-07-28T11:00:30+00:00"
@@ -219,6 +214,11 @@
           "title": "If you could only buy one subscription, which would it be?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v9a46e/if_you_could_only_buy_one_subscription_which/",
           "date": "2026-07-28T20:22:25+00:00"
+        },
+        {
+          "title": "Professor's Hidden AI Trap Catches 32 Students Cheating",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v8jw3j/professors_hidden_ai_trap_catches_32_students/",
+          "date": "2026-07-28T01:33:08+00:00"
         }
       ],
       "error": null
@@ -290,29 +290,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "New airliner sets record flying 24 hrs nonstop from Australia to France",
-          "link": "https://arstechnica.com/gadgets/2026/07/new-airliner-sets-record-flying-24-hrs-nonstop-from-australia-to-france/",
-          "date": "Tue, 28 Jul 2026 18:43:36 +0000"
+          "title": "Reaction wheel failures leave Swift rescue mission spinning in orbit",
+          "link": "https://arstechnica.com/space/2026/07/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit/",
+          "date": "Tue, 28 Jul 2026 22:09:00 +0000"
         },
         {
-          "title": "Judge blocks first state law that would have banned prediction markets",
-          "link": "https://arstechnica.com/tech-policy/2026/07/judge-blocks-first-state-law-that-would-have-banned-prediction-markets/",
-          "date": "Tue, 28 Jul 2026 18:31:13 +0000"
+          "title": "College lab class ends with 32 people on antibiotics for deadly germ exposure",
+          "link": "https://arstechnica.com/health/2026/07/college-lab-class-ends-with-32-people-on-antibiotics-for-deadly-germ-exposure/",
+          "date": "Tue, 28 Jul 2026 21:49:52 +0000"
         },
         {
-          "title": "Report: Trump mad RFK Jr. hasn\u2019t cut more vaccines or proven autism link",
-          "link": "https://arstechnica.com/health/2026/07/report-trump-mad-rfk-jr-hasnt-cut-more-vaccines-or-proven-autism-link/",
-          "date": "Tue, 28 Jul 2026 16:16:25 +0000"
+          "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+          "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+          "date": "Tue, 28 Jul 2026 21:36:39 +0000"
         },
         {
-          "title": "As US measles cases rise, biotech firms start developing new treatments",
-          "link": "https://arstechnica.com/health/2026/07/as-us-measles-cases-rise-biotech-firms-start-developing-new-treatments/",
-          "date": "Tue, 28 Jul 2026 13:32:23 +0000"
+          "title": "eBay pays $46M to journalists it targeted in bizarre harassment campaign",
+          "link": "https://arstechnica.com/tech-policy/2026/07/ebay-former-execs-pay-56m-to-settle-bloody-pig-mask-harassment-case/",
+          "date": "Tue, 28 Jul 2026 21:02:15 +0000"
         },
         {
-          "title": "Microsoft unveils AI security tools it says outperform competing platforms",
-          "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-          "date": "Mon, 27 Jul 2026 21:56:14 +0000"
+          "title": "Study: Dinosaurs were charbroiled after Chicxulub impact",
+          "link": "https://arstechnica.com/science/2026/07/dust-cloud-from-dino-killing-asteroid-charbroiled-the-earth/",
+          "date": "Tue, 28 Jul 2026 20:51:45 +0000"
         }
       ],
       "error": null
@@ -360,6 +360,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "How to keep your Claude chats and Google files private",
+          "link": "https://www.theguardian.com/us-news/2026/jul/28/how-to-keep-your-claude-chats-and-google-files-private",
+          "date": "Tue, 28 Jul 2026 23:15:37 GMT"
+        },
+        {
           "title": "Apple becomes second $5tn company as investors flee AI stocks",
           "link": "https://www.theguardian.com/technology/2026/jul/28/apple-second-ever-5tn-company-as-investors-flee-ai-stocks",
           "date": "Tue, 28 Jul 2026 20:33:14 GMT"
@@ -378,11 +383,6 @@
           "title": "I noticed a customer review I think might be fake. In Australia, are businesses allowed to do this?",
           "link": "https://www.theguardian.com/lifeandstyle/2026/jul/29/i-noticed-a-customer-review-i-think-might-be-fake-in-australia-are-businesses-allowed-to-do-this",
           "date": "Tue, 28 Jul 2026 15:00:06 GMT"
-        },
-        {
-          "title": "Religion isn\u2019t just for the right: five ways progressives are invoking \u2018religious freedom\u2019 laws",
-          "link": "https://www.theguardian.com/us-news/2026/jul/28/progressives-religion-civil-liberties-social-justice",
-          "date": "Tue, 28 Jul 2026 14:00:05 GMT"
         }
       ],
       "error": null
@@ -422,34 +422,8 @@
     {
       "name": "Artificial Intelligence \u2013 Futurism",
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
-      "items": [
-        {
-          "title": "BuzzFeed Lays Off 33 Percent of Remaining Staff After Bizarre Pivot to AI",
-          "link": "https://futurism.com/artificial-intelligence/buzzfeed-layoffs-pivot-ai",
-          "date": "Tue, 28 Jul 2026 17:06:15 -0400"
-        },
-        {
-          "title": "This New Meta \u201cAdvertisement\u201d Is Absolutely Brutal",
-          "link": "https://futurism.com/future-society/new-meta-advertisement-brutal-glasses-epstein",
-          "date": "Tue, 28 Jul 2026 14:24:41 -0400"
-        },
-        {
-          "title": "Sam Altman Says Even the Power of AI Will Never Lead to a Shorter Work Week",
-          "link": "https://futurism.com/artificial-intelligence/sam-altman-power-ai-shorter-work-week",
-          "date": "Tue, 28 Jul 2026 13:29:16 -0400"
-        },
-        {
-          "title": "Is Mark Zuckerberg Actually TRYING to Destroy Meta?",
-          "link": "https://futurism.com/artificial-intelligence/mark-zuckerberg-meta-capex-ai",
-          "date": "Tue, 28 Jul 2026 11:24:46 -0400"
-        },
-        {
-          "title": "You Are Entirely Unprepared for the Noise This Data Center Constantly Blasts at Neighbors\u2019 Homes",
-          "link": "https://futurism.com/artificial-intelligence/data-center-noise-pollution-dowagiac-michigan-blasts-homes",
-          "date": "Tue, 28 Jul 2026 09:48:09 -0400"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:39: junk after document element"
     },
     {
       "name": "Artificial Intelligence Latest - Wired",
