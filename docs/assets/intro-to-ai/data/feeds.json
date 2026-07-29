@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T18:04:05.306275+00:00",
+  "generatedAt": "2026-07-29T20:09:54.205979+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -206,6 +206,11 @@
           "date": "2026-07-29T16:06:38+00:00"
         },
         {
+          "title": "Solved a real prompt-engineering problem building AI memory: getting extraction prompts to filter out secrets before anything gets embedded",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v9tpb0/solved_a_real_promptengineering_problem_building/",
+          "date": "2026-07-29T11:39:56+00:00"
+        },
+        {
           "title": "That $200 a month is starting to look pricier than ever...",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v8bd0p/that_200_a_month_is_starting_to_look_pricier_than/",
           "date": "2026-07-27T19:58:12+00:00"
@@ -214,11 +219,6 @@
           "title": "AI-coding agents kill team collaboration, according to an analysis of 25,264 agent-generated PRs across 2,361 popular GitHub repositories.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v8v25p/aicoding_agents_kill_team_collaboration_according/",
           "date": "2026-07-28T11:00:30+00:00"
-        },
-        {
-          "title": "If you could only buy one subscription, which would it be?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v9a46e/if_you_could_only_buy_one_subscription_which/",
-          "date": "2026-07-28T20:22:25+00:00"
         }
       ],
       "error": null
@@ -290,29 +290,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "What happens when you put AI to work deciphering lost languages?",
-          "link": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
-          "date": "Wed, 29 Jul 2026 13:23:31 +0000"
+          "title": "Google begins global rollout of age verification API in Google Play",
+          "link": "https://arstechnica.com/gadgets/2026/07/google-begins-global-rollout-of-age-verification-api-in-google-play/",
+          "date": "Wed, 29 Jul 2026 18:08:22 +0000"
         },
         {
-          "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation",
-          "link": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
-          "date": "Wed, 29 Jul 2026 11:00:39 +0000"
+          "title": "Elon Musk\u2019s xAI is trying to sue its way out of a Grok reckoning",
+          "link": "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/",
+          "date": "Wed, 29 Jul 2026 17:58:24 +0000"
         },
         {
-          "title": "Elon Musk finally launches X Money. What could possibly go wrong?",
-          "link": "https://arstechnica.com/tech-policy/2026/07/elon-musk-finally-launches-x-money-what-could-possibly-go-wrong/",
-          "date": "Wed, 29 Jul 2026 10:00:51 +0000"
+          "title": "Yet more qubit tech: New quantum dot options, diamond vacancies",
+          "link": "https://arstechnica.com/science/2026/07/quantum-computing-roundup-still-more-technologies-making-waves/",
+          "date": "Wed, 29 Jul 2026 17:37:47 +0000"
         },
         {
-          "title": "Audi has a new flagship designed with the US in mind: The 2027 Q9",
-          "link": "https://arstechnica.com/cars/2026/07/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9/",
-          "date": "Wed, 29 Jul 2026 01:00:36 +0000"
+          "title": "Actually, Starliner might fly into space this year",
+          "link": "https://arstechnica.com/space/2026/07/actually-starliner-might-fly-into-space-this-year/",
+          "date": "Wed, 29 Jul 2026 17:24:41 +0000"
         },
         {
-          "title": "Reaction wheel failures leave Swift rescue mission spinning in orbit",
-          "link": "https://arstechnica.com/space/2026/07/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit/",
-          "date": "Tue, 28 Jul 2026 22:09:00 +0000"
+          "title": "Anthropic is finding bugs faster than Microsoft can fix them",
+          "link": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
+          "date": "Wed, 29 Jul 2026 15:52:48 +0000"
         }
       ],
       "error": null
@@ -327,6 +327,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "How an OpenAI safety test became a real-world cyberattack on the Hugging Face platform",
+          "link": "https://theconversation.com/how-an-openai-safety-test-became-a-real-world-cyberattack-on-the-hugging-face-platform-288334",
+          "date": "2026-07-29T18:10:45Z"
+        },
         {
           "title": "AI in healthcare is an evolving landscape of new technologies, productivity benefits and legal uncertainties",
           "link": "https://theconversation.com/ai-in-healthcare-is-an-evolving-landscape-of-new-technologies-productivity-benefits-and-legal-uncertainties-286611",
@@ -346,11 +351,6 @@
           "title": "A lifelike robot called \u2018Sally\u2019 was going to teach in a US school. It\u2019s not as weird as it sounds",
           "link": "https://theconversation.com/a-lifelike-robot-called-sally-was-going-to-teach-in-a-us-school-its-not-as-weird-as-it-sounds-288493",
           "date": "2026-07-29T04:34:15Z"
-        },
-        {
-          "title": "AI is transforming health care, but not everyone will share the benefits",
-          "link": "https://theconversation.com/ai-is-transforming-health-care-but-not-everyone-will-share-the-benefits-285578",
-          "date": "2026-07-28T16:24:49Z"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Hack \u201cWriters\u201d Fuming After ChatGPT Starts Refusing Prompts to Copy a Specific Author\u2019s Style",
+          "link": "https://futurism.com/artificial-intelligence/hack-writers-fuming-chatgpt-refuse-mimic-author",
+          "date": "Wed, 29 Jul 2026 15:47:54 -0400"
+        },
+        {
           "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
           "link": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
           "date": "Wed, 29 Jul 2026 13:57:53 -0400"
@@ -442,11 +447,6 @@
           "title": "BuzzFeed Lays Off 33 Percent of Remaining Staff After Bizarre Pivot to AI",
           "link": "https://futurism.com/artificial-intelligence/buzzfeed-layoffs-pivot-ai",
           "date": "Tue, 28 Jul 2026 17:06:15 -0400"
-        },
-        {
-          "title": "This New Meta \u201cAdvertisement\u201d Is Absolutely Brutal",
-          "link": "https://futurism.com/future-society/new-meta-advertisement-brutal-glasses-epstein",
-          "date": "Tue, 28 Jul 2026 14:24:41 -0400"
         }
       ],
       "error": null
@@ -455,6 +455,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "It\u2019s Frighteningly Easy to Jailbreak Some Frontier AI Models",
+          "link": "https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai/",
+          "date": "Wed, 29 Jul 2026 18:30:00 +0000"
+        },
         {
           "title": "More Typos, Fewer Em Dashes: Writers Are Creating an Anti-AI \u2018Literary Counterculture\u2019",
           "link": "https://www.wired.com/story/more-typos-fewer-em-dashes-writers-are-creating-an-anti-ai-literary-counterculture/",
@@ -474,11 +479,6 @@
           "title": "Can the New York Times Save Journalism From Our AI Overlords?",
           "link": "https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/",
           "date": "Tue, 28 Jul 2026 10:30:00 +0000"
-        },
-        {
-          "title": "Silicon Valley\u2019s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
-          "link": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/",
-          "date": "Tue, 28 Jul 2026 10:00:00 +0000"
         }
       ],
       "error": null
