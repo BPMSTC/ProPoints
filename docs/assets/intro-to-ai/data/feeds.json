@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T20:09:54.205979+00:00",
+  "generatedAt": "2026-07-29T22:02:01.723068+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -206,6 +206,11 @@
           "date": "2026-07-29T16:06:38+00:00"
         },
         {
+          "title": "Interesting Take",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1va8c5r/interesting_take/",
+          "date": "2026-07-29T20:38:38+00:00"
+        },
+        {
           "title": "Solved a real prompt-engineering problem building AI memory: getting extraction prompts to filter out secrets before anything gets embedded",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v9tpb0/solved_a_real_promptengineering_problem_building/",
           "date": "2026-07-29T11:39:56+00:00"
@@ -214,11 +219,6 @@
           "title": "That $200 a month is starting to look pricier than ever...",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v8bd0p/that_200_a_month_is_starting_to_look_pricier_than/",
           "date": "2026-07-27T19:58:12+00:00"
-        },
-        {
-          "title": "AI-coding agents kill team collaboration, according to an analysis of 25,264 agent-generated PRs across 2,361 popular GitHub repositories.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v8v25p/aicoding_agents_kill_team_collaboration_according/",
-          "date": "2026-07-28T11:00:30+00:00"
         }
       ],
       "error": null
@@ -290,7 +290,22 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Google begins global rollout of age verification API in Google Play",
+          "title": "Who wins and who loses after US bans foreign robots?",
+          "link": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
+          "date": "Wed, 29 Jul 2026 20:03:42 +0000"
+        },
+        {
+          "title": "Comcast store punished low sales by smashing pies in workers' faces, lawsuit claims",
+          "link": "https://arstechnica.com/tech-policy/2026/07/comcast-store-punished-low-sales-by-smashing-pies-in-workers-faces-lawsuit-claims/",
+          "date": "Wed, 29 Jul 2026 19:33:55 +0000"
+        },
+        {
+          "title": "Customize Ars your way with an Ars Pro subscription",
+          "link": "https://arstechnica.com/staff/2026/07/customize-ars-your-way-with-an-ars-pro-subscription/",
+          "date": "Wed, 29 Jul 2026 19:23:27 +0000"
+        },
+        {
+          "title": "Google's \"privacy-preserving\" age verification system is coming to the Play Store",
           "link": "https://arstechnica.com/gadgets/2026/07/google-begins-global-rollout-of-age-verification-api-in-google-play/",
           "date": "Wed, 29 Jul 2026 18:08:22 +0000"
         },
@@ -298,21 +313,6 @@
           "title": "Elon Musk\u2019s xAI is trying to sue its way out of a Grok reckoning",
           "link": "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/",
           "date": "Wed, 29 Jul 2026 17:58:24 +0000"
-        },
-        {
-          "title": "Yet more qubit tech: New quantum dot options, diamond vacancies",
-          "link": "https://arstechnica.com/science/2026/07/quantum-computing-roundup-still-more-technologies-making-waves/",
-          "date": "Wed, 29 Jul 2026 17:37:47 +0000"
-        },
-        {
-          "title": "Actually, Starliner might fly into space this year",
-          "link": "https://arstechnica.com/space/2026/07/actually-starliner-might-fly-into-space-this-year/",
-          "date": "Wed, 29 Jul 2026 17:24:41 +0000"
-        },
-        {
-          "title": "Anthropic is finding bugs faster than Microsoft can fix them",
-          "link": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
-          "date": "Wed, 29 Jul 2026 15:52:48 +0000"
         }
       ],
       "error": null
@@ -327,6 +327,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "\u2018Vibe coding\u2019 is fun and easy, but there\u2019s a major catch",
+          "link": "https://theconversation.com/vibe-coding-is-fun-and-easy-but-theres-a-major-catch-287693",
+          "date": "2026-07-29T20:09:46Z"
+        },
         {
           "title": "How an OpenAI safety test became a real-world cyberattack on the Hugging Face platform",
           "link": "https://theconversation.com/how-an-openai-safety-test-became-a-real-world-cyberattack-on-the-hugging-face-platform-288334",
@@ -346,11 +351,6 @@
           "title": "As AI reshapes newsrooms, leading media outlets are charting different paths for its use",
           "link": "https://theconversation.com/as-ai-reshapes-newsrooms-leading-media-outlets-are-charting-different-paths-for-its-use-283565",
           "date": "2026-07-29T12:15:33Z"
-        },
-        {
-          "title": "A lifelike robot called \u2018Sally\u2019 was going to teach in a US school. It\u2019s not as weird as it sounds",
-          "link": "https://theconversation.com/a-lifelike-robot-called-sally-was-going-to-teach-in-a-us-school-its-not-as-weird-as-it-sounds-288493",
-          "date": "2026-07-29T04:34:15Z"
         }
       ],
       "error": null
@@ -359,6 +359,11 @@
       "name": "Artificial intelligence (AI) | The Guardian",
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
+        {
+          "title": "Meta misses earnings forecasts after Zuckerberg media push to promote AI",
+          "link": "https://www.theguardian.com/technology/2026/jul/29/meta-earnings-mark-zuckerberg",
+          "date": "Wed, 29 Jul 2026 21:26:49 GMT"
+        },
         {
           "title": "FTSE 100 hits record high despite AI sell-off",
           "link": "https://www.theguardian.com/business/2026/jul/29/asian-chip-firms-shares-plunge-ai-sell-off-stock-markets",
@@ -378,11 +383,6 @@
           "title": "Datacentre projects face fees for grid access to ease connection queue, Ofgem says",
           "link": "https://www.theguardian.com/uk-news/2026/jul/29/datacentre-projects-fees-grid-access-connection-queue-ofgem",
           "date": "Wed, 29 Jul 2026 07:42:01 GMT"
-        },
-        {
-          "title": "AI tool will lead to more child refugees being treated as adults, charity warns",
-          "link": "https://www.theguardian.com/global-development/2026/jul/29/uk-immigration-ai-age-facial-recognition-child-refugees-adults-bias",
-          "date": "Wed, 29 Jul 2026 04:00:22 GMT"
         }
       ],
       "error": null
