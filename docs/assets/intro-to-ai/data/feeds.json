@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T11:22:54.481827+00:00",
+  "generatedAt": "2026-07-29T14:02:36.119644+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,7 +114,12 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
-          "title": "Microsoft Emerges with Cheaper Cyber Model to Rival Mythos, GPT 5.6",
+          "title": "Vendor Developing Self-Improving AI Signs $410M AWS Deal",
+          "link": "https://aibusiness.com/generative-ai/vendor-developing-self-improving-ai-410m-aws-deal",
+          "date": "Wed, 29 Jul 2026 12:49:42 GMT"
+        },
+        {
+          "title": "Microsoft Emerges with Cheaper Cyber Model to Rival Mythos, GPT-5.6",
           "link": "https://aibusiness.com/foundation-models/microsoft-cheaper-cyber-model-to-rivals",
           "date": "Tue, 28 Jul 2026 20:00:47 GMT"
         },
@@ -132,11 +137,6 @@
           "title": "Improved Voice Mode Makes Working With Claude Easier",
           "link": "https://aibusiness.com/generative-ai/improved-voice-mode-makes-working-claude-easier",
           "date": "Mon, 27 Jul 2026 20:58:01 GMT"
-        },
-        {
-          "title": "Neura Robotics to Open Physical AI Training Center",
-          "link": "https://aibusiness.com/robotics/neura-robotics-open-physical-ai-training-center",
-          "date": "Mon, 27 Jul 2026 15:20:57 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI misinformation",
+          "link": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
+          "date": "Wed, 29 Jul 2026 11:00:39 +0000"
+        },
+        {
+          "title": "Elon Musk finally launches X Money. What could possibly go wrong?",
+          "link": "https://arstechnica.com/tech-policy/2026/07/elon-musk-finally-launches-x-money-what-could-possibly-go-wrong/",
+          "date": "Wed, 29 Jul 2026 10:00:51 +0000"
+        },
+        {
           "title": "Audi has a new flagship designed with the US in mind: The 2027 Q9",
           "link": "https://arstechnica.com/cars/2026/07/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9/",
           "date": "Wed, 29 Jul 2026 01:00:36 +0000"
@@ -303,16 +313,6 @@
           "title": "College lab class ends with 32 people on antibiotics for deadly germ exposure",
           "link": "https://arstechnica.com/health/2026/07/college-lab-class-ends-with-32-people-on-antibiotics-for-deadly-germ-exposure/",
           "date": "Tue, 28 Jul 2026 21:49:52 +0000"
-        },
-        {
-          "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
-          "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
-          "date": "Tue, 28 Jul 2026 21:36:39 +0000"
-        },
-        {
-          "title": "eBay pays $46M to journalists it targeted in bizarre harassment campaign",
-          "link": "https://arstechnica.com/tech-policy/2026/07/ebay-former-execs-pay-56m-to-settle-bloody-pig-mask-harassment-case/",
-          "date": "Tue, 28 Jul 2026 21:02:15 +0000"
         }
       ],
       "error": null
@@ -328,29 +328,29 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
-          "title": "A lifelike robot called \u2018Sally\u2019 was going to teach in a US school. It\u2019s not a weird as it sounds",
-          "link": "https://theconversation.com/a-lifelike-robot-called-sally-was-going-to-teach-in-a-us-school-its-not-a-weird-as-it-sounds-288493",
+          "title": "AI in healthcare is an evolving landscape of new technologies, productivity benefits and legal uncertainties",
+          "link": "https://theconversation.com/ai-in-healthcare-is-an-evolving-landscape-of-new-technologies-productivity-benefits-and-legal-uncertainties-286611",
+          "date": "2026-07-29T12:16:49Z"
+        },
+        {
+          "title": "Got money questions? How to get chatbots to give you accurate answers",
+          "link": "https://theconversation.com/got-money-questions-how-to-get-chatbots-to-give-you-accurate-answers-288185",
+          "date": "2026-07-29T12:15:59Z"
+        },
+        {
+          "title": "As AI reshapes newsrooms, leading media outlets are charting different paths for its use",
+          "link": "https://theconversation.com/as-ai-reshapes-newsrooms-leading-media-outlets-are-charting-different-paths-for-its-use-283565",
+          "date": "2026-07-29T12:15:33Z"
+        },
+        {
+          "title": "A lifelike robot called \u2018Sally\u2019 was going to teach in a US school. It\u2019s not as weird as it sounds",
+          "link": "https://theconversation.com/a-lifelike-robot-called-sally-was-going-to-teach-in-a-us-school-its-not-as-weird-as-it-sounds-288493",
           "date": "2026-07-29T04:34:15Z"
         },
         {
           "title": "AI is transforming health care, but not everyone will share the benefits",
           "link": "https://theconversation.com/ai-is-transforming-health-care-but-not-everyone-will-share-the-benefits-285578",
           "date": "2026-07-28T16:24:49Z"
-        },
-        {
-          "title": "A.I. at 25: the Spielberg film that feels more unsettling than ever",
-          "link": "https://theconversation.com/a-i-at-25-the-spielberg-film-that-feels-more-unsettling-than-ever-287740",
-          "date": "2026-07-28T15:30:24Z"
-        },
-        {
-          "title": "Starting or running a business with AI? There are legal risks you can\u2019t afford to ignore",
-          "link": "https://theconversation.com/starting-or-running-a-business-with-ai-there-are-legal-risks-you-cant-afford-to-ignore-288084",
-          "date": "2026-07-27T20:07:33Z"
-        },
-        {
-          "title": "Elon Musk says AI will make a \u2018historically accurate\u2019 Odyssey \u2013 here\u2019s why that\u2019s impossible",
-          "link": "https://theconversation.com/elon-musk-says-ai-will-make-a-historically-accurate-odyssey-heres-why-thats-impossible-288333",
-          "date": "2026-07-27T15:09:25Z"
         }
       ],
       "error": null
@@ -359,6 +359,11 @@
       "name": "Artificial intelligence (AI) | The Guardian",
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
+        {
+          "title": "Rogue OpenAI agent that hacked startup tried to attack other firms",
+          "link": "https://www.theguardian.com/technology/2026/jul/29/rogue-openai-agent-that-hacked-startup-tried-to-attack-other-firms",
+          "date": "Wed, 29 Jul 2026 12:38:38 GMT"
+        },
         {
           "title": "Shares in Asian chip firms plunge further as AI sell-off continues",
           "link": "https://www.theguardian.com/business/2026/jul/29/asian-chip-firms-shares-plunge-ai-sell-off-stock-markets",
@@ -378,11 +383,6 @@
           "title": "Queensland and NT reject Labor\u2019s push to ensure that power-hungry AI datacentres use renewable energy",
           "link": "https://www.theguardian.com/australia-news/2026/jul/29/queensland-northern-territory-reject-ai-datacentre-renewable-energy",
           "date": "Wed, 29 Jul 2026 03:19:17 GMT"
-        },
-        {
-          "title": "How to keep your Claude chats and Google files private",
-          "link": "https://www.theguardian.com/us-news/2026/jul/28/how-to-keep-your-claude-chats-and-google-files-private",
-          "date": "Tue, 28 Jul 2026 23:15:37 GMT"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Residents Furious at Plan to Seize and Destroy Their Homes for AI Data Centers",
+          "link": "https://futurism.com/artificial-intelligence/residents-furious-seize-destroy-homes-ai-data-centers-georgia",
+          "date": "Wed, 29 Jul 2026 08:54:18 -0400"
+        },
+        {
           "title": "BuzzFeed Lays Off 33 Percent of Remaining Staff After Bizarre Pivot to AI",
           "link": "https://futurism.com/artificial-intelligence/buzzfeed-layoffs-pivot-ai",
           "date": "Tue, 28 Jul 2026 17:06:15 -0400"
@@ -442,11 +447,6 @@
           "title": "Is Mark Zuckerberg Actually TRYING to Destroy Meta?",
           "link": "https://futurism.com/artificial-intelligence/mark-zuckerberg-meta-capex-ai",
           "date": "Tue, 28 Jul 2026 11:24:46 -0400"
-        },
-        {
-          "title": "You Are Entirely Unprepared for the Noise This Data Center Constantly Blasts at Neighbors\u2019 Homes",
-          "link": "https://futurism.com/artificial-intelligence/data-center-noise-pollution-dowagiac-michigan-blasts-homes",
-          "date": "Tue, 28 Jul 2026 09:48:09 -0400"
         }
       ],
       "error": null
