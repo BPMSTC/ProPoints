@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T15:49:49.157009+00:00",
+  "generatedAt": "2026-07-30T17:23:02.522737+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Chinese Startups Dominate Humanoid Robotics Patent Rankings",
+          "link": "https://aibusiness.com/robotics/chinese-startups-dominate-humanoid-patent-rankings",
+          "date": "Thu, 30 Jul 2026 16:03:07 GMT"
+        },
+        {
           "title": "FCC Blocks Chinese Humanoid Robot Imports, Citing Security Risks",
           "link": "https://aibusiness.com/robotics/fcc-blocks-chinese-humanoid-robot-imports-security-risks",
           "date": "Wed, 29 Jul 2026 14:26:18 GMT"
@@ -132,11 +137,6 @@
           "title": "Samsung Agrees to Chip Deal With Broadcom",
           "link": "https://aibusiness.com/generative-ai/samsung-agrees-chip-deal-with-broadcom",
           "date": "Tue, 28 Jul 2026 18:55:49 GMT"
-        },
-        {
-          "title": "AI Arrives in the Private Markets Business",
-          "link": "https://aibusiness.com/generative-ai/ai-arrives-private-markets-business",
-          "date": "Tue, 28 Jul 2026 12:18:36 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -206,14 +206,14 @@
           "date": "2026-07-30T14:12:25+00:00"
         },
         {
-          "title": "How are you solving the problem where Claude assumes it's done?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vawzss/how_are_you_solving_the_problem_where_claude/",
-          "date": "2026-07-30T15:33:57+00:00"
-        },
-        {
           "title": "How to make such photos please share prompt!??",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vasa18/how_to_make_such_photos_please_share_prompt/",
           "date": "2026-07-30T12:29:36+00:00"
+        },
+        {
+          "title": "How are you solving the problem where Claude assumes it's done?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vawzss/how_are_you_solving_the_problem_where_claude/",
+          "date": "2026-07-30T15:33:57+00:00"
         },
         {
           "title": "How do you stop GPT 5.6 sol from making pointless subagents and taking FOREVER?",
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Quantum computers outperform classical ones, with results you can trust",
+          "link": "https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right/",
+          "date": "Thu, 30 Jul 2026 15:59:37 +0000"
+        },
+        {
           "title": "New MCP specification addresses the main barrier to enterprise adoption",
           "link": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
           "date": "Thu, 30 Jul 2026 14:53:07 +0000"
@@ -308,11 +313,6 @@
           "title": "Who wins and who loses after US bans foreign robots?",
           "link": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
           "date": "Wed, 29 Jul 2026 20:03:42 +0000"
-        },
-        {
-          "title": "Comcast store punished low sales by smashing pies in workers' faces, lawsuit claims",
-          "link": "https://arstechnica.com/tech-policy/2026/07/comcast-store-punished-low-sales-by-smashing-pies-in-workers-faces-lawsuit-claims/",
-          "date": "Wed, 29 Jul 2026 19:33:55 +0000"
         }
       ],
       "error": null
@@ -320,7 +320,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "\"Humannequins\" - A new study on synthetic choreographies",
+          "link": "https://www.reddit.com/r/artificial/comments/1vapz5h/humannequins_a_new_study_on_synthetic/",
+          "date": "2026-07-30T10:38:28+00:00"
+        },
+        {
+          "title": "Paul Bakaus (jQuery UI creator, a16z-backed) on why AI-built products still aren't good",
+          "link": "https://www.reddit.com/r/artificial/comments/1valark/paul_bakaus_jquery_ui_creator_a16zbacked_on_why/",
+          "date": "2026-07-30T06:13:41+00:00"
+        },
+        {
+          "title": "OpenAI's rogue agent ran ~17,600 actions across Hugging Face's infrastructure over 4 days \u2014 and HF's own post-mortem is wild reading",
+          "link": "https://www.reddit.com/r/artificial/comments/1v9w62d/openais_rogue_agent_ran_17600_actions_across/",
+          "date": "2026-07-29T13:25:55+00:00"
+        },
+        {
+          "title": "The Final Jailbreak: How AI Could Already Be Breaking Itself Free",
+          "link": "https://www.reddit.com/r/artificial/comments/1vazvpc/the_final_jailbreak_how_ai_could_already_be/",
+          "date": "2026-07-30T17:16:42+00:00"
+        },
+        {
+          "title": "Maya-2-Native is leading Voice Arena for real-time Hindi TTS.",
+          "link": "https://www.reddit.com/r/artificial/comments/1vatjwl/maya2native_is_leading_voice_arena_for_realtime/",
+          "date": "2026-07-30T13:23:18+00:00"
+        }
+      ],
       "error": null
     },
     {
@@ -424,6 +450,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "LinkedIn Adds Button on Every Post to Report \u201cSeems Like AI Slop,\u201d Which Is Definitely Going to Get a Real Workout",
+          "link": "https://futurism.com/artificial-intelligence/linkedin-adds-button-report-seems-like-ai-slop",
+          "date": "Thu, 30 Jul 2026 12:54:34 -0400"
+        },
+        {
           "title": "Cambridge Analytica\u2019s Website Is Now an AI Slop Farm",
           "link": "https://futurism.com/artificial-intelligence/cambridge-analytica-ai-slop-farm",
           "date": "Thu, 30 Jul 2026 10:58:12 -0400"
@@ -442,11 +473,6 @@
           "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
           "link": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
           "date": "Wed, 29 Jul 2026 13:57:53 -0400"
-        },
-        {
-          "title": "Microsoft CEO Warns That Companies Embracing AI Could Drive Themselves Out of Business",
-          "link": "https://futurism.com/artificial-intelligence/microsoft-ceo-warns-ai-business",
-          "date": "Wed, 29 Jul 2026 10:59:06 -0400"
         }
       ],
       "error": null
@@ -456,9 +482,14 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting",
+          "link": "https://www.wired.com/story/chrome-needs-twice-a-week-patching-thanks-to-ai-bug-hunting-for-now/",
+          "date": "Thu, 30 Jul 2026 17:00:00 +0000"
+        },
+        {
           "title": "The New Friend AI Pendant Can Now Talk Back to You",
           "link": "https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/",
-          "date": "Thu, 30 Jul 2026 15:39:33 +0000"
+          "date": "Thu, 30 Jul 2026 16:00:00 +0000"
         },
         {
           "title": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
@@ -474,11 +505,6 @@
           "title": "LinkedIn Won\u2019t Be Expanding Its Data Centers in the Next Year",
           "link": "https://www.wired.com/story/how-linkedin-is-keeping-its-compute-capacity-flat/",
           "date": "Thu, 30 Jul 2026 10:15:00 +0000"
-        },
-        {
-          "title": "AI Scammers Are Better at Building Trust Than Humans",
-          "link": "https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/",
-          "date": "Thu, 30 Jul 2026 09:30:00 +0000"
         }
       ],
       "error": null
