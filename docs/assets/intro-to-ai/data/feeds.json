@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T19:20:32.029473+00:00",
+  "generatedAt": "2026-07-30T21:05:02.315232+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -320,7 +320,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "\"Humannequins\" - A new study on synthetic choreographies",
+          "link": "https://www.reddit.com/r/artificial/comments/1vapz5h/humannequins_a_new_study_on_synthetic/",
+          "date": "2026-07-30T10:38:28+00:00"
+        },
+        {
+          "title": "The real AI banking question is permissions, not autonomy",
+          "link": "https://www.reddit.com/r/artificial/comments/1vb3ebz/the_real_ai_banking_question_is_permissions_not/",
+          "date": "2026-07-30T19:21:09+00:00"
+        },
+        {
+          "title": "Eva Mendes Slams AI-Generated Image Of Husband Ryan Gosling And Johnny Depp\u2014And We're Obsessed",
+          "link": "https://www.reddit.com/r/artificial/comments/1vb4rju/eva_mendes_slams_aigenerated_image_of_husband/",
+          "date": "2026-07-30T20:10:52+00:00"
+        },
+        {
+          "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+          "link": "https://www.reddit.com/r/artificial/comments/1vb40gz/google_says_it_fixed_more_chrome_bugs_in_june/",
+          "date": "2026-07-30T19:43:35+00:00"
+        },
+        {
+          "title": "The Final Jailbreak: How AI Could Already Be Breaking Itself Free",
+          "link": "https://www.reddit.com/r/artificial/comments/1vazvpc/the_final_jailbreak_how_ai_could_already_be/",
+          "date": "2026-07-30T17:16:42+00:00"
+        }
+      ],
       "error": null
     },
     {
@@ -456,7 +482,12 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
-          "title": "Nvidia\u2019s Open Source Alliance Snubs OpenAI and Anthropic",
+          "title": "Everyone Is Freaking Out About OpenAI and Anthropic\u2019s Race for Dominance",
+          "link": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/",
+          "date": "Thu, 30 Jul 2026 20:12:57 +0000"
+        },
+        {
+          "title": "Nvidia\u2019s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
           "link": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/",
           "date": "Thu, 30 Jul 2026 17:51:10 +0000"
         },
@@ -474,11 +505,6 @@
           "title": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
           "link": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/",
           "date": "Thu, 30 Jul 2026 15:04:22 +0000"
-        },
-        {
-          "title": "OpenAI\u2019s Hacking Debacle Comes Down to Human Error",
-          "link": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/",
-          "date": "Thu, 30 Jul 2026 10:30:00 +0000"
         }
       ],
       "error": null
