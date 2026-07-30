@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-07-30T13:51:34.836377+00:00",
+  "generatedAt": "2026-07-30T15:49:49.157009+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Inside an AI TikTok Shop Slop Factory That Shills Supplements Recalled By the FDA",
+          "link": "https://www.404media.co/inside-an-ai-tiktok-shop-slop-factory-that-shills-supplements-recalled-by-the-fda/",
+          "date": "Thu, 30 Jul 2026 14:51:32 GMT"
+        },
+        {
+          "title": "LinkedIn Introduces a 'Seems Like AI Slop' Button",
+          "link": "https://www.404media.co/linkedin-introduces-a-seems-like-ai-slop-button/",
+          "date": "Thu, 30 Jul 2026 14:34:29 GMT"
+        },
         {
           "title": "\u201cClapping Is a First Amendment Right:\u201d An Interview With the Person Arrested for Clapping at a Data Center Meeting",
           "link": "https://www.404media.co/clapping-is-a-first-amendment-right-an-interview-with-the-person-arrested-for-clapping-at-a-data-center-meeting/",
@@ -19,16 +29,6 @@
           "title": "Data Centers Are Easy to Build. Powering Them Is Complicated, Slow, and Expensive",
           "link": "https://www.404media.co/data-centers-power-energy-grid-epa-clean-air-act/",
           "date": "Wed, 29 Jul 2026 14:03:50 GMT"
-        },
-        {
-          "title": "\u2018The Government Hopes To Set a Precedent\u2019: An Interview With the Man Charged for Allegedly Wiping His GrapheneOS Phone",
-          "link": "https://www.404media.co/the-government-hopes-to-set-a-precedent-an-interview-with-the-man-charged-for-allegedly-wiping-his-grapheneos-phone/",
-          "date": "Tue, 28 Jul 2026 17:27:01 GMT"
-        },
-        {
-          "title": "'I Would Never Do This To You:' Protesting Flock, Arizona Man Presents Plan to Surveil Government Officials",
-          "link": "https://www.404media.co/casa-grande-arizona-flock-city-council/",
-          "date": "Tue, 28 Jul 2026 16:07:52 GMT"
         }
       ],
       "error": null
@@ -201,6 +201,16 @@
           "date": "2026-07-28T15:21:09+00:00"
         },
         {
+          "title": "Making a wrestling game",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vauswg/making_a_wrestling_game/",
+          "date": "2026-07-30T14:12:25+00:00"
+        },
+        {
+          "title": "How are you solving the problem where Claude assumes it's done?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vawzss/how_are_you_solving_the_problem_where_claude/",
+          "date": "2026-07-30T15:33:57+00:00"
+        },
+        {
           "title": "How to make such photos please share prompt!??",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vasa18/how_to_make_such_photos_please_share_prompt/",
           "date": "2026-07-30T12:29:36+00:00"
@@ -209,16 +219,6 @@
           "title": "How do you stop GPT 5.6 sol from making pointless subagents and taking FOREVER?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1val2ud/how_do_you_stop_gpt_56_sol_from_making_pointless/",
           "date": "2026-07-30T06:01:57+00:00"
-        },
-        {
-          "title": "Interesting Take",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1va8c5r/interesting_take/",
-          "date": "2026-07-29T20:38:38+00:00"
-        },
-        {
-          "title": "What AI Would You Recommend to Edit Images?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1va0k52/what_ai_would_you_recommend_to_edit_images/",
-          "date": "2026-07-29T16:06:38+00:00"
         }
       ],
       "error": null
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "New MCP specification addresses the main barrier to enterprise adoption",
+          "link": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
+          "date": "Thu, 30 Jul 2026 14:53:07 +0000"
+        },
+        {
           "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
           "link": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
           "date": "Wed, 29 Jul 2026 22:07:06 +0000"
@@ -308,11 +313,6 @@
           "title": "Comcast store punished low sales by smashing pies in workers' faces, lawsuit claims",
           "link": "https://arstechnica.com/tech-policy/2026/07/comcast-store-punished-low-sales-by-smashing-pies-in-workers-faces-lawsuit-claims/",
           "date": "Wed, 29 Jul 2026 19:33:55 +0000"
-        },
-        {
-          "title": "Customize Ars your way with an Ars Pro subscription",
-          "link": "https://arstechnica.com/staff/2026/07/customize-ars-your-way-with-an-ars-pro-subscription/",
-          "date": "Wed, 29 Jul 2026 19:23:27 +0000"
         }
       ],
       "error": null
@@ -360,7 +360,17 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "German chancellor choses pope\u2019s AI encyclical over pacy potboiler as holiday read",
+          "title": "Black people in the US: have you used AI for health-related questions?",
+          "link": "https://www.theguardian.com/us-news/2026/jul/30/black-americans-ai-health-inquiries",
+          "date": "Thu, 30 Jul 2026 15:07:36 GMT"
+        },
+        {
+          "title": "The future of AI hinges on openness and cooperation. China and Britain can gain much by working together | Zheng Zeguang",
+          "link": "https://www.theguardian.com/commentisfree/2026/jul/30/ai-future-china-britain-healthcare-research",
+          "date": "Thu, 30 Jul 2026 14:00:16 GMT"
+        },
+        {
+          "title": "German chancellor chooses pope\u2019s AI encyclical over pacy potboiler as holiday read",
           "link": "https://www.theguardian.com/world/2026/jul/30/german-chancellor-friedrich-merz-chooses-pope-leo-encyclical-for-beach-read",
           "date": "Thu, 30 Jul 2026 12:04:05 GMT"
         },
@@ -373,16 +383,6 @@
           "title": "Lloyds Bank to cut \u00a32bn in costs as part of AI-powered strategy",
           "link": "https://www.theguardian.com/business/2026/jul/30/lloyds-bank-cut-2bn-costs-part-ai-powered-strategy",
           "date": "Thu, 30 Jul 2026 10:22:52 GMT"
-        },
-        {
-          "title": "I\u2019ve spent years researching what it means to be alive. This is what I\u2019ve learned | Melanie Challenger",
-          "link": "https://www.theguardian.com/commentisfree/2026/jul/30/alive-body-life-experience",
-          "date": "Thu, 30 Jul 2026 10:00:11 GMT"
-        },
-        {
-          "title": "Elon Musk\u2019s xAI sues Minnesota over law banning \u2018nudification\u2019 technology",
-          "link": "https://www.theguardian.com/technology/2026/jul/29/xai-sues-minnesota-nudification-technology",
-          "date": "Thu, 30 Jul 2026 00:02:03 GMT"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Cambridge Analytica\u2019s Website Is Now an AI Slop Farm",
+          "link": "https://futurism.com/artificial-intelligence/cambridge-analytica-ai-slop-farm",
+          "date": "Thu, 30 Jul 2026 10:58:12 -0400"
+        },
+        {
           "title": "Meta\u2019s Attempted Crackdown on AI Glasses Perverts Is Already Failing",
           "link": "https://futurism.com/artificial-intelligence/meta-attempted-crackdown-ai-glasses-failing",
           "date": "Thu, 30 Jul 2026 09:50:28 -0400"
@@ -442,11 +447,6 @@
           "title": "Microsoft CEO Warns That Companies Embracing AI Could Drive Themselves Out of Business",
           "link": "https://futurism.com/artificial-intelligence/microsoft-ceo-warns-ai-business",
           "date": "Wed, 29 Jul 2026 10:59:06 -0400"
-        },
-        {
-          "title": "Residents Furious at Plan to Seize and Destroy Their Homes for AI Data Centers",
-          "link": "https://futurism.com/artificial-intelligence/residents-furious-seize-destroy-homes-ai-data-centers-georgia",
-          "date": "Wed, 29 Jul 2026 08:54:18 -0400"
         }
       ],
       "error": null
@@ -456,7 +456,17 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
-          "title": "OpenAI\u2019s Hacking Debacle Was a Human Mistake",
+          "title": "The New Friend AI Pendant Can Now Talk Back to You",
+          "link": "https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/",
+          "date": "Thu, 30 Jul 2026 15:39:33 +0000"
+        },
+        {
+          "title": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
+          "link": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/",
+          "date": "Thu, 30 Jul 2026 15:04:22 +0000"
+        },
+        {
+          "title": "OpenAI\u2019s Hacking Debacle Comes Down to Human Error",
           "link": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/",
           "date": "Thu, 30 Jul 2026 10:30:00 +0000"
         },
@@ -469,16 +479,6 @@
           "title": "AI Scammers Are Better at Building Trust Than Humans",
           "link": "https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/",
           "date": "Thu, 30 Jul 2026 09:30:00 +0000"
-        },
-        {
-          "title": "I Got a Free Meal From a Private Chef\u2014Who Filmed It All to Train Robots",
-          "link": "https://www.wired.com/story/i-let-a-private-chef-film-my-kitchen-for-robot-training-data/",
-          "date": "Thu, 30 Jul 2026 09:00:00 +0000"
-        },
-        {
-          "title": "It\u2019s Frighteningly Easy to Jailbreak Some Frontier AI Models",
-          "link": "https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai/",
-          "date": "Wed, 29 Jul 2026 18:30:00 +0000"
         }
       ],
       "error": null
