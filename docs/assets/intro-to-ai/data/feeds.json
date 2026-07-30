@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T03:54:01.288087+00:00",
+  "generatedAt": "2026-07-30T06:24:38.736587+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -201,6 +201,11 @@
           "date": "2026-07-28T15:21:09+00:00"
         },
         {
+          "title": "How do you stop GPT 5.6 sol from making pointless subagents and taking FOREVER?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1val2ud/how_do_you_stop_gpt_56_sol_from_making_pointless/",
+          "date": "2026-07-30T06:01:57+00:00"
+        },
+        {
           "title": "Interesting Take",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1va8c5r/interesting_take/",
           "date": "2026-07-29T20:38:38+00:00"
@@ -214,11 +219,6 @@
           "title": "Solved a real prompt-engineering problem building AI memory: getting extraction prompts to filter out secrets before anything gets embedded",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v9tpb0/solved_a_real_promptengineering_problem_building/",
           "date": "2026-07-29T11:39:56+00:00"
-        },
-        {
-          "title": "That $200 a month is starting to look pricier than ever...",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v8bd0p/that_200_a_month_is_starting_to_look_pricier_than/",
-          "date": "2026-07-27T19:58:12+00:00"
         }
       ],
       "error": null
