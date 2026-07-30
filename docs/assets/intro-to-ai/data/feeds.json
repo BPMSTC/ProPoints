@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T17:23:02.522737+00:00",
+  "generatedAt": "2026-07-30T19:20:32.029473+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Oracle Brings Google Gemini Models to Enterprise Customers",
+          "link": "https://aibusiness.com/agentic-ai/oracle-brings-google-gemini-models-enterprise-customers",
+          "date": "Thu, 30 Jul 2026 18:44:57 GMT"
+        },
+        {
           "title": "Chinese Startups Dominate Humanoid Robotics Patent Rankings",
           "link": "https://aibusiness.com/robotics/chinese-startups-dominate-humanoid-patent-rankings",
           "date": "Thu, 30 Jul 2026 16:03:07 GMT"
@@ -132,11 +137,6 @@
           "title": "Microsoft Emerges with Cheaper Cyber Model to Rival Mythos, GPT-5.6",
           "link": "https://aibusiness.com/foundation-models/microsoft-cheaper-cyber-model-to-rivals",
           "date": "Tue, 28 Jul 2026 20:00:47 GMT"
-        },
-        {
-          "title": "Samsung Agrees to Chip Deal With Broadcom",
-          "link": "https://aibusiness.com/generative-ai/samsung-agrees-chip-deal-with-broadcom",
-          "date": "Tue, 28 Jul 2026 18:55:49 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -206,6 +206,11 @@
           "date": "2026-07-30T14:12:25+00:00"
         },
         {
+          "title": "Help",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vb2l6j/help/",
+          "date": "2026-07-30T18:52:01+00:00"
+        },
+        {
           "title": "How to make such photos please share prompt!??",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vasa18/how_to_make_such_photos_please_share_prompt/",
           "date": "2026-07-30T12:29:36+00:00"
@@ -214,11 +219,6 @@
           "title": "How are you solving the problem where Claude assumes it's done?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vawzss/how_are_you_solving_the_problem_where_claude/",
           "date": "2026-07-30T15:33:57+00:00"
-        },
-        {
-          "title": "How do you stop GPT 5.6 sol from making pointless subagents and taking FOREVER?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1val2ud/how_do_you_stop_gpt_56_sol_from_making_pointless/",
-          "date": "2026-07-30T06:01:57+00:00"
         }
       ],
       "error": null
@@ -320,33 +320,7 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "\"Humannequins\" - A new study on synthetic choreographies",
-          "link": "https://www.reddit.com/r/artificial/comments/1vapz5h/humannequins_a_new_study_on_synthetic/",
-          "date": "2026-07-30T10:38:28+00:00"
-        },
-        {
-          "title": "Paul Bakaus (jQuery UI creator, a16z-backed) on why AI-built products still aren't good",
-          "link": "https://www.reddit.com/r/artificial/comments/1valark/paul_bakaus_jquery_ui_creator_a16zbacked_on_why/",
-          "date": "2026-07-30T06:13:41+00:00"
-        },
-        {
-          "title": "OpenAI's rogue agent ran ~17,600 actions across Hugging Face's infrastructure over 4 days \u2014 and HF's own post-mortem is wild reading",
-          "link": "https://www.reddit.com/r/artificial/comments/1v9w62d/openais_rogue_agent_ran_17600_actions_across/",
-          "date": "2026-07-29T13:25:55+00:00"
-        },
-        {
-          "title": "The Final Jailbreak: How AI Could Already Be Breaking Itself Free",
-          "link": "https://www.reddit.com/r/artificial/comments/1vazvpc/the_final_jailbreak_how_ai_could_already_be/",
-          "date": "2026-07-30T17:16:42+00:00"
-        },
-        {
-          "title": "Maya-2-Native is leading Voice Arena for real-time Hindi TTS.",
-          "link": "https://www.reddit.com/r/artificial/comments/1vatjwl/maya2native_is_leading_voice_arena_for_realtime/",
-          "date": "2026-07-30T13:23:18+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
@@ -386,6 +360,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "The outlook gets better and better at Rolls-Royce",
+          "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/jul/30/the-outlook-gets-better-and-better-at-rolls-royce",
+          "date": "Thu, 30 Jul 2026 17:47:52 GMT"
+        },
+        {
           "title": "Black people in the US: have you used AI for health-related questions?",
           "link": "https://www.theguardian.com/us-news/2026/jul/30/black-americans-ai-health-inquiries",
           "date": "Thu, 30 Jul 2026 15:07:36 GMT"
@@ -404,11 +383,6 @@
           "title": "Flock surveillance cameras can pose a crash risk for drivers, US experts say",
           "link": "https://www.theguardian.com/us-news/2026/jul/30/controversial-flock-ai-surveillance-camera-risk",
           "date": "Thu, 30 Jul 2026 12:00:14 GMT"
-        },
-        {
-          "title": "Lloyds Bank to cut \u00a32bn in costs as part of AI-powered strategy",
-          "link": "https://www.theguardian.com/business/2026/jul/30/lloyds-bank-cut-2bn-costs-part-ai-powered-strategy",
-          "date": "Thu, 30 Jul 2026 10:22:52 GMT"
         }
       ],
       "error": null
@@ -482,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Nvidia\u2019s Open Source Alliance Snubs OpenAI and Anthropic",
+          "link": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/",
+          "date": "Thu, 30 Jul 2026 17:51:10 +0000"
+        },
+        {
           "title": "Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting",
           "link": "https://www.wired.com/story/chrome-needs-twice-a-week-patching-thanks-to-ai-bug-hunting-for-now/",
           "date": "Thu, 30 Jul 2026 17:00:00 +0000"
@@ -500,11 +479,6 @@
           "title": "OpenAI\u2019s Hacking Debacle Comes Down to Human Error",
           "link": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/",
           "date": "Thu, 30 Jul 2026 10:30:00 +0000"
-        },
-        {
-          "title": "LinkedIn Won\u2019t Be Expanding Its Data Centers in the Next Year",
-          "link": "https://www.wired.com/story/how-linkedin-is-keeping-its-compute-capacity-flat/",
-          "date": "Thu, 30 Jul 2026 10:15:00 +0000"
         }
       ],
       "error": null
