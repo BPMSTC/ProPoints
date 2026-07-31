@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T20:17:06.315156+00:00",
+  "generatedAt": "2026-07-31T22:01:48.850247+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -206,6 +206,11 @@
           "date": "2026-07-31T06:01:44+00:00"
         },
         {
+          "title": "Universal Prompt Language - Browse, Edit, Build and Store dynamic prompts with variables. Build once, run many",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vc2jhp/universal_prompt_language_browse_edit_build_and/",
+          "date": "2026-07-31T20:36:07+00:00"
+        },
+        {
           "title": "Survey for my personal casestudy on Chatgpt Voice usage",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vblex8/survey_for_my_personal_casestudy_on_chatgpt_voice/",
           "date": "2026-07-31T08:53:20+00:00"
@@ -214,11 +219,6 @@
           "title": "If you could only use one free AI to make money, which one would you pick?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vb9f5p/if_you_could_only_use_one_free_ai_to_make_money/",
           "date": "2026-07-30T23:10:19+00:00"
-        },
-        {
-          "title": "ChatGPT images 2.0 guardrails",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vbfvac/chatgpt_images_20_guardrails/",
-          "date": "2026-07-31T03:59:18+00:00"
         }
       ],
       "error": null
@@ -290,6 +290,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Likely illegally, Claude gained access to 3 networks. Will Anthropic be held to account?",
+          "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+          "date": "Fri, 31 Jul 2026 20:39:14 +0000"
+        },
+        {
+          "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
+          "link": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
+          "date": "Fri, 31 Jul 2026 20:21:05 +0000"
+        },
+        {
+          "title": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
+          "link": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
+          "date": "Fri, 31 Jul 2026 19:04:56 +0000"
+        },
+        {
           "title": "High school defends staying silent while boys made AI nudes of 59 classmates",
           "link": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
           "date": "Fri, 31 Jul 2026 18:11:55 +0000"
@@ -298,21 +313,6 @@
           "title": "Researchers devise a full-color night vision goggle",
           "link": "https://arstechnica.com/science/2026/07/see-the-heat-an-infrared-imaging-system-that-outputs-in-color/",
           "date": "Fri, 31 Jul 2026 17:58:38 +0000"
-        },
-        {
-          "title": "China could supply EV manufacturing boom with recycled EVs",
-          "link": "https://arstechnica.com/science/2026/07/china-could-supply-ev-manufacturing-boom-with-recycled-evs/",
-          "date": "Fri, 31 Jul 2026 17:29:21 +0000"
-        },
-        {
-          "title": "Sony acknowledges backlash, \u201ccautiously\u201d moves ahead with end of PlayStation discs",
-          "link": "https://arstechnica.com/gaming/2026/07/sony-acknowledges-backlash-will-cautiously-move-forward-with-end-of-discs/",
-          "date": "Fri, 31 Jul 2026 17:07:42 +0000"
-        },
-        {
-          "title": "Man invested $45M in a Nicolas Cage movie. It got stolen off Netflix\u2019s desk.",
-          "link": "https://arstechnica.com/tech-policy/2026/07/man-invested-45m-in-a-nicolas-cage-movie-it-got-stolen-off-netflixs-desk/",
-          "date": "Fri, 31 Jul 2026 16:17:55 +0000"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Major Publisher Cans $2.4 Million Book Deal After Author Was Accused of Using AI, for a Very Cynical Reason",
+          "link": "https://futurism.com/artificial-intelligence/major-publisher-million-book-deal-author-accused-ai",
+          "date": "Fri, 31 Jul 2026 16:59:39 -0400"
+        },
+        {
           "title": "Iran Appears to Be Blasting Amazon Data Centers Off the Map",
           "link": "https://futurism.com/science-energy/iran-blasting-amazon-data-centers-war-usa",
           "date": "Fri, 31 Jul 2026 15:50:23 -0400"
@@ -442,11 +447,6 @@
           "title": "We Are Alarmed by This PR Firm Using a Small Army of Fake AI-Powered Publicists to Barrage Journalists With Pitches for Its Clients",
           "link": "https://futurism.com/artificial-intelligence/pr-firm-fake-ai-publicists",
           "date": "Fri, 31 Jul 2026 12:12:38 -0400"
-        },
-        {
-          "title": "LinkedIn Adds Button on Every Post to Report \u201cSeems Like AI Slop,\u201d Which Is Definitely Going to Get a Real Workout",
-          "link": "https://futurism.com/artificial-intelligence/linkedin-adds-button-report-seems-like-ai-slop",
-          "date": "Thu, 30 Jul 2026 12:54:34 -0400"
         }
       ],
       "error": null
