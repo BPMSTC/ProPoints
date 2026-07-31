@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T02:31:18.684536+00:00",
+  "generatedAt": "2026-07-31T06:13:32.211113+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -196,14 +196,14 @@
       "url": "https://www.reddit.com/r/aipromptprogramming/.rss",
       "items": [
         {
-          "title": "Bringing this subreddit back to life!",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1v91kfn/bringing_this_subreddit_back_to_life/",
-          "date": "2026-07-28T15:21:09+00:00"
+          "title": "Welcome to r/aipromptprogramming \u2014 join our Discord",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vbegtf/welcome_to_raipromptprogramming_join_our_discord/",
+          "date": "2026-07-31T02:53:32+00:00"
         },
         {
-          "title": "A few thoughts on the AI Prompt Programming sub Reddit. \u2014rUv",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vb81e9/a_few_thoughts_on_the_ai_prompt_programming_sub/",
-          "date": "2026-07-30T22:13:44+00:00"
+          "title": "I'm cooked",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vbib9a/im_cooked/",
+          "date": "2026-07-31T06:01:44+00:00"
         },
         {
           "title": "If you could only use one free AI to make money, which one would you pick?",
@@ -211,14 +211,14 @@
           "date": "2026-07-30T23:10:19+00:00"
         },
         {
-          "title": "\ud83d\ude80 **How Does ChatGPT Actually Work? \ud83e\udd16** Part1",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vbb1g0/how_does_chatgpt_actually_work_part1/",
-          "date": "2026-07-31T00:18:43+00:00"
+          "title": "ChatGPT images 2.0 guardrails",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vbfvac/chatgpt_images_20_guardrails/",
+          "date": "2026-07-31T03:59:18+00:00"
         },
         {
-          "title": "Making a wrestling game",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vauswg/making_a_wrestling_game/",
-          "date": "2026-07-30T14:12:25+00:00"
+          "title": "You can't make this up",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vbejc6/you_cant_make_this_up/",
+          "date": "2026-07-31T02:56:57+00:00"
         }
       ],
       "error": null
@@ -328,6 +328,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Data centres are power hungry \u2013 but they don\u2019t have to be a burden on NZ\u2019s grid",
+          "link": "https://theconversation.com/data-centres-are-power-hungry-but-they-dont-have-to-be-a-burden-on-nzs-grid-287954",
+          "date": "2026-07-31T02:31:26Z"
+        },
+        {
           "title": "Forbidden Planet hit cinemas in 1956. Its warnings about AI should terrify us",
           "link": "https://theconversation.com/forbidden-planet-hit-cinemas-in-1956-its-warnings-about-ai-should-terrify-us-288391",
           "date": "2026-07-31T01:44:35Z"
@@ -346,11 +351,6 @@
           "title": "What video review controversies in sports reveal about AI and human decision-making",
           "link": "https://theconversation.com/what-video-review-controversies-in-sports-reveal-about-ai-and-human-decision-making-287943",
           "date": "2026-07-30T12:12:04Z"
-        },
-        {
-          "title": "A government fund of AI stocks to benefit all Americans is a good idea, but hard to pull off",
-          "link": "https://theconversation.com/a-government-fund-of-ai-stocks-to-benefit-all-americans-is-a-good-idea-but-hard-to-pull-off-287558",
-          "date": "2026-07-30T12:08:30Z"
         }
       ],
       "error": null
