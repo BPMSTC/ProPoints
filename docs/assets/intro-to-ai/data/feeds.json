@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T16:47:09.373111+00:00",
+  "generatedAt": "2026-07-31T18:16:56.190156+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -70,6 +70,16 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "The definitive guide to financial services agents in production",
+          "link": "https://www.aiacceleratorinstitute.com/the-definitive-guide-to-financial-services-agents-in-production/",
+          "date": "Fri, 31 Jul 2026 17:43:12 GMT"
+        },
+        {
+          "title": "Accelerating AI growth",
+          "link": "https://www.aiacceleratorinstitute.com/accelerating-ai-growth/",
+          "date": "Fri, 31 Jul 2026 17:03:25 GMT"
+        },
+        {
           "title": "Trust: The next critical infrastructure layer for autonomous AI",
           "link": "https://www.aiacceleratorinstitute.com/trust-the-next-critical-infrastructure-layer-for-autonomous-ai/",
           "date": "Fri, 31 Jul 2026 15:29:56 GMT"
@@ -83,16 +93,6 @@
           "title": "The agentic operating model report",
           "link": "https://www.aiacceleratorinstitute.com/the-agentic-operating-model-report/",
           "date": "Wed, 29 Jul 2026 14:15:06 GMT"
-        },
-        {
-          "title": "5 best strategies for scaling  AI in enterprises",
-          "link": "https://www.aiacceleratorinstitute.com/the-causality-test-that-humbled-six-ai-agents-2/",
-          "date": "Tue, 28 Jul 2026 15:24:39 GMT"
-        },
-        {
-          "title": "The causality test that  humbled six AI agents",
-          "link": "https://www.aiacceleratorinstitute.com/the-causality-test-that-humbled-six-ai-agents/",
-          "date": "Thu, 23 Jul 2026 14:35:15 GMT"
         }
       ],
       "error": null
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -194,33 +194,7 @@
     {
       "name": "Ai Prompt Programming",
       "url": "https://www.reddit.com/r/aipromptprogramming/.rss",
-      "items": [
-        {
-          "title": "Welcome to r/aipromptprogramming \u2014 join our Discord",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vbegtf/welcome_to_raipromptprogramming_join_our_discord/",
-          "date": "2026-07-31T02:53:32+00:00"
-        },
-        {
-          "title": "I'm cooked",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vbib9a/im_cooked/",
-          "date": "2026-07-31T06:01:44+00:00"
-        },
-        {
-          "title": "Survey for my personal casestudy on Chatgpt Voice usage",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vblex8/survey_for_my_personal_casestudy_on_chatgpt_voice/",
-          "date": "2026-07-31T08:53:20+00:00"
-        },
-        {
-          "title": "If you could only use one free AI to make money, which one would you pick?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vb9f5p/if_you_could_only_use_one_free_ai_to_make_money/",
-          "date": "2026-07-30T23:10:19+00:00"
-        },
-        {
-          "title": "ChatGPT images 2.0 guardrails",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vbfvac/chatgpt_images_20_guardrails/",
-          "date": "2026-07-31T03:59:18+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
@@ -424,6 +398,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Mark Zuckerberg\u2019s Pivot to AI Is Blowing Up in His Face Spectacularly",
+          "link": "https://futurism.com/artificial-intelligence/mark-zuckerberg-pivot-ai-blowing-up-face",
+          "date": "Fri, 31 Jul 2026 12:50:24 -0400"
+        },
+        {
           "title": "We Are Alarmed by This PR Firm Using a Small Army of Fake AI-Powered Publicists to Barrage Journalists With Pitches for Its Clients",
           "link": "https://futurism.com/artificial-intelligence/pr-firm-fake-ai-publicists",
           "date": "Fri, 31 Jul 2026 12:12:38 -0400"
@@ -442,11 +421,6 @@
           "title": "Meta\u2019s Attempted Crackdown on AI Glasses Perverts Is Already Failing",
           "link": "https://futurism.com/artificial-intelligence/meta-attempted-crackdown-ai-glasses-failing",
           "date": "Thu, 30 Jul 2026 09:50:28 -0400"
-        },
-        {
-          "title": "Hack \u201cWriters\u201d Fuming After ChatGPT Starts Refusing Prompts to Copy a Specific Author\u2019s Style",
-          "link": "https://futurism.com/artificial-intelligence/hack-writers-fuming-chatgpt-refuse-mimic-author",
-          "date": "Wed, 29 Jul 2026 15:47:54 -0400"
         }
       ],
       "error": null
