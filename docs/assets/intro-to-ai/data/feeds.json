@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T06:13:32.211113+00:00",
+  "generatedAt": "2026-07-31T09:41:00.936911+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -206,6 +206,11 @@
           "date": "2026-07-31T06:01:44+00:00"
         },
         {
+          "title": "Survey for my personal casestudy on Chatgpt Voice usage",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vblex8/survey_for_my_personal_casestudy_on_chatgpt_voice/",
+          "date": "2026-07-31T08:53:20+00:00"
+        },
+        {
           "title": "If you could only use one free AI to make money, which one would you pick?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vb9f5p/if_you_could_only_use_one_free_ai_to_make_money/",
           "date": "2026-07-30T23:10:19+00:00"
@@ -214,11 +219,6 @@
           "title": "ChatGPT images 2.0 guardrails",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vbfvac/chatgpt_images_20_guardrails/",
           "date": "2026-07-31T03:59:18+00:00"
-        },
-        {
-          "title": "You can't make this up",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vbejc6/you_cant_make_this_up/",
-          "date": "2026-07-31T02:56:57+00:00"
         }
       ],
       "error": null
@@ -360,6 +360,16 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "UK petrol prices expected to rise to highest this year as US attacks Iran \u2013 business live",
+          "link": "https://www.theguardian.com/business/live/2026/jul/31/bp-sell-north-sea-ai-record-korea-kospi-stock-market-latest-news-updates",
+          "date": "Fri, 31 Jul 2026 09:22:09 GMT"
+        },
+        {
+          "title": "Isn\u2019t AI terrible enough already? Now they want to eat the world\u2019s books?! | First Dog on the Moon",
+          "link": "https://www.theguardian.com/commentisfree/picture/2026/jul/31/isnt-ai-terrible-enough-already-now-they-want-to-eat-the-worlds-books",
+          "date": "Fri, 31 Jul 2026 06:35:21 GMT"
+        },
+        {
           "title": "Could AI take your job? Some workers in China already know the answer",
           "link": "https://www.theguardian.com/world/2026/jul/31/china-ai-jobs-workers-labour-market-technology",
           "date": "Fri, 31 Jul 2026 02:22:05 GMT"
@@ -373,16 +383,6 @@
           "title": "The outlook gets better and better at Rolls-Royce",
           "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/jul/30/the-outlook-gets-better-and-better-at-rolls-royce",
           "date": "Thu, 30 Jul 2026 17:47:52 GMT"
-        },
-        {
-          "title": "Black people in the US: have you used AI for health-related questions?",
-          "link": "https://www.theguardian.com/us-news/2026/jul/30/black-americans-ai-health-inquiries",
-          "date": "Thu, 30 Jul 2026 15:07:36 GMT"
-        },
-        {
-          "title": "The future of AI hinges on openness and cooperation. China and Britain can gain much by working together | Zheng Zeguang",
-          "link": "https://www.theguardian.com/commentisfree/2026/jul/30/ai-future-china-britain-healthcare-research",
-          "date": "Thu, 30 Jul 2026 14:00:16 GMT"
         }
       ],
       "error": null
