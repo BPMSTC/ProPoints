@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T16:02:09.600529+00:00",
+  "generatedAt": "2026-08-01T17:57:17.105071+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -201,6 +201,11 @@
           "date": "2026-07-31T02:53:32+00:00"
         },
         {
+          "title": "Looking for a study buddy",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vcrb9z/looking_for_a_study_buddy/",
+          "date": "2026-08-01T16:08:34+00:00"
+        },
+        {
           "title": "Coding ethics/TOS question.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vcqxhb/coding_ethicstos_question/",
           "date": "2026-08-01T15:53:40+00:00"
@@ -214,11 +219,6 @@
           "title": "I'm cooked",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vbib9a/im_cooked/",
           "date": "2026-07-31T06:01:44+00:00"
-        },
-        {
-          "title": "Universal Prompt Language - Browse, Edit, Build and Store dynamic prompts with variables. Build once, run many",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vc2jhp/universal_prompt_language_browse_edit_build_and/",
-          "date": "2026-07-31T20:36:07+00:00"
         }
       ],
       "error": null
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Review: Yes, we're still arguing about Nolan's The Odyssey",
+          "link": "https://arstechnica.com/culture/2026/08/review-yes-were-still-arguing-about-nolans-the-odyssey/",
+          "date": "Sat, 01 Aug 2026 15:19:04 +0000"
+        },
+        {
           "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
           "link": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
           "date": "Sat, 01 Aug 2026 12:30:36 +0000"
@@ -308,11 +313,6 @@
           "title": "How fruit flies chase invisible ribbons of smell to get to their source",
           "link": "https://arstechnica.com/science/2026/08/how-fruit-flies-chase-invisible-ribbons-of-smell-to-get-to-their-source/",
           "date": "Sat, 01 Aug 2026 10:00:19 +0000"
-        },
-        {
-          "title": "Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA",
-          "link": "https://arstechnica.com/science/2026/07/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna/",
-          "date": "Fri, 31 Jul 2026 22:17:05 +0000"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "We Are Mildly Horrified by This AI Startup That Coerced People Into Getting Tattoos of Its Logo in Exchange for a Job Interview",
+          "link": "https://futurism.com/future-society/ai-startup-coerced-tattoos-logo-job-interview",
+          "date": "Sat, 01 Aug 2026 13:02:00 -0400"
+        },
+        {
           "title": "The More People Learn About AI, the More They Want It Out of Their Lives",
           "link": "https://futurism.com/artificial-intelligence/ai-learn-negative-sentiment-polling-american-attitudes",
           "date": "Sat, 01 Aug 2026 11:02:00 -0400"
@@ -442,11 +447,6 @@
           "title": "Employees Long for the Days Before the Workplace Filled Up With AI Slop",
           "link": "https://futurism.com/artificial-intelligence/employees-long-days-before-ai-slop",
           "date": "Sat, 01 Aug 2026 06:01:00 -0400"
-        },
-        {
-          "title": "Major Publisher Cans $2.4 Million Book Deal After Author Was Accused of Using AI, for a Very Cynical Reason",
-          "link": "https://futurism.com/artificial-intelligence/major-publisher-million-book-deal-author-accused-ai",
-          "date": "Fri, 31 Jul 2026 16:59:39 -0400"
         }
       ],
       "error": null
