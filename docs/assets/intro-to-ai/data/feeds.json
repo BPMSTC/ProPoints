@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T03:34:49.545074+00:00",
+  "generatedAt": "2026-08-01T06:25:36.901703+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -201,14 +201,14 @@
           "date": "2026-07-31T02:53:32+00:00"
         },
         {
-          "title": "I'm cooked",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vbib9a/im_cooked/",
-          "date": "2026-07-31T06:01:44+00:00"
-        },
-        {
           "title": "[Mod Post] Community Game Dev Event Tomorrow",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vc7xl8/mod_post_community_game_dev_event_tomorrow/",
           "date": "2026-08-01T00:14:04+00:00"
+        },
+        {
+          "title": "I'm cooked",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vbib9a/im_cooked/",
+          "date": "2026-07-31T06:01:44+00:00"
         },
         {
           "title": "Universal Prompt Language - Browse, Edit, Build and Store dynamic prompts with variables. Build once, run many",
