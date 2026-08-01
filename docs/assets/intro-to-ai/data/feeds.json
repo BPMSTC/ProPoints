@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T13:12:25.328315+00:00",
+  "generatedAt": "2026-08-01T14:59:29.359915+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -68,34 +68,8 @@
     {
       "name": "AI Accelerator Institute | Future of Artificial Intelligence",
       "url": "https://aiacceleratorinstitute.com/rss/",
-      "items": [
-        {
-          "title": "The definitive guide to financial services agents in production",
-          "link": "https://www.aiacceleratorinstitute.com/the-definitive-guide-to-financial-services-agents-in-production/",
-          "date": "Fri, 31 Jul 2026 17:43:12 GMT"
-        },
-        {
-          "title": "Accelerating AI growth",
-          "link": "https://www.aiacceleratorinstitute.com/accelerating-ai-growth/",
-          "date": "Fri, 31 Jul 2026 17:03:25 GMT"
-        },
-        {
-          "title": "Trust: The next critical infrastructure layer for autonomous AI",
-          "link": "https://www.aiacceleratorinstitute.com/trust-the-next-critical-infrastructure-layer-for-autonomous-ai/",
-          "date": "Fri, 31 Jul 2026 15:29:56 GMT"
-        },
-        {
-          "title": "7 things every AI engineer  should have shipped by now",
-          "link": "https://www.aiacceleratorinstitute.com/7-things-every-ai-engineer-should-have-shipped-by-now/",
-          "date": "Fri, 31 Jul 2026 13:27:01 GMT"
-        },
-        {
-          "title": "The agentic operating model report",
-          "link": "https://www.aiacceleratorinstitute.com/the-agentic-operating-model-report/",
-          "date": "Wed, 29 Jul 2026 14:15:06 GMT"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI \u2013 AI-TechPark",
@@ -151,7 +125,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +264,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
+          "link": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+          "date": "Sat, 01 Aug 2026 12:30:36 +0000"
+        },
+        {
           "title": "After noise complaints, judge orders Waymo to stop overnight charging in Santa Monica",
           "link": "https://arstechnica.com/tech-policy/2026/08/after-noise-complaints-judge-orders-waymo-to-stop-overnight-charging-in-santa-monica/",
           "date": "Sat, 01 Aug 2026 11:30:54 +0000"
@@ -308,11 +287,6 @@
           "title": "Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA",
           "link": "https://arstechnica.com/science/2026/07/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna/",
           "date": "Fri, 31 Jul 2026 22:17:05 +0000"
-        },
-        {
-          "title": "Doctors took a look at man's painful shoulder\u2014they found the joint was missing",
-          "link": "https://arstechnica.com/health/2026/07/doctors-took-a-look-at-mans-painful-shoulder-they-found-the-joint-was-missing/",
-          "date": "Fri, 31 Jul 2026 21:51:52 +0000"
         }
       ],
       "error": null
