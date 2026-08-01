@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T23:58:59.286731+00:00",
+  "generatedAt": "2026-08-01T03:34:49.545074+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -206,6 +206,11 @@
           "date": "2026-07-31T06:01:44+00:00"
         },
         {
+          "title": "[Mod Post] Community Game Dev Event Tomorrow",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vc7xl8/mod_post_community_game_dev_event_tomorrow/",
+          "date": "2026-08-01T00:14:04+00:00"
+        },
+        {
           "title": "Universal Prompt Language - Browse, Edit, Build and Store dynamic prompts with variables. Build once, run many",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vc2jhp/universal_prompt_language_browse_edit_build_and/",
           "date": "2026-07-31T20:36:07+00:00"
@@ -214,11 +219,6 @@
           "title": "Survey for my personal casestudy on Chatgpt Voice usage",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vblex8/survey_for_my_personal_casestudy_on_chatgpt_voice/",
           "date": "2026-07-31T08:53:20+00:00"
-        },
-        {
-          "title": "If you could only use one free AI to make money, which one would you pick?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vb9f5p/if_you_could_only_use_one_free_ai_to_make_money/",
-          "date": "2026-07-30T23:10:19+00:00"
         }
       ],
       "error": null
