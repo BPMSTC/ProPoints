@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T11:13:59.081187+00:00",
+  "generatedAt": "2026-08-01T13:12:25.328315+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "After noise complaints, judge orders Waymo to stop overnight charging in Santa Monica",
+          "link": "https://arstechnica.com/tech-policy/2026/08/after-noise-complaints-judge-orders-waymo-to-stop-overnight-charging-in-santa-monica/",
+          "date": "Sat, 01 Aug 2026 11:30:54 +0000"
+        },
+        {
           "title": "Defcon's new badge is a security key you can see inside",
           "link": "https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/",
           "date": "Sat, 01 Aug 2026 10:05:21 +0000"
@@ -308,11 +313,6 @@
           "title": "Doctors took a look at man's painful shoulder\u2014they found the joint was missing",
           "link": "https://arstechnica.com/health/2026/07/doctors-took-a-look-at-mans-painful-shoulder-they-found-the-joint-was-missing/",
           "date": "Fri, 31 Jul 2026 21:51:52 +0000"
-        },
-        {
-          "title": "Google plans to exempt sanctioned nations from Android developer verification",
-          "link": "https://arstechnica.com/gadgets/2026/07/google-plans-to-exempt-sanctioned-nations-from-android-developer-verification/",
-          "date": "Fri, 31 Jul 2026 21:35:56 +0000"
         }
       ],
       "error": null
@@ -360,9 +360,9 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "AI labels to be compulsory on authentic-looking content under EU rules",
-          "link": "https://www.theguardian.com/technology/2026/jul/31/ai-labels-to-be-compulsory-on-authentic-looking-content-under-eu-rules",
-          "date": "Fri, 31 Jul 2026 11:21:20 GMT"
+          "title": "China\u2019s tech advances are causing chaos from Silicon Valley to the White House",
+          "link": "https://www.theguardian.com/technology/2026/aug/01/china-silicon-valley-white-house",
+          "date": "Sat, 01 Aug 2026 12:00:53 GMT"
         },
         {
           "title": "If you think kids will respect a robot teacher, you have never met a kid | Dave Schilling",
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "FTC Concerned About Meta Surveillance of Users of Erectile Dysfunction Apps",
+          "link": "https://futurism.com/artificial-intelligence/hims-hers-mark-zuckerberg-meta-ftc-lawsuit-privacy",
+          "date": "Sat, 01 Aug 2026 08:01:00 -0400"
+        },
+        {
           "title": "A Prominent AI Investor Is Now Crumbling, in What Could Be a Sign of Things to Come",
           "link": "https://futurism.com/artificial-intelligence/situational-awareness-ai-investor-crumbling",
           "date": "Sat, 01 Aug 2026 07:02:00 -0400"
@@ -442,11 +447,6 @@
           "title": "Iran Appears to Be Blasting Amazon Data Centers Off the Map",
           "link": "https://futurism.com/science-energy/iran-blasting-amazon-data-centers-war-usa",
           "date": "Fri, 31 Jul 2026 15:50:23 -0400"
-        },
-        {
-          "title": "Google Pulls Down Feature for AI-Generating Fake Satellite Images on Google Earth After It\u2019s Immediately Used to Fake Terror Attacks",
-          "link": "https://futurism.com/artificial-intelligence/google-pulls-down-google-earth-ai-feature",
-          "date": "Fri, 31 Jul 2026 14:30:19 -0400"
         }
       ],
       "error": null
