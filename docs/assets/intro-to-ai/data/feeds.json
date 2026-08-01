@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-08-01T09:03:04.418770+00:00",
+  "generatedAt": "2026-08-01T11:13:59.081187+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "We Need to Quarantine Aliens on the Moon, Scientists Propose",
+          "link": "https://www.404media.co/we-need-to-quarantine-aliens-on-the-moon-scientists-propose/",
+          "date": "Sat, 01 Aug 2026 10:00:47 GMT"
+        },
         {
           "title": "Behind the Blog: Silent Retreat",
           "link": "https://www.404media.co/behind-the-blog-silent-retreat/",
@@ -24,11 +29,6 @@
           "title": "Company Offering Printed Books to Train AI Stops After 404 Media Coverage",
           "link": "https://www.404media.co/ai-company-training-scanning-books-database-isbndb/",
           "date": "Fri, 31 Jul 2026 14:04:26 GMT"
-        },
-        {
-          "title": "A Hidden 'Dark Dimension' Could Rewrite Our Understanding of the Universe",
-          "link": "https://www.404media.co/dark-dimension-hypothesis-study/",
-          "date": "Fri, 31 Jul 2026 12:47:39 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Defcon's new badge is a security key you can see inside",
+          "link": "https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/",
+          "date": "Sat, 01 Aug 2026 10:05:21 +0000"
+        },
+        {
+          "title": "How fruit flies chase invisible ribbons of smell to get to their source",
+          "link": "https://arstechnica.com/science/2026/08/how-fruit-flies-chase-invisible-ribbons-of-smell-to-get-to-their-source/",
+          "date": "Sat, 01 Aug 2026 10:00:19 +0000"
+        },
+        {
           "title": "Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA",
           "link": "https://arstechnica.com/science/2026/07/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna/",
           "date": "Fri, 31 Jul 2026 22:17:05 +0000"
@@ -303,16 +313,6 @@
           "title": "Google plans to exempt sanctioned nations from Android developer verification",
           "link": "https://arstechnica.com/gadgets/2026/07/google-plans-to-exempt-sanctioned-nations-from-android-developer-verification/",
           "date": "Fri, 31 Jul 2026 21:35:56 +0000"
-        },
-        {
-          "title": "Reddit keeps its strange DMCA fight over Google search results alive",
-          "link": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/",
-          "date": "Fri, 31 Jul 2026 21:19:39 +0000"
-        },
-        {
-          "title": "Claude published malicious code to the Internet and attacked 3 real companies",
-          "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
-          "date": "Fri, 31 Jul 2026 20:39:14 +0000"
         }
       ],
       "error": null
@@ -320,33 +320,7 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "Reddit Stock Collapses 23% as AI Eats Away at User Growth",
-          "link": "https://www.reddit.com/r/artificial/comments/1vcccnn/reddit_stock_collapses_23_as_ai_eats_away_at_user/",
-          "date": "2026-08-01T03:42:08+00:00"
-        },
-        {
-          "title": "Judge denies request by Elon Musk's xAI to pause Minnesota nudification ban",
-          "link": "https://www.reddit.com/r/artificial/comments/1vcglab/judge_denies_request_by_elon_musks_xai_to_pause/",
-          "date": "2026-08-01T07:23:56+00:00"
-        },
-        {
-          "title": "Ten advances in mathematics and theoretical computer science",
-          "link": "https://www.reddit.com/r/artificial/comments/1vcgytq/ten_advances_in_mathematics_and_theoretical/",
-          "date": "2026-08-01T07:45:36+00:00"
-        },
-        {
-          "title": "Someone let GPT-5.6 run a real company for 34 days. It lied, spammed, and lost $447.",
-          "link": "https://www.reddit.com/r/artificial/comments/1vbw5f4/someone_let_gpt56_run_a_real_company_for_34_days/",
-          "date": "2026-07-31T16:40:25+00:00"
-        },
-        {
-          "title": "Marketing teams have more data than ever but still wait days for real insights, anyone using AI differently?",
-          "link": "https://www.reddit.com/r/artificial/comments/1vcgvp3/marketing_teams_have_more_data_than_ever_but/",
-          "date": "2026-08-01T07:40:41+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
@@ -391,6 +365,11 @@
           "date": "Fri, 31 Jul 2026 11:21:20 GMT"
         },
         {
+          "title": "If you think kids will respect a robot teacher, you have never met a kid | Dave Schilling",
+          "link": "https://www.theguardian.com/commentisfree/2026/aug/01/new-york-salamanca-school-robot-teacher-plan",
+          "date": "Sat, 01 Aug 2026 11:00:52 GMT"
+        },
+        {
           "title": "$2m crime novel deal collapses amid questions over AI use",
           "link": "https://www.theguardian.com/books/2026/jul/31/crime-novel-deal-collapses-questions-ai-jerry-falade-call-me-ill-hide-the-body",
           "date": "Fri, 31 Jul 2026 16:45:04 GMT"
@@ -404,11 +383,6 @@
           "title": "FTSE 100 on track for best month since first US attacks on Iran five months ago \u2013 as it happened",
           "link": "https://www.theguardian.com/business/live/2026/jul/31/bp-sell-north-sea-ai-record-korea-kospi-stock-market-latest-news-updates",
           "date": "Fri, 31 Jul 2026 14:10:52 GMT"
-        },
-        {
-          "title": "McCarthyism has returned to the United States \u2013 and this time it\u2019s even more dangerous | Judith Levine",
-          "link": "https://www.theguardian.com/commentisfree/2026/jul/31/mccarthyism-trump-surveillance-red-scare",
-          "date": "Fri, 31 Jul 2026 10:00:10 GMT"
         }
       ],
       "error": null
@@ -450,6 +424,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "A Prominent AI Investor Is Now Crumbling, in What Could Be a Sign of Things to Come",
+          "link": "https://futurism.com/artificial-intelligence/situational-awareness-ai-investor-crumbling",
+          "date": "Sat, 01 Aug 2026 07:02:00 -0400"
+        },
+        {
+          "title": "Employees Long for the Days Before the Workplace Filled Up With AI Slop",
+          "link": "https://futurism.com/artificial-intelligence/employees-long-days-before-ai-slop",
+          "date": "Sat, 01 Aug 2026 06:01:00 -0400"
+        },
+        {
           "title": "Major Publisher Cans $2.4 Million Book Deal After Author Was Accused of Using AI, for a Very Cynical Reason",
           "link": "https://futurism.com/artificial-intelligence/major-publisher-million-book-deal-author-accused-ai",
           "date": "Fri, 31 Jul 2026 16:59:39 -0400"
@@ -463,16 +447,6 @@
           "title": "Google Pulls Down Feature for AI-Generating Fake Satellite Images on Google Earth After It\u2019s Immediately Used to Fake Terror Attacks",
           "link": "https://futurism.com/artificial-intelligence/google-pulls-down-google-earth-ai-feature",
           "date": "Fri, 31 Jul 2026 14:30:19 -0400"
-        },
-        {
-          "title": "Mark Zuckerberg\u2019s Pivot to AI Is Blowing Up in His Face Spectacularly",
-          "link": "https://futurism.com/artificial-intelligence/mark-zuckerberg-pivot-ai-blowing-up-face",
-          "date": "Fri, 31 Jul 2026 12:50:24 -0400"
-        },
-        {
-          "title": "We Are Alarmed by This PR Firm Using a Small Army of Fake AI-Powered Publicists to Barrage Journalists With Pitches for Its Clients",
-          "link": "https://futurism.com/artificial-intelligence/pr-firm-fake-ai-publicists",
-          "date": "Fri, 31 Jul 2026 12:12:38 -0400"
         }
       ],
       "error": null
@@ -481,6 +455,16 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "7 States\u2019 Water Systems Hit by Cyberattacks Likely Tied to Iran",
+          "link": "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/",
+          "date": "Sat, 01 Aug 2026 10:30:00 +0000"
+        },
+        {
+          "title": "Nobody Knows if OpenAI\u2019s and Anthropic\u2019s AI Hacking Sprees Are Illegal",
+          "link": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
+          "date": "Sat, 01 Aug 2026 09:30:00 +0000"
+        },
         {
           "title": "Chinese AI Researchers Are Finding Their Voice on X",
           "link": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
@@ -495,16 +479,6 @@
           "title": "This AI Assistant Wants to Make Up for Your Boyfriend\u2019s Incompetence",
           "link": "https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence/",
           "date": "Fri, 31 Jul 2026 14:47:26 +0000"
-        },
-        {
-          "title": "Anthropic Says Claude Hacked Into 3 Organizations During Cybersecurity Tests",
-          "link": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
-          "date": "Fri, 31 Jul 2026 01:24:26 +0000"
-        },
-        {
-          "title": "Everyone Is Freaking Out About OpenAI and Anthropic\u2019s Race for Dominance",
-          "link": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/",
-          "date": "Thu, 30 Jul 2026 20:12:57 +0000"
         }
       ],
       "error": null
