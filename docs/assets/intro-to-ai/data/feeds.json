@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T06:25:36.901703+00:00",
+  "generatedAt": "2026-08-01T09:03:04.418770+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -320,7 +320,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "Reddit Stock Collapses 23% as AI Eats Away at User Growth",
+          "link": "https://www.reddit.com/r/artificial/comments/1vcccnn/reddit_stock_collapses_23_as_ai_eats_away_at_user/",
+          "date": "2026-08-01T03:42:08+00:00"
+        },
+        {
+          "title": "Judge denies request by Elon Musk's xAI to pause Minnesota nudification ban",
+          "link": "https://www.reddit.com/r/artificial/comments/1vcglab/judge_denies_request_by_elon_musks_xai_to_pause/",
+          "date": "2026-08-01T07:23:56+00:00"
+        },
+        {
+          "title": "Ten advances in mathematics and theoretical computer science",
+          "link": "https://www.reddit.com/r/artificial/comments/1vcgytq/ten_advances_in_mathematics_and_theoretical/",
+          "date": "2026-08-01T07:45:36+00:00"
+        },
+        {
+          "title": "Someone let GPT-5.6 run a real company for 34 days. It lied, spammed, and lost $447.",
+          "link": "https://www.reddit.com/r/artificial/comments/1vbw5f4/someone_let_gpt56_run_a_real_company_for_34_days/",
+          "date": "2026-07-31T16:40:25+00:00"
+        },
+        {
+          "title": "Marketing teams have more data than ever but still wait days for real insights, anyone using AI differently?",
+          "link": "https://www.reddit.com/r/artificial/comments/1vcgvp3/marketing_teams_have_more_data_than_ever_but/",
+          "date": "2026-08-01T07:40:41+00:00"
+        }
+      ],
       "error": null
     },
     {
