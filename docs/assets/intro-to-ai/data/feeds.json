@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T02:28:54.278055+00:00",
+  "generatedAt": "2026-08-02T05:53:45.772772+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -201,24 +201,24 @@
           "date": "2026-07-31T02:53:32+00:00"
         },
         {
+          "title": "GitHub Issues, c. 2024. Colorized.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vd6ccl/github_issues_c_2024_colorized/",
+          "date": "2026-08-02T02:52:28+00:00"
+        },
+        {
           "title": "What do you mean slowly?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vculnj/what_do_you_mean_slowly/",
           "date": "2026-08-01T18:20:31+00:00"
         },
         {
+          "title": "Problems vibe coding an internal company tool",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vd8vxr/problems_vibe_coding_an_internal_company_tool/",
+          "date": "2026-08-02T05:01:57+00:00"
+        },
+        {
           "title": "Share your setup. What are you rocking? Claude Code? Codex? Hermes? Open Claw?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vcu720/share_your_setup_what_are_you_rocking_claude_code/",
           "date": "2026-08-01T18:04:41+00:00"
-        },
-        {
-          "title": "Looking for a study buddy",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vcrb9z/looking_for_a_study_buddy/",
-          "date": "2026-08-01T16:08:34+00:00"
-        },
-        {
-          "title": "Coding ethics/TOS question.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vcqxhb/coding_ethicstos_question/",
-          "date": "2026-08-01T15:53:40+00:00"
         }
       ],
       "error": null
