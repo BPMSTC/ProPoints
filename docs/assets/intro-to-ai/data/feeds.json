@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T16:06:30.772833+00:00",
+  "generatedAt": "2026-08-02T17:59:01.234395+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -206,14 +206,14 @@
           "date": "2026-08-02T12:59:13+00:00"
         },
         {
-          "title": "GitHub Issues, c. 2024. Colorized.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vd6ccl/github_issues_c_2024_colorized/",
-          "date": "2026-08-02T02:52:28+00:00"
-        },
-        {
           "title": "2026 developer explaining vibe coding to a developer from 2019",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vdf89u/2026_developer_explaining_vibe_coding_to_a/",
           "date": "2026-08-02T11:05:11+00:00"
+        },
+        {
+          "title": "GitHub Issues, c. 2024. Colorized.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vd6ccl/github_issues_c_2024_colorized/",
+          "date": "2026-08-02T02:52:28+00:00"
         },
         {
           "title": "Choosing the Right Prompt Management Tool: Langfuse vs Nearform",
