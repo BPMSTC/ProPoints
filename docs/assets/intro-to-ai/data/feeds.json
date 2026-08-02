@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T13:44:17.764687+00:00",
+  "generatedAt": "2026-08-02T14:59:15.712935+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -206,19 +206,19 @@
           "date": "2026-08-02T02:52:28+00:00"
         },
         {
+          "title": "Leaked scenes from my conversation with a 3B parameter model.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vdhh0h/leaked_scenes_from_my_conversation_with_a_3b/",
+          "date": "2026-08-02T12:59:13+00:00"
+        },
+        {
           "title": "2026 developer explaining vibe coding to a developer from 2019",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vdf89u/2026_developer_explaining_vibe_coding_to_a/",
           "date": "2026-08-02T11:05:11+00:00"
         },
         {
-          "title": "What do you mean slowly?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vculnj/what_do_you_mean_slowly/",
-          "date": "2026-08-01T18:20:31+00:00"
-        },
-        {
-          "title": "Leaked scenes from my conversation with a 3B parameter model.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vdhh0h/leaked_scenes_from_my_conversation_with_a_3b/",
-          "date": "2026-08-02T12:59:13+00:00"
+          "title": "Choosing the Right Prompt Management Tool: Langfuse vs Nearform",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vdj35r/choosing_the_right_prompt_management_tool/",
+          "date": "2026-08-02T14:10:44+00:00"
         }
       ],
       "error": null
