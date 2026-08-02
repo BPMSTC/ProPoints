@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T20:51:11.103209+00:00",
+  "generatedAt": "2026-08-02T21:52:27.749547+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -365,6 +365,11 @@
           "date": "Sun, 02 Aug 2026 09:00:17 GMT"
         },
         {
+          "title": "Australia news live: Chalmers asks regulator to watch service stations \u2018like a hawk\u2019 as fuel excise cut ends",
+          "link": "https://www.theguardian.com/australia-news/live/2026/aug/03/australia-news-live-fuel-excise-cut-jim-chalmers-cost-of-living-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
+          "date": "Sun, 02 Aug 2026 21:50:37 GMT"
+        },
+        {
           "title": "\u2018More than just objects\u2019: Australian booksellers raise alarm over \u2018horrific\u2019 destruction of rare titles to feed AI",
           "link": "https://www.theguardian.com/technology/2026/aug/02/australian-book-sellers-alarm-destruction-rare-titles-ai-supply-chain",
           "date": "Sat, 01 Aug 2026 20:00:02 GMT"
@@ -378,11 +383,6 @@
           "title": "If you think kids will respect a robot teacher, you have never met a kid | Dave Schilling",
           "link": "https://www.theguardian.com/commentisfree/2026/aug/01/new-york-salamanca-school-robot-teacher-plan",
           "date": "Sat, 01 Aug 2026 11:00:52 GMT"
-        },
-        {
-          "title": "$2m crime novel deal collapses amid questions over AI use",
-          "link": "https://www.theguardian.com/books/2026/jul/31/crime-novel-deal-collapses-questions-ai-jerry-falade-call-me-ill-hide-the-body",
-          "date": "Fri, 31 Jul 2026 16:45:04 GMT"
         }
       ],
       "error": null
