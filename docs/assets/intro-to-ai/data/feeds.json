@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T14:59:15.712935+00:00",
+  "generatedAt": "2026-08-02T16:06:30.772833+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -201,14 +201,14 @@
           "date": "2026-07-31T02:53:32+00:00"
         },
         {
-          "title": "GitHub Issues, c. 2024. Colorized.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vd6ccl/github_issues_c_2024_colorized/",
-          "date": "2026-08-02T02:52:28+00:00"
-        },
-        {
           "title": "Leaked scenes from my conversation with a 3B parameter model.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vdhh0h/leaked_scenes_from_my_conversation_with_a_3b/",
           "date": "2026-08-02T12:59:13+00:00"
+        },
+        {
+          "title": "GitHub Issues, c. 2024. Colorized.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vd6ccl/github_issues_c_2024_colorized/",
+          "date": "2026-08-02T02:52:28+00:00"
         },
         {
           "title": "2026 developer explaining vibe coding to a developer from 2019",
