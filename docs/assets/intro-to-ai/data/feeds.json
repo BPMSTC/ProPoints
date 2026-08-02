@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T08:17:59.581815+00:00",
+  "generatedAt": "2026-08-02T10:37:36.568073+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -360,6 +360,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Stock market turmoil sheds stark light on the opaque AI economy",
+          "link": "https://www.theguardian.com/technology/2026/aug/02/stock-market-turmoil-nvidia-china-light-ai-economy",
+          "date": "Sun, 02 Aug 2026 09:00:17 GMT"
+        },
+        {
           "title": "\u2018More than just objects\u2019: Australian booksellers raise alarm over \u2018horrific\u2019 destruction of rare titles to feed AI",
           "link": "https://www.theguardian.com/technology/2026/aug/02/australian-book-sellers-alarm-destruction-rare-titles-ai-supply-chain",
           "date": "Sat, 01 Aug 2026 20:00:02 GMT"
@@ -378,11 +383,6 @@
           "title": "$2m crime novel deal collapses amid questions over AI use",
           "link": "https://www.theguardian.com/books/2026/jul/31/crime-novel-deal-collapses-questions-ai-jerry-falade-call-me-ill-hide-the-body",
           "date": "Fri, 31 Jul 2026 16:45:04 GMT"
-        },
-        {
-          "title": "What does protest look like in 2026? | Fiona Katauskas",
-          "link": "https://www.theguardian.com/commentisfree/picture/2026/aug/01/what-does-protest-look-like-in-2026",
-          "date": "Fri, 31 Jul 2026 15:00:19 GMT"
         }
       ],
       "error": null
@@ -458,7 +458,7 @@
         {
           "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
           "link": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
-          "date": "Sun, 02 Aug 2026 08:13:24 +0000"
+          "date": "Sun, 02 Aug 2026 10:00:00 +0000"
         },
         {
           "title": "7 States\u2019 Water Systems Hit by Cyberattacks Likely Tied to Iran",
