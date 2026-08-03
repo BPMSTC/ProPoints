@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-08-03T13:42:40.185884+00:00",
+  "generatedAt": "2026-08-03T16:20:37.095984+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Why a Flock Worker Quit: \u2018They Lied\u2019",
+          "link": "https://www.404media.co/why-a-flock-worker-quit-they-lied/",
+          "date": "Mon, 03 Aug 2026 14:02:31 GMT"
+        },
         {
           "title": "We Need to Quarantine Aliens on the Moon, Scientists Propose",
           "link": "https://www.404media.co/we-need-to-quarantine-aliens-on-the-moon-scientists-propose/",
@@ -24,11 +29,6 @@
           "title": "YouTube Bans Popular ASMR Artists, Accusing Them of Making 'Sexually Gratifying' Content",
           "link": "https://www.404media.co/youtube-asmr-ban-sex-and-nudity-policy/",
           "date": "Fri, 31 Jul 2026 14:25:01 GMT"
-        },
-        {
-          "title": "Company Offering Printed Books to Train AI Stops After 404 Media Coverage",
-          "link": "https://www.404media.co/ai-company-training-scanning-books-database-isbndb/",
-          "date": "Fri, 31 Jul 2026 14:04:26 GMT"
         }
       ],
       "error": null
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -113,6 +113,16 @@
       "name": "AI Business",
       "url": "https://aibusiness.com/rss.xml",
       "items": [
+        {
+          "title": "Alibaba Unveils Its \u2018Most Powerful\u2019 AI Model Yet",
+          "link": "https://aibusiness.com/generative-ai/alibaba-unveils-most-powerful-ai-model-yet",
+          "date": "Mon, 03 Aug 2026 14:47:01 GMT"
+        },
+        {
+          "title": "US Commerce Department Awards GlobalFoundries $300M for Photonics",
+          "link": "https://aibusiness.com/data-centers/us-commerce-department-awards-globalfoundries-300m-photonics",
+          "date": "Mon, 03 Aug 2026 14:05:39 GMT"
+        },
         {
           "title": "Europe\u2019s New AI Rules Come Into Force",
           "link": "https://aibusiness.com/ai-policy/europe-s-ai-rules-come-into-force",
@@ -127,16 +137,6 @@
           "title": "OpenAI Cuts Model Prices Amid Enterprises\u2019 Concerns About AI Spend",
           "link": "https://aibusiness.com/generative-ai/openai-cuts-model-prices-amid-enterprises-concerns-ai-spend",
           "date": "Fri, 31 Jul 2026 14:54:29 GMT"
-        },
-        {
-          "title": "EU Pledges $11.5B for Seven AI Gigafactories",
-          "link": "https://aibusiness.com/data-centers/eu-pledges-11-5b-seven-ai-gigafactories",
-          "date": "Fri, 31 Jul 2026 14:26:40 GMT"
-        },
-        {
-          "title": "Oracle Brings Google Gemini Models to Enterprise Customers",
-          "link": "https://aibusiness.com/agentic-ai/oracle-brings-google-gemini-models-enterprise-customers",
-          "date": "Thu, 30 Jul 2026 18:44:57 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -201,14 +201,14 @@
           "date": "2026-07-31T02:53:32+00:00"
         },
         {
+          "title": "New rule: self-promotion is now allowed on Sundays",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vee3b3/new_rule_selfpromotion_is_now_allowed_on_sundays/",
+          "date": "2026-08-03T13:53:27+00:00"
+        },
+        {
           "title": "2026 developer explaining vibe coding to a developer from 2019",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vdf89u/2026_developer_explaining_vibe_coding_to_a/",
           "date": "2026-08-02T11:05:11+00:00"
-        },
-        {
-          "title": "Leaked scenes from my conversation with a 3B parameter model.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vdhh0h/leaked_scenes_from_my_conversation_with_a_3b/",
-          "date": "2026-08-02T12:59:13+00:00"
         },
         {
           "title": "Cloudflare protection not letting ai agent pass..",
@@ -216,9 +216,9 @@
           "date": "2026-08-03T10:36:53+00:00"
         },
         {
-          "title": "ironically, \"prompt engineering\" didn't become a job but the most effective way of getting one.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1ve75pq/ironically_prompt_engineering_didnt_become_a_job/",
-          "date": "2026-08-03T08:06:51+00:00"
+          "title": "Leaked scenes from my conversation with a 3B parameter model.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vdhh0h/leaked_scenes_from_my_conversation_with_a_3b/",
+          "date": "2026-08-02T12:59:13+00:00"
         }
       ],
       "error": null
@@ -290,6 +290,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "SpaceX is set to acquire 130,000 acres of marshland in southern Louisiana",
+          "link": "https://arstechnica.com/space/2026/08/spacex-is-set-to-acquire-130000-acres-of-marshland-in-southern-louisiana/",
+          "date": "Mon, 03 Aug 2026 14:41:46 +0000"
+        },
+        {
+          "title": "Trump wants the power to stop the public from suing polluters",
+          "link": "https://arstechnica.com/tech-policy/2026/08/trump-wants-the-power-to-stop-the-public-from-suing-polluters/",
+          "date": "Mon, 03 Aug 2026 13:33:56 +0000"
+        },
+        {
           "title": "How headlights got brighter, whiter, and more blinding after dark",
           "link": "https://arstechnica.com/cars/2026/08/how-headlights-got-brighter-whiter-and-more-blinding-after-dark/",
           "date": "Mon, 03 Aug 2026 11:00:11 +0000"
@@ -303,16 +313,6 @@
           "title": "Review: Yes, we're still arguing about Nolan's The Odyssey",
           "link": "https://arstechnica.com/culture/2026/08/review-yes-were-still-arguing-about-nolans-the-odyssey/",
           "date": "Sat, 01 Aug 2026 15:19:04 +0000"
-        },
-        {
-          "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
-          "link": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
-          "date": "Sat, 01 Aug 2026 12:30:36 +0000"
-        },
-        {
-          "title": "After noise complaints, judge orders Waymo to stop overnight charging in Santa Monica",
-          "link": "https://arstechnica.com/tech-policy/2026/08/after-noise-complaints-judge-orders-waymo-to-stop-overnight-charging-in-santa-monica/",
-          "date": "Sat, 01 Aug 2026 11:30:54 +0000"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Sam Altman\u2019s Parenting Strategy Sounds Low Key Horrifying",
+          "link": "https://futurism.com/artificial-intelligence/sam-altman-parenting-strategy-horrifying",
+          "date": "Mon, 03 Aug 2026 10:30:00 -0400"
+        },
+        {
           "title": "SpaceX Vows to Keep Poisoning Nearby Towns With Its Fume-Belching Data Center For Another Year",
           "link": "https://futurism.com/space/spacex-poison-nearby-towns-another-yeare",
           "date": "Mon, 03 Aug 2026 09:30:00 -0400"
@@ -442,11 +447,6 @@
           "title": "We Are Mildly Horrified by This AI Startup That Coerced People Into Getting Tattoos of Its Logo in Exchange for a Job Interview",
           "link": "https://futurism.com/future-society/ai-startup-coerced-tattoos-logo-job-interview",
           "date": "Sat, 01 Aug 2026 13:02:00 -0400"
-        },
-        {
-          "title": "The More People Learn About AI, the More They Want It Out of Their Lives",
-          "link": "https://futurism.com/artificial-intelligence/ai-learn-negative-sentiment-polling-american-attitudes",
-          "date": "Sat, 01 Aug 2026 11:02:00 -0400"
         }
       ],
       "error": null
