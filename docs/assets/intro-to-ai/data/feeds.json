@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T06:23:22.985999+00:00",
+  "generatedAt": "2026-08-03T10:39:31.188431+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -211,14 +211,14 @@
           "date": "2026-08-02T12:59:13+00:00"
         },
         {
-          "title": "and then it works and i have no idea why",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1ve17m6/and_then_it_works_and_i_have_no_idea_why/",
-          "date": "2026-08-03T02:46:04+00:00"
-        },
-        {
           "title": "Bro knows I\u2019m not surviving until the limit resets",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vduveo/bro_knows_im_not_surviving_until_the_limit_resets/",
           "date": "2026-08-02T21:59:03+00:00"
+        },
+        {
+          "title": "and then it works and i have no idea why",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1ve17m6/and_then_it_works_and_i_have_no_idea_why/",
+          "date": "2026-08-03T02:46:04+00:00"
         }
       ],
       "error": null
@@ -328,6 +328,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "AI translators are getting more fluent \u2013 but communication is never just a matter of words",
+          "link": "https://theconversation.com/ai-translators-are-getting-more-fluent-but-communication-is-never-just-a-matter-of-words-288739",
+          "date": "2026-08-03T09:27:26Z"
+        },
+        {
           "title": "Clinicians are using AI scribes, but what happens to your medical data?",
           "link": "https://theconversation.com/clinicians-are-using-ai-scribes-but-what-happens-to-your-medical-data-288718",
           "date": "2026-08-03T04:48:13Z"
@@ -346,11 +351,6 @@
           "title": "Data centres are power hungry \u2013 but they don\u2019t have to be a burden on NZ\u2019s grid",
           "link": "https://theconversation.com/data-centres-are-power-hungry-but-they-dont-have-to-be-a-burden-on-nzs-grid-287954",
           "date": "2026-07-31T02:31:26Z"
-        },
-        {
-          "title": "Forbidden Planet hit cinemas in 1956. Its warnings about AI should terrify us",
-          "link": "https://theconversation.com/forbidden-planet-hit-cinemas-in-1956-its-warnings-about-ai-should-terrify-us-288391",
-          "date": "2026-07-31T01:44:35Z"
         }
       ],
       "error": null
@@ -360,19 +360,19 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Stock market turmoil sheds stark light on the opaque AI economy",
-          "link": "https://www.theguardian.com/technology/2026/aug/02/stock-market-turmoil-nvidia-china-light-ai-economy",
-          "date": "Sun, 02 Aug 2026 09:00:17 GMT"
-        },
-        {
-          "title": "Australia news live: Greens senator brands Pauline Hanson a \u2018political coward\u2019 over press conference bans; suspected mass bird flu deaths in Victoria",
+          "title": "Greens senator brands Pauline Hanson a \u2018political coward\u2019 over press conference bans \u2013 as it happened",
           "link": "https://www.theguardian.com/australia-news/live/2026/aug/03/australia-news-live-fuel-excise-cut-jim-chalmers-cost-of-living-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
-          "date": "Mon, 03 Aug 2026 06:13:24 GMT"
+          "date": "Mon, 03 Aug 2026 07:59:47 GMT"
         },
         {
           "title": "Disruption review \u2013 anti-AI thriller boasts knockout cast but tech commentary needs an update",
           "link": "https://www.theguardian.com/stage/2026/aug/02/disruption-play-review",
           "date": "Mon, 03 Aug 2026 00:00:35 GMT"
+        },
+        {
+          "title": "Stock market turmoil sheds stark light on the opaque AI economy",
+          "link": "https://www.theguardian.com/technology/2026/aug/02/stock-market-turmoil-nvidia-china-light-ai-economy",
+          "date": "Sun, 02 Aug 2026 09:00:17 GMT"
         },
         {
           "title": "\u2018More than just objects\u2019: Australian booksellers raise alarm over \u2018horrific\u2019 destruction of rare titles to feed AI",
@@ -456,6 +456,16 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "AI Conquered Coding. Fast Food Is Next",
+          "link": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
+          "date": "Mon, 03 Aug 2026 10:00:00 +0000"
+        },
+        {
+          "title": "The \u2018Guardrail Guy\u2019 Went Viral for Posting About Flock Cameras. Then Someone Destroyed Them",
+          "link": "https://www.wired.com/story/flock-cameras-guardrail-guy-advocacy-damage-people-dont-like-alprs/",
+          "date": "Mon, 03 Aug 2026 09:30:00 +0000"
+        },
+        {
           "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
           "link": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
           "date": "Sun, 02 Aug 2026 10:00:00 +0000"
@@ -469,16 +479,6 @@
           "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
           "link": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
           "date": "Sat, 01 Aug 2026 09:30:00 +0000"
-        },
-        {
-          "title": "Chinese AI Researchers Are Finding Their Voice on X",
-          "link": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
-          "date": "Fri, 31 Jul 2026 18:14:43 +0000"
-        },
-        {
-          "title": "AI Slop Melodramas Are Taking Over X\u2014and Their Creators Are Cashing In",
-          "link": "https://www.wired.com/story/ai-slop-melodramas-are-taking-over-x-and-their-creators-are-cashing-in/",
-          "date": "Fri, 31 Jul 2026 15:00:09 +0000"
         }
       ],
       "error": null
