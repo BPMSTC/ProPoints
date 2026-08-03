@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T02:31:35.386478+00:00",
+  "generatedAt": "2026-08-03T06:23:22.985999+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -201,19 +201,19 @@
           "date": "2026-07-31T02:53:32+00:00"
         },
         {
-          "title": "Leaked scenes from my conversation with a 3B parameter model.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vdhh0h/leaked_scenes_from_my_conversation_with_a_3b/",
-          "date": "2026-08-02T12:59:13+00:00"
-        },
-        {
           "title": "2026 developer explaining vibe coding to a developer from 2019",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vdf89u/2026_developer_explaining_vibe_coding_to_a/",
           "date": "2026-08-02T11:05:11+00:00"
         },
         {
-          "title": "GitHub Issues, c. 2024. Colorized.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vd6ccl/github_issues_c_2024_colorized/",
-          "date": "2026-08-02T02:52:28+00:00"
+          "title": "Leaked scenes from my conversation with a 3B parameter model.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vdhh0h/leaked_scenes_from_my_conversation_with_a_3b/",
+          "date": "2026-08-02T12:59:13+00:00"
+        },
+        {
+          "title": "and then it works and i have no idea why",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1ve17m6/and_then_it_works_and_i_have_no_idea_why/",
+          "date": "2026-08-03T02:46:04+00:00"
         },
         {
           "title": "Bro knows I\u2019m not surviving until the limit resets",
@@ -328,6 +328,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Clinicians are using AI scribes, but what happens to your medical data?",
+          "link": "https://theconversation.com/clinicians-are-using-ai-scribes-but-what-happens-to-your-medical-data-288718",
+          "date": "2026-08-03T04:48:13Z"
+        },
+        {
           "title": "An AI system \u2018escaped\u2019 during a test and hacked a company. How worried should we be?",
           "link": "https://theconversation.com/an-ai-system-escaped-during-a-test-and-hacked-a-company-how-worried-should-we-be-288654",
           "date": "2026-07-31T15:06:40Z"
@@ -346,11 +351,6 @@
           "title": "Forbidden Planet hit cinemas in 1956. Its warnings about AI should terrify us",
           "link": "https://theconversation.com/forbidden-planet-hit-cinemas-in-1956-its-warnings-about-ai-should-terrify-us-288391",
           "date": "2026-07-31T01:44:35Z"
-        },
-        {
-          "title": "Sam Altman says we\u2019re \u2018in the singularity\u2019 with AI. Here\u2019s why he\u2019s wrong",
-          "link": "https://theconversation.com/sam-altman-says-were-in-the-singularity-with-ai-heres-why-hes-wrong-288514",
-          "date": "2026-07-31T00:21:58Z"
         }
       ],
       "error": null
@@ -365,9 +365,9 @@
           "date": "Sun, 02 Aug 2026 09:00:17 GMT"
         },
         {
-          "title": "Australia news live: Icac hears of alleged Liberal faction push to \u2018hit up\u2019 MPs for public money; Hanson excludes ABC and Guardian from press conference",
+          "title": "Australia news live: Greens senator brands Pauline Hanson a \u2018political coward\u2019 over press conference bans; suspected mass bird flu deaths in Victoria",
           "link": "https://www.theguardian.com/australia-news/live/2026/aug/03/australia-news-live-fuel-excise-cut-jim-chalmers-cost-of-living-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
-          "date": "Mon, 03 Aug 2026 02:31:29 GMT"
+          "date": "Mon, 03 Aug 2026 06:13:24 GMT"
         },
         {
           "title": "Disruption review \u2013 anti-AI thriller boasts knockout cast but tech commentary needs an update",
