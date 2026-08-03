@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T18:48:19.719014+00:00",
+  "generatedAt": "2026-08-03T20:31:12.324896+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -206,6 +206,11 @@
           "date": "2026-08-03T16:21:32+00:00"
         },
         {
+          "title": "Use my flashloop code SAFJ3H get 1000 credits",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1veo3hj/use_my_flashloop_code_safj3h_get_1000_credits/",
+          "date": "2026-08-03T19:56:11+00:00"
+        },
+        {
           "title": "AI tool to create simple retail website that connects to sql server?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vem0q8/ai_tool_to_create_simple_retail_website_that/",
           "date": "2026-08-03T18:40:34+00:00"
@@ -214,11 +219,6 @@
           "title": "How do you manage long-term ChatGPT projects without losing weeks of work?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vel0wa/how_do_you_manage_longterm_chatgpt_projects/",
           "date": "2026-08-03T18:04:36+00:00"
-        },
-        {
-          "title": "2026 developer explaining vibe coding to a developer from 2019",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vdf89u/2026_developer_explaining_vibe_coding_to_a/",
-          "date": "2026-08-02T11:05:11+00:00"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Top Consulting Group PwC Caught Using AI on \u201cThought Leadership\u201d Report About AI, Resulting in Corporate Document Filled With Bizarre Hallucinations",
+          "link": "https://futurism.com/artificial-intelligence/top-consulting-group-pwc-ai-report-bizarre-hallucinations",
+          "date": "Mon, 03 Aug 2026 15:00:48 -0400"
+        },
+        {
           "title": "Tech Bro Boasts He Used AI to Secretly Monitor Toddlers\u2019 Conversations, Categorize Them In Giant Database",
           "link": "https://futurism.com/artificial-intelligence/tech-bro-ai-toddler-conversations",
           "date": "Mon, 03 Aug 2026 13:55:55 -0400"
@@ -442,11 +447,6 @@
           "title": "Sam Altman\u2019s Parenting Strategy Sounds Low Key Horrifying",
           "link": "https://futurism.com/artificial-intelligence/sam-altman-parenting-strategy-horrifying",
           "date": "Mon, 03 Aug 2026 10:30:00 -0400"
-        },
-        {
-          "title": "SpaceX Vows to Keep Poisoning Nearby Towns With Its Fume-Belching Data Center For Another Year",
-          "link": "https://futurism.com/space/spacex-poison-nearby-towns-another-yeare",
-          "date": "Mon, 03 Aug 2026 09:30:00 -0400"
         }
       ],
       "error": null
