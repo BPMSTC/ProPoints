@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T23:55:22.070102+00:00",
+  "generatedAt": "2026-08-03T02:31:35.386478+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -365,9 +365,14 @@
           "date": "Sun, 02 Aug 2026 09:00:17 GMT"
         },
         {
-          "title": "News live: Australian company \u2018deeply saddened\u2019 by fatal collision of its two firefighting helicopters in Greece",
+          "title": "Australia news live: Icac hears of alleged Liberal faction push to \u2018hit up\u2019 MPs for public money; Hanson excludes ABC and Guardian from press conference",
           "link": "https://www.theguardian.com/australia-news/live/2026/aug/03/australia-news-live-fuel-excise-cut-jim-chalmers-cost-of-living-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
-          "date": "Sun, 02 Aug 2026 23:50:50 GMT"
+          "date": "Mon, 03 Aug 2026 02:31:29 GMT"
+        },
+        {
+          "title": "Disruption review \u2013 anti-AI thriller boasts knockout cast but tech commentary needs an update",
+          "link": "https://www.theguardian.com/stage/2026/aug/02/disruption-play-review",
+          "date": "Mon, 03 Aug 2026 00:00:35 GMT"
         },
         {
           "title": "\u2018More than just objects\u2019: Australian booksellers raise alarm over \u2018horrific\u2019 destruction of rare titles to feed AI",
@@ -378,11 +383,6 @@
           "title": "China\u2019s tech advances are causing chaos from Silicon Valley to the White House",
           "link": "https://www.theguardian.com/technology/2026/aug/01/china-silicon-valley-white-house",
           "date": "Sat, 01 Aug 2026 12:00:53 GMT"
-        },
-        {
-          "title": "If you think kids will respect a robot teacher, you have never met a kid | Dave Schilling",
-          "link": "https://www.theguardian.com/commentisfree/2026/aug/01/new-york-salamanca-school-robot-teacher-plan",
-          "date": "Sat, 01 Aug 2026 11:00:52 GMT"
         }
       ],
       "error": null
