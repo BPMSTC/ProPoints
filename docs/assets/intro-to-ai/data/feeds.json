@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T20:31:12.324896+00:00",
+  "generatedAt": "2026-08-03T22:10:06.698273+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Research roundup: 6 cool science stories we almost missed",
+          "link": "https://arstechnica.com/science/2026/08/research-roundup-6-cool-science-stories-we-almost-missed-5/",
+          "date": "Mon, 03 Aug 2026 20:13:37 +0000"
+        },
+        {
+          "title": "Lego deploys Hubble Space Telescope as detailed desktop model",
+          "link": "https://arstechnica.com/space/2026/08/lego-deploys-hubble-space-telescope-as-detailed-desktop-model/",
+          "date": "Mon, 03 Aug 2026 19:21:16 +0000"
+        },
+        {
+          "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
+          "link": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
+          "date": "Mon, 03 Aug 2026 19:00:50 +0000"
+        },
+        {
           "title": "2026 Volkswagen Jetta Sport: The cheap car isn't completely extinct yet",
           "link": "https://arstechnica.com/cars/2026/08/2026-volkswagen-jetta-sport-the-cheap-car-isnt-completely-extinct-yet/",
           "date": "Mon, 03 Aug 2026 16:10:22 +0000"
@@ -298,21 +313,6 @@
           "title": "SpaceX is set to acquire 130,000 acres of marshland in southern Louisiana",
           "link": "https://arstechnica.com/space/2026/08/spacex-is-set-to-acquire-130000-acres-of-marshland-in-southern-louisiana/",
           "date": "Mon, 03 Aug 2026 14:41:46 +0000"
-        },
-        {
-          "title": "Trump wants the power to stop the public from suing polluters",
-          "link": "https://arstechnica.com/tech-policy/2026/08/trump-wants-the-power-to-stop-the-public-from-suing-polluters/",
-          "date": "Mon, 03 Aug 2026 13:33:56 +0000"
-        },
-        {
-          "title": "How headlights got brighter, whiter, and more blinding after dark",
-          "link": "https://arstechnica.com/cars/2026/08/how-headlights-got-brighter-whiter-and-more-blinding-after-dark/",
-          "date": "Mon, 03 Aug 2026 11:00:11 +0000"
-        },
-        {
-          "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
-          "link": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
-          "date": "Sat, 01 Aug 2026 18:20:11 +0000"
         }
       ],
       "error": null
@@ -320,7 +320,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "EPA says power for data centers can sidestep pollution laws",
+          "link": "https://www.reddit.com/r/artificial/comments/1ve6txk/epa_says_power_for_data_centers_can_sidestep/",
+          "date": "2026-08-03T07:48:05+00:00"
+        },
+        {
+          "title": "MIT, Harvard, Stanford & Caltech write their own ML course notes instead of using a textbook \u2014 I catalogued the best ones",
+          "link": "https://www.reddit.com/r/artificial/comments/1vebvg3/mit_harvard_stanford_caltech_write_their_own_ml/",
+          "date": "2026-08-03T12:20:52+00:00"
+        },
+        {
+          "title": "AI automation is eating the parts of indie building I actually enjoyed, anyone else feeling this?",
+          "link": "https://www.reddit.com/r/artificial/comments/1vejnhb/ai_automation_is_eating_the_parts_of_indie/",
+          "date": "2026-08-03T17:15:25+00:00"
+        },
+        {
+          "title": "MIT Tech Review on AI agents \"lying\" is really about Goodhart's law",
+          "link": "https://www.reddit.com/r/artificial/comments/1vehr50/mit_tech_review_on_ai_agents_lying_is_really/",
+          "date": "2026-08-03T16:07:55+00:00"
+        },
+        {
+          "title": "What Are Companies Getting for All That A.I. Spending? A new field of \u201ctokenomics\u201d has emerged to measure the return on all the money companies are pouring into artificial intelligence. (Gift Article)",
+          "link": "https://www.reddit.com/r/artificial/comments/1vegh55/what_are_companies_getting_for_all_that_ai/",
+          "date": "2026-08-03T15:22:10+00:00"
+        }
+      ],
       "error": null
     },
     {
