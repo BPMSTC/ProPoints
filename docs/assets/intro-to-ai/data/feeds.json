@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T04:10:23.284343+00:00",
+  "generatedAt": "2026-08-04T07:35:38.306038+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -211,14 +211,14 @@
           "date": "2026-08-04T01:58:35+00:00"
         },
         {
+          "title": "hit me with the harshest vibe coding truth",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vf0mt8/hit_me_with_the_harshest_vibe_coding_truth/",
+          "date": "2026-08-04T04:56:07+00:00"
+        },
+        {
           "title": "Vibe coders after shipping a few apps",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vet3e8/vibe_coders_after_shipping_a_few_apps/",
           "date": "2026-08-03T23:09:39+00:00"
-        },
-        {
-          "title": "AI tool to create simple retail website that connects to sql server?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vem0q8/ai_tool_to_create_simple_retail_website_that/",
-          "date": "2026-08-03T18:40:34+00:00"
         }
       ],
       "error": null
@@ -360,6 +360,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Metro Bank customer fights for \u00a314,000 refund after AI-linked fraud",
+          "link": "https://www.theguardian.com/money/2026/aug/04/metro-bank-refund-ai-fraud",
+          "date": "Tue, 04 Aug 2026 06:00:15 GMT"
+        },
+        {
           "title": "Ring Cycle review \u2013 AI staging dispenses with drama to create banal bric-a-brac",
           "link": "https://www.theguardian.com/music/2026/aug/03/wagner-bayreuth-ring-cycle-review-ai-staging-dispenses-with-drama-to-create-banal-bric-a-brac",
           "date": "Mon, 03 Aug 2026 13:28:07 GMT"
@@ -378,11 +383,6 @@
           "title": "Stock market turmoil sheds stark light on the opaque AI economy",
           "link": "https://www.theguardian.com/technology/2026/aug/02/stock-market-turmoil-nvidia-china-light-ai-economy",
           "date": "Sun, 02 Aug 2026 09:00:17 GMT"
-        },
-        {
-          "title": "\u2018More than just objects\u2019: Australian booksellers raise alarm over \u2018horrific\u2019 destruction of rare titles to feed AI",
-          "link": "https://www.theguardian.com/technology/2026/aug/02/australian-book-sellers-alarm-destruction-rare-titles-ai-supply-chain",
-          "date": "Sat, 01 Aug 2026 20:00:02 GMT"
         }
       ],
       "error": null
