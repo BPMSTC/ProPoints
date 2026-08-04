@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T17:46:01.721202+00:00",
+  "generatedAt": "2026-08-04T19:26:48.194204+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,29 +290,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "China is Tesla's cash cow, but for how much longer?",
+          "link": "https://arstechnica.com/cars/2026/08/china-is-teslas-cash-cow-but-for-how-much-longer/",
+          "date": "Tue, 04 Aug 2026 17:34:48 +0000"
+        },
+        {
+          "title": "The Pixel 11's \"glow\" feature is actually called HiLight\u2014here's what it does",
+          "link": "https://arstechnica.com/gadgets/2026/08/the-pixel-11s-glow-feature-is-actually-called-hilight-heres-what-it-does/",
+          "date": "Tue, 04 Aug 2026 16:11:05 +0000"
+        },
+        {
+          "title": "Tom DeLay helped create TV ownership cap\u2014he says Trump FCC has no authority to repeal it",
+          "link": "https://arstechnica.com/tech-policy/2026/08/can-trump-fcc-repeal-39-tv-ownership-cap-republican-who-wrote-cap-into-law-says-no/",
+          "date": "Tue, 04 Aug 2026 15:51:00 +0000"
+        },
+        {
+          "title": "Trump admin \"aware\" of deaths in explosive diarrhea outbreak, delays reporting",
+          "link": "https://arstechnica.com/health/2026/08/trump-admin-aware-of-deaths-in-explosive-diarrhea-outbreak-delays-reporting/",
+          "date": "Tue, 04 Aug 2026 15:06:07 +0000"
+        },
+        {
           "title": "2027 Chevrolet Corvette Grand Sport X proves code is as important as hardware",
           "link": "https://arstechnica.com/cars/2026/08/2027-chevrolet-corvette-grand-sport-x-proves-code-is-as-important-as-hardware/",
           "date": "Tue, 04 Aug 2026 14:45:08 +0000"
-        },
-        {
-          "title": "OpenAI says Apple's trade secrets lawsuit is \"aggressive and oddly personal\"",
-          "link": "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal/",
-          "date": "Tue, 04 Aug 2026 13:38:29 +0000"
-        },
-        {
-          "title": "US company\u2019s AI lets Ukraine\u2019s cheap kamikaze drones track targets on their own",
-          "link": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
-          "date": "Mon, 03 Aug 2026 22:11:39 +0000"
-        },
-        {
-          "title": "Research roundup: 6 cool science stories we almost missed",
-          "link": "https://arstechnica.com/science/2026/08/research-roundup-6-cool-science-stories-we-almost-missed-5/",
-          "date": "Mon, 03 Aug 2026 20:13:37 +0000"
-        },
-        {
-          "title": "Lego deploys Hubble Space Telescope as detailed desktop model",
-          "link": "https://arstechnica.com/space/2026/08/lego-deploys-hubble-space-telescope-as-detailed-desktop-model/",
-          "date": "Mon, 03 Aug 2026 19:21:16 +0000"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "DuckDuckGo Is Selling Anti Pervert Glasses That Contain Zero AI, Cameras, or Even Electronics Whatsoever",
+          "link": "https://futurism.com/artificial-intelligence/duckduckgo-selling-anti-pervert-glasses",
+          "date": "Tue, 04 Aug 2026 13:48:00 -0400"
+        },
+        {
           "title": "New AI Chatbot Turns Out to Be One Overworked Guy Answering All the Messages by Hand",
           "link": "https://futurism.com/artificial-intelligence/ai-chatbot-one-overworked-guy",
           "date": "Tue, 04 Aug 2026 12:59:37 -0400"
@@ -442,11 +447,6 @@
           "title": "Boomers on Facebook Are Leaving Comments That Make It Clear That They Have No Idea That AI-Generated Thirst Traps Aren\u2019t Real",
           "link": "https://futurism.com/artificial-intelligence/boomers-facebook-ai-thirst-traps",
           "date": "Tue, 04 Aug 2026 08:47:15 -0400"
-        },
-        {
-          "title": "Top Consulting Group PwC Caught Using AI on \u201cThought Leadership\u201d Report About AI, Resulting in Corporate Document Filled With Bizarre Hallucinations",
-          "link": "https://futurism.com/artificial-intelligence/top-consulting-group-pwc-ai-report-bizarre-hallucinations",
-          "date": "Mon, 03 Aug 2026 15:00:48 -0400"
         }
       ],
       "error": null
