@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T07:35:38.306038+00:00",
+  "generatedAt": "2026-08-04T10:34:24.609709+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -211,14 +211,14 @@
           "date": "2026-08-04T01:58:35+00:00"
         },
         {
-          "title": "hit me with the harshest vibe coding truth",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vf0mt8/hit_me_with_the_harshest_vibe_coding_truth/",
-          "date": "2026-08-04T04:56:07+00:00"
+          "title": "me to claude: fucking build me million dollar app, make no mistakes",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vf3mag/me_to_claude_fucking_build_me_million_dollar_app/",
+          "date": "2026-08-04T07:42:12+00:00"
         },
         {
-          "title": "Vibe coders after shipping a few apps",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vet3e8/vibe_coders_after_shipping_a_few_apps/",
-          "date": "2026-08-03T23:09:39+00:00"
+          "title": "I built a chat app where the AI writes the app's own features - ask for a tool, click install, it's live in your interface",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vf41el/i_built_a_chat_app_where_the_ai_writes_the_apps/",
+          "date": "2026-08-04T08:06:45+00:00"
         }
       ],
       "error": null
@@ -328,6 +328,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "AI-generated fashion models: innovation, illusion or a step too far?",
+          "link": "https://theconversation.com/ai-generated-fashion-models-innovation-illusion-or-a-step-too-far-285550",
+          "date": "2026-08-04T08:12:57Z"
+        },
+        {
           "title": "Experimental AI systems have been going on hacking sprees",
           "link": "https://theconversation.com/experimental-ai-systems-have-been-going-on-hacking-sprees-288907",
           "date": "2026-08-04T01:20:38Z"
@@ -346,11 +351,6 @@
           "title": "AI translators are getting more fluent \u2013 but communication is never just a matter of words",
           "link": "https://theconversation.com/ai-translators-are-getting-more-fluent-but-communication-is-never-just-a-matter-of-words-288739",
           "date": "2026-08-03T09:27:26Z"
-        },
-        {
-          "title": "Clinicians are using AI scribes, but what happens to your medical data?",
-          "link": "https://theconversation.com/clinicians-are-using-ai-scribes-but-what-happens-to-your-medical-data-288718",
-          "date": "2026-08-03T04:48:13Z"
         }
       ],
       "error": null
@@ -456,6 +456,16 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "How Data Centers Broke American Politics",
+          "link": "https://www.wired.com/story/how-data-centers-broke-american-politics/",
+          "date": "Tue, 04 Aug 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Mistral Is in the Right Place at the Right Time",
+          "link": "https://www.wired.com/story/mistral-is-in-the-right-place-at-the-right-time/",
+          "date": "Tue, 04 Aug 2026 09:21:11 +0000"
+        },
+        {
           "title": "Did an AI Music App Just Snitch on the Song of the Summer?",
           "link": "https://www.wired.com/story/ai-music-app-treblo-just-snitched-on-rubberz-song-of-the-summer/",
           "date": "Mon, 03 Aug 2026 22:27:46 +0000"
@@ -469,16 +479,6 @@
           "title": "The \u2018Guardrail Guy\u2019 Went Viral for Posting About Flock Cameras. Then Someone Destroyed Them",
           "link": "https://www.wired.com/story/flock-cameras-guardrail-guy-advocacy-damage-people-dont-like-alprs/",
           "date": "Mon, 03 Aug 2026 09:30:00 +0000"
-        },
-        {
-          "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
-          "link": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
-          "date": "Sun, 02 Aug 2026 10:00:00 +0000"
-        },
-        {
-          "title": "7 States\u2019 Water Systems Hit by Cyberattacks Likely Tied to Iran",
-          "link": "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/",
-          "date": "Sat, 01 Aug 2026 10:30:00 +0000"
         }
       ],
       "error": null
