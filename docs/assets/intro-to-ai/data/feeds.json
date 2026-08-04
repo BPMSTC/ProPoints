@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-08-04T12:58:49.787771+00:00",
+  "generatedAt": "2026-08-04T15:27:08.919322+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "\u2018DO NOT MENTION ALPR USAGE\u2019: How Cops Are Trying to Hide Their Use of Flock",
+          "link": "https://www.404media.co/do-not-mention-alpr-usage-how-cops-are-trying-to-hide-the-existence-of-flock/",
+          "date": "Tue, 04 Aug 2026 14:23:54 GMT"
+        },
+        {
+          "title": "The SEC Bought Airline Data to Monitor Flights Worldwide",
+          "link": "https://www.404media.co/the-sec-bought-airline-data-to-monitor-flights-worldwide/",
+          "date": "Tue, 04 Aug 2026 13:55:10 GMT"
+        },
         {
           "title": "\u2018Own the Narrative\u2019: Leaked Flock Guide Shows How It Teaches Cops to Promote Its Tech",
           "link": "https://www.404media.co/own-the-narrative-leaked-flock-guide-shows-how-it-teaches-cops-to-promote-its-tech/",
@@ -19,16 +29,6 @@
           "title": "We Need to Quarantine Aliens on the Moon, Scientists Propose",
           "link": "https://www.404media.co/we-need-to-quarantine-aliens-on-the-moon-scientists-propose/",
           "date": "Sat, 01 Aug 2026 10:00:47 GMT"
-        },
-        {
-          "title": "Behind the Blog: Silent Retreat",
-          "link": "https://www.404media.co/behind-the-blog-silent-retreat/",
-          "date": "Fri, 31 Jul 2026 16:24:50 GMT"
-        },
-        {
-          "title": "Google Earth\u2019s New AI Lets Anyone Fabricate Completely Bullshit Satellite Images",
-          "link": "https://www.404media.co/google-earths-new-ai-lets-anyone-fabricate-completely-bullshit-satellite-images/",
-          "date": "Fri, 31 Jul 2026 16:03:08 GMT"
         }
       ],
       "error": null
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Microsoft Framework to Cut AI Agent Training Costs",
+          "link": "https://aibusiness.com/agentic-ai/microsoft-framework-cut-ai-agent-training-costs",
+          "date": "Tue, 04 Aug 2026 14:03:35 GMT"
+        },
+        {
           "title": "Alibaba Unveils Its \u2018Most Powerful\u2019 AI Model Yet",
           "link": "https://aibusiness.com/generative-ai/alibaba-unveils-most-powerful-ai-model-yet",
           "date": "Mon, 03 Aug 2026 14:47:01 GMT"
@@ -132,11 +137,6 @@
           "title": "Prompt: Enterprises Grapple With Cost of AI Scale",
           "link": "https://aibusiness.com/generative-ai/prompt-next-enterprise-ai-controlling-cost-of-scale",
           "date": "Fri, 31 Jul 2026 15:19:01 GMT"
-        },
-        {
-          "title": "OpenAI Cuts Model Prices Amid Enterprises\u2019 Concerns About AI Spend",
-          "link": "https://aibusiness.com/generative-ai/openai-cuts-model-prices-amid-enterprises-concerns-ai-spend",
-          "date": "Fri, 31 Jul 2026 14:54:29 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -201,6 +201,11 @@
           "date": "2026-07-31T02:53:32+00:00"
         },
         {
+          "title": "Average vibe coder talking to \"Claude\" at 3AM",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vf9f3y/average_vibe_coder_talking_to_claude_at_3am/",
+          "date": "2026-08-04T12:49:02+00:00"
+        },
+        {
           "title": "me to claude: fucking build me million dollar app, make no mistakes",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vf3mag/me_to_claude_fucking_build_me_million_dollar_app/",
           "date": "2026-08-04T07:42:12+00:00"
@@ -211,14 +216,9 @@
           "date": "2026-08-03T16:21:32+00:00"
         },
         {
-          "title": "Pov: When you notice you\u2019re becoming a prompt engineer instead of software engineer",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vewzou/pov_when_you_notice_youre_becoming_a_prompt/",
-          "date": "2026-08-04T01:58:35+00:00"
-        },
-        {
-          "title": "Average vibe coder talking to \"Claude\" at 3AM",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vf9f3y/average_vibe_coder_talking_to_claude_at_3am/",
-          "date": "2026-08-04T12:49:02+00:00"
+          "title": "This is just sad to see",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vf8uh8/this_is_just_sad_to_see/",
+          "date": "2026-08-04T12:24:02+00:00"
         }
       ],
       "error": null
@@ -290,6 +290,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "2027 Chevrolet Corvette Grand Sport X proves code is as important as hardware",
+          "link": "https://arstechnica.com/cars/2026/08/2027-chevrolet-corvette-grand-sport-x-proves-code-is-as-important-as-hardware/",
+          "date": "Tue, 04 Aug 2026 14:45:08 +0000"
+        },
+        {
+          "title": "OpenAI says Apple's trade secrets lawsuit is \"aggressive and oddly personal\"",
+          "link": "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal/",
+          "date": "Tue, 04 Aug 2026 13:38:29 +0000"
+        },
+        {
           "title": "US company\u2019s AI lets Ukraine\u2019s cheap kamikaze drones track targets on their own",
           "link": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
           "date": "Mon, 03 Aug 2026 22:11:39 +0000"
@@ -303,16 +313,6 @@
           "title": "Lego deploys Hubble Space Telescope as detailed desktop model",
           "link": "https://arstechnica.com/space/2026/08/lego-deploys-hubble-space-telescope-as-detailed-desktop-model/",
           "date": "Mon, 03 Aug 2026 19:21:16 +0000"
-        },
-        {
-          "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
-          "link": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
-          "date": "Mon, 03 Aug 2026 19:00:50 +0000"
-        },
-        {
-          "title": "2026 Volkswagen Jetta Sport: The cheap car isn't completely extinct yet",
-          "link": "https://arstechnica.com/cars/2026/08/2026-volkswagen-jetta-sport-the-cheap-car-isnt-completely-extinct-yet/",
-          "date": "Mon, 03 Aug 2026 16:10:22 +0000"
         }
       ],
       "error": null
@@ -328,6 +328,16 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "How four Asian economies are positioning themselves for the AI age",
+          "link": "https://theconversation.com/how-four-asian-economies-are-positioning-themselves-for-the-ai-age-286671",
+          "date": "2026-08-04T14:13:21Z"
+        },
+        {
+          "title": "How grief became a subscription service",
+          "link": "https://theconversation.com/how-grief-became-a-subscription-service-287412",
+          "date": "2026-08-04T14:09:59Z"
+        },
+        {
           "title": "As the skies get busier, will AI help air traffic controllers keep planes flying safely?",
           "link": "https://theconversation.com/as-the-skies-get-busier-will-ai-help-air-traffic-controllers-keep-planes-flying-safely-288433",
           "date": "2026-08-04T12:16:24Z"
@@ -341,16 +351,6 @@
           "title": "Experimental AI systems have been going on hacking sprees",
           "link": "https://theconversation.com/experimental-ai-systems-have-been-going-on-hacking-sprees-288907",
           "date": "2026-08-04T01:20:38Z"
-        },
-        {
-          "title": "You can love an AI but can it love you back? Philosophy has the answer",
-          "link": "https://theconversation.com/you-can-love-an-ai-but-can-it-love-you-back-philosophy-has-the-answer-287610",
-          "date": "2026-08-03T13:07:45Z"
-        },
-        {
-          "title": "Trump administration moves to block public from enforcing environmental protection laws",
-          "link": "https://theconversation.com/trump-administration-moves-to-block-public-from-enforcing-environmental-protection-laws-288687",
-          "date": "2026-08-03T12:31:10Z"
         }
       ],
       "error": null
@@ -359,6 +359,11 @@
       "name": "Artificial intelligence (AI) | The Guardian",
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
+        {
+          "title": "Google Earth\u2019s potential disinformation nightmare",
+          "link": "https://www.theguardian.com/global/2026/aug/03/google-earth-satellite-images",
+          "date": "Tue, 04 Aug 2026 13:42:26 GMT"
+        },
         {
           "title": "Metro Bank customer fights for \u00a314,000 refund after AI-linked fraud",
           "link": "https://www.theguardian.com/money/2026/aug/04/metro-bank-refund-ai-fraud",
@@ -378,11 +383,6 @@
           "title": "Disruption review \u2013 anti-AI thriller boasts knockout cast but tech commentary needs an update",
           "link": "https://www.theguardian.com/stage/2026/aug/02/disruption-play-review",
           "date": "Mon, 03 Aug 2026 00:00:35 GMT"
-        },
-        {
-          "title": "Stock market turmoil sheds stark light on the opaque AI economy",
-          "link": "https://www.theguardian.com/technology/2026/aug/02/stock-market-turmoil-nvidia-china-light-ai-economy",
-          "date": "Sun, 02 Aug 2026 09:00:17 GMT"
         }
       ],
       "error": null
@@ -424,6 +424,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Tech Companies Are Setting Themselves on Fire to Keep Up in the AI Race",
+          "link": "https://futurism.com/artificial-intelligence/tech-companies-setting-on-fire-ai-race",
+          "date": "Tue, 04 Aug 2026 10:51:38 -0400"
+        },
+        {
+          "title": "Rapper Denies That His Billboard-Charting Song Is AI-Generated",
+          "link": "https://futurism.com/artificial-intelligence/rapper-denies-song-is-ai-generated",
+          "date": "Tue, 04 Aug 2026 09:47:08 -0400"
+        },
+        {
           "title": "Boomers on Facebook Are Leaving Comments That Make It Clear That They Have No Idea That AI-Generated Thirst Traps Aren\u2019t Real",
           "link": "https://futurism.com/artificial-intelligence/boomers-facebook-ai-thirst-traps",
           "date": "Tue, 04 Aug 2026 08:47:15 -0400"
@@ -437,16 +447,6 @@
           "title": "Tech Bro Boasts He Used AI to Secretly Monitor Toddlers\u2019 Conversations, Categorize Them In Giant Database",
           "link": "https://futurism.com/artificial-intelligence/tech-bro-ai-toddler-conversations",
           "date": "Mon, 03 Aug 2026 13:55:55 -0400"
-        },
-        {
-          "title": "Mark Zuckerberg\u2019s Wife Shuts Down School for the Disadvantaged",
-          "link": "https://futurism.com/future-society/mark-zuckerberg-wife-shuts-down-school-disadvantaged",
-          "date": "Mon, 03 Aug 2026 13:23:05 -0400"
-        },
-        {
-          "title": "Poll Finds Overwhelming Majority Disgusted by Trump\u2019s Relationship With AI Industry, Saying He\u2019s Using the Tech to Tear Down Democracy",
-          "link": "https://futurism.com/artificial-intelligence/polling-trump-ai-industry-democracy",
-          "date": "Mon, 03 Aug 2026 12:30:00 -0400"
         }
       ],
       "error": null
