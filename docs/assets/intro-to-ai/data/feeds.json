@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T22:10:06.698273+00:00",
+  "generatedAt": "2026-08-04T00:05:31.985304+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -206,19 +206,19 @@
           "date": "2026-08-03T16:21:32+00:00"
         },
         {
-          "title": "Use my flashloop code SAFJ3H get 1000 credits",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1veo3hj/use_my_flashloop_code_safj3h_get_1000_credits/",
-          "date": "2026-08-03T19:56:11+00:00"
+          "title": "Vibe coders after shipping a few apps",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vet3e8/vibe_coders_after_shipping_a_few_apps/",
+          "date": "2026-08-03T23:09:39+00:00"
+        },
+        {
+          "title": "The alarming privacy risks of using Ai daily.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vety06/the_alarming_privacy_risks_of_using_ai_daily/",
+          "date": "2026-08-03T23:45:43+00:00"
         },
         {
           "title": "AI tool to create simple retail website that connects to sql server?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vem0q8/ai_tool_to_create_simple_retail_website_that/",
           "date": "2026-08-03T18:40:34+00:00"
-        },
-        {
-          "title": "How do you manage long-term ChatGPT projects without losing weeks of work?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vel0wa/how_do_you_manage_longterm_chatgpt_projects/",
-          "date": "2026-08-03T18:04:36+00:00"
         }
       ],
       "error": null
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "US company\u2019s AI lets Ukraine\u2019s cheap kamikaze drones track targets on their own",
+          "link": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
+          "date": "Mon, 03 Aug 2026 22:11:39 +0000"
+        },
+        {
           "title": "Research roundup: 6 cool science stories we almost missed",
           "link": "https://arstechnica.com/science/2026/08/research-roundup-6-cool-science-stories-we-almost-missed-5/",
           "date": "Mon, 03 Aug 2026 20:13:37 +0000"
@@ -308,11 +313,6 @@
           "title": "2026 Volkswagen Jetta Sport: The cheap car isn't completely extinct yet",
           "link": "https://arstechnica.com/cars/2026/08/2026-volkswagen-jetta-sport-the-cheap-car-isnt-completely-extinct-yet/",
           "date": "Mon, 03 Aug 2026 16:10:22 +0000"
-        },
-        {
-          "title": "SpaceX is set to acquire 130,000 acres of marshland in southern Louisiana",
-          "link": "https://arstechnica.com/space/2026/08/spacex-is-set-to-acquire-130000-acres-of-marshland-in-southern-louisiana/",
-          "date": "Mon, 03 Aug 2026 14:41:46 +0000"
         }
       ],
       "error": null
@@ -320,33 +320,7 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "EPA says power for data centers can sidestep pollution laws",
-          "link": "https://www.reddit.com/r/artificial/comments/1ve6txk/epa_says_power_for_data_centers_can_sidestep/",
-          "date": "2026-08-03T07:48:05+00:00"
-        },
-        {
-          "title": "MIT, Harvard, Stanford & Caltech write their own ML course notes instead of using a textbook \u2014 I catalogued the best ones",
-          "link": "https://www.reddit.com/r/artificial/comments/1vebvg3/mit_harvard_stanford_caltech_write_their_own_ml/",
-          "date": "2026-08-03T12:20:52+00:00"
-        },
-        {
-          "title": "AI automation is eating the parts of indie building I actually enjoyed, anyone else feeling this?",
-          "link": "https://www.reddit.com/r/artificial/comments/1vejnhb/ai_automation_is_eating_the_parts_of_indie/",
-          "date": "2026-08-03T17:15:25+00:00"
-        },
-        {
-          "title": "MIT Tech Review on AI agents \"lying\" is really about Goodhart's law",
-          "link": "https://www.reddit.com/r/artificial/comments/1vehr50/mit_tech_review_on_ai_agents_lying_is_really/",
-          "date": "2026-08-03T16:07:55+00:00"
-        },
-        {
-          "title": "What Are Companies Getting for All That A.I. Spending? A new field of \u201ctokenomics\u201d has emerged to measure the return on all the money companies are pouring into artificial intelligence. (Gift Article)",
-          "link": "https://www.reddit.com/r/artificial/comments/1vegh55/what_are_companies_getting_for_all_that_ai/",
-          "date": "2026-08-03T15:22:10+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
@@ -482,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Did an AI Music App Just Snitch on the Song of the Summer?",
+          "link": "https://www.wired.com/story/ai-music-app-treblo-just-snitched-on-rubberz-song-of-the-summer/",
+          "date": "Mon, 03 Aug 2026 22:27:46 +0000"
+        },
+        {
           "title": "AI Conquered Coding. Fast Food Is Next",
           "link": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
           "date": "Mon, 03 Aug 2026 10:00:00 +0000"
@@ -500,11 +479,6 @@
           "title": "7 States\u2019 Water Systems Hit by Cyberattacks Likely Tied to Iran",
           "link": "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/",
           "date": "Sat, 01 Aug 2026 10:30:00 +0000"
-        },
-        {
-          "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
-          "link": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
-          "date": "Sat, 01 Aug 2026 09:30:00 +0000"
         }
       ],
       "error": null
