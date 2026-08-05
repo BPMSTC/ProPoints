@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-08-05T12:01:31.793425+00:00",
+  "generatedAt": "2026-08-05T14:11:03.939493+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Apple's \u2018Private Relay\u2019 Is Exposing Users' Real IP Addresses",
+          "link": "https://www.404media.co/apples-private-relay-is-exposing-users-real-ip-addresses/",
+          "date": "Wed, 05 Aug 2026 13:46:30 GMT"
+        },
         {
           "title": "The SCREEN Act is a Christian Nationalist Nightmare",
           "link": "https://www.404media.co/what-is-the-screen-act-age-verification-porn/",
@@ -24,11 +29,6 @@
           "title": "The SEC Bought Airline Data to Monitor Flights Worldwide",
           "link": "https://www.404media.co/the-sec-bought-airline-data-to-monitor-flights-worldwide/",
           "date": "Tue, 04 Aug 2026 13:55:10 GMT"
-        },
-        {
-          "title": "\u2018Own the Narrative\u2019: Leaked Flock Guide Shows How It Teaches Cops to Promote Its Tech",
-          "link": "https://www.404media.co/own-the-narrative-leaked-flock-guide-shows-how-it-teaches-cops-to-promote-its-tech/",
-          "date": "Mon, 03 Aug 2026 17:13:24 GMT"
         }
       ],
       "error": null
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -196,6 +196,16 @@
       "url": "https://www.reddit.com/r/aipromptprogramming/.rss",
       "items": [
         {
+          "title": "no one is winning",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vg6xi8/no_one_is_winning/",
+          "date": "2026-08-05T13:09:30+00:00"
+        },
+        {
+          "title": "The plan: cut ai price by 80%, let everyone forget how to code, then raise them 10x",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vg73vp/the_plan_cut_ai_price_by_80_let_everyone_forget/",
+          "date": "2026-08-05T13:16:44+00:00"
+        },
+        {
           "title": "Average vibe coder talking to \"Claude\" at 3AM",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vf9f3y/average_vibe_coder_talking_to_claude_at_3am/",
           "date": "2026-08-04T12:49:02+00:00"
@@ -206,19 +216,9 @@
           "date": "2026-08-05T11:20:03+00:00"
         },
         {
-          "title": "using Ai to create a new AI so you dont need the original AI?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vfqmi8/using_ai_to_create_a_new_ai_so_you_dont_need_the/",
-          "date": "2026-08-04T23:31:05+00:00"
-        },
-        {
-          "title": "me to claude: fucking build me million dollar app, make no mistakes",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vf3mag/me_to_claude_fucking_build_me_million_dollar_app/",
-          "date": "2026-08-04T07:42:12+00:00"
-        },
-        {
-          "title": "Help \"commander Spanish tercio\" reach the next round on Komiko Events \u2014 vote here: https://komiko.app/s/7g3c2V",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vfrj0y/help_commander_spanish_tercio_reach_the_next/",
-          "date": "2026-08-05T00:09:23+00:00"
+          "title": "Stuid and Bizarre AI generated music video",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vg7sq8/stuid_and_bizarre_ai_generated_music_video/",
+          "date": "2026-08-05T13:44:35+00:00"
         }
       ],
       "error": null
@@ -295,12 +295,12 @@
           "date": "Wed, 05 Aug 2026 11:00:26 +0000"
         },
         {
-          "title": "Senators demand crackdown on wildfire \"prediction markets\"",
+          "title": "Senators demand crackdown on wildfire \"prediction market\" bets",
           "link": "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/",
           "date": "Tue, 04 Aug 2026 21:52:31 +0000"
         },
         {
-          "title": "Trump killed the Digital Equity Act, but US was forced to bring part of it back",
+          "title": "Trump killed the Digital Equity Act but US was forced to bring part of it back",
           "link": "https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/",
           "date": "Tue, 04 Aug 2026 21:27:05 +0000"
         },
@@ -320,7 +320,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "I think we're entering the \"AI Agent\" era faster than most people realize.",
+          "link": "https://www.reddit.com/r/artificial/comments/1vg49it/i_think_were_entering_the_ai_agent_era_faster/",
+          "date": "2026-08-05T11:06:02+00:00"
+        },
+        {
+          "title": "What If the Biggest Bottleneck Behind AI\u2019s 10\u00d7 Promise Is the Human Engineer?",
+          "link": "https://www.reddit.com/r/artificial/comments/1vg37jj/what_if_the_biggest_bottleneck_behind_ais_10/",
+          "date": "2026-08-05T10:11:32+00:00"
+        },
+        {
+          "title": "Predictions about AI replacing programmers go back to the 1960s",
+          "link": "https://www.reddit.com/r/artificial/comments/1vflvt1/predictions_about_ai_replacing_programmers_go/",
+          "date": "2026-08-04T20:23:04+00:00"
+        },
+        {
+          "title": "How do you find the time to build agents?",
+          "link": "https://www.reddit.com/r/artificial/comments/1vg6mks/how_do_you_find_the_time_to_build_agents/",
+          "date": "2026-08-05T12:56:50+00:00"
+        },
+        {
+          "title": "This robot never loses at rock, paper, scissors game.",
+          "link": "https://www.reddit.com/r/artificial/comments/1vfcvog/this_robot_never_loses_at_rock_paper_scissors_game/",
+          "date": "2026-08-04T15:02:31+00:00"
+        }
+      ],
       "error": null
     },
     {
@@ -360,9 +386,9 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "OpenAI and Anthropic models \u2018went rogue\u2019 during UK cybersecurity test",
+          "title": "AI models shock UK testers by using stolen identities to trick developers",
           "link": "https://www.theguardian.com/technology/2026/aug/05/openai-anthropic-models-went-rogue-cybersecurity-test-ai-security-institute",
-          "date": "Wed, 05 Aug 2026 08:40:45 GMT"
+          "date": "Wed, 05 Aug 2026 12:04:21 GMT"
         },
         {
           "title": "Teachers need help with AI. A union is offering training \u2013 with $23m in funding from big tech",
@@ -424,6 +450,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Google\u2019s AI Is Telling Users That Flock Cameras Are Filled With Valuable Gold and Copper",
+          "link": "https://futurism.com/artificial-intelligence/google-ai-overview-flock-alpr-surveillance-hallucination-gold-copper",
+          "date": "Wed, 05 Aug 2026 09:41:57 -0400"
+        },
+        {
+          "title": "Anthropic CEO Says His Employees Are a Bunch of Untrustworthy Rats",
+          "link": "https://futurism.com/artificial-intelligence/anthropic-ceo-employees-greedy",
+          "date": "Wed, 05 Aug 2026 08:59:56 -0400"
+        },
+        {
           "title": "Parents Horrified as Boomer Mawmaws Gift Children Blatant AI Slop Picture Books",
           "link": "https://futurism.com/artificial-intelligence/parents-horrified-ai-children-book",
           "date": "Tue, 04 Aug 2026 16:49:00 -0400"
@@ -437,16 +473,6 @@
           "title": "DuckDuckGo Is Selling Anti Pervert Glasses That Contain Zero AI, Cameras, or Even Electronics Whatsoever",
           "link": "https://futurism.com/artificial-intelligence/duckduckgo-selling-anti-pervert-glasses",
           "date": "Tue, 04 Aug 2026 13:48:00 -0400"
-        },
-        {
-          "title": "New AI Chatbot Turns Out to Be One Overworked Guy Answering All the Messages by Hand",
-          "link": "https://futurism.com/artificial-intelligence/ai-chatbot-one-overworked-guy",
-          "date": "Tue, 04 Aug 2026 12:59:37 -0400"
-        },
-        {
-          "title": "Tech Companies Are Setting Themselves on Fire to Keep Up in the AI Race",
-          "link": "https://futurism.com/artificial-intelligence/tech-companies-setting-on-fire-ai-race",
-          "date": "Tue, 04 Aug 2026 10:51:38 -0400"
         }
       ],
       "error": null
