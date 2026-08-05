@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T22:09:48.571518+00:00",
+  "generatedAt": "2026-08-05T23:57:05.682105+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -206,6 +206,11 @@
           "date": "2026-08-05T13:16:44+00:00"
         },
         {
+          "title": "Which single skill has been the biggest game changer for you?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vgm8to/which_single_skill_has_been_the_biggest_game/",
+          "date": "2026-08-05T22:32:24+00:00"
+        },
+        {
           "title": "Average vibe coder talking to \"Claude\" at 3AM",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vf9f3y/average_vibe_coder_talking_to_claude_at_3am/",
           "date": "2026-08-04T12:49:02+00:00"
@@ -214,11 +219,6 @@
           "title": "Build windows 12, make no mistakes.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vg4jlg/build_windows_12_make_no_mistakes/",
           "date": "2026-08-05T11:20:03+00:00"
-        },
-        {
-          "title": "Stuid and Bizarre AI generated music video",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vg7sq8/stuid_and_bizarre_ai_generated_music_video/",
-          "date": "2026-08-05T13:44:35+00:00"
         }
       ],
       "error": null
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
+          "link": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
+          "date": "Wed, 05 Aug 2026 22:35:20 +0000"
+        },
+        {
           "title": "Schwartz confirmed as CDC director after bungling confirmation hearing",
           "link": "https://arstechnica.com/health/2026/08/schwartz-confirmed-as-cdc-director-after-bungling-confirmation-hearing/",
           "date": "Wed, 05 Aug 2026 21:03:18 +0000"
@@ -308,11 +313,6 @@
           "title": "Hank Green found the AI problem that YouTube labels can\u2019t catch",
           "link": "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/",
           "date": "Wed, 05 Aug 2026 19:51:40 +0000"
-        },
-        {
-          "title": "SpaceX claims Starlink Mobile will be better than AT&T, T-Mobile, and Verizon",
-          "link": "https://arstechnica.com/tech-policy/2026/08/spacex-claims-starlink-mobile-will-be-better-than-att-t-mobile-and-verizon/",
-          "date": "Wed, 05 Aug 2026 19:38:56 +0000"
         }
       ],
       "error": null
@@ -320,7 +320,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "Reddit is introducing a new moderator: AI",
+          "link": "https://www.reddit.com/r/artificial/comments/1vgc4mc/reddit_is_introducing_a_new_moderator_ai/",
+          "date": "2026-08-05T16:23:28+00:00"
+        },
+        {
+          "title": "Six years into AI research and I genuinely can't define \"understanding\" anymore",
+          "link": "https://www.reddit.com/r/artificial/comments/1vg7fcd/six_years_into_ai_research_and_i_genuinely_cant/",
+          "date": "2026-08-05T13:29:46+00:00"
+        },
+        {
+          "title": "DeepSeek tops AI models in affordability, new study says",
+          "link": "https://www.reddit.com/r/artificial/comments/1vgin7k/deepseek_tops_ai_models_in_affordability_new/",
+          "date": "2026-08-05T20:14:31+00:00"
+        },
+        {
+          "title": "First AI transparency law of its kind in US goes into effect in California",
+          "link": "https://www.reddit.com/r/artificial/comments/1vgc0lk/first_ai_transparency_law_of_its_kind_in_us_goes/",
+          "date": "2026-08-05T16:19:33+00:00"
+        },
+        {
+          "title": "I think we're entering the \"AI Agent\" era faster than most people realize.",
+          "link": "https://www.reddit.com/r/artificial/comments/1vg49it/i_think_were_entering_the_ai_agent_era_faster/",
+          "date": "2026-08-05T11:06:02+00:00"
+        }
+      ],
       "error": null
     },
     {
@@ -360,14 +386,19 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "AI models shock UK testers by using fake identities to try to trick developers",
-          "link": "https://www.theguardian.com/technology/2026/aug/05/openai-anthropic-models-went-rogue-cybersecurity-test-ai-security-institute",
-          "date": "Wed, 05 Aug 2026 15:15:05 GMT"
+          "title": "Big shake-up in Google\u2019s AI team as DeepMind chief executive steps down",
+          "link": "https://www.theguardian.com/technology/2026/aug/05/big-shake-up-in-googles-ai-team-as-deepmind-chief-executive-steps-down",
+          "date": "Wed, 05 Aug 2026 22:23:46 GMT"
         },
         {
           "title": "AI models have been going rogue in tests \u2013 how worried should we be?",
           "link": "https://www.theguardian.com/technology/2026/aug/05/ai-models-have-been-going-rogue-in-tests-how-worried-should-we-be",
           "date": "Wed, 05 Aug 2026 17:43:57 GMT"
+        },
+        {
+          "title": "AI models shock UK testers by using fake identities to try to trick developers",
+          "link": "https://www.theguardian.com/technology/2026/aug/05/openai-anthropic-models-went-rogue-cybersecurity-test-ai-security-institute",
+          "date": "Wed, 05 Aug 2026 15:15:05 GMT"
         },
         {
           "title": "Why I'll never be convinced by Meta's \u2018pervert\u2019 glasses | Opinion",
@@ -378,11 +409,6 @@
           "title": "Teachers need help with AI. A union is offering training \u2013 with $23m in funding from big tech",
           "link": "https://www.theguardian.com/technology/2026/aug/05/teachers-unions-ai-training",
           "date": "Wed, 05 Aug 2026 12:00:19 GMT"
-        },
-        {
-          "title": "\u2018So destructive\u2019: women are paying for face scans that tell them what cosmetic procedures to get",
-          "link": "https://www.theguardian.com/fashion/ng-interactive/2026/aug/05/facial-analysis-scans-qoves-epica-looksmaxxing",
-          "date": "Wed, 05 Aug 2026 12:00:18 GMT"
         }
       ],
       "error": null
@@ -456,6 +482,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "OpenAI\u2019s Browser Could Be Hijacked to Spam Your WhatsApp Contacts",
+          "link": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/",
+          "date": "Wed, 05 Aug 2026 23:30:00 +0000"
+        },
+        {
           "title": "The Most Dangerous AI Hacking Techniques Still Have Humans in the Loop",
           "link": "https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/",
           "date": "Wed, 05 Aug 2026 19:42:12 +0000"
@@ -474,11 +505,6 @@
           "title": "Google\u2019s Top AI Brains Are Leaving to Launch Discovery Loop",
           "link": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/",
           "date": "Wed, 05 Aug 2026 16:00:00 +0000"
-        },
-        {
-          "title": "AI Influencers Are Heading Into Uncharted Territory",
-          "link": "https://www.wired.com/story/algorithm-turning-on-ai-influencers-are-humans-worried/",
-          "date": "Wed, 05 Aug 2026 11:43:00 +0000"
         }
       ],
       "error": null
