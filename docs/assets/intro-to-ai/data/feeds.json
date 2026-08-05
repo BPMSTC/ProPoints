@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T18:17:58.242020+00:00",
+  "generatedAt": "2026-08-05T20:23:44.568896+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,29 +290,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "After jacking up prices, Disney+ and Netflix consider offering free alternatives",
-          "link": "https://arstechnica.com/gadgets/2026/08/after-jacking-up-prices-disney-and-netflix-consider-offering-free-alternatives/",
-          "date": "Wed, 05 Aug 2026 17:12:39 +0000"
+          "title": "Hank Green found the AI problem that YouTube labels can\u2019t catch",
+          "link": "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/",
+          "date": "Wed, 05 Aug 2026 19:51:40 +0000"
         },
         {
-          "title": "EVgo starts building Tesla Superchargers under license",
-          "link": "https://arstechnica.com/cars/2026/08/evgo-starts-building-tesla-superchargers-under-license/",
-          "date": "Wed, 05 Aug 2026 17:00:38 +0000"
+          "title": "SpaceX claims Starlink Mobile will be better than AT&T, T-Mobile, and Verizon",
+          "link": "https://arstechnica.com/tech-policy/2026/08/spacex-claims-starlink-mobile-will-be-better-than-att-t-mobile-and-verizon/",
+          "date": "Wed, 05 Aug 2026 19:38:56 +0000"
         },
         {
-          "title": "D-Wave shows off its new entry in quantum computing race",
-          "link": "https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/",
-          "date": "Wed, 05 Aug 2026 16:37:07 +0000"
+          "title": "This Atlantic hurricane season is looking like a dud, but there will be a price to pay",
+          "link": "https://arstechnica.com/science/2026/08/this-atlantic-hurricane-season-is-looking-like-a-dud-but-there-will-be-a-price-to-pay/",
+          "date": "Wed, 05 Aug 2026 19:19:04 +0000"
         },
         {
-          "title": "Google plans to kill Assistant on your phone on September 4",
-          "link": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
-          "date": "Wed, 05 Aug 2026 15:30:02 +0000"
+          "title": "Google's AI shakeup: DeepMind's Hassabis steps aside, senior scientists depart",
+          "link": "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/",
+          "date": "Wed, 05 Aug 2026 19:05:58 +0000"
         },
         {
-          "title": "SpaceX spooks investors with debut earnings report",
-          "link": "https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/",
-          "date": "Wed, 05 Aug 2026 13:59:17 +0000"
+          "title": "Review: Spider-Man: Brand New Day reminds us that superhero movies can be good",
+          "link": "https://arstechnica.com/culture/2026/08/review-spider-man-brand-new-day-reminds-us-that-superhero-movies-can-be-good/",
+          "date": "Wed, 05 Aug 2026 18:27:15 +0000"
         }
       ],
       "error": null
@@ -456,6 +456,16 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "The Most Dangerous AI Hacking Techniques Still Have Humans in the Loop",
+          "link": "https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/",
+          "date": "Wed, 05 Aug 2026 19:42:12 +0000"
+        },
+        {
+          "title": "AI Hacks Are Bad. AI Worms and Viruses Will Be Worse",
+          "link": "https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/",
+          "date": "Wed, 05 Aug 2026 18:30:00 +0000"
+        },
+        {
           "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
           "link": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
           "date": "Wed, 05 Aug 2026 16:26:36 +0000"
@@ -469,16 +479,6 @@
           "title": "AI Influencers Are Heading Into Uncharted Territory",
           "link": "https://www.wired.com/story/algorithm-turning-on-ai-influencers-are-humans-worried/",
           "date": "Wed, 05 Aug 2026 11:43:00 +0000"
-        },
-        {
-          "title": "A New Device Eases One of the Most Annoying Parts of Routine Physicals",
-          "link": "https://www.wired.com/story/iris-nodoca-ai-throat-exam-routine-physical/",
-          "date": "Wed, 05 Aug 2026 09:00:00 +0000"
-        },
-        {
-          "title": "The AI Notetaker Has Been Invited to All the Meetings",
-          "link": "https://www.wired.com/story/ai-notetakers-invited-to-the-meetings/",
-          "date": "Wed, 05 Aug 2026 07:00:00 +0000"
         }
       ],
       "error": null
