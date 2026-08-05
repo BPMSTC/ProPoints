@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T22:59:45.187696+00:00",
+  "generatedAt": "2026-08-05T00:15:41.208359+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -206,19 +206,19 @@
           "date": "2026-08-04T07:42:12+00:00"
         },
         {
+          "title": "Help \"commander Spanish tercio\" reach the next round on Komiko Events \u2014 vote here: https://komiko.app/s/7g3c2V",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vfrj0y/help_commander_spanish_tercio_reach_the_next/",
+          "date": "2026-08-05T00:09:23+00:00"
+        },
+        {
           "title": "This is just sad to see",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vf8uh8/this_is_just_sad_to_see/",
           "date": "2026-08-04T12:24:02+00:00"
         },
         {
-          "title": "The Positive Effects of Friction in Automated Development; or, Pi Is Bad",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vfoctr/the_positive_effects_of_friction_in_automated/",
-          "date": "2026-08-04T21:57:27+00:00"
-        },
-        {
-          "title": "How people opinion change with time",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vei4tr/how_people_opinion_change_with_time/",
-          "date": "2026-08-03T16:21:32+00:00"
+          "title": "using Ai to create a new AI so you dont need the original AI?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vfqmi8/using_ai_to_create_a_new_ai_so_you_dont_need_the/",
+          "date": "2026-08-04T23:31:05+00:00"
         }
       ],
       "error": null
@@ -360,6 +360,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "AI-generated stories rated better quality than human-written ones, study finds",
+          "link": "https://www.theguardian.com/technology/2026/aug/05/ai-generated-stories-rated-better-quality-than-human-written-ones-study-finds",
+          "date": "Tue, 04 Aug 2026 23:01:03 GMT"
+        },
+        {
           "title": "US stock market hits record highs as AI profits pile and oil prices ease",
           "link": "https://www.theguardian.com/business/2026/aug/04/stock-market-records-ai-profits-oil-prices-ease",
           "date": "Tue, 04 Aug 2026 20:56:59 GMT"
@@ -378,11 +383,6 @@
           "title": "Metro Bank customer fights for \u00a314,000 refund after AI-linked fraud",
           "link": "https://www.theguardian.com/money/2026/aug/04/metro-bank-refund-ai-fraud",
           "date": "Tue, 04 Aug 2026 06:00:15 GMT"
-        },
-        {
-          "title": "\u2018This quarter was otherworldly\u2019: Palantir earnings surge past expectations",
-          "link": "https://www.theguardian.com/us-news/2026/aug/03/palantir-second-quarter-earnings",
-          "date": "Mon, 03 Aug 2026 23:09:20 GMT"
         }
       ],
       "error": null
@@ -456,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "OK, Well, Rogue AI Agents Are Hacking Again",
+          "link": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/",
+          "date": "Tue, 04 Aug 2026 23:11:31 +0000"
+        },
+        {
           "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
           "link": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
           "date": "Tue, 04 Aug 2026 22:06:07 +0000"
@@ -474,11 +479,6 @@
           "title": "\u2018Everyone Is Doing It\u2019: The Truth About AI in Hollywood",
           "link": "https://www.wired.com/story/the-big-interview-podcast-matthew-belloni-puck/",
           "date": "Tue, 04 Aug 2026 10:30:00 +0000"
-        },
-        {
-          "title": "How Data Centers Broke American Politics",
-          "link": "https://www.wired.com/story/how-data-centers-broke-american-politics/",
-          "date": "Tue, 04 Aug 2026 10:00:00 +0000"
         }
       ],
       "error": null
