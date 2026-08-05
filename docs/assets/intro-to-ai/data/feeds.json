@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T00:15:41.208359+00:00",
+  "generatedAt": "2026-08-05T03:57:35.020871+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -201,6 +201,11 @@
           "date": "2026-08-04T12:49:02+00:00"
         },
         {
+          "title": "using Ai to create a new AI so you dont need the original AI?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vfqmi8/using_ai_to_create_a_new_ai_so_you_dont_need_the/",
+          "date": "2026-08-04T23:31:05+00:00"
+        },
+        {
           "title": "me to claude: fucking build me million dollar app, make no mistakes",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vf3mag/me_to_claude_fucking_build_me_million_dollar_app/",
           "date": "2026-08-04T07:42:12+00:00"
@@ -214,11 +219,6 @@
           "title": "This is just sad to see",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vf8uh8/this_is_just_sad_to_see/",
           "date": "2026-08-04T12:24:02+00:00"
-        },
-        {
-          "title": "using Ai to create a new AI so you dont need the original AI?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vfqmi8/using_ai_to_create_a_new_ai_so_you_dont_need_the/",
-          "date": "2026-08-04T23:31:05+00:00"
         }
       ],
       "error": null
