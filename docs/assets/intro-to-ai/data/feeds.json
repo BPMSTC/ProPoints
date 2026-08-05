@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T16:38:27.964686+00:00",
+  "generatedAt": "2026-08-05T18:17:58.242020+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -216,9 +216,9 @@
           "date": "2026-08-05T11:20:03+00:00"
         },
         {
-          "title": "Paid UMD study ($150): how do you know a prompt tweak actually made your agent better? We built a tool that shows the output spread \u2014 help us test it",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vgbggx/paid_umd_study_150_how_do_you_know_a_prompt_tweak/",
-          "date": "2026-08-05T16:00:16+00:00"
+          "title": "Stuid and Bizarre AI generated music video",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vg7sq8/stuid_and_bizarre_ai_generated_music_video/",
+          "date": "2026-08-05T13:44:35+00:00"
         }
       ],
       "error": null
@@ -290,29 +290,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "After jacking up prices, Disney+ and Netflix consider offering free alternatives",
+          "link": "https://arstechnica.com/gadgets/2026/08/after-jacking-up-prices-disney-and-netflix-consider-offering-free-alternatives/",
+          "date": "Wed, 05 Aug 2026 17:12:39 +0000"
+        },
+        {
+          "title": "EVgo starts building Tesla Superchargers under license",
+          "link": "https://arstechnica.com/cars/2026/08/evgo-starts-building-tesla-superchargers-under-license/",
+          "date": "Wed, 05 Aug 2026 17:00:38 +0000"
+        },
+        {
+          "title": "D-Wave shows off its new entry in quantum computing race",
+          "link": "https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/",
+          "date": "Wed, 05 Aug 2026 16:37:07 +0000"
+        },
+        {
+          "title": "Google plans to kill Assistant on your phone on September 4",
+          "link": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
+          "date": "Wed, 05 Aug 2026 15:30:02 +0000"
+        },
+        {
           "title": "SpaceX spooks investors with debut earnings report",
           "link": "https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/",
           "date": "Wed, 05 Aug 2026 13:59:17 +0000"
-        },
-        {
-          "title": "Pushing the limits: Infinite Machine's Olto is barely a bicycle",
-          "link": "https://arstechnica.com/cars/2026/08/pushing-the-limits-infinite-machines-olto-is-barely-a-bicycle/",
-          "date": "Wed, 05 Aug 2026 11:00:26 +0000"
-        },
-        {
-          "title": "Senators demand crackdown on wildfire \"prediction market\" bets",
-          "link": "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/",
-          "date": "Tue, 04 Aug 2026 21:52:31 +0000"
-        },
-        {
-          "title": "Trump killed the Digital Equity Act but US was forced to bring part of it back",
-          "link": "https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/",
-          "date": "Tue, 04 Aug 2026 21:27:05 +0000"
-        },
-        {
-          "title": "Texas halts data center connections to power grid amid overwhelming demand",
-          "link": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
-          "date": "Tue, 04 Aug 2026 20:34:28 +0000"
         }
       ],
       "error": null
@@ -327,6 +327,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Why AI wants you to buy more \u2013 and mindfulness could help you buy less",
+          "link": "https://theconversation.com/why-ai-wants-you-to-buy-more-and-mindfulness-could-help-you-buy-less-288247",
+          "date": "2026-08-05T16:22:44Z"
+        },
         {
           "title": "How four Asian economies are positioning themselves for the AI age",
           "link": "https://theconversation.com/how-four-asian-economies-are-positioning-themselves-for-the-ai-age-286671",
@@ -346,11 +351,6 @@
           "title": "AI-generated fashion models: innovation, illusion or a step too far?",
           "link": "https://theconversation.com/ai-generated-fashion-models-innovation-illusion-or-a-step-too-far-285550",
           "date": "2026-08-04T08:12:57Z"
-        },
-        {
-          "title": "Experimental AI systems have been going on hacking sprees",
-          "link": "https://theconversation.com/experimental-ai-systems-have-been-going-on-hacking-sprees-288907",
-          "date": "2026-08-04T01:20:38Z"
         }
       ],
       "error": null
@@ -360,9 +360,14 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "AI models shock UK testers by using fake identities to trick developers",
+          "title": "AI models shock UK testers by using fake identities to try to trick developers",
           "link": "https://www.theguardian.com/technology/2026/aug/05/openai-anthropic-models-went-rogue-cybersecurity-test-ai-security-institute",
           "date": "Wed, 05 Aug 2026 15:15:05 GMT"
+        },
+        {
+          "title": "AI models have been going rogue in tests \u2013 how worried should we be?",
+          "link": "https://www.theguardian.com/technology/2026/aug/05/ai-models-have-been-going-rogue-in-tests-how-worried-should-we-be",
+          "date": "Wed, 05 Aug 2026 17:43:57 GMT"
         },
         {
           "title": "Why I'll never be convinced by Meta's \u2018pervert\u2019 glasses | Opinion",
@@ -377,11 +382,6 @@
         {
           "title": "\u2018So destructive\u2019: women are paying for face scans that tell them what cosmetic procedures to get",
           "link": "https://www.theguardian.com/fashion/ng-interactive/2026/aug/05/facial-analysis-scans-qoves-epica-looksmaxxing",
-          "date": "Wed, 05 Aug 2026 12:00:18 GMT"
-        },
-        {
-          "title": "Game, set, Chat: how tennis players use AI to scout opponents and run their lives",
-          "link": "https://www.theguardian.com/sport/2026/aug/05/ai-chatgpt-robots-tennis-players-scouting-technology",
           "date": "Wed, 05 Aug 2026 12:00:18 GMT"
         }
       ],
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Texas Data Centers Suffer Brutal Collision With Reality",
+          "link": "https://futurism.com/artificial-intelligence/texas-data-centers-reality-grid",
+          "date": "Wed, 05 Aug 2026 13:21:47 -0400"
+        },
+        {
           "title": "Google\u2019s AI Is Telling Users That Flock Cameras Are Filled With Valuable Gold and Copper",
           "link": "https://futurism.com/artificial-intelligence/google-ai-overview-flock-alpr-surveillance-hallucination-gold-copper",
           "date": "Wed, 05 Aug 2026 09:41:57 -0400"
@@ -442,11 +447,6 @@
           "title": "Business World Stunned That a Restaurant Chain Is Doing Well Without Mindlessly Embracing AI",
           "link": "https://futurism.com/artificial-intelligence/chilis-restaurant-ai",
           "date": "Tue, 04 Aug 2026 15:50:00 -0400"
-        },
-        {
-          "title": "DuckDuckGo Is Selling Anti Pervert Glasses That Contain Zero AI, Cameras, or Even Electronics Whatsoever",
-          "link": "https://futurism.com/artificial-intelligence/duckduckgo-selling-anti-pervert-glasses",
-          "date": "Tue, 04 Aug 2026 13:48:00 -0400"
         }
       ],
       "error": null
