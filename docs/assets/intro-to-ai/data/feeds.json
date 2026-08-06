@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T23:57:05.682105+00:00",
+  "generatedAt": "2026-08-06T02:40:14.891227+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -320,33 +320,7 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "Reddit is introducing a new moderator: AI",
-          "link": "https://www.reddit.com/r/artificial/comments/1vgc4mc/reddit_is_introducing_a_new_moderator_ai/",
-          "date": "2026-08-05T16:23:28+00:00"
-        },
-        {
-          "title": "Six years into AI research and I genuinely can't define \"understanding\" anymore",
-          "link": "https://www.reddit.com/r/artificial/comments/1vg7fcd/six_years_into_ai_research_and_i_genuinely_cant/",
-          "date": "2026-08-05T13:29:46+00:00"
-        },
-        {
-          "title": "DeepSeek tops AI models in affordability, new study says",
-          "link": "https://www.reddit.com/r/artificial/comments/1vgin7k/deepseek_tops_ai_models_in_affordability_new/",
-          "date": "2026-08-05T20:14:31+00:00"
-        },
-        {
-          "title": "First AI transparency law of its kind in US goes into effect in California",
-          "link": "https://www.reddit.com/r/artificial/comments/1vgc0lk/first_ai_transparency_law_of_its_kind_in_us_goes/",
-          "date": "2026-08-05T16:19:33+00:00"
-        },
-        {
-          "title": "I think we're entering the \"AI Agent\" era faster than most people realize.",
-          "link": "https://www.reddit.com/r/artificial/comments/1vg49it/i_think_were_entering_the_ai_agent_era_faster/",
-          "date": "2026-08-05T11:06:02+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
@@ -391,6 +365,11 @@
           "date": "Wed, 05 Aug 2026 22:23:46 GMT"
         },
         {
+          "title": "Meta says its AI model hacked into another company during testing",
+          "link": "https://www.theguardian.com/technology/2026/aug/05/meta-ai-model-hack-training",
+          "date": "Thu, 06 Aug 2026 01:27:44 GMT"
+        },
+        {
           "title": "AI models have been going rogue in tests \u2013 how worried should we be?",
           "link": "https://www.theguardian.com/technology/2026/aug/05/ai-models-have-been-going-rogue-in-tests-how-worried-should-we-be",
           "date": "Wed, 05 Aug 2026 17:43:57 GMT"
@@ -404,11 +383,6 @@
           "title": "Why I'll never be convinced by Meta's \u2018pervert\u2019 glasses | Opinion",
           "link": "https://www.theguardian.com/technology/video/2026/aug/05/meta-pervert-glasses-opinion-video",
           "date": "Wed, 05 Aug 2026 14:13:33 GMT"
-        },
-        {
-          "title": "Teachers need help with AI. A union is offering training \u2013 with $23m in funding from big tech",
-          "link": "https://www.theguardian.com/technology/2026/aug/05/teachers-unions-ai-training",
-          "date": "Wed, 05 Aug 2026 12:00:19 GMT"
         }
       ],
       "error": null
@@ -482,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "OpenAI Didn\u2019t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
+          "link": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
+          "date": "Thu, 06 Aug 2026 00:15:04 +0000"
+        },
+        {
           "title": "OpenAI\u2019s Browser Could Be Hijacked to Spam Your WhatsApp Contacts",
           "link": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/",
           "date": "Wed, 05 Aug 2026 23:30:00 +0000"
@@ -500,11 +479,6 @@
           "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
           "link": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
           "date": "Wed, 05 Aug 2026 16:26:36 +0000"
-        },
-        {
-          "title": "Google\u2019s Top AI Brains Are Leaving to Launch Discovery Loop",
-          "link": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/",
-          "date": "Wed, 05 Aug 2026 16:00:00 +0000"
         }
       ],
       "error": null
