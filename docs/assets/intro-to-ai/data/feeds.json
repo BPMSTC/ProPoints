@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T02:40:14.891227+00:00",
+  "generatedAt": "2026-08-06T05:47:36.668567+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -328,6 +328,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "More than half of children and teens are using AI for personal reasons. This comes with risks",
+          "link": "https://theconversation.com/more-than-half-of-children-and-teens-are-using-ai-for-personal-reasons-this-comes-with-risks-288951",
+          "date": "2026-08-06T03:22:14Z"
+        },
+        {
           "title": "Why AI wants you to buy more \u2013 and mindfulness could help you buy less",
           "link": "https://theconversation.com/why-ai-wants-you-to-buy-more-and-mindfulness-could-help-you-buy-less-288247",
           "date": "2026-08-05T16:22:44Z"
@@ -346,11 +351,6 @@
           "title": "As the skies get busier, will AI help air traffic controllers keep planes flying safely?",
           "link": "https://theconversation.com/as-the-skies-get-busier-will-ai-help-air-traffic-controllers-keep-planes-flying-safely-288433",
           "date": "2026-08-04T12:16:24Z"
-        },
-        {
-          "title": "AI-generated fashion models: innovation, illusion or a step too far?",
-          "link": "https://theconversation.com/ai-generated-fashion-models-innovation-illusion-or-a-step-too-far-285550",
-          "date": "2026-08-04T08:12:57Z"
         }
       ],
       "error": null
