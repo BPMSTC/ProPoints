@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T05:47:36.668567+00:00",
+  "generatedAt": "2026-08-06T08:29:52.816580+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -194,33 +194,7 @@
     {
       "name": "Ai Prompt Programming",
       "url": "https://www.reddit.com/r/aipromptprogramming/.rss",
-      "items": [
-        {
-          "title": "no one is winning",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vg6xi8/no_one_is_winning/",
-          "date": "2026-08-05T13:09:30+00:00"
-        },
-        {
-          "title": "The plan: cut ai price by 80%, let everyone forget how to code, then raise them 10x",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vg73vp/the_plan_cut_ai_price_by_80_let_everyone_forget/",
-          "date": "2026-08-05T13:16:44+00:00"
-        },
-        {
-          "title": "Which single skill has been the biggest game changer for you?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vgm8to/which_single_skill_has_been_the_biggest_game/",
-          "date": "2026-08-05T22:32:24+00:00"
-        },
-        {
-          "title": "Average vibe coder talking to \"Claude\" at 3AM",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vf9f3y/average_vibe_coder_talking_to_claude_at_3am/",
-          "date": "2026-08-04T12:49:02+00:00"
-        },
-        {
-          "title": "Build windows 12, make no mistakes.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vg4jlg/build_windows_12_make_no_mistakes/",
-          "date": "2026-08-05T11:20:03+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
