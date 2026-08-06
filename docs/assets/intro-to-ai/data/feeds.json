@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T08:29:52.816580+00:00",
+  "generatedAt": "2026-08-06T11:20:03.276777+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -194,7 +194,33 @@
     {
       "name": "Ai Prompt Programming",
       "url": "https://www.reddit.com/r/aipromptprogramming/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "results > workflow",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vgwfkp/results_workflow/",
+          "date": "2026-08-06T06:37:21+00:00"
+        },
+        {
+          "title": "no one is winning",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vg6xi8/no_one_is_winning/",
+          "date": "2026-08-05T13:09:30+00:00"
+        },
+        {
+          "title": "The plan: cut ai price by 80%, let everyone forget how to code, then raise them 10x",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vg73vp/the_plan_cut_ai_price_by_80_let_everyone_forget/",
+          "date": "2026-08-05T13:16:44+00:00"
+        },
+        {
+          "title": "Built a CRM you run by just talking to it and looking for a few people to test it free",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vgxld3/built_a_crm_you_run_by_just_talking_to_it_and/",
+          "date": "2026-08-06T07:43:23+00:00"
+        },
+        {
+          "title": "Anthropic AI Faked Identities to Hack GitHub Project",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vgx9de/anthropic_ai_faked_identities_to_hack_github/",
+          "date": "2026-08-06T07:23:50+00:00"
+        }
+      ],
       "error": null
     },
     {
@@ -294,13 +320,44 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "Meta becomes latest firm to say its AI hacked another company",
+          "link": "https://www.reddit.com/r/artificial/comments/1vh098k/meta_becomes_latest_firm_to_say_its_ai_hacked/",
+          "date": "2026-08-06T10:20:00+00:00"
+        },
+        {
+          "title": "I built an history podcast you can interrupt mid-episode to ask the hosts questions",
+          "link": "https://www.reddit.com/r/artificial/comments/1vgurp1/i_built_an_history_podcast_you_can_interrupt/",
+          "date": "2026-08-06T05:04:26+00:00"
+        },
+        {
+          "title": "Reddit is introducing a new moderator: AI",
+          "link": "https://www.reddit.com/r/artificial/comments/1vgc4mc/reddit_is_introducing_a_new_moderator_ai/",
+          "date": "2026-08-05T16:23:28+00:00"
+        },
+        {
+          "title": "Six years into AI research and I genuinely can't define \"understanding\" anymore",
+          "link": "https://www.reddit.com/r/artificial/comments/1vg7fcd/six_years_into_ai_research_and_i_genuinely_cant/",
+          "date": "2026-08-05T13:29:46+00:00"
+        },
+        {
+          "title": "Cloudflare announces open-source Cloudflare OS as AI \"operating system\"",
+          "link": "https://www.reddit.com/r/artificial/comments/1vgn96g/cloudflare_announces_opensource_cloudflare_os_as/",
+          "date": "2026-08-05T23:14:27+00:00"
+        }
+      ],
       "error": null
     },
     {
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Adding an AI tool to Google Earth shook our trust in maps that has been centuries in the making",
+          "link": "https://theconversation.com/adding-an-ai-tool-to-google-earth-shook-our-trust-in-maps-that-has-been-centuries-in-the-making-289162",
+          "date": "2026-08-06T11:08:00Z"
+        },
         {
           "title": "More than half of children and teens are using AI for personal reasons. This comes with risks",
           "link": "https://theconversation.com/more-than-half-of-children-and-teens-are-using-ai-for-personal-reasons-this-comes-with-risks-288951",
@@ -320,11 +377,6 @@
           "title": "How grief became a subscription service",
           "link": "https://theconversation.com/how-grief-became-a-subscription-service-287412",
           "date": "2026-08-04T14:09:59Z"
-        },
-        {
-          "title": "As the skies get busier, will AI help air traffic controllers keep planes flying safely?",
-          "link": "https://theconversation.com/as-the-skies-get-busier-will-ai-help-air-traffic-controllers-keep-planes-flying-safely-288433",
-          "date": "2026-08-04T12:16:24Z"
         }
       ],
       "error": null
