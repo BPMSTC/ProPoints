@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T22:31:06.639334+00:00",
+  "generatedAt": "2026-08-07T23:30:13.554133+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Europe's free satellite service just made it easier to track wildfires",
+          "link": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
+          "date": "Fri, 07 Aug 2026 21:48:21 +0000"
+        },
+        {
           "title": "Flesh-eating screwworms feast on humans in Mexico; human cases top 500",
           "link": "https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/",
           "date": "Fri, 07 Aug 2026 21:09:00 +0000"
@@ -308,11 +313,6 @@
           "title": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
           "link": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/",
           "date": "Fri, 07 Aug 2026 18:00:02 +0000"
-        },
-        {
-          "title": "DOGE's wild, unverifiable savings claims discredited in US government report",
-          "link": "https://arstechnica.com/tech-policy/2026/08/doges-inflated-wall-of-receipts-96-of-grant-savings-unverifiable-gao-says/",
-          "date": "Fri, 07 Aug 2026 17:51:05 +0000"
         }
       ],
       "error": null
