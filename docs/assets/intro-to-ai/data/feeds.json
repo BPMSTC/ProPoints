@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T21:35:12.842494+00:00",
+  "generatedAt": "2026-08-07T22:31:06.639334+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -201,6 +201,11 @@
           "date": "2026-08-07T08:46:58+00:00"
         },
         {
+          "title": "[Mod post] We are having a show-and-tell for AI usecases this weekend and your welcome to come.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vids2a/mod_post_we_are_having_a_showandtell_for_ai/",
+          "date": "2026-08-07T21:45:26+00:00"
+        },
+        {
           "title": "Life after you stop reviewing your AI's slop PRs and just hit merge",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vi2ztd/life_after_you_stop_reviewing_your_ais_slop_prs/",
           "date": "2026-08-07T14:59:44+00:00"
@@ -214,11 +219,6 @@
           "title": "POV: Vibe coder bro hit his daily usage limit",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vhn9ob/pov_vibe_coder_bro_hit_his_daily_usage_limit/",
           "date": "2026-08-07T01:46:10+00:00"
-        },
-        {
-          "title": "Realizing you just pushed your private API keys to a public GitHub repo",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vi51vs/realizing_you_just_pushed_your_private_api_keys/",
-          "date": "2026-08-07T16:16:21+00:00"
         }
       ],
       "error": null
