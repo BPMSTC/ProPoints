@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T08:55:13.191390+00:00",
+  "generatedAt": "2026-08-07T10:02:31.951886+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -196,6 +196,11 @@
       "url": "https://www.reddit.com/r/aipromptprogramming/.rss",
       "items": [
         {
+          "title": "My bank account looking at my Claude usage like... \ud83d\udc80",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vhv4gd/my_bank_account_looking_at_my_claude_usage_like/",
+          "date": "2026-08-07T08:46:58+00:00"
+        },
+        {
           "title": "POV: Vibe coder bro hit his daily usage limit",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vhn9ob/pov_vibe_coder_bro_hit_his_daily_usage_limit/",
           "date": "2026-08-07T01:46:10+00:00"
@@ -211,14 +216,9 @@
           "date": "2026-08-07T08:17:18+00:00"
         },
         {
-          "title": "My bank account looking at my Claude usage like... \ud83d\udc80",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vhv4gd/my_bank_account_looking_at_my_claude_usage_like/",
-          "date": "2026-08-07T08:46:58+00:00"
-        },
-        {
-          "title": "No codex resets. Weekly tokens at 0% for days. Resorting to Claude it is.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vhgn03/no_codex_resets_weekly_tokens_at_0_for_days/",
-          "date": "2026-08-06T21:01:56+00:00"
+          "title": "Wanted...geek..proficient tech/engineer...ai infrastructure...someone who knows all the formal vocabulary and components of ai",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vhw99c/wantedgeekproficient_techengineerai/",
+          "date": "2026-08-07T09:54:34+00:00"
         }
       ],
       "error": null
@@ -365,6 +365,16 @@
           "date": "Fri, 07 Aug 2026 04:00:08 GMT"
         },
         {
+          "title": "\u2018This is very real redlining\u2019: outrage in Little Rock as two datacenters loom",
+          "link": "https://www.theguardian.com/us-news/2026/aug/07/datacenters-little-rock-arkansas",
+          "date": "Fri, 07 Aug 2026 10:00:15 GMT"
+        },
+        {
+          "title": "Trump orders new 15% tariff on key material for solar panels and microchips",
+          "link": "https://www.theguardian.com/us-news/2026/aug/07/trump-orders-tariff-solar-panels-microchips-manufacturing-ingredient",
+          "date": "Fri, 07 Aug 2026 09:11:36 GMT"
+        },
+        {
           "title": "Can the government really get ahead of the curve on AI? - podcast",
           "link": "https://www.theguardian.com/australia-news/audio/2026/aug/07/can-the-government-really-get-ahead-of-the-curve-on-ai-australian-politics-podcast",
           "date": "Fri, 07 Aug 2026 03:12:09 GMT"
@@ -373,16 +383,6 @@
           "title": "Safety fears as scientists make first viruses designed by AI",
           "link": "https://www.theguardian.com/science/2026/aug/06/safety-fears-as-scientists-make-first-viruses-designed-by-ai",
           "date": "Thu, 06 Aug 2026 18:00:04 GMT"
-        },
-        {
-          "title": "Lloyds Bank should publish the human cost of its AI savings | Letters",
-          "link": "https://www.theguardian.com/technology/2026/aug/06/lloyds-bank-should-publish-the-human-cost-of-its-ai-savings",
-          "date": "Thu, 06 Aug 2026 16:45:49 GMT"
-        },
-        {
-          "title": "Danish pupils will have to orally defend essays in attempt to combat AI cheating",
-          "link": "https://www.theguardian.com/technology/2026/aug/06/students-ai-cheating-schools-denmark",
-          "date": "Thu, 06 Aug 2026 11:58:15 GMT"
         }
       ],
       "error": null
@@ -456,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
+          "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
+          "date": "Fri, 07 Aug 2026 10:00:00 +0000"
+        },
+        {
           "title": "One of China\u2019s Most Powerful AI Models Has Also Escaped Containment",
           "link": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
           "date": "Fri, 07 Aug 2026 01:16:55 +0000"
@@ -474,11 +479,6 @@
           "title": "DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else",
           "link": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/",
           "date": "Thu, 06 Aug 2026 16:23:04 +0000"
-        },
-        {
-          "title": "OpenAI Didn\u2019t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
-          "link": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
-          "date": "Thu, 06 Aug 2026 00:15:04 +0000"
         }
       ],
       "error": null
