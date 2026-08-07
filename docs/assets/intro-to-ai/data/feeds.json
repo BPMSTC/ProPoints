@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-08-07T14:10:55.968116+00:00",
+  "generatedAt": "2026-08-07T15:52:43.281092+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Behind the Blog: Rare Books and Baseball Brain",
+          "link": "https://www.404media.co/behind-the-blog-rare-books-and-baseball-brain/",
+          "date": "Fri, 07 Aug 2026 15:27:49 GMT"
+        },
+        {
+          "title": "City That Arrested Person for Clapping at Data Center Meeting Moves to Virtual Meetings for 'Public Safety'",
+          "link": "https://www.404media.co/city-that-arrested-person-for-clapping-at-data-center-meeting-moves-to-virtual-townhalls-for-public-safety/",
+          "date": "Fri, 07 Aug 2026 14:55:33 GMT"
+        },
         {
           "title": "Flock Pitched a Plan To Turn Uber and Lyft Drivers Into Roaming Surveillance Vehicles",
           "link": "https://www.404media.co/flock-pitched-a-plan-to-turn-uber-and-lyft-drivers-into-roaming-surveillance-vehicles/",
@@ -19,16 +29,6 @@
           "title": "Scientists Designed a Virtual Alien Lifeform to Hunt for Extraterrestrials",
           "link": "https://www.404media.co/scientists-designed-a-virtual-alien-lifeform-to-hunt-for-extraterrestrials/",
           "date": "Thu, 06 Aug 2026 16:49:49 GMT"
-        },
-        {
-          "title": "Cities Are Ditching Flock, Immediately Replacing It With Axon License Plate Readers",
-          "link": "https://www.404media.co/cities-are-ditching-flock-immediately-replacing-it-with-axon-license-plate-readers/",
-          "date": "Thu, 06 Aug 2026 13:14:07 GMT"
-        },
-        {
-          "title": "Cops Used Flock to Track a Man Across State Lines to Create Pretext to Search His Car for Weed",
-          "link": "https://www.404media.co/cops-used-flock-to-track-a-man-across-state-lines-to-create-pretext-to-search-his-car-for-weed/",
-          "date": "Wed, 05 Aug 2026 14:50:49 GMT"
         }
       ],
       "error": null
@@ -114,6 +114,21 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "DeepSeek Invests in Unitree to Develop AI Brain for Humanoid Bots",
+          "link": "https://aibusiness.com/robotics/deepseek-invests-unitree-develop-ai-brain-for-humanoid-bots",
+          "date": "Fri, 07 Aug 2026 15:18:37 GMT"
+        },
+        {
+          "title": "Prompt: Why Better AI Models Aren't Enough",
+          "link": "https://aibusiness.com/generative-ai/prompt-why-better-ai-models-aren-t-enough",
+          "date": "Fri, 07 Aug 2026 14:31:38 GMT"
+        },
+        {
+          "title": "Google DeepMind Releases Gemini 2 Humanoid Model",
+          "link": "https://aibusiness.com/robotics/google-deepmind-gemini-2-humanoid-model",
+          "date": "Thu, 06 Aug 2026 20:47:08 GMT"
+        },
+        {
           "title": "Build Vs. Buy: The AI Agent Landscape for Businesses",
           "link": "https://aibusiness.com/generative-ai/build-vs-buy-ai-agent-landscape-businesses",
           "date": "Thu, 06 Aug 2026 18:06:46 GMT"
@@ -122,21 +137,6 @@
           "title": "AI Pioneer Geoffrey Hinton Says Agent Breakouts are Scary",
           "link": "https://aibusiness.com/responsible-ai/ai-pioneer-geoffrey-hinton-agent-breakouts-scary",
           "date": "Thu, 06 Aug 2026 15:48:18 GMT"
-        },
-        {
-          "title": "Anthropic, OpenAI Agents Faked Identities in Security Test",
-          "link": "https://aibusiness.com/cybersecurity/anthropic-openai-agents-faked-identities-security-test",
-          "date": "Wed, 05 Aug 2026 15:58:07 GMT"
-        },
-        {
-          "title": "Infrastructure Startup to Build $10B AI Factory in Norway",
-          "link": "https://aibusiness.com/data-centers/infrastructure-startup-build-10-billion-ai-factory-norway",
-          "date": "Wed, 05 Aug 2026 15:05:42 GMT"
-        },
-        {
-          "title": "AI's Impact: How Businesses Are Equipping the Future Workforce",
-          "link": "https://aibusiness.com/generative-ai/ai-s-impact-how-businesses-equipping-the-future-workforce",
-          "date": "Wed, 05 Aug 2026 14:26:57 GMT"
         }
       ],
       "error": null
@@ -211,14 +211,14 @@
           "date": "2026-08-07T02:45:00+00:00"
         },
         {
-          "title": "Companies coming back to programmers after AI failed to understand vague product requirements with ambiguous grammar.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vhyv2l/companies_coming_back_to_programmers_after_ai/",
-          "date": "2026-08-07T12:09:59+00:00"
+          "title": "I view AI Platforms as Vehicles",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vi438p/i_view_ai_platforms_as_vehicles/",
+          "date": "2026-08-07T15:40:35+00:00"
         },
         {
-          "title": "Lambda128 Vs code fork : An Agentic Code Editor",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vhumtz/lambda128_vs_code_fork_an_agentic_code_editor/",
-          "date": "2026-08-07T08:17:18+00:00"
+          "title": "Life after you stop reviewing your AI's slop PRs and just hit merge",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vi2ztd/life_after_you_stop_reviewing_your_ais_slop_prs/",
+          "date": "2026-08-07T14:59:44+00:00"
         }
       ],
       "error": null
@@ -290,6 +290,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Report: White House drafting executive order linking vaccines and autism",
+          "link": "https://arstechnica.com/health/2026/08/report-white-house-drafting-executive-order-linking-vaccines-and-autism/",
+          "date": "Fri, 07 Aug 2026 14:41:34 +0000"
+        },
+        {
+          "title": "AI chatbots have failed people in crisis. Can that be fixed?",
+          "link": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
+          "date": "Fri, 07 Aug 2026 13:49:37 +0000"
+        },
+        {
           "title": "ByteDance trains massive AI model in bid to rival Anthropic",
           "link": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
           "date": "Fri, 07 Aug 2026 13:29:22 +0000"
@@ -303,16 +313,6 @@
           "title": "Trump is losing his war on wind power",
           "link": "https://arstechnica.com/science/2026/08/trump-is-losing-his-war-on-wind-power/",
           "date": "Fri, 07 Aug 2026 12:58:04 +0000"
-        },
-        {
-          "title": "Remembering the pre-Google web, when search was an experiment",
-          "link": "https://arstechnica.com/gadgets/2026/08/remembering-the-pre-google-web-when-search-was-an-experiment/",
-          "date": "Fri, 07 Aug 2026 11:00:06 +0000"
-        },
-        {
-          "title": "Organ donation group accused of trying to take living man's organs faces shutdown",
-          "link": "https://arstechnica.com/health/2026/08/us-to-shutter-organ-donation-group-accused-of-trying-to-take-living-mans-organs/",
-          "date": "Thu, 06 Aug 2026 22:20:50 +0000"
         }
       ],
       "error": null
@@ -328,6 +328,16 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "AI is making disinformation harder to spot \u2013 but we\u2019ve found a new way to catch it",
+          "link": "https://theconversation.com/ai-is-making-disinformation-harder-to-spot-but-weve-found-a-new-way-to-catch-it-288671",
+          "date": "2026-08-07T13:34:17Z"
+        },
+        {
+          "title": "AI is flooding the online book market with poor translations \u2013 here\u2019s how to spot them",
+          "link": "https://theconversation.com/ai-is-flooding-the-online-book-market-with-poor-translations-heres-how-to-spot-them-288166",
+          "date": "2026-08-07T13:31:09Z"
+        },
+        {
           "title": "Employers everywhere are using AI \u2013 but business schools aren\u2019t preparing students for the shift",
           "link": "https://theconversation.com/employers-everywhere-are-using-ai-but-business-schools-arent-preparing-students-for-the-shift-287445",
           "date": "2026-08-07T12:35:40Z"
@@ -341,16 +351,6 @@
           "title": "These 3 charts show female-dominated jobs are actually the most exposed to AI",
           "link": "https://theconversation.com/these-3-charts-show-female-dominated-jobs-are-actually-the-most-exposed-to-ai-288103",
           "date": "2026-08-06T20:08:21Z"
-        },
-        {
-          "title": "Adding an AI tool to Google Earth shook our trust in maps that has been centuries in the making",
-          "link": "https://theconversation.com/adding-an-ai-tool-to-google-earth-shook-our-trust-in-maps-that-has-been-centuries-in-the-making-289162",
-          "date": "2026-08-06T11:08:00Z"
-        },
-        {
-          "title": "More than half of children and teens are using AI for personal reasons. This comes with risks",
-          "link": "https://theconversation.com/more-than-half-of-children-and-teens-are-using-ai-for-personal-reasons-this-comes-with-risks-288951",
-          "date": "2026-08-06T03:22:14Z"
         }
       ],
       "error": null
@@ -363,6 +363,11 @@
           "title": "The White House\u2019s plan to vet potentially dangerous AI is cloaked in secrecy",
           "link": "https://www.theguardian.com/technology/2026/aug/07/white-house-ai",
           "date": "Fri, 07 Aug 2026 13:00:18 GMT"
+        },
+        {
+          "title": "Is the promise of AI living up to the hype? | Fiona Katauskas",
+          "link": "https://www.theguardian.com/commentisfree/picture/2026/aug/08/is-the-promise-of-ai-living-up-to-the-hype",
+          "date": "Fri, 07 Aug 2026 15:00:24 GMT"
         },
         {
           "title": "\u2018This is very real redlining\u2019: outrage in Little Rock as two datacenters loom",
@@ -378,11 +383,6 @@
           "title": "One of science fiction\u2019s greatest writers warned us about a AI. Does he also hold the remedy? | Alan Finkel",
           "link": "https://www.theguardian.com/technology/commentisfree/2026/aug/07/science-fiction-warned-us-about-an-ai-powered-dystopian-future-does-it-also-hold-the-remedy",
           "date": "Fri, 07 Aug 2026 04:00:08 GMT"
-        },
-        {
-          "title": "Can the government really get ahead of the curve on AI? - podcast",
-          "link": "https://www.theguardian.com/australia-news/audio/2026/aug/07/can-the-government-really-get-ahead-of-the-curve-on-ai-australian-politics-podcast",
-          "date": "Fri, 07 Aug 2026 03:12:09 GMT"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "AI Model Invents Completely New Viruses Unknown to Nature",
+          "link": "https://futurism.com/health-medicine/ai-creates-new-virus",
+          "date": "Fri, 07 Aug 2026 10:52:18 -0400"
+        },
+        {
           "title": "Better Hope You Don\u2019t Need an Ambulance in New Orleans, Because the City\u2019s 911 Operators Are Now AI",
           "link": "https://futurism.com/artificial-intelligence/ai-dispatch-911-new-orleans-emergency-automation",
           "date": "Fri, 07 Aug 2026 08:49:54 -0400"
@@ -442,11 +447,6 @@
           "title": "Grokipedia Appears to Have Completely Broken and Nobody Noticed",
           "link": "https://futurism.com/future-society/grokipedia-broken-nobody-noticed",
           "date": "Thu, 06 Aug 2026 13:54:30 -0400"
-        },
-        {
-          "title": "Andreessen Horowitz Partner Boasts That the Company\u2019s New Tech Can Fabricate Fake History Like in \u201c1984\u201d",
-          "link": "https://futurism.com/artificial-intelligence/andreessen-horowitz-chilling-assessment-new-tech",
-          "date": "Thu, 06 Aug 2026 12:54:53 -0400"
         }
       ],
       "error": null
@@ -455,6 +455,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Scientists Used AI to Create 16 New Viruses",
+          "link": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
+          "date": "Fri, 07 Aug 2026 14:13:57 +0000"
+        },
         {
           "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
           "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
@@ -474,11 +479,6 @@
           "title": "ICE\u2019s DNA Collection Increases, SpaceX\u2019s Rocket Crashes Into the Moon, and the AI Backlash Grows",
           "link": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows/",
           "date": "Thu, 06 Aug 2026 19:30:46 +0000"
-        },
-        {
-          "title": "DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else",
-          "link": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/",
-          "date": "Thu, 06 Aug 2026 16:23:04 +0000"
         }
       ],
       "error": null
