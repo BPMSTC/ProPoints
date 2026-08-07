@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-08-07T11:43:21.552002+00:00",
+  "generatedAt": "2026-08-07T12:55:21.670169+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Flock Pitched a Plan To Turn Uber and Lyft Drivers Into Roaming Surveillance Vehicles",
+          "link": "https://www.404media.co/flock-pitched-a-plan-to-turn-uber-and-lyft-drivers-into-roaming-surveillance-vehicles/",
+          "date": "Fri, 07 Aug 2026 12:00:26 GMT"
+        },
         {
           "title": "Software Giant SAP Stops Most Travel and Hiring Because of AI\u2019s Soaring Cost",
           "link": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
@@ -24,11 +29,6 @@
           "title": "Cops Used Flock to Track a Man Across State Lines to Create Pretext to Search His Car for Weed",
           "link": "https://www.404media.co/cops-used-flock-to-track-a-man-across-state-lines-to-create-pretext-to-search-his-car-for-weed/",
           "date": "Wed, 05 Aug 2026 14:50:49 GMT"
-        },
-        {
-          "title": "Podcast: This Man Might Go to Prison for Wiping His Phone",
-          "link": "https://www.404media.co/podcast-this-man-might-go-to-prison-for-wiping-his-phone/",
-          "date": "Wed, 05 Aug 2026 14:23:24 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -211,14 +211,14 @@
           "date": "2026-08-07T02:45:00+00:00"
         },
         {
+          "title": "Companies coming back to programmers after AI failed to understand vague product requirements with ambiguous grammar.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vhyv2l/companies_coming_back_to_programmers_after_ai/",
+          "date": "2026-08-07T12:09:59+00:00"
+        },
+        {
           "title": "Lambda128 Vs code fork : An Agentic Code Editor",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vhumtz/lambda128_vs_code_fork_an_agentic_code_editor/",
           "date": "2026-08-07T08:17:18+00:00"
-        },
-        {
-          "title": "A prompt workflow for keeping AI-generated brand content grounded",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vhxgnr/a_prompt_workflow_for_keeping_aigenerated_brand/",
-          "date": "2026-08-07T11:00:47+00:00"
         }
       ],
       "error": null
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Remembering the pre-Google web, when search was an experiment",
+          "link": "https://arstechnica.com/gadgets/2026/08/remembering-the-pre-google-web-when-search-was-an-experiment/",
+          "date": "Fri, 07 Aug 2026 11:00:06 +0000"
+        },
+        {
           "title": "Organ donation group accused of trying to take living man's organs faces shutdown",
           "link": "https://arstechnica.com/health/2026/08/us-to-shutter-organ-donation-group-accused-of-trying-to-take-living-mans-organs/",
           "date": "Thu, 06 Aug 2026 22:20:50 +0000"
@@ -308,11 +313,6 @@
           "title": "Suno hopes to go legit with watermarks for AI-generated music",
           "link": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
           "date": "Thu, 06 Aug 2026 20:17:36 +0000"
-        },
-        {
-          "title": "Anthropic will design its own hardware to power Claude",
-          "link": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
-          "date": "Thu, 06 Aug 2026 20:03:44 +0000"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Better Hope You Don\u2019t Need an Ambulance in New Orleans, Because the City\u2019s 911 Operators Are Now AI",
+          "link": "https://futurism.com/artificial-intelligence/ai-dispatch-911-new-orleans-emergency-automation",
+          "date": "Fri, 07 Aug 2026 08:49:54 -0400"
+        },
+        {
           "title": "Jealously Watching OpenAI and Anthropic, Meta Suddenly Claims That Its AI Went on a Hacking Spree Too",
           "link": "https://futurism.com/future-society/jealous-meta-claims-ai-went-hacking-too",
           "date": "Thu, 06 Aug 2026 16:23:05 -0400"
@@ -442,11 +447,6 @@
           "title": "Andreessen Horowitz Partner Boasts That the Company\u2019s New Tech Can Fabricate Fake History Like in \u201c1984\u201d",
           "link": "https://futurism.com/artificial-intelligence/andreessen-horowitz-chilling-assessment-new-tech",
           "date": "Thu, 06 Aug 2026 12:54:53 -0400"
-        },
-        {
-          "title": "We Talked to the Guy Who Built a Chatbot That\u2019s Just Him Manually Responding to People One-by-One",
-          "link": "https://futurism.com/artificial-intelligence/guy-chatbot-manually-responding-chatjtb",
-          "date": "Thu, 06 Aug 2026 09:38:08 -0400"
         }
       ],
       "error": null
