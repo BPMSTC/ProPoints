@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T11:24:38.657638+00:00",
+  "generatedAt": "2026-08-08T12:39:58.436997+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
+          "link": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
+          "date": "Sat, 08 Aug 2026 11:30:48 +0000"
+        },
+        {
+          "title": "DeepMind\u2019s hurricane breakthrough has surprised weather scientists",
+          "link": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+          "date": "Sat, 08 Aug 2026 11:05:50 +0000"
+        },
+        {
           "title": "Europe's free satellite service just made it easier to track wildfires",
           "link": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
           "date": "Fri, 07 Aug 2026 21:48:21 +0000"
@@ -303,16 +313,6 @@
           "title": "Judge rules Meta caused \"public nuisance\" and must fund mental health treatment",
           "link": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/",
           "date": "Fri, 07 Aug 2026 19:49:27 +0000"
-        },
-        {
-          "title": "The ultimate eclipse chase: A Concorde raced against the Moon's shadow",
-          "link": "https://arstechnica.com/science/2026/08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moons-shadow/",
-          "date": "Fri, 07 Aug 2026 19:00:17 +0000"
-        },
-        {
-          "title": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
-          "link": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/",
-          "date": "Fri, 07 Aug 2026 18:00:02 +0000"
         }
       ],
       "error": null
@@ -365,6 +365,11 @@
           "date": "Fri, 07 Aug 2026 16:56:34 GMT"
         },
         {
+          "title": "Google DeepMind enters a new era as co-founder Demis Hassabis shifts AI role",
+          "link": "https://www.theguardian.com/technology/2026/aug/08/google-demis-hassabis-deepmind-shifts-role",
+          "date": "Sat, 08 Aug 2026 12:00:45 GMT"
+        },
+        {
           "title": "Parenting is hard. Should we let AI do it for us? | Dave Schilling",
           "link": "https://www.theguardian.com/commentisfree/2026/aug/08/ai-optimized-parenting",
           "date": "Sat, 08 Aug 2026 11:00:47 GMT"
@@ -378,11 +383,6 @@
           "title": "\u2018I hate what AI is doing to the minds and happiness of the young\u2019: Katherine Rundell on the view from the classroom",
           "link": "https://www.theguardian.com/books/ng-interactive/2026/aug/08/i-hate-what-ai-is-doing-to-the-minds-and-happiness-of-the-young-katherine-rundell-on-the-view-from-the-classroom",
           "date": "Sat, 08 Aug 2026 08:00:41 GMT"
-        },
-        {
-          "title": "Rising number of UK children report seeing explicit deepfakes of themselves",
-          "link": "https://www.theguardian.com/technology/2026/aug/08/uk-children-explicit-deepfake-images-ai",
-          "date": "Sat, 08 Aug 2026 07:00:39 GMT"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Why Aren\u2019t Any AI Companies Watching Their Frontier Models to Make Sure They Don\u2019t Go on Hacking Sprees?",
+          "link": "https://futurism.com/future-society/ai-companies-watching-frontier-models-hacking-sprees",
+          "date": "Sat, 08 Aug 2026 08:01:00 -0400"
+        },
+        {
           "title": "Weird Town Begs for AI Data Center",
           "link": "https://futurism.com/artificial-intelligence/weird-town-begs-ai-data-center",
           "date": "Sat, 08 Aug 2026 07:02:00 -0400"
@@ -442,11 +447,6 @@
           "title": "Google Data Center Announces Plans to Pave Over Protected Wetlands",
           "link": "https://futurism.com/artificial-intelligence/google-data-center-fort-wayne-indiana-wetlands",
           "date": "Fri, 07 Aug 2026 12:19:14 -0400"
-        },
-        {
-          "title": "AI Model Invents Completely New Viruses Unknown to Nature",
-          "link": "https://futurism.com/health-medicine/ai-creates-new-virus",
-          "date": "Fri, 07 Aug 2026 10:52:18 -0400"
         }
       ],
       "error": null
