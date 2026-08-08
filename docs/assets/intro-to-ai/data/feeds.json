@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T10:28:08.791376+00:00",
+  "generatedAt": "2026-08-08T11:24:38.657638+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -201,6 +201,11 @@
           "date": "2026-08-07T08:46:58+00:00"
         },
         {
+          "title": "[ Removed by Reddit ]",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vite3s/removed_by_reddit/",
+          "date": "2026-08-08T11:18:52+00:00"
+        },
+        {
           "title": "Same ChatGPT maths copy/paste issue as the recent Word post, but with OneNote",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vipc46/same_chatgpt_maths_copypaste_issue_as_the_recent/",
           "date": "2026-08-08T07:15:06+00:00"
@@ -214,11 +219,6 @@
           "title": "Life after you stop reviewing your AI's slop PRs and just hit merge",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vi2ztd/life_after_you_stop_reviewing_your_ais_slop_prs/",
           "date": "2026-08-07T14:59:44+00:00"
-        },
-        {
-          "title": "[Mod post] We are having a show-and-tell for AI usecases this weekend and your welcome to come.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vids2a/mod_post_we_are_having_a_showandtell_for_ai/",
-          "date": "2026-08-07T21:45:26+00:00"
         }
       ],
       "error": null
@@ -365,6 +365,16 @@
           "date": "Fri, 07 Aug 2026 16:56:34 GMT"
         },
         {
+          "title": "Parenting is hard. Should we let AI do it for us? | Dave Schilling",
+          "link": "https://www.theguardian.com/commentisfree/2026/aug/08/ai-optimized-parenting",
+          "date": "Sat, 08 Aug 2026 11:00:47 GMT"
+        },
+        {
+          "title": "President Xi nevers wastes a good crisis. As Iran, Ukraine and Palestine distract the world, he tightens his grip | Simon Tisdall",
+          "link": "https://www.theguardian.com/commentisfree/2026/aug/08/president-xi-jinping-global-order-minorities-china",
+          "date": "Sat, 08 Aug 2026 11:00:44 GMT"
+        },
+        {
           "title": "\u2018I hate what AI is doing to the minds and happiness of the young\u2019: Katherine Rundell on the view from the classroom",
           "link": "https://www.theguardian.com/books/ng-interactive/2026/aug/08/i-hate-what-ai-is-doing-to-the-minds-and-happiness-of-the-young-katherine-rundell-on-the-view-from-the-classroom",
           "date": "Sat, 08 Aug 2026 08:00:41 GMT"
@@ -373,16 +383,6 @@
           "title": "Rising number of UK children report seeing explicit deepfakes of themselves",
           "link": "https://www.theguardian.com/technology/2026/aug/08/uk-children-explicit-deepfake-images-ai",
           "date": "Sat, 08 Aug 2026 07:00:39 GMT"
-        },
-        {
-          "title": "Is the promise of AI living up to the hype? | Fiona Katauskas",
-          "link": "https://www.theguardian.com/commentisfree/picture/2026/aug/08/is-the-promise-of-ai-living-up-to-the-hype",
-          "date": "Fri, 07 Aug 2026 15:00:24 GMT"
-        },
-        {
-          "title": "The White House\u2019s plan to vet potentially dangerous AI is cloaked in secrecy",
-          "link": "https://www.theguardian.com/technology/2026/aug/07/white-house-ai",
-          "date": "Fri, 07 Aug 2026 13:00:18 GMT"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Weird Town Begs for AI Data Center",
+          "link": "https://futurism.com/artificial-intelligence/weird-town-begs-ai-data-center",
+          "date": "Sat, 08 Aug 2026 07:02:00 -0400"
+        },
+        {
           "title": "Roku Unleashes 24/7 AI Slop Channel",
           "link": "https://futurism.com/artificial-intelligence/roku-unleashes-24-7-ai-slop-channel",
           "date": "Fri, 07 Aug 2026 15:50:25 -0400"
@@ -442,11 +447,6 @@
           "title": "AI Model Invents Completely New Viruses Unknown to Nature",
           "link": "https://futurism.com/health-medicine/ai-creates-new-virus",
           "date": "Fri, 07 Aug 2026 10:52:18 -0400"
-        },
-        {
-          "title": "Better Hope You Don\u2019t Need an Ambulance in New Orleans, Because the City\u2019s 911 Operators Are Now AI",
-          "link": "https://futurism.com/artificial-intelligence/ai-dispatch-911-new-orleans-emergency-automation",
-          "date": "Fri, 07 Aug 2026 08:49:54 -0400"
         }
       ],
       "error": null
