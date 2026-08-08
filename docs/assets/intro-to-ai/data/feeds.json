@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T07:45:52.406076+00:00",
+  "generatedAt": "2026-08-08T08:38:39.181569+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -365,6 +365,11 @@
           "date": "Fri, 07 Aug 2026 16:56:34 GMT"
         },
         {
+          "title": "\u2018I hate what AI is doing to the minds and happiness of the young\u2019: Katherine Rundell on the view from the classroom",
+          "link": "https://www.theguardian.com/books/ng-interactive/2026/aug/08/i-hate-what-ai-is-doing-to-the-minds-and-happiness-of-the-young-katherine-rundell-on-the-view-from-the-classroom",
+          "date": "Sat, 08 Aug 2026 08:00:41 GMT"
+        },
+        {
           "title": "Rising number of UK children report seeing explicit deepfakes of themselves",
           "link": "https://www.theguardian.com/technology/2026/aug/08/uk-children-explicit-deepfake-images-ai",
           "date": "Sat, 08 Aug 2026 07:00:39 GMT"
@@ -378,11 +383,6 @@
           "title": "The White House\u2019s plan to vet potentially dangerous AI is cloaked in secrecy",
           "link": "https://www.theguardian.com/technology/2026/aug/07/white-house-ai",
           "date": "Fri, 07 Aug 2026 13:00:18 GMT"
-        },
-        {
-          "title": "\u2018This is very real redlining\u2019: outrage in Little Rock as two datacenters loom",
-          "link": "https://www.theguardian.com/us-news/2026/aug/07/datacenters-little-rock-arkansas",
-          "date": "Fri, 07 Aug 2026 10:00:15 GMT"
         }
       ],
       "error": null
