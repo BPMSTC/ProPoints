@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T14:28:32.832231+00:00",
+  "generatedAt": "2026-08-08T15:31:53.316367+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -201,11 +201,6 @@
           "date": "2026-08-07T08:46:58+00:00"
         },
         {
-          "title": "[ Removed by Reddit ]",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vite3s/removed_by_reddit/",
-          "date": "2026-08-08T11:18:52+00:00"
-        },
-        {
           "title": "Same ChatGPT maths copy/paste issue as the recent Word post, but with OneNote",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vipc46/same_chatgpt_maths_copypaste_issue_as_the_recent/",
           "date": "2026-08-08T07:15:06+00:00"
@@ -219,6 +214,11 @@
           "title": "Life after you stop reviewing your AI's slop PRs and just hit merge",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vi2ztd/life_after_you_stop_reviewing_your_ais_slop_prs/",
           "date": "2026-08-07T14:59:44+00:00"
+        },
+        {
+          "title": "[Mod post] We are having a show-and-tell for AI usecases this weekend and your welcome to come.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vids2a/mod_post_we_are_having_a_showandtell_for_ai/",
+          "date": "2026-08-07T21:45:26+00:00"
         }
       ],
       "error": null
@@ -375,7 +375,7 @@
           "date": "Sat, 08 Aug 2026 11:00:47 GMT"
         },
         {
-          "title": "President Xi nevers wastes a good crisis. As Iran, Ukraine and Palestine distract the world, he tightens his grip | Simon Tisdall",
+          "title": "President Xi never wastes a good crisis. As Iran, Ukraine and Palestine distract the world, he tightens his grip | Simon Tisdall",
           "link": "https://www.theguardian.com/commentisfree/2026/aug/08/president-xi-jinping-global-order-minorities-china",
           "date": "Sat, 08 Aug 2026 11:00:44 GMT"
         },
