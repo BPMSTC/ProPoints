@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T19:25:42.794315+00:00",
+  "generatedAt": "2026-08-08T20:26:34.543562+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Time Magazine Now Running Ads Meant Specifically to Influence AI Agents",
+          "link": "https://futurism.com/artificial-intelligence/time-magazine-running-ads-influence-ai-agents",
+          "date": "Sat, 08 Aug 2026 16:01:00 -0400"
+        },
+        {
           "title": "Reddit Finally Found a Way to Make Its Mods Even Worse: Replace Them With AI",
           "link": "https://futurism.com/artificial-intelligence/reddit-mods-worse-replace-ai",
           "date": "Sat, 08 Aug 2026 14:01:00 -0400"
@@ -442,11 +447,6 @@
           "title": "Meta Caught Paying Nazis to Post on Facebook",
           "link": "https://futurism.com/artificial-intelligence/meta-caught-paying-nazis-to-post-on-facebook",
           "date": "Sat, 08 Aug 2026 09:03:00 -0400"
-        },
-        {
-          "title": "Why Aren\u2019t Any AI Companies Watching Their Frontier Models to Make Sure They Don\u2019t Go on Hacking Sprees?",
-          "link": "https://futurism.com/future-society/ai-companies-watching-frontier-models-hacking-sprees",
-          "date": "Sat, 08 Aug 2026 08:01:00 -0400"
         }
       ],
       "error": null
