@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T17:25:46.525163+00:00",
+  "generatedAt": "2026-08-08T18:32:11.327985+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Reddit Finally Found a Way to Make Its Mods Even Worse: Replace Them With AI",
+          "link": "https://futurism.com/artificial-intelligence/reddit-mods-worse-replace-ai",
+          "date": "Sat, 08 Aug 2026 14:01:00 -0400"
+        },
+        {
           "title": "AI Data Centers Are Causing Unfathomable Amounts of Air Pollution, and It Gets Worse With Each New One They Build",
           "link": "https://futurism.com/future-society/ai-data-centers-air-pollution-generators-worse",
           "date": "Sat, 08 Aug 2026 13:02:00 -0400"
@@ -442,11 +447,6 @@
           "title": "Why Aren\u2019t Any AI Companies Watching Their Frontier Models to Make Sure They Don\u2019t Go on Hacking Sprees?",
           "link": "https://futurism.com/future-society/ai-companies-watching-frontier-models-hacking-sprees",
           "date": "Sat, 08 Aug 2026 08:01:00 -0400"
-        },
-        {
-          "title": "Weird Town Begs for AI Data Center",
-          "link": "https://futurism.com/artificial-intelligence/weird-town-begs-ai-data-center",
-          "date": "Sat, 08 Aug 2026 07:02:00 -0400"
         }
       ],
       "error": null
