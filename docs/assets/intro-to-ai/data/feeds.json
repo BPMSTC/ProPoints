@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T01:18:44.202450+00:00",
+  "generatedAt": "2026-08-08T03:22:00.305097+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -201,14 +201,14 @@
           "date": "2026-08-07T08:46:58+00:00"
         },
         {
-          "title": "[Mod post] We are having a show-and-tell for AI usecases this weekend and your welcome to come.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vids2a/mod_post_we_are_having_a_showandtell_for_ai/",
-          "date": "2026-08-07T21:45:26+00:00"
-        },
-        {
           "title": "Life after you stop reviewing your AI's slop PRs and just hit merge",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vi2ztd/life_after_you_stop_reviewing_your_ais_slop_prs/",
           "date": "2026-08-07T14:59:44+00:00"
+        },
+        {
+          "title": "[Mod post] We are having a show-and-tell for AI usecases this weekend and your welcome to come.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vids2a/mod_post_we_are_having_a_showandtell_for_ai/",
+          "date": "2026-08-07T21:45:26+00:00"
         },
         {
           "title": "Senior dev watching the junior dev with Claude Code",
