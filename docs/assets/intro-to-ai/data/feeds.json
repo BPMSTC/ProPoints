@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T13:42:20.158200+00:00",
+  "generatedAt": "2026-08-08T14:28:32.832231+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "VC-Funded Startups Linked to Persistent Fraud",
+          "link": "https://futurism.com/future-society/vc-funded-tech-startups-fraud-research-ai",
+          "date": "Sat, 08 Aug 2026 10:01:00 -0400"
+        },
+        {
           "title": "Meta Caught Paying Nazis to Post on Facebook",
           "link": "https://futurism.com/artificial-intelligence/meta-caught-paying-nazis-to-post-on-facebook",
           "date": "Sat, 08 Aug 2026 09:03:00 -0400"
@@ -442,11 +447,6 @@
           "title": "Roku Unleashes 24/7 AI Slop Channel",
           "link": "https://futurism.com/artificial-intelligence/roku-unleashes-24-7-ai-slop-channel",
           "date": "Fri, 07 Aug 2026 15:50:25 -0400"
-        },
-        {
-          "title": "Public Offers Implausible Number of Alibis for Man Accused of Destroying Flock Cameras",
-          "link": "https://futurism.com/future-society/public-alibis-flock-alpr-vandalism-arrest-destroying-cameras",
-          "date": "Fri, 07 Aug 2026 14:03:11 -0400"
         }
       ],
       "error": null
