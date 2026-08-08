@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T15:31:53.316367+00:00",
+  "generatedAt": "2026-08-08T16:28:32.736844+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -196,6 +196,11 @@
       "url": "https://www.reddit.com/r/aipromptprogramming/.rss",
       "items": [
         {
+          "title": "So AI has now designed actual viruses that work...",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vizewm/so_ai_has_now_designed_actual_viruses_that_work/",
+          "date": "2026-08-08T15:50:56+00:00"
+        },
+        {
           "title": "My bank account looking at my Claude usage like... \ud83d\udc80",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vhv4gd/my_bank_account_looking_at_my_claude_usage_like/",
           "date": "2026-08-07T08:46:58+00:00"
@@ -206,19 +211,14 @@
           "date": "2026-08-08T07:15:06+00:00"
         },
         {
-          "title": "What safeguards do you use before giving ChatGPT agents permission to act?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vip15r/what_safeguards_do_you_use_before_giving_chatgpt/",
-          "date": "2026-08-08T06:57:36+00:00"
-        },
-        {
           "title": "Life after you stop reviewing your AI's slop PRs and just hit merge",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vi2ztd/life_after_you_stop_reviewing_your_ais_slop_prs/",
           "date": "2026-08-07T14:59:44+00:00"
         },
         {
-          "title": "[Mod post] We are having a show-and-tell for AI usecases this weekend and your welcome to come.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vids2a/mod_post_we_are_having_a_showandtell_for_ai/",
-          "date": "2026-08-07T21:45:26+00:00"
+          "title": "What safeguards do you use before giving ChatGPT agents permission to act?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vip15r/what_safeguards_do_you_use_before_giving_chatgpt/",
+          "date": "2026-08-08T06:57:36+00:00"
         }
       ],
       "error": null
