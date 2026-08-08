@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T22:28:53.129962+00:00",
+  "generatedAt": "2026-08-08T23:24:39.501376+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -201,6 +201,11 @@
           "date": "2026-08-08T15:50:56+00:00"
         },
         {
+          "title": "DND ChatGPT",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vj9wt2/dnd_chatgpt/",
+          "date": "2026-08-08T23:11:47+00:00"
+        },
+        {
           "title": "Compare AI answers automatically! ChatGPT, Gemini, Claude, Grok, and Perplexity side-by-side with 100% privacy.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1viw2h1/compare_ai_answers_automatically_chatgpt_gemini/",
           "date": "2026-08-08T13:28:54+00:00"
@@ -214,11 +219,6 @@
           "title": "Same ChatGPT maths copy/paste issue as the recent Word post, but with OneNote",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vipc46/same_chatgpt_maths_copypaste_issue_as_the_recent/",
           "date": "2026-08-08T07:15:06+00:00"
-        },
-        {
-          "title": "Life after you stop reviewing your AI's slop PRs and just hit merge",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vi2ztd/life_after_you_stop_reviewing_your_ais_slop_prs/",
-          "date": "2026-08-07T14:59:44+00:00"
         }
       ],
       "error": null
