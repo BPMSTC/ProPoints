@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T15:29:44.089197+00:00",
+  "generatedAt": "2026-08-09T16:34:28.539564+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -211,14 +211,14 @@
           "date": "2026-08-09T07:49:09+00:00"
         },
         {
-          "title": "Kaappi: A Scheme Programming Language Implementation Written in Zig",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vjmuha/kaappi_a_scheme_programming_language/",
-          "date": "2026-08-09T10:53:08+00:00"
-        },
-        {
           "title": "Current status of dealing with the idiot",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vjihd3/current_status_of_dealing_with_the_idiot/",
           "date": "2026-08-09T06:34:23+00:00"
+        },
+        {
+          "title": "Kaappi: A Scheme Programming Language Implementation Written in Zig",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vjmuha/kaappi_a_scheme_programming_language/",
+          "date": "2026-08-09T10:53:08+00:00"
         }
       ],
       "error": null
