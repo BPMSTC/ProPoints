@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T20:27:35.070476+00:00",
+  "generatedAt": "2026-08-09T21:30:04.171944+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -201,14 +201,14 @@
           "date": "2026-08-09T08:20:40+00:00"
         },
         {
-          "title": "New in Claude Code: your sessions can now message each other.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vjmop7/new_in_claude_code_your_sessions_can_now_message/",
-          "date": "2026-08-09T10:43:54+00:00"
-        },
-        {
           "title": "Is this something already considered, but discarded?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vjjs4s/is_this_something_already_considered_but_discarded/",
           "date": "2026-08-09T07:49:09+00:00"
+        },
+        {
+          "title": "New in Claude Code: your sessions can now message each other.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vjmop7/new_in_claude_code_your_sessions_can_now_message/",
+          "date": "2026-08-09T10:43:54+00:00"
         },
         {
           "title": "Current status of dealing with the idiot",
@@ -320,13 +320,44 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "Why billion-dollar robotics startups are obsessed with folding laundry",
+          "link": "https://www.reddit.com/r/artificial/comments/1vjorly/why_billiondollar_robotics_startups_are_obsessed/",
+          "date": "2026-08-09T12:34:52+00:00"
+        },
+        {
+          "title": "OpenAI's stated reason for Codex's 272k context cap is cache-read cost, not the 2x billing line at the same number",
+          "link": "https://www.reddit.com/r/artificial/comments/1vjvpwb/openais_stated_reason_for_codexs_272k_context_cap/",
+          "date": "2026-08-09T17:25:42+00:00"
+        },
+        {
+          "title": "Filtering out \u201c[LLM] sucks\u201d",
+          "link": "https://www.reddit.com/r/artificial/comments/1vjzrbx/filtering_out_llm_sucks/",
+          "date": "2026-08-09T20:03:15+00:00"
+        },
+        {
+          "title": "Chinese LLMs dominate this week's top charts",
+          "link": "https://www.reddit.com/r/artificial/comments/1vizcs8/chinese_llms_dominate_this_weeks_top_charts/",
+          "date": "2026-08-08T15:48:29+00:00"
+        },
+        {
+          "title": "Why is there no \u201cApp Store\u201d for independent AI agents yet?",
+          "link": "https://www.reddit.com/r/artificial/comments/1vjr1kf/why_is_there_no_app_store_for_independent_ai/",
+          "date": "2026-08-09T14:17:50+00:00"
+        }
+      ],
       "error": null
     },
     {
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Generative AI has changed mathematics forever. Where to from here?",
+          "link": "https://theconversation.com/generative-ai-has-changed-mathematics-forever-where-to-from-here-288954",
+          "date": "2026-08-09T20:11:30Z"
+        },
         {
           "title": "5 flaws in the \u2018augmented work\u2019 myth: What a major Qu\u00e9bec survey found",
           "link": "https://theconversation.com/5-flaws-in-the-augmented-work-myth-what-a-major-quebec-survey-found-287631",
@@ -346,11 +377,6 @@
           "title": "Employers everywhere are using AI \u2013 but business schools aren\u2019t preparing students for the shift",
           "link": "https://theconversation.com/employers-everywhere-are-using-ai-but-business-schools-arent-preparing-students-for-the-shift-287445",
           "date": "2026-08-07T12:35:40Z"
-        },
-        {
-          "title": "We want to hear from you about data centres",
-          "link": "https://theconversation.com/we-want-to-hear-from-you-about-data-centres-289053",
-          "date": "2026-08-07T03:27:28Z"
         }
       ],
       "error": null
