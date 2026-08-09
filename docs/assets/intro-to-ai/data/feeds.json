@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T17:37:12.822356+00:00",
+  "generatedAt": "2026-08-09T18:37:00.429094+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -68,14 +68,40 @@
     {
       "name": "AI Accelerator Institute | Future of Artificial Intelligence",
       "url": "https://aiacceleratorinstitute.com/rss/",
-      "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "items": [
+        {
+          "title": "The definitive guide to financial services agents in production",
+          "link": "https://www.aiacceleratorinstitute.com/the-definitive-guide-to-financial-services-agents-in-production/",
+          "date": "Fri, 31 Jul 2026 17:43:12 GMT"
+        },
+        {
+          "title": "Accelerating AI growth",
+          "link": "https://www.aiacceleratorinstitute.com/accelerating-ai-growth/",
+          "date": "Fri, 31 Jul 2026 17:03:25 GMT"
+        },
+        {
+          "title": "Trust: The next critical infrastructure layer for autonomous AI",
+          "link": "https://www.aiacceleratorinstitute.com/trust-the-next-critical-infrastructure-layer-for-autonomous-ai/",
+          "date": "Fri, 31 Jul 2026 15:29:56 GMT"
+        },
+        {
+          "title": "7 things every AI engineer  should have shipped by now",
+          "link": "https://www.aiacceleratorinstitute.com/7-things-every-ai-engineer-should-have-shipped-by-now/",
+          "date": "Fri, 31 Jul 2026 13:27:01 GMT"
+        },
+        {
+          "title": "The agentic operating model report",
+          "link": "https://www.aiacceleratorinstitute.com/the-agentic-operating-model-report/",
+          "date": "Wed, 29 Jul 2026 14:15:06 GMT"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
