@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T11:27:19.409738+00:00",
+  "generatedAt": "2026-08-09T12:42:22.039472+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Mount Toba eruption doesn't seem like it could nearly kill our species",
+          "link": "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/",
+          "date": "Sun, 09 Aug 2026 11:00:14 +0000"
+        },
+        {
           "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
           "link": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
           "date": "Sat, 08 Aug 2026 11:30:48 +0000"
@@ -308,11 +313,6 @@
           "title": "Flesh-eating screwworms feast on humans in Mexico; human cases top 500",
           "link": "https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/",
           "date": "Fri, 07 Aug 2026 21:09:00 +0000"
-        },
-        {
-          "title": "Judge rules Meta caused \"public nuisance\" and must fund mental health treatment",
-          "link": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/",
-          "date": "Fri, 07 Aug 2026 19:49:27 +0000"
         }
       ],
       "error": null
@@ -365,7 +365,7 @@
           "date": "Sat, 08 Aug 2026 17:00:41 GMT"
         },
         {
-          "title": "What are datacentres doing to the places we love? In Slough, I found a bleak answer | John Harris",
+          "title": "As AI guzzles water and energy, we are already facing a choice: datacentres or homes? | John Harris",
           "link": "https://www.theguardian.com/commentisfree/2026/aug/09/slough-famous-the-office-datacentres-locals-hub-europe",
           "date": "Sun, 09 Aug 2026 11:03:18 GMT"
         },
