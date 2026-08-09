@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T06:50:48.349726+00:00",
+  "generatedAt": "2026-08-09T07:51:17.467720+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -196,6 +196,16 @@
       "url": "https://www.reddit.com/r/aipromptprogramming/.rss",
       "items": [
         {
+          "title": "Is this something already considered, but discarded?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vjjs4s/is_this_something_already_considered_but_discarded/",
+          "date": "2026-08-09T07:49:09+00:00"
+        },
+        {
+          "title": "Hey do u guys know any ai apps for free that can create those type of vids like fantasy type vid . Like this vid a real girl is standing and she opened a door and the ai put behind that door a whole fantasy ???",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vjj2oc/hey_do_u_guys_know_any_ai_apps_for_free_that_can/",
+          "date": "2026-08-09T07:07:57+00:00"
+        },
+        {
           "title": "I built a harness around AI coding agents because better models weren\u2019t fixing the problems I kept seeing",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vjiimn/i_built_a_harness_around_ai_coding_agents_because/",
           "date": "2026-08-09T06:36:23+00:00"
@@ -209,16 +219,6 @@
           "title": "LWP+ - a live wallpaper that gives you control over Material-You colors, like on Android 17",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vjd403/lwp_a_live_wallpaper_that_gives_you_control_over/",
           "date": "2026-08-09T01:45:38+00:00"
-        },
-        {
-          "title": "Feedback",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vjcyv0/feedback/",
-          "date": "2026-08-09T01:38:31+00:00"
-        },
-        {
-          "title": "So AI has now designed actual viruses that work...",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vizewm/so_ai_has_now_designed_actual_viruses_that_work/",
-          "date": "2026-08-08T15:50:56+00:00"
         }
       ],
       "error": null
