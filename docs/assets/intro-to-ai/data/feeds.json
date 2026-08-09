@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T21:30:04.171944+00:00",
+  "generatedAt": "2026-08-09T22:26:39.281162+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -320,33 +320,7 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "Why billion-dollar robotics startups are obsessed with folding laundry",
-          "link": "https://www.reddit.com/r/artificial/comments/1vjorly/why_billiondollar_robotics_startups_are_obsessed/",
-          "date": "2026-08-09T12:34:52+00:00"
-        },
-        {
-          "title": "OpenAI's stated reason for Codex's 272k context cap is cache-read cost, not the 2x billing line at the same number",
-          "link": "https://www.reddit.com/r/artificial/comments/1vjvpwb/openais_stated_reason_for_codexs_272k_context_cap/",
-          "date": "2026-08-09T17:25:42+00:00"
-        },
-        {
-          "title": "Filtering out \u201c[LLM] sucks\u201d",
-          "link": "https://www.reddit.com/r/artificial/comments/1vjzrbx/filtering_out_llm_sucks/",
-          "date": "2026-08-09T20:03:15+00:00"
-        },
-        {
-          "title": "Chinese LLMs dominate this week's top charts",
-          "link": "https://www.reddit.com/r/artificial/comments/1vizcs8/chinese_llms_dominate_this_weeks_top_charts/",
-          "date": "2026-08-08T15:48:29+00:00"
-        },
-        {
-          "title": "Why is there no \u201cApp Store\u201d for independent AI agents yet?",
-          "link": "https://www.reddit.com/r/artificial/comments/1vjr1kf/why_is_there_no_app_store_for_independent_ai/",
-          "date": "2026-08-09T14:17:50+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
@@ -386,6 +360,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Australia news live: NSW schools may ban take-home tests over AI concerns; minister calls urgent meeting over airport chaos",
+          "link": "https://www.theguardian.com/australia-news/live/2026/aug/10/australia-news-live-transport-minister-sydney-airport-air-traffic-control-catherine-king-aukus-public-inquiry-malcolm-turnbull-alan-jones-trial-ntwnfb",
+          "date": "Sun, 09 Aug 2026 22:10:51 GMT"
+        },
+        {
           "title": "As AI guzzles water and energy, we are already facing a choice: datacentres or homes? | John Harris",
           "link": "https://www.theguardian.com/commentisfree/2026/aug/09/slough-famous-the-office-datacentres-locals-hub-europe",
           "date": "Sun, 09 Aug 2026 11:03:18 GMT"
@@ -404,11 +383,6 @@
           "title": "Google DeepMind enters a new era as co-founder Demis Hassabis shifts AI role",
           "link": "https://www.theguardian.com/technology/2026/aug/08/google-demis-hassabis-deepmind-shifts-role",
           "date": "Sat, 08 Aug 2026 12:00:45 GMT"
-        },
-        {
-          "title": "Parenting is hard. Should we let AI do it for us? | Dave Schilling",
-          "link": "https://www.theguardian.com/commentisfree/2026/aug/08/ai-optimized-parenting",
-          "date": "Sat, 08 Aug 2026 11:00:47 GMT"
         }
       ],
       "error": null
