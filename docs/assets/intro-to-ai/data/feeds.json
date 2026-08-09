@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T22:26:39.281162+00:00",
+  "generatedAt": "2026-08-09T23:34:13.711389+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -201,6 +201,11 @@
           "date": "2026-08-09T08:20:40+00:00"
         },
         {
+          "title": "Before LLMs: 3 hours coding, 1 hour debugging. After LLMs: 3 minutes coding, 1 week debugging.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vk3tf7/before_llms_3_hours_coding_1_hour_debugging_after/",
+          "date": "2026-08-09T22:51:47+00:00"
+        },
+        {
           "title": "Is this something already considered, but discarded?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vjjs4s/is_this_something_already_considered_but_discarded/",
           "date": "2026-08-09T07:49:09+00:00"
@@ -214,11 +219,6 @@
           "title": "Current status of dealing with the idiot",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vjihd3/current_status_of_dealing_with_the_idiot/",
           "date": "2026-08-09T06:34:23+00:00"
-        },
-        {
-          "title": "Kaappi: A Scheme Programming Language Implementation Written in Zig",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vjmuha/kaappi_a_scheme_programming_language/",
-          "date": "2026-08-09T10:53:08+00:00"
         }
       ],
       "error": null
@@ -360,9 +360,9 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Australia news live: NSW schools may ban take-home tests over AI concerns; minister calls urgent meeting over airport chaos",
+          "title": "Australia news live: Minns considers banning ebikes for under-12s in NSW; air safety chief says Sydney tarmac near-miss \u2018unacceptable\u2019",
           "link": "https://www.theguardian.com/australia-news/live/2026/aug/10/australia-news-live-transport-minister-sydney-airport-air-traffic-control-catherine-king-aukus-public-inquiry-malcolm-turnbull-alan-jones-trial-ntwnfb",
-          "date": "Sun, 09 Aug 2026 22:10:51 GMT"
+          "date": "Sun, 09 Aug 2026 23:33:15 GMT"
         },
         {
           "title": "As AI guzzles water and energy, we are already facing a choice: datacentres or homes? | John Harris",
