@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T09:35:16.857380+00:00",
+  "generatedAt": "2026-08-09T10:34:37.443394+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -206,6 +206,11 @@
           "date": "2026-08-09T08:20:40+00:00"
         },
         {
+          "title": "SHOWCASE SUNDAYS: Skill for improving efficiency on complex tasks",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vjm9dv/showcase_sundays_skill_for_improving_efficiency/",
+          "date": "2026-08-09T10:18:58+00:00"
+        },
+        {
           "title": "Hey do u guys know any ai apps for free that can create those type of vids like fantasy type vid . Like this vid a real girl is standing and she opened a door and the ai put behind that door a whole fantasy ???",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vjj2oc/hey_do_u_guys_know_any_ai_apps_for_free_that_can/",
           "date": "2026-08-09T07:07:57+00:00"
@@ -214,11 +219,6 @@
           "title": "I built a harness around AI coding agents because better models weren\u2019t fixing the problems I kept seeing",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vjiimn/i_built_a_harness_around_ai_coding_agents_because/",
           "date": "2026-08-09T06:36:23+00:00"
-        },
-        {
-          "title": "Current status of dealing with the idiot",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vjihd3/current_status_of_dealing_with_the_idiot/",
-          "date": "2026-08-09T06:34:23+00:00"
         }
       ],
       "error": null
@@ -456,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription\u2014Here\u2019s How",
+          "link": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/",
+          "date": "Sun, 09 Aug 2026 10:30:00 +0000"
+        },
+        {
           "title": "These AI Barons Are Ready to Give Away Their Fortunes",
           "link": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
           "date": "Sun, 09 Aug 2026 09:30:00 +0000"
@@ -474,11 +479,6 @@
           "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
           "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
           "date": "Fri, 07 Aug 2026 10:00:00 +0000"
-        },
-        {
-          "title": "One of China\u2019s Most Powerful AI Models Has Also Escaped Containment",
-          "link": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
-          "date": "Fri, 07 Aug 2026 01:16:55 +0000"
         }
       ],
       "error": null
