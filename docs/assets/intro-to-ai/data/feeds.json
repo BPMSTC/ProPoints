@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T05:02:44.123789+00:00",
+  "generatedAt": "2026-08-09T06:50:48.349726+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -196,6 +196,16 @@
       "url": "https://www.reddit.com/r/aipromptprogramming/.rss",
       "items": [
         {
+          "title": "I built a harness around AI coding agents because better models weren\u2019t fixing the problems I kept seeing",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vjiimn/i_built_a_harness_around_ai_coding_agents_because/",
+          "date": "2026-08-09T06:36:23+00:00"
+        },
+        {
+          "title": "Current status of dealing with the idiot",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vjihd3/current_status_of_dealing_with_the_idiot/",
+          "date": "2026-08-09T06:34:23+00:00"
+        },
+        {
           "title": "LWP+ - a live wallpaper that gives you control over Material-You colors, like on Android 17",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vjd403/lwp_a_live_wallpaper_that_gives_you_control_over/",
           "date": "2026-08-09T01:45:38+00:00"
@@ -209,16 +219,6 @@
           "title": "So AI has now designed actual viruses that work...",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vizewm/so_ai_has_now_designed_actual_viruses_that_work/",
           "date": "2026-08-08T15:50:56+00:00"
-        },
-        {
-          "title": "DND ChatGPT",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vj9wt2/dnd_chatgpt/",
-          "date": "2026-08-08T23:11:47+00:00"
-        },
-        {
-          "title": "Compare AI answers automatically! ChatGPT, Gemini, Claude, Grok, and Perplexity side-by-side with 100% privacy.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1viw2h1/compare_ai_answers_automatically_chatgpt_gemini/",
-          "date": "2026-08-08T13:28:54+00:00"
         }
       ],
       "error": null
