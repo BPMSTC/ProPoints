@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T05:23:00.894752+00:00",
+  "generatedAt": "2026-08-10T07:25:13.042906+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -196,14 +196,19 @@
       "url": "https://www.reddit.com/r/aipromptprogramming/.rss",
       "items": [
         {
+          "title": "Before LLMs: 3 hours coding, 1 hour debugging. After LLMs: 3 minutes coding, 1 week debugging.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vk3tf7/before_llms_3_hours_coding_1_hour_debugging_after/",
+          "date": "2026-08-09T22:51:47+00:00"
+        },
+        {
           "title": "CS graduate asked me if compilers use a super fast LLM under the hood",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vjkaze/cs_graduate_asked_me_if_compilers_use_a_super/",
           "date": "2026-08-09T08:20:40+00:00"
         },
         {
-          "title": "Before LLMs: 3 hours coding, 1 hour debugging. After LLMs: 3 minutes coding, 1 week debugging.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vk3tf7/before_llms_3_hours_coding_1_hour_debugging_after/",
-          "date": "2026-08-09T22:51:47+00:00"
+          "title": "I just benchmarked Octocode \ud83d\udc19 for agentic code research- turns out it's 50% more token efficient than RTK, Headroom and gh CLI!",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vkdnet/i_just_benchmarked_octocode_for_agentic_code/",
+          "date": "2026-08-10T07:05:03+00:00"
         },
         {
           "title": "Is this something already considered, but discarded?",
@@ -214,11 +219,6 @@
           "title": "New in Claude Code: your sessions can now message each other.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vjmop7/new_in_claude_code_your_sessions_can_now_message/",
           "date": "2026-08-09T10:43:54+00:00"
-        },
-        {
-          "title": "Current status of dealing with the idiot",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vjihd3/current_status_of_dealing_with_the_idiot/",
-          "date": "2026-08-09T06:34:23+00:00"
         }
       ],
       "error": null
@@ -360,9 +360,14 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Australia news live: Two workers were temporarily stood down over airport near-miss; Icac witness says his wife is having contractions",
+          "title": "Australia news live: SA premier announces royal commission into AI; Icac witness questioned on fake invoices says \u2018every tradie in Sydney has wife as the director\u2019",
           "link": "https://www.theguardian.com/australia-news/live/2026/aug/10/australia-news-live-transport-minister-sydney-airport-air-traffic-control-catherine-king-aukus-public-inquiry-malcolm-turnbull-alan-jones-trial-ntwnfb",
-          "date": "Mon, 10 Aug 2026 05:20:36 GMT"
+          "date": "Mon, 10 Aug 2026 07:19:33 GMT"
+        },
+        {
+          "title": "Meme factories are churning out hard right AI slop on Facebook | First Dog on the Moon",
+          "link": "https://www.theguardian.com/commentisfree/picture/2026/aug/10/meme-factories-are-churning-out-pro-one-nation-ai-slop-on-facebook-im-frightened",
+          "date": "Mon, 10 Aug 2026 07:00:25 GMT"
         },
         {
           "title": "UK manufacturers face rising hacking risk as survey shows 30% were hit last year",
@@ -378,11 +383,6 @@
           "title": "AI push is putting banks at mercy of tech firms, warns Moody\u2019s",
           "link": "https://www.theguardian.com/business/2026/aug/09/ai-push-banks-tech-firms-moodys-risks-financial-sector",
           "date": "Sun, 09 Aug 2026 09:00:10 GMT"
-        },
-        {
-          "title": "OpenAI to pause some work on AI model Astra due to security concerns",
-          "link": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
-          "date": "Sat, 08 Aug 2026 17:00:41 GMT"
         }
       ],
       "error": null
