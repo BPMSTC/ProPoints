@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-08-10T14:24:25.683073+00:00",
+  "generatedAt": "2026-08-10T15:56:56.231833+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "The Mayor Who Said 'No' When Flock Came to Town",
+          "link": "https://www.404media.co/the-mayor-who-said-no-when-flock-came-to-town/",
+          "date": "Mon, 10 Aug 2026 14:41:22 GMT"
+        },
         {
           "title": "Mark Zuckerberg Posts Deranged 6,500-Word Essay About Giving Everyone AI Superintelligence",
           "link": "https://www.404media.co/mark-zuckerberg-posts-deranged-6-500-word-essay-about-giving-everyone-ai-superintelligence/",
@@ -24,11 +29,6 @@
           "title": "Behind the Blog: Rare Books and Baseball Brain",
           "link": "https://www.404media.co/behind-the-blog-rare-books-and-baseball-brain/",
           "date": "Fri, 07 Aug 2026 15:27:49 GMT"
-        },
-        {
-          "title": "City That Arrested Person for Clapping at Data Center Meeting Moves to Virtual Meetings for 'Public Safety'",
-          "link": "https://www.404media.co/city-that-arrested-person-for-clapping-at-data-center-meeting-moves-to-virtual-townhalls-for-public-safety/",
-          "date": "Fri, 07 Aug 2026 14:55:33 GMT"
         }
       ],
       "error": null
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "The canary test AI agents  keep failing",
+          "link": "https://www.aiacceleratorinstitute.com/the-canary-test-ai-agents-keep-failing/",
+          "date": "Mon, 10 Aug 2026 14:25:09 GMT"
+        },
+        {
           "title": "The definitive guide to financial services agents in production",
           "link": "https://www.aiacceleratorinstitute.com/the-definitive-guide-to-financial-services-agents-in-production/",
           "date": "Fri, 31 Jul 2026 17:43:12 GMT"
@@ -88,11 +93,6 @@
           "title": "7 things every AI engineer  should have shipped by now",
           "link": "https://www.aiacceleratorinstitute.com/7-things-every-ai-engineer-should-have-shipped-by-now/",
           "date": "Fri, 31 Jul 2026 13:27:01 GMT"
-        },
-        {
-          "title": "The agentic operating model report",
-          "link": "https://www.aiacceleratorinstitute.com/the-agentic-operating-model-report/",
-          "date": "Wed, 29 Jul 2026 14:15:06 GMT"
         }
       ],
       "error": null
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Security Concerns Cause OpenAI to Halt Work on Astra Model",
+          "link": "https://aibusiness.com/cybersecurity/security-concerns-cause-openai-halt-work-astra-model",
+          "date": "Mon, 10 Aug 2026 14:57:26 GMT"
+        },
+        {
           "title": "Spot Robot From Boston Dynamics Deployed at Utah Copper Mine",
           "link": "https://aibusiness.com/robotics/spot-robot-boston-dynamics-deployed-utah-copper-mine",
           "date": "Mon, 10 Aug 2026 13:36:30 GMT"
@@ -132,11 +137,6 @@
           "title": "Prompt: Why Better AI Models Aren't Enough",
           "link": "https://aibusiness.com/generative-ai/prompt-why-better-ai-models-aren-t-enough",
           "date": "Fri, 07 Aug 2026 14:31:38 GMT"
-        },
-        {
-          "title": "Google DeepMind Releases Gemini 2 Humanoid Model",
-          "link": "https://aibusiness.com/robotics/google-deepmind-gemini-2-humanoid-model",
-          "date": "Thu, 06 Aug 2026 20:47:08 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,29 +290,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "One of China's workhorse rockets just exploded in flight",
+          "link": "https://arstechnica.com/space/2026/08/one-of-chinas-workhorse-rockets-just-exploded-in-flight/",
+          "date": "Mon, 10 Aug 2026 15:05:00 +0000"
+        },
+        {
+          "title": "Dogs can tell if you're scared or sad",
+          "link": "https://arstechnica.com/science/2026/08/dogs-can-tell-if-youre-scared-or-sad/",
+          "date": "Mon, 10 Aug 2026 15:00:53 +0000"
+        },
+        {
+          "title": "2026 Subaru Outback review: Great interior, refined drive, divisive looks",
+          "link": "https://arstechnica.com/cars/2026/08/2026-subaru-outback-limited-review-boxy-outside-almost-premium-inside/",
+          "date": "Mon, 10 Aug 2026 14:49:21 +0000"
+        },
+        {
+          "title": "A researcher bought noreply.net. Companies started sending him secrets.",
+          "link": "https://arstechnica.com/security/2026/08/a-researcher-bought-noreply-net-companies-started-sending-him-secrets/",
+          "date": "Mon, 10 Aug 2026 14:25:50 +0000"
+        },
+        {
           "title": "Peer review is overwhelmed\u2014can it survive in the AI era?",
           "link": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
           "date": "Mon, 10 Aug 2026 11:00:47 +0000"
-        },
-        {
-          "title": "Mount Toba eruption doesn't seem like it could nearly kill our species",
-          "link": "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/",
-          "date": "Sun, 09 Aug 2026 11:00:14 +0000"
-        },
-        {
-          "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
-          "link": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
-          "date": "Sat, 08 Aug 2026 11:30:48 +0000"
-        },
-        {
-          "title": "DeepMind\u2019s hurricane breakthrough has surprised weather scientists",
-          "link": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
-          "date": "Sat, 08 Aug 2026 11:05:50 +0000"
-        },
-        {
-          "title": "Europe's free satellite service just made it easier to track wildfires",
-          "link": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
-          "date": "Fri, 07 Aug 2026 21:48:21 +0000"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Amazon Used a Startlingly Dirty Trick to Build a Data Center Without Consent of Community",
+          "link": "https://futurism.com/artificial-intelligence/amazon-dirty-trick-build-data-center",
+          "date": "Mon, 10 Aug 2026 11:13:55 -0400"
+        },
+        {
           "title": "Meta Exec Rages Against Employees Asking for More Time Off Because AI Made Them More Efficient",
           "link": "https://futurism.com/artificial-intelligence/meta-exec-rages-against-employees-more-time-off-ai",
           "date": "Mon, 10 Aug 2026 10:17:30 -0400"
@@ -442,11 +447,6 @@
           "title": "Time Magazine Now Running Ads Meant Specifically to Influence AI Agents",
           "link": "https://futurism.com/artificial-intelligence/time-magazine-running-ads-influence-ai-agents",
           "date": "Sat, 08 Aug 2026 16:01:00 -0400"
-        },
-        {
-          "title": "Reddit Finally Found a Way to Make Its Mods Even Worse: Replace Them With AI",
-          "link": "https://futurism.com/artificial-intelligence/reddit-mods-worse-replace-ai",
-          "date": "Sat, 08 Aug 2026 14:01:00 -0400"
         }
       ],
       "error": null
