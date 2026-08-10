@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-08-10T12:59:28.551162+00:00",
+  "generatedAt": "2026-08-10T14:24:25.683073+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Mark Zuckerberg Posts Deranged 6,500-Word Essay About Giving Everyone AI Superintelligence",
+          "link": "https://www.404media.co/mark-zuckerberg-posts-deranged-6-500-word-essay-about-giving-everyone-ai-superintelligence/",
+          "date": "Mon, 10 Aug 2026 14:13:30 GMT"
+        },
+        {
+          "title": "The Roboguard Revolution is Short-Circuiting",
+          "link": "https://www.404media.co/the-roboguard-revolution-is-short-circuiting/",
+          "date": "Mon, 10 Aug 2026 13:00:43 GMT"
+        },
         {
           "title": "Crab Odyssey: Crustacean Wandered the Seas in a Bottle for Months, Scientists Find",
           "link": "https://www.404media.co/crab-odyssey-crustacean-wandered-the-seas-in-a-bottle-for-months-scientists-find/",
@@ -19,16 +29,6 @@
           "title": "City That Arrested Person for Clapping at Data Center Meeting Moves to Virtual Meetings for 'Public Safety'",
           "link": "https://www.404media.co/city-that-arrested-person-for-clapping-at-data-center-meeting-moves-to-virtual-townhalls-for-public-safety/",
           "date": "Fri, 07 Aug 2026 14:55:33 GMT"
-        },
-        {
-          "title": "Flock Pitched a Plan To Turn Uber and Lyft Drivers Into Roaming Surveillance Vehicles",
-          "link": "https://www.404media.co/flock-pitched-a-plan-to-turn-uber-and-lyft-drivers-into-roaming-surveillance-vehicles/",
-          "date": "Fri, 07 Aug 2026 12:00:26 GMT"
-        },
-        {
-          "title": "Software Giant SAP Stops Most Travel and Hiring Because of AI\u2019s Soaring Cost",
-          "link": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
-          "date": "Thu, 06 Aug 2026 19:13:34 GMT"
         }
       ],
       "error": null
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Spot Robot From Boston Dynamics Deployed at Utah Copper Mine",
+          "link": "https://aibusiness.com/robotics/spot-robot-boston-dynamics-deployed-utah-copper-mine",
+          "date": "Mon, 10 Aug 2026 13:36:30 GMT"
+        },
+        {
           "title": "SpaceX, Tesla to Spend $16.8B on Terafab Chip Factory in Texas",
           "link": "https://aibusiness.com/data-centers/tesla-spacex-spend-16-8b-terafab-chip-factory-texas",
           "date": "Fri, 07 Aug 2026 18:17:18 GMT"
@@ -132,11 +137,6 @@
           "title": "Google DeepMind Releases Gemini 2 Humanoid Model",
           "link": "https://aibusiness.com/robotics/google-deepmind-gemini-2-humanoid-model",
           "date": "Thu, 06 Aug 2026 20:47:08 GMT"
-        },
-        {
-          "title": "Build Vs. Buy: The AI Agent Landscape for Businesses",
-          "link": "https://aibusiness.com/generative-ai/build-vs-buy-ai-agent-landscape-businesses",
-          "date": "Thu, 06 Aug 2026 18:06:46 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Meta Exec Rages Against Employees Asking for More Time Off Because AI Made Them More Efficient",
+          "link": "https://futurism.com/artificial-intelligence/meta-exec-rages-against-employees-more-time-off-ai",
+          "date": "Mon, 10 Aug 2026 10:17:30 -0400"
+        },
+        {
           "title": "Scammers Tremble as AI Comes for Their Jobs",
           "link": "https://futurism.com/future-society/scammer-pig-butcher-ai-chatbot-fraud",
           "date": "Sun, 09 Aug 2026 15:01:00 -0400"
@@ -442,11 +447,6 @@
           "title": "Reddit Finally Found a Way to Make Its Mods Even Worse: Replace Them With AI",
           "link": "https://futurism.com/artificial-intelligence/reddit-mods-worse-replace-ai",
           "date": "Sat, 08 Aug 2026 14:01:00 -0400"
-        },
-        {
-          "title": "AI Data Centers Are Causing Unfathomable Amounts of Air Pollution, and It Gets Worse With Each New One They Build",
-          "link": "https://futurism.com/future-society/ai-data-centers-air-pollution-generators-worse",
-          "date": "Sat, 08 Aug 2026 13:02:00 -0400"
         }
       ],
       "error": null
