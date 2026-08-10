@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T03:50:26.286224+00:00",
+  "generatedAt": "2026-08-10T05:23:00.894752+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -328,6 +328,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Local governments are using AI more and more. But are they doing it wisely?",
+          "link": "https://theconversation.com/local-governments-are-using-ai-more-and-more-but-are-they-doing-it-wisely-288836",
+          "date": "2026-08-10T05:06:03Z"
+        },
+        {
           "title": "No degree is AI-proof. But delaying specialisation may offer students an edge",
           "link": "https://theconversation.com/no-degree-is-ai-proof-but-delaying-specialisation-may-offer-students-an-edge-288813",
           "date": "2026-08-10T00:19:47Z"
@@ -346,11 +351,6 @@
           "title": "AI is making disinformation harder to spot \u2013 but we\u2019ve found a new way to catch it",
           "link": "https://theconversation.com/ai-is-making-disinformation-harder-to-spot-but-weve-found-a-new-way-to-catch-it-288671",
           "date": "2026-08-07T13:34:17Z"
-        },
-        {
-          "title": "AI is flooding the online book market with poor translations \u2013 here\u2019s how to spot them",
-          "link": "https://theconversation.com/ai-is-flooding-the-online-book-market-with-poor-translations-heres-how-to-spot-them-288166",
-          "date": "2026-08-07T13:31:09Z"
         }
       ],
       "error": null
@@ -360,9 +360,14 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Australia news live: \u2018body\u2019 found in suitcase was lifelike doll with \u2018bruises and grazes\u2019; Victorian Liberals promise weekly red bin pickup",
+          "title": "Australia news live: Two workers were temporarily stood down over airport near-miss; Icac witness says his wife is having contractions",
           "link": "https://www.theguardian.com/australia-news/live/2026/aug/10/australia-news-live-transport-minister-sydney-airport-air-traffic-control-catherine-king-aukus-public-inquiry-malcolm-turnbull-alan-jones-trial-ntwnfb",
-          "date": "Mon, 10 Aug 2026 03:45:29 GMT"
+          "date": "Mon, 10 Aug 2026 05:20:36 GMT"
+        },
+        {
+          "title": "UK manufacturers face rising hacking risk as survey shows 30% were hit last year",
+          "link": "https://www.theguardian.com/technology/2026/aug/10/uk-companies-cyber-attack-third-jlr",
+          "date": "Mon, 10 Aug 2026 05:00:36 GMT"
         },
         {
           "title": "As AI guzzles water and energy, we are already facing a choice: datacentres or homes? | John Harris",
@@ -378,11 +383,6 @@
           "title": "OpenAI to pause some work on AI model Astra due to security concerns",
           "link": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
           "date": "Sat, 08 Aug 2026 17:00:41 GMT"
-        },
-        {
-          "title": "Google DeepMind enters a new era as co-founder Demis Hassabis shifts AI role",
-          "link": "https://www.theguardian.com/technology/2026/aug/08/google-demis-hassabis-deepmind-shifts-role",
-          "date": "Sat, 08 Aug 2026 12:00:45 GMT"
         }
       ],
       "error": null
