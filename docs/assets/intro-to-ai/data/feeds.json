@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T09:15:47.437472+00:00",
+  "generatedAt": "2026-08-10T11:04:33.919701+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -196,6 +196,16 @@
       "url": "https://www.reddit.com/r/aipromptprogramming/.rss",
       "items": [
         {
+          "title": "What using a good model harness feels like",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vkghcv/what_using_a_good_model_harness_feels_like/",
+          "date": "2026-08-10T09:56:33+00:00"
+        },
+        {
+          "title": "Before LLMs: 3 hours coding, 1 hour debugging. After LLMs: 3 minutes coding, 1 week debugging.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vk3tf7/before_llms_3_hours_coding_1_hour_debugging_after/",
+          "date": "2026-08-09T22:51:47+00:00"
+        },
+        {
           "title": "Exclusive: Meta's Muse Code binary reveals hidden agent workflows and a Git plugin marketplace",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vkekvg/exclusive_metas_muse_code_binary_reveals_hidden/",
           "date": "2026-08-10T08:00:50+00:00"
@@ -209,16 +219,6 @@
           "title": "I just benchmarked Octocode \ud83d\udc19 for agentic code research- turns out it's 50% more token efficient than RTK, Headroom and gh CLI!",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vkdnet/i_just_benchmarked_octocode_for_agentic_code/",
           "date": "2026-08-10T07:05:03+00:00"
-        },
-        {
-          "title": "Before LLMs: 3 hours coding, 1 hour debugging. After LLMs: 3 minutes coding, 1 week debugging.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vk3tf7/before_llms_3_hours_coding_1_hour_debugging_after/",
-          "date": "2026-08-09T22:51:47+00:00"
-        },
-        {
-          "title": "Is this something already considered, but discarded?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vjjs4s/is_this_something_already_considered_but_discarded/",
-          "date": "2026-08-09T07:49:09+00:00"
         }
       ],
       "error": null
@@ -456,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "The Rise of the 1 am Job Interview",
+          "link": "https://www.wired.com/story/the-rise-of-the-1-am-job-interview/",
+          "date": "Mon, 10 Aug 2026 10:30:00 +0000"
+        },
+        {
           "title": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription\u2014Here\u2019s How",
           "link": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/",
           "date": "Sun, 09 Aug 2026 10:30:00 +0000"
@@ -474,11 +479,6 @@
           "title": "Scientists Used AI to Create 16 New Viruses",
           "link": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
           "date": "Fri, 07 Aug 2026 14:13:57 +0000"
-        },
-        {
-          "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
-          "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
-          "date": "Fri, 07 Aug 2026 10:00:00 +0000"
         }
       ],
       "error": null
