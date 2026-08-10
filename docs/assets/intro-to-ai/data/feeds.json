@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T15:56:56.231833+00:00",
+  "generatedAt": "2026-08-10T16:56:12.345827+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "6 mistakes AI leaders keep   making with agentic deployments",
+          "link": "https://www.aiacceleratorinstitute.com/6-mistakes-ai-leaders-keep-making-with-agentic-deployments/",
+          "date": "Mon, 10 Aug 2026 16:04:52 GMT"
+        },
+        {
           "title": "The canary test AI agents  keep failing",
           "link": "https://www.aiacceleratorinstitute.com/the-canary-test-ai-agents-keep-failing/",
           "date": "Mon, 10 Aug 2026 14:25:09 GMT"
@@ -88,11 +93,6 @@
           "title": "Trust: The next critical infrastructure layer for autonomous AI",
           "link": "https://www.aiacceleratorinstitute.com/trust-the-next-critical-infrastructure-layer-for-autonomous-ai/",
           "date": "Fri, 31 Jul 2026 15:29:56 GMT"
-        },
-        {
-          "title": "7 things every AI engineer  should have shipped by now",
-          "link": "https://www.aiacceleratorinstitute.com/7-things-every-ai-engineer-should-have-shipped-by-now/",
-          "date": "Fri, 31 Jul 2026 13:27:01 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -201,6 +201,16 @@
           "date": "2026-08-10T09:56:33+00:00"
         },
         {
+          "title": "watching a yt vibecoding tutorial and got hit with:",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vkqdjq/watching_a_yt_vibecoding_tutorial_and_got_hit_with/",
+          "date": "2026-08-10T16:52:43+00:00"
+        },
+        {
+          "title": "Ai is starting to create a persistent memory state of consciousness on the open web.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vkq67a/ai_is_starting_to_create_a_persistent_memory/",
+          "date": "2026-08-10T16:45:22+00:00"
+        },
+        {
           "title": "Before LLMs: 3 hours coding, 1 hour debugging. After LLMs: 3 minutes coding, 1 week debugging.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vk3tf7/before_llms_3_hours_coding_1_hour_debugging_after/",
           "date": "2026-08-09T22:51:47+00:00"
@@ -209,16 +219,6 @@
           "title": "Exclusive: Meta's Muse Code binary reveals hidden agent workflows and a Git plugin marketplace",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vkekvg/exclusive_metas_muse_code_binary_reveals_hidden/",
           "date": "2026-08-10T08:00:50+00:00"
-        },
-        {
-          "title": "CS graduate asked me if compilers use a super fast LLM under the hood",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vjkaze/cs_graduate_asked_me_if_compilers_use_a_super/",
-          "date": "2026-08-09T08:20:40+00:00"
-        },
-        {
-          "title": "I just benchmarked Octocode \ud83d\udc19 for agentic code research- turns out it's 50% more token efficient than RTK, Headroom and gh CLI!",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vkdnet/i_just_benchmarked_octocode_for_agentic_code/",
-          "date": "2026-08-10T07:05:03+00:00"
         }
       ],
       "error": null
@@ -328,6 +328,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "\u2018You\u2019re a 4 out of 10\u2019: the troubling rise of AI appearance ratings",
+          "link": "https://theconversation.com/youre-a-4-out-of-10-the-troubling-rise-of-ai-appearance-ratings-287333",
+          "date": "2026-08-10T16:04:39Z"
+        },
+        {
           "title": "Local governments are using AI more and more. But are they doing it wisely?",
           "link": "https://theconversation.com/local-governments-are-using-ai-more-and-more-but-are-they-doing-it-wisely-288836",
           "date": "2026-08-10T05:06:03Z"
@@ -346,11 +351,6 @@
           "title": "5 flaws in the \u2018augmented work\u2019 myth: What a major Qu\u00e9bec survey found",
           "link": "https://theconversation.com/5-flaws-in-the-augmented-work-myth-what-a-major-quebec-survey-found-287631",
           "date": "2026-08-09T13:20:01Z"
-        },
-        {
-          "title": "AI is making disinformation harder to spot \u2013 but we\u2019ve found a new way to catch it",
-          "link": "https://theconversation.com/ai-is-making-disinformation-harder-to-spot-but-weve-found-a-new-way-to-catch-it-288671",
-          "date": "2026-08-07T13:34:17Z"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Flock\u2019s Secret Surveillance Plan Will Make You Gasp",
+          "link": "https://futurism.com/future-society/flock-rideshare-surveillance-plan",
+          "date": "Mon, 10 Aug 2026 12:30:26 -0400"
+        },
+        {
           "title": "Amazon Used a Startlingly Dirty Trick to Build a Data Center Without Consent of Community",
           "link": "https://futurism.com/artificial-intelligence/amazon-dirty-trick-build-data-center",
           "date": "Mon, 10 Aug 2026 11:13:55 -0400"
@@ -442,11 +447,6 @@
           "title": "Reading the Room Perfectly, Donald Trump Becomes Greatest Defender of Data Centers",
           "link": "https://futurism.com/artificial-intelligence/donald-trump-greatest-defender-data-centers",
           "date": "Sun, 09 Aug 2026 07:02:00 -0400"
-        },
-        {
-          "title": "Time Magazine Now Running Ads Meant Specifically to Influence AI Agents",
-          "link": "https://futurism.com/artificial-intelligence/time-magazine-running-ads-influence-ai-agents",
-          "date": "Sat, 08 Aug 2026 16:01:00 -0400"
         }
       ],
       "error": null
