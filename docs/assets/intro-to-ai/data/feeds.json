@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T23:34:13.711389+00:00",
+  "generatedAt": "2026-08-10T01:30:02.718643+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -320,13 +320,44 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "Why billion-dollar robotics startups are obsessed with folding laundry",
+          "link": "https://www.reddit.com/r/artificial/comments/1vjorly/why_billiondollar_robotics_startups_are_obsessed/",
+          "date": "2026-08-09T12:34:52+00:00"
+        },
+        {
+          "title": "Tried camera and camera-free smart glasses. They're solving completely different problems",
+          "link": "https://www.reddit.com/r/artificial/comments/1vk6er6/tried_camera_and_camerafree_smart_glasses_theyre/",
+          "date": "2026-08-10T00:49:26+00:00"
+        },
+        {
+          "title": "Filtering out \u201c[LLM] sucks\u201d",
+          "link": "https://www.reddit.com/r/artificial/comments/1vjzrbx/filtering_out_llm_sucks/",
+          "date": "2026-08-09T20:03:15+00:00"
+        },
+        {
+          "title": "Scrape, small piece on dif of calculators vs generative programs",
+          "link": "https://www.reddit.com/r/artificial/comments/1vk3cw4/scrape_small_piece_on_dif_of_calculators_vs/",
+          "date": "2026-08-09T22:31:34+00:00"
+        },
+        {
+          "title": "Why is there no \u201cApp Store\u201d for independent AI agents yet?",
+          "link": "https://www.reddit.com/r/artificial/comments/1vjr1kf/why_is_there_no_app_store_for_independent_ai/",
+          "date": "2026-08-09T14:17:50+00:00"
+        }
+      ],
       "error": null
     },
     {
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "No degree is AI-proof. But delaying specialisation may offer students an edge",
+          "link": "https://theconversation.com/no-degree-is-ai-proof-but-delaying-specialisation-may-offer-students-an-edge-288813",
+          "date": "2026-08-10T00:19:47Z"
+        },
         {
           "title": "Generative AI has changed mathematics forever. Where to from here?",
           "link": "https://theconversation.com/generative-ai-has-changed-mathematics-forever-where-to-from-here-288954",
@@ -346,11 +377,6 @@
           "title": "AI is flooding the online book market with poor translations \u2013 here\u2019s how to spot them",
           "link": "https://theconversation.com/ai-is-flooding-the-online-book-market-with-poor-translations-heres-how-to-spot-them-288166",
           "date": "2026-08-07T13:31:09Z"
-        },
-        {
-          "title": "Employers everywhere are using AI \u2013 but business schools aren\u2019t preparing students for the shift",
-          "link": "https://theconversation.com/employers-everywhere-are-using-ai-but-business-schools-arent-preparing-students-for-the-shift-287445",
-          "date": "2026-08-07T12:35:40Z"
         }
       ],
       "error": null
@@ -360,9 +386,9 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Australia news live: Minns considers banning ebikes for under-12s in NSW; air safety chief says Sydney tarmac near-miss \u2018unacceptable\u2019",
+          "title": "Australia news live: Malcolm Turnbull says trusting Aukus is \u2018stark staring bonkers\u2019; Laneway festival to skip two cities next year",
           "link": "https://www.theguardian.com/australia-news/live/2026/aug/10/australia-news-live-transport-minister-sydney-airport-air-traffic-control-catherine-king-aukus-public-inquiry-malcolm-turnbull-alan-jones-trial-ntwnfb",
-          "date": "Sun, 09 Aug 2026 23:33:15 GMT"
+          "date": "Mon, 10 Aug 2026 01:29:09 GMT"
         },
         {
           "title": "As AI guzzles water and energy, we are already facing a choice: datacentres or homes? | John Harris",
@@ -422,34 +448,8 @@
     {
       "name": "Artificial Intelligence \u2013 Futurism",
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
-      "items": [
-        {
-          "title": "Scammers Tremble as AI Comes for Their Jobs",
-          "link": "https://futurism.com/future-society/scammer-pig-butcher-ai-chatbot-fraud",
-          "date": "Sun, 09 Aug 2026 15:01:00 -0400"
-        },
-        {
-          "title": "Reading the Room Perfectly, Donald Trump Becomes Greatest Defender of Data Centers",
-          "link": "https://futurism.com/artificial-intelligence/donald-trump-greatest-defender-data-centers",
-          "date": "Sun, 09 Aug 2026 07:02:00 -0400"
-        },
-        {
-          "title": "Time Magazine Now Running Ads Meant Specifically to Influence AI Agents",
-          "link": "https://futurism.com/artificial-intelligence/time-magazine-running-ads-influence-ai-agents",
-          "date": "Sat, 08 Aug 2026 16:01:00 -0400"
-        },
-        {
-          "title": "Reddit Finally Found a Way to Make Its Mods Even Worse: Replace Them With AI",
-          "link": "https://futurism.com/artificial-intelligence/reddit-mods-worse-replace-ai",
-          "date": "Sat, 08 Aug 2026 14:01:00 -0400"
-        },
-        {
-          "title": "AI Data Centers Are Causing Unfathomable Amounts of Air Pollution, and It Gets Worse With Each New One They Build",
-          "link": "https://futurism.com/future-society/ai-data-centers-air-pollution-generators-worse",
-          "date": "Sat, 08 Aug 2026 13:02:00 -0400"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:39: junk after document element"
     },
     {
       "name": "Artificial Intelligence Latest - Wired",
