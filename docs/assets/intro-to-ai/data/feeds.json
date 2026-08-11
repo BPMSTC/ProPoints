@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T05:03:39.350257+00:00",
+  "generatedAt": "2026-08-11T07:00:45.285145+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1016)>"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -206,11 +206,6 @@
           "date": "2026-08-11T04:49:35+00:00"
         },
         {
-          "title": "\u201cwe sandboxed the agent\u201d meanwhile the agent:",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vl6omq/we_sandboxed_the_agent_meanwhile_the_agent/",
-          "date": "2026-08-11T03:53:51+00:00"
-        },
-        {
           "title": "Have you ever made money using AI?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vkyv0x/have_you_ever_made_money_using_ai/",
           "date": "2026-08-10T22:04:00+00:00"
@@ -219,6 +214,11 @@
           "title": "What using a good model harness feels like",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vkghcv/what_using_a_good_model_harness_feels_like/",
           "date": "2026-08-10T09:56:33+00:00"
+        },
+        {
+          "title": "\u201cwe sandboxed the agent\u201d meanwhile the agent:",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vl6omq/we_sandboxed_the_agent_meanwhile_the_agent/",
+          "date": "2026-08-11T03:53:51+00:00"
         }
       ],
       "error": null
