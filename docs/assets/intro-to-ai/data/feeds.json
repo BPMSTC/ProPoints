@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T11:43:05.951652+00:00",
+  "generatedAt": "2026-08-11T12:55:34.158476+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Shutterstock Embraces AI Image Licensing Deals",
+          "link": "https://aibusiness.com/generative-ai/shutterstock-embraces-ai-image-licensing-deals",
+          "date": "Tue, 11 Aug 2026 12:12:56 GMT"
+        },
+        {
           "title": "Meta Reverses Course with Open-Weight Muse Glimmer",
           "link": "https://aibusiness.com/agentic-ai/meta-reverses-course-with-open-weight-muse-glimmer",
           "date": "Mon, 10 Aug 2026 20:26:20 GMT"
@@ -132,11 +137,6 @@
           "title": "SpaceX, Tesla to Spend $16.8B on Terafab Chip Factory in Texas",
           "link": "https://aibusiness.com/data-centers/tesla-spacex-spend-16-8b-terafab-chip-factory-texas",
           "date": "Fri, 07 Aug 2026 18:17:18 GMT"
-        },
-        {
-          "title": "DeepSeek Invests in Unitree to Develop AI Brain for Humanoid Bots",
-          "link": "https://aibusiness.com/robotics/deepseek-invests-unitree-develop-ai-brain-for-humanoid-bots",
-          "date": "Fri, 07 Aug 2026 15:18:37 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -365,6 +365,11 @@
           "date": "Tue, 11 Aug 2026 09:15:45 GMT"
         },
         {
+          "title": "Meta faces expensive child safety reckoning",
+          "link": "https://www.theguardian.com/technology/2026/aug/10/meta-child-safety-google-executives-ai-techscape",
+          "date": "Tue, 11 Aug 2026 12:04:51 GMT"
+        },
+        {
           "title": "Experts are warning: our AI arms race is putting humanity at risk | Stuart Russell",
           "link": "https://www.theguardian.com/commentisfree/2026/aug/11/openai-anthropic-google-deepmind-letter",
           "date": "Tue, 11 Aug 2026 10:00:57 GMT"
@@ -378,11 +383,6 @@
           "title": "Bernie Sanders calls on Silicon Valley to \u2018pause AI development\u2019 in interest of humanity",
           "link": "https://www.theguardian.com/technology/2026/aug/10/bernie-sanders-ai-development-pause-letter",
           "date": "Mon, 10 Aug 2026 17:44:21 GMT"
-        },
-        {
-          "title": "What happens when medical students rely on AI \u2013 and never develop their own judgment? | Simar Bajaj and Joseph Sakran",
-          "link": "https://www.theguardian.com/commentisfree/2026/aug/10/ai-medical-students-judgment",
-          "date": "Mon, 10 Aug 2026 12:00:44 GMT"
         }
       ],
       "error": null
@@ -456,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
+          "link": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
+          "date": "Tue, 11 Aug 2026 12:37:12 +0000"
+        },
+        {
           "title": "A New Trick Reveals AI Models\u2019 Inner Thoughts",
           "link": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
           "date": "Tue, 11 Aug 2026 11:00:00 +0000"
@@ -474,11 +479,6 @@
           "title": "The AI Slop Backlash Is Actually Having an Impact",
           "link": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
           "date": "Mon, 10 Aug 2026 11:30:00 +0000"
-        },
-        {
-          "title": "The Rise of the 1 am Job Interview",
-          "link": "https://www.wired.com/story/the-rise-of-the-1-am-job-interview/",
-          "date": "Mon, 10 Aug 2026 10:30:00 +0000"
         }
       ],
       "error": null
