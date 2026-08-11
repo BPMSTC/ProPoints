@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T19:13:27.480257+00:00",
+  "generatedAt": "2026-08-11T20:38:52.370094+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -211,14 +211,14 @@
           "date": "2026-08-11T09:37:25+00:00"
         },
         {
-          "title": "I'm sitting here with 4 coding apps open at once. Crazy times we live in.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vlat77/im_sitting_here_with_4_coding_apps_open_at_once/",
-          "date": "2026-08-11T07:41:42+00:00"
-        },
-        {
           "title": "What's the one thing you'd tell someone new to AI to save them frustration?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vlpimb/whats_the_one_thing_youd_tell_someone_new_to_ai/",
           "date": "2026-08-11T18:21:30+00:00"
+        },
+        {
+          "title": "I'm sitting here with 4 coding apps open at once. Crazy times we live in.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vlat77/im_sitting_here_with_4_coding_apps_open_at_once/",
+          "date": "2026-08-11T07:41:42+00:00"
         }
       ],
       "error": null
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Used EV buying guide: The $30,000 edition",
+          "link": "https://arstechnica.com/cars/2026/08/used-ev-buying-guide-the-30000-edition/",
+          "date": "Tue, 11 Aug 2026 18:31:53 +0000"
+        },
+        {
           "title": "Less than 2.5% of Taylor Farms' recalled lettuce went to Taco Bells",
           "link": "https://arstechnica.com/health/2026/08/less-than-2-5-of-taylor-farms-recalled-lettuce-went-to-taco-bells/",
           "date": "Tue, 11 Aug 2026 18:00:14 +0000"
@@ -308,11 +313,6 @@
           "title": "Trump to give Republicans a 3-1 FCC majority, isn't filling empty Democratic seat",
           "link": "https://arstechnica.com/tech-policy/2026/08/trump-to-give-republicans-a-3-1-fcc-majority-isnt-filling-empty-democratic-seat/",
           "date": "Tue, 11 Aug 2026 15:28:43 +0000"
-        },
-        {
-          "title": "New surveillance tech links your phone to your license plate",
-          "link": "https://arstechnica.com/security/2026/08/new-surveillance-tech-links-your-phone-to-your-license-plate/",
-          "date": "Tue, 11 Aug 2026 13:15:24 +0000"
         }
       ],
       "error": null
@@ -424,6 +424,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Doctors Warn That Med Students Are Surrendering Their Brains to Medical AIs That Are Even Worse than Regular Chatbots",
+          "link": "https://futurism.com/artificial-intelligence/doctors-med-students-brains-ai",
+          "date": "Tue, 11 Aug 2026 16:26:47 -0400"
+        },
+        {
+          "title": "Man Covers Car in Special Wrap That Breaks Flock Cameras\u2019 Electronic Brains",
+          "link": "https://futurism.com/artificial-intelligence/man-covers-car-special-wrap-flock-cameras",
+          "date": "Tue, 11 Aug 2026 15:21:04 -0400"
+        },
+        {
           "title": "Protesters Arrested After Storming OpenAI Lobbying Office",
           "link": "https://futurism.com/artificial-intelligence/protesters-arrested-protest-openai-washington-dc",
           "date": "Tue, 11 Aug 2026 14:28:50 -0400"
@@ -437,16 +447,6 @@
           "title": "AI Investors Are Suddenly Quaking in Their Boots",
           "link": "https://futurism.com/artificial-intelligence/ai-investors-suddenly-quaking-boots",
           "date": "Tue, 11 Aug 2026 10:50:00 -0400"
-        },
-        {
-          "title": "Amazon\u2019s New AI Data Center Is So Enormous That It Appears It Will Become the Largest Single Source of Pollution in the United States",
-          "link": "https://futurism.com/artificial-intelligence/amazon-data-center-largest-pollution-source-texas-usa",
-          "date": "Tue, 11 Aug 2026 10:09:03 -0400"
-        },
-        {
-          "title": "Homeschool Parents Are Planning Lessons With ChatGPT",
-          "link": "https://futurism.com/artificial-intelligence/homeschool-parents-chatpgt-ai-chatbots-lesson-plans-education",
-          "date": "Tue, 11 Aug 2026 09:24:39 -0400"
         }
       ],
       "error": null
