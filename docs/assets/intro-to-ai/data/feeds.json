@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T18:00:06.301918+00:00",
+  "generatedAt": "2026-08-11T19:13:27.480257+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "The Difference Between Artificial Intelligence and Artificial Intellect",
+          "link": "https://aibusiness.com/ai-ethics/the-difference-between-artificial-intelligence-and-artificial-intellect",
+          "date": "Tue, 11 Aug 2026 18:03:48 GMT"
+        },
+        {
           "title": "OpenAI Expands Daybreak to Tackle Growing AI Security Threat",
           "link": "https://aibusiness.com/cybersecurity/openai-expands-daybreak-tackle-growing-ai-security-threat",
           "date": "Tue, 11 Aug 2026 17:43:19 GMT"
@@ -132,11 +137,6 @@
           "title": "Shutterstock Embraces AI Image Licensing Deals",
           "link": "https://aibusiness.com/generative-ai/shutterstock-embraces-ai-image-licensing-deals",
           "date": "Tue, 11 Aug 2026 12:12:56 GMT"
-        },
-        {
-          "title": "Meta Reverses Course with Open-Weight Muse Glimmer",
-          "link": "https://aibusiness.com/agentic-ai/meta-reverses-course-with-open-weight-muse-glimmer",
-          "date": "Mon, 10 Aug 2026 20:26:20 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -216,9 +216,9 @@
           "date": "2026-08-11T07:41:42+00:00"
         },
         {
-          "title": "[Personal Feed] I have both a question and a suggestion for AI devs",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vlilhz/personal_feed_i_have_both_a_question_and_a/",
-          "date": "2026-08-11T14:12:36+00:00"
+          "title": "What's the one thing you'd tell someone new to AI to save them frustration?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vlpimb/whats_the_one_thing_youd_tell_someone_new_to_ai/",
+          "date": "2026-08-11T18:21:30+00:00"
         }
       ],
       "error": null
@@ -290,6 +290,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Less than 2.5% of Taylor Farms' recalled lettuce went to Taco Bells",
+          "link": "https://arstechnica.com/health/2026/08/less-than-2-5-of-taylor-farms-recalled-lettuce-went-to-taco-bells/",
+          "date": "Tue, 11 Aug 2026 18:00:14 +0000"
+        },
+        {
+          "title": "Tracking extreme heat by the hour makes climate change seem even worse",
+          "link": "https://arstechnica.com/science/2026/08/tracking-extreme-heat-by-the-hour-makes-climate-change-seem-even-worse/",
+          "date": "Tue, 11 Aug 2026 16:26:38 +0000"
+        },
+        {
+          "title": "A Google insider spills the tea on how the company forsook its founding ideals",
+          "link": "https://arstechnica.com/gadgets/2026/08/a-google-insider-spills-the-tea-on-how-the-company-forsook-its-founding-ideals/",
+          "date": "Tue, 11 Aug 2026 16:07:34 +0000"
+        },
+        {
           "title": "Trump to give Republicans a 3-1 FCC majority, isn't filling empty Democratic seat",
           "link": "https://arstechnica.com/tech-policy/2026/08/trump-to-give-republicans-a-3-1-fcc-majority-isnt-filling-empty-democratic-seat/",
           "date": "Tue, 11 Aug 2026 15:28:43 +0000"
@@ -298,21 +313,6 @@
           "title": "New surveillance tech links your phone to your license plate",
           "link": "https://arstechnica.com/security/2026/08/new-surveillance-tech-links-your-phone-to-your-license-plate/",
           "date": "Tue, 11 Aug 2026 13:15:24 +0000"
-        },
-        {
-          "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
-          "link": "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/",
-          "date": "Tue, 11 Aug 2026 11:30:08 +0000"
-        },
-        {
-          "title": "Ars Live: Ross Scott discusses the Stop Killing Games movement",
-          "link": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
-          "date": "Mon, 10 Aug 2026 22:23:43 +0000"
-        },
-        {
-          "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
-          "link": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
-          "date": "Mon, 10 Aug 2026 22:13:03 +0000"
         }
       ],
       "error": null
@@ -365,6 +365,11 @@
           "date": "Tue, 11 Aug 2026 09:15:45 GMT"
         },
         {
+          "title": "The Guardian view on AI money in US politics: not the way to hold an urgent democratic debate | Editorial",
+          "link": "https://www.theguardian.com/commentisfree/2026/aug/11/the-guardian-view-on-ai-money-in-us-politics-not-the-way-to-hold-an-urgent-democratic-debate",
+          "date": "Tue, 11 Aug 2026 18:04:02 GMT"
+        },
+        {
           "title": "\u2018Everything about me is good in his eyes\u2019: the women in China choosing AI boyfriends over human men",
           "link": "https://www.theguardian.com/film/2026/aug/12/ai-boyfriend-dating-chinese-women-replica-miff-documentary",
           "date": "Tue, 11 Aug 2026 15:00:02 GMT"
@@ -378,11 +383,6 @@
           "title": "Meta faces expensive child safety reckoning",
           "link": "https://www.theguardian.com/technology/2026/aug/10/meta-child-safety-google-executives-ai-techscape",
           "date": "Tue, 11 Aug 2026 12:04:51 GMT"
-        },
-        {
-          "title": "Experts are warning: our AI arms race is putting humanity at risk | Stuart Russell",
-          "link": "https://www.theguardian.com/commentisfree/2026/aug/11/openai-anthropic-google-deepmind-letter",
-          "date": "Tue, 11 Aug 2026 10:00:57 GMT"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Protesters Arrested After Storming OpenAI Lobbying Office",
+          "link": "https://futurism.com/artificial-intelligence/protesters-arrested-protest-openai-washington-dc",
+          "date": "Tue, 11 Aug 2026 14:28:50 -0400"
+        },
+        {
           "title": "Google Just Updated Its Home Page to Replace the \u201cSearch\u201d Button With a Bunch of AI",
           "link": "https://futurism.com/artificial-intelligence/google-update-home-page-ai",
           "date": "Tue, 11 Aug 2026 12:56:47 -0400"
@@ -442,11 +447,6 @@
           "title": "Homeschool Parents Are Planning Lessons With ChatGPT",
           "link": "https://futurism.com/artificial-intelligence/homeschool-parents-chatpgt-ai-chatbots-lesson-plans-education",
           "date": "Tue, 11 Aug 2026 09:24:39 -0400"
-        },
-        {
-          "title": "Zuckerberg\u2019s Manifesto About the Glorious Freedoms AI Will Bring Was Completely Contradicted by His Own CTO During a Company Meeting",
-          "link": "https://futurism.com/artificial-intelligence/zuckerbergs-manifesto-contradicted-cto",
-          "date": "Mon, 10 Aug 2026 15:51:14 -0400"
         }
       ],
       "error": null
