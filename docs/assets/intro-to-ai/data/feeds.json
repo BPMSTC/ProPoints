@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T09:56:49.686233+00:00",
+  "generatedAt": "2026-08-11T10:57:03.946295+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -206,14 +206,14 @@
           "date": "2026-08-11T07:41:42+00:00"
         },
         {
-          "title": "Human sub agents",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vlas6z/human_sub_agents/",
-          "date": "2026-08-11T07:40:11+00:00"
-        },
-        {
           "title": "Me: *enters any prompt* Opus:",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vlcs9h/me_enters_any_prompt_opus/",
           "date": "2026-08-11T09:37:25+00:00"
+        },
+        {
+          "title": "Human sub agents",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vlas6z/human_sub_agents/",
+          "date": "2026-08-11T07:40:11+00:00"
         },
         {
           "title": "The throughput trap: AI-powered teams ship more code but deliver less",
@@ -320,7 +320,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "Claude now embeds an invisible watermark into every piece of text it generates.",
+          "link": "https://www.reddit.com/r/artificial/comments/1vlag0q/claude_now_embeds_an_invisible_watermark_into/",
+          "date": "2026-08-11T07:20:06+00:00"
+        },
+        {
+          "title": "Bernie Sanders has written a letter to Sam Altman, Dario Amodei, and Mark Zuckerberg urging them to immediately pause all AI development in the interest of humanity. And he warns if they do not take appropriate action now, the US Senate will.",
+          "link": "https://www.reddit.com/r/artificial/comments/1vkqa02/bernie_sanders_has_written_a_letter_to_sam_altman/",
+          "date": "2026-08-10T16:49:17+00:00"
+        },
+        {
+          "title": "Is artificial intelligence turning everyone into a product builder?",
+          "link": "https://www.reddit.com/r/artificial/comments/1vlbdpn/is_artificial_intelligence_turning_everyone_into/",
+          "date": "2026-08-11T08:15:01+00:00"
+        },
+        {
+          "title": "List of 160+ AI Startups with Funding and Category",
+          "link": "https://www.reddit.com/r/artificial/comments/1vldaia/list_of_160_ai_startups_with_funding_and_category/",
+          "date": "2026-08-11T10:07:09+00:00"
+        },
+        {
+          "title": "What should I look for in an enterprise AI agent platform?",
+          "link": "https://www.reddit.com/r/artificial/comments/1vky7wd/what_should_i_look_for_in_an_enterprise_ai_agent/",
+          "date": "2026-08-10T21:38:38+00:00"
+        }
+      ],
       "error": null
     },
     {
@@ -360,9 +386,14 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "AI \u2018will do more to boost fossil fuel production than green energy\u2019",
+          "title": "AI\u2019s potential climate benefits outweighed by role in boosting fossil fuels, study finds",
           "link": "https://www.theguardian.com/technology/2026/aug/11/ai-will-do-more-to-boost-fossil-fuel-production-than-green-energy",
           "date": "Tue, 11 Aug 2026 09:15:45 GMT"
+        },
+        {
+          "title": "Experts are warning: our AI arms race is putting humanity at risk | Stuart Russell",
+          "link": "https://www.theguardian.com/commentisfree/2026/aug/11/openai-anthropic-google-deepmind-letter",
+          "date": "Tue, 11 Aug 2026 10:00:57 GMT"
         },
         {
           "title": "Zuckerberg pushes \u2018superintelligent\u2019 AI for all as Meta drops open-source model",
@@ -378,11 +409,6 @@
           "title": "What happens when medical students rely on AI \u2013 and never develop their own judgment? | Simar Bajaj and Joseph Sakran",
           "link": "https://www.theguardian.com/commentisfree/2026/aug/10/ai-medical-students-judgment",
           "date": "Mon, 10 Aug 2026 12:00:44 GMT"
-        },
-        {
-          "title": "Convince an AI it\u2019s not alive in psychological horror game Prove You\u2019re Human",
-          "link": "https://www.theguardian.com/games/2026/aug/10/ai-psychological-horror-game-prove-youre-human-sunset-visitor-studio",
-          "date": "Mon, 10 Aug 2026 09:00:39 GMT"
         }
       ],
       "error": null
@@ -456,6 +482,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "AI Is Dead. Organoids Are Alive",
+          "link": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
+          "date": "Tue, 11 Aug 2026 10:00:00 +0000"
+        },
+        {
           "title": "AI Is Helping Solve the Intricate Genetic Puzzle of Schizophrenia",
           "link": "https://www.wired.com/story/ai-helping-solve-intricate-genetic-puzzle-schizophrenia/",
           "date": "Tue, 11 Aug 2026 09:00:00 +0000"
@@ -474,11 +505,6 @@
           "title": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription\u2014Here\u2019s How",
           "link": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/",
           "date": "Sun, 09 Aug 2026 10:30:00 +0000"
-        },
-        {
-          "title": "These AI Barons Are Ready to Give Away Their Fortunes",
-          "link": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
-          "date": "Sun, 09 Aug 2026 09:30:00 +0000"
         }
       ],
       "error": null
