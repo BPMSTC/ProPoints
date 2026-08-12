@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T09:58:31.949765+00:00",
+  "generatedAt": "2026-08-12T11:05:15.491716+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -206,19 +206,19 @@
           "date": "2026-08-12T08:53:50+00:00"
         },
         {
-          "title": "How I ask Codex to explain the 3,000 lines of code it wrote after I asked it to change one heading.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vlkyxn/how_i_ask_codex_to_explain_the_3000_lines_of_code/",
-          "date": "2026-08-11T15:39:25+00:00"
-        },
-        {
           "title": "Access to leading agentic coding tools is becoming a hiring filter",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vm8pzg/access_to_leading_agentic_coding_tools_is/",
           "date": "2026-08-12T08:58:29+00:00"
         },
         {
-          "title": "What's the one thing you'd tell someone new to AI to save them frustration?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vlpimb/whats_the_one_thing_youd_tell_someone_new_to_ai/",
-          "date": "2026-08-11T18:21:30+00:00"
+          "title": "How I ask Codex to explain the 3,000 lines of code it wrote after I asked it to change one heading.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vlkyxn/how_i_ask_codex_to_explain_the_3000_lines_of_code/",
+          "date": "2026-08-11T15:39:25+00:00"
+        },
+        {
+          "title": "How does DeepSeek v4 Flash 0731 reasons about jokes",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vmae6s/how_does_deepseek_v4_flash_0731_reasons_about/",
+          "date": "2026-08-12T10:32:32+00:00"
         }
       ],
       "error": null
@@ -360,6 +360,16 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "AI was supposed to destroy jobs. Where\u2019s the carnage?",
+          "link": "https://www.theguardian.com/technology/2026/aug/12/ai-job-destruction",
+          "date": "Wed, 12 Aug 2026 10:00:27 GMT"
+        },
+        {
+          "title": "If the markets reject OpenAI and Anthropic, the US should nationalize them | Bruce Schneier and Nathan E Sanders",
+          "link": "https://www.theguardian.com/commentisfree/2026/aug/12/openai-anthropic-ai-models",
+          "date": "Wed, 12 Aug 2026 10:00:26 GMT"
+        },
+        {
           "title": "The Guardian view on AI money in US politics: not the way to hold an urgent democratic debate | Editorial",
           "link": "https://www.theguardian.com/commentisfree/2026/aug/11/the-guardian-view-on-ai-money-in-us-politics-not-the-way-to-hold-an-urgent-democratic-debate",
           "date": "Tue, 11 Aug 2026 18:04:02 GMT"
@@ -373,16 +383,6 @@
           "title": "Spotify to distinguish AI artists from real people \u2013 and stop recommending them",
           "link": "https://www.theguardian.com/technology/2026/aug/11/spotify-label-ai-artists-block-them-from-some-playlists",
           "date": "Tue, 11 Aug 2026 13:40:14 GMT"
-        },
-        {
-          "title": "Meta faces expensive child safety reckoning",
-          "link": "https://www.theguardian.com/technology/2026/aug/10/meta-child-safety-google-executives-ai-techscape",
-          "date": "Tue, 11 Aug 2026 12:04:51 GMT"
-        },
-        {
-          "title": "Experts are warning: our AI arms race is putting humanity at risk | Stuart Russell",
-          "link": "https://www.theguardian.com/commentisfree/2026/aug/11/openai-anthropic-google-deepmind-letter",
-          "date": "Tue, 11 Aug 2026 10:00:57 GMT"
         }
       ],
       "error": null
@@ -456,6 +456,16 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "The Job Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself",
+          "link": "https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/",
+          "date": "Wed, 12 Aug 2026 10:45:00 +0000"
+        },
+        {
+          "title": "Oh Lord, AI Reporters Are Actually Breaking Big News",
+          "link": "https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/",
+          "date": "Wed, 12 Aug 2026 10:30:00 +0000"
+        },
+        {
           "title": "You\u2019re Thinking About Online Trends All Wrong",
           "link": "https://www.wired.com/story/youre-thinking-about-online-trends-all-wrong/",
           "date": "Wed, 12 Aug 2026 09:30:00 +0000"
@@ -469,16 +479,6 @@
           "title": "A New Trick Reveals AI Models\u2019 Inner Thoughts",
           "link": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
           "date": "Tue, 11 Aug 2026 11:00:00 +0000"
-        },
-        {
-          "title": "AI Is Dead. Organoids Are Alive",
-          "link": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
-          "date": "Tue, 11 Aug 2026 10:00:00 +0000"
-        },
-        {
-          "title": "AI Is Helping Solve the Intricate Genetic Puzzle of Schizophrenia",
-          "link": "https://www.wired.com/story/ai-helping-solve-intricate-genetic-puzzle-schizophrenia/",
-          "date": "Tue, 11 Aug 2026 09:00:00 +0000"
         }
       ],
       "error": null
