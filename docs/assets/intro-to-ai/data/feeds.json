@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T06:10:29.523808+00:00",
+  "generatedAt": "2026-08-12T08:18:20.697940+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -206,11 +206,6 @@
           "date": "2026-08-11T15:39:25+00:00"
         },
         {
-          "title": "My first AI generation. Any recommendations?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vm5rtt/my_first_ai_generation_any_recommendations/",
-          "date": "2026-08-12T06:03:46+00:00"
-        },
-        {
           "title": "What's the one thing you'd tell someone new to AI to save them frustration?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vlpimb/whats_the_one_thing_youd_tell_someone_new_to_ai/",
           "date": "2026-08-11T18:21:30+00:00"
@@ -219,6 +214,11 @@
           "title": "Me: *enters any prompt* Opus:",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vlcs9h/me_enters_any_prompt_opus/",
           "date": "2026-08-11T09:37:25+00:00"
+        },
+        {
+          "title": "[macOS, Beta] Exody - AI coding agent that routes tasks to cheaper models to cut your API bill",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vlx3i8/macos_beta_exody_ai_coding_agent_that_routes/",
+          "date": "2026-08-11T23:07:13+00:00"
         }
       ],
       "error": null
