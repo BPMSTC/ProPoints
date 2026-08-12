@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T19:01:49.854677+00:00",
+  "generatedAt": "2026-08-12T20:00:43.363899+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -113,6 +113,11 @@
       "name": "AI Business",
       "url": "https://aibusiness.com/rss.xml",
       "items": [
+        {
+          "title": "Microsoft, Seeking to Stay Competitive, Slashes Prices for Coding Model",
+          "link": "https://aibusiness.com/generative-ai/microsoft-seeking-stay-competitive-slashes-prices-coding-model",
+          "date": "Wed, 12 Aug 2026 19:28:17 GMT"
+        },
         {
           "title": "Chinese Company Envisions 100,000 Self-Driving Trucks on Road by 2030",
           "link": "https://aibusiness.com/generative-ai/chinese-company-envisions-100-000-self-driving-trucks-road-by-2030",
@@ -132,11 +137,6 @@
           "title": "The Difference Between Artificial Intelligence and Artificial Intellect",
           "link": "https://aibusiness.com/ai-ethics/the-difference-between-artificial-intelligence-and-artificial-intellect",
           "date": "Tue, 11 Aug 2026 18:03:48 GMT"
-        },
-        {
-          "title": "OpenAI Expands Daybreak to Tackle Growing AI Security Threat",
-          "link": "https://aibusiness.com/cybersecurity/openai-expands-daybreak-tackle-growing-ai-security-threat",
-          "date": "Tue, 11 Aug 2026 17:43:19 GMT"
         }
       ],
       "error": null
