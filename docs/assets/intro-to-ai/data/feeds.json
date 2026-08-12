@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T14:55:05.901427+00:00",
+  "generatedAt": "2026-08-12T15:55:52.063410+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,16 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "IBM Signs $240M Deal for Nvidia-Powered AI Cluster",
+          "link": "https://aibusiness.com/generative-ai/ibm-signs-240m-deal-nvidia-powered-ai-cluster",
+          "date": "Wed, 12 Aug 2026 15:10:57 GMT"
+        },
+        {
+          "title": "Nvidia\u2019s New Open Model Is for Specific Use Cases",
+          "link": "https://aibusiness.com/agentic-ai/nvidia-s-new-open-model-for-specific-use-cases",
+          "date": "Wed, 12 Aug 2026 14:49:59 GMT"
+        },
+        {
           "title": "The Difference Between Artificial Intelligence and Artificial Intellect",
           "link": "https://aibusiness.com/ai-ethics/the-difference-between-artificial-intelligence-and-artificial-intellect",
           "date": "Tue, 11 Aug 2026 18:03:48 GMT"
@@ -127,16 +137,6 @@
           "title": "How the US Ban on Chinese Humanoid Robots Could Affect the Industry",
           "link": "https://aibusiness.com/robotics/how-us-ban-chinese-humanoid-robots-could-affect-the-industry",
           "date": "Tue, 11 Aug 2026 16:41:26 GMT"
-        },
-        {
-          "title": "Nvidia Partners With Wall Street Giants to Mobilize $500B for AI",
-          "link": "https://aibusiness.com/data-centers/nvidia-partners-wall-street-giants-mobilize-500b-for-ai",
-          "date": "Tue, 11 Aug 2026 15:28:12 GMT"
-        },
-        {
-          "title": "New Premium Tier for ChatGPT Business",
-          "link": "https://aibusiness.com/generative-ai/new-premium-tier-for-chatgpt-business",
-          "date": "Tue, 11 Aug 2026 14:59:53 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -206,14 +206,14 @@
           "date": "2026-08-12T08:53:50+00:00"
         },
         {
-          "title": "Brave New World",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vmdjgn/brave_new_world/",
-          "date": "2026-08-12T13:02:45+00:00"
-        },
-        {
           "title": "POV: You realize you're becoming a prompt engineer instead of a software or cybersecurity engineer.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vmb69h/pov_you_realize_youre_becoming_a_prompt_engineer/",
           "date": "2026-08-12T11:13:15+00:00"
+        },
+        {
+          "title": "Brave New World",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vmdjgn/brave_new_world/",
+          "date": "2026-08-12T13:02:45+00:00"
         },
         {
           "title": "Superintelligence Bros",
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Booksellers suspect AI firms are buying and then destroying rare books",
+          "link": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
+          "date": "Wed, 12 Aug 2026 15:19:17 +0000"
+        },
+        {
           "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
           "link": "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/",
           "date": "Wed, 12 Aug 2026 14:00:51 +0000"
@@ -308,11 +313,6 @@
           "title": "Did poop enable the evolution of complex animals?",
           "link": "https://arstechnica.com/science/2026/08/feces-fueled-a-flurry-of-evolution-during-the-cambrian-study-suggests/",
           "date": "Wed, 12 Aug 2026 12:34:38 +0000"
-        },
-        {
-          "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
-          "link": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
-          "date": "Wed, 12 Aug 2026 00:08:40 +0000"
         }
       ],
       "error": null
@@ -320,33 +320,7 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "This technology is a little creepy tbh",
-          "link": "https://www.reddit.com/r/artificial/comments/1vmb5ig/this_technology_is_a_little_creepy_tbh/",
-          "date": "2026-08-12T11:12:17+00:00"
-        },
-        {
-          "title": "Outsourced my thinking and cognitive debt gives me anxiety",
-          "link": "https://www.reddit.com/r/artificial/comments/1vlwvpk/outsourced_my_thinking_and_cognitive_debt_gives/",
-          "date": "2026-08-11T22:58:45+00:00"
-        },
-        {
-          "title": "AI Fatigue?",
-          "link": "https://www.reddit.com/r/artificial/comments/1vmfq1s/ai_fatigue/",
-          "date": "2026-08-12T14:28:41+00:00"
-        },
-        {
-          "title": "Claude now embeds an invisible watermark into every piece of text it generates.",
-          "link": "https://www.reddit.com/r/artificial/comments/1vlag0q/claude_now_embeds_an_invisible_watermark_into/",
-          "date": "2026-08-11T07:20:06+00:00"
-        },
-        {
-          "title": "Lovable now valued at $13.3bn",
-          "link": "https://www.reddit.com/r/artificial/comments/1vmez6m/lovable_now_valued_at_133bn/",
-          "date": "2026-08-12T14:00:44+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
@@ -386,6 +360,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "AI agents aren\u2019t legally responsible for any harm that they cause, experts say. So who is?",
+          "link": "https://www.theguardian.com/technology/2026/aug/13/ai-agents-arent-legally-responsible-for-any-harm-that-they-cause-experts-say-so-who-is",
+          "date": "Wed, 12 Aug 2026 15:00:34 GMT"
+        },
+        {
           "title": "\u2018Nightmare fodder\u2019: Roku\u2019s AI slop channel is even worse than expected",
           "link": "https://www.theguardian.com/tv-and-radio/2026/aug/12/roku-ai-slop-fairground-creator-tv-channel",
           "date": "Wed, 12 Aug 2026 14:15:25 GMT"
@@ -404,11 +383,6 @@
           "title": "The Guardian view on AI money in US politics: not the way to hold an urgent democratic debate | Editorial",
           "link": "https://www.theguardian.com/commentisfree/2026/aug/11/the-guardian-view-on-ai-money-in-us-politics-not-the-way-to-hold-an-urgent-democratic-debate",
           "date": "Tue, 11 Aug 2026 18:04:02 GMT"
-        },
-        {
-          "title": "\u2018Everything about me is good in his eyes\u2019: the women in China choosing AI boyfriends over human men",
-          "link": "https://www.theguardian.com/film/2026/aug/12/ai-boyfriend-dating-chinese-women-replica-miff-documentary",
-          "date": "Tue, 11 Aug 2026 15:00:02 GMT"
         }
       ],
       "error": null
@@ -450,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Protests Against Data Centers Are Now Threatening $130 Billion of Big Tech\u2019s Crucial Investments",
+          "link": "https://futurism.com/future-society/ai-data-center-finances-protests-opposition-social-risk",
+          "date": "Wed, 12 Aug 2026 11:45:00 -0400"
+        },
+        {
           "title": "Internal Google Document Reveals That Its HR AI Has Been Throwing R\u00e9sum\u00e9s From Qualified Applicants Straight Into the Trash",
           "link": "https://futurism.com/future-society/google-hr-resume-applicants-deepmind-ai-hiring",
           "date": "Wed, 12 Aug 2026 09:53:53 -0400"
@@ -468,11 +447,6 @@
           "title": "Man Covers Car in Special Wrap That Breaks Flock Cameras\u2019 Electronic Brains",
           "link": "https://futurism.com/artificial-intelligence/man-covers-car-special-wrap-flock-cameras",
           "date": "Tue, 11 Aug 2026 15:21:04 -0400"
-        },
-        {
-          "title": "Protesters Arrested After Storming OpenAI Lobbying Office",
-          "link": "https://futurism.com/artificial-intelligence/protesters-arrested-protest-openai-washington-dc",
-          "date": "Tue, 11 Aug 2026 14:28:50 -0400"
         }
       ],
       "error": null
