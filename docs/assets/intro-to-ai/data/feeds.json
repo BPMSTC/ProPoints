@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-08-12T11:05:15.491716+00:00",
+  "generatedAt": "2026-08-12T13:01:08.401932+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "This Tool Unmasks the Shadowy World of Ads that Track Your Location",
+          "link": "https://www.404media.co/this-tool-unmasks-the-shadowy-world-of-ads-that-track-your-location/",
+          "date": "Wed, 12 Aug 2026 12:49:12 GMT"
+        },
         {
           "title": "No Bosses: Ancient Engineering Marvel Was Built Without Rulers, Study Suggests",
           "link": "https://www.404media.co/no-bosses-ancient-engineering-marvel-was-built-without-rulers-study-suggests/",
@@ -24,11 +29,6 @@
           "title": "The Mayor Who Said 'No' When Flock Came to Town",
           "link": "https://www.404media.co/the-mayor-who-said-no-when-flock-came-to-town/",
           "date": "Mon, 10 Aug 2026 14:41:22 GMT"
-        },
-        {
-          "title": "Mark Zuckerberg Posts Deranged 6,500-Word Essay About Giving Everyone AI Superintelligence",
-          "link": "https://www.404media.co/mark-zuckerberg-posts-deranged-6-500-word-essay-about-giving-everyone-ai-superintelligence/",
-          "date": "Mon, 10 Aug 2026 14:13:30 GMT"
         }
       ],
       "error": null
@@ -70,12 +70,22 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "Agentic Observability Virtual Summit",
+          "link": "https://www.aiacceleratorinstitute.com/agentic-observability-virtual-summit/",
+          "date": "Wed, 12 Aug 2026 11:48:25 GMT"
+        },
+        {
+          "title": "The AI architecture decisions  that cannot wait",
+          "link": "https://www.aiacceleratorinstitute.com/the-ai-architecture-decisions-that-cannot-wait/",
+          "date": "Wed, 12 Aug 2026 11:46:28 GMT"
+        },
+        {
           "title": "The memory wall: Why your GPUs are sitting idle",
           "link": "https://www.aiacceleratorinstitute.com/why-your-gpus-are-sitting-idle/",
           "date": "Tue, 11 Aug 2026 16:01:07 GMT"
         },
         {
-          "title": "Data Infrastructure Summit Virtual Summit | May 2026",
+          "title": "Data Infrastructure Virtual Summit | May 2026",
           "link": "https://www.aiacceleratorinstitute.com/data-infrastructure-summit-virtual-summit-may-2026/",
           "date": "Tue, 11 Aug 2026 15:30:08 GMT"
         },
@@ -83,16 +93,6 @@
           "title": "Thanks for registering",
           "link": "https://www.aiacceleratorinstitute.com/thanks-for-registering-5/",
           "date": "Tue, 11 Aug 2026 14:19:24 GMT"
-        },
-        {
-          "title": "6 mistakes AI leaders keep   making with agentic deployments",
-          "link": "https://www.aiacceleratorinstitute.com/6-mistakes-ai-leaders-keep-making-with-agentic-deployments/",
-          "date": "Mon, 10 Aug 2026 16:04:52 GMT"
-        },
-        {
-          "title": "The canary test AI agents  keep failing",
-          "link": "https://www.aiacceleratorinstitute.com/the-canary-test-ai-agents-keep-failing/",
-          "date": "Mon, 10 Aug 2026 14:25:09 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -206,19 +206,19 @@
           "date": "2026-08-12T08:53:50+00:00"
         },
         {
+          "title": "POV: You realize you're becoming a prompt engineer instead of a software or cybersecurity engineer.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vmb69h/pov_you_realize_youre_becoming_a_prompt_engineer/",
+          "date": "2026-08-12T11:13:15+00:00"
+        },
+        {
           "title": "Access to leading agentic coding tools is becoming a hiring filter",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vm8pzg/access_to_leading_agentic_coding_tools_is/",
           "date": "2026-08-12T08:58:29+00:00"
         },
         {
-          "title": "How I ask Codex to explain the 3,000 lines of code it wrote after I asked it to change one heading.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vlkyxn/how_i_ask_codex_to_explain_the_3000_lines_of_code/",
-          "date": "2026-08-11T15:39:25+00:00"
-        },
-        {
-          "title": "How does DeepSeek v4 Flash 0731 reasons about jokes",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vmae6s/how_does_deepseek_v4_flash_0731_reasons_about/",
-          "date": "2026-08-12T10:32:32+00:00"
+          "title": "Anyone up for hackathons. It's a AI voice agents based ones.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vmcu3p/anyone_up_for_hackathons_its_a_ai_voice_agents/",
+          "date": "2026-08-12T12:32:39+00:00"
         }
       ],
       "error": null
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Did poop enable the evolution of complex animals?",
+          "link": "https://arstechnica.com/science/2026/08/feces-fueled-a-flurry-of-evolution-during-the-cambrian-study-suggests/",
+          "date": "Wed, 12 Aug 2026 12:34:38 +0000"
+        },
+        {
           "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
           "link": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
           "date": "Wed, 12 Aug 2026 00:08:40 +0000"
@@ -308,11 +313,6 @@
           "title": "Chrome adopts what may be the best protection yet against account takeovers",
           "link": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
           "date": "Tue, 11 Aug 2026 20:59:52 +0000"
-        },
-        {
-          "title": "Meta can't stop states' $1.4 trillion lawsuit from going to trial",
-          "link": "https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/",
-          "date": "Tue, 11 Aug 2026 20:27:16 +0000"
         }
       ],
       "error": null
@@ -328,6 +328,21 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Layoffs tied to AI hurt worker productivity \u2013 and the reason may surprise managers",
+          "link": "https://theconversation.com/layoffs-tied-to-ai-hurt-worker-productivity-and-the-reason-may-surprise-managers-286749",
+          "date": "2026-08-12T12:40:22Z"
+        },
+        {
+          "title": "China is shaping the future of open-source technology \u2013 including AI",
+          "link": "https://theconversation.com/china-is-shaping-the-future-of-open-source-technology-including-ai-288061",
+          "date": "2026-08-12T12:37:32Z"
+        },
+        {
+          "title": "AI-designed viruses are a test of whether biosecurity can keep pace",
+          "link": "https://theconversation.com/ai-designed-viruses-are-a-test-of-whether-biosecurity-can-keep-pace-289583",
+          "date": "2026-08-12T12:37:23Z"
+        },
+        {
           "title": "Nature has spent billions of years fighting bacteria \u2013 AI could help us learn its secrets",
           "link": "https://theconversation.com/nature-has-spent-billions-of-years-fighting-bacteria-ai-could-help-us-learn-its-secrets-289326",
           "date": "2026-08-11T14:48:39Z"
@@ -336,21 +351,6 @@
           "title": "Scientists have designed a functioning virus from scratch using AI \u2013 what you need to know",
           "link": "https://theconversation.com/scientists-have-designed-a-functioning-virus-from-scratch-using-ai-what-you-need-to-know-289319",
           "date": "2026-08-11T13:36:34Z"
-        },
-        {
-          "title": "What does life after AI look like? Cory Doctorow\u2019s guide is an outdated map, lacking answers",
-          "link": "https://theconversation.com/what-does-life-after-ai-look-like-cory-doctorows-guide-is-an-outdated-map-lacking-answers-288407",
-          "date": "2026-08-10T20:12:01Z"
-        },
-        {
-          "title": "Complaints about online platforms often go nowhere. AI could actually be part of the solution",
-          "link": "https://theconversation.com/complaints-about-online-platforms-often-go-nowhere-ai-could-actually-be-part-of-the-solution-289036",
-          "date": "2026-08-10T20:11:08Z"
-        },
-        {
-          "title": "Education ministers are worried about technology use in schools. Should they be?",
-          "link": "https://theconversation.com/education-ministers-are-worried-about-technology-use-in-schools-should-they-be-289214",
-          "date": "2026-08-10T20:10:08Z"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Farmer Horrified as AI Gives Bad Advice That Kills 25 Acres of Crops",
+          "link": "https://futurism.com/science-energy/farmer-horrified-ai-advice-agriculture-crops-sesame",
+          "date": "Wed, 12 Aug 2026 08:45:14 -0400"
+        },
+        {
           "title": "Doctors Warn That Med Students Are Surrendering Their Brains to Medical AIs That Are Even Worse than Regular Chatbots",
           "link": "https://futurism.com/artificial-intelligence/doctors-med-students-brains-ai",
           "date": "Tue, 11 Aug 2026 16:26:47 -0400"
@@ -442,11 +447,6 @@
           "title": "Google Just Updated Its Home Page to Replace the \u201cSearch\u201d Button With a Bunch of AI",
           "link": "https://futurism.com/artificial-intelligence/google-update-home-page-ai",
           "date": "Tue, 11 Aug 2026 12:56:47 -0400"
-        },
-        {
-          "title": "AI Investors Are Suddenly Quaking in Their Boots",
-          "link": "https://futurism.com/artificial-intelligence/ai-investors-suddenly-quaking-boots",
-          "date": "Tue, 11 Aug 2026 10:50:00 -0400"
         }
       ],
       "error": null
@@ -456,7 +456,7 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
-          "title": "The Job Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself",
+          "title": "The Job-Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself",
           "link": "https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/",
           "date": "Wed, 12 Aug 2026 10:45:00 +0000"
         },
