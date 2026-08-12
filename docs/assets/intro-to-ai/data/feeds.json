@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T21:40:59.810868+00:00",
+  "generatedAt": "2026-08-12T22:36:20.982548+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,29 +290,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Two hydrogen-burning engines powered this car to a new land speed record",
-          "link": "https://arstechnica.com/cars/2026/08/jcb-sets-a-new-406-mph-speed-record-for-hydrogen-powered-cars/",
-          "date": "Wed, 12 Aug 2026 17:01:11 +0000"
+          "title": "Terabytes of credentials leaked in massive supply-chain attack",
+          "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+          "date": "Wed, 12 Aug 2026 21:43:21 +0000"
         },
         {
-          "title": "US tries to override New York gambling laws, orders Kalshi to keep operating",
-          "link": "https://arstechnica.com/tech-policy/2026/08/us-tries-to-override-new-york-gambling-laws-orders-kalshi-to-keep-operating/",
-          "date": "Wed, 12 Aug 2026 16:33:43 +0000"
+          "title": "Have physicists finally discovered glueballs? New evidence points to yes.",
+          "link": "https://arstechnica.com/science/2026/08/have-physicists-finally-discovered-glueballs-new-evidence-points-to-yes/",
+          "date": "Wed, 12 Aug 2026 21:13:39 +0000"
         },
         {
-          "title": "Booksellers suspect AI firms are buying and then destroying rare books",
-          "link": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
-          "date": "Wed, 12 Aug 2026 15:19:17 +0000"
+          "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
+          "link": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+          "date": "Wed, 12 Aug 2026 21:00:30 +0000"
         },
         {
-          "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
-          "link": "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/",
-          "date": "Wed, 12 Aug 2026 14:00:51 +0000"
+          "title": "Trump sued over \"brazen\" scheme to sell Truth Social API access for $100K a month",
+          "link": "https://arstechnica.com/tech-policy/2026/08/trump-sued-over-brazen-scheme-to-sell-truth-social-api-access-for-100k-a-month/",
+          "date": "Wed, 12 Aug 2026 20:20:52 +0000"
         },
         {
-          "title": "Researchers found a way to hijack devices through Zoom screen sharing",
-          "link": "https://arstechnica.com/security/2026/08/researchers-found-a-way-to-hijack-devices-through-zoom-screen-sharing/",
-          "date": "Wed, 12 Aug 2026 13:37:12 +0000"
+          "title": "US boosts drone surveillance as flesh-eating screwworms spread in Texas",
+          "link": "https://arstechnica.com/gadgets/2026/08/us-boosts-drone-surveillance-as-flesh-eating-screwworms-spread-in-texas/",
+          "date": "Wed, 12 Aug 2026 19:40:46 +0000"
         }
       ],
       "error": null
