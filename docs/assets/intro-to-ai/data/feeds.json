@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T08:18:20.697940+00:00",
+  "generatedAt": "2026-08-12T09:58:31.949765+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -201,24 +201,24 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "Claude",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vm8n9q/claude/",
+          "date": "2026-08-12T08:53:50+00:00"
+        },
+        {
           "title": "How I ask Codex to explain the 3,000 lines of code it wrote after I asked it to change one heading.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vlkyxn/how_i_ask_codex_to_explain_the_3000_lines_of_code/",
           "date": "2026-08-11T15:39:25+00:00"
         },
         {
+          "title": "Access to leading agentic coding tools is becoming a hiring filter",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vm8pzg/access_to_leading_agentic_coding_tools_is/",
+          "date": "2026-08-12T08:58:29+00:00"
+        },
+        {
           "title": "What's the one thing you'd tell someone new to AI to save them frustration?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vlpimb/whats_the_one_thing_youd_tell_someone_new_to_ai/",
           "date": "2026-08-11T18:21:30+00:00"
-        },
-        {
-          "title": "Me: *enters any prompt* Opus:",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vlcs9h/me_enters_any_prompt_opus/",
-          "date": "2026-08-11T09:37:25+00:00"
-        },
-        {
-          "title": "[macOS, Beta] Exody - AI coding agent that routes tasks to cheaper models to cut your API bill",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vlx3i8/macos_beta_exody_ai_coding_agent_that_routes/",
-          "date": "2026-08-11T23:07:13+00:00"
         }
       ],
       "error": null
@@ -228,29 +228,29 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
-          "title": "White House, AI firms keep safety framework talks private",
-          "link": "https://siliconangle.com/2026/08/04/white-house-ai-firms-keep-safety-framework-talks-private/",
-          "date": "Wed, 05 Aug 2026 01:31:48 +0000"
+          "title": "Personalized AI startup River AI raises $1.1B from consortium backed by Nvidia, AMD",
+          "link": "https://siliconangle.com/2026/08/11/personalized-ai-startup-river-ai-raises-1-1b-consortium-backed-nvidia-amd/",
+          "date": "Tue, 11 Aug 2026 22:59:58 +0000"
         },
         {
-          "title": "Bending Spoons to acquire productivity software startup Airtable for $1.285B",
-          "link": "https://siliconangle.com/2026/08/04/bending-spoons-acquire-productivity-software-startup-airtable-1-285b/",
-          "date": "Wed, 05 Aug 2026 00:29:11 +0000"
+          "title": "Google\u2019s Gemini AI app passes 1 billion monthly active users",
+          "link": "https://siliconangle.com/2026/08/11/googles-gemini-ai-app-passes-1-billion-monthly-active-users/",
+          "date": "Tue, 11 Aug 2026 22:50:45 +0000"
         },
         {
-          "title": "AMD\u2019s AI engine shifts into higher gear as data center revenue more than doubles, Helios ramps & market is confused",
-          "link": "https://siliconangle.com/2026/08/04/amds-ai-engine-shifts-higher-gear-data-center-revenue-doubles-helios-ramps-market-confused/",
-          "date": "Tue, 04 Aug 2026 23:33:28 +0000"
+          "title": "Anthropic to start watermarking Claude-generated text, images",
+          "link": "https://siliconangle.com/2026/08/11/anthropic-start-watermarking-claude-generated-text-images/",
+          "date": "Tue, 11 Aug 2026 20:39:37 +0000"
         },
         {
-          "title": "SpaceX stock falls 8% as first earnings beat is overshadowed by $18B capex",
-          "link": "https://siliconangle.com/2026/08/04/spacex-stock-falls-8-first-earnings-beat-overshadowed-18b-capex/",
-          "date": "Tue, 04 Aug 2026 22:36:16 +0000"
+          "title": "Snowflake moves enterprise AI beyond fragmented data pipelines",
+          "link": "https://siliconangle.com/2026/08/11/data-interoperability-ai-pipelines-awsmarketplaceseries/",
+          "date": "Tue, 11 Aug 2026 20:20:51 +0000"
         },
         {
-          "title": "AWS launches Kiro Crew, an autonomous agentic orchestrator for 24/7 code development",
-          "link": "https://siliconangle.com/2026/08/04/aws-launches-kiro-crew-autonomous-agentic-orchestrator-24-7-code-development/",
-          "date": "Tue, 04 Aug 2026 17:00:30 +0000"
+          "title": "Real-time tax compliance puts agentic AI accuracy to the test",
+          "link": "https://siliconangle.com/2026/08/11/avalara-brings-agentic-accuracy-ai-powered-tax-compliance-googlecloudaiagentsinaction/",
+          "date": "Tue, 11 Aug 2026 19:56:08 +0000"
         }
       ],
       "error": null
@@ -360,11 +360,6 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "AI\u2019s potential climate benefits outweighed by role in boosting fossil fuels, study finds",
-          "link": "https://www.theguardian.com/technology/2026/aug/11/ai-will-do-more-to-boost-fossil-fuel-production-than-green-energy",
-          "date": "Tue, 11 Aug 2026 09:15:45 GMT"
-        },
-        {
           "title": "The Guardian view on AI money in US politics: not the way to hold an urgent democratic debate | Editorial",
           "link": "https://www.theguardian.com/commentisfree/2026/aug/11/the-guardian-view-on-ai-money-in-us-politics-not-the-way-to-hold-an-urgent-democratic-debate",
           "date": "Tue, 11 Aug 2026 18:04:02 GMT"
@@ -383,6 +378,11 @@
           "title": "Meta faces expensive child safety reckoning",
           "link": "https://www.theguardian.com/technology/2026/aug/10/meta-child-safety-google-executives-ai-techscape",
           "date": "Tue, 11 Aug 2026 12:04:51 GMT"
+        },
+        {
+          "title": "Experts are warning: our AI arms race is putting humanity at risk | Stuart Russell",
+          "link": "https://www.theguardian.com/commentisfree/2026/aug/11/openai-anthropic-google-deepmind-letter",
+          "date": "Tue, 11 Aug 2026 10:00:57 GMT"
         }
       ],
       "error": null
@@ -456,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "You\u2019re Thinking About Online Trends All Wrong",
+          "link": "https://www.wired.com/story/youre-thinking-about-online-trends-all-wrong/",
+          "date": "Wed, 12 Aug 2026 09:30:00 +0000"
+        },
+        {
           "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
           "link": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
           "date": "Tue, 11 Aug 2026 12:37:12 +0000"
@@ -474,11 +479,6 @@
           "title": "AI Is Helping Solve the Intricate Genetic Puzzle of Schizophrenia",
           "link": "https://www.wired.com/story/ai-helping-solve-intricate-genetic-puzzle-schizophrenia/",
           "date": "Tue, 11 Aug 2026 09:00:00 +0000"
-        },
-        {
-          "title": "The AI Slop Backlash Is Actually Having an Impact",
-          "link": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
-          "date": "Mon, 10 Aug 2026 11:30:00 +0000"
         }
       ],
       "error": null
