@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T15:55:52.063410+00:00",
+  "generatedAt": "2026-08-12T17:01:16.089106+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -113,6 +113,11 @@
       "name": "AI Business",
       "url": "https://aibusiness.com/rss.xml",
       "items": [
+        {
+          "title": "Chinese Company Envisions 100,000 Self-Driving Trucks on Road by 2030",
+          "link": "https://aibusiness.com/generative-ai/chinese-company-envisions-100-000-self-driving-trucks-road-by-2030",
+          "date": "Wed, 12 Aug 2026 16:07:52 GMT"
+        },
         {
           "title": "IBM Signs $240M Deal for Nvidia-Powered AI Cluster",
           "link": "https://aibusiness.com/generative-ai/ibm-signs-240m-deal-nvidia-powered-ai-cluster",
@@ -132,11 +137,6 @@
           "title": "OpenAI Expands Daybreak to Tackle Growing AI Security Threat",
           "link": "https://aibusiness.com/cybersecurity/openai-expands-daybreak-tackle-growing-ai-security-threat",
           "date": "Tue, 11 Aug 2026 17:43:19 GMT"
-        },
-        {
-          "title": "How the US Ban on Chinese Humanoid Robots Could Affect the Industry",
-          "link": "https://aibusiness.com/robotics/how-us-ban-chinese-humanoid-robots-could-affect-the-industry",
-          "date": "Tue, 11 Aug 2026 16:41:26 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -206,19 +206,19 @@
           "date": "2026-08-12T08:53:50+00:00"
         },
         {
-          "title": "POV: You realize you're becoming a prompt engineer instead of a software or cybersecurity engineer.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vmb69h/pov_you_realize_youre_becoming_a_prompt_engineer/",
-          "date": "2026-08-12T11:13:15+00:00"
-        },
-        {
           "title": "Brave New World",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vmdjgn/brave_new_world/",
           "date": "2026-08-12T13:02:45+00:00"
         },
         {
-          "title": "Superintelligence Bros",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vme12q/superintelligence_bros/",
-          "date": "2026-08-12T13:22:51+00:00"
+          "title": "POV: You realize you're becoming a prompt engineer instead of a software or cybersecurity engineer.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vmb69h/pov_you_realize_youre_becoming_a_prompt_engineer/",
+          "date": "2026-08-12T11:13:15+00:00"
+        },
+        {
+          "title": "it turns out distillation is not that hard",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vmiqa6/it_turns_out_distillation_is_not_that_hard/",
+          "date": "2026-08-12T16:18:43+00:00"
         }
       ],
       "error": null
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "US tries to override New York gambling laws, orders Kalshi to keep operating",
+          "link": "https://arstechnica.com/tech-policy/2026/08/us-tries-to-override-new-york-gambling-laws-orders-kalshi-to-keep-operating/",
+          "date": "Wed, 12 Aug 2026 16:33:43 +0000"
+        },
+        {
           "title": "Booksellers suspect AI firms are buying and then destroying rare books",
           "link": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
           "date": "Wed, 12 Aug 2026 15:19:17 +0000"
@@ -308,11 +313,6 @@
           "title": "Formula E finds a new home on Disney+, ESPN+",
           "link": "https://arstechnica.com/cars/2026/08/formula-e-finds-a-new-home-on-disney-espn/",
           "date": "Wed, 12 Aug 2026 13:35:30 +0000"
-        },
-        {
-          "title": "Did poop enable the evolution of complex animals?",
-          "link": "https://arstechnica.com/science/2026/08/feces-fueled-a-flurry-of-evolution-during-the-cambrian-study-suggests/",
-          "date": "Wed, 12 Aug 2026 12:34:38 +0000"
         }
       ],
       "error": null
@@ -327,6 +327,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "We built a $10 soil test, then a virtual reality platform to take it around the world",
+          "link": "https://theconversation.com/we-built-a-10-soil-test-then-a-virtual-reality-platform-to-take-it-around-the-world-286738",
+          "date": "2026-08-12T16:02:37Z"
+        },
         {
           "title": "Layoffs tied to AI hurt worker productivity \u2013 and the reason may surprise managers",
           "link": "https://theconversation.com/layoffs-tied-to-ai-hurt-worker-productivity-and-the-reason-may-surprise-managers-286749",
@@ -346,11 +351,6 @@
           "title": "Nature has spent billions of years fighting bacteria \u2013 AI could help us learn its secrets",
           "link": "https://theconversation.com/nature-has-spent-billions-of-years-fighting-bacteria-ai-could-help-us-learn-its-secrets-289326",
           "date": "2026-08-11T14:48:39Z"
-        },
-        {
-          "title": "Scientists have designed a functioning virus from scratch using AI \u2013 what you need to know",
-          "link": "https://theconversation.com/scientists-have-designed-a-functioning-virus-from-scratch-using-ai-what-you-need-to-know-289319",
-          "date": "2026-08-11T13:36:34Z"
         }
       ],
       "error": null
@@ -363,6 +363,11 @@
           "title": "AI agents aren\u2019t legally responsible for any harm that they cause, experts say. So who is?",
           "link": "https://www.theguardian.com/technology/2026/aug/13/ai-agents-arent-legally-responsible-for-any-harm-that-they-cause-experts-say-so-who-is",
           "date": "Wed, 12 Aug 2026 15:00:34 GMT"
+        },
+        {
+          "title": "Science funding and unnecessary fear | Letters",
+          "link": "https://www.theguardian.com/science/2026/aug/12/science-funding-and-unnecessary-fear",
+          "date": "Wed, 12 Aug 2026 16:28:31 GMT"
         },
         {
           "title": "\u2018Nightmare fodder\u2019: Roku\u2019s AI slop channel is even worse than expected",
@@ -378,11 +383,6 @@
           "title": "If the markets reject OpenAI and Anthropic, the US should nationalize them | Bruce Schneier and Nathan E Sanders",
           "link": "https://www.theguardian.com/commentisfree/2026/aug/12/openai-anthropic-ai-models",
           "date": "Wed, 12 Aug 2026 10:00:26 GMT"
-        },
-        {
-          "title": "The Guardian view on AI money in US politics: not the way to hold an urgent democratic debate | Editorial",
-          "link": "https://www.theguardian.com/commentisfree/2026/aug/11/the-guardian-view-on-ai-money-in-us-politics-not-the-way-to-hold-an-urgent-democratic-debate",
-          "date": "Tue, 11 Aug 2026 18:04:02 GMT"
         }
       ],
       "error": null
