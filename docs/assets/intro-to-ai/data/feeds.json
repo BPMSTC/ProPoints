@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-08-12T17:55:48.384253+00:00",
+  "generatedAt": "2026-08-12T19:01:49.854677+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Twitch is Mining Peoples' Streams to Train Amazon's AI",
+          "link": "https://www.404media.co/twitch-training-amazon-ai-models-how-to-opt-out-setting/",
+          "date": "Wed, 12 Aug 2026 17:58:48 GMT"
+        },
+        {
+          "title": "Podcast: Mark Zuckerberg\u2019s 'Superintelligent' AI Future That No One Wants",
+          "link": "https://www.404media.co/podcast-mark-zuckerbergs-superintelligent-ai-future-that-no-one-wants/",
+          "date": "Wed, 12 Aug 2026 14:15:44 GMT"
+        },
         {
           "title": "Researchers Show How Meta's 'Pervert Glasses' Are Used to Harass Women",
           "link": "https://www.404media.co/meta-ray-ban-smart-glasses-pov-instagram-pickup-artists/",
@@ -19,16 +29,6 @@
           "title": "The Government is Monitoring Anti-Flock TikTok and Instagram Accounts",
           "link": "https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/",
           "date": "Wed, 12 Aug 2026 13:35:46 GMT"
-        },
-        {
-          "title": "This Tool Unmasks the Shadowy World of Ads that Track Your Location",
-          "link": "https://www.404media.co/this-tool-unmasks-the-shadowy-world-of-ads-that-track-your-location/",
-          "date": "Wed, 12 Aug 2026 12:49:12 GMT"
-        },
-        {
-          "title": "No Bosses: Ancient Engineering Marvel Was Built Without Rulers, Study Suggests",
-          "link": "https://www.404media.co/no-bosses-ancient-engineering-marvel-was-built-without-rulers-study-suggests/",
-          "date": "Tue, 11 Aug 2026 17:55:52 GMT"
         }
       ],
       "error": null
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Two hydrogen-burning engines powered this car to a new land speed record",
+          "link": "https://arstechnica.com/cars/2026/08/jcb-sets-a-new-406-mph-speed-record-for-hydrogen-powered-cars/",
+          "date": "Wed, 12 Aug 2026 17:01:11 +0000"
+        },
+        {
           "title": "US tries to override New York gambling laws, orders Kalshi to keep operating",
           "link": "https://arstechnica.com/tech-policy/2026/08/us-tries-to-override-new-york-gambling-laws-orders-kalshi-to-keep-operating/",
           "date": "Wed, 12 Aug 2026 16:33:43 +0000"
@@ -308,11 +313,6 @@
           "title": "Researchers found a way to hijack devices through Zoom screen sharing",
           "link": "https://arstechnica.com/security/2026/08/researchers-found-a-way-to-hijack-devices-through-zoom-screen-sharing/",
           "date": "Wed, 12 Aug 2026 13:37:12 +0000"
-        },
-        {
-          "title": "Formula E finds a new home on Disney+, ESPN+",
-          "link": "https://arstechnica.com/cars/2026/08/formula-e-finds-a-new-home-on-disney-espn/",
-          "date": "Wed, 12 Aug 2026 13:35:30 +0000"
         }
       ],
       "error": null
@@ -456,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Rogue AI Agents Aren\u2019t Evil. They\u2019re Just Eager to Please",
+          "link": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
+          "date": "Wed, 12 Aug 2026 18:45:00 +0000"
+        },
+        {
           "title": "4 New Camera Tricks on Google\u2019s Latest Pixel 11 Smartphones",
           "link": "https://www.wired.com/story/new-camera-tricks-on-google-latest-pixel-11-smartphones/",
           "date": "Wed, 12 Aug 2026 14:00:00 +0000"
@@ -474,11 +479,6 @@
           "title": "You\u2019re Thinking About Online Trends All Wrong",
           "link": "https://www.wired.com/story/youre-thinking-about-online-trends-all-wrong/",
           "date": "Wed, 12 Aug 2026 09:30:00 +0000"
-        },
-        {
-          "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
-          "link": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
-          "date": "Tue, 11 Aug 2026 12:37:12 +0000"
         }
       ],
       "error": null
