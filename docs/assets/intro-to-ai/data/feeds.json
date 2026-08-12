@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T17:01:16.089106+00:00",
+  "generatedAt": "2026-08-12T17:55:48.384253+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -216,9 +216,9 @@
           "date": "2026-08-12T11:13:15+00:00"
         },
         {
-          "title": "it turns out distillation is not that hard",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vmiqa6/it_turns_out_distillation_is_not_that_hard/",
-          "date": "2026-08-12T16:18:43+00:00"
+          "title": "Claude spent 1.7M tokens in just 2 minutes fixing one bug",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vmlaa6/claude_spent_17m_tokens_in_just_2_minutes_fixing/",
+          "date": "2026-08-12T17:48:46+00:00"
         }
       ],
       "error": null
