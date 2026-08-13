@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T10:00:31.614725+00:00",
+  "generatedAt": "2026-08-13T11:44:21.032042+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -80,7 +80,7 @@
           "date": "Wed, 12 Aug 2026 11:46:28 GMT"
         },
         {
-          "title": "The memory wall: Why your GPUs are sitting idle",
+          "title": "Enterprise-scale AI inference is memory bound: How to overcome the Memory Wall",
           "link": "https://www.aiacceleratorinstitute.com/why-your-gpus-are-sitting-idle/",
           "date": "Tue, 11 Aug 2026 16:01:07 GMT"
         },
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -206,6 +206,11 @@
           "date": "2026-08-13T05:45:11+00:00"
         },
         {
+          "title": "Is planning (directing) now, a more valuable resource than execution?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vn7lor/is_planning_directing_now_a_more_valuable/",
+          "date": "2026-08-13T11:05:07+00:00"
+        },
+        {
           "title": "Claude",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vm8n9q/claude/",
           "date": "2026-08-12T08:53:50+00:00"
@@ -214,11 +219,6 @@
           "title": "Brave New World",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vmdjgn/brave_new_world/",
           "date": "2026-08-12T13:02:45+00:00"
-        },
-        {
-          "title": "POV: You realize you're becoming a prompt engineer instead of a software or cybersecurity engineer.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vmb69h/pov_you_realize_youre_becoming_a_prompt_engineer/",
-          "date": "2026-08-12T11:13:15+00:00"
         }
       ],
       "error": null
@@ -365,6 +365,11 @@
           "date": "Wed, 12 Aug 2026 15:00:34 GMT"
         },
         {
+          "title": "Lost jobs, inequality, rogue agents: why are we accepting oligarchs\u2019 AI agenda? | Robert Reich",
+          "link": "https://www.theguardian.com/commentisfree/2026/aug/13/lost-jobs-inequality-ai-oligarchs",
+          "date": "Thu, 13 Aug 2026 10:00:56 GMT"
+        },
+        {
           "title": "\u2018I feel like I\u2019m at war\u2019: are we losing the battle against machine-made music?",
           "link": "https://www.theguardian.com/music/ng-interactive/2026/aug/13/ai-music",
           "date": "Thu, 13 Aug 2026 09:00:55 GMT"
@@ -378,11 +383,6 @@
           "title": "San Francisco-area estate sells for $70m in sign of AI-fueled wealth explosion",
           "link": "https://www.theguardian.com/us-news/2026/aug/12/san-francisco-70m-estate",
           "date": "Wed, 12 Aug 2026 23:22:48 GMT"
-        },
-        {
-          "title": "Science funding and unnecessary fear | Letters",
-          "link": "https://www.theguardian.com/science/2026/aug/12/science-funding-and-unnecessary-fear",
-          "date": "Wed, 12 Aug 2026 16:28:31 GMT"
         }
       ],
       "error": null
