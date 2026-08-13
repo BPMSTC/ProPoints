@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T19:56:54.356014+00:00",
+  "generatedAt": "2026-08-13T20:49:22.746578+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -211,14 +211,14 @@
           "date": "2026-08-13T05:45:11+00:00"
         },
         {
+          "title": "Car flipping",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vnlrpl/car_flipping/",
+          "date": "2026-08-13T20:06:42+00:00"
+        },
+        {
           "title": "Big text information extractor AI",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vnbjdt/big_text_information_extractor_ai/",
           "date": "2026-08-13T14:00:16+00:00"
-        },
-        {
-          "title": "Is building apps using ai really worth it?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vn6yen/is_building_apps_using_ai_really_worth_it/",
-          "date": "2026-08-13T10:29:39+00:00"
         }
       ],
       "error": null
@@ -290,29 +290,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Rivian's 2027 changes include its No. 1 most-requested feature",
-          "link": "https://arstechnica.com/cars/2026/08/rivian-tweaks-its-r1-range-for-model-year-2027/",
-          "date": "Thu, 13 Aug 2026 14:00:57 +0000"
+          "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
+          "link": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
+          "date": "Thu, 13 Aug 2026 19:38:58 +0000"
         },
         {
-          "title": "Anthropic could be worth $2 trillion when it goes public",
-          "link": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
-          "date": "Thu, 13 Aug 2026 13:58:56 +0000"
+          "title": "Virgin Galactic wants your help naming its new Delta class spaceship",
+          "link": "https://arstechnica.com/space/2026/08/virgin-galactic-wants-your-help-naming-its-new-delta-class-spaceship/",
+          "date": "Thu, 13 Aug 2026 19:12:15 +0000"
         },
         {
-          "title": "We've flown a radiation-blocking vest to the Moon and back, and it worked",
-          "link": "https://arstechnica.com/science/2026/08/weve-flown-a-radiation-blocking-vest-to-the-moon-and-back-and-it-worked/",
-          "date": "Thu, 13 Aug 2026 13:48:55 +0000"
+          "title": "Ukrainian drones wipe out entire US tank brigade in live war game",
+          "link": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-wipe-out-entire-us-tank-brigade-in-live-war-game/",
+          "date": "Thu, 13 Aug 2026 18:31:56 +0000"
         },
         {
-          "title": "Claude's new Scarlet Letter watermark is invisible\u2014for now",
-          "link": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
-          "date": "Thu, 13 Aug 2026 11:10:18 +0000"
+          "title": "Flock \u201ccan\u2019t tech its way out\u201d of the stalker cop problem, experts say",
+          "link": "https://arstechnica.com/tech-policy/2026/08/flock-cant-tech-its-way-out-of-the-stalker-cop-problem-experts-say/",
+          "date": "Thu, 13 Aug 2026 18:10:14 +0000"
         },
         {
-          "title": "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
-          "link": "https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/",
-          "date": "Wed, 12 Aug 2026 22:31:19 +0000"
+          "title": "Pet owners say smart pet feeder outage led to furry ones going unfed",
+          "link": "https://arstechnica.com/gadgets/2026/08/pet-owners-say-smart-pet-feeder-outage-led-to-furry-ones-going-unfed/",
+          "date": "Thu, 13 Aug 2026 17:53:53 +0000"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Remember the Publisher That Put Fake Writers in Sports Illustrated? It Just Rebranded as an AI Company",
+          "link": "https://futurism.com/artificial-intelligence/sports-illustrated-the-arena-group-paradium-ai",
+          "date": "Thu, 13 Aug 2026 16:38:24 -0400"
+        },
+        {
           "title": "Game Dev CEO Accused of Replacing Writers With AI is Now Completely Crashing Out",
           "link": "https://futurism.com/artificial-intelligence/game-developer-accused-firing-writer-ai",
           "date": "Thu, 13 Aug 2026 15:50:17 -0400"
@@ -442,11 +447,6 @@
           "title": "Facebook Is Filling With Viral AI-Generated Silver Foxes Wooing Women by Ranting About How Terrible Men Are",
           "link": "https://futurism.com/artificial-intelligence/ai-generated-silver-foxes-facebook",
           "date": "Thu, 13 Aug 2026 11:52:36 -0400"
-        },
-        {
-          "title": "OpenAI\u2019s \u201cHead of Ethics\u201d Suddenly Leaves Company Under Mysterious Circumstances",
-          "link": "https://futurism.com/artificial-intelligence/openais-head-of-ethics-leaves-company",
-          "date": "Wed, 12 Aug 2026 16:08:28 -0400"
         }
       ],
       "error": null
