@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-08-13T17:55:07.167416+00:00",
+  "generatedAt": "2026-08-13T19:00:35.457137+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Person Hides Prompt Injection in Legal Filing Telling AI to Side With Them",
+          "link": "https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/",
+          "date": "Thu, 13 Aug 2026 17:57:22 GMT"
+        },
         {
           "title": "Medical Startup Selling Prescription Kit for Nuclear Disaster",
           "link": "https://www.404media.co/medical-startup-selling-prescription-kit-for-nuclear-disaster/",
@@ -24,11 +29,6 @@
           "title": "Podcast: Mark Zuckerberg\u2019s 'Superintelligent' AI Future That No One Wants",
           "link": "https://www.404media.co/podcast-mark-zuckerbergs-superintelligent-ai-future-that-no-one-wants/",
           "date": "Wed, 12 Aug 2026 14:15:44 GMT"
-        },
-        {
-          "title": "Researchers Show How Meta's 'Pervert Glasses' Are Used to Harass Women",
-          "link": "https://www.404media.co/meta-ray-ban-smart-glasses-pov-instagram-pickup-artists/",
-          "date": "Wed, 12 Aug 2026 14:05:24 GMT"
         }
       ],
       "error": null
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Euro Vibe Coding Standout Lovable Now Valued at $13.3B",
+          "link": "https://aibusiness.com/generative-ai/euro-vibe-coding-standout-lovable-valued-at-13-3b",
+          "date": "Thu, 13 Aug 2026 17:48:31 GMT"
+        },
+        {
           "title": "Grok 4.6 is Out, Undercutting AI Prices of Rivals",
           "link": "https://aibusiness.com/generative-ai/grok-4-6-out-undercutting-ai-prices-rivals",
           "date": "Thu, 13 Aug 2026 17:36:39 GMT"
@@ -132,11 +137,6 @@
           "title": "Chinese Company Envisions 100,000 Self-Driving Trucks on Road by 2030",
           "link": "https://aibusiness.com/generative-ai/chinese-company-envisions-100-000-self-driving-trucks-road-by-2030",
           "date": "Wed, 12 Aug 2026 16:07:52 GMT"
-        },
-        {
-          "title": "IBM Signs $240M Deal for Nvidia-Powered AI Cluster",
-          "link": "https://aibusiness.com/generative-ai/ibm-signs-240m-deal-nvidia-powered-ai-cluster",
-          "date": "Wed, 12 Aug 2026 15:10:57 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -211,14 +211,14 @@
           "date": "2026-08-13T05:45:11+00:00"
         },
         {
-          "title": "Is building apps using ai really worth it?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vn6yen/is_building_apps_using_ai_really_worth_it/",
-          "date": "2026-08-13T10:29:39+00:00"
-        },
-        {
           "title": "Big text information extractor AI",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vnbjdt/big_text_information_extractor_ai/",
           "date": "2026-08-13T14:00:16+00:00"
+        },
+        {
+          "title": "Is building apps using ai really worth it?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vn6yen/is_building_apps_using_ai_really_worth_it/",
+          "date": "2026-08-13T10:29:39+00:00"
         }
       ],
       "error": null
