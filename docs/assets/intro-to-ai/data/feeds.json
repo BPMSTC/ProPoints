@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T22:37:26.398135+00:00",
+  "generatedAt": "2026-08-13T23:39:41.303452+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -201,6 +201,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "How has AI changed how you work?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vnptam/how_has_ai_changed_how_you_work/",
+          "date": "2026-08-13T22:44:22+00:00"
+        },
+        {
           "title": "Is planning (directing) now, a more valuable resource than execution?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vn7lor/is_planning_directing_now_a_more_valuable/",
           "date": "2026-08-13T11:05:07+00:00"
@@ -214,11 +219,6 @@
           "title": "Car flipping",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vnlrpl/car_flipping/",
           "date": "2026-08-13T20:06:42+00:00"
-        },
-        {
-          "title": "Big text information extractor AI",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vnbjdt/big_text_information_extractor_ai/",
-          "date": "2026-08-13T14:00:16+00:00"
         }
       ],
       "error": null
@@ -365,6 +365,11 @@
           "date": "Thu, 13 Aug 2026 16:38:44 GMT"
         },
         {
+          "title": "Unemployed young people to join AI boot camps to get job-ready",
+          "link": "https://www.theguardian.com/society/2026/aug/14/unemployed-young-people-to-join-ai-boot-camps-to-get-job-ready",
+          "date": "Thu, 13 Aug 2026 23:01:10 GMT"
+        },
+        {
           "title": "Massachusetts teen accused of killing mother and brother used ChatGPT",
           "link": "https://www.theguardian.com/us-news/2026/aug/13/massachusetts-teen-killing-chatgpt",
           "date": "Thu, 13 Aug 2026 21:34:58 GMT"
@@ -378,11 +383,6 @@
           "title": "Lost jobs, inequality, rogue agents: why are we accepting oligarchs\u2019 AI agenda? | Robert Reich",
           "link": "https://www.theguardian.com/commentisfree/2026/aug/13/lost-jobs-inequality-ai-oligarchs",
           "date": "Thu, 13 Aug 2026 10:00:56 GMT"
-        },
-        {
-          "title": "\u2018I feel like I\u2019m at war\u2019: are we losing the battle against machine-made music?",
-          "link": "https://www.theguardian.com/music/ng-interactive/2026/aug/13/ai-music",
-          "date": "Thu, 13 Aug 2026 09:00:55 GMT"
         }
       ],
       "error": null
@@ -456,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "The Safety Reckoning Inside OpenAI",
+          "link": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
+          "date": "Thu, 13 Aug 2026 22:37:19 +0000"
+        },
+        {
           "title": "Mark Zuckerberg\u2019s AI Manifesto Is 6,500 Words\u2014and Barely Says Anything",
           "link": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
           "date": "Thu, 13 Aug 2026 21:14:43 +0000"
@@ -474,11 +479,6 @@
           "title": "Rogue AI Agents Aren\u2019t Evil. They\u2019re Just Eager to Please",
           "link": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
           "date": "Wed, 12 Aug 2026 18:45:00 +0000"
-        },
-        {
-          "title": "4 New Camera Tricks on Google\u2019s Latest Pixel 11 Smartphones",
-          "link": "https://www.wired.com/story/new-camera-tricks-on-google-latest-pixel-11-smartphones/",
-          "date": "Wed, 12 Aug 2026 14:00:00 +0000"
         }
       ],
       "error": null
