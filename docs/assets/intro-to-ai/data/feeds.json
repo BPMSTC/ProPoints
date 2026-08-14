@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T17:49:23.722845+00:00",
+  "generatedAt": "2026-08-14T18:48:27.934881+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -206,14 +206,14 @@
           "date": "2026-08-14T17:07:46+00:00"
         },
         {
-          "title": "Dance of a lifetime by Bloody FuckingTears",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vo9vxp/dance_of_a_lifetime_by_bloody_fuckingtears/",
-          "date": "2026-08-14T15:09:18+00:00"
-        },
-        {
           "title": "Markdown fatigue",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vo26jq/markdown_fatigue/",
           "date": "2026-08-14T09:10:58+00:00"
+        },
+        {
+          "title": "Dance of a lifetime by Bloody FuckingTears",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vo9vxp/dance_of_a_lifetime_by_bloody_fuckingtears/",
+          "date": "2026-08-14T15:09:18+00:00"
         },
         {
           "title": "How has AI changed how you work?",
@@ -290,29 +290,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Ars Live recap: How can we stop publishers from killing their own games?",
-          "link": "https://arstechnica.com/gaming/2026/08/ars-live-recap-how-can-we-stop-publishers-from-killing-their-own-games/",
-          "date": "Fri, 14 Aug 2026 16:11:37 +0000"
+          "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+          "link": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+          "date": "Fri, 14 Aug 2026 18:32:14 +0000"
         },
         {
-          "title": "Judge gives Google one week to fix \"anticompetitive\" app store download in Google Play",
-          "link": "https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores/",
-          "date": "Fri, 14 Aug 2026 15:46:40 +0000"
+          "title": "First test flight of largest all-electric aircraft used just $5 of electricity",
+          "link": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
+          "date": "Fri, 14 Aug 2026 18:00:23 +0000"
         },
         {
-          "title": "R-rated director's cut of X-Files film restores Chris Carter's original horror vision",
-          "link": "https://arstechnica.com/culture/2026/08/r-rated-directors-cut-of-x-files-film-restores-chris-carters-original-horror-vision/",
-          "date": "Fri, 14 Aug 2026 15:18:22 +0000"
+          "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+          "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+          "date": "Fri, 14 Aug 2026 17:26:53 +0000"
         },
         {
-          "title": "Taylor Farms' connections to Trump admin spurs probe into Cyclospora response",
-          "link": "https://arstechnica.com/health/2026/08/taylor-farms-connections-to-trump-admin-spurs-probe-into-cyclospora-response/",
-          "date": "Fri, 14 Aug 2026 15:03:16 +0000"
+          "title": "State judge orders Kalshi to stop offering sports bets and other wagers",
+          "link": "https://arstechnica.com/tech-policy/2026/08/state-judge-orders-kalshi-to-stop-offering-sports-bets-and-other-wagers/",
+          "date": "Fri, 14 Aug 2026 17:13:14 +0000"
         },
         {
-          "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-          "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
-          "date": "Fri, 14 Aug 2026 14:27:14 +0000"
+          "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
+          "link": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
+          "date": "Fri, 14 Aug 2026 17:03:54 +0000"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Warner Bros Quickly Deletes Behind-the-Scenes Video That Seems to Show Use of AI Slop During \u201cSupergirl\u201d Production",
+          "link": "https://futurism.com/artificial-intelligence/warner-bros-deletes-supergirl-video-ai",
+          "date": "Fri, 14 Aug 2026 13:51:49 -0400"
+        },
+        {
           "title": "AI\u2019s Impact on the Environment Is Absolutely Horrifying, New Paper Finds",
           "link": "https://futurism.com/artificial-intelligence/ai-impact-environment-horrifying-new-paper",
           "date": "Fri, 14 Aug 2026 12:47:18 -0400"
@@ -442,11 +447,6 @@
           "title": "Remember the Publisher That Put Fake Writers in Sports Illustrated? It Just Rebranded as an AI Company",
           "link": "https://futurism.com/artificial-intelligence/sports-illustrated-the-arena-group-paradium-ai",
           "date": "Thu, 13 Aug 2026 16:38:24 -0400"
-        },
-        {
-          "title": "Game Dev CEO Accused of Replacing Writers With AI is Now Completely Crashing Out",
-          "link": "https://futurism.com/artificial-intelligence/game-developer-accused-firing-writer-ai",
-          "date": "Thu, 13 Aug 2026 15:50:17 -0400"
         }
       ],
       "error": null
