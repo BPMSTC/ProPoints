@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T06:10:26.438136+00:00",
+  "generatedAt": "2026-08-14T08:12:09.969734+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -201,14 +201,14 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
-          "title": "Muxxy: Like Slime, for AI + Tmux",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vnu68c/muxxy_like_slime_for_ai_tmux/",
-          "date": "2026-08-14T01:58:43+00:00"
-        },
-        {
           "title": "How has AI changed how you work?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vnptam/how_has_ai_changed_how_you_work/",
           "date": "2026-08-13T22:44:22+00:00"
+        },
+        {
+          "title": "Muxxy: Like Slime, for AI + Tmux",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vnu68c/muxxy_like_slime_for_ai_tmux/",
+          "date": "2026-08-14T01:58:43+00:00"
         },
         {
           "title": "AI has made building easier, but there is a difference between building and construction!",
