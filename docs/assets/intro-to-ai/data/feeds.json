@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T20:29:06.397672+00:00",
+  "generatedAt": "2026-08-14T21:21:12.236764+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -360,6 +360,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Why does everything feel meh? We're in the era of joyless decadence \u2013 Stateside with Kai and Carter",
+          "link": "https://www.theguardian.com/us-news/video/2026/aug/14/era-of-joyless-decadence-stateside-podcast",
+          "date": "Fri, 14 Aug 2026 20:45:37 GMT"
+        },
+        {
           "title": "Police Scotland warns \u2018robust security\u2019 needed to stop attacks on AI datacentres",
           "link": "https://www.theguardian.com/uk-news/2026/aug/14/scottish-police-expect-public-opposition-larbert-datacentre",
           "date": "Fri, 14 Aug 2026 16:05:31 GMT"
@@ -378,11 +383,6 @@
           "title": "Unemployed young people to join AI boot camps to get job-ready",
           "link": "https://www.theguardian.com/society/2026/aug/14/unemployed-young-people-to-join-ai-boot-camps-to-get-job-ready",
           "date": "Thu, 13 Aug 2026 23:01:10 GMT"
-        },
-        {
-          "title": "Massachusetts teen accused of killing mother and brother used ChatGPT",
-          "link": "https://www.theguardian.com/us-news/2026/aug/13/massachusetts-teen-killing-chatgpt",
-          "date": "Thu, 13 Aug 2026 21:34:58 GMT"
         }
       ],
       "error": null
@@ -456,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
+          "link": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
+          "date": "Fri, 14 Aug 2026 20:59:03 +0000"
+        },
+        {
           "title": "Tech Visionary Says the Big AI Labs Don\u2019t Get What People Want",
           "link": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
           "date": "Fri, 14 Aug 2026 15:00:00 +0000"
@@ -474,11 +479,6 @@
           "title": "The Safety Reckoning Inside OpenAI",
           "link": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
           "date": "Thu, 13 Aug 2026 22:37:19 +0000"
-        },
-        {
-          "title": "Mark Zuckerberg\u2019s AI Manifesto Is 6,500 Words\u2014and Barely Says Anything",
-          "link": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
-          "date": "Thu, 13 Aug 2026 21:14:43 +0000"
         }
       ],
       "error": null
