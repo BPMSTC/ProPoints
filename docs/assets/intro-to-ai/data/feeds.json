@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T09:56:47.894680+00:00",
+  "generatedAt": "2026-08-14T11:02:07.460860+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -456,6 +456,16 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "These \u2018Masturbation Consultants\u2019 Were Hired to Pleasure Themselves With AI",
+          "link": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/",
+          "date": "Fri, 14 Aug 2026 10:45:00 +0000"
+        },
+        {
+          "title": "People Are \u2018Marrying\u2019 Chatbots. These Lawmakers Want to Stop Them",
+          "link": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
+          "date": "Fri, 14 Aug 2026 10:15:00 +0000"
+        },
+        {
           "title": "The Safety Reckoning Inside OpenAI",
           "link": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
           "date": "Thu, 13 Aug 2026 22:37:19 +0000"
@@ -469,16 +479,6 @@
           "title": "There\u2019s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
           "link": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
           "date": "Thu, 13 Aug 2026 09:00:00 +0000"
-        },
-        {
-          "title": "The White House Is Going to Expand Its AI Policy",
-          "link": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
-          "date": "Wed, 12 Aug 2026 21:00:00 +0000"
-        },
-        {
-          "title": "Rogue AI Agents Aren\u2019t Evil. They\u2019re Just Eager to Please",
-          "link": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
-          "date": "Wed, 12 Aug 2026 18:45:00 +0000"
         }
       ],
       "error": null
