@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T23:39:41.303452+00:00",
+  "generatedAt": "2026-08-14T01:41:03.431920+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "US wait times for cancer surgeries are getting longer and longer",
+          "link": "https://arstechnica.com/health/2026/08/us-wait-times-for-cancer-surgeries-are-getting-longer-and-longer/",
+          "date": "Thu, 13 Aug 2026 22:17:29 +0000"
+        },
+        {
           "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
           "link": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
           "date": "Thu, 13 Aug 2026 19:38:58 +0000"
@@ -308,11 +313,6 @@
           "title": "Flock \u201ccan\u2019t tech its way out\u201d of the stalker cop problem, experts say",
           "link": "https://arstechnica.com/tech-policy/2026/08/flock-cant-tech-its-way-out-of-the-stalker-cop-problem-experts-say/",
           "date": "Thu, 13 Aug 2026 18:10:14 +0000"
-        },
-        {
-          "title": "Pet owners say smart pet feeder outage led to furry ones going unfed",
-          "link": "https://arstechnica.com/gadgets/2026/08/pet-owners-say-smart-pet-feeder-outage-led-to-furry-ones-going-unfed/",
-          "date": "Thu, 13 Aug 2026 17:53:53 +0000"
         }
       ],
       "error": null
@@ -320,7 +320,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "How well do AI voice agents handle people who constantly interrupt?",
+          "link": "https://www.reddit.com/r/artificial/comments/1vnqdgc/how_well_do_ai_voice_agents_handle_people_who/",
+          "date": "2026-08-13T23:08:15+00:00"
+        },
+        {
+          "title": "Venice Teen Arrested For Planning Mass Shooting At Church. Shared a 61 page AI-generated manifesto online.",
+          "link": "https://www.reddit.com/r/artificial/comments/1vmzg8k/venice_teen_arrested_for_planning_mass_shooting/",
+          "date": "2026-08-13T03:28:50+00:00"
+        },
+        {
+          "title": "What's an AI trend that quietly died: and what replaced it?",
+          "link": "https://www.reddit.com/r/artificial/comments/1vnabhp/whats_an_ai_trend_that_quietly_died_and_what/",
+          "date": "2026-08-13T13:11:23+00:00"
+        },
+        {
+          "title": "Andrej Karpathy just admitted OpenAI's own researchers feel the same career anxiety we do \u2014 his actual reasoning is more useful than the doom headlines",
+          "link": "https://www.reddit.com/r/artificial/comments/1vn601y/andrej_karpathy_just_admitted_openais_own/",
+          "date": "2026-08-13T09:35:23+00:00"
+        },
+        {
+          "title": "Hackers used autonomous AI agents to attack Taiwan. Is this the future of cyberwarfare?",
+          "link": "https://www.reddit.com/r/artificial/comments/1vnc7hm/hackers_used_autonomous_ai_agents_to_attack/",
+          "date": "2026-08-13T14:25:18+00:00"
+        }
+      ],
       "error": null
     },
     {
