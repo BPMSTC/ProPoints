@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T16:48:43.743453+00:00",
+  "generatedAt": "2026-08-14T17:49:23.722845+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -201,6 +201,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "Words and Ai rant",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vod3xb/words_and_ai_rant/",
+          "date": "2026-08-14T17:07:46+00:00"
+        },
+        {
           "title": "Dance of a lifetime by Bloody FuckingTears",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vo9vxp/dance_of_a_lifetime_by_bloody_fuckingtears/",
           "date": "2026-08-14T15:09:18+00:00"
@@ -214,11 +219,6 @@
           "title": "How has AI changed how you work?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vnptam/how_has_ai_changed_how_you_work/",
           "date": "2026-08-13T22:44:22+00:00"
-        },
-        {
-          "title": "Would You Trust an AI Receptionist to Answer Your Business Calls?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vnv5bx/would_you_trust_an_ai_receptionist_to_answer_your/",
-          "date": "2026-08-14T02:45:14+00:00"
         }
       ],
       "error": null
@@ -360,7 +360,7 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Scottish police expect \u2018great deal of public opposition\u2019 to planned Larbert datacentre",
+          "title": "Police Scotland warns \u2018robust security\u2019 needed to stop attacks on AI datacentres",
           "link": "https://www.theguardian.com/uk-news/2026/aug/14/scottish-police-expect-public-opposition-larbert-datacentre",
           "date": "Fri, 14 Aug 2026 16:05:31 GMT"
         },
