@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T11:52:01.728382+00:00",
+  "generatedAt": "2026-08-14T12:58:08.979183+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -206,11 +206,6 @@
           "date": "2026-08-14T09:10:58+00:00"
         },
         {
-          "title": "[ Removed by Reddit ]",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vo1rsx/removed_by_reddit/",
-          "date": "2026-08-14T08:46:22+00:00"
-        },
-        {
           "title": "How has AI changed how you work?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vnptam/how_has_ai_changed_how_you_work/",
           "date": "2026-08-13T22:44:22+00:00"
@@ -219,6 +214,11 @@
           "title": "Muxxy: Like Slime, for AI + Tmux",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vnu68c/muxxy_like_slime_for_ai_tmux/",
           "date": "2026-08-14T01:58:43+00:00"
+        },
+        {
+          "title": "AI has made building easier, but there is a difference between building and construction!",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vnxaf0/ai_has_made_building_easier_but_there_is_a/",
+          "date": "2026-08-14T04:31:10+00:00"
         }
       ],
       "error": null
@@ -290,6 +290,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Rocket Report: Rocket Lab shows off its flexibility; Blue Origin's two-pad plan",
+          "link": "https://arstechnica.com/space/2026/08/rocket-report-rocket-lab-shows-off-its-flexibility-blue-origins-two-pad-plan/",
+          "date": "Fri, 14 Aug 2026 11:00:49 +0000"
+        },
+        {
+          "title": "Samsung Galaxy Z Fold 8 Ultra review: The ultra foldable with an ultra price",
+          "link": "https://arstechnica.com/gadgets/2026/08/samsung-galaxy-z-fold-8-ultra-review-the-ultra-foldable-with-an-ultra-price/",
+          "date": "Fri, 14 Aug 2026 11:00:05 +0000"
+        },
+        {
           "title": "Organic-looking brake assemblies debut on new Czinger 21C Spyder",
           "link": "https://arstechnica.com/cars/2026/08/czinger-debuts-topology-optimized-brakes-with-21c-spyder/",
           "date": "Fri, 14 Aug 2026 07:01:15 +0000"
@@ -303,16 +313,6 @@
           "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
           "link": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
           "date": "Thu, 13 Aug 2026 19:38:58 +0000"
-        },
-        {
-          "title": "Virgin Galactic wants your help naming its new Delta class spaceship",
-          "link": "https://arstechnica.com/space/2026/08/virgin-galactic-wants-your-help-naming-its-new-delta-class-spaceship/",
-          "date": "Thu, 13 Aug 2026 19:12:15 +0000"
-        },
-        {
-          "title": "Ukrainian drones wipe out entire US tank brigade in live war game",
-          "link": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-wipe-out-entire-us-tank-brigade-in-live-war-game/",
-          "date": "Thu, 13 Aug 2026 18:31:56 +0000"
         }
       ],
       "error": null
