@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-08-14T12:58:08.979183+00:00",
+  "generatedAt": "2026-08-14T14:16:30.459064+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Man Arrested in Texas For Cussing at a County Meeting",
+          "link": "https://www.404media.co/man-arrested-in-texas-for-cussing-at-a-county-meeting/",
+          "date": "Fri, 14 Aug 2026 13:20:33 GMT"
+        },
         {
           "title": "Person Hides Prompt Injection in Legal Filing Telling AI to Side With Them",
           "link": "https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/",
@@ -24,11 +29,6 @@
           "title": "Twitch is Mining Peoples' Streams to Train Amazon's AI",
           "link": "https://www.404media.co/twitch-training-amazon-ai-models-how-to-opt-out-setting/",
           "date": "Wed, 12 Aug 2026 17:58:48 GMT"
-        },
-        {
-          "title": "Podcast: Mark Zuckerberg\u2019s 'Superintelligent' AI Future That No One Wants",
-          "link": "https://www.404media.co/podcast-mark-zuckerbergs-superintelligent-ai-future-that-no-one-wants/",
-          "date": "Wed, 12 Aug 2026 14:15:44 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -211,14 +211,14 @@
           "date": "2026-08-13T22:44:22+00:00"
         },
         {
+          "title": "Would You Trust an AI Receptionist to Answer Your Business Calls?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vnv5bx/would_you_trust_an_ai_receptionist_to_answer_your/",
+          "date": "2026-08-14T02:45:14+00:00"
+        },
+        {
           "title": "Muxxy: Like Slime, for AI + Tmux",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vnu68c/muxxy_like_slime_for_ai_tmux/",
           "date": "2026-08-14T01:58:43+00:00"
-        },
-        {
-          "title": "AI has made building easier, but there is a difference between building and construction!",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vnxaf0/ai_has_made_building_easier_but_there_is_a/",
-          "date": "2026-08-14T04:31:10+00:00"
         }
       ],
       "error": null
@@ -365,6 +365,11 @@
           "date": "Thu, 13 Aug 2026 16:38:44 GMT"
         },
         {
+          "title": "As online dating goes into \u2018salvage mode\u2019, can AI solve all its problems?",
+          "link": "https://www.theguardian.com/lifeandstyle/2026/aug/14/online-dating-salvage-mode--ai-bumble-app",
+          "date": "Fri, 14 Aug 2026 13:00:28 GMT"
+        },
+        {
           "title": "Unemployed young people to join AI boot camps to get job-ready",
           "link": "https://www.theguardian.com/society/2026/aug/14/unemployed-young-people-to-join-ai-boot-camps-to-get-job-ready",
           "date": "Thu, 13 Aug 2026 23:01:10 GMT"
@@ -378,11 +383,6 @@
           "title": "Mark Zuckerberg says the future of AI is for everyone. But who owns it? | Raffi Krikorian",
           "link": "https://www.theguardian.com/commentisfree/2026/aug/13/mark-zuckerberg-future-of-ai",
           "date": "Thu, 13 Aug 2026 12:00:00 GMT"
-        },
-        {
-          "title": "Lost jobs, inequality, rogue agents: why are we accepting oligarchs\u2019 AI agenda? | Robert Reich",
-          "link": "https://www.theguardian.com/commentisfree/2026/aug/13/lost-jobs-inequality-ai-oligarchs",
-          "date": "Thu, 13 Aug 2026 10:00:56 GMT"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Grok Calls for Assassination of Elon Musk, Accusing Him of Pedophilia",
+          "link": "https://futurism.com/future-society/grok-calls-for-assassination-elon-musk",
+          "date": "Fri, 14 Aug 2026 09:47:14 -0400"
+        },
+        {
           "title": "Remember the Publisher That Put Fake Writers in Sports Illustrated? It Just Rebranded as an AI Company",
           "link": "https://futurism.com/artificial-intelligence/sports-illustrated-the-arena-group-paradium-ai",
           "date": "Thu, 13 Aug 2026 16:38:24 -0400"
@@ -442,11 +447,6 @@
           "title": "College Kids Are Using AI Agents to \u201cTake\u201d Entire Online Classes for Them by Logging Directly Into the Course Management Software",
           "link": "https://futurism.com/artificial-intelligence/college-kids-ai-agents-cheat-online-courses",
           "date": "Thu, 13 Aug 2026 12:46:49 -0400"
-        },
-        {
-          "title": "Facebook Is Filling With Viral AI-Generated Silver Foxes Wooing Women by Ranting About How Terrible Men Are",
-          "link": "https://futurism.com/artificial-intelligence/ai-generated-silver-foxes-facebook",
-          "date": "Thu, 13 Aug 2026 11:52:36 -0400"
         }
       ],
       "error": null
@@ -488,6 +488,11 @@
       "url": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "items": [
         {
+          "title": "World\u2019s first superconducting quantum heat engine could help unlock massive quantum computers",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260814011041.htm",
+          "date": "Fri, 14 Aug 2026 08:56:01 EDT"
+        },
+        {
           "title": "MIT\u2019s new lidar chip could give self-driving cars a wider view",
           "link": "https://www.sciencedaily.com/releases/2026/07/260722032127.htm",
           "date": "Wed, 22 Jul 2026 06:00:54 EDT"
@@ -506,11 +511,6 @@
           "title": "Scientists discovered the brain doesn't make decisions the way we thought",
           "link": "https://www.sciencedaily.com/releases/2026/07/260712011757.htm",
           "date": "Mon, 13 Jul 2026 08:12:27 EDT"
-        },
-        {
-          "title": "Quantum mechanics once baffled scientists. Now it's changing the world",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260624025516.htm",
-          "date": "Sun, 05 Jul 2026 14:13:44 EDT"
         }
       ],
       "error": null
