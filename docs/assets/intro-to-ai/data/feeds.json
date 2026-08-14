@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T01:41:03.431920+00:00",
+  "generatedAt": "2026-08-14T04:05:00.651612+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -201,6 +201,16 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "Muxxy: Like Slime, for AI + Tmux",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vnu68c/muxxy_like_slime_for_ai_tmux/",
+          "date": "2026-08-14T01:58:43+00:00"
+        },
+        {
+          "title": "Would You Trust an AI Receptionist to Answer Your Business Calls?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vnv5bx/would_you_trust_an_ai_receptionist_to_answer_your/",
+          "date": "2026-08-14T02:45:14+00:00"
+        },
+        {
           "title": "How has AI changed how you work?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vnptam/how_has_ai_changed_how_you_work/",
           "date": "2026-08-13T22:44:22+00:00"
@@ -209,16 +219,6 @@
           "title": "Is planning (directing) now, a more valuable resource than execution?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vn7lor/is_planning_directing_now_a_more_valuable/",
           "date": "2026-08-13T11:05:07+00:00"
-        },
-        {
-          "title": "designSlopAreHere",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vn21gw/designsloparehere/",
-          "date": "2026-08-13T05:45:11+00:00"
-        },
-        {
-          "title": "Car flipping",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vnlrpl/car_flipping/",
-          "date": "2026-08-13T20:06:42+00:00"
         }
       ],
       "error": null
@@ -320,33 +320,7 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "How well do AI voice agents handle people who constantly interrupt?",
-          "link": "https://www.reddit.com/r/artificial/comments/1vnqdgc/how_well_do_ai_voice_agents_handle_people_who/",
-          "date": "2026-08-13T23:08:15+00:00"
-        },
-        {
-          "title": "Venice Teen Arrested For Planning Mass Shooting At Church. Shared a 61 page AI-generated manifesto online.",
-          "link": "https://www.reddit.com/r/artificial/comments/1vmzg8k/venice_teen_arrested_for_planning_mass_shooting/",
-          "date": "2026-08-13T03:28:50+00:00"
-        },
-        {
-          "title": "What's an AI trend that quietly died: and what replaced it?",
-          "link": "https://www.reddit.com/r/artificial/comments/1vnabhp/whats_an_ai_trend_that_quietly_died_and_what/",
-          "date": "2026-08-13T13:11:23+00:00"
-        },
-        {
-          "title": "Andrej Karpathy just admitted OpenAI's own researchers feel the same career anxiety we do \u2014 his actual reasoning is more useful than the doom headlines",
-          "link": "https://www.reddit.com/r/artificial/comments/1vn601y/andrej_karpathy_just_admitted_openais_own/",
-          "date": "2026-08-13T09:35:23+00:00"
-        },
-        {
-          "title": "Hackers used autonomous AI agents to attack Taiwan. Is this the future of cyberwarfare?",
-          "link": "https://www.reddit.com/r/artificial/comments/1vnc7hm/hackers_used_autonomous_ai_agents_to_attack/",
-          "date": "2026-08-13T14:25:18+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
