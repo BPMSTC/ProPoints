@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T21:19:16.032722+00:00",
+  "generatedAt": "2026-08-15T22:17:07.371572+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Publisher of Axios Boasts That He Uses AI to \u201cRead\u201d Everything For Him Now, Instead of Using His Brain",
+          "link": "https://futurism.com/artificial-intelligence/journalist-read-ai-brain",
+          "date": "Sat, 15 Aug 2026 18:01:00 -0400"
+        },
+        {
           "title": "Congressional Staffers Are So Lazy That They\u2019re Using AI to Write New Laws",
           "link": "https://futurism.com/artificial-intelligence/congressional-staffers-lazy-using-ai-write-new-laws",
           "date": "Sat, 15 Aug 2026 13:03:00 -0400"
@@ -442,11 +447,6 @@
           "title": "Sensing He\u2019s in Deep Trouble, Flock Safety CEO Says It\u2019s All Been a Big Misunderstanding",
           "link": "https://futurism.com/future-society/flock-safety-ceo-big-misunderstanding",
           "date": "Sat, 15 Aug 2026 09:03:00 -0400"
-        },
-        {
-          "title": "Woman Journeys to a Beach to Watch Total Solar Eclipse With Her One True Love: Claude",
-          "link": "https://futurism.com/artificial-intelligence/woman-watch-total-solar-eclipse-claude",
-          "date": "Sat, 15 Aug 2026 07:02:00 -0400"
         }
       ],
       "error": null
