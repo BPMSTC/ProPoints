@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T15:18:51.090691+00:00",
+  "generatedAt": "2026-08-15T16:19:47.168840+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
+          "link": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
+          "date": "Sat, 15 Aug 2026 15:46:05 +0000"
+        },
+        {
           "title": "So much solar: Digging into the list of every US power plant that went online this year",
           "link": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/",
           "date": "Sat, 15 Aug 2026 11:09:57 +0000"
@@ -308,11 +313,6 @@
           "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
           "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
           "date": "Fri, 14 Aug 2026 17:26:53 +0000"
-        },
-        {
-          "title": "State judge orders Kalshi to stop offering sports bets and other wagers",
-          "link": "https://arstechnica.com/tech-policy/2026/08/state-judge-orders-kalshi-to-stop-offering-sports-bets-and-other-wagers/",
-          "date": "Fri, 14 Aug 2026 17:13:14 +0000"
         }
       ],
       "error": null
