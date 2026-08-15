@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T01:02:13.375930+00:00",
+  "generatedAt": "2026-08-15T02:50:41.657524+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
