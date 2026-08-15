@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T08:22:51.241268+00:00",
+  "generatedAt": "2026-08-15T09:21:47.461966+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -456,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Amazon Can Use Your Twitch Content to Train Its AI\u2014Unless You Opt Out",
+          "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
+          "date": "Sat, 15 Aug 2026 09:00:00 +0000"
+        },
+        {
           "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
           "link": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
           "date": "Fri, 14 Aug 2026 20:59:03 +0000"
@@ -474,11 +479,6 @@
           "title": "People Are \u2018Marrying\u2019 Chatbots. These Lawmakers Want to Stop Them",
           "link": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
           "date": "Fri, 14 Aug 2026 10:15:00 +0000"
-        },
-        {
-          "title": "The Safety Reckoning Inside OpenAI",
-          "link": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
-          "date": "Thu, 13 Aug 2026 22:37:19 +0000"
         }
       ],
       "error": null
