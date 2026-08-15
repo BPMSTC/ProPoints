@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T12:30:31.731014+00:00",
+  "generatedAt": "2026-08-15T13:26:40.587067+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Sensing He\u2019s in Deep Trouble, Flock Safety CEO Says It\u2019s All Been a Big Misunderstanding",
+          "link": "https://futurism.com/future-society/flock-safety-ceo-big-misunderstanding",
+          "date": "Sat, 15 Aug 2026 09:03:00 -0400"
+        },
+        {
           "title": "Woman Journeys to a Beach to Watch Total Solar Eclipse With Her One True Love: Claude",
           "link": "https://futurism.com/artificial-intelligence/woman-watch-total-solar-eclipse-claude",
           "date": "Sat, 15 Aug 2026 07:02:00 -0400"
@@ -442,11 +447,6 @@
           "title": "OpenAI Reports Goldman Sachs Analyst to FBI for Horrifying ChatGPT Conversations",
           "link": "https://futurism.com/artificial-intelligence/openai-reports-goldman-sachs-analyst-fbi-horrifying-chatgpt-conversations",
           "date": "Fri, 14 Aug 2026 11:18:42 -0400"
-        },
-        {
-          "title": "Grok Calls for Assassination of Elon Musk, Accusing Him of Pedophilia",
-          "link": "https://futurism.com/future-society/grok-calls-for-assassination-elon-musk",
-          "date": "Fri, 14 Aug 2026 09:47:14 -0400"
         }
       ],
       "error": null
