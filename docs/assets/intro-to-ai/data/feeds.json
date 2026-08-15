@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T14:17:49.353822+00:00",
+  "generatedAt": "2026-08-15T15:18:51.090691+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Man Wearing Pervert Glasses Films Himself Harassing Famous Female Comedian in the Middle of TV Shoot",
+          "link": "https://futurism.com/future-society/pervert-glasses-harassing-diane-morgan-philomena-cunk",
+          "date": "Sat, 15 Aug 2026 11:03:00 -0400"
+        },
+        {
           "title": "Influencer Melts Down That People Didn\u2019t Like Her Being a Paid Shill for OpenAI",
           "link": "https://futurism.com/artificial-intelligence/influencer-melts-down-paid-shill-openai",
           "date": "Sat, 15 Aug 2026 10:01:00 -0400"
@@ -442,11 +447,6 @@
           "title": "Warner Bros Quickly Deletes Behind-the-Scenes Video That Seems to Show Use of AI Slop During \u201cSupergirl\u201d Production",
           "link": "https://futurism.com/artificial-intelligence/warner-bros-deletes-supergirl-video-ai",
           "date": "Fri, 14 Aug 2026 13:51:49 -0400"
-        },
-        {
-          "title": "AI\u2019s Impact on the Environment Is Absolutely Horrifying, New Paper Finds",
-          "link": "https://futurism.com/artificial-intelligence/ai-impact-environment-horrifying-new-paper",
-          "date": "Fri, 14 Aug 2026 12:47:18 -0400"
         }
       ],
       "error": null
