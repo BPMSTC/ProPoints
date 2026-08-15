@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T11:16:26.439147+00:00",
+  "generatedAt": "2026-08-15T12:30:31.731014+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -38,6 +38,11 @@
       "url": "https://magazine.sebastianraschka.com/feed",
       "items": [
         {
+          "title": "Building an AI Text Detector From Scratch",
+          "link": "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+          "date": "Sat, 15 Aug 2026 11:54:24 GMT"
+        },
+        {
           "title": "Controlling Reasoning Effort in LLMs",
           "link": "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
           "date": "Sat, 18 Jul 2026 11:16:09 GMT"
@@ -56,11 +61,6 @@
           "title": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
           "link": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
           "date": "Sat, 16 May 2026 11:33:51 GMT"
-        },
-        {
-          "title": "My Workflow for Understanding LLM Architectures",
-          "link": "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
-          "date": "Sat, 18 Apr 2026 11:24:36 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "So much solar: Digging into the list of every US power plant that went online this year",
+          "link": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/",
+          "date": "Sat, 15 Aug 2026 11:09:57 +0000"
+        },
+        {
           "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
           "link": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
           "date": "Fri, 14 Aug 2026 18:32:14 +0000"
@@ -308,11 +313,6 @@
           "title": "State judge orders Kalshi to stop offering sports bets and other wagers",
           "link": "https://arstechnica.com/tech-policy/2026/08/state-judge-orders-kalshi-to-stop-offering-sports-bets-and-other-wagers/",
           "date": "Fri, 14 Aug 2026 17:13:14 +0000"
-        },
-        {
-          "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
-          "link": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
-          "date": "Fri, 14 Aug 2026 17:03:54 +0000"
         }
       ],
       "error": null
