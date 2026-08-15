@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T10:18:30.490996+00:00",
+  "generatedAt": "2026-08-15T11:16:26.439147+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -112,8 +112,34 @@
     {
       "name": "AI Business",
       "url": "https://aibusiness.com/rss.xml",
-      "items": [],
-      "error": "<unknown>:2:0: syntax error"
+      "items": [
+        {
+          "title": "IBM, OpenAI Partner to Accelerate Enterprise AI",
+          "link": "https://aibusiness.com/generative-ai/ibm-openai-partner-accelerate-enterprise-ai",
+          "date": "Fri, 14 Aug 2026 15:26:02 GMT"
+        },
+        {
+          "title": "Lower Intro Price for Gemini 3.7 Flash to Attract Developers",
+          "link": "https://aibusiness.com/generative-ai/lower-intro-price-for-gemini-3-7-flash-attract-developers",
+          "date": "Fri, 14 Aug 2026 15:08:10 GMT"
+        },
+        {
+          "title": "Prompt: Wall Street Is Coming for AI Infrastructure",
+          "link": "https://aibusiness.com/generative-ai/prompt-wall-street-coming-for-ai-infrastructure",
+          "date": "Fri, 14 Aug 2026 14:24:39 GMT"
+        },
+        {
+          "title": "Euro Vibe Coding Standout Lovable Now Valued at $13.3B",
+          "link": "https://aibusiness.com/generative-ai/euro-vibe-coding-standout-lovable-valued-at-13-3b",
+          "date": "Thu, 13 Aug 2026 17:48:31 GMT"
+        },
+        {
+          "title": "Grok 4.6 is Out, Undercutting AI Prices of Rivals",
+          "link": "https://aibusiness.com/generative-ai/grok-4-6-out-undercutting-ai-prices-rivals",
+          "date": "Thu, 13 Aug 2026 17:36:39 GMT"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AIModels.fyi",
@@ -125,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -398,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Woman Journeys to a Beach to Watch Total Solar Eclipse With Her One True Love: Claude",
+          "link": "https://futurism.com/artificial-intelligence/woman-watch-total-solar-eclipse-claude",
+          "date": "Sat, 15 Aug 2026 07:02:00 -0400"
+        },
+        {
           "title": "Warner Bros Quickly Deletes Behind-the-Scenes Video That Seems to Show Use of AI Slop During \u201cSupergirl\u201d Production",
           "link": "https://futurism.com/artificial-intelligence/warner-bros-deletes-supergirl-video-ai",
           "date": "Fri, 14 Aug 2026 13:51:49 -0400"
@@ -416,11 +447,6 @@
           "title": "Grok Calls for Assassination of Elon Musk, Accusing Him of Pedophilia",
           "link": "https://futurism.com/future-society/grok-calls-for-assassination-elon-musk",
           "date": "Fri, 14 Aug 2026 09:47:14 -0400"
-        },
-        {
-          "title": "Remember the Publisher That Put Fake Writers in Sports Illustrated? It Just Rebranded as an AI Company",
-          "link": "https://futurism.com/artificial-intelligence/sports-illustrated-the-arena-group-paradium-ai",
-          "date": "Thu, 13 Aug 2026 16:38:24 -0400"
         }
       ],
       "error": null
