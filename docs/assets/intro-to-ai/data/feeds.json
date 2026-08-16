@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T01:05:48.213634+00:00",
+  "generatedAt": "2026-08-16T02:55:58.278377+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -201,6 +201,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "A 397-Billion AI Just Ran on an iPhone",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vple01/a_397billion_ai_just_ran_on_an_iphone/",
+          "date": "2026-08-16T02:45:51+00:00"
+        },
+        {
           "title": "AI - Short Film",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vphwyp/ai_short_film/",
           "date": "2026-08-15T23:56:09+00:00"
@@ -214,11 +219,6 @@
           "title": "I tested whether AI can turn a boring product photo into a convincing ad. Here's what actually worked.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vouc3k/i_tested_whether_ai_can_turn_a_boring_product/",
           "date": "2026-08-15T05:31:47+00:00"
-        },
-        {
-          "title": "Markdown fatigue",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vo26jq/markdown_fatigue/",
-          "date": "2026-08-14T09:10:58+00:00"
         }
       ],
       "error": null
