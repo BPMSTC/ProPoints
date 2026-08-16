@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T16:19:38.766121+00:00",
+  "generatedAt": "2026-08-16T17:18:19.220629+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Experts Warn That AI Slop Is Corrupting Kids\u2019 Brains",
+          "link": "https://futurism.com/artificial-intelligence/experts-gnet-ai-fruit-slop-corrupting-violence-extremism",
+          "date": "Sun, 16 Aug 2026 13:02:00 -0400"
+        },
+        {
           "title": "Young People Hate AI CEOs So Passionately That It\u2019s Almost Hard to Believe",
           "link": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
           "date": "Sun, 16 Aug 2026 12:03:00 -0400"
@@ -442,11 +447,6 @@
           "title": "People Horrified That They\u2019ll Be Busted Now That Anthropic Is Watermarking AI Content",
           "link": "https://futurism.com/artificial-intelligence/people-horrified-busted-anthropic-watermark",
           "date": "Sun, 16 Aug 2026 06:01:00 -0400"
-        },
-        {
-          "title": "Publisher of Axios Boasts That He Uses AI to \u201cRead\u201d Everything For Him Now, Instead of Using His Brain",
-          "link": "https://futurism.com/artificial-intelligence/journalist-read-ai-brain",
-          "date": "Sat, 15 Aug 2026 18:01:00 -0400"
         }
       ],
       "error": null
