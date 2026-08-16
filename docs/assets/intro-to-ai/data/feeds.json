@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T17:18:19.220629+00:00",
+  "generatedAt": "2026-08-16T18:23:13.134327+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -360,6 +360,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "The Guardian view on the changed world of job interviews: missing the human factor | Editorial",
+          "link": "https://www.theguardian.com/commentisfree/2026/aug/16/the-guardian-view-on-the-changed-world-of-job-interviews-missing-the-human-factor",
+          "date": "Sun, 16 Aug 2026 17:30:31 GMT"
+        },
+        {
           "title": "Deepfake Anthony Albanese used in celebrity scams duping Australians out of $7.4m, Asic warns",
           "link": "https://www.theguardian.com/australia-news/2026/aug/17/deepfake-anthony-albanese-used-in-celebrity-scams-duping-australians-out-of-74m-asic-warns",
           "date": "Sun, 16 Aug 2026 14:01:27 GMT"
@@ -378,11 +383,6 @@
           "title": "AI cheating, leaked papers and marking errors: how exam protests went global",
           "link": "https://www.theguardian.com/global-development/2026/aug/16/ai-cheating-leaked-papers-marking-errors-how-exam-protests-went-global",
           "date": "Sun, 16 Aug 2026 07:00:19 GMT"
-        },
-        {
-          "title": "\u2018We detected unusual activity\u2019: the scam that uses AI to exploit your holiday photos",
-          "link": "https://www.theguardian.com/money/2026/aug/16/scam-ai-holiday-photos-instagram-facebook",
-          "date": "Sun, 16 Aug 2026 06:00:17 GMT"
         }
       ],
       "error": null
