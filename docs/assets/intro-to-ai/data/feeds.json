@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T12:31:53.327268+00:00",
+  "generatedAt": "2026-08-16T13:29:47.787406+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -328,6 +328,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Anthropic\u2019s fight with the Pentagon shows how AI could threaten a crucial safeguard of democracy",
+          "link": "https://theconversation.com/anthropics-fight-with-the-pentagon-shows-how-ai-could-threaten-a-crucial-safeguard-of-democracy-281968",
+          "date": "2026-08-16T11:59:37Z"
+        },
+        {
           "title": "We asked ChatGPT, Claude and Perplexity for financial advice: what we got was practical, but with big blind spots",
           "link": "https://theconversation.com/we-asked-chatgpt-claude-and-perplexity-for-financial-advice-what-we-got-was-practical-but-with-big-blind-spots-288948",
           "date": "2026-08-16T06:19:03Z"
@@ -346,11 +351,6 @@
           "title": "We built a $10 soil test, then a virtual reality platform to take it around the world",
           "link": "https://theconversation.com/we-built-a-10-soil-test-then-a-virtual-reality-platform-to-take-it-around-the-world-286738",
           "date": "2026-08-12T16:02:37Z"
-        },
-        {
-          "title": "Layoffs tied to AI hurt worker productivity \u2013 and the reason may surprise managers",
-          "link": "https://theconversation.com/layoffs-tied-to-ai-hurt-worker-productivity-and-the-reason-may-surprise-managers-286749",
-          "date": "2026-08-12T12:40:22Z"
         }
       ],
       "error": null
@@ -360,7 +360,7 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "\u2018It will help get mid-budget films made\u2019: why directors are embracing AI",
+          "title": "\u2018I see the incredible promise\u2019: on set of an AI film shoot as new studios embrace controversial tech",
           "link": "https://www.theguardian.com/film/2026/aug/16/directors-embracing-ai-film-making",
           "date": "Sun, 16 Aug 2026 12:00:25 GMT"
         },
