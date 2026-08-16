@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T11:18:54.362120+00:00",
+  "generatedAt": "2026-08-16T12:31:53.327268+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
+          "link": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
+          "date": "Sun, 16 Aug 2026 10:00:59 +0000"
+        },
+        {
           "title": "VisionQuest trailer kicks off Disney's D23 fan event",
           "link": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/",
           "date": "Sat, 15 Aug 2026 21:21:27 +0000"
@@ -308,11 +313,6 @@
           "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
           "link": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
           "date": "Fri, 14 Aug 2026 18:32:14 +0000"
-        },
-        {
-          "title": "First test flight of largest all-electric aircraft used just $5 of electricity",
-          "link": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
-          "date": "Fri, 14 Aug 2026 18:00:23 +0000"
         }
       ],
       "error": null
@@ -360,6 +360,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "\u2018It will help get mid-budget films made\u2019: why directors are embracing AI",
+          "link": "https://www.theguardian.com/film/2026/aug/16/directors-embracing-ai-film-making",
+          "date": "Sun, 16 Aug 2026 12:00:25 GMT"
+        },
+        {
           "title": "The first anti-AI protester to be jailed has a message for OpenAI, Anthropic and Meta: \u2018Regain your humanity\u2019",
           "link": "https://www.theguardian.com/us-news/2026/aug/16/california-openai-protester-wynd-kaufman",
           "date": "Sun, 16 Aug 2026 08:00:20 GMT"
@@ -378,11 +383,6 @@
           "title": "Secondhand booksellers in UK and Ireland suspect AI firms behind \u2018strange\u2019 bulk orders",
           "link": "https://www.theguardian.com/technology/2026/aug/15/uk-ireland-booksellers-suspect-ai-companies-bulk-orders-data-acquisition",
           "date": "Sat, 15 Aug 2026 08:00:51 GMT"
-        },
-        {
-          "title": "Why does everything feel meh? We're in the era of joyless decadence \u2013 Stateside with Kai and Carter",
-          "link": "https://www.theguardian.com/us-news/video/2026/aug/14/era-of-joyless-decadence-stateside-podcast",
-          "date": "Fri, 14 Aug 2026 20:45:37 GMT"
         }
       ],
       "error": null
