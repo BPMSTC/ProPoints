@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T06:35:24.056410+00:00",
+  "generatedAt": "2026-08-16T07:27:38.592418+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -328,6 +328,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "We asked ChatGPT, Claude and Perplexity for financial advice: what we got was practical, but with big blind spots",
+          "link": "https://theconversation.com/we-asked-chatgpt-claude-and-perplexity-for-financial-advice-what-we-got-was-practical-but-with-big-blind-spots-288948",
+          "date": "2026-08-16T06:19:03Z"
+        },
+        {
           "title": "Why AI training can backfire for older workers",
           "link": "https://theconversation.com/why-ai-training-can-backfire-for-older-workers-289203",
           "date": "2026-08-13T16:53:52Z"
@@ -346,11 +351,6 @@
           "title": "Layoffs tied to AI hurt worker productivity \u2013 and the reason may surprise managers",
           "link": "https://theconversation.com/layoffs-tied-to-ai-hurt-worker-productivity-and-the-reason-may-surprise-managers-286749",
           "date": "2026-08-12T12:40:22Z"
-        },
-        {
-          "title": "China is shaping the future of open-source technology \u2013 including AI",
-          "link": "https://theconversation.com/china-is-shaping-the-future-of-open-source-technology-including-ai-288061",
-          "date": "2026-08-12T12:37:32Z"
         }
       ],
       "error": null
@@ -363,6 +363,11 @@
           "title": "Secondhand booksellers in UK and Ireland suspect AI firms behind \u2018strange\u2019 bulk orders",
           "link": "https://www.theguardian.com/technology/2026/aug/15/uk-ireland-booksellers-suspect-ai-companies-bulk-orders-data-acquisition",
           "date": "Sat, 15 Aug 2026 08:00:51 GMT"
+        },
+        {
+          "title": "AI cheating, leaked papers and marking errors: how exam protests went global",
+          "link": "https://www.theguardian.com/global-development/2026/aug/16/ai-cheating-leaked-papers-marking-errors-how-exam-protests-went-global",
+          "date": "Sun, 16 Aug 2026 07:00:19 GMT"
         },
         {
           "title": "\u2018We detected unusual activity\u2019: the scam that uses AI to exploit your holiday photos",
@@ -378,11 +383,6 @@
           "title": "Police Scotland warns \u2018robust security\u2019 needed to stop attacks on AI datacentres",
           "link": "https://www.theguardian.com/uk-news/2026/aug/14/scottish-police-expect-public-opposition-larbert-datacentre",
           "date": "Fri, 14 Aug 2026 16:05:31 GMT"
-        },
-        {
-          "title": "A Queensland man enjoyed soaring profits from a crypto trading app. Then his money started disappearing",
-          "link": "https://www.theguardian.com/australia-news/2026/aug/15/australia-crypto-money-investment-scam-ai-fraud-crime",
-          "date": "Fri, 14 Aug 2026 15:00:31 GMT"
         }
       ],
       "error": null
