@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T05:23:58.773003+00:00",
+  "generatedAt": "2026-08-16T06:35:24.056410+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -365,6 +365,11 @@
           "date": "Sat, 15 Aug 2026 08:00:51 GMT"
         },
         {
+          "title": "\u2018We detected unusual activity\u2019: the scam that uses AI to exploit your holiday photos",
+          "link": "https://www.theguardian.com/money/2026/aug/16/scam-ai-holiday-photos-instagram-facebook",
+          "date": "Sun, 16 Aug 2026 06:00:17 GMT"
+        },
+        {
           "title": "Why does everything feel meh? We're in the era of joyless decadence \u2013 Stateside with Kai and Carter",
           "link": "https://www.theguardian.com/us-news/video/2026/aug/14/era-of-joyless-decadence-stateside-podcast",
           "date": "Fri, 14 Aug 2026 20:45:37 GMT"
@@ -378,11 +383,6 @@
           "title": "A Queensland man enjoyed soaring profits from a crypto trading app. Then his money started disappearing",
           "link": "https://www.theguardian.com/australia-news/2026/aug/15/australia-crypto-money-investment-scam-ai-fraud-crime",
           "date": "Fri, 14 Aug 2026 15:00:31 GMT"
-        },
-        {
-          "title": "As online dating goes into \u2018salvage mode\u2019, can AI solve all its problems?",
-          "link": "https://www.theguardian.com/lifeandstyle/2026/aug/14/online-dating-salvage-mode--ai-bumble-app",
-          "date": "Fri, 14 Aug 2026 13:00:28 GMT"
         }
       ],
       "error": null
