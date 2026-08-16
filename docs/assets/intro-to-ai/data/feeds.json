@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T22:17:03.695377+00:00",
+  "generatedAt": "2026-08-16T23:15:58.816917+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -320,33 +320,7 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "The median company is spending lunch money on AI while the top 1% is burning real budget",
-          "link": "https://www.reddit.com/r/artificial/comments/1vpxa46/the_median_company_is_spending_lunch_money_on_ai/",
-          "date": "2026-08-16T13:37:33+00:00"
-        },
-        {
-          "title": "U.S. bans foreign-made humanoid robots, targeting China over national security",
-          "link": "https://www.reddit.com/r/artificial/comments/1vq3yyk/us_bans_foreignmade_humanoid_robots_targeting/",
-          "date": "2026-08-16T18:03:33+00:00"
-        },
-        {
-          "title": "1.7B model leading strict-7 formal reasoning above Qwen3-8B and Gemma-4-26B - specialists eating generalist territory?",
-          "link": "https://www.reddit.com/r/artificial/comments/1vq2io1/17b_model_leading_strict7_formal_reasoning_above/",
-          "date": "2026-08-16T17:08:01+00:00"
-        },
-        {
-          "title": "Koboldcpp v1.119 released",
-          "link": "https://www.reddit.com/r/artificial/comments/1vpzver/koboldcpp_v1119_released/",
-          "date": "2026-08-16T15:24:08+00:00"
-        },
-        {
-          "title": "Resource - AI Text Watermarking: How it Works and How to Evade It",
-          "link": "https://www.reddit.com/r/artificial/comments/1vpjsbh/resource_ai_text_watermarking_how_it_works_and/",
-          "date": "2026-08-16T01:25:48+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
