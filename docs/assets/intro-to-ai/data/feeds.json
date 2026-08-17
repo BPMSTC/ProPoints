@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T05:38:15.428914+00:00",
+  "generatedAt": "2026-08-17T06:47:04.496868+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -320,7 +320,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "I figured out a loophole to remove Claude watermark WITHOUT rephrasing",
+          "link": "https://www.reddit.com/r/artificial/comments/1vqixia/i_figured_out_a_loophole_to_remove_claude/",
+          "date": "2026-08-17T05:05:34+00:00"
+        },
+        {
+          "title": "U.S. bans foreign-made humanoid robots, targeting China over national security",
+          "link": "https://www.reddit.com/r/artificial/comments/1vq3yyk/us_bans_foreignmade_humanoid_robots_targeting/",
+          "date": "2026-08-16T18:03:33+00:00"
+        },
+        {
+          "title": "The median company is spending lunch money on AI while the top 1% is burning real budget",
+          "link": "https://www.reddit.com/r/artificial/comments/1vpxa46/the_median_company_is_spending_lunch_money_on_ai/",
+          "date": "2026-08-16T13:37:33+00:00"
+        },
+        {
+          "title": "1.7B model leading strict-7 formal reasoning above Qwen3-8B and Gemma-4-26B - specialists eating generalist territory?",
+          "link": "https://www.reddit.com/r/artificial/comments/1vq2io1/17b_model_leading_strict7_formal_reasoning_above/",
+          "date": "2026-08-16T17:08:01+00:00"
+        },
+        {
+          "title": "Me and AI industry.",
+          "link": "https://www.reddit.com/r/artificial/comments/1vqe1ka/me_and_ai_industry/",
+          "date": "2026-08-17T01:03:43+00:00"
+        }
+      ],
       "error": null
     },
     {
