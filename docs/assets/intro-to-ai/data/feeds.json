@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T08:38:07.313073+00:00",
+  "generatedAt": "2026-08-17T09:37:40.293583+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -226,34 +226,8 @@
     {
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
-      "items": [
-        {
-          "title": "SpaceXAI releases flagship Grok 4.6 model with advanced reasoning capabilities",
-          "link": "https://siliconangle.com/2026/08/12/spacexai-releases-flagship-grok-4-6-model-advanced-reasoning-capabilities/",
-          "date": "Thu, 13 Aug 2026 01:27:09 +0000"
-        },
-        {
-          "title": "Nebius shares jump 34% on continued AI infrastructure demand",
-          "link": "https://siliconangle.com/2026/08/12/nebius-shares-jump-34-continued-ai-infrastructure-demand/",
-          "date": "Wed, 12 Aug 2026 23:57:07 +0000"
-        },
-        {
-          "title": "Skan AI raises $63M to give AI agents a map of enterprise work",
-          "link": "https://siliconangle.com/2026/08/12/skan-ai-raises-63m-give-ai-agents-map-enterprise-work/",
-          "date": "Wed, 12 Aug 2026 22:57:30 +0000"
-        },
-        {
-          "title": "Vibe coding startup Lovable doubles valuation to $13.3B with $400M raise",
-          "link": "https://siliconangle.com/2026/08/12/vibe-coding-startup-lovable-doubles-valuation-13-3b-400m-raise/",
-          "date": "Wed, 12 Aug 2026 22:33:15 +0000"
-        },
-        {
-          "title": "Google launches five new Pixel devices, array of Gemini Intelligence features",
-          "link": "https://siliconangle.com/2026/08/12/google-launches-five-new-pixel-devices-array-gemini-intelligence-features/",
-          "date": "Wed, 12 Aug 2026 21:18:35 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "text/html is not an XML media type"
     },
     {
       "name": "AI Snake Oil",
@@ -320,7 +294,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "U.S. bans foreign-made humanoid robots, targeting China over national security",
+          "link": "https://www.reddit.com/r/artificial/comments/1vq3yyk/us_bans_foreignmade_humanoid_robots_targeting/",
+          "date": "2026-08-16T18:03:33+00:00"
+        },
+        {
+          "title": "The median company is spending lunch money on AI while the top 1% is burning real budget",
+          "link": "https://www.reddit.com/r/artificial/comments/1vpxa46/the_median_company_is_spending_lunch_money_on_ai/",
+          "date": "2026-08-16T13:37:33+00:00"
+        },
+        {
+          "title": "Why NVIDIA\u2019s Six-Year-Old A100 GPU Is Still Making Money",
+          "link": "https://www.reddit.com/r/artificial/comments/1vqldp4/why_nvidias_sixyearold_a100_gpu_is_still_making/",
+          "date": "2026-08-17T07:23:47+00:00"
+        },
+        {
+          "title": "Can AI Benchmark be faked? If yes, how?",
+          "link": "https://www.reddit.com/r/artificial/comments/1vqnihc/can_ai_benchmark_be_faked_if_yes_how/",
+          "date": "2026-08-17T09:32:29+00:00"
+        },
+        {
+          "title": "Had a really scary experience with AI.",
+          "link": "https://www.reddit.com/r/artificial/comments/1vqn9np/had_a_really_scary_experience_with_ai/",
+          "date": "2026-08-17T09:17:51+00:00"
+        }
+      ],
       "error": null
     },
     {
