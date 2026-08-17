@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T01:03:36.585671+00:00",
+  "generatedAt": "2026-08-17T02:58:18.502432+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -201,6 +201,16 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "virtual receptionist Australia....",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vqg51o/virtual_receptionist_australia/",
+          "date": "2026-08-17T02:44:05+00:00"
+        },
+        {
+          "title": "Prompting tips for a AI-powered Discord Bot",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vqg2bm/prompting_tips_for_a_aipowered_discord_bot/",
+          "date": "2026-08-17T02:40:21+00:00"
+        },
+        {
           "title": "Showcase Sunday: 38 days of streaming myself vibe coding, unedited, and I'm $121 deep. Tell me where my workflow is dumb.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vq5j3g/showcase_sunday_38_days_of_streaming_myself_vibe/",
           "date": "2026-08-16T19:03:04+00:00"
@@ -209,16 +219,6 @@
           "title": "what in the world is going on?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vqbv5q/what_in_the_world_is_going_on/",
           "date": "2026-08-16T23:23:29+00:00"
-        },
-        {
-          "title": "I Built DBMind AI \u2014 An AI-Powered SQL Performance Analysis Tool",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vq1fr5/i_built_dbmind_ai_an_aipowered_sql_performance/",
-          "date": "2026-08-16T16:25:47+00:00"
-        },
-        {
-          "title": "Prompt for talking to great humans that died ?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vpncha/prompt_for_talking_to_great_humans_that_died/",
-          "date": "2026-08-16T04:27:47+00:00"
         }
       ],
       "error": null
@@ -360,6 +360,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Report supporting Australia\u2019s teen social media ban appears to contain AI hallucinations, Senate hears",
+          "link": "https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb",
+          "date": "Mon, 17 Aug 2026 02:58:05 GMT"
+        },
+        {
           "title": "The Guardian view on the changed world of job interviews: missing the human factor | Editorial",
           "link": "https://www.theguardian.com/commentisfree/2026/aug/16/the-guardian-view-on-the-changed-world-of-job-interviews-missing-the-human-factor",
           "date": "Sun, 16 Aug 2026 17:30:31 GMT"
@@ -378,11 +383,6 @@
           "title": "The first anti-AI protester to be jailed has a message for OpenAI, Anthropic and Meta: \u2018Regain your humanity\u2019",
           "link": "https://www.theguardian.com/us-news/2026/aug/16/california-openai-protester-wynd-kaufman",
           "date": "Sun, 16 Aug 2026 08:00:20 GMT"
-        },
-        {
-          "title": "AI cheating, leaked papers and marking errors: how exam protests went global",
-          "link": "https://www.theguardian.com/global-development/2026/aug/16/ai-cheating-leaked-papers-marking-errors-how-exam-protests-went-global",
-          "date": "Sun, 16 Aug 2026 07:00:19 GMT"
         }
       ],
       "error": null
