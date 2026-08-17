@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T16:22:33.877928+00:00",
+  "generatedAt": "2026-08-17T17:25:18.186655+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -206,6 +206,11 @@
           "date": "2026-08-17T06:49:03+00:00"
         },
         {
+          "title": "Prompting tips for a AI-powered Discord Bot",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vqg2bm/prompting_tips_for_a_aipowered_discord_bot/",
+          "date": "2026-08-17T02:40:21+00:00"
+        },
+        {
           "title": "Why AI seems try to be like human? , in this case deliberate typo",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vqhy8j/why_ai_seems_try_to_be_like_human_in_this_case/",
           "date": "2026-08-17T04:13:16+00:00"
@@ -214,11 +219,6 @@
           "title": "virtual receptionist Australia....",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vqg51o/virtual_receptionist_australia/",
           "date": "2026-08-17T02:44:05+00:00"
-        },
-        {
-          "title": "Prompting tips for a AI-powered Discord Bot",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vqg2bm/prompting_tips_for_a_aipowered_discord_bot/",
-          "date": "2026-08-17T02:40:21+00:00"
         }
       ],
       "error": null
@@ -238,19 +238,19 @@
           "date": "Mon, 17 Aug 2026 15:20:58 +0000"
         },
         {
+          "title": "Palona raises $20M in funding to bring AI automation to brick-and-mortar businesses",
+          "link": "https://siliconangle.com/2026/08/17/palona-raises-20m-in-funding-to-bring-ai-automation-to-brick-and-mortar-businesses/",
+          "date": "Mon, 17 Aug 2026 13:00:40 +0000"
+        },
+        {
+          "title": "Hexaware bundles its AI services under a Zero Friction Enterprise framework",
+          "link": "https://siliconangle.com/2026/08/17/hexaware-bundles-ai-services-zero-friction-enterprise-framework/",
+          "date": "Mon, 17 Aug 2026 12:00:58 +0000"
+        },
+        {
           "title": "SuperApp launches a shared space with AI models for teams to collaborate on work",
           "link": "https://siliconangle.com/2026/08/17/superapp-launches-shared-space-ai-models-teams-collaborate-work/",
           "date": "Mon, 17 Aug 2026 10:00:24 +0000"
-        },
-        {
-          "title": "Impetus builds an operational framework to bridge AI\u2019s \u2018context gap\u2019",
-          "link": "https://siliconangle.com/2026/08/15/impetus-provides-context-ai-agents-impetus/",
-          "date": "Sat, 15 Aug 2026 18:09:54 +0000"
-        },
-        {
-          "title": "Did Nvidia\u2019s Jensen Huang just make the AI buildout too big to fail?",
-          "link": "https://siliconangle.com/2026/08/15/nvidias-jensen-huang-just-make-ai-buildout-big-fail/",
-          "date": "Sat, 15 Aug 2026 04:46:35 +0000"
         }
       ],
       "error": null
@@ -360,6 +360,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Claude to start watermarking AI-generated text \u2013 but will it make quality worse?",
+          "link": "https://www.theguardian.com/technology/2026/aug/17/claude-watermark-ai-text-quality-worse",
+          "date": "Mon, 17 Aug 2026 16:52:04 GMT"
+        },
+        {
           "title": "Sainsbury\u2019s store pauses AI scanning after false shoplifting accusation",
           "link": "https://www.theguardian.com/technology/2026/aug/17/humiliated-sainsburys-store-pauses-ai-scanning-after-false-shoplifting-accusation",
           "date": "Mon, 17 Aug 2026 13:21:25 GMT"
@@ -378,11 +383,6 @@
           "title": "Report supporting Australia\u2019s teen social media ban appears to contain AI hallucinations, Senate hears",
           "link": "https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb",
           "date": "Mon, 17 Aug 2026 02:58:05 GMT"
-        },
-        {
-          "title": "The Guardian view on the changed world of job interviews: missing the human factor | Editorial",
-          "link": "https://www.theguardian.com/commentisfree/2026/aug/16/the-guardian-view-on-the-changed-world-of-job-interviews-missing-the-human-factor",
-          "date": "Sun, 16 Aug 2026 17:30:31 GMT"
         }
       ],
       "error": null
