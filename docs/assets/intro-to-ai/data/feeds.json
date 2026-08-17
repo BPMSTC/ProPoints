@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-08-17T13:36:13.992599+00:00",
+  "generatedAt": "2026-08-17T14:23:13.114593+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "The Future of Deepfakes and the Decline of Reality (With Hany Farid)",
+          "link": "https://www.404media.co/the-future-of-deepfakes-and-the-decline-of-reality-with-hany-farid/",
+          "date": "Mon, 17 Aug 2026 14:19:26 GMT"
+        },
         {
           "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
           "link": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
@@ -24,11 +29,6 @@
           "title": "Meta Patents AI Glasses to Use Facial Recognition to Identify People, Make Highlight Reels of Your Dinner Party",
           "link": "https://www.404media.co/meta-patents-ai-glasses-to-use-facial-recognition-to-identify-people-make-highlight-reels-of-your-dinner-party/",
           "date": "Fri, 14 Aug 2026 14:17:43 GMT"
-        },
-        {
-          "title": "Man Arrested in Texas For Cussing at a County Meeting",
-          "link": "https://www.404media.co/man-arrested-in-texas-for-cussing-at-a-county-meeting/",
-          "date": "Fri, 14 Aug 2026 13:20:33 GMT"
         }
       ],
       "error": null
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "LG to Release Nvidia-Powered Humanoid in 2027",
+          "link": "https://aibusiness.com/robotics/lg-release-nvidia-powered-humanoid-in-2027",
+          "date": "Mon, 17 Aug 2026 13:50:10 GMT"
+        },
+        {
           "title": "IBM, OpenAI Partner to Accelerate Enterprise AI",
           "link": "https://aibusiness.com/generative-ai/ibm-openai-partner-accelerate-enterprise-ai",
           "date": "Fri, 14 Aug 2026 15:26:02 GMT"
@@ -132,11 +137,6 @@
           "title": "Euro Vibe Coding Standout Lovable Now Valued at $13.3B",
           "link": "https://aibusiness.com/generative-ai/euro-vibe-coding-standout-lovable-valued-at-13-3b",
           "date": "Thu, 13 Aug 2026 17:48:31 GMT"
-        },
-        {
-          "title": "Grok 4.6 is Out, Undercutting AI Prices of Rivals",
-          "link": "https://aibusiness.com/generative-ai/grok-4-6-out-undercutting-ai-prices-rivals",
-          "date": "Thu, 13 Aug 2026 17:36:39 GMT"
         }
       ],
       "error": null
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Meet the only known trebuchet casualty in history",
+          "link": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/",
+          "date": "Mon, 17 Aug 2026 13:41:35 +0000"
+        },
+        {
           "title": "Satellite operators are in panic mode due to a worsening launch crisis",
           "link": "https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/",
           "date": "Mon, 17 Aug 2026 11:00:26 +0000"
@@ -308,11 +313,6 @@
           "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
           "link": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
           "date": "Sat, 15 Aug 2026 15:46:05 +0000"
-        },
-        {
-          "title": "So much solar: Digging into the list of every US power plant that went online this year",
-          "link": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/",
-          "date": "Sat, 15 Aug 2026 11:09:57 +0000"
         }
       ],
       "error": null
@@ -360,7 +360,7 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "\u2018Humiliated\u2019: Sainsbury\u2019s store pauses AI scanning after false shoplifting accusation",
+          "title": "Sainsbury\u2019s store pauses AI scanning after false shoplifting accusation",
           "link": "https://www.theguardian.com/technology/2026/aug/17/humiliated-sainsburys-store-pauses-ai-scanning-after-false-shoplifting-accusation",
           "date": "Mon, 17 Aug 2026 13:21:25 GMT"
         },
