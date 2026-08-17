@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-08-17T20:21:49.810262+00:00",
+  "generatedAt": "2026-08-17T21:21:48.590971+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Pornhub's Parent Company to Pay $120 Million to Settle Child Sexual Abuse Lawsuits",
+          "link": "https://www.404media.co/pornhubs-parent-company-to-pay-120-million-to-settle-child-sexual-abuse-lawsuits/",
+          "date": "Mon, 17 Aug 2026 21:04:53 GMT"
+        },
         {
           "title": "\u2018Show How 3M Is 0% at Fault:\u2019 Expert Witness Used ChatGPT to Write Report Defending Company in Deadly Explosion Lawsuit",
           "link": "https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/",
@@ -24,11 +29,6 @@
           "title": "Memories Mysteriously Survive After Brain Shutdown, And Scientists Don\u2019t Know Why",
           "link": "https://www.404media.co/memories-mysteriously-survive-after-brain-shutdown-and-scientists-dont-know-why/",
           "date": "Sat, 15 Aug 2026 10:00:42 GMT"
-        },
-        {
-          "title": "Behind the Blog: Endless Scam Parade",
-          "link": "https://www.404media.co/behind-the-blog-endless-scam-parade/",
-          "date": "Fri, 14 Aug 2026 16:21:39 GMT"
         }
       ],
       "error": null
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Speech-to-Text AI Specialist Now Valued at $2B",
+          "link": "https://aibusiness.com/generative-ai/speech-to-text-ai-specialist-valued-at-2b",
+          "date": "Mon, 17 Aug 2026 20:35:02 GMT"
+        },
+        {
           "title": "Alibaba Qwen 3.8 27B Model Targets Edge AI",
           "link": "https://aibusiness.com/generative-ai/alibaba-qwen-3-8-27b-model-targets-edge-ai",
           "date": "Mon, 17 Aug 2026 18:11:27 GMT"
@@ -132,11 +137,6 @@
           "title": "Lower Intro Price for Gemini 3.7 Flash to Attract Developers",
           "link": "https://aibusiness.com/generative-ai/lower-intro-price-for-gemini-3-7-flash-attract-developers",
           "date": "Fri, 14 Aug 2026 15:08:10 GMT"
-        },
-        {
-          "title": "Prompt: Wall Street Is Coming for AI Infrastructure",
-          "link": "https://aibusiness.com/generative-ai/prompt-wall-street-coming-for-ai-infrastructure",
-          "date": "Fri, 14 Aug 2026 14:24:39 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "The Moon's shadow raced across the heart of Spain, and I was there to see it",
+          "link": "https://arstechnica.com/space/2026/08/the-moons-shadow-raced-across-the-heart-of-spain-and-i-was-there-to-see-it/",
+          "date": "Mon, 17 Aug 2026 20:23:09 +0000"
+        },
+        {
+          "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
+          "link": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/",
+          "date": "Mon, 17 Aug 2026 20:14:23 +0000"
+        },
+        {
           "title": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
           "link": "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/",
           "date": "Mon, 17 Aug 2026 20:00:20 +0000"
@@ -303,16 +313,6 @@
           "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
           "link": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
           "date": "Mon, 17 Aug 2026 18:13:47 +0000"
-        },
-        {
-          "title": "This sub-$7,000 sportscar might be just what the future needs",
-          "link": "https://arstechnica.com/cars/2026/08/the-opposite-of-a-hypercar-is-fun-meet-the-gasolini-ar1/",
-          "date": "Mon, 17 Aug 2026 15:01:25 +0000"
-        },
-        {
-          "title": "Nvidia discloses $21B stake in SpaceX",
-          "link": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
-          "date": "Mon, 17 Aug 2026 14:22:54 +0000"
         }
       ],
       "error": null
@@ -328,6 +328,16 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Oral exams are making a comeback to stop AI cheating. But they have their own problems",
+          "link": "https://theconversation.com/oral-exams-are-making-a-comeback-to-stop-ai-cheating-but-they-have-their-own-problems-289707",
+          "date": "2026-08-17T20:10:17Z"
+        },
+        {
+          "title": "Australia must move up the AI \u2018value chain\u2019 to capture maximum value from the technology: Andrew Charlton",
+          "link": "https://theconversation.com/australia-must-move-up-the-ai-value-chain-to-capture-maximum-value-from-the-technology-andrew-charlton-289900",
+          "date": "2026-08-17T20:09:18Z"
+        },
+        {
           "title": "The decades-old \u2018AI alignment problem\u2019 has finally become a reality. Solving it won\u2019t be easy",
           "link": "https://theconversation.com/the-decades-old-ai-alignment-problem-has-finally-become-a-reality-solving-it-wont-be-easy-289812",
           "date": "2026-08-17T06:37:29Z"
@@ -341,16 +351,6 @@
           "title": "Anthropic\u2019s fight with the Pentagon shows how AI could threaten a crucial safeguard of democracy",
           "link": "https://theconversation.com/anthropics-fight-with-the-pentagon-shows-how-ai-could-threaten-a-crucial-safeguard-of-democracy-281968",
           "date": "2026-08-16T11:59:37Z"
-        },
-        {
-          "title": "We asked ChatGPT, Claude and Perplexity for financial advice: what we got was practical, but with big blind spots",
-          "link": "https://theconversation.com/we-asked-chatgpt-claude-and-perplexity-for-financial-advice-what-we-got-was-practical-but-with-big-blind-spots-288948",
-          "date": "2026-08-16T06:19:03Z"
-        },
-        {
-          "title": "Why AI training can backfire for older workers",
-          "link": "https://theconversation.com/why-ai-training-can-backfire-for-older-workers-289203",
-          "date": "2026-08-13T16:53:52Z"
         }
       ],
       "error": null
