@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T15:21:11.060971+00:00",
+  "generatedAt": "2026-08-17T16:22:33.877928+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -228,6 +228,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Higgsfield raises $400M at $5.4 billion valuation to scale video and image generation platform",
+          "link": "https://siliconangle.com/2026/08/17/higgsfield-raises-400m-at-5-4-billion-valuation-to-scale-video-and-image-generation-platform/",
+          "date": "Mon, 17 Aug 2026 15:50:29 +0000"
+        },
+        {
           "title": "Wispr raises $280M to power up natural speech-to-text using AI",
           "link": "https://siliconangle.com/2026/08/17/wispr-raises-280m-to-power-up-natural-speech-to-text-using-ai/",
           "date": "Mon, 17 Aug 2026 15:20:58 +0000"
@@ -246,11 +251,6 @@
           "title": "Did Nvidia\u2019s Jensen Huang just make the AI buildout too big to fail?",
           "link": "https://siliconangle.com/2026/08/15/nvidias-jensen-huang-just-make-ai-buildout-big-fail/",
           "date": "Sat, 15 Aug 2026 04:46:35 +0000"
-        },
-        {
-          "title": "Anthropic details unreleased Model 2, new alignment concerns in latest AI risk report",
-          "link": "https://siliconangle.com/2026/08/14/anthropic-details-unreleased-model-2-new-alignment-concerns-latest-ai-risk-report/",
-          "date": "Fri, 14 Aug 2026 23:31:54 +0000"
         }
       ],
       "error": null
@@ -290,6 +290,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "This sub-$7,000 sportscar might be just what the future needs",
+          "link": "https://arstechnica.com/cars/2026/08/the-opposite-of-a-hypercar-is-fun-meet-the-gasolini-ar1/",
+          "date": "Mon, 17 Aug 2026 15:01:25 +0000"
+        },
+        {
+          "title": "Nvidia discloses $21B stake in SpaceX",
+          "link": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
+          "date": "Mon, 17 Aug 2026 14:22:54 +0000"
+        },
+        {
           "title": "Meet the only known trebuchet casualty in history",
           "link": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/",
           "date": "Mon, 17 Aug 2026 13:41:35 +0000"
@@ -303,16 +313,6 @@
           "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
           "link": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
           "date": "Sun, 16 Aug 2026 10:00:59 +0000"
-        },
-        {
-          "title": "VisionQuest trailer kicks off Disney's D23 fan event",
-          "link": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/",
-          "date": "Sat, 15 Aug 2026 21:21:27 +0000"
-        },
-        {
-          "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
-          "link": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
-          "date": "Sat, 15 Aug 2026 15:46:05 +0000"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "New ChatGPT Feature Collects Every Keystroke You Make",
+          "link": "https://futurism.com/artificial-intelligence/new-chatgpt-feature-collects-every-keystroke-you-make",
+          "date": "Mon, 17 Aug 2026 11:37:49 -0400"
+        },
+        {
           "title": "The Economy Has Spoken: Stuff That\u2019s AI-Generated Has Almost Zero Value",
           "link": "https://futurism.com/artificial-intelligence/economy-ai-generated-value",
           "date": "Mon, 17 Aug 2026 10:27:32 -0400"
@@ -442,11 +447,6 @@
           "title": "Facebook Is Drowning In Islamophobic AI Slop Calling for Violence Against Muslim Americans",
           "link": "https://futurism.com/artificial-intelligence/facebook-ai-slop-violence-muslim-americans",
           "date": "Sun, 16 Aug 2026 10:38:08 -0400"
-        },
-        {
-          "title": "Axios Partners With OpenAI to \u201cAutomate\u201d Local Journalism",
-          "link": "https://futurism.com/future-society/axios-ceo-ai-journalism-openai-chatgpt",
-          "date": "Sun, 16 Aug 2026 07:02:00 -0400"
         }
       ],
       "error": null
