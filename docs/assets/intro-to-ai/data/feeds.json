@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T07:54:05.198199+00:00",
+  "generatedAt": "2026-08-17T08:38:07.313073+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -488,6 +488,16 @@
       "url": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "items": [
         {
+          "title": "Scientists turn DNA into a memory device that uses 100x less power",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260816044853.htm",
+          "date": "Mon, 17 Aug 2026 04:06:45 EDT"
+        },
+        {
+          "title": "Scientists tracked kids for 8 years \u2014 the screen time result was unexpected",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260815064803.htm",
+          "date": "Mon, 17 Aug 2026 02:41:08 EDT"
+        },
+        {
           "title": "World\u2019s first superconducting quantum heat engine could help unlock massive quantum computers",
           "link": "https://www.sciencedaily.com/releases/2026/08/260814011041.htm",
           "date": "Fri, 14 Aug 2026 08:56:01 EDT"
@@ -501,16 +511,6 @@
           "title": "New programmable photonic chip can control how fast light moves",
           "link": "https://www.sciencedaily.com/releases/2026/07/260718010149.htm",
           "date": "Tue, 21 Jul 2026 22:43:34 EDT"
-        },
-        {
-          "title": "Alan Turing's biggest AI assumption may have been wrong",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260713084850.htm",
-          "date": "Mon, 13 Jul 2026 23:12:35 EDT"
-        },
-        {
-          "title": "Scientists discovered the brain doesn't make decisions the way we thought",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260712011757.htm",
-          "date": "Mon, 13 Jul 2026 08:12:27 EDT"
         }
       ],
       "error": null
