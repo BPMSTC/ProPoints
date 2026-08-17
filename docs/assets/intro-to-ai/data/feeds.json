@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T22:22:21.870072+00:00",
+  "generatedAt": "2026-08-17T23:19:27.720259+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "US vaccination rates fall again as exemptions continue to rise, CDC data shows",
+          "link": "https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/",
+          "date": "Mon, 17 Aug 2026 22:08:47 +0000"
+        },
+        {
+          "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
+          "link": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
+          "date": "Mon, 17 Aug 2026 21:18:49 +0000"
+        },
+        {
           "title": "The Moon's shadow raced across the heart of Spain, and I was there to see it",
           "link": "https://arstechnica.com/space/2026/08/the-moons-shadow-raced-across-the-heart-of-spain-and-i-was-there-to-see-it/",
           "date": "Mon, 17 Aug 2026 20:23:09 +0000"
@@ -303,16 +313,6 @@
           "title": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
           "link": "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/",
           "date": "Mon, 17 Aug 2026 20:00:20 +0000"
-        },
-        {
-          "title": "Petlibro accused of \u201cgaslighting\u201d users over smart pet feeder outage",
-          "link": "https://arstechnica.com/gadgets/2026/08/petlibro-accused-of-gaslighting-users-over-smart-pet-feeder-outage/",
-          "date": "Mon, 17 Aug 2026 18:43:51 +0000"
-        },
-        {
-          "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
-          "link": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
-          "date": "Mon, 17 Aug 2026 18:13:47 +0000"
         }
       ],
       "error": null
