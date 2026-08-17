@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T18:33:33.931920+00:00",
+  "generatedAt": "2026-08-17T19:24:31.433668+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -228,6 +228,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "On theCUBE Pod: AI bubble debate heats up and neocloud earnings challenge doubters",
+          "link": "https://siliconangle.com/2026/08/17/ai-bubble-neoclouds-thecubepod/",
+          "date": "Mon, 17 Aug 2026 17:49:22 +0000"
+        },
+        {
           "title": "Higgsfield raises $400M at $5.4 billion valuation to scale video and image generation platform",
           "link": "https://siliconangle.com/2026/08/17/higgsfield-raises-400m-at-5-4-billion-valuation-to-scale-video-and-image-generation-platform/",
           "date": "Mon, 17 Aug 2026 15:50:29 +0000"
@@ -246,11 +251,6 @@
           "title": "Hexaware bundles its AI services under a Zero Friction Enterprise framework",
           "link": "https://siliconangle.com/2026/08/17/hexaware-bundles-ai-services-zero-friction-enterprise-framework/",
           "date": "Mon, 17 Aug 2026 12:00:58 +0000"
-        },
-        {
-          "title": "SuperApp launches a shared space with AI models for teams to collaborate on work",
-          "link": "https://siliconangle.com/2026/08/17/superapp-launches-shared-space-ai-models-teams-collaborate-work/",
-          "date": "Mon, 17 Aug 2026 10:00:24 +0000"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Amazon Caught Destroying Rare Books to Train AI",
+          "link": "https://futurism.com/artificial-intelligence/amazon-destroying-rare-books-ai",
+          "date": "Mon, 17 Aug 2026 15:02:23 -0400"
+        },
+        {
           "title": "Kentucky Middle School Sends Students Home on First Day of Class With AI-Generated Educational Materials Full of Inexcusable Hallucinations, Including a Map Labeled With \u201cNorth Dahota\u201d and \u201cOlkchoma\u201d",
           "link": "https://futurism.com/artificial-intelligence/kentucky-middle-school-ai",
           "date": "Mon, 17 Aug 2026 14:04:18 -0400"
@@ -442,11 +447,6 @@
           "title": "Experts Warn That AI Slop Is Corrupting Kids\u2019 Brains",
           "link": "https://futurism.com/artificial-intelligence/experts-gnet-ai-fruit-slop-corrupting-violence-extremism",
           "date": "Sun, 16 Aug 2026 13:02:00 -0400"
-        },
-        {
-          "title": "Young People Hate AI CEOs So Passionately That It\u2019s Almost Hard to Believe",
-          "link": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
-          "date": "Sun, 16 Aug 2026 12:03:00 -0400"
         }
       ],
       "error": null
