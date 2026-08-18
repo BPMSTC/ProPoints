@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T08:32:08.481869+00:00",
+  "generatedAt": "2026-08-18T09:28:17.470434+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -360,6 +360,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Dickovers, baggravation and botiquette: 18 new words to describe our tech hellscape",
+          "link": "https://www.theguardian.com/technology/2026/aug/18/dickovers-baggravation-botiquette-18-new-words-tech-hellscape",
+          "date": "Tue, 18 Aug 2026 09:00:20 GMT"
+        },
+        {
           "title": "Claude to start watermarking AI-generated text \u2013 but will it make quality worse?",
           "link": "https://www.theguardian.com/technology/2026/aug/17/claude-watermark-ai-text-quality-worse",
           "date": "Mon, 17 Aug 2026 16:52:04 GMT"
@@ -378,11 +383,6 @@
           "title": "Are Microsoft\u2019s AI plans being held back by a shortage of chips?",
           "link": "https://www.theguardian.com/technology/2026/aug/17/are-microsofts-ai-plans-being-held-back-by-a-shortage-of-chips",
           "date": "Mon, 17 Aug 2026 04:00:46 GMT"
-        },
-        {
-          "title": "Report supporting Australia\u2019s teen social media ban appears to contain AI hallucinations, Senate hears",
-          "link": "https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb",
-          "date": "Mon, 17 Aug 2026 02:58:05 GMT"
         }
       ],
       "error": null
@@ -456,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "The Powerful Chinese Model Experts Warned About\u2014and Waited for\u2014Is Here",
+          "link": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
+          "date": "Tue, 18 Aug 2026 09:00:00 +0000"
+        },
+        {
           "title": "Amazon Can Use Your Twitch Content to Train Its AI\u2014Unless You Opt Out",
           "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
           "date": "Sat, 15 Aug 2026 09:00:00 +0000"
@@ -474,11 +479,6 @@
           "title": "These \u2018Masturbation Consultants\u2019 Were Hired to Pleasure Themselves With AI",
           "link": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/",
           "date": "Fri, 14 Aug 2026 10:45:00 +0000"
-        },
-        {
-          "title": "People Are \u2018Marrying\u2019 Chatbots. These Lawmakers Want to Stop Them",
-          "link": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
-          "date": "Fri, 14 Aug 2026 10:15:00 +0000"
         }
       ],
       "error": null
