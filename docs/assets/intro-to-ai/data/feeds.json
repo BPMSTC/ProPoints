@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T16:26:42.754676+00:00",
+  "generatedAt": "2026-08-18T17:22:19.426472+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -201,6 +201,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "I treat LLM as a primitive language. Best thing I do.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vrvk7n/i_treat_llm_as_a_primitive_language_best_thing_i/",
+          "date": "2026-08-18T17:15:40+00:00"
+        },
+        {
           "title": "Do we want AI that acts smart or AI that feels real?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vrnzqo/do_we_want_ai_that_acts_smart_or_ai_that_feels/",
           "date": "2026-08-18T12:38:31+00:00"
@@ -214,11 +219,6 @@
           "title": "Crooked Cooks II by Bloody FuckingTears",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vqkrvn/crooked_cooks_ii_by_bloody_fuckingtears/",
           "date": "2026-08-17T06:49:03+00:00"
-        },
-        {
-          "title": "Prompting tips for a AI-powered Discord Bot",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vqg2bm/prompting_tips_for_a_aipowered_discord_bot/",
-          "date": "2026-08-17T02:40:21+00:00"
         }
       ],
       "error": null
@@ -283,7 +283,7 @@
       "name": "Announcements - Stability AI",
       "url": "https://stability.ai/blog?format=rss",
       "items": [],
-      "error": null
+      "error": "<unknown>:2:0: syntax error"
     },
     {
       "name": "Ars Technica - All content",
@@ -360,6 +360,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Autonomous drones and the future of war in an AI-driven world | Letter",
+          "link": "https://www.theguardian.com/technology/2026/aug/18/autonomous-drones-and-the-future-of-war-in-an-ai-driven-world",
+          "date": "Tue, 18 Aug 2026 17:05:27 GMT"
+        },
+        {
           "title": "OpenAI launches ChatGPT for Teens with stronger safeguards",
           "link": "https://www.theguardian.com/technology/2026/aug/18/openai-chatgpt-for-teens",
           "date": "Tue, 18 Aug 2026 15:28:57 GMT"
@@ -378,11 +383,6 @@
           "title": "Claude to start watermarking AI-generated text \u2013 but will it make quality worse?",
           "link": "https://www.theguardian.com/technology/2026/aug/17/claude-watermark-ai-text-quality-worse",
           "date": "Mon, 17 Aug 2026 16:52:04 GMT"
-        },
-        {
-          "title": "Sainsbury\u2019s store pauses AI scanning after false shoplifting accusation",
-          "link": "https://www.theguardian.com/technology/2026/aug/17/humiliated-sainsburys-store-pauses-ai-scanning-after-false-shoplifting-accusation",
-          "date": "Mon, 17 Aug 2026 13:21:25 GMT"
         }
       ],
       "error": null
