@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T11:23:56.299666+00:00",
+  "generatedAt": "2026-08-18T12:40:18.618380+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -201,6 +201,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "Do we want AI that acts smart or AI that feels real?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vrnzqo/do_we_want_ai_that_acts_smart_or_ai_that_feels/",
+          "date": "2026-08-18T12:38:31+00:00"
+        },
+        {
           "title": "Turning LLMs into interactive 3D historical maps using Wikidata QIDs and URL compression",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vr3nn0/turning_llms_into_interactive_3d_historical_maps/",
           "date": "2026-08-17T20:20:36+00:00"
@@ -214,11 +219,6 @@
           "title": "Crooked Cooks II by Bloody FuckingTears",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vqkrvn/crooked_cooks_ii_by_bloody_fuckingtears/",
           "date": "2026-08-17T06:49:03+00:00"
-        },
-        {
-          "title": "Prompting tips for a AI-powered Discord Bot",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vqg2bm/prompting_tips_for_a_aipowered_discord_bot/",
-          "date": "2026-08-17T02:40:21+00:00"
         }
       ],
       "error": null
@@ -227,6 +227,11 @@
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
+        {
+          "title": "Exclusive: Synthefy raises $6.5M for its number-crunching models trained on numerical data instead of words",
+          "link": "https://siliconangle.com/2026/08/18/synthefy-raises-6-5m-number-crunching-models-trained-numerical-data-instead-words/",
+          "date": "Tue, 18 Aug 2026 12:00:34 +0000"
+        },
         {
           "title": "Cursor launches Origin code hosting service to compete with GitHub",
           "link": "https://siliconangle.com/2026/08/17/cursor-launches-origin-code-hosting-service-to-compete-with-github/",
@@ -246,11 +251,6 @@
           "title": "Three insights you may have missed from theCUBE\u2019s coverage of Black Hat USA",
           "link": "https://siliconangle.com/2026/08/17/three-cyber-resilience-insights-thecube-blackhat/",
           "date": "Mon, 17 Aug 2026 23:31:53 +0000"
-        },
-        {
-          "title": "On theCUBE Pod: AI bubble debate heats up and neocloud earnings challenge doubters",
-          "link": "https://siliconangle.com/2026/08/17/ai-bubble-neoclouds-thecubepod/",
-          "date": "Mon, 17 Aug 2026 17:49:22 +0000"
         }
       ],
       "error": null
@@ -283,12 +283,17 @@
       "name": "Announcements - Stability AI",
       "url": "https://stability.ai/blog?format=rss",
       "items": [],
-      "error": "<unknown>:2:0: syntax error"
+      "error": null
     },
     {
       "name": "Ars Technica - All content",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
+        {
+          "title": "As temperatures get hotter, pesticides are more dangerous to farmworkers",
+          "link": "https://arstechnica.com/science/2026/08/as-temperatures-get-hotter-pesticides-are-more-dangerous-to-farmworkers/",
+          "date": "Tue, 18 Aug 2026 11:07:49 +0000"
+        },
         {
           "title": "Theban tomb reveals how Egyptian burial trends evolved in time",
           "link": "https://arstechnica.com/science/2026/08/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time/",
@@ -308,11 +313,6 @@
           "title": "The Moon's shadow raced across the heart of Spain, and I was there to see it",
           "link": "https://arstechnica.com/space/2026/08/the-moons-shadow-raced-across-the-heart-of-spain-and-i-was-there-to-see-it/",
           "date": "Mon, 17 Aug 2026 20:23:09 +0000"
-        },
-        {
-          "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
-          "link": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/",
-          "date": "Mon, 17 Aug 2026 20:14:23 +0000"
         }
       ],
       "error": null
@@ -456,7 +456,7 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
-          "title": "The Powerful Chinese Model Experts Warned About\u2014and Waited for\u2014Is Here",
+          "title": "The Powerful Chinese AI Model Experts Warned About Is Here",
           "link": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
           "date": "Tue, 18 Aug 2026 09:00:00 +0000"
         },
