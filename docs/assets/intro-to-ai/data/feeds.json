@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-08-18T12:40:18.618380+00:00",
+  "generatedAt": "2026-08-18T13:38:47.663943+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "X's Algorithm Feeds Off Ragebait and Impacts Democrats More, Study Finds",
+          "link": "https://www.404media.co/xs-algorithm-feeds-off-ragebait-and-impacts-democrats-more-study-finds/",
+          "date": "Tue, 18 Aug 2026 13:27:22 GMT"
+        },
+        {
+          "title": "The National Park Service Is Using Flock. Rangers Are Pissed",
+          "link": "https://www.404media.co/the-national-park-service-is-using-flock-rangers-are-pissed/",
+          "date": "Tue, 18 Aug 2026 13:21:29 GMT"
+        },
         {
           "title": "Pornhub's Parent Company to Pay $120 Million to Settle Child Sexual Abuse Lawsuits",
           "link": "https://www.404media.co/pornhubs-parent-company-to-pay-120-million-to-settle-child-sexual-abuse-lawsuits/",
@@ -19,16 +29,6 @@
           "title": "The Future of Deepfakes and the Decline of Reality (With Hany Farid)",
           "link": "https://www.404media.co/the-future-of-deepfakes-and-the-decline-of-reality-with-hany-farid/",
           "date": "Mon, 17 Aug 2026 14:19:26 GMT"
-        },
-        {
-          "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-          "link": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
-          "date": "Mon, 17 Aug 2026 13:16:09 GMT"
-        },
-        {
-          "title": "Memories Mysteriously Survive After Brain Shutdown, And Scientists Don\u2019t Know Why",
-          "link": "https://www.404media.co/memories-mysteriously-survive-after-brain-shutdown-and-scientists-dont-know-why/",
-          "date": "Sat, 15 Aug 2026 10:00:42 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -228,6 +228,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "NLPatent rebrands as Clerq, launches agentic patent research workflows",
+          "link": "https://siliconangle.com/2026/08/18/nlpatent-rebrands-as-clerq-launches-agentic-patent-research-workflows/",
+          "date": "Tue, 18 Aug 2026 13:00:11 +0000"
+        },
+        {
           "title": "Exclusive: Synthefy raises $6.5M for its number-crunching models trained on numerical data instead of words",
           "link": "https://siliconangle.com/2026/08/18/synthefy-raises-6-5m-number-crunching-models-trained-numerical-data-instead-words/",
           "date": "Tue, 18 Aug 2026 12:00:34 +0000"
@@ -246,11 +251,6 @@
           "title": "AI cloud operator Groq raises $350M more in funding",
           "link": "https://siliconangle.com/2026/08/17/ai-cloud-operator-groq-raises-350m-more-in-funding/",
           "date": "Mon, 17 Aug 2026 23:39:27 +0000"
-        },
-        {
-          "title": "Three insights you may have missed from theCUBE\u2019s coverage of Black Hat USA",
-          "link": "https://siliconangle.com/2026/08/17/three-cyber-resilience-insights-thecube-blackhat/",
-          "date": "Mon, 17 Aug 2026 23:31:53 +0000"
         }
       ],
       "error": null
@@ -283,7 +283,7 @@
       "name": "Announcements - Stability AI",
       "url": "https://stability.ai/blog?format=rss",
       "items": [],
-      "error": null
+      "error": "<unknown>:2:0: syntax error"
     },
     {
       "name": "Ars Technica - All content",
@@ -360,6 +360,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Meta\u2019s legal jeopardy is growing by the day",
+          "link": "https://www.theguardian.com/technology/2026/aug/17/meta-lawsuits-ai-cybersecurity",
+          "date": "Tue, 18 Aug 2026 13:15:52 GMT"
+        },
+        {
           "title": "Dickovers, baggravation and botiquette: 18 new words to describe our tech hellscape",
           "link": "https://www.theguardian.com/technology/2026/aug/18/dickovers-baggravation-botiquette-18-new-words-tech-hellscape",
           "date": "Tue, 18 Aug 2026 09:00:20 GMT"
@@ -378,11 +383,6 @@
           "title": "AI eyes in the sky: new satellites and artificial intelligence are transforming wildfire detection",
           "link": "https://www.theguardian.com/us-news/2026/aug/17/satellites-ai-wildfire-detection",
           "date": "Mon, 17 Aug 2026 12:00:53 GMT"
-        },
-        {
-          "title": "Are Microsoft\u2019s AI plans being held back by a shortage of chips?",
-          "link": "https://www.theguardian.com/technology/2026/aug/17/are-microsofts-ai-plans-being-held-back-by-a-shortage-of-chips",
-          "date": "Mon, 17 Aug 2026 04:00:46 GMT"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Man Obliterated When Court Obtains His ChatGPT Transcripts",
+          "link": "https://futurism.com/artificial-intelligence/expert-witness-chatgpt-logs-court",
+          "date": "Tue, 18 Aug 2026 08:59:45 -0400"
+        },
+        {
           "title": "Amazon Caught Destroying Rare Books to Train AI",
           "link": "https://futurism.com/artificial-intelligence/amazon-destroying-rare-books-ai",
           "date": "Mon, 17 Aug 2026 15:02:23 -0400"
@@ -442,11 +447,6 @@
           "title": "The Economy Has Spoken: Stuff That\u2019s AI-Generated Has Almost Zero Value",
           "link": "https://futurism.com/artificial-intelligence/economy-ai-generated-value",
           "date": "Mon, 17 Aug 2026 10:27:32 -0400"
-        },
-        {
-          "title": "Experts Warn That AI Slop Is Corrupting Kids\u2019 Brains",
-          "link": "https://futurism.com/artificial-intelligence/experts-gnet-ai-fruit-slop-corrupting-violence-extremism",
-          "date": "Sun, 16 Aug 2026 13:02:00 -0400"
         }
       ],
       "error": null
