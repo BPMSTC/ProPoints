@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T20:19:03.681044+00:00",
+  "generatedAt": "2026-08-18T21:19:52.917083+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -228,6 +228,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Inference chip startup Etched raises another $700M at $21B valuation",
+          "link": "https://siliconangle.com/2026/08/18/inference-chip-startup-etched-raises-another-700m-at-21b-valuation/",
+          "date": "Tue, 18 Aug 2026 21:02:09 +0000"
+        },
+        {
           "title": "Neoclouds reshape traditional architectures to meet AI demands",
           "link": "https://siliconangle.com/2026/08/18/neoclouds-ai-infrastructure-supermicroopenstoragesummit/",
           "date": "Tue, 18 Aug 2026 18:56:21 +0000"
@@ -246,11 +251,6 @@
           "title": "NLPatent rebrands as Clerq, launches agentic patent research workflows",
           "link": "https://siliconangle.com/2026/08/18/nlpatent-rebrands-as-clerq-launches-agentic-patent-research-workflows/",
           "date": "Tue, 18 Aug 2026 13:00:11 +0000"
-        },
-        {
-          "title": "Exclusive: Synthefy raises $6.5M for its number-crunching models trained on numerical data instead of words",
-          "link": "https://siliconangle.com/2026/08/18/synthefy-raises-6-5m-number-crunching-models-trained-numerical-data-instead-words/",
-          "date": "Tue, 18 Aug 2026 12:00:34 +0000"
         }
       ],
       "error": null
@@ -290,6 +290,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Against all odds, SpaceX finally tugs Starship into port after 24 days at sea",
+          "link": "https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/",
+          "date": "Tue, 18 Aug 2026 19:01:09 +0000"
+        },
+        {
+          "title": "Disney sues FCC and its chair, escalating fight against Trump's chief censor",
+          "link": "https://arstechnica.com/tech-policy/2026/08/disney-sues-fcc-and-its-chair-escalating-fight-against-trumps-chief-censor/",
+          "date": "Tue, 18 Aug 2026 18:11:26 +0000"
+        },
+        {
           "title": "Peacock raises prices by 18 percent after becoming profitable",
           "link": "https://arstechnica.com/gadgets/2026/08/peacock-raises-prices-by-18-percent-after-becoming-profitable/",
           "date": "Tue, 18 Aug 2026 16:42:30 +0000"
@@ -303,16 +313,6 @@
           "title": "Fairphone's latest repairable phone is finally available in the US for $650",
           "link": "https://arstechnica.com/gadgets/2026/08/fairphone-brings-the-repairable-fairphone-gen-6-to-the-us/",
           "date": "Tue, 18 Aug 2026 16:05:00 +0000"
-        },
-        {
-          "title": "Ford hopes this Hypercar will be its next Le Mans winner",
-          "link": "https://arstechnica.com/cars/2026/08/ford-hopes-this-hypercar-will-be-its-next-le-mans-winner/",
-          "date": "Tue, 18 Aug 2026 15:52:50 +0000"
-        },
-        {
-          "title": "Teenage Sex and Death at Camp Miasma takes pains to deliver a slasher fan\u2019s dream",
-          "link": "https://arstechnica.com/culture/2026/08/teenage-sex-and-death-at-camp-miasma-takes-pains-to-deliver-a-slasher-fans-dream/",
-          "date": "Tue, 18 Aug 2026 15:36:47 +0000"
         }
       ],
       "error": null
@@ -320,33 +320,7 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "Sainsbury\u2019s pauses AI facial recognition after wrongful shoplifting accusation",
-          "link": "https://www.reddit.com/r/artificial/comments/1vrqj9f/sainsburys_pauses_ai_facial_recognition_after/",
-          "date": "2026-08-18T14:19:29+00:00"
-        },
-        {
-          "title": "The result looked unusually strong. The clean re-split killed it.",
-          "link": "https://www.reddit.com/r/artificial/comments/1vrnv4s/the_result_looked_unusually_strong_the_clean/",
-          "date": "2026-08-18T12:32:58+00:00"
-        },
-        {
-          "title": "Chinese AI models are getting good enough to replace tools I actually pay for-is anyone else switching?",
-          "link": "https://www.reddit.com/r/artificial/comments/1vrhy7t/chinese_ai_models_are_getting_good_enough_to/",
-          "date": "2026-08-18T07:11:08+00:00"
-        },
-        {
-          "title": "Companies should be required to disclose they are using an AI chatbot, currently they program the chatbots to avoid replying \"yes, this is an AI chatbot\"",
-          "link": "https://www.reddit.com/r/artificial/comments/1vrjkns/companies_should_be_required_to_disclose_they_are/",
-          "date": "2026-08-18T08:48:26+00:00"
-        },
-        {
-          "title": "Has your own reasoning gotten weaker since you started using LLMs regularly?",
-          "link": "https://www.reddit.com/r/artificial/comments/1vrv8z1/has_your_own_reasoning_gotten_weaker_since_you/",
-          "date": "2026-08-18T17:04:55+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
@@ -386,6 +360,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "OpenAI announces slowing pace of development after hack by rogue agent",
+          "link": "https://www.theguardian.com/technology/2026/aug/18/open-ai-pause-hack",
+          "date": "Tue, 18 Aug 2026 20:47:17 GMT"
+        },
+        {
           "title": "Autonomous drones and the future of war in an AI-driven world | Letter",
           "link": "https://www.theguardian.com/technology/2026/aug/18/autonomous-drones-and-the-future-of-war-in-an-ai-driven-world",
           "date": "Tue, 18 Aug 2026 17:05:27 GMT"
@@ -404,11 +383,6 @@
           "title": "Dickovers, baggravation and botiquette: 18 new words to describe our tech hellscape",
           "link": "https://www.theguardian.com/technology/2026/aug/18/dickovers-baggravation-botiquette-18-new-words-tech-hellscape",
           "date": "Tue, 18 Aug 2026 09:00:20 GMT"
-        },
-        {
-          "title": "Claude to start watermarking AI-generated text \u2013 but will it make quality worse?",
-          "link": "https://www.theguardian.com/technology/2026/aug/17/claude-watermark-ai-text-quality-worse",
-          "date": "Mon, 17 Aug 2026 16:52:04 GMT"
         }
       ],
       "error": null
