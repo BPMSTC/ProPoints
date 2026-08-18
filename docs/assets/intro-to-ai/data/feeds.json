@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T10:23:59.033920+00:00",
+  "generatedAt": "2026-08-18T11:23:56.299666+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -422,8 +422,34 @@
     {
       "name": "Artificial Intelligence \u2013 Futurism",
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
-      "items": [],
-      "error": "<urlopen error [Errno 104] Connection reset by peer>"
+      "items": [
+        {
+          "title": "Amazon Caught Destroying Rare Books to Train AI",
+          "link": "https://futurism.com/artificial-intelligence/amazon-destroying-rare-books-ai",
+          "date": "Mon, 17 Aug 2026 15:02:23 -0400"
+        },
+        {
+          "title": "Kentucky Middle School Sends Students Home on First Day of Class With AI-Generated Educational Materials Full of Inexcusable Hallucinations, Including a Map Labeled With \u201cNorth Dahota\u201d and \u201cOlkchoma\u201d",
+          "link": "https://futurism.com/artificial-intelligence/kentucky-middle-school-ai",
+          "date": "Mon, 17 Aug 2026 14:04:18 -0400"
+        },
+        {
+          "title": "New ChatGPT Feature Collects Every Keystroke You Make",
+          "link": "https://futurism.com/artificial-intelligence/new-chatgpt-feature-collects-every-keystroke-you-make",
+          "date": "Mon, 17 Aug 2026 11:37:49 -0400"
+        },
+        {
+          "title": "The Economy Has Spoken: Stuff That\u2019s AI-Generated Has Almost Zero Value",
+          "link": "https://futurism.com/artificial-intelligence/economy-ai-generated-value",
+          "date": "Mon, 17 Aug 2026 10:27:32 -0400"
+        },
+        {
+          "title": "Experts Warn That AI Slop Is Corrupting Kids\u2019 Brains",
+          "link": "https://futurism.com/artificial-intelligence/experts-gnet-ai-fruit-slop-corrupting-violence-extremism",
+          "date": "Sun, 16 Aug 2026 13:02:00 -0400"
+        }
+      ],
+      "error": null
     },
     {
       "name": "Artificial Intelligence Latest - Wired",
