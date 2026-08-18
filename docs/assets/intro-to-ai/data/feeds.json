@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T14:29:14.939095+00:00",
+  "generatedAt": "2026-08-18T15:27:17.671283+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Nvidia to Back OpenAI Data Center With $105B Investment",
+          "link": "https://aibusiness.com/data-centers/nvidia-back-openai-data-center-105b-investment",
+          "date": "Tue, 18 Aug 2026 15:00:09 GMT"
+        },
+        {
           "title": "Speech-to-Text AI Specialist Now Valued at $2B",
           "link": "https://aibusiness.com/generative-ai/speech-to-text-ai-specialist-valued-at-2b",
           "date": "Mon, 17 Aug 2026 20:35:02 GMT"
@@ -132,11 +137,6 @@
           "title": "IBM, OpenAI Partner to Accelerate Enterprise AI",
           "link": "https://aibusiness.com/generative-ai/ibm-openai-partner-accelerate-enterprise-ai",
           "date": "Fri, 14 Aug 2026 15:26:02 GMT"
-        },
-        {
-          "title": "Lower Intro Price for Gemini 3.7 Flash to Attract Developers",
-          "link": "https://aibusiness.com/generative-ai/lower-intro-price-for-gemini-3-7-flash-attract-developers",
-          "date": "Fri, 14 Aug 2026 15:08:10 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
