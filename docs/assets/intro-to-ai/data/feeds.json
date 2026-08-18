@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-08-18T15:27:17.671283+00:00",
+  "generatedAt": "2026-08-18T16:26:42.754676+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Anthropic\u2019s Text Watermarking Proves AI Companies Do Not Care at All About Writing",
+          "link": "https://www.404media.co/anthropics-text-watermarking-proves-ai-companies-do-not-care-at-all-about-writing/",
+          "date": "Tue, 18 Aug 2026 15:54:15 GMT"
+        },
         {
           "title": "X's Algorithm Feeds Off Ragebait and Impacts Democrats More, Study Finds",
           "link": "https://www.404media.co/xs-algorithm-feeds-off-ragebait-and-impacts-democrats-more-study-finds/",
@@ -24,11 +29,6 @@
           "title": "\u2018Show How 3M Is 0% at Fault:\u2019 Expert Witness Used ChatGPT to Write Report Defending Company in Deadly Explosion Lawsuit",
           "link": "https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/",
           "date": "Mon, 17 Aug 2026 14:56:24 GMT"
-        },
-        {
-          "title": "The Future of Deepfakes and the Decline of Reality (With Hany Farid)",
-          "link": "https://www.404media.co/the-future-of-deepfakes-and-the-decline-of-reality-with-hany-farid/",
-          "date": "Mon, 17 Aug 2026 14:19:26 GMT"
         }
       ],
       "error": null
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "Bridging the gap from supercomputing to AI factories",
+          "link": "https://www.aiacceleratorinstitute.com/bridging-the-gap-from-supercomputing-to-ai-factories/",
+          "date": "Tue, 18 Aug 2026 15:32:31 GMT"
+        },
+        {
           "title": "How to build AI in the age of collaborative coding",
           "link": "https://www.aiacceleratorinstitute.com/how-to-build-ai-in-the-age-of-collaborative-coding/",
           "date": "Fri, 14 Aug 2026 15:30:24 GMT"
@@ -88,11 +93,6 @@
           "title": "The AI architecture decisions  that cannot wait",
           "link": "https://www.aiacceleratorinstitute.com/the-ai-architecture-decisions-that-cannot-wait/",
           "date": "Wed, 12 Aug 2026 11:46:28 GMT"
-        },
-        {
-          "title": "AI Inference Is memory-bound: How to overcome the Memory Wall",
-          "link": "https://www.aiacceleratorinstitute.com/why-your-gpus-are-sitting-idle/",
-          "date": "Tue, 11 Aug 2026 16:01:07 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -228,6 +228,16 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Hypercubic raises $5.3M to map out and rewrite legacy COBOL apps with AI agents",
+          "link": "https://siliconangle.com/2026/08/18/hypercubic-raises-5-3m-map-rewrite-legacy-cobol-apps-ai-agents/",
+          "date": "Tue, 18 Aug 2026 16:00:25 +0000"
+        },
+        {
+          "title": "Firefox updates Smart Window: A new in-browser AI assistant that can keep up with you",
+          "link": "https://siliconangle.com/2026/08/18/firefox-updates-smart-window-a-new-in-browser-ai-assistant-that-can-keep-up-with-you/",
+          "date": "Tue, 18 Aug 2026 15:30:41 +0000"
+        },
+        {
           "title": "NLPatent rebrands as Clerq, launches agentic patent research workflows",
           "link": "https://siliconangle.com/2026/08/18/nlpatent-rebrands-as-clerq-launches-agentic-patent-research-workflows/",
           "date": "Tue, 18 Aug 2026 13:00:11 +0000"
@@ -241,16 +251,6 @@
           "title": "Cursor launches Origin code hosting service to compete with GitHub",
           "link": "https://siliconangle.com/2026/08/17/cursor-launches-origin-code-hosting-service-to-compete-with-github/",
           "date": "Tue, 18 Aug 2026 01:05:13 +0000"
-        },
-        {
-          "title": "Google pays $10M to get its hands on Spirit Airlines\u2019 business data for AI training",
-          "link": "https://siliconangle.com/2026/08/17/google-pays-10m-to-get-its-hands-on-spirit-airlines-business-data-for-ai-training/",
-          "date": "Mon, 17 Aug 2026 23:40:53 +0000"
-        },
-        {
-          "title": "AI cloud operator Groq raises $350M more in funding",
-          "link": "https://siliconangle.com/2026/08/17/ai-cloud-operator-groq-raises-350m-more-in-funding/",
-          "date": "Mon, 17 Aug 2026 23:39:27 +0000"
         }
       ],
       "error": null
@@ -283,12 +283,22 @@
       "name": "Announcements - Stability AI",
       "url": "https://stability.ai/blog?format=rss",
       "items": [],
-      "error": "<unknown>:2:0: syntax error"
+      "error": null
     },
     {
       "name": "Ars Technica - All content",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
+        {
+          "title": "Teenage Sex and Death at Camp Miasma takes pains to deliver a slasher fan\u2019s dream",
+          "link": "https://arstechnica.com/culture/2026/08/teenage-sex-and-death-at-camp-miasma-takes-pains-to-deliver-a-slasher-fans-dream/",
+          "date": "Tue, 18 Aug 2026 15:36:47 +0000"
+        },
+        {
+          "title": "X-rays add new twist to narwhal's spiral tusk",
+          "link": "https://arstechnica.com/science/2026/08/x-rays-add-new-twist-to-narwhals-spiral-tusk/",
+          "date": "Tue, 18 Aug 2026 15:00:51 +0000"
+        },
         {
           "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
           "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
@@ -303,16 +313,6 @@
           "title": "Theban tomb reveals how Egyptian burial trends evolved in time",
           "link": "https://arstechnica.com/science/2026/08/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time/",
           "date": "Tue, 18 Aug 2026 04:00:40 +0000"
-        },
-        {
-          "title": "US vaccination rates fall again as exemptions continue to rise, CDC data shows",
-          "link": "https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/",
-          "date": "Mon, 17 Aug 2026 22:08:47 +0000"
-        },
-        {
-          "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
-          "link": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
-          "date": "Mon, 17 Aug 2026 21:18:49 +0000"
         }
       ],
       "error": null
@@ -327,6 +327,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Canada\u2019s AI strategy needs educators who feel prepared, not just trained",
+          "link": "https://theconversation.com/canadas-ai-strategy-needs-educators-who-feel-prepared-not-just-trained-285133",
+          "date": "2026-08-18T16:06:24Z"
+        },
         {
           "title": "Governments shouldn\u2019t rely on AI to decide who gets a social grant: inside a South African court case",
           "link": "https://theconversation.com/governments-shouldnt-rely-on-ai-to-decide-who-gets-a-social-grant-inside-a-south-african-court-case-288998",
@@ -346,11 +351,6 @@
           "title": "Australia must move up the AI \u2018value chain\u2019 to capture maximum benefit from the technology: Andrew Charlton",
           "link": "https://theconversation.com/australia-must-move-up-the-ai-value-chain-to-capture-maximum-benefit-from-the-technology-andrew-charlton-289900",
           "date": "2026-08-17T20:09:18Z"
-        },
-        {
-          "title": "The decades-old \u2018AI alignment problem\u2019 has finally become a reality. Solving it won\u2019t be easy",
-          "link": "https://theconversation.com/the-decades-old-ai-alignment-problem-has-finally-become-a-reality-solving-it-wont-be-easy-289812",
-          "date": "2026-08-17T06:37:29Z"
         }
       ],
       "error": null
@@ -359,6 +359,11 @@
       "name": "Artificial intelligence (AI) | The Guardian",
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
+        {
+          "title": "OpenAI launches ChatGPT for Teens with stronger safeguards",
+          "link": "https://www.theguardian.com/technology/2026/aug/18/openai-chatgpt-for-teens",
+          "date": "Tue, 18 Aug 2026 15:28:57 GMT"
+        },
         {
           "title": "Meta\u2019s legal jeopardy is growing by the day",
           "link": "https://www.theguardian.com/technology/2026/aug/17/meta-lawsuits-ai-cybersecurity",
@@ -378,11 +383,6 @@
           "title": "Sainsbury\u2019s store pauses AI scanning after false shoplifting accusation",
           "link": "https://www.theguardian.com/technology/2026/aug/17/humiliated-sainsburys-store-pauses-ai-scanning-after-false-shoplifting-accusation",
           "date": "Mon, 17 Aug 2026 13:21:25 GMT"
-        },
-        {
-          "title": "AI eyes in the sky: new satellites and artificial intelligence are transforming wildfire detection",
-          "link": "https://www.theguardian.com/us-news/2026/aug/17/satellites-ai-wildfire-detection",
-          "date": "Mon, 17 Aug 2026 12:00:53 GMT"
         }
       ],
       "error": null
