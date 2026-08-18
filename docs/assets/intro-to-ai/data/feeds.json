@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T23:19:27.720259+00:00",
+  "generatedAt": "2026-08-18T01:08:12.603502+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -228,6 +228,21 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Google pays $10M to get its hands on Spirit Airlines\u2019 business data for AI training",
+          "link": "https://siliconangle.com/2026/08/17/google-pays-10m-to-get-its-hands-on-spirit-airlines-business-data-for-ai-training/",
+          "date": "Mon, 17 Aug 2026 23:40:53 +0000"
+        },
+        {
+          "title": "AI cloud operator Groq raises $350M more in funding",
+          "link": "https://siliconangle.com/2026/08/17/ai-cloud-operator-groq-raises-350m-more-in-funding/",
+          "date": "Mon, 17 Aug 2026 23:39:27 +0000"
+        },
+        {
+          "title": "Three insights you may have missed from theCUBE\u2019s coverage of Black Hat USA",
+          "link": "https://siliconangle.com/2026/08/17/three-cyber-resilience-insights-thecube-blackhat/",
+          "date": "Mon, 17 Aug 2026 23:31:53 +0000"
+        },
+        {
           "title": "On theCUBE Pod: AI bubble debate heats up and neocloud earnings challenge doubters",
           "link": "https://siliconangle.com/2026/08/17/ai-bubble-neoclouds-thecubepod/",
           "date": "Mon, 17 Aug 2026 17:49:22 +0000"
@@ -236,21 +251,6 @@
           "title": "Higgsfield raises $400M at $5.4 billion valuation to scale video and image generation platform",
           "link": "https://siliconangle.com/2026/08/17/higgsfield-raises-400m-at-5-4-billion-valuation-to-scale-video-and-image-generation-platform/",
           "date": "Mon, 17 Aug 2026 15:50:29 +0000"
-        },
-        {
-          "title": "Wispr raises $280M to power up natural speech-to-text using AI",
-          "link": "https://siliconangle.com/2026/08/17/wispr-raises-280m-to-power-up-natural-speech-to-text-using-ai/",
-          "date": "Mon, 17 Aug 2026 15:20:58 +0000"
-        },
-        {
-          "title": "Palona raises $20M in funding to bring AI automation to brick-and-mortar businesses",
-          "link": "https://siliconangle.com/2026/08/17/palona-raises-20m-in-funding-to-bring-ai-automation-to-brick-and-mortar-businesses/",
-          "date": "Mon, 17 Aug 2026 13:00:40 +0000"
-        },
-        {
-          "title": "Hexaware bundles its AI services under a Zero Friction Enterprise framework",
-          "link": "https://siliconangle.com/2026/08/17/hexaware-bundles-ai-services-zero-friction-enterprise-framework/",
-          "date": "Mon, 17 Aug 2026 12:00:58 +0000"
         }
       ],
       "error": null
@@ -328,6 +328,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "The use of AI in biotechnology is changing faster than the rules governing either technology",
+          "link": "https://theconversation.com/the-use-of-ai-in-biotechnology-is-changing-faster-than-the-rules-governing-either-technology-289796",
+          "date": "2026-08-18T00:11:14Z"
+        },
+        {
           "title": "Oral exams are making a comeback to stop AI cheating. But they have their own problems",
           "link": "https://theconversation.com/oral-exams-are-making-a-comeback-to-stop-ai-cheating-but-they-have-their-own-problems-289707",
           "date": "2026-08-17T20:10:17Z"
@@ -346,11 +351,6 @@
           "title": "New EU laws make AI content labels compulsory \u2013 but might just make it harder to spot deepfakes",
           "link": "https://theconversation.com/new-eu-laws-make-ai-content-labels-compulsory-but-might-just-make-it-harder-to-spot-deepfakes-289597",
           "date": "2026-08-16T20:06:14Z"
-        },
-        {
-          "title": "Anthropic\u2019s fight with the Pentagon shows how AI could threaten a crucial safeguard of democracy",
-          "link": "https://theconversation.com/anthropics-fight-with-the-pentagon-shows-how-ai-could-threaten-a-crucial-safeguard-of-democracy-281968",
-          "date": "2026-08-16T11:59:37Z"
         }
       ],
       "error": null
