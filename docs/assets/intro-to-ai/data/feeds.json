@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T01:08:12.603502+00:00",
+  "generatedAt": "2026-08-18T02:52:12.350139+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -228,6 +228,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Cursor launches Origin code hosting service to compete with GitHub",
+          "link": "https://siliconangle.com/2026/08/17/cursor-launches-origin-code-hosting-service-to-compete-with-github/",
+          "date": "Tue, 18 Aug 2026 01:05:13 +0000"
+        },
+        {
           "title": "Google pays $10M to get its hands on Spirit Airlines\u2019 business data for AI training",
           "link": "https://siliconangle.com/2026/08/17/google-pays-10m-to-get-its-hands-on-spirit-airlines-business-data-for-ai-training/",
           "date": "Mon, 17 Aug 2026 23:40:53 +0000"
@@ -246,11 +251,6 @@
           "title": "On theCUBE Pod: AI bubble debate heats up and neocloud earnings challenge doubters",
           "link": "https://siliconangle.com/2026/08/17/ai-bubble-neoclouds-thecubepod/",
           "date": "Mon, 17 Aug 2026 17:49:22 +0000"
-        },
-        {
-          "title": "Higgsfield raises $400M at $5.4 billion valuation to scale video and image generation platform",
-          "link": "https://siliconangle.com/2026/08/17/higgsfield-raises-400m-at-5-4-billion-valuation-to-scale-video-and-image-generation-platform/",
-          "date": "Mon, 17 Aug 2026 15:50:29 +0000"
         }
       ],
       "error": null
@@ -338,8 +338,8 @@
           "date": "2026-08-17T20:10:17Z"
         },
         {
-          "title": "Australia must move up the AI \u2018value chain\u2019 to capture maximum value from the technology: Andrew Charlton",
-          "link": "https://theconversation.com/australia-must-move-up-the-ai-value-chain-to-capture-maximum-value-from-the-technology-andrew-charlton-289900",
+          "title": "Australia must move up the AI \u2018value chain\u2019 to capture maximum benefit from the technology: Andrew Charlton",
+          "link": "https://theconversation.com/australia-must-move-up-the-ai-value-chain-to-capture-maximum-benefit-from-the-technology-andrew-charlton-289900",
           "date": "2026-08-17T20:09:18Z"
         },
         {
