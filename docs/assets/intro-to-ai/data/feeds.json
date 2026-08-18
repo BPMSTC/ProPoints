@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T21:19:52.917083+00:00",
+  "generatedAt": "2026-08-18T22:18:47.639993+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -201,6 +201,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "Found a way to let ChatGPT Web review your local repo without pasting your code into chat",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vs2y6o/found_a_way_to_let_chatgpt_web_review_your_local/",
+          "date": "2026-08-18T21:41:42+00:00"
+        },
+        {
           "title": "Do we want AI that acts smart or AI that feels real?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vrnzqo/do_we_want_ai_that_acts_smart_or_ai_that_feels/",
           "date": "2026-08-18T12:38:31+00:00"
@@ -214,11 +219,6 @@
           "title": "I treat LLM as a primitive language. Best thing I do.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vrvk7n/i_treat_llm_as_a_primitive_language_best_thing_i/",
           "date": "2026-08-18T17:15:40+00:00"
-        },
-        {
-          "title": "Need a Proper Roadmap to Become an AI Engineer \ud83d\ude14",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vr01jf/need_a_proper_roadmap_to_become_an_ai_engineer/",
-          "date": "2026-08-17T18:12:13+00:00"
         }
       ],
       "error": null
@@ -227,11 +227,6 @@
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
-        {
-          "title": "Inference chip startup Etched raises another $700M at $21B valuation",
-          "link": "https://siliconangle.com/2026/08/18/inference-chip-startup-etched-raises-another-700m-at-21b-valuation/",
-          "date": "Tue, 18 Aug 2026 21:02:09 +0000"
-        },
         {
           "title": "Neoclouds reshape traditional architectures to meet AI demands",
           "link": "https://siliconangle.com/2026/08/18/neoclouds-ai-infrastructure-supermicroopenstoragesummit/",
@@ -251,6 +246,11 @@
           "title": "NLPatent rebrands as Clerq, launches agentic patent research workflows",
           "link": "https://siliconangle.com/2026/08/18/nlpatent-rebrands-as-clerq-launches-agentic-patent-research-workflows/",
           "date": "Tue, 18 Aug 2026 13:00:11 +0000"
+        },
+        {
+          "title": "Exclusive: Synthefy raises $6.5M for its number-crunching models trained on numerical data instead of words",
+          "link": "https://siliconangle.com/2026/08/18/synthefy-raises-6-5m-number-crunching-models-trained-numerical-data-instead-words/",
+          "date": "Tue, 18 Aug 2026 12:00:34 +0000"
         }
       ],
       "error": null
