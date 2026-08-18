@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T04:31:11.159022+00:00",
+  "generatedAt": "2026-08-18T05:24:32.317982+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Theban tomb reveals how Egyptian burial trends evolved in time",
+          "link": "https://arstechnica.com/science/2026/08/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time/",
+          "date": "Tue, 18 Aug 2026 04:00:40 +0000"
+        },
+        {
           "title": "US vaccination rates fall again as exemptions continue to rise, CDC data shows",
           "link": "https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/",
           "date": "Mon, 17 Aug 2026 22:08:47 +0000"
@@ -308,11 +313,6 @@
           "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
           "link": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/",
           "date": "Mon, 17 Aug 2026 20:14:23 +0000"
-        },
-        {
-          "title": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
-          "link": "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/",
-          "date": "Mon, 17 Aug 2026 20:00:20 +0000"
         }
       ],
       "error": null
