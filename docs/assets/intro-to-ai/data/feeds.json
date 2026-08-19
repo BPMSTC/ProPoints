@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-08-19T19:23:25.119326+00:00",
+  "generatedAt": "2026-08-19T20:22:06.988771+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Podcast: Amazon is Destroying Rare Books to Train AI",
+          "link": "https://www.404media.co/podcast-amazon-is-destroying-rare-books-to-train-ai/",
+          "date": "Wed, 19 Aug 2026 20:06:22 GMT"
+        },
         {
           "title": "Lifeforms Can Survive on \u2018Significant\u2019 Regions of the Moon, Study Finds",
           "link": "https://www.404media.co/lifeforms-can-survive-on-significant-regions-of-the-moon-study-finds/",
@@ -24,11 +29,6 @@
           "title": "X's Algorithm Feeds Off Ragebait and Impacts Democrats More, Study Finds",
           "link": "https://www.404media.co/xs-algorithm-feeds-off-ragebait-and-impacts-democrats-more-study-finds/",
           "date": "Tue, 18 Aug 2026 13:27:22 GMT"
-        },
-        {
-          "title": "The National Park Service Is Using Flock. Rangers Are Pissed",
-          "link": "https://www.404media.co/the-national-park-service-is-using-flock-rangers-are-pissed/",
-          "date": "Tue, 18 Aug 2026 13:21:29 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -328,6 +328,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Some parents want to see primary schools go \u2018device free\u2019. There could be unintended consequences",
+          "link": "https://theconversation.com/some-parents-want-to-see-primary-schools-go-device-free-there-could-be-unintended-consequences-289884",
+          "date": "2026-08-19T20:08:13Z"
+        },
+        {
           "title": "There\u2019s a better way to cool data centres that cuts their huge thirst for water",
           "link": "https://theconversation.com/theres-a-better-way-to-cool-data-centres-that-cuts-their-huge-thirst-for-water-289547",
           "date": "2026-08-19T10:38:14Z"
@@ -346,11 +351,6 @@
           "title": "Does \u2018AI-watermarking\u2019 mean the party is over for cheating students?",
           "link": "https://theconversation.com/does-ai-watermarking-mean-the-party-is-over-for-cheating-students-289889",
           "date": "2026-08-18T20:06:21Z"
-        },
-        {
-          "title": "Students need more than AI skills \u2014 they need accountable AI literacy",
-          "link": "https://theconversation.com/students-need-more-than-ai-skills-they-need-accountable-ai-literacy-287627",
-          "date": "2026-08-18T17:49:13Z"
         }
       ],
       "error": null
@@ -456,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
+          "link": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
+          "date": "Wed, 19 Aug 2026 19:30:00 +0000"
+        },
+        {
           "title": "Coders Say They Already Found Workarounds to Claude\u2019s Invisible Watermarks",
           "link": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
           "date": "Wed, 19 Aug 2026 16:44:07 +0000"
@@ -474,11 +479,6 @@
           "title": "The Powerful Chinese AI Model Experts Warned About Is Here",
           "link": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
           "date": "Tue, 18 Aug 2026 09:00:00 +0000"
-        },
-        {
-          "title": "Amazon Can Use Your Twitch Content to Train Its AI\u2014Unless You Opt Out",
-          "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
-          "date": "Sat, 15 Aug 2026 09:00:00 +0000"
         }
       ],
       "error": null
