@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T07:34:37.077046+00:00",
+  "generatedAt": "2026-08-19T08:34:47.998580+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -360,6 +360,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "The Rise and Fall of the Artificial State by Jill Lepore review \u2013 an ominous warning of tech takeover",
+          "link": "https://www.theguardian.com/books/2026/aug/19/the-rise-and-fall-of-the-artificial-state-by-jill-lepore-review-an-ominous-warning-of-tech-takeover",
+          "date": "Wed, 19 Aug 2026 08:00:09 GMT"
+        },
+        {
           "title": "OpenAI announces slowing pace of development after hack by rogue agent",
           "link": "https://www.theguardian.com/technology/2026/aug/18/open-ai-pause-hack",
           "date": "Tue, 18 Aug 2026 20:47:17 GMT"
@@ -378,11 +383,6 @@
           "title": "Meta\u2019s legal jeopardy is growing by the day",
           "link": "https://www.theguardian.com/technology/2026/aug/17/meta-lawsuits-ai-cybersecurity",
           "date": "Tue, 18 Aug 2026 13:15:52 GMT"
-        },
-        {
-          "title": "Dickovers, baggravation and botiquette: 18 new words to describe our tech hellscape",
-          "link": "https://www.theguardian.com/technology/2026/aug/18/dickovers-baggravation-botiquette-18-new-words-tech-hellscape",
-          "date": "Tue, 18 Aug 2026 09:00:20 GMT"
         }
       ],
       "error": null
