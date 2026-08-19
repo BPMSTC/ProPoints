@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T05:28:04.881487+00:00",
+  "generatedAt": "2026-08-19T06:37:39.269323+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -320,33 +320,7 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "Young adults in the U.S. are increasingly wary of AI, concerned it will take jobs",
-          "link": "https://www.reddit.com/r/artificial/comments/1vs6yoh/young_adults_in_the_us_are_increasingly_wary_of/",
-          "date": "2026-08-19T00:27:33+00:00"
-        },
-        {
-          "title": "Sainsbury\u2019s pauses AI facial recognition after wrongful shoplifting accusation",
-          "link": "https://www.reddit.com/r/artificial/comments/1vrqj9f/sainsburys_pauses_ai_facial_recognition_after/",
-          "date": "2026-08-18T14:19:29+00:00"
-        },
-        {
-          "title": "At what point does AI automation actually save time instead of creating more work?",
-          "link": "https://www.reddit.com/r/artificial/comments/1vs2zmc/at_what_point_does_ai_automation_actually_save/",
-          "date": "2026-08-18T21:43:16+00:00"
-        },
-        {
-          "title": "Chinese AI models are getting good enough to replace tools I actually pay for-is anyone else switching?",
-          "link": "https://www.reddit.com/r/artificial/comments/1vrhy7t/chinese_ai_models_are_getting_good_enough_to/",
-          "date": "2026-08-18T07:11:08+00:00"
-        },
-        {
-          "title": "Companies should be required to disclose they are using an AI chatbot, currently they program the chatbots to avoid replying \"yes, this is an AI chatbot\"",
-          "link": "https://www.reddit.com/r/artificial/comments/1vrjkns/companies_should_be_required_to_disclose_they_are/",
-          "date": "2026-08-18T08:48:26+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
