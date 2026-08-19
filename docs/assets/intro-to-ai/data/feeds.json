@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T08:34:47.998580+00:00",
+  "generatedAt": "2026-08-19T09:29:53.564744+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -456,6 +456,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
+          "link": "https://www.wired.com/story/flock-safety-os-investigate/",
+          "date": "Wed, 19 Aug 2026 09:00:00 +0000"
+        },
+        {
           "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
           "link": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
           "date": "Tue, 18 Aug 2026 18:33:11 +0000"
@@ -474,11 +479,6 @@
           "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
           "link": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
           "date": "Fri, 14 Aug 2026 20:59:03 +0000"
-        },
-        {
-          "title": "Tech Visionary Says the Big AI Labs Don\u2019t Get What People Want",
-          "link": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
-          "date": "Fri, 14 Aug 2026 15:00:00 +0000"
         }
       ],
       "error": null
