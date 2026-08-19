@@ -1,264 +1,173 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Recommended Computer Specifications</title>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/lucide/0.263.1/umd/lucide.min.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>System Specifications — Software Developer Program</title>
     <style>
+        :root {
+            --navy: #12305b;
+            --navy-deep: #0b1f3d;
+            --blue: #1565c0;
+            --sky: #e8f1fb;
+            --green: #1b5e20;
+            --green-soft: #eaf4ea;
+            --amber: #8a5a00;
+            --amber-soft: #fdf3dd;
+            --ink: #22334a;
+            --rule: #c9d8ea;
+        }
+        * { box-sizing: border-box; }
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            line-height: 1.6;
+            font-family: Georgia, 'Times New Roman', serif;
             margin: 0;
-            padding: 20px;
-            background: linear-gradient(135deg, #f5f7fa 0%, #e4e9f2 100%);
-            color: #2c3e50;
+            padding: 0;
+            background: #f6f9fd;
+            color: var(--ink);
+            line-height: 1.65;
         }
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-        h1 {
+        header {
+            background: linear-gradient(135deg, var(--navy-deep), var(--blue));
+            color: white;
+            padding: 44px 20px 36px;
             text-align: center;
-            color: #2c3e50;
-            margin-bottom: 40px;
-            font-size: 2.5em;
         }
-        .specs-container {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 30px;
-            margin-top: 20px;
-        }
-        .specs-card {
-            background: white;
-            border-radius: 15px;
-            padding: 25px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-        }
-        .specs-header {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            margin-bottom: 20px;
-        }
-        .specs-title {
-            font-size: 1.5em;
+        header h1 {
             margin: 0;
-            color: #2c3e50;
+            font-size: 2.1em;
+            letter-spacing: 0.5px;
+            font-weight: normal;
         }
-        .acceptable {
-            border-top: 5px solid #3498db;
+        header p {
+            margin: 10px auto 0;
+            max-width: 600px;
+            opacity: 0.85;
+            font-size: 1.02em;
         }
-        .recommended {
-            border-top: 5px solid #2ecc71;
+        main {
+            padding: 28px 20px 60px;
+            max-width: 880px;
+            margin: auto;
         }
-        .spec-item {
-            display: flex;
-            align-items: flex-start;
-            margin-bottom: 15px;
-            padding: 10px;
-            background: #f8f9fa;
-            border-radius: 8px;
-            transition: transform 0.2s;
+        .section {
+            margin-bottom: 28px;
+            padding: 26px 30px;
+            border-radius: 12px;
+            background: white;
+            border: 1px solid var(--rule);
+            box-shadow: 0 2px 8px rgba(18, 48, 91, 0.06);
         }
-        .spec-item:hover {
-            transform: translateX(5px);
-            background: #f0f2f5;
-        }
-        .spec-icon {
-            margin-right: 15px;
-            color: #7f8c8d;
-        }
-        .spec-label {
-            font-weight: bold;
-            margin-right: 8px;
-            color: #34495e;
-        }
-        .spec-value {
-            color: #555;
-        }
-        .info-box {
-            background: #fffde7;
-            padding: 20px;
-            border-radius: 10px;
-            margin: 20px 0;
-            border-left: 5px solid #f1c40f;
-        }
-        .info-box h3 {
+        .section h2 {
             margin-top: 0;
-            color: #d35400;
+            font-size: 1.35em;
+            font-weight: normal;
+            letter-spacing: 0.3px;
+            padding-bottom: 8px;
+            border-bottom: 2px solid var(--rule);
         }
-        @media (max-width: 768px) {
-            .specs-container {
-                grid-template-columns: 1fr;
-            }
+        #acceptable-specs h2 { color: var(--blue); border-color: var(--blue); }
+        #recommended-specs h2 { color: var(--green); border-color: #4caf50; }
+        #recommended-specs { background: var(--green-soft); }
+        .section ul {
+            list-style: none;
+            margin: 18px 0 0;
+            padding: 0;
+        }
+        .section ul li {
+            padding: 9px 0;
+            border-bottom: 1px dotted var(--rule);
+        }
+        .section ul li:last-child { border-bottom: none; }
+        .section b {
+            color: var(--navy);
+            display: inline-block;
+            min-width: 175px;
+        }
+        .note {
+            margin-top: 18px;
+            padding: 14px 18px;
+            border-left: 4px solid var(--blue);
+            background: var(--sky);
+            border-radius: 0 8px 8px 0;
+            font-size: 0.97em;
+        }
+        .callout {
+            padding: 22px 30px;
+            border-radius: 12px;
+            border: 1px solid #e3ce9a;
+            border-left: 5px solid var(--amber);
+            background: var(--amber-soft);
+            margin-bottom: 28px;
+        }
+        .callout h2 {
+            margin-top: 0;
+            font-size: 1.15em;
+            color: var(--amber);
+            font-weight: normal;
+        }
+        .callout p { margin: 8px 0; }
+        footer {
+            text-align: center;
+            font-size: 0.9em;
+            color: #6b7c94;
+            padding: 0 20px 40px;
+        }
+        @media (max-width: 560px) {
+            .section b { min-width: 0; display: block; }
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <h1>Student Computer Specifications Guide</h1>
+    <header>
+        <h1>System Specifications</h1>
+        <p>Laptop requirements for the Software Developer Program. When in doubt, prioritize RAM and storage — they matter more day-to-day than raw CPU speed.</p>
+    </header>
+    <main>
+        <section class="section" id="acceptable-specs">
+            <h2>Acceptable Specifications (Minimum)</h2>
+            <p>These are the minimum specifications for running our software and tools efficiently:</p>
+            <ul>
+                <li><b>Processor (CPU):</b> Intel Core i5 (12th gen or newer) or AMD Ryzen 5 (5000-series or newer) — in general, a CPU released within the last 3–4 years</li>
+                <li><b>Memory (RAM):</b> 16 GB</li>
+                <li><b>Storage:</b> 512 GB SSD — development tools, container images, and project files fill drives quickly</li>
+                <li><b>Graphics:</b> Integrated graphics are fine; no dedicated GPU needed</li>
+                <li><b>Operating System:</b> Windows 11 (Home or Pro) or macOS 14 or newer</li>
+                <li><b>Display:</b> 14-inch or larger, Full HD (1920×1080)</li>
+                <li><b>Ports:</b> USB-C and USB-A (an inexpensive hub or dongle covers HDMI/Ethernet needs)</li>
+                <li><b>Camera & Audio:</b> Working webcam and microphone for collaboration, standups, and remote sessions</li>
+                <li><b>Networking:</b> Wi-Fi 6, Bluetooth 5.0</li>
+                <li><b>Battery Life:</b> Enough to get through a class session unplugged; outlets aren't always available</li>
+            </ul>
+        </section>
 
-        <div class="info-box">
-            <h3><i data-lucide="info"></i> Important Note</h3>
-            <p>These specifications are designed to ensure a smooth academic experience. While the acceptable specs will meet basic needs, recommended specs provide additional performance headroom for more demanding tasks and future software requirements.</p>
-        </div>
-
-        <div class="specs-container">
-            <div class="specs-card acceptable">
-                <div class="specs-header">
-                    <i data-lucide="check-circle"></i>
-                    <h2 class="specs-title">Acceptable Specifications</h2>
-                </div>
-                
-                <div class="spec-item">
-                    <i data-lucide="cpu" class="spec-icon"></i>
-                    <div>
-                        <span class="spec-label">Processor (CPU):</span>
-                        <span class="spec-value">Intel Core i5 or AMD Ryzen 5 (4 cores, 8 threads)</span>
-                    </div>
-                </div>
-
-                <div class="spec-item">
-                    <i data-lucide="database" class="spec-icon"></i>
-                    <div>
-                        <span class="spec-label">Memory (RAM):</span>
-                        <span class="spec-value">16 GB DDR4</span>
-                    </div>
-                </div>
-
-                <div class="spec-item">
-                    <i data-lucide="hard-drive" class="spec-icon"></i>
-                    <div>
-                        <span class="spec-label">Storage:</span>
-                        <span class="spec-value">256 GB SSD (Solid State Drive)</span>
-                    </div>
-                </div>
-
-                <div class="spec-item">
-                    <i data-lucide="gpu" class="spec-icon"></i>
-                    <div>
-                        <span class="spec-label">Graphics:</span>
-                        <span class="spec-value">Integrated GPU (Intel UHD Graphics or AMD Radeon Vega)</span>
-                    </div>
-                </div>
-
-                <div class="spec-item">
-                    <i data-lucide="monitor" class="spec-icon"></i>
-                    <div>
-                        <span class="spec-label">Display:</span>
-                        <span class="spec-value">14-inch to 15.6-inch Full HD (1920x1080)</span>
-                    </div>
-                </div>
-
-                <div class="spec-item">
-                    <i data-lucide="usb" class="spec-icon"></i>
-                    <div>
-                        <span class="spec-label">Ports:</span>
-                        <span class="spec-value">USB 3.0, USB-C, HDMI, Ethernet port (if available)</span>
-                    </div>
-                </div>
-
-                <div class="spec-item">
-                    <i data-lucide="battery" class="spec-icon"></i>
-                    <div>
-                        <span class="spec-label">Battery Life:</span>
-                        <span class="spec-value">At least 6 hours</span>
-                    </div>
-                </div>
-
-                <div class="spec-item">
-                    <i data-lucide="wifi" class="spec-icon"></i>
-                    <div>
-                        <span class="spec-label">Networking:</span>
-                        <span class="spec-value">Wi-Fi 6, Bluetooth 5.0</span>
-                    </div>
-                </div>
+        <section class="section" id="recommended-specs">
+            <h2>Recommended Specifications</h2>
+            <p>For the smoothest experience across the full program — including capstone work, virtual machines, and AI coursework — aim for:</p>
+            <ul>
+                <li><b>Processor (CPU):</b> Intel Core i7 / AMD Ryzen 7 (current or previous generation), or Apple M-series (M2 or newer)</li>
+                <li><b>Memory (RAM):</b> 32 GB — strongly recommended if you plan to run local AI models, containers, or multiple virtual machines</li>
+                <li><b>Storage:</b> 1 TB NVMe SSD</li>
+                <li><b>Graphics:</b> Integrated graphics remain sufficient; skip the dedicated GPU and put the money toward RAM and storage instead</li>
+                <li><b>Operating System:</b> Windows 11 or current macOS</li>
+                <li><b>Display:</b> 15-inch or larger, Full HD or QHD (2560×1440)</li>
+                <li><b>Ports:</b> Multiple USB-C and USB-A, HDMI</li>
+                <li><b>Networking:</b> Wi-Fi 6E, Bluetooth 5.2 or newer</li>
+                <li><b>Other:</b> Backlit keyboard, solid build quality, and a cooling system that stays quiet under load</li>
+            </ul>
+            <div class="note">
+                <b>Why no gaming GPU?</b> Our coursework — web development, application development, and AI — doesn't benefit from a low-end dedicated graphics card. AI work in the program uses cloud services and APIs, where extra RAM helps far more than a laptop GPU.
             </div>
+        </section>
 
-            <div class="specs-card recommended">
-                <div class="specs-header">
-                    <i data-lucide="star"></i>
-                    <h2 class="specs-title">Recommended Specifications</h2>
-                </div>
-
-                <div class="spec-item">
-                    <i data-lucide="cpu" class="spec-icon"></i>
-                    <div>
-                        <span class="spec-label">Processor (CPU):</span>
-                        <span class="spec-value">Intel Core i7 or AMD Ryzen 7 (6-8 cores, 12-16 threads)</span>
-                    </div>
-                </div>
-
-                <div class="spec-item">
-                    <i data-lucide="database" class="spec-icon"></i>
-                    <div>
-                        <span class="spec-label">Memory (RAM):</span>
-                        <span class="spec-value">32 GB DDR4 or DDR5</span>
-                    </div>
-                </div>
-
-                <div class="spec-item">
-                    <i data-lucide="hard-drive" class="spec-icon"></i>
-                    <div>
-                        <span class="spec-label">Storage:</span>
-                        <span class="spec-value">512 GB or 1 TB NVMe SSD</span>
-                    </div>
-                </div>
-
-                <div class="spec-item">
-                    <i data-lucide="gpu" class="spec-icon"></i>
-                    <div>
-                        <span class="spec-label">Graphics:</span>
-                        <span class="spec-value">Dedicated GPU (NVIDIA GeForce GTX 1650 or AMD Radeon RX 5500M)</span>
-                    </div>
-                </div>
-
-                <div class="spec-item">
-                    <i data-lucide="monitor" class="spec-icon"></i>
-                    <div>
-                        <span class="spec-label">Display:</span>
-                        <span class="spec-value">15.6-inch to 17.3-inch Full HD or QHD (2560x1440) with high color accuracy</span>
-                    </div>
-                </div>
-
-                <div class="spec-item">
-                    <i data-lucide="usb" class="spec-icon"></i>
-                    <div>
-                        <span class="spec-label">Ports:</span>
-                        <span class="spec-value">Multiple USB 3.0, USB-C, HDMI, Ethernet, SD card reader</span>
-                    </div>
-                </div>
-
-                <div class="spec-item">
-                    <i data-lucide="battery" class="spec-icon"></i>
-                    <div>
-                        <span class="spec-label">Battery Life:</span>
-                        <span class="spec-value">At least 8 hours</span>
-                    </div>
-                </div>
-
-                <div class="spec-item">
-                    <i data-lucide="wifi" class="spec-icon"></i>
-                    <div>
-                        <span class="spec-label">Networking:</span>
-                        <span class="spec-value">Wi-Fi 6E, Bluetooth 5.2</span>
-                    </div>
-                </div>
-
-                <div class="spec-item">
-                    <i data-lucide="plus" class="spec-icon"></i>
-                    <div>
-                        <span class="spec-label">Other:</span>
-                        <span class="spec-value">Backlit keyboard, good cooling system, and reliable build quality</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <script>
-        lucide.createIcons();
-    </script>
+        <section class="callout">
+            <h2>Mac and ARM Laptops — Read Before Buying</h2>
+            <p><b>Apple Silicon Macs (M1–M4):</b> Fully supported for this program. All core tools (VS Code, Git, Node.js, Docker, browsers) run natively and well. If a specific course requires Windows-only software, we'll provide alternatives or lab access.</p>
+            <p><b>Windows on ARM (Snapdragon laptops):</b> Approach with caution. Most everyday tools now work, but some installers, drivers, and virtualization software still have compatibility gaps. If you already own one, talk to your instructor before the semester starts; if you're buying new, choose an Intel or AMD (x86) machine instead.</p>
+            <p><b>Chromebooks and tablets:</b> Not sufficient for this program, even with keyboard attachments.</p>
+        </section>
+    </main>
+    <footer>
+        Questions about a specific machine? Send the model number to your instructor before you buy — we're happy to sanity-check it.
+    </footer>
 </body>
 </html>
