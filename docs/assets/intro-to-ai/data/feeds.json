@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T23:18:11.007768+00:00",
+  "generatedAt": "2026-08-19T01:04:35.648611+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -206,14 +206,14 @@
           "date": "2026-08-18T21:41:42+00:00"
         },
         {
-          "title": "Do we want AI that acts smart or AI that feels real?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vrnzqo/do_we_want_ai_that_acts_smart_or_ai_that_feels/",
-          "date": "2026-08-18T12:38:31+00:00"
-        },
-        {
           "title": "Looking for new beginning Teammates!!!",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vrw5i4/looking_for_new_beginning_teammates/",
           "date": "2026-08-18T17:36:18+00:00"
+        },
+        {
+          "title": "Do we want AI that acts smart or AI that feels real?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vrnzqo/do_we_want_ai_that_acts_smart_or_ai_that_feels/",
+          "date": "2026-08-18T12:38:31+00:00"
         },
         {
           "title": "I treat LLM as a primitive language. Best thing I do.",
@@ -227,6 +227,11 @@
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
+        {
+          "title": "Google partners with the aviation industry to prevent climate-warming contrails with AI",
+          "link": "https://siliconangle.com/2026/08/18/google-partners-with-the-aviation-industry-to-try-and-prevent-climate-warming-contrails-with-ai/",
+          "date": "Tue, 18 Aug 2026 23:35:44 +0000"
+        },
         {
           "title": "Neoclouds reshape traditional architectures to meet AI demands",
           "link": "https://siliconangle.com/2026/08/18/neoclouds-ai-infrastructure-supermicroopenstoragesummit/",
@@ -246,11 +251,6 @@
           "title": "NLPatent rebrands as Clerq, launches agentic patent research workflows",
           "link": "https://siliconangle.com/2026/08/18/nlpatent-rebrands-as-clerq-launches-agentic-patent-research-workflows/",
           "date": "Tue, 18 Aug 2026 13:00:11 +0000"
-        },
-        {
-          "title": "Exclusive: Synthefy raises $6.5M for its number-crunching models trained on numerical data instead of words",
-          "link": "https://siliconangle.com/2026/08/18/synthefy-raises-6-5m-number-crunching-models-trained-numerical-data-instead-words/",
-          "date": "Tue, 18 Aug 2026 12:00:34 +0000"
         }
       ],
       "error": null
