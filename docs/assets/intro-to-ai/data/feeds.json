@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T10:23:53.696168+00:00",
+  "generatedAt": "2026-08-19T11:20:53.046560+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -201,6 +201,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "Someone one-shotted fully functional Windows 98 with Claude BIOS, Internet Explorer, My Computer\u2026 the whole shebang with Fable",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vsjenj/someone_oneshotted_fully_functional_windows_98/",
+          "date": "2026-08-19T11:12:34+00:00"
+        },
+        {
           "title": "Found a way to let ChatGPT Web review your local repo without pasting your code into chat",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vs2y6o/found_a_way_to_let_chatgpt_web_review_your_local/",
           "date": "2026-08-18T21:41:42+00:00"
@@ -214,11 +219,6 @@
           "title": "Do we want AI that acts smart or AI that feels real?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vrnzqo/do_we_want_ai_that_acts_smart_or_ai_that_feels/",
           "date": "2026-08-18T12:38:31+00:00"
-        },
-        {
-          "title": "I treat LLM as a primitive language. Best thing I do.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vrvk7n/i_treat_llm_as_a_primitive_language_best_thing_i/",
-          "date": "2026-08-18T17:15:40+00:00"
         }
       ],
       "error": null
@@ -328,6 +328,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "There\u2019s a better way to cool data centres that cuts their huge thirst for water",
+          "link": "https://theconversation.com/theres-a-better-way-to-cool-data-centres-that-cuts-their-huge-thirst-for-water-289547",
+          "date": "2026-08-19T10:38:14Z"
+        },
+        {
           "title": "Offloading work tasks to AI comes with a cost \u2013 to our brains",
           "link": "https://theconversation.com/offloading-work-tasks-to-ai-comes-with-a-cost-to-our-brains-289384",
           "date": "2026-08-19T00:38:11Z"
@@ -346,11 +351,6 @@
           "title": "Students need more than AI skills \u2014 they need accountable AI literacy",
           "link": "https://theconversation.com/students-need-more-than-ai-skills-they-need-accountable-ai-literacy-287627",
           "date": "2026-08-18T17:49:13Z"
-        },
-        {
-          "title": "Canada\u2019s AI strategy needs educators who feel prepared, not just trained",
-          "link": "https://theconversation.com/canadas-ai-strategy-needs-educators-who-feel-prepared-not-just-trained-285133",
-          "date": "2026-08-18T16:06:24Z"
         }
       ],
       "error": null
@@ -359,6 +359,11 @@
       "name": "Artificial intelligence (AI) | The Guardian",
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
+        {
+          "title": "Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits",
+          "link": "https://www.theguardian.com/technology/2026/aug/19/ai-hiring-tools-discrimination",
+          "date": "Wed, 19 Aug 2026 11:00:13 GMT"
+        },
         {
           "title": "Why are progressives winning across the United States? It\u2019s not complicated | Bernie Sanders",
           "link": "https://www.theguardian.com/commentisfree/2026/aug/19/poll-progressive-candidates-election-economy",
@@ -378,11 +383,6 @@
           "title": "Autonomous drones and the future of war in an AI-driven world | Letter",
           "link": "https://www.theguardian.com/technology/2026/aug/18/autonomous-drones-and-the-future-of-war-in-an-ai-driven-world",
           "date": "Tue, 18 Aug 2026 17:05:27 GMT"
-        },
-        {
-          "title": "OpenAI launches ChatGPT for Teens with stronger safeguards",
-          "link": "https://www.theguardian.com/technology/2026/aug/18/openai-chatgpt-for-teens",
-          "date": "Tue, 18 Aug 2026 15:28:57 GMT"
         }
       ],
       "error": null
@@ -493,6 +493,11 @@
           "date": "Mon, 17 Aug 2026 04:06:45 EDT"
         },
         {
+          "title": "Tiny robots powered by light can hunt down and collect bacteria",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260816044850.htm",
+          "date": "Tue, 18 Aug 2026 18:21:50 EDT"
+        },
+        {
           "title": "Scientists tracked kids for 8 years \u2014 the screen time result was unexpected",
           "link": "https://www.sciencedaily.com/releases/2026/08/260815064803.htm",
           "date": "Mon, 17 Aug 2026 02:41:08 EDT"
@@ -506,11 +511,6 @@
           "title": "MIT\u2019s new lidar chip could give self-driving cars a wider view",
           "link": "https://www.sciencedaily.com/releases/2026/07/260722032127.htm",
           "date": "Wed, 22 Jul 2026 06:00:54 EDT"
-        },
-        {
-          "title": "New programmable photonic chip can control how fast light moves",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260718010149.htm",
-          "date": "Tue, 21 Jul 2026 22:43:34 EDT"
         }
       ],
       "error": null
