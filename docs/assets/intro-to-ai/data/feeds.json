@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T14:28:55.398385+00:00",
+  "generatedAt": "2026-08-19T15:27:15.083248+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Pony.AI Has Plans For 4,000 Robotaxis Outside China",
+          "link": "https://aibusiness.com/generative-ai/pony-ai-plans-4-000-robotaxis-outside-china",
+          "date": "Wed, 19 Aug 2026 14:39:01 GMT"
+        },
+        {
           "title": "Unitree Shares Surge in Stock Market Debut",
           "link": "https://aibusiness.com/robotics/unitree-shares-surge-stock-market-debut",
           "date": "Wed, 19 Aug 2026 13:33:21 GMT"
@@ -132,11 +137,6 @@
           "title": "Speech-to-Text AI Specialist Now Valued at $2B",
           "link": "https://aibusiness.com/generative-ai/speech-to-text-ai-specialist-valued-at-2b",
           "date": "Mon, 17 Aug 2026 20:35:02 GMT"
-        },
-        {
-          "title": "Alibaba Qwen 3.8 27B Model Targets Edge AI",
-          "link": "https://aibusiness.com/generative-ai/alibaba-qwen-3-8-27b-model-targets-edge-ai",
-          "date": "Mon, 17 Aug 2026 18:11:27 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -194,7 +194,33 @@
     {
       "name": "Ai Prompt Programming",
       "url": "https://www.reddit.com/r/aipromptprogramming/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "Welcome to r/aipromptprogramming \u2014 join our Discord",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vlcrpj/welcome_to_raipromptprogramming_join_our_discord/",
+          "date": "2026-08-11T09:36:31+00:00"
+        },
+        {
+          "title": "https://my-code-forge-ai.com/",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vsluzt/httpsmycodeforgeaicom/",
+          "date": "2026-08-19T13:04:15+00:00"
+        },
+        {
+          "title": "Found a way to let ChatGPT Web review your local repo without pasting your code into chat",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vs2y6o/found_a_way_to_let_chatgpt_web_review_your_local/",
+          "date": "2026-08-18T21:41:42+00:00"
+        },
+        {
+          "title": "Someone one-shotted fully functional Windows 98 with Claude BIOS, Internet Explorer, My Computer\u2026 the whole shebang with Fable",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vsjenj/someone_oneshotted_fully_functional_windows_98/",
+          "date": "2026-08-19T11:12:34+00:00"
+        },
+        {
+          "title": "Looking for new beginning Teammates!!!",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vrw5i4/looking_for_new_beginning_teammates/",
+          "date": "2026-08-18T17:36:18+00:00"
+        }
+      ],
       "error": null
     },
     {
