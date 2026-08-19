@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T12:38:35.243267+00:00",
+  "generatedAt": "2026-08-19T13:40:26.339480+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -112,34 +112,8 @@
     {
       "name": "AI Business",
       "url": "https://aibusiness.com/rss.xml",
-      "items": [
-        {
-          "title": "How Enterprises Can Catch Up With the Rapid Pace of AI Advances",
-          "link": "https://aibusiness.com/generative-ai/how-enterprises-catch-up-with-rapid-pace-of-ai-advances",
-          "date": "Tue, 18 Aug 2026 18:21:32 GMT"
-        },
-        {
-          "title": "Nvidia to Back OpenAI Data Center With $105B Financing",
-          "link": "https://aibusiness.com/data-centers/nvidia-back-openai-data-center-105b-investment",
-          "date": "Tue, 18 Aug 2026 15:00:09 GMT"
-        },
-        {
-          "title": "Speech-to-Text AI Specialist Now Valued at $2B",
-          "link": "https://aibusiness.com/generative-ai/speech-to-text-ai-specialist-valued-at-2b",
-          "date": "Mon, 17 Aug 2026 20:35:02 GMT"
-        },
-        {
-          "title": "Alibaba Qwen 3.8 27B Model Targets Edge AI",
-          "link": "https://aibusiness.com/generative-ai/alibaba-qwen-3-8-27b-model-targets-edge-ai",
-          "date": "Mon, 17 Aug 2026 18:11:27 GMT"
-        },
-        {
-          "title": "LG to Release Nvidia-Powered Humanoid in 2027",
-          "link": "https://aibusiness.com/robotics/lg-release-nvidia-powered-humanoid-in-2027",
-          "date": "Mon, 17 Aug 2026 13:50:10 GMT"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:0: syntax error"
     },
     {
       "name": "AIModels.fyi",
@@ -201,9 +175,9 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
-          "title": "Someone one-shotted fully functional Windows 98 with Claude BIOS, Internet Explorer, My Computer\u2026 the whole shebang with Fable",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vsjenj/someone_oneshotted_fully_functional_windows_98/",
-          "date": "2026-08-19T11:12:34+00:00"
+          "title": "https://my-code-forge-ai.com/",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vsluzt/httpsmycodeforgeaicom/",
+          "date": "2026-08-19T13:04:15+00:00"
         },
         {
           "title": "Found a way to let ChatGPT Web review your local repo without pasting your code into chat",
@@ -211,14 +185,14 @@
           "date": "2026-08-18T21:41:42+00:00"
         },
         {
+          "title": "Someone one-shotted fully functional Windows 98 with Claude BIOS, Internet Explorer, My Computer\u2026 the whole shebang with Fable",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vsjenj/someone_oneshotted_fully_functional_windows_98/",
+          "date": "2026-08-19T11:12:34+00:00"
+        },
+        {
           "title": "Looking for new beginning Teammates!!!",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vrw5i4/looking_for_new_beginning_teammates/",
           "date": "2026-08-18T17:36:18+00:00"
-        },
-        {
-          "title": "Do we want AI that acts smart or AI that feels real?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vrnzqo/do_we_want_ai_that_acts_smart_or_ai_that_feels/",
-          "date": "2026-08-18T12:38:31+00:00"
         }
       ],
       "error": null
@@ -227,6 +201,16 @@
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
+        {
+          "title": "Adronite launches Codistry AI coding platform, claims half the token cost",
+          "link": "https://siliconangle.com/2026/08/19/adronite-launches-codistry-ai-coding-platform-claims-half-the-token-cost/",
+          "date": "Wed, 19 Aug 2026 13:00:35 +0000"
+        },
+        {
+          "title": "Rundoo raises $30M to expand its AI-native operating system for small supply stores",
+          "link": "https://siliconangle.com/2026/08/19/rundoo-raises-30m-to-expand-its-ai-native-operating-system-for-small-supply-stores/",
+          "date": "Wed, 19 Aug 2026 13:00:03 +0000"
+        },
         {
           "title": "Salesforce expands Headless Data 360 for MCP so developers can bring insights to agents",
           "link": "https://siliconangle.com/2026/08/19/salesforce-expands-headless-data-360-mcp-developers-can-bring-insights-agents/",
@@ -241,16 +225,6 @@
           "title": "OpenAI falls further behind Anthropic, with disappointing revenue growth and mounting losses",
           "link": "https://siliconangle.com/2026/08/18/openai-falls-further-behind-anthropic-with-disappointing-revenue-growth-and-mounting-losses/",
           "date": "Wed, 19 Aug 2026 01:25:23 +0000"
-        },
-        {
-          "title": "Cybersecurity concerns prompt OpenAI to pause some AI training runs",
-          "link": "https://siliconangle.com/2026/08/18/openai-paused-some-ai-training-runs-over-cybersecurity-concerns/",
-          "date": "Wed, 19 Aug 2026 01:18:39 +0000"
-        },
-        {
-          "title": "Google partners with the aviation industry to prevent climate-warming contrails with AI",
-          "link": "https://siliconangle.com/2026/08/18/google-partners-with-the-aviation-industry-to-try-and-prevent-climate-warming-contrails-with-ai/",
-          "date": "Tue, 18 Aug 2026 23:35:44 +0000"
         }
       ],
       "error": null
@@ -424,6 +398,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Teachers Warn That Students Are Losing the Ability to Think as They Lean on AI for Everything",
+          "link": "https://futurism.com/future-society/students-lose-ability-think-ai",
+          "date": "Wed, 19 Aug 2026 08:49:05 -0400"
+        },
+        {
           "title": "Meta Declines to Remove Horrific Posts Calling for Violence Against Muslims, Calling Them \u201cCockroaches\u201d and Saying It\u2019s \u201cTime for Hunting\u201d",
           "link": "https://futurism.com/artificial-intelligence/meta-facebook-declines-moderation-ai-slop-islamophobia-muslims",
           "date": "Tue, 18 Aug 2026 10:27:13 -0400"
@@ -442,11 +421,6 @@
           "title": "Kentucky Middle School Sends Students Home on First Day of Class With AI-Generated Educational Materials Full of Inexcusable Hallucinations, Including a Map Labeled With \u201cNorth Dahota\u201d and \u201cOlkchoma\u201d",
           "link": "https://futurism.com/artificial-intelligence/kentucky-middle-school-ai",
           "date": "Mon, 17 Aug 2026 14:04:18 -0400"
-        },
-        {
-          "title": "New ChatGPT Feature Collects Every Keystroke You Make",
-          "link": "https://futurism.com/artificial-intelligence/new-chatgpt-feature-collects-every-keystroke-you-make",
-          "date": "Mon, 17 Aug 2026 11:37:49 -0400"
         }
       ],
       "error": null
