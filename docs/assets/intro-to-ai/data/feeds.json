@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T11:20:53.046560+00:00",
+  "generatedAt": "2026-08-19T12:38:35.243267+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -228,6 +228,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Salesforce expands Headless Data 360 for MCP so developers can bring insights to agents",
+          "link": "https://siliconangle.com/2026/08/19/salesforce-expands-headless-data-360-mcp-developers-can-bring-insights-agents/",
+          "date": "Wed, 19 Aug 2026 12:00:38 +0000"
+        },
+        {
           "title": "OpenAI\u2019s junior version of ChatGPT with guardrails has launched",
           "link": "https://siliconangle.com/2026/08/18/openais-junior-version-of-chatgpt-with-guardrails-has-launched/",
           "date": "Wed, 19 Aug 2026 01:43:18 +0000"
@@ -246,11 +251,6 @@
           "title": "Google partners with the aviation industry to prevent climate-warming contrails with AI",
           "link": "https://siliconangle.com/2026/08/18/google-partners-with-the-aviation-industry-to-try-and-prevent-climate-warming-contrails-with-ai/",
           "date": "Tue, 18 Aug 2026 23:35:44 +0000"
-        },
-        {
-          "title": "Neoclouds reshape traditional architectures to meet AI demands",
-          "link": "https://siliconangle.com/2026/08/18/neoclouds-ai-infrastructure-supermicroopenstoragesummit/",
-          "date": "Tue, 18 Aug 2026 18:56:21 +0000"
         }
       ],
       "error": null
