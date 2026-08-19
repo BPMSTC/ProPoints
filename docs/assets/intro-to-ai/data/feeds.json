@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T21:21:07.922315+00:00",
+  "generatedAt": "2026-08-19T22:20:21.846345+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "OpenAI Scales Back AI Development, but it Could be Too Late",
+          "link": "https://aibusiness.com/generative-ai/openai-scales-down-ai-development-could-be-too-late",
+          "date": "Wed, 19 Aug 2026 21:39:33 GMT"
+        },
+        {
           "title": "Pony.AI Has Plans For 4,000 Robotaxis Outside China",
           "link": "https://aibusiness.com/generative-ai/pony-ai-plans-4-000-robotaxis-outside-china",
           "date": "Wed, 19 Aug 2026 14:39:01 GMT"
@@ -132,11 +137,6 @@
           "title": "Nvidia to Back OpenAI Data Center With $105B Financing",
           "link": "https://aibusiness.com/data-centers/nvidia-back-openai-data-center-105b-investment",
           "date": "Tue, 18 Aug 2026 15:00:09 GMT"
-        },
-        {
-          "title": "Speech-to-Text AI Specialist Now Valued at $2B",
-          "link": "https://aibusiness.com/generative-ai/speech-to-text-ai-specialist-valued-at-2b",
-          "date": "Mon, 17 Aug 2026 20:35:02 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
