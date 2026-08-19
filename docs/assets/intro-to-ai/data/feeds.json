@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T13:40:26.339480+00:00",
+  "generatedAt": "2026-08-19T14:28:55.398385+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -112,8 +112,34 @@
     {
       "name": "AI Business",
       "url": "https://aibusiness.com/rss.xml",
-      "items": [],
-      "error": "<unknown>:2:0: syntax error"
+      "items": [
+        {
+          "title": "Unitree Shares Surge in Stock Market Debut",
+          "link": "https://aibusiness.com/robotics/unitree-shares-surge-stock-market-debut",
+          "date": "Wed, 19 Aug 2026 13:33:21 GMT"
+        },
+        {
+          "title": "How Enterprises Can Catch Up With the Rapid Pace of AI Advances",
+          "link": "https://aibusiness.com/generative-ai/how-enterprises-catch-up-with-rapid-pace-of-ai-advances",
+          "date": "Tue, 18 Aug 2026 18:21:32 GMT"
+        },
+        {
+          "title": "Nvidia to Back OpenAI Data Center With $105B Financing",
+          "link": "https://aibusiness.com/data-centers/nvidia-back-openai-data-center-105b-investment",
+          "date": "Tue, 18 Aug 2026 15:00:09 GMT"
+        },
+        {
+          "title": "Speech-to-Text AI Specialist Now Valued at $2B",
+          "link": "https://aibusiness.com/generative-ai/speech-to-text-ai-specialist-valued-at-2b",
+          "date": "Mon, 17 Aug 2026 20:35:02 GMT"
+        },
+        {
+          "title": "Alibaba Qwen 3.8 27B Model Targets Edge AI",
+          "link": "https://aibusiness.com/generative-ai/alibaba-qwen-3-8-27b-model-targets-edge-ai",
+          "date": "Mon, 17 Aug 2026 18:11:27 GMT"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AIModels.fyi",
@@ -125,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -168,33 +194,7 @@
     {
       "name": "Ai Prompt Programming",
       "url": "https://www.reddit.com/r/aipromptprogramming/.rss",
-      "items": [
-        {
-          "title": "Welcome to r/aipromptprogramming \u2014 join our Discord",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vlcrpj/welcome_to_raipromptprogramming_join_our_discord/",
-          "date": "2026-08-11T09:36:31+00:00"
-        },
-        {
-          "title": "https://my-code-forge-ai.com/",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vsluzt/httpsmycodeforgeaicom/",
-          "date": "2026-08-19T13:04:15+00:00"
-        },
-        {
-          "title": "Found a way to let ChatGPT Web review your local repo without pasting your code into chat",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vs2y6o/found_a_way_to_let_chatgpt_web_review_your_local/",
-          "date": "2026-08-18T21:41:42+00:00"
-        },
-        {
-          "title": "Someone one-shotted fully functional Windows 98 with Claude BIOS, Internet Explorer, My Computer\u2026 the whole shebang with Fable",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vsjenj/someone_oneshotted_fully_functional_windows_98/",
-          "date": "2026-08-19T11:12:34+00:00"
-        },
-        {
-          "title": "Looking for new beginning Teammates!!!",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vrw5i4/looking_for_new_beginning_teammates/",
-          "date": "2026-08-18T17:36:18+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
@@ -334,6 +334,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Did someone wearing Meta Glasses film you today? Are you sure?",
+          "link": "https://www.theguardian.com/technology/ng-interactive/2026/aug/19/meta-glasses-privacy-surveillance",
+          "date": "Wed, 19 Aug 2026 14:13:08 GMT"
+        },
+        {
           "title": "Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits",
           "link": "https://www.theguardian.com/technology/2026/aug/19/ai-hiring-tools-discrimination",
           "date": "Wed, 19 Aug 2026 11:00:13 GMT"
@@ -352,11 +357,6 @@
           "title": "OpenAI announces slowing pace of development after hack by rogue agent",
           "link": "https://www.theguardian.com/technology/2026/aug/18/open-ai-pause-hack",
           "date": "Tue, 18 Aug 2026 20:47:17 GMT"
-        },
-        {
-          "title": "Autonomous drones and the future of war in an AI-driven world | Letter",
-          "link": "https://www.theguardian.com/technology/2026/aug/18/autonomous-drones-and-the-future-of-war-in-an-ai-driven-world",
-          "date": "Tue, 18 Aug 2026 17:05:27 GMT"
         }
       ],
       "error": null
@@ -398,6 +398,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Teen Boys Are Using Meta Glasses to Harass and Bully Girls at High Schools and Middle Schools",
+          "link": "https://futurism.com/artificial-intelligence/teen-boys-meta-glasses-harass-bully-girls-school",
+          "date": "Wed, 19 Aug 2026 10:04:07 -0400"
+        },
+        {
           "title": "Teachers Warn That Students Are Losing the Ability to Think as They Lean on AI for Everything",
           "link": "https://futurism.com/future-society/students-lose-ability-think-ai",
           "date": "Wed, 19 Aug 2026 08:49:05 -0400"
@@ -416,11 +421,6 @@
           "title": "Amazon Caught Destroying Rare Books to Train AI",
           "link": "https://futurism.com/artificial-intelligence/amazon-destroying-rare-books-ai",
           "date": "Mon, 17 Aug 2026 15:02:23 -0400"
-        },
-        {
-          "title": "Kentucky Middle School Sends Students Home on First Day of Class With AI-Generated Educational Materials Full of Inexcusable Hallucinations, Including a Map Labeled With \u201cNorth Dahota\u201d and \u201cOlkchoma\u201d",
-          "link": "https://futurism.com/artificial-intelligence/kentucky-middle-school-ai",
-          "date": "Mon, 17 Aug 2026 14:04:18 -0400"
         }
       ],
       "error": null
