@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T01:04:35.648611+00:00",
+  "generatedAt": "2026-08-19T02:53:29.231376+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -228,6 +228,21 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "OpenAI\u2019s junior version of ChatGPT with guardrails has launched",
+          "link": "https://siliconangle.com/2026/08/18/openais-junior-version-of-chatgpt-with-guardrails-has-launched/",
+          "date": "Wed, 19 Aug 2026 01:43:18 +0000"
+        },
+        {
+          "title": "OpenAI falls further behind Anthropic, with disappointing revenue growth and mounting losses",
+          "link": "https://siliconangle.com/2026/08/18/openai-falls-further-behind-anthropic-with-disappointing-revenue-growth-and-mounting-losses/",
+          "date": "Wed, 19 Aug 2026 01:25:23 +0000"
+        },
+        {
+          "title": "Cybersecurity concerns prompt OpenAI to pause some AI training runs",
+          "link": "https://siliconangle.com/2026/08/18/openai-paused-some-ai-training-runs-over-cybersecurity-concerns/",
+          "date": "Wed, 19 Aug 2026 01:18:39 +0000"
+        },
+        {
           "title": "Google partners with the aviation industry to prevent climate-warming contrails with AI",
           "link": "https://siliconangle.com/2026/08/18/google-partners-with-the-aviation-industry-to-try-and-prevent-climate-warming-contrails-with-ai/",
           "date": "Tue, 18 Aug 2026 23:35:44 +0000"
@@ -236,21 +251,6 @@
           "title": "Neoclouds reshape traditional architectures to meet AI demands",
           "link": "https://siliconangle.com/2026/08/18/neoclouds-ai-infrastructure-supermicroopenstoragesummit/",
           "date": "Tue, 18 Aug 2026 18:56:21 +0000"
-        },
-        {
-          "title": "Hypercubic raises $5.3M to map out and rewrite legacy COBOL apps with AI agents",
-          "link": "https://siliconangle.com/2026/08/18/hypercubic-raises-5-3m-map-rewrite-legacy-cobol-apps-ai-agents/",
-          "date": "Tue, 18 Aug 2026 16:00:25 +0000"
-        },
-        {
-          "title": "Firefox updates Smart Window, a new in-browser AI assistant that can keep up with you",
-          "link": "https://siliconangle.com/2026/08/18/firefox-updates-smart-window-a-new-in-browser-ai-assistant-that-can-keep-up-with-you/",
-          "date": "Tue, 18 Aug 2026 15:30:41 +0000"
-        },
-        {
-          "title": "NLPatent rebrands as Clerq, launches agentic patent research workflows",
-          "link": "https://siliconangle.com/2026/08/18/nlpatent-rebrands-as-clerq-launches-agentic-patent-research-workflows/",
-          "date": "Tue, 18 Aug 2026 13:00:11 +0000"
         }
       ],
       "error": null
@@ -328,6 +328,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Offloading work tasks to AI comes with a cost \u2013 to our brains",
+          "link": "https://theconversation.com/offloading-work-tasks-to-ai-comes-with-a-cost-to-our-brains-289384",
+          "date": "2026-08-19T00:38:11Z"
+        },
+        {
           "title": "An \u2018AI legal team\u2019 has won its first case. It\u2019s a rare win for access to justice",
           "link": "https://theconversation.com/an-ai-legal-team-has-won-its-first-case-its-a-rare-win-for-access-to-justice-289891",
           "date": "2026-08-18T20:06:45Z"
@@ -346,11 +351,6 @@
           "title": "Canada\u2019s AI strategy needs educators who feel prepared, not just trained",
           "link": "https://theconversation.com/canadas-ai-strategy-needs-educators-who-feel-prepared-not-just-trained-285133",
           "date": "2026-08-18T16:06:24Z"
-        },
-        {
-          "title": "Governments shouldn\u2019t rely on AI to decide who gets a social grant: inside a South African court case",
-          "link": "https://theconversation.com/governments-shouldnt-rely-on-ai-to-decide-who-gets-a-social-grant-inside-a-south-african-court-case-288998",
-          "date": "2026-08-18T08:58:42Z"
         }
       ],
       "error": null
