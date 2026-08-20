@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T01:04:02.985140+00:00",
+  "generatedAt": "2026-08-20T02:55:28.789585+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -206,6 +206,11 @@
           "date": "2026-08-19T18:42:52+00:00"
         },
         {
+          "title": "Check it out and feedback is welcome",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vt5vk6/check_it_out_and_feedback_is_welcome/",
+          "date": "2026-08-20T01:44:11+00:00"
+        },
+        {
           "title": "Question about models",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vsuw5v/question_about_models/",
           "date": "2026-08-19T18:31:09+00:00"
@@ -214,11 +219,6 @@
           "title": "OpenSourcing TrueForge Agent harness : Expecting feedback from community on the agent loop",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vst16x/opensourcing_trueforge_agent_harness_expecting/",
           "date": "2026-08-19T17:26:46+00:00"
-        },
-        {
-          "title": "Found a way to let ChatGPT Web review your local repo without pasting your code into chat",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vs2y6o/found_a_way_to_let_chatgpt_web_review_your_local/",
-          "date": "2026-08-18T21:41:42+00:00"
         }
       ],
       "error": null
@@ -227,6 +227,16 @@
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
+        {
+          "title": "GOP urges top AI firms to do something about the toxic image of data centers",
+          "link": "https://siliconangle.com/2026/08/19/gop-urges-top-ai-firms-to-do-something-about-the-toxic-image-of-data-centers/",
+          "date": "Thu, 20 Aug 2026 01:54:26 +0000"
+        },
+        {
+          "title": "Sanja Fidler\u2019s world model startup Veeda AI raises $90M in seed funding",
+          "link": "https://siliconangle.com/2026/08/19/sanja-fidlers-world-model-startup-veeda-ai-raises-90m-in-seed-funding/",
+          "date": "Thu, 20 Aug 2026 01:01:50 +0000"
+        },
         {
           "title": "Stripe buys AI model router OpenRouter in reported $7.5B deal",
           "link": "https://siliconangle.com/2026/08/19/stripe-buys-ai-model-router-openrouter-in-reported-7-5b-deal/",
@@ -241,16 +251,6 @@
           "title": "Layered data architecture turns enterprise data into a system of intelligence",
           "link": "https://siliconangle.com/2026/08/19/layered-data-architecture-powers-salesforce-ai-neo4jgraphtalk/",
           "date": "Wed, 19 Aug 2026 20:30:12 +0000"
-        },
-        {
-          "title": "Adronite launches Codistry AI coding platform, claims half the token cost",
-          "link": "https://siliconangle.com/2026/08/19/adronite-launches-codistry-ai-coding-platform-claims-half-the-token-cost/",
-          "date": "Wed, 19 Aug 2026 13:00:35 +0000"
-        },
-        {
-          "title": "Rundoo raises $30M to expand its AI-native operating system for small supply stores",
-          "link": "https://siliconangle.com/2026/08/19/rundoo-raises-30m-to-expand-its-ai-native-operating-system-for-small-supply-stores/",
-          "date": "Wed, 19 Aug 2026 13:00:03 +0000"
         }
       ],
       "error": null
@@ -320,39 +320,18 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "Is everybody else getting tired of AI tools that only tell you what went wrong after the customer hangs up or is it just me?",
-          "link": "https://www.reddit.com/r/artificial/comments/1vsm0zn/is_everybody_else_getting_tired_of_ai_tools_that/",
-          "date": "2026-08-19T13:11:16+00:00"
-        },
-        {
-          "title": "One employee with AI matched a two-person team in a major workplace experiment - Research Today",
-          "link": "https://www.reddit.com/r/artificial/comments/1vstvk2/one_employee_with_ai_matched_a_twoperson_team_in/",
-          "date": "2026-08-19T17:56:15+00:00"
-        },
-        {
-          "title": "Young adults in the U.S. are increasingly wary of AI, concerned it will take jobs",
-          "link": "https://www.reddit.com/r/artificial/comments/1vs6yoh/young_adults_in_the_us_are_increasingly_wary_of/",
-          "date": "2026-08-19T00:27:33+00:00"
-        },
-        {
-          "title": "When AI art has no author: Study finds generated images often can\u2019t be traced to training data",
-          "link": "https://www.reddit.com/r/artificial/comments/1vsebj5/when_ai_art_has_no_author_study_finds_generated/",
-          "date": "2026-08-19T06:24:12+00:00"
-        },
-        {
-          "title": "An AI agent just stacked blocks in a live physics simulation \u2014 building an open benchmark arena for embodied AI",
-          "link": "https://www.reddit.com/r/artificial/comments/1vt1dhc/an_ai_agent_just_stacked_blocks_in_a_live_physics/",
-          "date": "2026-08-19T22:31:43+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "AI bias isn\u2019t just an error in the algorithm. It\u2019s a chain of human decisions",
+          "link": "https://theconversation.com/ai-bias-isnt-just-an-error-in-the-algorithm-its-a-chain-of-human-decisions-288812",
+          "date": "2026-08-20T01:01:07Z"
+        },
         {
           "title": "Some parents want to see primary schools go \u2018device free\u2019. There could be unintended consequences",
           "link": "https://theconversation.com/some-parents-want-to-see-primary-schools-go-device-free-there-could-be-unintended-consequences-289884",
@@ -372,11 +351,6 @@
           "title": "An \u2018AI legal team\u2019 has won its first case. It\u2019s a rare win for access to justice",
           "link": "https://theconversation.com/an-ai-legal-team-has-won-its-first-case-its-a-rare-win-for-access-to-justice-289891",
           "date": "2026-08-18T20:06:45Z"
-        },
-        {
-          "title": "Does \u2018AI-watermarking\u2019 mean the party is over for cheating students?",
-          "link": "https://theconversation.com/does-ai-watermarking-mean-the-party-is-over-for-cheating-students-289889",
-          "date": "2026-08-18T20:06:21Z"
         }
       ],
       "error": null
