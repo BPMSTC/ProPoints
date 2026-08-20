@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T23:19:10.162696+00:00",
+  "generatedAt": "2026-08-20T01:04:02.985140+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "NASA calls off mission to rescue Swift gamma-ray observatory",
+          "link": "https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/",
+          "date": "Thu, 20 Aug 2026 00:18:48 +0000"
+        },
+        {
           "title": "Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026",
           "link": "https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026/",
           "date": "Wed, 19 Aug 2026 22:02:38 +0000"
@@ -308,11 +313,6 @@
           "title": "FCC abolishes gigabit speed goal, suggesting it is unfair to slower technologies",
           "link": "https://arstechnica.com/tech-policy/2026/08/fcc-abolishes-gigabit-speed-goal-suggesting-it-is-unfair-to-slower-technologies/",
           "date": "Wed, 19 Aug 2026 19:45:19 +0000"
-        },
-        {
-          "title": "The floodgates are open after another Chinese company lands a reusable rocket",
-          "link": "https://arstechnica.com/space/2026/08/the-floodgates-are-open-after-another-chinese-company-lands-a-reusable-rocket/",
-          "date": "Wed, 19 Aug 2026 18:41:02 +0000"
         }
       ],
       "error": null
@@ -320,7 +320,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "Is everybody else getting tired of AI tools that only tell you what went wrong after the customer hangs up or is it just me?",
+          "link": "https://www.reddit.com/r/artificial/comments/1vsm0zn/is_everybody_else_getting_tired_of_ai_tools_that/",
+          "date": "2026-08-19T13:11:16+00:00"
+        },
+        {
+          "title": "One employee with AI matched a two-person team in a major workplace experiment - Research Today",
+          "link": "https://www.reddit.com/r/artificial/comments/1vstvk2/one_employee_with_ai_matched_a_twoperson_team_in/",
+          "date": "2026-08-19T17:56:15+00:00"
+        },
+        {
+          "title": "Young adults in the U.S. are increasingly wary of AI, concerned it will take jobs",
+          "link": "https://www.reddit.com/r/artificial/comments/1vs6yoh/young_adults_in_the_us_are_increasingly_wary_of/",
+          "date": "2026-08-19T00:27:33+00:00"
+        },
+        {
+          "title": "When AI art has no author: Study finds generated images often can\u2019t be traced to training data",
+          "link": "https://www.reddit.com/r/artificial/comments/1vsebj5/when_ai_art_has_no_author_study_finds_generated/",
+          "date": "2026-08-19T06:24:12+00:00"
+        },
+        {
+          "title": "An AI agent just stacked blocks in a live physics simulation \u2014 building an open benchmark arena for embodied AI",
+          "link": "https://www.reddit.com/r/artificial/comments/1vt1dhc/an_ai_agent_just_stacked_blocks_in_a_live_physics/",
+          "date": "2026-08-19T22:31:43+00:00"
+        }
+      ],
       "error": null
     },
     {
@@ -360,6 +386,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "UC Berkeley professor admits to using AI to edit op-ed on students\u2019 math skills",
+          "link": "https://www.theguardian.com/us-news/2026/aug/19/uc-berkeley-professor-ai",
+          "date": "Thu, 20 Aug 2026 00:35:11 GMT"
+        },
+        {
           "title": "Did someone wearing Meta Glasses film you today? Are you sure?",
           "link": "https://www.theguardian.com/technology/ng-interactive/2026/aug/19/meta-glasses-privacy-surveillance",
           "date": "Wed, 19 Aug 2026 14:13:08 GMT"
@@ -378,11 +409,6 @@
           "title": "The Rise and Fall of the Artificial State by Jill Lepore review \u2013 an ominous warning of tech takeover",
           "link": "https://www.theguardian.com/books/2026/aug/19/the-rise-and-fall-of-the-artificial-state-by-jill-lepore-review-an-ominous-warning-of-tech-takeover",
           "date": "Wed, 19 Aug 2026 08:00:09 GMT"
-        },
-        {
-          "title": "OpenAI announces slowing pace of development after hack by rogue agent",
-          "link": "https://www.theguardian.com/technology/2026/aug/18/open-ai-pause-hack",
-          "date": "Tue, 18 Aug 2026 20:47:17 GMT"
         }
       ],
       "error": null
