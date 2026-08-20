@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T08:35:12.772496+00:00",
+  "generatedAt": "2026-08-20T09:29:59.180464+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -360,6 +360,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Patients in Yorkshire complain AI GP receptionist cannot understand accent",
+          "link": "https://www.theguardian.com/society/2026/aug/20/yorkshire-rotherham-ai-gp-receptionist-cannot-understand-accent",
+          "date": "Thu, 20 Aug 2026 09:25:57 GMT"
+        },
+        {
           "title": "It used to be our imperfect bodies that made us insecure. With AI, it\u2019s our minds as well",
           "link": "https://www.theguardian.com/commentisfree/2026/aug/20/bodies-ai-minds-history-technology-humans",
           "date": "Thu, 20 Aug 2026 04:00:42 GMT"
@@ -378,11 +383,6 @@
           "title": "Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits",
           "link": "https://www.theguardian.com/technology/2026/aug/19/ai-hiring-tools-discrimination",
           "date": "Wed, 19 Aug 2026 11:00:13 GMT"
-        },
-        {
-          "title": "Why are progressives winning across the United States? It\u2019s not complicated | Bernie Sanders",
-          "link": "https://www.theguardian.com/commentisfree/2026/aug/19/poll-progressive-candidates-election-economy",
-          "date": "Wed, 19 Aug 2026 10:00:11 GMT"
         }
       ],
       "error": null
