@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T19:29:40.380097+00:00",
+  "generatedAt": "2026-08-20T20:23:39.909732+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -216,9 +216,9 @@
           "date": "2026-08-20T14:39:13+00:00"
         },
         {
-          "title": "Free open source tool to help you keep the same context across chats and models",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vthcvn/free_open_source_tool_to_help_you_keep_the_same/",
-          "date": "2026-08-20T11:53:52+00:00"
+          "title": "My basic idea to build a hybrid loop using cloud and local models. Yay or nay?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vtccfc/my_basic_idea_to_build_a_hybrid_loop_using_cloud/",
+          "date": "2026-08-20T07:14:33+00:00"
         }
       ],
       "error": null
