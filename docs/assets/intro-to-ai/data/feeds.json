@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T05:28:39.572449+00:00",
+  "generatedAt": "2026-08-20T06:39:07.136162+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -201,6 +201,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "Need help from experienced vibecoders PLS!",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vtbajc/need_help_from_experienced_vibecoders_pls/",
+          "date": "2026-08-20T06:14:33+00:00"
+        },
+        {
           "title": "Wordle but AI prompting challenges",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vsv7wx/wordle_but_ai_prompting_challenges/",
           "date": "2026-08-19T18:42:52+00:00"
@@ -214,11 +219,6 @@
           "title": "Question about models",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vsuw5v/question_about_models/",
           "date": "2026-08-19T18:31:09+00:00"
-        },
-        {
-          "title": "OpenSourcing TrueForge Agent harness : Expecting feedback from community on the agent loop",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vst16x/opensourcing_trueforge_agent_harness_expecting/",
-          "date": "2026-08-19T17:26:46+00:00"
         }
       ],
       "error": null
