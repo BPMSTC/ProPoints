@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T17:24:46.424477+00:00",
+  "generatedAt": "2026-08-20T18:33:40.669199+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Meta AI Now Available as a Desktop App for Mac",
+          "link": "https://aibusiness.com/generative-ai/meta-ai-now-available-as-desktop-app-mac",
+          "date": "Thu, 20 Aug 2026 17:40:41 GMT"
+        },
+        {
           "title": "Nvidia\u2019s SONIC Teaches Humanoids to Move",
           "link": "https://aibusiness.com/robotics/nvidia-s-sonic-teaches-humanoids-move",
           "date": "Thu, 20 Aug 2026 13:43:21 GMT"
@@ -132,11 +137,6 @@
           "title": "Unitree Shares Surge in Stock Market Debut",
           "link": "https://aibusiness.com/robotics/unitree-shares-surge-stock-market-debut",
           "date": "Wed, 19 Aug 2026 13:33:21 GMT"
-        },
-        {
-          "title": "How Enterprises Can Catch Up With the Rapid Pace of AI Advances",
-          "link": "https://aibusiness.com/generative-ai/how-enterprises-catch-up-with-rapid-pace-of-ai-advances",
-          "date": "Tue, 18 Aug 2026 18:21:32 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -201,6 +201,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "Any great prompts to turn chatgpt or claude into the perfect master resume builder? Or should I find a website/app to do that?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vtq9go/any_great_prompts_to_turn_chatgpt_or_claude_into/",
+          "date": "2026-08-20T17:38:46+00:00"
+        },
+        {
           "title": "Prompting",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vtg7ts/prompting/",
           "date": "2026-08-20T10:57:43+00:00"
@@ -214,11 +219,6 @@
           "title": "Free open source tool to help you keep the same context across chats and models",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vthcvn/free_open_source_tool_to_help_you_keep_the_same/",
           "date": "2026-08-20T11:53:52+00:00"
-        },
-        {
-          "title": "My basic idea to build a hybrid loop using cloud and local models. Yay or nay?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vtccfc/my_basic_idea_to_build_a_hybrid_loop_using_cloud/",
-          "date": "2026-08-20T07:14:33+00:00"
         }
       ],
       "error": null
@@ -227,6 +227,11 @@
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
+        {
+          "title": "Supermicro alliance tackles the storage bottlenecks holding back enterprise AI",
+          "link": "https://siliconangle.com/2026/08/20/storage-modernization-supermicro-partners-ai-supermicroopenstoragesummit/",
+          "date": "Thu, 20 Aug 2026 18:00:54 +0000"
+        },
         {
           "title": "Salesforce introduces Slack Code to bring agentic team coding into the open",
           "link": "https://siliconangle.com/2026/08/20/salesforce-introduces-slack-code-to-bring-agentic-team-coding-into-the-open/",
@@ -246,11 +251,6 @@
           "title": "Sanja Fidler\u2019s world model startup Veeda AI raises $90M in seed funding",
           "link": "https://siliconangle.com/2026/08/19/sanja-fidlers-world-model-startup-veeda-ai-raises-90m-in-seed-funding/",
           "date": "Thu, 20 Aug 2026 01:01:50 +0000"
-        },
-        {
-          "title": "Stripe buys AI model router OpenRouter in reported $7.5B deal",
-          "link": "https://siliconangle.com/2026/08/19/stripe-buys-ai-model-router-openrouter-in-reported-7-5b-deal/",
-          "date": "Wed, 19 Aug 2026 22:49:06 +0000"
         }
       ],
       "error": null
