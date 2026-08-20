@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T13:47:02.077622+00:00",
+  "generatedAt": "2026-08-20T14:32:24.643643+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -113,6 +113,11 @@
       "name": "AI Business",
       "url": "https://aibusiness.com/rss.xml",
       "items": [
+        {
+          "title": "Nvidia\u2019s SONIC Teaches Humanoids to Move",
+          "link": "https://aibusiness.com/robotics/nvidia-s-sonic-teaches-humanoids-move",
+          "date": "Thu, 20 Aug 2026 13:43:21 GMT"
+        },
         {
           "title": "OpenAI Scales Back AI Development, but it Could be Too Late",
           "link": "https://aibusiness.com/generative-ai/openai-scales-down-ai-development-could-be-too-late",
@@ -132,11 +137,6 @@
           "title": "How Enterprises Can Catch Up With the Rapid Pace of AI Advances",
           "link": "https://aibusiness.com/generative-ai/how-enterprises-catch-up-with-rapid-pace-of-ai-advances",
           "date": "Tue, 18 Aug 2026 18:21:32 GMT"
-        },
-        {
-          "title": "Nvidia to Back OpenAI Data Center With $105B Financing",
-          "link": "https://aibusiness.com/data-centers/nvidia-back-openai-data-center-105b-investment",
-          "date": "Tue, 18 Aug 2026 15:00:09 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -283,7 +283,7 @@
       "name": "Announcements - Stability AI",
       "url": "https://stability.ai/blog?format=rss",
       "items": [],
-      "error": null
+      "error": "<unknown>:2:0: syntax error"
     },
     {
       "name": "Ars Technica - All content",
@@ -360,6 +360,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "UK cinemas look at banning Meta smart glasses over piracy fears",
+          "link": "https://www.theguardian.com/technology/2026/aug/20/piracy-fears-prompt-calls-for-ban-on-meta-smart-glasses-in-uk-cinemas",
+          "date": "Thu, 20 Aug 2026 14:06:32 GMT"
+        },
+        {
           "title": "Frustrated GP patients hang up as Yorkshire accent baffles AI receptionist",
           "link": "https://www.theguardian.com/society/2026/aug/20/yorkshire-rotherham-ai-gp-receptionist-cannot-understand-accent",
           "date": "Thu, 20 Aug 2026 09:25:57 GMT"
@@ -378,11 +383,6 @@
           "title": "Did someone wearing Meta Glasses film you today? Are you sure?",
           "link": "https://www.theguardian.com/technology/ng-interactive/2026/aug/19/meta-glasses-privacy-surveillance",
           "date": "Wed, 19 Aug 2026 14:13:08 GMT"
-        },
-        {
-          "title": "Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits",
-          "link": "https://www.theguardian.com/technology/2026/aug/19/ai-hiring-tools-discrimination",
-          "date": "Wed, 19 Aug 2026 11:00:13 GMT"
         }
       ],
       "error": null
