@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T21:23:44.549472+00:00",
+  "generatedAt": "2026-08-20T22:24:43.752511+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -228,6 +228,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "AI workload optimization startup Callosum raises $100M",
+          "link": "https://siliconangle.com/2026/08/20/ai-workload-optimization-startup-callosum-raises-100m/",
+          "date": "Thu, 20 Aug 2026 21:06:30 +0000"
+        },
+        {
           "title": "Supermicro alliance tackles the storage bottlenecks holding back enterprise AI",
           "link": "https://siliconangle.com/2026/08/20/storage-modernization-supermicro-partners-ai-supermicroopenstoragesummit/",
           "date": "Thu, 20 Aug 2026 18:00:54 +0000"
@@ -246,11 +251,6 @@
           "title": "GOP urges top AI firms to do something about the toxic image of data centers",
           "link": "https://siliconangle.com/2026/08/19/gop-urges-top-ai-firms-to-do-something-about-the-toxic-image-of-data-centers/",
           "date": "Thu, 20 Aug 2026 01:54:26 +0000"
-        },
-        {
-          "title": "Sanja Fidler\u2019s world model startup Veeda AI raises $90M in seed funding",
-          "link": "https://siliconangle.com/2026/08/19/sanja-fidlers-world-model-startup-veeda-ai-raises-90m-in-seed-funding/",
-          "date": "Thu, 20 Aug 2026 01:01:50 +0000"
         }
       ],
       "error": null
