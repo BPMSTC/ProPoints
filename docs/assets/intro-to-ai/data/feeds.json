@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T22:24:43.752511+00:00",
+  "generatedAt": "2026-08-20T23:21:29.155727+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -201,14 +201,14 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "Finally fixing the printer for those non-techie friends...",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vtyv8b/finally_fixing_the_printer_for_those_nontechie/",
+          "date": "2026-08-20T22:56:28+00:00"
+        },
+        {
           "title": "Any great prompts to turn chatgpt or claude into the perfect master resume builder? Or should I find a website/app to do that?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vtq9go/any_great_prompts_to_turn_chatgpt_or_claude_into/",
           "date": "2026-08-20T17:38:46+00:00"
-        },
-        {
-          "title": "Prompting",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vtg7ts/prompting/",
-          "date": "2026-08-20T10:57:43+00:00"
         },
         {
           "title": "I built an AI Interview Agent that actually reads the candidate\u2019s resume and asks questions based on their real experience",
@@ -216,9 +216,9 @@
           "date": "2026-08-20T14:39:13+00:00"
         },
         {
-          "title": "My basic idea to build a hybrid loop using cloud and local models. Yay or nay?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vtccfc/my_basic_idea_to_build_a_hybrid_loop_using_cloud/",
-          "date": "2026-08-20T07:14:33+00:00"
+          "title": "Prompting",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vtg7ts/prompting/",
+          "date": "2026-08-20T10:57:43+00:00"
         }
       ],
       "error": null
@@ -227,6 +227,11 @@
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
+        {
+          "title": "Twin1 AI raises $20M to put an AI twin behind every knowledge worker",
+          "link": "https://siliconangle.com/2026/08/20/twin1-ai-raises-20m-to-put-an-ai-twin-behind-every-knowledge-worker/",
+          "date": "Thu, 20 Aug 2026 22:22:03 +0000"
+        },
         {
           "title": "AI workload optimization startup Callosum raises $100M",
           "link": "https://siliconangle.com/2026/08/20/ai-workload-optimization-startup-callosum-raises-100m/",
@@ -246,11 +251,6 @@
           "title": "Adobe expands generative AI audio with Firefly music, speech and sound effects",
           "link": "https://siliconangle.com/2026/08/20/adobe-expands-generative-ai-audio-with-firefly-music-speech-and-sound-effects/",
           "date": "Thu, 20 Aug 2026 15:50:07 +0000"
-        },
-        {
-          "title": "GOP urges top AI firms to do something about the toxic image of data centers",
-          "link": "https://siliconangle.com/2026/08/19/gop-urges-top-ai-firms-to-do-something-about-the-toxic-image-of-data-centers/",
-          "date": "Thu, 20 Aug 2026 01:54:26 +0000"
         }
       ],
       "error": null
