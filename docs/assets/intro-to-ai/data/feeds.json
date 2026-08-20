@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T15:29:16.435732+00:00",
+  "generatedAt": "2026-08-20T16:30:17.008146+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -228,6 +228,16 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Salesforce introduces Slack Code to bring agentic team coding into the open",
+          "link": "https://siliconangle.com/2026/08/20/salesforce-introduces-slack-code-to-bring-agentic-team-coding-into-the-open/",
+          "date": "Thu, 20 Aug 2026 16:05:19 +0000"
+        },
+        {
+          "title": "Adobe expands generative AI audio with Firefly music, speech and sound effects",
+          "link": "https://siliconangle.com/2026/08/20/adobe-expands-generative-ai-audio-with-firefly-music-speech-and-sound-effects/",
+          "date": "Thu, 20 Aug 2026 15:50:07 +0000"
+        },
+        {
           "title": "GOP urges top AI firms to do something about the toxic image of data centers",
           "link": "https://siliconangle.com/2026/08/19/gop-urges-top-ai-firms-to-do-something-about-the-toxic-image-of-data-centers/",
           "date": "Thu, 20 Aug 2026 01:54:26 +0000"
@@ -241,16 +251,6 @@
           "title": "Stripe buys AI model router OpenRouter in reported $7.5B deal",
           "link": "https://siliconangle.com/2026/08/19/stripe-buys-ai-model-router-openrouter-in-reported-7-5b-deal/",
           "date": "Wed, 19 Aug 2026 22:49:06 +0000"
-        },
-        {
-          "title": "The AI inference race moves beyond GPUs to reshape data center infrastructure",
-          "link": "https://siliconangle.com/2026/08/19/ai-inference-infrastructure-requires-full-stack-coordination-supermicroopenstoragesummit/",
-          "date": "Wed, 19 Aug 2026 20:59:28 +0000"
-        },
-        {
-          "title": "Layered data architecture turns enterprise data into a system of intelligence",
-          "link": "https://siliconangle.com/2026/08/19/layered-data-architecture-powers-salesforce-ai-neo4jgraphtalk/",
-          "date": "Wed, 19 Aug 2026 20:30:12 +0000"
         }
       ],
       "error": null
