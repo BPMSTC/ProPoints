@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T22:22:26.135308+00:00",
+  "generatedAt": "2026-08-21T23:19:51.400758+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -201,6 +201,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "[Mod post] If you have a product and don't know how to get it out there, we are having a community event you should come to",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vuvf3x/mod_post_if_you_have_a_product_and_dont_know_how/",
+          "date": "2026-08-21T22:57:56+00:00"
+        },
+        {
           "title": "Finally fixing the printer for those non-techie friends...",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vtyv8b/finally_fixing_the_printer_for_those_nontechie/",
           "date": "2026-08-20T22:56:28+00:00"
@@ -214,11 +219,6 @@
           "title": "Can\u2019t even write a simple REST API without the help of AI Coding agents! Help",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vu186b/cant_even_write_a_simple_rest_api_without_the/",
           "date": "2026-08-21T00:36:56+00:00"
-        },
-        {
-          "title": "Any great prompts to turn chatgpt or claude into the perfect master resume builder? Or should I find a website/app to do that?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vtq9go/any_great_prompts_to_turn_chatgpt_or_claude_into/",
-          "date": "2026-08-20T17:38:46+00:00"
         }
       ],
       "error": null
@@ -227,6 +227,11 @@
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
+        {
+          "title": "Starcloud raises $250M to build AI data centers in orbit",
+          "link": "https://siliconangle.com/2026/08/21/starcloud-raises-250m-to-build-ai-data-centers-in-orbit/",
+          "date": "Fri, 21 Aug 2026 23:13:25 +0000"
+        },
         {
           "title": "DeepSeek debuts multimodal language model competitive with Opus 4.8",
           "link": "https://siliconangle.com/2026/08/21/deepseek-debuts-multimodal-language-model-competitive-with-opus-4-8/",
@@ -246,11 +251,6 @@
           "title": "Report: Anthropic hopes to surpass SpaceX\u2019s record IPO raise when it finally floats",
           "link": "https://siliconangle.com/2026/08/20/report-anthropic-hopes-to-surpass-spacexs-record-ipo-raise-when-it-finally-goes-public/",
           "date": "Thu, 20 Aug 2026 23:41:07 +0000"
-        },
-        {
-          "title": "Twin1 AI raises $20M to put an AI twin behind every knowledge worker",
-          "link": "https://siliconangle.com/2026/08/20/twin1-ai-raises-20m-to-put-an-ai-twin-behind-every-knowledge-worker/",
-          "date": "Thu, 20 Aug 2026 22:22:03 +0000"
         }
       ],
       "error": null
