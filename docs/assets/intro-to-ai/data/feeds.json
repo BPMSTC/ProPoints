@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T18:31:21.734929+00:00",
+  "generatedAt": "2026-08-21T19:25:10.557830+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "The AI Industry Has Fumbled Its Public Image So Badly That It\u2019s Incredible",
+          "link": "https://futurism.com/future-society/ai-industry-fumbled-public-image",
+          "date": "Fri, 21 Aug 2026 15:03:28 -0400"
+        },
+        {
           "title": "Leaked Memo Shows Republicans Are Terrified of the Backlash Against AI Data Centers",
           "link": "https://futurism.com/artificial-intelligence/leaked-memo-data-centers-ai-ohio-republicans-election",
           "date": "Fri, 21 Aug 2026 11:04:35 -0400"
@@ -442,11 +447,6 @@
           "title": "Flock Says It\u2019s \u201cTaking a Break\u201d From Responding to Media Requests",
           "link": "https://futurism.com/artificial-intelligence/flock-taking-break-responding-media",
           "date": "Thu, 20 Aug 2026 12:45:35 -0400"
-        },
-        {
-          "title": "Whistleblower Says Mark Zuckerberg Is Only Pretending to Care About Child Safety",
-          "link": "https://futurism.com/future-society/whistleblower-lawsuit-meta-child-safety-mark-zuckerberg-facebook-instagram",
-          "date": "Thu, 20 Aug 2026 09:42:45 -0400"
         }
       ],
       "error": null
