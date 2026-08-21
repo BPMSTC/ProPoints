@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T03:54:01.114617+00:00",
+  "generatedAt": "2026-08-21T04:36:05.294962+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -320,7 +320,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "Writer\u2019s dilemma: Critiquing a family member\u2019s AI-generated novel",
+          "link": "https://www.reddit.com/r/artificial/comments/1vu2d4p/writers_dilemma_critiquing_a_family_members/",
+          "date": "2026-08-21T01:28:34+00:00"
+        },
+        {
+          "title": "Ukraine found an uncontrolled Nvidia AI chip inside a Russian cruise missile",
+          "link": "https://www.reddit.com/r/artificial/comments/1vtjfva/ukraine_found_an_uncontrolled_nvidia_ai_chip/",
+          "date": "2026-08-20T13:24:32+00:00"
+        },
+        {
+          "title": "I wish AI slide demos started with the kind of mess I actually have",
+          "link": "https://www.reddit.com/r/artificial/comments/1vu4c6d/i_wish_ai_slide_demos_started_with_the_kind_of/",
+          "date": "2026-08-21T03:00:44+00:00"
+        },
+        {
+          "title": "Is AI making the internet less useful?",
+          "link": "https://www.reddit.com/r/artificial/comments/1vtkejc/is_ai_making_the_internet_less_useful/",
+          "date": "2026-08-20T14:02:56+00:00"
+        },
+        {
+          "title": "Anyone else have these \"Oh my god\" moments with AI every couple weeks?",
+          "link": "https://www.reddit.com/r/artificial/comments/1vu59jb/anyone_else_have_these_oh_my_god_moments_with_ai/",
+          "date": "2026-08-21T03:45:49+00:00"
+        }
+      ],
       "error": null
     },
     {
@@ -360,6 +386,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Jill Lepore on why the artificial state is \u2018doomed\u2019 \u2013 podcast",
+          "link": "https://www.theguardian.com/politics/audio/2026/aug/21/jill-lepore-on-why-the-artificial-state-is-doomed-podcast",
+          "date": "Fri, 21 Aug 2026 04:00:25 GMT"
+        },
+        {
           "title": "UK cinemas look at banning Meta smart glasses over piracy fears",
           "link": "https://www.theguardian.com/technology/2026/aug/20/piracy-fears-prompt-calls-for-ban-on-meta-smart-glasses-in-uk-cinemas",
           "date": "Thu, 20 Aug 2026 14:57:25 GMT"
@@ -378,11 +409,6 @@
           "title": "UC Berkeley professor admits to using AI to edit op-ed on students\u2019 math skills",
           "link": "https://www.theguardian.com/us-news/2026/aug/19/uc-berkeley-professor-ai",
           "date": "Thu, 20 Aug 2026 00:35:11 GMT"
-        },
-        {
-          "title": "Did someone wearing Meta Glasses film you today? Are you sure?",
-          "link": "https://www.theguardian.com/technology/ng-interactive/2026/aug/19/meta-glasses-privacy-surveillance",
-          "date": "Wed, 19 Aug 2026 14:13:08 GMT"
         }
       ],
       "error": null
