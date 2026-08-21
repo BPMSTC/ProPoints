@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T23:21:29.155727+00:00",
+  "generatedAt": "2026-08-21T01:07:48.515555+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -206,6 +206,11 @@
           "date": "2026-08-20T22:56:28+00:00"
         },
         {
+          "title": "Can\u2019t even write a simple REST API without the help of AI Coding agents! Help",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vu186b/cant_even_write_a_simple_rest_api_without_the/",
+          "date": "2026-08-21T00:36:56+00:00"
+        },
+        {
           "title": "Any great prompts to turn chatgpt or claude into the perfect master resume builder? Or should I find a website/app to do that?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vtq9go/any_great_prompts_to_turn_chatgpt_or_claude_into/",
           "date": "2026-08-20T17:38:46+00:00"
@@ -214,11 +219,6 @@
           "title": "I built an AI Interview Agent that actually reads the candidate\u2019s resume and asks questions based on their real experience",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vtlcot/i_built_an_ai_interview_agent_that_actually_reads/",
           "date": "2026-08-20T14:39:13+00:00"
-        },
-        {
-          "title": "Prompting",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vtg7ts/prompting/",
-          "date": "2026-08-20T10:57:43+00:00"
         }
       ],
       "error": null
@@ -227,6 +227,16 @@
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
+        {
+          "title": "Broadcom reportedly seeking up to $100B in debt financing for AI chip deal",
+          "link": "https://siliconangle.com/2026/08/20/broadcom-reportedly-seeking-up-to-100b-in-debt-financing-for-ai-chip-deal/",
+          "date": "Fri, 21 Aug 2026 00:36:48 +0000"
+        },
+        {
+          "title": "Report: Anthropic hopes to surpass SpaceX\u2019s record IPO raise when it finally floats",
+          "link": "https://siliconangle.com/2026/08/20/report-anthropic-hopes-to-surpass-spacexs-record-ipo-raise-when-it-finally-goes-public/",
+          "date": "Thu, 20 Aug 2026 23:41:07 +0000"
+        },
         {
           "title": "Twin1 AI raises $20M to put an AI twin behind every knowledge worker",
           "link": "https://siliconangle.com/2026/08/20/twin1-ai-raises-20m-to-put-an-ai-twin-behind-every-knowledge-worker/",
@@ -241,16 +251,6 @@
           "title": "Supermicro alliance tackles the storage bottlenecks holding back enterprise AI",
           "link": "https://siliconangle.com/2026/08/20/storage-modernization-supermicro-partners-ai-supermicroopenstoragesummit/",
           "date": "Thu, 20 Aug 2026 18:00:54 +0000"
-        },
-        {
-          "title": "Salesforce introduces Slack Code to bring agentic team coding into the open",
-          "link": "https://siliconangle.com/2026/08/20/salesforce-introduces-slack-code-to-bring-agentic-team-coding-into-the-open/",
-          "date": "Thu, 20 Aug 2026 16:05:19 +0000"
-        },
-        {
-          "title": "Adobe expands generative AI audio with Firefly music, speech and sound effects",
-          "link": "https://siliconangle.com/2026/08/20/adobe-expands-generative-ai-audio-with-firefly-music-speech-and-sound-effects/",
-          "date": "Thu, 20 Aug 2026 15:50:07 +0000"
         }
       ],
       "error": null
@@ -290,6 +290,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "US distributor of China\u2019s most popular humanoid robots pivots after US ban",
+          "link": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/",
+          "date": "Thu, 20 Aug 2026 22:00:11 +0000"
+        },
+        {
+          "title": "Europe cancels planned upgrades for Ariane 6 rocket",
+          "link": "https://arstechnica.com/space/2026/08/europe-cancels-planned-upgrades-for-ariane-6-rocket/",
+          "date": "Thu, 20 Aug 2026 21:40:52 +0000"
+        },
+        {
+          "title": "They survived 9/11; 25 years later, their bonds remain unbroken",
+          "link": "https://arstechnica.com/culture/2026/08/new-9-11-documentary-finds-hope-in-the-horror/",
+          "date": "Thu, 20 Aug 2026 21:25:25 +0000"
+        },
+        {
           "title": "Roblox must make changes after failing to block adults creeping on kids",
           "link": "https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/",
           "date": "Thu, 20 Aug 2026 17:14:08 +0000"
@@ -298,21 +313,6 @@
           "title": "Genesis joins the giant electric SUV club with new GV90",
           "link": "https://arstechnica.com/cars/2026/08/genesis-joins-the-giant-electric-suv-club-with-new-gv90/",
           "date": "Thu, 20 Aug 2026 14:35:58 +0000"
-        },
-        {
-          "title": "SpaceX\u2019s orbital data centers would create a new category of e-waste",
-          "link": "https://arstechnica.com/science/2026/08/spacexs-orbital-data-centers-would-create-a-new-category-of-e-waste/",
-          "date": "Thu, 20 Aug 2026 13:59:50 +0000"
-        },
-        {
-          "title": "Reverse-lookup service exposed millions of photos of people\u2019s faces",
-          "link": "https://arstechnica.com/gadgets/2026/08/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/",
-          "date": "Thu, 20 Aug 2026 13:29:54 +0000"
-        },
-        {
-          "title": "Grok exfiltrates user data when malicious instructions are encrypted",
-          "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
-          "date": "Thu, 20 Aug 2026 13:00:35 +0000"
         }
       ],
       "error": null
