@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T04:36:05.294962+00:00",
+  "generatedAt": "2026-08-21T05:28:17.392619+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -320,33 +320,7 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "Writer\u2019s dilemma: Critiquing a family member\u2019s AI-generated novel",
-          "link": "https://www.reddit.com/r/artificial/comments/1vu2d4p/writers_dilemma_critiquing_a_family_members/",
-          "date": "2026-08-21T01:28:34+00:00"
-        },
-        {
-          "title": "Ukraine found an uncontrolled Nvidia AI chip inside a Russian cruise missile",
-          "link": "https://www.reddit.com/r/artificial/comments/1vtjfva/ukraine_found_an_uncontrolled_nvidia_ai_chip/",
-          "date": "2026-08-20T13:24:32+00:00"
-        },
-        {
-          "title": "I wish AI slide demos started with the kind of mess I actually have",
-          "link": "https://www.reddit.com/r/artificial/comments/1vu4c6d/i_wish_ai_slide_demos_started_with_the_kind_of/",
-          "date": "2026-08-21T03:00:44+00:00"
-        },
-        {
-          "title": "Is AI making the internet less useful?",
-          "link": "https://www.reddit.com/r/artificial/comments/1vtkejc/is_ai_making_the_internet_less_useful/",
-          "date": "2026-08-20T14:02:56+00:00"
-        },
-        {
-          "title": "Anyone else have these \"Oh my god\" moments with AI every couple weeks?",
-          "link": "https://www.reddit.com/r/artificial/comments/1vu59jb/anyone_else_have_these_oh_my_god_moments_with_ai/",
-          "date": "2026-08-21T03:45:49+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
