@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T17:29:03.268852+00:00",
+  "generatedAt": "2026-08-21T18:31:21.734929+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -290,6 +290,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Chinese regulators tell Tesla to fix nearly 3 million cars",
+          "link": "https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/",
+          "date": "Fri, 21 Aug 2026 18:07:15 +0000"
+        },
+        {
+          "title": "Fighter jets help destroy Russian drone boat near European offshore gas platform",
+          "link": "https://arstechnica.com/gadgets/2026/08/explosive-russian-drone-boat-destroyed-near-european-offshore-gas-site/",
+          "date": "Fri, 21 Aug 2026 16:48:59 +0000"
+        },
+        {
+          "title": "Personalized pricing is \u201cabhorrent,\u201d but FTC limits may increase costs, critics say",
+          "link": "https://arstechnica.com/tech-policy/2026/08/critics-ftc-limits-on-personalized-pricing-may-increase-costs-kill-discounts/",
+          "date": "Fri, 21 Aug 2026 16:38:25 +0000"
+        },
+        {
           "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
           "link": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
           "date": "Fri, 21 Aug 2026 13:11:35 +0000"
@@ -298,21 +313,6 @@
           "title": "As demand for Meta AI glasses explodes, it\u2019s harder to avoid creepy recordings",
           "link": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
           "date": "Fri, 21 Aug 2026 11:00:53 +0000"
-        },
-        {
-          "title": "Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss",
-          "link": "https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/",
-          "date": "Fri, 21 Aug 2026 11:00:36 +0000"
-        },
-        {
-          "title": "US distributor of China\u2019s most popular humanoid robots pivots after US ban",
-          "link": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/",
-          "date": "Thu, 20 Aug 2026 22:00:11 +0000"
-        },
-        {
-          "title": "Europe cancels planned upgrades for Ariane 6 rocket",
-          "link": "https://arstechnica.com/space/2026/08/europe-cancels-planned-upgrades-for-ariane-6-rocket/",
-          "date": "Thu, 20 Aug 2026 21:40:52 +0000"
         }
       ],
       "error": null
@@ -320,33 +320,7 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "What Happens When the World is Run on Code No One Understands?",
-          "link": "https://www.reddit.com/r/artificial/comments/1vu3x0t/what_happens_when_the_world_is_run_on_code_no_one/",
-          "date": "2026-08-21T02:40:58+00:00"
-        },
-        {
-          "title": "EXCLUSIVE: How a Texas student blew the whistle on a rogue AI hacking attempt",
-          "link": "https://www.reddit.com/r/artificial/comments/1vuh1x4/exclusive_how_a_texas_student_blew_the_whistle_on/",
-          "date": "2026-08-21T13:54:52+00:00"
-        },
-        {
-          "title": "This old sci-fi story video is highly similar to what we have with nearing the singularity and AGI today with all work routed to one central machine",
-          "link": "https://www.reddit.com/r/artificial/comments/1vu9ma4/this_old_scifi_story_video_is_highly_similar_to/",
-          "date": "2026-08-21T07:42:12+00:00"
-        },
-        {
-          "title": "Retrieval-augmented generation solves a problem most teams don't actually have",
-          "link": "https://www.reddit.com/r/artificial/comments/1vum0np/retrievalaugmented_generation_solves_a_problem/",
-          "date": "2026-08-21T16:59:53+00:00"
-        },
-        {
-          "title": "Most AI agents are sending your data somewhere you can't fully see into. Does that bother anyone else?",
-          "link": "https://www.reddit.com/r/artificial/comments/1vuai26/most_ai_agents_are_sending_your_data_somewhere/",
-          "date": "2026-08-21T08:35:33+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
