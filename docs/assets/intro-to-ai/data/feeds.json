@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-08-21T14:30:55.026698+00:00",
+  "generatedAt": "2026-08-21T15:30:39.083443+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Behind the Blog: Early Birthday Reflections",
+          "link": "https://www.404media.co/behind-the-blog-early-birthday-reflections/",
+          "date": "Fri, 21 Aug 2026 14:54:35 GMT"
+        },
         {
           "title": "'Darth Vader' Wants Flock in San Diego",
           "link": "https://www.404media.co/darth-vader-spoke-in-support-of-flock-at-san-diego-city-council-meeting/",
@@ -24,11 +29,6 @@
           "title": "Podcast: Amazon is Destroying Rare Books to Train AI",
           "link": "https://www.404media.co/podcast-amazon-is-destroying-rare-books-to-train-ai/",
           "date": "Wed, 19 Aug 2026 20:06:22 GMT"
-        },
-        {
-          "title": "Lifeforms Can Survive on \u2018Significant\u2019 Regions of the Moon, Study Finds",
-          "link": "https://www.404media.co/lifeforms-can-survive-on-significant-regions-of-the-moon-study-finds/",
-          "date": "Wed, 19 Aug 2026 18:00:10 GMT"
         }
       ],
       "error": null
@@ -114,6 +114,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "Prompt: Agentic AI Is Outpacing Enterprise Readiness",
+          "link": "https://aibusiness.com/agentic-ai/prompt-agentic-ai-outpacing-enterprise-readiness",
+          "date": "Fri, 21 Aug 2026 14:28:42 GMT"
+        },
+        {
           "title": "Meta AI Now Available as a Desktop App for Mac",
           "link": "https://aibusiness.com/generative-ai/meta-ai-now-available-as-desktop-app-mac",
           "date": "Thu, 20 Aug 2026 17:40:41 GMT"
@@ -132,11 +137,6 @@
           "title": "Pony.AI Has Plans For 4,000 Robotaxis Outside China",
           "link": "https://aibusiness.com/generative-ai/pony-ai-plans-4-000-robotaxis-outside-china",
           "date": "Wed, 19 Aug 2026 14:39:01 GMT"
-        },
-        {
-          "title": "Unitree Shares Surge in Stock Market Debut",
-          "link": "https://aibusiness.com/robotics/unitree-shares-surge-stock-market-debut",
-          "date": "Wed, 19 Aug 2026 13:33:21 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -228,6 +228,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Politics hits data centers, OpenAI falls behind Anthropic and now AI is too big to fail\u2026 quietly",
+          "link": "https://siliconangle.com/2026/08/21/politics-hits-data-centers-openai-falls-behind-anthropic-and-now-ai-is-too-big-to-fail-quietly/",
+          "date": "Fri, 21 Aug 2026 14:00:32 +0000"
+        },
+        {
           "title": "Astromech raises $20M to build a biological operating system that can forecast evolutionary change",
           "link": "https://siliconangle.com/2026/08/20/astromech-raises-20m-to-build-a-biological-operating-system-that-can-forecast-evolutionary-change/",
           "date": "Fri, 21 Aug 2026 01:37:24 +0000"
@@ -246,11 +251,6 @@
           "title": "AI workload optimization startup Callosum raises $100M",
           "link": "https://siliconangle.com/2026/08/20/ai-workload-optimization-startup-callosum-raises-100m/",
           "date": "Thu, 20 Aug 2026 21:06:30 +0000"
-        },
-        {
-          "title": "Supermicro alliance tackles the storage bottlenecks holding back enterprise AI",
-          "link": "https://siliconangle.com/2026/08/20/storage-modernization-supermicro-partners-ai-supermicroopenstoragesummit/",
-          "date": "Thu, 20 Aug 2026 18:00:54 +0000"
         }
       ],
       "error": null
@@ -370,7 +370,7 @@
           "date": "Fri, 21 Aug 2026 10:00:32 GMT"
         },
         {
-          "title": "Proposed London datacentre will have annual carbon footprint of 27,000 flights to New York",
+          "title": "Proposed London datacentre \u2018incompatible\u2019 with net zero with 1m-tonne carbon footprint",
           "link": "https://www.theguardian.com/uk-news/2026/aug/21/proposed-london-datacentre-will-have-annual-carbon-footprint-of-27000-flights-to-new-york",
           "date": "Fri, 21 Aug 2026 10:00:31 GMT"
         },
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Leaked Memo Shows Republicans Are Terrified of the Backlash Against AI Data Centers",
+          "link": "https://futurism.com/artificial-intelligence/leaked-memo-data-centers-ai-ohio-republicans-election",
+          "date": "Fri, 21 Aug 2026 11:04:35 -0400"
+        },
+        {
           "title": "Google AI Giving Staggeringly Racist \u201cAdvice\u201d About Being Alone With Certain Groups of People",
           "link": "https://futurism.com/artificial-intelligence/google-ai-racist",
           "date": "Thu, 20 Aug 2026 17:06:40 -0400"
@@ -442,11 +447,6 @@
           "title": "Whistleblower Says Mark Zuckerberg Is Only Pretending to Care About Child Safety",
           "link": "https://futurism.com/future-society/whistleblower-lawsuit-meta-child-safety-mark-zuckerberg-facebook-instagram",
           "date": "Thu, 20 Aug 2026 09:42:45 -0400"
-        },
-        {
-          "title": "European Central Bank Warns That AI Crash Is Looming",
-          "link": "https://futurism.com/future-society/european-central-bank-economy-ai-investment-crash",
-          "date": "Wed, 19 Aug 2026 16:25:22 -0400"
         }
       ],
       "error": null
