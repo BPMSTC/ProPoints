@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T19:25:10.557830+00:00",
+  "generatedAt": "2026-08-21T20:21:21.516378+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -228,6 +228,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "DeepSeek debuts multimodal language model competitive with Opus 4.8",
+          "link": "https://siliconangle.com/2026/08/21/deepseek-debuts-multimodal-language-model-competitive-with-opus-4-8/",
+          "date": "Fri, 21 Aug 2026 20:18:15 +0000"
+        },
+        {
           "title": "Politics hits data centers, OpenAI falls behind Anthropic and now AI is too big to fail\u2026 quietly",
           "link": "https://siliconangle.com/2026/08/21/politics-hits-data-centers-openai-falls-behind-anthropic-and-now-ai-is-too-big-to-fail-quietly/",
           "date": "Fri, 21 Aug 2026 14:00:32 +0000"
@@ -246,11 +251,6 @@
           "title": "Twin1 AI raises $20M to put an AI twin behind every knowledge worker",
           "link": "https://siliconangle.com/2026/08/20/twin1-ai-raises-20m-to-put-an-ai-twin-behind-every-knowledge-worker/",
           "date": "Thu, 20 Aug 2026 22:22:03 +0000"
-        },
-        {
-          "title": "AI workload optimization startup Callosum raises $100M",
-          "link": "https://siliconangle.com/2026/08/20/ai-workload-optimization-startup-callosum-raises-100m/",
-          "date": "Thu, 20 Aug 2026 21:06:30 +0000"
         }
       ],
       "error": null
@@ -290,6 +290,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels",
+          "link": "https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/",
+          "date": "Fri, 21 Aug 2026 19:32:29 +0000"
+        },
+        {
+          "title": "Lawsuit demands Logitech hand tariff refunds over to customers",
+          "link": "https://arstechnica.com/tech-policy/2026/08/lawsuit-demands-logitech-hand-tariff-refunds-over-to-customers/",
+          "date": "Fri, 21 Aug 2026 19:04:41 +0000"
+        },
+        {
           "title": "Chinese regulators tell Tesla to fix nearly 3 million cars",
           "link": "https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/",
           "date": "Fri, 21 Aug 2026 18:07:15 +0000"
@@ -303,16 +313,6 @@
           "title": "Personalized pricing is \u201cabhorrent,\u201d but FTC limits may increase costs, critics say",
           "link": "https://arstechnica.com/tech-policy/2026/08/critics-ftc-limits-on-personalized-pricing-may-increase-costs-kill-discounts/",
           "date": "Fri, 21 Aug 2026 16:38:25 +0000"
-        },
-        {
-          "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
-          "link": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
-          "date": "Fri, 21 Aug 2026 13:11:35 +0000"
-        },
-        {
-          "title": "As demand for Meta AI glasses explodes, it\u2019s harder to avoid creepy recordings",
-          "link": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
-          "date": "Fri, 21 Aug 2026 11:00:53 +0000"
         }
       ],
       "error": null
