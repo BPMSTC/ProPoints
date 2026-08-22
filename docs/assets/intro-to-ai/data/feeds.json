@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T17:17:13.765274+00:00",
+  "generatedAt": "2026-08-22T18:28:31.245885+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -201,6 +201,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "Offline To-Do app designed to work directly with local AI assistants.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vvjnol/offline_todo_app_designed_to_work_directly_with/",
+          "date": "2026-08-22T18:16:42+00:00"
+        },
+        {
           "title": "Ive done the free claude courses, how do i pass a claude certified architect exam?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vuscqh/ive_done_the_free_claude_courses_how_do_i_pass_a/",
           "date": "2026-08-21T20:53:58+00:00"
@@ -214,11 +219,6 @@
           "title": "[Mod post] If you have a product and don't know how to get it out there, we are having a community event you should come to",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vuvf3x/mod_post_if_you_have_a_product_and_dont_know_how/",
           "date": "2026-08-21T22:57:56+00:00"
-        },
-        {
-          "title": "Can\u2019t even write a simple REST API without the help of AI Coding agents! Help",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vu186b/cant_even_write_a_simple_rest_api_without_the/",
-          "date": "2026-08-21T00:36:56+00:00"
         }
       ],
       "error": null
