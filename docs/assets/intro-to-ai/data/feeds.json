@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T01:01:53.998865+00:00",
+  "generatedAt": "2026-08-22T02:50:26.109381+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -228,11 +228,6 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
-          "title": "AI data center builder Nscale reportedly seeking $3B IPO",
-          "link": "https://siliconangle.com/2026/08/21/ai-data-center-builder-nscale-reportedly-seeking-3b-ipo/",
-          "date": "Sat, 22 Aug 2026 00:59:08 +0000"
-        },
-        {
           "title": "DeepSeek debuts multimodal language model competitive with Opus 4.8",
           "link": "https://siliconangle.com/2026/08/21/deepseek-debuts-multimodal-language-model-competitive-with-opus-4-8/",
           "date": "Fri, 21 Aug 2026 20:18:15 +0000"
@@ -251,6 +246,11 @@
           "title": "Report: Anthropic hopes to surpass SpaceX\u2019s record IPO raise when it finally floats",
           "link": "https://siliconangle.com/2026/08/20/report-anthropic-hopes-to-surpass-spacexs-record-ipo-raise-when-it-finally-goes-public/",
           "date": "Thu, 20 Aug 2026 23:41:07 +0000"
+        },
+        {
+          "title": "Twin1 AI raises $20M to put an AI twin behind every knowledge worker",
+          "link": "https://siliconangle.com/2026/08/20/twin1-ai-raises-20m-to-put-an-ai-twin-behind-every-knowledge-worker/",
+          "date": "Thu, 20 Aug 2026 22:22:03 +0000"
         }
       ],
       "error": null
@@ -290,6 +290,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Trump's space transportation policy calls for new spaceport on federal land",
+          "link": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
+          "date": "Fri, 21 Aug 2026 23:32:17 +0000"
+        },
+        {
           "title": "Thunder + fiber-optic cabling used for seismic imaging",
           "link": "https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/",
           "date": "Fri, 21 Aug 2026 20:26:46 +0000"
@@ -308,11 +313,6 @@
           "title": "Lawsuit demands Logitech hand tariff refunds over to customers",
           "link": "https://arstechnica.com/tech-policy/2026/08/lawsuit-demands-logitech-hand-tariff-refunds-over-to-customers/",
           "date": "Fri, 21 Aug 2026 19:04:41 +0000"
-        },
-        {
-          "title": "Chinese regulators tell Tesla to fix nearly 3 million cars",
-          "link": "https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/",
-          "date": "Fri, 21 Aug 2026 18:07:15 +0000"
         }
       ],
       "error": null
