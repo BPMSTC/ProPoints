@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T15:16:49.782624+00:00",
+  "generatedAt": "2026-08-22T16:21:16.684693+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -206,14 +206,14 @@
           "date": "2026-08-21T20:53:58+00:00"
         },
         {
-          "title": "[Mod post] If you have a product and don't know how to get it out there, we are having a community event you should come to",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vuvf3x/mod_post_if_you_have_a_product_and_dont_know_how/",
-          "date": "2026-08-21T22:57:56+00:00"
-        },
-        {
           "title": "Finally fixing the printer for those non-techie friends...",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vtyv8b/finally_fixing_the_printer_for_those_nontechie/",
           "date": "2026-08-20T22:56:28+00:00"
+        },
+        {
+          "title": "[Mod post] If you have a product and don't know how to get it out there, we are having a community event you should come to",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vuvf3x/mod_post_if_you_have_a_product_and_dont_know_how/",
+          "date": "2026-08-21T22:57:56+00:00"
         },
         {
           "title": "Can\u2019t even write a simple REST API without the help of AI Coding agents! Help",
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Patients Are Skipping Going to the Doctor Because AI \u201cReceptionists\u201d Can\u2019t Understanding What They\u2019re Saying",
+          "link": "https://futurism.com/artificial-intelligence/patients-skipping-doctor-ai-receptionist",
+          "date": "Sat, 22 Aug 2026 12:07:00 -0400"
+        },
+        {
           "title": "This Is Probably Not the AI-Generated Version of \u201cThe Odyssey\u201d That Elon Musk Was Imagining",
           "link": "https://futurism.com/artificial-intelligence/not-elon-musk-ai-odyssey",
           "date": "Sat, 22 Aug 2026 09:04:00 -0400"
@@ -442,11 +447,6 @@
           "title": "The AI Industry Has Fumbled Its Public Image So Badly That It\u2019s Incredible",
           "link": "https://futurism.com/future-society/ai-industry-fumbled-public-image",
           "date": "Fri, 21 Aug 2026 15:03:28 -0400"
-        },
-        {
-          "title": "Leaked Memo Shows Republicans Are Terrified of the Backlash Against AI Data Centers",
-          "link": "https://futurism.com/artificial-intelligence/leaked-memo-data-centers-ai-ohio-republicans-election",
-          "date": "Fri, 21 Aug 2026 11:04:35 -0400"
         }
       ],
       "error": null
