@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-08-22T09:22:46.597478+00:00",
+  "generatedAt": "2026-08-22T10:18:59.527470+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Brand Hype Has Existed Since the Bronze Age, Scientists Discover",
+          "link": "https://www.404media.co/brand-hype-has-existed-since-the-bronze-age-scientists-discover/",
+          "date": "Sat, 22 Aug 2026 10:00:35 GMT"
+        },
         {
           "title": "Behind the Blog: Early Birthday Reflections",
           "link": "https://www.404media.co/behind-the-blog-early-birthday-reflections/",
@@ -24,11 +29,6 @@
           "title": "Township Fights Nuclear Weapons Data Center By Passing a Moratorium on Electrical Infrastructure",
           "link": "https://www.404media.co/township-fights-nuclear-weapons-data-center-by-passing-a-moratorium-on-electrical-infrastructure/",
           "date": "Thu, 20 Aug 2026 13:12:03 GMT"
-        },
-        {
-          "title": "Podcast: Amazon is Destroying Rare Books to Train AI",
-          "link": "https://www.404media.co/podcast-amazon-is-destroying-rare-books-to-train-ai/",
-          "date": "Wed, 19 Aug 2026 20:06:22 GMT"
         }
       ],
       "error": null
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Devious New Font Turns AI Scrapers Into Mincemeat",
+          "link": "https://futurism.com/artificial-intelligence/devious-new-font-turns-ai-scrapers-into-mincemeat",
+          "date": "Sat, 22 Aug 2026 06:01:00 -0400"
+        },
+        {
           "title": "The AI Industry Has Fumbled Its Public Image So Badly That It\u2019s Incredible",
           "link": "https://futurism.com/future-society/ai-industry-fumbled-public-image",
           "date": "Fri, 21 Aug 2026 15:03:28 -0400"
@@ -442,11 +447,6 @@
           "title": "OpenAI Halts AI Training on Advanced Model as It Detects Dark Signs Emerging",
           "link": "https://futurism.com/artificial-intelligence/openai-halts-training-advanced-model",
           "date": "Thu, 20 Aug 2026 14:41:00 -0400"
-        },
-        {
-          "title": "Flock Says It\u2019s \u201cTaking a Break\u201d From Responding to Media Requests",
-          "link": "https://futurism.com/artificial-intelligence/flock-taking-break-responding-media",
-          "date": "Thu, 20 Aug 2026 12:45:35 -0400"
         }
       ],
       "error": null
