@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T16:21:16.684693+00:00",
+  "generatedAt": "2026-08-22T17:17:13.765274+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -228,6 +228,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "From tokenmaxxing to sovereign alpha: Who controls your AI economics?",
+          "link": "https://siliconangle.com/2026/08/22/from-tokenmaxxing-to-sovereign-alpha-who-controls-your-ai-economics/",
+          "date": "Sat, 22 Aug 2026 17:00:00 +0000"
+        },
+        {
           "title": "DeepSeek debuts multimodal language model competitive with Opus 4.8",
           "link": "https://siliconangle.com/2026/08/21/deepseek-debuts-multimodal-language-model-competitive-with-opus-4-8/",
           "date": "Fri, 21 Aug 2026 20:18:15 +0000"
@@ -246,11 +251,6 @@
           "title": "Report: Anthropic hopes to surpass SpaceX\u2019s record IPO raise when it finally floats",
           "link": "https://siliconangle.com/2026/08/20/report-anthropic-hopes-to-surpass-spacexs-record-ipo-raise-when-it-finally-goes-public/",
           "date": "Thu, 20 Aug 2026 23:41:07 +0000"
-        },
-        {
-          "title": "Twin1 AI raises $20M to put an AI twin behind every knowledge worker",
-          "link": "https://siliconangle.com/2026/08/20/twin1-ai-raises-20m-to-put-an-ai-twin-behind-every-knowledge-worker/",
-          "date": "Thu, 20 Aug 2026 22:22:03 +0000"
         }
       ],
       "error": null
