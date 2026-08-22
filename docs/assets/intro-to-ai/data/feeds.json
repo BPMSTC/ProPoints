@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T10:18:59.527470+00:00",
+  "generatedAt": "2026-08-22T11:17:10.579667+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -38,6 +38,11 @@
       "url": "https://magazine.sebastianraschka.com/feed",
       "items": [
         {
+          "title": "How Claude Watermarks AI-Generated Text",
+          "link": "https://magazine.sebastianraschka.com/p/claude-watermarking",
+          "date": "Sat, 22 Aug 2026 11:11:39 GMT"
+        },
+        {
           "title": "Building an AI Text Detector From Scratch",
           "link": "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
           "date": "Sat, 15 Aug 2026 11:54:24 GMT"
@@ -56,11 +61,6 @@
           "title": "LLM Research Papers: The 2026 List (January to May)",
           "link": "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
           "date": "Sat, 06 Jun 2026 11:16:22 GMT"
-        },
-        {
-          "title": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
-          "link": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
-          "date": "Sat, 16 May 2026 11:33:51 GMT"
         }
       ],
       "error": null
