@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T20:18:02.954109+00:00",
+  "generatedAt": "2026-08-23T21:22:08.939854+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -328,6 +328,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "More phones may soon let us prove photos are real \u2013 but will it solve the AI fake image crisis?",
+          "link": "https://theconversation.com/more-phones-may-soon-let-us-prove-photos-are-real-but-will-it-solve-the-ai-fake-image-crisis-290051",
+          "date": "2026-08-23T20:05:59Z"
+        },
+        {
           "title": "Listening to the bush: How AI can help NZ rid its wildnerness of \u2018hold-out\u2019 pest possums",
           "link": "https://theconversation.com/listening-to-the-bush-how-ai-can-help-nz-rid-its-wildnerness-of-hold-out-pest-possums-289800",
           "date": "2026-08-23T19:11:22Z"
@@ -346,11 +351,6 @@
           "title": "Jason Arday and the new politics of plagiarism",
           "link": "https://theconversation.com/jason-arday-and-the-new-politics-of-plagiarism-290020",
           "date": "2026-08-21T09:36:06Z"
-        },
-        {
-          "title": "AI bias isn\u2019t just an error in the algorithm. It\u2019s a chain of human decisions",
-          "link": "https://theconversation.com/ai-bias-isnt-just-an-error-in-the-algorithm-its-a-chain-of-human-decisions-288812",
-          "date": "2026-08-20T01:01:07Z"
         }
       ],
       "error": null
