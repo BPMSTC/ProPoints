@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T06:34:54.392960+00:00",
+  "generatedAt": "2026-08-23T07:34:29.765005+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -328,6 +328,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Air traffic control is becoming more automated. Is regulation keeping up?",
+          "link": "https://theconversation.com/air-traffic-control-is-becoming-more-automated-is-regulation-keeping-up-288444",
+          "date": "2026-08-23T06:05:43Z"
+        },
+        {
           "title": "The importance of teaching students what AI can\u2019t do",
           "link": "https://theconversation.com/the-importance-of-teaching-students-what-ai-cant-do-286100",
           "date": "2026-08-21T12:36:08Z"
@@ -346,11 +351,6 @@
           "title": "Some parents want to see primary schools go \u2018device free\u2019. There could be unintended consequences",
           "link": "https://theconversation.com/some-parents-want-to-see-primary-schools-go-device-free-there-could-be-unintended-consequences-289884",
           "date": "2026-08-19T20:08:13Z"
-        },
-        {
-          "title": "There\u2019s a better way to cool data centres that cuts their huge thirst for water",
-          "link": "https://theconversation.com/theres-a-better-way-to-cool-data-centres-that-cuts-their-huge-thirst-for-water-289547",
-          "date": "2026-08-19T10:38:14Z"
         }
       ],
       "error": null
