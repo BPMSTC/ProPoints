@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T09:26:09.555659+00:00",
+  "generatedAt": "2026-08-23T10:19:46.850906+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -206,6 +206,11 @@
           "date": "2026-08-22T20:47:00+00:00"
         },
         {
+          "title": "Deep Dive on how ClawMetry works across 20+ AI Agent runtimes like Claude Code, Open Code, Codex, Hermes, Antigravity, Pi, Deepseek Harness & more.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vw2rhj/deep_dive_on_how_clawmetry_works_across_20_ai/",
+          "date": "2026-08-23T09:37:46+00:00"
+        },
+        {
           "title": "Vibe coded your SaaS and getting ready to launch? I will review the real product for free",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vw1m5q/vibe_coded_your_saas_and_getting_ready_to_launch/",
           "date": "2026-08-23T08:30:32+00:00"
@@ -214,11 +219,6 @@
           "title": "Ive done the free claude courses, how do i pass a claude certified architect exam?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vuscqh/ive_done_the_free_claude_courses_how_do_i_pass_a/",
           "date": "2026-08-21T20:53:58+00:00"
-        },
-        {
-          "title": "Finally fixing the printer for those non-techie friends...",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vtyv8b/finally_fixing_the_printer_for_those_nontechie/",
-          "date": "2026-08-20T22:56:28+00:00"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Expert on Financial Crises Says the Signs Are Impossible to Miss",
+          "link": "https://futurism.com/future-society/expert-financial-crises-signs",
+          "date": "Sun, 23 Aug 2026 06:01:00 -0400"
+        },
+        {
           "title": "Patients Are Skipping Going to the Doctor Because AI \u201cReceptionists\u201d Can\u2019t Understanding What They\u2019re Saying",
           "link": "https://futurism.com/artificial-intelligence/patients-skipping-doctor-ai-receptionist",
           "date": "Sat, 22 Aug 2026 12:07:00 -0400"
@@ -442,11 +447,6 @@
           "title": "Devious New Font Turns AI Scrapers Into Mincemeat",
           "link": "https://futurism.com/artificial-intelligence/devious-new-font-turns-ai-scrapers-into-mincemeat",
           "date": "Sat, 22 Aug 2026 06:01:00 -0400"
-        },
-        {
-          "title": "The AI Industry Has Fumbled Its Public Image So Badly That It\u2019s Incredible",
-          "link": "https://futurism.com/future-society/ai-industry-fumbled-public-image",
-          "date": "Fri, 21 Aug 2026 15:03:28 -0400"
         }
       ],
       "error": null
