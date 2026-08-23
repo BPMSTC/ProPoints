@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T10:19:46.850906+00:00",
+  "generatedAt": "2026-08-23T11:17:52.236435+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -201,14 +201,14 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
-          "title": "GPT 5.6 Jailbreak",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vvnhsj/gpt_56_jailbreak/",
-          "date": "2026-08-22T20:47:00+00:00"
-        },
-        {
           "title": "Deep Dive on how ClawMetry works across 20+ AI Agent runtimes like Claude Code, Open Code, Codex, Hermes, Antigravity, Pi, Deepseek Harness & more.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vw2rhj/deep_dive_on_how_clawmetry_works_across_20_ai/",
           "date": "2026-08-23T09:37:46+00:00"
+        },
+        {
+          "title": "GPT 5.6 Jailbreak",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vvnhsj/gpt_56_jailbreak/",
+          "date": "2026-08-22T20:47:00+00:00"
         },
         {
           "title": "Vibe coded your SaaS and getting ready to launch? I will review the real product for free",
