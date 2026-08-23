@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T18:23:15.360839+00:00",
+  "generatedAt": "2026-08-23T19:19:19.486391+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -228,6 +228,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Why every AI agent needs an org chart",
+          "link": "https://siliconangle.com/2026/08/23/why-every-ai-agent-needs-an-org-chart/",
+          "date": "Sun, 23 Aug 2026 16:00:52 +0000"
+        },
+        {
           "title": "From tokenmaxxing to sovereign alpha: Who controls your AI economics?",
           "link": "https://siliconangle.com/2026/08/22/from-tokenmaxxing-to-sovereign-alpha-who-controls-your-ai-economics/",
           "date": "Sat, 22 Aug 2026 17:00:00 +0000"
@@ -246,11 +251,6 @@
           "title": "Astromech raises $20M to build a biological operating system that can forecast evolutionary change",
           "link": "https://siliconangle.com/2026/08/20/astromech-raises-20m-to-build-a-biological-operating-system-that-can-forecast-evolutionary-change/",
           "date": "Fri, 21 Aug 2026 01:37:24 +0000"
-        },
-        {
-          "title": "Report: Anthropic hopes to surpass SpaceX\u2019s record IPO raise when it finally floats",
-          "link": "https://siliconangle.com/2026/08/20/report-anthropic-hopes-to-surpass-spacexs-record-ipo-raise-when-it-finally-goes-public/",
-          "date": "Thu, 20 Aug 2026 23:41:07 +0000"
         }
       ],
       "error": null
