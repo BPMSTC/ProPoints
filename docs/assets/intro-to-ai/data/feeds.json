@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T16:22:30.857334+00:00",
+  "generatedAt": "2026-08-23T17:17:14.158701+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -365,6 +365,16 @@
           "date": "Sun, 23 Aug 2026 14:00:34 GMT"
         },
         {
+          "title": "Ella Baron on AI and the drought \u2013 cartoon",
+          "link": "https://www.theguardian.com/commentisfree/picture/2026/aug/23/ella-baron-on-ai-and-the-drought-cartoon",
+          "date": "Sun, 23 Aug 2026 17:03:48 GMT"
+        },
+        {
+          "title": "It\u2019s unwise to end local scrutiny of NHS trusts  | Letters",
+          "link": "https://www.theguardian.com/society/2026/aug/23/its-unwise-to-end-local-scrutiny-of-nhs-trusts",
+          "date": "Sun, 23 Aug 2026 16:57:19 GMT"
+        },
+        {
           "title": "\u2018We are hitting a different chapter\u2019: OpenAI leader warns of threat of \u2018persistent\u2019 AI cyber-attacks",
           "link": "https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane",
           "date": "Sun, 23 Aug 2026 08:00:27 GMT"
@@ -373,16 +383,6 @@
           "title": "\u2018Digging the grave of my profession\u2019: the Hollywood creatives training AI to do their jobs",
           "link": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
           "date": "Sat, 22 Aug 2026 06:00:55 GMT"
-        },
-        {
-          "title": "Would even an AI disaster on the scale of Hiroshima be enough to make humankind protect itself? I fear not | Timothy Garton Ash",
-          "link": "https://www.theguardian.com/commentisfree/2026/aug/22/ai-disaster-hiroshima-humankind-silicon-valley-technology",
-          "date": "Sat, 22 Aug 2026 05:00:54 GMT"
-        },
-        {
-          "title": "Historian Jill Lepore on the datacentre backlash | Politics Weekly America",
-          "link": "https://www.theguardian.com/politics/video/2026/aug/21/jill-lepore-on-why-the-artificial-state-is-doomed-politics-weekly-america",
-          "date": "Fri, 21 Aug 2026 11:00:32 GMT"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Dating App Cofounder Bails After Scandal Over Using Fake AI-Generated Influencers",
+          "link": "https://futurism.com/artificial-intelligence/dating-app-cofounder-bails-scandal-fake-ai-influencers",
+          "date": "Sun, 23 Aug 2026 13:06:00 -0400"
+        },
+        {
           "title": "Data Centers Are Sucking Up So Many Construction Workers That There Isn\u2019t Anybody Left to Build Houses, Expert Says",
           "link": "https://futurism.com/artificial-intelligence/data-centers-construction-worker-labor-housing-market",
           "date": "Sun, 23 Aug 2026 10:05:00 -0400"
@@ -442,11 +447,6 @@
           "title": "This Is Probably Not the AI-Generated Version of \u201cThe Odyssey\u201d That Elon Musk Was Imagining",
           "link": "https://futurism.com/artificial-intelligence/not-elon-musk-ai-odyssey",
           "date": "Sat, 22 Aug 2026 09:04:00 -0400"
-        },
-        {
-          "title": "The Results of Middle and High School Students Using AI Are Extremely Ominous",
-          "link": "https://futurism.com/artificial-intelligence/results-high-school-students-ai",
-          "date": "Sat, 22 Aug 2026 08:03:00 -0400"
         }
       ],
       "error": null
