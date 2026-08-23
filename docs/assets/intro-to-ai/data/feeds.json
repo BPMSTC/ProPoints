@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T08:24:57.572160+00:00",
+  "generatedAt": "2026-08-23T09:26:09.555659+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -206,6 +206,11 @@
           "date": "2026-08-22T20:47:00+00:00"
         },
         {
+          "title": "Vibe coded your SaaS and getting ready to launch? I will review the real product for free",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vw1m5q/vibe_coded_your_saas_and_getting_ready_to_launch/",
+          "date": "2026-08-23T08:30:32+00:00"
+        },
+        {
           "title": "Ive done the free claude courses, how do i pass a claude certified architect exam?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vuscqh/ive_done_the_free_claude_courses_how_do_i_pass_a/",
           "date": "2026-08-21T20:53:58+00:00"
@@ -214,11 +219,6 @@
           "title": "Finally fixing the printer for those non-techie friends...",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vtyv8b/finally_fixing_the_printer_for_those_nontechie/",
           "date": "2026-08-20T22:56:28+00:00"
-        },
-        {
-          "title": "[Mod post] If you have a product and don't know how to get it out there, we are having a community event you should come to",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vuvf3x/mod_post_if_you_have_a_product_and_dont_know_how/",
-          "date": "2026-08-21T22:57:56+00:00"
         }
       ],
       "error": null
