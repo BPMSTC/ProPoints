@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T01:11:21.148345+00:00",
+  "generatedAt": "2026-08-24T02:59:22.009144+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -228,6 +228,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Sam Altman voices fears that control of AI could be centered in too few hands",
+          "link": "https://siliconangle.com/2026/08/23/sam-altman-voices-fears-that-control-of-ai-could-be-centered-in-too-few-hands/",
+          "date": "Mon, 24 Aug 2026 01:39:24 +0000"
+        },
+        {
           "title": "Report: AI model hub Hugging Face exploring sale at $13B valuation",
           "link": "https://siliconangle.com/2026/08/23/report-ai-model-hub-hugging-face-exploring-sale-at-13b-valuation/",
           "date": "Sun, 23 Aug 2026 23:05:29 +0000"
@@ -246,11 +251,6 @@
           "title": "DeepSeek debuts multimodal language model competitive with Opus 4.8",
           "link": "https://siliconangle.com/2026/08/21/deepseek-debuts-multimodal-language-model-competitive-with-opus-4-8/",
           "date": "Fri, 21 Aug 2026 20:18:15 +0000"
-        },
-        {
-          "title": "Politics hits data centers, OpenAI falls behind Anthropic and now AI is too big to fail\u2026 quietly",
-          "link": "https://siliconangle.com/2026/08/21/politics-hits-data-centers-openai-falls-behind-anthropic-and-now-ai-is-too-big-to-fail-quietly/",
-          "date": "Fri, 21 Aug 2026 14:00:32 +0000"
         }
       ],
       "error": null
@@ -365,6 +365,11 @@
           "date": "Sun, 23 Aug 2026 14:00:34 GMT"
         },
         {
+          "title": "Black Box: episode 1 \u2013 The connectionists \u2013 podcast",
+          "link": "https://www.theguardian.com/news/audio/2026/aug/24/black-box-episode-1-the-connectionists-podcast",
+          "date": "Mon, 24 Aug 2026 02:00:48 GMT"
+        },
+        {
           "title": "Ella Baron on AI and the drought \u2013 cartoon",
           "link": "https://www.theguardian.com/commentisfree/picture/2026/aug/23/ella-baron-on-ai-and-the-drought-cartoon",
           "date": "Sun, 23 Aug 2026 17:03:48 GMT"
@@ -378,11 +383,6 @@
           "title": "\u2018We are hitting a different chapter\u2019: OpenAI leader warns of threat of \u2018persistent\u2019 AI cyber-attacks",
           "link": "https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane",
           "date": "Sun, 23 Aug 2026 08:00:27 GMT"
-        },
-        {
-          "title": "\u2018Digging the grave of my profession\u2019: the Hollywood creatives training AI to do their jobs",
-          "link": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
-          "date": "Sat, 22 Aug 2026 06:00:55 GMT"
         }
       ],
       "error": null
