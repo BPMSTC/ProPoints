@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T15:35:22.614937+00:00",
+  "generatedAt": "2026-08-24T16:37:08.049825+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -320,7 +320,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "I brought ChatGPT, Claude, and Gemini into a group chat to solve a complex problem. Here is how they caught each other hallucinating",
+          "link": "https://www.reddit.com/r/artificial/comments/1vx1jrm/i_brought_chatgpt_claude_and_gemini_into_a_group/",
+          "date": "2026-08-24T12:34:25+00:00"
+        },
+        {
+          "title": "AI agents are now using 5x more tokens than humans..",
+          "link": "https://www.reddit.com/r/artificial/comments/1vwkkoh/ai_agents_are_now_using_5x_more_tokens_than_humans/",
+          "date": "2026-08-23T22:10:28+00:00"
+        },
+        {
+          "title": "Anthropic's IPO filing will reportedly name public opposition to AI as a formal risk factor",
+          "link": "https://www.reddit.com/r/artificial/comments/1vx2ylz/anthropics_ipo_filing_will_reportedly_name_public/",
+          "date": "2026-08-24T13:32:55+00:00"
+        },
+        {
+          "title": "A new approach to building smarter more capable AI",
+          "link": "https://www.reddit.com/r/artificial/comments/1vwxaip/a_new_approach_to_building_smarter_more_capable_ai/",
+          "date": "2026-08-24T08:54:56+00:00"
+        },
+        {
+          "title": "I reran the benchmark. The deterministic result reproduced exactly \u2014 but the model-related metric tells a different story.",
+          "link": "https://www.reddit.com/r/artificial/comments/1vx563w/i_reran_the_benchmark_the_deterministic_result/",
+          "date": "2026-08-24T14:57:28+00:00"
+        }
+      ],
       "error": null
     },
     {
