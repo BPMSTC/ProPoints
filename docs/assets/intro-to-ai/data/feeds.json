@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T23:17:17.055653+00:00",
+  "generatedAt": "2026-08-24T01:11:21.148345+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -238,11 +238,6 @@
           "date": "Sun, 23 Aug 2026 22:37:37 +0000"
         },
         {
-          "title": "Why every AI agent needs an org chart",
-          "link": "https://siliconangle.com/2026/08/23/why-every-ai-agent-needs-an-org-chart/",
-          "date": "Sun, 23 Aug 2026 16:00:52 +0000"
-        },
-        {
           "title": "From tokenmaxxing to sovereign alpha: Who controls your AI economics?",
           "link": "https://siliconangle.com/2026/08/22/from-tokenmaxxing-to-sovereign-alpha-who-controls-your-ai-economics/",
           "date": "Sat, 22 Aug 2026 17:00:00 +0000"
@@ -251,6 +246,11 @@
           "title": "DeepSeek debuts multimodal language model competitive with Opus 4.8",
           "link": "https://siliconangle.com/2026/08/21/deepseek-debuts-multimodal-language-model-competitive-with-opus-4-8/",
           "date": "Fri, 21 Aug 2026 20:18:15 +0000"
+        },
+        {
+          "title": "Politics hits data centers, OpenAI falls behind Anthropic and now AI is too big to fail\u2026 quietly",
+          "link": "https://siliconangle.com/2026/08/21/politics-hits-data-centers-openai-falls-behind-anthropic-and-now-ai-is-too-big-to-fail-quietly/",
+          "date": "Fri, 21 Aug 2026 14:00:32 +0000"
         }
       ],
       "error": null
@@ -328,6 +328,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "An AI job boom? Here\u2019s what the tedious, temporary work in data labelling is actually like",
+          "link": "https://theconversation.com/an-ai-job-boom-heres-what-the-tedious-temporary-work-in-data-labelling-is-actually-like-289234",
+          "date": "2026-08-24T00:25:22Z"
+        },
+        {
           "title": "More phones may soon let us prove photos are real \u2013 but will it solve the AI fake image crisis?",
           "link": "https://theconversation.com/more-phones-may-soon-let-us-prove-photos-are-real-but-will-it-solve-the-ai-fake-image-crisis-290051",
           "date": "2026-08-23T20:05:59Z"
@@ -346,11 +351,6 @@
           "title": "The importance of teaching students what AI can\u2019t do",
           "link": "https://theconversation.com/the-importance-of-teaching-students-what-ai-cant-do-286100",
           "date": "2026-08-21T12:36:08Z"
-        },
-        {
-          "title": "Jason Arday and the new politics of plagiarism",
-          "link": "https://theconversation.com/jason-arday-and-the-new-politics-of-plagiarism-290020",
-          "date": "2026-08-21T09:36:06Z"
         }
       ],
       "error": null
