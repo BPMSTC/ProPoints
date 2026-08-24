@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T21:29:09.073568+00:00",
+  "generatedAt": "2026-08-24T22:21:24.670036+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -113,6 +113,11 @@
       "name": "AI Business",
       "url": "https://aibusiness.com/rss.xml",
       "items": [
+        {
+          "title": "Alibaba Sells More Shares to Raise $10.2B to Spend on AI",
+          "link": "https://aibusiness.com/generative-ai/alibaba-sells-more-shares-raise-10-2b-spend-on-ai",
+          "date": "Mon, 24 Aug 2026 21:25:29 GMT"
+        },
         {
           "title": "Thomson Reuters\u2019 New Model Could Inspire Other SaaS Vendors",
           "link": "https://aibusiness.com/generative-ai/thomson-reuters-model-could-inspire-other-saas-vendors",
@@ -132,11 +137,6 @@
           "title": "Prompt: Agentic AI Is Outpacing Enterprise Readiness",
           "link": "https://aibusiness.com/agentic-ai/prompt-agentic-ai-outpacing-enterprise-readiness",
           "date": "Fri, 21 Aug 2026 14:28:42 GMT"
-        },
-        {
-          "title": "Meta AI Now Available as a Desktop App for Mac",
-          "link": "https://aibusiness.com/generative-ai/meta-ai-now-available-as-desktop-app-mac",
-          "date": "Thu, 20 Aug 2026 17:40:41 GMT"
         }
       ],
       "error": null
