@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T17:27:10.750235+00:00",
+  "generatedAt": "2026-08-24T18:34:51.306354+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -228,6 +228,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Physical AI\u2019s moment has arrived \u2013 but moving from demo to deployment is the hard part. AWS wants to fix that",
+          "link": "https://siliconangle.com/2026/08/24/physical-ais-moment-has-arrived-but-moving-from-demo-to-deployment-is-the-hard-part-aws-wants-to-fix-that/",
+          "date": "Mon, 24 Aug 2026 17:46:02 +0000"
+        },
+        {
           "title": "Thomson Reuters launches proprietary AI model for legal work",
           "link": "https://siliconangle.com/2026/08/24/thomson-reuters-launches-proprietary-ai-model-for-legal-work/",
           "date": "Mon, 24 Aug 2026 13:00:02 +0000"
@@ -246,11 +251,6 @@
           "title": "Nobody knows who built AI coding model Ox Alpha or where the code goes",
           "link": "https://siliconangle.com/2026/08/23/nobody-knows-who-built-ai-coding-model-ox-alpha-or-where-the-code-goes/",
           "date": "Sun, 23 Aug 2026 22:37:37 +0000"
-        },
-        {
-          "title": "From tokenmaxxing to sovereign alpha: Who controls your AI economics?",
-          "link": "https://siliconangle.com/2026/08/22/from-tokenmaxxing-to-sovereign-alpha-who-controls-your-ai-economics/",
-          "date": "Sat, 22 Aug 2026 17:00:00 +0000"
         }
       ],
       "error": null
@@ -265,7 +265,7 @@
       "name": "AI \u2013 Uber Engineering Blog",
       "url": "https://eng.uber.com/category/articles/ai/feed",
       "items": [],
-      "error": null
+      "error": "<urlopen error [Errno 104] Connection reset by peer>"
     },
     {
       "name": "Anaconda Blog",
@@ -360,6 +360,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "UK to use Ukraine battlefield data to train AI to protect sensitive sites",
+          "link": "https://www.theguardian.com/politics/2026/aug/24/uk-to-use-ukraine-battlefield-data-to-train-ai-to-protect-sensitive-sites",
+          "date": "Mon, 24 Aug 2026 18:16:14 GMT"
+        },
+        {
           "title": "Albanese seeks to quell datacentre disquiet as climate expert warns \u2018we\u2019ve got one shot to get the rules right\u2019",
           "link": "https://www.theguardian.com/australia-news/2026/aug/25/albanese-seeks-to-quell-datacentre-disquiet-as-climate-expert-warns-weve-got-one-shot-to-get-the-rules-right",
           "date": "Mon, 24 Aug 2026 14:01:35 GMT"
@@ -378,11 +383,6 @@
           "title": "It\u2019s unwise to end local scrutiny of NHS trusts  | Letters",
           "link": "https://www.theguardian.com/society/2026/aug/23/its-unwise-to-end-local-scrutiny-of-nhs-trusts",
           "date": "Sun, 23 Aug 2026 16:57:19 GMT"
-        },
-        {
-          "title": "An AI \u2018debt bomb\u2019 crisis? No. This isn\u2019t Enron 2.0 | Gene Marks",
-          "link": "https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis",
-          "date": "Sun, 23 Aug 2026 14:00:34 GMT"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Clueless AI CEOs Still Baffled Why Everybody\u2019s So Mad About AI All the Time",
+          "link": "https://futurism.com/artificial-intelligence/ai-ceos-public-mad-outrage",
+          "date": "Mon, 24 Aug 2026 14:30:00 -0400"
+        },
+        {
           "title": "Texas Governor Suddenly Turns on Data Centers as Backlash Grows",
           "link": "https://futurism.com/artificial-intelligence/texas-governor-turns-on-data-centers-backlash-grows",
           "date": "Mon, 24 Aug 2026 11:01:13 -0400"
@@ -442,11 +447,6 @@
           "title": "Expert on Financial Crises Says the Signs Are Impossible to Miss",
           "link": "https://futurism.com/future-society/expert-financial-crises-signs",
           "date": "Sun, 23 Aug 2026 06:01:00 -0400"
-        },
-        {
-          "title": "Patients Are Skipping Going to the Doctor Because AI \u201cReceptionists\u201d Can\u2019t Understanding What They\u2019re Saying",
-          "link": "https://futurism.com/artificial-intelligence/patients-skipping-doctor-ai-receptionist",
-          "date": "Sat, 22 Aug 2026 12:07:00 -0400"
         }
       ],
       "error": null
