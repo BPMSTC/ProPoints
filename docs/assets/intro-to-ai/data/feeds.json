@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T13:52:36.426276+00:00",
+  "generatedAt": "2026-08-24T14:37:21.986111+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -206,6 +206,11 @@
           "date": "2026-08-24T12:26:30+00:00"
         },
         {
+          "title": "How do I build a consistent RPG in ChatGPT with persistent NPC memories, stats, and a living world?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vx12vh/how_do_i_build_a_consistent_rpg_in_chatgpt_with/",
+          "date": "2026-08-24T12:13:21+00:00"
+        },
+        {
           "title": "Deep Dive on how ClawMetry works across 20+ AI Agent runtimes like Claude Code, Open Code, Codex, Hermes, Antigravity, Pi, Deepseek Harness & more.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vw2rhj/deep_dive_on_how_clawmetry_works_across_20_ai/",
           "date": "2026-08-23T09:37:46+00:00"
@@ -214,11 +219,6 @@
           "title": "GPT 5.6 Jailbreak",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vvnhsj/gpt_56_jailbreak/",
           "date": "2026-08-22T20:47:00+00:00"
-        },
-        {
-          "title": "Built a \"pay-to-win\" leaderboard site \u2014 looking for beta testers",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vwa66u/built_a_paytowin_leaderboard_site_looking_for/",
-          "date": "2026-08-23T15:28:51+00:00"
         }
       ],
       "error": null
@@ -360,9 +360,9 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "An AI \u2018debt bomb\u2019 crisis? No. This isn\u2019t Enron 2.0 | Gene Marks",
-          "link": "https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis",
-          "date": "Sun, 23 Aug 2026 14:00:34 GMT"
+          "title": "Albanese seeks to quell datacentre disquiet as climate expert warns \u2018we\u2019ve got one shot to get the rules right\u2019",
+          "link": "https://www.theguardian.com/australia-news/2026/aug/25/albanese-seeks-to-quell-datacentre-disquiet-as-climate-expert-warns-weve-got-one-shot-to-get-the-rules-right",
+          "date": "Mon, 24 Aug 2026 14:01:35 GMT"
         },
         {
           "title": "Black Box: episode 1 \u2013 The connectionists \u2013 podcast",
@@ -380,9 +380,9 @@
           "date": "Sun, 23 Aug 2026 16:57:19 GMT"
         },
         {
-          "title": "\u2018We are hitting a different chapter\u2019: OpenAI leader warns of threat of \u2018persistent\u2019 AI cyber-attacks",
-          "link": "https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane",
-          "date": "Sun, 23 Aug 2026 08:00:27 GMT"
+          "title": "An AI \u2018debt bomb\u2019 crisis? No. This isn\u2019t Enron 2.0 | Gene Marks",
+          "link": "https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis",
+          "date": "Sun, 23 Aug 2026 14:00:34 GMT"
         }
       ],
       "error": null
