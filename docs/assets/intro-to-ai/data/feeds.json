@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T12:41:47.334547+00:00",
+  "generatedAt": "2026-08-24T13:52:36.426276+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -113,6 +113,11 @@
       "name": "AI Business",
       "url": "https://aibusiness.com/rss.xml",
       "items": [
+        {
+          "title": "Ode With Anthropic Makes First Acquisition to Expand Enterprise AI",
+          "link": "https://aibusiness.com/generative-ai/ode-with-anthropic-makes-acquisition-expand-enterprise-ai",
+          "date": "Mon, 24 Aug 2026 13:30:17 GMT"
+        },
         {
           "title": "Prompt: Agentic AI Is Outpacing Enterprise Readiness",
           "link": "https://aibusiness.com/agentic-ai/prompt-agentic-ai-outpacing-enterprise-readiness",
@@ -132,11 +137,6 @@
           "title": "OpenAI Scales Back AI Development, but it Could be Too Late",
           "link": "https://aibusiness.com/generative-ai/openai-scales-down-ai-development-could-be-too-late",
           "date": "Wed, 19 Aug 2026 21:39:33 GMT"
-        },
-        {
-          "title": "Pony.AI Has Plans For 4,000 Robotaxis Outside China",
-          "link": "https://aibusiness.com/generative-ai/pony-ai-plans-4-000-robotaxis-outside-china",
-          "date": "Wed, 19 Aug 2026 14:39:01 GMT"
         }
       ],
       "error": null
@@ -228,6 +228,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Thomson Reuters launches proprietary AI model for legal work",
+          "link": "https://siliconangle.com/2026/08/24/thomson-reuters-launches-proprietary-ai-model-for-legal-work/",
+          "date": "Mon, 24 Aug 2026 13:00:02 +0000"
+        },
+        {
           "title": "Sam Altman voices fears that control of AI could be centered in too few hands",
           "link": "https://siliconangle.com/2026/08/23/sam-altman-voices-fears-that-control-of-ai-could-be-centered-in-too-few-hands/",
           "date": "Mon, 24 Aug 2026 01:39:24 +0000"
@@ -246,11 +251,6 @@
           "title": "From tokenmaxxing to sovereign alpha: Who controls your AI economics?",
           "link": "https://siliconangle.com/2026/08/22/from-tokenmaxxing-to-sovereign-alpha-who-controls-your-ai-economics/",
           "date": "Sat, 22 Aug 2026 17:00:00 +0000"
-        },
-        {
-          "title": "DeepSeek debuts multimodal language model competitive with Opus 4.8",
-          "link": "https://siliconangle.com/2026/08/21/deepseek-debuts-multimodal-language-model-competitive-with-opus-4-8/",
-          "date": "Fri, 21 Aug 2026 20:18:15 +0000"
         }
       ],
       "error": null
@@ -290,7 +290,12 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
+          "title": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
+          "link": "https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/",
+          "date": "Mon, 24 Aug 2026 11:00:01 +0000"
+        },
+        {
+          "title": "Due to need for \"absolute success,\" China delays critical Moon launch to 2027",
           "link": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
           "date": "Sun, 23 Aug 2026 14:30:16 +0000"
         },
@@ -308,11 +313,6 @@
           "title": "Dismantling the Roadless Rule threatens to disrupt wildlife and water in US",
           "link": "https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/",
           "date": "Sat, 22 Aug 2026 11:08:53 +0000"
-        },
-        {
-          "title": "Trump's space transportation policy calls for new spaceport on federal land",
-          "link": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
-          "date": "Fri, 21 Aug 2026 23:32:17 +0000"
         }
       ],
       "error": null
@@ -327,6 +327,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Albanese to seek state cooperation on data centres but faces fight with Queensland",
+          "link": "https://theconversation.com/albanese-to-seek-state-cooperation-on-data-centres-but-faces-fight-with-queensland-289894",
+          "date": "2026-08-24T12:31:25Z"
+        },
         {
           "title": "An AI job boom? Here\u2019s what the tedious, temporary work in data labelling is actually like",
           "link": "https://theconversation.com/an-ai-job-boom-heres-what-the-tedious-temporary-work-in-data-labelling-is-actually-like-289234",
@@ -346,11 +351,6 @@
           "title": "Air traffic control is becoming more automated. Is regulation keeping up?",
           "link": "https://theconversation.com/air-traffic-control-is-becoming-more-automated-is-regulation-keeping-up-288444",
           "date": "2026-08-23T06:05:43Z"
-        },
-        {
-          "title": "The importance of teaching students what AI can\u2019t do",
-          "link": "https://theconversation.com/the-importance-of-teaching-students-what-ai-cant-do-286100",
-          "date": "2026-08-21T12:36:08Z"
         }
       ],
       "error": null
