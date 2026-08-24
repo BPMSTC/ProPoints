@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T20:25:35.821532+00:00",
+  "generatedAt": "2026-08-24T21:29:09.073568+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -228,6 +228,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Trump defends AI data center buildout amid pushback",
+          "link": "https://siliconangle.com/2026/08/24/trump-defends-ai-data-center-buildout-amid-pushback/",
+          "date": "Mon, 24 Aug 2026 20:52:45 +0000"
+        },
+        {
           "title": "Physical AI\u2019s moment has arrived \u2013 but moving from demo to deployment is the hard part. AWS wants to fix that",
           "link": "https://siliconangle.com/2026/08/24/physical-ais-moment-has-arrived-but-moving-from-demo-to-deployment-is-the-hard-part-aws-wants-to-fix-that/",
           "date": "Mon, 24 Aug 2026 17:46:02 +0000"
@@ -246,11 +251,6 @@
           "title": "Report: AI model hub Hugging Face exploring sale at $13B valuation",
           "link": "https://siliconangle.com/2026/08/23/report-ai-model-hub-hugging-face-exploring-sale-at-13b-valuation/",
           "date": "Sun, 23 Aug 2026 23:05:29 +0000"
-        },
-        {
-          "title": "Nobody knows who built AI coding model Ox Alpha or where the code goes",
-          "link": "https://siliconangle.com/2026/08/23/nobody-knows-who-built-ai-coding-model-ox-alpha-or-where-the-code-goes/",
-          "date": "Sun, 23 Aug 2026 22:37:37 +0000"
         }
       ],
       "error": null
@@ -424,6 +424,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Trump Says You\u2019re a Rube If You Don\u2019t Want a Data Center in Your Backyard",
+          "link": "https://futurism.com/artificial-intelligence/donald-trump-data-center-rube-interview",
+          "date": "Mon, 24 Aug 2026 16:52:11 -0400"
+        },
+        {
           "title": "Clueless AI CEOs Still Baffled Why Everybody\u2019s So Mad About AI All the Time",
           "link": "https://futurism.com/artificial-intelligence/ai-ceos-public-mad-outrage",
           "date": "Mon, 24 Aug 2026 14:30:00 -0400"
@@ -442,11 +447,6 @@
           "title": "Data Centers Are Sucking Up So Many Construction Workers That There Isn\u2019t Anybody Left to Build Houses, Expert Says",
           "link": "https://futurism.com/artificial-intelligence/data-centers-construction-worker-labor-housing-market",
           "date": "Sun, 23 Aug 2026 10:05:00 -0400"
-        },
-        {
-          "title": "Expert on Financial Crises Says the Signs Are Impossible to Miss",
-          "link": "https://futurism.com/future-society/expert-financial-crises-signs",
-          "date": "Sun, 23 Aug 2026 06:01:00 -0400"
         }
       ],
       "error": null
