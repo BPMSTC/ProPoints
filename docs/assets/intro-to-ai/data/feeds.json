@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T07:54:39.464867+00:00",
+  "generatedAt": "2026-08-24T08:43:04.529614+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -320,7 +320,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "AI agents are now using 5x more tokens than humans..",
+          "link": "https://www.reddit.com/r/artificial/comments/1vwkkoh/ai_agents_are_now_using_5x_more_tokens_than_humans/",
+          "date": "2026-08-23T22:10:28+00:00"
+        },
+        {
+          "title": "i think AI memory is more than just remembering things",
+          "link": "https://www.reddit.com/r/artificial/comments/1vww7ix/i_think_ai_memory_is_more_than_just_remembering/",
+          "date": "2026-08-24T07:49:04+00:00"
+        },
+        {
+          "title": "Most AI agents processing sensitive data right now have ZERO documented controls. That's becoming a real problem!",
+          "link": "https://www.reddit.com/r/artificial/comments/1vwr687/most_ai_agents_processing_sensitive_data_right/",
+          "date": "2026-08-24T03:10:50+00:00"
+        },
+        {
+          "title": "Live experiment: can a human\u2013frontier-model interaction exhibit a relational phase transition?",
+          "link": "https://www.reddit.com/r/artificial/comments/1vwv3bv/live_experiment_can_a_humanfrontiermodel/",
+          "date": "2026-08-24T06:43:20+00:00"
+        },
+        {
+          "title": "Turkey blocks at least 12 Grok posts on national security grounds",
+          "link": "https://www.reddit.com/r/artificial/comments/1vwo2kv/turkey_blocks_at_least_12_grok_posts_on_national/",
+          "date": "2026-08-24T00:43:42+00:00"
+        }
+      ],
       "error": null
     },
     {
