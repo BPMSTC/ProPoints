@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T18:34:51.306354+00:00",
+  "generatedAt": "2026-08-24T19:25:36.848964+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -265,7 +265,7 @@
       "name": "AI \u2013 Uber Engineering Blog",
       "url": "https://eng.uber.com/category/articles/ai/feed",
       "items": [],
-      "error": "<urlopen error [Errno 104] Connection reset by peer>"
+      "error": null
     },
     {
       "name": "Anaconda Blog",
@@ -290,29 +290,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Buyer beware: Those mummified remains might carry toxic spores",
+          "link": "https://arstechnica.com/science/2026/08/modern-trade-of-mummified-remains-may-carry-its-own-mummys-curse/",
+          "date": "Mon, 24 Aug 2026 16:59:07 +0000"
+        },
+        {
+          "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
+          "link": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
+          "date": "Mon, 24 Aug 2026 16:41:45 +0000"
+        },
+        {
+          "title": "F1 in the Netherlands: The driver you most want to beat is your teammate",
+          "link": "https://arstechnica.com/cars/2026/08/f1-in-the-netherlands-the-driver-you-most-want-to-beat-is-your-teammate/",
+          "date": "Mon, 24 Aug 2026 16:02:54 +0000"
+        },
+        {
+          "title": "Trump tried to curb clean energy. It\u2019s booming anyway.",
+          "link": "https://arstechnica.com/science/2026/08/trump-tried-to-curb-clean-energy-its-booming-anyway/",
+          "date": "Mon, 24 Aug 2026 14:43:56 +0000"
+        },
+        {
           "title": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
           "link": "https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/",
           "date": "Mon, 24 Aug 2026 11:00:01 +0000"
-        },
-        {
-          "title": "Due to need for \"absolute success,\" China delays critical Moon launch to 2027",
-          "link": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
-          "date": "Sun, 23 Aug 2026 14:30:16 +0000"
-        },
-        {
-          "title": "Volcanoes that made history",
-          "link": "https://arstechnica.com/science/2026/08/volcanoes-that-made-history/",
-          "date": "Sun, 23 Aug 2026 11:02:54 +0000"
-        },
-        {
-          "title": "Putting mice into hibernation causes a major loss of synapses",
-          "link": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
-          "date": "Sat, 22 Aug 2026 11:22:32 +0000"
-        },
-        {
-          "title": "Dismantling the Roadless Rule threatens to disrupt wildlife and water in US",
-          "link": "https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/",
-          "date": "Sat, 22 Aug 2026 11:08:53 +0000"
         }
       ],
       "error": null
