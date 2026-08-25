@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T01:03:39.113166+00:00",
+  "generatedAt": "2026-08-25T03:01:33.983898+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI Archives | KnowTechie",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -228,6 +228,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Robotics AI startup Generalist reportedly raises $200M",
+          "link": "https://siliconangle.com/2026/08/24/robotics-ai-startup-generalist-reportedly-raises-200m/",
+          "date": "Tue, 25 Aug 2026 01:28:14 +0000"
+        },
+        {
           "title": "Nvidia reportedly eyes another investment in Perplexity AI at a $30B valuation",
           "link": "https://siliconangle.com/2026/08/24/nvidia-reportedly-eyes-another-investment-in-perplexity-ai-at-a-30b-valuation/",
           "date": "Mon, 24 Aug 2026 23:40:08 +0000"
@@ -246,11 +251,6 @@
           "title": "Thomson Reuters launches proprietary AI model for legal work",
           "link": "https://siliconangle.com/2026/08/24/thomson-reuters-launches-proprietary-ai-model-for-legal-work/",
           "date": "Mon, 24 Aug 2026 13:00:02 +0000"
-        },
-        {
-          "title": "Sam Altman voices fears that control of AI could be centered in too few hands",
-          "link": "https://siliconangle.com/2026/08/23/sam-altman-voices-fears-that-control-of-ai-could-be-centered-in-too-few-hands/",
-          "date": "Mon, 24 Aug 2026 01:39:24 +0000"
         }
       ],
       "error": null
@@ -328,6 +328,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Can you teach yourself to detect AI writing? Maybe",
+          "link": "https://theconversation.com/can-you-teach-yourself-to-detect-ai-writing-maybe-289236",
+          "date": "2026-08-25T00:21:51Z"
+        },
+        {
           "title": "Why police have been told to pause their use of AI in court cases",
           "link": "https://theconversation.com/why-police-have-been-told-to-pause-their-use-of-ai-in-court-cases-289731",
           "date": "2026-08-24T13:52:37Z"
@@ -346,11 +351,6 @@
           "title": "More phones may soon let us prove photos are real \u2013 but will it solve the AI fake image crisis?",
           "link": "https://theconversation.com/more-phones-may-soon-let-us-prove-photos-are-real-but-will-it-solve-the-ai-fake-image-crisis-290051",
           "date": "2026-08-23T20:05:59Z"
-        },
-        {
-          "title": "Listening to the bush: how AI can help NZ rid its wilderness of \u2018hold-out\u2019 pest possums",
-          "link": "https://theconversation.com/listening-to-the-bush-how-ai-can-help-nz-rid-its-wilderness-of-hold-out-pest-possums-289800",
-          "date": "2026-08-23T19:11:22Z"
         }
       ],
       "error": null
@@ -359,6 +359,11 @@
       "name": "Artificial intelligence (AI) | The Guardian",
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
+        {
+          "title": "Black Box: episode 2 \u2013 The hunt for ClothOff, the deepfake porn app \u2013 podcast",
+          "link": "https://www.theguardian.com/news/audio/2026/aug/25/black-box-episode-2-the-hunt-for-clothoff-the-deepfake-porn-app-podcast",
+          "date": "Tue, 25 Aug 2026 02:00:44 GMT"
+        },
         {
           "title": "UK to use Ukraine battlefield data to train AI to protect sensitive sites",
           "link": "https://www.theguardian.com/politics/2026/aug/24/uk-to-use-ukraine-battlefield-data-to-train-ai-to-protect-sensitive-sites",
@@ -378,11 +383,6 @@
           "title": "Ella Baron on AI and the drought \u2013 cartoon",
           "link": "https://www.theguardian.com/commentisfree/picture/2026/aug/23/ella-baron-on-ai-and-the-drought-cartoon",
           "date": "Sun, 23 Aug 2026 17:03:48 GMT"
-        },
-        {
-          "title": "It\u2019s unwise to end local scrutiny of NHS trusts  | Letters",
-          "link": "https://www.theguardian.com/society/2026/aug/23/its-unwise-to-end-local-scrutiny-of-nhs-trusts",
-          "date": "Sun, 23 Aug 2026 16:57:19 GMT"
         }
       ],
       "error": null
