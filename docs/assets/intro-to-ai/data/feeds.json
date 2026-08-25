@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-08-25T13:45:41.151427+00:00",
+  "generatedAt": "2026-08-25T14:45:03.909502+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "The Man Behind the Anti-Flock Darth Vader Mask Wants to Know: 'When Will This End?'",
+          "link": "https://www.404media.co/darth-vader-flock-san-diego-city-council-interview/",
+          "date": "Tue, 25 Aug 2026 13:52:35 GMT"
+        },
         {
           "title": "How a Network of Volunteers Is Liberating Critical Court Records for Everyone",
           "link": "https://www.404media.co/how-a-network-of-volunteers-is-liberating-critical-court-records-for-everyone/",
@@ -24,11 +29,6 @@
           "title": "'Darth Vader' Wants Flock in San Diego",
           "link": "https://www.404media.co/darth-vader-spoke-in-support-of-flock-at-san-diego-city-council-meeting/",
           "date": "Thu, 20 Aug 2026 17:10:52 GMT"
-        },
-        {
-          "title": "Subtlefakes: Slightly Altered Nonconsensual AI Images Are Taking Over X",
-          "link": "https://www.404media.co/subtlefakes-slightly-altered-nonconsensual-ai-images-are-taking-over-x/",
-          "date": "Thu, 20 Aug 2026 13:34:23 GMT"
         }
       ],
       "error": null
@@ -101,12 +101,17 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI | TechCrunch",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
+        {
+          "title": "OpenAI\u2019s Jalape\u00f1o chip is built for fast inference at scale, benchmarks show",
+          "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+          "date": "Tue, 25 Aug 2026 14:22:04 +0000"
+        },
         {
           "title": "Accel-backed Keenable is indexing the web for AI agents",
           "link": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
@@ -126,11 +131,6 @@
           "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
           "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
           "date": "Mon, 24 Aug 2026 21:24:17 +0000"
-        },
-        {
-          "title": "Amjad Masad,\u00a0CEO\u00a0and co-founder\u00a0of\u00a0Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
-          "link": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
-          "date": "Mon, 24 Aug 2026 19:54:19 +0000"
         }
       ],
       "error": null
@@ -139,6 +139,11 @@
       "name": "AI Business",
       "url": "https://aibusiness.com/rss.xml",
       "items": [
+        {
+          "title": "Mistral and Saudi Vendor to Advance Sovereign AI in Middle East",
+          "link": "https://aibusiness.com/generative-ai/mistral-saudi-vendor-advance-sovereign-ai-in-middle-east",
+          "date": "Tue, 25 Aug 2026 14:12:00 GMT"
+        },
         {
           "title": "Alibaba Sells More Shares to Raise $10.2B to Spend on AI",
           "link": "https://aibusiness.com/generative-ai/alibaba-sells-more-shares-raise-10-2b-spend-on-ai",
@@ -158,11 +163,6 @@
           "title": "Waymo Develops Its Own Chip for Self-Driving",
           "link": "https://aibusiness.com/generative-ai/waymo-develops-own-chip-for-self-driving",
           "date": "Mon, 24 Aug 2026 15:25:15 GMT"
-        },
-        {
-          "title": "Ode With Anthropic Makes First Acquisition to Expand Enterprise AI",
-          "link": "https://aibusiness.com/generative-ai/ode-with-anthropic-makes-acquisition-expand-enterprise-ai",
-          "date": "Mon, 24 Aug 2026 13:30:17 GMT"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -306,6 +306,16 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "AI factories enter the execution era as Cisco and NVIDIA push rack-scale systems into production",
+          "link": "https://siliconangle.com/2026/08/25/ai-infrastructure-execution-era-cisco-nvidia-cisconvidiaaifactory/",
+          "date": "Tue, 25 Aug 2026 14:25:26 +0000"
+        },
+        {
+          "title": "Nvidia and Cisco push the enterprise AI factory into the rack-scale era",
+          "link": "https://siliconangle.com/2026/08/25/nvidia-cisco-rack-scale-ai-factory-cisconvidiaaifactory/",
+          "date": "Tue, 25 Aug 2026 14:13:20 +0000"
+        },
+        {
           "title": "Cisco and Nvidia take AI factories from rack to runtime",
           "link": "https://siliconangle.com/2026/08/25/cisco-and-nvidia-take-ai-factories-from-rack-to-runtime-cisconvidiaaifactory/",
           "date": "Tue, 25 Aug 2026 13:35:56 +0000"
@@ -319,16 +329,6 @@
           "title": "Robotics AI startup Generalist reportedly raises $200M",
           "link": "https://siliconangle.com/2026/08/24/robotics-ai-startup-generalist-reportedly-raises-200m/",
           "date": "Tue, 25 Aug 2026 01:28:14 +0000"
-        },
-        {
-          "title": "Nvidia reportedly eyes another investment in Perplexity AI at a $30B valuation",
-          "link": "https://siliconangle.com/2026/08/24/nvidia-reportedly-eyes-another-investment-in-perplexity-ai-at-a-30b-valuation/",
-          "date": "Mon, 24 Aug 2026 23:40:08 +0000"
-        },
-        {
-          "title": "Trump defends AI data center buildout amid pushback",
-          "link": "https://siliconangle.com/2026/08/24/trump-defends-ai-data-center-buildout-amid-pushback/",
-          "date": "Mon, 24 Aug 2026 20:52:45 +0000"
         }
       ],
       "error": null
@@ -420,6 +420,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Apple's new desktop computers are designed specifically for local AI development",
+          "link": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+          "date": "Tue, 25 Aug 2026 13:00:11 +0000"
+        },
+        {
           "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
           "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
           "date": "Mon, 24 Aug 2026 21:45:53 +0000"
@@ -438,11 +443,6 @@
           "title": "Ads and tracking infiltrated TVs. Now they're coming for monitors.",
           "link": "https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/",
           "date": "Mon, 24 Aug 2026 20:17:41 +0000"
-        },
-        {
-          "title": "GM vehicles under federal scrutiny after hundreds of reports",
-          "link": "https://arstechnica.com/cars/2026/08/feds-deepen-probe-into-general-motors-brake-failures/",
-          "date": "Mon, 24 Aug 2026 19:42:50 +0000"
         }
       ],
       "error": null
@@ -450,7 +450,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "Uber hit with a near-$1B GDPR fine after algorithms suspended drivers without human review",
+          "link": "https://www.reddit.com/r/artificial/comments/1vxv8pl/uber_hit_with_a_near1b_gdpr_fine_after_algorithms/",
+          "date": "2026-08-25T09:48:25+00:00"
+        },
+        {
+          "title": "Andrew Yang Warns That AI Is Set to Displace Millions of Workers, America Is \u2018Terrible at Retraining\u2019 Workers\u2026 \u2018The Coal Miners Did Not Become Coders\u2019",
+          "link": "https://www.reddit.com/r/artificial/comments/1vxn7xr/andrew_yang_warns_that_ai_is_set_to_displace/",
+          "date": "2026-08-25T02:27:23+00:00"
+        },
+        {
+          "title": "I built an AI where everyone talks to the same mind, and every interaction changes it",
+          "link": "https://www.reddit.com/r/artificial/comments/1vxxeef/i_built_an_ai_where_everyone_talks_to_the_same/",
+          "date": "2026-08-25T11:41:15+00:00"
+        },
+        {
+          "title": "For a \u20ac6k portable AI/development setup, prioritize 64\u2013128GB unified memory or CUDA compatibility?",
+          "link": "https://www.reddit.com/r/artificial/comments/1vxxrqj/for_a_6k_portable_aidevelopment_setup_prioritize/",
+          "date": "2026-08-25T11:59:08+00:00"
+        },
+        {
+          "title": "Coding expertise is going to collapse from AI reliance",
+          "link": "https://www.reddit.com/r/artificial/comments/1vxdtcz/coding_expertise_is_going_to_collapse_from_ai/",
+          "date": "2026-08-24T20:04:00+00:00"
+        }
+      ],
       "error": null
     },
     {
@@ -554,6 +580,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Even Babies Are Still Way Better at Learning Than AI Models",
+          "link": "https://futurism.com/artificial-intelligence/babies-way-better-learning-ai-llm-models-language",
+          "date": "Tue, 25 Aug 2026 09:50:00 -0400"
+        },
+        {
           "title": "Nobody Wants Anthropic\u2019s Best AI Model Anymore Now That There Are Way Cheaper Alternatives",
           "link": "https://futurism.com/artificial-intelligence/nobody-wants-anthropics-best-ai-cheaper-alternatives",
           "date": "Tue, 25 Aug 2026 08:46:46 -0400"
@@ -572,11 +603,6 @@
           "title": "Texas Governor Suddenly Turns on Data Centers as Backlash Grows",
           "link": "https://futurism.com/artificial-intelligence/texas-governor-turns-on-data-centers-backlash-grows",
           "date": "Mon, 24 Aug 2026 11:01:13 -0400"
-        },
-        {
-          "title": "Dating App Cofounder Bails After Scandal Over Using Fake AI-Generated Influencers",
-          "link": "https://futurism.com/artificial-intelligence/dating-app-cofounder-bails-scandal-fake-ai-influencers",
-          "date": "Sun, 23 Aug 2026 13:06:00 -0400"
         }
       ],
       "error": null
