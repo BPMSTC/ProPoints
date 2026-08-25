@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T04:35:06.541327+00:00",
+  "generatedAt": "2026-08-25T05:27:39.772104+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -450,33 +450,7 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "Andrew Yang Warns That AI Is Set to Displace Millions of Workers, America Is \u2018Terrible at Retraining\u2019 Workers\u2026 \u2018The Coal Miners Did Not Become Coders\u2019",
-          "link": "https://www.reddit.com/r/artificial/comments/1vxn7xr/andrew_yang_warns_that_ai_is_set_to_displace/",
-          "date": "2026-08-25T02:27:23+00:00"
-        },
-        {
-          "title": "Coding expertise is going to collapse from AI reliance",
-          "link": "https://www.reddit.com/r/artificial/comments/1vxdtcz/coding_expertise_is_going_to_collapse_from_ai/",
-          "date": "2026-08-24T20:04:00+00:00"
-        },
-        {
-          "title": "A Drone Guided Entirely by A.I. Killed Three Ukrainians",
-          "link": "https://www.reddit.com/r/artificial/comments/1vxb34m/a_drone_guided_entirely_by_ai_killed_three/",
-          "date": "2026-08-24T18:28:17+00:00"
-        },
-        {
-          "title": "I brought ChatGPT, Claude, and Gemini into a group chat to solve a complex problem. Here is how they caught each other hallucinating",
-          "link": "https://www.reddit.com/r/artificial/comments/1vx1jrm/i_brought_chatgpt_claude_and_gemini_into_a_group/",
-          "date": "2026-08-24T12:34:25+00:00"
-        },
-        {
-          "title": "How could I help my parents (in their 50s/60s) better recognize AI content?",
-          "link": "https://www.reddit.com/r/artificial/comments/1vxc1kc/how_could_i_help_my_parents_in_their_50s60s/",
-          "date": "2026-08-24T19:01:00+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
@@ -516,6 +490,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "\u2018Never seen this level of objection\u2019: Scotland pushes back against datacentre boom",
+          "link": "https://www.theguardian.com/uk-news/2026/aug/25/never-seen-this-level-of-objection-scotland-pushes-back-against-datacentre-boom",
+          "date": "Tue, 25 Aug 2026 05:00:49 GMT"
+        },
+        {
           "title": "Black Box: episode 2 \u2013 The hunt for ClothOff, the deepfake porn app \u2013 podcast",
           "link": "https://www.theguardian.com/news/audio/2026/aug/25/black-box-episode-2-the-hunt-for-clothoff-the-deepfake-porn-app-podcast",
           "date": "Tue, 25 Aug 2026 02:00:44 GMT"
@@ -534,11 +513,6 @@
           "title": "Black Box: episode 1 \u2013 The connectionists \u2013 podcast",
           "link": "https://www.theguardian.com/news/audio/2026/aug/24/black-box-episode-1-the-connectionists-podcast",
           "date": "Mon, 24 Aug 2026 02:00:48 GMT"
-        },
-        {
-          "title": "Ella Baron on AI and the drought \u2013 cartoon",
-          "link": "https://www.theguardian.com/commentisfree/picture/2026/aug/23/ella-baron-on-ai-and-the-drought-cartoon",
-          "date": "Sun, 23 Aug 2026 17:03:48 GMT"
         }
       ],
       "error": null
