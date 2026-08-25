@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T04:22:37.550587+00:00",
+  "generatedAt": "2026-08-25T04:35:06.541327+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -450,7 +450,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "Andrew Yang Warns That AI Is Set to Displace Millions of Workers, America Is \u2018Terrible at Retraining\u2019 Workers\u2026 \u2018The Coal Miners Did Not Become Coders\u2019",
+          "link": "https://www.reddit.com/r/artificial/comments/1vxn7xr/andrew_yang_warns_that_ai_is_set_to_displace/",
+          "date": "2026-08-25T02:27:23+00:00"
+        },
+        {
+          "title": "Coding expertise is going to collapse from AI reliance",
+          "link": "https://www.reddit.com/r/artificial/comments/1vxdtcz/coding_expertise_is_going_to_collapse_from_ai/",
+          "date": "2026-08-24T20:04:00+00:00"
+        },
+        {
+          "title": "A Drone Guided Entirely by A.I. Killed Three Ukrainians",
+          "link": "https://www.reddit.com/r/artificial/comments/1vxb34m/a_drone_guided_entirely_by_ai_killed_three/",
+          "date": "2026-08-24T18:28:17+00:00"
+        },
+        {
+          "title": "I brought ChatGPT, Claude, and Gemini into a group chat to solve a complex problem. Here is how they caught each other hallucinating",
+          "link": "https://www.reddit.com/r/artificial/comments/1vx1jrm/i_brought_chatgpt_claude_and_gemini_into_a_group/",
+          "date": "2026-08-24T12:34:25+00:00"
+        },
+        {
+          "title": "How could I help my parents (in their 50s/60s) better recognize AI content?",
+          "link": "https://www.reddit.com/r/artificial/comments/1vxc1kc/how_could_i_help_my_parents_in_their_50s60s/",
+          "date": "2026-08-24T19:01:00+00:00"
+        }
+      ],
       "error": null
     },
     {
