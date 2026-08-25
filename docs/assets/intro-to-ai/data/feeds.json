@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T05:27:39.772104+00:00",
+  "generatedAt": "2026-08-25T06:44:20.045399+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI | TechCrunch",
@@ -490,6 +490,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Tell us: do you think AI has made Google search better or worse?",
+          "link": "https://www.theguardian.com/technology/2026/aug/25/google-ai-overview",
+          "date": "Tue, 25 Aug 2026 06:00:50 GMT"
+        },
+        {
           "title": "\u2018Never seen this level of objection\u2019: Scotland pushes back against datacentre boom",
           "link": "https://www.theguardian.com/uk-news/2026/aug/25/never-seen-this-level-of-objection-scotland-pushes-back-against-datacentre-boom",
           "date": "Tue, 25 Aug 2026 05:00:49 GMT"
@@ -508,11 +513,6 @@
           "title": "Albanese seeks to quell datacentre disquiet as climate expert warns \u2018we\u2019ve got one shot to get the rules right\u2019",
           "link": "https://www.theguardian.com/australia-news/2026/aug/25/albanese-seeks-to-quell-datacentre-disquiet-as-climate-expert-warns-weve-got-one-shot-to-get-the-rules-right",
           "date": "Mon, 24 Aug 2026 14:01:35 GMT"
-        },
-        {
-          "title": "Black Box: episode 1 \u2013 The connectionists \u2013 podcast",
-          "link": "https://www.theguardian.com/news/audio/2026/aug/24/black-box-episode-1-the-connectionists-podcast",
-          "date": "Mon, 24 Aug 2026 02:00:48 GMT"
         }
       ],
       "error": null
