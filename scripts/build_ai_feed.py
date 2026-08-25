@@ -51,9 +51,9 @@ def build_feed_snapshot():
     for feed in FEEDS:
         try:
             parsed = feedparser.parse(feed["url"], request_headers={"User-Agent": USER_AGENT})
-            if parsed.bozo:
-                raise RuntimeError(str(parsed.bozo_exception))
             entries = [parse_entry(entry) for entry in parsed.entries[:MAX_ITEMS]]
+            if not entries and parsed.bozo:
+                raise RuntimeError(str(parsed.bozo_exception))
             results.append({
                 "name": feed["name"],
                 "url": feed["url"],
