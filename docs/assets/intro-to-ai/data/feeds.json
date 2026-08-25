@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T06:44:20.045399+00:00",
+  "generatedAt": "2026-08-25T07:40:20.918235+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI | TechCrunch",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -490,6 +490,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "The war on \u2018loudcasting\u2019 phones can be won, but it will take some very British nudging | Dan Hancox",
+          "link": "https://www.theguardian.com/commentisfree/2026/aug/25/war-loudcasting-british-nudging-phones-public",
+          "date": "Tue, 25 Aug 2026 07:00:51 GMT"
+        },
+        {
           "title": "Tell us: do you think AI has made Google search better or worse?",
           "link": "https://www.theguardian.com/technology/2026/aug/25/google-ai-overview",
           "date": "Tue, 25 Aug 2026 06:00:50 GMT"
@@ -508,11 +513,6 @@
           "title": "UK to use Ukraine battlefield data to train AI to protect sensitive sites",
           "link": "https://www.theguardian.com/politics/2026/aug/24/uk-to-use-ukraine-battlefield-data-to-train-ai-to-protect-sensitive-sites",
           "date": "Mon, 24 Aug 2026 18:16:14 GMT"
-        },
-        {
-          "title": "Albanese seeks to quell datacentre disquiet as climate expert warns \u2018we\u2019ve got one shot to get the rules right\u2019",
-          "link": "https://www.theguardian.com/australia-news/2026/aug/25/albanese-seeks-to-quell-datacentre-disquiet-as-climate-expert-warns-weve-got-one-shot-to-get-the-rules-right",
-          "date": "Mon, 24 Aug 2026 14:01:35 GMT"
         }
       ],
       "error": null
