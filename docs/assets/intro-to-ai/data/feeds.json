@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-08-25T16:32:32.832728+00:00",
+  "generatedAt": "2026-08-25T17:27:50.864526+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Charges Dropped Against Person Who Clapped at a City Data Center Meeting",
+          "link": "https://www.404media.co/charges-dropped-against-person-who-clapped-at-a-city-data-center-meeting/",
+          "date": "Tue, 25 Aug 2026 16:33:48 GMT"
+        },
         {
           "title": "Man Charged With 3 Felonies For Breaking 3D-Printed \u2018Decoy\u2019 Flock Camera",
           "link": "https://www.404media.co/man-charged-with-3-felonies-for-breaking-3d-printed-decoy-flock-camera/",
@@ -24,11 +29,6 @@
           "title": "Brand Hype Has Existed Since the Bronze Age, Scientists Discover",
           "link": "https://www.404media.co/brand-hype-has-existed-since-the-bronze-age-scientists-discover/",
           "date": "Sat, 22 Aug 2026 10:00:35 GMT"
-        },
-        {
-          "title": "Behind the Blog: Early Birthday Reflections",
-          "link": "https://www.404media.co/behind-the-blog-early-birthday-reflections/",
-          "date": "Fri, 21 Aug 2026 14:54:35 GMT"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -306,6 +306,16 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Banco BS2 takes a foundation-first approach to scaling enterprise AI",
+          "link": "https://siliconangle.com/2026/08/25/banco-bs2-scaling-enterprise-ai-foundation-first-plan-aifactoriesdatacenters/",
+          "date": "Tue, 25 Aug 2026 17:27:14 +0000"
+        },
+        {
+          "title": "Anthropic updates Claude\u2019s memory to enhance customization and protect sensitive topics",
+          "link": "https://siliconangle.com/2026/08/25/anthropic-updates-claudes-memory-to-enhance-customization-and-protect-sensitive-topics/",
+          "date": "Tue, 25 Aug 2026 17:00:22 +0000"
+        },
+        {
           "title": "Nvidia doubles compute for entry-level edge robotics with Jetson Orin Nano 2",
           "link": "https://siliconangle.com/2026/08/25/nvidia-doubles-compute-for-entry-level-edge-robotics-with-jetson-orin-nano-2/",
           "date": "Tue, 25 Aug 2026 15:00:57 +0000"
@@ -319,16 +329,6 @@
           "title": "Cisco and Nvidia take AI factories from rack to runtime",
           "link": "https://siliconangle.com/2026/08/25/cisco-and-nvidia-take-ai-factories-from-rack-to-runtime-cisconvidiaaifactory/",
           "date": "Tue, 25 Aug 2026 13:35:56 +0000"
-        },
-        {
-          "title": "Ropedia launches next-gen wearable capture device for robotic AI training data",
-          "link": "https://siliconangle.com/2026/08/25/ropedia-launches-next-gen-wearable-capture-device-for-robotic-ai-training-data/",
-          "date": "Tue, 25 Aug 2026 13:00:36 +0000"
-        },
-        {
-          "title": "Robotics AI startup Generalist reportedly raises $200M",
-          "link": "https://siliconangle.com/2026/08/24/robotics-ai-startup-generalist-reportedly-raises-200m/",
-          "date": "Tue, 25 Aug 2026 01:28:14 +0000"
         }
       ],
       "error": null
@@ -490,6 +490,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Why the threat from the rampaging AI machine went ignored | Letters",
+          "link": "https://www.theguardian.com/technology/2026/aug/25/why-the-threat-from-the-rampaging-ai-machine-went-ignored",
+          "date": "Tue, 25 Aug 2026 16:44:28 GMT"
+        },
+        {
           "title": "Australia may face a rush of datacentre construction as AI firms look to dodge upcoming rules, experts say",
           "link": "https://www.theguardian.com/australia-news/2026/aug/26/australia-may-face-a-rush-of-datacentre-construction-as-ai-firms-look-to-dodge-upcoming-rules-experts-say",
           "date": "Tue, 25 Aug 2026 15:00:19 GMT"
@@ -508,11 +513,6 @@
           "title": "The war on \u2018loudcasting\u2019 phones can be won, but it will take some very British nudging | Dan Hancox",
           "link": "https://www.theguardian.com/commentisfree/2026/aug/25/war-loudcasting-british-nudging-phones-public",
           "date": "Tue, 25 Aug 2026 07:00:51 GMT"
-        },
-        {
-          "title": "Tell us: do you think AI has made Google search better or worse?",
-          "link": "https://www.theguardian.com/technology/2026/aug/25/google-ai-overview",
-          "date": "Tue, 25 Aug 2026 06:00:50 GMT"
         }
       ],
       "error": null
@@ -554,6 +554,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "90 Percent of Execs Say Oops, AI Didn\u2019t Help Productivity, So Layoffs Will Continue",
+          "link": "https://futurism.com/artificial-intelligence/90-percent-execs-ai-didnt-help-productivity-layoffs",
+          "date": "Tue, 25 Aug 2026 12:54:10 -0400"
+        },
+        {
           "title": "Even Babies Are Still Way Better at Learning Than AI Models",
           "link": "https://futurism.com/artificial-intelligence/babies-way-better-learning-ai-llm-models-language",
           "date": "Tue, 25 Aug 2026 09:50:00 -0400"
@@ -572,11 +577,6 @@
           "title": "Clueless AI CEOs Still Baffled Why Everybody\u2019s So Mad About AI All the Time",
           "link": "https://futurism.com/artificial-intelligence/ai-ceos-public-mad-outrage",
           "date": "Mon, 24 Aug 2026 14:30:00 -0400"
-        },
-        {
-          "title": "Texas Governor Suddenly Turns on Data Centers as Backlash Grows",
-          "link": "https://futurism.com/artificial-intelligence/texas-governor-turns-on-data-centers-backlash-grows",
-          "date": "Mon, 24 Aug 2026 11:01:13 -0400"
         }
       ],
       "error": null
