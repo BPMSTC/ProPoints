@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T14:45:03.909502+00:00",
+  "generatedAt": "2026-08-25T15:38:18.732604+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,12 +101,17 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI | TechCrunch",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
+        {
+          "title": "Gamma acquires Accel-backed design startup Lica",
+          "link": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+          "date": "Tue, 25 Aug 2026 15:00:00 +0000"
+        },
         {
           "title": "OpenAI\u2019s Jalape\u00f1o chip is built for fast inference at scale, benchmarks show",
           "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
@@ -126,11 +131,6 @@
           "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
           "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
           "date": "Tue, 25 Aug 2026 00:23:12 +0000"
-        },
-        {
-          "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-          "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
-          "date": "Mon, 24 Aug 2026 21:24:17 +0000"
         }
       ],
       "error": null
@@ -139,6 +139,11 @@
       "name": "AI Business",
       "url": "https://aibusiness.com/rss.xml",
       "items": [
+        {
+          "title": "XPeng\u2019s Robotics Unit Valued at $6.3B After Investment",
+          "link": "https://aibusiness.com/robotics/xpeng-s-robotics-unit-valued-6-3b-after-investment",
+          "date": "Tue, 25 Aug 2026 14:36:52 GMT"
+        },
         {
           "title": "Mistral and Saudi Vendor to Advance Sovereign AI in Middle East",
           "link": "https://aibusiness.com/generative-ai/mistral-saudi-vendor-advance-sovereign-ai-in-middle-east",
@@ -158,11 +163,6 @@
           "title": "Mathematical Theories Could Be the Key to Explainable AI Systems",
           "link": "https://aibusiness.com/generative-ai/mathematical-theories-could-be-key-explainable-ai-systems",
           "date": "Mon, 24 Aug 2026 18:38:33 GMT"
-        },
-        {
-          "title": "Waymo Develops Its Own Chip for Self-Driving",
-          "link": "https://aibusiness.com/generative-ai/waymo-develops-own-chip-for-self-driving",
-          "date": "Mon, 24 Aug 2026 15:25:15 GMT"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -306,9 +306,9 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
-          "title": "AI factories enter the execution era as Cisco and NVIDIA push rack-scale systems into production",
-          "link": "https://siliconangle.com/2026/08/25/ai-infrastructure-execution-era-cisco-nvidia-cisconvidiaaifactory/",
-          "date": "Tue, 25 Aug 2026 14:25:26 +0000"
+          "title": "Nvidia doubles compute for entry-level edge robotics with Jetson Orin Nano 2",
+          "link": "https://siliconangle.com/2026/08/25/nvidia-doubles-compute-for-entry-level-edge-robotics-with-jetson-orin-nano-2/",
+          "date": "Tue, 25 Aug 2026 15:00:57 +0000"
         },
         {
           "title": "Nvidia and Cisco push the enterprise AI factory into the rack-scale era",
@@ -388,6 +388,11 @@
       "url": "https://huggingface.co/blog/feed.xml",
       "items": [
         {
+          "title": "Granite 4.2 LLMs: How They're Built",
+          "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+          "date": "Tue, 25 Aug 2026 15:14:14 GMT"
+        },
+        {
           "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
           "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
           "date": "Tue, 25 Aug 2026 11:39:24 GMT"
@@ -406,11 +411,6 @@
           "title": "Measuring benchmark optimization in speech recognition",
           "link": "https://huggingface.co/blog/asr-benchmark-optimization",
           "date": "Fri, 21 Aug 2026 00:00:00 GMT"
-        },
-        {
-          "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-          "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-          "date": "Thu, 20 Aug 2026 16:52:57 GMT"
         }
       ],
       "error": null
@@ -450,33 +450,7 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "Uber hit with a near-$1B GDPR fine after algorithms suspended drivers without human review",
-          "link": "https://www.reddit.com/r/artificial/comments/1vxv8pl/uber_hit_with_a_near1b_gdpr_fine_after_algorithms/",
-          "date": "2026-08-25T09:48:25+00:00"
-        },
-        {
-          "title": "Andrew Yang Warns That AI Is Set to Displace Millions of Workers, America Is \u2018Terrible at Retraining\u2019 Workers\u2026 \u2018The Coal Miners Did Not Become Coders\u2019",
-          "link": "https://www.reddit.com/r/artificial/comments/1vxn7xr/andrew_yang_warns_that_ai_is_set_to_displace/",
-          "date": "2026-08-25T02:27:23+00:00"
-        },
-        {
-          "title": "I built an AI where everyone talks to the same mind, and every interaction changes it",
-          "link": "https://www.reddit.com/r/artificial/comments/1vxxeef/i_built_an_ai_where_everyone_talks_to_the_same/",
-          "date": "2026-08-25T11:41:15+00:00"
-        },
-        {
-          "title": "For a \u20ac6k portable AI/development setup, prioritize 64\u2013128GB unified memory or CUDA compatibility?",
-          "link": "https://www.reddit.com/r/artificial/comments/1vxxrqj/for_a_6k_portable_aidevelopment_setup_prioritize/",
-          "date": "2026-08-25T11:59:08+00:00"
-        },
-        {
-          "title": "Coding expertise is going to collapse from AI reliance",
-          "link": "https://www.reddit.com/r/artificial/comments/1vxdtcz/coding_expertise_is_going_to_collapse_from_ai/",
-          "date": "2026-08-24T20:04:00+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
@@ -516,6 +490,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Australia may face a rush of datacentre construction as AI firms look to dodge upcoming rules, experts say",
+          "link": "https://www.theguardian.com/australia-news/2026/aug/26/australia-may-face-a-rush-of-datacentre-construction-as-ai-firms-look-to-dodge-upcoming-rules-experts-say",
+          "date": "Tue, 25 Aug 2026 15:00:19 GMT"
+        },
+        {
           "title": "No, AI doesn\u2019t mean the end of mathematics \u2013 at least not yet | Bruce Schneier and Kasra Rafi",
           "link": "https://www.theguardian.com/commentisfree/2026/aug/25/ai-mathematics-careers",
           "date": "Tue, 25 Aug 2026 12:00:35 GMT"
@@ -534,11 +513,6 @@
           "title": "Tell us: do you think AI has made Google search better or worse?",
           "link": "https://www.theguardian.com/technology/2026/aug/25/google-ai-overview",
           "date": "Tue, 25 Aug 2026 06:00:50 GMT"
-        },
-        {
-          "title": "\u2018Never seen this level of objection\u2019: Scotland pushes back against datacentre boom",
-          "link": "https://www.theguardian.com/uk-news/2026/aug/25/never-seen-this-level-of-objection-scotland-pushes-back-against-datacentre-boom",
-          "date": "Tue, 25 Aug 2026 05:00:49 GMT"
         }
       ],
       "error": null
