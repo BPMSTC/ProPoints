@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T22:22:19.178392+00:00",
+  "generatedAt": "2026-08-25T23:21:45.627772+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -306,6 +306,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Perplexity AI launches Portable Computer on-device AI agent",
+          "link": "https://siliconangle.com/2026/08/25/perplexity-ai-launches-portable-computer-on-device-ai-agent/",
+          "date": "Tue, 25 Aug 2026 22:32:18 +0000"
+        },
+        {
           "title": "Apple refreshes Mac mini, Mac Studio lineups with new chips",
           "link": "https://siliconangle.com/2026/08/25/apple-refreshes-mac-mini-mac-studio-lineups-with-new-chips/",
           "date": "Tue, 25 Aug 2026 20:47:55 +0000"
@@ -324,11 +329,6 @@
           "title": "Anthropic updates Claude\u2019s memory to enhance customization and protect sensitive topics",
           "link": "https://siliconangle.com/2026/08/25/anthropic-updates-claudes-memory-to-enhance-customization-and-protect-sensitive-topics/",
           "date": "Tue, 25 Aug 2026 17:00:22 +0000"
-        },
-        {
-          "title": "Nvidia doubles compute for entry-level edge robotics with Jetson Orin Nano 2",
-          "link": "https://siliconangle.com/2026/08/25/nvidia-doubles-compute-for-entry-level-edge-robotics-with-jetson-orin-nano-2/",
-          "date": "Tue, 25 Aug 2026 15:00:57 +0000"
         }
       ],
       "error": null
@@ -420,6 +420,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "The world's busiest spaceport is about to get a lot quieter, at least for now",
+          "link": "https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/",
+          "date": "Tue, 25 Aug 2026 22:21:06 +0000"
+        },
+        {
           "title": "World humanoid robot games show runners breaking records, bursting into flames",
           "link": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
           "date": "Tue, 25 Aug 2026 20:59:03 +0000"
@@ -438,11 +443,6 @@
           "title": "Two unvaccinated people die from measles in Pennsylvania, officials confirm",
           "link": "https://arstechnica.com/health/2026/08/two-unvaccinated-people-die-from-measles-in-pennsylvania-officials-confirm/",
           "date": "Tue, 25 Aug 2026 17:39:38 +0000"
-        },
-        {
-          "title": "SpaceX intends to invest up to $100 billion in massive Louisiana spaceport",
-          "link": "https://arstechnica.com/space/2026/08/spacex-intends-to-invest-up-to-100-billion-in-massive-louisiana-spaceport/",
-          "date": "Tue, 25 Aug 2026 17:26:15 +0000"
         }
       ],
       "error": null
