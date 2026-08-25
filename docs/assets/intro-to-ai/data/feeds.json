@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T09:31:19.766183+00:00",
+  "generatedAt": "2026-08-25T10:27:40.558453+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -279,6 +279,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "ChatGPT inside Excel vs ChatGPT Work for a complex production planning workflow with Power Query?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vxv6st/chatgpt_inside_excel_vs_chatgpt_work_for_a/",
+          "date": "2026-08-25T09:45:17+00:00"
+        },
+        {
           "title": "Codex \"Software\" performance update \ud83e\udd2b",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vxo5b4/codex_software_performance_update/",
           "date": "2026-08-25T03:10:38+00:00"
@@ -292,11 +297,6 @@
           "title": "How do I build a consistent RPG in ChatGPT with persistent NPC memories, stats, and a living world?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vx12vh/how_do_i_build_a_consistent_rpg_in_chatgpt_with/",
           "date": "2026-08-24T12:13:21+00:00"
-        },
-        {
-          "title": "Deep Dive on how ClawMetry works across 20+ AI Agent runtimes like Claude Code, Open Code, Codex, Hermes, Antigravity, Pi, Deepseek Harness & more.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vw2rhj/deep_dive_on_how_clawmetry_works_across_20_ai/",
-          "date": "2026-08-23T09:37:46+00:00"
         }
       ],
       "error": null
@@ -586,6 +586,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "It Should Be Harder to Apply for a Job. No, Really",
+          "link": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
+          "date": "Tue, 25 Aug 2026 09:30:00 +0000"
+        },
+        {
           "title": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out",
           "link": "https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/",
           "date": "Tue, 25 Aug 2026 09:15:00 +0000"
@@ -604,11 +609,6 @@
           "title": "The Single English County Saying No to Palantir",
           "link": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/",
           "date": "Fri, 21 Aug 2026 06:00:00 +0000"
-        },
-        {
-          "title": "Silicon Valley Doesn't Get Why You Hate AI",
-          "link": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
-          "date": "Thu, 20 Aug 2026 18:49:07 +0000"
         }
       ],
       "error": null
