@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T04:11:26.423856+00:00",
+  "generatedAt": "2026-08-25T04:22:37.550587+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -104,10 +104,36 @@
       "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
-      "name": "AI Archives | KnowTechie",
-      "url": "https://knowtechie.com/category/ai/feed/",
-      "items": [],
-      "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1016)>"
+      "name": "AI | TechCrunch",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "items": [
+        {
+          "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+          "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+          "date": "Tue, 25 Aug 2026 00:23:12 +0000"
+        },
+        {
+          "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+          "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+          "date": "Mon, 24 Aug 2026 21:24:17 +0000"
+        },
+        {
+          "title": "Amjad Masad,\u00a0CEO\u00a0and co-founder\u00a0of\u00a0Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
+          "date": "Mon, 24 Aug 2026 19:54:19 +0000"
+        },
+        {
+          "title": "Instinct\u2019s powerful AI assistant is raising privacy and security concerns",
+          "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+          "date": "Mon, 24 Aug 2026 18:03:55 +0000"
+        },
+        {
+          "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+          "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+          "date": "Mon, 24 Aug 2026 15:24:18 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Business",
@@ -143,9 +169,35 @@
     },
     {
       "name": "AIModels.fyi",
-      "url": "https://aimodels.substack.com/feed",
-      "items": [],
-      "error": "<unknown>:2:1326: not well-formed (invalid token)"
+      "url": "https://notes.aimodels.fyi/rss/",
+      "items": [
+        {
+          "title": "The prompt isn't hiding inside the image",
+          "link": "https://notes.aimodels.fyi/the-prompt-isnt-hiding-inside-the-image/",
+          "date": "Sat, 11 Apr 2026 22:13:02 GMT"
+        },
+        {
+          "title": "Meta traded its biggest community asset for a commerce engine",
+          "link": "https://notes.aimodels.fyi/meta-traded-its-biggest-community-asset-for-a-commerce-engine/",
+          "date": "Thu, 09 Apr 2026 17:44:54 GMT"
+        },
+        {
+          "title": "Introduction to Stable Diffusion Img2Img: Shaping the Future of Image Generation",
+          "link": "https://notes.aimodels.fyi/introduction-to-stable-diffusion-img2img-shaping-the-future-of-image-generation/",
+          "date": "Thu, 09 Apr 2026 17:30:38 GMT"
+        },
+        {
+          "title": "Netflix's VOID shows video editing has finally learned the laws of physics",
+          "link": "https://notes.aimodels.fyi/netflixs-void-shows-video-editing-has-finally-learned-the-laws-of-physics/",
+          "date": "Wed, 08 Apr 2026 23:09:03 GMT"
+        },
+        {
+          "title": "Turning sound to sight with the Audio-To-Waveform AI Model",
+          "link": "https://notes.aimodels.fyi/turning-sound-to-sight-with-the-audio-to-waveform-ai-model/",
+          "date": "Mon, 06 Apr 2026 19:55:28 GMT"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI News",
@@ -283,9 +335,35 @@
     },
     {
       "name": "AI Snake Oil",
-      "url": "https://aisnakeoil.substack.com/feed",
-      "items": [],
-      "error": "<unknown>:2:1326: not well-formed (invalid token)"
+      "url": "https://www.normaltech.ai/feed",
+      "items": [
+        {
+          "title": "AI agents can't yet do open-ended AI research",
+          "link": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+          "date": "Wed, 05 Aug 2026 13:49:19 GMT"
+        },
+        {
+          "title": "What will be left for us to work on?",
+          "link": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+          "date": "Mon, 13 Jul 2026 18:47:06 GMT"
+        },
+        {
+          "title": "Up the Stack: How AI\u2019s Escape From the Commodity Trap Risks Enterprise Lock-in",
+          "link": "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+          "date": "Thu, 09 Jul 2026 22:29:33 GMT"
+        },
+        {
+          "title": "Why AI hasn\u2019t replaced software engineers, and won\u2019t",
+          "link": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+          "date": "Thu, 11 Jun 2026 02:29:51 GMT"
+        },
+        {
+          "title": "Did Google\u2019s AI agents really build an operating system for $916?",
+          "link": "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+          "date": "Fri, 22 May 2026 22:24:18 GMT"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI \u2013 Uber Engineering Blog",
@@ -306,10 +384,36 @@
       "error": "<unknown>:2:0: syntax error"
     },
     {
-      "name": "Announcements - Stability AI",
-      "url": "https://stability.ai/blog?format=rss",
-      "items": [],
-      "error": "<unknown>:2:0: syntax error"
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/feed.xml",
+      "items": [
+        {
+          "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+          "link": "https://huggingface.co/blog/gradio-workflow-guide",
+          "date": "Tue, 25 Aug 2026 00:00:00 GMT"
+        },
+        {
+          "title": "Measuring benchmark optimization in speech recognition",
+          "link": "https://huggingface.co/blog/asr-benchmark-optimization",
+          "date": "Fri, 21 Aug 2026 00:00:00 GMT"
+        },
+        {
+          "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+          "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+          "date": "Thu, 20 Aug 2026 16:52:57 GMT"
+        },
+        {
+          "title": "How Much Memory Does Your Agent Actually Need?",
+          "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+          "date": "Tue, 18 Aug 2026 18:09:38 GMT"
+        },
+        {
+          "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+          "link": "https://huggingface.co/blog/multi-vector-encoder",
+          "date": "Tue, 18 Aug 2026 00:00:00 GMT"
+        }
+      ],
+      "error": null
     },
     {
       "name": "Ars Technica - All content",
