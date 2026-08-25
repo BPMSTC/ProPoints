@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T11:23:23.184971+00:00",
+  "generatedAt": "2026-08-25T12:40:10.290698+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "\u2018The world seems to be ready\u2019: An interview with OpenAI head of product Thibault Sottiaux",
+          "link": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+          "date": "Tue, 25 Aug 2026 12:00:00 +0000"
+        },
+        {
           "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
           "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
           "date": "Tue, 25 Aug 2026 00:23:12 +0000"
@@ -126,11 +131,6 @@
           "title": "Instinct\u2019s powerful AI assistant is raising privacy and security concerns",
           "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
           "date": "Mon, 24 Aug 2026 18:03:55 +0000"
-        },
-        {
-          "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-          "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-          "date": "Mon, 24 Aug 2026 15:24:18 +0000"
         }
       ],
       "error": null
@@ -150,6 +150,11 @@
           "date": "Mon, 24 Aug 2026 19:38:56 GMT"
         },
         {
+          "title": "Mathematical Theories Could Be the Key to Explainable AI Systems",
+          "link": "https://aibusiness.com/generative-ai/mathematical-theories-could-be-key-explainable-ai-systems",
+          "date": "Mon, 24 Aug 2026 18:38:33 GMT"
+        },
+        {
           "title": "Waymo Develops Its Own Chip for Self-Driving",
           "link": "https://aibusiness.com/generative-ai/waymo-develops-own-chip-for-self-driving",
           "date": "Mon, 24 Aug 2026 15:25:15 GMT"
@@ -158,11 +163,6 @@
           "title": "Ode With Anthropic Makes First Acquisition to Expand Enterprise AI",
           "link": "https://aibusiness.com/generative-ai/ode-with-anthropic-makes-acquisition-expand-enterprise-ai",
           "date": "Mon, 24 Aug 2026 13:30:17 GMT"
-        },
-        {
-          "title": "Prompt: Agentic AI Is Outpacing Enterprise Readiness",
-          "link": "https://aibusiness.com/agentic-ai/prompt-agentic-ai-outpacing-enterprise-readiness",
-          "date": "Fri, 21 Aug 2026 14:28:42 GMT"
         }
       ],
       "error": null
@@ -388,9 +388,19 @@
       "url": "https://huggingface.co/blog/feed.xml",
       "items": [
         {
+          "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+          "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+          "date": "Tue, 25 Aug 2026 11:39:24 GMT"
+        },
+        {
           "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
           "link": "https://huggingface.co/blog/gradio-workflow-guide",
           "date": "Tue, 25 Aug 2026 00:00:00 GMT"
+        },
+        {
+          "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+          "link": "https://huggingface.co/blog/pwc-search",
+          "date": "Fri, 21 Aug 2026 00:00:00 GMT"
         },
         {
           "title": "Measuring benchmark optimization in speech recognition",
@@ -401,16 +411,6 @@
           "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
           "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
           "date": "Thu, 20 Aug 2026 16:52:57 GMT"
-        },
-        {
-          "title": "How Much Memory Does Your Agent Actually Need?",
-          "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-          "date": "Tue, 18 Aug 2026 18:09:38 GMT"
-        },
-        {
-          "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-          "link": "https://huggingface.co/blog/multi-vector-encoder",
-          "date": "Tue, 18 Aug 2026 00:00:00 GMT"
         }
       ],
       "error": null
@@ -490,6 +490,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "No, AI doesn\u2019t mean the end of mathematics \u2013 at least not yet | Bruce Schneier and Kasra Rafi",
+          "link": "https://www.theguardian.com/commentisfree/2026/aug/25/ai-mathematics-careers",
+          "date": "Tue, 25 Aug 2026 12:00:35 GMT"
+        },
+        {
           "title": "Two planned datacentres will have higher UK carbon emissions than ExxonMobil, analysis finds",
           "link": "https://www.theguardian.com/uk-news/2026/aug/25/planned-datacentres-carbon-emissions-uk-exxonmobil",
           "date": "Tue, 25 Aug 2026 11:04:56 GMT"
@@ -508,11 +513,6 @@
           "title": "\u2018Never seen this level of objection\u2019: Scotland pushes back against datacentre boom",
           "link": "https://www.theguardian.com/uk-news/2026/aug/25/never-seen-this-level-of-objection-scotland-pushes-back-against-datacentre-boom",
           "date": "Tue, 25 Aug 2026 05:00:49 GMT"
-        },
-        {
-          "title": "Black Box: episode 2 \u2013 The hunt for ClothOff, the deepfake porn app \u2013 podcast",
-          "link": "https://www.theguardian.com/news/audio/2026/aug/25/black-box-episode-2-the-hunt-for-clothoff-the-deepfake-porn-app-podcast",
-          "date": "Tue, 25 Aug 2026 02:00:44 GMT"
         }
       ],
       "error": null
