@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T23:21:20.499808+00:00",
+  "generatedAt": "2026-08-25T01:03:39.113166+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -151,7 +151,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -228,6 +228,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Nvidia reportedly eyes another investment in Perplexity AI at a $30B valuation",
+          "link": "https://siliconangle.com/2026/08/24/nvidia-reportedly-eyes-another-investment-in-perplexity-ai-at-a-30b-valuation/",
+          "date": "Mon, 24 Aug 2026 23:40:08 +0000"
+        },
+        {
           "title": "Trump defends AI data center buildout amid pushback",
           "link": "https://siliconangle.com/2026/08/24/trump-defends-ai-data-center-buildout-amid-pushback/",
           "date": "Mon, 24 Aug 2026 20:52:45 +0000"
@@ -246,11 +251,6 @@
           "title": "Sam Altman voices fears that control of AI could be centered in too few hands",
           "link": "https://siliconangle.com/2026/08/23/sam-altman-voices-fears-that-control-of-ai-could-be-centered-in-too-few-hands/",
           "date": "Mon, 24 Aug 2026 01:39:24 +0000"
-        },
-        {
-          "title": "Report: AI model hub Hugging Face exploring sale at $13B valuation",
-          "link": "https://siliconangle.com/2026/08/23/report-ai-model-hub-hugging-face-exploring-sale-at-13b-valuation/",
-          "date": "Sun, 23 Aug 2026 23:05:29 +0000"
         }
       ],
       "error": null
