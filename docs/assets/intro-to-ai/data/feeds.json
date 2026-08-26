@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T03:00:47.280634+00:00",
+  "generatedAt": "2026-08-26T04:35:16.489572+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "India\u2019s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+          "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+          "date": "Wed, 26 Aug 2026 03:30:00 +0000"
+        },
+        {
           "title": "Robotics startup Generalist reaches $3B valuation, sources say",
           "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
           "date": "Wed, 26 Aug 2026 00:40:59 +0000"
@@ -126,11 +131,6 @@
           "title": "Claude Cowork finally remembers what you told the app in chat",
           "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
           "date": "Tue, 25 Aug 2026 17:50:33 +0000"
-        },
-        {
-          "title": "Gamma acquires Accel-backed design startup Lica",
-          "link": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
-          "date": "Tue, 25 Aug 2026 15:00:00 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -495,6 +495,11 @@
           "date": "Tue, 25 Aug 2026 16:44:28 GMT"
         },
         {
+          "title": "Nine CEO sees \u2018world of growth in publishing\u2019 as network slashes costs",
+          "link": "https://www.theguardian.com/media/2026/aug/26/nine-entertainment-ai-deals-network-slashes-costs",
+          "date": "Wed, 26 Aug 2026 04:18:16 GMT"
+        },
+        {
           "title": "Black Box: episode 3 \u2013 Repocalypse now \u2013 podcast",
           "link": "https://www.theguardian.com/news/audio/2026/aug/26/black-box-episode-3-repocalypse-now-podcast",
           "date": "Wed, 26 Aug 2026 02:00:30 GMT"
@@ -508,11 +513,6 @@
           "title": "Taiwan charges nine people for smuggling \u2018high-end\u2019 AI servers to China",
           "link": "https://www.theguardian.com/technology/2026/aug/25/taiwan-china-ai-smugglers",
           "date": "Tue, 25 Aug 2026 19:02:42 GMT"
-        },
-        {
-          "title": "Trump-backed Ken Paxton unveils \u2018Texas first\u2019 datacenter plan aimed at \u2018negative impact\u2019",
-          "link": "https://www.theguardian.com/us-news/2026/aug/25/ken-paxton-datacenters-plan-texas",
-          "date": "Tue, 25 Aug 2026 17:54:00 GMT"
         }
       ],
       "error": null
