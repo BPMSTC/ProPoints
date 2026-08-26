@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T14:40:07.700412+00:00",
+  "generatedAt": "2026-08-26T16:16:53.939834+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,16 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Radar makes podcasts searchable \u2014 and usable by AI agents",
+          "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+          "date": "Wed, 26 Aug 2026 15:47:28 +0000"
+        },
+        {
+          "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
+          "link": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+          "date": "Wed, 26 Aug 2026 15:00:00 +0000"
+        },
+        {
           "title": "Bill Gates wants to see a robot tax and \u2018Human Reserved\u2019 jobs to mitigate harms from AI",
           "link": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
           "date": "Wed, 26 Aug 2026 14:37:01 +0000"
@@ -121,16 +131,6 @@
           "title": "Robot brain builders are pushing out of their GPT-2 era",
           "link": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
           "date": "Wed, 26 Aug 2026 13:30:00 +0000"
-        },
-        {
-          "title": "QueryStory wants you to believe what AI is telling you",
-          "link": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
-          "date": "Wed, 26 Aug 2026 13:00:00 +0000"
-        },
-        {
-          "title": "Arga Labs is building a better way to train enterprise AI agents",
-          "link": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
-          "date": "Wed, 26 Aug 2026 12:55:28 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -420,6 +420,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Court blocks Trump FCC order that could flood broadcast TV with more election ads",
+          "link": "https://arstechnica.com/tech-policy/2026/08/court-blocks-trump-fcc-order-that-could-flood-broadcast-tv-with-more-election-ads/",
+          "date": "Wed, 26 Aug 2026 15:45:07 +0000"
+        },
+        {
+          "title": "Researchers get two genetic codes to work at the same time",
+          "link": "https://arstechnica.com/science/2026/08/researchers-get-two-genetic-codes-to-work-at-the-same-time/",
+          "date": "Wed, 26 Aug 2026 15:00:34 +0000"
+        },
+        {
           "title": "15,000 years of solar wind in four hours? A Seattle company gives it a go.",
           "link": "https://arstechnica.com/space/2026/08/15000-years-of-solar-wind-in-four-hours-a-seattle-company-gives-it-a-go/",
           "date": "Wed, 26 Aug 2026 14:14:52 +0000"
@@ -433,16 +443,6 @@
           "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
           "link": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
           "date": "Wed, 26 Aug 2026 11:10:49 +0000"
-        },
-        {
-          "title": "Xtracycle's Swoop ASM e-bike brings an automatic transmission to cargo bikes",
-          "link": "https://arstechnica.com/cars/2026/08/xtracycles-swoop-asm-e-bike-brings-an-automatic-transmission-to-cargo-bikes/",
-          "date": "Wed, 26 Aug 2026 11:00:12 +0000"
-        },
-        {
-          "title": "The world's busiest spaceport is about to get a lot quieter, at least for now",
-          "link": "https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/",
-          "date": "Tue, 25 Aug 2026 22:21:06 +0000"
         }
       ],
       "error": null
@@ -495,6 +495,11 @@
           "date": "Wed, 26 Aug 2026 10:33:43 GMT"
         },
         {
+          "title": "What will we get out of the AI boom? The data suggests lots of noisy, energy-hungry datacentres and not much else",
+          "link": "https://www.theguardian.com/business/grogonomics/2026/aug/27/ai-boom-noisy-energy-hungry-datacentres-construction-economy",
+          "date": "Wed, 26 Aug 2026 15:00:16 GMT"
+        },
+        {
           "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
           "link": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
           "date": "Wed, 26 Aug 2026 11:00:11 GMT"
@@ -508,11 +513,6 @@
           "title": "Albanese backs down on states powering AI datacentres using renewable energy",
           "link": "https://www.theguardian.com/australia-news/2026/aug/26/albanese-backs-down-on-states-powering-ai-datacentres-using-sustainable-energy",
           "date": "Wed, 26 Aug 2026 08:36:50 GMT"
-        },
-        {
-          "title": "Around the world, people are rejecting divisive and dangerous politics. We can \u2013 and must \u2013 build on that | Gordon Brown",
-          "link": "https://www.theguardian.com/commentisfree/2026/aug/26/world-people-dangerous-politics-global-public-human-rights",
-          "date": "Wed, 26 Aug 2026 05:00:35 GMT"
         }
       ],
       "error": null
