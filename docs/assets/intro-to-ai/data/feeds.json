@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T11:30:08.085924+00:00",
+  "generatedAt": "2026-08-26T12:44:02.732631+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,12 +101,22 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI | TechCrunch",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
+        {
+          "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
+          "link": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
+          "date": "Wed, 26 Aug 2026 12:00:00 +0000"
+        },
+        {
+          "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+          "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+          "date": "Wed, 26 Aug 2026 11:00:00 +0000"
+        },
         {
           "title": "India\u2019s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
           "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
@@ -121,16 +131,6 @@
           "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
           "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
           "date": "Wed, 26 Aug 2026 00:06:20 +0000"
-        },
-        {
-          "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-          "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
-          "date": "Tue, 25 Aug 2026 19:03:47 +0000"
-        },
-        {
-          "title": "Claude Cowork finally remembers what you told the app in chat",
-          "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-          "date": "Tue, 25 Aug 2026 17:50:33 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -272,39 +272,18 @@
     {
       "name": "Ai Prompt Programming",
       "url": "https://www.reddit.com/r/aipromptprogramming/.rss",
-      "items": [
-        {
-          "title": "Welcome to r/aipromptprogramming \u2014 join our Discord",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vlcrpj/welcome_to_raipromptprogramming_join_our_discord/",
-          "date": "2026-08-11T09:36:31+00:00"
-        },
-        {
-          "title": "I built an open-source, agent-agnostic workflow that cuts AI coding agent token waste (works with Claude, GPT/Codex, Gemini, Cursor, Copilot)",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vyck38/i_built_an_opensource_agentagnostic_workflow_that/",
-          "date": "2026-08-25T21:05:43+00:00"
-        },
-        {
-          "title": "ChatGPT inside Excel vs ChatGPT Work for a complex production planning workflow with Power Query?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vxv6st/chatgpt_inside_excel_vs_chatgpt_work_for_a/",
-          "date": "2026-08-25T09:45:17+00:00"
-        },
-        {
-          "title": "Codex \"Software\" performance update \ud83e\udd2b",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vxo5b4/codex_software_performance_update/",
-          "date": "2026-08-25T03:10:38+00:00"
-        },
-        {
-          "title": "We made building apps so easy that now finding them is practically impossible",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vx1d9z/we_made_building_apps_so_easy_that_now_finding/",
-          "date": "2026-08-24T12:26:30+00:00"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:0: syntax error"
     },
     {
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
+        {
+          "title": "Glean unveils Tau desktop workspace, claims token-cost edge over Claude",
+          "link": "https://siliconangle.com/2026/08/26/glean-unveils-tau-desktop-workspace-claims-token-cost-edge-over-claude/",
+          "date": "Wed, 26 Aug 2026 12:00:58 +0000"
+        },
         {
           "title": "Major record labels, AMD back $76M round for Stability AI",
           "link": "https://siliconangle.com/2026/08/25/major-record-labels-amd-back-76m-round-for-stability-ai/",
@@ -324,11 +303,6 @@
           "title": "Apple refreshes Mac mini, Mac Studio lineups with new chips",
           "link": "https://siliconangle.com/2026/08/25/apple-refreshes-mac-mini-mac-studio-lineups-with-new-chips/",
           "date": "Tue, 25 Aug 2026 20:47:55 +0000"
-        },
-        {
-          "title": "AI inference gets a new tier as context windows grow",
-          "link": "https://siliconangle.com/2026/08/25/ai-storage-infrastructure-supports-scalable-ai-inference-supermicroopenstoragesummit/",
-          "date": "Tue, 25 Aug 2026 19:21:36 +0000"
         }
       ],
       "error": null
@@ -420,6 +394,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
+          "link": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
+          "date": "Wed, 26 Aug 2026 11:10:49 +0000"
+        },
+        {
+          "title": "Xtracycle's Swoop ASM e-bike brings an automatic transmission to cargo bikes",
+          "link": "https://arstechnica.com/cars/2026/08/xtracycles-swoop-asm-e-bike-brings-an-automatic-transmission-to-cargo-bikes/",
+          "date": "Wed, 26 Aug 2026 11:00:12 +0000"
+        },
+        {
           "title": "The world's busiest spaceport is about to get a lot quieter, at least for now",
           "link": "https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/",
           "date": "Tue, 25 Aug 2026 22:21:06 +0000"
@@ -433,16 +417,6 @@
           "title": "Preserving glow-in-the-dark art and fashion for future generations",
           "link": "https://arstechnica.com/science/2026/08/how-chemistry-can-keep-glow-in-the-dark-pigments-from-fading/",
           "date": "Tue, 25 Aug 2026 18:59:12 +0000"
-        },
-        {
-          "title": "Google's anti-nausea Motion Assist dots finally rolling out on Android",
-          "link": "https://arstechnica.com/gadgets/2026/08/google-begins-rolling-out-anti-motion-sickness-feature-on-android-17/",
-          "date": "Tue, 25 Aug 2026 18:32:30 +0000"
-        },
-        {
-          "title": "Two unvaccinated people die from measles in Pennsylvania, officials confirm",
-          "link": "https://arstechnica.com/health/2026/08/two-unvaccinated-people-die-from-measles-in-pennsylvania-officials-confirm/",
-          "date": "Tue, 25 Aug 2026 17:39:38 +0000"
         }
       ],
       "error": null
@@ -450,7 +424,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "CEO fired developers to make room for AI. Developers respond by creating open source AI CEO",
+          "link": "https://www.reddit.com/r/artificial/comments/1vyegah/ceo_fired_developers_to_make_room_for_ai/",
+          "date": "2026-08-25T22:18:07+00:00"
+        },
+        {
+          "title": "The bottleneck for meeting transcription tools isn't accurate anymore, it's speaker attribution",
+          "link": "https://www.reddit.com/r/artificial/comments/1vyrxy8/the_bottleneck_for_meeting_transcription_tools/",
+          "date": "2026-08-26T09:16:47+00:00"
+        },
+        {
+          "title": "Uber hit with a near-$1B GDPR fine after algorithms suspended drivers without human review",
+          "link": "https://www.reddit.com/r/artificial/comments/1vxv8pl/uber_hit_with_a_near1b_gdpr_fine_after_algorithms/",
+          "date": "2026-08-25T09:48:25+00:00"
+        },
+        {
+          "title": "Truck Driver Builds AI News Aggregator",
+          "link": "https://www.reddit.com/r/artificial/comments/1vycupz/truck_driver_builds_ai_news_aggregator/",
+          "date": "2026-08-25T21:16:37+00:00"
+        },
+        {
+          "title": "VSArena: the hosted harness for public ELO is live \u2014 submit a policy, watch it stack cubes, get scored",
+          "link": "https://www.reddit.com/r/artificial/comments/1vyw1en/vsarena_the_hosted_harness_for_public_elo_is_live/",
+          "date": "2026-08-26T12:43:47+00:00"
+        }
+      ],
       "error": null
     },
     {
@@ -490,7 +490,7 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Bill Gates calls for \u2018human reserved\u2019 jobs in face of AI takeover",
+          "title": "Bill Gates calls for \u2018human-reserved\u2019 jobs in face of AI takeover",
           "link": "https://www.theguardian.com/technology/2026/aug/26/bill-gates-human-reserved-jobs-ai-takeover",
           "date": "Wed, 26 Aug 2026 10:33:43 GMT"
         },
