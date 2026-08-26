@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T07:41:59.297314+00:00",
+  "generatedAt": "2026-08-26T08:38:20.839708+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -495,6 +495,11 @@
           "date": "Tue, 25 Aug 2026 16:44:28 GMT"
         },
         {
+          "title": "Albanese backs down on states powering AI datacentres using sustainable energy",
+          "link": "https://www.theguardian.com/australia-news/2026/aug/26/albanese-backs-down-on-states-powering-ai-datacentres-using-sustainable-energy",
+          "date": "Wed, 26 Aug 2026 08:36:50 GMT"
+        },
+        {
           "title": "Around the world, people are rejecting divisive and dangerous politics. We can \u2013 and must \u2013 build on that | Gordon Brown",
           "link": "https://www.theguardian.com/commentisfree/2026/aug/26/world-people-dangerous-politics-global-public-human-rights",
           "date": "Wed, 26 Aug 2026 05:00:35 GMT"
@@ -508,11 +513,6 @@
           "title": "Black Box: episode 3 \u2013 Repocalypse now \u2013 podcast",
           "link": "https://www.theguardian.com/news/audio/2026/aug/26/black-box-episode-3-repocalypse-now-podcast",
           "date": "Wed, 26 Aug 2026 02:00:30 GMT"
-        },
-        {
-          "title": "In China, talking to AI is normal. Now the government fears it might replace human intimacy",
-          "link": "https://www.theguardian.com/world/2026/aug/26/china-ai-companion-relationships-marriage-birth-rate-concern",
-          "date": "Wed, 26 Aug 2026 00:47:38 GMT"
         }
       ],
       "error": null
