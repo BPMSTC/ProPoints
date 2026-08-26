@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T10:31:04.165840+00:00",
+  "generatedAt": "2026-08-26T11:30:08.085924+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI | TechCrunch",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -450,33 +450,7 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "CEO fired developers to make room for AI. Developers respond by creating open source AI CEO",
-          "link": "https://www.reddit.com/r/artificial/comments/1vyegah/ceo_fired_developers_to_make_room_for_ai/",
-          "date": "2026-08-25T22:18:07+00:00"
-        },
-        {
-          "title": "The bottleneck for meeting transcription tools isn't accurate anymore, it's speaker attribution",
-          "link": "https://www.reddit.com/r/artificial/comments/1vyrxy8/the_bottleneck_for_meeting_transcription_tools/",
-          "date": "2026-08-26T09:16:47+00:00"
-        },
-        {
-          "title": "Uber hit with a near-$1B GDPR fine after algorithms suspended drivers without human review",
-          "link": "https://www.reddit.com/r/artificial/comments/1vxv8pl/uber_hit_with_a_near1b_gdpr_fine_after_algorithms/",
-          "date": "2026-08-25T09:48:25+00:00"
-        },
-        {
-          "title": "Truck Driver Builds AI News Aggregator",
-          "link": "https://www.reddit.com/r/artificial/comments/1vycupz/truck_driver_builds_ai_news_aggregator/",
-          "date": "2026-08-25T21:16:37+00:00"
-        },
-        {
-          "title": "[ Removed by Reddit ]",
-          "link": "https://www.reddit.com/r/artificial/comments/1vyt6jq/removed_by_reddit/",
-          "date": "2026-08-26T10:25:27+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
@@ -516,9 +490,14 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Why the threat from the rampaging AI machine went ignored | Letters",
-          "link": "https://www.theguardian.com/technology/2026/aug/25/why-the-threat-from-the-rampaging-ai-machine-went-ignored",
-          "date": "Tue, 25 Aug 2026 16:44:28 GMT"
+          "title": "Bill Gates calls for \u2018human reserved\u2019 jobs in face of AI takeover",
+          "link": "https://www.theguardian.com/technology/2026/aug/26/bill-gates-human-reserved-jobs-ai-takeover",
+          "date": "Wed, 26 Aug 2026 10:33:43 GMT"
+        },
+        {
+          "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+          "link": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+          "date": "Wed, 26 Aug 2026 11:00:11 GMT"
         },
         {
           "title": "London rollout of robotaxis delayed amid lack of guidance for firms to follow",
@@ -534,11 +513,6 @@
           "title": "Around the world, people are rejecting divisive and dangerous politics. We can \u2013 and must \u2013 build on that | Gordon Brown",
           "link": "https://www.theguardian.com/commentisfree/2026/aug/26/world-people-dangerous-politics-global-public-human-rights",
           "date": "Wed, 26 Aug 2026 05:00:35 GMT"
-        },
-        {
-          "title": "Nine CEO sees \u2018world of growth in publishing\u2019 as network slashes costs",
-          "link": "https://www.theguardian.com/media/2026/aug/26/nine-entertainment-ai-deals-network-slashes-costs",
-          "date": "Wed, 26 Aug 2026 04:18:16 GMT"
         }
       ],
       "error": null
@@ -612,6 +586,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "AI Slop Is Ruining Cute Animals on the Internet",
+          "link": "https://www.wired.com/story/ai-slop-is-ruining-the-internets-cute-animal-economy/",
+          "date": "Wed, 26 Aug 2026 11:00:00 +0000"
+        },
+        {
           "title": "It Should Be Harder to Apply for a Job. No, Really",
           "link": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
           "date": "Tue, 25 Aug 2026 09:30:00 +0000"
@@ -630,11 +609,6 @@
           "title": "The Unlikely Place at the Center of China\u2019s AI Boom",
           "link": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
           "date": "Fri, 21 Aug 2026 23:25:32 +0000"
-        },
-        {
-          "title": "The Single English County Saying No to Palantir",
-          "link": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/",
-          "date": "Fri, 21 Aug 2026 06:00:00 +0000"
         }
       ],
       "error": null
