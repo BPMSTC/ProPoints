@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-08-26T18:55:51.862784+00:00",
+  "generatedAt": "2026-08-26T21:38:31.793601+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "A Student Said He Was a Hobby Plane Spotter. He Was Allegedly Taking Photos for the Chinese Government",
+          "link": "https://www.404media.co/a-student-said-he-was-a-hobby-plane-spotter-he-was-allegedly-taking-photos-for-the-chinese-government/",
+          "date": "Wed, 26 Aug 2026 19:46:56 GMT"
+        },
         {
           "title": "Scientists Discover Vast Underground 'Anomaly' on Mars",
           "link": "https://www.404media.co/scientists-discover-vast-underground-anomaly-on-mars/",
@@ -24,11 +29,6 @@
           "title": "Podcast: Cops Are Making Fake Flock Cameras and Amazon Packages",
           "link": "https://www.404media.co/podcast-cops-are-making-fake-flock-cameras-and-amazon-packages/",
           "date": "Wed, 26 Aug 2026 13:07:22 GMT"
-        },
-        {
-          "title": "Israel Is Running a Synthetic Think Tank to Influence AI Search Results",
-          "link": "https://www.404media.co/israel-is-running-a-synthetic-think-tank-to-influence-ai-search-results/",
-          "date": "Tue, 25 Aug 2026 18:35:26 GMT"
         }
       ],
       "error": null
@@ -108,29 +108,29 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Anthropic continues compute-gobbling streak in $45 billion deal with Nscale",
+          "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+          "date": "Wed, 26 Aug 2026 21:37:39 +0000"
+        },
+        {
+          "title": "Google\u2019s Gemini has a branding problem, and so does the rest of AI",
+          "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+          "date": "Wed, 26 Aug 2026 19:37:34 +0000"
+        },
+        {
+          "title": "How do we explain OpenAI\u2019s executive exodus?",
+          "link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+          "date": "Wed, 26 Aug 2026 19:34:04 +0000"
+        },
+        {
+          "title": "OpenAI releases its official report on the Hugging Face breach",
+          "link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+          "date": "Wed, 26 Aug 2026 19:05:22 +0000"
+        },
+        {
           "title": "Radar makes podcasts searchable \u2014 and usable by AI agents",
           "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
           "date": "Wed, 26 Aug 2026 15:47:28 +0000"
-        },
-        {
-          "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
-          "link": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
-          "date": "Wed, 26 Aug 2026 15:00:00 +0000"
-        },
-        {
-          "title": "Bill Gates wants to see a robot tax and \u2018Human Reserved\u2019 jobs to mitigate harms from AI",
-          "link": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
-          "date": "Wed, 26 Aug 2026 14:37:01 +0000"
-        },
-        {
-          "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
-          "link": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
-          "date": "Wed, 26 Aug 2026 14:19:29 +0000"
-        },
-        {
-          "title": "Robot brain builders are pushing out of their GPT-2 era",
-          "link": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
-          "date": "Wed, 26 Aug 2026 13:30:00 +0000"
         }
       ],
       "error": null
@@ -139,6 +139,11 @@
       "name": "AI Business",
       "url": "https://aibusiness.com/rss.xml",
       "items": [
+        {
+          "title": "Qwen 3.8 Flash-Next is Cheap, But There Are Complicating Factors",
+          "link": "https://aibusiness.com/generative-ai/qwen-3-8-flash-next-cheap-there-are-complicating-factors",
+          "date": "Wed, 26 Aug 2026 20:18:16 GMT"
+        },
         {
           "title": "China's Humanoid Edge Is Hardware, Not AI",
           "link": "https://aibusiness.com/robotics/china-s-humanoid-edge-hardware-not-ai",
@@ -158,11 +163,6 @@
           "title": "XPeng\u2019s Robotics Unit Valued at $6.3B After Investment",
           "link": "https://aibusiness.com/robotics/xpeng-s-robotics-unit-valued-6-3b-after-investment",
           "date": "Tue, 25 Aug 2026 14:36:52 GMT"
-        },
-        {
-          "title": "Mistral and Saudi Vendor to Advance Sovereign AI in Middle East",
-          "link": "https://aibusiness.com/generative-ai/mistral-saudi-vendor-advance-sovereign-ai-in-middle-east",
-          "date": "Tue, 25 Aug 2026 14:12:00 GMT"
         }
       ],
       "error": null
@@ -420,29 +420,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Court blocks Trump FCC order that could flood broadcast TV with more election ads",
-          "link": "https://arstechnica.com/tech-policy/2026/08/court-blocks-trump-fcc-order-that-could-flood-broadcast-tv-with-more-election-ads/",
-          "date": "Wed, 26 Aug 2026 15:45:07 +0000"
+          "title": "New Twitter launches, says Musk's X gave up the name",
+          "link": "https://arstechnica.com/tech-policy/2026/08/new-twitter-launches-says-musks-x-gave-up-the-name/",
+          "date": "Wed, 26 Aug 2026 20:49:04 +0000"
         },
         {
-          "title": "Researchers get two genetic codes to work at the same time",
-          "link": "https://arstechnica.com/science/2026/08/researchers-get-two-genetic-codes-to-work-at-the-same-time/",
-          "date": "Wed, 26 Aug 2026 15:00:34 +0000"
+          "title": "Meta settles states' child-safety claims for $18B; Florida rejects deal as \"peanuts\"",
+          "link": "https://arstechnica.com/tech-policy/2026/08/meta-settles-states-child-safety-claims-for-18b-florida-rejects-deal-as-peanuts/",
+          "date": "Wed, 26 Aug 2026 19:50:52 +0000"
         },
         {
-          "title": "15,000 years of solar wind in four hours? A Seattle company gives it a go.",
-          "link": "https://arstechnica.com/space/2026/08/15000-years-of-solar-wind-in-four-hours-a-seattle-company-gives-it-a-go/",
-          "date": "Wed, 26 Aug 2026 14:14:52 +0000"
+          "title": "Florida Catholics slap down state AG by rejecting religious vaccine exemptions",
+          "link": "https://arstechnica.com/health/2026/08/catholic-bishops-tell-florida-theres-no-religious-reason-for-vaccine-exemptions/",
+          "date": "Wed, 26 Aug 2026 19:39:24 +0000"
         },
         {
-          "title": "Psychiatry\u2019s diagnostic bible is finally getting a biological upgrade",
-          "link": "https://arstechnica.com/health/2026/08/psychiatrys-diagnostic-bible-is-finally-getting-a-biological-upgrade/",
-          "date": "Wed, 26 Aug 2026 13:53:32 +0000"
+          "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+          "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
+          "date": "Wed, 26 Aug 2026 19:19:22 +0000"
         },
         {
-          "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
-          "link": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
-          "date": "Wed, 26 Aug 2026 11:10:49 +0000"
+          "title": "The Porsche 911 GT3 Touring punches above its weight class",
+          "link": "https://arstechnica.com/cars/2026/08/driven-the-992-2-porsche-911-gt3-touring-earns-its-keep/",
+          "date": "Wed, 26 Aug 2026 17:25:53 +0000"
         }
       ],
       "error": null
@@ -495,24 +495,24 @@
           "date": "Wed, 26 Aug 2026 10:33:43 GMT"
         },
         {
+          "title": "OpenAI staff observed warning signs before AI agent hacking crusade caused global alarm",
+          "link": "https://www.theguardian.com/technology/2026/aug/26/openai-staff-observed-warning-signs-before-ai-agent-hacking-crusade-caused-global-alarm",
+          "date": "Wed, 26 Aug 2026 19:00:20 GMT"
+        },
+        {
           "title": "What will we get out of the AI boom? The data suggests lots of noisy, energy-hungry datacentres and not much else",
           "link": "https://www.theguardian.com/business/grogonomics/2026/aug/27/ai-boom-noisy-energy-hungry-datacentres-construction-economy",
           "date": "Wed, 26 Aug 2026 15:00:16 GMT"
         },
         {
+          "title": "Hope and concern swirl for Ohioans around \u2018world\u2019s largest datacenter\u2019",
+          "link": "https://www.theguardian.com/us-news/2026/aug/26/ohio-datacenter-reaction",
+          "date": "Wed, 26 Aug 2026 12:00:12 GMT"
+        },
+        {
           "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
           "link": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
           "date": "Wed, 26 Aug 2026 11:00:11 GMT"
-        },
-        {
-          "title": "London rollout of robotaxis delayed amid lack of guidance for firms to follow",
-          "link": "https://www.theguardian.com/technology/2026/aug/26/london-rollout-robotaxis-delayed-uber-wayve",
-          "date": "Wed, 26 Aug 2026 08:48:43 GMT"
-        },
-        {
-          "title": "Albanese backs down on states powering AI datacentres using renewable energy",
-          "link": "https://www.theguardian.com/australia-news/2026/aug/26/albanese-backs-down-on-states-powering-ai-datacentres-using-sustainable-energy",
-          "date": "Wed, 26 Aug 2026 08:36:50 GMT"
         }
       ],
       "error": null
@@ -554,6 +554,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Top WSJ Editor Approves AI-Assisted Writing, Says AI is a \u201cFact of Modern Life\u201d in Major Inflection Point for Media Industry",
+          "link": "https://futurism.com/artificial-intelligence/wsj-ai-writing-fact-of-life",
+          "date": "Wed, 26 Aug 2026 16:07:30 -0400"
+        },
+        {
           "title": "Bill Gates Announces That He Is the First Person Ever to Be Concerned About the Effects of AI",
           "link": "https://futurism.com/artificial-intelligence/bill-gates-concerned-ai",
           "date": "Wed, 26 Aug 2026 13:41:48 -0400"
@@ -572,11 +577,6 @@
           "title": "Harvard Professor Warns That AI Execs Are Pushing World Toward Factory Farming of Humans",
           "link": "https://futurism.com/artificial-intelligence/harvard-professor-ai-factory-farming-humans",
           "date": "Tue, 25 Aug 2026 13:54:16 -0400"
-        },
-        {
-          "title": "90 Percent of Execs Say Oops, AI Didn\u2019t Help Productivity, So Layoffs Will Continue",
-          "link": "https://futurism.com/artificial-intelligence/90-percent-execs-ai-didnt-help-productivity-layoffs",
-          "date": "Tue, 25 Aug 2026 12:54:10 -0400"
         }
       ],
       "error": null
@@ -585,6 +585,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "What We Still Don\u2019t Know About OpenAI\u2019s Hugging Face Hack",
+          "link": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
+          "date": "Wed, 26 Aug 2026 19:16:42 +0000"
+        },
         {
           "title": "The Humanoids at China\u2019s Robot Games Were Faster Than Usain Bolt\u2014but I\u2019m More Impressed by Their Tweezer Mastery",
           "link": "https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/",
@@ -604,11 +609,6 @@
           "title": "It Should Be Harder to Apply for a Job. No, Really",
           "link": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
           "date": "Tue, 25 Aug 2026 09:30:00 +0000"
-        },
-        {
-          "title": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out",
-          "link": "https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/",
-          "date": "Tue, 25 Aug 2026 09:15:00 +0000"
         }
       ],
       "error": null
