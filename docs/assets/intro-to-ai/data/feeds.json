@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T02:52:27.412959+00:00",
+  "generatedAt": "2026-08-27T13:47:47.541736+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "Agentic AI For Finance Summit 2026",
+          "link": "https://www.aiacceleratorinstitute.com/agentic-ai-for-finance-summit-2026/",
+          "date": "Thu, 27 Aug 2026 13:38:34 GMT"
+        },
+        {
           "title": "Your AI agent's skills are lying to   you about why they work",
           "link": "https://www.aiacceleratorinstitute.com/your-ai-agents-skills-are-lying-to-you-about-why-they-work/",
           "date": "Thu, 20 Aug 2026 14:55:40 GMT"
@@ -88,11 +93,6 @@
           "title": "How to build AI in the age of collaborative coding",
           "link": "https://www.aiacceleratorinstitute.com/how-to-build-ai-in-the-age-of-collaborative-coding/",
           "date": "Fri, 14 Aug 2026 15:30:24 GMT"
-        },
-        {
-          "title": "Nobody wants another chatbot:  7 interface architectures worth building",
-          "link": "https://www.aiacceleratorinstitute.com/nobody-wants-another-chatbot-7-interface-architectures-worth-building/",
-          "date": "Thu, 13 Aug 2026 13:57:41 GMT"
         }
       ],
       "error": null
@@ -101,14 +101,29 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI | TechCrunch",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
-          "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+          "title": "Plaud\u2019s new earphones come with an eSIM-enabled case for talking to AI agents",
+          "link": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+          "date": "Thu, 27 Aug 2026 13:00:00 +0000"
+        },
+        {
+          "title": "OpenAI to start showing ads on ChatGPT\u2019s free and Go tiers in India",
+          "link": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+          "date": "Thu, 27 Aug 2026 11:35:59 +0000"
+        },
+        {
+          "title": "Nvidia closes in on Hugging Face acquisition",
+          "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+          "date": "Thu, 27 Aug 2026 06:32:51 +0000"
+        },
+        {
+          "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
           "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
           "date": "Thu, 27 Aug 2026 00:24:57 +0000"
         },
@@ -116,21 +131,6 @@
           "title": "Amazon just tripled its order of Nvidia chips over \u2018surging demand\u2019",
           "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
           "date": "Wed, 26 Aug 2026 23:47:18 +0000"
-        },
-        {
-          "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-          "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-          "date": "Wed, 26 Aug 2026 21:37:39 +0000"
-        },
-        {
-          "title": "Google\u2019s Gemini has a branding problem, and so does the rest of AI",
-          "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
-          "date": "Wed, 26 Aug 2026 19:37:34 +0000"
-        },
-        {
-          "title": "How do we explain OpenAI\u2019s executive exodus?",
-          "link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
-          "date": "Wed, 26 Aug 2026 19:34:04 +0000"
         }
       ],
       "error": null
@@ -139,6 +139,11 @@
       "name": "AI Business",
       "url": "https://aibusiness.com/rss.xml",
       "items": [
+        {
+          "title": "AWS, Nvidia Expand Partnership With 2 Million More GPUs",
+          "link": "https://aibusiness.com/data-centers/aws-nvidia-expand-partnership-2-million-more-gpus",
+          "date": "Thu, 27 Aug 2026 13:04:45 GMT"
+        },
         {
           "title": "Qwen 3.8 Flash-Next is Cheap, But There Are Complicating Factors",
           "link": "https://aibusiness.com/generative-ai/qwen-3-8-flash-next-cheap-there-are-complicating-factors",
@@ -158,11 +163,6 @@
           "title": "In Catch-up Mode, Google Intros AI Agents for Financial, Legal Services",
           "link": "https://aibusiness.com/agentic-ai/in-catch-up-google-intros-ai-agents-financial-legal-services",
           "date": "Tue, 25 Aug 2026 19:38:38 GMT"
-        },
-        {
-          "title": "XPeng\u2019s Robotics Unit Valued at $6.3B After Investment",
-          "link": "https://aibusiness.com/robotics/xpeng-s-robotics-unit-valued-6-3b-after-investment",
-          "date": "Tue, 25 Aug 2026 14:36:52 GMT"
         }
       ],
       "error": null
@@ -203,12 +203,17 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
       "url": "https://venturebeat.com/category/ai/feed/",
       "items": [
+        {
+          "title": "When agents act on their own, governance has to live in the data layer",
+          "link": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+          "date": "Thu, 27 Aug 2026 12:01:00 GMT"
+        },
         {
           "title": "Orchestration is the new challenge for CX in the age of AI agents",
           "link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
@@ -228,11 +233,6 @@
           "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
           "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
           "date": "Thu, 22 Jan 2026 14:00:00 GMT"
-        },
-        {
-          "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-          "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-          "date": "Mon, 19 Jan 2026 14:00:00 GMT"
         }
       ],
       "error": null
@@ -306,6 +306,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Plaud unveils wearable earbuds with built-in agentic AI interface",
+          "link": "https://siliconangle.com/2026/08/27/plaud-unveils-wearable-earbuds-with-built-in-agentic-ai-interface/",
+          "date": "Thu, 27 Aug 2026 13:00:01 +0000"
+        },
+        {
           "title": "Bill Gates issues stark warning about AI and the future of humanity",
           "link": "https://siliconangle.com/2026/08/26/bill-gates-issues-stark-warning-about-ai-and-the-future-of-humanity/",
           "date": "Thu, 27 Aug 2026 01:36:10 +0000"
@@ -324,11 +329,6 @@
           "title": "What to expect during VMware Explore: Join theCUBE Aug. 31-Sept. 2",
           "link": "https://siliconangle.com/2026/08/26/private-cloud-vmware-explore-thecube-vmwareexplore/",
           "date": "Wed, 26 Aug 2026 22:18:36 +0000"
-        },
-        {
-          "title": "AMD, Supermicro and MinIO target the enterprise data pipeline bottleneck",
-          "link": "https://siliconangle.com/2026/08/26/data-pipeline-amd-supermicro-minio-lakehouse-supermicroopenstoragesummit/",
-          "date": "Wed, 26 Aug 2026 18:15:51 +0000"
         }
       ],
       "error": null
@@ -420,6 +420,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Bentley takes us for a ride in its new EV, the Torcal",
+          "link": "https://arstechnica.com/cars/2026/08/an-ev-that-sounds-like-a-6-75-l-v8-a-ride-in-the-bentley-torcal/",
+          "date": "Thu, 27 Aug 2026 11:30:09 +0000"
+        },
+        {
           "title": "RIP, Tim Curry: Ars remembers his top 10 iconic performances",
           "link": "https://arstechnica.com/culture/2026/08/rip-tim-curry-ars-remembers-his-top-10-iconic-performances/",
           "date": "Wed, 26 Aug 2026 22:13:15 +0000"
@@ -438,11 +443,6 @@
           "title": "Meta settles states' child-safety claims for $18B; Florida rejects deal as \"peanuts\"",
           "link": "https://arstechnica.com/tech-policy/2026/08/meta-settles-states-child-safety-claims-for-18b-florida-rejects-deal-as-peanuts/",
           "date": "Wed, 26 Aug 2026 19:50:52 +0000"
-        },
-        {
-          "title": "Florida Catholics slap down state AG by rejecting religious vaccine exemptions",
-          "link": "https://arstechnica.com/health/2026/08/catholic-bishops-tell-florida-theres-no-religious-reason-for-vaccine-exemptions/",
-          "date": "Wed, 26 Aug 2026 19:39:24 +0000"
         }
       ],
       "error": null
@@ -458,29 +458,29 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "I surveyed workers to see if AI had caused job losses and was surprised by the findings",
+          "link": "https://theconversation.com/i-surveyed-workers-to-see-if-ai-had-caused-job-losses-and-was-surprised-by-the-findings-290100",
+          "date": "2026-08-27T12:09:29Z"
+        },
+        {
+          "title": "Politics with Michelle Grattan: Andrew Charlton\u2019s warning on data centres\u2019 impact on power bills",
+          "link": "https://theconversation.com/politics-with-michelle-grattan-andrew-charltons-warning-on-data-centres-impact-on-power-bills-290538",
+          "date": "2026-08-27T05:18:17Z"
+        },
+        {
+          "title": "Australia\u2019s backdown on data centres allows them to use energy from coal and gas. Here\u2019s what that means",
+          "link": "https://theconversation.com/australias-backdown-on-data-centres-allows-them-to-use-energy-from-coal-and-gas-heres-what-that-means-290613",
+          "date": "2026-08-27T04:41:59Z"
+        },
+        {
+          "title": "China\u2019s AI and tech breakthroughs are built on decades of work. Here\u2019s what other nations can learn",
+          "link": "https://theconversation.com/chinas-ai-and-tech-breakthroughs-are-built-on-decades-of-work-heres-what-other-nations-can-learn-289989",
+          "date": "2026-08-27T03:01:59Z"
+        },
+        {
           "title": "Disappearing lakes, old photos and AI are helping scientists map Arctic permafrost thaw in near-real time",
           "link": "https://theconversation.com/disappearing-lakes-old-photos-and-ai-are-helping-scientists-map-arctic-permafrost-thaw-in-near-real-time-290238",
           "date": "2026-08-26T12:39:47Z"
-        },
-        {
-          "title": "Can you teach yourself to detect AI writing? Maybe",
-          "link": "https://theconversation.com/can-you-teach-yourself-to-detect-ai-writing-maybe-289236",
-          "date": "2026-08-25T00:21:51Z"
-        },
-        {
-          "title": "Why police have been told to pause their use of AI in court cases",
-          "link": "https://theconversation.com/why-police-have-been-told-to-pause-their-use-of-ai-in-court-cases-289731",
-          "date": "2026-08-24T13:52:37Z"
-        },
-        {
-          "title": "Albanese to seek state cooperation on data centres but faces fight with Queensland",
-          "link": "https://theconversation.com/albanese-to-seek-state-cooperation-on-data-centres-but-faces-fight-with-queensland-289894",
-          "date": "2026-08-24T12:31:25Z"
-        },
-        {
-          "title": "An AI job boom? Here\u2019s what the tedious, temporary work in data labelling is actually like",
-          "link": "https://theconversation.com/an-ai-job-boom-heres-what-the-tedious-temporary-work-in-data-labelling-is-actually-like-289234",
-          "date": "2026-08-24T00:25:22Z"
         }
       ],
       "error": null
@@ -495,24 +495,24 @@
           "date": "Wed, 26 Aug 2026 23:01:25 GMT"
         },
         {
-          "title": "Black Box: episode 4 \u2013 Bing and I \u2013 podcast",
-          "link": "https://www.theguardian.com/news/audio/2026/aug/27/black-box-episode-4-bing-and-i-podcast",
-          "date": "Thu, 27 Aug 2026 02:00:01 GMT"
+          "title": "AI-proof? Younger workers desert the digital world for traditional crafts",
+          "link": "https://www.theguardian.com/money/2026/aug/27/ai-proof-jobs-traditional-crafts",
+          "date": "Thu, 27 Aug 2026 13:38:30 GMT"
         },
         {
-          "title": "OpenAI staff observed warning signs before AI agent hacking crusade caused global alarm",
-          "link": "https://www.theguardian.com/technology/2026/aug/26/openai-staff-observed-warning-signs-before-ai-agent-hacking-crusade-caused-global-alarm",
-          "date": "Wed, 26 Aug 2026 19:00:20 GMT"
+          "title": "AI slopper in chief: Trump turns to social media amid tough questions",
+          "link": "https://www.theguardian.com/us-news/2026/aug/27/trump-truth-social-ai-george-washington",
+          "date": "Thu, 27 Aug 2026 10:00:12 GMT"
         },
         {
-          "title": "What will we get out of the AI boom? The data suggests lots of noisy, energy-hungry datacentres and not much else",
-          "link": "https://www.theguardian.com/business/grogonomics/2026/aug/27/ai-boom-noisy-energy-hungry-datacentres-construction-economy",
-          "date": "Wed, 26 Aug 2026 15:00:16 GMT"
+          "title": "Black Box: The Chatbots: a new series from The Guardian Investigates \u2013 trailer",
+          "link": "https://www.theguardian.com/technology/audio/2026/aug/27/black-box-the-chatbots-new-series-guardian-investigates-trailer",
+          "date": "Thu, 27 Aug 2026 10:00:11 GMT"
         },
         {
-          "title": "Hope and concern swirl for Ohioans around \u2018world\u2019s largest datacenter\u2019",
-          "link": "https://www.theguardian.com/us-news/2026/aug/26/ohio-datacenter-reaction",
-          "date": "Wed, 26 Aug 2026 12:00:12 GMT"
+          "title": "How decoding beluga whales\u2019 chitchat may save them \u2013 and teach us more about ourselves",
+          "link": "https://www.theguardian.com/environment/2026/aug/27/how-decoding-beluga-whales-chitchat-may-save-them-and-teach-us-more-about-ourselves",
+          "date": "Thu, 27 Aug 2026 09:02:13 GMT"
         }
       ],
       "error": null
@@ -586,6 +586,21 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Submit Your Questions: The Great Data Center Backlash",
+          "link": "https://www.wired.com/story/livestream-the-great-data-center-backlash/",
+          "date": "Thu, 27 Aug 2026 11:00:00 +0000"
+        },
+        {
+          "title": "Stop Touching Your Keyboard. Use This AI-Powered Microphone Instead",
+          "link": "https://www.wired.com/story/relay-q-voice-to-text-ai-app/",
+          "date": "Thu, 27 Aug 2026 10:30:00 +0000"
+        },
+        {
+          "title": "The UK Power Grid Has a Phantom Data Center Problem",
+          "link": "https://www.wired.com/story/uk-data-centers-logjam-ofgem-regulations/",
+          "date": "Thu, 27 Aug 2026 06:00:00 +0000"
+        },
+        {
           "title": "What We Still Don\u2019t Know About OpenAI\u2019s Hugging Face Hack",
           "link": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
           "date": "Wed, 26 Aug 2026 19:16:42 +0000"
@@ -594,21 +609,6 @@
           "title": "The Humanoids at China\u2019s Robot Games Were Faster Than Usain Bolt\u2014but I\u2019m More Impressed by Their Tweezer Mastery",
           "link": "https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/",
           "date": "Wed, 26 Aug 2026 18:15:00 +0000"
-        },
-        {
-          "title": "Candidates Are Signing a Pact Promising Action on Data Centers and AI Safety",
-          "link": "https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/",
-          "date": "Wed, 26 Aug 2026 17:13:37 +0000"
-        },
-        {
-          "title": "AI Slop Is Ruining Cute Animals on the Internet",
-          "link": "https://www.wired.com/story/ai-slop-is-ruining-the-internets-cute-animal-economy/",
-          "date": "Wed, 26 Aug 2026 11:00:00 +0000"
-        },
-        {
-          "title": "It Should Be Harder to Apply for a Job. No, Really",
-          "link": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
-          "date": "Tue, 25 Aug 2026 09:30:00 +0000"
         }
       ],
       "error": null
@@ -617,6 +617,11 @@
       "name": "Artificial Intelligence News -- ScienceDaily",
       "url": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "items": [
+        {
+          "title": "NASA just used satellites and debris to navigate without GPS",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260826055450.htm",
+          "date": "Wed, 26 Aug 2026 19:27:35 EDT"
+        },
         {
           "title": "Scientists turn DNA into a memory device that uses 100x less power",
           "link": "https://www.sciencedaily.com/releases/2026/08/260816044853.htm",
@@ -636,11 +641,6 @@
           "title": "World\u2019s first superconducting quantum heat engine could help unlock massive quantum computers",
           "link": "https://www.sciencedaily.com/releases/2026/08/260814011041.htm",
           "date": "Fri, 14 Aug 2026 08:56:01 EDT"
-        },
-        {
-          "title": "MIT\u2019s new lidar chip could give self-driving cars a wider view",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260722032127.htm",
-          "date": "Wed, 22 Jul 2026 06:00:54 EDT"
         }
       ],
       "error": null
