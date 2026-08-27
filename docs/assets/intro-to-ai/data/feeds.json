@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T21:38:31.793601+00:00",
+  "generatedAt": "2026-08-27T02:52:27.412959+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,7 +108,17 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
-          "title": "Anthropic continues compute-gobbling streak in $45 billion deal with Nscale",
+          "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+          "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+          "date": "Thu, 27 Aug 2026 00:24:57 +0000"
+        },
+        {
+          "title": "Amazon just tripled its order of Nvidia chips over \u2018surging demand\u2019",
+          "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+          "date": "Wed, 26 Aug 2026 23:47:18 +0000"
+        },
+        {
+          "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
           "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
           "date": "Wed, 26 Aug 2026 21:37:39 +0000"
         },
@@ -121,16 +131,6 @@
           "title": "How do we explain OpenAI\u2019s executive exodus?",
           "link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
           "date": "Wed, 26 Aug 2026 19:34:04 +0000"
-        },
-        {
-          "title": "OpenAI releases its official report on the Hugging Face breach",
-          "link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
-          "date": "Wed, 26 Aug 2026 19:05:22 +0000"
-        },
-        {
-          "title": "Radar makes podcasts searchable \u2014 and usable by AI agents",
-          "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
-          "date": "Wed, 26 Aug 2026 15:47:28 +0000"
         }
       ],
       "error": null
@@ -279,24 +279,24 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "Which AI is best for getting structured, well detailed, on point answers? Like for research oriented answers.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vzgzov/which_ai_is_best_for_getting_structured_well/",
+          "date": "2026-08-27T02:08:02+00:00"
+        },
+        {
+          "title": "headlesscode - custom harness adapted from zoo code and improved",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vzfoqy/headlesscode_custom_harness_adapted_from_zoo_code/",
+          "date": "2026-08-27T01:09:32+00:00"
+        },
+        {
+          "title": "VibePod CLI 0.21: DeepSeek Harness, per-profile proxy filters, and one-off port publishing",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vzc81u/vibepod_cli_021_deepseek_harness_perprofile_proxy/",
+          "date": "2026-08-26T22:40:16+00:00"
+        },
+        {
           "title": "Confess your side project...",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vyxopi/confess_your_side_project/",
           "date": "2026-08-26T13:50:28+00:00"
-        },
-        {
-          "title": "I built an open-source, agent-agnostic workflow that cuts AI coding agent token waste (works with Claude, GPT/Codex, Gemini, Cursor, Copilot)",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vyck38/i_built_an_opensource_agentagnostic_workflow_that/",
-          "date": "2026-08-25T21:05:43+00:00"
-        },
-        {
-          "title": "ChatGPT inside Excel vs ChatGPT Work for a complex production planning workflow with Power Query?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vxv6st/chatgpt_inside_excel_vs_chatgpt_work_for_a/",
-          "date": "2026-08-25T09:45:17+00:00"
-        },
-        {
-          "title": "Codex \"Software\" performance update \ud83e\udd2b",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vxo5b4/codex_software_performance_update/",
-          "date": "2026-08-25T03:10:38+00:00"
         }
       ],
       "error": null
@@ -306,29 +306,29 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Bill Gates issues stark warning about AI and the future of humanity",
+          "link": "https://siliconangle.com/2026/08/26/bill-gates-issues-stark-warning-about-ai-and-the-future-of-humanity/",
+          "date": "Thu, 27 Aug 2026 01:36:10 +0000"
+        },
+        {
+          "title": "Z.ai open-sources \u2018Ox Alpha\u2019 model as GLM-5.3-Flash",
+          "link": "https://siliconangle.com/2026/08/26/z-ai-open-sources-ox-alpha-model-as-glm-5-3-flash/",
+          "date": "Thu, 27 Aug 2026 00:26:24 +0000"
+        },
+        {
+          "title": "Deep Cogito raises $43M to develop self-improving AI models",
+          "link": "https://siliconangle.com/2026/08/26/deep-cogito-raises-43m-to-develop-self-improving-ai-models/",
+          "date": "Wed, 26 Aug 2026 22:34:28 +0000"
+        },
+        {
+          "title": "What to expect during VMware Explore: Join theCUBE Aug. 31-Sept. 2",
+          "link": "https://siliconangle.com/2026/08/26/private-cloud-vmware-explore-thecube-vmwareexplore/",
+          "date": "Wed, 26 Aug 2026 22:18:36 +0000"
+        },
+        {
           "title": "AMD, Supermicro and MinIO target the enterprise data pipeline bottleneck",
           "link": "https://siliconangle.com/2026/08/26/data-pipeline-amd-supermicro-minio-lakehouse-supermicroopenstoragesummit/",
           "date": "Wed, 26 Aug 2026 18:15:51 +0000"
-        },
-        {
-          "title": "Glean unveils Tau desktop workspace, claims token-cost edge over Claude",
-          "link": "https://siliconangle.com/2026/08/26/glean-unveils-tau-desktop-workspace-claims-token-cost-edge-over-claude/",
-          "date": "Wed, 26 Aug 2026 12:00:58 +0000"
-        },
-        {
-          "title": "Major record labels, AMD back $76M round for Stability AI",
-          "link": "https://siliconangle.com/2026/08/25/major-record-labels-amd-back-76m-round-for-stability-ai/",
-          "date": "Wed, 26 Aug 2026 00:11:55 +0000"
-        },
-        {
-          "title": "Agentic web search infrastructure startup Keenable raises $26M",
-          "link": "https://siliconangle.com/2026/08/25/agentic-web-search-infrastructure-startup-keenable-raises-26m/",
-          "date": "Tue, 25 Aug 2026 23:51:41 +0000"
-        },
-        {
-          "title": "Perplexity AI launches Portable Computer on-device AI agent",
-          "link": "https://siliconangle.com/2026/08/25/perplexity-ai-launches-portable-computer-on-device-ai-agent/",
-          "date": "Tue, 25 Aug 2026 22:32:18 +0000"
         }
       ],
       "error": null
@@ -420,6 +420,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "RIP, Tim Curry: Ars remembers his top 10 iconic performances",
+          "link": "https://arstechnica.com/culture/2026/08/rip-tim-curry-ars-remembers-his-top-10-iconic-performances/",
+          "date": "Wed, 26 Aug 2026 22:13:15 +0000"
+        },
+        {
+          "title": "AI agents meant to replace Meta workers made \u201clarge-scale, disruptive actions\u201d",
+          "link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+          "date": "Wed, 26 Aug 2026 21:25:27 +0000"
+        },
+        {
           "title": "New Twitter launches, says Musk's X gave up the name",
           "link": "https://arstechnica.com/tech-policy/2026/08/new-twitter-launches-says-musks-x-gave-up-the-name/",
           "date": "Wed, 26 Aug 2026 20:49:04 +0000"
@@ -433,16 +443,6 @@
           "title": "Florida Catholics slap down state AG by rejecting religious vaccine exemptions",
           "link": "https://arstechnica.com/health/2026/08/catholic-bishops-tell-florida-theres-no-religious-reason-for-vaccine-exemptions/",
           "date": "Wed, 26 Aug 2026 19:39:24 +0000"
-        },
-        {
-          "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
-          "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
-          "date": "Wed, 26 Aug 2026 19:19:22 +0000"
-        },
-        {
-          "title": "The Porsche 911 GT3 Touring punches above its weight class",
-          "link": "https://arstechnica.com/cars/2026/08/driven-the-992-2-porsche-911-gt3-touring-earns-its-keep/",
-          "date": "Wed, 26 Aug 2026 17:25:53 +0000"
         }
       ],
       "error": null
@@ -490,9 +490,14 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Bill Gates calls for \u2018human-reserved\u2019 jobs in face of AI takeover",
-          "link": "https://www.theguardian.com/technology/2026/aug/26/bill-gates-human-reserved-jobs-ai-takeover",
-          "date": "Wed, 26 Aug 2026 10:33:43 GMT"
+          "title": "London neurosurgeons perform first successful AI-assisted operation to remove brain tumour",
+          "link": "https://www.theguardian.com/technology/2026/aug/27/london-neurosurgeons-ai-assisted-operation-brain-tumour",
+          "date": "Wed, 26 Aug 2026 23:01:25 GMT"
+        },
+        {
+          "title": "Black Box: episode 4 \u2013 Bing and I \u2013 podcast",
+          "link": "https://www.theguardian.com/news/audio/2026/aug/27/black-box-episode-4-bing-and-i-podcast",
+          "date": "Thu, 27 Aug 2026 02:00:01 GMT"
         },
         {
           "title": "OpenAI staff observed warning signs before AI agent hacking crusade caused global alarm",
@@ -508,11 +513,6 @@
           "title": "Hope and concern swirl for Ohioans around \u2018world\u2019s largest datacenter\u2019",
           "link": "https://www.theguardian.com/us-news/2026/aug/26/ohio-datacenter-reaction",
           "date": "Wed, 26 Aug 2026 12:00:12 GMT"
-        },
-        {
-          "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-          "link": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
-          "date": "Wed, 26 Aug 2026 11:00:11 GMT"
         }
       ],
       "error": null
