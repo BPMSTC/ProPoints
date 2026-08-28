@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T23:37:41.654721+00:00",
+  "generatedAt": "2026-08-28T08:56:20.371966+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "Agentic AI is learning to resist   the off switch",
+          "link": "https://www.aiacceleratorinstitute.com/agentic-ai-is-learning-to-resist-the-off-switch-2/",
+          "date": "Fri, 28 Aug 2026 07:57:13 GMT"
+        },
+        {
           "title": "Agentic AI For Finance Summit 2026",
           "link": "https://www.aiacceleratorinstitute.com/agentic-ai-for-finance-summit-2026/",
           "date": "Thu, 27 Aug 2026 13:38:34 GMT"
@@ -88,11 +93,6 @@
           "title": "Bridging the gap from supercomputing to AI factories",
           "link": "https://www.aiacceleratorinstitute.com/bridging-the-gap-from-supercomputing-to-ai-factories/",
           "date": "Tue, 18 Aug 2026 15:32:31 GMT"
-        },
-        {
-          "title": "How to build AI in the age of collaborative coding",
-          "link": "https://www.aiacceleratorinstitute.com/how-to-build-ai-in-the-age-of-collaborative-coding/",
-          "date": "Fri, 14 Aug 2026 15:30:24 GMT"
         }
       ],
       "error": null
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI | TechCrunch",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -279,24 +279,24 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
-          "title": "Why has my prompt stopped working?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w02e9a/why_has_my_prompt_stopped_working/",
-          "date": "2026-08-27T18:36:53+00:00"
+          "title": "How do you keep AI grounded in your own knowledge base across chats?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w0g5zx/how_do_you_keep_ai_grounded_in_your_own_knowledge/",
+          "date": "2026-08-28T04:08:53+00:00"
         },
         {
-          "title": "Which AI is best for getting structured, well detailed, on point answers? Like for research oriented answers.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vzgzov/which_ai_is_best_for_getting_structured_well/",
-          "date": "2026-08-27T02:08:02+00:00"
+          "title": "what is one prompt that actually saved you real time?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w0kjio/what_is_one_prompt_that_actually_saved_you_real/",
+          "date": "2026-08-28T08:17:48+00:00"
         },
         {
-          "title": "headlesscode - custom harness adapted from zoo code and improved",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vzfoqy/headlesscode_custom_harness_adapted_from_zoo_code/",
-          "date": "2026-08-27T01:09:32+00:00"
+          "title": "what small prompt tweak gave you a outsized result",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w0k3m3/what_small_prompt_tweak_gave_you_a_outsized_result/",
+          "date": "2026-08-28T07:50:50+00:00"
         },
         {
-          "title": "VibePod CLI 0.21: DeepSeek Harness, per-profile proxy filters, and one-off port publishing",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vzc81u/vibepod_cli_021_deepseek_harness_perprofile_proxy/",
-          "date": "2026-08-26T22:40:16+00:00"
+          "title": "I think in Hindi but had to type English prompts all day \u2014 so I built a free app. Speak in your language (or a mix), clean English appears wherever your cursor is (Mac + Windows)",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w0kt0j/i_think_in_hindi_but_had_to_type_english_prompts/",
+          "date": "2026-08-28T08:34:04+00:00"
         }
       ],
       "error": null
@@ -305,6 +305,11 @@
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
+        {
+          "title": "Anthropic previews MHS standard for AI agents that operate machines",
+          "link": "https://siliconangle.com/2026/08/27/anthropic-previews-mhs-standard-for-ai-agents-that-operate-machines/",
+          "date": "Fri, 28 Aug 2026 00:19:52 +0000"
+        },
         {
           "title": "Consumer-focused AI assistant startup Instinct reportedly raising $250M",
           "link": "https://siliconangle.com/2026/08/27/consumer-focused-ai-assistant-startup-instinct-reportedly-raising-250m/",
@@ -324,11 +329,6 @@
           "title": "The AI storage stack gets an inference-era rethink",
           "link": "https://siliconangle.com/2026/08/27/ddn-solidigm-supermicroopenstoragesummit/",
           "date": "Thu, 27 Aug 2026 20:11:13 +0000"
-        },
-        {
-          "title": "Runable raises $21M to realize small businesses\u2019 growth vision using AI agents",
-          "link": "https://siliconangle.com/2026/08/27/runable-raises-21m-to-realize-small-businesses-growth-vision-using-ai-agents/",
-          "date": "Thu, 27 Aug 2026 16:35:09 +0000"
         }
       ],
       "error": null
@@ -490,29 +490,29 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Surprising AI breakthroughs raise soul-searching questions for mathematicians | Letter",
-          "link": "https://www.theguardian.com/science/2026/aug/27/surprising-ai-breakthroughs-raise-soul-searching-questions-for-mathematicians",
-          "date": "Thu, 27 Aug 2026 16:37:42 GMT"
+          "title": "Nicola Coughlan and Matt Lucas among stars backing campaign against AI voice cloning",
+          "link": "https://www.theguardian.com/technology/2026/aug/28/stars-back-campaign-against-ai-voice-cloning-nicola-coughlan-matt-lucas",
+          "date": "Fri, 28 Aug 2026 07:15:00 GMT"
         },
         {
-          "title": "A new start after 60 in an old occupation | Brief letters",
-          "link": "https://www.theguardian.com/business/2026/aug/27/a-new-start-after-60-in-an-old-occupation",
-          "date": "Thu, 27 Aug 2026 16:37:37 GMT"
+          "title": "No special carve-out for states using fossil fuel to power datacentres, Chris Bowen insists, despite new conditions",
+          "link": "https://www.theguardian.com/technology/2026/aug/28/no-special-carve-out-for-states-using-fossil-fuel-to-power-datacentres-chris-bowen-insists-despite-new-conditions",
+          "date": "Fri, 28 Aug 2026 04:17:37 GMT"
         },
         {
-          "title": "AI can detect heart disease in women using mammograms, study suggests",
-          "link": "https://www.theguardian.com/society/2026/aug/27/mammograms-heart-disease-in-women-study",
-          "date": "Thu, 27 Aug 2026 14:00:16 GMT"
+          "title": "Pentagon\u2019s blacklisting of Anthropic was unlawful, US judge rules",
+          "link": "https://www.theguardian.com/technology/2026/aug/28/us-court-rules-pentagon-anthropic-ban-illegal-trump-claude-ai",
+          "date": "Fri, 28 Aug 2026 03:34:35 GMT"
         },
         {
-          "title": "Everyone hates datacentres. Do we really need them? - video",
-          "link": "https://www.theguardian.com/science/video/2026/aug/27/everyone-hates-datacentres-do-we-really-need-them-video",
-          "date": "Thu, 27 Aug 2026 13:55:50 GMT"
+          "title": "Who actually benefits from new datacentres in Australia? - podcast",
+          "link": "https://www.theguardian.com/australia-news/audio/2026/aug/28/who-actually-benefits-from-new-datacentres-in-australia-australian-politics-podcast",
+          "date": "Fri, 28 Aug 2026 03:30:46 GMT"
         },
         {
-          "title": "AI-proof? Younger workers desert the digital world for traditional crafts",
-          "link": "https://www.theguardian.com/money/2026/aug/27/ai-proof-jobs-traditional-crafts",
-          "date": "Thu, 27 Aug 2026 13:38:30 GMT"
+          "title": "Black Box: episode 5 \u2013 The white mask \u2013 podcast",
+          "link": "https://www.theguardian.com/news/audio/2026/aug/28/black-box-episode-5-the-white-mask-podcast",
+          "date": "Fri, 28 Aug 2026 02:00:44 GMT"
         }
       ],
       "error": null
@@ -586,6 +586,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "A Judge Has Blocked the Pentagon\u2019s Attempt to Blacklist Anthropic",
+          "link": "https://www.wired.com/story/a-judge-has-blocked-the-pentagons-attempt-to-blacklist-anthropic/",
+          "date": "Fri, 28 Aug 2026 03:04:14 +0000"
+        },
+        {
           "title": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
           "link": "https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate/",
           "date": "Thu, 27 Aug 2026 21:08:34 +0000"
@@ -604,11 +609,6 @@
           "title": "OpenAI Is Developing a \u2018Persistent\u2019 AI Agent",
           "link": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/",
           "date": "Thu, 27 Aug 2026 16:52:42 +0000"
-        },
-        {
-          "title": "Submit Your Questions: The Great Data Center Backlash",
-          "link": "https://www.wired.com/story/livestream-the-great-data-center-backlash/",
-          "date": "Thu, 27 Aug 2026 11:00:00 +0000"
         }
       ],
       "error": null
