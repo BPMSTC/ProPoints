@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T10:44:16.530423+00:00",
+  "generatedAt": "2026-08-29T15:29:44.037040+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Nvidia\u2019s AI advantage is moving beyond the GPU",
+          "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+          "date": "Sat, 29 Aug 2026 13:00:00 +0000"
+        },
+        {
           "title": "Neocloud Lambda secures $1B in debt to buy more chips",
           "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
           "date": "Fri, 28 Aug 2026 20:24:11 +0000"
@@ -126,11 +131,6 @@
           "title": "Anthropic gets its first court win over the Pentagon\u2019s supply-chain risk label",
           "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
           "date": "Fri, 28 Aug 2026 12:46:12 +0000"
-        },
-        {
-          "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-          "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-          "date": "Fri, 28 Aug 2026 12:21:06 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -284,6 +284,11 @@
           "date": "2026-08-29T09:58:49+00:00"
         },
         {
+          "title": "The Man Who Calls BS On AI: They\u2019re LYING About AI, 2027 Is When It All Breaks! | Ed Zitron",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w1nu2a/the_man_who_calls_bs_on_ai_theyre_lying_about_ai/",
+          "date": "2026-08-29T14:21:23+00:00"
+        },
+        {
           "title": "what is one prompt you keep coming back to even after switching models",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w0trqg/what_is_one_prompt_you_keep_coming_back_to_even/",
           "date": "2026-08-28T15:30:13+00:00"
@@ -292,11 +297,6 @@
           "title": "Aggregate GLM 5.3 vs 5.3 flash benchmarks are extremely close",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w0ypr0/aggregate_glm_53_vs_53_flash_benchmarks_are/",
           "date": "2026-08-28T18:31:07+00:00"
-        },
-        {
-          "title": "ChatGPT speed",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w14jin/chatgpt_speed/",
-          "date": "2026-08-28T22:12:49+00:00"
         }
       ],
       "error": null
@@ -420,6 +420,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "I asked 100 companies for my data. Some deleted it instead.",
+          "link": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/",
+          "date": "Sat, 29 Aug 2026 10:50:31 +0000"
+        },
+        {
           "title": "Court rules Kalshi sports bets aren't \"swaps,\" just gambling with a different name",
           "link": "https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/",
           "date": "Fri, 28 Aug 2026 22:14:52 +0000"
@@ -438,11 +443,6 @@
           "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
           "link": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
           "date": "Fri, 28 Aug 2026 18:07:55 +0000"
-        },
-        {
-          "title": "Here's what we know about the \"space academy\" Trump just announced",
-          "link": "https://arstechnica.com/space/2026/08/trump-calls-for-creation-of-a-space-academy-to-train-future-nasa-leaders/",
-          "date": "Fri, 28 Aug 2026 17:36:30 +0000"
         }
       ],
       "error": null
@@ -554,6 +554,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "A Scientist Was Presenting His Vibe-Coded New Work When One of His Colleagues Pointed Out Something Extremely Embarrassing",
+          "link": "https://futurism.com/artificial-intelligence/scientist-horrified-vibe-coded-work-conference-wrong",
+          "date": "Sat, 29 Aug 2026 11:03:00 -0400"
+        },
+        {
+          "title": "Scientists Gave 12-Year-Olds Access to an AI Tutor and You Probably Already Know What They Did With It",
+          "link": "https://futurism.com/future-society/12-year-olds-access-ai-tutor-ignored",
+          "date": "Sat, 29 Aug 2026 09:02:00 -0400"
+        },
+        {
           "title": "Mom Who Travels For Work Builds AI Clone of Herself to Keep Her Teenage Son Company",
           "link": "https://futurism.com/artificial-intelligence/mom-travels-ai-clone-for-son",
           "date": "Sat, 29 Aug 2026 06:01:00 -0400"
@@ -567,16 +577,6 @@
           "title": "Russia Now Using Fully AI-Controlled Drones to Kill Ukrainian Civilians, Powered by Nvidia Chips",
           "link": "https://futurism.com/artificial-intelligence/russia-fully-ai-controlled-drones-kill-ukrainians",
           "date": "Fri, 28 Aug 2026 11:47:21 -0400"
-        },
-        {
-          "title": "Mark Zuckerberg Had a Secret Plan to Replace Meta Staff With AI Agents, and It Backfired Spectacularly",
-          "link": "https://futurism.com/artificial-intelligence/mark-zuckerberg-secret-plan-replace-meta-staff-ai",
-          "date": "Fri, 28 Aug 2026 08:55:28 -0400"
-        },
-        {
-          "title": "NYC\u2019s Buzziest Nightclub Announces Stance On Smart Glasses: Even Try To Bring Them In, You\u2019re Banned Forever",
-          "link": "https://futurism.com/artificial-intelligence/nyc-basement-smart-glasses",
-          "date": "Thu, 27 Aug 2026 18:01:47 -0400"
         }
       ],
       "error": null
