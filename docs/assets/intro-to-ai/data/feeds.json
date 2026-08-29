@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T20:45:00.389887+00:00",
+  "generatedAt": "2026-08-29T03:04:02.202930+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -289,14 +289,14 @@
           "date": "2026-08-28T15:30:13+00:00"
         },
         {
-          "title": "What's the one line in your prompts you suspect does nothing",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w0yg4f/whats_the_one_line_in_your_prompts_you_suspect/",
-          "date": "2026-08-28T18:21:08+00:00"
+          "title": "ChatGPT speed",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w14jin/chatgpt_speed/",
+          "date": "2026-08-28T22:12:49+00:00"
         },
         {
-          "title": "what is one prompt that actually saved you real time?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w0kjio/what_is_one_prompt_that_actually_saved_you_real/",
-          "date": "2026-08-28T08:17:48+00:00"
+          "title": "Do your prompts get simpler the longer you work with a model",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w0tbrs/do_your_prompts_get_simpler_the_longer_you_work/",
+          "date": "2026-08-28T15:13:55+00:00"
         }
       ],
       "error": null
@@ -305,6 +305,11 @@
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
+        {
+          "title": "Court rules Pentagon can\u2019t ban Anthropic\u2019s AI models",
+          "link": "https://siliconangle.com/2026/08/28/court-rules-pentagon-cant-ban-anthropics-ai-models/",
+          "date": "Fri, 28 Aug 2026 20:54:40 +0000"
+        },
         {
           "title": "It\u2019s Nvidia\u2019s world. We just live in it",
           "link": "https://siliconangle.com/2026/08/28/its-nvidias-world-we-just-live-in-it/",
@@ -324,11 +329,6 @@
           "title": "The enterprise AI payoff shifts beyond models to mission-critical workflows",
           "link": "https://siliconangle.com/2026/08/27/enterprise-ai-stalls-last-mile-value-lags-capability-dominodatalab/",
           "date": "Thu, 27 Aug 2026 20:47:36 +0000"
-        },
-        {
-          "title": "Nvidia reportedly acquires AI project hosting platform Hugging Face for $12.9B",
-          "link": "https://siliconangle.com/2026/08/27/nvidia-reportedly-acquires-ai-project-hosting-platform-hugging-face-for-12-9b/",
-          "date": "Thu, 27 Aug 2026 20:14:11 +0000"
         }
       ],
       "error": null
@@ -388,6 +388,11 @@
       "url": "https://huggingface.co/blog/feed.xml",
       "items": [
         {
+          "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+          "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+          "date": "Fri, 28 Aug 2026 00:00:00 GMT"
+        },
+        {
           "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
           "link": "https://huggingface.co/blog/train-multi-vector-encoder",
           "date": "Wed, 26 Aug 2026 00:00:00 GMT"
@@ -406,11 +411,6 @@
           "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
           "link": "https://huggingface.co/blog/gradio-workflow-guide",
           "date": "Tue, 25 Aug 2026 00:00:00 GMT"
-        },
-        {
-          "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-          "link": "https://huggingface.co/blog/pwc-search",
-          "date": "Fri, 21 Aug 2026 00:00:00 GMT"
         }
       ],
       "error": null
@@ -420,6 +420,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Court rules Kalshi sports bets aren't \"swaps,\" just gambling with a different name",
+          "link": "https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/",
+          "date": "Fri, 28 Aug 2026 22:14:52 +0000"
+        },
+        {
+          "title": "Cities terminate Flock contracts at record pace in August",
+          "link": "https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/",
+          "date": "Fri, 28 Aug 2026 21:33:54 +0000"
+        },
+        {
+          "title": "\"RFK Jr. has lied to the Senate\": Lawmakers call for criminal probe, ouster",
+          "link": "https://arstechnica.com/health/2026/08/rfk-jr-has-lied-to-the-senate-lawmakers-call-for-criminal-probe-ouster/",
+          "date": "Fri, 28 Aug 2026 21:17:38 +0000"
+        },
+        {
           "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
           "link": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
           "date": "Fri, 28 Aug 2026 18:07:55 +0000"
@@ -428,21 +443,6 @@
           "title": "Here's what we know about the \"space academy\" Trump just announced",
           "link": "https://arstechnica.com/space/2026/08/trump-calls-for-creation-of-a-space-academy-to-train-future-nasa-leaders/",
           "date": "Fri, 28 Aug 2026 17:36:30 +0000"
-        },
-        {
-          "title": "Apple One and Apple TV subscription prices increase by up to 20 percent",
-          "link": "https://arstechnica.com/gadgets/2026/08/apple-one-and-apple-tv-subscription-prices-increase-by-up-to-20-percent/",
-          "date": "Fri, 28 Aug 2026 17:23:53 +0000"
-        },
-        {
-          "title": "Our 10 favorite scenes from T2: Judgment Day",
-          "link": "https://arstechnica.com/culture/2026/08/our-10-favorite-scenes-from-t2-judgment-day/",
-          "date": "Fri, 28 Aug 2026 16:44:47 +0000"
-        },
-        {
-          "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
-          "link": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
-          "date": "Fri, 28 Aug 2026 15:42:24 +0000"
         }
       ],
       "error": null
@@ -554,7 +554,7 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
-          "title": "Data Shows That Mark Zuckerberg Is the Anti-Dolly Parton: Instead of Being Loved by Everybody Across the Political Spectrum, Pretty Much Everybody Despises, Him Regardless of Their Beliefs",
+          "title": "Data Shows That Mark Zuckerberg Is the Anti-Dolly Parton: Instead of Being Loved by Everybody Across the Political Spectrum, Pretty Much Everybody Despises Him, Regardless of Their Beliefs",
           "link": "https://futurism.com/artificial-intelligence/mark-zuckerberg-anti-dolly-parton",
           "date": "Fri, 28 Aug 2026 12:53:34 -0400"
         },
