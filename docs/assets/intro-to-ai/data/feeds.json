@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T17:52:50.037412+00:00",
+  "generatedAt": "2026-08-30T20:30:18.051509+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -279,6 +279,16 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "Top AI tools including Claude, Codex, and Hermes installed suspicious code inside corporate networks",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w2pr1p/top_ai_tools_including_claude_codex_and_hermes/",
+          "date": "2026-08-30T18:46:10+00:00"
+        },
+        {
+          "title": "I built a coding agent that runs on a server instead of inside your editor",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w2dnmg/i_built_a_coding_agent_that_runs_on_a_server/",
+          "date": "2026-08-30T10:10:26+00:00"
+        },
+        {
           "title": "Error: Background halo remains and beard strands are not preserved",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w1hvtc/error_background_halo_remains_and_beard_strands/",
           "date": "2026-08-29T09:24:43+00:00"
@@ -287,16 +297,6 @@
           "title": "I strongly believe HSL should be the default color system in an agentic code world, please change my mind.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w1igeh/i_strongly_believe_hsl_should_be_the_default/",
           "date": "2026-08-29T09:58:49+00:00"
-        },
-        {
-          "title": "Aggregate GLM 5.3 vs 5.3 flash benchmarks are extremely close",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w0ypr0/aggregate_glm_53_vs_53_flash_benchmarks_are/",
-          "date": "2026-08-28T18:31:07+00:00"
-        },
-        {
-          "title": "The Man Who Calls BS On AI: They\u2019re LYING About AI, 2027 Is When It All Breaks! | Ed Zitron",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w1nu2a/the_man_who_calls_bs_on_ai_theyre_lying_about_ai/",
-          "date": "2026-08-29T14:21:23+00:00"
         }
       ],
       "error": null
@@ -420,6 +420,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Why it matters that President Trump just dialed into a NASA news conference",
+          "link": "https://arstechnica.com/space/2026/08/why-it-matters-that-president-trump-just-dialed-into-a-nasa-news-conference/",
+          "date": "Sun, 30 Aug 2026 17:40:30 +0000"
+        },
+        {
           "title": "Inside Meta\u2019s push to put robots to work in data centers",
           "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
           "date": "Sun, 30 Aug 2026 11:03:47 +0000"
@@ -438,11 +443,6 @@
           "title": "Cities terminate Flock contracts at record pace in August",
           "link": "https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/",
           "date": "Fri, 28 Aug 2026 21:33:54 +0000"
-        },
-        {
-          "title": "\"RFK Jr. has lied to the Senate\": Lawmakers call for criminal probe, ouster",
-          "link": "https://arstechnica.com/health/2026/08/rfk-jr-has-lied-to-the-senate-lawmakers-call-for-criminal-probe-ouster/",
-          "date": "Fri, 28 Aug 2026 21:17:38 +0000"
         }
       ],
       "error": null
@@ -458,6 +458,16 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "41% of surveyed Australian teens now get their news from AI: new research",
+          "link": "https://theconversation.com/41-of-surveyed-australian-teens-now-get-their-news-from-ai-new-research-290529",
+          "date": "2026-08-30T20:17:10Z"
+        },
+        {
+          "title": "AI is eating website traffic, websites are blocking AI \u2013 and reliable information is getting harder to find",
+          "link": "https://theconversation.com/ai-is-eating-website-traffic-websites-are-blocking-ai-and-reliable-information-is-getting-harder-to-find-289817",
+          "date": "2026-08-30T20:16:47Z"
+        },
+        {
           "title": "The fight over AI data centres is becoming Australia\u2019s next Indigenous policy challenge",
           "link": "https://theconversation.com/the-fight-over-ai-data-centres-is-becoming-australias-next-indigenous-policy-challenge-289623",
           "date": "2026-08-27T19:49:24Z"
@@ -471,16 +481,6 @@
           "title": "I surveyed workers to see if AI had caused job losses and was surprised by the findings",
           "link": "https://theconversation.com/i-surveyed-workers-to-see-if-ai-had-caused-job-losses-and-was-surprised-by-the-findings-290100",
           "date": "2026-08-27T12:09:29Z"
-        },
-        {
-          "title": "Politics with Michelle Grattan: Andrew Charlton\u2019s warning on data centres\u2019 impact on power bills",
-          "link": "https://theconversation.com/politics-with-michelle-grattan-andrew-charltons-warning-on-data-centres-impact-on-power-bills-290538",
-          "date": "2026-08-27T05:18:17Z"
-        },
-        {
-          "title": "Australia\u2019s backdown on data centres allows them to use energy from coal and gas. Here\u2019s what that means",
-          "link": "https://theconversation.com/australias-backdown-on-data-centres-allows-them-to-use-energy-from-coal-and-gas-heres-what-that-means-290613",
-          "date": "2026-08-27T04:41:59Z"
         }
       ],
       "error": null
@@ -554,6 +554,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "MIT Warns That AI Can Now Credibly Complete Pretty Much Any Undergrad Assignment, Considers Overhaul of Entire Educational Model",
+          "link": "https://futurism.com/artificial-intelligence/mit-warns-ai-undergrad-assignments",
+          "date": "Sun, 30 Aug 2026 14:01:00 -0400"
+        },
+        {
           "title": "Panicking Tech Execs Try to Pivot Message on AI Data Centers",
           "link": "https://futurism.com/artificial-intelligence/panicking-tech-executives-pivot-ai-data-center-narrative",
           "date": "Sun, 30 Aug 2026 13:03:00 -0400"
@@ -572,11 +577,6 @@
           "title": "Doctors Just Used AI to Perform Brain Surgery",
           "link": "https://futurism.com/health-medicine/doctors-just-used-ai-to-perform-brain-surgery",
           "date": "Sat, 29 Aug 2026 13:02:00 -0400"
-        },
-        {
-          "title": "The Transcripts of OpenAI Models Plotting Together to Commit an Actual Crime Is Pretty Chilling",
-          "link": "https://futurism.com/artificial-intelligence/chain-of-thought-reasoning-openai-models-hugging-face",
-          "date": "Sat, 29 Aug 2026 12:01:00 -0400"
         }
       ],
       "error": null
