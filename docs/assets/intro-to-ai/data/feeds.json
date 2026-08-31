@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-08-31T10:30:43.634098+00:00",
+  "generatedAt": "2026-08-31T17:51:04.277628+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "How Cyber Sleuths Tracked a Nigerian Scammer to His Doorstep",
+          "link": "https://www.404media.co/how-cyber-sleuths-tracked-a-nigerian-scammer-to-his-doorstep/",
+          "date": "Mon, 31 Aug 2026 12:21:57 GMT"
+        },
         {
           "title": "Google's Calling Lake Ontario 'Lake America' Now",
           "link": "https://www.404media.co/google-maps-lake-america-lake-ontario-name-change/",
@@ -24,11 +29,6 @@
           "title": "ICE Plans to Spend Millions on Boston Dynamics Dog Robots",
           "link": "https://www.404media.co/ice-plans-to-spends-millions-on-boston-dynamics-dog-robots/",
           "date": "Fri, 28 Aug 2026 14:04:55 GMT"
-        },
-        {
-          "title": "The AI \u2018Ghosts\u2019 Contaminating Academic Publishing",
-          "link": "https://www.404media.co/the-ai-ghosts-contaminating-academic-publishing/",
-          "date": "Thu, 27 Aug 2026 18:14:29 GMT"
         }
       ],
       "error": null
@@ -108,7 +108,22 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
-          "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+          "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+          "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+          "date": "Mon, 31 Aug 2026 16:00:00 +0000"
+        },
+        {
+          "title": "Nvidia\u2019s $3.5B MediaTek bet reveals its plan for tackling Big Tech\u2019s AI chip buildout",
+          "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+          "date": "Mon, 31 Aug 2026 15:15:25 +0000"
+        },
+        {
+          "title": "Meeting note-taker Circleback adds a free tier to attract more customers",
+          "link": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
+          "date": "Mon, 31 Aug 2026 12:56:46 +0000"
+        },
+        {
+          "title": "The US is building barriers around drones and robots, but China has scale to get around them",
           "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
           "date": "Mon, 31 Aug 2026 02:34:00 +0000"
         },
@@ -116,21 +131,6 @@
           "title": "Musk\u2019s faster path to more gas turbines comes with pollution problem",
           "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
           "date": "Sun, 30 Aug 2026 16:54:25 +0000"
-        },
-        {
-          "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-          "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
-          "date": "Sun, 30 Aug 2026 15:00:00 +0000"
-        },
-        {
-          "title": "Sony Music, Warner sue Anthropic, alleging a \u201cbrazen campaign\u201d of intellectual property theft",
-          "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-          "date": "Sat, 29 Aug 2026 18:41:59 +0000"
-        },
-        {
-          "title": "\u201cWe\u2019re not doing 30 bets a year\u201d: Vijay Pande on betting small after running $4 billion at a16z",
-          "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-          "date": "Sat, 29 Aug 2026 17:36:47 +0000"
         }
       ],
       "error": null
@@ -139,6 +139,11 @@
       "name": "AI Business",
       "url": "https://aibusiness.com/rss.xml",
       "items": [
+        {
+          "title": "Anthropic Releases Interface to Help AI Agents Operate Machines",
+          "link": "https://aibusiness.com/generative-ai/anthropic-releases-interface-help-ai-agents-operate-machines",
+          "date": "Mon, 31 Aug 2026 13:50:28 GMT"
+        },
         {
           "title": "OpenAI, Anthropic, Google Lead Call to Prioritize Cybersecurity",
           "link": "https://aibusiness.com/cybersecurity/openai-anthropic-google-lead-call-prioritize-cybersecurity",
@@ -158,11 +163,6 @@
           "title": "OpenAI Report Explains Hugging Face Attack in Detail",
           "link": "https://aibusiness.com/cybersecurity/openai-report-explains-hugging-face-attack-detail",
           "date": "Thu, 27 Aug 2026 15:46:46 GMT"
-        },
-        {
-          "title": "Nvidia Targets Physical AI With New Jetson Edge Platform",
-          "link": "https://aibusiness.com/robotics/nvidia-targets-physical-ai-new-jetson-edge-platform",
-          "date": "Thu, 27 Aug 2026 13:49:01 GMT"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -279,11 +279,6 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
-          "title": "Top AI tools including Claude, Codex, and Hermes installed suspicious code inside corporate networks",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w2pr1p/top_ai_tools_including_claude_codex_and_hermes/",
-          "date": "2026-08-30T18:46:10+00:00"
-        },
-        {
           "title": "The Grithland AI World Sanctuary",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w2x39f/the_grithland_ai_world_sanctuary/",
           "date": "2026-08-30T23:39:44+00:00"
@@ -297,6 +292,11 @@
           "title": "Error: Background halo remains and beard strands are not preserved",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w1hvtc/error_background_halo_remains_and_beard_strands/",
           "date": "2026-08-29T09:24:43+00:00"
+        },
+        {
+          "title": "I strongly believe HSL should be the default color system in an agentic code world, please change my mind.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w1igeh/i_strongly_believe_hsl_should_be_the_default/",
+          "date": "2026-08-29T09:58:49+00:00"
         }
       ],
       "error": null
@@ -306,29 +306,29 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Workday rethinks the enterprise workflow for AI agents",
+          "link": "https://siliconangle.com/2026/08/31/workday-reimagines-workflows-enterprise-ai-agents-googlecloudaiagentsinaction/",
+          "date": "Mon, 31 Aug 2026 17:11:26 +0000"
+        },
+        {
+          "title": "OpenClaw just gave everyone version 2.0 and it comes with major updates",
+          "link": "https://siliconangle.com/2026/08/31/openclaw-just-gave-everyone-version-2-0-and-it-comes-with-major-updates/",
+          "date": "Mon, 31 Aug 2026 15:55:09 +0000"
+        },
+        {
+          "title": "On theCUBE Pod: Nvidia steamrolls expectations as Mythos shakes up cybersecurity",
+          "link": "https://siliconangle.com/2026/08/31/thecube-analysis-nvidia-mythos-cisco-thecubepod/",
+          "date": "Mon, 31 Aug 2026 15:34:29 +0000"
+        },
+        {
+          "title": "Knowledge graphs deliver the real-time context enterprises need to make AI explainable",
+          "link": "https://siliconangle.com/2026/08/31/real-time-context-powers-intuit-ai-security-neo4jgraphtalk/",
+          "date": "Mon, 31 Aug 2026 12:34:27 +0000"
+        },
+        {
           "title": "Why the next wave of AI startups won\u2019t optimize infrastructure \u2013 until they have to",
           "link": "https://siliconangle.com/2026/08/30/why-the-next-wave-of-ai-startups-wont-optimize-infrastructure-until-they-have-to/",
           "date": "Sun, 30 Aug 2026 14:53:26 +0000"
-        },
-        {
-          "title": "Four safeguards to stop your AI agents from going rogue",
-          "link": "https://siliconangle.com/2026/08/30/four-safeguards-to-stop-your-ai-agents-from-going-rogue/",
-          "date": "Sun, 30 Aug 2026 14:53:22 +0000"
-        },
-        {
-          "title": "Court rules Pentagon can\u2019t ban Anthropic\u2019s AI models",
-          "link": "https://siliconangle.com/2026/08/28/court-rules-pentagon-cant-ban-anthropics-ai-models/",
-          "date": "Fri, 28 Aug 2026 20:54:40 +0000"
-        },
-        {
-          "title": "It\u2019s Nvidia\u2019s world. We just live in it",
-          "link": "https://siliconangle.com/2026/08/28/its-nvidias-world-we-just-live-in-it/",
-          "date": "Fri, 28 Aug 2026 14:00:15 +0000"
-        },
-        {
-          "title": "Anthropic previews MHS standard for AI agents that operate machines",
-          "link": "https://siliconangle.com/2026/08/27/anthropic-previews-mhs-standard-for-ai-agents-that-operate-machines/",
-          "date": "Fri, 28 Aug 2026 00:19:52 +0000"
         }
       ],
       "error": null
@@ -420,29 +420,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
+          "link": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
+          "date": "Mon, 31 Aug 2026 13:41:40 +0000"
+        },
+        {
+          "title": "NASA's next \"great observatory\" begins mission to widen our view of the Universe",
+          "link": "https://arstechnica.com/space/2026/08/nasas-next-great-observatory-begins-mission-to-widen-our-view-of-the-universe/",
+          "date": "Mon, 31 Aug 2026 13:01:09 +0000"
+        },
+        {
+          "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
+          "link": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+          "date": "Mon, 31 Aug 2026 10:00:34 +0000"
+        },
+        {
           "title": "A 12TB Steam \u201cteraleak\u201d spills more than a decade of lost PC gaming history",
           "link": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
           "date": "Sun, 30 Aug 2026 21:40:56 +0000"
         },
         {
-          "title": "Why it matters that President Trump just dialed into a NASA news conference",
+          "title": "Why it matters that President Trump just dialed in to a NASA news conference",
           "link": "https://arstechnica.com/space/2026/08/why-it-matters-that-president-trump-just-dialed-into-a-nasa-news-conference/",
           "date": "Sun, 30 Aug 2026 17:40:30 +0000"
-        },
-        {
-          "title": "Inside Meta\u2019s push to put robots to work in data centers",
-          "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
-          "date": "Sun, 30 Aug 2026 11:03:47 +0000"
-        },
-        {
-          "title": "I asked 100 companies for my data. Some deleted it instead.",
-          "link": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/",
-          "date": "Sat, 29 Aug 2026 10:50:31 +0000"
-        },
-        {
-          "title": "Court rules Kalshi sports bets aren't \"swaps,\" just gambling with a different name",
-          "link": "https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/",
-          "date": "Fri, 28 Aug 2026 22:14:52 +0000"
         }
       ],
       "error": null
@@ -450,13 +450,44 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "Daniel Vavra, director of Kingdom Come: Deliverance 2, tested the leaked version of NVIDIA DLSS 5 directly in the game.",
+          "link": "https://www.reddit.com/r/artificial/comments/1w375ke/daniel_vavra_director_of_kingdom_come_deliverance/",
+          "date": "2026-08-31T08:00:18+00:00"
+        },
+        {
+          "title": "Working from home in 2026",
+          "link": "https://www.reddit.com/r/artificial/comments/1w3fotb/working_from_home_in_2026/",
+          "date": "2026-08-31T14:37:25+00:00"
+        },
+        {
+          "title": "I have been moonlighting on on 'AI training' gigs for the few months. While the money is good, the lessons I learnt about 'AI Training' made me reflect on the future of work",
+          "link": "https://www.reddit.com/r/artificial/comments/1w38vbj/i_have_been_moonlighting_on_on_ai_training_gigs/",
+          "date": "2026-08-31T09:39:19+00:00"
+        },
+        {
+          "title": "Sony and Warner just sued Anthropic for the exact same piracy Anthropic already admitted to and paid $1.5B for",
+          "link": "https://www.reddit.com/r/artificial/comments/1w3ex16/sony_and_warner_just_sued_anthropic_for_the_exact/",
+          "date": "2026-08-31T14:09:25+00:00"
+        },
+        {
+          "title": "Now that any service can be built with AI, nobody wants to build anything",
+          "link": "https://www.reddit.com/r/artificial/comments/1w2yy6u/now_that_any_service_can_be_built_with_ai_nobody/",
+          "date": "2026-08-31T01:03:21+00:00"
+        }
+      ],
       "error": null
     },
     {
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "AI is set to boost productivity and will have a \u2018profound\u2019 impact on the jobs market: Treasury",
+          "link": "https://theconversation.com/ai-is-set-to-boost-productivity-and-will-have-a-profound-impact-on-the-jobs-market-treasury-290823",
+          "date": "2026-08-31T12:30:07Z"
+        },
         {
           "title": "Where is AI headed? Two media theorists from the 1960s can help us figure it out",
           "link": "https://theconversation.com/where-is-ai-headed-two-media-theorists-from-the-1960s-can-help-us-figure-it-out-290733",
@@ -476,11 +507,6 @@
           "title": "The fight over AI data centres is becoming Australia\u2019s next Indigenous policy challenge",
           "link": "https://theconversation.com/the-fight-over-ai-data-centres-is-becoming-australias-next-indigenous-policy-challenge-289623",
           "date": "2026-08-27T19:49:24Z"
-        },
-        {
-          "title": "How AI-powered policing is endangering the public\u2019s trust in police",
-          "link": "https://theconversation.com/how-ai-powered-policing-is-endangering-the-publics-trust-in-police-289467",
-          "date": "2026-08-27T16:51:53Z"
         }
       ],
       "error": null
@@ -490,29 +516,29 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "AI\u2019s worst disasters will arrive unannounced | Letters",
-          "link": "https://www.theguardian.com/technology/2026/aug/30/ais-worst-disasters-will-arrive-unannounced",
-          "date": "Sun, 30 Aug 2026 16:17:40 GMT"
+          "title": "\u2018Superhuman\u2019 AI tool spots heart disease in less than 2 seconds",
+          "link": "https://www.theguardian.com/technology/2026/aug/31/superhuman-ai-tool-spots-heart-disease",
+          "date": "Mon, 31 Aug 2026 16:00:29 GMT"
         },
         {
-          "title": "AI could cause global economic downturn, Bank of England governor tells G20",
-          "link": "https://www.theguardian.com/business/2026/aug/31/advanced-frontier-ai-financial-stability-andrew-bailey-g20",
-          "date": "Mon, 31 Aug 2026 09:00:47 GMT"
+          "title": "Trump says datacenter opponents \u2018want to end up being backwards and poor\u2019",
+          "link": "https://www.theguardian.com/us-news/2026/aug/31/trump-datacenter-comments",
+          "date": "Mon, 31 Aug 2026 17:32:02 GMT"
         },
         {
-          "title": "OnlyFans and AI training: why gen Z doesn\u2019t care where our money comes from | Alice Lassman",
-          "link": "https://www.theguardian.com/commentisfree/2026/aug/31/gen-z-stability-homeownership-onlyfans-ai",
-          "date": "Mon, 31 Aug 2026 09:00:22 GMT"
+          "title": "How to tackle the climate impact of datacentres | Letters",
+          "link": "https://www.theguardian.com/uk-news/2026/aug/31/how-to-tackle-the-climate-impact-of-datacentres",
+          "date": "Mon, 31 Aug 2026 16:10:40 GMT"
         },
         {
-          "title": "Doctors\u2019 AI scribes get names of drugs and diagnoses wrong, NHS watchdog warns",
-          "link": "https://www.theguardian.com/society/2026/aug/31/doctors-ai-scribes-get-names-of-drugs-and-diagnoses-wrong-nhs-watchdog-warns",
-          "date": "Mon, 31 Aug 2026 06:00:19 GMT"
+          "title": "\u2018Scary\u2019: how misinformation and AI hallucinations are infiltrating Australia\u2019s parliament",
+          "link": "https://www.theguardian.com/australia-news/2026/sep/01/how-misinformation-ai-hallucinations-infiltrating-australian-parliament",
+          "date": "Mon, 31 Aug 2026 15:00:29 GMT"
         },
         {
-          "title": "Black Box: episode 6 \u2013 Shut it down? \u2013 podcast",
-          "link": "https://www.theguardian.com/news/audio/2026/aug/31/black-box-episode-6-shut-it-down-podcast",
-          "date": "Mon, 31 Aug 2026 02:00:12 GMT"
+          "title": "Anthropic sued over alleged theft of \u2018tens of thousands\u2019 of songs",
+          "link": "https://www.theguardian.com/business/2026/aug/31/aanthropic-sued-alleged-theft-songs-ai-train-claude",
+          "date": "Mon, 31 Aug 2026 12:42:05 GMT"
         }
       ],
       "error": null
@@ -554,6 +580,21 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Data Center Backlash Has Officially Rattled Sam Altman",
+          "link": "https://futurism.com/artificial-intelligence/data-center-backlash-rattled-sam-altman",
+          "date": "Mon, 31 Aug 2026 13:14:17 -0400"
+        },
+        {
+          "title": "Alarming Study Suggests That Using AI Is Turning Humans More Robotic",
+          "link": "https://futurism.com/artificial-intelligence/alarming-ai-humans-more-robotic",
+          "date": "Mon, 31 Aug 2026 10:40:42 -0400"
+        },
+        {
+          "title": "Spotify and YouTube Profiles of Legendary Jazz Musicians Hijacked by AI Waifu Spam",
+          "link": "https://futurism.com/artificial-intelligence/spotify-youtube-music-jazz-musicians-ai-waifu-spam",
+          "date": "Mon, 31 Aug 2026 09:08:00 -0400"
+        },
+        {
           "title": "MIT Warns That AI Can Now Credibly Complete Pretty Much Any Undergrad Assignment, Considers Overhaul of Entire Educational Model",
           "link": "https://futurism.com/artificial-intelligence/mit-warns-ai-undergrad-assignments",
           "date": "Sun, 30 Aug 2026 14:01:00 -0400"
@@ -562,21 +603,6 @@
           "title": "Panicking Tech Execs Try to Pivot Message on AI Data Centers",
           "link": "https://futurism.com/artificial-intelligence/panicking-tech-executives-pivot-ai-data-center-narrative",
           "date": "Sun, 30 Aug 2026 13:03:00 -0400"
-        },
-        {
-          "title": "Microsoft Tokenmaxxing King Spent $28,000 on AI in a Single Month as Company Begs Employees to Tone Down the Ludicrous Costs",
-          "link": "https://futurism.com/artificial-intelligence/microsoft-employee-ai-spending",
-          "date": "Sun, 30 Aug 2026 12:02:00 -0400"
-        },
-        {
-          "title": "Building Trade Unions Now Threatening to Withhold Support for Anti-Data Center Politicians",
-          "link": "https://futurism.com/artificial-intelligence/building-trade-workers-unions-data-center-politicians",
-          "date": "Sun, 30 Aug 2026 11:03:00 -0400"
-        },
-        {
-          "title": "Doctors Just Used AI to Perform Brain Surgery",
-          "link": "https://futurism.com/health-medicine/doctors-just-used-ai-to-perform-brain-surgery",
-          "date": "Sat, 29 Aug 2026 13:02:00 -0400"
         }
       ],
       "error": null
@@ -585,6 +611,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "You Know Who Really Hates AI? Insurance Claims Adjusters",
+          "link": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
+          "date": "Mon, 31 Aug 2026 10:30:00 +0000"
+        },
         {
           "title": "Why the Hottest New Wearables Want to Be Ignored",
           "link": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
@@ -604,11 +635,6 @@
           "title": "AI Has Human Doctors Asking: What\u2019s Left for Us?",
           "link": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
           "date": "Fri, 28 Aug 2026 15:00:00 +0000"
-        },
-        {
-          "title": "He Scraped All of Their Art for AI. Now He\u2019s Collaborating on a Tool to Help Them",
-          "link": "https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them/",
-          "date": "Fri, 28 Aug 2026 11:00:00 +0000"
         }
       ],
       "error": null
@@ -617,6 +643,11 @@
       "name": "Artificial Intelligence News -- ScienceDaily",
       "url": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "items": [
+        {
+          "title": "A \u201cquantum bath\u201d puts quantum entanglement on autopilot",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260830000002.htm",
+          "date": "Mon, 31 Aug 2026 09:08:37 EDT"
+        },
         {
           "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
           "link": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
@@ -636,11 +667,6 @@
           "title": "Tiny robots powered by light can hunt down and collect bacteria",
           "link": "https://www.sciencedaily.com/releases/2026/08/260816044850.htm",
           "date": "Tue, 18 Aug 2026 18:21:50 EDT"
-        },
-        {
-          "title": "Scientists tracked kids for 8 years \u2014 the screen time result was unexpected",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260815064803.htm",
-          "date": "Sat, 15 Aug 2026 06:48:03 EDT"
         }
       ],
       "error": null
