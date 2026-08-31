@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T03:27:30.214189+00:00",
+  "generatedAt": "2026-08-31T10:30:43.634098+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -458,6 +458,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Where is AI headed? Two media theorists from the 1960s can help us figure it out",
+          "link": "https://theconversation.com/where-is-ai-headed-two-media-theorists-from-the-1960s-can-help-us-figure-it-out-290733",
+          "date": "2026-08-31T05:55:55Z"
+        },
+        {
           "title": "41% of surveyed Australian teens now get their news from AI: new research",
           "link": "https://theconversation.com/41-of-surveyed-australian-teens-now-get-their-news-from-ai-new-research-290529",
           "date": "2026-08-30T20:17:10Z"
@@ -476,11 +481,6 @@
           "title": "How AI-powered policing is endangering the public\u2019s trust in police",
           "link": "https://theconversation.com/how-ai-powered-policing-is-endangering-the-publics-trust-in-police-289467",
           "date": "2026-08-27T16:51:53Z"
-        },
-        {
-          "title": "I surveyed workers to see if AI had caused job losses and was surprised by the findings",
-          "link": "https://theconversation.com/i-surveyed-workers-to-see-if-ai-had-caused-job-losses-and-was-surprised-by-the-findings-290100",
-          "date": "2026-08-27T12:09:29Z"
         }
       ],
       "error": null
@@ -495,24 +495,24 @@
           "date": "Sun, 30 Aug 2026 16:17:40 GMT"
         },
         {
+          "title": "AI could cause global economic downturn, Bank of England governor tells G20",
+          "link": "https://www.theguardian.com/business/2026/aug/31/advanced-frontier-ai-financial-stability-andrew-bailey-g20",
+          "date": "Mon, 31 Aug 2026 09:00:47 GMT"
+        },
+        {
+          "title": "OnlyFans and AI training: why gen Z doesn\u2019t care where our money comes from | Alice Lassman",
+          "link": "https://www.theguardian.com/commentisfree/2026/aug/31/gen-z-stability-homeownership-onlyfans-ai",
+          "date": "Mon, 31 Aug 2026 09:00:22 GMT"
+        },
+        {
+          "title": "Doctors\u2019 AI scribes get names of drugs and diagnoses wrong, NHS watchdog warns",
+          "link": "https://www.theguardian.com/society/2026/aug/31/doctors-ai-scribes-get-names-of-drugs-and-diagnoses-wrong-nhs-watchdog-warns",
+          "date": "Mon, 31 Aug 2026 06:00:19 GMT"
+        },
+        {
           "title": "Black Box: episode 6 \u2013 Shut it down? \u2013 podcast",
           "link": "https://www.theguardian.com/news/audio/2026/aug/31/black-box-episode-6-shut-it-down-podcast",
           "date": "Mon, 31 Aug 2026 02:00:12 GMT"
-        },
-        {
-          "title": "The datacenter backlash is bringing the entire political spectrum together \u2013 against big tech billionaires",
-          "link": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/30/data-center-politics-democrats-republicans",
-          "date": "Sun, 30 Aug 2026 16:08:17 GMT"
-        },
-        {
-          "title": "Big business has shown small firms what to do \u2013 and what not to do \u2013 with AI | Gene Marks",
-          "link": "https://www.theguardian.com/technology/2026/aug/30/ai-small-business",
-          "date": "Sun, 30 Aug 2026 14:00:57 GMT"
-        },
-        {
-          "title": "Women in UK arts feel they do not have equal opportunities for roles, says report",
-          "link": "https://www.theguardian.com/money/2026/aug/30/women-uk-arts-no-equal-opportunities-roles-report-sexism-discrimination",
-          "date": "Sun, 30 Aug 2026 09:00:52 GMT"
         }
       ],
       "error": null
