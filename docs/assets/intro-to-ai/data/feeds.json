@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T07:12:40.751742+00:00",
+  "generatedAt": "2026-09-01T13:02:40.198181+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -306,29 +306,29 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "CBTS launches Forge Agents to build custom AI agents in days",
+          "link": "https://siliconangle.com/2026/09/01/cbts-launches-forge-agents-to-build-custom-ai-agents-in-days/",
+          "date": "Tue, 01 Sep 2026 13:00:29 +0000"
+        },
+        {
+          "title": "After raising $10M in funding, Visko debuts Orbis, its first live model for generating long-form videos",
+          "link": "https://siliconangle.com/2026/09/01/after-raising-10m-in-funding-visko-debuts-orbis-its-first-live-model-for-generating-longform-videos/",
+          "date": "Tue, 01 Sep 2026 13:00:01 +0000"
+        },
+        {
+          "title": "Orchestra launches management solution for enterprise data and AI",
+          "link": "https://siliconangle.com/2026/09/01/orchestra-launches-management-solution-for-enterprise-data-and-ai/",
+          "date": "Tue, 01 Sep 2026 12:00:24 +0000"
+        },
+        {
+          "title": "DataAgent raises $10M to let AI fix production faults inside Kubernetes clusters",
+          "link": "https://siliconangle.com/2026/09/01/dataagent-raises-10m-to-let-ai-fix-production-faults-inside-kubernetes-clusters/",
+          "date": "Tue, 01 Sep 2026 09:00:14 +0000"
+        },
+        {
           "title": "Bank of England governor warns of AI-related financial system risks",
           "link": "https://siliconangle.com/2026/08/31/bank-of-england-governor-warns-of-ai-related-financial-system-risks/",
           "date": "Tue, 01 Sep 2026 00:30:31 +0000"
-        },
-        {
-          "title": "OpenAI says its ad business has already hit $1B in annualized revenue",
-          "link": "https://siliconangle.com/2026/08/31/openai-says-its-ad-business-has-already-hit-1b-in-annualized-revenue/",
-          "date": "Mon, 31 Aug 2026 23:38:10 +0000"
-        },
-        {
-          "title": "Rogue agents are forcing a governance reckoning as enterprises hand over the keys",
-          "link": "https://siliconangle.com/2026/08/31/ai-infrastructure-governance-shifts-rogue-agents-vmwareexplore/",
-          "date": "Mon, 31 Aug 2026 21:37:26 +0000"
-        },
-        {
-          "title": "As AI agents take on enterprise tasks, companies face a new battle over access and control",
-          "link": "https://siliconangle.com/2026/08/31/private-ai-agents-get-deny-default-runtime-from-broadcom-vmwareexplore/",
-          "date": "Mon, 31 Aug 2026 21:16:03 +0000"
-        },
-        {
-          "title": "Agentic AI blows up the attack surface as security moves into the infrastructure layer",
-          "link": "https://siliconangle.com/2026/08/31/cloud-infrastructure-becomes-security-front-line-agentic-ai-vmwareexplore/",
-          "date": "Mon, 31 Aug 2026 20:59:11 +0000"
         }
       ],
       "error": null
@@ -420,6 +420,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Without new landers or rovers, it's helicopters or bust for NASA's Mars program",
+          "link": "https://arstechnica.com/space/2026/09/without-new-landers-or-rovers-its-helicopters-or-bust-for-nasas-mars-program/",
+          "date": "Tue, 01 Sep 2026 11:00:35 +0000"
+        },
+        {
+          "title": "Private group wants to launch \"cheapest possible\" mission to Alpha Centauri",
+          "link": "https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/",
+          "date": "Tue, 01 Sep 2026 10:00:33 +0000"
+        },
+        {
           "title": "The Bentley Supersports: A stripped-out engineer's indulgence",
           "link": "https://arstechnica.com/cars/2026/08/the-bentley-supersports-a-stripped-out-engineers-indulgence/",
           "date": "Mon, 31 Aug 2026 23:01:16 +0000"
@@ -433,16 +443,6 @@
           "title": "Get in on the Ars community that doesn\u2019t fit beneath an article",
           "link": "https://arstechnica.com/staff/2026/08/get-in-on-the-ars-community-that-doesnt-fit-beneath-an-article/",
           "date": "Mon, 31 Aug 2026 21:12:01 +0000"
-        },
-        {
-          "title": "Review: Coyote vs. Acme is an unabashed love letter to Looney Tunes",
-          "link": "https://arstechnica.com/culture/2026/08/review-coyote-vs-acme-is-an-unabashed-love-letter-to-looney-tunes/",
-          "date": "Mon, 31 Aug 2026 20:02:16 +0000"
-        },
-        {
-          "title": "Trump tells FCC to punish journalist for calling his election results \"mixed\"",
-          "link": "https://arstechnica.com/tech-policy/2026/08/trump-tells-fcc-to-punish-journalist-for-calling-his-election-results-mixed/",
-          "date": "Mon, 31 Aug 2026 18:39:25 +0000"
         }
       ],
       "error": null
@@ -495,7 +495,7 @@
           "date": "Mon, 31 Aug 2026 16:00:29 GMT"
         },
         {
-          "title": "From Bill Gates to Bernie Sanders, most agree the AI arms race is disastrous. Only Europe can make it stop",
+          "title": "From Bill Gates to Bernie Sanders, most agree the AI arms race is disastrous. Only Europe can make it stop | Alexander Hurst",
           "link": "https://www.theguardian.com/commentisfree/2026/sep/01/from-bill-gates-to-bernie-sanders-most-agree-the-ai-arms-race-is-disastrous-only-europe-can-make-it-stop",
           "date": "Tue, 01 Sep 2026 04:00:45 GMT"
         },
