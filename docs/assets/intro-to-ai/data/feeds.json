@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T17:34:00.400589+00:00",
+  "generatedAt": "2026-09-01T20:29:57.184131+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,16 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Anthropic\u2019s new Fable release is cheaper, less restrictive",
+          "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+          "date": "Tue, 01 Sep 2026 19:39:22 +0000"
+        },
+        {
+          "title": "Google\u2019s answer to Canva is an AI tool where you prompt instead of design",
+          "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+          "date": "Tue, 01 Sep 2026 17:35:37 +0000"
+        },
+        {
           "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
           "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
           "date": "Tue, 01 Sep 2026 17:00:00 +0000"
@@ -121,16 +131,6 @@
           "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
           "link": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
           "date": "Tue, 01 Sep 2026 15:51:55 +0000"
-        },
-        {
-          "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-          "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
-          "date": "Tue, 01 Sep 2026 15:45:51 +0000"
-        },
-        {
-          "title": "Fambot introduces an \u2018AI chief of staff\u2019 for families",
-          "link": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
-          "date": "Tue, 01 Sep 2026 15:10:58 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -306,8 +306,13 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
-          "title": "Phonely launches Alma, a voice AI model trained on over 10 million phone conversations",
-          "link": "https://siliconangle.com/2026/09/01/phonely-launches-alma-a-voice-ai-model-trained-on-over-10-million-phone-conversations/",
+          "title": "Breakout time hits zero as CrowdStrike unveils autonomous red teaming: theCUBE\u2019s Fal.Con 2026 day one keynote analysis",
+          "link": "https://siliconangle.com/2026/09/01/autonomous-red-teaming-crowdstrike-falcon/",
+          "date": "Tue, 01 Sep 2026 18:33:14 +0000"
+        },
+        {
+          "title": "Phonely launches Alma, a voice AI model trained on 10M+ phone conversations",
+          "link": "https://siliconangle.com/2026/09/01/phonely-launches-alma-a-voice-ai-model-trained-on-10m-phone-conversations/",
           "date": "Tue, 01 Sep 2026 15:35:24 +0000"
         },
         {
@@ -324,11 +329,6 @@
           "title": "After raising $10M in funding, Visko debuts Orbis, its first live model for generating long-form videos",
           "link": "https://siliconangle.com/2026/09/01/after-raising-10m-in-funding-visko-debuts-orbis-its-first-live-model-for-generating-longform-videos/",
           "date": "Tue, 01 Sep 2026 13:00:01 +0000"
-        },
-        {
-          "title": "Orchestra launches management solution for enterprise data and AI",
-          "link": "https://siliconangle.com/2026/09/01/orchestra-launches-management-solution-for-enterprise-data-and-ai/",
-          "date": "Tue, 01 Sep 2026 12:00:24 +0000"
         }
       ],
       "error": null
@@ -420,29 +420,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "CDC reported then deleted two measles deaths that were questioned by RFK Jr.",
+          "link": "https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/",
+          "date": "Tue, 01 Sep 2026 18:21:16 +0000"
+        },
+        {
+          "title": "New Android Drop adds remembered items in Find Hub, makes anti-nausea dots official",
+          "link": "https://arstechnica.com/gadgets/2026/09/latest-android-drop-connects-gemini-to-find-hub-adds-keep-notes-and-themes-to-messages/",
+          "date": "Tue, 01 Sep 2026 18:00:02 +0000"
+        },
+        {
+          "title": "FTC alleges Amazon illegally made $20 billion by rigging billions of ad auctions",
+          "link": "https://arstechnica.com/tech-policy/2026/09/ftc-alleges-amazon-illegally-made-20-billion-by-rigging-billions-of-ad-auctions/",
+          "date": "Tue, 01 Sep 2026 17:51:17 +0000"
+        },
+        {
+          "title": "This is what a supercar was like a century ago",
+          "link": "https://arstechnica.com/cars/2026/09/this-is-what-a-supercar-was-like-a-century-ago/",
+          "date": "Tue, 01 Sep 2026 17:34:16 +0000"
+        },
+        {
           "title": "It turns out that Orion's much-maligned heat shield performed really well",
           "link": "https://arstechnica.com/space/2026/09/it-turns-out-that-orions-much-maligned-heat-shield-performed-really-well/",
           "date": "Tue, 01 Sep 2026 14:46:28 +0000"
-        },
-        {
-          "title": "Without new landers or rovers, it's helicopters or bust for NASA's Mars program",
-          "link": "https://arstechnica.com/space/2026/09/without-new-landers-or-rovers-its-helicopters-or-bust-for-nasas-mars-program/",
-          "date": "Tue, 01 Sep 2026 11:00:35 +0000"
-        },
-        {
-          "title": "Private group wants to launch \"cheapest possible\" mission to Alpha Centauri",
-          "link": "https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/",
-          "date": "Tue, 01 Sep 2026 10:00:33 +0000"
-        },
-        {
-          "title": "The Bentley Supersports: A stripped-out engineer's indulgence",
-          "link": "https://arstechnica.com/cars/2026/08/the-bentley-supersports-a-stripped-out-engineers-indulgence/",
-          "date": "Mon, 31 Aug 2026 23:01:16 +0000"
-        },
-        {
-          "title": "Trump admin shelves Cyclospora research despite record-breaking outbreak",
-          "link": "https://arstechnica.com/health/2026/08/trump-admin-shelves-cyclospora-research-despite-record-breaking-outbreak/",
-          "date": "Mon, 31 Aug 2026 21:23:09 +0000"
         }
       ],
       "error": null
@@ -457,6 +457,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Why do we trust chatbots and how can we use them more wisely? A psychologist explains",
+          "link": "https://theconversation.com/why-do-we-trust-chatbots-and-how-can-we-use-them-more-wisely-a-psychologist-explains-290396",
+          "date": "2026-09-01T18:49:33Z"
+        },
         {
           "title": "AI is set to boost productivity and will have a \u2018profound\u2019 impact on the jobs market: Treasury",
           "link": "https://theconversation.com/ai-is-set-to-boost-productivity-and-will-have-a-profound-impact-on-the-jobs-market-treasury-290823",
@@ -476,11 +481,6 @@
           "title": "AI is eating website traffic, websites are blocking AI \u2013 and reliable information is getting harder to find",
           "link": "https://theconversation.com/ai-is-eating-website-traffic-websites-are-blocking-ai-and-reliable-information-is-getting-harder-to-find-289817",
           "date": "2026-08-30T20:16:47Z"
-        },
-        {
-          "title": "The fight over AI data centres is becoming Australia\u2019s next Indigenous policy challenge",
-          "link": "https://theconversation.com/the-fight-over-ai-data-centres-is-becoming-australias-next-indigenous-policy-challenge-289623",
-          "date": "2026-08-27T19:49:24Z"
         }
       ],
       "error": null
@@ -493,6 +493,11 @@
           "title": "Macquarie University swaps in-person psychology classes with AI chatbot for two subjects",
           "link": "https://www.theguardian.com/technology/2026/sep/02/macquarie-university-using-ai-chatbot-tutorials",
           "date": "Tue, 01 Sep 2026 15:00:02 GMT"
+        },
+        {
+          "title": "Pentagon official overseeing military AI sold millions worth of stock in AI firm",
+          "link": "https://www.theguardian.com/us-news/2026/sep/01/top-pentagon-official-ai-stock-holdings",
+          "date": "Tue, 01 Sep 2026 19:17:49 GMT"
         },
         {
           "title": "Why does everyone hate datacentres?",
@@ -508,11 +513,6 @@
           "title": "From Bill Gates to Bernie Sanders, most agree the AI arms race is disastrous. Only Europe can make it stop | Alexander Hurst",
           "link": "https://www.theguardian.com/commentisfree/2026/sep/01/from-bill-gates-to-bernie-sanders-most-agree-the-ai-arms-race-is-disastrous-only-europe-can-make-it-stop",
           "date": "Tue, 01 Sep 2026 04:00:45 GMT"
-        },
-        {
-          "title": "\u2018If you build something vastly smarter than you, it better be on your side\u2019: can we stop AI from deceiving us?",
-          "link": "https://www.theguardian.com/news/2026/sep/01/if-you-build-something-vastly-smarter-than-you-it-better-be-on-your-side-can-we-stop-ai-from-deceiving-us",
-          "date": "Tue, 01 Sep 2026 04:00:44 GMT"
         }
       ],
       "error": null
@@ -554,6 +554,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "US Military in Chaos as Trump Shares AI Video of Nonexistent Attack on Iran",
+          "link": "https://futurism.com/artificial-intelligence/trump-ai-video-fake-attack",
+          "date": "Tue, 01 Sep 2026 13:45:42 -0400"
+        },
+        {
           "title": "Man Used Poisoned Google AI Overviews to Trick Women Into Thinking He Was an NFL Player, FBI Says",
           "link": "https://futurism.com/artificial-intelligence/man-ai-trick-women-nfl-fbi",
           "date": "Tue, 01 Sep 2026 12:54:45 -0400"
@@ -572,11 +577,6 @@
           "title": "Nvidia\u2019s \u201cSlop Tracing\u201d Feature That Uses AI to Yassify Video Games Leaked, and the Results Are Even More Horrifying Than Anyone Thought Possible",
           "link": "https://futurism.com/artificial-intelligence/nvidia-slop-tracing-leak",
           "date": "Tue, 01 Sep 2026 09:55:21 -0400"
-        },
-        {
-          "title": "The Music Industry\u2019s New Lawsuit Against Anthropic Should Have Dario Amodei Shivering With Fear",
-          "link": "https://futurism.com/artificial-intelligence/sony-warner-new-lawsuit-anthropic-dario-amodei",
-          "date": "Mon, 31 Aug 2026 15:13:22 -0400"
         }
       ],
       "error": null
@@ -585,6 +585,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "OpenAI Is About to Release Its First AI Model With \u2018Critical\u2019 Cyber Abilities",
+          "link": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
+          "date": "Tue, 01 Sep 2026 20:00:00 +0000"
+        },
         {
           "title": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
           "link": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/",
@@ -604,11 +609,6 @@
           "title": "The Cybersecurity Apocalypse Is Coming in \u2018Months,\u2019 AI Giants Warn",
           "link": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
           "date": "Sat, 29 Aug 2026 10:30:00 +0000"
-        },
-        {
-          "title": "How to Run a Chatbot on Your Own Computer",
-          "link": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
-          "date": "Sat, 29 Aug 2026 10:00:00 +0000"
         }
       ],
       "error": null
