@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T20:29:57.184131+00:00",
+  "generatedAt": "2026-09-01T22:58:45.651013+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,21 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "AfterQuery reportedly becomes Y Combinator\u2019s fastest-ever unicorn, now valued at $3.2B",
+          "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+          "date": "Tue, 01 Sep 2026 22:08:24 +0000"
+        },
+        {
+          "title": "Open AI\u2019s Astra model is on the way \u2014 and very good at breaking into computer systems",
+          "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+          "date": "Tue, 01 Sep 2026 21:06:24 +0000"
+        },
+        {
+          "title": "Google\u2019s Android update tackles motion sickness, accessibility, and more",
+          "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+          "date": "Tue, 01 Sep 2026 20:53:05 +0000"
+        },
+        {
           "title": "Anthropic\u2019s new Fable release is cheaper, less restrictive",
           "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
           "date": "Tue, 01 Sep 2026 19:39:22 +0000"
@@ -116,21 +131,6 @@
           "title": "Google\u2019s answer to Canva is an AI tool where you prompt instead of design",
           "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
           "date": "Tue, 01 Sep 2026 17:35:37 +0000"
-        },
-        {
-          "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
-          "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
-          "date": "Tue, 01 Sep 2026 17:00:00 +0000"
-        },
-        {
-          "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-          "link": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
-          "date": "Tue, 01 Sep 2026 16:31:04 +0000"
-        },
-        {
-          "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
-          "link": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
-          "date": "Tue, 01 Sep 2026 15:51:55 +0000"
         }
       ],
       "error": null
@@ -139,6 +139,11 @@
       "name": "AI Business",
       "url": "https://aibusiness.com/rss.xml",
       "items": [
+        {
+          "title": "Anthropic R&amp;D Slowdown Shows Need for Heightened AI Agent Security",
+          "link": "https://aibusiness.com/cybersecurity/anthropic-r-d-slowdown-shows-need-heightened-ai-agent-security",
+          "date": "Tue, 01 Sep 2026 21:02:18 GMT"
+        },
         {
           "title": "Nvidia and Semiconductor Vendor Expand Partnership",
           "link": "https://aibusiness.com/generative-ai/nvidia-semiconductor-vendor-expand-partnership",
@@ -158,11 +163,6 @@
           "title": "Prompt: The AI Infrastructure Boom Is Getting Bigger Than GPUs",
           "link": "https://aibusiness.com/generative-ai/prompt-ai-infrastructure-boom-getting-bigger-than-gpus",
           "date": "Fri, 28 Aug 2026 14:24:52 GMT"
-        },
-        {
-          "title": "Z.AI's Use of Chinese Chips for New Model is About Optimization",
-          "link": "https://aibusiness.com/generative-ai/z-ai-s-use-chinese-chips-new-model-about-optimization",
-          "date": "Thu, 27 Aug 2026 19:25:42 GMT"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -279,6 +279,16 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "Did we kill software?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w4sp45/did_we_kill_software/",
+          "date": "2026-09-01T22:56:06+00:00"
+        },
+        {
+          "title": "This free AI tool lets you scrape anything off the internet without paying for anything.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w4r39s/this_free_ai_tool_lets_you_scrape_anything_off/",
+          "date": "2026-09-01T21:54:57+00:00"
+        },
+        {
           "title": "An agent that looks at all your prompts, across all the AI agents you use - and gives you real time insights on optimising token spends per outcome",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w42qhr/an_agent_that_looks_at_all_your_prompts_across/",
           "date": "2026-09-01T05:32:34+00:00"
@@ -287,16 +297,6 @@
           "title": "Cross model multi Agent Platform",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w3rqy2/cross_model_multi_agent_platform/",
           "date": "2026-08-31T21:32:34+00:00"
-        },
-        {
-          "title": "The Scaffold: A Phased SDLC for AI Coding",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w3mx6r/the_scaffold_a_phased_sdlc_for_ai_coding/",
-          "date": "2026-08-31T18:46:10+00:00"
-        },
-        {
-          "title": "The Grithland AI World Sanctuary",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w2x39f/the_grithland_ai_world_sanctuary/",
-          "date": "2026-08-30T23:39:44+00:00"
         }
       ],
       "error": null
@@ -305,6 +305,11 @@
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
+        {
+          "title": "Anthropic launches Claude Fable 5.1 after inking $35B cloud deal with Lambda",
+          "link": "https://siliconangle.com/2026/09/01/anthropic-launches-claude-fable-5-1-inking-35b-cloud-deal-with-lambda/",
+          "date": "Tue, 01 Sep 2026 20:50:53 +0000"
+        },
         {
           "title": "Breakout time hits zero as CrowdStrike unveils autonomous red teaming: theCUBE\u2019s Fal.Con 2026 day one keynote analysis",
           "link": "https://siliconangle.com/2026/09/01/autonomous-red-teaming-crowdstrike-falcon/",
@@ -324,11 +329,6 @@
           "title": "CBTS launches Forge Agents to build custom AI agents in days",
           "link": "https://siliconangle.com/2026/09/01/cbts-launches-forge-agents-to-build-custom-ai-agents-in-days/",
           "date": "Tue, 01 Sep 2026 13:00:29 +0000"
-        },
-        {
-          "title": "After raising $10M in funding, Visko debuts Orbis, its first live model for generating long-form videos",
-          "link": "https://siliconangle.com/2026/09/01/after-raising-10m-in-funding-visko-debuts-orbis-its-first-live-model-for-generating-longform-videos/",
-          "date": "Tue, 01 Sep 2026 13:00:01 +0000"
         }
       ],
       "error": null
@@ -388,6 +388,11 @@
       "url": "https://huggingface.co/blog/feed.xml",
       "items": [
         {
+          "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+          "link": "https://huggingface.co/blog/allenai/benchmirt",
+          "date": "Tue, 01 Sep 2026 21:39:07 GMT"
+        },
+        {
           "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
           "link": "https://huggingface.co/blog/webgpu-kernels",
           "date": "Tue, 01 Sep 2026 00:00:00 GMT"
@@ -406,11 +411,6 @@
           "title": "Granite 4.2 LLMs: How They're Built",
           "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
           "date": "Tue, 25 Aug 2026 15:14:14 GMT"
-        },
-        {
-          "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-          "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-          "date": "Tue, 25 Aug 2026 11:39:24 GMT"
         }
       ],
       "error": null
