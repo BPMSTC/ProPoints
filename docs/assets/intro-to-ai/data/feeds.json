@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T05:31:28.227675+00:00",
+  "generatedAt": "2026-09-02T10:34:18.906619+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI | TechCrunch",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -279,24 +279,24 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "A prompt that changed everything",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w52xk0/a_prompt_that_changed_everything/",
+          "date": "2026-09-02T07:02:04+00:00"
+        },
+        {
+          "title": "fractal render example of using claude ai coded 4kfract software that runs with lua jit opencl optimized lua scripts",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w5385q/fractal_render_example_of_using_claude_ai_coded/",
+          "date": "2026-09-02T07:18:29+00:00"
+        },
+        {
           "title": "This free AI tool lets you scrape anything off the internet without paying for anything.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w4r39s/this_free_ai_tool_lets_you_scrape_anything_off/",
           "date": "2026-09-01T21:54:57+00:00"
         },
         {
-          "title": "Blind coding.. 30 of Ai centric coding involves fixing everything that worked 5 minutes ago. What are we really learning",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w4zyqs/blind_coding_30_of_ai_centric_coding_involves/",
-          "date": "2026-09-02T04:23:31+00:00"
-        },
-        {
-          "title": "Did we kill software?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w4sp45/did_we_kill_software/",
-          "date": "2026-09-01T22:56:06+00:00"
-        },
-        {
-          "title": "An agent that looks at all your prompts, across all the AI agents you use - and gives you real time insights on optimising token spends per outcome",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w42qhr/an_agent_that_looks_at_all_your_prompts_across/",
-          "date": "2026-09-01T05:32:34+00:00"
+          "title": "Stale chatgpt chat's not deleting.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w51i0a/stale_chatgpt_chats_not_deleting/",
+          "date": "2026-09-02T05:43:47+00:00"
         }
       ],
       "error": null
@@ -495,6 +495,16 @@
           "date": "Tue, 01 Sep 2026 15:00:02 GMT"
         },
         {
+          "title": "\u2018We have had enough\u2019: thousands of University of Sydney staff walk off the job over AI and job security",
+          "link": "https://www.theguardian.com/australia-news/2026/sep/02/we-have-had-enough-thousands-of-staff-at-the-university-of-sydney-walk-off-the-job-over-ai-job-security",
+          "date": "Wed, 02 Sep 2026 05:50:36 GMT"
+        },
+        {
+          "title": "Wednesday briefing: \u200bWhat\u2019s behind the global backlash against datacentres?",
+          "link": "https://www.theguardian.com/world/2026/sep/02/wednesday-briefing-whats-behind-the-global-backlash-against-datacentres",
+          "date": "Wed, 02 Sep 2026 05:45:42 GMT"
+        },
+        {
           "title": "Architect of British government\u2019s AI strategy joins Anthropic",
           "link": "https://www.theguardian.com/technology/2026/sep/02/architect-of-uks-ai-strategy-joins-anthropic",
           "date": "Wed, 02 Sep 2026 04:00:23 GMT"
@@ -503,16 +513,6 @@
           "title": "Tech giants are trying to obliterate privacy. Australia has a rare chance to take back part of their power | Lizzie O'Shea",
           "link": "https://www.theguardian.com/commentisfree/2026/sep/02/tech-giants-australia-privacy-act-legislation-laws",
           "date": "Wed, 02 Sep 2026 03:00:05 GMT"
-        },
-        {
-          "title": "Pentagon official overseeing military AI sold millions worth of stock in AI firm",
-          "link": "https://www.theguardian.com/us-news/2026/sep/01/top-pentagon-official-ai-stock-holdings",
-          "date": "Tue, 01 Sep 2026 19:17:49 GMT"
-        },
-        {
-          "title": "Why does everyone hate datacentres?",
-          "link": "https://www.theguardian.com/uk-news/video/2026/sep/01/why-does-everyone-hate-datacentres",
-          "date": "Tue, 01 Sep 2026 17:04:20 GMT"
         }
       ],
       "error": null
@@ -586,6 +586,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
+          "link": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
+          "date": "Wed, 02 Sep 2026 10:00:00 +0000"
+        },
+        {
           "title": "OpenAI Is About to Release Its First AI Model With \u2018Critical\u2019 Cyber Abilities",
           "link": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
           "date": "Tue, 01 Sep 2026 20:00:00 +0000"
@@ -604,11 +609,6 @@
           "title": "Why the Hottest New Wearables Want to Be Ignored",
           "link": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
           "date": "Sun, 30 Aug 2026 10:30:00 +0000"
-        },
-        {
-          "title": "The Cybersecurity Apocalypse Is Coming in \u2018Months,\u2019 AI Giants Warn",
-          "link": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
-          "date": "Sat, 29 Aug 2026 10:30:00 +0000"
         }
       ],
       "error": null
