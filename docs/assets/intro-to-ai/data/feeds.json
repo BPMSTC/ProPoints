@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T00:55:58.604368+00:00",
+  "generatedAt": "2026-09-02T05:31:28.227675+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI | TechCrunch",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -279,24 +279,24 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
-          "title": "Did we kill software?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w4sp45/did_we_kill_software/",
-          "date": "2026-09-01T22:56:06+00:00"
-        },
-        {
           "title": "This free AI tool lets you scrape anything off the internet without paying for anything.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w4r39s/this_free_ai_tool_lets_you_scrape_anything_off/",
           "date": "2026-09-01T21:54:57+00:00"
         },
         {
+          "title": "Blind coding.. 30 of Ai centric coding involves fixing everything that worked 5 minutes ago. What are we really learning",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w4zyqs/blind_coding_30_of_ai_centric_coding_involves/",
+          "date": "2026-09-02T04:23:31+00:00"
+        },
+        {
+          "title": "Did we kill software?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w4sp45/did_we_kill_software/",
+          "date": "2026-09-01T22:56:06+00:00"
+        },
+        {
           "title": "An agent that looks at all your prompts, across all the AI agents you use - and gives you real time insights on optimising token spends per outcome",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w42qhr/an_agent_that_looks_at_all_your_prompts_across/",
           "date": "2026-09-01T05:32:34+00:00"
-        },
-        {
-          "title": "Cross model multi Agent Platform",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w3rqy2/cross_model_multi_agent_platform/",
-          "date": "2026-08-31T21:32:34+00:00"
         }
       ],
       "error": null
@@ -305,6 +305,11 @@
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
+        {
+          "title": "Fei-Fei Li\u2019s World Labs debuts Atlas, a world model showcase for advanced spatial intelligence",
+          "link": "https://siliconangle.com/2026/09/01/fei-fei-lis-world-labs-debuts-atlas-a-world-model-showcase-for-advanced-spatial-intelligence/",
+          "date": "Wed, 02 Sep 2026 03:22:04 +0000"
+        },
         {
           "title": "When agents move at machine speed, security teams lose their lag time",
           "link": "https://siliconangle.com/2026/09/01/agentic-ai-attack-surface-shifts-security-machine-speed-falcon/",
@@ -324,11 +329,6 @@
           "title": "Phonely launches Alma, a voice AI model trained on 10M+ phone conversations",
           "link": "https://siliconangle.com/2026/09/01/phonely-launches-alma-a-voice-ai-model-trained-on-10m-phone-conversations/",
           "date": "Tue, 01 Sep 2026 15:35:24 +0000"
-        },
-        {
-          "title": "Aranya raises $11M to turn bare-metal servers into AI clusters in less than 48 hours",
-          "link": "https://siliconangle.com/2026/09/01/aranya-raises-11m-to-turn-bare-metal-servers-into-ai-clusters-in-less-than-48-hours/",
-          "date": "Tue, 01 Sep 2026 14:00:21 +0000"
         }
       ],
       "error": null
@@ -420,7 +420,17 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "CDC reported then deleted two measles deaths that were questioned by RFK Jr.",
+          "title": "Here's our first look\u2014and drive\u2014of the 2027 Range Rover Electric",
+          "link": "https://arstechnica.com/cars/2026/09/range-rover-ev-electric-propulsion-pairs-perfectly-with-this-luxury-suv/",
+          "date": "Tue, 01 Sep 2026 23:01:52 +0000"
+        },
+        {
+          "title": "Research roundup: 7 cool science stories we almost missed",
+          "link": "https://arstechnica.com/science/2026/09/august-research-roundup-7-cool-science-stories-we-almost-missed/",
+          "date": "Tue, 01 Sep 2026 19:06:10 +0000"
+        },
+        {
+          "title": "A newborn and child reportedly died of measles; CDC isn't counting them",
           "link": "https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/",
           "date": "Tue, 01 Sep 2026 18:21:16 +0000"
         },
@@ -433,16 +443,6 @@
           "title": "FTC alleges Amazon illegally made $20 billion by rigging billions of ad auctions",
           "link": "https://arstechnica.com/tech-policy/2026/09/ftc-alleges-amazon-illegally-made-20-billion-by-rigging-billions-of-ad-auctions/",
           "date": "Tue, 01 Sep 2026 17:51:17 +0000"
-        },
-        {
-          "title": "This is what a supercar was like a century ago",
-          "link": "https://arstechnica.com/cars/2026/09/this-is-what-a-supercar-was-like-a-century-ago/",
-          "date": "Tue, 01 Sep 2026 17:34:16 +0000"
-        },
-        {
-          "title": "It turns out that Orion's much-maligned heat shield performed really well",
-          "link": "https://arstechnica.com/space/2026/09/it-turns-out-that-orions-much-maligned-heat-shield-performed-really-well/",
-          "date": "Tue, 01 Sep 2026 14:46:28 +0000"
         }
       ],
       "error": null
@@ -457,6 +457,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Google\u2019s AI overviews reinforce some conspiracy theories \u2013 new research",
+          "link": "https://theconversation.com/googles-ai-overviews-reinforce-some-conspiracy-theories-new-research-287959",
+          "date": "2026-09-02T00:34:29Z"
+        },
         {
           "title": "Why do we trust chatbots and how can we use them more wisely? A psychologist explains",
           "link": "https://theconversation.com/why-do-we-trust-chatbots-and-how-can-we-use-them-more-wisely-a-psychologist-explains-290396",
@@ -476,11 +481,6 @@
           "title": "41% of surveyed Australian teens now get their news from AI: new research",
           "link": "https://theconversation.com/41-of-surveyed-australian-teens-now-get-their-news-from-ai-new-research-290529",
           "date": "2026-08-30T20:17:10Z"
-        },
-        {
-          "title": "AI is eating website traffic, websites are blocking AI \u2013 and reliable information is getting harder to find",
-          "link": "https://theconversation.com/ai-is-eating-website-traffic-websites-are-blocking-ai-and-reliable-information-is-getting-harder-to-find-289817",
-          "date": "2026-08-30T20:16:47Z"
         }
       ],
       "error": null
@@ -490,9 +490,19 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Macquarie University swaps in-person psychology classes with AI chatbot for two subjects",
+          "title": "AI chatbot helps teach online-only psychology classes at Macquarie University",
           "link": "https://www.theguardian.com/technology/2026/sep/02/macquarie-university-using-ai-chatbot-tutorials",
           "date": "Tue, 01 Sep 2026 15:00:02 GMT"
+        },
+        {
+          "title": "Architect of British government\u2019s AI strategy joins Anthropic",
+          "link": "https://www.theguardian.com/technology/2026/sep/02/architect-of-uks-ai-strategy-joins-anthropic",
+          "date": "Wed, 02 Sep 2026 04:00:23 GMT"
+        },
+        {
+          "title": "Tech giants are trying to obliterate privacy. Australia has a rare chance to take back part of their power | Lizzie O'Shea",
+          "link": "https://www.theguardian.com/commentisfree/2026/sep/02/tech-giants-australia-privacy-act-legislation-laws",
+          "date": "Wed, 02 Sep 2026 03:00:05 GMT"
         },
         {
           "title": "Pentagon official overseeing military AI sold millions worth of stock in AI firm",
@@ -503,16 +513,6 @@
           "title": "Why does everyone hate datacentres?",
           "link": "https://www.theguardian.com/uk-news/video/2026/sep/01/why-does-everyone-hate-datacentres",
           "date": "Tue, 01 Sep 2026 17:04:20 GMT"
-        },
-        {
-          "title": "\u2018Not perfectly aligned\u2019 with human values: Anthropic admits security failures behind AI hacking incidents",
-          "link": "https://www.theguardian.com/technology/2026/sep/01/anthropic-claude-ai-hacking-human-values",
-          "date": "Tue, 01 Sep 2026 15:18:10 GMT"
-        },
-        {
-          "title": "From Bill Gates to Bernie Sanders, most agree the AI arms race is disastrous. Only Europe can make it stop | Alexander Hurst",
-          "link": "https://www.theguardian.com/commentisfree/2026/sep/01/from-bill-gates-to-bernie-sanders-most-agree-the-ai-arms-race-is-disastrous-only-europe-can-make-it-stop",
-          "date": "Tue, 01 Sep 2026 04:00:45 GMT"
         }
       ],
       "error": null
