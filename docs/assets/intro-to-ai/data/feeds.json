@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T02:55:32.338269+00:00",
+  "generatedAt": "2026-09-03T07:44:40.424069+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI | TechCrunch",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -495,6 +495,16 @@
           "date": "Wed, 02 Sep 2026 15:00:27 GMT"
         },
         {
+          "title": "China\u2019s demise was gleefully predicted by the west \u2013 meanwhile, it built an AI revolution | Larry Elliott",
+          "link": "https://www.theguardian.com/commentisfree/2026/sep/03/china-demise-predicted-west-ai-revolution",
+          "date": "Thu, 03 Sep 2026 07:00:47 GMT"
+        },
+        {
+          "title": "London\u2019s first self-driving taxis for hire hit the streets",
+          "link": "https://www.theguardian.com/technology/2026/sep/03/london-first-self-driving-taxis-for-hire-wayve-uber",
+          "date": "Thu, 03 Sep 2026 05:00:44 GMT"
+        },
+        {
           "title": "Trump administration sides with OpenAI in lawsuit against New York Times",
           "link": "https://www.theguardian.com/technology/2026/sep/02/trump-new-york-times-lawsuit-ai",
           "date": "Wed, 02 Sep 2026 20:39:54 GMT"
@@ -503,16 +513,6 @@
           "title": "Google defeats US justice department bid to force ad tech sale",
           "link": "https://www.theguardian.com/technology/2026/sep/02/google-defeats-justice-department-bid-ad-tech-sale",
           "date": "Wed, 02 Sep 2026 18:37:20 GMT"
-        },
-        {
-          "title": "Ben Jennings on the rise of datacentres in Britain \u2013 cartoon",
-          "link": "https://www.theguardian.com/commentisfree/picture/2026/sep/02/ben-jennings-rise-datacentres-britain-ai-government-cartoon",
-          "date": "Wed, 02 Sep 2026 17:14:42 GMT"
-        },
-        {
-          "title": "Uber drivers launch European class action over \u2018soulless\u2019 and \u2018scary\u2019 AI algorithm",
-          "link": "https://www.theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm",
-          "date": "Wed, 02 Sep 2026 15:37:26 GMT"
         }
       ],
       "error": null
