@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-09-03T12:38:13.594013+00:00",
+  "generatedAt": "2026-09-03T16:54:18.415259+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Flock Taught Cops How to Surveil No Kings Protesters",
+          "link": "https://www.404media.co/flock-taught-cops-how-to-surveil-no-kings-protesters/",
+          "date": "Thu, 03 Sep 2026 15:49:18 GMT"
+        },
         {
           "title": "How the Hell Did an Island Suddenly Appear, Then Vanish?",
           "link": "https://www.404media.co/how-the-hell-did-an-island-suddenly-appear-then-vanish/",
@@ -24,11 +29,6 @@
           "title": "The Republican Nominee for New York Governor Made a Creepy, AI-Generated Video of Mamdani and Hochul",
           "link": "https://www.404media.co/bruce-blakeman-ai-campaign-video-mamdani-hochul/",
           "date": "Wed, 02 Sep 2026 15:09:02 GMT"
-        },
-        {
-          "title": "Cops Are Asking Axon to Make Their Cameras Look Different From Flock So People Don't Destroy Them",
-          "link": "https://www.404media.co/cops-are-asking-axon-to-make-their-cameras-look-different-from-flock-so-people-dont-destroy-them/",
-          "date": "Wed, 02 Sep 2026 14:02:53 GMT"
         }
       ],
       "error": null
@@ -101,12 +101,27 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI | TechCrunch",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
+        {
+          "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+          "link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+          "date": "Thu, 03 Sep 2026 16:09:01 +0000"
+        },
+        {
+          "title": "Google\u2019s latest AI weather model gives you no excuse to forget your umbrella",
+          "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+          "date": "Thu, 03 Sep 2026 15:00:00 +0000"
+        },
+        {
+          "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+          "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+          "date": "Thu, 03 Sep 2026 12:42:45 +0000"
+        },
         {
           "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
           "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
@@ -116,21 +131,6 @@
           "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
           "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
           "date": "Wed, 02 Sep 2026 22:44:56 +0000"
-        },
-        {
-          "title": "TechCrunch Disrupt 2026\u2019s new Real World AI Stage features Nvidia, robots, and extinct animals",
-          "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-          "date": "Wed, 02 Sep 2026 22:24:09 +0000"
-        },
-        {
-          "title": "OpenAI\u2019s new reasoning technique alarms AI safety experts",
-          "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-          "date": "Wed, 02 Sep 2026 20:19:14 +0000"
-        },
-        {
-          "title": "Pangram\u2019s Max Spero on why AI detection is harder than \u2018Real or Fake\u2019",
-          "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-          "date": "Wed, 02 Sep 2026 17:18:13 +0000"
         }
       ],
       "error": null
@@ -139,6 +139,11 @@
       "name": "AI Business",
       "url": "https://aibusiness.com/rss.xml",
       "items": [
+        {
+          "title": "What Google\u2019s Release of Gemini 3.8 Says About the AI Market",
+          "link": "https://aibusiness.com/generative-ai/what-google-s-release-gemini-3-8-says-about-ai-market",
+          "date": "Thu, 03 Sep 2026 14:21:15 GMT"
+        },
         {
           "title": "Google Pics Tool Creates Pro-Grade Images for Businesses",
           "link": "https://aibusiness.com/generative-ai/google-pics-tool-creates-pro-grade-images-businesses",
@@ -158,11 +163,6 @@
           "title": "Anthropic R&amp;D Slowdown Shows Need for Heightened AI Agent Security",
           "link": "https://aibusiness.com/cybersecurity/anthropic-r-d-slowdown-shows-need-heightened-ai-agent-security",
           "date": "Tue, 01 Sep 2026 21:02:18 GMT"
-        },
-        {
-          "title": "Nvidia and Semiconductor Vendor Expand Partnership",
-          "link": "https://aibusiness.com/generative-ai/nvidia-semiconductor-vendor-expand-partnership",
-          "date": "Mon, 31 Aug 2026 20:40:10 GMT"
         }
       ],
       "error": null
@@ -306,29 +306,29 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "CrowdStrike\u2019s Falcon Guardian shrinks an AI agent\u2019s blast radius",
+          "link": "https://siliconangle.com/2026/09/03/blast-radius-ai-agents-falcon/",
+          "date": "Thu, 03 Sep 2026 16:21:11 +0000"
+        },
+        {
+          "title": "CrowdStrike builds an identity provider for AI agents, not humans",
+          "link": "https://siliconangle.com/2026/09/03/agentic-identity-provider-crowdstrike-falcon/",
+          "date": "Thu, 03 Sep 2026 15:57:52 +0000"
+        },
+        {
+          "title": "Virtual patching closes the gap as AI erases the patch window",
+          "link": "https://siliconangle.com/2026/09/03/virtual-patching-f5-crowdstrike-falcon/",
+          "date": "Thu, 03 Sep 2026 15:34:30 +0000"
+        },
+        {
+          "title": "Agentic AI is compressing attacker intrusion timelines to minutes",
+          "link": "https://siliconangle.com/2026/09/03/agentic-adversaries-cut-attacker-intrusion-times-minutes-falcon/",
+          "date": "Thu, 03 Sep 2026 12:49:32 +0000"
+        },
+        {
           "title": "Market research startup askpolly raises $3M to transform social media chatter into verifiable insights",
           "link": "https://siliconangle.com/2026/09/03/market-research-startup-askpolly-raises-3m-to-transform-social-media-chatter-into-verifiable-insights/",
           "date": "Thu, 03 Sep 2026 12:00:30 +0000"
-        },
-        {
-          "title": "Meta says it has caught up with Anthropic and OpenAI with Muse Spark 1.3, its most powerful AI model yet",
-          "link": "https://siliconangle.com/2026/09/02/meta-says-it-has-caught-up-with-anthropic-and-openai-after-releasing-muse-spark-1-3-its-most-powerful-llm-so-far/",
-          "date": "Thu, 03 Sep 2026 02:41:14 +0000"
-        },
-        {
-          "title": "Google launches two Gemini 3.8 models with cutting-edge reasoning capabilities",
-          "link": "https://siliconangle.com/2026/09/02/google-launches-two-gemini-3-8-models-with-cutting-edge-reasoning-capabilities/",
-          "date": "Thu, 03 Sep 2026 00:04:10 +0000"
-        },
-        {
-          "title": "Frontier AI research moves into cyber defense as attackers gain speed",
-          "link": "https://siliconangle.com/2026/09/02/cyber-superintelligence-lab-aims-tilt-ai-edge-defenders-falcon/",
-          "date": "Wed, 02 Sep 2026 21:55:54 +0000"
-        },
-        {
-          "title": "Wonderful raises $550M at $5B valuation for its AI automation platform",
-          "link": "https://siliconangle.com/2026/09/02/wonderful-raises-550m-at-5b-valuation-for-its-ai-automation-platform/",
-          "date": "Wed, 02 Sep 2026 20:25:48 +0000"
         }
       ],
       "error": null
@@ -386,8 +386,34 @@
     {
       "name": "Hugging Face Blog",
       "url": "https://huggingface.co/blog/feed.xml",
-      "items": [],
-      "error": "text/html is not an XML media type"
+      "items": [
+        {
+          "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "link": "https://huggingface.co/blog/Hcompany/neomme",
+          "date": "Thu, 03 Sep 2026 13:13:48 GMT"
+        },
+        {
+          "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+          "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+          "date": "Thu, 03 Sep 2026 00:00:00 GMT"
+        },
+        {
+          "title": "Give Your Coding Agents a Memory You Own",
+          "link": "https://huggingface.co/blog/funes",
+          "date": "Thu, 03 Sep 2026 00:00:00 GMT"
+        },
+        {
+          "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+          "link": "https://huggingface.co/blog/train-to-paint-with-code",
+          "date": "Thu, 03 Sep 2026 00:00:00 GMT"
+        },
+        {
+          "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+          "link": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+          "date": "Wed, 02 Sep 2026 13:49:14 GMT"
+        }
+      ],
+      "error": null
     },
     {
       "name": "Ars Technica - All content",
@@ -432,6 +458,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "How AI could make us work even harder",
+          "link": "https://theconversation.com/how-ai-could-make-us-work-even-harder-286688",
+          "date": "2026-09-03T13:54:20Z"
+        },
+        {
           "title": "AI agents can now remember and hackers can \u2018poison\u2019 their memories \u2014 a new cybersecurity threat",
           "link": "https://theconversation.com/ai-agents-can-now-remember-and-hackers-can-poison-their-memories-a-new-cybersecurity-threat-290024",
           "date": "2026-09-03T11:57:29Z"
@@ -450,11 +481,6 @@
           "title": "Google\u2019s AI overviews reinforce some conspiracy theories \u2013 new research",
           "link": "https://theconversation.com/googles-ai-overviews-reinforce-some-conspiracy-theories-new-research-287959",
           "date": "2026-09-02T00:34:29Z"
-        },
-        {
-          "title": "Why do we trust chatbots and how can we use them more wisely? A psychologist explains",
-          "link": "https://theconversation.com/why-do-we-trust-chatbots-and-how-can-we-use-them-more-wisely-a-psychologist-explains-290396",
-          "date": "2026-09-01T18:49:33Z"
         }
       ],
       "error": null
@@ -464,29 +490,29 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Black Box: The Chatbots | Spirals | Ep 1 \u2013 podcast",
-          "link": "https://www.theguardian.com/technology/audio/2026/sep/03/black-box-the-chatbots-spirals-ai-psychosis-podcast",
-          "date": "Thu, 03 Sep 2026 12:09:05 GMT"
+          "title": "Black Box: The Chatbots | What I Saw at the Double Six Ranch | Ep 6 \u2013 podcast",
+          "link": "https://www.theguardian.com/technology/audio/2026/sep/03/black-box-the-chatbots-what-i-saw-at-the-double-six-ranch-podcast",
+          "date": "Thu, 03 Sep 2026 15:30:41 GMT"
         },
         {
-          "title": "Bill Simmons\u2019s embrace of ChatGPT is a breach of his website\u2019s creative spirit",
-          "link": "https://www.theguardian.com/sport/2026/sep/03/bill-simmons-ai-ads-podcast-ringer",
-          "date": "Thu, 03 Sep 2026 10:00:51 GMT"
+          "title": "Black Box: The Chatbots | The Line | Ep 5 \u2013 podcast",
+          "link": "https://www.theguardian.com/technology/audio/2026/sep/03/black-box-the-chatbots-the-line-podcast",
+          "date": "Thu, 03 Sep 2026 14:20:39 GMT"
         },
         {
-          "title": "Child sexual abuse survivor alleges Elon Musk\u2019s AI chatbot used photos of her to generate new illegal images",
-          "link": "https://www.theguardian.com/technology/2026/sep/03/elon-musk-ai-grok-child-porn-lawsuit",
-          "date": "Thu, 03 Sep 2026 09:00:49 GMT"
+          "title": "Black Box: The Chatbots | Life Raft | Ep 4 \u2013 podcast",
+          "link": "https://www.theguardian.com/technology/audio/2026/sep/03/black-box-the-chatbots-life-raft-episode-4",
+          "date": "Thu, 03 Sep 2026 14:00:15 GMT"
         },
         {
-          "title": "China\u2019s demise was gleefully predicted by the west \u2013 meanwhile, it built an AI revolution | Larry Elliott",
-          "link": "https://www.theguardian.com/commentisfree/2026/sep/03/china-demise-predicted-west-ai-revolution",
-          "date": "Thu, 03 Sep 2026 07:00:47 GMT"
+          "title": "Black Box: The Chatbots | Happy Accident | Ep 3 \u2013 podcast",
+          "link": "https://www.theguardian.com/technology/audio/2026/sep/03/black-box-the-chatbots-happy-accident-episode-3-podcast",
+          "date": "Thu, 03 Sep 2026 13:39:07 GMT"
         },
         {
-          "title": "London\u2019s first self-driving taxis for hire hit the streets",
-          "link": "https://www.theguardian.com/technology/2026/sep/03/london-first-self-driving-taxis-for-hire-wayve-uber",
-          "date": "Thu, 03 Sep 2026 05:00:44 GMT"
+          "title": "Nvidia to buy developer platform Hugging Face in $12.9bn deal",
+          "link": "https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
+          "date": "Thu, 03 Sep 2026 13:15:26 GMT"
         }
       ],
       "error": null
@@ -528,6 +554,21 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Zohran Mamdani Bans AI for NYC Public School Students Up to Eighth Grade",
+          "link": "https://futurism.com/future-society/zohran-mamdani-bans-ai-for-nyc-public-school-students",
+          "date": "Thu, 03 Sep 2026 12:50:00 -0400"
+        },
+        {
+          "title": "World Plunged Into Chaos as ChatGPT, Claude, and Grok Suddenly Go Down Simultaneously: \u201cFinally I Can See the Sun!\u201d",
+          "link": "https://futurism.com/artificial-intelligence/ai-chatbots-chatgpt-claude-grok-go-down",
+          "date": "Thu, 03 Sep 2026 12:31:17 -0400"
+        },
+        {
+          "title": "As the Rest of the Economy Crumbles, the Amount of Money Flooding Into Data Centers Is Simply Astounding",
+          "link": "https://futurism.com/future-society/us-economy-data-centers-ai-spending-pwc-finances",
+          "date": "Thu, 03 Sep 2026 09:52:21 -0400"
+        },
+        {
           "title": "Anthropic Deliberately Trained an Extremely Misaligned, Reward-Seeking AI and It Did Some REALLY Bad Things",
           "link": "https://futurism.com/artificial-intelligence/anthropic-trained-misaligned-reward-seeking-ai",
           "date": "Wed, 02 Sep 2026 11:50:26 -0400"
@@ -536,21 +577,6 @@
           "title": "Burning Man Has a Meta AI Glasses Problem",
           "link": "https://futurism.com/artificial-intelligence/burning-man-meta-glasses",
           "date": "Wed, 02 Sep 2026 10:54:40 -0400"
-        },
-        {
-          "title": "Google\u2019s AI Mode Is Ripping Shoppers Off With Vastly Higher Prices, Study Claims",
-          "link": "https://futurism.com/artificial-intelligence/google-ai-mode-higher-prices-study",
-          "date": "Wed, 02 Sep 2026 10:08:26 -0400"
-        },
-        {
-          "title": "Meta Hit With Sweeping New Claims That Its AI Glasses Violated the Consent of \u201cMillions\u201d of Bystanders in Searing Lawsuit",
-          "link": "https://futurism.com/artificial-intelligence/meta-lawsuit-ai-glasses-violated-consent-bystanders",
-          "date": "Wed, 02 Sep 2026 08:41:03 -0400"
-        },
-        {
-          "title": "US Military in Chaos as Trump Shares AI Video of Nonexistent Attack on Iran",
-          "link": "https://futurism.com/artificial-intelligence/trump-ai-video-fake-attack",
-          "date": "Tue, 01 Sep 2026 13:45:42 -0400"
         }
       ],
       "error": null
@@ -560,6 +586,21 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
+          "link": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
+          "date": "Thu, 03 Sep 2026 16:42:40 +0000"
+        },
+        {
+          "title": "Nvidia RTX Spark \u2018Superchip\u2019: The First AI PCs Are Here",
+          "link": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/",
+          "date": "Thu, 03 Sep 2026 13:00:00 +0000"
+        },
+        {
+          "title": "Nvidia\u2019s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
+          "link": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
+          "date": "Thu, 03 Sep 2026 12:43:09 +0000"
+        },
+        {
           "title": "This Is Flock\u2019s AI Search Tool for Cops",
           "link": "https://www.wired.com/story/flock-ai-search-user-interface/",
           "date": "Thu, 03 Sep 2026 10:00:00 +0000"
@@ -568,21 +609,6 @@
           "title": "Meta Pushes Its New AI Agent on Employees\u2014but Eases Off on Tokenmaxxing",
           "link": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
           "date": "Thu, 03 Sep 2026 01:32:02 +0000"
-        },
-        {
-          "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
-          "link": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
-          "date": "Wed, 02 Sep 2026 18:41:02 +0000"
-        },
-        {
-          "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
-          "link": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
-          "date": "Wed, 02 Sep 2026 18:20:00 +0000"
-        },
-        {
-          "title": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
-          "link": "https://www.wired.com/story/bot-vs-bot-job-interview-ai/",
-          "date": "Wed, 02 Sep 2026 15:51:46 +0000"
         }
       ],
       "error": null
