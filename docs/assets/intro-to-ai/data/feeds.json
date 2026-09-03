@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T07:44:40.424069+00:00",
+  "generatedAt": "2026-09-03T12:38:13.594013+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "APM says the bottleneck is your database. Now what?",
+          "link": "https://www.aiacceleratorinstitute.com/the-bottleneck-is-your-database/",
+          "date": "Thu, 03 Sep 2026 10:15:40 GMT"
+        },
+        {
           "title": "Your company runs 23 AI tools.  Which ones work?",
           "link": "https://www.aiacceleratorinstitute.com/your-company-runs-23-ai-tools-which-ones-work/",
           "date": "Wed, 02 Sep 2026 12:30:51 GMT"
@@ -88,11 +93,6 @@
           "title": "Agentic AI For Finance Summit 2026",
           "link": "https://www.aiacceleratorinstitute.com/agentic-ai-for-finance-summit-2026/",
           "date": "Thu, 27 Aug 2026 13:38:34 GMT"
-        },
-        {
-          "title": "Your AI agent's skills are lying to   you about why they work",
-          "link": "https://www.aiacceleratorinstitute.com/your-ai-agents-skills-are-lying-to-you-about-why-they-work/",
-          "date": "Thu, 20 Aug 2026 14:55:40 GMT"
         }
       ],
       "error": null
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI | TechCrunch",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -306,6 +306,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Market research startup askpolly raises $3M to transform social media chatter into verifiable insights",
+          "link": "https://siliconangle.com/2026/09/03/market-research-startup-askpolly-raises-3m-to-transform-social-media-chatter-into-verifiable-insights/",
+          "date": "Thu, 03 Sep 2026 12:00:30 +0000"
+        },
+        {
           "title": "Meta says it has caught up with Anthropic and OpenAI with Muse Spark 1.3, its most powerful AI model yet",
           "link": "https://siliconangle.com/2026/09/02/meta-says-it-has-caught-up-with-anthropic-and-openai-after-releasing-muse-spark-1-3-its-most-powerful-llm-so-far/",
           "date": "Thu, 03 Sep 2026 02:41:14 +0000"
@@ -324,11 +329,6 @@
           "title": "Wonderful raises $550M at $5B valuation for its AI automation platform",
           "link": "https://siliconangle.com/2026/09/02/wonderful-raises-550m-at-5b-valuation-for-its-ai-automation-platform/",
           "date": "Wed, 02 Sep 2026 20:25:48 +0000"
-        },
-        {
-          "title": "Continuous identity becomes the new front line for AI agents: theCUBE\u2019s Fal.Con 2026 day two keynote analysis",
-          "link": "https://siliconangle.com/2026/09/02/continuous-ai-agent-identity-falcon/",
-          "date": "Wed, 02 Sep 2026 18:14:54 +0000"
         }
       ],
       "error": null
@@ -386,34 +386,8 @@
     {
       "name": "Hugging Face Blog",
       "url": "https://huggingface.co/blog/feed.xml",
-      "items": [
-        {
-          "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-          "link": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-          "date": "Wed, 02 Sep 2026 13:49:14 GMT"
-        },
-        {
-          "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-          "link": "https://huggingface.co/blog/allenai/benchmirt",
-          "date": "Tue, 01 Sep 2026 21:39:07 GMT"
-        },
-        {
-          "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-          "link": "https://huggingface.co/blog/webgpu-kernels",
-          "date": "Tue, 01 Sep 2026 00:00:00 GMT"
-        },
-        {
-          "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-          "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-          "date": "Fri, 28 Aug 2026 00:00:00 GMT"
-        },
-        {
-          "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-          "link": "https://huggingface.co/blog/train-multi-vector-encoder",
-          "date": "Wed, 26 Aug 2026 00:00:00 GMT"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "text/html is not an XML media type"
     },
     {
       "name": "Ars Technica - All content",
@@ -458,6 +432,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "AI agents can now remember and hackers can \u2018poison\u2019 their memories \u2014 a new cybersecurity threat",
+          "link": "https://theconversation.com/ai-agents-can-now-remember-and-hackers-can-poison-their-memories-a-new-cybersecurity-threat-290024",
+          "date": "2026-09-03T11:57:29Z"
+        },
+        {
           "title": "Will AI save or ruin democracy? It depends on whether we allow computers to stand in for people",
           "link": "https://theconversation.com/will-ai-save-or-ruin-democracy-it-depends-on-whether-we-allow-computers-to-stand-in-for-people-289369",
           "date": "2026-09-02T16:17:50Z"
@@ -476,11 +455,6 @@
           "title": "Why do we trust chatbots and how can we use them more wisely? A psychologist explains",
           "link": "https://theconversation.com/why-do-we-trust-chatbots-and-how-can-we-use-them-more-wisely-a-psychologist-explains-290396",
           "date": "2026-09-01T18:49:33Z"
-        },
-        {
-          "title": "AI is set to boost productivity and will have a \u2018profound\u2019 impact on the jobs market: Treasury",
-          "link": "https://theconversation.com/ai-is-set-to-boost-productivity-and-will-have-a-profound-impact-on-the-jobs-market-treasury-290823",
-          "date": "2026-08-31T12:30:07Z"
         }
       ],
       "error": null
@@ -490,9 +464,19 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Canberra \u2018put on notice\u2019 as AI-generated submissions bring false information into parliamentary inquiries",
-          "link": "https://www.theguardian.com/technology/2026/sep/03/canberra-put-on-notice-ai-submissions-false-information-hallucinations-parliament",
-          "date": "Wed, 02 Sep 2026 15:00:27 GMT"
+          "title": "Black Box: The Chatbots | Spirals | Ep 1 \u2013 podcast",
+          "link": "https://www.theguardian.com/technology/audio/2026/sep/03/black-box-the-chatbots-spirals-ai-psychosis-podcast",
+          "date": "Thu, 03 Sep 2026 12:09:05 GMT"
+        },
+        {
+          "title": "Bill Simmons\u2019s embrace of ChatGPT is a breach of his website\u2019s creative spirit",
+          "link": "https://www.theguardian.com/sport/2026/sep/03/bill-simmons-ai-ads-podcast-ringer",
+          "date": "Thu, 03 Sep 2026 10:00:51 GMT"
+        },
+        {
+          "title": "Child sexual abuse survivor alleges Elon Musk\u2019s AI chatbot used photos of her to generate new illegal images",
+          "link": "https://www.theguardian.com/technology/2026/sep/03/elon-musk-ai-grok-child-porn-lawsuit",
+          "date": "Thu, 03 Sep 2026 09:00:49 GMT"
         },
         {
           "title": "China\u2019s demise was gleefully predicted by the west \u2013 meanwhile, it built an AI revolution | Larry Elliott",
@@ -503,16 +487,6 @@
           "title": "London\u2019s first self-driving taxis for hire hit the streets",
           "link": "https://www.theguardian.com/technology/2026/sep/03/london-first-self-driving-taxis-for-hire-wayve-uber",
           "date": "Thu, 03 Sep 2026 05:00:44 GMT"
-        },
-        {
-          "title": "Trump administration sides with OpenAI in lawsuit against New York Times",
-          "link": "https://www.theguardian.com/technology/2026/sep/02/trump-new-york-times-lawsuit-ai",
-          "date": "Wed, 02 Sep 2026 20:39:54 GMT"
-        },
-        {
-          "title": "Google defeats US justice department bid to force ad tech sale",
-          "link": "https://www.theguardian.com/technology/2026/sep/02/google-defeats-justice-department-bid-ad-tech-sale",
-          "date": "Wed, 02 Sep 2026 18:37:20 GMT"
         }
       ],
       "error": null
@@ -586,6 +560,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "This Is Flock\u2019s AI Search Tool for Cops",
+          "link": "https://www.wired.com/story/flock-ai-search-user-interface/",
+          "date": "Thu, 03 Sep 2026 10:00:00 +0000"
+        },
+        {
           "title": "Meta Pushes Its New AI Agent on Employees\u2014but Eases Off on Tokenmaxxing",
           "link": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
           "date": "Thu, 03 Sep 2026 01:32:02 +0000"
@@ -604,11 +583,6 @@
           "title": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
           "link": "https://www.wired.com/story/bot-vs-bot-job-interview-ai/",
           "date": "Wed, 02 Sep 2026 15:51:46 +0000"
-        },
-        {
-          "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
-          "link": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
-          "date": "Wed, 02 Sep 2026 10:00:00 +0000"
         }
       ],
       "error": null
