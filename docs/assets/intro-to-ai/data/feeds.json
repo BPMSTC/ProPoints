@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T23:49:43.626686+00:00",
+  "generatedAt": "2026-09-03T02:55:32.338269+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI | TechCrunch",
@@ -306,6 +306,16 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Meta says it has caught up with Anthropic and OpenAI with Muse Spark 1.3, its most powerful AI model yet",
+          "link": "https://siliconangle.com/2026/09/02/meta-says-it-has-caught-up-with-anthropic-and-openai-after-releasing-muse-spark-1-3-its-most-powerful-llm-so-far/",
+          "date": "Thu, 03 Sep 2026 02:41:14 +0000"
+        },
+        {
+          "title": "Google launches two Gemini 3.8 models with cutting-edge reasoning capabilities",
+          "link": "https://siliconangle.com/2026/09/02/google-launches-two-gemini-3-8-models-with-cutting-edge-reasoning-capabilities/",
+          "date": "Thu, 03 Sep 2026 00:04:10 +0000"
+        },
+        {
           "title": "Frontier AI research moves into cyber defense as attackers gain speed",
           "link": "https://siliconangle.com/2026/09/02/cyber-superintelligence-lab-aims-tilt-ai-edge-defenders-falcon/",
           "date": "Wed, 02 Sep 2026 21:55:54 +0000"
@@ -319,16 +329,6 @@
           "title": "Continuous identity becomes the new front line for AI agents: theCUBE\u2019s Fal.Con 2026 day two keynote analysis",
           "link": "https://siliconangle.com/2026/09/02/continuous-ai-agent-identity-falcon/",
           "date": "Wed, 02 Sep 2026 18:14:54 +0000"
-        },
-        {
-          "title": "Storage leaders target AI\u2019s unstructured data challenge",
-          "link": "https://siliconangle.com/2026/09/02/unstructured-data-hammerspace-cloudian-seagate-supermicro-supermicroopenstoragesummit/",
-          "date": "Wed, 02 Sep 2026 18:00:00 +0000"
-        },
-        {
-          "title": "CEO George Kurtz says the AI control plane is CrowdStrike\u2019s next security frontier",
-          "link": "https://siliconangle.com/2026/09/02/ai-control-plane-george-kurtz-safemind-falcon/",
-          "date": "Wed, 02 Sep 2026 16:08:29 +0000"
         }
       ],
       "error": null
@@ -586,6 +586,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Meta Pushes Its New AI Agent on Employees\u2014but Eases Off on Tokenmaxxing",
+          "link": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
+          "date": "Thu, 03 Sep 2026 01:32:02 +0000"
+        },
+        {
           "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
           "link": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
           "date": "Wed, 02 Sep 2026 18:41:02 +0000"
@@ -604,11 +609,6 @@
           "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
           "link": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
           "date": "Wed, 02 Sep 2026 10:00:00 +0000"
-        },
-        {
-          "title": "OpenAI Is About to Release Its First AI Model With \u2018Critical\u2019 Cyber Abilities",
-          "link": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
-          "date": "Tue, 01 Sep 2026 20:00:00 +0000"
         }
       ],
       "error": null
