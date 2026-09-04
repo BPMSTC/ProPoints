@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T00:45:36.599811+00:00",
+  "generatedAt": "2026-09-04T05:27:06.295748+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,16 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "The sameness problem behind those unappetizing AI-generated menus",
+          "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+          "date": "Fri, 04 Sep 2026 04:21:03 +0000"
+        },
+        {
+          "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+          "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+          "date": "Fri, 04 Sep 2026 00:48:42 +0000"
+        },
+        {
           "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
           "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
           "date": "Thu, 03 Sep 2026 19:36:29 +0000"
@@ -121,16 +131,6 @@
           "title": "Meta is paying to peek at how you use their latest AI model",
           "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
           "date": "Thu, 03 Sep 2026 18:19:56 +0000"
-        },
-        {
-          "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-          "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-          "date": "Thu, 03 Sep 2026 18:01:45 +0000"
-        },
-        {
-          "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-          "link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
-          "date": "Thu, 03 Sep 2026 16:09:01 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -253,6 +253,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "Best AI subscription for value? $10-$20",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w6tl1c/best_ai_subscription_for_value_1020/",
+          "date": "2026-09-04T04:00:37+00:00"
+        },
+        {
           "title": "Has anyone got access to OpenAI Astra yet?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w6m1xn/has_anyone_got_access_to_openai_astra_yet/",
           "date": "2026-09-03T22:18:13+00:00"
@@ -266,11 +271,6 @@
           "title": "Vibe Coder and Hollywood",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w5nka3/vibe_coder_and_hollywood/",
           "date": "2026-09-02T21:19:14+00:00"
-        },
-        {
-          "title": "Entities",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w5jmiu/entities/",
-          "date": "2026-09-02T19:00:15+00:00"
         }
       ],
       "error": null
@@ -279,6 +279,16 @@
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
+        {
+          "title": "Nvidia PAIR makes it easy to create a household data center for running agentic AI tasks",
+          "link": "https://siliconangle.com/2026/09/03/nvidia-pair-makes-it-easy-to-create-a-household-data-center-for-running-agentic-ai-tasks/",
+          "date": "Fri, 04 Sep 2026 01:38:14 +0000"
+        },
+        {
+          "title": "Nvidia\u2019s Hugging Face deal is a bet on open models \u2014 and proof it\u2019s no longer just a chip company",
+          "link": "https://siliconangle.com/2026/09/03/nvidias-hugging-face-deal-is-a-bet-on-open-models-and-proof-its-no-longer-just-a-chip-company/",
+          "date": "Fri, 04 Sep 2026 01:29:39 +0000"
+        },
         {
           "title": "Upwind reels in $300M for its automated cloud security platform",
           "link": "https://siliconangle.com/2026/09/03/upwind-reels-in-300m-for-its-automated-cloud-security-platform/",
@@ -293,16 +303,6 @@
           "title": "OpenAI starts rolling out its next-generation GPT-6 Astra model",
           "link": "https://siliconangle.com/2026/09/03/openai-starts-rolling-out-its-next-generation-gpt-6-astra-model/",
           "date": "Thu, 03 Sep 2026 22:46:31 +0000"
-        },
-        {
-          "title": "Nvidia confirms $12.9B acquisition of AI hosting platform Hugging Face",
-          "link": "https://siliconangle.com/2026/09/03/nvidia-confirms-12-9b-acquisition-of-ai-hosting-platform-hugging-face/",
-          "date": "Thu, 03 Sep 2026 20:25:34 +0000"
-        },
-        {
-          "title": "CrowdStrike\u2019s Falcon Guardian shrinks an AI agent\u2019s blast radius",
-          "link": "https://siliconangle.com/2026/09/03/blast-radius-ai-agents-falcon/",
-          "date": "Thu, 03 Sep 2026 16:21:11 +0000"
         }
       ],
       "error": null
@@ -432,6 +432,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Is everyone a robot? Will O\u2019Mahony\u2019s new play is a sharp, funny plunge into our AI world",
+          "link": "https://theconversation.com/is-everyone-a-robot-will-omahonys-new-play-is-a-sharp-funny-plunge-into-our-ai-world-289518",
+          "date": "2026-09-04T02:33:14Z"
+        },
+        {
           "title": "How AI could make us work even harder",
           "link": "https://theconversation.com/how-ai-could-make-us-work-even-harder-286688",
           "date": "2026-09-03T13:54:20Z"
@@ -450,11 +455,6 @@
           "title": "Whether you\u2019re an introvert or extravert may decide how you should use AI",
           "link": "https://theconversation.com/whether-youre-an-introvert-or-extravert-may-decide-how-you-should-use-ai-290210",
           "date": "2026-09-02T11:12:43Z"
-        },
-        {
-          "title": "Google\u2019s AI overviews reinforce some conspiracy theories \u2013 new research",
-          "link": "https://theconversation.com/googles-ai-overviews-reinforce-some-conspiracy-theories-new-research-287959",
-          "date": "2026-09-02T00:34:29Z"
         }
       ],
       "error": null
@@ -467,6 +467,11 @@
           "title": "OpenAI hails \u2018new era of artificial general intelligence\u2019 with Astra model release",
           "link": "https://www.theguardian.com/technology/2026/sep/03/openai-artificial-general-intelligence-astra-release",
           "date": "Thu, 03 Sep 2026 18:24:42 GMT"
+        },
+        {
+          "title": "Comedian\u2019s offensive mock Welcome to Country at far-right rally gets rerun in the Daily Mail | Weekly Beast",
+          "link": "https://www.theguardian.com/media/2026/sep/04/march-for-australia-rally-lisa-jane-spencer-mock-welcome-to-country-daily-mail-ntwnfb",
+          "date": "Fri, 04 Sep 2026 01:16:12 GMT"
         },
         {
           "title": "Hundreds gather to urge Scottish government to pause datacentre boom",
@@ -482,11 +487,6 @@
           "title": "Black Box: The Chatbots | What I Saw at the Double Six Ranch | Ep 6 \u2013 podcast",
           "link": "https://www.theguardian.com/technology/audio/2026/sep/03/black-box-the-chatbots-what-i-saw-at-the-double-six-ranch-podcast",
           "date": "Thu, 03 Sep 2026 15:30:41 GMT"
-        },
-        {
-          "title": "Black Box: The Chatbots | The Line | Ep 5 \u2013 podcast",
-          "link": "https://www.theguardian.com/technology/audio/2026/sep/03/black-box-the-chatbots-the-line-podcast",
-          "date": "Thu, 03 Sep 2026 14:20:39 GMT"
         }
       ],
       "error": null
