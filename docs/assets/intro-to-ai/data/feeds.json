@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T22:14:24.396439+00:00",
+  "generatedAt": "2026-09-04T00:45:36.599811+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -253,6 +253,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "Has anyone got access to OpenAI Astra yet?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w6m1xn/has_anyone_got_access_to_openai_astra_yet/",
+          "date": "2026-09-03T22:18:13+00:00"
+        },
+        {
           "title": "What's the most ludicrous thing you've tried with AI?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w6hjww/whats_the_most_ludicrous_thing_youve_tried_with_ai/",
           "date": "2026-09-03T19:32:20+00:00"
@@ -266,11 +271,6 @@
           "title": "Entities",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w5jmiu/entities/",
           "date": "2026-09-02T19:00:15+00:00"
-        },
-        {
-          "title": "A prompt that changed everything",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w52xk0/a_prompt_that_changed_everything/",
-          "date": "2026-09-02T07:02:04+00:00"
         }
       ],
       "error": null
@@ -280,6 +280,21 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Upwind reels in $300M for its automated cloud security platform",
+          "link": "https://siliconangle.com/2026/09/03/upwind-reels-in-300m-for-its-automated-cloud-security-platform/",
+          "date": "Fri, 04 Sep 2026 00:25:09 +0000"
+        },
+        {
+          "title": "UiPath beats on revenue but its stock tanks after-hours",
+          "link": "https://siliconangle.com/2026/09/03/uipath-beats-on-revenue-but-its-stock-tanks-after-hours/",
+          "date": "Thu, 03 Sep 2026 23:35:30 +0000"
+        },
+        {
+          "title": "OpenAI starts rolling out its next-generation GPT-6 Astra model",
+          "link": "https://siliconangle.com/2026/09/03/openai-starts-rolling-out-its-next-generation-gpt-6-astra-model/",
+          "date": "Thu, 03 Sep 2026 22:46:31 +0000"
+        },
+        {
           "title": "Nvidia confirms $12.9B acquisition of AI hosting platform Hugging Face",
           "link": "https://siliconangle.com/2026/09/03/nvidia-confirms-12-9b-acquisition-of-ai-hosting-platform-hugging-face/",
           "date": "Thu, 03 Sep 2026 20:25:34 +0000"
@@ -288,21 +303,6 @@
           "title": "CrowdStrike\u2019s Falcon Guardian shrinks an AI agent\u2019s blast radius",
           "link": "https://siliconangle.com/2026/09/03/blast-radius-ai-agents-falcon/",
           "date": "Thu, 03 Sep 2026 16:21:11 +0000"
-        },
-        {
-          "title": "CrowdStrike builds an identity provider for AI agents, not humans",
-          "link": "https://siliconangle.com/2026/09/03/agentic-identity-provider-crowdstrike-falcon/",
-          "date": "Thu, 03 Sep 2026 15:57:52 +0000"
-        },
-        {
-          "title": "When seconds count: Extending EDR to ADCs to erase the AI exploit window",
-          "link": "https://siliconangle.com/2026/09/03/virtual-patching-f5-crowdstrike-falcon/",
-          "date": "Thu, 03 Sep 2026 15:34:30 +0000"
-        },
-        {
-          "title": "Agentic AI is compressing attacker intrusion timelines to minutes",
-          "link": "https://siliconangle.com/2026/09/03/agentic-adversaries-cut-attacker-intrusion-times-minutes-falcon/",
-          "date": "Thu, 03 Sep 2026 12:49:32 +0000"
         }
       ],
       "error": null
@@ -394,29 +394,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "US senator calls on the NSA to give guidance for use of VPNs",
+          "title": "Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them",
+          "link": "https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/",
+          "date": "Thu, 03 Sep 2026 22:13:50 +0000"
+        },
+        {
+          "title": "Xbox imposes harsh new time limits for Game Pass game streaming",
+          "link": "https://arstechnica.com/gaming/2026/09/xbox-imposes-harsh-new-time-limits-for-game-pass-game-streaming/",
+          "date": "Thu, 03 Sep 2026 21:10:59 +0000"
+        },
+        {
+          "title": "150 research primates got diarrhea, flooding lab with priceless vaccine data",
+          "link": "https://arstechnica.com/health/2026/09/150-research-primates-got-diarrhea-flooding-lab-with-priceless-vaccine-data/",
+          "date": "Thu, 03 Sep 2026 20:14:48 +0000"
+        },
+        {
+          "title": "Confused about which VPN is right, US senator asks the NSA for guidance",
           "link": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
           "date": "Thu, 03 Sep 2026 19:52:06 +0000"
         },
         {
-          "title": "NJ urges SCOTUS to rule that Kalshi sports bets are gambling, not \"swaps\"",
+          "title": "Supreme Court urged to let states regulate sports bets on prediction markets",
           "link": "https://arstechnica.com/tech-policy/2026/09/nj-urges-scotus-to-rule-that-kalshi-sports-bets-are-gambling-not-swaps/",
           "date": "Thu, 03 Sep 2026 19:42:02 +0000"
-        },
-        {
-          "title": "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
-          "link": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
-          "date": "Thu, 03 Sep 2026 18:58:31 +0000"
-        },
-        {
-          "title": "Just like a fruit fly, a new algorithm never forgets old scents",
-          "link": "https://arstechnica.com/science/2026/09/just-like-a-fruit-fly-a-new-algorithm-never-forgets-old-scents/",
-          "date": "Thu, 03 Sep 2026 18:22:52 +0000"
-        },
-        {
-          "title": "Four major AI models suffer rare overlapping downtime",
-          "link": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
-          "date": "Thu, 03 Sep 2026 18:10:19 +0000"
         }
       ],
       "error": null
