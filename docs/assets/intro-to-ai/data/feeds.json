@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T05:27:06.295748+00:00",
+  "generatedAt": "2026-09-04T10:38:50.477464+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "Everyone's optimizing content for AI visibility.  New research shows the cost",
+          "link": "https://www.aiacceleratorinstitute.com/everyones-optimizing-content-for-ai-visibility-new-research-shows-the-cost/",
+          "date": "Fri, 04 Sep 2026 09:31:37 GMT"
+        },
+        {
           "title": "APM says the bottleneck is your database. Now what?",
           "link": "https://www.aiacceleratorinstitute.com/the-bottleneck-is-your-database/",
           "date": "Thu, 03 Sep 2026 10:15:40 GMT"
@@ -88,11 +93,6 @@
           "title": "Agentic AI is learning to resist   the off switch",
           "link": "https://www.aiacceleratorinstitute.com/agentic-ai-is-learning-to-resist-the-off-switch-2/",
           "date": "Fri, 28 Aug 2026 07:57:13 GMT"
-        },
-        {
-          "title": "Agentic AI For Finance Summit 2026",
-          "link": "https://www.aiacceleratorinstitute.com/agentic-ai-for-finance-summit-2026/",
-          "date": "Thu, 27 Aug 2026 13:38:34 GMT"
         }
       ],
       "error": null
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI | TechCrunch",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -560,6 +560,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
+          "link": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
+          "date": "Fri, 04 Sep 2026 10:00:00 +0000"
+        },
+        {
           "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
           "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
           "date": "Thu, 03 Sep 2026 21:56:21 +0000"
@@ -578,11 +583,6 @@
           "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
           "link": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
           "date": "Thu, 03 Sep 2026 16:42:40 +0000"
-        },
-        {
-          "title": "Nvidia RTX Spark \u2018Superchip\u2019: The First AI PCs Are Here",
-          "link": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/",
-          "date": "Thu, 03 Sep 2026 13:00:00 +0000"
         }
       ],
       "error": null
