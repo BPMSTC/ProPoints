@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T14:45:20.632231+00:00",
+  "generatedAt": "2026-09-04T18:03:19.729509+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,29 +108,29 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "What will Apple\u2019s John Ternus era look like?",
+          "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+          "date": "Fri, 04 Sep 2026 17:18:00 +0000"
+        },
+        {
+          "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab\u2019s knowledge",
+          "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+          "date": "Fri, 04 Sep 2026 16:21:11 +0000"
+        },
+        {
+          "title": "Apple\u2019s Ternus era begins as Nvidia bets on the whole AI stack",
+          "link": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+          "date": "Fri, 04 Sep 2026 16:04:08 +0000"
+        },
+        {
+          "title": "Google\u2019s Gemini Spark can now manage your Google Photos library",
+          "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+          "date": "Fri, 04 Sep 2026 14:47:11 +0000"
+        },
+        {
           "title": "Less than 24 hours to apply\u00a0for your TechCrunch Disrupt\u00a02026 Side Event",
           "link": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
           "date": "Fri, 04 Sep 2026 14:00:00 +0000"
-        },
-        {
-          "title": "The sameness problem behind those unappetizing AI-generated menus",
-          "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-          "date": "Fri, 04 Sep 2026 04:21:03 +0000"
-        },
-        {
-          "title": "Crusoe reportedly raises $3B at a  $30B valuation",
-          "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-          "date": "Fri, 04 Sep 2026 00:48:42 +0000"
-        },
-        {
-          "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-          "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
-          "date": "Thu, 03 Sep 2026 19:36:29 +0000"
-        },
-        {
-          "title": "Abliteration.ai is making a business out of removing AI guardrails",
-          "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-          "date": "Thu, 03 Sep 2026 18:37:57 +0000"
         }
       ],
       "error": null
@@ -139,6 +139,16 @@
       "name": "AI Business",
       "url": "https://aibusiness.com/rss.xml",
       "items": [
+        {
+          "title": "OpenAI Touts GPT-6 Astra as Its Safest Model, But It's Still Dangerous",
+          "link": "https://aibusiness.com/generative-ai/openai-touts-gpt-6-astra-safest-model-still-dangerous",
+          "date": "Fri, 04 Sep 2026 16:58:32 GMT"
+        },
+        {
+          "title": "Prompt: Nvidia Moves up the AI Stack",
+          "link": "https://aibusiness.com/generative-ai/prompt-nvidia-moves-up-ai-stack",
+          "date": "Fri, 04 Sep 2026 14:32:23 GMT"
+        },
         {
           "title": "Enterprise AI Startup Wonderful Now Valued at $5B",
           "link": "https://aibusiness.com/generative-ai/enterprise-ai-startup-valued-at-5b",
@@ -153,16 +163,6 @@
           "title": "What Google\u2019s Release of Gemini 3.8 Says About the AI Market",
           "link": "https://aibusiness.com/generative-ai/what-google-s-release-gemini-3-8-says-about-ai-market",
           "date": "Thu, 03 Sep 2026 14:21:15 GMT"
-        },
-        {
-          "title": "Google Pics Tool Creates Pro-Grade Images for Businesses",
-          "link": "https://aibusiness.com/generative-ai/google-pics-tool-creates-pro-grade-images-businesses",
-          "date": "Wed, 02 Sep 2026 17:37:54 GMT"
-        },
-        {
-          "title": "Hugging Face Releases Programmable, Walking Duck Robot",
-          "link": "https://aibusiness.com/robotics/hugging-face-programmable-walking-duck-robot",
-          "date": "Wed, 02 Sep 2026 15:53:11 GMT"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -280,6 +280,21 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Resect launches with $25M to reduce hallucinations in AI models",
+          "link": "https://siliconangle.com/2026/09/04/resect-launches-with-25m-to-reduce-hallucinations-in-ai-models/",
+          "date": "Fri, 04 Sep 2026 16:15:25 +0000"
+        },
+        {
+          "title": "Experian expands into AI agents with ServiceNow partnership",
+          "link": "https://siliconangle.com/2026/09/04/experian-expands-into-ai-agents-with-servicenow-partnership/",
+          "date": "Fri, 04 Sep 2026 14:50:09 +0000"
+        },
+        {
+          "title": "Nvidia bags Hugging Face, AI models play leapfrog and CrowdStrike doubles down on AI",
+          "link": "https://siliconangle.com/2026/09/04/nvidia-bags-hugging-face-ai-models-play-leapfrog-and-crowdstrike-doubles-down-on-ai/",
+          "date": "Fri, 04 Sep 2026 14:01:33 +0000"
+        },
+        {
           "title": "Enterprise AI readiness trails the hype amid agentic rush",
           "link": "https://siliconangle.com/2026/09/04/enterprise-ai-readiness-trails-the-hype-amid-agentic-rush-vmwareexplore/",
           "date": "Fri, 04 Sep 2026 13:40:38 +0000"
@@ -288,21 +303,6 @@
           "title": "Infosys brings enterprise context to CrowdStrike\u2019s AI security push",
           "link": "https://siliconangle.com/2026/09/04/project-quiltworks-infosys-crowdstrike-falcon/",
           "date": "Fri, 04 Sep 2026 12:26:08 +0000"
-        },
-        {
-          "title": "Nvidia PAIR makes it easy to create a household data center for running agentic AI tasks",
-          "link": "https://siliconangle.com/2026/09/03/nvidia-pair-makes-it-easy-to-create-a-household-data-center-for-running-agentic-ai-tasks/",
-          "date": "Fri, 04 Sep 2026 01:38:14 +0000"
-        },
-        {
-          "title": "Nvidia\u2019s Hugging Face deal is a bet on open models \u2014 and proof it\u2019s no longer just a chip company",
-          "link": "https://siliconangle.com/2026/09/03/nvidias-hugging-face-deal-is-a-bet-on-open-models-and-proof-its-no-longer-just-a-chip-company/",
-          "date": "Fri, 04 Sep 2026 01:29:39 +0000"
-        },
-        {
-          "title": "Upwind reels in $300M for its automated cloud security platform",
-          "link": "https://siliconangle.com/2026/09/03/upwind-reels-in-300m-for-its-automated-cloud-security-platform/",
-          "date": "Fri, 04 Sep 2026 00:25:09 +0000"
         }
       ],
       "error": null
@@ -394,29 +394,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Rocket Report: Engines installed for Artemis III; Long March 6C breakup in LEO",
-          "link": "https://arstechnica.com/space/2026/09/rocket-report-china-debuts-yet-another-new-rocket-nasa-considers-bulk-buys/",
-          "date": "Fri, 04 Sep 2026 12:48:36 +0000"
+          "title": "Valve secretly leaked a Left 4 Dead 2 trailer to dodge the ESRB",
+          "link": "https://arstechnica.com/gaming/2026/09/valve-secretly-leaked-a-left-4-dead-2-trailer-to-dodge-the-esrb/",
+          "date": "Fri, 04 Sep 2026 16:42:53 +0000"
         },
         {
-          "title": "Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+.",
-          "link": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
-          "date": "Fri, 04 Sep 2026 11:00:05 +0000"
+          "title": "Second complete map of a fruit fly brain completed",
+          "link": "https://arstechnica.com/science/2026/09/brain-of-a-male-fly-completely-mapped-joins-earlier-map-of-a-female-brain/",
+          "date": "Fri, 04 Sep 2026 16:24:24 +0000"
         },
         {
-          "title": "Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them",
-          "link": "https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/",
-          "date": "Thu, 03 Sep 2026 22:13:50 +0000"
+          "title": "Anthropic\u2019s $2 trillion IPO puts powerful external trustees in spotlight",
+          "link": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
+          "date": "Fri, 04 Sep 2026 16:22:18 +0000"
         },
         {
-          "title": "Xbox imposes harsh new time limits for Game Pass game streaming",
-          "link": "https://arstechnica.com/gaming/2026/09/xbox-imposes-harsh-new-time-limits-for-game-pass-game-streaming/",
-          "date": "Thu, 03 Sep 2026 21:10:59 +0000"
+          "title": "Musk wins court order to block use of \u201cTwitter,\u201d but not \u201ctweet\u201d and bird logo",
+          "link": "https://arstechnica.com/tech-policy/2026/09/musk-wins-court-order-to-block-use-of-twitter-but-not-tweet-and-bird-logo/",
+          "date": "Fri, 04 Sep 2026 15:59:47 +0000"
         },
         {
-          "title": "150 research primates got diarrhea, flooding lab with priceless vaccine data",
-          "link": "https://arstechnica.com/health/2026/09/150-research-primates-got-diarrhea-flooding-lab-with-priceless-vaccine-data/",
-          "date": "Thu, 03 Sep 2026 20:14:48 +0000"
+          "title": "Trump White House just tossed a grenade into international space relations",
+          "link": "https://arstechnica.com/space/2026/09/why-did-us-space-companies-pull-out-of-a-french-space-meeting-its-complicated/",
+          "date": "Fri, 04 Sep 2026 15:46:33 +0000"
         }
       ],
       "error": null
@@ -431,6 +431,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "War drama Pressure depicts D-day\u2019s weather forecast \u2013 what we found when we recreated the challenge using modern systems",
+          "link": "https://theconversation.com/war-drama-pressure-depicts-d-days-weather-forecast-what-we-found-when-we-recreated-the-challenge-using-modern-systems-290769",
+          "date": "2026-09-04T14:53:32Z"
+        },
         {
           "title": "Essential digital technologies are critical infrastructure \u2013 they are not always built and managed that way",
           "link": "https://theconversation.com/essential-digital-technologies-are-critical-infrastructure-they-are-not-always-built-and-managed-that-way-288580",
@@ -450,11 +455,6 @@
           "title": "AI agents can now remember and hackers can \u2018poison\u2019 their memories \u2014 a new cybersecurity threat",
           "link": "https://theconversation.com/ai-agents-can-now-remember-and-hackers-can-poison-their-memories-a-new-cybersecurity-threat-290024",
           "date": "2026-09-03T11:57:29Z"
-        },
-        {
-          "title": "Will AI save or ruin democracy? It depends on whether we allow computers to stand in for people",
-          "link": "https://theconversation.com/will-ai-save-or-ruin-democracy-it-depends-on-whether-we-allow-computers-to-stand-in-for-people-289369",
-          "date": "2026-09-02T16:17:50Z"
         }
       ],
       "error": null
@@ -467,6 +467,11 @@
           "title": "OpenAI hails \u2018new era of artificial general intelligence\u2019 with Astra model release",
           "link": "https://www.theguardian.com/technology/2026/sep/03/openai-artificial-general-intelligence-astra-release",
           "date": "Thu, 03 Sep 2026 18:24:42 GMT"
+        },
+        {
+          "title": "As AI madness encroaches, we need human connection more than ever. But we\u2019ll have to fight for it | Van Badham",
+          "link": "https://www.theguardian.com/commentisfree/2026/sep/05/as-ai-madness-encroaches-we-need-human-connection-more-than-ever",
+          "date": "Fri, 04 Sep 2026 15:00:11 GMT"
         },
         {
           "title": "Comedian\u2019s offensive mock Welcome to Country at far-right rally gets rerun in the Daily Mail | Weekly Beast",
@@ -482,11 +487,6 @@
           "title": "Nvidia to buy developer platform Hugging Face in $12.9bn deal",
           "link": "https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
           "date": "Thu, 03 Sep 2026 16:59:56 GMT"
-        },
-        {
-          "title": "Black Box: The Chatbots | What I Saw at the Double Six Ranch | Ep 6 \u2013 podcast",
-          "link": "https://www.theguardian.com/technology/audio/2026/sep/03/black-box-the-chatbots-what-i-saw-at-the-double-six-ranch-podcast",
-          "date": "Thu, 03 Sep 2026 15:30:41 GMT"
         }
       ],
       "error": null
@@ -528,29 +528,29 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Former Obama Admin Official Says It\u2019s Time To Consider Military Strikes on Chinese Data Centers to Prevent Them From Reaching AGI",
+          "link": "https://futurism.com/science-energy/obama-admin-official-stokes-agi-china-data-centers-military-strikes",
+          "date": "Fri, 04 Sep 2026 14:02:08 -0400"
+        },
+        {
+          "title": "OpenAI Is Now Facing Over 50 Consumer Harm and Wrongful Death Lawsuits",
+          "link": "https://futurism.com/artificial-intelligence/openai-consumer-harm-wrongful-death-lawsuits",
+          "date": "Fri, 04 Sep 2026 12:52:26 -0400"
+        },
+        {
+          "title": "Nobody Will Say Why Every Major AI Chatbot Suddenly Went Down Yesterday",
+          "link": "https://futurism.com/artificial-intelligence/nobody-saying-why-major-chatbot-outage",
+          "date": "Fri, 04 Sep 2026 11:55:34 -0400"
+        },
+        {
+          "title": "American Medical Association Fires Back Against Paper Finding AI Is Now Outperforming Doctors",
+          "link": "https://futurism.com/artificial-intelligence/american-medical-association-fires-back-ai-doctors",
+          "date": "Fri, 04 Sep 2026 10:45:26 -0400"
+        },
+        {
           "title": "College Graduate Employment Is Cratering Where Data Centers Are Being Built",
           "link": "https://futurism.com/artificial-intelligence/college-graduate-employment-is-cratering-where-data-centers-are-being-built",
           "date": "Fri, 04 Sep 2026 09:38:39 -0400"
-        },
-        {
-          "title": "Toronto Blue Jays Roasted for Posting AI Slop Promoting Nestle, Claiming It\u2019s the Work of a Human Animator",
-          "link": "https://futurism.com/future-society/toronto-blue-jays-roasted-posting-ai-slop",
-          "date": "Thu, 03 Sep 2026 13:28:05 -0400"
-        },
-        {
-          "title": "Zohran Mamdani Bans AI for NYC Public School Students Up to Eighth Grade",
-          "link": "https://futurism.com/future-society/zohran-mamdani-bans-ai-for-nyc-public-school-students",
-          "date": "Thu, 03 Sep 2026 12:50:00 -0400"
-        },
-        {
-          "title": "World Plunged Into Chaos as ChatGPT, Claude, and Grok Suddenly Go Down Simultaneously: \u201cFinally I Can See the Sun!\u201d",
-          "link": "https://futurism.com/artificial-intelligence/ai-chatbots-chatgpt-claude-grok-go-down",
-          "date": "Thu, 03 Sep 2026 12:31:17 -0400"
-        },
-        {
-          "title": "As the Rest of the Economy Crumbles, the Amount of Money Flooding Into Data Centers Is Simply Astounding",
-          "link": "https://futurism.com/future-society/us-economy-data-centers-ai-spending-pwc-finances",
-          "date": "Thu, 03 Sep 2026 09:52:21 -0400"
         }
       ],
       "error": null
@@ -559,6 +559,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Who Cares if AI Is Conscious\u2014It\u2019s Basically Alive",
+          "link": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/",
+          "date": "Fri, 04 Sep 2026 15:00:00 +0000"
+        },
         {
           "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
           "link": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
@@ -578,11 +583,6 @@
           "title": "GPT-6 Astra Is Here\u2014and OpenAI Thinks It May Kick Off the AGI Era",
           "link": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
           "date": "Thu, 03 Sep 2026 18:06:24 +0000"
-        },
-        {
-          "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
-          "link": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
-          "date": "Thu, 03 Sep 2026 16:42:40 +0000"
         }
       ],
       "error": null
