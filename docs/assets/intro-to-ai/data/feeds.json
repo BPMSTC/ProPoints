@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T21:58:27.914569+00:00",
+  "generatedAt": "2026-09-05T23:32:11.891444+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,12 +101,17 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI | TechCrunch",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
+        {
+          "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+          "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+          "date": "Sat, 05 Sep 2026 22:49:55 +0000"
+        },
         {
           "title": "Hikers rescued after using Google Gemini for planning",
           "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
@@ -126,11 +131,6 @@
           "title": "OpenAI\u2019s rogue agents keep escaping, with no formal process to investigate them",
           "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
           "date": "Fri, 04 Sep 2026 23:15:11 +0000"
-        },
-        {
-          "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-          "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-          "date": "Fri, 04 Sep 2026 21:12:11 +0000"
         }
       ],
       "error": null
