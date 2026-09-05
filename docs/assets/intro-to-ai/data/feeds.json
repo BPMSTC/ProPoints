@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T02:50:16.305606+00:00",
+  "generatedAt": "2026-09-05T07:22:29.646822+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -253,6 +253,16 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "Does your algorithm need a lawyer? \ud83d\udc80",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w7qcpd/does_your_algorithm_need_a_lawyer/",
+          "date": "2026-09-05T04:16:08+00:00"
+        },
+        {
+          "title": "AI-assisted job search... It works!!!",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w7t9ws/aiassisted_job_search_it_works/",
+          "date": "2026-09-05T06:51:15+00:00"
+        },
+        {
           "title": "Best AI subscription for value? $10-$20",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w6tl1c/best_ai_subscription_for_value_1020/",
           "date": "2026-09-04T04:00:37+00:00"
@@ -261,16 +271,6 @@
           "title": "What's the most ludicrous thing you've tried with AI?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w6hjww/whats_the_most_ludicrous_thing_youve_tried_with_ai/",
           "date": "2026-09-03T19:32:20+00:00"
-        },
-        {
-          "title": "Has anyone got access to OpenAI Astra yet?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w6m1xn/has_anyone_got_access_to_openai_astra_yet/",
-          "date": "2026-09-03T22:18:13+00:00"
-        },
-        {
-          "title": "Vibe Coder and Hollywood",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w5nka3/vibe_coder_and_hollywood/",
-          "date": "2026-09-02T21:19:14+00:00"
         }
       ],
       "error": null
@@ -464,6 +464,16 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "\u2018We\u2019re plausibly close to crossing the line\u2019: are warnings of uncontrollable AI coming true?",
+          "link": "https://www.theguardian.com/technology/2026/sep/05/uncontrollable-ai-artificial-general-intelligence-warnings",
+          "date": "Sat, 05 Sep 2026 07:00:30 GMT"
+        },
+        {
+          "title": "Food delivery riders call on platforms to open up AI \u2018black box\u2019 they say has cut pay",
+          "link": "https://www.theguardian.com/business/2026/sep/05/food-delivery-riders-platforms-open-ai-black-box-cut-pay",
+          "date": "Sat, 05 Sep 2026 06:00:29 GMT"
+        },
+        {
           "title": "Black Box: The Chatbots | Spirals | Ep 1 \u2013 podcast",
           "link": "https://www.theguardian.com/technology/audio/2026/sep/05/black-box-the-chatbots-spirals-ep-1-podcast",
           "date": "Sat, 05 Sep 2026 02:00:23 GMT"
@@ -477,16 +487,6 @@
           "title": "Comedian\u2019s offensive mock Welcome to Country at far-right rally gets rerun in the Daily Mail | Weekly Beast",
           "link": "https://www.theguardian.com/media/2026/sep/04/march-for-australia-rally-lisa-jane-spencer-mock-welcome-to-country-daily-mail-ntwnfb",
           "date": "Fri, 04 Sep 2026 01:16:12 GMT"
-        },
-        {
-          "title": "OpenAI hails \u2018new era of artificial general intelligence\u2019 with Astra model release",
-          "link": "https://www.theguardian.com/technology/2026/sep/03/openai-artificial-general-intelligence-astra-release",
-          "date": "Thu, 03 Sep 2026 18:24:42 GMT"
-        },
-        {
-          "title": "Hundreds gather to urge Scottish government to pause datacentre boom",
-          "link": "https://www.theguardian.com/uk-news/2026/sep/03/hundreds-holyrood-pause-scotland-datacentre-boom-ai",
-          "date": "Thu, 03 Sep 2026 17:48:48 GMT"
         }
       ],
       "error": null
