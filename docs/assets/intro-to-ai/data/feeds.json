@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T17:06:50.394110+00:00",
+  "generatedAt": "2026-09-05T19:55:53.043739+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,16 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Hikers rescued after using Google Gemini for planning",
+          "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+          "date": "Sat, 05 Sep 2026 19:35:24 +0000"
+        },
+        {
+          "title": "OpenAI confirms \u2018wiki incident,\u2019 says it\u2019s \u2018working on a framework\u2019 for more disclosure",
+          "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+          "date": "Sat, 05 Sep 2026 18:05:27 +0000"
+        },
+        {
           "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
           "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
           "date": "Fri, 04 Sep 2026 23:36:14 +0000"
@@ -121,16 +131,6 @@
           "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
           "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
           "date": "Fri, 04 Sep 2026 21:12:11 +0000"
-        },
-        {
-          "title": "What will Apple\u2019s John Ternus era look like?",
-          "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-          "date": "Fri, 04 Sep 2026 17:18:00 +0000"
-        },
-        {
-          "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab\u2019s knowledge",
-          "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-          "date": "Fri, 04 Sep 2026 16:21:11 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 110] Connection timed out>"
     },
     {
       "name": "AI News | VentureBeat",
@@ -469,6 +469,11 @@
           "date": "Sat, 05 Sep 2026 07:00:30 GMT"
         },
         {
+          "title": "Black Box: The Chatbots | Spirals | Ep 1 - podcast",
+          "link": "https://www.theguardian.com/australia-news/audio/2026/sep/06/black-box-the-chatbots-spirals-ep-1-full-story-podcast",
+          "date": "Sat, 05 Sep 2026 19:00:43 GMT"
+        },
+        {
           "title": "Food delivery riders call on platforms to open up AI \u2018black box\u2019 they say has cut pay",
           "link": "https://www.theguardian.com/business/2026/sep/05/food-delivery-riders-platforms-open-ai-black-box-cut-pay",
           "date": "Sat, 05 Sep 2026 06:00:29 GMT"
@@ -482,11 +487,6 @@
           "title": "As AI madness encroaches, we need human connection more than ever. But we\u2019ll have to fight for it | Van Badham",
           "link": "https://www.theguardian.com/commentisfree/2026/sep/05/as-ai-madness-encroaches-we-need-human-connection-more-than-ever",
           "date": "Fri, 04 Sep 2026 15:00:11 GMT"
-        },
-        {
-          "title": "Comedian\u2019s offensive mock Welcome to Country at far-right rally gets rerun in the Daily Mail | Weekly Beast",
-          "link": "https://www.theguardian.com/media/2026/sep/04/march-for-australia-rally-lisa-jane-spencer-mock-welcome-to-country-daily-mail-ntwnfb",
-          "date": "Fri, 04 Sep 2026 01:16:12 GMT"
         }
       ],
       "error": null
