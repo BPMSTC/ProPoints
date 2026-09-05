@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T19:55:53.043739+00:00",
+  "generatedAt": "2026-09-05T21:58:27.914569+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI | TechCrunch",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<urlopen error [Errno 110] Connection timed out>"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -253,11 +253,6 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
-          "title": "How I use Gemini NotebookLM to Turn 80 Pages of Course Material Into 20 Pages of Comprehensive Notes",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w85qzc/how_i_use_gemini_notebooklm_to_turn_80_pages_of/",
-          "date": "2026-09-05T16:45:43+00:00"
-        },
-        {
           "title": "AI-assisted job search... It works!!!",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w7t9ws/aiassisted_job_search_it_works/",
           "date": "2026-09-05T06:51:15+00:00"
@@ -271,6 +266,11 @@
           "title": "Does your algorithm need a lawyer? \ud83d\udc80",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w7qcpd/does_your_algorithm_need_a_lawyer/",
           "date": "2026-09-05T04:16:08+00:00"
+        },
+        {
+          "title": "Best AI subscription for value? $10-$20",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w6tl1c/best_ai_subscription_for_value_1020/",
+          "date": "2026-09-04T04:00:37+00:00"
         }
       ],
       "error": null
@@ -469,6 +469,16 @@
           "date": "Sat, 05 Sep 2026 07:00:30 GMT"
         },
         {
+          "title": "Alarming AI ads are flooding social media in the lead-up to Victoria\u2019s election. But who is behind them?",
+          "link": "https://www.theguardian.com/australia-news/2026/sep/06/fix-victoria-ai-ads-flooding-social-media-election-who-is-behind-them",
+          "date": "Sat, 05 Sep 2026 20:00:46 GMT"
+        },
+        {
+          "title": "An algorithm off switch isn\u2019t enough. Big tech needs a duty of care over addictive designs | Zoe Daniel",
+          "link": "https://www.theguardian.com/commentisfree/2026/sep/06/digital-duty-of-care-can-hold-big-tech-to-account-meta-tiktok-addictive-social-media-ban",
+          "date": "Sat, 05 Sep 2026 20:00:45 GMT"
+        },
+        {
           "title": "Black Box: The Chatbots | Spirals | Ep 1 - podcast",
           "link": "https://www.theguardian.com/australia-news/audio/2026/sep/06/black-box-the-chatbots-spirals-ep-1-full-story-podcast",
           "date": "Sat, 05 Sep 2026 19:00:43 GMT"
@@ -477,16 +487,6 @@
           "title": "Food delivery riders call on platforms to open up AI \u2018black box\u2019 they say has cut pay",
           "link": "https://www.theguardian.com/business/2026/sep/05/food-delivery-riders-platforms-open-ai-black-box-cut-pay",
           "date": "Sat, 05 Sep 2026 06:00:29 GMT"
-        },
-        {
-          "title": "Black Box: The Chatbots | Spirals | Ep 1 \u2013 podcast",
-          "link": "https://www.theguardian.com/technology/audio/2026/sep/05/black-box-the-chatbots-spirals-ep-1-podcast",
-          "date": "Sat, 05 Sep 2026 02:00:23 GMT"
-        },
-        {
-          "title": "As AI madness encroaches, we need human connection more than ever. But we\u2019ll have to fight for it | Van Badham",
-          "link": "https://www.theguardian.com/commentisfree/2026/sep/05/as-ai-madness-encroaches-we-need-human-connection-more-than-ever",
-          "date": "Fri, 04 Sep 2026 15:00:11 GMT"
         }
       ],
       "error": null
