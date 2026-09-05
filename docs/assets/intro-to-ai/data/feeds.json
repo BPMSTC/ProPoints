@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T23:41:18.791186+00:00",
+  "generatedAt": "2026-09-05T02:50:16.305606+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -280,6 +280,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Anthropic uses Claude to formalize proof of Fermat\u2019s Last Theorem",
+          "link": "https://siliconangle.com/2026/09/04/anthropic-uses-claude-to-formalize-proof-of-fermats-last-theorem/",
+          "date": "Sat, 05 Sep 2026 00:41:41 +0000"
+        },
+        {
           "title": "Gimlet Labs nabs $300M for its disaggregated inference platform",
           "link": "https://siliconangle.com/2026/09/04/gimlet-labs-nabs-300m-for-its-disaggregated-inference-platform/",
           "date": "Fri, 04 Sep 2026 22:59:03 +0000"
@@ -298,11 +303,6 @@
           "title": "Experian expands into AI agents with ServiceNow partnership",
           "link": "https://siliconangle.com/2026/09/04/experian-expands-into-ai-agents-with-servicenow-partnership/",
           "date": "Fri, 04 Sep 2026 14:50:09 +0000"
-        },
-        {
-          "title": "Nvidia bags Hugging Face, AI models play leapfrog and CrowdStrike doubles down on AI",
-          "link": "https://siliconangle.com/2026/09/04/nvidia-bags-hugging-face-ai-models-play-leapfrog-and-crowdstrike-doubles-down-on-ai/",
-          "date": "Fri, 04 Sep 2026 14:01:33 +0000"
         }
       ],
       "error": null
@@ -464,6 +464,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Black Box: The Chatbots | Spirals | Ep 1 \u2013 podcast",
+          "link": "https://www.theguardian.com/technology/audio/2026/sep/05/black-box-the-chatbots-spirals-ep-1-podcast",
+          "date": "Sat, 05 Sep 2026 02:00:23 GMT"
+        },
+        {
           "title": "As AI madness encroaches, we need human connection more than ever. But we\u2019ll have to fight for it | Van Badham",
           "link": "https://www.theguardian.com/commentisfree/2026/sep/05/as-ai-madness-encroaches-we-need-human-connection-more-than-ever",
           "date": "Fri, 04 Sep 2026 15:00:11 GMT"
@@ -482,11 +487,6 @@
           "title": "Hundreds gather to urge Scottish government to pause datacentre boom",
           "link": "https://www.theguardian.com/uk-news/2026/sep/03/hundreds-holyrood-pause-scotland-datacentre-boom-ai",
           "date": "Thu, 03 Sep 2026 17:48:48 GMT"
-        },
-        {
-          "title": "Nvidia to buy developer platform Hugging Face in $12.9bn deal",
-          "link": "https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
-          "date": "Thu, 03 Sep 2026 16:59:56 GMT"
         }
       ],
       "error": null
