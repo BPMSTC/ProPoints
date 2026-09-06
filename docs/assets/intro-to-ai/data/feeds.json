@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T02:48:24.850580+00:00",
+  "generatedAt": "2026-09-06T07:35:37.039456+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -253,6 +253,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "Any working Deepseek jailbreak scripts?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w8kt9a/any_working_deepseek_jailbreak_scripts/",
+          "date": "2026-09-06T03:23:27+00:00"
+        },
+        {
           "title": "AI-assisted job search... It works!!!",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w7t9ws/aiassisted_job_search_it_works/",
           "date": "2026-09-05T06:51:15+00:00"
@@ -266,11 +271,6 @@
           "title": "Does your algorithm need a lawyer? \ud83d\udc80",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w7qcpd/does_your_algorithm_need_a_lawyer/",
           "date": "2026-09-05T04:16:08+00:00"
-        },
-        {
-          "title": "Best AI subscription for value? $10-$20",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w6tl1c/best_ai_subscription_for_value_1020/",
-          "date": "2026-09-04T04:00:37+00:00"
         }
       ],
       "error": null
@@ -464,11 +464,6 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "\u2018We\u2019re plausibly close to crossing the line\u2019: are warnings of uncontrollable AI coming true?",
-          "link": "https://www.theguardian.com/technology/2026/sep/05/uncontrollable-ai-artificial-general-intelligence-warnings",
-          "date": "Sat, 05 Sep 2026 07:00:30 GMT"
-        },
-        {
           "title": "Alarming AI ads are flooding social media in the lead-up to Victoria\u2019s election. But who is behind them?",
           "link": "https://www.theguardian.com/australia-news/2026/sep/06/fix-victoria-ai-ads-flooding-social-media-election-who-is-behind-them",
           "date": "Sat, 05 Sep 2026 20:00:46 GMT"
@@ -482,6 +477,11 @@
           "title": "Black Box: The Chatbots | Spirals | Ep 1 - podcast",
           "link": "https://www.theguardian.com/australia-news/audio/2026/sep/06/black-box-the-chatbots-spirals-ep-1-full-story-podcast",
           "date": "Sat, 05 Sep 2026 19:00:43 GMT"
+        },
+        {
+          "title": "\u2018We\u2019re plausibly close to crossing the line\u2019: are warnings of uncontrollable AI coming true?",
+          "link": "https://www.theguardian.com/technology/2026/sep/05/uncontrollable-ai-artificial-general-intelligence-warnings",
+          "date": "Sat, 05 Sep 2026 07:00:30 GMT"
         },
         {
           "title": "Food delivery riders call on platforms to open up AI \u2018black box\u2019 they say has cut pay",
