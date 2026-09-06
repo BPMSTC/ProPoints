@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T11:55:51.620270+00:00",
+  "generatedAt": "2026-09-06T14:56:13.801528+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -253,6 +253,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "[Mod post] We are having a show-and-tell for AI usecases",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w8wf91/mod_post_we_are_having_a_showandtell_for_ai/",
+          "date": "2026-09-06T13:36:40+00:00"
+        },
+        {
           "title": "Any working Deepseek jailbreak scripts?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w8kt9a/any_working_deepseek_jailbreak_scripts/",
           "date": "2026-09-06T03:23:27+00:00"
@@ -266,11 +271,6 @@
           "title": "AI tool",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w7z234/ai_tool/",
           "date": "2026-09-05T12:09:46+00:00"
-        },
-        {
-          "title": "Does your algorithm need a lawyer? \ud83d\udc80",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w7qcpd/does_your_algorithm_need_a_lawyer/",
-          "date": "2026-09-05T04:16:08+00:00"
         }
       ],
       "error": null
@@ -394,6 +394,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
+          "link": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
+          "date": "Sun, 06 Sep 2026 11:55:26 +0000"
+        },
+        {
+          "title": "Farmed salmon may not be as nutritious as it once was, new research suggests",
+          "link": "https://arstechnica.com/science/2026/09/farmed-salmon-may-not-be-as-nutritious-as-it-once-was-new-research-suggests/",
+          "date": "Sun, 06 Sep 2026 10:00:35 +0000"
+        },
+        {
           "title": "Tesla\u2019s Cybercab has been deployed, and it\u2019s already under investigation",
           "link": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
           "date": "Sat, 05 Sep 2026 15:17:36 +0000"
@@ -407,16 +417,6 @@
           "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
           "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
           "date": "Fri, 04 Sep 2026 22:17:36 +0000"
-        },
-        {
-          "title": "Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths",
-          "link": "https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/",
-          "date": "Fri, 04 Sep 2026 20:22:41 +0000"
-        },
-        {
-          "title": "Trump admin fights ABC lawsuit as watchdogs worry Disney will settle with FCC",
-          "link": "https://arstechnica.com/tech-policy/2026/09/trump-admin-fights-abc-lawsuit-as-watchdogs-worry-disney-will-settle-with-fcc/",
-          "date": "Fri, 04 Sep 2026 19:46:34 +0000"
         }
       ],
       "error": null
@@ -469,6 +469,11 @@
           "date": "Sun, 06 Sep 2026 11:00:03 GMT"
         },
         {
+          "title": "Uncanny and unappetizing: appetites spoil as AI images take over food menus",
+          "link": "https://www.theguardian.com/technology/2026/sep/06/ai-food-menu-images",
+          "date": "Sun, 06 Sep 2026 13:00:06 GMT"
+        },
+        {
           "title": "Alarming AI ads are flooding social media in the lead-up to Victoria\u2019s election. But who is behind them?",
           "link": "https://www.theguardian.com/australia-news/2026/sep/06/fix-victoria-ai-ads-flooding-social-media-election-who-is-behind-them",
           "date": "Sat, 05 Sep 2026 20:00:46 GMT"
@@ -482,11 +487,6 @@
           "title": "Black Box: The Chatbots | Spirals | Ep 1 - podcast",
           "link": "https://www.theguardian.com/australia-news/audio/2026/sep/06/black-box-the-chatbots-spirals-ep-1-full-story-podcast",
           "date": "Sat, 05 Sep 2026 19:00:43 GMT"
-        },
-        {
-          "title": "\u2018We\u2019re plausibly close to crossing the line\u2019: are warnings of uncontrollable AI coming true?",
-          "link": "https://www.theguardian.com/technology/2026/sep/05/uncontrollable-ai-artificial-general-intelligence-warnings",
-          "date": "Sat, 05 Sep 2026 07:00:30 GMT"
         }
       ],
       "error": null
