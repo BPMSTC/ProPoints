@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T05:38:55.584120+00:00",
+  "generatedAt": "2026-09-07T11:30:43.489748+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -253,6 +253,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "Nixra just killed AI prompting",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w9orm8/nixra_just_killed_ai_prompting/",
+          "date": "2026-09-07T10:46:07+00:00"
+        },
+        {
           "title": "Trial",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w9g313/trial/",
           "date": "2026-09-07T02:55:57+00:00"
@@ -266,11 +271,6 @@
           "title": "[Mod post] We are having a show-and-tell for AI usecases",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w8wf91/mod_post_we_are_having_a_showandtell_for_ai/",
           "date": "2026-09-06T13:36:40+00:00"
-        },
-        {
-          "title": "Any working Deepseek jailbreak scripts?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w8kt9a/any_working_deepseek_jailbreak_scripts/",
-          "date": "2026-09-06T03:23:27+00:00"
         }
       ],
       "error": null
@@ -464,11 +464,6 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "I\u2019m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI",
-          "link": "https://www.theguardian.com/technology/2026/sep/06/daniel-susskind-father-studies-ai-artificial-intelligence-what-parents-need-know",
-          "date": "Sun, 06 Sep 2026 11:00:03 GMT"
-        },
-        {
           "title": "Designers should not fear being replaced by AI, industry leaders say",
           "link": "https://www.theguardian.com/uk-news/2026/sep/07/designers-should-not-fear-being-replaced-by-ai-industry-leaders-say",
           "date": "Mon, 07 Sep 2026 04:00:25 GMT"
@@ -477,6 +472,11 @@
           "title": "Uncanny and unappetizing: appetites spoil as AI images take over food menus",
           "link": "https://www.theguardian.com/technology/2026/sep/06/ai-food-menu-images",
           "date": "Sun, 06 Sep 2026 13:00:06 GMT"
+        },
+        {
+          "title": "I\u2019m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI",
+          "link": "https://www.theguardian.com/technology/2026/sep/06/daniel-susskind-father-studies-ai-artificial-intelligence-what-parents-need-know",
+          "date": "Sun, 06 Sep 2026 11:00:03 GMT"
         },
         {
           "title": "Alarming AI ads are flooding social media in the lead-up to Victoria\u2019s election. But who is behind them?",
@@ -528,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Pervs Distraught as Meta Bricks Their Smart Glasses Remotely",
+          "link": "https://futurism.com/artificial-intelligence/meta-bricks-perv-smart-glasses",
+          "date": "Mon, 07 Sep 2026 07:01:00 -0400"
+        },
+        {
           "title": "Dyson\u2019s New AI Toothbrush Conducts Video Surveillance on the Inside of Your Mouth",
           "link": "https://futurism.com/artificial-intelligence/dyson-ai-toothbrush-video-surveillance-mouth",
           "date": "Sun, 06 Sep 2026 13:01:00 -0400"
@@ -546,11 +551,6 @@
           "title": "Hikers Rescued After Using Google AI to Plan Disastrous Trip",
           "link": "https://futurism.com/artificial-intelligence/hikers-rescued-google-ai-plan",
           "date": "Sat, 05 Sep 2026 12:03:00 -0400"
-        },
-        {
-          "title": "People Are Telling Their Darkest Thoughts to AI Without Realizing They Can Easily Become Public",
-          "link": "https://futurism.com/artificial-intelligence/ai-chatbot-users-darkest-thoughts-public-privacy",
-          "date": "Sat, 05 Sep 2026 09:01:00 -0400"
         }
       ],
       "error": null
@@ -559,6 +559,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
+          "link": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/",
+          "date": "Mon, 07 Sep 2026 10:30:00 +0000"
+        },
         {
           "title": "My Brief Summer Fling With Siri AI",
           "link": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
@@ -578,11 +583,6 @@
           "title": "Who Cares if AI Is Conscious\u2014It\u2019s Basically Alive",
           "link": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/",
           "date": "Fri, 04 Sep 2026 15:00:00 +0000"
-        },
-        {
-          "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
-          "link": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
-          "date": "Fri, 04 Sep 2026 10:00:00 +0000"
         }
       ],
       "error": null
