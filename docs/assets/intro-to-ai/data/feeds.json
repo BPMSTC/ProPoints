@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T21:04:21.381421+00:00",
+  "generatedAt": "2026-09-07T23:57:28.657039+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -253,6 +253,16 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "I made ChatGPT, Claude, Gemini, etc. into FREE text-to-speech sites \u2014 perfect for audiobooks and more!",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wa7nep/i_made_chatgpt_claude_gemini_etc_into_free/",
+          "date": "2026-09-07T23:15:59+00:00"
+        },
+        {
+          "title": "Is it just me or which model you use doesn't make that big of a difference?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w9yki9/is_it_just_me_or_which_model_you_use_doesnt_make/",
+          "date": "2026-09-07T17:29:32+00:00"
+        },
+        {
           "title": "Where can I find Freelancing Projects for a person working in AI Engineering/Data Engineering",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w9wyz6/where_can_i_find_freelancing_projects_for_a/",
           "date": "2026-09-07T16:30:50+00:00"
@@ -261,16 +271,6 @@
           "title": "Working Lexicon for Relational AI",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w9wyt4/working_lexicon_for_relational_ai/",
           "date": "2026-09-07T16:30:41+00:00"
-        },
-        {
-          "title": "Is it just me or which model you use doesn't make that big of a difference?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w9yki9/is_it_just_me_or_which_model_you_use_doesnt_make/",
-          "date": "2026-09-07T17:29:32+00:00"
-        },
-        {
-          "title": "Trial",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w9g313/trial/",
-          "date": "2026-09-07T02:55:57+00:00"
         }
       ],
       "error": null
