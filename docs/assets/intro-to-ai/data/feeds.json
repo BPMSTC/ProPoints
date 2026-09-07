@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-09-07T11:30:43.489748+00:00",
+  "generatedAt": "2026-09-07T17:10:59.932445+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "We Are Going to Be Okay: A Three Year Anniversary Events Recap",
+          "link": "https://www.404media.co/three-year-anniversary-events-recap-2/",
+          "date": "Mon, 07 Sep 2026 16:44:20 GMT"
+        },
         {
           "title": "Breakthrough Quantum Test Resolves a Major Cosmic Mystery",
           "link": "https://www.404media.co/breakthrough-quantum-test-resolves-a-major-cosmic-mystery/",
@@ -24,11 +29,6 @@
           "title": "A16z Says You Actually Love Social Media, Enshittification Isn\u2019t Real",
           "link": "https://www.404media.co/a16z-says-you-actually-love-social-media-enshittification-isnt-real/",
           "date": "Wed, 02 Sep 2026 16:04:27 GMT"
-        },
-        {
-          "title": "Texas Police Used AI to Write Report About Using Flock to Search for Woman Who Had Abortion",
-          "link": "https://www.404media.co/texas-police-used-ai-to-write-report-about-using-flock-to-search-for-woman-who-had-abortion/",
-          "date": "Wed, 02 Sep 2026 15:57:29 GMT"
         }
       ],
       "error": null
@@ -253,9 +253,14 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
-          "title": "Nixra just killed AI prompting",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w9orm8/nixra_just_killed_ai_prompting/",
-          "date": "2026-09-07T10:46:07+00:00"
+          "title": "Where can I find Freelancing Projects for a person working in AI Engineering/Data Engineering",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w9wyz6/where_can_i_find_freelancing_projects_for_a/",
+          "date": "2026-09-07T16:30:50+00:00"
+        },
+        {
+          "title": "Working Lexicon for Relational AI",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w9wyt4/working_lexicon_for_relational_ai/",
+          "date": "2026-09-07T16:30:41+00:00"
         },
         {
           "title": "Trial",
@@ -266,11 +271,6 @@
           "title": "Frontier Models Converging on British Sentience",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w9fmtj/frontier_models_converging_on_british_sentience/",
           "date": "2026-09-07T02:33:41+00:00"
-        },
-        {
-          "title": "[Mod post] We are having a show-and-tell for AI usecases",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w8wf91/mod_post_we_are_having_a_showandtell_for_ai/",
-          "date": "2026-09-06T13:36:40+00:00"
         }
       ],
       "error": null
@@ -394,6 +394,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "The complex corporate web behind a $3.2 billion AI data center",
+          "link": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+          "date": "Mon, 07 Sep 2026 11:00:03 +0000"
+        },
+        {
           "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
           "link": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
           "date": "Sun, 06 Sep 2026 11:55:26 +0000"
@@ -412,11 +417,6 @@
           "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
           "link": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
           "date": "Fri, 04 Sep 2026 22:49:17 +0000"
-        },
-        {
-          "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-          "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
-          "date": "Fri, 04 Sep 2026 22:17:36 +0000"
         }
       ],
       "error": null
@@ -431,6 +431,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "How Facebook\u2019s News Feed kicked off the age of the algorithm",
+          "link": "https://theconversation.com/how-facebooks-news-feed-kicked-off-the-age-of-the-algorithm-291393",
+          "date": "2026-09-07T15:03:59Z"
+        },
         {
           "title": "How \u2018hyperselection\u2019 is making modern life efficient, pleasant \u2013 and boring",
           "link": "https://theconversation.com/how-hyperselection-is-making-modern-life-efficient-pleasant-and-boring-290862",
@@ -450,11 +455,6 @@
           "title": "Is everyone a robot? Will O\u2019Mahony\u2019s new play is a sharp, funny plunge into our AI world",
           "link": "https://theconversation.com/is-everyone-a-robot-will-omahonys-new-play-is-a-sharp-funny-plunge-into-our-ai-world-289518",
           "date": "2026-09-04T02:33:14Z"
-        },
-        {
-          "title": "How AI could make us work even harder",
-          "link": "https://theconversation.com/how-ai-could-make-us-work-even-harder-286688",
-          "date": "2026-09-03T13:54:20Z"
         }
       ],
       "error": null
@@ -464,6 +464,21 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Architect of UK\u2019s AI policy quits after Anthropic conflict of interest concerns",
+          "link": "https://www.theguardian.com/technology/2026/sep/07/architect-uk-ai-policy-quits-anthropic-conflict-of-interest-concerns",
+          "date": "Mon, 07 Sep 2026 14:42:24 GMT"
+        },
+        {
+          "title": "AI transcriptions are no time-saving measure for doctors | Letters",
+          "link": "https://www.theguardian.com/society/2026/sep/07/ai-transcriptions-are-no-time-saving-measure-for-doctors",
+          "date": "Mon, 07 Sep 2026 16:50:41 GMT"
+        },
+        {
+          "title": "\u2018Mistrust\u2019 of Palantir may affect NHS research, says health minister",
+          "link": "https://www.theguardian.com/society/2026/sep/07/mistrust-of-ai-palantir-may-affect-nhs-research",
+          "date": "Mon, 07 Sep 2026 15:33:44 GMT"
+        },
+        {
           "title": "Designers should not fear being replaced by AI, industry leaders say",
           "link": "https://www.theguardian.com/uk-news/2026/sep/07/designers-should-not-fear-being-replaced-by-ai-industry-leaders-say",
           "date": "Mon, 07 Sep 2026 04:00:25 GMT"
@@ -472,21 +487,6 @@
           "title": "Uncanny and unappetizing: appetites spoil as AI images take over food menus",
           "link": "https://www.theguardian.com/technology/2026/sep/06/ai-food-menu-images",
           "date": "Sun, 06 Sep 2026 13:00:06 GMT"
-        },
-        {
-          "title": "I\u2019m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI",
-          "link": "https://www.theguardian.com/technology/2026/sep/06/daniel-susskind-father-studies-ai-artificial-intelligence-what-parents-need-know",
-          "date": "Sun, 06 Sep 2026 11:00:03 GMT"
-        },
-        {
-          "title": "Alarming AI ads are flooding social media in the lead-up to Victoria\u2019s election. But who is behind them?",
-          "link": "https://www.theguardian.com/australia-news/2026/sep/06/fix-victoria-ai-ads-flooding-social-media-election-who-is-behind-them",
-          "date": "Sat, 05 Sep 2026 20:00:46 GMT"
-        },
-        {
-          "title": "An algorithm off switch isn\u2019t enough. Big tech needs a duty of care over addictive designs | Zoe Daniel",
-          "link": "https://www.theguardian.com/commentisfree/2026/sep/06/digital-duty-of-care-can-hold-big-tech-to-account-meta-tiktok-addictive-social-media-ban",
-          "date": "Sat, 05 Sep 2026 20:00:45 GMT"
         }
       ],
       "error": null
@@ -528,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Data Center Caught Watering Its Lavish Lawn While Human Neighbors Are on Year-Long Water Restriction",
+          "link": "https://futurism.com/artificial-intelligence/data-center-lawn-neighbors-drought-water-restrictions",
+          "date": "Mon, 07 Sep 2026 08:02:00 -0400"
+        },
+        {
           "title": "Pervs Distraught as Meta Bricks Their Smart Glasses Remotely",
           "link": "https://futurism.com/artificial-intelligence/meta-bricks-perv-smart-glasses",
           "date": "Mon, 07 Sep 2026 07:01:00 -0400"
@@ -546,11 +551,6 @@
           "title": "Billionaires Pouring Money Into Ads About How AI Data Centers Are Actually Good",
           "link": "https://futurism.com/future-society/billionaires-tech-executives-ai-data-centers-ad-blitz",
           "date": "Sun, 06 Sep 2026 06:02:00 -0400"
-        },
-        {
-          "title": "Hikers Rescued After Using Google AI to Plan Disastrous Trip",
-          "link": "https://futurism.com/artificial-intelligence/hikers-rescued-google-ai-plan",
-          "date": "Sat, 05 Sep 2026 12:03:00 -0400"
         }
       ],
       "error": null
