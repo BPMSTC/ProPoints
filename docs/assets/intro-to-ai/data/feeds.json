@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-09-08T17:44:00.930181+00:00",
+  "generatedAt": "2026-09-08T20:40:41.346742+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Channel 5 Gave Hunter Biden a List of Its Subscribers\u2019 Emails for Some Reason",
+          "link": "https://www.404media.co/channel-5-gave-hunter-biden-a-list-of-its-subscribers-emails-for-some-reason/",
+          "date": "Tue, 08 Sep 2026 18:28:30 GMT"
+        },
         {
           "title": "A Secretive DHS \u2018Predictive Policing\u2019 Unit is Analyzing Americans\u2019 Financial Habits and Pulling Them Over",
           "link": "https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/",
@@ -24,11 +29,6 @@
           "title": "Flock Taught Cops How to Surveil No Kings Protesters",
           "link": "https://www.404media.co/flock-taught-cops-how-to-surveil-no-kings-protesters/",
           "date": "Thu, 03 Sep 2026 15:49:18 GMT"
-        },
-        {
-          "title": "How the Hell Did an Island Suddenly Appear, Then Vanish?",
-          "link": "https://www.404media.co/how-the-hell-did-an-island-suddenly-appear-then-vanish/",
-          "date": "Wed, 02 Sep 2026 18:43:42 GMT"
         }
       ],
       "error": null
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+          "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+          "date": "Tue, 08 Sep 2026 19:00:00 +0000"
+        },
+        {
           "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
           "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
           "date": "Tue, 08 Sep 2026 17:32:15 +0000"
@@ -126,11 +131,6 @@
           "title": "Mistral raises \u20ac3B as sovereign AI becomes big business",
           "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
           "date": "Tue, 08 Sep 2026 14:17:48 +0000"
-        },
-        {
-          "title": "Opaque recurrence, and other AI terms that you should probably know",
-          "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-          "date": "Mon, 07 Sep 2026 19:24:00 +0000"
         }
       ],
       "error": null
@@ -139,6 +139,11 @@
       "name": "AI Business",
       "url": "https://aibusiness.com/rss.xml",
       "items": [
+        {
+          "title": "OpenAI Admits More AI Agents Went Astray in May",
+          "link": "https://aibusiness.com/cybersecurity/openai-admits-more-ai-agents-went-astray-in-may",
+          "date": "Tue, 08 Sep 2026 19:06:48 GMT"
+        },
         {
           "title": "Why Sovereign AI is Becoming a Business Resilience Issue",
           "link": "https://aibusiness.com/generative-ai/why-sovereign-becoming-business-resilience-issue",
@@ -158,11 +163,6 @@
           "title": "Prompt: Nvidia Moves up the AI Stack",
           "link": "https://aibusiness.com/generative-ai/prompt-nvidia-moves-up-ai-stack",
           "date": "Fri, 04 Sep 2026 14:32:23 GMT"
-        },
-        {
-          "title": "Enterprise AI Startup Wonderful Now Valued at $5B",
-          "link": "https://aibusiness.com/generative-ai/enterprise-ai-startup-valued-at-5b",
-          "date": "Thu, 03 Sep 2026 21:19:08 GMT"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -215,6 +215,16 @@
       "name": "AI Now Institute",
       "url": "https://ainowinstitute.org/category/news/feed",
       "items": [
+        {
+          "title": "Life Under the Algorithm",
+          "link": "https://ainowinstitute.org/news/press/life-under-the-algorithm",
+          "date": "Tue, 08 Sep 2026 18:26:27 +0000"
+        },
+        {
+          "title": "AI Giants Work Hand-in-Hand With the Pentagon, Contracts Reveal",
+          "link": "https://ainowinstitute.org/news/press/ai-giants-work-hand-in-hand-with-the-pentagon-contracts-reveal",
+          "date": "Tue, 08 Sep 2026 18:16:16 +0000"
+        },
         {
           "title": "What Really Happened When OpenAI Bots Escaped a Cybersecurity Test?",
           "link": "https://ainowinstitute.org/news/press/what-really-happened-when-openai-bots-escaped-a-cybersecurity-test",
@@ -229,16 +239,6 @@
           "title": "Tech backlash reaches fever pitch as AI angst collides with social media fears",
           "link": "https://ainowinstitute.org/news/press/tech-backlash-reaches-fever-pitch-as-ai-angst-collides-with-social-media-fears",
           "date": "Sat, 29 Aug 2026 16:32:04 +0000"
-        },
-        {
-          "title": "As Meta Agrees to $17B Settlement, Now Is the Time to Regulate AI Before It\u2019s Too Late: Amba Kak",
-          "link": "https://ainowinstitute.org/news/press/as-meta-agrees-to-17b-settlement-now-is-the-time-to-regulate-ai-before-its-too-late-amba-kak",
-          "date": "Thu, 27 Aug 2026 17:04:45 +0000"
-        },
-        {
-          "title": "Ex-Googlers Are Planning AI-Human Hybrid to Prevent Rogue Models",
-          "link": "https://ainowinstitute.org/news/press/ex-googlers-are-planning-ai-human-hybrid-to-prevent-rogue-models",
-          "date": "Tue, 25 Aug 2026 18:32:17 +0000"
         }
       ],
       "error": null
@@ -251,6 +251,11 @@
           "title": "Welcome to r/aipromptprogramming \u2014 join our Discord",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vlcrpj/welcome_to_raipromptprogramming_join_our_discord/",
           "date": "2026-08-11T09:36:31+00:00"
+        },
+        {
+          "title": "Where are my Loop Engineers at? What you loopin?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wawhhy/where_are_my_loop_engineers_at_what_you_loopin/",
+          "date": "2026-09-08T18:21:10+00:00"
         },
         {
           "title": "I made an extension to transfer chat history between different AIs in two clicks (No more copy-pasting)",
@@ -266,11 +271,6 @@
           "title": "I made ChatGPT, Claude, Gemini, etc. into FREE text-to-speech sites \u2014 perfect for audiobooks and more!",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wa7nep/i_made_chatgpt_claude_gemini_etc_into_free/",
           "date": "2026-09-07T23:15:59+00:00"
-        },
-        {
-          "title": "Working Lexicon for Relational AI",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w9wyt4/working_lexicon_for_relational_ai/",
-          "date": "2026-09-07T16:30:41+00:00"
         }
       ],
       "error": null
@@ -279,6 +279,11 @@
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
+        {
+          "title": "Open-source AI developer Mistral closes \u20ac3B funding round",
+          "link": "https://siliconangle.com/2026/09/08/open-source-ai-developer-mistral-closes-e3b-funding-round/",
+          "date": "Tue, 08 Sep 2026 20:36:34 +0000"
+        },
         {
           "title": "Lightsage gets $4M in funding to help software makers sell directly to autonomous AI agents",
           "link": "https://siliconangle.com/2026/09/08/lightsage-gets-4m-in-funding-to-help-software-makers-sell-directly-to-autonomous-ai-agents/",
@@ -298,11 +303,6 @@
           "title": "Anthropic uses Claude to formalize proof of Fermat\u2019s Last Theorem",
           "link": "https://siliconangle.com/2026/09/04/anthropic-uses-claude-to-formalize-proof-of-fermats-last-theorem/",
           "date": "Sat, 05 Sep 2026 00:41:41 +0000"
-        },
-        {
-          "title": "Gimlet Labs nabs $300M for its disaggregated inference platform",
-          "link": "https://siliconangle.com/2026/09/04/gimlet-labs-nabs-300m-for-its-disaggregated-inference-platform/",
-          "date": "Fri, 04 Sep 2026 22:59:03 +0000"
         }
       ],
       "error": null
@@ -394,29 +394,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Google complies with EU rules for travel searches, says the new results stink",
-          "link": "https://arstechnica.com/gadgets/2026/09/google-says-europe-is-making-it-roll-out-degraded-travel-search-results/",
-          "date": "Tue, 08 Sep 2026 16:49:55 +0000"
+          "title": "Supreme Court forces TV stations to sell more election ads at steep discounts",
+          "link": "https://arstechnica.com/tech-policy/2026/09/supreme-court-forces-tv-stations-to-sell-more-election-ads-at-steep-discounts/",
+          "date": "Tue, 08 Sep 2026 19:50:00 +0000"
         },
         {
-          "title": "The White House made a \"Tetris\" clone. The Tetris Company was not amused.",
-          "link": "https://arstechnica.com/gaming/2026/09/the-white-house-made-a-tetris-clone-the-tetris-company-was-not-amused/",
-          "date": "Tue, 08 Sep 2026 16:31:21 +0000"
+          "title": "Top chipmakers embrace ASML\u2019s $400M machines, agree to crucial chipmaking change",
+          "link": "https://arstechnica.com/gadgets/2026/09/top-chipmakers-embrace-asmls-400m-machines-agree-to-crucial-chipmaking-change/",
+          "date": "Tue, 08 Sep 2026 19:12:53 +0000"
         },
         {
-          "title": "The secret to protecting next-gen spacecraft might be eggshells",
-          "link": "https://arstechnica.com/science/2026/09/how-eggshells-can-protect-spacecraft-from-space-debris/",
-          "date": "Tue, 08 Sep 2026 16:20:58 +0000"
+          "title": "Godzilla Minus Zero IMAX trailer teases King Ghidorah",
+          "link": "https://arstechnica.com/culture/2026/09/godzilla-minus-zero-imax-trailer-teases-king-ghidorah/",
+          "date": "Tue, 08 Sep 2026 18:53:23 +0000"
         },
         {
-          "title": "The combat demo for Free Stars: Children of Infinity is out, and it's free",
-          "link": "https://arstechnica.com/gaming/2026/09/the-official-sequel-to-the-ur-quan-masters-releases-its-free-demo-today/",
-          "date": "Tue, 08 Sep 2026 16:05:32 +0000"
+          "title": "\u201cThis is the AI men actually use\u201d: Meta ads pushed apps nudifying real teens",
+          "link": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
+          "date": "Tue, 08 Sep 2026 18:43:09 +0000"
         },
         {
-          "title": "EV batteries last longer than drivers feared",
-          "link": "https://arstechnica.com/cars/2026/09/ev-batteries-last-longer-than-drivers-feared/",
-          "date": "Tue, 08 Sep 2026 13:56:38 +0000"
+          "title": "Update to Google\u2019s AI weather model improves forecast accuracy",
+          "link": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
+          "date": "Tue, 08 Sep 2026 18:00:56 +0000"
         }
       ],
       "error": null
@@ -528,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Fashion Founder Emily Oberg Says She Tried Using AI for Photo Shoots, and It Was a Failure Because It Will \u201cNever Possess Good Taste\u201d Like Humans Do",
+          "link": "https://futurism.com/artificial-intelligence/fashion-founder-emily-oberg-ai-taste",
+          "date": "Tue, 08 Sep 2026 15:52:24 -0400"
+        },
+        {
           "title": "Dolly Parton\u2019s Sister Begs Public to Stop Posting \u201cFake AI Garbage\u201d in the Wake of the Beloved Singer\u2019s Death",
           "link": "https://futurism.com/artificial-intelligence/dolly-parton-sister-slop",
           "date": "Tue, 08 Sep 2026 12:59:56 -0400"
@@ -546,11 +551,6 @@
           "title": "Data Center Caught Watering Its Lavish Lawn While Human Neighbors Are on Year-Long Water Restriction",
           "link": "https://futurism.com/artificial-intelligence/data-center-lawn-neighbors-drought-water-restrictions",
           "date": "Mon, 07 Sep 2026 08:02:00 -0400"
-        },
-        {
-          "title": "Pervs Distraught as Meta Bricks Their Smart Glasses Remotely",
-          "link": "https://futurism.com/artificial-intelligence/meta-bricks-perv-smart-glasses",
-          "date": "Mon, 07 Sep 2026 07:01:00 -0400"
         }
       ],
       "error": null
@@ -559,6 +559,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Meta Releases Muse, a Personal AI Agent With Privacy \u2018Built Into It\u2019",
+          "link": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
+          "date": "Tue, 08 Sep 2026 20:12:51 +0000"
+        },
         {
           "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
           "link": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
@@ -578,11 +583,6 @@
           "title": "Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit",
           "link": "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/",
           "date": "Sun, 06 Sep 2026 10:00:00 +0000"
-        },
-        {
-          "title": "OpenAI Agents Hacked Another Website",
-          "link": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
-          "date": "Sat, 05 Sep 2026 10:30:00 +0000"
         }
       ],
       "error": null
