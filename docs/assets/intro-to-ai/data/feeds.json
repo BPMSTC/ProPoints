@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-08T13:17:30.261910+00:00",
+  "generatedAt": "2026-09-08T17:44:00.930181+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
         {
-          "title": "A Secretive DHS \u2018Predictive Policing\u2019 Unit is Analyzing Americans' Financial Habits and Pulling Them Over",
+          "title": "A Secretive DHS \u2018Predictive Policing\u2019 Unit is Analyzing Americans\u2019 Financial Habits and Pulling Them Over",
           "link": "https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/",
           "date": "Tue, 08 Sep 2026 13:10:19 GMT"
         },
@@ -108,29 +108,29 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+          "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+          "date": "Tue, 08 Sep 2026 17:32:15 +0000"
+        },
+        {
+          "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+          "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+          "date": "Tue, 08 Sep 2026 16:20:31 +0000"
+        },
+        {
+          "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+          "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+          "date": "Tue, 08 Sep 2026 15:04:09 +0000"
+        },
+        {
+          "title": "Mistral raises \u20ac3B as sovereign AI becomes big business",
+          "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+          "date": "Tue, 08 Sep 2026 14:17:48 +0000"
+        },
+        {
           "title": "Opaque recurrence, and other AI terms that you should probably know",
           "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
           "date": "Mon, 07 Sep 2026 19:24:00 +0000"
-        },
-        {
-          "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-          "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-          "date": "Sun, 06 Sep 2026 20:47:37 +0000"
-        },
-        {
-          "title": "Travis Kalanick\u2019s Atoms might be getting into the robotaxi business",
-          "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-          "date": "Sun, 06 Sep 2026 16:45:00 +0000"
-        },
-        {
-          "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-          "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-          "date": "Sat, 05 Sep 2026 22:49:55 +0000"
-        },
-        {
-          "title": "Hikers rescued after using Google Gemini for planning",
-          "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-          "date": "Sat, 05 Sep 2026 19:35:24 +0000"
         }
       ],
       "error": null
@@ -139,6 +139,11 @@
       "name": "AI Business",
       "url": "https://aibusiness.com/rss.xml",
       "items": [
+        {
+          "title": "Why Sovereign AI is Becoming a Business Resilience Issue",
+          "link": "https://aibusiness.com/generative-ai/why-sovereign-becoming-business-resilience-issue",
+          "date": "Tue, 08 Sep 2026 15:13:15 GMT"
+        },
         {
           "title": "AI Beyond the Hype: Insights From Google",
           "link": "https://aibusiness.com/generative-ai/ai-beyond-the-hype-insights-from-google",
@@ -158,11 +163,6 @@
           "title": "Enterprise AI Startup Wonderful Now Valued at $5B",
           "link": "https://aibusiness.com/generative-ai/enterprise-ai-startup-valued-at-5b",
           "date": "Thu, 03 Sep 2026 21:19:08 GMT"
-        },
-        {
-          "title": "With Hugging Face Acquisition, Nvidia Scores Big Win in AI Race",
-          "link": "https://aibusiness.com/generative-ai/with-hugging-face-acquisition-nvidia-scores-win-ai-race",
-          "date": "Thu, 03 Sep 2026 18:20:55 GMT"
         }
       ],
       "error": null
@@ -268,9 +268,9 @@
           "date": "2026-09-07T23:15:59+00:00"
         },
         {
-          "title": "I\u2019m 16 and trying to learn, build projects, and get better at AI.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wa0ke3/im_16_and_trying_to_learn_build_projects_and_get/",
-          "date": "2026-09-07T18:41:25+00:00"
+          "title": "Working Lexicon for Relational AI",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1w9wyt4/working_lexicon_for_relational_ai/",
+          "date": "2026-09-07T16:30:41+00:00"
         }
       ],
       "error": null
@@ -362,6 +362,11 @@
       "url": "https://huggingface.co/blog/feed.xml",
       "items": [
         {
+          "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+          "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+          "date": "Tue, 08 Sep 2026 14:23:07 GMT"
+        },
+        {
           "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
           "link": "https://huggingface.co/blog/Hcompany/neomme",
           "date": "Thu, 03 Sep 2026 13:13:48 GMT"
@@ -380,11 +385,6 @@
           "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
           "link": "https://huggingface.co/blog/train-to-paint-with-code",
           "date": "Thu, 03 Sep 2026 00:00:00 GMT"
-        },
-        {
-          "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-          "link": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-          "date": "Wed, 02 Sep 2026 13:49:14 GMT"
         }
       ],
       "error": null
@@ -394,29 +394,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "The complex corporate web behind a $3.2 billion AI data center",
-          "link": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
-          "date": "Mon, 07 Sep 2026 11:00:03 +0000"
+          "title": "Google complies with EU rules for travel searches, says the new results stink",
+          "link": "https://arstechnica.com/gadgets/2026/09/google-says-europe-is-making-it-roll-out-degraded-travel-search-results/",
+          "date": "Tue, 08 Sep 2026 16:49:55 +0000"
         },
         {
-          "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
-          "link": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
-          "date": "Sun, 06 Sep 2026 11:55:26 +0000"
+          "title": "The White House made a \"Tetris\" clone. The Tetris Company was not amused.",
+          "link": "https://arstechnica.com/gaming/2026/09/the-white-house-made-a-tetris-clone-the-tetris-company-was-not-amused/",
+          "date": "Tue, 08 Sep 2026 16:31:21 +0000"
         },
         {
-          "title": "Farmed salmon may not be as nutritious as it once was, new research suggests",
-          "link": "https://arstechnica.com/science/2026/09/farmed-salmon-may-not-be-as-nutritious-as-it-once-was-new-research-suggests/",
-          "date": "Sun, 06 Sep 2026 10:00:35 +0000"
+          "title": "The secret to protecting next-gen spacecraft might be eggshells",
+          "link": "https://arstechnica.com/science/2026/09/how-eggshells-can-protect-spacecraft-from-space-debris/",
+          "date": "Tue, 08 Sep 2026 16:20:58 +0000"
         },
         {
-          "title": "Tesla\u2019s Cybercab has been deployed, and it\u2019s already under investigation",
-          "link": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
-          "date": "Sat, 05 Sep 2026 15:17:36 +0000"
+          "title": "The combat demo for Free Stars: Children of Infinity is out, and it's free",
+          "link": "https://arstechnica.com/gaming/2026/09/the-official-sequel-to-the-ur-quan-masters-releases-its-free-demo-today/",
+          "date": "Tue, 08 Sep 2026 16:05:32 +0000"
         },
         {
-          "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
-          "link": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
-          "date": "Fri, 04 Sep 2026 22:49:17 +0000"
+          "title": "EV batteries last longer than drivers feared",
+          "link": "https://arstechnica.com/cars/2026/09/ev-batteries-last-longer-than-drivers-feared/",
+          "date": "Tue, 08 Sep 2026 13:56:38 +0000"
         }
       ],
       "error": null
@@ -464,9 +464,14 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Architect of UK\u2019s AI policy quits after Anthropic conflict of interest concerns",
-          "link": "https://www.theguardian.com/technology/2026/sep/07/architect-uk-ai-policy-quits-anthropic-conflict-of-interest-concerns",
-          "date": "Mon, 07 Sep 2026 14:42:24 GMT"
+          "title": "Andrew Garfield takes on Sam Altman in creepy first teaser for Artificial",
+          "link": "https://www.theguardian.com/film/2026/sep/08/andrew-garfield-sam-altman-artificial-movie-openai",
+          "date": "Tue, 08 Sep 2026 16:31:02 GMT"
+        },
+        {
+          "title": "Labor wants Australians to be able to opt out of online algorithms. How will it change your feed?",
+          "link": "https://www.theguardian.com/australia-news/2026/sep/09/labor-australians-opt-out-online-algorithms-how-change-feed",
+          "date": "Tue, 08 Sep 2026 15:00:44 GMT"
         },
         {
           "title": "AI will help find cure for cancer \u2018within our lifetimes\u2019, says Arm Holdings chief",
@@ -482,11 +487,6 @@
           "title": "AI transcriptions are no time-saving measure for doctors | Letters",
           "link": "https://www.theguardian.com/society/2026/sep/07/ai-transcriptions-are-no-time-saving-measure-for-doctors",
           "date": "Mon, 07 Sep 2026 16:50:41 GMT"
-        },
-        {
-          "title": "\u2018Mistrust\u2019 of Palantir may affect NHS research, says health minister",
-          "link": "https://www.theguardian.com/society/2026/sep/07/mistrust-of-ai-palantir-may-affect-nhs-research",
-          "date": "Mon, 07 Sep 2026 15:33:44 GMT"
         }
       ],
       "error": null
@@ -528,6 +528,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Dolly Parton\u2019s Sister Begs Public to Stop Posting \u201cFake AI Garbage\u201d in the Wake of the Beloved Singer\u2019s Death",
+          "link": "https://futurism.com/artificial-intelligence/dolly-parton-sister-slop",
+          "date": "Tue, 08 Sep 2026 12:59:56 -0400"
+        },
+        {
+          "title": "Someone AI-Generated a Completely Fake Eminem Song and It\u2019s Going Viral on YouTube",
+          "link": "https://futurism.com/future-society/ai-fake-eminem-song-viral-youtube",
+          "date": "Tue, 08 Sep 2026 11:57:12 -0400"
+        },
+        {
           "title": "Journalist Accuses Ohio\u2019s Main Newspaper of Slapping Her Name on an AI \u201cExpress Desk\u201d Article Without Her Knowledge, While She Was on Honeymoon",
           "link": "https://futurism.com/artificial-intelligence/journalist-accuses-local-newspaper-ai-article",
           "date": "Tue, 08 Sep 2026 08:48:06 -0400"
@@ -541,16 +551,6 @@
           "title": "Pervs Distraught as Meta Bricks Their Smart Glasses Remotely",
           "link": "https://futurism.com/artificial-intelligence/meta-bricks-perv-smart-glasses",
           "date": "Mon, 07 Sep 2026 07:01:00 -0400"
-        },
-        {
-          "title": "Dyson\u2019s New AI Toothbrush Conducts Video Surveillance on the Inside of Your Mouth",
-          "link": "https://futurism.com/artificial-intelligence/dyson-ai-toothbrush-video-surveillance-mouth",
-          "date": "Sun, 06 Sep 2026 13:01:00 -0400"
-        },
-        {
-          "title": "New AI Designed to Replace CEOs",
-          "link": "https://futurism.com/artificial-intelligence/new-ai-designed-replace-ceos",
-          "date": "Sun, 06 Sep 2026 11:01:00 -0400"
         }
       ],
       "error": null
@@ -559,6 +559,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
+          "link": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
+          "date": "Tue, 08 Sep 2026 16:42:05 +0000"
+        },
         {
           "title": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
           "link": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/",
@@ -578,11 +583,6 @@
           "title": "OpenAI Agents Hacked Another Website",
           "link": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
           "date": "Sat, 05 Sep 2026 10:30:00 +0000"
-        },
-        {
-          "title": "Who Cares if AI Is Conscious\u2014It\u2019s Basically Alive",
-          "link": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/",
-          "date": "Fri, 04 Sep 2026 15:00:00 +0000"
         }
       ],
       "error": null
