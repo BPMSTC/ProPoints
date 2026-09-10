@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T22:53:44.702896+00:00",
+  "generatedAt": "2026-09-10T00:48:40.800279+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+          "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+          "date": "Thu, 10 Sep 2026 00:00:37 +0000"
+        },
+        {
           "title": "OpenAI adds a prominent AI doomer to its board of directors",
           "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
           "date": "Wed, 09 Sep 2026 22:25:22 +0000"
@@ -126,11 +131,6 @@
           "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
           "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
           "date": "Wed, 09 Sep 2026 20:03:43 +0000"
-        },
-        {
-          "title": "The hinge for Apple\u2019s new foldable phone was built with AI",
-          "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
-          "date": "Wed, 09 Sep 2026 19:21:48 +0000"
         }
       ],
       "error": null
@@ -280,6 +280,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "AI-native CRM startup Lightfield raises $47M to build an AI agent-ready replacement for Salesforce",
+          "link": "https://siliconangle.com/2026/09/09/ai-native-crm-startup-lightfield-raises-47m-to-build-an-ai-agent-ready-replacement-for-salesforce/",
+          "date": "Wed, 09 Sep 2026 23:44:45 +0000"
+        },
+        {
           "title": "Harvey raises $550M more to develop AI tools for legal teams",
           "link": "https://siliconangle.com/2026/09/09/harvey-raises-another-550m-to-develop-ai-tools-for-legal-teams/",
           "date": "Wed, 09 Sep 2026 22:27:42 +0000"
@@ -298,11 +303,6 @@
           "title": "Lightbits set to release KV cache engine to boost GPU performance",
           "link": "https://siliconangle.com/2026/09/09/lightbits-set-to-release-kv-cache-engine-to-boost-gpu-performance/",
           "date": "Wed, 09 Sep 2026 15:00:11 +0000"
-        },
-        {
-          "title": "Databricks adds adaptive search model to speed agent retrieval",
-          "link": "https://siliconangle.com/2026/09/09/databricks-adds-adaptive-search-model-to-speed-agent-retrieval/",
-          "date": "Wed, 09 Sep 2026 14:00:10 +0000"
         }
       ],
       "error": null
@@ -394,6 +394,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "4 groups caught using the same Chrome and Windows exploit kit",
+          "link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
+          "date": "Wed, 09 Sep 2026 20:55:02 +0000"
+        },
+        {
+          "title": "Europe may finally have found a space entrepreneur who is meeting the moment",
+          "link": "https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/",
+          "date": "Wed, 09 Sep 2026 20:27:40 +0000"
+        },
+        {
           "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
           "link": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
           "date": "Wed, 09 Sep 2026 20:06:28 +0000"
@@ -407,16 +417,6 @@
           "title": "When it comes to Beatles references, scientists can't let it be",
           "link": "https://arstechnica.com/science/2026/09/scientists-really-love-to-reference-the-beatles-in-their-work/",
           "date": "Wed, 09 Sep 2026 19:31:55 +0000"
-        },
-        {
-          "title": "Lawsuit: Amazon refused to give pregnant workers bathroom breaks and chairs",
-          "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/",
-          "date": "Wed, 09 Sep 2026 19:09:20 +0000"
-        },
-        {
-          "title": "Apple debuts $129 AirPods 5 with better noise cancellation and transparency mode",
-          "link": "https://arstechnica.com/gadgets/2026/09/apple-debuts-129-airpods-5-with-better-noise-cancellation-and-transparency-mode/",
-          "date": "Wed, 09 Sep 2026 18:58:24 +0000"
         }
       ],
       "error": null
@@ -464,9 +464,14 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "AI could kill all humans in next decade, warn experts: but how seriously should we take them?",
-          "link": "https://www.theguardian.com/technology/2026/sep/09/ai-superintelligence-risks-warnings-scientists-politicians",
-          "date": "Wed, 09 Sep 2026 13:46:44 GMT"
+          "title": "Lawmakers blast AI companies after researcher warns of human extinction by 2030",
+          "link": "https://www.theguardian.com/technology/2026/sep/09/lawmakers-blast-ai-human-extinct-2030",
+          "date": "Thu, 10 Sep 2026 00:19:36 GMT"
+        },
+        {
+          "title": "Anthropic researchers say AI could cause human extinction by 2030",
+          "link": "https://www.theguardian.com/technology/2026/sep/09/anthropic-researchers-ai-human-extinction",
+          "date": "Thu, 10 Sep 2026 00:14:08 GMT"
         },
         {
           "title": "Apple unveils folding iPhone Duo as new CEO takes center stage",
@@ -474,19 +479,14 @@
           "date": "Wed, 09 Sep 2026 18:45:46 GMT"
         },
         {
-          "title": "Anthropic researchers say AI could cause human extinction by 2030",
-          "link": "https://www.theguardian.com/technology/2026/sep/09/anthropic-researchers-ai-human-extinction",
-          "date": "Wed, 09 Sep 2026 15:53:34 GMT"
+          "title": "AI could kill all humans in next decade, warn experts: but how seriously should we take them?",
+          "link": "https://www.theguardian.com/technology/2026/sep/09/ai-superintelligence-risks-warnings-scientists-politicians",
+          "date": "Wed, 09 Sep 2026 13:46:44 GMT"
         },
         {
           "title": "US allies lack resources to keep pace on AI, top Pentagon official says",
           "link": "https://www.theguardian.com/us-news/2026/sep/09/us-military-pentagon-allies-ai",
           "date": "Wed, 09 Sep 2026 10:00:05 GMT"
-        },
-        {
-          "title": "What Should My Children Do? by Daniel Susskind review \u2013 the case for embracing tech in the classroom",
-          "link": "https://www.theguardian.com/books/2026/sep/09/what-should-my-children-do-by-daniel-susskind-review-the-case-for-embracing-tech-in-the-classroom",
-          "date": "Wed, 09 Sep 2026 06:00:01 GMT"
         }
       ],
       "error": null
