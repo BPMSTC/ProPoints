@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T21:22:17.135322+00:00",
+  "generatedAt": "2026-09-10T23:41:14.842336+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,16 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+          "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+          "date": "Thu, 10 Sep 2026 21:51:59 +0000"
+        },
+        {
+          "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+          "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+          "date": "Thu, 10 Sep 2026 21:35:00 +0000"
+        },
+        {
           "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
           "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
           "date": "Thu, 10 Sep 2026 20:59:51 +0000"
@@ -121,16 +131,6 @@
           "title": "Meta\u2019s AI agent Muse is now the No. 2 app in the US",
           "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
           "date": "Thu, 10 Sep 2026 19:50:04 +0000"
-        },
-        {
-          "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-          "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-          "date": "Thu, 10 Sep 2026 17:54:44 +0000"
-        },
-        {
-          "title": "India\u2019s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
-          "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-          "date": "Thu, 10 Sep 2026 17:45:00 +0000"
         }
       ],
       "error": null
@@ -139,6 +139,11 @@
       "name": "AI Business",
       "url": "https://aibusiness.com/rss.xml",
       "items": [
+        {
+          "title": "The AI Safety Crunch and How Enterprises Should Deal With It",
+          "link": "https://aibusiness.com/ai-policy/the-ai-safety-crunch-how-enterprises-should-deal-with-it",
+          "date": "Thu, 10 Sep 2026 22:38:37 GMT"
+        },
         {
           "title": "AI Coding Startup Cognition Now Valued at $48B",
           "link": "https://aibusiness.com/generative-ai/ai-coding-startup-cognition-valued-at-48b",
@@ -158,11 +163,6 @@
           "title": "Qualcomm Forges AI Chip Deal with Amazon",
           "link": "https://aibusiness.com/data-centers/qualcomm-forges-ai-chip-deal-amazon",
           "date": "Wed, 09 Sep 2026 20:27:02 GMT"
-        },
-        {
-          "title": "How Mistral\u2019s New Funding is a Bridge to Sovereign AI",
-          "link": "https://aibusiness.com/generative-ai/how-mistral-s-new-funding-bridge-sovereign-ai",
-          "date": "Tue, 08 Sep 2026 21:11:57 GMT"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -231,14 +231,14 @@
           "date": "Thu, 03 Sep 2026 22:24:00 +0000"
         },
         {
+          "title": "After OpenAI\u2019s Bots Went Rogue, Watchdogs Were Kept on a Short Leash",
+          "link": "https://ainowinstitute.org/news/press/after-openais-bots-went-rogue-watchdogs-were-kept-on-a-short-leash",
+          "date": "Thu, 03 Sep 2026 17:49:09 +0000"
+        },
+        {
           "title": "Why Human Control Isn\u2019t Enough in Military AI with Heidy Khlaaf",
           "link": "https://ainowinstitute.org/news/press/why-human-control-isnt-enough-in-military-ai-with-heidy-khlaaf",
           "date": "Wed, 02 Sep 2026 15:56:12 +0000"
-        },
-        {
-          "title": "Tech backlash reaches fever pitch as AI angst collides with social media fears",
-          "link": "https://ainowinstitute.org/news/press/tech-backlash-reaches-fever-pitch-as-ai-angst-collides-with-social-media-fears",
-          "date": "Sat, 29 Aug 2026 16:32:04 +0000"
         }
       ],
       "error": null
@@ -258,6 +258,11 @@
           "date": "2026-09-10T12:42:39+00:00"
         },
         {
+          "title": "Aggregate human evaluation shows Fable 5.1 eclipsing Astra in agenetic work... what do you think?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wcwg0n/aggregate_human_evaluation_shows_fable_51/",
+          "date": "2026-09-10T21:28:22+00:00"
+        },
+        {
           "title": "does anyone else feel like they are just arguing with claude all day",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wcmgtz/does_anyone_else_feel_like_they_are_just_arguing/",
           "date": "2026-09-10T15:30:18+00:00"
@@ -266,11 +271,6 @@
           "title": "My first real software project went from an idea to a working learning platform in ~35 hours",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wcw7hu/my_first_real_software_project_went_from_an_idea/",
           "date": "2026-09-10T21:19:19+00:00"
-        },
-        {
-          "title": "Has anyone tried Unity\u2019s official Codex plugin yet?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wchiis/has_anyone_tried_unitys_official_codex_plugin_yet/",
-          "date": "2026-09-10T12:15:54+00:00"
         }
       ],
       "error": null
@@ -394,6 +394,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Boy developed \"toasted skin\" condition from using a laptop every day",
+          "link": "https://arstechnica.com/health/2026/09/boy-developed-toasted-skin-condition-from-using-a-laptop-every-day/",
+          "date": "Thu, 10 Sep 2026 22:16:05 +0000"
+        },
+        {
           "title": "LinkedIn beats \"BrowserGate\" lawsuits over scanning users' Chrome extensions",
           "link": "https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/",
           "date": "Thu, 10 Sep 2026 20:55:29 +0000"
@@ -412,11 +417,6 @@
           "title": "Panic builds over bankrupt Spirit\u2019s looming data sale to Google",
           "link": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
           "date": "Thu, 10 Sep 2026 18:14:14 +0000"
-        },
-        {
-          "title": "Physicist does the math on Star Trek\u2019s \u201cPicard maneuver\u201d",
-          "link": "https://arstechnica.com/science/2026/09/physicist-does-the-math-on-star-treks-picard-maneuver/",
-          "date": "Thu, 10 Sep 2026 17:54:33 +0000"
         }
       ],
       "error": null
@@ -464,9 +464,14 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "OpenAI not on track to reduce risk of \u2018catastrophic\u2019 loss of control, says board member",
-          "link": "https://www.theguardian.com/technology/2026/sep/10/openai-risk-catastrophic-loss-control-board-member-paul-christiano",
-          "date": "Thu, 10 Sep 2026 12:23:21 GMT"
+          "title": "More Anthropic researchers warn of AI\u2019s perils as Musk terms fears a \u2018psyop\u2019",
+          "link": "https://www.theguardian.com/technology/2026/sep/10/anthropic-researchers-warn-ai-musk",
+          "date": "Thu, 10 Sep 2026 21:51:26 GMT"
+        },
+        {
+          "title": "Anthropic details bad actors\u2019 efforts to misuse its AI for bioweapons",
+          "link": "https://www.theguardian.com/technology/2026/sep/10/anthropic-report-details-ai-misuse",
+          "date": "Thu, 10 Sep 2026 22:35:16 GMT"
         },
         {
           "title": "Ben Jennings on the Bayeux tapestry \u2013 cartoon",
@@ -474,19 +479,14 @@
           "date": "Thu, 10 Sep 2026 17:17:11 GMT"
         },
         {
+          "title": "OpenAI not on track to reduce risk of \u2018catastrophic\u2019 loss of control, says board member",
+          "link": "https://www.theguardian.com/technology/2026/sep/10/openai-risk-catastrophic-loss-control-board-member-paul-christiano",
+          "date": "Thu, 10 Sep 2026 12:23:21 GMT"
+        },
+        {
           "title": "We have started losing control of AI. It\u2019s time to shut it down | Garrison Lovely",
           "link": "https://www.theguardian.com/commentisfree/2026/sep/10/ai-control-sci-fi",
           "date": "Thu, 10 Sep 2026 11:00:23 GMT"
-        },
-        {
-          "title": "Driverless cars are taking us on a road to nowhere | Adrian Chiles",
-          "link": "https://www.theguardian.com/commentisfree/2026/sep/10/driverless-cars-are-taking-us-on-a-road-to-nowhere",
-          "date": "Thu, 10 Sep 2026 10:00:22 GMT"
-        },
-        {
-          "title": "Weatherwatch: AI model beats standard methods at predicting cyclones",
-          "link": "https://www.theguardian.com/news/2026/sep/10/weatherwatch-ai-model-beats-standard-methods-at-predicting-cyclones",
-          "date": "Thu, 10 Sep 2026 05:00:17 GMT"
         }
       ],
       "error": null
@@ -560,6 +560,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
+          "link": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
+          "date": "Thu, 10 Sep 2026 23:28:42 +0000"
+        },
+        {
           "title": "Is AI Actually Going to Kill Us All?",
           "link": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
           "date": "Thu, 10 Sep 2026 20:30:37 +0000"
@@ -578,11 +583,6 @@
           "title": "The AI Researcher Who Just Quit Anthropic Says It\u2019s \u2018Crunch Time for Humanity\u2019",
           "link": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
           "date": "Wed, 09 Sep 2026 22:11:55 +0000"
-        },
-        {
-          "title": "San Francisco Orders Meta to Stop \u2018Allowing\u2019 AI Child Abuse Ads",
-          "link": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/",
-          "date": "Wed, 09 Sep 2026 21:15:27 +0000"
         }
       ],
       "error": null
