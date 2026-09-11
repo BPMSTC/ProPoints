@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T19:26:06.245949+00:00",
+  "generatedAt": "2026-09-11T22:13:12.364661+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,29 +108,29 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
-          "title": "An Anthropic researcher\u2019s doomsday warning comes at\u00a0a very interesting\u00a0time",
-          "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
-          "date": "Fri, 11 Sep 2026 18:41:49 +0000"
+          "title": "Y Combinator\u2019s Garry Tan wants U.S. open-weight AI labs to \u2018distill\u2019 frontier models, too",
+          "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+          "date": "Fri, 11 Sep 2026 20:59:47 +0000"
         },
         {
-          "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-          "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-          "date": "Fri, 11 Sep 2026 16:46:25 +0000"
+          "title": "OpenAI\u2019s feud with mathematicians is only escalating",
+          "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+          "date": "Fri, 11 Sep 2026 20:57:36 +0000"
         },
         {
-          "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-          "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-          "date": "Thu, 10 Sep 2026 21:51:59 +0000"
+          "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+          "date": "Fri, 11 Sep 2026 20:33:18 +0000"
         },
         {
-          "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-          "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-          "date": "Thu, 10 Sep 2026 21:35:00 +0000"
+          "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+          "link": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+          "date": "Fri, 11 Sep 2026 20:30:17 +0000"
         },
         {
-          "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-          "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
-          "date": "Thu, 10 Sep 2026 20:59:51 +0000"
+          "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+          "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+          "date": "Fri, 11 Sep 2026 19:35:54 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -253,6 +253,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "I used OpenAI token limit reset feature through codex and I got my limit reset",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wdrs3i/i_used_openai_token_limit_reset_feature_through/",
+          "date": "2026-09-11T20:28:18+00:00"
+        },
+        {
           "title": "[ Removed by Reddit ]",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wdhicg/removed_by_reddit/",
           "date": "2026-09-11T14:14:45+00:00"
@@ -266,11 +271,6 @@
           "title": "Hot take: the agentic workflow is deeply wrong",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wci4ex/hot_take_the_agentic_workflow_is_deeply_wrong/",
           "date": "2026-09-10T12:42:39+00:00"
-        },
-        {
-          "title": "How can I get API automation with a cost/performance ratio similar to ChatGPT Chat High?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wd0nqr/how_can_i_get_api_automation_with_a/",
-          "date": "2026-09-11T00:21:10+00:00"
         }
       ],
       "error": null
@@ -279,6 +279,16 @@
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
+        {
+          "title": "Dynatrace and Arize AI push observability from detection toward action",
+          "link": "https://siliconangle.com/2026/09/11/observability-ai-agents-dynatrace-arize-appdevangle/",
+          "date": "Fri, 11 Sep 2026 21:17:44 +0000"
+        },
+        {
+          "title": "Why Cisco is turning contact centers into context centers",
+          "link": "https://siliconangle.com/2026/09/11/context-center-cisco-webex-contactcentersummit/",
+          "date": "Fri, 11 Sep 2026 20:18:13 +0000"
+        },
         {
           "title": "Five9 builds Humantic contact centers instead of full automation",
           "link": "https://siliconangle.com/2026/09/11/humantic-five9-contactcentersummit/",
@@ -290,19 +300,9 @@
           "date": "Fri, 11 Sep 2026 17:29:17 +0000"
         },
         {
-          "title": "AI\u2019s existential crisis explodes but AI companies plunge ahead anyway",
-          "link": "https://siliconangle.com/2026/09/11/ais-existential-crisis-explodes-but-ai-companies-plunge-ahead-anyway/",
-          "date": "Fri, 11 Sep 2026 14:00:28 +0000"
-        },
-        {
-          "title": "Extreme Networks\u2019 Agent ONE Coworker moves AI networking from dashboards to answers",
-          "link": "https://siliconangle.com/2026/09/10/extreme-networks-agent-one-coworker-moves-ai-networking-from-dashboards-to-answers/",
-          "date": "Fri, 11 Sep 2026 01:58:50 +0000"
-        },
-        {
-          "title": "OpenAI targets Wall Street bankers with a new version of ChatGPT",
-          "link": "https://siliconangle.com/2026/09/10/openai-targets-wall-street-bankers-with-a-new-version-of-chatgpt/",
-          "date": "Fri, 11 Sep 2026 01:54:51 +0000"
+          "title": "How conversation to completion moves contact centers past containment",
+          "link": "https://siliconangle.com/2026/09/11/conversation-to-completion-zoom-contactcentersummit/",
+          "date": "Fri, 11 Sep 2026 14:20:13 +0000"
         }
       ],
       "error": null
@@ -394,29 +394,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "NASA moving at warp speed to set up US Space Academy",
-          "link": "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/",
-          "date": "Fri, 11 Sep 2026 16:20:43 +0000"
+          "title": "Random rewards enrich classic game-theory contests",
+          "link": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
+          "date": "Fri, 11 Sep 2026 21:41:16 +0000"
         },
         {
-          "title": "Claude users found ways around safeguards for bioweapons research",
-          "link": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
-          "date": "Fri, 11 Sep 2026 13:02:35 +0000"
+          "title": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
+          "link": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/",
+          "date": "Fri, 11 Sep 2026 21:14:26 +0000"
         },
         {
-          "title": "ClickFix attacks infecting PCs and Macs are going viral",
-          "link": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
-          "date": "Fri, 11 Sep 2026 11:30:58 +0000"
+          "title": "Trump's forced coal plant extensions thrown out by judge",
+          "link": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/",
+          "date": "Fri, 11 Sep 2026 20:32:59 +0000"
         },
         {
-          "title": "What happens when quantum mechanics and relativity meet?",
-          "link": "https://arstechnica.com/science/2026/09/what-happens-when-quantum-mechanics-and-relativity-meet/",
-          "date": "Fri, 11 Sep 2026 11:20:02 +0000"
+          "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+          "link": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
+          "date": "Fri, 11 Sep 2026 19:34:09 +0000"
         },
         {
-          "title": "Could United Launch Alliance's money problems finally force its owners to sell?",
-          "link": "https://arstechnica.com/space/2026/09/could-united-launch-alliances-money-problems-finally-force-its-owners-to-sell/",
-          "date": "Fri, 11 Sep 2026 11:00:44 +0000"
+          "title": "Scientists unlock secrets of ancient Egyptian materials with proteomics",
+          "link": "https://arstechnica.com/science/2026/09/scientists-unlock-secrets-of-ancient-egyptian-materials-with-proteomics/",
+          "date": "Fri, 11 Sep 2026 18:49:39 +0000"
         }
       ],
       "error": null
@@ -424,33 +424,7 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "One cheeseburger has roughly the greenhouse gas emissions of 63,000 Gemini AI text prompts.",
-          "link": "https://www.reddit.com/r/artificial/comments/1wd1dpf/one_cheeseburger_has_roughly_the_greenhouse_gas/",
-          "date": "2026-09-11T00:53:06+00:00"
-        },
-        {
-          "title": "AI companies pursue the Boromir strategy to deal with the control problem. \"It's dangerous. But let that be me. I know what to do with it.\"",
-          "link": "https://www.reddit.com/r/artificial/comments/1wcwues/ai_companies_pursue_the_boromir_strategy_to_deal/",
-          "date": "2026-09-10T21:43:57+00:00"
-        },
-        {
-          "title": "Polish developer builds app that detects nearby Meta smart glasses",
-          "link": "https://www.reddit.com/r/artificial/comments/1wdcik5/polish_developer_builds_app_that_detects_nearby/",
-          "date": "2026-09-11T10:35:30+00:00"
-        },
-        {
-          "title": "James Cameron saw it in 1984 even with 128 KB of RAM and floppy disks",
-          "link": "https://www.reddit.com/r/artificial/comments/1wdocnr/james_cameron_saw_it_in_1984_even_with_128_kb_of/",
-          "date": "2026-09-11T18:24:56+00:00"
-        },
-        {
-          "title": "UK lawmakers urge Burnham to back ban on superintelligent AI after chilling warnings | AI (artificial intelligence)",
-          "link": "https://www.reddit.com/r/artificial/comments/1wdnd3u/uk_lawmakers_urge_burnham_to_back_ban_on/",
-          "date": "2026-09-11T17:49:34+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
@@ -495,7 +469,7 @@
           "date": "Fri, 11 Sep 2026 17:17:51 GMT"
         },
         {
-          "title": "New Mexico lawyer fined for using AI-generated brief containing fabricated police testimony",
+          "title": "New Mexico lawyer fined for using AI-generated brief containing fabricated testimony",
           "link": "https://www.theguardian.com/technology/2026/sep/11/new-mexico-lawyer-ai-chatgpt-testimony",
           "date": "Fri, 11 Sep 2026 18:04:05 GMT"
         },
