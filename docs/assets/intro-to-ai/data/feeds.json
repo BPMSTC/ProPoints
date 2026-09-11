@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T07:45:57.140091+00:00",
+  "generatedAt": "2026-09-11T12:34:32.934826+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -231,14 +231,14 @@
           "date": "Thu, 03 Sep 2026 22:24:00 +0000"
         },
         {
-          "title": "After OpenAI\u2019s Bots Went Rogue, Watchdogs Were Kept on a Short Leash",
-          "link": "https://ainowinstitute.org/news/press/after-openais-bots-went-rogue-watchdogs-were-kept-on-a-short-leash",
-          "date": "Thu, 03 Sep 2026 17:49:09 +0000"
-        },
-        {
           "title": "Why Human Control Isn\u2019t Enough in Military AI with Heidy Khlaaf",
           "link": "https://ainowinstitute.org/news/press/why-human-control-isnt-enough-in-military-ai-with-heidy-khlaaf",
           "date": "Wed, 02 Sep 2026 15:56:12 +0000"
+        },
+        {
+          "title": "Tech backlash reaches fever pitch as AI angst collides with social media fears",
+          "link": "https://ainowinstitute.org/news/press/tech-backlash-reaches-fever-pitch-as-ai-angst-collides-with-social-media-fears",
+          "date": "Sat, 29 Aug 2026 16:32:04 +0000"
         }
       ],
       "error": null
@@ -432,6 +432,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Could AI really kill off humanity within the decade? Expert Q&A",
+          "link": "https://theconversation.com/could-ai-really-kill-off-humanity-within-the-decade-expert-qanda-291725",
+          "date": "2026-09-11T11:19:23Z"
+        },
+        {
           "title": "\u2018We really do earnestly believe AI could kill all humans\u2019: if AI labs are so worried about AI doom, why don\u2019t they stop?",
           "link": "https://theconversation.com/we-really-do-earnestly-believe-ai-could-kill-all-humans-if-ai-labs-are-so-worried-about-ai-doom-why-dont-they-stop-291595",
           "date": "2026-09-11T04:13:03Z"
@@ -450,11 +455,6 @@
           "title": "OpenAI claims another huge mathematical result amid fights over credit, ethics and privacy",
           "link": "https://theconversation.com/openai-claims-another-huge-mathematical-result-amid-fights-over-credit-ethics-and-privacy-291575",
           "date": "2026-09-10T02:07:46Z"
-        },
-        {
-          "title": "An invisible AI watermark is coming to your messages. Your relationships may pay the price",
-          "link": "https://theconversation.com/an-invisible-ai-watermark-is-coming-to-your-messages-your-relationships-may-pay-the-price-291031",
-          "date": "2026-09-09T16:43:59Z"
         }
       ],
       "error": null
@@ -469,9 +469,14 @@
           "date": "Thu, 10 Sep 2026 21:51:26 GMT"
         },
         {
-          "title": "UK economy defies forecasts with surprise 0.4% growth in July",
+          "title": "Tech whistleblowers warn AI could wipe out humanity. Doomspeak or not, we must take these claims seriously | Gaby Hinsliff",
+          "link": "https://www.theguardian.com/commentisfree/2026/sep/11/risky-ai-research-pause-humanity",
+          "date": "Fri, 11 Sep 2026 10:00:01 GMT"
+        },
+        {
+          "title": "UK economy unexpectedly grows 0.4% in July boosted by AI",
           "link": "https://www.theguardian.com/business/2026/sep/11/uk-economy-defies-forecasts-with-surprise-04-growth-in-july",
-          "date": "Fri, 11 Sep 2026 06:02:13 GMT"
+          "date": "Fri, 11 Sep 2026 08:10:36 GMT"
         },
         {
           "title": "Anthropic details bad actors\u2019 efforts to misuse its AI for bioweapons",
@@ -482,11 +487,6 @@
           "title": "Ben Jennings on the Bayeux tapestry \u2013 cartoon",
           "link": "https://www.theguardian.com/commentisfree/picture/2026/sep/10/ben-jennings-bayeux-tapestry-cartoon",
           "date": "Thu, 10 Sep 2026 17:17:11 GMT"
-        },
-        {
-          "title": "OpenAI not on track to reduce risk of \u2018catastrophic\u2019 loss of control, says board member",
-          "link": "https://www.theguardian.com/technology/2026/sep/10/openai-risk-catastrophic-loss-control-board-member-paul-christiano",
-          "date": "Thu, 10 Sep 2026 12:23:21 GMT"
         }
       ],
       "error": null
@@ -560,6 +560,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
+          "link": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
+          "date": "Fri, 11 Sep 2026 09:00:00 +0000"
+        },
+        {
           "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
           "link": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
           "date": "Thu, 10 Sep 2026 23:28:42 +0000"
@@ -578,11 +583,6 @@
           "title": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
           "link": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/",
           "date": "Thu, 10 Sep 2026 10:00:00 +0000"
-        },
-        {
-          "title": "The AI Researcher Who Just Quit Anthropic Says It\u2019s \u2018Crunch Time for Humanity\u2019",
-          "link": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
-          "date": "Wed, 09 Sep 2026 22:11:55 +0000"
         }
       ],
       "error": null
