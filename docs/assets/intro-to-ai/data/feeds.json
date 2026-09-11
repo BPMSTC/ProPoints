@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-09-11T16:54:26.261361+00:00",
+  "generatedAt": "2026-09-11T19:26:06.245949+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Behind the Blog: How to Talk About AI Doom",
+          "link": "https://www.404media.co/behind-the-blog-how-to-talk-about-ai-doom/",
+          "date": "Fri, 11 Sep 2026 17:31:01 GMT"
+        },
         {
           "title": "Automattic\u2019s Matt Mullenweg Claims He\u2019s Back 'In Control'",
           "link": "https://www.404media.co/automattic-matt-mullenweg-back-in-control/",
@@ -24,11 +29,6 @@
           "title": "Doctor Doom Thanked Seattle for All the Surveillance Cameras",
           "link": "https://www.404media.co/doctor-doom-thanked-seattle-for-all-the-surveillance-cameras/",
           "date": "Wed, 09 Sep 2026 19:25:00 GMT"
-        },
-        {
-          "title": "The Remnants of a Lost \u2018Supercontinent\u2019 Just Rewrote the History of Life on Earth",
-          "link": "https://www.404media.co/the-remnants-of-a-lost-supercontinent-just-rewrote-the-history-of-life-on-earth/",
-          "date": "Wed, 09 Sep 2026 18:00:04 GMT"
         }
       ],
       "error": null
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "An Anthropic researcher\u2019s doomsday warning comes at\u00a0a very interesting\u00a0time",
+          "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+          "date": "Fri, 11 Sep 2026 18:41:49 +0000"
+        },
+        {
           "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
           "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
           "date": "Fri, 11 Sep 2026 16:46:25 +0000"
@@ -126,11 +131,6 @@
           "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
           "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
           "date": "Thu, 10 Sep 2026 20:59:51 +0000"
-        },
-        {
-          "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-          "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-          "date": "Thu, 10 Sep 2026 20:57:30 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -268,9 +268,9 @@
           "date": "2026-09-10T12:42:39+00:00"
         },
         {
-          "title": "My first real software project went from an idea to a working learning platform in ~35 hours",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wcw7hu/my_first_real_software_project_went_from_an_idea/",
-          "date": "2026-09-10T21:19:19+00:00"
+          "title": "How can I get API automation with a cost/performance ratio similar to ChatGPT Chat High?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wd0nqr/how_can_i_get_api_automation_with_a/",
+          "date": "2026-09-11T00:21:10+00:00"
         }
       ],
       "error": null
@@ -278,8 +278,34 @@
     {
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
-      "items": [],
-      "error": "text/html is not an XML media type"
+      "items": [
+        {
+          "title": "Five9 builds Humantic contact centers instead of full automation",
+          "link": "https://siliconangle.com/2026/09/11/humantic-five9-contactcentersummit/",
+          "date": "Fri, 11 Sep 2026 19:14:09 +0000"
+        },
+        {
+          "title": "Contact center AI faces its resolution test as metrics fall out of step",
+          "link": "https://siliconangle.com/2026/09/11/knowledge-management-contact-center-ai-contactcentersummit/",
+          "date": "Fri, 11 Sep 2026 17:29:17 +0000"
+        },
+        {
+          "title": "AI\u2019s existential crisis explodes but AI companies plunge ahead anyway",
+          "link": "https://siliconangle.com/2026/09/11/ais-existential-crisis-explodes-but-ai-companies-plunge-ahead-anyway/",
+          "date": "Fri, 11 Sep 2026 14:00:28 +0000"
+        },
+        {
+          "title": "Extreme Networks\u2019 Agent ONE Coworker moves AI networking from dashboards to answers",
+          "link": "https://siliconangle.com/2026/09/10/extreme-networks-agent-one-coworker-moves-ai-networking-from-dashboards-to-answers/",
+          "date": "Fri, 11 Sep 2026 01:58:50 +0000"
+        },
+        {
+          "title": "OpenAI targets Wall Street bankers with a new version of ChatGPT",
+          "link": "https://siliconangle.com/2026/09/10/openai-targets-wall-street-bankers-with-a-new-version-of-chatgpt/",
+          "date": "Fri, 11 Sep 2026 01:54:51 +0000"
+        }
+      ],
+      "error": null
     },
     {
       "name": "AI Snake Oil",
@@ -368,6 +394,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "NASA moving at warp speed to set up US Space Academy",
+          "link": "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/",
+          "date": "Fri, 11 Sep 2026 16:20:43 +0000"
+        },
+        {
           "title": "Claude users found ways around safeguards for bioweapons research",
           "link": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
           "date": "Fri, 11 Sep 2026 13:02:35 +0000"
@@ -386,11 +417,6 @@
           "title": "Could United Launch Alliance's money problems finally force its owners to sell?",
           "link": "https://arstechnica.com/space/2026/09/could-united-launch-alliances-money-problems-finally-force-its-owners-to-sell/",
           "date": "Fri, 11 Sep 2026 11:00:44 +0000"
-        },
-        {
-          "title": "Rocket Report: Europe joins the commercial launch club; a Ravn X sighting?",
-          "link": "https://arstechnica.com/space/2026/09/rocket-report-europe-joins-the-commercial-launch-club-a-ravn-x-sighting/",
-          "date": "Fri, 11 Sep 2026 11:00:30 +0000"
         }
       ],
       "error": null
@@ -415,14 +441,14 @@
           "date": "2026-09-11T10:35:30+00:00"
         },
         {
-          "title": "Built an AI memory system that actually refuses to hallucinate",
-          "link": "https://www.reddit.com/r/artificial/comments/1wd8fl0/built_an_ai_memory_system_that_actually_refuses/",
-          "date": "2026-09-11T06:40:34+00:00"
+          "title": "James Cameron saw it in 1984 even with 128 KB of RAM and floppy disks",
+          "link": "https://www.reddit.com/r/artificial/comments/1wdocnr/james_cameron_saw_it_in_1984_even_with_128_kb_of/",
+          "date": "2026-09-11T18:24:56+00:00"
         },
         {
-          "title": "5 things I've noticed that still make AI video read as AI",
-          "link": "https://www.reddit.com/r/artificial/comments/1wdbmwj/5_things_ive_noticed_that_still_make_ai_video/",
-          "date": "2026-09-11T09:47:53+00:00"
+          "title": "UK lawmakers urge Burnham to back ban on superintelligent AI after chilling warnings | AI (artificial intelligence)",
+          "link": "https://www.reddit.com/r/artificial/comments/1wdnd3u/uk_lawmakers_urge_burnham_to_back_ban_on/",
+          "date": "2026-09-11T17:49:34+00:00"
         }
       ],
       "error": null
@@ -464,9 +490,19 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "More Anthropic researchers warn of AI\u2019s perils but Musk dismisses \u2018psyop\u2019",
-          "link": "https://www.theguardian.com/technology/2026/sep/10/anthropic-researchers-warn-ai-musk",
-          "date": "Thu, 10 Sep 2026 21:51:26 GMT"
+          "title": "Children need interaction, not AI | Letters",
+          "link": "https://www.theguardian.com/technology/2026/sep/11/children-need-interaction-not-ai",
+          "date": "Fri, 11 Sep 2026 17:17:51 GMT"
+        },
+        {
+          "title": "New Mexico lawyer fined for using AI-generated brief containing fabricated police testimony",
+          "link": "https://www.theguardian.com/technology/2026/sep/11/new-mexico-lawyer-ai-chatgpt-testimony",
+          "date": "Fri, 11 Sep 2026 18:04:05 GMT"
+        },
+        {
+          "title": "UK lawmakers urge Burnham to back ban on superintelligent AI after chilling warnings",
+          "link": "https://www.theguardian.com/technology/2026/sep/11/mps-urge-andy-burnham-block-artificial-superintelligence-asi",
+          "date": "Fri, 11 Sep 2026 16:54:35 GMT"
         },
         {
           "title": "The Guardian view on controlling AI: humanity cannot outsource its survival | Editorial",
@@ -477,16 +513,6 @@
           "title": "Self-driving cars should be taxed to offset job losses, thinktank urges",
           "link": "https://www.theguardian.com/technology/2026/sep/11/self-driving-cars-should-be-taxed-to-offset-job-losses-thinktank-urges",
           "date": "Fri, 11 Sep 2026 16:31:07 GMT"
-        },
-        {
-          "title": "Digested week: royal hairlines \u2013 Prince George\u2019s hair has such brio as he starts at Eton | Emma Brockes",
-          "link": "https://www.theguardian.com/uk-news/2026/sep/11/digested-week-prince-george-hair-eton",
-          "date": "Fri, 11 Sep 2026 12:35:21 GMT"
-        },
-        {
-          "title": "Tech whistleblowers warn AI could wipe out humanity. Doomspeak or not, we must take these claims seriously | Gaby Hinsliff",
-          "link": "https://www.theguardian.com/commentisfree/2026/sep/11/risky-ai-research-pause-humanity",
-          "date": "Fri, 11 Sep 2026 10:00:01 GMT"
         }
       ],
       "error": null
@@ -528,6 +554,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Top Chinese Court Issues Sweeping Legal Crackdown on AI Deepfakes",
+          "link": "https://futurism.com/artificial-intelligence/chinese-supreme-peoples-court-legal-guidance-ai-deepfakes",
+          "date": "Fri, 11 Sep 2026 14:54:31 -0400"
+        },
+        {
+          "title": "Meta Releases Uber-Creepy AI Chatbot as Its Platforms Crumble Under Grotesque Child Abuse",
+          "link": "https://futurism.com/artificial-intelligence/meta-creepy-ai-chatbot-muse",
+          "date": "Fri, 11 Sep 2026 13:09:46 -0400"
+        },
+        {
           "title": "Anthropic Just Revealed That It\u2019s Stopped Foreign Agents From Using Claude to Develop Possible Bioweapons",
           "link": "https://futurism.com/artificial-intelligence/anthropic-stopped-bioweapons",
           "date": "Fri, 11 Sep 2026 08:36:46 -0400"
@@ -541,16 +577,6 @@
           "title": "CNN Just Ran One of the Worst AI Puff Pieces We\u2019ve Ever Seen in Our Lives About That \u201cAI Actor\u201d Tilly Norwood",
           "link": "https://futurism.com/artificial-intelligence/cnn-puff-piece-ai-actor",
           "date": "Thu, 10 Sep 2026 12:47:54 -0400"
-        },
-        {
-          "title": "Anthropic Is Building a Huge Surveillance System to Spy on Anti-AI Activists and Predict Their Activities",
-          "link": "https://futurism.com/artificial-intelligence/anthropic-surveillance-predictive-system-spy-ai-activists",
-          "date": "Thu, 10 Sep 2026 10:43:14 -0400"
-        },
-        {
-          "title": "Mother Horrified When Meta\u2019s AI Scours Instagram and Facebook for Invasive Information About Her Young Daughters",
-          "link": "https://futurism.com/artificial-intelligence/mother-horrified-meta-ai-family",
-          "date": "Thu, 10 Sep 2026 09:29:36 -0400"
         }
       ],
       "error": null
@@ -559,6 +585,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
+          "link": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
+          "date": "Fri, 11 Sep 2026 18:59:25 +0000"
+        },
         {
           "title": "One of AI\u2019s Fiercest Critics Says All the Doom Talk Is \u2018Meant to Distract Us\u2019",
           "link": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
@@ -578,11 +609,6 @@
           "title": "Is AI Actually Going to Kill Us All?",
           "link": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
           "date": "Thu, 10 Sep 2026 20:30:37 +0000"
-        },
-        {
-          "title": "Everything New You Can Do With Siri AI",
-          "link": "https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/",
-          "date": "Thu, 10 Sep 2026 10:30:00 +0000"
         }
       ],
       "error": null
