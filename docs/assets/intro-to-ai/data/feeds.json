@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T00:52:44.681993+00:00",
+  "generatedAt": "2026-09-12T05:22:24.582324+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -263,14 +263,14 @@
           "date": "2026-09-11T22:51:49+00:00"
         },
         {
-          "title": "[ Removed by Reddit ]",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wdhicg/removed_by_reddit/",
-          "date": "2026-09-11T14:14:45+00:00"
-        },
-        {
           "title": "Defining Terms",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wdl2j5/defining_terms/",
           "date": "2026-09-11T16:27:02+00:00"
+        },
+        {
+          "title": "Hot take: the agentic workflow is deeply wrong",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wci4ex/hot_take_the_agentic_workflow_is_deeply_wrong/",
+          "date": "2026-09-10T12:42:39+00:00"
         }
       ],
       "error": null
@@ -464,14 +464,19 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Children need interaction, not AI | Letters",
-          "link": "https://www.theguardian.com/technology/2026/sep/11/children-need-interaction-not-ai",
-          "date": "Fri, 11 Sep 2026 17:17:51 GMT"
+          "title": "Can chatbots feel \u2013 or even dream? Meet the man leading the fight for AI rights",
+          "link": "https://www.theguardian.com/technology/2026/sep/12/chatbots-feel-dream-meet-man-leading-fight-ai-artificial-intelligence-rights",
+          "date": "Sat, 12 Sep 2026 05:00:25 GMT"
         },
         {
-          "title": "AI agents OpenAI was testing uploaded malicious software to another service, say researchers",
+          "title": "Ukraine war briefing: Russian developers used AI to build \u2018kamikaze\u2019 attack drone software, Anthropic says",
+          "link": "https://www.theguardian.com/world/2026/sep/12/ukraine-war-briefing-russian-developers-used-ai-to-build-kamikaze-attack-drone-software-anthropic-says",
+          "date": "Sat, 12 Sep 2026 02:12:01 GMT"
+        },
+        {
+          "title": "AI agents being tested by OpenAI involved in cyber-attack on another service, say researchers",
           "link": "https://www.theguardian.com/technology/2026/sep/11/openai-agents-rubygems-malicious-packages",
-          "date": "Fri, 11 Sep 2026 23:56:19 GMT"
+          "date": "Sat, 12 Sep 2026 01:37:17 GMT"
         },
         {
           "title": "New Mexico lawyer fined for using AI-generated brief containing fabricated testimony",
@@ -479,14 +484,9 @@
           "date": "Fri, 11 Sep 2026 18:04:05 GMT"
         },
         {
-          "title": "UK lawmakers urge Burnham to back ban on superintelligent AI after chilling warnings",
-          "link": "https://www.theguardian.com/technology/2026/sep/11/mps-urge-andy-burnham-block-artificial-superintelligence-asi",
-          "date": "Fri, 11 Sep 2026 16:54:35 GMT"
-        },
-        {
-          "title": "The Guardian view on controlling AI: humanity cannot outsource its survival | Editorial",
-          "link": "https://www.theguardian.com/commentisfree/2026/sep/11/the-guardian-view-on-controlling-ai-humanity-cannot-outsource-its-survival",
-          "date": "Fri, 11 Sep 2026 16:34:07 GMT"
+          "title": "Children need interaction, not AI | Letters",
+          "link": "https://www.theguardian.com/technology/2026/sep/11/children-need-interaction-not-ai",
+          "date": "Fri, 11 Sep 2026 17:17:51 GMT"
         }
       ],
       "error": null
