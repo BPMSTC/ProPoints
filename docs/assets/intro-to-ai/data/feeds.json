@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T10:01:59.332382+00:00",
+  "generatedAt": "2026-09-12T13:50:37.294033+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -253,6 +253,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "Thats how people use to learn coding before AI era",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1we9a52/thats_how_people_use_to_learn_coding_before_ai_era/",
+          "date": "2026-09-12T10:42:55+00:00"
+        },
+        {
           "title": "I used OpenAI token limit reset feature through codex and I got my limit reset",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wdrs3i/i_used_openai_token_limit_reset_feature_through/",
           "date": "2026-09-11T20:28:18+00:00"
@@ -266,11 +271,6 @@
           "title": "Defining Terms",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wdl2j5/defining_terms/",
           "date": "2026-09-11T16:27:02+00:00"
-        },
-        {
-          "title": "Hot take: the agentic workflow is deeply wrong",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wci4ex/hot_take_the_agentic_workflow_is_deeply_wrong/",
-          "date": "2026-09-10T12:42:39+00:00"
         }
       ],
       "error": null
@@ -394,6 +394,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "I spent $4,000 on a robot dog from China",
+          "link": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
+          "date": "Sat, 12 Sep 2026 11:00:53 +0000"
+        },
+        {
           "title": "Some satellite companies still have an appetite for boutique launch services",
           "link": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
           "date": "Fri, 11 Sep 2026 23:34:45 +0000"
@@ -412,11 +417,6 @@
           "title": "Trump's forced coal plant extensions thrown out by judge",
           "link": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/",
           "date": "Fri, 11 Sep 2026 20:32:59 +0000"
-        },
-        {
-          "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
-          "link": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
-          "date": "Fri, 11 Sep 2026 19:34:09 +0000"
         }
       ],
       "error": null
@@ -469,6 +469,11 @@
           "date": "Sat, 12 Sep 2026 05:00:25 GMT"
         },
         {
+          "title": "Deepfakes are wrecking influencers\u2019 credibility, one fake ad at a time",
+          "link": "https://www.theguardian.com/technology/2026/sep/12/deepfakes-wrecking-influencers-credibility",
+          "date": "Sat, 12 Sep 2026 12:00:34 GMT"
+        },
+        {
           "title": "Steve Jones on the pros and cons of AI datacentres \u2013 cartoon",
           "link": "https://www.theguardian.com/commentisfree/picture/2026/sep/12/steve-jones-pros-cons-ai-datacentres-cartoon",
           "date": "Sat, 12 Sep 2026 10:00:31 GMT"
@@ -482,11 +487,6 @@
           "title": "AI may be denting computer science graduates\u2019 job prospects, UK data shows",
           "link": "https://www.theguardian.com/education/2026/sep/12/ai-computer-science-graduates-job-prospects-uk-data",
           "date": "Sat, 12 Sep 2026 07:00:30 GMT"
-        },
-        {
-          "title": "Ukraine war briefing: Russian developers used AI to build \u2018kamikaze\u2019 attack drone software, Anthropic says",
-          "link": "https://www.theguardian.com/world/2026/sep/12/ukraine-war-briefing-russian-developers-used-ai-to-build-kamikaze-attack-drone-software-anthropic-says",
-          "date": "Sat, 12 Sep 2026 02:12:01 GMT"
         }
       ],
       "error": null
@@ -528,6 +528,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Werner Herzog Demolishes Talentless Hacks Who Use AI to Imitate Other Filmmakers",
+          "link": "https://futurism.com/artificial-intelligence/werner-herzog-demolishes-talentless-hacks-who-use-ai-to-imitate-other-filmmakers",
+          "date": "Sat, 12 Sep 2026 08:01:00 -0400"
+        },
+        {
+          "title": "Support for Unions Is Spiking as AI Threatens Jobs",
+          "link": "https://futurism.com/artificial-intelligence/labor-union-support-gallup-ai-automation",
+          "date": "Sat, 12 Sep 2026 06:03:00 -0400"
+        },
+        {
           "title": "Top Chinese Court Issues Sweeping Legal Crackdown on AI Deepfakes",
           "link": "https://futurism.com/artificial-intelligence/chinese-supreme-peoples-court-legal-guidance-ai-deepfakes",
           "date": "Fri, 11 Sep 2026 14:54:31 -0400"
@@ -541,16 +551,6 @@
           "title": "Anthropic Just Revealed That It\u2019s Stopped Foreign Agents From Using Claude to Develop Possible Bioweapons",
           "link": "https://futurism.com/artificial-intelligence/anthropic-stopped-bioweapons",
           "date": "Fri, 11 Sep 2026 08:36:46 -0400"
-        },
-        {
-          "title": "OpenAI\u2019s Supposed Mathematical Breakthrough Devolves Into Explosive Drama as Mathematician Accuses It of Stealing His Work",
-          "link": "https://futurism.com/artificial-intelligence/drama-openai-supposed-mathematical-breakthrough",
-          "date": "Thu, 10 Sep 2026 15:40:00 -0400"
-        },
-        {
-          "title": "CNN Just Ran One of the Worst AI Puff Pieces We\u2019ve Ever Seen in Our Lives About That \u201cAI Actor\u201d Tilly Norwood",
-          "link": "https://futurism.com/artificial-intelligence/cnn-puff-piece-ai-actor",
-          "date": "Thu, 10 Sep 2026 12:47:54 -0400"
         }
       ],
       "error": null
@@ -559,6 +559,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
+          "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
+          "date": "Sat, 12 Sep 2026 10:30:00 +0000"
+        },
         {
           "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
           "link": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
@@ -578,11 +583,6 @@
           "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
           "link": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
           "date": "Thu, 10 Sep 2026 23:28:42 +0000"
-        },
-        {
-          "title": "Is AI Actually Going to Kill Us All?",
-          "link": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
-          "date": "Thu, 10 Sep 2026 20:30:37 +0000"
         }
       ],
       "error": null
