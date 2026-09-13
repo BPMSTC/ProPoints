@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T17:13:41.453749+00:00",
+  "generatedAt": "2026-09-13T20:16:23.580720+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "What\u2019s behind the AI industry\u2019s latest warnings of doom?",
+          "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+          "date": "Sun, 13 Sep 2026 19:40:15 +0000"
+        },
+        {
           "title": "Obama urges Democrats to have a \u2018clear plan\u2019 for AI safeguards",
           "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
           "date": "Sun, 13 Sep 2026 16:30:00 +0000"
@@ -126,11 +131,6 @@
           "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
           "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
           "date": "Fri, 11 Sep 2026 22:58:17 +0000"
-        },
-        {
-          "title": "Y Combinator\u2019s Garry Tan wants US open-weight AI labs to \u2018distill\u2019 frontier models, too",
-          "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-          "date": "Fri, 11 Sep 2026 20:59:47 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -469,6 +469,11 @@
           "date": "Sun, 13 Sep 2026 16:54:58 GMT"
         },
         {
+          "title": "US schools and police warn about viral \u2018Cat in the Hat\u2019 trend after teens\u2019 arrests",
+          "link": "https://www.theguardian.com/us-news/2026/sep/13/cat-in-the-hat-social-media-trend-arrests-school-warnings",
+          "date": "Sun, 13 Sep 2026 19:15:57 GMT"
+        },
+        {
           "title": "Obama reportedly urges Democrats to prioritize safety plan for AI",
           "link": "https://www.theguardian.com/us-news/2026/sep/13/obama-democrats-ai-safety",
           "date": "Sun, 13 Sep 2026 15:47:37 GMT"
@@ -482,11 +487,6 @@
           "title": "OpenAI boss and Elon Musk back calls to put brakes on \u2018reckless\u2019 AI development",
           "link": "https://www.theguardian.com/technology/2026/sep/13/openai-sam-altman-elon-musk-back-anthropic-calls-brakes-ai-development",
           "date": "Sun, 13 Sep 2026 14:02:24 GMT"
-        },
-        {
-          "title": "AI will transform capitalism \u2013 but how?",
-          "link": "https://www.theguardian.com/technology/2026/sep/13/ai-will-transform-capitalism-but-how",
-          "date": "Sun, 13 Sep 2026 11:00:02 GMT"
         }
       ],
       "error": null
