@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T03:05:08.658450+00:00",
+  "generatedAt": "2026-09-13T08:49:09.949705+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI | TechCrunch",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -469,6 +469,11 @@
           "date": "Sat, 12 Sep 2026 15:46:01 GMT"
         },
         {
+          "title": "Live episode: how AI is reshaping our minds \u2013 podcast",
+          "link": "https://www.theguardian.com/science/audio/2026/sep/13/live-episode-how-ai-is-reshaping-our-minds-podcast",
+          "date": "Sun, 13 Sep 2026 04:00:53 GMT"
+        },
+        {
           "title": "OpenAI IPO will not happen in 2026 amid AI safety fears, Sam Altman says",
           "link": "https://www.theguardian.com/us-news/2026/sep/12/openai-delays-ipo-sam-altman-ai-safety-concerns",
           "date": "Sat, 12 Sep 2026 23:00:37 GMT"
@@ -482,11 +487,6 @@
           "title": "Black Box: The Chatbots | 14 days | Ep 2 \u2013 podcast",
           "link": "https://www.theguardian.com/australia-news/audio/2026/sep/13/black-box-the-chatbots-14-days-ep-2-podcast",
           "date": "Sat, 12 Sep 2026 20:00:44 GMT"
-        },
-        {
-          "title": "Deepfakes are wrecking influencers\u2019 credibility, one fake ad at a time",
-          "link": "https://www.theguardian.com/technology/2026/sep/12/deepfakes-wrecking-influencers-credibility",
-          "date": "Sat, 12 Sep 2026 12:00:34 GMT"
         }
       ],
       "error": null
