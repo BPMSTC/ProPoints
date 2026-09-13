@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T23:42:19.974114+00:00",
+  "generatedAt": "2026-09-13T03:05:08.658450+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI | TechCrunch",
@@ -258,14 +258,14 @@
           "date": "2026-09-12T17:42:08+00:00"
         },
         {
-          "title": "Anyone else hate ai chats?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wemxg2/anyone_else_hate_ai_chats/",
-          "date": "2026-09-12T20:12:47+00:00"
-        },
-        {
           "title": "I feel like a Meat API btw Code and AI - and now I feel terrible as a developer.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1weirqg/i_feel_like_a_meat_api_btw_code_and_ai_and_now_i/",
           "date": "2026-09-12T17:34:26+00:00"
+        },
+        {
+          "title": "Anyone else hate ai chats?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wemxg2/anyone_else_hate_ai_chats/",
+          "date": "2026-09-12T20:12:47+00:00"
         },
         {
           "title": "Phrase needed!!! The akward feeling when getting credit from something AI did. \"Vibe coding guilt?\"",
