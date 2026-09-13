@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T20:16:23.580720+00:00",
+  "generatedAt": "2026-09-13T22:50:53.718646+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -253,6 +253,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "eBook to PDF converter that works on Elsevier Vital Source Book Shelf?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wfkxok/ebook_to_pdf_converter_that_works_on_elsevier/",
+          "date": "2026-09-13T21:55:00+00:00"
+        },
+        {
           "title": "How are people building so fast?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1weizfn/how_are_people_building_so_fast/",
           "date": "2026-09-12T17:42:08+00:00"
@@ -266,11 +271,6 @@
           "title": "Anyone else hate ai chats?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wemxg2/anyone_else_hate_ai_chats/",
           "date": "2026-09-12T20:12:47+00:00"
-        },
-        {
-          "title": "Phrase needed!!! The akward feeling when getting credit from something AI did. \"Vibe coding guilt?\"",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wemq6n/phrase_needed_the_akward_feeling_when_getting/",
-          "date": "2026-09-12T20:04:57+00:00"
         }
       ],
       "error": null
@@ -432,6 +432,16 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Data centres in Australia: your questions answered",
+          "link": "https://theconversation.com/data-centres-in-australia-your-questions-answered-290841",
+          "date": "2026-09-13T20:10:56Z"
+        },
+        {
+          "title": "Data centres have existed for decades. So why are they so controversial now?",
+          "link": "https://theconversation.com/data-centres-have-existed-for-decades-so-why-are-they-so-controversial-now-290253",
+          "date": "2026-09-13T20:10:44Z"
+        },
+        {
           "title": "Could AI really kill off humanity within the decade? Expert Q&A",
           "link": "https://theconversation.com/could-ai-really-kill-off-humanity-within-the-decade-expert-qanda-291725",
           "date": "2026-09-11T11:19:23Z"
@@ -445,16 +455,6 @@
           "title": "Learning without a brain \u2013 how bacteria store memories and remember the past like artificial neural networks",
           "link": "https://theconversation.com/learning-without-a-brain-how-bacteria-store-memories-and-remember-the-past-like-artificial-neural-networks-288782",
           "date": "2026-09-10T12:44:34Z"
-        },
-        {
-          "title": "The next frontier is not artificial intelligence, it\u2019s artificial societies",
-          "link": "https://theconversation.com/the-next-frontier-is-not-artificial-intelligence-its-artificial-societies-291586",
-          "date": "2026-09-10T12:29:58Z"
-        },
-        {
-          "title": "OpenAI claims another huge mathematical result amid fights over credit, ethics and privacy",
-          "link": "https://theconversation.com/openai-claims-another-huge-mathematical-result-amid-fights-over-credit-ethics-and-privacy-291575",
-          "date": "2026-09-10T02:07:46Z"
         }
       ],
       "error": null
