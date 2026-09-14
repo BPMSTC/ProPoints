@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T05:45:07.751503+00:00",
+  "generatedAt": "2026-09-14T11:43:23.585522+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -253,6 +253,16 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "How to configure Google AI product(s) as mathematics tutor/teacher",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wfzre3/how_to_configure_google_ai_products_as/",
+          "date": "2026-09-14T10:35:00+00:00"
+        },
+        {
+          "title": "Android App",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wfz067/android_app/",
+          "date": "2026-09-14T09:52:15+00:00"
+        },
+        {
           "title": "eBook to PDF converter that works on Elsevier Vital Source Book Shelf?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wfkxok/ebook_to_pdf_converter_that_works_on_elsevier/",
           "date": "2026-09-13T21:55:00+00:00"
@@ -261,16 +271,6 @@
           "title": "How are people building so fast?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1weizfn/how_are_people_building_so_fast/",
           "date": "2026-09-12T17:42:08+00:00"
-        },
-        {
-          "title": "I feel like a Meat API btw Code and AI - and now I feel terrible as a developer.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1weirqg/i_feel_like_a_meat_api_btw_code_and_ai_and_now_i/",
-          "date": "2026-09-12T17:34:26+00:00"
-        },
-        {
-          "title": "Anyone else hate ai chats?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wemxg2/anyone_else_hate_ai_chats/",
-          "date": "2026-09-12T20:12:47+00:00"
         }
       ],
       "error": null
@@ -312,6 +312,11 @@
       "url": "https://www.normaltech.ai/feed",
       "items": [
         {
+          "title": "The AI-as-Normal-Technology view of loss-of-control incidents",
+          "link": "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
+          "date": "Mon, 14 Sep 2026 10:30:14 GMT"
+        },
+        {
           "title": "AI agents can't yet do open-ended AI research",
           "link": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
           "date": "Wed, 05 Aug 2026 13:49:19 GMT"
@@ -330,11 +335,6 @@
           "title": "Why AI hasn\u2019t replaced software engineers, and won\u2019t",
           "link": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
           "date": "Thu, 11 Jun 2026 02:29:51 GMT"
-        },
-        {
-          "title": "Did Google\u2019s AI agents really build an operating system for $916?",
-          "link": "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
-          "date": "Fri, 22 May 2026 22:24:18 GMT"
         }
       ],
       "error": null
@@ -362,6 +362,11 @@
       "url": "https://huggingface.co/blog/feed.xml",
       "items": [
         {
+          "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+          "link": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+          "date": "Thu, 10 Sep 2026 00:00:00 GMT"
+        },
+        {
           "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
           "link": "https://huggingface.co/blog/gradio-workflow-1111",
           "date": "Thu, 10 Sep 2026 00:00:00 GMT"
@@ -380,11 +385,6 @@
           "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
           "link": "https://huggingface.co/blog/Hcompany/neomme",
           "date": "Thu, 03 Sep 2026 13:13:48 GMT"
-        },
-        {
-          "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-          "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-          "date": "Thu, 03 Sep 2026 00:00:00 GMT"
         }
       ],
       "error": null
@@ -432,6 +432,16 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Who should own the knowledge that underpins AI technology?",
+          "link": "https://theconversation.com/who-should-own-the-knowledge-that-underpins-ai-technology-291503",
+          "date": "2026-09-14T09:30:04Z"
+        },
+        {
+          "title": "Big AI wants to slow down AI research. Is it a safety pause or a strategic retreat?",
+          "link": "https://theconversation.com/big-ai-wants-to-slow-down-ai-research-is-it-a-safety-pause-or-a-strategic-retreat-291867",
+          "date": "2026-09-14T05:49:11Z"
+        },
+        {
           "title": "Data centres in Australia: your questions answered",
           "link": "https://theconversation.com/data-centres-in-australia-your-questions-answered-290841",
           "date": "2026-09-13T20:10:56Z"
@@ -445,16 +455,6 @@
           "title": "Could AI really kill off humanity within the decade? Expert Q&A",
           "link": "https://theconversation.com/could-ai-really-kill-off-humanity-within-the-decade-expert-qanda-291725",
           "date": "2026-09-11T11:19:23Z"
-        },
-        {
-          "title": "\u2018We really do earnestly believe AI could kill all humans\u2019: if AI labs are so worried about AI doom, why don\u2019t they stop?",
-          "link": "https://theconversation.com/we-really-do-earnestly-believe-ai-could-kill-all-humans-if-ai-labs-are-so-worried-about-ai-doom-why-dont-they-stop-291595",
-          "date": "2026-09-11T04:13:03Z"
-        },
-        {
-          "title": "Learning without a brain \u2013 how bacteria store memories and remember the past like artificial neural networks",
-          "link": "https://theconversation.com/learning-without-a-brain-how-bacteria-store-memories-and-remember-the-past-like-artificial-neural-networks-288782",
-          "date": "2026-09-10T12:44:34Z"
         }
       ],
       "error": null
@@ -464,29 +464,29 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "UK MPs and Lords call for new laws to tackle AI threat to human rights",
+          "link": "https://www.theguardian.com/technology/2026/sep/14/ai-regulation-anthropic-uk-human-rights-committee-mps-lords",
+          "date": "Mon, 14 Sep 2026 11:07:24 GMT"
+        },
+        {
+          "title": "European tech stocks hit six-week low as calls for AI slowdown worry investors \u2013 business live",
+          "link": "https://www.theguardian.com/business/live/2026/sep/14/ai-stocks-fall-development-slowdown-anthropic-openai-investors-latest-news-updates",
+          "date": "Mon, 14 Sep 2026 11:23:59 GMT"
+        },
+        {
+          "title": "AI-linked stocks fall after tech bosses call for slowdown in \u2018reckless\u2019 development",
+          "link": "https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai",
+          "date": "Mon, 14 Sep 2026 07:32:15 GMT"
+        },
+        {
+          "title": "\u2018Tidal wave\u2019 of Pfas being launched to satisfy AI industry, campaigners warn",
+          "link": "https://www.theguardian.com/environment/2026/sep/14/pfas-firms-tidal-wave-forever-chemicals-ai-industry-demand-datacentres",
+          "date": "Mon, 14 Sep 2026 06:00:26 GMT"
+        },
+        {
           "title": "AI CEOs say they need to slow the pace of development. But will they?",
           "link": "https://www.theguardian.com/technology/2026/sep/14/ai-ceo-safety-slowdown",
           "date": "Mon, 14 Sep 2026 05:00:26 GMT"
-        },
-        {
-          "title": "Can you futureproof your career by choosing an AI-resistant degree?",
-          "link": "https://www.theguardian.com/education/2026/sep/14/futureproof-your-career-by-choosing-an-ai-resistant-degree",
-          "date": "Mon, 14 Sep 2026 05:00:26 GMT"
-        },
-        {
-          "title": "Jack Thorne warns some fellow scriptwriters are using AI \u2018to cheat\u2019",
-          "link": "https://www.theguardian.com/stage/2026/sep/14/jack-thorne-scriptwriters-ai-artificial-intelligence",
-          "date": "Mon, 14 Sep 2026 05:00:26 GMT"
-        },
-        {
-          "title": "We greet the news that AI could extinguish us with a glazed indifference. What is the way out of this nihilism? | Brigid Delaney",
-          "link": "https://www.theguardian.com/commentisfree/2026/sep/14/we-greet-the-news-that-ai-could-extinguish-us-with-a-glazed-indifference-what-is-the-way-out-of-this-nihilism",
-          "date": "Mon, 14 Sep 2026 03:49:46 GMT"
-        },
-        {
-          "title": "AI isn\u2019t going to end humanity ... right? \u2013 podcast",
-          "link": "https://www.theguardian.com/news/audio/2026/sep/14/ai-isnt-going-to-end-humanity-right-podcast",
-          "date": "Mon, 14 Sep 2026 02:00:19 GMT"
         }
       ],
       "error": null
@@ -560,6 +560,21 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "AI Leaders Are Calling for a Slowdown. Trump\u2019s Team Says It\u2019s on Them",
+          "link": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
+          "date": "Mon, 14 Sep 2026 11:00:00 +0000"
+        },
+        {
+          "title": "Sexually Explicit Deepfake Sites Target 100-Plus Politicians in Europe",
+          "link": "https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/",
+          "date": "Mon, 14 Sep 2026 11:00:00 +0000"
+        },
+        {
+          "title": "\u2018I Like My Big Rat Wife\u2019: Meet the People Using Chatbots to Write Custom Fiction",
+          "link": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
+          "date": "Mon, 14 Sep 2026 09:00:00 +0000"
+        },
+        {
           "title": "AI Agents Are Thirsty for Power",
           "link": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
           "date": "Sun, 13 Sep 2026 10:00:00 +0000"
@@ -568,21 +583,6 @@
           "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
           "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
           "date": "Sat, 12 Sep 2026 10:30:00 +0000"
-        },
-        {
-          "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
-          "link": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
-          "date": "Fri, 11 Sep 2026 18:59:25 +0000"
-        },
-        {
-          "title": "One of AI\u2019s Fiercest Critics Says All the Doom Talk Is \u2018Meant to Distract Us\u2019",
-          "link": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
-          "date": "Fri, 11 Sep 2026 15:00:00 +0000"
-        },
-        {
-          "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
-          "link": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
-          "date": "Fri, 11 Sep 2026 09:00:00 +0000"
         }
       ],
       "error": null
