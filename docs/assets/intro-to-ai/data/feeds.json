@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T00:41:08.131216+00:00",
+  "generatedAt": "2026-09-14T05:45:07.751503+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -280,6 +280,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Sam Altman and Elon Musk back Dario Amodei\u2019s call to slow down the frontier of AI development",
+          "link": "https://siliconangle.com/2026/09/13/sam-altman-and-elon-musk-back-dario-amodeis-call-to-slow-down-the-frontier-of-ai-development/",
+          "date": "Mon, 14 Sep 2026 01:37:49 +0000"
+        },
+        {
           "title": "Supio\u2019s long-horizon agents point to a new operating model for law firms",
           "link": "https://siliconangle.com/2026/09/13/supios-long-horizon-agents-point-to-a-new-operating-model-for-law-firms/",
           "date": "Sun, 13 Sep 2026 16:50:01 +0000"
@@ -298,11 +303,6 @@
           "title": "Why Cisco is turning contact centers into context centers",
           "link": "https://siliconangle.com/2026/09/11/context-center-cisco-webex-contactcentersummit/",
           "date": "Fri, 11 Sep 2026 20:18:13 +0000"
-        },
-        {
-          "title": "Five9 builds Humantic contact centers instead of full automation",
-          "link": "https://siliconangle.com/2026/09/11/humantic-five9-contactcentersummit/",
-          "date": "Fri, 11 Sep 2026 19:14:09 +0000"
         }
       ],
       "error": null
@@ -464,29 +464,29 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "\u2018Too little, too late\u2019: critics perplexed and suspicious of AI leaders\u2019 call for a slowdown",
-          "link": "https://www.theguardian.com/technology/2026/sep/13/too-little-too-late-critics-perplexed-and-suspicious-of-ai-leaders-call-for-a-slowdown",
-          "date": "Sun, 13 Sep 2026 16:54:58 GMT"
+          "title": "AI CEOs say they need to slow the pace of development. But will they?",
+          "link": "https://www.theguardian.com/technology/2026/sep/14/ai-ceo-safety-slowdown",
+          "date": "Mon, 14 Sep 2026 05:00:26 GMT"
         },
         {
-          "title": "US schools and police warn about viral \u2018Cat in the Hat\u2019 trend after teens\u2019 arrests",
-          "link": "https://www.theguardian.com/us-news/2026/sep/13/cat-in-the-hat-social-media-trend-arrests-school-warnings",
-          "date": "Sun, 13 Sep 2026 19:15:57 GMT"
+          "title": "Can you futureproof your career by choosing an AI-resistant degree?",
+          "link": "https://www.theguardian.com/education/2026/sep/14/futureproof-your-career-by-choosing-an-ai-resistant-degree",
+          "date": "Mon, 14 Sep 2026 05:00:26 GMT"
         },
         {
-          "title": "Obama reportedly urges Democrats to prioritize safety plan for AI",
-          "link": "https://www.theguardian.com/us-news/2026/sep/13/obama-democrats-ai-safety",
-          "date": "Sun, 13 Sep 2026 15:47:37 GMT"
+          "title": "Jack Thorne warns some fellow scriptwriters are using AI \u2018to cheat\u2019",
+          "link": "https://www.theguardian.com/stage/2026/sep/14/jack-thorne-scriptwriters-ai-artificial-intelligence",
+          "date": "Mon, 14 Sep 2026 05:00:26 GMT"
         },
         {
-          "title": "Chatbots can exploit our most basic human drive for attachment. Here\u2019s how to have healthier relationship with AI | Gaynor Parkin and Dave Winsborough",
-          "link": "https://www.theguardian.com/commentisfree/2026/sep/14/how-to-have-healthier-relationship-with-ai-chatbots-human-intimacy",
-          "date": "Sun, 13 Sep 2026 15:00:09 GMT"
+          "title": "We greet the news that AI could extinguish us with a glazed indifference. What is the way out of this nihilism? | Brigid Delaney",
+          "link": "https://www.theguardian.com/commentisfree/2026/sep/14/we-greet-the-news-that-ai-could-extinguish-us-with-a-glazed-indifference-what-is-the-way-out-of-this-nihilism",
+          "date": "Mon, 14 Sep 2026 03:49:46 GMT"
         },
         {
-          "title": "OpenAI boss and Elon Musk back calls to put brakes on \u2018reckless\u2019 AI development",
-          "link": "https://www.theguardian.com/technology/2026/sep/13/openai-sam-altman-elon-musk-back-anthropic-calls-brakes-ai-development",
-          "date": "Sun, 13 Sep 2026 14:02:24 GMT"
+          "title": "AI isn\u2019t going to end humanity ... right? \u2013 podcast",
+          "link": "https://www.theguardian.com/news/audio/2026/sep/14/ai-isnt-going-to-end-humanity-right-podcast",
+          "date": "Mon, 14 Sep 2026 02:00:19 GMT"
         }
       ],
       "error": null
