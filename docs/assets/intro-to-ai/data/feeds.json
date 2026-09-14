@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T22:50:53.718646+00:00",
+  "generatedAt": "2026-09-14T00:41:08.131216+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -394,6 +394,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Unvaccinated Pennsylvania woman died of measles complications, coroner says",
+          "link": "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/",
+          "date": "Sun, 13 Sep 2026 21:56:52 +0000"
+        },
+        {
           "title": "I fixed a tractor using John Deere\u2019s self-repair service. Farmers aren\u2019t sold on it.",
           "link": "https://arstechnica.com/gadgets/2026/09/i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold-on-it/",
           "date": "Sun, 13 Sep 2026 11:00:41 +0000"
@@ -412,11 +417,6 @@
           "title": "Random rewards enrich classic game-theory insights",
           "link": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
           "date": "Fri, 11 Sep 2026 21:41:16 +0000"
-        },
-        {
-          "title": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
-          "link": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/",
-          "date": "Fri, 11 Sep 2026 21:14:26 +0000"
         }
       ],
       "error": null
