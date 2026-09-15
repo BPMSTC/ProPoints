@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T05:46:13.776757+00:00",
+  "generatedAt": "2026-09-15T11:00:18.208948+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -216,16 +216,6 @@
       "url": "https://ainowinstitute.org/category/news/feed",
       "items": [
         {
-          "title": "\u2018Silent Cold War\u2019: Why calls to slow AI have sparked new US\u2013China frontier",
-          "link": "https://ainowinstitute.org/news/press/silent-cold-war-why-calls-to-slow-ai-have-sparked-new-us-china-frontier",
-          "date": "Mon, 14 Sep 2026 19:24:53 +0000"
-        },
-        {
-          "title": "AI Governance Reaches Crisis Point Ahead of Trump-Xi Summit",
-          "link": "https://ainowinstitute.org/news/press/ai-governance-reaches-crisis-point-ahead-of-trump-xi-summit",
-          "date": "Sun, 13 Sep 2026 19:25:11 +0000"
-        },
-        {
           "title": "Life Under the Algorithm",
           "link": "https://ainowinstitute.org/news/press/life-under-the-algorithm",
           "date": "Tue, 08 Sep 2026 18:26:27 +0000"
@@ -239,6 +229,16 @@
           "title": "What Really Happened When OpenAI Bots Escaped a Cybersecurity Test?",
           "link": "https://ainowinstitute.org/news/press/what-really-happened-when-openai-bots-escaped-a-cybersecurity-test",
           "date": "Thu, 03 Sep 2026 22:24:00 +0000"
+        },
+        {
+          "title": "After OpenAI\u2019s Bots Went Rogue, Watchdogs Were Kept on a Short Leash",
+          "link": "https://ainowinstitute.org/news/press/after-openais-bots-went-rogue-watchdogs-were-kept-on-a-short-leash",
+          "date": "Thu, 03 Sep 2026 17:49:09 +0000"
+        },
+        {
+          "title": "Why Human Control Isn\u2019t Enough in Military AI with Heidy Khlaaf",
+          "link": "https://ainowinstitute.org/news/press/why-human-control-isnt-enough-in-military-ai-with-heidy-khlaaf",
+          "date": "Wed, 02 Sep 2026 15:56:12 +0000"
         }
       ],
       "error": null
@@ -258,6 +258,11 @@
           "date": "2026-09-14T23:11:21+00:00"
         },
         {
+          "title": "We built \"AbdoCode\": A local AI coding agent where the model proposes, but the core decides. What do you think?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wgu82i/we_built_abdocode_a_local_ai_coding_agent_where/",
+          "date": "2026-09-15T08:13:00+00:00"
+        },
+        {
           "title": "I built Leanlet \u2014 because not every AI feature needs an API call",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wg19gg/i_built_leanlet_because_not_every_ai_feature/",
           "date": "2026-09-14T11:52:34+00:00"
@@ -266,11 +271,6 @@
           "title": "Guys help me i want good seminar topics for ai ml from 2024-5",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wg5uum/guys_help_me_i_want_good_seminar_topics_for_ai_ml/",
           "date": "2026-09-14T15:01:39+00:00"
-        },
-        {
-          "title": "How to configure Google AI product(s) as mathematics tutor/teacher",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wfzre3/how_to_configure_google_ai_products_as/",
-          "date": "2026-09-14T10:35:00+00:00"
         }
       ],
       "error": null
@@ -394,6 +394,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh",
+          "link": "https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/",
+          "date": "Tue, 15 Sep 2026 07:00:30 +0000"
+        },
+        {
           "title": "For the first time, the US military confirms it has deployed weapons in orbit",
           "link": "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/",
           "date": "Tue, 15 Sep 2026 03:47:36 +0000"
@@ -412,11 +417,6 @@
           "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
           "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
           "date": "Mon, 14 Sep 2026 21:04:32 +0000"
-        },
-        {
-          "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-          "link": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
-          "date": "Mon, 14 Sep 2026 19:45:13 +0000"
         }
       ],
       "error": null
@@ -464,29 +464,29 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "AI isn\u2019t going to end humanity ... right? - podcast",
-          "link": "https://www.theguardian.com/technology/audio/2026/sep/15/ai-isnt-going-to-end-humanity-right-full-story-podcast",
-          "date": "Tue, 15 Sep 2026 04:00:25 GMT"
+          "title": "Louise Haigh: UK must heed warnings from AI experts",
+          "link": "https://www.theguardian.com/technology/2026/sep/15/uk-must-heed-warnings-from-ai-experts-minister-louise-haigh",
+          "date": "Tue, 15 Sep 2026 09:33:17 GMT"
         },
         {
-          "title": "Voting rights advocates welcome supreme court decision to stop Trump administration from restricting mail ballots\u2013 as it happened",
-          "link": "https://www.theguardian.com/us-news/live/2026/sep/14/donald-trump-mail-in-voting-supreme-court-blocked-ukraine-oil-diplomat-latest-news-updates",
-          "date": "Tue, 15 Sep 2026 01:59:45 GMT"
+          "title": "TUC warns of danger of \u2018out of control political spending\u2019 but stops short of backing caps on donations \u2013  UK politics live",
+          "link": "https://www.theguardian.com/politics/live/2026/sep/15/nigel-farage-reform-labour-party-funding-donations-unions-funding-72m-christopher-harborne-ai-louise-haigh-tuc-andy-burnham-uk-politics-latest-news-updates",
+          "date": "Tue, 15 Sep 2026 10:55:43 GMT"
         },
         {
-          "title": "Texas governor threatens to penalize datacenters not obeying water laws",
-          "link": "https://www.theguardian.com/us-news/2026/sep/14/greg-abbott-texas-datacenter-water-laws",
-          "date": "Mon, 14 Sep 2026 22:57:15 GMT"
+          "title": "Democrats say supreme court rejection of Trump mail ballot restrictions will ensure \u2018safe, secure and accurate elections\u2019 \u2013 US politics live",
+          "link": "https://www.theguardian.com/us-news/live/2026/sep/15/supreme-court-mail-ballot-restrictions-midterm-elections-trump-ai-politics-latest-news-updates",
+          "date": "Tue, 15 Sep 2026 10:41:39 GMT"
         },
         {
-          "title": "AI-linked stocks slide after tech bosses call for slowdown in \u2018reckless\u2019 development",
-          "link": "https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai",
-          "date": "Mon, 14 Sep 2026 22:10:52 GMT"
+          "title": "They fought against datacenters. Now they are running for local offices",
+          "link": "https://www.theguardian.com/us-news/2026/sep/15/datacenters-local-elections",
+          "date": "Tue, 15 Sep 2026 10:00:40 GMT"
         },
         {
-          "title": "China dismisses AI \u2018fearmongering\u2019 as spy chief warns of threat to Communist party rule",
-          "link": "https://www.theguardian.com/world/2026/sep/14/china-dismisses-ai-fearmongering-as-spy-chief-warns-of-threat-to-communist-party-rule",
-          "date": "Mon, 14 Sep 2026 19:04:10 GMT"
+          "title": "AI safety requires more than just slowing our pace | Stuart Russell",
+          "link": "https://www.theguardian.com/commentisfree/2026/sep/15/ai-safety-requirements",
+          "date": "Tue, 15 Sep 2026 08:00:31 GMT"
         }
       ],
       "error": null
