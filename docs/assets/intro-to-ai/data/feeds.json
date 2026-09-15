@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-09-15T19:30:35.700563+00:00",
+  "generatedAt": "2026-09-15T22:42:07.895668+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "AI Agent Platform Reinvents Spam, Floods Inboxes Worldwide",
+          "link": "https://www.404media.co/ai-agent-platform-reinvents-spam-floods-inboxes-worldwide/",
+          "date": "Tue, 15 Sep 2026 20:08:56 GMT"
+        },
         {
           "title": "Charges Against Man Who Destroyed 3D-Printed \u2018Decoy\u2019 Flock Camera Drastically Reduced After State Admits It Was Not Very Valuable",
           "link": "https://www.404media.co/charges-against-man-who-destroyed-3d-printed-decoy-flock-camera-drastically-reduced-after-state-admits-it-was-not-very-valuable/",
@@ -24,11 +29,6 @@
           "title": "New York Seizes 12 Celebrity Deepfake Websites",
           "link": "https://www.404media.co/new-york-district-attorney-seizes-12-celebrity-deepfake-websites/",
           "date": "Mon, 14 Sep 2026 17:26:37 GMT"
-        },
-        {
-          "title": "Cops Search Thousands of Flock Cameras for Reasons of \u2018LMAO,\u2019 \u2018IDK,\u2019 \u2018Hehe,\u2019 and \u2018asdfg\u2019",
-          "link": "https://www.404media.co/cops-search-thousands-of-flock-cameras-for-reasons-of-lmao-idk-hehe-and-asdfg/",
-          "date": "Mon, 14 Sep 2026 15:51:53 GMT"
         }
       ],
       "error": null
@@ -108,6 +108,16 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "The AI data center boom is colliding with cities scarred by big industry",
+          "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+          "date": "Tue, 15 Sep 2026 21:47:38 +0000"
+        },
+        {
+          "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+          "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+          "date": "Tue, 15 Sep 2026 20:12:53 +0000"
+        },
+        {
           "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
           "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
           "date": "Tue, 15 Sep 2026 19:00:00 +0000"
@@ -121,16 +131,6 @@
           "title": "AI agents now have a place to snitch",
           "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
           "date": "Tue, 15 Sep 2026 17:42:59 +0000"
-        },
-        {
-          "title": "Meta expands subscription push with new AI-focused plans",
-          "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
-          "date": "Tue, 15 Sep 2026 17:05:24 +0000"
-        },
-        {
-          "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-          "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-          "date": "Tue, 15 Sep 2026 15:47:03 +0000"
         }
       ],
       "error": null
@@ -139,6 +139,11 @@
       "name": "AI Business",
       "url": "https://aibusiness.com/rss.xml",
       "items": [
+        {
+          "title": "Enterprises in Shaky Spot Amid Calls for an AI Slowdown",
+          "link": "https://aibusiness.com/ai-policy/enterprises-shaky-spot-amid-calls-ai-slowdown",
+          "date": "Tue, 15 Sep 2026 19:50:18 GMT"
+        },
         {
           "title": "Harnesses Bring Coordination and Guardrails to Enterprise AI Agents",
           "link": "https://aibusiness.com/agentic-ai/harnesses-bring-coordination-guardrails-enterprise-ai-agents",
@@ -158,11 +163,6 @@
           "title": "Mistral Bets Enterprise AI Will Be About Control, Not Just Intelligence",
           "link": "https://aibusiness.com/generative-ai/mistral-bets-enterprise-ai-about-control-not-just-intelligence",
           "date": "Fri, 11 Sep 2026 15:03:06 GMT"
-        },
-        {
-          "title": "The AI Safety Crunch and How Enterprises Should Deal With It",
-          "link": "https://aibusiness.com/ai-policy/the-ai-safety-crunch-how-enterprises-should-deal-with-it",
-          "date": "Thu, 10 Sep 2026 22:38:37 GMT"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -253,6 +253,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "Core Value",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1whezx7/core_value/",
+          "date": "2026-09-15T22:28:02+00:00"
+        },
+        {
           "title": "Codex in the terminal with the ide command with cursor works like a charm",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wh4x8u/codex_in_the_terminal_with_the_ide_command_with/",
           "date": "2026-09-15T16:18:33+00:00"
@@ -266,11 +271,6 @@
           "title": "How to tell the model to produce a <eos> once it finishes prediction ?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wgxonc/how_to_tell_the_model_to_produce_a_eos_once_it/",
           "date": "2026-09-15T11:26:50+00:00"
-        },
-        {
-          "title": "Best AI stack for a 24h hackathon with $30: paid API, local Ollama, or Codex?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wgjaaf/best_ai_stack_for_a_24h_hackathon_with_30_paid/",
-          "date": "2026-09-14T23:11:21+00:00"
         }
       ],
       "error": null
@@ -279,6 +279,11 @@
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
+        {
+          "title": "Profound raises $180M to boost brands\u2019 visibility in AI services",
+          "link": "https://siliconangle.com/2026/09/15/profound-raises-180m-to-boost-brands-visibility-in-ai-services/",
+          "date": "Tue, 15 Sep 2026 22:29:43 +0000"
+        },
         {
           "title": "What to expect during the \u2018Certinia at Dreamforce\u2019 event: Join theCUBE Sept. 18",
           "link": "https://siliconangle.com/2026/09/15/professional-services-ai-certinia-dreamforce-certiniaatdreamforce/",
@@ -298,11 +303,6 @@
           "title": "Salesforce debuts Koa, a specialized model built to reason about CRM data",
           "link": "https://siliconangle.com/2026/09/15/salesforce-debuts-koa-a-specialized-model-built-to-reason-over-crm-data/",
           "date": "Tue, 15 Sep 2026 12:00:33 +0000"
-        },
-        {
-          "title": "Nuance Labs bags $50M in funding to fix the awkwardness of AI avatars",
-          "link": "https://siliconangle.com/2026/09/14/nuance-labs-bags-50m-in-funding-to-fix-the-awkwardness-of-ai-avatars/",
-          "date": "Tue, 15 Sep 2026 01:56:06 +0000"
         }
       ],
       "error": null
@@ -394,6 +394,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "18-year-old dies of measles in PA from severe neurological complication",
+          "link": "https://arstechnica.com/health/2026/09/measles-kills-18-year-old-in-pa-fourth-death-as-state-outbreak-nears-700-cases/",
+          "date": "Tue, 15 Sep 2026 18:58:09 +0000"
+        },
+        {
+          "title": "SpaceX declares Starship ready for orbit, sets launch date next week",
+          "link": "https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/",
+          "date": "Tue, 15 Sep 2026 18:48:08 +0000"
+        },
+        {
+          "title": "Agility\u2019s new humanoid robot will stop, squat to avoid harming human coworkers",
+          "link": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
+          "date": "Tue, 15 Sep 2026 18:33:02 +0000"
+        },
+        {
           "title": "Boston dumps Flock, says it shared data nationwide in violation of contract",
           "link": "https://arstechnica.com/tech-policy/2026/09/boston-dumps-flock-says-it-shared-data-nationwide-in-violation-of-contract/",
           "date": "Tue, 15 Sep 2026 18:14:11 +0000"
@@ -402,21 +417,6 @@
           "title": "Demand for EV chargers is outstripping supply, says ChargePoint report",
           "link": "https://arstechnica.com/cars/2026/09/ev-charging-infrastructure-is-still-lagging-adoption-report-says/",
           "date": "Tue, 15 Sep 2026 17:58:09 +0000"
-        },
-        {
-          "title": "Trump EPA moves to wipe out climate rules for power plants",
-          "link": "https://arstechnica.com/science/2026/09/epa-seeks-to-eliminate-remaining-greenhouse-gas-rules-for-power-plants/",
-          "date": "Tue, 15 Sep 2026 13:43:51 +0000"
-        },
-        {
-          "title": "GM gives its most important trucks a new UI\u2014and includes CarPlay",
-          "link": "https://arstechnica.com/cars/2026/09/gm-gives-its-most-important-trucks-a-new-ui-and-includes-carplay/",
-          "date": "Tue, 15 Sep 2026 13:27:57 +0000"
-        },
-        {
-          "title": "This Atlantic hurricane season is about to do something that hasn't happened in 175 years",
-          "link": "https://arstechnica.com/science/2026/09/this-is-by-far-the-most-peaceful-atlantic-hurricane-season-weve-ever-seen/",
-          "date": "Tue, 15 Sep 2026 12:36:11 +0000"
         }
       ],
       "error": null
@@ -432,6 +432,16 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Russian team \u2018misused\u2019 Claude AI to train a killer drone on scraped Ukrainian war footage",
+          "link": "https://theconversation.com/russian-team-misused-claude-ai-to-train-a-killer-drone-on-scraped-ukrainian-war-footage-291965",
+          "date": "2026-09-15T21:04:31Z"
+        },
+        {
+          "title": "Australia\u2019s data centre build-out carries risks for the economy \u2013 and inflation",
+          "link": "https://theconversation.com/australias-data-centre-build-out-carries-risks-for-the-economy-and-inflation-290157",
+          "date": "2026-09-15T20:13:24Z"
+        },
+        {
           "title": "Tech leaders are calling for an \u2018AI slowdown\u2019 \u2013 but what would that mean in practice?",
           "link": "https://theconversation.com/tech-leaders-are-calling-for-an-ai-slowdown-but-what-would-that-mean-in-practice-291945",
           "date": "2026-09-15T15:05:38Z"
@@ -445,16 +455,6 @@
           "title": "Unsustainable \u2013 or manageable? We don\u2019t yet know how data centres will impact Australia\u2019s environment",
           "link": "https://theconversation.com/unsustainable-or-manageable-we-dont-yet-know-how-data-centres-will-impact-australias-environment-290423",
           "date": "2026-09-14T20:10:37Z"
-        },
-        {
-          "title": "AI has arrived in South Africa\u2019s boardrooms \u2013 but company law hasn\u2019t caught up",
-          "link": "https://theconversation.com/ai-has-arrived-in-south-africas-boardrooms-but-company-law-hasnt-caught-up-291004",
-          "date": "2026-09-14T16:49:34Z"
-        },
-        {
-          "title": "AI is supercharging money scams \u2013 here\u2019s what you can do to protect yourself",
-          "link": "https://theconversation.com/ai-is-supercharging-money-scams-heres-what-you-can-do-to-protect-yourself-291326",
-          "date": "2026-09-14T12:38:15Z"
         }
       ],
       "error": null
@@ -469,24 +469,24 @@
           "date": "Tue, 15 Sep 2026 17:54:48 GMT"
         },
         {
+          "title": "Why the real AI apocalypse is already here \u2013 Stateside with Kai and Carter",
+          "link": "https://www.theguardian.com/us-news/video/2026/sep/15/why-the-real-ai-apocalypse-is-already-here-stateside-with-kai-and-carter",
+          "date": "Tue, 15 Sep 2026 22:39:14 GMT"
+        },
+        {
           "title": "Blanche defends Trump\u2019s tirade against supreme court after it blocked mail-in voting executive order \u2013 US politics live",
           "link": "https://www.theguardian.com/us-news/live/2026/sep/15/supreme-court-mail-ballot-restrictions-midterm-elections-trump-ai-politics-latest-news-updates",
-          "date": "Tue, 15 Sep 2026 19:25:11 GMT"
+          "date": "Tue, 15 Sep 2026 22:28:55 GMT"
         },
         {
-          "title": "Bernie Sanders says Congress has been \u2018asleep at the wheel\u2019 over AI \u2013 video",
-          "link": "https://www.theguardian.com/us-news/video/2026/sep/15/bernie-sanders-congress-ai-artificial-inteligence-video",
-          "date": "Tue, 15 Sep 2026 19:11:15 GMT"
+          "title": "Anthropic\u2019s CEO calls for AI slowdown as Nvidia\u2019s urges acceleration",
+          "link": "https://www.theguardian.com/technology/2026/sep/15/anthropic-nvidia-ceos-ai",
+          "date": "Tue, 15 Sep 2026 21:05:14 GMT"
         },
         {
-          "title": "As the politicians play catchup the tech bros agree: we may only have a decade left | John Crace",
-          "link": "https://www.theguardian.com/politics/2026/sep/15/politicians-play-catchup-tech-bros-agree-decade-left-ai",
-          "date": "Tue, 15 Sep 2026 18:06:39 GMT"
-        },
-        {
-          "title": "Louise Haigh: UK must heed warnings from AI experts",
-          "link": "https://www.theguardian.com/technology/2026/sep/15/uk-must-heed-warnings-from-ai-experts-minister-louise-haigh",
-          "date": "Tue, 15 Sep 2026 17:43:37 GMT"
+          "title": "Bernie Sanders and Steve Bannon call for curbs on AI at \u2018pro-human\u2019 summit",
+          "link": "https://www.theguardian.com/us-news/2026/sep/15/bernie-sanders-steve-bannon-ai-summit",
+          "date": "Tue, 15 Sep 2026 19:51:39 GMT"
         }
       ],
       "error": null
