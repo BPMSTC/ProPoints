@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T20:55:25.340337+00:00",
+  "generatedAt": "2026-09-16T23:31:19.090193+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+          "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+          "date": "Wed, 16 Sep 2026 21:07:24 +0000"
+        },
+        {
           "title": "After accusations of selling \u2018perv glasses,\u2019 Meta prepares to sell a pair without a camera",
           "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
           "date": "Wed, 16 Sep 2026 20:12:00 +0000"
@@ -126,11 +131,6 @@
           "title": "Anthropic merges Claude chat and Cowork in one interface",
           "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
           "date": "Wed, 16 Sep 2026 16:30:00 +0000"
-        },
-        {
-          "title": "Robots are waiting for a ChatGPT moment: Nvidia\u2019s Les Karpas explains why at TechCrunch\u00a0Disrupt 2026",
-          "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
-          "date": "Wed, 16 Sep 2026 15:00:00 +0000"
         }
       ],
       "error": null
@@ -139,6 +139,11 @@
       "name": "AI Business",
       "url": "https://aibusiness.com/rss.xml",
       "items": [
+        {
+          "title": "Agility Unveils Digit 5, a Safety-Conscious Humanoid",
+          "link": "https://aibusiness.com/robotics/agility-unveils-digit-5-safety-conscious-humanoid",
+          "date": "Wed, 16 Sep 2026 20:59:34 GMT"
+        },
         {
           "title": "Zoom Launches AI-Powered Revenue OS to Compete in CRM Market",
           "link": "https://aibusiness.com/generative-ai/zoom-launches-ai-powered-revenue-os-compete-crm-market",
@@ -158,11 +163,6 @@
           "title": "Harnesses Bring Coordination and Guardrails to Enterprise AI Agents",
           "link": "https://aibusiness.com/agentic-ai/harnesses-bring-coordination-guardrails-enterprise-ai-agents",
           "date": "Mon, 14 Sep 2026 18:29:42 GMT"
-        },
-        {
-          "title": "Fully Driverless Robotaxis Now Operating in Europe",
-          "link": "https://aibusiness.com/generative-ai/fully-driverless-robotaxis-operating-in-europe",
-          "date": "Mon, 14 Sep 2026 15:06:47 GMT"
         }
       ],
       "error": null
@@ -253,14 +253,14 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
-          "title": "80k downloads first week? I did it! Now let\u2019s talk about integrating NEDB in your project !",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wi93f3/80k_downloads_first_week_i_did_it_now_lets_talk/",
-          "date": "2026-09-16T20:37:56+00:00"
-        },
-        {
           "title": "PSA for those using agents -- DSFlash 4.1 has solid agentic performance",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wi4yj1/psa_for_those_using_agents_dsflash_41_has_solid/",
           "date": "2026-09-16T18:09:20+00:00"
+        },
+        {
+          "title": "80k downloads first week? I did it! Now let\u2019s talk about integrating NEDB in your project !",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wi93f3/80k_downloads_first_week_i_did_it_now_lets_talk/",
+          "date": "2026-09-16T20:37:56+00:00"
         },
         {
           "title": "Dead Drop. A game about jailbreaking.",
@@ -280,6 +280,21 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Noetive launches with $41M to bring self-improving AI to factories and logistics",
+          "link": "https://siliconangle.com/2026/09/16/noetive-launches-with-41m-to-bring-self-improving-ai-to-factories-and-logistics/",
+          "date": "Wed, 16 Sep 2026 22:58:22 +0000"
+        },
+        {
+          "title": "Cohere and Aleph Alpha agree to merge in reported $20B deal",
+          "link": "https://siliconangle.com/2026/09/16/cohere-and-aleph-alpha-agree-to-merge-in-reported-20b-deal/",
+          "date": "Wed, 16 Sep 2026 22:57:44 +0000"
+        },
+        {
+          "title": "CADDi raises $114M at $1.2B valuation to bring manufacturing AI to North America",
+          "link": "https://siliconangle.com/2026/09/16/caddi-raises-114m-at-1-2b-valuation-to-bring-manufacturing-ai-to-north-america/",
+          "date": "Wed, 16 Sep 2026 22:36:43 +0000"
+        },
+        {
           "title": "What to expect during the \u2018Rethinking Private Cloud\u2019 event: Join theCUBE on Sept. 23",
           "link": "https://siliconangle.com/2026/09/16/private-cloud-intelligence-ai-thecube-dell-dellrethinkingprivatecloud/",
           "date": "Wed, 16 Sep 2026 19:46:47 +0000"
@@ -288,21 +303,6 @@
           "title": "Northwest Bancshares puts oversight at the center of AI spending",
           "link": "https://siliconangle.com/2026/09/16/keybank-lessons-guide-northwest-bancshares-ai-oversight-amplify/",
           "date": "Wed, 16 Sep 2026 19:39:02 +0000"
-        },
-        {
-          "title": "TypeSafe AI exits stealth with $40M to build AI for use by software",
-          "link": "https://siliconangle.com/2026/09/16/typesafe-ai-exits-stealth-with-40m-to-build-ai-for-use-by-software/",
-          "date": "Wed, 16 Sep 2026 18:32:48 +0000"
-        },
-        {
-          "title": "Workiva puts business outcomes at the center of AI-native workflows",
-          "link": "https://siliconangle.com/2026/09/16/workiva-puts-business-outcomes-at-the-center-of-ai-native-workflows-amplify/",
-          "date": "Wed, 16 Sep 2026 18:00:25 +0000"
-        },
-        {
-          "title": "Better controls clear a path for AI in finance",
-          "link": "https://siliconangle.com/2026/09/16/better-controls-clear-a-path-for-ai-in-finance-amplify/",
-          "date": "Wed, 16 Sep 2026 16:30:41 +0000"
         }
       ],
       "error": null
@@ -394,29 +394,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "It\u2019s OK to tell ICE their actions will haunt them, judge rules in speech fight",
-          "link": "https://arstechnica.com/tech-policy/2026/09/its-ok-to-tell-ice-their-actions-will-haunt-them-judge-rules-in-speech-fight/",
-          "date": "Wed, 16 Sep 2026 17:06:06 +0000"
+          "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
+          "link": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
+          "date": "Wed, 16 Sep 2026 21:08:14 +0000"
         },
         {
-          "title": "Iran strikes on Amazon data centers caused permanent loss of customer data",
-          "link": "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/",
-          "date": "Wed, 16 Sep 2026 16:40:11 +0000"
+          "title": "Lionsgate releases a new trailer for Sunrise on the Reaping",
+          "link": "https://arstechnica.com/culture/2026/09/haymitch-gets-a-backstory-in-sunrise-on-the-reaping-trailer/",
+          "date": "Wed, 16 Sep 2026 20:44:41 +0000"
         },
         {
-          "title": "What happens when neutrinos swap identities inside a supernova?",
-          "link": "https://arstechnica.com/science/2026/09/what-happens-when-neutrinos-swap-identities-inside-a-supernova/",
-          "date": "Wed, 16 Sep 2026 15:17:43 +0000"
+          "title": "Not just Proton: Getting to know Valve's new SteamOS compatibility layers",
+          "link": "https://arstechnica.com/gaming/2026/09/not-just-proton-getting-to-know-valves-new-steamos-compatibility-layers/",
+          "date": "Wed, 16 Sep 2026 20:23:16 +0000"
         },
         {
-          "title": "macOS 27 Golden Gate: The Ars Technica review",
-          "link": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
-          "date": "Wed, 16 Sep 2026 14:50:06 +0000"
+          "title": "California may gut state net neutrality law to comply with Trump admin demand",
+          "link": "https://arstechnica.com/tech-policy/2026/09/california-may-gut-state-net-neutrality-law-to-comply-with-trump-admin-demand/",
+          "date": "Wed, 16 Sep 2026 19:36:44 +0000"
         },
         {
-          "title": "The world\u2019s best racing driver is about to race 100 karts at once",
-          "link": "https://arstechnica.com/cars/2026/09/the-worlds-best-racing-driver-is-about-to-race-100-karts-at-once/",
-          "date": "Wed, 16 Sep 2026 14:19:01 +0000"
+          "title": "Researchers swap in human brain cells for a mouse's cortex",
+          "link": "https://arstechnica.com/science/2026/09/researchers-swap-in-human-brain-cells-for-a-mouses-cortex/",
+          "date": "Wed, 16 Sep 2026 19:08:34 +0000"
         }
       ],
       "error": null
@@ -484,8 +484,8 @@
           "date": "Wed, 16 Sep 2026 16:16:05 GMT"
         },
         {
-          "title": "Everything Australians put online could be scraped for AI under proposed new rules. How will you be affected?",
-          "link": "https://www.theguardian.com/australia-news/2026/sep/17/everything-australians-put-online-could-be-scraped-for-ai-under-proposed-new-rules-how-will-you-be-affected",
+          "title": "The dominance of AI is not inevitable. We can choose to change things for the better | Nick Evershed",
+          "link": "https://www.theguardian.com/commentisfree/2026/sep/17/ai-future-not-inevitable-we-can-choose-better-safety-regulation",
           "date": "Wed, 16 Sep 2026 15:00:23 GMT"
         }
       ],
@@ -560,6 +560,16 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+          "link": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
+          "date": "Wed, 16 Sep 2026 22:07:24 +0000"
+        },
+        {
+          "title": "Washington Won\u2019t Be Regulating AI Anytime Soon",
+          "link": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/",
+          "date": "Wed, 16 Sep 2026 21:00:00 +0000"
+        },
+        {
           "title": "I Trained a Fly\u2019s Brain to Generate WIRED Story Ideas",
           "link": "https://www.wired.com/story/i-trained-a-fly-on-wired-story-ideas/",
           "date": "Wed, 16 Sep 2026 19:00:00 +0000"
@@ -573,16 +583,6 @@
           "title": "AI \u2018Actor\u2019 Tilly Norwood Told Me That \u2018All Lives Matter\u2019",
           "link": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
           "date": "Tue, 15 Sep 2026 18:00:09 +0000"
-        },
-        {
-          "title": "New York Seizes a Dozen Celebrity Deepfake Websites",
-          "link": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/",
-          "date": "Mon, 14 Sep 2026 16:50:00 +0000"
-        },
-        {
-          "title": "AI Leaders Are Calling for a Slowdown. Trump\u2019s Team Says It\u2019s on Them",
-          "link": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
-          "date": "Mon, 14 Sep 2026 11:00:00 +0000"
         }
       ],
       "error": null
