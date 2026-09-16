@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-09-16T07:10:29.427711+00:00",
+  "generatedAt": "2026-09-16T13:05:07.740183+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Hackers Stole Flock\u2019s Camera Software, Revealing How the Company Tracks Cars and People",
+          "link": "https://www.404media.co/hackers-stole-flocks-camera-software-revealing-how-the-company-tracks-cars-and-people-2/",
+          "date": "Wed, 16 Sep 2026 10:30:35 GMT"
+        },
         {
           "title": "AI Agent Platform Reinvents Spam, Floods Inboxes Worldwide",
           "link": "https://www.404media.co/ai-agent-platform-reinvents-spam-floods-inboxes-worldwide/",
@@ -24,11 +29,6 @@
           "title": "There\u2019s a 100% Chance AI Agents Are Already Ruining the Internet",
           "link": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
           "date": "Tue, 15 Sep 2026 14:32:06 GMT"
-        },
-        {
-          "title": "New York Seizes 12 Celebrity Deepfake Websites",
-          "link": "https://www.404media.co/new-york-district-attorney-seizes-12-celebrity-deepfake-websites/",
-          "date": "Mon, 14 Sep 2026 17:26:37 GMT"
         }
       ],
       "error": null
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "Here's your Toronto highlights",
+          "link": "https://www.aiacceleratorinstitute.com/thanks-for-registering-7/",
+          "date": "Wed, 16 Sep 2026 09:12:15 GMT"
+        },
+        {
           "title": "Agentic AI Summit, Los Angeles 2026",
           "link": "https://www.aiacceleratorinstitute.com/agentic-ai-summit-los-angeles-2026/",
           "date": "Tue, 15 Sep 2026 14:48:12 GMT"
@@ -88,11 +93,6 @@
           "title": "7 signs your AI infrastructure is  still stuck in the HPC era",
           "link": "https://www.aiacceleratorinstitute.com/7-signs-your-ai-infrastructure-is-still-stuck-in-the-hpc-era/",
           "date": "Thu, 10 Sep 2026 13:55:01 GMT"
-        },
-        {
-          "title": "Running AI in Production: Reliable AI Workflows, Governed Access, at Scale",
-          "link": "https://www.aiacceleratorinstitute.com/running-ai-in-production-reliable-ai-workflows/",
-          "date": "Wed, 09 Sep 2026 16:08:00 GMT"
         }
       ],
       "error": null
@@ -107,6 +107,11 @@
       "name": "AI | TechCrunch",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
+        {
+          "title": "Amazon launches Alexa+ in India with Hindi support",
+          "link": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
+          "date": "Wed, 16 Sep 2026 10:34:47 +0000"
+        },
         {
           "title": "We don\u2019t need AI regulation \u2014 leave safety to us, Nvidia\u2019s Jensen Huang says",
           "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
@@ -126,11 +131,6 @@
           "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
           "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
           "date": "Tue, 15 Sep 2026 19:00:00 +0000"
-        },
-        {
-          "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-          "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-          "date": "Tue, 15 Sep 2026 18:29:20 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -253,6 +253,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "So basically, my RAG setup worked fine until I used real documents",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1whvxlf/so_basically_my_rag_setup_worked_fine_until_i/",
+          "date": "2026-09-16T12:32:41+00:00"
+        },
+        {
           "title": "Core Value",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1whezx7/core_value/",
           "date": "2026-09-15T22:28:02+00:00"
@@ -266,11 +271,6 @@
           "title": "Free AI Voice Prompt - HVAC",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wha5xh/free_ai_voice_prompt_hvac/",
           "date": "2026-09-15T19:25:00+00:00"
-        },
-        {
-          "title": "How to tell the model to produce a <eos> once it finishes prediction ?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wgxonc/how_to_tell_the_model_to_produce_a_eos_once_it/",
-          "date": "2026-09-15T11:26:50+00:00"
         }
       ],
       "error": null
@@ -464,29 +464,29 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Could AI really wipe out humanity \u2013 six experts spell out the risks",
-          "link": "https://www.theguardian.com/technology/2026/sep/15/could-ai-really-wipe-out-humanity-and-hijack-the-internet",
-          "date": "Tue, 15 Sep 2026 17:54:48 GMT"
+          "title": "Allowing AI firms to collude to \u2018pace the frontier\u2019 is a dangerous proposition",
+          "link": "https://www.theguardian.com/technology/2026/sep/16/ai-companies-collude-antitrust-laws",
+          "date": "Wed, 16 Sep 2026 11:00:18 GMT"
         },
         {
-          "title": "Decoding America: Why won't Donald Trump regulate AI? - podcast",
-          "link": "https://www.theguardian.com/australia-news/audio/2026/sep/16/why-wont-donald-trump-regulate-ai-decoding-america-podcast",
-          "date": "Wed, 16 Sep 2026 06:52:47 GMT"
+          "title": "Scotland imposes mandatory environmental assessments on new datacentres",
+          "link": "https://www.theguardian.com/uk-news/2026/sep/16/datacentres-scotland-environmental-assessments-ai-boom",
+          "date": "Wed, 16 Sep 2026 11:55:33 GMT"
         },
         {
-          "title": "I used to think AI would kill us all, until the techbro CEOs said AI will kill us all and now I\u2019m not so sure | First Dog on the Moon",
-          "link": "https://www.theguardian.com/commentisfree/picture/2026/sep/16/i-used-to-think-ai-would-kill-us-all-until-the-techbro-ceos-said-ai-will-kill-us-all-and-now-im-not-so-sure",
-          "date": "Wed, 16 Sep 2026 06:40:43 GMT"
+          "title": "Mirror publisher to cut 220 editorial jobs as readers turn to AI summaries",
+          "link": "https://www.theguardian.com/business/2026/sep/16/mirror-publisher-reach-cuts-editorial-jobs-ai-summaries-google",
+          "date": "Wed, 16 Sep 2026 11:08:33 GMT"
         },
         {
-          "title": "Wednesday briefing: Why tech companies might be only too happy for us to believe AI will \u2018kill us all\u2019",
-          "link": "https://www.theguardian.com/world/2026/sep/16/wednesday-briefing-why-tech-companies-might-be-only-too-happy-for-us-to-believe-ai-will-kill-us-all",
-          "date": "Wed, 16 Sep 2026 05:45:20 GMT"
+          "title": "\u2018If you\u2019re building Frankenstein, stop\u2019: JD Vance dismisses calls for AI regulation",
+          "link": "https://www.theguardian.com/technology/2026/sep/16/building-frankenstein-jd-vance-dismisses-ai-regulation",
+          "date": "Wed, 16 Sep 2026 10:42:07 GMT"
         },
         {
-          "title": "Anthropic to build $31bn datacentre in western Queensland, David Crisafulli says",
-          "link": "https://www.theguardian.com/technology/2026/sep/16/anthropic-lands-31bn-datacentre-deal-in-western-queensland",
-          "date": "Wed, 16 Sep 2026 05:20:00 GMT"
+          "title": "The US government is failing Americans on AI | Shakeel Hashim",
+          "link": "https://www.theguardian.com/technology/2026/sep/16/us-government-failing-americans-ai",
+          "date": "Wed, 16 Sep 2026 10:00:18 GMT"
         }
       ],
       "error": null
@@ -560,6 +560,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "China Isn\u2019t Buying Silicon Valley\u2019s Call for an AI Slowdown",
+          "link": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/",
+          "date": "Wed, 16 Sep 2026 09:30:00 +0000"
+        },
+        {
           "title": "AI \u2018Actor\u2019 Tilly Norwood Told Me That \u2018All Lives Matter\u2019",
           "link": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
           "date": "Tue, 15 Sep 2026 18:00:09 +0000"
@@ -578,11 +583,6 @@
           "title": "Sexually Explicit Deepfake Sites Target 100-Plus Politicians in Europe",
           "link": "https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/",
           "date": "Mon, 14 Sep 2026 11:00:00 +0000"
-        },
-        {
-          "title": "\u2018I Like My Big Rat Wife\u2019: Meet the People Using Chatbots to Write Custom Fiction",
-          "link": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
-          "date": "Mon, 14 Sep 2026 09:00:00 +0000"
         }
       ],
       "error": null
