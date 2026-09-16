@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T01:03:12.085493+00:00",
+  "generatedAt": "2026-09-16T07:10:29.427711+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -280,6 +280,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Governance becomes critical as AI agents move into financial reporting",
+          "link": "https://siliconangle.com/2026/09/15/workiva-bets-trust-ai-agents-enter-financial-reporting-amplify/",
+          "date": "Wed, 16 Sep 2026 01:31:04 +0000"
+        },
+        {
           "title": "Newell Brands puts internal audit at the heart of AI adoption",
           "link": "https://siliconangle.com/2026/09/15/newell-brands-puts-internal-audit-at-the-heart-of-ai-adoption-amplify/",
           "date": "Wed, 16 Sep 2026 00:57:10 +0000"
@@ -298,11 +303,6 @@
           "title": "Google\u2019s new speech model Gemini 3.8 Live supports real-time reasoning",
           "link": "https://siliconangle.com/2026/09/15/googles-new-speech-model-gemini-3-8-live-supports-real-time-reasoning/",
           "date": "Tue, 15 Sep 2026 23:41:10 +0000"
-        },
-        {
-          "title": "AI agent certification startup AIUC raises $40M to begin auditing frontier models",
-          "link": "https://siliconangle.com/2026/09/15/ai-agent-certification-startup-aiuc-raises-40m-to-begin-auditing-frontier-models/",
-          "date": "Tue, 15 Sep 2026 22:44:14 +0000"
         }
       ],
       "error": null
@@ -394,6 +394,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "How chimps teach their kids tool tricks",
+          "link": "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/",
+          "date": "Wed, 16 Sep 2026 04:00:39 +0000"
+        },
+        {
           "title": "The Roman telescope has enough gas for 22 years, double NASA's expectations",
           "link": "https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/",
           "date": "Tue, 15 Sep 2026 22:26:32 +0000"
@@ -412,11 +417,6 @@
           "title": "SpaceX declares Starship ready for orbit, sets launch date next week",
           "link": "https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/",
           "date": "Tue, 15 Sep 2026 18:48:08 +0000"
-        },
-        {
-          "title": "Agility\u2019s new humanoid robot will stop, squat to avoid harming human coworkers",
-          "link": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
-          "date": "Tue, 15 Sep 2026 18:33:02 +0000"
         }
       ],
       "error": null
@@ -431,6 +431,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Is the nuclear non-proliferation pact a model for regulating runaway AI?",
+          "link": "https://theconversation.com/is-the-nuclear-non-proliferation-pact-a-model-for-regulating-runaway-ai-292104",
+          "date": "2026-09-16T02:41:07Z"
+        },
         {
           "title": "Russian team \u2018misused\u2019 Claude AI to train a killer drone on scraped Ukrainian war footage",
           "link": "https://theconversation.com/russian-team-misused-claude-ai-to-train-a-killer-drone-on-scraped-ukrainian-war-footage-291965",
@@ -450,11 +455,6 @@
           "title": "Cyber attacks? Bioterrorism? To \u2018Pace the Frontier\u2019 of AI effectively, we must improve our anticipatory thinking",
           "link": "https://theconversation.com/cyber-attacks-bioterrorism-to-pace-the-frontier-of-ai-effectively-we-must-improve-our-anticipatory-thinking-291027",
           "date": "2026-09-14T23:10:06Z"
-        },
-        {
-          "title": "Unsustainable \u2013 or manageable? We don\u2019t yet know how data centres will impact Australia\u2019s environment",
-          "link": "https://theconversation.com/unsustainable-or-manageable-we-dont-yet-know-how-data-centres-will-impact-australias-environment-290423",
-          "date": "2026-09-14T20:10:37Z"
         }
       ],
       "error": null
@@ -469,24 +469,24 @@
           "date": "Tue, 15 Sep 2026 17:54:48 GMT"
         },
         {
-          "title": "Six green card holders in Texas charged in federal crackdown on illegal voting \u2013 US politics live",
-          "link": "https://www.theguardian.com/us-news/live/2026/sep/15/supreme-court-mail-ballot-restrictions-midterm-elections-trump-ai-politics-latest-news-updates",
-          "date": "Wed, 16 Sep 2026 00:38:06 GMT"
+          "title": "Decoding America: Why won't Donald Trump regulate AI? - podcast",
+          "link": "https://www.theguardian.com/australia-news/audio/2026/sep/16/why-wont-donald-trump-regulate-ai-decoding-america-podcast",
+          "date": "Wed, 16 Sep 2026 06:52:47 GMT"
         },
         {
-          "title": "Anthropic CEO renews call for AI slowdown as Nvidia\u2019s urges acceleration",
-          "link": "https://www.theguardian.com/technology/2026/sep/15/anthropic-nvidia-ceos-ai",
-          "date": "Wed, 16 Sep 2026 00:21:18 GMT"
+          "title": "I used to think AI would kill us all, until the techbro CEOs said AI will kill us all and now I\u2019m not so sure | First Dog on the Moon",
+          "link": "https://www.theguardian.com/commentisfree/picture/2026/sep/16/i-used-to-think-ai-would-kill-us-all-until-the-techbro-ceos-said-ai-will-kill-us-all-and-now-im-not-so-sure",
+          "date": "Wed, 16 Sep 2026 06:40:43 GMT"
         },
         {
-          "title": "Why the real AI apocalypse is already here \u2013 Stateside with Kai and Carter",
-          "link": "https://www.theguardian.com/us-news/video/2026/sep/15/why-the-real-ai-apocalypse-is-already-here-stateside-with-kai-and-carter",
-          "date": "Tue, 15 Sep 2026 22:39:14 GMT"
+          "title": "Wednesday briefing: Why tech companies might be only too happy for us to believe AI will \u2018kill us all\u2019",
+          "link": "https://www.theguardian.com/world/2026/sep/16/wednesday-briefing-why-tech-companies-might-be-only-too-happy-for-us-to-believe-ai-will-kill-us-all",
+          "date": "Wed, 16 Sep 2026 05:45:20 GMT"
         },
         {
-          "title": "Labor accused of throwing creatives \u2018under the bus\u2019 with proposal to ease copyright protections for AI giants",
-          "link": "https://www.theguardian.com/australia-news/2026/sep/16/pocock-says-labor-easing-copyright-protections-for-ai-datacentre-investment-would-throw-creatives-under-the-bus",
-          "date": "Tue, 15 Sep 2026 21:29:11 GMT"
+          "title": "Anthropic to build $31bn datacentre in western Queensland, David Crisafulli says",
+          "link": "https://www.theguardian.com/technology/2026/sep/16/anthropic-lands-31bn-datacentre-deal-in-western-queensland",
+          "date": "Wed, 16 Sep 2026 05:20:00 GMT"
         }
       ],
       "error": null
