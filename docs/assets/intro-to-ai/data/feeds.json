@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T03:18:09.337302+00:00",
+  "generatedAt": "2026-09-17T09:10:36.358013+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,12 +108,22 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+          "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+          "date": "Thu, 17 Sep 2026 05:00:00 +0000"
+        },
+        {
+          "title": "Your startup\u2019s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+          "date": "Thu, 17 Sep 2026 03:30:00 +0000"
+        },
+        {
           "title": "Snap tries to make the case again for its $2,200 smart glasses",
           "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
           "date": "Thu, 17 Sep 2026 00:58:49 +0000"
         },
         {
-          "title": "Al Gore says the real AI risk isn\u2019t data centers \u2014 it\u2019s what industry leaders are warning about",
+          "title": "Al Gore says the real AI risk isn\u2019t data centers",
           "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
           "date": "Wed, 16 Sep 2026 23:43:09 +0000"
         },
@@ -121,16 +131,6 @@
           "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
           "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
           "date": "Wed, 16 Sep 2026 21:07:24 +0000"
-        },
-        {
-          "title": "After accusations of selling \u2018perv glasses,\u2019 Meta prepares to sell a pair without a camera",
-          "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
-          "date": "Wed, 16 Sep 2026 20:12:00 +0000"
-        },
-        {
-          "title": "AI labs want in-house auditors \u2014 but maybe they should shut the front door first",
-          "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
-          "date": "Wed, 16 Sep 2026 18:25:25 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -215,6 +215,11 @@
       "name": "AI Now Institute",
       "url": "https://ainowinstitute.org/category/news/feed",
       "items": [
+        {
+          "title": "AI Now Is Hiring a Local Policy Researcher/Land Use Expert",
+          "link": "https://ainowinstitute.org/news/ai-now-is-hiring-a-local-policy-researcher-land-use-expert",
+          "date": "Wed, 16 Sep 2026 17:44:50 +0000"
+        },
         {
           "title": "Could AI really wipe out humanity \u2013 six experts spell out the risks",
           "link": "https://ainowinstitute.org/news/press/could-ai-really-wipe-out-humanity-six-experts-spell-out-the-risks",
@@ -234,11 +239,6 @@
           "title": "Why a decade of doomsday warnings failed to slow the AI race",
           "link": "https://ainowinstitute.org/news/press/why-a-decade-of-doomsday-warnings-failed-to-slow-the-ai-race",
           "date": "Tue, 15 Sep 2026 08:00:00 +0000"
-        },
-        {
-          "title": "Trump facing AI backlash in Congress as push for guardrails intensifies",
-          "link": "https://ainowinstitute.org/news/press/trump-facing-ai-backlash-in-congress-as-push-for-guardrails-intensifies",
-          "date": "Tue, 15 Sep 2026 06:39:00 +0000"
         }
       ],
       "error": null
@@ -253,9 +253,9 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
-          "title": "I Built a New Gen AI Coding Agent",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wifch9/i_built_a_new_gen_ai_coding_agent/",
-          "date": "2026-09-17T00:56:05+00:00"
+          "title": "Whats the best way to build a training coach?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wiopup/whats_the_best_way_to_build_a_training_coach/",
+          "date": "2026-09-17T09:02:40+00:00"
         },
         {
           "title": "PSA for those using agents -- DSFlash 4.1 has solid agentic performance",
@@ -263,14 +263,14 @@
           "date": "2026-09-16T18:09:20+00:00"
         },
         {
+          "title": "I Built a New Gen AI Coding Agent",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wifch9/i_built_a_new_gen_ai_coding_agent/",
+          "date": "2026-09-17T00:56:05+00:00"
+        },
+        {
           "title": "80k downloads first week? I did it! Now let\u2019s talk about integrating NEDB in your project !",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wi93f3/80k_downloads_first_week_i_did_it_now_lets_talk/",
           "date": "2026-09-16T20:37:56+00:00"
-        },
-        {
-          "title": "Dead Drop. A game about jailbreaking.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wi4xzs/dead_drop_a_game_about_jailbreaking/",
-          "date": "2026-09-16T18:08:48+00:00"
         }
       ],
       "error": null
@@ -432,6 +432,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Politics with Michelle Grattan: Matt Canavan on why One Nation is \u2018not really compatible\u2019 as a Coalition partner",
+          "link": "https://theconversation.com/politics-with-michelle-grattan-matt-canavan-on-why-one-nation-is-not-really-compatible-as-a-coalition-partner-292228",
+          "date": "2026-09-17T08:00:18Z"
+        },
+        {
           "title": "Why do some robots feel creepy? We deliberately built one to find out",
           "link": "https://theconversation.com/why-do-some-robots-feel-creepy-we-deliberately-built-one-to-find-out-290231",
           "date": "2026-09-17T01:45:52Z"
@@ -450,11 +455,6 @@
           "title": "Advertising is coming to AI chatbots \u2014 and it could influence the answers you get",
           "link": "https://theconversation.com/advertising-is-coming-to-ai-chatbots-and-it-could-influence-the-answers-you-get-291235",
           "date": "2026-09-16T16:49:18Z"
-        },
-        {
-          "title": "AI can be more comforting than a person \u2013 our research shows why",
-          "link": "https://theconversation.com/ai-can-be-more-comforting-than-a-person-our-research-shows-why-291614",
-          "date": "2026-09-16T14:15:38Z"
         }
       ],
       "error": null
@@ -469,24 +469,24 @@
           "date": "Wed, 16 Sep 2026 15:00:23 GMT"
         },
         {
+          "title": "Big AI is trying to own the pathway to work. Universities shouldn\u2019t play along | Ella Hafermalz",
+          "link": "https://www.theguardian.com/technology/2026/sep/17/big-ai-work-universities",
+          "date": "Thu, 17 Sep 2026 09:00:44 GMT"
+        },
+        {
+          "title": "OpenAI reveals cases of \u2018concerning\u2019 AI behaviour as it announces new disclosure system",
+          "link": "https://www.theguardian.com/technology/2026/sep/17/openai-reports-concerning-ai-behaviour-jailbreak-talking-to-other-agents",
+          "date": "Thu, 17 Sep 2026 06:58:25 GMT"
+        },
+        {
+          "title": "The week that changed maths for ever \u2013 podcast",
+          "link": "https://www.theguardian.com/science/audio/2026/sep/17/the-week-that-changed-maths-for-ever-podcast",
+          "date": "Thu, 17 Sep 2026 04:00:40 GMT"
+        },
+        {
           "title": "Planning permission for new Scottish AI datacentres suspended for up to a year",
           "link": "https://www.theguardian.com/uk-news/2026/sep/16/datacentres-scotland-environmental-assessments-ai-boom",
           "date": "Wed, 16 Sep 2026 18:28:12 GMT"
-        },
-        {
-          "title": "House speaker calls early recess before midterms amid AI regulation frenzy",
-          "link": "https://www.theguardian.com/us-news/2026/sep/16/mike-johnson-cancels-house-vote-hegseth",
-          "date": "Wed, 16 Sep 2026 17:10:42 GMT"
-        },
-        {
-          "title": "Why I can\u2019t wait to get into a driverless car | Letters",
-          "link": "https://www.theguardian.com/technology/2026/sep/16/why-i-cant-wait-to-get-into-a-driverless-car",
-          "date": "Wed, 16 Sep 2026 16:16:05 GMT"
-        },
-        {
-          "title": "Everything Australians put online could be scraped for AI under proposed new rules. How will you be affected?",
-          "link": "https://www.theguardian.com/australia-news/2026/sep/17/everything-australians-put-online-could-be-scraped-for-ai-under-proposed-new-rules-how-will-you-be-affected",
-          "date": "Wed, 16 Sep 2026 15:00:23 GMT"
         }
       ],
       "error": null
