@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-09-17T21:54:25.245778+00:00",
+  "generatedAt": "2026-09-17T23:53:25.642333+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "\u2018Doom Loop\u2019: OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft",
+          "link": "https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft/",
+          "date": "Thu, 17 Sep 2026 22:01:43 GMT"
+        },
         {
           "title": "\u2018Flock City PD:\u2019 The Fake Flock-Owned \u2018Police Department\u2019 That Searched Real Cameras for Real People",
           "link": "https://www.404media.co/flock-city-pd-the-fake-flock-owned-police-department-that-searched-real-cameras-for-real-people/",
@@ -24,11 +29,6 @@
           "title": "I Hijacked a Real Artist's Spotify with AI Music. It Was Disturbingly Easy",
           "link": "https://www.404media.co/spotify-ai-music-scam/",
           "date": "Thu, 17 Sep 2026 13:33:52 GMT"
-        },
-        {
-          "title": "Podcast: Humans Are Reading Your ChatGPT Conversations",
-          "link": "https://www.404media.co/podcast-humans-are-reading-your-chatgpt-conversations/",
-          "date": "Wed, 16 Sep 2026 14:19:51 GMT"
         }
       ],
       "error": null
@@ -108,29 +108,29 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Crusoe raises $3.9B to build massive data centers and small modular \u201cAI factories\u201d",
+          "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+          "date": "Thu, 17 Sep 2026 23:25:52 +0000"
+        },
+        {
+          "title": "Google DeepMind launches institute to widen the AGI debate",
+          "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+          "date": "Thu, 17 Sep 2026 23:21:17 +0000"
+        },
+        {
+          "title": "PrismML hopes its tiny LLM will change how we all use AI",
+          "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+          "date": "Thu, 17 Sep 2026 22:34:09 +0000"
+        },
+        {
+          "title": "The FAA\u2019s plan to fix air traffic? $875M worth of AI",
+          "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+          "date": "Thu, 17 Sep 2026 22:14:59 +0000"
+        },
+        {
           "title": "The fix for rogue AI agents could be more AI",
           "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
           "date": "Thu, 17 Sep 2026 20:34:47 +0000"
-        },
-        {
-          "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-          "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
-          "date": "Thu, 17 Sep 2026 20:34:24 +0000"
-        },
-        {
-          "title": "Is the AI safety debate about safety or control?",
-          "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
-          "date": "Thu, 17 Sep 2026 20:19:37 +0000"
-        },
-        {
-          "title": "UN turns to Google to make its global data ready for AI agents",
-          "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
-          "date": "Thu, 17 Sep 2026 20:00:00 +0000"
-        },
-        {
-          "title": "Microsoft exec called AI scraping \u2018the largest theft of labor in human history,\u2019 new unredacted filings reveal",
-          "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-          "date": "Thu, 17 Sep 2026 19:46:08 +0000"
         }
       ],
       "error": null
@@ -280,6 +280,21 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Anthropic details practical metrics to help monitor the speed of AI development",
+          "link": "https://siliconangle.com/2026/09/17/anthropic-details-practical-metrics-to-help-monitor-the-speed-of-ai-development/",
+          "date": "Thu, 17 Sep 2026 23:44:57 +0000"
+        },
+        {
+          "title": "OpenAI launches Astra for Law, a GPT-6 configuration for legal research",
+          "link": "https://siliconangle.com/2026/09/17/openai-launches-astra-for-law-a-gpt-6-configuration-for-legal-research/",
+          "date": "Thu, 17 Sep 2026 23:17:25 +0000"
+        },
+        {
+          "title": "Google expands CC into a shared AI agent for up to six family members",
+          "link": "https://siliconangle.com/2026/09/17/google-expands-cc-into-a-shared-ai-agent-for-up-to-six-family-members/",
+          "date": "Thu, 17 Sep 2026 22:42:08 +0000"
+        },
+        {
           "title": "AI agents erase the paper trail, reshaping audit assurance",
           "link": "https://siliconangle.com/2026/09/17/netsuite-ai-agents-new-audit-assurance-gap-amplify/",
           "date": "Thu, 17 Sep 2026 20:22:32 +0000"
@@ -288,21 +303,6 @@
           "title": "AI governance moves closer to the workflow: theCUBE Insights at Amplify",
           "link": "https://siliconangle.com/2026/09/17/ai-governance-moves-closer-to-the-workflow-thecube-insights-amplify/",
           "date": "Thu, 17 Sep 2026 16:15:14 +0000"
-        },
-        {
-          "title": "Trust, not budget: Why AI adoption in finance comes down to governance",
-          "link": "https://siliconangle.com/2026/09/17/erp-systems-become-safe-starting-point-ai-finance-amplify/",
-          "date": "Thu, 17 Sep 2026 16:03:53 +0000"
-        },
-        {
-          "title": "HP ties sustainability data governance to business decisions in the AI era",
-          "link": "https://siliconangle.com/2026/09/17/hp-ties-sustainability-data-governance-to-business-decisions-in-the-ai-era-amplify/",
-          "date": "Thu, 17 Sep 2026 14:50:34 +0000"
-        },
-        {
-          "title": "Exclusive: PeakMetrics tracks brand reputations across five top AI platforms",
-          "link": "https://siliconangle.com/2026/09/17/exclusive-peakmetrics-tracks-brand-reputations-across-five-top-ai-platforms/",
-          "date": "Thu, 17 Sep 2026 13:00:24 +0000"
         }
       ],
       "error": null
@@ -560,6 +560,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Here\u2019s What the AI Apocalypse Could Look Like",
+          "link": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/",
+          "date": "Thu, 17 Sep 2026 22:20:21 +0000"
+        },
+        {
           "title": "The AI \u2018Slowdown\u2019 Is an Antitrust Mess",
           "link": "https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/",
           "date": "Thu, 17 Sep 2026 19:58:28 +0000"
@@ -578,11 +583,6 @@
           "title": "Washington Won\u2019t Be Regulating AI Anytime Soon",
           "link": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/",
           "date": "Wed, 16 Sep 2026 21:00:00 +0000"
-        },
-        {
-          "title": "I Trained a Fly\u2019s Brain to Generate WIRED Story Ideas",
-          "link": "https://www.wired.com/story/i-trained-a-fly-on-wired-story-ideas/",
-          "date": "Wed, 16 Sep 2026 19:00:00 +0000"
         }
       ],
       "error": null
