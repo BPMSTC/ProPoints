@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T08:43:38.122541+00:00",
+  "generatedAt": "2026-09-18T13:21:46.392601+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -432,6 +432,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "How to know if you can trust an AI\u2019s answer to your question",
+          "link": "https://theconversation.com/how-to-know-if-you-can-trust-an-ais-answer-to-your-question-289201",
+          "date": "2026-09-18T12:37:18Z"
+        },
+        {
           "title": "Making a claim at the Fair Work Commission? These are the new AI rules you need to follow",
           "link": "https://theconversation.com/making-a-claim-at-the-fair-work-commission-these-are-the-new-ai-rules-you-need-to-follow-290633",
           "date": "2026-09-17T20:17:57Z"
@@ -450,11 +455,6 @@
           "title": "Politics with Michelle Grattan: Matt Canavan on why One Nation is \u2018not really compatible\u2019 as a Coalition partner",
           "link": "https://theconversation.com/politics-with-michelle-grattan-matt-canavan-on-why-one-nation-is-not-really-compatible-as-a-coalition-partner-292228",
           "date": "2026-09-17T08:00:18Z"
-        },
-        {
-          "title": "Why do some robots feel creepy? We deliberately built one to find out",
-          "link": "https://theconversation.com/why-do-some-robots-feel-creepy-we-deliberately-built-one-to-find-out-290231",
-          "date": "2026-09-17T01:45:52Z"
         }
       ],
       "error": null
@@ -464,6 +464,21 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Andrew Hastie says AI advised him to reply \u2018congratulations!\u2019 to man who planned to end life with assisted dying",
+          "link": "https://www.theguardian.com/technology/2026/sep/18/andrew-hastie-says-ai-advised-him-to-reply-congratulations-to-man-who-planned-to-end-life-with-assisted-dying",
+          "date": "Fri, 18 Sep 2026 09:05:43 GMT"
+        },
+        {
+          "title": "OpenAI \u2018ethically hacked\u2019 with help of Anthropic\u2019s Claude chatbot",
+          "link": "https://www.theguardian.com/technology/2026/sep/18/openai-hacked-anthropic-claude-chatbot",
+          "date": "Fri, 18 Sep 2026 11:20:44 GMT"
+        },
+        {
+          "title": "Is Trump\u2019s AI obsession walking the world into disaster? | Politics Weekly America",
+          "link": "https://www.theguardian.com/politics/video/2026/sep/18/is-trumps-ai-obsession-walking-the-world-into-disaster-politics-weekly-america",
+          "date": "Fri, 18 Sep 2026 11:00:17 GMT"
+        },
+        {
           "title": "\u2018Brutal\u2019: thousands of T-shirt designs stolen and listed on Temu, Sydney label claims",
           "link": "https://www.theguardian.com/australia-news/2026/sep/18/ai-copyright-t-shirt-designs-stolen-temu-sydney-clothing-label-lonely-kids-club",
           "date": "Fri, 18 Sep 2026 07:35:47 GMT"
@@ -472,21 +487,6 @@
           "title": "Could AI really end humanity? Post your questions for our tech reporters now",
           "link": "https://www.theguardian.com/community/live/2026/sep/18/could-ai-really-end-humanity-technology-qanda",
           "date": "Fri, 18 Sep 2026 07:14:11 GMT"
-        },
-        {
-          "title": "Is Trump\u2019s AI obsession walking the world into disaster? \u2013 podcast",
-          "link": "https://www.theguardian.com/politics/audio/2026/sep/18/is-trumps-ai-obsession-walking-the-world-into-disaster-podcast",
-          "date": "Fri, 18 Sep 2026 04:00:08 GMT"
-        },
-        {
-          "title": "\u2018If you build something vastly smarter than you, it better be on your side\u2019: can we stop AI from deceiving us? \u2013 podcast",
-          "link": "https://www.theguardian.com/news/audio/2026/sep/18/if-you-build-something-vastly-smarter-than-you-it-better-be-on-your-side-can-we-stop-ai-from-deceiving-us-podcast",
-          "date": "Fri, 18 Sep 2026 04:00:07 GMT"
-        },
-        {
-          "title": "Artists boycotted this portrait prize over AI entries. Now they\u2019re back to take them on",
-          "link": "https://www.theguardian.com/artanddesign/ng-interactive/2026/sep/18/bpp-brisbane-portrait-prize-2026-ai",
-          "date": "Thu, 17 Sep 2026 15:00:55 GMT"
         }
       ],
       "error": null
@@ -560,6 +560,21 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "The Leftist Split Over AI Doom",
+          "link": "https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/",
+          "date": "Fri, 18 Sep 2026 10:15:00 +0000"
+        },
+        {
+          "title": "Napster Is Back, and It Wants to Digitally Clone Teachers",
+          "link": "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/",
+          "date": "Fri, 18 Sep 2026 09:15:00 +0000"
+        },
+        {
+          "title": "Why AI Isn\u2019t Likely to Wipe Out Humanity With Bioweapons",
+          "link": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/",
+          "date": "Fri, 18 Sep 2026 09:00:00 +0000"
+        },
+        {
           "title": "Here\u2019s What the AI Apocalypse Could Look Like",
           "link": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/",
           "date": "Thu, 17 Sep 2026 22:20:21 +0000"
@@ -568,21 +583,6 @@
           "title": "The AI \u2018Slowdown\u2019 Is an Antitrust Mess",
           "link": "https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/",
           "date": "Thu, 17 Sep 2026 19:58:28 +0000"
-        },
-        {
-          "title": "The AI Slowdown Debate Crashed Salesforce\u2019s Party",
-          "link": "https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/",
-          "date": "Thu, 17 Sep 2026 18:42:25 +0000"
-        },
-        {
-          "title": "An OpenAI Agent Tried to Jailbreak Itself",
-          "link": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
-          "date": "Wed, 16 Sep 2026 22:07:24 +0000"
-        },
-        {
-          "title": "Washington Won\u2019t Be Regulating AI Anytime Soon",
-          "link": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/",
-          "date": "Wed, 16 Sep 2026 21:00:00 +0000"
         }
       ],
       "error": null
