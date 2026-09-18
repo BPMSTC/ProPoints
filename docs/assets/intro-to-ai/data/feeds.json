@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T20:21:44.696988+00:00",
+  "generatedAt": "2026-09-18T22:59:51.036823+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Anthropic\u2019s first embedded evaluator is \u2026 Accenture?",
+          "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+          "date": "Fri, 18 Sep 2026 21:44:33 +0000"
+        },
+        {
           "title": "World model companies are keeping a lot of secrets",
           "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
           "date": "Fri, 18 Sep 2026 20:18:14 +0000"
@@ -126,11 +131,6 @@
           "title": "Google\u2019s new \u2018CC\u2019 is an AI agent that helps families run their households",
           "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
           "date": "Fri, 18 Sep 2026 17:33:50 +0000"
-        },
-        {
-          "title": "Dario Amodei and other AI leaders want to \u2018Pace the Frontier\u2019 but\u2026how?",
-          "link": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
-          "date": "Fri, 18 Sep 2026 17:09:56 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -236,7 +236,7 @@
           "date": "Wed, 16 Sep 2026 20:23:28 +0000"
         },
         {
-          "title": "AI Now Is Hiring a Local Policy Researcher/Land Use Expert",
+          "title": "Independent Contractor Role: AI Now seeks a Local Policy Researcher/Land Use Expert",
           "link": "https://ainowinstitute.org/news/ai-now-is-hiring-a-local-policy-researcher-land-use-expert",
           "date": "Wed, 16 Sep 2026 17:44:50 +0000"
         }
@@ -528,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "US Military Nearly Started World War III After AI Chatbot Hallucinated Nuclear Weapons Aboard a Chinese Ship",
+          "link": "https://futurism.com/artificial-intelligence/us-military-intelligence-wwiii-ai-chatbot-hallucinated-nuclear-weapons-china",
+          "date": "Fri, 18 Sep 2026 17:37:09 -0400"
+        },
+        {
           "title": "Here\u2019s Every Known Publication Owned by Brown Brothers Media, Which Buys News Sites and Turns Them Into AI-Powered Content Mills",
           "link": "https://futurism.com/artificial-intelligence/every-brown-brothers-media-publication",
           "date": "Fri, 18 Sep 2026 15:24:27 -0400"
@@ -546,11 +551,6 @@
           "title": "Microsoft Director Privately Admitted AI Was the \u201cLargest Theft of Labor in Human History,\u201d Unsealed Court Documents Show",
           "link": "https://futurism.com/future-society/microsoft-admitted-ai-theft-labor-human-history-court-lawsuit",
           "date": "Thu, 17 Sep 2026 17:46:08 -0400"
-        },
-        {
-          "title": "Influencers Are Using Meta\u2019s AI-Glasses to Film Manipulative Feel-Good Slop of People in Public",
-          "link": "https://futurism.com/artificial-intelligence/influencers-using-meta-ai-glasses-film-content-public-cruelty",
-          "date": "Thu, 17 Sep 2026 15:17:08 -0400"
         }
       ],
       "error": null
