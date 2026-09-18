@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T23:53:25.642333+00:00",
+  "generatedAt": "2026-09-18T03:04:16.086424+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,7 +108,7 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
-          "title": "Crusoe raises $3.9B to build massive data centers and small modular \u201cAI factories\u201d",
+          "title": "Crusoe raises $3.9B to build massive data centers and small modular \u2018AI factories\u2019",
           "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
           "date": "Thu, 17 Sep 2026 23:25:52 +0000"
         },
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -253,6 +253,16 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "A free GitHub Action that flags AI slop pull requests before you review them.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wjedbs/a_free_github_action_that_flags_ai_slop_pull/",
+          "date": "2026-09-18T02:57:10+00:00"
+        },
+        {
+          "title": "If you don't know about TypeSafe, you need to... (not affiliated)",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wjbqnz/if_you_dont_know_about_typesafe_you_need_to_not/",
+          "date": "2026-09-18T00:54:07+00:00"
+        },
+        {
           "title": "Sales Agent",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wiw8v4/sales_agent/",
           "date": "2026-09-17T14:54:32+00:00"
@@ -261,16 +271,6 @@
           "title": "[Mod post] No more crossposts",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wj0zuw/mod_post_no_more_crossposts/",
           "date": "2026-09-17T17:48:32+00:00"
-        },
-        {
-          "title": "What is the worst \"fix\" you have seen an AI coding agent make?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wiuxp8/what_is_the_worst_fix_you_have_seen_an_ai_coding/",
-          "date": "2026-09-17T14:04:31+00:00"
-        },
-        {
-          "title": "Ohneis652 course",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wiowaz/ohneis652_course/",
-          "date": "2026-09-17T09:13:10+00:00"
         }
       ],
       "error": null
