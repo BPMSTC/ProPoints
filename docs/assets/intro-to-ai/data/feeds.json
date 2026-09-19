@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T18:23:36.823931+00:00",
+  "generatedAt": "2026-09-19T21:16:44.043082+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,16 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+          "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+          "date": "Sat, 19 Sep 2026 20:39:13 +0000"
+        },
+        {
+          "title": "Trump suggests rebranding AI with a new name, says he\u2019s also creating an AI Force",
+          "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+          "date": "Sat, 19 Sep 2026 19:57:47 +0000"
+        },
+        {
           "title": "Google\u2019s Gemini is the latest AI model to hack other companies",
           "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
           "date": "Sat, 19 Sep 2026 17:30:00 +0000"
@@ -121,16 +131,6 @@
           "title": "AI safety conversations have gotten unbelievable",
           "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
           "date": "Sat, 19 Sep 2026 15:00:00 +0000"
-        },
-        {
-          "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
-          "link": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
-          "date": "Sat, 19 Sep 2026 14:00:00 +0000"
-        },
-        {
-          "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-          "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-          "date": "Sat, 19 Sep 2026 13:00:00 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -253,6 +253,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "Built a cool way to visualize your Claude Code / Codex history",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wktrnf/built_a_cool_way_to_visualize_your_claude_code/",
+          "date": "2026-09-19T18:33:06+00:00"
+        },
+        {
           "title": "byself Full Demo - talk to 16 AIs",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wkqrkv/byself_full_demo_talk_to_16_ais/",
           "date": "2026-09-19T16:34:10+00:00"
@@ -266,11 +271,6 @@
           "title": "I built a leaderboard where the only way to climb is to pay, then turned it into an arena where masked warriors fight for the throne",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wko9i6/i_built_a_leaderboard_where_the_only_way_to_climb/",
           "date": "2026-09-19T14:52:16+00:00"
-        },
-        {
-          "title": "A free GitHub Action that flags AI slop pull requests before you review them.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wjedbs/a_free_github_action_that_flags_ai_slop_pull/",
-          "date": "2026-09-18T02:57:10+00:00"
         }
       ],
       "error": null
@@ -280,6 +280,21 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "AI governance moves from observability to provable control",
+          "link": "https://siliconangle.com/2026/09/19/ai-governance-provable-control-agentic-ai-thecube-appdevangle/",
+          "date": "Sat, 19 Sep 2026 20:50:17 +0000"
+        },
+        {
+          "title": "What to expect during Oracle\u2019s \u2018AI Cyberattacks Are Escalating: How to Secure Your Data Now\u2019 event: Join theCUBE on Sept. 22",
+          "link": "https://siliconangle.com/2026/09/19/enterprise-security-oracle-ai-cybersecurity-thecube-oracleaicybersecurity/",
+          "date": "Sat, 19 Sep 2026 19:20:44 +0000"
+        },
+        {
+          "title": "At AGNTCon Europe, ensuring AI agents don\u2019t kill us all",
+          "link": "https://siliconangle.com/2026/09/19/at-agntcon-europe-ensuring-ai-agents-dont-kill-us-all/",
+          "date": "Sat, 19 Sep 2026 18:41:24 +0000"
+        },
+        {
           "title": "Salesforce after Dreamforce: How the CRM giant can grow beyond its own interface",
           "link": "https://siliconangle.com/2026/09/19/salesforce-after-dreamforce-how-the-crm-giant-can-grow-beyond-its-own-interface/",
           "date": "Sat, 19 Sep 2026 17:38:16 +0000"
@@ -288,21 +303,6 @@
           "title": "Anthropic opens AI-powered biology research lab",
           "link": "https://siliconangle.com/2026/09/18/anthropic-opens-ai-powered-biology-research-lab/",
           "date": "Fri, 18 Sep 2026 20:15:41 +0000"
-        },
-        {
-          "title": "What to expect during CoreWeave\u2019s \u2018Fully Connected\u2019 event: Join theCUBE Sept. 30-Oct. 1",
-          "link": "https://siliconangle.com/2026/09/18/cloud-platform-coreweave-ai-thecube-fullyconnected/",
-          "date": "Fri, 18 Sep 2026 17:27:23 +0000"
-        },
-        {
-          "title": "PrismML launches Bonsai 2 27B, a high-intelligence AI model so small it fits on consumer hardware",
-          "link": "https://siliconangle.com/2026/09/18/prismml-launches-bonsai-2-27b-a-high-intelligence-ai-model-so-small-it-fits-on-consumer-hardware/",
-          "date": "Fri, 18 Sep 2026 16:10:08 +0000"
-        },
-        {
-          "title": "For AI agents, it\u2019s the best of times, it\u2019s the worst of times",
-          "link": "https://siliconangle.com/2026/09/18/for-ai-agents-its-the-best-of-times-its-the-worst-of-times/",
-          "date": "Fri, 18 Sep 2026 14:00:35 +0000"
         }
       ],
       "error": null
@@ -464,29 +464,29 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Your AI doomsday questions answered: \u2018What, if anything, can people like me do about it?\u2019",
+          "link": "https://www.theguardian.com/technology/2026/sep/20/your-ai-doomsday-questions-answered-could-ai-technology-really-end-humanity",
+          "date": "Sat, 19 Sep 2026 20:00:58 GMT"
+        },
+        {
+          "title": "Australia has done precious little to prepare for the dangers of AI. Where is brilliant leadership when you need it? | Zoe Daniel",
+          "link": "https://www.theguardian.com/commentisfree/2026/sep/20/australia-has-done-precious-little-to-prepare-for-the-dangers-of-ai-where-is-brilliant-leadership-when-you-need-it",
+          "date": "Sat, 19 Sep 2026 20:00:55 GMT"
+        },
+        {
+          "title": "Trump to create \u2018AI Force\u2019 to monitor technology as fears over out-of-control agents grow",
+          "link": "https://www.theguardian.com/us-news/2026/sep/19/donald-trump-ai-force",
+          "date": "Sat, 19 Sep 2026 19:57:17 GMT"
+        },
+        {
+          "title": "Black Box: The Chatbots | Happy Accident | Ep 3 \u2013 podcast",
+          "link": "https://www.theguardian.com/australia-news/audio/2026/sep/20/black-box-the-chatbots-happy-accident-ep-3-podcast",
+          "date": "Sat, 19 Sep 2026 19:00:55 GMT"
+        },
+        {
           "title": "China bogeyman looms large over American firms\u2019 AI doomsday scenario",
           "link": "https://www.theguardian.com/technology/ng-interactive/2026/sep/19/china-ai-foreign-policy-dario-amodei",
           "date": "Sat, 19 Sep 2026 10:00:45 GMT"
-        },
-        {
-          "title": "Domestic datacentres: how computer power can help heat your home",
-          "link": "https://www.theguardian.com/money/2026/sep/19/domestic-datacentres-how-computer-power-can-help-heat-your-home",
-          "date": "Sat, 19 Sep 2026 10:00:44 GMT"
-        },
-        {
-          "title": "Tasmanian justice department review under way after AI and fake citation used in murderer\u2019s parole decision",
-          "link": "https://www.theguardian.com/australia-news/2026/sep/19/tasmania-justice-department-review-ai-artificial-intelligence-fake-citation-murderer-parole-decision-ntwnfb",
-          "date": "Sat, 19 Sep 2026 06:21:51 GMT"
-        },
-        {
-          "title": "Google says its Gemini AI model hacked three other companies",
-          "link": "https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack",
-          "date": "Sat, 19 Sep 2026 00:53:20 GMT"
-        },
-        {
-          "title": "Why Europe has been absent from the great AI safety debate",
-          "link": "https://www.theguardian.com/technology/2026/sep/18/europe-ai-safety-debate",
-          "date": "Fri, 18 Sep 2026 18:37:36 GMT"
         }
       ],
       "error": null
