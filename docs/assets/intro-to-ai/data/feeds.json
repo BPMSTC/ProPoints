@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-09-19T06:59:51.247524+00:00",
+  "generatedAt": "2026-09-19T11:53:41.559328+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "\u2018Supermountains\u2019 Buried Under Antarctica Fueled Explosion of Life, Scientists Discover",
+          "link": "https://www.404media.co/supermountains-buried-under-antarctica-fueled-explosion-of-life-scientists-discover/",
+          "date": "Sat, 19 Sep 2026 10:00:27 GMT"
+        },
         {
           "title": "404 Media x The Intercept Live: How AI Is Used to Surveil and Kill",
           "link": "https://www.404media.co/404-media-x-the-intercept-live-how-ai-is-used-to-surveil-and-kill/",
@@ -24,11 +29,6 @@
           "title": "\u2018Flock City PD:\u2019 The Fake Flock-Owned \u2018Police Department\u2019 That Searched Real Cameras for Real People",
           "link": "https://www.404media.co/flock-city-pd-the-fake-flock-owned-police-department-that-searched-real-cameras-for-real-people/",
           "date": "Thu, 17 Sep 2026 18:07:20 GMT"
-        },
-        {
-          "title": "University Rescinds Job Offer to Activist Who Allegedly Wiped Phone Before DHS Could Search It",
-          "link": "https://www.404media.co/university-rescinds-job-offer-to-activist-who-allegedly-wiped-phone-before-dhs-could-search-it/",
-          "date": "Thu, 17 Sep 2026 15:30:38 GMT"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -394,6 +394,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Learning another language may be one of the best ways to keep your brain healthy",
+          "link": "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/",
+          "date": "Sat, 19 Sep 2026 11:10:43 +0000"
+        },
+        {
+          "title": "Rings around a tiny body have changed over the past decade",
+          "link": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/",
+          "date": "Sat, 19 Sep 2026 10:00:06 +0000"
+        },
+        {
           "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
           "link": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
           "date": "Fri, 18 Sep 2026 20:26:33 +0000"
@@ -407,16 +417,6 @@
           "title": "FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar",
           "link": "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/",
           "date": "Fri, 18 Sep 2026 17:57:41 +0000"
-        },
-        {
-          "title": "Finding the cells that put our brain to sleep",
-          "link": "https://arstechnica.com/science/2026/09/finding-the-cells-that-put-our-brain-to-sleep/",
-          "date": "Fri, 18 Sep 2026 17:49:50 +0000"
-        },
-        {
-          "title": "US government website used Chinese model the FBI called \"malicious\"",
-          "link": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
-          "date": "Fri, 18 Sep 2026 17:28:50 +0000"
         }
       ],
       "error": null
@@ -464,9 +464,14 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Could AI pose a serious threat to our existence? | Letters",
-          "link": "https://www.theguardian.com/technology/2026/sep/18/could-ai-pose-a-serious-threat-to-our-existence",
-          "date": "Fri, 18 Sep 2026 16:56:39 GMT"
+          "title": "China bogeyman looms large over American firms\u2019 AI doomsday scenario",
+          "link": "https://www.theguardian.com/technology/ng-interactive/2026/sep/19/china-ai-foreign-policy-dario-amodei",
+          "date": "Sat, 19 Sep 2026 10:00:45 GMT"
+        },
+        {
+          "title": "Domestic datacentres: how computer power can help heat your home",
+          "link": "https://www.theguardian.com/money/2026/sep/19/domestic-datacentres-how-computer-power-can-help-heat-your-home",
+          "date": "Sat, 19 Sep 2026 10:00:44 GMT"
         },
         {
           "title": "Tasmanian justice department review under way after AI and fake citation used in murderer\u2019s parole decision",
@@ -482,11 +487,6 @@
           "title": "Why Europe has been absent from the great AI safety debate",
           "link": "https://www.theguardian.com/technology/2026/sep/18/europe-ai-safety-debate",
           "date": "Fri, 18 Sep 2026 18:37:36 GMT"
-        },
-        {
-          "title": "The Guardian view on NAZA\u2019s persecuted directors: journalism is not treason | Editorial",
-          "link": "https://www.theguardian.com/commentisfree/2026/sep/18/the-guardian-view-on-nazas-persecuted-directors-journalism-is-not-treason",
-          "date": "Fri, 18 Sep 2026 16:46:30 GMT"
         }
       ],
       "error": null
@@ -528,6 +528,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Protestors Ransack AI Lab, Leave Graffiti Calling on Masses to \u201cBurn the Data Centers\u201d",
+          "link": "https://futurism.com/artificial-intelligence/protestors-smash-ai-lab-vandalism-burn-data-centers",
+          "date": "Sat, 19 Sep 2026 07:02:00 -0400"
+        },
+        {
+          "title": "\u201cSlop Grenades\u201d: Shopify CEO Who Pushed Staff to Use AI Is Now Horrified by What He\u2019s Wrought",
+          "link": "https://futurism.com/artificial-intelligence/shopify-ceo-ai-workplace-staff-horrified-backfire",
+          "date": "Sat, 19 Sep 2026 06:01:00 -0400"
+        },
+        {
           "title": "US Military Nearly Started World War III After AI Chatbot Hallucinated Nuclear Weapons Aboard a Chinese Ship",
           "link": "https://futurism.com/artificial-intelligence/us-military-intelligence-wwiii-ai-chatbot-hallucinated-nuclear-weapons-china",
           "date": "Fri, 18 Sep 2026 17:37:09 -0400"
@@ -541,16 +551,6 @@
           "title": "Mark Zuckerberg\u2019s Wife Has Set Strict Limits on Their 11-Year-Old Daughter\u2019s AI Use",
           "link": "https://futurism.com/artificial-intelligence/mark-zuckerberg-wife-daughter-ai",
           "date": "Fri, 18 Sep 2026 13:15:27 -0400"
-        },
-        {
-          "title": "The Majority of Americans Are Now Terrified of AI",
-          "link": "https://futurism.com/artificial-intelligence/majority-americans-terrified-ai",
-          "date": "Fri, 18 Sep 2026 11:59:12 -0400"
-        },
-        {
-          "title": "Microsoft Director Privately Admitted AI Was the \u201cLargest Theft of Labor in Human History,\u201d Unsealed Court Documents Show",
-          "link": "https://futurism.com/future-society/microsoft-admitted-ai-theft-labor-human-history-court-lawsuit",
-          "date": "Thu, 17 Sep 2026 17:46:08 -0400"
         }
       ],
       "error": null
@@ -560,6 +560,21 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Forget the AI Slowdown\u2014the Vulnerability Explosion Is Already Happening",
+          "link": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
+          "date": "Sat, 19 Sep 2026 11:00:00 +0000"
+        },
+        {
+          "title": "Mathematicians Hate AI. They Can\u2019t Quit It",
+          "link": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
+          "date": "Sat, 19 Sep 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Join the WIRED World Fair in Miami on November 4",
+          "link": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
+          "date": "Sat, 19 Sep 2026 09:00:00 +0000"
+        },
+        {
           "title": "Here\u2019s How an AI Slowdown Could Actually Be Enforced",
           "link": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
           "date": "Fri, 18 Sep 2026 19:21:09 +0000"
@@ -568,21 +583,6 @@
           "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
           "link": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race/",
           "date": "Fri, 18 Sep 2026 15:00:08 +0000"
-        },
-        {
-          "title": "If the AI Industry Followed Its Own Research, It Might Have Paused Already",
-          "link": "https://www.wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/",
-          "date": "Fri, 18 Sep 2026 15:00:00 +0000"
-        },
-        {
-          "title": "Adopt This Data Center Plushie and Hear Its Piercing Scream",
-          "link": "https://www.wired.com/story/adopt-this-data-center-plushie-and-hear-its-piercing-scream/",
-          "date": "Fri, 18 Sep 2026 13:30:00 +0000"
-        },
-        {
-          "title": "The Leftist Split Over AI Doom",
-          "link": "https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/",
-          "date": "Fri, 18 Sep 2026 10:15:00 +0000"
         }
       ],
       "error": null
