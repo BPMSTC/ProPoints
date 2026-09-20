@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T03:16:33.216365+00:00",
+  "generatedAt": "2026-09-20T09:02:09.300575+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -253,6 +253,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "NUOVA FUGA DI CARCERE PRONTA PER DEEPSEEK, GROK E GEMINI\ud83d\udc79",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wl8cps/nuova_fuga_di_carcere_pronta_per_deepseek_grok_e/",
+          "date": "2026-09-20T05:36:23+00:00"
+        },
+        {
           "title": "Built a cool way to visualize your Claude Code / Codex history",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wktrnf/built_a_cool_way_to_visualize_your_claude_code/",
           "date": "2026-09-19T18:33:06+00:00"
@@ -266,11 +271,6 @@
           "title": "byself Full Demo - talk to 16 AIs",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wkqrkv/byself_full_demo_talk_to_16_ais/",
           "date": "2026-09-19T16:34:10+00:00"
-        },
-        {
-          "title": "I built a leaderboard where the only way to climb is to pay, then turned it into an arena where masked warriors fight for the throne",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wko9i6/i_built_a_leaderboard_where_the_only_way_to_climb/",
-          "date": "2026-09-19T14:52:16+00:00"
         }
       ],
       "error": null
@@ -469,6 +469,16 @@
           "date": "Sat, 19 Sep 2026 20:00:58 GMT"
         },
         {
+          "title": "Why China is pushing back on US warnings over rapid AI development",
+          "link": "https://www.theguardian.com/world/2026/sep/20/why-china-is-pushing-back-on-us-warnings-over-rapid-ai-development",
+          "date": "Sun, 20 Sep 2026 06:00:09 GMT"
+        },
+        {
+          "title": "More Australians to live into their 90s as life expectancy forecast to rise over coming decades",
+          "link": "https://www.theguardian.com/australia-news/2026/sep/20/intergenerational-report-australian-life-expectancy-forecast-to-rise",
+          "date": "Sun, 20 Sep 2026 04:32:26 GMT"
+        },
+        {
           "title": "Australia has done precious little to prepare for the dangers of AI. Where is brilliant leadership when you need it? | Zoe Daniel",
           "link": "https://www.theguardian.com/commentisfree/2026/sep/20/australia-has-done-precious-little-to-prepare-for-the-dangers-of-ai-where-is-brilliant-leadership-when-you-need-it",
           "date": "Sat, 19 Sep 2026 20:00:55 GMT"
@@ -477,16 +487,6 @@
           "title": "Trump to create \u2018AI Force\u2019 to monitor technology as fears over out-of-control agents grow",
           "link": "https://www.theguardian.com/us-news/2026/sep/19/donald-trump-ai-force",
           "date": "Sat, 19 Sep 2026 19:57:17 GMT"
-        },
-        {
-          "title": "Black Box: The Chatbots | Happy Accident | Ep 3 \u2013 podcast",
-          "link": "https://www.theguardian.com/australia-news/audio/2026/sep/20/black-box-the-chatbots-happy-accident-ep-3-podcast",
-          "date": "Sat, 19 Sep 2026 19:00:55 GMT"
-        },
-        {
-          "title": "China bogeyman looms large over American firms\u2019 AI doomsday scenario",
-          "link": "https://www.theguardian.com/technology/ng-interactive/2026/sep/19/china-ai-foreign-policy-dario-amodei",
-          "date": "Sat, 19 Sep 2026 10:00:45 GMT"
         }
       ],
       "error": null
