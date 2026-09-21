@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T00:52:25.051839+00:00",
+  "generatedAt": "2026-09-21T05:52:06.360320+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -253,6 +253,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "Beware of APInex - https://apinex.bond/",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wm3uvr/beware_of_apinex_httpsapinexbond/",
+          "date": "2026-09-21T05:32:29+00:00"
+        },
+        {
           "title": "I just wanted to organize my prompts \ud83d\ude05",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wljrgx/i_just_wanted_to_organize_my_prompts/",
           "date": "2026-09-20T15:18:05+00:00"
@@ -266,11 +271,6 @@
           "title": "I built PromptLab \u2014 a small AI prompt builder",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wlsc6n/i_built_promptlab_a_small_ai_prompt_builder/",
           "date": "2026-09-20T20:43:08+00:00"
-        },
-        {
-          "title": "Built a cool way to visualize your Claude Code / Codex history",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wlf6q3/built_a_cool_way_to_visualize_your_claude_code/",
-          "date": "2026-09-20T11:59:15+00:00"
         }
       ],
       "error": null
@@ -432,6 +432,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Intergenerational Report says AI will be \u2018a defining influence\u2019 on Australia\u2019s economy over next 40 years",
+          "link": "https://theconversation.com/intergenerational-report-says-ai-will-be-a-defining-influence-on-australias-economy-over-next-40-years-291996",
+          "date": "2026-09-21T02:39:23Z"
+        },
+        {
           "title": "How to know if you can trust an AI\u2019s answer to your question",
           "link": "https://theconversation.com/how-to-know-if-you-can-trust-an-ais-answer-to-your-question-289201",
           "date": "2026-09-18T12:37:18Z"
@@ -450,11 +455,6 @@
           "title": "Why AI consciousness could become the next great societal divide",
           "link": "https://theconversation.com/why-ai-consciousness-could-become-the-next-great-societal-divide-291886",
           "date": "2026-09-17T09:27:05Z"
-        },
-        {
-          "title": "Politics with Michelle Grattan: Matt Canavan on why One Nation is \u2018not really compatible\u2019 as a Coalition partner",
-          "link": "https://theconversation.com/politics-with-michelle-grattan-matt-canavan-on-why-one-nation-is-not-really-compatible-as-a-coalition-partner-292228",
-          "date": "2026-09-17T08:00:18Z"
         }
       ],
       "error": null
@@ -463,6 +463,11 @@
       "name": "Artificial intelligence (AI) | The Guardian",
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
+        {
+          "title": "More Australians will be dying than being born in 40 years as major report predicts future of lower growth",
+          "link": "https://www.theguardian.com/australia-news/2026/sep/21/jim-chalmers-intergenerational-report-2026-deaths-outnumber-births-australia2060s",
+          "date": "Mon, 21 Sep 2026 02:30:32 GMT"
+        },
         {
           "title": "Can Trump and Xi cooperate to guide humanity through the AI revolution? Humanity might depend on it | Alan Finkel",
           "link": "https://www.theguardian.com/commentisfree/2026/sep/21/can-trump-and-xi-cooperate-to-guide-humanity-through-the-ai-revolution-humanity-might-depend-on-it",
@@ -482,11 +487,6 @@
           "title": "\u2018An out-of-touch Silicon Valley radical\u2019: meet Trump\u2019s AI whisperer pushing for limited regulation",
           "link": "https://www.theguardian.com/us-news/2026/sep/20/david-sacks-trump-ai-czar",
           "date": "Sun, 20 Sep 2026 16:44:54 GMT"
-        },
-        {
-          "title": "UK startup snares $20m to recreate gigs with \u2018hyper-realistic\u2019 digital avatars",
-          "link": "https://www.theguardian.com/business/2026/sep/20/uk-startup-15m-investment-concerts-digital-versions-musicians",
-          "date": "Sun, 20 Sep 2026 13:00:16 GMT"
         }
       ],
       "error": null
