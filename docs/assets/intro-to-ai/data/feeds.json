@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T05:49:55.056124+00:00",
+  "generatedAt": "2026-09-22T10:55:21.113413+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -362,6 +362,16 @@
       "url": "https://huggingface.co/blog/feed.xml",
       "items": [
         {
+          "title": "Transformers now runs llama.cpp quants",
+          "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+          "date": "Tue, 22 Sep 2026 00:00:00 GMT"
+        },
+        {
+          "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+          "link": "https://huggingface.co/blog/omlx",
+          "date": "Tue, 22 Sep 2026 00:00:00 GMT"
+        },
+        {
           "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
           "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
           "date": "Mon, 21 Sep 2026 13:44:34 GMT"
@@ -375,16 +385,6 @@
           "title": "Your Agent Aced the Task. Will It Do It Again?",
           "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
           "date": "Tue, 15 Sep 2026 16:00:44 GMT"
-        },
-        {
-          "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-          "link": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-          "date": "Thu, 10 Sep 2026 00:00:00 GMT"
-        },
-        {
-          "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-          "link": "https://huggingface.co/blog/gradio-workflow-1111",
-          "date": "Thu, 10 Sep 2026 00:00:00 GMT"
         }
       ],
       "error": null
@@ -464,9 +464,19 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Nvidia boss says there is \u20180% chance\u2019 AI destroys the world by 2030",
-          "link": "https://www.theguardian.com/technology/2026/sep/21/nvidia-boss-jensen-huang-dismisses-warnings-ai-destroys-world-anthropic",
-          "date": "Mon, 21 Sep 2026 10:31:47 GMT"
+          "title": "UK not \u2018on the slide\u2019, Burnham to tell UN as he gears up for first meeting with Trump \u2013 UK politics live",
+          "link": "https://www.theguardian.com/politics/live/2026/sep/22/andy-burnham-donald-trump-un-general-assembly-uk-politics-latest-news",
+          "date": "Tue, 22 Sep 2026 10:51:48 GMT"
+        },
+        {
+          "title": "AI is generating a new wave of US populism. It could be a tipping point | Robert Reich",
+          "link": "https://www.theguardian.com/commentisfree/2026/sep/22/ai-economic-populism-tipping-point",
+          "date": "Tue, 22 Sep 2026 10:00:52 GMT"
+        },
+        {
+          "title": "AI could be a bubble and is not yet making Australia more productive, Michele Bullock says",
+          "link": "https://www.theguardian.com/technology/2026/sep/22/ai-could-be-a-bubble-and-is-not-yet-making-australia-more-productive-michele-bullock-says",
+          "date": "Tue, 22 Sep 2026 08:54:50 GMT"
         },
         {
           "title": "British Columbia sues OpenAI and Sam Altman over Tumbler Ridge mass school shooting",
@@ -477,16 +487,6 @@
           "title": "Halt super-intelligent AI with non-proliferation treaty, Ed Davey to say",
           "link": "https://www.theguardian.com/politics/2026/sep/21/halt-super-intelligent-ai-ed-davey-lib-dem-conference",
           "date": "Mon, 21 Sep 2026 21:30:26 GMT"
-        },
-        {
-          "title": "Stop relying on AI chatbots for customer care, UK banks and energy firms told",
-          "link": "https://www.theguardian.com/technology/2026/sep/21/stop-relying-on-chatbots-for-customer-care-uk-service-providers-urged",
-          "date": "Mon, 21 Sep 2026 16:35:31 GMT"
-        },
-        {
-          "title": "What an AI deal could mean for Australian culture \u2013 podcast",
-          "link": "https://www.theguardian.com/australia-news/audio/2026/sep/22/what-an-ai-deal-could-mean-for-australian-culture-podcast",
-          "date": "Mon, 21 Sep 2026 15:00:36 GMT"
         }
       ],
       "error": null
@@ -526,37 +526,63 @@
     {
       "name": "Artificial Intelligence \u2013 Futurism",
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
-      "items": [],
-      "error": "<urlopen error [Errno 104] Connection reset by peer>"
+      "items": [
+        {
+          "title": "Meta Now Banning Ads That Promote Feminism",
+          "link": "https://futurism.com/artificial-intelligence/meta-banning-ads-virginia-woolf-facebook-instagram-feminism",
+          "date": "Mon, 21 Sep 2026 17:23:44 -0400"
+        },
+        {
+          "title": "Hundreds of Flights Grounded Across the Eastern Seaboard as Government Rolls Out AI Air Traffic Control System",
+          "link": "https://futurism.com/advanced-transport/flights-grounded-east-coast-government-faa-ai-air-traffic-control",
+          "date": "Mon, 21 Sep 2026 15:44:40 -0400"
+        },
+        {
+          "title": "It Turns Out the US Military Really Did Use AI to Blow Up a School Full of Iranian Children",
+          "link": "https://futurism.com/artificial-intelligence/us-military-pentagon-ai-iranian-children-school-war-crimes",
+          "date": "Mon, 21 Sep 2026 14:40:31 -0400"
+        },
+        {
+          "title": "Signs of Crisis at Flock as It Offers Employees Buyouts to Quit and Get Off Payroll",
+          "link": "https://futurism.com/artificial-intelligence/flock-crisis-employee-buyouts",
+          "date": "Mon, 21 Sep 2026 13:19:43 -0400"
+        },
+        {
+          "title": "Bloomberg Finds That the AI Industry\u2019s Finances Are a \u201cWobbly House of Cards\u201d",
+          "link": "https://futurism.com/artificial-intelligence/bloomberg-ai-industry-finances-wobbly-house-of-cards",
+          "date": "Mon, 21 Sep 2026 12:04:52 -0400"
+        }
+      ],
+      "error": null
     },
     {
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
-          "title": "AI, Tariffs, Rare Minerals: What to Expect From Trump\u2019s Upcoming Summit With Xi Jinping",
-          "link": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/",
-          "date": "Mon, 21 Sep 2026 18:33:02 +0000"
+          "title": "I Built AI Clones of My Coworkers. Things Got Weird",
+          "link": "https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/",
+          "date": "Tue, 22 Sep 2026 10:30:00 +0000"
         },
         {
-          "title": "Got an Android Phone? Google Thinks You\u2019ll Probably Want a Googlebook Laptop",
-          "link": "https://www.wired.com/story/google-launches-googlebook-laptops/",
-          "date": "Mon, 21 Sep 2026 13:00:00 +0000"
+          "title": "Patti Harrison Had Dreams of a Tech Utopia. Silicon Valley Smashed Them",
+          "link": "https://www.wired.com/story/big-interview-patti-harrison/",
+          "date": "Tue, 22 Sep 2026 10:00:00 +0000"
         },
         {
-          "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
-          "link": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
-          "date": "Mon, 21 Sep 2026 10:34:43 +0000"
+          "title": "A New Tool Found Malware That\u2019s Guided by an AI Hive Mind\u2014No Humans in Sight",
+          "link": "https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/",
+          "date": "Tue, 22 Sep 2026 10:00:00 +0000"
         },
         {
-          "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
-          "link": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
-          "date": "Sun, 20 Sep 2026 10:30:00 +0000"
+          "title": "A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records",
+          "link": "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/",
+          "date": "Tue, 22 Sep 2026 09:30:00 +0000"
         },
         {
-          "title": "It\u2019s Donald Trump Versus MAGA on Data Centers",
-          "link": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/",
-          "date": "Sun, 20 Sep 2026 10:30:00 +0000"
+          "title": "How to Use AI With Your Privacy Intact",
+          "link": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/",
+          "date": "Tue, 22 Sep 2026 09:00:00 +0000"
         }
       ],
       "error": null
