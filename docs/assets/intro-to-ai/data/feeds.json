@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T00:34:15.501846+00:00",
+  "generatedAt": "2026-09-22T05:49:55.056124+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -253,24 +253,24 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "Muse 1B token ref",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wmxpyx/muse_1b_token_ref/",
+          "date": "2026-09-22T02:59:22+00:00"
+        },
+        {
           "title": "Grok 4.7 just dropped and the price-performance is interesting",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wmkgdi/grok_47_just_dropped_and_the_priceperformance_is/",
           "date": "2026-09-21T18:06:25+00:00"
         },
         {
+          "title": "How I funded an AI's vacation while it kept the company's main secret",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wmzlx9/how_i_funded_an_ais_vacation_while_it_kept_the/",
+          "date": "2026-09-22T04:33:22+00:00"
+        },
+        {
           "title": "[Mod post] Here is how to understand TypeSafe to those used to traditional LLM",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wmkci4/mod_post_here_is_how_to_understand_typesafe_to/",
           "date": "2026-09-21T18:02:37+00:00"
-        },
-        {
-          "title": "SWE-2 is free until October 8 (Kimi K3-trained model)",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wmi5yx/swe2_is_free_until_october_8_kimi_k3trained_model/",
-          "date": "2026-09-21T16:45:28+00:00"
-        },
-        {
-          "title": "hGATE \u2013 Keeping AI-generated code traceable to business intent",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wm5xf5/hgate_keeping_aigenerated_code_traceable_to/",
-          "date": "2026-09-21T07:29:34+00:00"
         }
       ],
       "error": null
@@ -469,6 +469,11 @@
           "date": "Mon, 21 Sep 2026 10:31:47 GMT"
         },
         {
+          "title": "British Columbia sues OpenAI and Sam Altman over Tumbler Ridge mass school shooting",
+          "link": "https://www.theguardian.com/technology/2026/sep/22/british-columbia-sues-openai-sam-altman-tumbler-ridge-school-shooting",
+          "date": "Tue, 22 Sep 2026 04:29:22 GMT"
+        },
+        {
           "title": "Halt super-intelligent AI with non-proliferation treaty, Ed Davey to say",
           "link": "https://www.theguardian.com/politics/2026/sep/21/halt-super-intelligent-ai-ed-davey-lib-dem-conference",
           "date": "Mon, 21 Sep 2026 21:30:26 GMT"
@@ -482,11 +487,6 @@
           "title": "What an AI deal could mean for Australian culture \u2013 podcast",
           "link": "https://www.theguardian.com/australia-news/audio/2026/sep/22/what-an-ai-deal-could-mean-for-australian-culture-podcast",
           "date": "Mon, 21 Sep 2026 15:00:36 GMT"
-        },
-        {
-          "title": "In praise of the freshly fried chip | Brief letters",
-          "link": "https://www.theguardian.com/food/2026/sep/21/in-praise-of-the-freshly-fried-chip",
-          "date": "Mon, 21 Sep 2026 14:52:51 GMT"
         }
       ],
       "error": null
@@ -526,34 +526,8 @@
     {
       "name": "Artificial Intelligence \u2013 Futurism",
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
-      "items": [
-        {
-          "title": "Meta Now Banning Ads That Promote Feminism",
-          "link": "https://futurism.com/artificial-intelligence/meta-banning-ads-virginia-woolf-facebook-instagram-feminism",
-          "date": "Mon, 21 Sep 2026 17:23:44 -0400"
-        },
-        {
-          "title": "Hundreds of Flights Grounded Across the Eastern Seaboard as Government Rolls Out AI Air Traffic Control System",
-          "link": "https://futurism.com/advanced-transport/flights-grounded-east-coast-government-faa-ai-air-traffic-control",
-          "date": "Mon, 21 Sep 2026 15:44:40 -0400"
-        },
-        {
-          "title": "It Turns Out the US Military Really Did Use AI to Blow Up a School Full of Iranian Children",
-          "link": "https://futurism.com/artificial-intelligence/us-military-pentagon-ai-iranian-children-school-war-crimes",
-          "date": "Mon, 21 Sep 2026 14:40:31 -0400"
-        },
-        {
-          "title": "Signs of Crisis at Flock as It Offers Employees Buyouts to Quit and Get Off Payroll",
-          "link": "https://futurism.com/artificial-intelligence/flock-crisis-employee-buyouts",
-          "date": "Mon, 21 Sep 2026 13:19:43 -0400"
-        },
-        {
-          "title": "Bloomberg Finds That the AI Industry\u2019s Finances Are a \u201cWobbly House of Cards\u201d",
-          "link": "https://futurism.com/artificial-intelligence/bloomberg-ai-industry-finances-wobbly-house-of-cards",
-          "date": "Mon, 21 Sep 2026 12:04:52 -0400"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<urlopen error [Errno 104] Connection reset by peer>"
     },
     {
       "name": "Artificial Intelligence Latest - Wired",
