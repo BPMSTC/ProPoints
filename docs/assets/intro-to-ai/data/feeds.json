@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T19:32:49.752433+00:00",
+  "generatedAt": "2026-09-22T22:42:31.864392+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,21 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+          "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+          "date": "Tue, 22 Sep 2026 21:56:43 +0000"
+        },
+        {
+          "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+          "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+          "date": "Tue, 22 Sep 2026 20:00:00 +0000"
+        },
+        {
+          "title": "Meta admits Muse\u2019s likeness to OpenClaw isn\u2019t a coincidence",
+          "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+          "date": "Tue, 22 Sep 2026 19:09:11 +0000"
+        },
+        {
           "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
           "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
           "date": "Tue, 22 Sep 2026 18:00:00 +0000"
@@ -116,21 +131,6 @@
           "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
           "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
           "date": "Tue, 22 Sep 2026 16:30:07 +0000"
-        },
-        {
-          "title": "AstroForge is putting AI in command of its next spacecraft",
-          "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
-          "date": "Tue, 22 Sep 2026 15:00:00 +0000"
-        },
-        {
-          "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-          "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-          "date": "Tue, 22 Sep 2026 15:00:00 +0000"
-        },
-        {
-          "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot\u2019s Stretch 4 to life onstage",
-          "link": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
-          "date": "Tue, 22 Sep 2026 14:30:00 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -394,29 +394,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Review: Resident Evil is the fresh take this flagging franchise really needed",
+          "title": "Cities across US oppose Trump FCC plan to preempt local broadband rules",
+          "link": "https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules/",
+          "date": "Tue, 22 Sep 2026 20:38:30 +0000"
+        },
+        {
+          "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+          "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+          "date": "Tue, 22 Sep 2026 19:45:47 +0000"
+        },
+        {
+          "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
+          "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
+          "date": "Tue, 22 Sep 2026 19:28:23 +0000"
+        },
+        {
+          "title": "Adobe Premiere finally brings powerful video editing to Android, and it's free",
+          "link": "https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/",
+          "date": "Tue, 22 Sep 2026 19:08:58 +0000"
+        },
+        {
+          "title": "Review: Resident Evil might just be the best gaming adaptation yet",
           "link": "https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/",
           "date": "Tue, 22 Sep 2026 17:30:07 +0000"
-        },
-        {
-          "title": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
-          "link": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
-          "date": "Tue, 22 Sep 2026 17:06:16 +0000"
-        },
-        {
-          "title": "IT mistake erases 11 years of viewing history for hospitals\u2019 maternity records",
-          "link": "https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/",
-          "date": "Tue, 22 Sep 2026 16:55:40 +0000"
-        },
-        {
-          "title": "Effort begins to fill the void left by terminated US climate report",
-          "link": "https://arstechnica.com/science/2026/09/effort-begins-to-fill-the-void-left-by-terminated-us-climate-report/",
-          "date": "Tue, 22 Sep 2026 16:26:30 +0000"
-        },
-        {
-          "title": "Shuffling the deck chairs: Xbox continues its \"reset\" with dramatic restructuring",
-          "link": "https://arstechnica.com/gaming/2026/09/shuffling-the-deck-chairs-xbox-continues-its-reset-with-dramatic-restructuring/",
-          "date": "Tue, 22 Sep 2026 15:30:53 +0000"
         }
       ],
       "error": null
@@ -431,6 +431,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "How would AI actually kill all humans? Here are the top 5 scenarios",
+          "link": "https://theconversation.com/how-would-ai-actually-kill-all-humans-here-are-the-top-5-scenarios-292220",
+          "date": "2026-09-22T20:16:12Z"
+        },
         {
           "title": "Russia-Ukraine war is accelerating the dangerous race toward fully autonomous drones",
           "link": "https://theconversation.com/russia-ukraine-war-is-accelerating-the-dangerous-race-toward-fully-autonomous-drones-290877",
@@ -450,11 +455,6 @@
           "title": "Calls for global regulation of AI are growing. What exactly could it look like?",
           "link": "https://theconversation.com/calls-for-global-regulation-of-ai-are-growing-what-exactly-could-it-look-like-292243",
           "date": "2026-09-21T20:09:34Z"
-        },
-        {
-          "title": "Making mental health chatbots more culturally sensitive won\u2019t necessarily make them safer",
-          "link": "https://theconversation.com/making-mental-health-chatbots-more-culturally-sensitive-wont-necessarily-make-them-safer-290782",
-          "date": "2026-09-21T16:13:44Z"
         }
       ],
       "error": null
@@ -467,6 +467,11 @@
           "title": "The world freaked out about AI doomsday. Now what?",
           "link": "https://www.theguardian.com/technology/2026/sep/22/ai-doomsday-trump-xi",
           "date": "Tue, 22 Sep 2026 13:00:03 GMT"
+        },
+        {
+          "title": "Trump praises relations with Burnham despite tensions over AI and Iran",
+          "link": "https://www.theguardian.com/us-news/2026/sep/22/trump-says-relations-better-with-burnham-than-starmer-after-first-face-to-face-meeting",
+          "date": "Tue, 22 Sep 2026 19:50:36 GMT"
         },
         {
           "title": "UK politics: Trump says he has a better UK relationship with Burnham as PM \u2013 as it happened",
@@ -482,11 +487,6 @@
           "title": "Nick Clegg could make \u00a330m windfall from datacentre startup Nscale flotation",
           "link": "https://www.theguardian.com/business/2026/sep/22/nick-clegg-30m-windfall-datacentre-flotation-nscale",
           "date": "Tue, 22 Sep 2026 14:57:46 GMT"
-        },
-        {
-          "title": "Superpowers cannot solve world\u2019s problems, UN chief says in final general assembly address",
-          "link": "https://www.theguardian.com/world/2026/sep/22/un-chief-antonio-guterres-final-general-assembly-address",
-          "date": "Tue, 22 Sep 2026 13:30:55 GMT"
         }
       ],
       "error": null
@@ -528,6 +528,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Trump Says No Need to Regulate AI, Since That Strategy Is Working Fine for Climate Change",
+          "link": "https://futurism.com/future-society/trump-regulate-ai-deregulation-climate-change-united-nations",
+          "date": "Tue, 22 Sep 2026 17:12:17 -0400"
+        },
+        {
+          "title": "Former Air Traffic Controller Terrified New AI System Will Hallucinate and Cause Catastrophe",
+          "link": "https://futurism.com/advanced-transport/air-traffic-control-terrified-ai-smart-system-hallucination-catastrophe",
+          "date": "Tue, 22 Sep 2026 16:16:41 -0400"
+        },
+        {
           "title": "Robin Williams\u2019 Daughter Horrified by People Creating AI Conspiracy Videos of Her Dad Long After His Death",
           "link": "https://futurism.com/artificial-intelligence/robin-williams-daughter-ai-conspiracy-videos",
           "date": "Tue, 22 Sep 2026 13:45:23 -0400"
@@ -541,16 +551,6 @@
           "title": "Trump Addresses United Nations to Declare That the United States Is Now Calling Artificial Intelligence \u201cSuper Intelligence\u201d in \u201cAll Official Documents\u201d",
           "link": "https://futurism.com/artificial-intelligence/donald-trump-un-super-intelligence",
           "date": "Tue, 22 Sep 2026 11:35:46 -0400"
-        },
-        {
-          "title": "Is There a Secret Reason for the Industry-Wide AI Slowdown?",
-          "link": "https://futurism.com/artificial-intelligence/secret-reason-ai-slowdown",
-          "date": "Tue, 22 Sep 2026 11:06:51 -0400"
-        },
-        {
-          "title": "Meta\u2019s New Muse AI Agent May Be the Creepiest Ever Released",
-          "link": "https://futurism.com/artificial-intelligence/meta-muse-ai-agent-creepy",
-          "date": "Tue, 22 Sep 2026 10:03:11 -0400"
         }
       ],
       "error": null
@@ -565,24 +565,24 @@
           "date": "Tue, 22 Sep 2026 18:19:13 +0000"
         },
         {
-          "title": "Rabbit Is Back, This Time With an AI Agent App",
-          "link": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/",
-          "date": "Tue, 22 Sep 2026 16:00:00 +0000"
-        },
-        {
           "title": "Viture\u2019s Vonder Glasses Are Meant to Map Your Mind",
           "link": "https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/",
-          "date": "Tue, 22 Sep 2026 13:00:00 +0000"
-        },
-        {
-          "title": "AI Models Built From Rat Brains Just Got Closer to Reality",
-          "link": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/",
           "date": "Tue, 22 Sep 2026 13:00:00 +0000"
         },
         {
           "title": "I Built AI Clones of My Coworkers. Things Got Weird",
           "link": "https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/",
           "date": "Tue, 22 Sep 2026 10:30:00 +0000"
+        },
+        {
+          "title": "Patti Harrison Had Dreams of a Tech Utopia. Silicon Valley Smashed Them",
+          "link": "https://www.wired.com/story/big-interview-patti-harrison/",
+          "date": "Tue, 22 Sep 2026 10:00:00 +0000"
+        },
+        {
+          "title": "AI, Tariffs, Rare Minerals: What to Expect From Trump\u2019s Upcoming Summit With Xi Jinping",
+          "link": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/",
+          "date": "Mon, 21 Sep 2026 18:33:02 +0000"
         }
       ],
       "error": null
