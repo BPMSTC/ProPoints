@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-09-23T22:01:17.822920+00:00",
+  "generatedAt": "2026-09-24T01:02:00.167433+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "FBI Hack Exposed FBI\u2019s Own Hacking Unit",
+          "link": "https://www.404media.co/fbi-hack-exposed-fbis-own-hacking-unit-remote-operations-shinyhunters/",
+          "date": "Wed, 23 Sep 2026 22:15:10 GMT"
+        },
         {
           "title": "An Invisible Force Has a Mysterious Effect on Aging, Scientists Discover in 'Startling' Breakthrough",
           "link": "https://www.404media.co/earth-magnetic-field-effects-on-aging-study/",
@@ -24,11 +29,6 @@
           "title": "\u2018We Hacked the FBI:\u2019 Hackers Say They Have Data on All FBI Employees",
           "link": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
           "date": "Tue, 22 Sep 2026 16:48:53 GMT"
-        },
-        {
-          "title": "Meta Tests Muse AI Agent Calls That Are Actually Made By Humans in a Call Center",
-          "link": "https://www.404media.co/meta-tests-muse-ai-agent-calls-that-are-actually-made-by-humans-in-a-call-center/",
-          "date": "Tue, 22 Sep 2026 16:33:15 GMT"
         }
       ],
       "error": null
@@ -108,6 +108,21 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+          "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+          "date": "Thu, 24 Sep 2026 00:46:17 +0000"
+        },
+        {
+          "title": "Meta introduces camera-free AI glasses",
+          "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+          "date": "Wed, 23 Sep 2026 23:39:44 +0000"
+        },
+        {
+          "title": "Anthropic says its biology lab has already found something big",
+          "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+          "date": "Wed, 23 Sep 2026 22:17:39 +0000"
+        },
+        {
           "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
           "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
           "date": "Wed, 23 Sep 2026 19:31:28 +0000"
@@ -116,21 +131,6 @@
           "title": "ChatGPT mobile app gets voice-based agentic features",
           "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
           "date": "Wed, 23 Sep 2026 17:00:00 +0000"
-        },
-        {
-          "title": "Even Americans who use AI every day are worried about it",
-          "link": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
-          "date": "Wed, 23 Sep 2026 16:49:58 +0000"
-        },
-        {
-          "title": "YouTube Music gets more conversational with new AI features",
-          "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
-          "date": "Wed, 23 Sep 2026 15:19:30 +0000"
-        },
-        {
-          "title": "YouTube will let you build your own algorithm with AI",
-          "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
-          "date": "Wed, 23 Sep 2026 14:30:00 +0000"
         }
       ],
       "error": null
@@ -280,29 +280,29 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Google launches two benchmark-topping speech generation models",
+          "link": "https://siliconangle.com/2026/09/23/google-launches-two-benchmark-topping-speech-generation-models/",
+          "date": "Thu, 24 Sep 2026 00:22:07 +0000"
+        },
+        {
+          "title": "Containment is dead: Five takeaways from the AI ROI in Contact Center Summit",
+          "link": "https://siliconangle.com/2026/09/23/containment-is-dead-five-takeaways-from-the-ai-roi-in-contact-center-summit/",
+          "date": "Wed, 23 Sep 2026 23:18:36 +0000"
+        },
+        {
+          "title": "UiPath introduces new workflow automation, software testing features",
+          "link": "https://siliconangle.com/2026/09/23/uipath-introduces-new-workflow-automation-software-testing-features/",
+          "date": "Wed, 23 Sep 2026 22:45:06 +0000"
+        },
+        {
+          "title": "The Transformation Edge: Why AI is forcing the CFO and CHRO to rewrite the enterprise together",
+          "link": "https://siliconangle.com/2026/09/23/workforce-economics-ai-csuite-ibm-ibmtransformationedgeseries/",
+          "date": "Wed, 23 Sep 2026 22:18:27 +0000"
+        },
+        {
           "title": "Workforce economics emerges as AI reshapes the C-suite",
           "link": "https://siliconangle.com/2026/09/23/workforce-economics-ai-strategy-ibmtransformationedgeseries/",
           "date": "Wed, 23 Sep 2026 21:18:50 +0000"
-        },
-        {
-          "title": "AI drug discovery startup Basecamp Research raises $140M",
-          "link": "https://siliconangle.com/2026/09/23/ai-drug-discovery-startup-basecamp-research-raises-140m/",
-          "date": "Wed, 23 Sep 2026 20:42:05 +0000"
-        },
-        {
-          "title": "Rabbit returns with OS3, a personal AI agent that can access files and connect computers",
-          "link": "https://siliconangle.com/2026/09/23/rabbit-returns-with-os3-a-personal-ai-agent-that-can-access-files-and-connect-computers/",
-          "date": "Wed, 23 Sep 2026 16:20:02 +0000"
-        },
-        {
-          "title": "ZeroDrift launches three models for real-time AI compliance checks",
-          "link": "https://siliconangle.com/2026/09/23/zerodrift-launches-three-models-for-real-time-ai-compliance-checks/",
-          "date": "Wed, 23 Sep 2026 13:00:48 +0000"
-        },
-        {
-          "title": "NextLM brings its precision prospecting agent to Google Cloud Marketplace",
-          "link": "https://siliconangle.com/2026/09/23/nextlm-brings-its-precision-prospecting-agent-to-google-cloud-marketplace/",
-          "date": "Wed, 23 Sep 2026 13:00:42 +0000"
         }
       ],
       "error": null
@@ -394,29 +394,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "XPRIZE Wildfire winners spotted fires within 10 min\u2014but couldn\u2019t stop them",
-          "link": "https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them/",
-          "date": "Wed, 23 Sep 2026 20:28:42 +0000"
+          "title": "RFK Jr.'s CDC isn\u2019t letting states order COVID-19 shots for kids, blocking access",
+          "link": "https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/",
+          "date": "Wed, 23 Sep 2026 22:17:25 +0000"
         },
         {
-          "title": "Discord age verification rolls out today with changes spurred by user backlash",
-          "link": "https://arstechnica.com/tech-policy/2026/09/discord-age-verification-rolls-out-today-with-changes-spurred-by-user-backlash/",
-          "date": "Wed, 23 Sep 2026 20:05:13 +0000"
+          "title": "FBI rushes to investigate if ShinyHunters hack of thousands of employees is real",
+          "link": "https://arstechnica.com/tech-policy/2026/09/fbi-rushes-to-investigate-if-shinyhunters-hack-of-thousands-of-employees-is-real/",
+          "date": "Wed, 23 Sep 2026 21:46:36 +0000"
         },
         {
-          "title": "YouTube promises custom feeds and a lot more AI later this year",
-          "link": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/",
-          "date": "Wed, 23 Sep 2026 19:35:53 +0000"
+          "title": "Disney+ and Hulu raise prices by up to 13 percent after doubling profits",
+          "link": "https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/",
+          "date": "Wed, 23 Sep 2026 21:18:53 +0000"
         },
         {
-          "title": "Contrary to some reports, you don't have two brains",
-          "link": "https://arstechnica.com/science/2026/09/contrary-to-some-reports-you-dont-have-two-brains/",
-          "date": "Wed, 23 Sep 2026 18:47:36 +0000"
+          "title": "Here's the Torcal, the first fully electric Bentley",
+          "link": "https://arstechnica.com/cars/2026/09/heres-the-torcal-the-first-fully-electric-bentley/",
+          "date": "Wed, 23 Sep 2026 21:06:07 +0000"
         },
         {
-          "title": "Netflix releases trailer for Brad Bird's Ray Gunn",
-          "link": "https://arstechnica.com/culture/2026/09/netflix-drops-trailer-for-brad-birds-ray-gunn/",
-          "date": "Wed, 23 Sep 2026 18:26:50 +0000"
+          "title": "Trump\u2019s China rivalry and \u201cAI race\u201d delusion may endanger US, experts say",
+          "link": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/",
+          "date": "Wed, 23 Sep 2026 20:52:28 +0000"
         }
       ],
       "error": null
@@ -464,14 +464,19 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Anthony Albanese says OpenAI agent hacked Medicare and he expressed \u2018extreme concern\u2019 to Sam Altman",
-          "link": "https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman",
-          "date": "Wed, 23 Sep 2026 21:55:30 GMT"
+          "title": "Senator confirms \u2018eight suicide attempts\u2019 by US navy personnel assigned to USS Abraham Lincoln carrier group \u2013 live",
+          "link": "https://www.theguardian.com/us-news/live/2026/sep/23/donald-trump-xi-jinping-ai-china-us-politics-latest-news-updates",
+          "date": "Thu, 24 Sep 2026 00:41:13 GMT"
         },
         {
-          "title": "Judge promises to rule soon on Trump\u2019s ban of journalists from the White House \u2013 live",
-          "link": "https://www.theguardian.com/us-news/live/2026/sep/23/donald-trump-xi-jinping-ai-china-us-politics-latest-news-updates",
-          "date": "Wed, 23 Sep 2026 21:49:05 GMT"
+          "title": "Albanese says OpenAI hacked Medicare and told Australia months later via email to generic inbox",
+          "link": "https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman",
+          "date": "Thu, 24 Sep 2026 00:20:47 GMT"
+        },
+        {
+          "title": "Meta debuts no-camera smart glasses and virtual reality spectacles",
+          "link": "https://www.theguardian.com/technology/2026/sep/23/meta-smart-vr-glasses",
+          "date": "Thu, 24 Sep 2026 00:00:02 GMT"
         },
         {
           "title": "OpenAI\u2019s Altman and Anthropic\u2019s Amodei address UN security council",
@@ -482,11 +487,6 @@
           "title": "\u2018I miss old Google\u2019: readers tell us how they search the internet in the age of AI",
           "link": "https://www.theguardian.com/technology/2026/sep/23/google-readers-respond-ai-overview-internet-searches",
           "date": "Wed, 23 Sep 2026 19:51:12 GMT"
-        },
-        {
-          "title": "How the \u2018poisonous tide\u2019 of disinformation spreads division and despair",
-          "link": "https://www.theguardian.com/world/2026/sep/23/how-the-poisonous-tide-of-disinformation-stokes-division-and-sows-despair",
-          "date": "Wed, 23 Sep 2026 19:24:39 GMT"
         }
       ],
       "error": null
@@ -560,6 +560,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
+          "link": "https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/",
+          "date": "Wed, 23 Sep 2026 23:42:44 +0000"
+        },
+        {
           "title": "A US-China AI Hotline Won't Be Ready For a While",
           "link": "https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/",
           "date": "Wed, 23 Sep 2026 21:00:00 +0000"
@@ -578,11 +583,6 @@
           "title": "Meta\u2019s Muse AI Assistant Rolled Out With a Serious Security Flaw",
           "link": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/",
           "date": "Wed, 23 Sep 2026 12:54:58 +0000"
-        },
-        {
-          "title": "AT&T Is Automating Away Jobs\u2014and Its Old Telecom Empire",
-          "link": "https://www.wired.com/story/atandt-is-automating-away-its-old-telecom-empire/",
-          "date": "Wed, 23 Sep 2026 10:15:00 +0000"
         }
       ],
       "error": null
