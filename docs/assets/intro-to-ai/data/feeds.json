@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-09-24T13:09:19.649614+00:00",
+  "generatedAt": "2026-09-24T18:08:53.659733+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "This \u2018World of Warcraft: Forever\u2019 Mod Blocks All Interactions With Asmongold Fans",
+          "link": "https://www.404media.co/this-world-of-warcraft-forever-mod-blocks-all-interactions-with-asmongold-fans/",
+          "date": "Thu, 24 Sep 2026 17:46:37 GMT"
+        },
+        {
+          "title": "Watch Body Cam of Man Arrested for Just Cussing at a County Meeting",
+          "link": "https://www.404media.co/watch-body-cam-of-man-arrested-for-just-cussing-at-a-county-meeting/",
+          "date": "Thu, 24 Sep 2026 13:24:31 GMT"
+        },
         {
           "title": "FBI Hack Exposed FBI\u2019s Own Hacking Unit",
           "link": "https://www.404media.co/fbi-hack-exposed-fbis-own-hacking-unit-remote-operations-shinyhunters/",
@@ -19,16 +29,6 @@
           "title": "Woman Arrested, Dragged Away After Quietly Speaking About Flock at City Council Meeting",
           "link": "https://www.404media.co/woman-arrested-after-city-council-denies-residents-right-to-speak-on-flock-cameras/",
           "date": "Wed, 23 Sep 2026 14:25:34 GMT"
-        },
-        {
-          "title": "Americans Fear AI Will Make the World Worse, Love It Anyway",
-          "link": "https://www.404media.co/americans-love-to-use-ai-but-fear-it-will-make-the-world-worse-according-to-new-study/",
-          "date": "Wed, 23 Sep 2026 11:13:53 GMT"
-        },
-        {
-          "title": "\u2018We Hacked the FBI:\u2019 Hackers Say They Have Data on All FBI Employees",
-          "link": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
-          "date": "Tue, 22 Sep 2026 16:48:53 GMT"
         }
       ],
       "error": null
@@ -108,29 +108,29 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
-          "title": "Australia to investigate if OpenAI hack of government health website broke the law",
-          "link": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
-          "date": "Thu, 24 Sep 2026 12:54:19 +0000"
+          "title": "Meta\u2019s Muse Charm looks like a Tamagotchi, but it\u2019s tapping into a much newer trend",
+          "link": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+          "date": "Thu, 24 Sep 2026 17:39:24 +0000"
         },
         {
-          "title": "Everything new coming to Meta\u2019s AI agent Muse",
-          "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-          "date": "Thu, 24 Sep 2026 01:13:32 +0000"
+          "title": "Google Photos \u2018Clueless\u2019-inspired virtual closet is now available on Android and iOS",
+          "link": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+          "date": "Thu, 24 Sep 2026 17:00:00 +0000"
         },
         {
-          "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-          "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-          "date": "Thu, 24 Sep 2026 00:46:17 +0000"
+          "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+          "link": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+          "date": "Thu, 24 Sep 2026 16:46:47 +0000"
         },
         {
-          "title": "Meta introduces camera-free AI glasses",
-          "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-          "date": "Wed, 23 Sep 2026 23:39:44 +0000"
+          "title": "20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
+          "link": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+          "date": "Thu, 24 Sep 2026 16:35:13 +0000"
         },
         {
-          "title": "Anthropic says its biology lab has already found something big",
-          "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
-          "date": "Wed, 23 Sep 2026 22:17:39 +0000"
+          "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+          "date": "Thu, 24 Sep 2026 16:03:36 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -280,6 +280,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "US is head over heels for AI agents, while Europe remains dubious",
+          "link": "https://siliconangle.com/2026/09/24/europe-agentic-ai-oracleaicybersecurity/",
+          "date": "Thu, 24 Sep 2026 16:53:30 +0000"
+        },
+        {
           "title": "Dataiku debuts cross-platform Agent Management, expands Cobuild building agent",
           "link": "https://siliconangle.com/2026/09/24/dataiku-debuts-cross-platform-agent-management-expands-cobuild-building-agent/",
           "date": "Thu, 24 Sep 2026 13:00:35 +0000"
@@ -298,11 +303,6 @@
           "title": "Containment is dead: Five takeaways from the AI ROI in Contact Center Summit",
           "link": "https://siliconangle.com/2026/09/23/containment-is-dead-five-takeaways-from-the-ai-roi-in-contact-center-summit/",
           "date": "Wed, 23 Sep 2026 23:18:36 +0000"
-        },
-        {
-          "title": "UiPath introduces new workflow automation, software testing features",
-          "link": "https://siliconangle.com/2026/09/23/uipath-introduces-new-workflow-automation-software-testing-features/",
-          "date": "Wed, 23 Sep 2026 22:45:06 +0000"
         }
       ],
       "error": null
@@ -362,6 +362,11 @@
       "url": "https://huggingface.co/blog/feed.xml",
       "items": [
         {
+          "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+          "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+          "date": "Thu, 24 Sep 2026 14:08:57 GMT"
+        },
+        {
           "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
           "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
           "date": "Wed, 23 Sep 2026 18:41:40 GMT"
@@ -380,11 +385,6 @@
           "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
           "link": "https://huggingface.co/blog/omlx",
           "date": "Tue, 22 Sep 2026 00:00:00 GMT"
-        },
-        {
-          "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-          "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-          "date": "Mon, 21 Sep 2026 13:44:34 GMT"
         }
       ],
       "error": null
@@ -393,6 +393,16 @@
       "name": "Ars Technica - All content",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
+        {
+          "title": "NASA chief concerned China may deny access to parts of South Pole",
+          "link": "https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/",
+          "date": "Thu, 24 Sep 2026 14:57:50 +0000"
+        },
+        {
+          "title": "Meta puts its AI assistant on a keychain",
+          "link": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
+          "date": "Thu, 24 Sep 2026 14:03:38 +0000"
+        },
         {
           "title": "There's a new way to break RSA that's faster than anything we've seen before",
           "link": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
@@ -407,16 +417,6 @@
           "title": "RFK Jr.'s CDC isn\u2019t letting states order COVID-19 shots for kids, blocking access",
           "link": "https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/",
           "date": "Wed, 23 Sep 2026 22:17:25 +0000"
-        },
-        {
-          "title": "FBI rushes to investigate if ShinyHunters hack of thousands of employees is real",
-          "link": "https://arstechnica.com/tech-policy/2026/09/fbi-rushes-to-investigate-if-shinyhunters-hack-of-thousands-of-employees-is-real/",
-          "date": "Wed, 23 Sep 2026 21:46:36 +0000"
-        },
-        {
-          "title": "Disney+ and Hulu raise prices by up to 13 percent after doubling profits",
-          "link": "https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/",
-          "date": "Wed, 23 Sep 2026 21:18:53 +0000"
         }
       ],
       "error": null
@@ -432,6 +432,21 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Government hacks, rogue agents and no transparency: can we ever fully trust AI?",
+          "link": "https://theconversation.com/government-hacks-rogue-agents-and-no-transparency-can-we-ever-fully-trust-ai-292536",
+          "date": "2026-09-24T15:03:26Z"
+        },
+        {
+          "title": "Trump and Xi face an AI security dilemma \u2013 but face-to-face diplomacy could be a start in mitigating it",
+          "link": "https://theconversation.com/trump-and-xi-face-an-ai-security-dilemma-but-face-to-face-diplomacy-could-be-a-start-in-mitigating-it-292644",
+          "date": "2026-09-24T13:27:51Z"
+        },
+        {
+          "title": "AI tools can help Americans meet their civil legal needs",
+          "link": "https://theconversation.com/ai-tools-can-help-americans-meet-their-civil-legal-needs-290772",
+          "date": "2026-09-24T12:47:45Z"
+        },
+        {
           "title": "Grattan on Friday: when rogue AI agent \u2018scaled a fence\u2019, it reinforced Albanese\u2019s case for tough guardrails",
           "link": "https://theconversation.com/grattan-on-friday-when-rogue-ai-agent-scaled-a-fence-it-reinforced-albaneses-case-for-tough-guardrails-292588",
           "date": "2026-09-24T08:03:23Z"
@@ -440,21 +455,6 @@
           "title": "An AI model has found a new \u2018CRISPR-like\u2019 biological system. Here\u2019s what it means for science",
           "link": "https://theconversation.com/an-ai-model-has-found-a-new-crispr-like-biological-system-heres-what-it-means-for-science-292777",
           "date": "2026-09-24T06:19:31Z"
-        },
-        {
-          "title": "What does the OpenAI Medicare hack reveal about Australia\u2019s cyber security?",
-          "link": "https://theconversation.com/what-does-the-openai-medicare-hack-reveal-about-australias-cyber-security-292774",
-          "date": "2026-09-24T04:00:05Z"
-        },
-        {
-          "title": "An OpenAI agent hacked Medicare. Will anyone be held responsible?",
-          "link": "https://theconversation.com/an-openai-agent-hacked-medicare-will-anyone-be-held-responsible-292763",
-          "date": "2026-09-24T02:56:14Z"
-        },
-        {
-          "title": "Unis and schools are moving away from AI-detection software. They should stop using it altogether",
-          "link": "https://theconversation.com/unis-and-schools-are-moving-away-from-ai-detection-software-they-should-stop-using-it-altogether-292593",
-          "date": "2026-09-23T20:10:46Z"
         }
       ],
       "error": null
@@ -464,29 +464,29 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Nick Clegg plays down fears \u2018godlike\u2019 AI could exterminate humanity",
-          "link": "https://www.theguardian.com/technology/2026/sep/24/nick-clegg-plays-down-fears-godlike-ai-could-exterminate-humanity",
-          "date": "Thu, 24 Sep 2026 09:19:28 GMT"
+          "title": "Launch of UK\u2019s \u2018largest AI supercomputer\u2019 delayed by power supply problems",
+          "link": "https://www.theguardian.com/technology/2026/sep/24/construction-largest-supercomputer-delayed",
+          "date": "Thu, 24 Sep 2026 17:26:26 GMT"
         },
         {
-          "title": "Global bond sell-off piles new pressure on UK borrowing costs before budget",
-          "link": "https://www.theguardian.com/business/2026/sep/24/global-bond-sell-off-pressures-uk-borrowing-costs-budget",
-          "date": "Thu, 24 Sep 2026 11:41:08 GMT"
+          "title": "Trump touts \u2018great meeting\u2019 with China\u2019s Xi Jinping at White House \u2013 live",
+          "link": "https://www.theguardian.com/us-news/live/2026/sep/24/trump-xi-jinping-china-ai-trade-summit-latest-news-updates",
+          "date": "Thu, 24 Sep 2026 18:05:15 GMT"
         },
         {
-          "title": "\u2018This gap opens up of doubt and scepticism about everything\u2019: Jess and Morgs confront the politics of deepfakes",
-          "link": "https://www.theguardian.com/stage/2026/sep/24/jess-and-morgs-deepfake-dance",
-          "date": "Thu, 24 Sep 2026 09:03:45 GMT"
+          "title": "Rogue AI hacks government system for first time - The Latest",
+          "link": "https://www.theguardian.com/news/video/2026/sep/24/rogue-ai-hacks-government-system-for-first-time-the-latest",
+          "date": "Thu, 24 Sep 2026 17:14:53 GMT"
         },
         {
-          "title": "OpenAI\u2019s Medicare hack is a bleak opportunity for Australia to address its security shortcomings post-haste | Van Badham",
-          "link": "https://www.theguardian.com/commentisfree/2026/sep/24/open-ai-medicare-records-hacked-australia-cyber-security",
-          "date": "Thu, 24 Sep 2026 07:27:31 GMT"
+          "title": "Ben Jennings on smart glasses and AI hacks \u2013 cartoon",
+          "link": "https://www.theguardian.com/commentisfree/picture/2026/sep/24/ben-jennings-smart-glasses-ai-hacks-cartoon",
+          "date": "Thu, 24 Sep 2026 16:25:06 GMT"
         },
         {
-          "title": "An OpenAI agent infiltrated Medicare \u2013 and Australia only found out months later. Here\u2019s what we know so far",
-          "link": "https://www.theguardian.com/technology/2026/sep/24/openai-agent-hacked-medicare-australia-what-we-know-so-far-ntwnfb",
-          "date": "Thu, 24 Sep 2026 05:57:02 GMT"
+          "title": "Rogue AI hacks government system for first time \u2013 The Latest",
+          "link": "https://www.theguardian.com/news/audio/2026/sep/24/rogue-ai-hacks-government-system-for-first-time-the-latest",
+          "date": "Thu, 24 Sep 2026 16:21:58 GMT"
         }
       ],
       "error": null
@@ -528,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "The Situation at Alpha School Is Darker Than We Thought Possible",
+          "link": "https://futurism.com/artificial-intelligence/situation-alpha-school-darker-possible",
+          "date": "Thu, 24 Sep 2026 12:13:51 -0400"
+        },
+        {
           "title": "Google Has Its Hand Around the Throat of the Independent Media and It\u2019s Squeezing Harder and Harder",
           "link": "https://futurism.com/artificial-intelligence/google-independent-media-journalism-choking-search-ai-overview",
           "date": "Thu, 24 Sep 2026 08:42:18 -0400"
@@ -546,11 +551,6 @@
           "title": "Former Google Exec Warns That AI Could Be Causing Terrible Harm to Minors, Even Worse Than Social Media",
           "link": "https://futurism.com/artificial-intelligence/former-google-exec-ai-harm-minors",
           "date": "Wed, 23 Sep 2026 14:05:06 -0400"
-        },
-        {
-          "title": "Stanford University Caught Using AI to Create Fake Black Student on Banners Hung Around Campus",
-          "link": "https://futurism.com/artificial-intelligence/stanford-ai-fake-black-student",
-          "date": "Wed, 23 Sep 2026 12:46:23 -0400"
         }
       ],
       "error": null
@@ -559,6 +559,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Google\u2019s Gemini Can Now Make Calls for You on Pixel Phones",
+          "link": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/",
+          "date": "Thu, 24 Sep 2026 16:00:00 +0000"
+        },
         {
           "title": "An OpenAI Agent Hacked Australia\u2019s Health Service. Their Government Found Out Months Later",
           "link": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
@@ -570,7 +575,7 @@
           "date": "Wed, 23 Sep 2026 23:42:44 +0000"
         },
         {
-          "title": "A US-China AI Hotline Won't Be Ready For a While",
+          "title": "A US-China AI Hotline Won\u2019t Be Ready for a While",
           "link": "https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/",
           "date": "Wed, 23 Sep 2026 21:00:00 +0000"
         },
@@ -578,11 +583,6 @@
           "title": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
           "link": "https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/",
           "date": "Wed, 23 Sep 2026 18:30:00 +0000"
-        },
-        {
-          "title": "The Pope\u2019s AI Guy Is Worried About \u2018Cartel\u2019 Behavior Among Big Labs",
-          "link": "https://www.wired.com/story/popes-ai-advisor-warns-of-cartel-behavior-big-labs/",
-          "date": "Wed, 23 Sep 2026 18:03:00 +0000"
         }
       ],
       "error": null
