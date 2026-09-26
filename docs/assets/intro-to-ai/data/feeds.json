@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T23:47:03.492623+00:00",
+  "generatedAt": "2026-09-26T03:23:44.489146+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -280,6 +280,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "What to expect at Dell\u2019s AI Leadership Symposium: Join theCUBE Sept. 29",
+          "link": "https://siliconangle.com/2026/09/25/dell-ai-infrastructure-leadership-symposium-dellaileadershipsymposium/",
+          "date": "Sat, 26 Sep 2026 00:55:38 +0000"
+        },
+        {
           "title": "What to expect at NetApp INSIGHT: Join theCUBE Sept. 30",
           "link": "https://siliconangle.com/2026/09/25/unified-storage-data-ai-netappinsight/",
           "date": "Fri, 25 Sep 2026 22:07:38 +0000"
@@ -298,11 +303,6 @@
           "title": "Vanderbilt University extends identity governance to AI agents",
           "link": "https://siliconangle.com/2026/09/25/vanderbilt-university-extends-identity-governance-ai-agents-oktane/",
           "date": "Fri, 25 Sep 2026 19:44:57 +0000"
-        },
-        {
-          "title": "Closing the gap between your AI eyes and stomach at HumanX",
-          "link": "https://siliconangle.com/2026/09/25/closing-the-gap-between-your-ai-eyes-and-stomach-at-humanx/",
-          "date": "Fri, 25 Sep 2026 18:42:04 +0000"
         }
       ],
       "error": null
@@ -394,29 +394,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Can Trump ever be wrong? His pick to lead FDA refused to say.",
+          "link": "https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/",
+          "date": "Fri, 25 Sep 2026 23:00:26 +0000"
+        },
+        {
+          "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+          "link": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
+          "date": "Fri, 25 Sep 2026 21:36:20 +0000"
+        },
+        {
+          "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
+          "link": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
+          "date": "Fri, 25 Sep 2026 21:10:51 +0000"
+        },
+        {
+          "title": "Your uncle\u2019s frozen Mac says it\u2019s infected after viewing a Google ad. Now what?",
+          "link": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
+          "date": "Fri, 25 Sep 2026 19:38:59 +0000"
+        },
+        {
           "title": "Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)",
           "link": "https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/",
           "date": "Fri, 25 Sep 2026 19:34:42 +0000"
-        },
-        {
-          "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
-          "link": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
-          "date": "Fri, 25 Sep 2026 19:11:05 +0000"
-        },
-        {
-          "title": "Paramount/WBD merger conditions give the public \"virtually nothing,\" judge is told",
-          "link": "https://arstechnica.com/tech-policy/2026/09/paramount-wbd-merger-conditions-give-the-public-virtually-nothing-judge-is-told/",
-          "date": "Fri, 25 Sep 2026 18:42:57 +0000"
-        },
-        {
-          "title": "Is solar's growth finally slowing in the US?",
-          "link": "https://arstechnica.com/science/2026/09/is-solars-growth-finally-slowing-in-the-us/",
-          "date": "Fri, 25 Sep 2026 18:27:18 +0000"
-        },
-        {
-          "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
-          "link": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
-          "date": "Fri, 25 Sep 2026 17:57:37 +0000"
         }
       ],
       "error": null
@@ -424,33 +424,7 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "Bill Gates warns AI is powerful enough to cause \"a billion deaths\"",
-          "link": "https://www.reddit.com/r/artificial/comments/1wq7w7l/bill_gates_warns_ai_is_powerful_enough_to_cause_a/",
-          "date": "2026-09-25T21:04:17+00:00"
-        },
-        {
-          "title": "Why have AI companies started getting scared now?",
-          "link": "https://www.reddit.com/r/artificial/comments/1wpr1uk/why_have_ai_companies_started_getting_scared_now/",
-          "date": "2026-09-25T08:41:20+00:00"
-        },
-        {
-          "title": "The True Definition of a Bubble",
-          "link": "https://www.reddit.com/r/artificial/comments/1wqawyl/the_true_definition_of_a_bubble/",
-          "date": "2026-09-25T23:14:32+00:00"
-        },
-        {
-          "title": "I can't think of anything that I would like less than that",
-          "link": "https://www.reddit.com/r/artificial/comments/1wpjbqy/i_cant_think_of_anything_that_i_would_like_less/",
-          "date": "2026-09-25T01:23:12+00:00"
-        },
-        {
-          "title": "A competition for small neural networks that play strategy games",
-          "link": "https://www.reddit.com/r/artificial/comments/1wq8nsv/a_competition_for_small_neural_networks_that_play/",
-          "date": "2026-09-25T21:36:09+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
@@ -495,14 +469,14 @@
           "date": "Fri, 25 Sep 2026 22:11:52 GMT"
         },
         {
-          "title": "US supreme court rejects Republican-drawn midterm map in Missouri for third time \u2013 live",
+          "title": "US supreme court rejects Republican-drawn midterm map in Missouri for third time \u2013 as it happened",
           "link": "https://www.theguardian.com/us-news/live/2026/sep/25/trump-xi-summit-national-archives-media-politics-live",
-          "date": "Fri, 25 Sep 2026 23:31:26 GMT"
+          "date": "Sat, 26 Sep 2026 01:59:49 GMT"
         },
         {
           "title": "OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity",
           "link": "https://www.theguardian.com/technology/2026/sep/25/openai-agents-leaked-53-images-chatgpt",
-          "date": "Fri, 25 Sep 2026 22:55:19 GMT"
+          "date": "Sat, 26 Sep 2026 00:24:43 GMT"
         },
         {
           "title": "The Guardian view on Trump and Xi: a show of friendship, but no real attempt to address the tensions | Editorial",
