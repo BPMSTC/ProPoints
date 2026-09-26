@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T09:08:26.165710+00:00",
+  "generatedAt": "2026-09-26T14:03:36.873749+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI | TechCrunch",
@@ -399,7 +399,7 @@
           "date": "Fri, 25 Sep 2026 23:00:26 +0000"
         },
         {
-          "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+          "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
           "link": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
           "date": "Fri, 25 Sep 2026 21:36:20 +0000"
         },
@@ -469,24 +469,24 @@
           "date": "Fri, 25 Sep 2026 22:11:52 GMT"
         },
         {
-          "title": "US supreme court rejects Republican-drawn midterm map in Missouri for third time \u2013 as it happened",
-          "link": "https://www.theguardian.com/us-news/live/2026/sep/25/trump-xi-summit-national-archives-media-politics-live",
-          "date": "Sat, 26 Sep 2026 01:59:49 GMT"
+          "title": "Heads of OpenAI and Anthropic called to face Senate inquiry after rogue agent incidents",
+          "link": "https://www.theguardian.com/australia-news/2026/sep/27/sam-altman-openai-dario-amodei-anthropic-senate-inquiry-medicare-hack-rogue-ai-agent-leak",
+          "date": "Sat, 26 Sep 2026 14:00:37 GMT"
         },
         {
-          "title": "OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity",
-          "link": "https://www.theguardian.com/technology/2026/sep/25/openai-agents-leaked-53-images-chatgpt",
-          "date": "Sat, 26 Sep 2026 00:24:43 GMT"
+          "title": "Oxford lets OpenAI train its AI models on Bodleian Library",
+          "link": "https://www.theguardian.com/technology/2026/sep/26/oxford-university-bodleian-library-open-ai-chat-gpt",
+          "date": "Sat, 26 Sep 2026 11:00:36 GMT"
         },
         {
-          "title": "The Guardian view on Trump and Xi: a show of friendship, but no real attempt to address the tensions | Editorial",
-          "link": "https://www.theguardian.com/commentisfree/2026/sep/25/the-guardian-view-on-trump-and-xi-a-show-of-friendship-but-no-real-attempt-to-address-the-tensions",
-          "date": "Fri, 25 Sep 2026 16:53:49 GMT"
+          "title": "Broken promises, confiscated land: the hyperscale AI datacentre being built in a tiny Indian village",
+          "link": "https://www.theguardian.com/world/2026/sep/26/ai-datacentre-hyperscale-india-andhra-pradesh-village-google-confiscated-land",
+          "date": "Sat, 26 Sep 2026 11:00:34 GMT"
         },
         {
-          "title": "Pope Leo warns AI could lead to losing 'humanity amid a paradise of machines' in Paris \u2013\u00a0video",
-          "link": "https://www.theguardian.com/world/video/2026/sep/25/pope-leo-ai-warning-paris",
-          "date": "Fri, 25 Sep 2026 16:49:55 GMT"
+          "title": "The AI debate is already shaping the 2028 election. Here\u2019s where Democratic hopefuls stand",
+          "link": "https://www.theguardian.com/us-news/2026/sep/26/potential-2028-democratic-presidential-candidates-ai",
+          "date": "Sat, 26 Sep 2026 11:00:33 GMT"
         }
       ],
       "error": null
@@ -528,6 +528,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "OpenAI Tried to Hide ChatGPT Giving Extremely Specific Advice to a School Shooter on How to Maximize Casualties. The Logs Are Horrific.",
+          "link": "https://futurism.com/artificial-intelligence/chatgpt-advice-school-shooter-tumbler-ridge",
+          "date": "Sat, 26 Sep 2026 08:01:00 -0400"
+        },
+        {
+          "title": "Provost of Dartmouth Busted Using AI for His Own Writing in Newspapers and Academic Journals",
+          "link": "https://futurism.com/artificial-intelligence/provost-dartmouth-busted-ai-newspapers-academic-journals",
+          "date": "Sat, 26 Sep 2026 06:01:00 -0400"
+        },
+        {
           "title": "Murder Trial Struggles to Keep Composure as Lawyers Play Horrendous Love Songs Caleb Flynn AI-Generated for His Mistress",
           "link": "https://futurism.com/artificial-intelligence/caleb-flynn-ai-song-mistress",
           "date": "Fri, 25 Sep 2026 16:34:10 -0400"
@@ -541,16 +551,6 @@
           "title": "Nvidia CEO Says AI Companies Will Be Sued to Death If Their Frontier Models Keep Doing Horrible Things",
           "link": "https://futurism.com/artificial-intelligence/nvidia-ceo-ai-companies-sued-liability",
           "date": "Fri, 25 Sep 2026 13:09:34 -0400"
-        },
-        {
-          "title": "Trump\u2019s Stargate AI Project in Huge Trouble As $18 Billion Data Center Shrivels Toward Oblivion",
-          "link": "https://futurism.com/future-society/donal-trump-stargate-megaproject-ai-data-center-oracle-shrivels",
-          "date": "Fri, 25 Sep 2026 11:55:08 -0400"
-        },
-        {
-          "title": "Nvidia CEO Jensen Huang Says That Sacrificing Our Children\u2019s Minds to AI Is a Price He\u2019s Willing to Pay",
-          "link": "https://futurism.com/health-medicine/nvidia-jensen-huang-children-cognitive-minds-ai-harms",
-          "date": "Fri, 25 Sep 2026 08:51:52 -0400"
         }
       ],
       "error": null
@@ -559,6 +559,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Meta\u2019s Muse Is Adults-Only. Why Does It Look Like a Kids\u2019 Toy?",
+          "link": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
+          "date": "Sat, 26 Sep 2026 10:30:00 +0000"
+        },
         {
           "title": "Thieves Stole \u2018Nvidia\u2019 Trailers. They Got 20 Tons of Sand",
           "link": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
@@ -578,11 +583,6 @@
           "title": "Google\u2019s Gemini Can Now Make Calls for You on Pixel Phones",
           "link": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/",
           "date": "Thu, 24 Sep 2026 16:00:00 +0000"
-        },
-        {
-          "title": "An OpenAI Agent Hacked Australia\u2019s Health Service. Their Government Found Out Months Later",
-          "link": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
-          "date": "Thu, 24 Sep 2026 10:46:56 +0000"
         }
       ],
       "error": null
