@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T06:10:00.844504+00:00",
+  "generatedAt": "2026-09-27T12:42:28.646724+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -253,6 +253,16 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "Updated my dumb little internet experiment: it's now a whole neon 3D city where you can buy billboards (3 already taken \ud83d\udc40)",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wrfoep/updated_my_dumb_little_internet_experiment_its/",
+          "date": "2026-09-27T09:19:37+00:00"
+        },
+        {
+          "title": "My experience with AI coding assistants lately \u2014 and why I finally understand the difference",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wrftzu/my_experience_with_ai_coding_assistants_lately/",
+          "date": "2026-09-27T09:29:02+00:00"
+        },
+        {
           "title": "I built a tool to visualize the project's progress and see what each task cost",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wpvgjw/i_built_a_tool_to_visualize_the_projects_progress/",
           "date": "2026-09-25T12:48:24+00:00"
@@ -261,16 +271,6 @@
           "title": "I built an open-source CLI to keep AI coding agents aligned with project decisions across sessions",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wposoa/i_built_an_opensource_cli_to_keep_ai_coding/",
           "date": "2026-09-25T06:16:04+00:00"
-        },
-        {
-          "title": "How to optimize limit usage?!? Burned through 2 free resets, pro teir and now on 2,000 credits. I use codex",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wozh69/how_to_optimize_limit_usage_burned_through_2_free/",
-          "date": "2026-09-24T11:48:24+00:00"
-        },
-        {
-          "title": "Schema selection beats prompting when a local model writes SQL: notes from an NL2SQL assistant",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wp420l/schema_selection_beats_prompting_when_a_local/",
-          "date": "2026-09-24T15:02:48+00:00"
         }
       ],
       "error": null
@@ -464,6 +464,21 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Democracy blindsides Silicon Valley\u2019s power players looking to transform the world with AI",
+          "link": "https://www.theguardian.com/technology/ng-interactive/2026/sep/27/democracy-ai-datacenters-power",
+          "date": "Sun, 27 Sep 2026 11:00:03 GMT"
+        },
+        {
+          "title": "Bill Gates says unchecked AI could \u2018cause a billion deaths\u2019 in call for regulation",
+          "link": "https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker",
+          "date": "Sun, 27 Sep 2026 09:00:01 GMT"
+        },
+        {
+          "title": "\u2018People are standing up and fighting back\u2019: the north Devon revolt against a vast AI datacentre",
+          "link": "https://www.theguardian.com/uk-news/2026/sep/27/people-are-standing-up-and-fighting-back-north-devon-ai-datacentre",
+          "date": "Sun, 27 Sep 2026 07:00:58 GMT"
+        },
+        {
           "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
           "link": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
           "date": "Sun, 27 Sep 2026 01:10:21 GMT"
@@ -472,21 +487,6 @@
           "title": "Australian backlash to datacentres is faux import from US, officials say: \u2018We are not the United States\u2019",
           "link": "https://www.theguardian.com/australia-news/2026/sep/26/australia-datacentre-backlash",
           "date": "Sat, 26 Sep 2026 22:00:47 GMT"
-        },
-        {
-          "title": "\u2018Charming and disarming\u2019 \u2026 how Meta\u2019s technology-packed Muse harnesses the power of cuteness",
-          "link": "https://www.theguardian.com/fashion/2026/sep/26/charming-and-disarming-how-metas-technology-packed-muse-harnesses-the-power-of-cuteness",
-          "date": "Sat, 26 Sep 2026 17:09:28 GMT"
-        },
-        {
-          "title": "Heads of OpenAI and Anthropic called to face Senate inquiry after rogue agent incidents",
-          "link": "https://www.theguardian.com/australia-news/2026/sep/27/sam-altman-openai-dario-amodei-anthropic-senate-inquiry-medicare-hack-rogue-ai-agent-leak",
-          "date": "Sat, 26 Sep 2026 14:00:37 GMT"
-        },
-        {
-          "title": "Oxford lets OpenAI train its AI models on Bodleian Library",
-          "link": "https://www.theguardian.com/technology/2026/sep/26/oxford-university-bodleian-library-open-ai-chat-gpt",
-          "date": "Sat, 26 Sep 2026 11:00:36 GMT"
         }
       ],
       "error": null
@@ -528,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Five More Cops Charged for Abusing Flock Cameras Amid So Many Similar Scandals That We Can\u2019t Even Keep Track",
+          "link": "https://futurism.com/future-society/cops-charged-flock-alpr-surveillance-abuse-misconduct",
+          "date": "Sun, 27 Sep 2026 06:01:00 -0400"
+        },
+        {
           "title": "Data Center Operator Slapped With $1 Million Fine for Belching Noxious Gas Into Surrounding Community",
           "link": "https://futurism.com/future-society/data-center-operator-microsoft-new-jersey-generators-exhaust",
           "date": "Sat, 26 Sep 2026 14:02:00 -0400"
@@ -546,11 +551,6 @@
           "title": "Murder Trial Struggles to Keep Composure as Lawyers Play Horrendous Love Songs Caleb Flynn AI-Generated for His Mistress",
           "link": "https://futurism.com/artificial-intelligence/caleb-flynn-ai-song-mistress",
           "date": "Fri, 25 Sep 2026 16:34:10 -0400"
-        },
-        {
-          "title": "Judges Warn That AI-Generated Lawslop Is Getting So Bad It\u2019s Threatening Courts\u2019 Ability to Function",
-          "link": "https://futurism.com/artificial-intelligence/judges-florida-court-warn-ai-law-slop-threatening-judicial",
-          "date": "Fri, 25 Sep 2026 14:51:18 -0400"
         }
       ],
       "error": null
