@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T17:27:05.507121+00:00",
+  "generatedAt": "2026-09-27T20:49:58.684006+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,16 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Anthropic\u2019s CEO is about to have dinner with President Trump",
+          "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+          "date": "Sun, 27 Sep 2026 20:34:28 +0000"
+        },
+        {
+          "title": "Can Muse overcome Meta\u2019s trust issues?",
+          "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+          "date": "Sun, 27 Sep 2026 19:57:30 +0000"
+        },
+        {
           "title": "Anthropic\u2019s Dario Amodei gets the SNL treatment",
           "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
           "date": "Sun, 27 Sep 2026 16:30:00 +0000"
@@ -121,16 +131,6 @@
           "title": "Insurers claim AI is already increasing healthcare costs",
           "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
           "date": "Sat, 26 Sep 2026 21:02:06 +0000"
-        },
-        {
-          "title": "I created an interactive digital avatar of myself \u2014 and you can talk to it",
-          "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-          "date": "Sat, 26 Sep 2026 14:00:00 +0000"
-        },
-        {
-          "title": "At Meta Connect, the company\u2019s smart glasses were everywhere",
-          "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-          "date": "Sat, 26 Sep 2026 01:08:57 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -253,9 +253,9 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
-          "title": "Opus 5.5 built my arcade and edited this whole video",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wrn5nr/opus_55_built_my_arcade_and_edited_this_whole/",
-          "date": "2026-09-27T15:31:33+00:00"
+          "title": "I made a skill for architectural decisions. Would love feedback",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wrtkel/i_made_a_skill_for_architectural_decisions_would/",
+          "date": "2026-09-27T19:43:15+00:00"
         },
         {
           "title": "My experience with AI coding assistants lately \u2014 and why I finally understand the difference",
@@ -263,14 +263,14 @@
           "date": "2026-09-27T09:29:02+00:00"
         },
         {
-          "title": "Updated my dumb little internet experiment: it's now a whole neon 3D city where you can buy billboards (3 already taken \ud83d\udc40)",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wrfoep/updated_my_dumb_little_internet_experiment_its/",
-          "date": "2026-09-27T09:19:37+00:00"
+          "title": "An agent framework's audit trail just became a live paid data market - SHOWCASE SUNDAYS",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wrsbc1/an_agent_frameworks_audit_trail_just_became_a/",
+          "date": "2026-09-27T18:54:45+00:00"
         },
         {
-          "title": "I built a tool to visualize the project's progress and see what each task cost",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wpvgjw/i_built_a_tool_to_visualize_the_projects_progress/",
-          "date": "2026-09-25T12:48:24+00:00"
+          "title": "Opus 5.5 built my arcade and edited this whole video",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wrn5nr/opus_55_built_my_arcade_and_edited_this_whole/",
+          "date": "2026-09-27T15:31:33+00:00"
         }
       ],
       "error": null
@@ -424,39 +424,18 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "The first real AI worms have arrived. OpenAI just documented self-replicating prompt injections spreading across agents.",
-          "link": "https://www.reddit.com/r/artificial/comments/1wr7ayr/the_first_real_ai_worms_have_arrived_openai_just/",
-          "date": "2026-09-27T01:30:28+00:00"
-        },
-        {
-          "title": "What are chinese labs doing differently?",
-          "link": "https://www.reddit.com/r/artificial/comments/1wrm4kg/what_are_chinese_labs_doing_differently/",
-          "date": "2026-09-27T14:49:43+00:00"
-        },
-        {
-          "title": "We need Universal Basic Income before losing your job to AI becomes your financial emergency",
-          "link": "https://www.reddit.com/r/artificial/comments/1wqyslz/we_need_universal_basic_income_before_losing_your/",
-          "date": "2026-09-26T19:08:41+00:00"
-        },
-        {
-          "title": "The Surprising Reasons China Is Skeptical of A.I. Safety Calls",
-          "link": "https://www.reddit.com/r/artificial/comments/1wrjfy8/the_surprising_reasons_china_is_skeptical_of_ai/",
-          "date": "2026-09-27T12:50:58+00:00"
-        },
-        {
-          "title": "Do reference sketches improve character consistency across AI video clips?",
-          "link": "https://www.reddit.com/r/artificial/comments/1wrm9cm/do_reference_sketches_improve_character/",
-          "date": "2026-09-27T14:55:16+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Deepfakes are distorting this year\u2019s Victorian election. We found out who\u2019s most susceptible to them",
+          "link": "https://theconversation.com/deepfakes-are-distorting-this-years-victorian-election-we-found-out-whos-most-susceptible-to-them-291443",
+          "date": "2026-09-27T19:19:17Z"
+        },
         {
           "title": "In \u2018NAZA,\u2019 Israeli whistleblowers\u2019 revelations about civilian deaths in Gaza reflect a longer history of Palestinian isolation",
           "link": "https://theconversation.com/in-naza-israeli-whistleblowers-revelations-about-civilian-deaths-in-gaza-reflect-a-longer-history-of-palestinian-isolation-292348",
@@ -476,11 +455,6 @@
           "title": "Trump-XI summit aims to head off an AI arms race",
           "link": "https://theconversation.com/trump-xi-summit-aims-to-head-off-an-ai-arms-race-292823",
           "date": "2026-09-25T07:32:18Z"
-        },
-        {
-          "title": "Could an \u2018Australian AI\u2019 protect us from being hacked? Cybersecurity isn\u2019t that simple",
-          "link": "https://theconversation.com/could-an-australian-ai-protect-us-from-being-hacked-cybersecurity-isnt-that-simple-292888",
-          "date": "2026-09-25T03:04:18Z"
         }
       ],
       "error": null
