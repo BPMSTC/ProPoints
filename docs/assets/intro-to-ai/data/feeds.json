@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T12:42:28.646724+00:00",
+  "generatedAt": "2026-09-27T17:27:05.507121+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Anthropic\u2019s Dario Amodei gets the SNL treatment",
+          "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+          "date": "Sun, 27 Sep 2026 16:30:00 +0000"
+        },
+        {
           "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
           "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
           "date": "Sun, 27 Sep 2026 01:30:00 +0000"
@@ -126,11 +131,6 @@
           "title": "At Meta Connect, the company\u2019s smart glasses were everywhere",
           "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
           "date": "Sat, 26 Sep 2026 01:08:57 +0000"
-        },
-        {
-          "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-          "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-          "date": "Fri, 25 Sep 2026 23:11:10 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -253,9 +253,9 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
-          "title": "Updated my dumb little internet experiment: it's now a whole neon 3D city where you can buy billboards (3 already taken \ud83d\udc40)",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wrfoep/updated_my_dumb_little_internet_experiment_its/",
-          "date": "2026-09-27T09:19:37+00:00"
+          "title": "Opus 5.5 built my arcade and edited this whole video",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wrn5nr/opus_55_built_my_arcade_and_edited_this_whole/",
+          "date": "2026-09-27T15:31:33+00:00"
         },
         {
           "title": "My experience with AI coding assistants lately \u2014 and why I finally understand the difference",
@@ -263,14 +263,14 @@
           "date": "2026-09-27T09:29:02+00:00"
         },
         {
+          "title": "Updated my dumb little internet experiment: it's now a whole neon 3D city where you can buy billboards (3 already taken \ud83d\udc40)",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wrfoep/updated_my_dumb_little_internet_experiment_its/",
+          "date": "2026-09-27T09:19:37+00:00"
+        },
+        {
           "title": "I built a tool to visualize the project's progress and see what each task cost",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wpvgjw/i_built_a_tool_to_visualize_the_projects_progress/",
           "date": "2026-09-25T12:48:24+00:00"
-        },
-        {
-          "title": "I built an open-source CLI to keep AI coding agents aligned with project decisions across sessions",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wposoa/i_built_an_opensource_cli_to_keep_ai_coding/",
-          "date": "2026-09-25T06:16:04+00:00"
         }
       ],
       "error": null
@@ -394,6 +394,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "How the Smithsonian became the latest front in Trump\u2019s culture war",
+          "link": "https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/",
+          "date": "Sun, 27 Sep 2026 11:00:12 +0000"
+        },
+        {
           "title": "Tesla\u2019s big electric truck faces an even bigger infrastructure challenge",
           "link": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/",
           "date": "Sat, 26 Sep 2026 10:45:09 +0000"
@@ -412,11 +417,6 @@
           "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
           "link": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
           "date": "Fri, 25 Sep 2026 21:10:51 +0000"
-        },
-        {
-          "title": "Your uncle\u2019s frozen Mac says it\u2019s infected after viewing a Google ad. Now what?",
-          "link": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
-          "date": "Fri, 25 Sep 2026 19:38:59 +0000"
         }
       ],
       "error": null
@@ -424,7 +424,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "The first real AI worms have arrived. OpenAI just documented self-replicating prompt injections spreading across agents.",
+          "link": "https://www.reddit.com/r/artificial/comments/1wr7ayr/the_first_real_ai_worms_have_arrived_openai_just/",
+          "date": "2026-09-27T01:30:28+00:00"
+        },
+        {
+          "title": "What are chinese labs doing differently?",
+          "link": "https://www.reddit.com/r/artificial/comments/1wrm4kg/what_are_chinese_labs_doing_differently/",
+          "date": "2026-09-27T14:49:43+00:00"
+        },
+        {
+          "title": "We need Universal Basic Income before losing your job to AI becomes your financial emergency",
+          "link": "https://www.reddit.com/r/artificial/comments/1wqyslz/we_need_universal_basic_income_before_losing_your/",
+          "date": "2026-09-26T19:08:41+00:00"
+        },
+        {
+          "title": "The Surprising Reasons China Is Skeptical of A.I. Safety Calls",
+          "link": "https://www.reddit.com/r/artificial/comments/1wrjfy8/the_surprising_reasons_china_is_skeptical_of_ai/",
+          "date": "2026-09-27T12:50:58+00:00"
+        },
+        {
+          "title": "Do reference sketches improve character consistency across AI video clips?",
+          "link": "https://www.reddit.com/r/artificial/comments/1wrm9cm/do_reference_sketches_improve_character/",
+          "date": "2026-09-27T14:55:16+00:00"
+        }
+      ],
       "error": null
     },
     {
@@ -464,29 +490,29 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Australia is run on legacy systems that AI agents can easily exploit, former UN cyber negotiator warns",
+          "link": "https://www.theguardian.com/technology/2026/sep/28/australia-is-run-on-legacy-systems-that-ai-agents-can-easily-exploit-former-un-cyber-negotiator-warns",
+          "date": "Sun, 27 Sep 2026 15:00:08 GMT"
+        },
+        {
+          "title": "\u2018I can\u2019t be the mum I want to be\u2019: why does parenthood feel so impossible for millennial mothers?",
+          "link": "https://www.theguardian.com/lifeandstyle/2026/sep/28/parenthood-millennial-mothers-overwhelmed",
+          "date": "Sun, 27 Sep 2026 15:00:09 GMT"
+        },
+        {
+          "title": "Academics and AI marking: a welcome aid for overworked staff or a sloppy shortcut?",
+          "link": "https://www.theguardian.com/australia-news/2026/sep/28/university-ai-marking-academic-overworked-staff-student-shortcut",
+          "date": "Sun, 27 Sep 2026 15:00:08 GMT"
+        },
+        {
+          "title": "British celebrities beat AI companies lobbying to get free use of their work. They have a warning for Australia",
+          "link": "https://www.theguardian.com/australia-news/2026/sep/28/uk-celebrity-warning-for-australia-ai-copyright",
+          "date": "Sun, 27 Sep 2026 15:00:07 GMT"
+        },
+        {
           "title": "Democracy blindsides Silicon Valley\u2019s power players looking to transform the world with AI",
           "link": "https://www.theguardian.com/technology/ng-interactive/2026/sep/27/democracy-ai-datacenters-power",
           "date": "Sun, 27 Sep 2026 11:00:03 GMT"
-        },
-        {
-          "title": "Bill Gates says unchecked AI could \u2018cause a billion deaths\u2019 in call for regulation",
-          "link": "https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker",
-          "date": "Sun, 27 Sep 2026 09:00:01 GMT"
-        },
-        {
-          "title": "\u2018People are standing up and fighting back\u2019: the north Devon revolt against a vast AI datacentre",
-          "link": "https://www.theguardian.com/uk-news/2026/sep/27/people-are-standing-up-and-fighting-back-north-devon-ai-datacentre",
-          "date": "Sun, 27 Sep 2026 07:00:58 GMT"
-        },
-        {
-          "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
-          "link": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
-          "date": "Sun, 27 Sep 2026 01:10:21 GMT"
-        },
-        {
-          "title": "Australian backlash to datacentres is faux import from US, officials say: \u2018We are not the United States\u2019",
-          "link": "https://www.theguardian.com/australia-news/2026/sep/26/australia-datacentre-backlash",
-          "date": "Sat, 26 Sep 2026 22:00:47 GMT"
         }
       ],
       "error": null
@@ -528,6 +554,21 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "AI Bros Are Having a Meltdown Because the Associated Press Stylebook Clarifies That AIs Don\u2019t Have Feelings",
+          "link": "https://futurism.com/artificial-intelligence/ai-bros-meltdown-feelings",
+          "date": "Sun, 27 Sep 2026 13:02:00 -0400"
+        },
+        {
+          "title": "Workers Are Spending An Astonishing Amount of Their Own Money On AI for Their Jobs",
+          "link": "https://futurism.com/artificial-intelligence/uk-workers-generative-ai-workplace-own-money",
+          "date": "Sun, 27 Sep 2026 10:02:00 -0400"
+        },
+        {
+          "title": "Scientists Download Frontier AI Model Into Self-Driving Car Let It Loose",
+          "link": "https://futurism.com/advanced-transport/openai-astra-model-self-driving-car",
+          "date": "Sun, 27 Sep 2026 09:01:00 -0400"
+        },
+        {
           "title": "Five More Cops Charged for Abusing Flock Cameras Amid So Many Similar Scandals That We Can\u2019t Even Keep Track",
           "link": "https://futurism.com/future-society/cops-charged-flock-alpr-surveillance-abuse-misconduct",
           "date": "Sun, 27 Sep 2026 06:01:00 -0400"
@@ -536,21 +577,6 @@
           "title": "Data Center Operator Slapped With $1 Million Fine for Belching Noxious Gas Into Surrounding Community",
           "link": "https://futurism.com/future-society/data-center-operator-microsoft-new-jersey-generators-exhaust",
           "date": "Sat, 26 Sep 2026 14:02:00 -0400"
-        },
-        {
-          "title": "OpenAI Tried to Hide ChatGPT Giving Extremely Specific Advice to a School Shooter on How to Maximize Casualties. The Logs Are Horrific.",
-          "link": "https://futurism.com/artificial-intelligence/chatgpt-advice-school-shooter-tumbler-ridge",
-          "date": "Sat, 26 Sep 2026 08:01:00 -0400"
-        },
-        {
-          "title": "Provost of Dartmouth Busted Using AI for His Own Writing in Newspapers and Academic Journals",
-          "link": "https://futurism.com/artificial-intelligence/provost-dartmouth-busted-ai-newspapers-academic-journals",
-          "date": "Sat, 26 Sep 2026 06:01:00 -0400"
-        },
-        {
-          "title": "Murder Trial Struggles to Keep Composure as Lawyers Play Horrendous Love Songs Caleb Flynn AI-Generated for His Mistress",
-          "link": "https://futurism.com/artificial-intelligence/caleb-flynn-ai-song-mistress",
-          "date": "Fri, 25 Sep 2026 16:34:10 -0400"
         }
       ],
       "error": null
