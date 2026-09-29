@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T17:34:47.557641+00:00",
+  "generatedAt": "2026-09-29T21:49:06.103847+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,29 +108,29 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "OpenAI\u2019s latest features take direct aim at the app store model",
+          "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+          "date": "Tue, 29 Sep 2026 20:15:47 +0000"
+        },
+        {
+          "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+          "link": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+          "date": "Tue, 29 Sep 2026 19:52:37 +0000"
+        },
+        {
+          "title": "Here\u2019s why OpenAI is absent from Nvidia\u2019s industry-wide effort to end rogue AI agents",
+          "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+          "date": "Tue, 29 Sep 2026 18:35:00 +0000"
+        },
+        {
+          "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT\u2019s own office suite",
+          "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+          "date": "Tue, 29 Sep 2026 17:45:51 +0000"
+        },
+        {
           "title": "AI-powered app maker Wabi pivots to a messaging experience",
           "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
           "date": "Tue, 29 Sep 2026 17:20:00 +0000"
-        },
-        {
-          "title": "OpenAI launches Dots, its bubbly agentic avatar",
-          "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-          "date": "Tue, 29 Sep 2026 17:17:15 +0000"
-        },
-        {
-          "title": "OpenAI expands ChatGPT\u2019s plugins with app-like interfaces and automations",
-          "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
-          "date": "Tue, 29 Sep 2026 17:15:00 +0000"
-        },
-        {
-          "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-          "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
-          "date": "Tue, 29 Sep 2026 17:15:00 +0000"
-        },
-        {
-          "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-          "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
-          "date": "Tue, 29 Sep 2026 17:15:00 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -215,11 +215,6 @@
       "name": "AI Now Institute",
       "url": "https://ainowinstitute.org/category/news/feed",
       "items": [
-        {
-          "title": "White House Releases Taxpayer-Funded Midterm Ads",
-          "link": "https://ainowinstitute.org/news/press/white-house-releases-taxpayer-funded-midterm-ads",
-          "date": "Mon, 28 Sep 2026 15:51:11 +0000"
-        },
         {
           "title": "Why AI companies can\u2019t be trusted to self-regulate",
           "link": "https://ainowinstitute.org/news/why-ai-companies-cant-be-trusted-to-self-regulate",
@@ -239,6 +234,11 @@
           "title": "What\u2019s really motivating these AI apocalypse stories?",
           "link": "https://ainowinstitute.org/news/whats-really-motivating-these-ai-apocalypse-stories",
           "date": "Sat, 19 Sep 2026 16:04:20 +0000"
+        },
+        {
+          "title": "Hugging Face Hack Shows Humans Can Keep AI In Check",
+          "link": "https://ainowinstitute.org/news/press/hugging-face-hack-shows-humans-can-keep-ai-in-check",
+          "date": "Fri, 18 Sep 2026 18:01:52 +0000"
         }
       ],
       "error": null
@@ -253,6 +253,16 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "Founder/ builder life in the AI-era is not easy, but its enthralling af",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wtmujn/founder_builder_life_in_the_aiera_is_not_easy_but/",
+          "date": "2026-09-29T21:33:28+00:00"
+        },
+        {
+          "title": "Architecture decision skill that uses repo context",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wtkvnm/architecture_decision_skill_that_uses_repo_context/",
+          "date": "2026-09-29T20:16:26+00:00"
+        },
+        {
           "title": "Vraxter | An open-source autonomous AI runtime built in Go",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wt95qr/vraxter_an_opensource_autonomous_ai_runtime_built/",
           "date": "2026-09-29T12:45:57+00:00"
@@ -261,16 +271,6 @@
           "title": "What do u think?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wt6dbk/what_do_u_think/",
           "date": "2026-09-29T10:19:00+00:00"
-        },
-        {
-          "title": "I accidentally forgot which AI thread I was in \u2014 and it may have been the best test of context transfer I\u2019ve done.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wszp9r/i_accidentally_forgot_which_ai_thread_i_was_in/",
-          "date": "2026-09-29T03:41:18+00:00"
-        },
-        {
-          "title": "I dumped 63 raw AI chat transcripts into a fresh thread to see if it could reconstruct how my workflow evolved.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1ws9u8k/i_dumped_63_raw_ai_chat_transcripts_into_a_fresh/",
-          "date": "2026-09-28T09:20:59+00:00"
         }
       ],
       "error": null
@@ -280,29 +280,29 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Leaked Anthropic IPO filing reveals $8B operating loss, rapid revenue growth",
+          "link": "https://siliconangle.com/2026/09/29/leaked-anthropic-ipo-filing-reveals-8b-operating-loss-rapid-revenue-growth/",
+          "date": "Tue, 29 Sep 2026 20:08:22 +0000"
+        },
+        {
+          "title": "HPE Labs connects AI sovereignty with quantum security",
+          "link": "https://siliconangle.com/2026/09/29/data-sovereignty-hpe-andrew-wheeler-ai-thecube-hpesovereignai/",
+          "date": "Tue, 29 Sep 2026 19:09:12 +0000"
+        },
+        {
+          "title": "4 insights from Dell\u2019s AI Leadership Symposium: Cost and control reshape enterprise AI deployment strategy",
+          "link": "https://siliconangle.com/2026/09/29/enterprise-ai-deployment-strategy-shaped-cost-control-dellaileadershipsymposium/",
+          "date": "Tue, 29 Sep 2026 18:47:10 +0000"
+        },
+        {
+          "title": "AI agents spark an identity cleanup",
+          "link": "https://siliconangle.com/2026/09/29/access-management-gets-reboot-ai-agents-scale-okta-oktane/",
+          "date": "Tue, 29 Sep 2026 18:01:11 +0000"
+        },
+        {
           "title": "Omnissa debuts AI agents for IT, a managed cloud PC service and Elara for AI governance",
           "link": "https://siliconangle.com/2026/09/29/omnissa-debuts-ai-agents-for-it-a-managed-cloud-pc-service-and-elara-for-ai-governance/",
           "date": "Tue, 29 Sep 2026 13:25:55 +0000"
-        },
-        {
-          "title": "CData\u2019s AI gateway governs agents\u2019 access to enterprise data",
-          "link": "https://siliconangle.com/2026/09/29/cdatas-ai-gateway-governs-agents-access-to-enterprise-data/",
-          "date": "Tue, 29 Sep 2026 13:12:40 +0000"
-        },
-        {
-          "title": "Accel and Google back Dodge AI\u2019s ambitions to automate enterprise software maintenance with agents",
-          "link": "https://siliconangle.com/2026/09/29/accel-and-google-back-startup-dodge-ais-ambitions-to-automate-enterprise-software-maintenance-with-ai-agents/",
-          "date": "Tue, 29 Sep 2026 12:00:57 +0000"
-        },
-        {
-          "title": "Oracle expands AI agent features with Fusion Claw",
-          "link": "https://siliconangle.com/2026/09/29/oracle-expands-ai-agent-functionality-with-fusion-claw/",
-          "date": "Tue, 29 Sep 2026 12:00:56 +0000"
-        },
-        {
-          "title": "AI agent identity security demands layered defenses, Omdia says",
-          "link": "https://siliconangle.com/2026/09/28/ai-agent-identity-security-demands-layered-defenses-omdia-says-oktane/",
-          "date": "Tue, 29 Sep 2026 03:17:21 +0000"
         }
       ],
       "error": null
@@ -394,29 +394,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Fruit flies remember their larval diet, which influences their longevity",
-          "link": "https://arstechnica.com/science/2026/09/fruit-flies-remember-their-larval-diet-which-influences-their-longevity/",
-          "date": "Tue, 29 Sep 2026 14:39:25 +0000"
+          "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+          "link": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
+          "date": "Tue, 29 Sep 2026 21:14:49 +0000"
         },
         {
-          "title": "OpenAI says planned GPT-6.1 is too insecure to release",
-          "link": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
-          "date": "Tue, 29 Sep 2026 14:22:31 +0000"
+          "title": "Trump ads paid for by US government allegedly violate anti-propaganda laws",
+          "link": "https://arstechnica.com/tech-policy/2026/09/trump-ads-paid-for-by-us-government-allegedly-violate-anti-propaganda-laws/",
+          "date": "Tue, 29 Sep 2026 20:23:40 +0000"
         },
         {
-          "title": "Anthropic\u2019s IPO pitch includes a warning about human extinction",
-          "link": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
-          "date": "Tue, 29 Sep 2026 14:10:00 +0000"
+          "title": "NASA has a Dragon dilemma, and there appear to be no good answers",
+          "link": "https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/",
+          "date": "Tue, 29 Sep 2026 18:34:00 +0000"
         },
         {
-          "title": "Interview: Firefox's chief on why he hopes a redesign will help win users from Chrome",
-          "link": "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/",
-          "date": "Tue, 29 Sep 2026 13:00:19 +0000"
+          "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
+          "link": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
+          "date": "Tue, 29 Sep 2026 18:11:09 +0000"
         },
         {
-          "title": "Boeing \"incredibly excited\" to serve as nation's only astronaut transportation",
-          "link": "https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/",
-          "date": "Mon, 28 Sep 2026 22:24:33 +0000"
+          "title": "Apple pressured to explain Trump role in ICE-tracking app removals",
+          "link": "https://arstechnica.com/tech-policy/2026/09/apple-worked-with-trump-admin-to-remove-ice-tracking-apps-lawmaker-says/",
+          "date": "Tue, 29 Sep 2026 17:29:14 +0000"
         }
       ],
       "error": null
@@ -432,6 +432,16 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Government takes early action to protect \u2018legacy\u2019 technology systems against AI breaches",
+          "link": "https://theconversation.com/government-takes-early-action-to-protect-legacy-technology-systems-against-ai-breaches-292583",
+          "date": "2026-09-29T21:12:36Z"
+        },
+        {
+          "title": "The \u2018War Games\u2019 problem: Computer science has long understood what it takes to keep AI under control",
+          "link": "https://theconversation.com/the-war-games-problem-computer-science-has-long-understood-what-it-takes-to-keep-ai-under-control-292884",
+          "date": "2026-09-29T21:11:58Z"
+        },
+        {
           "title": "AI has made borrowing more expensive \u2013 an expert explains how bond markets are changing",
           "link": "https://theconversation.com/ai-has-made-borrowing-more-expensive-an-expert-explains-how-bond-markets-are-changing-292033",
           "date": "2026-09-29T13:13:32Z"
@@ -445,16 +455,6 @@
           "title": "OpenAI promises to \u2018do better\u2019 and \u2018rebuild trust with Australians\u2019",
           "link": "https://theconversation.com/openai-promises-to-do-better-and-rebuild-trust-with-australians-292580",
           "date": "2026-09-29T05:20:29Z"
-        },
-        {
-          "title": "AI often leaves out minority languages \u2013 but some communities are turning it into a lifeline",
-          "link": "https://theconversation.com/ai-often-leaves-out-minority-languages-but-some-communities-are-turning-it-into-a-lifeline-290626",
-          "date": "2026-09-28T23:51:43Z"
-        },
-        {
-          "title": "From lab to life: Why translating AI advances to the real world is a major challenge",
-          "link": "https://theconversation.com/from-lab-to-life-why-translating-ai-advances-to-the-real-world-is-a-major-challenge-256421",
-          "date": "2026-09-28T12:39:35Z"
         }
       ],
       "error": null
@@ -464,9 +464,19 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Trump touts new AI tool he claims will streamline government information access \u2013 US politics live",
+          "title": "Supreme court allows Trump to temporarily resume deporting people to third countries \u2013 live",
           "link": "https://www.theguardian.com/us-news/live/2026/sep/29/donald-trump-iran-ai-jack-smith-media-white-house-latest-news-updates",
-          "date": "Tue, 29 Sep 2026 17:32:48 GMT"
+          "date": "Tue, 29 Sep 2026 21:42:03 GMT"
+        },
+        {
+          "title": "OpenAI announces \u2018dots\u2019 agent after scrapping launch of new AI model over safety concerns",
+          "link": "https://www.theguardian.com/technology/2026/sep/29/openai-announces-dots-agent-safety-concerns",
+          "date": "Tue, 29 Sep 2026 21:25:33 GMT"
+        },
+        {
+          "title": "Smart ring maker Oura puts off initial public offering due to market \u2018uncertainty\u2019",
+          "link": "https://www.theguardian.com/technology/2026/sep/29/oura-ring-public-offering",
+          "date": "Tue, 29 Sep 2026 17:57:01 GMT"
         },
         {
           "title": "Even George Osborne might be a nimby if an AI datacentre was built next to his home | Letters",
@@ -477,16 +487,6 @@
           "title": "UK government pays highest interest rate on 10-year debt since 1999 at bond auction \u2013 as it happened",
           "link": "https://www.theguardian.com/business/live/2026/sep/29/anthropic-ipo-warning-existential-risks-to-humanity-from-ai-astrazeneca-2bn-cancer-drug-tie-up-diesel-stock-market-live-news-updates",
           "date": "Tue, 29 Sep 2026 15:07:56 GMT"
-        },
-        {
-          "title": "RFK Jr outlines expansive vision for collecting US health data at Maha event",
-          "link": "https://www.theguardian.com/us-news/2026/sep/29/rfk-jr-collect-health-data",
-          "date": "Tue, 29 Sep 2026 14:41:14 GMT"
-        },
-        {
-          "title": "Meta\u2019s AI agent Muse gives out user\u2019s home address without permission, sending buyer to his house",
-          "link": "https://www.theguardian.com/technology/2026/sep/28/metas-ai-agent-muse-home-address",
-          "date": "Tue, 29 Sep 2026 13:58:36 GMT"
         }
       ],
       "error": null
@@ -560,6 +560,16 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "OpenAI Gets Sued Over the Hugging Face Hack",
+          "link": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
+          "date": "Tue, 29 Sep 2026 19:05:00 +0000"
+        },
+        {
+          "title": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
+          "link": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/",
+          "date": "Tue, 29 Sep 2026 18:03:01 +0000"
+        },
+        {
           "title": "OpenAI\u2019s Dots Are Always-On AI Agents\u2014and Its Answer to Meta\u2019s Muse",
           "link": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
           "date": "Tue, 29 Sep 2026 17:15:00 +0000"
@@ -573,16 +583,6 @@
           "title": "Timnit Gebru Believes There Is No \u2018Existential Threat\u2019 From AI",
           "link": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/",
           "date": "Tue, 29 Sep 2026 10:30:00 +0000"
-        },
-        {
-          "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
-          "link": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
-          "date": "Mon, 28 Sep 2026 11:32:19 +0000"
-        },
-        {
-          "title": "AI Agents Are About to Flood the Workforce. No One\u2019s Ready for It",
-          "link": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
-          "date": "Mon, 28 Sep 2026 10:00:00 +0000"
         }
       ],
       "error": null
