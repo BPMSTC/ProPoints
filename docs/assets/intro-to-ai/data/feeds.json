@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T23:40:24.301748+00:00",
+  "generatedAt": "2026-09-29T04:05:41.404258+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+          "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+          "date": "Tue, 29 Sep 2026 00:30:00 +0000"
+        },
+        {
           "title": "OpenAI reportedly ditches model over safety concerns",
           "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
           "date": "Mon, 28 Sep 2026 23:39:20 +0000"
@@ -126,11 +131,6 @@
           "title": "Shopify opens checkout to browser-based AI agents",
           "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
           "date": "Mon, 28 Sep 2026 19:33:57 +0000"
-        },
-        {
-          "title": "Nvidia launches new platform for reining in rogue AI agents",
-          "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-          "date": "Mon, 28 Sep 2026 18:31:23 +0000"
         }
       ],
       "error": null
@@ -139,6 +139,11 @@
       "name": "AI Business",
       "url": "https://aibusiness.com/rss.xml",
       "items": [
+        {
+          "title": "Nvidia launches AI safety platform after agent security breaches",
+          "link": "https://aibusiness.com/responsible-ai/nvidia-launches-ai-safety-platform",
+          "date": "Tue, 29 Sep 2026 01:55:54 GMT"
+        },
         {
           "title": "Microsoft\u2019s Copilot redesign provides an experimental opportunity",
           "link": "https://aibusiness.com/generative-ai/microsoft-s-copilot-redesign-provides-experimental-opportunity",
@@ -158,11 +163,6 @@
           "title": "China leads dexterous hand supply for humanoids",
           "link": "https://aibusiness.com/robotics/china-leads-dexterous-hand-supply",
           "date": "Fri, 25 Sep 2026 12:38:36 GMT"
-        },
-        {
-          "title": "CoreWeave connects AI coding tools to infrastructure intelligence",
-          "link": "https://aibusiness.com/agentic-ai/coreweave-connects-ai-coding-tools",
-          "date": "Thu, 24 Sep 2026 23:36:42 GMT"
         }
       ],
       "error": null
@@ -253,6 +253,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "I accidentally forgot which AI thread I was in \u2014 and it may have been the best test of context transfer I\u2019ve done.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wszp9r/i_accidentally_forgot_which_ai_thread_i_was_in/",
+          "date": "2026-09-29T03:41:18+00:00"
+        },
+        {
           "title": "I dumped 63 raw AI chat transcripts into a fresh thread to see if it could reconstruct how my workflow evolved.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1ws9u8k/i_dumped_63_raw_ai_chat_transcripts_into_a_fresh/",
           "date": "2026-09-28T09:20:59+00:00"
@@ -266,11 +271,6 @@
           "title": "My experience with AI coding assistants lately \u2014 and why I finally understand the difference",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wrftzu/my_experience_with_ai_coding_assistants_lately/",
           "date": "2026-09-27T09:29:02+00:00"
-        },
-        {
-          "title": "An agent framework's audit trail just became a live paid data market - SHOWCASE SUNDAYS",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wrsbc1/an_agent_frameworks_audit_trail_just_became_a/",
-          "date": "2026-09-27T18:54:45+00:00"
         }
       ],
       "error": null
@@ -280,6 +280,21 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "AI agent identity security demands layered defenses, Omdia says",
+          "link": "https://siliconangle.com/2026/09/28/ai-agent-identity-security-demands-layered-defenses-omdia-says-oktane/",
+          "date": "Tue, 29 Sep 2026 03:17:21 +0000"
+        },
+        {
+          "title": "Okta builds shared architecture for agent runtime security",
+          "link": "https://siliconangle.com/2026/09/28/okta-builds-shared-architecture-agent-runtime-security-oktane/",
+          "date": "Tue, 29 Sep 2026 01:24:18 +0000"
+        },
+        {
+          "title": "AMD acquires world model developer World Labs for $8.2B",
+          "link": "https://siliconangle.com/2026/09/28/amd-acquires-world-model-developer-world-labs-for-8-2b/",
+          "date": "Tue, 29 Sep 2026 00:22:38 +0000"
+        },
+        {
           "title": "Nvidia boosts share buyback program by record $150B",
           "link": "https://siliconangle.com/2026/09/28/nvidia-boosts-share-buyback-program-by-record-150b/",
           "date": "Mon, 28 Sep 2026 22:59:28 +0000"
@@ -288,21 +303,6 @@
           "title": "What to expect at the Dell AI Data Platform Event: Join theCUBE Oct. 6\u20137",
           "link": "https://siliconangle.com/2026/09/28/enterprise-ai-data-readiness-dell-dellaidataplatform/",
           "date": "Mon, 28 Sep 2026 22:11:17 +0000"
-        },
-        {
-          "title": "1Password ties AI agent access to individual tasks",
-          "link": "https://siliconangle.com/2026/09/28/1password-limits-ai-agent-access-task-based-verification-oktane/",
-          "date": "Mon, 28 Sep 2026 20:56:39 +0000"
-        },
-        {
-          "title": "Agentic AI is breaking the token meter, and enterprises need a plan for what comes next",
-          "link": "https://siliconangle.com/2026/09/28/agentic-ai-is-breaking-the-token-meter-and-enterprises-need-a-plan-for-what-comes-next/",
-          "date": "Mon, 28 Sep 2026 20:46:55 +0000"
-        },
-        {
-          "title": "Meta hires MongoDB CEO CJ Desai to lead new enterprise AI business",
-          "link": "https://siliconangle.com/2026/09/28/meta-hires-mongodb-ceo-cj-desai-to-lead-new-enterprise-ai-business/",
-          "date": "Mon, 28 Sep 2026 20:13:29 +0000"
         }
       ],
       "error": null
@@ -432,6 +432,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "AI often leaves out minority languages \u2013 but some communities are turning it into a lifeline",
+          "link": "https://theconversation.com/ai-often-leaves-out-minority-languages-but-some-communities-are-turning-it-into-a-lifeline-290626",
+          "date": "2026-09-28T23:51:43Z"
+        },
+        {
           "title": "From lab to life: Why translating AI advances to the real world is a major challenge",
           "link": "https://theconversation.com/from-lab-to-life-why-translating-ai-advances-to-the-real-world-is-a-major-challenge-256421",
           "date": "2026-09-28T12:39:35Z"
@@ -450,11 +455,6 @@
           "title": "Australia\u2019s legacy systems were already a cyber risk. AI agents are raising the stakes",
           "link": "https://theconversation.com/australias-legacy-systems-were-already-a-cyber-risk-ai-agents-are-raising-the-stakes-292981",
           "date": "2026-09-28T06:18:26Z"
-        },
-        {
-          "title": "A bestselling novel was pulled from a French literary prize after AI accusations \u2013 what next?",
-          "link": "https://theconversation.com/a-bestselling-novel-was-pulled-from-a-french-literary-prize-after-ai-accusations-what-next-292963",
-          "date": "2026-09-28T06:05:48Z"
         }
       ],
       "error": null
@@ -467,6 +467,11 @@
           "title": "AI godfathers warn of runaway \u2018intelligence explosion\u2019",
           "link": "https://www.theguardian.com/technology/2026/sep/28/ai-godfathers-warn-of-runaway-intelligence-explosion",
           "date": "Mon, 28 Sep 2026 15:00:36 GMT"
+        },
+        {
+          "title": "\u2018New kind of cyber incident\u2019: OpenAI apologises for Medicare hack and reveals extent of attack",
+          "link": "https://www.theguardian.com/technology/2026/sep/29/openai-apology-rogue-agent-hacked-medicare-australian-government-websites",
+          "date": "Tue, 29 Sep 2026 02:51:17 GMT"
         },
         {
           "title": "Meta\u2019s AI agent Muse gives out user\u2019s home address without permission, sending buyer to his house",
@@ -482,11 +487,6 @@
           "title": "Nvidia unveils security platform to rein in AI agents and $150bn stock buyback",
           "link": "https://www.theguardian.com/technology/2026/sep/28/nvidia-ai-agent-security-platform-stock-buyback",
           "date": "Mon, 28 Sep 2026 19:24:07 GMT"
-        },
-        {
-          "title": "Teachers at Euan Blair firm report \u2018horrendous stress\u2019 after AI used to rate their work",
-          "link": "https://www.theguardian.com/technology/2026/sep/28/teachers-euan-blair-firm-report-horrendous-stress-ai-used-to-rate-their-work",
-          "date": "Mon, 28 Sep 2026 11:57:57 GMT"
         }
       ],
       "error": null
