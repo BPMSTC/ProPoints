@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T04:05:41.404258+00:00",
+  "generatedAt": "2026-09-29T11:03:14.120283+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -38,6 +38,11 @@
       "url": "https://magazine.sebastianraschka.com/feed",
       "items": [
         {
+          "title": "Language Models for Text Classification: From Bag-of-Words to Jev",
+          "link": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+          "date": "Tue, 29 Sep 2026 10:50:25 GMT"
+        },
+        {
           "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
           "link": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
           "date": "Wed, 09 Sep 2026 11:14:25 GMT"
@@ -56,11 +61,6 @@
           "title": "Controlling Reasoning Effort in LLMs",
           "link": "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
           "date": "Sat, 18 Jul 2026 11:16:09 GMT"
-        },
-        {
-          "title": "Using Local Coding Agents",
-          "link": "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
-          "date": "Sat, 27 Jun 2026 11:21:58 GMT"
         }
       ],
       "error": null
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Anthropic\u2019s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+          "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+          "date": "Tue, 29 Sep 2026 05:13:43 +0000"
+        },
+        {
           "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
           "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
           "date": "Tue, 29 Sep 2026 00:30:00 +0000"
@@ -126,11 +131,6 @@
           "title": "AMD will acquire Fei-Fei Li\u2019s World Labs for $8.2 billion",
           "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
           "date": "Mon, 28 Sep 2026 20:39:33 +0000"
-        },
-        {
-          "title": "Shopify opens checkout to browser-based AI agents",
-          "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-          "date": "Mon, 28 Sep 2026 19:33:57 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -253,6 +253,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "What do u think?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wt6dbk/what_do_u_think/",
+          "date": "2026-09-29T10:19:00+00:00"
+        },
+        {
           "title": "I accidentally forgot which AI thread I was in \u2014 and it may have been the best test of context transfer I\u2019ve done.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wszp9r/i_accidentally_forgot_which_ai_thread_i_was_in/",
           "date": "2026-09-29T03:41:18+00:00"
@@ -266,11 +271,6 @@
           "title": "I made a skill for architectural decisions. Would love feedback",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wrtkel/i_made_a_skill_for_architectural_decisions_would/",
           "date": "2026-09-27T19:43:15+00:00"
-        },
-        {
-          "title": "My experience with AI coding assistants lately \u2014 and why I finally understand the difference",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wrftzu/my_experience_with_ai_coding_assistants_lately/",
-          "date": "2026-09-27T09:29:02+00:00"
         }
       ],
       "error": null
@@ -432,6 +432,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "OpenAI promises to \u2018do better\u2019 and \u2018rebuild trust with Australians\u2019",
+          "link": "https://theconversation.com/openai-promises-to-do-better-and-rebuild-trust-with-australians-292580",
+          "date": "2026-09-29T05:20:29Z"
+        },
+        {
           "title": "AI often leaves out minority languages \u2013 but some communities are turning it into a lifeline",
           "link": "https://theconversation.com/ai-often-leaves-out-minority-languages-but-some-communities-are-turning-it-into-a-lifeline-290626",
           "date": "2026-09-28T23:51:43Z"
@@ -450,11 +455,6 @@
           "title": "AI companies could learn safety lessons from the history of nuclear weapons",
           "link": "https://theconversation.com/ai-companies-could-learn-safety-lessons-from-the-history-of-nuclear-weapons-292623",
           "date": "2026-09-28T12:37:31Z"
-        },
-        {
-          "title": "Australia\u2019s legacy systems were already a cyber risk. AI agents are raising the stakes",
-          "link": "https://theconversation.com/australias-legacy-systems-were-already-a-cyber-risk-ai-agents-are-raising-the-stakes-292981",
-          "date": "2026-09-28T06:18:26Z"
         }
       ],
       "error": null
@@ -469,24 +469,24 @@
           "date": "Mon, 28 Sep 2026 15:00:36 GMT"
         },
         {
-          "title": "\u2018New kind of cyber incident\u2019: OpenAI apologises for Medicare hack and reveals extent of attack",
+          "title": "Trump denies offering Iran sanctions relief for nuclear concessions \u2013 US politics live",
+          "link": "https://www.theguardian.com/us-news/live/2026/sep/29/donald-trump-iran-ai-jack-smith-media-white-house-latest-news-updates",
+          "date": "Tue, 29 Sep 2026 11:02:00 GMT"
+        },
+        {
+          "title": "New campaign disclosures reveal how much American political campaigns spend on AI tools",
+          "link": "https://www.theguardian.com/technology/2026/sep/29/political-campaigns-ai-tools-spending",
+          "date": "Tue, 29 Sep 2026 11:00:49 GMT"
+        },
+        {
+          "title": "Revealed: the five-par email OpenAI used to inform Australia about agent attack",
           "link": "https://www.theguardian.com/technology/2026/sep/29/openai-apology-rogue-agent-hacked-medicare-australian-government-websites",
-          "date": "Tue, 29 Sep 2026 02:51:17 GMT"
+          "date": "Tue, 29 Sep 2026 10:38:31 GMT"
         },
         {
-          "title": "Meta\u2019s AI agent Muse gives out user\u2019s home address without permission, sending buyer to his house",
-          "link": "https://www.theguardian.com/technology/2026/sep/28/metas-ai-agent-muse-home-address",
-          "date": "Mon, 28 Sep 2026 23:31:42 GMT"
-        },
-        {
-          "title": "OpenAI scraps release of new model over safety concerns in internal testing",
-          "link": "https://www.theguardian.com/technology/2026/sep/28/openai-new-model-astra-release-scrapped",
-          "date": "Mon, 28 Sep 2026 23:02:28 GMT"
-        },
-        {
-          "title": "Nvidia unveils security platform to rein in AI agents and $150bn stock buyback",
-          "link": "https://www.theguardian.com/technology/2026/sep/28/nvidia-ai-agent-security-platform-stock-buyback",
-          "date": "Mon, 28 Sep 2026 19:24:07 GMT"
+          "title": "UK mortgage approvals lowest since December 2023; diesel hits new record high near \u00a32 a litre \u2013 business live",
+          "link": "https://www.theguardian.com/business/live/2026/sep/29/anthropic-ipo-warning-existential-risks-to-humanity-from-ai-astrazeneca-2bn-cancer-drug-tie-up-diesel-stock-market-live-news-updates",
+          "date": "Tue, 29 Sep 2026 10:36:33 GMT"
         }
       ],
       "error": null
@@ -560,6 +560,16 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
+          "link": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
+          "date": "Tue, 29 Sep 2026 10:36:22 +0000"
+        },
+        {
+          "title": "Timnit Gebru Believes There Is No \u2018Existential Threat\u2019 From AI",
+          "link": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/",
+          "date": "Tue, 29 Sep 2026 10:30:00 +0000"
+        },
+        {
           "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
           "link": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
           "date": "Mon, 28 Sep 2026 11:32:19 +0000"
@@ -573,16 +583,6 @@
           "title": "Solving Math\u2019s Greatest Problems Was an Art Form. Then Came AI",
           "link": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/",
           "date": "Mon, 28 Sep 2026 09:30:00 +0000"
-        },
-        {
-          "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
-          "link": "https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/",
-          "date": "Mon, 28 Sep 2026 09:00:00 +0000"
-        },
-        {
-          "title": "Nvidia\u2019s Answer to Rogue Agents Is an Open-Source AI Security System",
-          "link": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/",
-          "date": "Mon, 28 Sep 2026 09:00:00 +0000"
         }
       ],
       "error": null
