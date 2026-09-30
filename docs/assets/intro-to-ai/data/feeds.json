@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-09-30T07:55:44.303932+00:00",
+  "generatedAt": "2026-09-30T14:35:11.479314+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "How Cities Are Forced to Funnel License Plate Data to a Massive Federal Surveillance Program",
+          "link": "https://www.404media.co/how-cities-are-forced-to-funnel-license-plate-data-to-a-massive-federal-surveillance-program-hidta/",
+          "date": "Wed, 30 Sep 2026 14:29:15 GMT"
+        },
         {
           "title": "Two New Birds Louder Than Jackhammers Just Dropped",
           "link": "https://www.404media.co/loudest-birds-in-the-world/",
@@ -24,11 +29,6 @@
           "title": "These Tech Workers Made ChatGPT Drive a Toyota Corolla",
           "link": "https://www.404media.co/these-tech-workers-made-chatgpt-drive-a-toyota-corolla/",
           "date": "Tue, 29 Sep 2026 13:06:01 GMT"
-        },
-        {
-          "title": "FBI Hackers Say They Won\u2019t Publish Massive Trove of FBI Employee Data",
-          "link": "https://www.404media.co/fbi-hackers-say-they-wont-publish-massive-trove-of-fbi-employee-data/",
-          "date": "Mon, 28 Sep 2026 19:17:06 GMT"
         }
       ],
       "error": null
@@ -108,6 +108,21 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+          "link": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+          "date": "Wed, 30 Sep 2026 14:27:11 +0000"
+        },
+        {
+          "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/",
+          "date": "Wed, 30 Sep 2026 14:15:00 +0000"
+        },
+        {
+          "title": "Airbnb adds AI search, more social features",
+          "link": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+          "date": "Wed, 30 Sep 2026 12:00:00 +0000"
+        },
+        {
           "title": "America.gov gets really weird when you ask it about Minecraft, but it\u2019s not a glitch",
           "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
           "date": "Tue, 29 Sep 2026 23:30:55 +0000"
@@ -116,21 +131,6 @@
           "title": "The internet is convinced Elon Musk\u2019s xAI trolled OpenAI\u2019s \u2018Dots\u2019 launch",
           "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
           "date": "Tue, 29 Sep 2026 22:20:59 +0000"
-        },
-        {
-          "title": "OpenAI\u2019s latest features take direct aim at the app store model",
-          "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-          "date": "Tue, 29 Sep 2026 20:15:47 +0000"
-        },
-        {
-          "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-          "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-          "date": "Tue, 29 Sep 2026 19:52:37 +0000"
-        },
-        {
-          "title": "Here\u2019s why OpenAI is absent from Nvidia\u2019s industry-wide effort to end rogue AI agents",
-          "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-          "date": "Tue, 29 Sep 2026 18:35:00 +0000"
         }
       ],
       "error": null
@@ -253,24 +253,24 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "I compress my AI chat history aggressively \u2014 but I keep the black box",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wu5lya/i_compress_my_ai_chat_history_aggressively_but_i/",
+          "date": "2026-09-30T13:55:57+00:00"
+        },
+        {
+          "title": "[Feedback wanted] Free iPhone app for API key users: every prompt becomes an AI contact",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wu28us/feedback_wanted_free_iphone_app_for_api_key_users/",
+          "date": "2026-09-30T11:18:12+00:00"
+        },
+        {
+          "title": "Let users build no-code automations by describing them to Claude, instead of calling an LLM at runtime",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wu03a3/let_users_build_nocode_automations_by_describing/",
+          "date": "2026-09-30T09:07:32+00:00"
+        },
+        {
           "title": "I stopped asking \u201chow much AI chat history can I save?\u201d and started asking \u201chow much can I safely throw away?\u201d",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wtsmsb/i_stopped_asking_how_much_ai_chat_history_can_i/",
           "date": "2026-09-30T01:55:01+00:00"
-        },
-        {
-          "title": "Architecture decision skill that uses repo context",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wtkvnm/architecture_decision_skill_that_uses_repo_context/",
-          "date": "2026-09-29T20:16:26+00:00"
-        },
-        {
-          "title": "Vraxter | An open-source autonomous AI runtime built in Go",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wt95qr/vraxter_an_opensource_autonomous_ai_runtime_built/",
-          "date": "2026-09-29T12:45:57+00:00"
-        },
-        {
-          "title": "How modern AI Voice Agents + n8n + CRM automation architecture works (Vapi, Retell AI, GoHighLevel)",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wthr53/how_modern_ai_voice_agents_n8n_crm_automation/",
-          "date": "2026-09-29T18:18:25+00:00"
         }
       ],
       "error": null
@@ -279,6 +279,11 @@
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
+        {
+          "title": "Startup Ascerta collects $18M in funding to help enterprises understand the value AI provides",
+          "link": "https://siliconangle.com/2026/09/30/startup-ascerta-collects-18m-in-funding-to-help-enterprises-understand-the-value-ai-provides/",
+          "date": "Wed, 30 Sep 2026 12:00:11 +0000"
+        },
         {
           "title": "World model startup General Intuition closes  $220M investment",
           "link": "https://siliconangle.com/2026/09/29/world-model-startup-general-intuition-closes-220m-investment/",
@@ -298,11 +303,6 @@
           "title": "OpenAI launches Dots, always-on AI agents in ChatGPT with their own cloud computers",
           "link": "https://siliconangle.com/2026/09/29/openai-launches-dots-always-on-ai-agents-in-chatgpt-with-their-own-cloud-computers/",
           "date": "Tue, 29 Sep 2026 22:31:34 +0000"
-        },
-        {
-          "title": "In the AI era, identity evolves into the control plane for trust",
-          "link": "https://siliconangle.com/2026/09/29/in-the-ai-era-identity-evolves-into-the-control-plane-for-trust/",
-          "date": "Tue, 29 Sep 2026 22:27:15 +0000"
         }
       ],
       "error": null
@@ -394,6 +394,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Cloudflare plans to issue quantum-safe TLS certificates",
+          "link": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
+          "date": "Wed, 30 Sep 2026 11:15:14 +0000"
+        },
+        {
           "title": "Most powerful obesity drug yet: People lost up to 25% of weight in trial",
           "link": "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/",
           "date": "Tue, 29 Sep 2026 22:30:37 +0000"
@@ -412,11 +417,6 @@
           "title": "Trump ads paid for by US government allegedly violate anti-propaganda laws",
           "link": "https://arstechnica.com/tech-policy/2026/09/trump-ads-paid-for-by-us-government-allegedly-violate-anti-propaganda-laws/",
           "date": "Tue, 29 Sep 2026 20:23:40 +0000"
-        },
-        {
-          "title": "NASA has a Dragon dilemma, and there appear to be no good answers",
-          "link": "https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/",
-          "date": "Tue, 29 Sep 2026 18:34:00 +0000"
         }
       ],
       "error": null
@@ -432,6 +432,21 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "As AI political deepfakes go viral, lawmakers struggle to keep up \u2013 2 states\u2019 laws show limits of what they can do",
+          "link": "https://theconversation.com/as-ai-political-deepfakes-go-viral-lawmakers-struggle-to-keep-up-2-states-laws-show-limits-of-what-they-can-do-292107",
+          "date": "2026-09-30T12:44:44Z"
+        },
+        {
+          "title": "Using an AI chatbot to practice new languages can be helpful, but it doesn\u2019t replace speaking with an actual person",
+          "link": "https://theconversation.com/using-an-ai-chatbot-to-practice-new-languages-can-be-helpful-but-it-doesnt-replace-speaking-with-an-actual-person-288482",
+          "date": "2026-09-30T12:43:10Z"
+        },
+        {
+          "title": "Politics with Michelle Grattan: Tim Wilson says government is borrowing from the future to spend today",
+          "link": "https://theconversation.com/politics-with-michelle-grattan-tim-wilson-says-government-is-borrowing-from-the-future-to-spend-today-293196",
+          "date": "2026-09-30T09:15:38Z"
+        },
+        {
           "title": "Government takes early action to protect \u2018legacy\u2019 technology systems against AI breaches",
           "link": "https://theconversation.com/government-takes-early-action-to-protect-legacy-technology-systems-against-ai-breaches-292583",
           "date": "2026-09-29T21:12:36Z"
@@ -440,21 +455,6 @@
           "title": "The \u2018War Games\u2019 problem: Computer science has long understood what it takes to keep AI under control",
           "link": "https://theconversation.com/the-war-games-problem-computer-science-has-long-understood-what-it-takes-to-keep-ai-under-control-292884",
           "date": "2026-09-29T21:11:58Z"
-        },
-        {
-          "title": "AI has made borrowing more expensive \u2013 an expert explains how bond markets are changing",
-          "link": "https://theconversation.com/ai-has-made-borrowing-more-expensive-an-expert-explains-how-bond-markets-are-changing-292033",
-          "date": "2026-09-29T13:13:32Z"
-        },
-        {
-          "title": "US tech leaders are urgently calling for rules on AI \u2013 China already has them",
-          "link": "https://theconversation.com/us-tech-leaders-are-urgently-calling-for-rules-on-ai-china-already-has-them-292965",
-          "date": "2026-09-29T13:08:58Z"
-        },
-        {
-          "title": "OpenAI promises to \u2018do better\u2019 and \u2018rebuild trust with Australians\u2019",
-          "link": "https://theconversation.com/openai-promises-to-do-better-and-rebuild-trust-with-australians-292580",
-          "date": "2026-09-29T05:20:29Z"
         }
       ],
       "error": null
@@ -464,29 +464,29 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Reanimated AI Greta Garbo stars again \u2026 in a ball-bearing advert",
-          "link": "https://www.theguardian.com/film/2026/sep/30/ai-greta-garbo-stars-again-ball-bearing-advert",
-          "date": "Wed, 30 Sep 2026 05:00:12 GMT"
+          "title": "AI tool that copied actor\u2019s \u2018lustrous\u2019 voice violated his rights, Tokyo court rules",
+          "link": "https://www.theguardian.com/technology/2026/sep/30/ai-tool-copied-actor-kenjiro-tsuda-tokyo-court",
+          "date": "Wed, 30 Sep 2026 11:09:52 GMT"
         },
         {
-          "title": "SKF advert review \u2013 let\u2019s hope this dull AI Greta Garbo is not the future",
-          "link": "https://www.theguardian.com/film/2026/sep/30/skf-advert-review-lets-hope-this-dull-ai-greta-garbo-is-not-the-future",
-          "date": "Wed, 30 Sep 2026 05:00:12 GMT"
+          "title": "Things are changing behind the scenes, so you must decide: do you want human civil servants or AI bots? | The civil servant",
+          "link": "https://www.theguardian.com/commentisfree/2026/sep/30/humans-or-ai-bots-uk-civil-service",
+          "date": "Wed, 30 Sep 2026 11:00:38 GMT"
         },
         {
-          "title": "Supreme court allows Trump to temporarily resume deporting people to third countries \u2013 as it happened",
-          "link": "https://www.theguardian.com/us-news/live/2026/sep/29/donald-trump-iran-ai-jack-smith-media-white-house-latest-news-updates",
-          "date": "Wed, 30 Sep 2026 01:53:11 GMT"
+          "title": "We need \u2018right to intervene\u2019 in AI amid growing threat, says Bank of England boss",
+          "link": "https://www.theguardian.com/technology/2026/sep/30/intervene-ai-growing-threat-bank-of-england-boss",
+          "date": "Wed, 30 Sep 2026 10:41:58 GMT"
         },
         {
-          "title": "Trump announces vague \u2018morally binding\u2019 AI deal among tech CEOs for \u2018tremendous self-policing\u2019",
-          "link": "https://www.theguardian.com/us-news/2026/sep/29/trump-ai-deal-tech-ceos-superintelligence",
-          "date": "Tue, 29 Sep 2026 23:21:25 GMT"
+          "title": "Bill Gates predicts AI will kill a billion people \u2013 but saying he\u2019s been wrong before is quite the understatement | Arwa Mahdawi",
+          "link": "https://www.theguardian.com/commentisfree/2026/sep/30/bill-gates-thinks-ai-could-kill-people-can-we-trust-judgment-after-epstein",
+          "date": "Wed, 30 Sep 2026 10:00:23 GMT"
         },
         {
-          "title": "OpenAI announces \u2018dots\u2019 agent after scrapping launch of new AI model over safety concerns",
-          "link": "https://www.theguardian.com/technology/2026/sep/29/openai-announces-dots-agent-safety-concerns",
-          "date": "Tue, 29 Sep 2026 21:25:33 GMT"
+          "title": "As AI images become common, the threat to elections draws alarm: \u2018How will voters know what\u2019s true?\u2019",
+          "link": "https://www.theguardian.com/technology/2026/sep/30/ai-deepfakes-politicans",
+          "date": "Wed, 30 Sep 2026 10:00:22 GMT"
         }
       ],
       "error": null
@@ -528,6 +528,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "That Company That Buys Struggling News Sites and Turns Them Into AI-Powered Content Mills Has Halted Publishing After a Futurism Investigation",
+          "link": "https://futurism.com/artificial-intelligence/brown-brothers-media-halts-publishing",
+          "date": "Wed, 30 Sep 2026 10:02:07 -0400"
+        },
+        {
+          "title": "Protesters Crash Pro-Data Center Party, Escorted Out by Security",
+          "link": "https://futurism.com/artificial-intelligence/protesters-crash-pro-data-center-party",
+          "date": "Wed, 30 Sep 2026 09:07:12 -0400"
+        },
+        {
           "title": "OpenAI Cancels Upcoming AI Model When It Shows Signs of Being Evil",
           "link": "https://futurism.com/artificial-intelligence/openai-cancels-new-ai-model-signs-evil",
           "date": "Tue, 29 Sep 2026 13:00:04 -0400"
@@ -541,16 +551,6 @@
           "title": "Creative Industries Have Been Eviscerated by AI, Data Shows",
           "link": "https://futurism.com/artificial-intelligence/creative-work-labor-eviscerated-generative-ai-automation",
           "date": "Tue, 29 Sep 2026 07:52:52 -0400"
-        },
-        {
-          "title": "Microsoft Shrivels When Asked If Its \u201cGood Neighbor\u201d Data Center Policy Will Involve Actually Supporting Community Groups",
-          "link": "https://futurism.com/artificial-intelligence/microsoft-shrivels-good-neighbor-community-first-ai-data-center",
-          "date": "Mon, 28 Sep 2026 16:40:58 -0400"
-        },
-        {
-          "title": "Human Contractors Are Seeing All Your Horny \u2014 and Creepy \u2014 AI Prompts",
-          "link": "https://futurism.com/artificial-intelligence/human-contractors-seeing-creepy-prompts",
-          "date": "Mon, 28 Sep 2026 15:19:35 -0400"
         }
       ],
       "error": null
