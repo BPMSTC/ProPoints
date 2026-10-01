@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T04:00:38.152981+00:00",
+  "generatedAt": "2026-10-01T11:19:58.303391+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -75,7 +75,7 @@
           "date": "Wed, 30 Sep 2026 15:31:43 GMT"
         },
         {
-          "title": "Bridging the gap from supercomputing to AI factories",
+          "title": "Webinar | Bridging the gap from supercomputing to AI factories",
           "link": "https://www.aiacceleratorinstitute.com/from-supercomputing-to-ai-factories-webinar/",
           "date": "Wed, 30 Sep 2026 15:27:55 GMT"
         },
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -253,6 +253,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "Built a simple Extension for NotebookLM",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wuvqdj/built_a_simple_extension_for_notebooklm/",
+          "date": "2026-10-01T10:19:16+00:00"
+        },
+        {
           "title": "I compress my AI chat history aggressively \u2014 but I keep the black box",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wu5lya/i_compress_my_ai_chat_history_aggressively_but_i/",
           "date": "2026-09-30T13:55:57+00:00"
@@ -266,11 +271,6 @@
           "title": "[Feedback wanted] Free iPhone app for API key users: every prompt becomes an AI contact",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wu28us/feedback_wanted_free_iphone_app_for_api_key_users/",
           "date": "2026-09-30T11:18:12+00:00"
-        },
-        {
-          "title": "I stopped asking \u201chow much AI chat history can I save?\u201d and started asking \u201chow much can I safely throw away?\u201d",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wtsmsb/i_stopped_asking_how_much_ai_chat_history_can_i/",
-          "date": "2026-09-30T01:55:01+00:00"
         }
       ],
       "error": null
@@ -469,24 +469,24 @@
           "date": "Thu, 01 Oct 2026 01:58:40 GMT"
         },
         {
-          "title": "Gavin Newsom signs laws to protect California workers from AI threat",
-          "link": "https://www.theguardian.com/us-news/2026/sep/30/gavin-newsom-california-ai-threat",
-          "date": "Thu, 01 Oct 2026 00:17:56 GMT"
+          "title": "AI chatbots remove hijabs from images of Muslim women when prompted",
+          "link": "https://www.theguardian.com/technology/2026/oct/01/ai-chatbots-hijabs-muslim-women",
+          "date": "Thu, 01 Oct 2026 10:00:34 GMT"
         },
         {
-          "title": "Trump\u2019s AI chatbot turns on its master",
-          "link": "https://www.theguardian.com/us-news/2026/sep/30/trump-america-gov-ai-chatbot",
-          "date": "Wed, 30 Sep 2026 19:12:28 GMT"
+          "title": "Forget \u2018superintelligence\u2019: error-prone AI nearly sparked world war three this month | Timnit Gebru and Emily M Bender",
+          "link": "https://www.theguardian.com/commentisfree/2026/oct/01/forget-superintelligence-error-prone-ai-nearly-sparked-world-war-iii-this-month",
+          "date": "Thu, 01 Oct 2026 09:00:33 GMT"
         },
         {
-          "title": "US trade regulator opens investigation into AI giants including Anthropic and OpenAI",
-          "link": "https://www.theguardian.com/us-news/2026/sep/30/ftc-investigation-anthropic-openai",
-          "date": "Wed, 30 Sep 2026 18:35:05 GMT"
+          "title": "Anika Wells named on Time100 list as one of \u2018world\u2019s most influential rising stars\u2019 after social media ban",
+          "link": "https://www.theguardian.com/australia-news/2026/oct/01/anika-wells-time100-time-magazine-influential-rising-stars",
+          "date": "Thu, 01 Oct 2026 07:12:45 GMT"
         },
         {
-          "title": "Senate Democrats block datacenter energy bill, saying \u2018toothless\u2019 legislation \u2018misses the mark\u2019",
-          "link": "https://www.theguardian.com/us-news/2026/sep/30/senate-datacenter-energy-bill",
-          "date": "Wed, 30 Sep 2026 17:48:30 GMT"
+          "title": "Steve Hilton, Xavier Becerra clash in testy California governor\u2019s race debate",
+          "link": "https://www.theguardian.com/us-news/2026/oct/01/steve-hilton-xavier-becerra-clash-california-governor-race-debate",
+          "date": "Thu, 01 Oct 2026 04:02:58 GMT"
         }
       ],
       "error": null
