@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T08:15:19.151159+00:00",
+  "generatedAt": "2026-10-02T15:20:25.562282+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,12 +101,27 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<unknown>:2:377: not well-formed (invalid token)"
     },
     {
       "name": "AI | TechCrunch",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
+        {
+          "title": "TechCrunch Disrupt 2026: Blackstone\u2019s Jas Khaira on building the next generation of AI giants",
+          "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+          "date": "Fri, 02 Oct 2026 15:00:00 +0000"
+        },
+        {
+          "title": "TechCrunch Disrupt 2026: Clay\u2019s Kareem Amin on the rise of the GTM engineer",
+          "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
+          "date": "Fri, 02 Oct 2026 14:30:00 +0000"
+        },
+        {
+          "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
+          "link": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
+          "date": "Fri, 02 Oct 2026 14:00:00 +0000"
+        },
         {
           "title": "Musk\u2019s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela\u2019s president",
           "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
@@ -116,21 +131,6 @@
           "title": "ChatGPT can now virtually try on clothes for you",
           "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
           "date": "Thu, 01 Oct 2026 19:21:53 +0000"
-        },
-        {
-          "title": "Google thinks SpaceX\u2019s Starship has to launch 1,800 times before space data centers get off the ground",
-          "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-          "date": "Thu, 01 Oct 2026 19:18:03 +0000"
-        },
-        {
-          "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-          "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-          "date": "Thu, 01 Oct 2026 18:14:42 +0000"
-        },
-        {
-          "title": "Opus 5.5 loves to tell you \u2018this matters\u2019 (and other AI writing tells)",
-          "link": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
-          "date": "Thu, 01 Oct 2026 17:50:19 +0000"
         }
       ],
       "error": null
@@ -139,6 +139,11 @@
       "name": "AI Business",
       "url": "https://aibusiness.com/rss.xml",
       "items": [
+        {
+          "title": "Prompt: AI is removing rungs from the corporate career ladder",
+          "link": "https://aibusiness.com/generative-ai/prompt-ai-removing-rungs-from-corporate-career-ladder",
+          "date": "Fri, 02 Oct 2026 15:10:32 GMT"
+        },
         {
           "title": "Nvidia agent safety push raises questions about who governs AI autonomy",
           "link": "https://aibusiness.com/responsible-ai/nvidia-agent-safety-push-raises-questions",
@@ -158,11 +163,6 @@
           "title": "Humanoid buildup overlooks the robots already running factories",
           "link": "https://aibusiness.com/automation/humanoid-buildup-overlooks-the-robots-already-running-factories",
           "date": "Thu, 01 Oct 2026 16:46:48 GMT"
-        },
-        {
-          "title": "Anthropic plugs regulation, AI leaders meet with Trump, and open models",
-          "link": "https://aibusiness.com/generative-ai/anthropic-plugs-regulation-ai-leaders-meet-trump-open-models",
-          "date": "Wed, 30 Sep 2026 19:13:41 GMT"
         }
       ],
       "error": null
@@ -253,6 +253,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "Do you work with AI/RPA automation? Bachelor\u2019s thesis survey (5\u20137 min)",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wvshoq/do_you_work_with_airpa_automation_bachelors/",
+          "date": "2026-10-02T12:27:28+00:00"
+        },
+        {
           "title": "I think I found the part of AI continuity that matters most: the first conversations after the handoff",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wvm1va/i_think_i_found_the_part_of_ai_continuity_that/",
           "date": "2026-10-02T05:56:46+00:00"
@@ -266,11 +271,6 @@
           "title": "Need some suggestions on building an automation",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wuxezl/need_some_suggestions_on_building_an_automation/",
           "date": "2026-10-01T11:53:00+00:00"
-        },
-        {
-          "title": "Built a simple Extension for NotebookLM",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wuvqdj/built_a_simple_extension_for_notebooklm/",
-          "date": "2026-10-01T10:19:16+00:00"
         }
       ],
       "error": null
@@ -279,6 +279,16 @@
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
+        {
+          "title": "Despite IPO jitters and AI safety worries, Anthropic sticks to a 2026 offering",
+          "link": "https://siliconangle.com/2026/10/02/despite-ipo-jitters-and-ai-safety-worries-anthropic-sticks-to-a-2026-offering/",
+          "date": "Fri, 02 Oct 2026 14:00:15 +0000"
+        },
+        {
+          "title": "Enterprise storage becomes AI memory as privately run models close in on the frontier",
+          "link": "https://siliconangle.com/2026/10/02/open-weight-models-power-private-ai-netapp-iterate-netappinsight/",
+          "date": "Fri, 02 Oct 2026 11:26:51 +0000"
+        },
         {
           "title": "Microsoft targets ultra-realistic voice agents with its first streaming transcription model",
           "link": "https://siliconangle.com/2026/10/01/microsoft-targets-ultra-realistic-voice-agents-with-its-first-streaming-transcription-model/",
@@ -293,16 +303,6 @@
           "title": "OpenAI dismisses three safety researchers accused of sharing confidential material",
           "link": "https://siliconangle.com/2026/10/01/openai-dismisses-three-safety-researchers-accused-of-sharing-confidential-material/",
           "date": "Thu, 01 Oct 2026 22:31:38 +0000"
-        },
-        {
-          "title": "IBM allows on-prem deployment of its Bob agentic development platform",
-          "link": "https://siliconangle.com/2026/10/01/ibm-allows-on-prem-deployment-of-its-bob-agentic-development-platform/",
-          "date": "Thu, 01 Oct 2026 19:49:51 +0000"
-        },
-        {
-          "title": "NetApp\u2019s \u2018sleeping giant\u2019 moment as AI brings new data buyers",
-          "link": "https://siliconangle.com/2026/10/01/data-infrastructure-draws-new-buyers-netapp-ai-pitch-netappinsight/",
-          "date": "Thu, 01 Oct 2026 19:43:52 +0000"
         }
       ],
       "error": null
@@ -362,14 +362,14 @@
       "url": "https://huggingface.co/blog/feed.xml",
       "items": [
         {
+          "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+          "link": "https://huggingface.co/blog/allenai/astabrief",
+          "date": "Fri, 02 Oct 2026 15:19:50 GMT"
+        },
+        {
           "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
           "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
           "date": "Fri, 02 Oct 2026 04:01:31 GMT"
-        },
-        {
-          "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-          "link": "https://huggingface.co/blog/allenai/olmocore3",
-          "date": "Thu, 01 Oct 2026 15:01:43 GMT"
         },
         {
           "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
@@ -394,6 +394,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "TCL is right to question Samsung\u2019s use of the term \u201cMini LED\u201d",
+          "link": "https://arstechnica.com/gadgets/2026/10/tcl-is-right-to-question-samsungs-use-of-the-term-mini-led/",
+          "date": "Fri, 02 Oct 2026 10:30:11 +0000"
+        },
+        {
           "title": "Venus' mysterious haze is actually cosmic dust",
           "link": "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/",
           "date": "Thu, 01 Oct 2026 22:27:04 +0000"
@@ -412,11 +417,6 @@
           "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
           "link": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
           "date": "Thu, 01 Oct 2026 20:11:55 +0000"
-        },
-        {
-          "title": "Can good design stop content creators from having sex in robotaxis?",
-          "link": "https://arstechnica.com/cars/2026/10/can-good-design-stop-content-creators-from-having-sex-in-robotaxis/",
-          "date": "Thu, 01 Oct 2026 19:19:42 +0000"
         }
       ],
       "error": null
@@ -431,6 +431,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Want to use AI to improve your work? Have it disagree with you",
+          "link": "https://theconversation.com/want-to-use-ai-to-improve-your-work-have-it-disagree-with-you-291760",
+          "date": "2026-10-02T12:49:06Z"
+        },
         {
           "title": "Why a decade of AI safety promises keep failing to bite",
           "link": "https://theconversation.com/why-a-decade-of-ai-safety-promises-keep-failing-to-bite-293342",
@@ -450,11 +455,6 @@
           "title": "How deep do AI relationships really go? An expert in attachment theory explains",
           "link": "https://theconversation.com/how-deep-do-ai-relationships-really-go-an-expert-in-attachment-theory-explains-293139",
           "date": "2026-10-01T15:29:02Z"
-        },
-        {
-          "title": "Made in China AI: new tech, same old story?",
-          "link": "https://theconversation.com/made-in-china-ai-new-tech-same-old-story-291703",
-          "date": "2026-10-01T13:42:00Z"
         }
       ],
       "error": null
@@ -464,29 +464,29 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Anthropic pushes for opt-out model for Australian content as ABC warns of \u2018cannibalisation\u2019 of news",
-          "link": "https://www.theguardian.com/technology/2026/oct/02/anthropic-ai-opt-out-australia-copyright-abc-cannibalisation-of-news",
-          "date": "Thu, 01 Oct 2026 15:00:53 GMT"
+          "title": "AI threatens to destroy so much of our culture. Our greatest loss might be our ability to listen | Shirleene Robinson",
+          "link": "https://www.theguardian.com/commentisfree/2026/oct/03/ai-threatens-to-destroy-so-much-of-our-culture-our-greatest-loss-might-be-our-ability-to-listen",
+          "date": "Fri, 02 Oct 2026 15:00:14 GMT"
+        },
+        {
+          "title": "OpenAI\u2019s Medicare attack has exposed Australia\u2019s \u2018tech debt\u2019. Fixing it could bring a big bill for taxpayers",
+          "link": "https://www.theguardian.com/australia-news/2026/oct/03/openais-medicare-attack-has-exposed-australias-tech-debt-fixing-it-could-bring-a-big-bill-for-taxpayers",
+          "date": "Fri, 02 Oct 2026 15:00:13 GMT"
+        },
+        {
+          "title": "\u2018These guys are just coming from nothing\u2019: questions over multibillion-dollar Firmus float amid datacentre backlash",
+          "link": "https://www.theguardian.com/australia-news/2026/oct/03/ai-datacentre-backlash-firmus-asx-float-tasmania-australia",
+          "date": "Fri, 02 Oct 2026 15:00:12 GMT"
+        },
+        {
+          "title": "AI weapons systems are already here. Algorithms must not decide who lives and dies | Kenneth Roth",
+          "link": "https://www.theguardian.com/commentisfree/2026/oct/02/ai-weapons-systems-algorithms-war",
+          "date": "Fri, 02 Oct 2026 10:00:17 GMT"
         },
         {
           "title": "We don\u2019t need to panic about AI. We need to hold its creators accountable when things go wrong | John Quiggin",
           "link": "https://www.theguardian.com/commentisfree/2026/oct/02/we-dont-need-to-panic-about-ai-we-need-to-hold-its-creators-accountable",
           "date": "Fri, 02 Oct 2026 01:13:21 GMT"
-        },
-        {
-          "title": "California issues investigative subpoena to OpenAI over rogue agents\u2019 hacking",
-          "link": "https://www.theguardian.com/us-news/2026/oct/01/california-opens-investigation-openai-hack",
-          "date": "Thu, 01 Oct 2026 19:01:55 GMT"
-        },
-        {
-          "title": "Google rolls out new Gemini AI model but restricts access over safety concerns",
-          "link": "https://www.theguardian.com/technology/2026/oct/01/google-releases-gemini-model-restrictions",
-          "date": "Thu, 01 Oct 2026 16:47:29 GMT"
-        },
-        {
-          "title": "AI chatbots remove hijabs from images of Muslim women when prompted",
-          "link": "https://www.theguardian.com/technology/2026/oct/01/ai-chatbots-hijabs-muslim-women",
-          "date": "Thu, 01 Oct 2026 10:00:34 GMT"
         }
       ],
       "error": null
@@ -528,6 +528,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Trump Launched an America.org \u201cSuper Intelligence\u201d Chatbot and It Immediately Disagrees With Him on Huge Topics, Including Whether He Won the 2020 Election",
+          "link": "https://futurism.com/artificial-intelligence/trump-ai-disagrees-election",
+          "date": "Fri, 02 Oct 2026 09:54:08 -0400"
+        },
+        {
+          "title": "The AI Chatbots That Tech Companies Are Aggressively Pushing to Billions of Users Appear to Be Causing Serious Psychological Harms, New Research Finds",
+          "link": "https://futurism.com/artificial-intelligence/ai-chatbots-serious-psychological-harms",
+          "date": "Fri, 02 Oct 2026 09:02:36 -0400"
+        },
+        {
           "title": "The AI Industry Has a Major Problem: Most People Aren\u2019t Freaks Who Want an AI Agent Running Their Whole Life",
           "link": "https://futurism.com/artificial-intelligence/ai-industry-problem-agent-running-life",
           "date": "Thu, 01 Oct 2026 17:55:00 -0400"
@@ -541,16 +551,6 @@
           "title": "It\u2019s Looking Possible That Zuckerberg Is Accidentally Committing Corporate Suicide",
           "link": "https://futurism.com/artificial-intelligence/zuckerberg-meta-accidental-corporate-suicide-hyperscale-ai",
           "date": "Thu, 01 Oct 2026 13:51:03 -0400"
-        },
-        {
-          "title": "These Strongly Appear to Be the Old Tweets of That Anthropic Employee Who Quit Citing Risks to Humankind and They Are\u2026 Pretty Bizarre",
-          "link": "https://futurism.com/artificial-intelligence/old-tweets-appear-anthropic-employee-quit",
-          "date": "Thu, 01 Oct 2026 11:57:42 -0400"
-        },
-        {
-          "title": "Top BBC Director Says He\u2019s Been Reviewing a Fully AI-Generated Episode of \u201cDoctor Who\u201d and It\u2019s \u201cPretty Good\u201d",
-          "link": "https://futurism.com/artificial-intelligence/bbc-director-ai-doctor-who",
-          "date": "Thu, 01 Oct 2026 10:06:44 -0400"
         }
       ],
       "error": null
@@ -560,6 +560,21 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Trump\u2019s Crazy AI Rebrand Was a Loyalty Test for Tech Execs\u2014and It Worked",
+          "link": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
+          "date": "Fri, 02 Oct 2026 15:00:00 +0000"
+        },
+        {
+          "title": "A Flaw in ChatGPT\u2019s Mac App Could Have Let Hackers Grab Sensitive Data",
+          "link": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
+          "date": "Fri, 02 Oct 2026 09:45:00 +0000"
+        },
+        {
+          "title": "Health Care Workers Are Tired of Cleaning Up Palantir\u2019s Mess",
+          "link": "https://www.wired.com/story/healthcare-workers-are-tired-of-cleaning-up-palantirs-mess/",
+          "date": "Fri, 02 Oct 2026 09:30:00 +0000"
+        },
+        {
           "title": "Whatever AI Safety Is, It\u2019s Not This",
           "link": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
           "date": "Thu, 01 Oct 2026 22:10:42 +0000"
@@ -568,21 +583,6 @@
           "title": "Trump\u2019s \u2018Morally Binding\u2019 AI \u2018Accord,\u2019 the Rise of AI Agents, and Extremists on the Ballot",
           "link": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
           "date": "Thu, 01 Oct 2026 19:58:31 +0000"
-        },
-        {
-          "title": "Trump\u2019s AI Safety \u2018Accord\u2019 Is a Fancy Pinky-Swear",
-          "link": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
-          "date": "Wed, 30 Sep 2026 20:30:09 +0000"
-        },
-        {
-          "title": "The Battle to Be Your Personal AI Agent Is Here",
-          "link": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
-          "date": "Wed, 30 Sep 2026 19:30:00 +0000"
-        },
-        {
-          "title": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development\u2014Even Without AI",
-          "link": "https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/",
-          "date": "Wed, 30 Sep 2026 19:00:00 +0000"
         }
       ],
       "error": null
