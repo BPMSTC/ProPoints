@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T01:58:33.455149+00:00",
+  "generatedAt": "2026-10-02T08:15:19.151159+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -253,6 +253,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "I think I found the part of AI continuity that matters most: the first conversations after the handoff",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wvm1va/i_think_i_found_the_part_of_ai_continuity_that/",
+          "date": "2026-10-02T05:56:46+00:00"
+        },
+        {
           "title": "A fresh AI thread can sound mature before it actually is",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wuxg0r/a_fresh_ai_thread_can_sound_mature_before_it/",
           "date": "2026-10-01T11:54:31+00:00"
@@ -266,11 +271,6 @@
           "title": "Built a simple Extension for NotebookLM",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wuvqdj/built_a_simple_extension_for_notebooklm/",
           "date": "2026-10-01T10:19:16+00:00"
-        },
-        {
-          "title": "I compress my AI chat history aggressively \u2014 but I keep the black box",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wu5lya/i_compress_my_ai_chat_history_aggressively_but_i/",
-          "date": "2026-09-30T13:55:57+00:00"
         }
       ],
       "error": null
@@ -362,6 +362,11 @@
       "url": "https://huggingface.co/blog/feed.xml",
       "items": [
         {
+          "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+          "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+          "date": "Fri, 02 Oct 2026 04:01:31 GMT"
+        },
+        {
           "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
           "link": "https://huggingface.co/blog/allenai/olmocore3",
           "date": "Thu, 01 Oct 2026 15:01:43 GMT"
@@ -380,11 +385,6 @@
           "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
           "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
           "date": "Tue, 29 Sep 2026 13:07:00 GMT"
-        },
-        {
-          "title": "Holo4: powering generalist computer-use agents",
-          "link": "https://huggingface.co/blog/Hcompany/holo4",
-          "date": "Mon, 28 Sep 2026 09:44:05 GMT"
         }
       ],
       "error": null
@@ -432,6 +432,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Why a decade of AI safety promises keep failing to bite",
+          "link": "https://theconversation.com/why-a-decade-of-ai-safety-promises-keep-failing-to-bite-293342",
+          "date": "2026-10-02T04:42:33Z"
+        },
+        {
           "title": "Australia\u2019s Medicare breach reveals a new kind of cyber threat. How must NZ respond?",
           "link": "https://theconversation.com/australias-medicare-breach-reveals-a-new-kind-of-cyber-threat-how-must-nz-respond-293332",
           "date": "2026-10-02T00:36:47Z"
@@ -450,11 +455,6 @@
           "title": "Made in China AI: new tech, same old story?",
           "link": "https://theconversation.com/made-in-china-ai-new-tech-same-old-story-291703",
           "date": "2026-10-01T13:42:00Z"
-        },
-        {
-          "title": "Meta wants people to use \u2018AI agents\u2019 to do daily tasks for them. Here\u2019s why that\u2019s a problem",
-          "link": "https://theconversation.com/meta-wants-people-to-use-ai-agents-to-do-daily-tasks-for-them-heres-why-thats-a-problem-292962",
-          "date": "2026-10-01T02:49:21Z"
         }
       ],
       "error": null
