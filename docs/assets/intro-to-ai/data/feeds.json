@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T00:07:52.879649+00:00",
+  "generatedAt": "2026-10-03T06:04:35.323067+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,12 +101,17 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:377: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI | TechCrunch",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
+        {
+          "title": "Meta wants your next gadget to be Muse-infused",
+          "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+          "date": "Sat, 03 Oct 2026 00:45:39 +0000"
+        },
         {
           "title": "Sean Parker is rebuilding Stability AI around music",
           "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
@@ -126,11 +131,6 @@
           "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
           "link": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
           "date": "Fri, 02 Oct 2026 17:56:00 +0000"
-        },
-        {
-          "title": "It\u2019s\u00a0not AI anymore,\u00a0it\u2019s\u00a0\u2018super intelligence\u2019 (according to the White House)",
-          "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-          "date": "Fri, 02 Oct 2026 17:48:16 +0000"
         }
       ],
       "error": null
@@ -253,14 +253,14 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "I spent a week posting about AI continuity. The replies changed the experiment.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wwf8bz/i_spent_a_week_posting_about_ai_continuity_the/",
+          "date": "2026-10-03T05:34:04+00:00"
+        },
+        {
           "title": "Do you work with AI/RPA automation? Bachelor\u2019s thesis survey (5\u20137 min)",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wvshoq/do_you_work_with_airpa_automation_bachelors/",
           "date": "2026-10-02T12:27:28+00:00"
-        },
-        {
-          "title": "Does anyone know how to prompt for react agent ?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wvmpm3/does_anyone_know_how_to_prompt_for_react_agent/",
-          "date": "2026-10-02T06:37:08+00:00"
         },
         {
           "title": "I think I found the part of AI continuity that matters most: the first conversations after the handoff",
@@ -268,9 +268,9 @@
           "date": "2026-10-02T05:56:46+00:00"
         },
         {
-          "title": "A fresh AI thread can sound mature before it actually is",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wuxg0r/a_fresh_ai_thread_can_sound_mature_before_it/",
-          "date": "2026-10-01T11:54:31+00:00"
+          "title": "Does anyone know how to prompt for react agent ?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wvmpm3/does_anyone_know_how_to_prompt_for_react_agent/",
+          "date": "2026-10-02T06:37:08+00:00"
         }
       ],
       "error": null
@@ -279,6 +279,11 @@
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
+        {
+          "title": "Robotics AI developer FieldAI reportedly raising $700M in funding",
+          "link": "https://siliconangle.com/2026/10/02/robotics-ai-developer-fieldai-reportedly-raising-700m-in-funding/",
+          "date": "Sat, 03 Oct 2026 00:30:26 +0000"
+        },
         {
           "title": "CrowdStrike and CoreWeave bring AI security to machine speed",
           "link": "https://siliconangle.com/2026/10/02/coreweave-crowdstrike-pair-attack-defense-models-fullyconnected/",
@@ -298,11 +303,6 @@
           "title": "AI in customer experience has an orchestration problem, not an adoption problem",
           "link": "https://siliconangle.com/2026/10/02/ai-in-customer-experience-has-an-orchestration-problem-not-an-adoption-problem/",
           "date": "Fri, 02 Oct 2026 17:37:30 +0000"
-        },
-        {
-          "title": "Ai2 releases Olmo-core 3 to make developing large mixture-of-experts LLMs more efficient",
-          "link": "https://siliconangle.com/2026/10/02/ai2-releases-olmo-core-3-to-make-developing-large-mixture-of-experts-llms-more-efficient/",
-          "date": "Fri, 02 Oct 2026 16:15:44 +0000"
         }
       ],
       "error": null
@@ -394,6 +394,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+          "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+          "date": "Fri, 02 Oct 2026 23:03:16 +0000"
+        },
+        {
           "title": "Someone got Doom in an SQL database",
           "link": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
           "date": "Fri, 02 Oct 2026 21:19:05 +0000"
@@ -412,11 +417,6 @@
           "title": "Lyft settles landmark driver misclassification lawsuit for $272.5M",
           "link": "https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m/",
           "date": "Fri, 02 Oct 2026 19:09:49 +0000"
-        },
-        {
-          "title": "The 2008 economic crisis changed the US's relationship with energy",
-          "link": "https://arstechnica.com/science/2026/10/the-2008-economic-crisis-changed-the-uss-relationship-to-energy/",
-          "date": "Fri, 02 Oct 2026 18:56:21 +0000"
         }
       ],
       "error": null
@@ -464,6 +464,21 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "From the Bayeux tapestry to Glastonbury: top tips and tricks to grab the hottest tickets",
+          "link": "https://www.theguardian.com/money/2026/oct/03/bayeux-tapestry-glastonbury-top-tips-tricks-hottest-tickets",
+          "date": "Sat, 03 Oct 2026 06:00:51 GMT"
+        },
+        {
+          "title": "OpenAI says its review into hacks, including on Australian government sites, is costing $500,000 a day",
+          "link": "https://www.theguardian.com/technology/2026/oct/03/openai-review-hacks-australian-government-sites-costing-500000-a-day",
+          "date": "Sat, 03 Oct 2026 05:39:22 GMT"
+        },
+        {
+          "title": "Eliza review \u2013 an ambitious, unsettling play about the birth of AI",
+          "link": "https://www.theguardian.com/stage/2026/oct/03/eliza-review-melbourne-theatre-company-birth-of-ai",
+          "date": "Sat, 03 Oct 2026 01:57:39 GMT"
+        },
+        {
           "title": "Georgia holds emergency meeting on AI exposing voters\u2019 secret ballots",
           "link": "https://www.theguardian.com/us-news/2026/oct/02/midterms-ai-ballot-privacy",
           "date": "Fri, 02 Oct 2026 18:57:05 GMT"
@@ -472,21 +487,6 @@
           "title": "US arrests California man for allegedly smuggling $300m worth of computer servers to China",
           "link": "https://www.theguardian.com/us-news/2026/oct/02/arrest-smuggled-computer-servers-china",
           "date": "Fri, 02 Oct 2026 18:46:29 GMT"
-        },
-        {
-          "title": "AI threatens to destroy so much of our culture. Our greatest loss might be our ability to listen | Shirleene Robinson",
-          "link": "https://www.theguardian.com/commentisfree/2026/oct/03/ai-threatens-to-destroy-so-much-of-our-culture-our-greatest-loss-might-be-our-ability-to-listen",
-          "date": "Fri, 02 Oct 2026 15:00:14 GMT"
-        },
-        {
-          "title": "OpenAI\u2019s Medicare attack has exposed Australia\u2019s \u2018tech debt\u2019. Fixing it could bring a big bill for taxpayers",
-          "link": "https://www.theguardian.com/australia-news/2026/oct/03/openais-medicare-attack-has-exposed-australias-tech-debt-fixing-it-could-bring-a-big-bill-for-taxpayers",
-          "date": "Fri, 02 Oct 2026 15:00:13 GMT"
-        },
-        {
-          "title": "\u2018These guys are just coming from nothing\u2019: questions over multibillion-dollar Firmus float amid datacentre backlash",
-          "link": "https://www.theguardian.com/australia-news/2026/oct/03/ai-datacentre-backlash-firmus-asx-float-tasmania-australia",
-          "date": "Fri, 02 Oct 2026 15:00:12 GMT"
         }
       ],
       "error": null
