@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T18:58:47.492077+00:00",
+  "generatedAt": "2026-10-03T22:04:04.361162+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:377: not well-formed (invalid token)"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI | TechCrunch",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -253,6 +253,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "Rules learned from my own edits worked better than \"don't sound like AI\" in the prompt",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wwv0y2/rules_learned_from_my_own_edits_worked_better/",
+          "date": "2026-10-03T18:59:34+00:00"
+        },
+        {
           "title": "I spent a week posting about AI continuity. The replies changed the experiment.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wwf8bz/i_spent_a_week_posting_about_ai_continuity_the/",
           "date": "2026-10-03T05:34:04+00:00"
@@ -266,11 +271,6 @@
           "title": "I think I found the part of AI continuity that matters most: the first conversations after the handoff",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wvm1va/i_think_i_found_the_part_of_ai_continuity_that/",
           "date": "2026-10-02T05:56:46+00:00"
-        },
-        {
-          "title": "A fresh AI thread can sound mature before it actually is",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wuxg0r/a_fresh_ai_thread_can_sound_mature_before_it/",
-          "date": "2026-10-01T11:54:31+00:00"
         }
       ],
       "error": null
@@ -279,6 +279,11 @@
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
+        {
+          "title": "9 insights from \u2018Private Tech Trailblazers\u2019: Vertical AI becomes the growth engine",
+          "link": "https://siliconangle.com/2026/10/03/private-tech-trailblazers-vertical-ai-becomes-growth-engine-privatetechtrailblazersconference/",
+          "date": "Sat, 03 Oct 2026 20:08:45 +0000"
+        },
         {
           "title": "Robotics AI developer FieldAI reportedly raising $700M in funding",
           "link": "https://siliconangle.com/2026/10/02/robotics-ai-developer-fieldai-reportedly-raising-700m-in-funding/",
@@ -298,11 +303,6 @@
           "title": "IBM and CoreWeave co-design controls for agent workloads",
           "link": "https://siliconangle.com/2026/10/02/ibm-coreweave-co-design-controls-agent-workloads-fullyconnected/",
           "date": "Fri, 02 Oct 2026 20:12:25 +0000"
-        },
-        {
-          "title": "AI in customer experience has an orchestration problem, not an adoption problem",
-          "link": "https://siliconangle.com/2026/10/02/ai-in-customer-experience-has-an-orchestration-problem-not-an-adoption-problem/",
-          "date": "Fri, 02 Oct 2026 17:37:30 +0000"
         }
       ],
       "error": null
@@ -394,6 +394,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
+          "link": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/",
+          "date": "Sat, 03 Oct 2026 19:45:17 +0000"
+        },
+        {
           "title": "The dawn of the age of the\u00a0exoskeleton",
           "link": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/",
           "date": "Sat, 03 Oct 2026 11:15:33 +0000"
@@ -412,11 +417,6 @@
           "title": "Amazon\u2019s $1B plan to combat data center backlash draws more backlash",
           "link": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
           "date": "Fri, 02 Oct 2026 20:30:27 +0000"
-        },
-        {
-          "title": "Patient-zero drill put health facilities to the test\u201440% of them failed",
-          "link": "https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/",
-          "date": "Fri, 02 Oct 2026 20:07:59 +0000"
         }
       ],
       "error": null
@@ -424,7 +424,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "PewDiePie unveils \"uncensored\" Ajax AI model built to run on home PCs \u2014 creator says OpenAI banned him twice over model distillation used to build his product",
+          "link": "https://www.reddit.com/r/artificial/comments/1wwccsz/pewdiepie_unveils_uncensored_ajax_ai_model_built/",
+          "date": "2026-10-03T02:52:27+00:00"
+        },
+        {
+          "title": "Introducing Oscilloscope Diffusion",
+          "link": "https://www.reddit.com/r/artificial/comments/1wwqupm/introducing_oscilloscope_diffusion/",
+          "date": "2026-10-03T16:04:00+00:00"
+        },
+        {
+          "title": "The Pope would like an alliance of artists to protect human creativity against AI. What do you think of this vision of yours?",
+          "link": "https://www.reddit.com/r/artificial/comments/1wwh008/the_pope_would_like_an_alliance_of_artists_to/",
+          "date": "2026-10-03T07:21:20+00:00"
+        },
+        {
+          "title": "Trump\u2019s \u2018super intelligence\u2019 is being mocked by tech industry insiders: report",
+          "link": "https://www.reddit.com/r/artificial/comments/1ww4ixs/trumps_super_intelligence_is_being_mocked_by_tech/",
+          "date": "2026-10-02T20:37:15+00:00"
+        },
+        {
+          "title": "Musk's AI chatbot Grok reportedly encouraged Trump to capture Venezuela's president",
+          "link": "https://www.reddit.com/r/artificial/comments/1wwfhn1/musks_ai_chatbot_grok_reportedly_encouraged_trump/",
+          "date": "2026-10-03T05:49:57+00:00"
+        }
+      ],
       "error": null
     },
     {
@@ -464,6 +490,16 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Black Box: The Chatbots | Life Raft | Ep 4 \u2013 podcast",
+          "link": "https://www.theguardian.com/australia-news/audio/2026/oct/04/black-box-the-chatbots-life-raft-episode-4-podcast",
+          "date": "Sat, 03 Oct 2026 20:00:07 GMT"
+        },
+        {
+          "title": "OpenAI safety leader quits, warning AI company\u2019s culture is \u2018broken\u2019",
+          "link": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+          "date": "Sat, 03 Oct 2026 19:41:21 GMT"
+        },
+        {
           "title": "California\u2019s new laws target workers\u2019 biggest fear of AI taking their jobs",
           "link": "https://www.theguardian.com/technology/2026/oct/03/california-ai-laws-worker-protection",
           "date": "Sat, 03 Oct 2026 14:00:00 GMT"
@@ -477,16 +513,6 @@
           "title": "OpenAI says its review into hacks, including on Australian government sites, is costing $500,000 a day",
           "link": "https://www.theguardian.com/technology/2026/oct/03/openai-review-hacks-australian-government-sites-costing-500000-a-day",
           "date": "Sat, 03 Oct 2026 05:39:22 GMT"
-        },
-        {
-          "title": "Eliza review \u2013 an ambitious, unsettling play about the birth of AI",
-          "link": "https://www.theguardian.com/stage/2026/oct/03/eliza-review-melbourne-theatre-company-birth-of-ai",
-          "date": "Sat, 03 Oct 2026 01:57:39 GMT"
-        },
-        {
-          "title": "Georgia holds emergency meeting on AI exposing voters\u2019 secret ballots",
-          "link": "https://www.theguardian.com/us-news/2026/oct/02/midterms-ai-ballot-privacy",
-          "date": "Fri, 02 Oct 2026 18:57:05 GMT"
         }
       ],
       "error": null
