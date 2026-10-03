@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T15:41:14.929544+00:00",
+  "generatedAt": "2026-10-03T18:58:47.492077+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,12 +101,22 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<unknown>:2:377: not well-formed (invalid token)"
     },
     {
       "name": "AI | TechCrunch",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
+        {
+          "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+          "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+          "date": "Sat, 03 Oct 2026 18:43:57 +0000"
+        },
+        {
+          "title": "OpenAI safety employee resigns, claiming the company\u2019s \u2018culture is broken\u2019",
+          "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+          "date": "Sat, 03 Oct 2026 16:30:01 +0000"
+        },
         {
           "title": "All the AI agents that can live in your text messages",
           "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
@@ -121,16 +131,6 @@
           "title": "Sean Parker is rebuilding Stability AI around music",
           "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
           "date": "Fri, 02 Oct 2026 21:09:14 +0000"
-        },
-        {
-          "title": "Affected by layoffs? Don\u2019t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-          "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-          "date": "Fri, 02 Oct 2026 19:15:51 +0000"
-        },
-        {
-          "title": "Apple says it\u2019s tightening macOS \u2018Full Disk Access\u2019 controls due to new risks from AI agents",
-          "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-          "date": "Fri, 02 Oct 2026 18:11:27 +0000"
         }
       ],
       "error": null
@@ -528,6 +528,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Google Updates Guidelines to Punish Sites That Use Fake Bylines and AI-Generated Headshots",
+          "link": "https://futurism.com/artificial-intelligence/google-updates-guidelines-fake-bylines-ai-generated-headshots",
+          "date": "Sat, 03 Oct 2026 12:08:54 -0400"
+        },
+        {
+          "title": "An Overwhelming Percent of Americans Now Want to Pause AI and Tax Billionaires",
+          "link": "https://futurism.com/future-society/american-voters-overwhelming-support-ai-pause-billionaire-tax",
+          "date": "Sat, 03 Oct 2026 12:00:00 -0400"
+        },
+        {
           "title": "The Tech Industry\u2019s Aggressive Push to Integrate AI Into Schools Is Turning Into a Disaster",
           "link": "https://futurism.com/future-society/tech-industry-aggressive-google-ai-schools-disaster",
           "date": "Sat, 03 Oct 2026 11:02:00 -0400"
@@ -541,16 +551,6 @@
           "title": "Why Is Instagram Running Ads for a \u201cPet Incinerator\u201d?",
           "link": "https://futurism.com/artificial-intelligence/instagram-pet-incinerator",
           "date": "Sat, 03 Oct 2026 09:00:00 -0400"
-        },
-        {
-          "title": "AI Now Writing Code That Humans Can\u2019t Even Understand",
-          "link": "https://futurism.com/artificial-intelligence/ai-writing-code-humans-cant-understand",
-          "date": "Sat, 03 Oct 2026 08:02:00 -0400"
-        },
-        {
-          "title": "Meta Is Using Its Massive AI Data Centers to Avoid Paying Billions of Dollars in Taxes",
-          "link": "https://futurism.com/artificial-intelligence/meta-ai-data-center-tax-credits",
-          "date": "Sat, 03 Oct 2026 07:01:00 -0400"
         }
       ],
       "error": null
@@ -559,6 +559,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+          "link": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
+          "date": "Sat, 03 Oct 2026 18:00:00 +0000"
+        },
         {
           "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
           "link": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
@@ -578,11 +583,6 @@
           "title": "A Flaw in ChatGPT\u2019s Mac App Could Have Let Hackers Grab Sensitive Data",
           "link": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
           "date": "Fri, 02 Oct 2026 09:45:00 +0000"
-        },
-        {
-          "title": "AI Is Making a Mess of Nurses\u2019 Schedules. They Say It\u2019s a Safety Issue",
-          "link": "https://www.wired.com/story/ai-making-mess-of-nurses-schedules-they-say-its-a-safety-issue/",
-          "date": "Fri, 02 Oct 2026 09:30:00 +0000"
         }
       ],
       "error": null
