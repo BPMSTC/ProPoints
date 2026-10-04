@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T22:04:04.361162+00:00",
+  "generatedAt": "2026-10-04T02:21:41.414035+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<unknown>:2:377: not well-formed (invalid token)"
     },
     {
       "name": "AI | TechCrunch",
@@ -253,24 +253,24 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "I created an opensource locally usable full fledged ai platform",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wx09qc/i_created_an_opensource_locally_usable_full/",
+          "date": "2026-10-03T22:51:17+00:00"
+        },
+        {
           "title": "Rules learned from my own edits worked better than \"don't sound like AI\" in the prompt",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wwv0y2/rules_learned_from_my_own_edits_worked_better/",
           "date": "2026-10-03T18:59:34+00:00"
         },
         {
+          "title": "Aletheia",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wx15l3/aletheia/",
+          "date": "2026-10-03T23:35:38+00:00"
+        },
+        {
           "title": "I spent a week posting about AI continuity. The replies changed the experiment.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wwf8bz/i_spent_a_week_posting_about_ai_continuity_the/",
           "date": "2026-10-03T05:34:04+00:00"
-        },
-        {
-          "title": "Do you work with AI/RPA automation? Bachelor\u2019s thesis survey (5\u20137 min)",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wvshoq/do_you_work_with_airpa_automation_bachelors/",
-          "date": "2026-10-02T12:27:28+00:00"
-        },
-        {
-          "title": "I think I found the part of AI continuity that matters most: the first conversations after the handoff",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wvm1va/i_think_i_found_the_part_of_ai_continuity_that/",
-          "date": "2026-10-02T05:56:46+00:00"
         }
       ],
       "error": null
@@ -362,6 +362,11 @@
       "url": "https://huggingface.co/blog/feed.xml",
       "items": [
         {
+          "title": "The Agent Said It Was Done. The Database Disagreed.",
+          "link": "https://huggingface.co/blog/microsoft/thinkingbox",
+          "date": "Sat, 03 Oct 2026 22:56:48 GMT"
+        },
+        {
           "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
           "link": "https://huggingface.co/blog/allenai/astabrief",
           "date": "Fri, 02 Oct 2026 15:19:50 GMT"
@@ -380,11 +385,6 @@
           "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
           "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
           "date": "Tue, 29 Sep 2026 15:30:38 GMT"
-        },
-        {
-          "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-          "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-          "date": "Tue, 29 Sep 2026 13:07:00 GMT"
         }
       ],
       "error": null
@@ -424,33 +424,7 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "PewDiePie unveils \"uncensored\" Ajax AI model built to run on home PCs \u2014 creator says OpenAI banned him twice over model distillation used to build his product",
-          "link": "https://www.reddit.com/r/artificial/comments/1wwccsz/pewdiepie_unveils_uncensored_ajax_ai_model_built/",
-          "date": "2026-10-03T02:52:27+00:00"
-        },
-        {
-          "title": "Introducing Oscilloscope Diffusion",
-          "link": "https://www.reddit.com/r/artificial/comments/1wwqupm/introducing_oscilloscope_diffusion/",
-          "date": "2026-10-03T16:04:00+00:00"
-        },
-        {
-          "title": "The Pope would like an alliance of artists to protect human creativity against AI. What do you think of this vision of yours?",
-          "link": "https://www.reddit.com/r/artificial/comments/1wwh008/the_pope_would_like_an_alliance_of_artists_to/",
-          "date": "2026-10-03T07:21:20+00:00"
-        },
-        {
-          "title": "Trump\u2019s \u2018super intelligence\u2019 is being mocked by tech industry insiders: report",
-          "link": "https://www.reddit.com/r/artificial/comments/1ww4ixs/trumps_super_intelligence_is_being_mocked_by_tech/",
-          "date": "2026-10-02T20:37:15+00:00"
-        },
-        {
-          "title": "Musk's AI chatbot Grok reportedly encouraged Trump to capture Venezuela's president",
-          "link": "https://www.reddit.com/r/artificial/comments/1wwfhn1/musks_ai_chatbot_grok_reportedly_encouraged_trump/",
-          "date": "2026-10-03T05:49:57+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
