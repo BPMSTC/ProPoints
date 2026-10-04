@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T09:18:16.469805+00:00",
+  "generatedAt": "2026-10-04T15:07:08.034732+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:377: not well-formed (invalid token)"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI | TechCrunch",
@@ -253,24 +253,24 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "Built an MCP tool called Ownhand. It learns your writing style, so your Agent can hook into it automatically when writing a message or an email. It tracks style templates for any domain (chat, formal email, etc.) and adds rules over time to better match your voice.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wxhh44/built_an_mcp_tool_called_ownhand_it_learns_your/",
+          "date": "2026-10-04T14:48:06+00:00"
+        },
+        {
           "title": "I created an opensource locally usable full fledged ai platform",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wx09qc/i_created_an_opensource_locally_usable_full/",
           "date": "2026-10-03T22:51:17+00:00"
         },
         {
+          "title": "I built a proxy to get official Claude and GPT models at a 85% discount!!",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wxbvwt/i_built_a_proxy_to_get_official_claude_and_gpt/",
+          "date": "2026-10-04T09:54:59+00:00"
+        },
+        {
           "title": "Rules learned from my own edits worked better than \"don't sound like AI\" in the prompt",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wwv0y2/rules_learned_from_my_own_edits_worked_better/",
           "date": "2026-10-03T18:59:34+00:00"
-        },
-        {
-          "title": "Aletheia",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wx15l3/aletheia/",
-          "date": "2026-10-03T23:35:38+00:00"
-        },
-        {
-          "title": "I spent a week posting about AI continuity. The replies changed the experiment.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wwf8bz/i_spent_a_week_posting_about_ai_continuity_the/",
-          "date": "2026-10-03T05:34:04+00:00"
         }
       ],
       "error": null
@@ -394,6 +394,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "All hail electrification. But let\u2019s talk about the hard part.",
+          "link": "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/",
+          "date": "Sun, 04 Oct 2026 11:05:53 +0000"
+        },
+        {
           "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
           "link": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/",
           "date": "Sat, 03 Oct 2026 19:45:17 +0000"
@@ -412,11 +417,6 @@
           "title": "Someone got Doom in an SQL database",
           "link": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
           "date": "Fri, 02 Oct 2026 21:19:05 +0000"
-        },
-        {
-          "title": "Amazon\u2019s $1B plan to combat data center backlash draws more backlash",
-          "link": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
-          "date": "Fri, 02 Oct 2026 20:30:27 +0000"
         }
       ],
       "error": null
@@ -464,6 +464,21 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Rural Queenslanders have seen gas projects come and go \u2013 but a 725-hectare datacentre poses a whole new level of \u2018stupidity\u2019",
+          "link": "https://www.theguardian.com/australia-news/2026/oct/05/queensland-data-centre-anthropic-western-downs-dalby",
+          "date": "Sun, 04 Oct 2026 14:00:29 GMT"
+        },
+        {
+          "title": "Trump names intelligence chief Jay Clayton as new White House AI czar",
+          "link": "https://www.theguardian.com/us-news/2026/oct/04/trump-jay-clayton-white-house-ai-czar",
+          "date": "Sun, 04 Oct 2026 13:44:50 GMT"
+        },
+        {
+          "title": "The AI industry is booming. Women are getting left behind",
+          "link": "https://www.theguardian.com/technology/2026/oct/04/women-ai-jobs-inequality",
+          "date": "Sun, 04 Oct 2026 13:00:29 GMT"
+        },
+        {
           "title": "OpenAI safety leader quits, warning AI company\u2019s culture is \u2018broken\u2019",
           "link": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
           "date": "Sun, 04 Oct 2026 07:48:54 GMT"
@@ -472,21 +487,6 @@
           "title": "Black Box: The Chatbots | Life Raft | Ep 4 \u2013 podcast",
           "link": "https://www.theguardian.com/australia-news/audio/2026/oct/04/black-box-the-chatbots-life-raft-episode-4-podcast",
           "date": "Sat, 03 Oct 2026 20:00:07 GMT"
-        },
-        {
-          "title": "California\u2019s new laws target workers\u2019 biggest fear of AI taking their jobs",
-          "link": "https://www.theguardian.com/technology/2026/oct/03/california-ai-laws-worker-protection",
-          "date": "Sat, 03 Oct 2026 14:00:00 GMT"
-        },
-        {
-          "title": "From the Bayeux tapestry to Glastonbury: top tips and tricks to grab the hottest tickets",
-          "link": "https://www.theguardian.com/money/2026/oct/03/bayeux-tapestry-glastonbury-top-tips-tricks-hottest-tickets",
-          "date": "Sat, 03 Oct 2026 07:36:54 GMT"
-        },
-        {
-          "title": "OpenAI says its review into hacks, including on Australian government sites, is costing $500,000 a day",
-          "link": "https://www.theguardian.com/technology/2026/oct/03/openai-review-hacks-australian-government-sites-costing-500000-a-day",
-          "date": "Sat, 03 Oct 2026 05:39:22 GMT"
         }
       ],
       "error": null
@@ -528,6 +528,21 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "AI Is Creating \u201cDoom Loops\u201d All Over the Economy",
+          "link": "https://futurism.com/artificial-intelligence/ai-is-creating-doom-loops-all-over-the-economy",
+          "date": "Sun, 04 Oct 2026 11:02:00 -0400"
+        },
+        {
+          "title": "Facebook Is Letting Accounts Commit Stolen Valor Using AI Slop of Troops in Warzones",
+          "link": "https://futurism.com/artificial-intelligence/facebook-content-farms-stolen-valor-ai-slop-troops-war",
+          "date": "Sun, 04 Oct 2026 10:01:00 -0400"
+        },
+        {
+          "title": "Credit Rating Firm Says the Economy Is About to Be Obliterated",
+          "link": "https://futurism.com/artificial-intelligence/credit-rating-firm-ai-economy",
+          "date": "Sun, 04 Oct 2026 07:02:00 -0400"
+        },
+        {
           "title": "Google Updates Guidelines to Punish Sites That Use Fake Bylines and AI-Generated Headshots",
           "link": "https://futurism.com/artificial-intelligence/google-updates-guidelines-fake-bylines-ai-generated-headshots",
           "date": "Sat, 03 Oct 2026 12:08:54 -0400"
@@ -536,21 +551,6 @@
           "title": "An Overwhelming Percent of Americans Now Want to Pause AI and Tax Billionaires",
           "link": "https://futurism.com/future-society/american-voters-overwhelming-support-ai-pause-billionaire-tax",
           "date": "Sat, 03 Oct 2026 12:00:00 -0400"
-        },
-        {
-          "title": "The Tech Industry\u2019s Aggressive Push to Integrate AI Into Schools Is Turning Into a Disaster",
-          "link": "https://futurism.com/future-society/tech-industry-aggressive-google-ai-schools-disaster",
-          "date": "Sat, 03 Oct 2026 11:02:00 -0400"
-        },
-        {
-          "title": "The Only Thing Dumber Than Someone Creating an \u201cAI Torture Chamber\u201d Is the Meltdown That the AI Welfare Crowd Is Having Over It",
-          "link": "https://futurism.com/artificial-intelligence/ai-torture-chamber-meltdown",
-          "date": "Sat, 03 Oct 2026 10:01:00 -0400"
-        },
-        {
-          "title": "Why Is Instagram Running Ads for a \u201cPet Incinerator\u201d?",
-          "link": "https://futurism.com/artificial-intelligence/instagram-pet-incinerator",
-          "date": "Sat, 03 Oct 2026 09:00:00 -0400"
         }
       ],
       "error": null
@@ -559,6 +559,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Rural Data Centers Are in for a Big Federal Tax Break",
+          "link": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
+          "date": "Sun, 04 Oct 2026 10:00:00 +0000"
+        },
         {
           "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
           "link": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
@@ -578,11 +583,6 @@
           "title": "Trump\u2019s Crazy AI Rebrand Was a Loyalty Test for Tech Execs\u2014and It Worked",
           "link": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
           "date": "Fri, 02 Oct 2026 15:00:00 +0000"
-        },
-        {
-          "title": "A Flaw in ChatGPT\u2019s Mac App Could Have Let Hackers Grab Sensitive Data",
-          "link": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
-          "date": "Fri, 02 Oct 2026 09:45:00 +0000"
         }
       ],
       "error": null
