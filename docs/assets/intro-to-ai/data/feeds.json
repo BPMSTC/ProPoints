@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T19:00:33.235089+00:00",
+  "generatedAt": "2026-10-04T22:46:13.725599+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,12 +101,22 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI | TechCrunch",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
+        {
+          "title": "Google froze its open source bug bounty program due to a \u2018significant rise\u2019 in AI submissions",
+          "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+          "date": "Sun, 04 Oct 2026 20:31:07 +0000"
+        },
+        {
+          "title": "Can \u2018super intelligence\u2019 and a non-binding safety pact solve AI\u2019s image problem?",
+          "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+          "date": "Sun, 04 Oct 2026 20:08:34 +0000"
+        },
         {
           "title": "Trump unveils his new Super Intelligence Force",
           "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
@@ -121,16 +131,6 @@
           "title": "OpenAI safety employee resigns, claiming the company\u2019s \u2018culture is broken\u2019",
           "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
           "date": "Sat, 03 Oct 2026 16:30:01 +0000"
-        },
-        {
-          "title": "All the AI agents that can live in your text messages",
-          "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-          "date": "Sat, 03 Oct 2026 14:00:00 +0000"
-        },
-        {
-          "title": "Meta wants your next gadget to be Muse-infused",
-          "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-          "date": "Sat, 03 Oct 2026 00:45:39 +0000"
         }
       ],
       "error": null
@@ -268,9 +268,9 @@
           "date": "2026-10-04T14:48:06+00:00"
         },
         {
-          "title": "I built a proxy to get official Claude and GPT models at a 85% discount!!",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wxbvwt/i_built_a_proxy_to_get_official_claude_and_gpt/",
-          "date": "2026-10-04T09:54:59+00:00"
+          "title": "I created an opensource locally usable full fledged ai platform",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wx09qc/i_created_an_opensource_locally_usable_full/",
+          "date": "2026-10-03T22:51:17+00:00"
         }
       ],
       "error": null
@@ -528,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Chinese Hackers Impersonate Anthropic Employee to Extract AI Secrets",
+          "link": "https://futurism.com/artificial-intelligence/chinese-hackers-impersonate-anthropic-ai-secrets",
+          "date": "Sun, 04 Oct 2026 16:03:00 -0400"
+        },
+        {
           "title": "McDonalds Has Secretly Deployed AI Models to Determine Exactly What to Charge You for Its Mid Fast Food Burgers",
           "link": "https://futurism.com/future-society/mcdonalds-ai-burger-pricing",
           "date": "Sun, 04 Oct 2026 15:00:00 -0400"
@@ -546,11 +551,6 @@
           "title": "Facebook Is Letting Accounts Commit Stolen Valor Using AI Slop of Troops in Warzones",
           "link": "https://futurism.com/artificial-intelligence/facebook-content-farms-stolen-valor-ai-slop-troops-war",
           "date": "Sun, 04 Oct 2026 10:01:00 -0400"
-        },
-        {
-          "title": "Credit Rating Firm Says the Economy Is About to Be Obliterated",
-          "link": "https://futurism.com/artificial-intelligence/credit-rating-firm-ai-economy",
-          "date": "Sun, 04 Oct 2026 07:02:00 -0400"
         }
       ],
       "error": null
