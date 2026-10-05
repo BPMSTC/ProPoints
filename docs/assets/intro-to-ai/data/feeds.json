@@ -1,10 +1,25 @@
 {
-  "generatedAt": "2026-10-05T08:15:53.463162+00:00",
+  "generatedAt": "2026-10-05T17:49:51.859001+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Muse escapes containment",
+          "link": "https://www.404media.co/muse-escapes-containment/",
+          "date": "Mon, 05 Oct 2026 15:38:35 GMT"
+        },
+        {
+          "title": "arXiv Is Rate Limiting Submissions Because It Can\u2019t Keep up With AI Slop",
+          "link": "https://www.404media.co/arxiv-is-rate-limiting-submissions-because-it-cant-keep-up-with-ai-slop/",
+          "date": "Mon, 05 Oct 2026 15:29:49 GMT"
+        },
+        {
+          "title": "Meta Rushed to Fix Muse \u2018VM Escape' Vulnerability Soon Before Launch",
+          "link": "https://www.404media.co/meta-rushed-to-fix-muse-vm-escape-vulnerability-immediately-before-launch/",
+          "date": "Mon, 05 Oct 2026 14:13:58 GMT"
+        },
         {
           "title": "Our Solar System Is Terminally Unstable and Will Be Completely Destroyed, Study Finds",
           "link": "https://www.404media.co/our-solar-system-is-terminally-unstable-and-will-be-completely-destroyed-study-finds/",
@@ -14,21 +29,6 @@
           "title": "Federal Judge Rules a Flock Search Was \u2018Indiscriminate Mass Surveillance\u2019 and Unconstitutional",
           "link": "https://www.404media.co/federal-judge-rules-a-flock-search-was-indiscriminate-mass-surveillance-and-unconstitutional/",
           "date": "Fri, 02 Oct 2026 20:49:15 GMT"
-        },
-        {
-          "title": "Podcast: The FBI Was Hacked. We\u2019ve Seen the Data",
-          "link": "https://www.404media.co/podcast-the-fbi-was-hacked-weve-seen-the-data/",
-          "date": "Fri, 02 Oct 2026 17:37:35 GMT"
-        },
-        {
-          "title": "Behind the Blog: Freaking Out",
-          "link": "https://www.404media.co/behind-the-blog-freaking-out/",
-          "date": "Fri, 02 Oct 2026 16:02:30 GMT"
-        },
-        {
-          "title": "'Everything but censorship'",
-          "link": "https://www.404media.co/everything-but-censorship-cornell-seven-case/",
-          "date": "Thu, 01 Oct 2026 14:31:43 GMT"
         }
       ],
       "error": null
@@ -108,29 +108,29 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
-          "title": "Google froze its open source bug bounty program due to a \u2018significant rise\u2019 in AI submissions",
-          "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-          "date": "Sun, 04 Oct 2026 20:31:07 +0000"
+          "title": "Hot Girl Hotline is like \u2018Dear Abby\u2019 for the AI era",
+          "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+          "date": "Mon, 05 Oct 2026 17:29:22 +0000"
         },
         {
-          "title": "Can \u2018super intelligence\u2019 and a non-binding safety pact solve AI\u2019s image problem?",
-          "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-          "date": "Sun, 04 Oct 2026 20:08:34 +0000"
+          "title": "HackerRank\u2019s AI interviewer offers a glimpse into what job interviews could become",
+          "link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+          "date": "Mon, 05 Oct 2026 16:43:35 +0000"
         },
         {
-          "title": "Trump unveils his new Super Intelligence Force",
-          "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-          "date": "Sun, 04 Oct 2026 15:15:10 +0000"
+          "title": "OpenAI launches visual ads that appear alongside image generation results",
+          "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+          "date": "Mon, 05 Oct 2026 15:14:24 +0000"
         },
         {
-          "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-          "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-          "date": "Sat, 03 Oct 2026 18:43:57 +0000"
+          "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+          "date": "Mon, 05 Oct 2026 15:00:00 +0000"
         },
         {
-          "title": "OpenAI safety employee resigns, claiming the company\u2019s \u2018culture is broken\u2019",
-          "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-          "date": "Sat, 03 Oct 2026 16:30:01 +0000"
+          "title": "Researchers are tracking a Chinese AI \u2018agent fleet\u2019",
+          "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+          "date": "Mon, 05 Oct 2026 14:35:09 +0000"
         }
       ],
       "error": null
@@ -139,6 +139,11 @@
       "name": "AI Business",
       "url": "https://aibusiness.com/rss.xml",
       "items": [
+        {
+          "title": "Physical AI moves beyond traditional robotics",
+          "link": "https://aibusiness.com/automation/physical-ai-moves-beyond-traditional-robotics",
+          "date": "Mon, 05 Oct 2026 14:00:00 GMT"
+        },
         {
           "title": "Prompt: AI is removing rungs from the corporate career ladder",
           "link": "https://aibusiness.com/generative-ai/prompt-ai-removing-rungs-from-corporate-career-ladder",
@@ -158,11 +163,6 @@
           "title": "Meta expands Muse to small businesses",
           "link": "https://aibusiness.com/agentic-ai/meta-expands-muse-to-small-businesses",
           "date": "Thu, 01 Oct 2026 23:57:15 GMT"
-        },
-        {
-          "title": "Humanoid buildup overlooks the robots already running factories",
-          "link": "https://aibusiness.com/automation/humanoid-buildup-overlooks-the-robots-already-running-factories",
-          "date": "Thu, 01 Oct 2026 16:46:48 GMT"
         }
       ],
       "error": null
@@ -253,6 +253,16 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "Here is How I turn 80 page notes into 20 page comprehensive notes with Norra",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wy4fft/here_is_how_i_turn_80_page_notes_into_20_page/",
+          "date": "2026-10-05T09:48:02+00:00"
+        },
+        {
+          "title": "Byself's dark and light themes.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wy8mcf/byselfs_dark_and_light_themes/",
+          "date": "2026-10-05T13:30:22+00:00"
+        },
+        {
           "title": "Sibling Threads: Why Conversation May Transfer AI Working Style Better Than Facts Alone",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wxx1c4/sibling_threads_why_conversation_may_transfer_ai/",
           "date": "2026-10-05T02:16:19+00:00"
@@ -261,16 +271,6 @@
           "title": "Built an MCP tool called Ownhand. It learns your writing style, so your Agent can hook into it automatically when writing a message or an email. It tracks style templates for any domain (chat, formal email, etc.) and adds rules over time to better match your voice.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wxhh44/built_an_mcp_tool_called_ownhand_it_learns_your/",
           "date": "2026-10-04T14:48:06+00:00"
-        },
-        {
-          "title": "[Showcase Sunday] Multi-key rotation and cooldown for OpenCode Go",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wxmm8f/showcase_sunday_multikey_rotation_and_cooldown/",
-          "date": "2026-10-04T18:21:58+00:00"
-        },
-        {
-          "title": "Worried about your AI agent leaking secrets, or tired of secret-scanner false positives?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wxlaf6/worried_about_your_ai_agent_leaking_secrets_or/",
-          "date": "2026-10-04T17:27:13+00:00"
         }
       ],
       "error": null
@@ -280,29 +280,29 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
-          "title": "9 insights from \u2018Private Tech Trailblazers\u2019: Vertical AI becomes the growth engine",
-          "link": "https://siliconangle.com/2026/10/03/private-tech-trailblazers-vertical-ai-becomes-growth-engine-privatetechtrailblazersconference/",
-          "date": "Sat, 03 Oct 2026 20:08:45 +0000"
+          "title": "Exclusive: Iterate.ai\u2019s Lifeboat runs up to six times more AI agent sessions per GPU",
+          "link": "https://siliconangle.com/2026/10/05/exclusive-iterate-ais-lifeboat-runs-up-to-six-times-more-ai-agent-sessions-per-gpu/",
+          "date": "Mon, 05 Oct 2026 13:00:47 +0000"
         },
         {
-          "title": "Robotics AI developer FieldAI reportedly raising $700M in funding",
-          "link": "https://siliconangle.com/2026/10/02/robotics-ai-developer-fieldai-reportedly-raising-700m-in-funding/",
-          "date": "Sat, 03 Oct 2026 00:30:26 +0000"
+          "title": "Cohere unveils North 2 AI agent platform with rebuilt orchestration and token spending caps",
+          "link": "https://siliconangle.com/2026/10/05/cohere-unveils-north-2-ai-agent-platform-with-rebuilt-orchestration-and-token-spending-caps/",
+          "date": "Mon, 05 Oct 2026 13:00:15 +0000"
         },
         {
-          "title": "CrowdStrike and CoreWeave bring AI security to machine speed",
-          "link": "https://siliconangle.com/2026/10/02/coreweave-crowdstrike-pair-attack-defense-models-fullyconnected/",
-          "date": "Fri, 02 Oct 2026 20:41:42 +0000"
+          "title": "Equs launches a personal AI platform with private storage to give users greater control over data",
+          "link": "https://siliconangle.com/2026/10/05/equs-launches-a-personal-ai-platform-with-private-storage-to-give-users-greater-control-over-data/",
+          "date": "Mon, 05 Oct 2026 13:00:01 +0000"
         },
         {
-          "title": "NetApp hands storage operations to AI agents, but humans still draw the boundaries",
-          "link": "https://siliconangle.com/2026/10/02/data-governance-sets-rules-netapp-s-ai-storage-agents-netappinsight/",
-          "date": "Fri, 02 Oct 2026 20:27:48 +0000"
+          "title": "The modern F1 pit crew: AI engineers who race the deadline, not the car",
+          "link": "https://siliconangle.com/2026/10/05/forward-deployed-engineers-help-coreweave-race-f1-clock-fullyconnected/",
+          "date": "Mon, 05 Oct 2026 12:58:13 +0000"
         },
         {
-          "title": "IBM and CoreWeave co-design controls for agent workloads",
-          "link": "https://siliconangle.com/2026/10/02/ibm-coreweave-co-design-controls-agent-workloads-fullyconnected/",
-          "date": "Fri, 02 Oct 2026 20:12:25 +0000"
+          "title": "Physical AI\u2019s bottleneck shifts from what robots can do to whether factories trust them",
+          "link": "https://siliconangle.com/2026/10/05/data-centers-factory-floors-walden-robots-learn-job-fullyconnected/",
+          "date": "Mon, 05 Oct 2026 12:57:07 +0000"
         }
       ],
       "error": null
@@ -394,29 +394,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "F1 in Bahrain... in Malaysia: The race needed a software update to start",
+          "link": "https://arstechnica.com/cars/2026/10/f1-in-bahrain-in-malaysia-the-race-needed-a-software-update-to-start/",
+          "date": "Mon, 05 Oct 2026 16:09:07 +0000"
+        },
+        {
+          "title": "Mass quarantine issued in Russia after unexplained death of plague researcher",
+          "link": "https://arstechnica.com/health/2026/10/researchers-death-from-undisclosed-illness-sparks-mass-quarantine-in-russia/",
+          "date": "Mon, 05 Oct 2026 15:12:17 +0000"
+        },
+        {
+          "title": "AI glasses face their first major government crackdown",
+          "link": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
+          "date": "Mon, 05 Oct 2026 13:39:30 +0000"
+        },
+        {
+          "title": "Explaining Hall-effect, TMR, and other new types of \"mechanical\" switches",
+          "link": "https://arstechnica.com/gadgets/2026/10/the-hows-and-whys-of-non-mechanical-mechanical-keyboard-switches/",
+          "date": "Mon, 05 Oct 2026 11:00:41 +0000"
+        },
+        {
           "title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
           "link": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
           "date": "Mon, 05 Oct 2026 04:00:52 +0000"
-        },
-        {
-          "title": "Lions and cheetahs and chimps, oh my: a spotlight on Africa's diverse wildlife",
-          "link": "https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/",
-          "date": "Sun, 04 Oct 2026 15:34:14 +0000"
-        },
-        {
-          "title": "All hail electrification. But let\u2019s talk about the hard part.",
-          "link": "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/",
-          "date": "Sun, 04 Oct 2026 11:05:53 +0000"
-        },
-        {
-          "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
-          "link": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/",
-          "date": "Sat, 03 Oct 2026 19:45:17 +0000"
-        },
-        {
-          "title": "The dawn of the age of the\u00a0exoskeleton",
-          "link": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/",
-          "date": "Sat, 03 Oct 2026 11:15:33 +0000"
         }
       ],
       "error": null
@@ -432,6 +432,16 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Why it\u2019s more important than ever to jump-start entrepreneurial careers from the college classroom",
+          "link": "https://theconversation.com/why-its-more-important-than-ever-to-jump-start-entrepreneurial-careers-from-the-college-classroom-292831",
+          "date": "2026-10-05T12:16:57Z"
+        },
+        {
+          "title": "We\u2019ve tracked $80M of spending on almost 170 AI-generated political ads this year \u2013 it\u2019s weird",
+          "link": "https://theconversation.com/weve-tracked-80m-of-spending-on-almost-170-ai-generated-political-ads-this-year-its-weird-292105",
+          "date": "2026-10-05T12:15:41Z"
+        },
+        {
           "title": "Want to use AI to improve your work? Have it disagree with you",
           "link": "https://theconversation.com/want-to-use-ai-to-improve-your-work-have-it-disagree-with-you-291760",
           "date": "2026-10-02T12:49:06Z"
@@ -445,16 +455,6 @@
           "title": "Australia\u2019s Medicare breach reveals a new kind of cyber threat. How must NZ respond?",
           "link": "https://theconversation.com/australias-medicare-breach-reveals-a-new-kind-of-cyber-threat-how-must-nz-respond-293332",
           "date": "2026-10-02T00:36:47Z"
-        },
-        {
-          "title": "Australia\u2019s proposed laws could help regulate privacy risks from chatbots \u2013 if we get the details right",
-          "link": "https://theconversation.com/australias-proposed-laws-could-help-regulate-privacy-risks-from-chatbots-if-we-get-the-details-right-292792",
-          "date": "2026-10-01T18:00:16Z"
-        },
-        {
-          "title": "How deep do AI relationships really go? An expert in attachment theory explains",
-          "link": "https://theconversation.com/how-deep-do-ai-relationships-really-go-an-expert-in-attachment-theory-explains-293139",
-          "date": "2026-10-01T15:29:02Z"
         }
       ],
       "error": null
@@ -469,24 +469,24 @@
           "date": "Mon, 05 Oct 2026 05:00:49 GMT"
         },
         {
-          "title": "Trump names intelligence chief Jay Clayton as new White House AI czar",
-          "link": "https://www.theguardian.com/us-news/2026/oct/04/trump-jay-clayton-white-house-ai-czar",
-          "date": "Sun, 04 Oct 2026 17:45:28 GMT"
+          "title": "The Guardian view on sexual abuse in schools: teachers cannot deal with this alone | Editorial",
+          "link": "https://www.theguardian.com/commentisfree/2026/oct/05/the-guardian-view-on-sexual-abuse-in-schools-teachers-cannot-deal-with-this-alone",
+          "date": "Mon, 05 Oct 2026 17:45:41 GMT"
         },
         {
-          "title": "Rural Queenslanders have seen gas projects come and go \u2013 but a 725-hectare datacentre poses a whole new level of \u2018stupidity\u2019",
-          "link": "https://www.theguardian.com/australia-news/2026/oct/05/queensland-data-centre-anthropic-western-downs-dalby",
-          "date": "Sun, 04 Oct 2026 14:00:29 GMT"
+          "title": "OpenAI must explain action taken to stop AI hacking Australians\u2019 private data, chair of federal inquiry says",
+          "link": "https://www.theguardian.com/australia-news/2026/oct/06/openai-must-explain-action-taken-to-stop-ai-hacking-australians-private-data-chair-of-federal-inquiry-says",
+          "date": "Mon, 05 Oct 2026 14:00:27 GMT"
         },
         {
-          "title": "The AI industry is booming. Women are getting left behind",
-          "link": "https://www.theguardian.com/technology/2026/oct/04/women-ai-jobs-inequality",
-          "date": "Sun, 04 Oct 2026 13:00:29 GMT"
+          "title": "Accept \u2018bad things\u2019 in return for benefits of AI, says Sam Altman",
+          "link": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
+          "date": "Mon, 05 Oct 2026 13:27:45 GMT"
         },
         {
-          "title": "OpenAI safety leader quits, warning AI company\u2019s culture is \u2018broken\u2019",
-          "link": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-          "date": "Sun, 04 Oct 2026 07:48:54 GMT"
+          "title": "\ufeffThe UK\u2019s G20 presidency will push Andy Burnham to the centre of the global stage. What will he use it for? | Michael Jacobs",
+          "link": "https://www.theguardian.com/commentisfree/2026/oct/05/uk-g20-presidency-andy-burnham-global-stage-technology-food-climate-economy",
+          "date": "Mon, 05 Oct 2026 09:39:04 GMT"
         }
       ],
       "error": null
@@ -528,6 +528,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Sam Altman Says the World Is Going to Have to Suffer for the Glories of AI",
+          "link": "https://futurism.com/artificial-intelligence/sam-altman-world-suffer-glories-ai",
+          "date": "Mon, 05 Oct 2026 12:36:59 -0400"
+        },
+        {
+          "title": "Elon Musk Admits Why Tesla Robotaxis Can\u2019t Be Trusted at Night",
+          "link": "https://futurism.com/future-society/elon-musk-tesla-robotaxis-night",
+          "date": "Mon, 05 Oct 2026 10:23:05 -0400"
+        },
+        {
           "title": "Amazon Warns Local Communities to Stop Defying Its Massive AI Data Centers",
           "link": "https://futurism.com/artificial-intelligence/amazon-local-communities-stop-defying-ai-data-centers",
           "date": "Sun, 04 Oct 2026 20:03:00 -0400"
@@ -541,16 +551,6 @@
           "title": "McDonalds Has Secretly Deployed AI Models to Determine Exactly What to Charge You for Its Mid Fast Food Burgers",
           "link": "https://futurism.com/future-society/mcdonalds-ai-burger-pricing",
           "date": "Sun, 04 Oct 2026 15:00:00 -0400"
-        },
-        {
-          "title": "Anthropic Has Been Aggressively Lobbying the Vatican to Consider AI Consciousness",
-          "link": "https://futurism.com/artificial-intelligence/anthropic-lobbying-vatican",
-          "date": "Sun, 04 Oct 2026 13:02:00 -0400"
-        },
-        {
-          "title": "AI Is Creating \u201cDoom Loops\u201d All Over the Economy",
-          "link": "https://futurism.com/artificial-intelligence/ai-is-creating-doom-loops-all-over-the-economy",
-          "date": "Sun, 04 Oct 2026 11:02:00 -0400"
         }
       ],
       "error": null
