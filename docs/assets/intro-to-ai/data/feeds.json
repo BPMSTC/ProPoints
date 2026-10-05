@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T22:46:13.725599+00:00",
+  "generatedAt": "2026-10-05T01:33:46.266688+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:380: not well-formed (invalid token)"
     },
     {
       "name": "AI | TechCrunch",
@@ -268,9 +268,9 @@
           "date": "2026-10-04T14:48:06+00:00"
         },
         {
-          "title": "I created an opensource locally usable full fledged ai platform",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wx09qc/i_created_an_opensource_locally_usable_full/",
-          "date": "2026-10-03T22:51:17+00:00"
+          "title": "I built a proxy to get official Claude and GPT models at a 85% discount!!",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wxbvwt/i_built_a_proxy_to_get_official_claude_and_gpt/",
+          "date": "2026-10-04T09:54:59+00:00"
         }
       ],
       "error": null
@@ -528,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Amazon Warns Local Communities to Stop Defying Its Massive AI Data Centers",
+          "link": "https://futurism.com/artificial-intelligence/amazon-local-communities-stop-defying-ai-data-centers",
+          "date": "Sun, 04 Oct 2026 20:03:00 -0400"
+        },
+        {
           "title": "Chinese Hackers Impersonate Anthropic Employee to Extract AI Secrets",
           "link": "https://futurism.com/artificial-intelligence/chinese-hackers-impersonate-anthropic-ai-secrets",
           "date": "Sun, 04 Oct 2026 16:03:00 -0400"
@@ -546,11 +551,6 @@
           "title": "AI Is Creating \u201cDoom Loops\u201d All Over the Economy",
           "link": "https://futurism.com/artificial-intelligence/ai-is-creating-doom-loops-all-over-the-economy",
           "date": "Sun, 04 Oct 2026 11:02:00 -0400"
-        },
-        {
-          "title": "Facebook Is Letting Accounts Commit Stolen Valor Using AI Slop of Troops in Warzones",
-          "link": "https://futurism.com/artificial-intelligence/facebook-content-farms-stolen-valor-ai-slop-troops-war",
-          "date": "Sun, 04 Oct 2026 10:01:00 -0400"
         }
       ],
       "error": null
