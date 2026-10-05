@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T01:33:46.266688+00:00",
+  "generatedAt": "2026-10-05T08:15:53.463162+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:380: not well-formed (invalid token)"
+      "error": "<unknown>:2:377: not well-formed (invalid token)"
     },
     {
       "name": "AI | TechCrunch",
@@ -253,6 +253,16 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "Sibling Threads: Why Conversation May Transfer AI Working Style Better Than Facts Alone",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wxx1c4/sibling_threads_why_conversation_may_transfer_ai/",
+          "date": "2026-10-05T02:16:19+00:00"
+        },
+        {
+          "title": "Built an MCP tool called Ownhand. It learns your writing style, so your Agent can hook into it automatically when writing a message or an email. It tracks style templates for any domain (chat, formal email, etc.) and adds rules over time to better match your voice.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wxhh44/built_an_mcp_tool_called_ownhand_it_learns_your/",
+          "date": "2026-10-04T14:48:06+00:00"
+        },
+        {
           "title": "[Showcase Sunday] Multi-key rotation and cooldown for OpenCode Go",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wxmm8f/showcase_sunday_multikey_rotation_and_cooldown/",
           "date": "2026-10-04T18:21:58+00:00"
@@ -261,16 +271,6 @@
           "title": "Worried about your AI agent leaking secrets, or tired of secret-scanner false positives?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wxlaf6/worried_about_your_ai_agent_leaking_secrets_or/",
           "date": "2026-10-04T17:27:13+00:00"
-        },
-        {
-          "title": "Built an MCP tool called Ownhand. It learns your writing style, so your Agent can hook into it automatically when writing a message or an email. It tracks style templates for any domain (chat, formal email, etc.) and adds rules over time to better match your voice.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wxhh44/built_an_mcp_tool_called_ownhand_it_learns_your/",
-          "date": "2026-10-04T14:48:06+00:00"
-        },
-        {
-          "title": "I built a proxy to get official Claude and GPT models at a 85% discount!!",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wxbvwt/i_built_a_proxy_to_get_official_claude_and_gpt/",
-          "date": "2026-10-04T09:54:59+00:00"
         }
       ],
       "error": null
@@ -394,6 +394,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
+          "link": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
+          "date": "Mon, 05 Oct 2026 04:00:52 +0000"
+        },
+        {
           "title": "Lions and cheetahs and chimps, oh my: a spotlight on Africa's diverse wildlife",
           "link": "https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/",
           "date": "Sun, 04 Oct 2026 15:34:14 +0000"
@@ -412,11 +417,6 @@
           "title": "The dawn of the age of the\u00a0exoskeleton",
           "link": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/",
           "date": "Sat, 03 Oct 2026 11:15:33 +0000"
-        },
-        {
-          "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-          "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-          "date": "Fri, 02 Oct 2026 23:03:16 +0000"
         }
       ],
       "error": null
@@ -464,6 +464,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Internet Watch Foundation reports huge rise in AI child sexual abuse material",
+          "link": "https://www.theguardian.com/technology/2026/oct/05/internet-watch-foundation-huge-rise-ai-child-sexual-abuse-material",
+          "date": "Mon, 05 Oct 2026 05:00:49 GMT"
+        },
+        {
           "title": "Trump names intelligence chief Jay Clayton as new White House AI czar",
           "link": "https://www.theguardian.com/us-news/2026/oct/04/trump-jay-clayton-white-house-ai-czar",
           "date": "Sun, 04 Oct 2026 17:45:28 GMT"
@@ -482,11 +487,6 @@
           "title": "OpenAI safety leader quits, warning AI company\u2019s culture is \u2018broken\u2019",
           "link": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
           "date": "Sun, 04 Oct 2026 07:48:54 GMT"
-        },
-        {
-          "title": "Black Box: The Chatbots | Life Raft | Ep 4 \u2013 podcast",
-          "link": "https://www.theguardian.com/australia-news/audio/2026/oct/04/black-box-the-chatbots-life-raft-episode-4-podcast",
-          "date": "Sat, 03 Oct 2026 20:00:07 GMT"
         }
       ],
       "error": null
