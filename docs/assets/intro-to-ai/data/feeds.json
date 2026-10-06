@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T04:44:33.129073+00:00",
+  "generatedAt": "2026-10-06T11:45:14.662042+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "Barndoor Live Workshop",
+          "link": "https://www.aiacceleratorinstitute.com/barndoor-live-workshop-thanks-for-registering/",
+          "date": "Tue, 06 Oct 2026 08:15:53 GMT"
+        },
+        {
           "title": "Thanks for registering",
           "link": "https://www.aiacceleratorinstitute.com/thanks-for-registering-9/",
           "date": "Wed, 30 Sep 2026 15:31:43 GMT"
@@ -88,11 +93,6 @@
           "title": "Thanks for registering",
           "link": "https://www.aiacceleratorinstitute.com/thanks-for-registering-8/",
           "date": "Tue, 29 Sep 2026 14:11:14 GMT"
-        },
-        {
-          "title": "Why compounding containment is the real test of your AI strategy",
-          "link": "https://www.aiacceleratorinstitute.com/why-compounding-containment-is-the-real-test-of-your-ai-strategy/",
-          "date": "Fri, 25 Sep 2026 12:41:00 GMT"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -253,6 +253,16 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "A planted \"P.S.\" fooled Jev, TypeSafe's new decision model. A boring rule caught it.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wytszx/a_planted_ps_fooled_jev_typesafes_new_decision/",
+          "date": "2026-10-06T04:47:29+00:00"
+        },
+        {
+          "title": "You already made a skill today (you just didn't call it that)",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wyzwvi/you_already_made_a_skill_today_you_just_didnt/",
+          "date": "2026-10-06T11:14:57+00:00"
+        },
+        {
           "title": "It\u2019s a Chatbot. Teach It Through Chats.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wymvt2/its_a_chatbot_teach_it_through_chats/",
           "date": "2026-10-05T22:56:30+00:00"
@@ -261,16 +271,6 @@
           "title": "Here is How I turn 80 page notes into 20 page comprehensive notes with Norra",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wy4fft/here_is_how_i_turn_80_page_notes_into_20_page/",
           "date": "2026-10-05T09:48:02+00:00"
-        },
-        {
-          "title": "Byself's dark and light themes.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wy8mcf/byselfs_dark_and_light_themes/",
-          "date": "2026-10-05T13:30:22+00:00"
-        },
-        {
-          "title": "Sibling Threads: Why Conversation May Transfer AI Working Style Better Than Facts Alone",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wxx1c4/sibling_threads_why_conversation_may_transfer_ai/",
-          "date": "2026-10-05T02:16:19+00:00"
         }
       ],
       "error": null
@@ -279,6 +279,11 @@
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
+        {
+          "title": "SAP expands Joule into an agentic work layer as Autonomous Enterprise goes live",
+          "link": "https://siliconangle.com/2026/10/06/sap-expands-joule-into-an-agentic-work-layer-as-autonomous-enterprise-goes-live/",
+          "date": "Tue, 06 Oct 2026 11:30:24 +0000"
+        },
         {
           "title": "Utah gives startup Nolla Health permission to start issuing AI automated prescriptions for acne treatments",
           "link": "https://siliconangle.com/2026/10/05/utah-gives-startup-nolla-health-permission-to-start-issuing-ai-automated-prescriptions-for-acne-treatments/",
@@ -298,11 +303,6 @@
           "title": "NetApp\u2019s Novus tackles metadata bottlenecks in AI data infrastructure",
           "link": "https://siliconangle.com/2026/10/05/netapps-novus-targets-ai-data-infrastructure-zettabyte-scale-netappinsight/",
           "date": "Mon, 05 Oct 2026 22:58:23 +0000"
-        },
-        {
-          "title": "NetApp puts sovereign storage at the center of European infrastructure decisions",
-          "link": "https://siliconangle.com/2026/10/05/sovereign-storage-becomes-architecture-decision-europe-netappinsight/",
-          "date": "Mon, 05 Oct 2026 21:58:00 +0000"
         }
       ],
       "error": null
@@ -362,6 +362,11 @@
       "url": "https://huggingface.co/blog/feed.xml",
       "items": [
         {
+          "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+          "link": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+          "date": "Tue, 06 Oct 2026 06:44:39 GMT"
+        },
+        {
           "title": "The Agent Said It Was Done. The Database Disagreed.",
           "link": "https://huggingface.co/blog/microsoft/thinkingbox",
           "date": "Sat, 03 Oct 2026 22:56:48 GMT"
@@ -380,11 +385,6 @@
           "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
           "link": "https://huggingface.co/blog/open-tts-leaderboard",
           "date": "Wed, 30 Sep 2026 00:00:00 GMT"
-        },
-        {
-          "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-          "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
-          "date": "Tue, 29 Sep 2026 15:30:38 GMT"
         }
       ],
       "error": null
@@ -464,29 +464,29 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Internet Watch Foundation reports huge rise in AI child sexual abuse material",
-          "link": "https://www.theguardian.com/technology/2026/oct/05/internet-watch-foundation-huge-rise-ai-child-sexual-abuse-material",
-          "date": "Mon, 05 Oct 2026 05:00:49 GMT"
+          "title": "Misuse of AI is brands\u2019 top reputational threat, new survey says",
+          "link": "https://www.theguardian.com/technology/2026/oct/06/ai-misuse-brand-reputation",
+          "date": "Tue, 06 Oct 2026 11:00:35 GMT"
         },
         {
-          "title": "Anthropic tells AI inquiry it \u2018never tried to dictate\u2019 Australian copyright rules",
-          "link": "https://www.theguardian.com/media/2026/oct/06/openai-australia-parliament-inquiry-jason-kwon",
-          "date": "Tue, 06 Oct 2026 00:53:48 GMT"
+          "title": "OpenAI delivers a mea culpa to the Australian government in person \u2013 but answers still elude",
+          "link": "https://www.theguardian.com/technology/2026/oct/06/openai-delivers-a-mea-culpa-to-the-australian-government-in-person-but-answers-still-elude",
+          "date": "Tue, 06 Oct 2026 11:12:41 GMT"
         },
         {
-          "title": "The Guardian view on sexual abuse in schools: teachers cannot deal with this alone | Editorial",
-          "link": "https://www.theguardian.com/commentisfree/2026/oct/05/the-guardian-view-on-sexual-abuse-in-schools-teachers-cannot-deal-with-this-alone",
-          "date": "Mon, 05 Oct 2026 17:45:41 GMT"
+          "title": "Drax datacentre could create nearly twice the yearly emissions of all Gatwick flights",
+          "link": "https://www.theguardian.com/uk-news/2026/oct/06/drax-datacentre-yearly-co2-emissions-gatwick-flights-analysis",
+          "date": "Tue, 06 Oct 2026 10:27:03 GMT"
         },
         {
-          "title": "OpenAI executive Jason Kwon to face grilling at parliament about AI hacking Australians\u2019 private data",
-          "link": "https://www.theguardian.com/australia-news/2026/oct/06/openai-must-explain-action-taken-to-stop-ai-hacking-australians-private-data-chair-of-federal-inquiry-says",
-          "date": "Mon, 05 Oct 2026 14:00:27 GMT"
+          "title": "OpenAI admits misstep in handling AI agent interactions with Australian government sites \u2013 video",
+          "link": "https://www.theguardian.com/australia-news/video/2026/oct/06/openai-australia-parliamentary-inquiry-jason-kwon-video",
+          "date": "Tue, 06 Oct 2026 07:32:25 GMT"
         },
         {
-          "title": "Accept \u2018bad things\u2019 in return for benefits of AI, says Sam Altman",
-          "link": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
-          "date": "Mon, 05 Oct 2026 13:27:45 GMT"
+          "title": "\u2018Pull the plug\u2019: protesters resort to direct action against AI firms",
+          "link": "https://www.theguardian.com/technology/2026/oct/06/pull-the-plug-protesters-resort-to-direct-action-against-ai-firms",
+          "date": "Tue, 06 Oct 2026 06:00:04 GMT"
         }
       ],
       "error": null
@@ -560,6 +560,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Kevin Roose Didn\u2019t Use AI to Write His Book About AI",
+          "link": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/",
+          "date": "Tue, 06 Oct 2026 10:30:00 +0000"
+        },
+        {
           "title": "Rural Data Centers Are in for a Big Federal Tax Break",
           "link": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
           "date": "Sun, 04 Oct 2026 10:00:00 +0000"
@@ -578,11 +583,6 @@
           "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
           "link": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
           "date": "Fri, 02 Oct 2026 16:00:00 +0000"
-        },
-        {
-          "title": "Trump\u2019s Crazy AI Rebrand Was a Loyalty Test for Tech Execs\u2014and It Worked",
-          "link": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
-          "date": "Fri, 02 Oct 2026 15:00:00 +0000"
         }
       ],
       "error": null
