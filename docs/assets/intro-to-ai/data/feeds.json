@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-10-06T17:52:57.494822+00:00",
+  "generatedAt": "2026-10-06T22:17:06.097075+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'",
+          "link": "https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight/",
+          "date": "Tue, 06 Oct 2026 19:26:09 GMT"
+        },
         {
           "title": "404 @ 3",
           "link": "https://www.404media.co/404-at-3-live-show/",
@@ -24,11 +29,6 @@
           "title": "arXiv Is Rate Limiting Submissions Because It Can\u2019t Keep up With AI Slop",
           "link": "https://www.404media.co/arxiv-is-rate-limiting-submissions-because-it-cant-keep-up-with-ai-slop/",
           "date": "Mon, 05 Oct 2026 15:29:49 GMT"
-        },
-        {
-          "title": "Meta Rushed to Fix Muse \u2018VM Escape' Vulnerability Soon Before Launch",
-          "link": "https://www.404media.co/meta-rushed-to-fix-muse-vm-escape-vulnerability-immediately-before-launch/",
-          "date": "Mon, 05 Oct 2026 14:13:58 GMT"
         }
       ],
       "error": null
@@ -108,29 +108,29 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "How AI decision models could change content moderation",
+          "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+          "date": "Tue, 06 Oct 2026 20:35:20 +0000"
+        },
+        {
+          "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+          "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+          "date": "Tue, 06 Oct 2026 20:00:30 +0000"
+        },
+        {
+          "title": "The next hurdle for AI agents: getting websites to let them in",
+          "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+          "date": "Tue, 06 Oct 2026 19:56:50 +0000"
+        },
+        {
+          "title": "Hark releases an AI personal assistant with a focus on privacy",
+          "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+          "date": "Tue, 06 Oct 2026 18:22:45 +0000"
+        },
+        {
           "title": "Mirror Particle is building a \u2018world model\u2019 of human behavior",
           "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
           "date": "Tue, 06 Oct 2026 16:35:00 +0000"
-        },
-        {
-          "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-          "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
-          "date": "Tue, 06 Oct 2026 16:00:00 +0000"
-        },
-        {
-          "title": "LibreOffice says \u2018no AI\u2019 is now a software feature",
-          "link": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
-          "date": "Tue, 06 Oct 2026 15:25:00 +0000"
-        },
-        {
-          "title": "Mistral\u2019s new 1T model aims to leapfrog closed and open rivals",
-          "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
-          "date": "Tue, 06 Oct 2026 14:33:16 +0000"
-        },
-        {
-          "title": "Pinterest\u2019s AI now turns beauty Pins into action plans",
-          "link": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
-          "date": "Tue, 06 Oct 2026 14:00:49 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -253,6 +253,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "How I feel listening to people talk about how designers and engineers are no longer needed.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wzf29c/how_i_feel_listening_to_people_talk_about_how/",
+          "date": "2026-10-06T21:37:04+00:00"
+        },
+        {
           "title": "You already made a skill today (you just didn't call it that)",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wyzwvi/you_already_made_a_skill_today_you_just_didnt/",
           "date": "2026-10-06T11:14:57+00:00"
@@ -266,11 +271,6 @@
           "title": "It\u2019s a Chatbot. Teach It Through Chats.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wymvt2/its_a_chatbot_teach_it_through_chats/",
           "date": "2026-10-05T22:56:30+00:00"
-        },
-        {
-          "title": "Here is How I turn 80 page notes into 20 page comprehensive notes with Norra",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wy4fft/here_is_how_i_turn_80_page_notes_into_20_page/",
-          "date": "2026-10-05T09:48:02+00:00"
         }
       ],
       "error": null
@@ -280,29 +280,29 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
-          "title": "Vast uses tiered storage to ease AI agent memory demands",
-          "link": "https://siliconangle.com/2026/10/06/ai-agent-memory-belongs-storage-says-vast-data-cto-fullyconnected/",
-          "date": "Tue, 06 Oct 2026 17:02:26 +0000"
+          "title": "Cline Bot makes the case for an open AI coding harness",
+          "link": "https://siliconangle.com/2026/10/06/cline-makes-the-case-for-an-open-ai-coding-harness-fullyconnected/",
+          "date": "Tue, 06 Oct 2026 21:02:39 +0000"
         },
         {
-          "title": "NetApp aims to make legacy data AI-ready without a rebuild",
-          "link": "https://siliconangle.com/2026/10/06/netapp-aims-to-make-legacy-data-ai-ready-without-a-rebuild-netappinsight/",
-          "date": "Tue, 06 Oct 2026 14:44:16 +0000"
+          "title": "Transforming the data path: Dell\u2019s new releases move enterprises closer to the agentic data center",
+          "link": "https://siliconangle.com/2026/10/06/agentic-era-dell-ai-data-platform-thecube-dellaidataplatform/",
+          "date": "Tue, 06 Oct 2026 20:56:57 +0000"
         },
         {
-          "title": "Exclusive: Gamma ravamps presentation platform to make output look more human",
-          "link": "https://siliconangle.com/2026/10/06/exclusive-gamma-ravamps-presentation-platform-to-make-output-look-more-human/",
-          "date": "Tue, 06 Oct 2026 13:00:48 +0000"
+          "title": "Mistral launches open-source Mistral Large 4, details AI roadmap",
+          "link": "https://siliconangle.com/2026/10/06/mistral-launches-open-source-mistral-large-4-details-ai-roadmap/",
+          "date": "Tue, 06 Oct 2026 20:28:53 +0000"
         },
         {
-          "title": "Antseed launches a decentralized marketplace for AI inference that dramatically lowers developers\u2019 costs",
-          "link": "https://siliconangle.com/2026/10/06/antseed-launches-a-decentralized-marketplace-for-ai-inference-that-dramatically-lowers-developers-costs/",
-          "date": "Tue, 06 Oct 2026 13:00:19 +0000"
+          "title": "CoreWeave targets GPU utilization in continuous AI post-training",
+          "link": "https://siliconangle.com/2026/10/06/gpu-utilization-post-training-shapes-better-ai-agents-fullyconnected/",
+          "date": "Tue, 06 Oct 2026 19:54:51 +0000"
         },
         {
-          "title": "Anaconda expands beyond Python with agent swarms and AI security testing",
-          "link": "https://siliconangle.com/2026/10/06/anaconda-expands-beyond-python-with-agent-swarms-and-ai-security-testing/",
-          "date": "Tue, 06 Oct 2026 13:00:05 +0000"
+          "title": "Three key insights you may have missed from theCUBE\u2019s coverage of the Supermicro Open Storage Summit interview series",
+          "link": "https://siliconangle.com/2026/10/06/ai-storage-strategy-three-insightgs-supermicro-summit-supermicroopenstoragesummit/",
+          "date": "Tue, 06 Oct 2026 19:43:15 +0000"
         }
       ],
       "error": null
@@ -394,29 +394,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Big Oil asks Supreme Court to kill climate lawsuits before trial",
-          "link": "https://arstechnica.com/tech-policy/2026/10/big-oil-asks-supreme-court-to-kill-climate-lawsuits-before-trial/",
-          "date": "Tue, 06 Oct 2026 13:29:46 +0000"
+          "title": "Drones sink ships near NATO countries in \u201cunacceptable\u201d attacks, EU says",
+          "link": "https://arstechnica.com/gadgets/2026/10/drone-strikes-likely-russian-sink-ships-in-nato-countries-economic-zones/",
+          "date": "Tue, 06 Oct 2026 21:31:10 +0000"
         },
         {
-          "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-          "link": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
-          "date": "Tue, 06 Oct 2026 12:21:53 +0000"
+          "title": "OpenAI will watermark ChatGPT outputs by default\u2014but only in the EU",
+          "link": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
+          "date": "Tue, 06 Oct 2026 20:50:32 +0000"
         },
         {
-          "title": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
-          "link": "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/",
-          "date": "Tue, 06 Oct 2026 12:00:31 +0000"
+          "title": "HBO Max, Paramount+, and Discovery+ \"will unify into a single service\u201d",
+          "link": "https://arstechnica.com/gadgets/2026/10/hbo-max-paramount-and-discovery-will-unify-into-a-single-service/",
+          "date": "Tue, 06 Oct 2026 20:32:12 +0000"
         },
         {
-          "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
-          "link": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
-          "date": "Mon, 05 Oct 2026 22:26:35 +0000"
+          "title": "It looks like the Atlantic storm season may finally produce a hurricane",
+          "link": "https://arstechnica.com/science/2026/10/it-looks-like-the-atlantic-storm-season-may-finally-produce-a-hurricane/",
+          "date": "Tue, 06 Oct 2026 19:55:50 +0000"
         },
         {
-          "title": "Cable lobby to sue Trump FCC over repeal of national TV ownership cap",
-          "link": "https://arstechnica.com/tech-policy/2026/10/cable-lobby-to-sue-trump-fcc-over-repeal-of-national-tv-ownership-cap/",
-          "date": "Mon, 05 Oct 2026 20:47:48 +0000"
+          "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+          "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+          "date": "Tue, 06 Oct 2026 19:21:14 +0000"
         }
       ],
       "error": null
@@ -528,6 +528,21 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Footage of AI Job Interviewer Going Berserk Is Genuinely Terrifying",
+          "link": "https://futurism.com/artificial-intelligence/footage-ai-job-interviewer-berserk",
+          "date": "Tue, 06 Oct 2026 16:12:10 -0400"
+        },
+        {
+          "title": "Meta\u2019s Muse Is Spying on All Your Friends and Family",
+          "link": "https://futurism.com/future-society/meta-muse-surveillance-privacy-friends-family",
+          "date": "Tue, 06 Oct 2026 14:59:47 -0400"
+        },
+        {
+          "title": "Teenage AI Meat Proxy Stranded on \u201cWidowmaker\u201d Mountain After Following AI Instructions",
+          "link": "https://futurism.com/artificial-intelligence/teenage-stranded-mountain-ai-instructions",
+          "date": "Tue, 06 Oct 2026 14:04:52 -0400"
+        },
+        {
           "title": "OpenAI Publicist Tries to Shut Down Interviewer When Sam Altman Is Asked About Woman Who Killed Herself After Talking to ChatGPT",
           "link": "https://futurism.com/artificial-intelligence/openai-shut-down-interviewer-suicide-sam-altman",
           "date": "Tue, 06 Oct 2026 13:07:45 -0400"
@@ -536,21 +551,6 @@
           "title": "Court Finds That Using Copyrighted Material as AI Training Data Is Not Fair Use",
           "link": "https://futurism.com/artificial-intelligence/court-finds-copyrighted-material-training-data-fair-use",
           "date": "Tue, 06 Oct 2026 10:58:51 -0400"
-        },
-        {
-          "title": "Parents Are AI-Generating Pictures of Their Kids Instead of Paying for School Photos",
-          "link": "https://futurism.com/artificial-intelligence/parents-ai-school-photos-chatgpt",
-          "date": "Tue, 06 Oct 2026 08:45:24 -0400"
-        },
-        {
-          "title": "Anthropic Reports User to the Police",
-          "link": "https://futurism.com/artificial-intelligence/anthropic-claude-ai-chatbot-police-violence-safety",
-          "date": "Mon, 05 Oct 2026 20:52:00 -0400"
-        },
-        {
-          "title": "Meta Insiders Convinced Muse Is Going to End Up Leaking the Bank Accounts and Email Archives They\u2019re Vacuuming Up From Users",
-          "link": "https://futurism.com/artificial-intelligence/meta-muse-data-breach-bank-accounts-email-archives",
-          "date": "Mon, 05 Oct 2026 19:50:00 -0400"
         }
       ],
       "error": null
@@ -559,6 +559,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "\u2018Artificial\u2019 Roasts AI\u2019s Creators\u2014and Sends a Dark Warning About Its Dangers",
+          "link": "https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/",
+          "date": "Tue, 06 Oct 2026 18:45:39 +0000"
+        },
         {
           "title": "OpenAI Is Pissing Off a Bunch of Mathematicians\u2014Again",
           "link": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
@@ -578,11 +583,6 @@
           "title": "Rural Data Centers Are in for a Big Federal Tax Break",
           "link": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
           "date": "Sun, 04 Oct 2026 10:00:00 +0000"
-        },
-        {
-          "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
-          "link": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
-          "date": "Sat, 03 Oct 2026 18:00:00 +0000"
         }
       ],
       "error": null
