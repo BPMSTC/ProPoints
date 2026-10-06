@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T23:41:44.205758+00:00",
+  "generatedAt": "2026-10-06T04:44:33.129073+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -280,6 +280,21 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Utah gives startup Nolla Health permission to start issuing AI automated prescriptions for acne treatments",
+          "link": "https://siliconangle.com/2026/10/05/utah-gives-startup-nolla-health-permission-to-start-issuing-ai-automated-prescriptions-for-acne-treatments/",
+          "date": "Tue, 06 Oct 2026 02:33:01 +0000"
+        },
+        {
+          "title": "Reflection AI debuts open-source Beam model with 501B parameters",
+          "link": "https://siliconangle.com/2026/10/05/reflection-ai-debuts-open-source-beam-model-with-501b-parameters/",
+          "date": "Tue, 06 Oct 2026 00:46:33 +0000"
+        },
+        {
+          "title": "AI agent hardware startup Ghost, led by its 19-year-old-founder, raises $11M",
+          "link": "https://siliconangle.com/2026/10/05/ai-agent-hardware-startup-ghost-led-by-its-19-year-old-founder-raises-11m/",
+          "date": "Tue, 06 Oct 2026 00:43:54 +0000"
+        },
+        {
           "title": "NetApp\u2019s Novus tackles metadata bottlenecks in AI data infrastructure",
           "link": "https://siliconangle.com/2026/10/05/netapps-novus-targets-ai-data-infrastructure-zettabyte-scale-netappinsight/",
           "date": "Mon, 05 Oct 2026 22:58:23 +0000"
@@ -288,21 +303,6 @@
           "title": "NetApp puts sovereign storage at the center of European infrastructure decisions",
           "link": "https://siliconangle.com/2026/10/05/sovereign-storage-becomes-architecture-decision-europe-netappinsight/",
           "date": "Mon, 05 Oct 2026 21:58:00 +0000"
-        },
-        {
-          "title": "What to expect during the AI Cybersecurity and Resilience Summit",
-          "link": "https://siliconangle.com/2026/10/05/ai-trust-strengthens-cyber-resilience-digital-age-aitrustcyberresilience-aicybersecurityandresiliencesummit/",
-          "date": "Mon, 05 Oct 2026 18:00:20 +0000"
-        },
-        {
-          "title": "Exclusive: Iterate.ai\u2019s Lifeboat runs up to six times more AI agent sessions per GPU",
-          "link": "https://siliconangle.com/2026/10/05/exclusive-iterate-ais-lifeboat-runs-up-to-six-times-more-ai-agent-sessions-per-gpu/",
-          "date": "Mon, 05 Oct 2026 13:00:47 +0000"
-        },
-        {
-          "title": "Cohere unveils North 2 AI agent platform with rebuilt orchestration and token spending caps",
-          "link": "https://siliconangle.com/2026/10/05/cohere-unveils-north-2-ai-agent-platform-with-rebuilt-orchestration-and-token-spending-caps/",
-          "date": "Mon, 05 Oct 2026 13:00:15 +0000"
         }
       ],
       "error": null
@@ -469,6 +469,11 @@
           "date": "Mon, 05 Oct 2026 05:00:49 GMT"
         },
         {
+          "title": "Anthropic tells AI inquiry it \u2018never tried to dictate\u2019 Australian copyright rules",
+          "link": "https://www.theguardian.com/media/2026/oct/06/openai-australia-parliament-inquiry-jason-kwon",
+          "date": "Tue, 06 Oct 2026 00:53:48 GMT"
+        },
+        {
           "title": "The Guardian view on sexual abuse in schools: teachers cannot deal with this alone | Editorial",
           "link": "https://www.theguardian.com/commentisfree/2026/oct/05/the-guardian-view-on-sexual-abuse-in-schools-teachers-cannot-deal-with-this-alone",
           "date": "Mon, 05 Oct 2026 17:45:41 GMT"
@@ -482,11 +487,6 @@
           "title": "Accept \u2018bad things\u2019 in return for benefits of AI, says Sam Altman",
           "link": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
           "date": "Mon, 05 Oct 2026 13:27:45 GMT"
-        },
-        {
-          "title": "\ufeffThe UK\u2019s G20 presidency will push Andy Burnham to the centre of the global stage. What will he use it for? | Michael Jacobs",
-          "link": "https://www.theguardian.com/commentisfree/2026/oct/05/uk-g20-presidency-andy-burnham-global-stage-technology-food-climate-economy",
-          "date": "Mon, 05 Oct 2026 09:39:04 GMT"
         }
       ],
       "error": null
@@ -528,6 +528,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Anthropic Reports User to the Police",
+          "link": "https://futurism.com/artificial-intelligence/anthropic-claude-ai-chatbot-police-violence-safety",
+          "date": "Mon, 05 Oct 2026 20:52:00 -0400"
+        },
+        {
+          "title": "Meta Insiders Convinced Muse Is Going to End Up Leaking the Bank Accounts and Email Archives They\u2019re Vacuuming Up From Users",
+          "link": "https://futurism.com/artificial-intelligence/meta-muse-data-breach-bank-accounts-email-archives",
+          "date": "Mon, 05 Oct 2026 19:50:00 -0400"
+        },
+        {
           "title": "Meta Is Kicking Gay Bars Off Its Apps While Allowing Videos of Graphic Child Abuse",
           "link": "https://futurism.com/artificial-intelligence/meta-gay-bars-allowing-graphic-child-abuse",
           "date": "Mon, 05 Oct 2026 18:51:00 -0400"
@@ -541,16 +551,6 @@
           "title": "Elon Musk Admits Why Tesla Robotaxis Can\u2019t Be Trusted at Night",
           "link": "https://futurism.com/future-society/elon-musk-tesla-robotaxis-night",
           "date": "Mon, 05 Oct 2026 10:23:05 -0400"
-        },
-        {
-          "title": "Amazon Warns Local Communities to Stop Defying Its Massive AI Data Centers",
-          "link": "https://futurism.com/artificial-intelligence/amazon-local-communities-stop-defying-ai-data-centers",
-          "date": "Sun, 04 Oct 2026 20:03:00 -0400"
-        },
-        {
-          "title": "Chinese Hackers Impersonate Anthropic Employee to Extract AI Secrets",
-          "link": "https://futurism.com/artificial-intelligence/chinese-hackers-impersonate-anthropic-ai-secrets",
-          "date": "Sun, 04 Oct 2026 16:03:00 -0400"
         }
       ],
       "error": null
