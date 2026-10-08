@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T02:28:02.291500+00:00",
+  "generatedAt": "2026-10-08T09:55:55.657699+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -253,6 +253,16 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "I need AI to generate less textbook-ish questions and I dont know how",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1x0ly2u/i_need_ai_to_generate_less_textbookish_questions/",
+          "date": "2026-10-08T08:54:59+00:00"
+        },
+        {
+          "title": "Giving coding agents visual context from the app they are editing",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1x0fjpm/giving_coding_agents_visual_context_from_the_app/",
+          "date": "2026-10-08T02:36:42+00:00"
+        },
+        {
           "title": "I would like to ask your opinion on AI governance",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1x00a73/i_would_like_to_ask_your_opinion_on_ai_governance/",
           "date": "2026-10-07T15:58:08+00:00"
@@ -261,16 +271,6 @@
           "title": "How do you verify that an AI coding agent actually finished the job?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wzp6un/how_do_you_verify_that_an_ai_coding_agent/",
           "date": "2026-10-07T06:17:44+00:00"
-        },
-        {
-          "title": "You already made a skill today (you just didn't call it that)",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wyzwvi/you_already_made_a_skill_today_you_just_didnt/",
-          "date": "2026-10-06T11:14:57+00:00"
-        },
-        {
-          "title": "How I feel listening to people talk about how designers and engineers are no longer needed.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1wzf29c/how_i_feel_listening_to_people_talk_about_how/",
-          "date": "2026-10-06T21:37:04+00:00"
         }
       ],
       "error": null
@@ -279,6 +279,16 @@
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
+        {
+          "title": "US venture deal value reaches record $515.8B as exits fail to keep pace",
+          "link": "https://siliconangle.com/2026/10/08/us-venture-deal-value-reaches-record-515-8b-as-exits-fail-to-keep-pace/",
+          "date": "Thu, 08 Oct 2026 04:01:51 +0000"
+        },
+        {
+          "title": "Google debuts SynthID Detector tool for flagging AI-generated content, but it\u2019s far from perfect",
+          "link": "https://siliconangle.com/2026/10/07/google-debuts-synthid-detector-tool-for-flagging-ai-generated-content-but-its-far-from-perfect/",
+          "date": "Thu, 08 Oct 2026 02:49:25 +0000"
+        },
         {
           "title": "With GPT-6, ChatGPT\u2019s responses are much more visually appealing and interactive",
           "link": "https://siliconangle.com/2026/10/07/with-gpt-6-chatgpts-responses-are-much-more-visually-appealing-and-interactive/",
@@ -293,16 +303,6 @@
           "title": "Anthropic releases Claude Haiku 5.5 small model and halves Sonnet 5.5 cache read prices",
           "link": "https://siliconangle.com/2026/10/07/anthropic-releases-claude-haiku-5-5-small-model-and-halves-sonnet-5-5-cache-read-prices/",
           "date": "Wed, 07 Oct 2026 22:28:07 +0000"
-        },
-        {
-          "title": "OpenAI publishes 722 AI-generated math discoveries in major scientific milestone",
-          "link": "https://siliconangle.com/2026/10/07/openai-publishes-722-ai-generated-math-discoveries-in-major-scientific-milestone/",
-          "date": "Wed, 07 Oct 2026 20:37:22 +0000"
-        },
-        {
-          "title": "Cisco broadens agentic features in Webex collaboration platform",
-          "link": "https://siliconangle.com/2026/10/07/cisco-broadens-agentic-features-in-webex-collaboration-platform/",
-          "date": "Wed, 07 Oct 2026 20:34:28 +0000"
         }
       ],
       "error": null
@@ -424,33 +424,7 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "Why Artificial Intelligence Is Impossible [USSR Perspective on AI from 1984]",
-          "link": "https://www.reddit.com/r/artificial/comments/1x099rd/why_artificial_intelligence_is_impossible_ussr/",
-          "date": "2026-10-07T21:42:53+00:00"
-        },
-        {
-          "title": "Scientists use generative AI to build better proteins for editing DNA",
-          "link": "https://www.reddit.com/r/artificial/comments/1x0ahd1/scientists_use_generative_ai_to_build_better/",
-          "date": "2026-10-07T22:34:15+00:00"
-        },
-        {
-          "title": "The New AI Slop Is Calling Everything AI Slop",
-          "link": "https://www.reddit.com/r/artificial/comments/1x0a90k/the_new_ai_slop_is_calling_everything_ai_slop/",
-          "date": "2026-10-07T22:23:56+00:00"
-        },
-        {
-          "title": "AI took my self esteem as a creator and I hate where this is going",
-          "link": "https://www.reddit.com/r/artificial/comments/1x0cf7w/ai_took_my_self_esteem_as_a_creator_and_i_hate/",
-          "date": "2026-10-08T00:01:59+00:00"
-        },
-        {
-          "title": "I think we're going to reach a point where getting an AI to do something isn't the hard part. Knowing what to ask it to do will be.",
-          "link": "https://www.reddit.com/r/artificial/comments/1x0c68e/i_think_were_going_to_reach_a_point_where_getting/",
-          "date": "2026-10-07T23:50:45+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
@@ -490,6 +464,16 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Co-op Legal Services using AI to rate workers\u2019 phone calls to customers",
+          "link": "https://www.theguardian.com/technology/2026/oct/08/co-op-legal-services-ai-customer-phone-call-surveillance",
+          "date": "Thu, 08 Oct 2026 09:00:16 GMT"
+        },
+        {
+          "title": "\u2018Someone else will do it for less\u2019: Refugees in Kenya are powering tech for dwindling pay",
+          "link": "https://www.theguardian.com/technology/ng-interactive/2026/oct/08/ai-gig-work-refugees-kenya",
+          "date": "Thu, 08 Oct 2026 09:00:15 GMT"
+        },
+        {
           "title": "OpenAI used AI to help write email warning Australian government AI had hacked its websites",
           "link": "https://www.theguardian.com/australia-news/2026/oct/08/openai-used-ai-to-help-write-email-warning-australian-government-ai-had-hacked-its-websites",
           "date": "Thu, 08 Oct 2026 02:05:33 GMT"
@@ -503,16 +487,6 @@
           "title": "The AI industry is booming. Women are getting left behind",
           "link": "https://www.theguardian.com/technology/2026/oct/04/women-ai-jobs-inequality",
           "date": "Wed, 07 Oct 2026 19:14:03 GMT"
-        },
-        {
-          "title": "OpenAI\u2019s release of mathematical findings draws concerns from experts",
-          "link": "https://www.theguardian.com/technology/2026/oct/07/openai-mathematical-findings-concerns",
-          "date": "Wed, 07 Oct 2026 15:40:51 GMT"
-        },
-        {
-          "title": "Mumsnet denies using AI for content after prompt appears on message board",
-          "link": "https://www.theguardian.com/media/2026/oct/07/mumsnet-denies-using-ai-for-content-message-board-prompt",
-          "date": "Wed, 07 Oct 2026 14:31:04 GMT"
         }
       ],
       "error": null
@@ -586,6 +560,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Tristan Harris\u2019 Tech Nonprofit Is Laying Off Most Staff and Going \u2018Founder-Led\u2019",
+          "link": "https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/",
+          "date": "Thu, 08 Oct 2026 09:30:00 +0000"
+        },
+        {
           "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
           "link": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
           "date": "Wed, 07 Oct 2026 18:45:00 +0000"
@@ -604,11 +583,6 @@
           "title": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
           "link": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
           "date": "Wed, 07 Oct 2026 11:00:00 +0000"
-        },
-        {
-          "title": "Your Next Great Read Might Be Certified \u2018Organic\u2019",
-          "link": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/",
-          "date": "Wed, 07 Oct 2026 08:30:00 +0000"
         }
       ],
       "error": null
