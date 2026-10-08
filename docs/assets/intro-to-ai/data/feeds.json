@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T22:38:55.453726+00:00",
+  "generatedAt": "2026-10-08T02:28:02.291500+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -280,6 +280,16 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "With GPT-6, ChatGPT\u2019s responses are much more visually appealing and interactive",
+          "link": "https://siliconangle.com/2026/10/07/with-gpt-6-chatgpts-responses-are-much-more-visually-appealing-and-interactive/",
+          "date": "Thu, 08 Oct 2026 00:49:33 +0000"
+        },
+        {
+          "title": "Nvidia, Samsung back $90M round for AI agent startup Nous Research",
+          "link": "https://siliconangle.com/2026/10/07/nvidia-samsung-back-90m-round-for-ai-agent-startup-nous-research/",
+          "date": "Thu, 08 Oct 2026 00:14:38 +0000"
+        },
+        {
           "title": "Anthropic releases Claude Haiku 5.5 small model and halves Sonnet 5.5 cache read prices",
           "link": "https://siliconangle.com/2026/10/07/anthropic-releases-claude-haiku-5-5-small-model-and-halves-sonnet-5-5-cache-read-prices/",
           "date": "Wed, 07 Oct 2026 22:28:07 +0000"
@@ -293,16 +303,6 @@
           "title": "Cisco broadens agentic features in Webex collaboration platform",
           "link": "https://siliconangle.com/2026/10/07/cisco-broadens-agentic-features-in-webex-collaboration-platform/",
           "date": "Wed, 07 Oct 2026 20:34:28 +0000"
-        },
-        {
-          "title": "Aston Martin puts back-end AI to work while keeping agents off its website",
-          "link": "https://siliconangle.com/2026/10/07/aston-martin-puts-back-end-ai-work-inforvelocity/",
-          "date": "Wed, 07 Oct 2026 20:30:40 +0000"
-        },
-        {
-          "title": "Midwest Wheel builds toward AI agents that fix problems",
-          "link": "https://siliconangle.com/2026/10/07/midwest-wheel-builds-ai-agents-fix-problems-inforvelocity/",
-          "date": "Wed, 07 Oct 2026 19:46:46 +0000"
         }
       ],
       "error": null
@@ -394,6 +394,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+          "link": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+          "date": "Thu, 08 Oct 2026 00:00:24 +0000"
+        },
+        {
+          "title": "\u201cSoftware is over\u201d: Bold AI developer takes aim at Adobe with open source clones",
+          "link": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
+          "date": "Wed, 07 Oct 2026 21:56:42 +0000"
+        },
+        {
           "title": "PA measles outbreak tops 1,000 cases, largest since disease was eliminated",
           "link": "https://arstechnica.com/health/2026/10/pa-measles-outbreak-tops-1000-cases-largest-since-disease-was-eliminated/",
           "date": "Wed, 07 Oct 2026 20:01:14 +0000"
@@ -407,16 +417,6 @@
           "title": "Chemistry Nobel goes to reactions like those that gave life a hand",
           "link": "https://arstechnica.com/science/2026/10/chemistry-nobel-goes-to-reactions-like-those-that-gave-life-a-hand/",
           "date": "Wed, 07 Oct 2026 18:48:18 +0000"
-        },
-        {
-          "title": "Pediatricians renew call to ban raw milk as anti-science rhetoric reigns",
-          "link": "https://arstechnica.com/health/2026/10/pediatricians-renew-call-to-ban-raw-milk-as-anti-science-rhetoric-reigns/",
-          "date": "Wed, 07 Oct 2026 18:24:39 +0000"
-        },
-        {
-          "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
-          "link": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
-          "date": "Wed, 07 Oct 2026 17:57:39 +0000"
         }
       ],
       "error": null
@@ -424,7 +424,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "Why Artificial Intelligence Is Impossible [USSR Perspective on AI from 1984]",
+          "link": "https://www.reddit.com/r/artificial/comments/1x099rd/why_artificial_intelligence_is_impossible_ussr/",
+          "date": "2026-10-07T21:42:53+00:00"
+        },
+        {
+          "title": "Scientists use generative AI to build better proteins for editing DNA",
+          "link": "https://www.reddit.com/r/artificial/comments/1x0ahd1/scientists_use_generative_ai_to_build_better/",
+          "date": "2026-10-07T22:34:15+00:00"
+        },
+        {
+          "title": "The New AI Slop Is Calling Everything AI Slop",
+          "link": "https://www.reddit.com/r/artificial/comments/1x0a90k/the_new_ai_slop_is_calling_everything_ai_slop/",
+          "date": "2026-10-07T22:23:56+00:00"
+        },
+        {
+          "title": "AI took my self esteem as a creator and I hate where this is going",
+          "link": "https://www.reddit.com/r/artificial/comments/1x0cf7w/ai_took_my_self_esteem_as_a_creator_and_i_hate/",
+          "date": "2026-10-08T00:01:59+00:00"
+        },
+        {
+          "title": "I think we're going to reach a point where getting an AI to do something isn't the hard part. Knowing what to ask it to do will be.",
+          "link": "https://www.reddit.com/r/artificial/comments/1x0c68e/i_think_were_going_to_reach_a_point_where_getting/",
+          "date": "2026-10-07T23:50:45+00:00"
+        }
+      ],
       "error": null
     },
     {
@@ -464,6 +490,16 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "OpenAI used AI to help write email warning Australian government AI had hacked its websites",
+          "link": "https://www.theguardian.com/australia-news/2026/oct/08/openai-used-ai-to-help-write-email-warning-australian-government-ai-had-hacked-its-websites",
+          "date": "Thu, 08 Oct 2026 02:05:33 GMT"
+        },
+        {
+          "title": "Datacentre company Firmus\u2019s high flying valuation may be coming back down to earth ahead of expected ASX debut",
+          "link": "https://www.theguardian.com/australia-news/2026/oct/08/ai-datacentre-firmus-slash-valuation-before-asx-listing",
+          "date": "Thu, 08 Oct 2026 00:57:58 GMT"
+        },
+        {
           "title": "The AI industry is booming. Women are getting left behind",
           "link": "https://www.theguardian.com/technology/2026/oct/04/women-ai-jobs-inequality",
           "date": "Wed, 07 Oct 2026 19:14:03 GMT"
@@ -477,16 +513,6 @@
           "title": "Mumsnet denies using AI for content after prompt appears on message board",
           "link": "https://www.theguardian.com/media/2026/oct/07/mumsnet-denies-using-ai-for-content-message-board-prompt",
           "date": "Wed, 07 Oct 2026 14:31:04 GMT"
-        },
-        {
-          "title": "Australia is building a lot of new homes. But is the datacentre boom holding us back? | Greg Jericho",
-          "link": "https://www.theguardian.com/business/grogonomics/2026/oct/08/australia-is-building-a-lot-of-new-homes-but-is-the-datacentre-boom-holding-us-back",
-          "date": "Wed, 07 Oct 2026 14:00:54 GMT"
-        },
-        {
-          "title": "Will the Zuckerberg, Musk and Altman movies make a dent on tech giant evangelism?",
-          "link": "https://www.theguardian.com/film/2026/oct/07/the-social-reckoning-musk-and-artificial-zuckerberg-musk-and-altman-movies-tech",
-          "date": "Wed, 07 Oct 2026 13:43:43 GMT"
         }
       ],
       "error": null
