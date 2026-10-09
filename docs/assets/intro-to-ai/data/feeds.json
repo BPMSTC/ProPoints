@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T16:56:11.233182+00:00",
+  "generatedAt": "2026-10-09T21:28:43.806677+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,16 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+          "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+          "date": "Fri, 09 Oct 2026 19:36:56 +0000"
+        },
+        {
+          "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+          "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+          "date": "Fri, 09 Oct 2026 16:56:42 +0000"
+        },
+        {
           "title": "Amazon drops data center NDAs, and AI agents want your credit card",
           "link": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
           "date": "Fri, 09 Oct 2026 16:53:02 +0000"
@@ -121,16 +131,6 @@
           "title": "We can\u2019t help treating AI like it\u2019s human. But should we?",
           "link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
           "date": "Fri, 09 Oct 2026 16:40:14 +0000"
-        },
-        {
-          "title": "a16z\u2019s Olivia Moore on the state of consumer AI",
-          "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
-          "date": "Fri, 09 Oct 2026 15:43:33 +0000"
-        },
-        {
-          "title": "TechCrunch Disrupt 2026 starts in 4 days \u2014 lock in your pass savings of up to $100 before prices rise",
-          "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
-          "date": "Fri, 09 Oct 2026 14:00:00 +0000"
         }
       ],
       "error": null
@@ -280,6 +280,21 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Jev creator TypeSafe closes $870M round at $7.5B valuation",
+          "link": "https://siliconangle.com/2026/10/09/jev-creator-typesafe-closes-870m-round-at-7-5b-valuation/",
+          "date": "Fri, 09 Oct 2026 20:13:11 +0000"
+        },
+        {
+          "title": "Seismora builds a control plane to route AI workloads across devices and clouds",
+          "link": "https://siliconangle.com/2026/10/09/control-plane-agentic-ai-seismora-thecube-neo4jdatatoknowledge/",
+          "date": "Fri, 09 Oct 2026 19:59:44 +0000"
+        },
+        {
+          "title": "McKinsey connects enterprise data through a knowledge graph for AI",
+          "link": "https://siliconangle.com/2026/10/09/mckinsey-connects-enterprise-data-using-knowledge-graph-ai-neo4jdatatoknowledge/",
+          "date": "Fri, 09 Oct 2026 18:12:10 +0000"
+        },
+        {
           "title": "OpenAI revenue falls short, models play hopscotch and Trump cracks down on tech green cards",
           "link": "https://siliconangle.com/2026/10/09/openai-revenue-falls-short-models-play-hopscotch-and-trump-cracks-down-on-tech-green-cards/",
           "date": "Fri, 09 Oct 2026 14:00:29 +0000"
@@ -288,21 +303,6 @@
           "title": "18 insights from SailPoint\u2019s Navigate event: Enterprises race to bring identity security for AI agents up to machine speed",
           "link": "https://siliconangle.com/2026/10/09/identity-security-ai-agents-18-insights-from-navigate-2026-sailpointnavigate/",
           "date": "Fri, 09 Oct 2026 13:31:55 +0000"
-        },
-        {
-          "title": "CoreWeave targets AI inference bottlenecks with full-stack optimization",
-          "link": "https://siliconangle.com/2026/10/08/ai-inference-gets-full-stack-coreweave-launches-forge-fullyconnected/",
-          "date": "Fri, 09 Oct 2026 02:30:18 +0000"
-        },
-        {
-          "title": "AI stocks crumble on report that OpenAI\u2019s annualized revenue is much lower than believed",
-          "link": "https://siliconangle.com/2026/10/08/ai-stocks-crumble-on-report-that-openais-annualized-revenue-is-much-lower-than-previously-believed/",
-          "date": "Fri, 09 Oct 2026 00:44:27 +0000"
-        },
-        {
-          "title": "Gallatin AI raises $50M in funding for its military logistics platform",
-          "link": "https://siliconangle.com/2026/10/08/gallatin-ai-raises-50m-in-funding-for-its-military-logistics-platform/",
-          "date": "Fri, 09 Oct 2026 00:12:16 +0000"
         }
       ],
       "error": null
@@ -394,29 +394,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Microsoft barred from sponsoring foreign workers for US residency",
-          "link": "https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/",
-          "date": "Fri, 09 Oct 2026 13:14:33 +0000"
+          "title": "AI coding agents generate more code, but not more software",
+          "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+          "date": "Fri, 09 Oct 2026 19:43:50 +0000"
         },
         {
-          "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
-          "link": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/",
-          "date": "Fri, 09 Oct 2026 11:00:57 +0000"
+          "title": "Outrage grows as CDC reportedly poised to fund \"unethical\" vaccine trial",
+          "link": "https://arstechnica.com/health/2026/10/rfk-jr-still-eager-to-fund-vaccine-trial-that-would-expose-babies-to-deadly-virus/",
+          "date": "Fri, 09 Oct 2026 19:27:27 +0000"
         },
         {
-          "title": "Volkswagen's replacement for the ID.4 crossover is here",
-          "link": "https://arstechnica.com/cars/2026/10/volkswagens-replacement-for-the-id-4-crossover-is-here/",
-          "date": "Fri, 09 Oct 2026 10:00:59 +0000"
+          "title": "PC shipments fall 20.1 percent in \u201csharpest decline\u201d since Q1 2023",
+          "link": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/",
+          "date": "Fri, 09 Oct 2026 18:54:52 +0000"
         },
         {
-          "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
-          "link": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/",
-          "date": "Thu, 08 Oct 2026 21:37:32 +0000"
+          "title": "AI disqualification yields new Nikon Small World in Motion winner",
+          "link": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
+          "date": "Fri, 09 Oct 2026 18:44:06 +0000"
         },
         {
-          "title": "Judge weighs if Trump can charge $100K for early access to Truth Social posts",
-          "link": "https://arstechnica.com/tech-policy/2026/10/judge-weighs-if-trump-can-charge-100k-for-early-access-to-truth-social-posts/",
-          "date": "Thu, 08 Oct 2026 20:53:01 +0000"
+          "title": "Your artwork could be featured in the next Debian release",
+          "link": "https://arstechnica.com/gadgets/2026/10/your-artwork-could-be-featured-in-the-next-debian-release/",
+          "date": "Fri, 09 Oct 2026 18:33:26 +0000"
         }
       ],
       "error": null
@@ -464,6 +464,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "AI surveillance startup Flock to cut several hundred jobs amid backlash, sources say",
+          "link": "https://www.theguardian.com/world/2026/oct/09/flock-job-cuts",
+          "date": "Fri, 09 Oct 2026 19:46:53 GMT"
+        },
+        {
           "title": "Lost generation: the AI threat to Britain\u2019s next great directors",
           "link": "https://www.theguardian.com/film/2026/oct/09/ai-threat-britain-directors-ridley-scott-guy-ritchie",
           "date": "Fri, 09 Oct 2026 15:00:31 GMT"
@@ -482,11 +487,6 @@
           "title": "Palantir\u2019s Tom Watson says \u2018mob rule\u2019 must not dictate awarding of government contracts",
           "link": "https://www.theguardian.com/technology/2026/oct/09/palantir-tom-watson-mob-rule-government-contracts",
           "date": "Fri, 09 Oct 2026 07:20:33 GMT"
-        },
-        {
-          "title": "British households would be \u00a35,000 richer if we were more innovative. Let\u2019s unleash our talents | Gordon Brown",
-          "link": "https://www.theguardian.com/commentisfree/2026/oct/09/gordon-brown-british-households-5000-richer-innovation",
-          "date": "Fri, 09 Oct 2026 05:00:39 GMT"
         }
       ],
       "error": null
@@ -528,6 +528,21 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Police Furious After an Anthropic AI Model Submitted a Bogus Tip About an Unsolved Murder, Posing as a Person Who Might Have Information About the Case",
+          "link": "https://futurism.com/artificial-intelligence/anthropic-ai-bogus-tip-unsolved-murder",
+          "date": "Fri, 09 Oct 2026 17:21:09 -0400"
+        },
+        {
+          "title": "OpenAI Wargaming Response in Case of Public Revolt After Catastrophic AI Disaster",
+          "link": "https://futurism.com/artificial-intelligence/openai-wargaming-public-revolt-ai-catastrophe",
+          "date": "Fri, 09 Oct 2026 15:00:32 -0400"
+        },
+        {
+          "title": "Sacked OpenAI Insiders Say the Company Is Firing Anyone Who Warns What\u2019s Really Going On",
+          "link": "https://futurism.com/future-society/sacked-openai-insiders-say-company-is-firing-anyone-who-speaks-out",
+          "date": "Fri, 09 Oct 2026 14:13:22 -0400"
+        },
+        {
           "title": "Meta Won\u2019t Say If It Violates Its Policies to Upload AI-Generated Videos of Sobbing Little Children Begging for Likes and Follows So They Don\u2019t Get Arrested by Police",
           "link": "https://futurism.com/artificial-intelligence/meta-facebook-ai-generated-videos-sobbing-children-begging-arrested",
           "date": "Fri, 09 Oct 2026 12:04:38 -0400"
@@ -536,21 +551,6 @@
           "title": "Mathematicians React With Fury as OpenAI Releases Hundreds of New AI-Generated Proofs",
           "link": "https://futurism.com/artificial-intelligence/mathematicians-openai-furious",
           "date": "Fri, 09 Oct 2026 10:14:55 -0400"
-        },
-        {
-          "title": "AI Bubble Teetering on the Brink as OpenAI Admits to Massive Financial Failure in Leaked Documents",
-          "link": "https://futurism.com/future-society/ai-financial-bubble-openai-billions-failure",
-          "date": "Fri, 09 Oct 2026 08:14:04 -0400"
-        },
-        {
-          "title": "Don\u2019t Want to Spend Time With Your Kids? Train an AI Voice Model of Yourself to Read Them Bedtime Stories",
-          "link": "https://futurism.com/artificial-intelligence/dont-spend-time-with-your-kids-train-ai",
-          "date": "Thu, 08 Oct 2026 16:01:24 -0400"
-        },
-        {
-          "title": "Adobe in Trouble After Someone Reverse Engineered Adobe Creative Suite and Released It as Open Source",
-          "link": "https://futurism.com/future-society/adobe-creative-suite-software-open-source-artcraft",
-          "date": "Thu, 08 Oct 2026 13:54:54 -0400"
         }
       ],
       "error": null
@@ -559,6 +559,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
+          "link": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
+          "date": "Fri, 09 Oct 2026 19:28:49 +0000"
+        },
         {
           "title": "Even \u2018Law & Order\u2019 Is Terrified of AI",
           "link": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
@@ -578,11 +583,6 @@
           "title": "Tristan Harris\u2019 Tech Nonprofit Is Laying Off Most Staff and Going \u2018Founder-Led\u2019",
           "link": "https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/",
           "date": "Thu, 08 Oct 2026 09:30:00 +0000"
-        },
-        {
-          "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
-          "link": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
-          "date": "Wed, 07 Oct 2026 18:45:00 +0000"
         }
       ],
       "error": null
