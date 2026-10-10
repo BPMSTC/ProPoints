@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T15:01:04.883152+00:00",
+  "generatedAt": "2026-10-10T19:42:49.547783+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+          "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+          "date": "Sat, 10 Oct 2026 15:00:00 +0000"
+        },
+        {
           "title": "Here are the top AI agents that can live in your text messages",
           "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
           "date": "Sat, 10 Oct 2026 14:00:00 +0000"
@@ -126,11 +131,6 @@
           "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
           "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
           "date": "Fri, 09 Oct 2026 19:36:56 +0000"
-        },
-        {
-          "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-          "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-          "date": "Fri, 09 Oct 2026 16:56:42 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -280,6 +280,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "The AI control gap: Who gets to say \u2018It\u2019s safe\u2019?",
+          "link": "https://siliconangle.com/2026/10/10/the-ai-control-gap-who-gets-to-say-its-safe/",
+          "date": "Sat, 10 Oct 2026 16:54:10 +0000"
+        },
+        {
           "title": "IBM connects enterprise AI orchestration to production readiness ahead of TechXchange",
           "link": "https://siliconangle.com/2026/10/09/ibm-connects-enterprise-ai-orchestration-production-readiness-ibmaioperatingmodel/",
           "date": "Fri, 09 Oct 2026 22:52:52 +0000"
@@ -298,11 +303,6 @@
           "title": "McKinsey connects enterprise data through a knowledge graph for AI",
           "link": "https://siliconangle.com/2026/10/09/mckinsey-connects-enterprise-data-using-knowledge-graph-ai-neo4jdatatoknowledge/",
           "date": "Fri, 09 Oct 2026 18:12:10 +0000"
-        },
-        {
-          "title": "OpenAI revenue falls short, models play hopscotch and Trump cracks down on tech green cards",
-          "link": "https://siliconangle.com/2026/10/09/openai-revenue-falls-short-models-play-hopscotch-and-trump-cracks-down-on-tech-green-cards/",
-          "date": "Fri, 09 Oct 2026 14:00:29 +0000"
         }
       ],
       "error": null
@@ -424,33 +424,7 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "Anthropic to ban users who bully Claude",
-          "link": "https://www.reddit.com/r/artificial/comments/1x1t03v/anthropic_to_ban_users_who_bully_claude/",
-          "date": "2026-10-09T18:27:54+00:00"
-        },
-        {
-          "title": "OpenAI's text watermark can't prove you didn't write something. I built a lab where you can watch it die.",
-          "link": "https://www.reddit.com/r/artificial/comments/1x2a240/openais_text_watermark_cant_prove_you_didnt_write/",
-          "date": "2026-10-10T08:28:35+00:00"
-        },
-        {
-          "title": "Anthropic says Claude Haiku 4.5 submitted a fake murder tip to a Philadelphia police site during an eval",
-          "link": "https://www.reddit.com/r/artificial/comments/1x2cs0x/anthropic_says_claude_haiku_45_submitted_a_fake/",
-          "date": "2026-10-10T11:16:45+00:00"
-        },
-        {
-          "title": "Is there any link between AI detection abilities and trypophobia?",
-          "link": "https://www.reddit.com/r/artificial/comments/1x23bbz/is_there_any_link_between_ai_detection_abilities/",
-          "date": "2026-10-10T02:00:45+00:00"
-        },
-        {
-          "title": "William Shatner gives take on AI",
-          "link": "https://www.reddit.com/r/artificial/comments/1x1ku7k/william_shatner_gives_take_on_ai/",
-          "date": "2026-10-09T13:04:44+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
@@ -495,6 +469,11 @@
           "date": "Sat, 10 Oct 2026 10:00:55 GMT"
         },
         {
+          "title": "Black Box: The Chatbots | The Line | Ep 5 - podcast",
+          "link": "https://www.theguardian.com/australia-news/audio/2026/oct/11/black-box-the-chatbots-the-line-ep-5-full-story-podcast",
+          "date": "Sat, 10 Oct 2026 19:00:08 GMT"
+        },
+        {
           "title": "Jon Davis on job titles in the age of AI \u2013 cartoon",
           "link": "https://www.theguardian.com/commentisfree/picture/2026/oct/10/jon-davis-job-titles-ai-cartoon",
           "date": "Sat, 10 Oct 2026 10:00:54 GMT"
@@ -508,11 +487,6 @@
           "title": "\u2018Gaza is a moral tear in the universe\u2019: Naomi Klein and Astra Taylor | Radical Thinking with Aditya Chakrabortty \u2013 podcast",
           "link": "https://www.theguardian.com/politics/audio/2026/oct/10/gaza-is-a-moral-tear-in-the-universe-naomi-klein-and-astra-taylor-radical-thinking-with-aditya-chakrabortty-podcast",
           "date": "Sat, 10 Oct 2026 06:45:50 GMT"
-        },
-        {
-          "title": "AI surveillance startup Flock to cut several hundred jobs amid backlash, sources say",
-          "link": "https://www.theguardian.com/world/2026/oct/09/flock-job-cuts",
-          "date": "Fri, 09 Oct 2026 19:46:53 GMT"
         }
       ],
       "error": null
@@ -554,6 +528,21 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "One of America\u2019s Last Remaining Chestnut Groves Could Soon Be Wiped Out to Make Room for an AI Data Center",
+          "link": "https://futurism.com/artificial-intelligence/chestnut-grove-last-remaining-anthropic-ai-data-center",
+          "date": "Sat, 10 Oct 2026 13:01:00 -0400"
+        },
+        {
+          "title": "Mac Users Are Nuking Every Trace of Apple AI on Their Machines",
+          "link": "https://futurism.com/artificial-intelligence/mac-users-nuking-every-trace-of-apple-ai",
+          "date": "Sat, 10 Oct 2026 12:02:00 -0400"
+        },
+        {
+          "title": "Eggheads at Anthropic Said They Used Claude to \u201cSolve\u201d Humor",
+          "link": "https://futurism.com/artificial-intelligence/anthropic-solve-humor",
+          "date": "Sat, 10 Oct 2026 11:01:00 -0400"
+        },
+        {
           "title": "Mainstream News Anchors Now Talking About the AI Bubble Bursting at Any Moment",
           "link": "https://futurism.com/future-society/mainstream-news-anchors-bloomberg-tv-ai-bubble-bursting",
           "date": "Sat, 10 Oct 2026 09:01:00 -0400"
@@ -562,21 +551,6 @@
           "title": "Mark Zuckerberg Launched Meta\u2019s Muse AI Agent Despite Disturbing Safety Concerns",
           "link": "https://futurism.com/future-society/mark-zuckerberg-meta-muse-ai-agent-safety-issues",
           "date": "Sat, 10 Oct 2026 07:01:00 -0400"
-        },
-        {
-          "title": "Police Furious After an Anthropic AI Model Submitted a Bogus Tip About an Unsolved Murder, Posing as a Person Who Might Have Information About the Case",
-          "link": "https://futurism.com/artificial-intelligence/anthropic-ai-bogus-tip-unsolved-murder",
-          "date": "Fri, 09 Oct 2026 17:21:09 -0400"
-        },
-        {
-          "title": "OpenAI Is Wargaming Its Response in Case of Public Revolt After Catastrophic AI Disaster",
-          "link": "https://futurism.com/artificial-intelligence/openai-wargaming-public-revolt-ai-catastrophe",
-          "date": "Fri, 09 Oct 2026 15:00:32 -0400"
-        },
-        {
-          "title": "Sacked OpenAI Insiders Say the Company Is Firing Anyone Who Warns What\u2019s Really Going On",
-          "link": "https://futurism.com/future-society/sacked-openai-insiders-say-company-is-firing-anyone-who-speaks-out",
-          "date": "Fri, 09 Oct 2026 14:13:22 -0400"
         }
       ],
       "error": null
