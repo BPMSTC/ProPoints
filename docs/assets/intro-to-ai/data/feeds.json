@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T19:42:49.547783+00:00",
+  "generatedAt": "2026-10-10T23:11:24.736926+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,16 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Microsoft\u2019s Satya Nadella says AI models need an \u2018emergency brake\u2019",
+          "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+          "date": "Sat, 10 Oct 2026 21:47:51 +0000"
+        },
+        {
+          "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+          "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+          "date": "Sat, 10 Oct 2026 19:50:00 +0000"
+        },
+        {
           "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
           "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
           "date": "Sat, 10 Oct 2026 15:00:00 +0000"
@@ -121,16 +131,6 @@
           "title": "Anthropic can\u2019t reliably control its AI agents. It\u2019s cutting off its internal evals from the live internet instead",
           "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
           "date": "Sat, 10 Oct 2026 00:18:32 +0000"
-        },
-        {
-          "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-          "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-          "date": "Fri, 09 Oct 2026 21:41:29 +0000"
-        },
-        {
-          "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-          "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-          "date": "Fri, 09 Oct 2026 19:36:56 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -280,6 +280,16 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "What to expect during the AI Data Pipeline Forum: Join theCUBE Oct. 13",
+          "link": "https://siliconangle.com/2026/10/10/ai-infrastructure-bottlenecks-forum-aidatapipelineforum/",
+          "date": "Sat, 10 Oct 2026 22:06:15 +0000"
+        },
+        {
+          "title": "AI reshapes professional services around trust and business outcomes",
+          "link": "https://siliconangle.com/2026/10/10/human-judgment-ai-professional-services-certinia/",
+          "date": "Sat, 10 Oct 2026 20:22:06 +0000"
+        },
+        {
           "title": "The AI control gap: Who gets to say \u2018It\u2019s safe\u2019?",
           "link": "https://siliconangle.com/2026/10/10/the-ai-control-gap-who-gets-to-say-its-safe/",
           "date": "Sat, 10 Oct 2026 16:54:10 +0000"
@@ -293,16 +303,6 @@
           "title": "Jev creator TypeSafe closes $870M round at $7.5B valuation",
           "link": "https://siliconangle.com/2026/10/09/jev-creator-typesafe-closes-870m-round-at-7-5b-valuation/",
           "date": "Fri, 09 Oct 2026 20:13:11 +0000"
-        },
-        {
-          "title": "Seismora builds a control plane to route AI workloads across devices and clouds",
-          "link": "https://siliconangle.com/2026/10/09/control-plane-agentic-ai-seismora-thecube-neo4jdatatoknowledge/",
-          "date": "Fri, 09 Oct 2026 19:59:44 +0000"
-        },
-        {
-          "title": "McKinsey connects enterprise data through a knowledge graph for AI",
-          "link": "https://siliconangle.com/2026/10/09/mckinsey-connects-enterprise-data-using-knowledge-graph-ai-neo4jdatatoknowledge/",
-          "date": "Fri, 09 Oct 2026 18:12:10 +0000"
         }
       ],
       "error": null
@@ -469,6 +469,11 @@
           "date": "Sat, 10 Oct 2026 10:00:55 GMT"
         },
         {
+          "title": "Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet assessment",
+          "link": "https://www.theguardian.com/global-development/2026/oct/11/nuclear-war-and-malicious-use-of-ai-threaten-end-of-humanity-by-2100-says-lancet-assessment",
+          "date": "Sat, 10 Oct 2026 23:01:09 GMT"
+        },
+        {
           "title": "Black Box: The Chatbots | The Line | Ep 5 - podcast",
           "link": "https://www.theguardian.com/australia-news/audio/2026/oct/11/black-box-the-chatbots-the-line-ep-5-full-story-podcast",
           "date": "Sat, 10 Oct 2026 19:00:08 GMT"
@@ -482,11 +487,6 @@
           "title": "Recruitment boss accused of being behind \u2018doxxing\u2019 campaign against RNLI and anti-racism activists",
           "link": "https://www.theguardian.com/uk-news/2026/oct/10/recruitment-boss-accused-of-being-behind-doxxing-campaign-against-rnli-and-anti-racism-activists",
           "date": "Sat, 10 Oct 2026 07:00:50 GMT"
-        },
-        {
-          "title": "\u2018Gaza is a moral tear in the universe\u2019: Naomi Klein and Astra Taylor | Radical Thinking with Aditya Chakrabortty \u2013 podcast",
-          "link": "https://www.theguardian.com/politics/audio/2026/oct/10/gaza-is-a-moral-tear-in-the-universe-naomi-klein-and-astra-taylor-radical-thinking-with-aditya-chakrabortty-podcast",
-          "date": "Sat, 10 Oct 2026 06:45:50 GMT"
         }
       ],
       "error": null
