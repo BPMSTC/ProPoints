@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-10-10T08:04:16.731263+00:00",
+  "generatedAt": "2026-10-10T15:01:04.883152+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Scientists Detect Record-Breaking Radio Signal from the Ancient Universe",
+          "link": "https://www.404media.co/scientists-detect-record-breaking-radio-signal-from-the-ancient-universe/",
+          "date": "Sat, 10 Oct 2026 11:00:00 GMT"
+        },
         {
           "title": "Following 404 Media Investigation, Senator Demands Info About White House's License Plate Surveillance Program",
           "link": "https://www.404media.co/following-404-media-investigation-senator-demands-info-about-white-houses-license-plate-surveillance-program/",
@@ -24,11 +29,6 @@
           "title": "Podcast: Leak Show Cops Can Break into Locked iPhones",
           "link": "https://www.404media.co/podcast-leak-show-cops-can-break-into-locked-iphones/",
           "date": "Thu, 08 Oct 2026 16:11:25 GMT"
-        },
-        {
-          "title": "Watch an Unconstitutional Flock Search",
-          "link": "https://www.404media.co/watch-an-unconstitutional-flock-search/",
-          "date": "Thu, 08 Oct 2026 15:36:46 GMT"
         }
       ],
       "error": null
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Here are the top AI agents that can live in your text messages",
+          "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+          "date": "Sat, 10 Oct 2026 14:00:00 +0000"
+        },
+        {
           "title": "Anthropic can\u2019t reliably control its AI agents. It\u2019s cutting off its internal evals from the live internet instead",
           "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
           "date": "Sat, 10 Oct 2026 00:18:32 +0000"
@@ -126,11 +131,6 @@
           "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
           "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
           "date": "Fri, 09 Oct 2026 16:56:42 +0000"
-        },
-        {
-          "title": "Amazon drops data center NDAs, and AI agents want your credit card",
-          "link": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
-          "date": "Fri, 09 Oct 2026 16:53:02 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -394,6 +394,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "One with the world? A new look at brains transformed by psychedelics.",
+          "link": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
+          "date": "Sat, 10 Oct 2026 11:15:35 +0000"
+        },
+        {
           "title": "Neanderthal wooden tools from Spain found preserved in stone",
           "link": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
           "date": "Fri, 09 Oct 2026 22:34:03 +0000"
@@ -412,11 +417,6 @@
           "title": "NASA issues long-awaited call to industry for private space stations",
           "link": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/",
           "date": "Fri, 09 Oct 2026 21:34:09 +0000"
-        },
-        {
-          "title": "What's been driving Hawaii's lava fountains?",
-          "link": "https://arstechnica.com/science/2026/10/whats-been-driving-hawaiis-lava-fountains/",
-          "date": "Fri, 09 Oct 2026 21:05:01 +0000"
         }
       ],
       "error": null
@@ -424,7 +424,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "Anthropic to ban users who bully Claude",
+          "link": "https://www.reddit.com/r/artificial/comments/1x1t03v/anthropic_to_ban_users_who_bully_claude/",
+          "date": "2026-10-09T18:27:54+00:00"
+        },
+        {
+          "title": "OpenAI's text watermark can't prove you didn't write something. I built a lab where you can watch it die.",
+          "link": "https://www.reddit.com/r/artificial/comments/1x2a240/openais_text_watermark_cant_prove_you_didnt_write/",
+          "date": "2026-10-10T08:28:35+00:00"
+        },
+        {
+          "title": "Anthropic says Claude Haiku 4.5 submitted a fake murder tip to a Philadelphia police site during an eval",
+          "link": "https://www.reddit.com/r/artificial/comments/1x2cs0x/anthropic_says_claude_haiku_45_submitted_a_fake/",
+          "date": "2026-10-10T11:16:45+00:00"
+        },
+        {
+          "title": "Is there any link between AI detection abilities and trypophobia?",
+          "link": "https://www.reddit.com/r/artificial/comments/1x23bbz/is_there_any_link_between_ai_detection_abilities/",
+          "date": "2026-10-10T02:00:45+00:00"
+        },
+        {
+          "title": "William Shatner gives take on AI",
+          "link": "https://www.reddit.com/r/artificial/comments/1x1ku7k/william_shatner_gives_take_on_ai/",
+          "date": "2026-10-09T13:04:44+00:00"
+        }
+      ],
       "error": null
     },
     {
@@ -464,6 +490,16 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "UK must not be beholden to foreign AI, says head of Alan Turing Institute",
+          "link": "https://www.theguardian.com/technology/2026/oct/10/uk-foreign-ai-head-alan-turing-institute-george-williamson",
+          "date": "Sat, 10 Oct 2026 10:00:55 GMT"
+        },
+        {
+          "title": "Jon Davis on job titles in the age of AI \u2013 cartoon",
+          "link": "https://www.theguardian.com/commentisfree/picture/2026/oct/10/jon-davis-job-titles-ai-cartoon",
+          "date": "Sat, 10 Oct 2026 10:00:54 GMT"
+        },
+        {
           "title": "Recruitment boss accused of being behind \u2018doxxing\u2019 campaign against RNLI and anti-racism activists",
           "link": "https://www.theguardian.com/uk-news/2026/oct/10/recruitment-boss-accused-of-being-behind-doxxing-campaign-against-rnli-and-anti-racism-activists",
           "date": "Sat, 10 Oct 2026 07:00:50 GMT"
@@ -477,16 +513,6 @@
           "title": "AI surveillance startup Flock to cut several hundred jobs amid backlash, sources say",
           "link": "https://www.theguardian.com/world/2026/oct/09/flock-job-cuts",
           "date": "Fri, 09 Oct 2026 19:46:53 GMT"
-        },
-        {
-          "title": "Lost generation: the AI threat to Britain\u2019s next great directors",
-          "link": "https://www.theguardian.com/film/2026/oct/09/ai-threat-britain-directors-ridley-scott-guy-ritchie",
-          "date": "Fri, 09 Oct 2026 15:00:31 GMT"
-        },
-        {
-          "title": "AI and the climate crisis pose existential risks. The law offers a way to reduce them | Robert Reich",
-          "link": "https://www.theguardian.com/commentisfree/2026/oct/09/ai-climate-change-liability-lawsuits",
-          "date": "Fri, 09 Oct 2026 11:00:26 GMT"
         }
       ],
       "error": null
@@ -528,6 +554,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Mainstream News Anchors Now Talking About the AI Bubble Bursting at Any Moment",
+          "link": "https://futurism.com/future-society/mainstream-news-anchors-bloomberg-tv-ai-bubble-bursting",
+          "date": "Sat, 10 Oct 2026 09:01:00 -0400"
+        },
+        {
+          "title": "Mark Zuckerberg Launched Meta\u2019s Muse AI Agent Despite Disturbing Safety Concerns",
+          "link": "https://futurism.com/future-society/mark-zuckerberg-meta-muse-ai-agent-safety-issues",
+          "date": "Sat, 10 Oct 2026 07:01:00 -0400"
+        },
+        {
           "title": "Police Furious After an Anthropic AI Model Submitted a Bogus Tip About an Unsolved Murder, Posing as a Person Who Might Have Information About the Case",
           "link": "https://futurism.com/artificial-intelligence/anthropic-ai-bogus-tip-unsolved-murder",
           "date": "Fri, 09 Oct 2026 17:21:09 -0400"
@@ -541,16 +577,6 @@
           "title": "Sacked OpenAI Insiders Say the Company Is Firing Anyone Who Warns What\u2019s Really Going On",
           "link": "https://futurism.com/future-society/sacked-openai-insiders-say-company-is-firing-anyone-who-speaks-out",
           "date": "Fri, 09 Oct 2026 14:13:22 -0400"
-        },
-        {
-          "title": "Meta Won\u2019t Say If It Violates Its Policies to Upload AI-Generated Videos of Sobbing Little Children Begging for Likes and Follows So They Don\u2019t Get Arrested by Police",
-          "link": "https://futurism.com/artificial-intelligence/meta-facebook-ai-generated-videos-sobbing-children-begging-arrested",
-          "date": "Fri, 09 Oct 2026 12:04:38 -0400"
-        },
-        {
-          "title": "Mathematicians React With Fury as OpenAI Releases Hundreds of New AI-Generated Proofs",
-          "link": "https://futurism.com/artificial-intelligence/mathematicians-openai-furious",
-          "date": "Fri, 09 Oct 2026 10:14:55 -0400"
         }
       ],
       "error": null
@@ -559,6 +585,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "AI Is Getting Really Good at Messing With Cybercriminals",
+          "link": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
+          "date": "Sat, 10 Oct 2026 12:00:00 +0000"
+        },
         {
           "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
           "link": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
@@ -578,11 +609,6 @@
           "title": "She Designed Meta\u2019s New AI Logo. Then Came the Hate",
           "link": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/",
           "date": "Thu, 08 Oct 2026 19:30:00 +0000"
-        },
-        {
-          "title": "Tristan Harris\u2019 Tech Nonprofit Is Laying Off Most Staff and Going \u2018Founder-Led\u2019",
-          "link": "https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/",
-          "date": "Thu, 08 Oct 2026 09:30:00 +0000"
         }
       ],
       "error": null
