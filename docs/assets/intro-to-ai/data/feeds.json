@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T21:28:43.806677+00:00",
+  "generatedAt": "2026-10-10T01:29:52.459571+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,16 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Anthropic can\u2019t reliably control its AI agents. It\u2019s cutting off its internal evals from the live internet instead",
+          "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+          "date": "Sat, 10 Oct 2026 00:18:32 +0000"
+        },
+        {
+          "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+          "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+          "date": "Fri, 09 Oct 2026 21:41:29 +0000"
+        },
+        {
           "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
           "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
           "date": "Fri, 09 Oct 2026 19:36:56 +0000"
@@ -121,16 +131,6 @@
           "title": "Amazon drops data center NDAs, and AI agents want your credit card",
           "link": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
           "date": "Fri, 09 Oct 2026 16:53:02 +0000"
-        },
-        {
-          "title": "Danu Robotics\u2019 fight to build a better recycling robot",
-          "link": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
-          "date": "Fri, 09 Oct 2026 16:45:00 +0000"
-        },
-        {
-          "title": "We can\u2019t help treating AI like it\u2019s human. But should we?",
-          "link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
-          "date": "Fri, 09 Oct 2026 16:40:14 +0000"
         }
       ],
       "error": null
@@ -253,6 +253,16 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "Cross repository and cross agent development guidance",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1x1yloa/cross_repository_and_cross_agent_development/",
+          "date": "2026-10-09T22:14:05+00:00"
+        },
+        {
+          "title": "How do you stop an LLM judge from rewarding buzzwords? What worked for me, and I'd like feedback",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1x1fdt6/how_do_you_stop_an_llm_judge_from_rewarding/",
+          "date": "2026-10-09T07:54:44+00:00"
+        },
+        {
           "title": "idea-to-launch - open source AI prompt/skill on Github",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1x0xta3/ideatolaunch_open_source_ai_promptskill_on_github/",
           "date": "2026-10-08T17:55:57+00:00"
@@ -261,16 +271,6 @@
           "title": "I built a local-first MCP runtime that lets coding agents verify running web apps",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1x0zn1m/i_built_a_localfirst_mcp_runtime_that_lets_coding/",
           "date": "2026-10-08T19:04:39+00:00"
-        },
-        {
-          "title": "I started using AI in July. Three months later I\u2019m on Generation 8 of a conversation-based workflow",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1x0yen3/i_started_using_ai_in_july_three_months_later_im/",
-          "date": "2026-10-08T18:18:46+00:00"
-        },
-        {
-          "title": "AI like Claude 5.5 is making reverse-engineering too easy. I built a concept to blind LLM decompilers and would love your honest feedback.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1x0pzz1/ai_like_claude_55_is_making_reverseengineering/",
-          "date": "2026-10-08T12:46:38+00:00"
         }
       ],
       "error": null
@@ -279,6 +279,11 @@
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
+        {
+          "title": "IBM connects enterprise AI orchestration to production readiness ahead of TechXchange",
+          "link": "https://siliconangle.com/2026/10/09/ibm-connects-enterprise-ai-orchestration-production-readiness-ibmaioperatingmodel/",
+          "date": "Fri, 09 Oct 2026 22:52:52 +0000"
+        },
         {
           "title": "Jev creator TypeSafe closes $870M round at $7.5B valuation",
           "link": "https://siliconangle.com/2026/10/09/jev-creator-typesafe-closes-870m-round-at-7-5b-valuation/",
@@ -298,11 +303,6 @@
           "title": "OpenAI revenue falls short, models play hopscotch and Trump cracks down on tech green cards",
           "link": "https://siliconangle.com/2026/10/09/openai-revenue-falls-short-models-play-hopscotch-and-trump-cracks-down-on-tech-green-cards/",
           "date": "Fri, 09 Oct 2026 14:00:29 +0000"
-        },
-        {
-          "title": "18 insights from SailPoint\u2019s Navigate event: Enterprises race to bring identity security for AI agents up to machine speed",
-          "link": "https://siliconangle.com/2026/10/09/identity-security-ai-agents-18-insights-from-navigate-2026-sailpointnavigate/",
-          "date": "Fri, 09 Oct 2026 13:31:55 +0000"
         }
       ],
       "error": null
@@ -394,29 +394,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "AI coding agents generate more code, but not more software",
-          "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-          "date": "Fri, 09 Oct 2026 19:43:50 +0000"
+          "title": "Neanderthal wooden tools from Spain found preserved in stone",
+          "link": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
+          "date": "Fri, 09 Oct 2026 22:34:03 +0000"
         },
         {
-          "title": "Outrage grows as CDC reportedly poised to fund \"unethical\" vaccine trial",
-          "link": "https://arstechnica.com/health/2026/10/rfk-jr-still-eager-to-fund-vaccine-trial-that-would-expose-babies-to-deadly-virus/",
-          "date": "Fri, 09 Oct 2026 19:27:27 +0000"
+          "title": "Ukraine\u2019s drones knock out AI data center belonging to \"Russia\u2019s Google\"",
+          "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+          "date": "Fri, 09 Oct 2026 22:04:07 +0000"
         },
         {
-          "title": "PC shipments fall 20.1 percent in \u201csharpest decline\u201d since Q1 2023",
-          "link": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/",
-          "date": "Fri, 09 Oct 2026 18:54:52 +0000"
+          "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+          "link": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
+          "date": "Fri, 09 Oct 2026 21:51:12 +0000"
         },
         {
-          "title": "AI disqualification yields new Nikon Small World in Motion winner",
-          "link": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
-          "date": "Fri, 09 Oct 2026 18:44:06 +0000"
+          "title": "NASA issues long-awaited call to industry for private space stations",
+          "link": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/",
+          "date": "Fri, 09 Oct 2026 21:34:09 +0000"
         },
         {
-          "title": "Your artwork could be featured in the next Debian release",
-          "link": "https://arstechnica.com/gadgets/2026/10/your-artwork-could-be-featured-in-the-next-debian-release/",
-          "date": "Fri, 09 Oct 2026 18:33:26 +0000"
+          "title": "What's been driving Hawaii's lava fountains?",
+          "link": "https://arstechnica.com/science/2026/10/whats-been-driving-hawaiis-lava-fountains/",
+          "date": "Fri, 09 Oct 2026 21:05:01 +0000"
         }
       ],
       "error": null
@@ -533,7 +533,7 @@
           "date": "Fri, 09 Oct 2026 17:21:09 -0400"
         },
         {
-          "title": "OpenAI Wargaming Response in Case of Public Revolt After Catastrophic AI Disaster",
+          "title": "OpenAI Is Wargaming Its Response in Case of Public Revolt After Catastrophic AI Disaster",
           "link": "https://futurism.com/artificial-intelligence/openai-wargaming-public-revolt-ai-catastrophe",
           "date": "Fri, 09 Oct 2026 15:00:32 -0400"
         },
