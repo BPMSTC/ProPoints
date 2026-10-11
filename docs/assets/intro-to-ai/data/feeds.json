@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T03:50:43.128852+00:00",
+  "generatedAt": "2026-10-11T10:34:24.429595+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -253,6 +253,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "[Showcase Sunday] Made Pinball x Arkanoid cross",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1x32b3q/showcase_sunday_made_pinball_x_arkanoid_cross/",
+          "date": "2026-10-11T07:54:02+00:00"
+        },
+        {
           "title": "Cross repository and cross agent development guidance",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1x1yloa/cross_repository_and_cross_agent_development/",
           "date": "2026-10-09T22:14:05+00:00"
@@ -266,11 +271,6 @@
           "title": "idea-to-launch - open source AI prompt/skill on Github",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1x0xta3/ideatolaunch_open_source_ai_promptskill_on_github/",
           "date": "2026-10-08T17:55:57+00:00"
-        },
-        {
-          "title": "I built a local-first MCP runtime that lets coding agents verify running web apps",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1x0zn1m/i_built_a_localfirst_mcp_runtime_that_lets_coding/",
-          "date": "2026-10-08T19:04:39+00:00"
         }
       ],
       "error": null
@@ -464,9 +464,14 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "UK must not be beholden to foreign AI, says head of Alan Turing Institute",
-          "link": "https://www.theguardian.com/technology/2026/oct/10/uk-foreign-ai-head-alan-turing-institute-george-williamson",
-          "date": "Sat, 10 Oct 2026 10:00:55 GMT"
+          "title": "Fixated on AI, the world has forgotten what is staring it in the face: nuclear annihilation | Simon Tisdall",
+          "link": "https://www.theguardian.com/commentisfree/2026/oct/11/ai-annihilation-advanced-nuclear-weapons",
+          "date": "Sun, 11 Oct 2026 09:00:22 GMT"
+        },
+        {
+          "title": "\u2018Gaza is a moral tear in the universe\u2019: Naomi Klein and Astra Taylor | Radical Thinking with Aditya Chakrabortty \u2013 podcast",
+          "link": "https://www.theguardian.com/news/audio/2026/oct/11/gaza-is-a-moral-tear-in-the-universe-naomi-klein-and-astra-taylor-radical-thinking-with-aditya-chakrabortty-podcast",
+          "date": "Sun, 11 Oct 2026 07:00:20 GMT"
         },
         {
           "title": "Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet assessment",
@@ -479,14 +484,9 @@
           "date": "Sat, 10 Oct 2026 19:00:08 GMT"
         },
         {
-          "title": "Jon Davis on job titles in the age of AI \u2013 cartoon",
-          "link": "https://www.theguardian.com/commentisfree/picture/2026/oct/10/jon-davis-job-titles-ai-cartoon",
-          "date": "Sat, 10 Oct 2026 10:00:54 GMT"
-        },
-        {
-          "title": "Recruitment boss accused of being behind \u2018doxxing\u2019 campaign against RNLI and anti-racism activists",
-          "link": "https://www.theguardian.com/uk-news/2026/oct/10/recruitment-boss-accused-of-being-behind-doxxing-campaign-against-rnli-and-anti-racism-activists",
-          "date": "Sat, 10 Oct 2026 07:00:50 GMT"
+          "title": "UK must not be beholden to foreign AI, says head of Alan Turing Institute",
+          "link": "https://www.theguardian.com/technology/2026/oct/10/uk-foreign-ai-head-alan-turing-institute-george-williamson",
+          "date": "Sat, 10 Oct 2026 10:00:55 GMT"
         }
       ],
       "error": null
