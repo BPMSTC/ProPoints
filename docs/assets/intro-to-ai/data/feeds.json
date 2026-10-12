@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T16:29:11.878844+00:00",
+  "generatedAt": "2026-10-12T23:27:51.565469+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,21 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Meta releases its first frontier model, Muse Wonder",
+          "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+          "date": "Mon, 12 Oct 2026 17:56:56 +0000"
+        },
+        {
+          "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+          "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+          "date": "Mon, 12 Oct 2026 17:19:14 +0000"
+        },
+        {
+          "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+          "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+          "date": "Mon, 12 Oct 2026 15:45:00 +0000"
+        },
+        {
           "title": "Microsoft president says UK is best placed to drive AI regulation",
           "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
           "date": "Mon, 12 Oct 2026 15:31:19 +0000"
@@ -116,21 +131,6 @@
           "title": "This AI startup says it can generate permit-ready blueprints in minutes",
           "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
           "date": "Mon, 12 Oct 2026 15:27:59 +0000"
-        },
-        {
-          "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
-          "link": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
-          "date": "Mon, 12 Oct 2026 14:00:00 +0000"
-        },
-        {
-          "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-          "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-          "date": "Mon, 12 Oct 2026 12:47:59 +0000"
-        },
-        {
-          "title": "Will the HomeView be Apple\u2019s first smart home success?",
-          "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-          "date": "Sun, 11 Oct 2026 21:14:40 +0000"
         }
       ],
       "error": null
@@ -139,6 +139,11 @@
       "name": "AI Business",
       "url": "https://aibusiness.com/rss.xml",
       "items": [
+        {
+          "title": "Humanoid bottlenecks emerge amid US-China tensions",
+          "link": "https://aibusiness.com/automation/humanoid-bottlenecks-emerge",
+          "date": "Mon, 12 Oct 2026 18:33:58 GMT"
+        },
         {
           "title": "Prompt: AI agents are running into the limits of access",
           "link": "https://aibusiness.com/agentic-ai/prompt-ai-agents-running-into-limits-of-access",
@@ -158,11 +163,6 @@
           "title": "Anthropic opens cybersecurity program applications, releases cheaper Haiku",
           "link": "https://aibusiness.com/responsible-ai/anthropic-opens-cybersecurity-program-applications",
           "date": "Thu, 08 Oct 2026 21:12:15 GMT"
-        },
-        {
-          "title": "Reflection Beam aims U.S. open-weight AI model at Chinese rivals",
-          "link": "https://aibusiness.com/generative-ai/reflection-beam-aims-u-s-open-weight-ai-model-chinese-rivals",
-          "date": "Wed, 07 Oct 2026 19:46:55 GMT"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -253,6 +253,16 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "I had built a retro media player written in Python.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1x4bsq9/i_had_built_a_retro_media_player_written_in_python/",
+          "date": "2026-10-12T19:43:01+00:00"
+        },
+        {
+          "title": "Upgrade of my AI In my App buildrush I need her to do more as I made her lazy and wondered if there was a prompt or httsp I could use and advise or help would be appreciated 2\ud83d\udc4d",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1x4gf2q/upgrade_of_my_ai_in_my_app_buildrush_i_need_her/",
+          "date": "2026-10-12T22:50:13+00:00"
+        },
+        {
           "title": "What apps or tools do you use to get feedback on English speaking practice videos?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1x3xv2y/what_apps_or_tools_do_you_use_to_get_feedback_on/",
           "date": "2026-10-12T10:00:59+00:00"
@@ -261,16 +271,6 @@
           "title": "I made an iTerm2 sidebar for running several Codex / Claude Code agents. Looking for feedback",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1x3zk67/i_made_an_iterm2_sidebar_for_running_several/",
           "date": "2026-10-12T11:39:04+00:00"
-        },
-        {
-          "title": "Random Prompt Generation[Technique]",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1x3vs1i/random_prompt_generationtechnique/",
-          "date": "2026-10-12T07:47:37+00:00"
-        },
-        {
-          "title": "AI code causes real world production outages",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1x3xcx8/ai_code_causes_real_world_production_outages/",
-          "date": "2026-10-12T09:29:22+00:00"
         }
       ],
       "error": null
@@ -280,29 +280,29 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
-          "title": "Phasis develops platform for agentic orientation using World APIs and reality layers",
-          "link": "https://siliconangle.com/2026/10/12/orienting-ai-agents-phasis-thecube-models-neo4jdatatoknowledge/",
-          "date": "Mon, 12 Oct 2026 15:55:51 +0000"
+          "title": "Meta releases Muse Wonder AI models built to run personal and professional agents",
+          "link": "https://siliconangle.com/2026/10/12/meta-releases-muse-wonder-ai-models-built-to-run-personal-and-professional-agents/",
+          "date": "Mon, 12 Oct 2026 22:36:05 +0000"
         },
         {
-          "title": "Mistlabs takes its Ambi AI system out of beta on Apple devices with $26M in funding",
-          "link": "https://siliconangle.com/2026/10/12/mistlabs-takes-its-ambi-ai-system-out-of-beta-on-apple-devices-with-26m-in-funding/",
-          "date": "Mon, 12 Oct 2026 13:00:06 +0000"
+          "title": "Dell and Intel weigh the costs of enterprise AI scalability",
+          "link": "https://siliconangle.com/2026/10/12/dell-intel-weigh-costs-enterprise-ai-scalability-dellaileadershipsymposium/",
+          "date": "Mon, 12 Oct 2026 21:24:56 +0000"
         },
         {
-          "title": "E-commerce AI startup Loops raises $3.5M to create smoother online shopping experiences",
-          "link": "https://siliconangle.com/2026/10/12/e-commerce-ai-startup-loops-raises-3-5m-to-create-smoother-online-shopping-experiences/",
-          "date": "Mon, 12 Oct 2026 12:00:10 +0000"
+          "title": "AI governance shifts to runtime as always-on agents spread",
+          "link": "https://siliconangle.com/2026/10/12/ai-governance-shifts-runtime-always-agents-spread-dellaileadershipsymposium/",
+          "date": "Mon, 12 Oct 2026 20:02:38 +0000"
         },
         {
-          "title": "BotMan AI uses knowledge graphs for legacy modernization",
-          "link": "https://siliconangle.com/2026/10/11/botman-ai-uses-knowledge-graphs-for-legacy-modernization-neo4jdatatoknowledge/",
-          "date": "Mon, 12 Oct 2026 01:46:26 +0000"
+          "title": "Deepgram targets voice AI on air-gapped laptops",
+          "link": "https://siliconangle.com/2026/10/12/deepgram-targets-voice-ai-air-gapped-laptops-dellaileadershipsymposium/",
+          "date": "Mon, 12 Oct 2026 19:17:22 +0000"
         },
         {
-          "title": "Nvidia reportedly in early talks to buy, acquihire or invest more in Reflection AI",
-          "link": "https://siliconangle.com/2026/10/11/nvidia-reportedly-in-early-talks-to-buy-acqui-hire-or-invest-more-in-reflection-ai/",
-          "date": "Sun, 11 Oct 2026 22:38:36 +0000"
+          "title": "Dell\u2019s AI partner ecosystem adapts to Silicon Valley\u2019s build-it-yourself buyers",
+          "link": "https://siliconangle.com/2026/10/12/dells-ai-partner-ecosystem-adapts-silicon-valley-build-it-yourself-buyers-dellaileadershipsymposium/",
+          "date": "Mon, 12 Oct 2026 18:16:07 +0000"
         }
       ],
       "error": null
@@ -394,29 +394,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "F1 in Singapore: There's a new fastest car now",
-          "link": "https://arstechnica.com/cars/2026/10/f1-in-singapore-theres-a-new-fastest-car-now/",
-          "date": "Mon, 12 Oct 2026 14:43:14 +0000"
+          "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+          "link": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+          "date": "Mon, 12 Oct 2026 20:59:50 +0000"
         },
         {
-          "title": "Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air",
-          "link": "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/",
-          "date": "Mon, 12 Oct 2026 13:00:52 +0000"
+          "title": "After a 10-year redemption arc, No Man's Sky is coming to the iPhone and iPad",
+          "link": "https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad/",
+          "date": "Mon, 12 Oct 2026 20:26:14 +0000"
         },
         {
-          "title": "Amazon has over 1 million robot workers. What\u2019s next for human employees?",
-          "link": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
-          "date": "Mon, 12 Oct 2026 12:43:10 +0000"
+          "title": "WHO report on Russian lab worker death highlights \"key uncertainty\"",
+          "link": "https://arstechnica.com/health/2026/10/who-report-on-russian-lab-worker-death-highlights-key-uncertainty/",
+          "date": "Mon, 12 Oct 2026 18:46:43 +0000"
         },
         {
-          "title": "Review: 4-hour Musk documentary feels like two different films",
-          "link": "https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/",
-          "date": "Sun, 11 Oct 2026 18:10:54 +0000"
+          "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+          "link": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+          "date": "Mon, 12 Oct 2026 18:21:36 +0000"
         },
         {
-          "title": "Prime Video unveils Blade Runner 2099 full trailer at NYCC",
-          "link": "https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/",
-          "date": "Sun, 11 Oct 2026 14:50:24 +0000"
+          "title": "Russia was not ready for the data center war it started with Ukraine",
+          "link": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
+          "date": "Mon, 12 Oct 2026 17:52:36 +0000"
         }
       ],
       "error": null
@@ -469,12 +469,17 @@
           "date": "Mon, 12 Oct 2026 13:52:55 GMT"
         },
         {
-          "title": "Burnham says \u2018public will be the boss\u2019 in any future decision about closer relationship with the EU \u2013 UK politics live",
+          "title": "Burnham says \u2018public will be the boss\u2019 in any future decision about closer relationship with the EU \u2013 as it happened",
           "link": "https://www.theguardian.com/politics/live/2026/oct/12/uk-politics-live-tories-andy-burnham-russian-interference-brexit-eu-latest",
-          "date": "Mon, 12 Oct 2026 16:21:14 GMT"
+          "date": "Mon, 12 Oct 2026 17:34:40 GMT"
         },
         {
-          "title": "Dystopian and dehumanising: that\u2019s what it felt like when I was interviewed by an AI assistant",
+          "title": "When AI is subject to less regulation than your fridge, something is startlingly wrong | Richard Hermer",
+          "link": "https://www.theguardian.com/commentisfree/2026/oct/12/ai-regulation-fridge-risk-humanity-public-debate-international-law",
+          "date": "Mon, 12 Oct 2026 17:33:41 GMT"
+        },
+        {
+          "title": "Dystopian and dehumanising: that\u2019s what it felt like when I was interviewed by an AI assistant | Giselle Au-Nhien Nguyen",
           "link": "https://www.theguardian.com/commentisfree/2026/oct/13/dystopian-and-dehumanising-thats-what-it-felt-like-when-i-was-interviewed-by-an-ai-assistant",
           "date": "Mon, 12 Oct 2026 14:00:57 GMT"
         },
@@ -482,11 +487,6 @@
           "title": "As US medical debt grows, AI will be used more to collect it",
           "link": "https://www.theguardian.com/us-news/2026/oct/12/ai-medical-debt-billing",
           "date": "Mon, 12 Oct 2026 12:00:55 GMT"
-        },
-        {
-          "title": "One essential ingredient for AI safety? Democracy | Matthew Botvinick",
-          "link": "https://www.theguardian.com/commentisfree/2026/oct/12/ai-safety-democracy",
-          "date": "Mon, 12 Oct 2026 12:00:54 GMT"
         }
       ],
       "error": null
@@ -494,34 +494,8 @@
     {
       "name": "artificial intelligence Archives - SpaceNews",
       "url": "https://spacenews.com/tag/artificial-intelligence/feed/",
-      "items": [
-        {
-          "title": "Tomorrow.io unveils DeepSky: constellation of large satellites and instruments",
-          "link": "https://spacenews.com/tomorrow-io-unveils-deepsky-constellation-of-large-satellites-and-instruments/",
-          "date": "Thu, 22 Jan 2026 13:00:00 +0000"
-        },
-        {
-          "title": "How physics AI is transforming the future of space engineering",
-          "link": "https://spacenews.com/how-physics-ai-is-transforming-the-future-of-space-engineering/",
-          "date": "Tue, 23 Dec 2025 14:41:46 +0000"
-        },
-        {
-          "title": "Space Force unveils strategic plan for AI integration",
-          "link": "https://spacenews.com/space-force-unveils-strategic-plan-for-ai-integration/",
-          "date": "Wed, 19 Mar 2025 16:55:24 +0000"
-        },
-        {
-          "title": "Constellr releases  first-light imagery of Tokyo",
-          "link": "https://spacenews.com/constellr-releases-first-light-imagery-of-tokyo/",
-          "date": "Mon, 17 Mar 2025 07:02:00 +0000"
-        },
-        {
-          "title": "L3Harris taps commercial AI partners for Pentagon\u2019s Golden Dome program",
-          "link": "https://spacenews.com/l3harris-taps-commercial-ai-partners-for-pentagons-golden-dome-program/",
-          "date": "Thu, 13 Mar 2025 20:40:22 +0000"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<urlopen error [Errno 104] Connection reset by peer>"
     },
     {
       "name": "Artificial Intelligence \u2013 Futurism",
@@ -560,6 +534,16 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him",
+          "link": "https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/",
+          "date": "Mon, 12 Oct 2026 17:55:12 +0000"
+        },
+        {
+          "title": "Muse Wonder Puts Meta Back at the AI Frontier",
+          "link": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/",
+          "date": "Mon, 12 Oct 2026 17:00:27 +0000"
+        },
+        {
           "title": "I Made Terrible Games With Google\u2019s AI Playground",
           "link": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
           "date": "Sun, 11 Oct 2026 11:30:00 +0000"
@@ -573,16 +557,6 @@
           "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
           "link": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
           "date": "Fri, 09 Oct 2026 19:28:49 +0000"
-        },
-        {
-          "title": "Even \u2018Law & Order\u2019 Is Terrified of AI",
-          "link": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
-          "date": "Fri, 09 Oct 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Inside Elon Musk\u2019s Midterm Spending Spree",
-          "link": "https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/",
-          "date": "Thu, 08 Oct 2026 21:14:12 +0000"
         }
       ],
       "error": null
