@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T23:39:04.887726+00:00",
+  "generatedAt": "2026-10-15T03:04:37.753206+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,16 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+          "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+          "date": "Thu, 15 Oct 2026 01:01:32 +0000"
+        },
+        {
+          "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+          "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+          "date": "Thu, 15 Oct 2026 00:00:00 +0000"
+        },
+        {
           "title": "Flock CEO says its microphones detect \u2018just gunshots\u2019 \u2014 its website says different",
           "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
           "date": "Wed, 14 Oct 2026 21:30:33 +0000"
@@ -121,16 +131,6 @@
           "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
           "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
           "date": "Wed, 14 Oct 2026 18:00:00 +0000"
-        },
-        {
-          "title": "Deezer will soon let you filter out AI-generated music",
-          "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
-          "date": "Wed, 14 Oct 2026 15:16:04 +0000"
-        },
-        {
-          "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco\u2019s Moscone West",
-          "link": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
-          "date": "Wed, 14 Oct 2026 15:13:24 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -280,6 +280,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Ahead of IPO, Anthropic reveals its revenue grew 45% sequentially to $16.8B in Q3",
+          "link": "https://siliconangle.com/2026/10/14/ahead-of-ipo-anthropic-reveals-its-revenue-grow-45-sequentially-to-16-8b-in-q3/",
+          "date": "Thu, 15 Oct 2026 01:47:15 +0000"
+        },
+        {
           "title": "Grok Voice 3.0 from SpaceXSI outscores OpenAI and Google on speech-to-speech index",
           "link": "https://siliconangle.com/2026/10/14/grok-voice-3-0-from-spacexsi-outscores-openai-and-google-on-speech-to-speech-index/",
           "date": "Wed, 14 Oct 2026 22:27:54 +0000"
@@ -298,11 +303,6 @@
           "title": "Forgepoint raises $9.8M to automate custom price quotes for manufacturing firms",
           "link": "https://siliconangle.com/2026/10/14/forgepoint-raises-9-8m-to-automate-custom-price-quotes-for-manufacturing-firms/",
           "date": "Wed, 14 Oct 2026 12:00:26 +0000"
-        },
-        {
-          "title": "Vast Data bets stitched-together AI pipelines can\u2019t keep sensitive data in sync",
-          "link": "https://siliconangle.com/2026/10/14/data-sovereignty-strains-best-breed-ai-pipelines-aidatapipelineforum/",
-          "date": "Wed, 14 Oct 2026 11:15:06 +0000"
         }
       ],
       "error": null
@@ -424,33 +424,7 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "Epic Games says it vibe coded new launcher because \u201cprogramming is hard\u201d",
-          "link": "https://www.reddit.com/r/artificial/comments/1x5uwd0/epic_games_says_it_vibe_coded_new_launcher/",
-          "date": "2026-10-14T15:53:29+00:00"
-        },
-        {
-          "title": "Peter Thiel: You Know Who Else Wants to Regulate AI? The Antichrist. Thiel's 'Antichrist' lecture series in Nashville is reportedly focused on casting AI regulation advocates as antichrist enablers.",
-          "link": "https://www.reddit.com/r/artificial/comments/1x5lboy/peter_thiel_you_know_who_else_wants_to_regulate/",
-          "date": "2026-10-14T07:55:36+00:00"
-        },
-        {
-          "title": "Peter Thiel Escalates War on AI Critics, Accuses Obama and The Pope of Exploiting Public Fears to \u2018Boost Their Own Popularity\u2019",
-          "link": "https://www.reddit.com/r/artificial/comments/1x5lkkg/peter_thiel_escalates_war_on_ai_critics_accuses/",
-          "date": "2026-10-14T08:11:33+00:00"
-        },
-        {
-          "title": "It has begun\u2026\ud83e\uddbe\u2620\ufe0f",
-          "link": "https://www.reddit.com/r/artificial/comments/1x5g7lx/it_has_begun/",
-          "date": "2026-10-14T02:51:38+00:00"
-        },
-        {
-          "title": "How much of today's agent memory stack is a workaround for the model architecture?",
-          "link": "https://www.reddit.com/r/artificial/comments/1x5sul4/how_much_of_todays_agent_memory_stack_is_a/",
-          "date": "2026-10-14T14:34:05+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
