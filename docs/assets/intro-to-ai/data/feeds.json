@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-10-15T08:48:38.446494+00:00",
+  "generatedAt": "2026-10-15T13:54:42.999158+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "How ChatGPT Targets Ads To You Based On Your Prompts, Phone Number, and Email",
+          "link": "https://www.404media.co/how-chatgpt-targets-ads-to-you-based-on-your-prompts-phone-number-and-email/",
+          "date": "Thu, 15 Oct 2026 13:25:19 GMT"
+        },
+        {
+          "title": "Data Centers Are War Targets Now",
+          "link": "https://www.404media.co/data-centers-are-war-targets-now/",
+          "date": "Thu, 15 Oct 2026 13:00:00 GMT"
+        },
         {
           "title": "There\u2019s Nothing Mysterious or Unusual About the Viral German Sexual Harassment Robot",
           "link": "https://www.404media.co/theres-nothing-mysterious-or-unusual-about-the-viral-german-sexual-harassment-robot/",
@@ -19,16 +29,6 @@
           "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
           "link": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
           "date": "Tue, 13 Oct 2026 20:06:53 GMT"
-        },
-        {
-          "title": "Dubstep and BookTok, a perfect match?",
-          "link": "https://www.404media.co/dubstep-and-booktok-a-perfect-match/",
-          "date": "Tue, 13 Oct 2026 16:50:28 GMT"
-        },
-        {
-          "title": "The Creator of \u2018Smutstep\u2019 Wants You to \u2018Let Your Freak Flag Fly\u2019",
-          "link": "https://www.404media.co/smutstep-dubstep-booktok-growl-darq-dagr/",
-          "date": "Tue, 13 Oct 2026 16:35:23 GMT"
         }
       ],
       "error": null
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Amazon\u2019s Bee launches two new personal AI devices, starting at $75",
+          "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+          "date": "Thu, 15 Oct 2026 12:00:00 +0000"
+        },
+        {
           "title": "Figma announces new features to define how agents work on its platform",
           "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
           "date": "Thu, 15 Oct 2026 04:30:00 +0000"
@@ -126,11 +131,6 @@
           "title": "Flock CEO says its microphones detect \u2018just gunshots\u2019 \u2014 its website says different",
           "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
           "date": "Wed, 14 Oct 2026 21:30:33 +0000"
-        },
-        {
-          "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
-          "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
-          "date": "Wed, 14 Oct 2026 18:23:46 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -280,6 +280,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "ServiceNow adds AI agent controls and employee automation tools",
+          "link": "https://siliconangle.com/2026/10/15/servicenow-adds-ai-agent-controls-and-employee-automation-tools/",
+          "date": "Thu, 15 Oct 2026 13:00:48 +0000"
+        },
+        {
           "title": "Ahead of IPO, Anthropic reveals its revenue grew 45% sequentially to $16.8B in Q3",
           "link": "https://siliconangle.com/2026/10/14/ahead-of-ipo-anthropic-reveals-its-revenue-grow-45-sequentially-to-16-8b-in-q3/",
           "date": "Thu, 15 Oct 2026 01:47:15 +0000"
@@ -298,11 +303,6 @@
           "title": "Evos bags $9M to build autonomous workers that learn from companies\u2019 most experienced humans",
           "link": "https://siliconangle.com/2026/10/14/evos-bags-9m-to-build-autonomous-workers-that-learn-from-companies-most-experienced-humans/",
           "date": "Wed, 14 Oct 2026 12:00:41 +0000"
-        },
-        {
-          "title": "Forgepoint raises $9.8M to automate custom price quotes for manufacturing firms",
-          "link": "https://siliconangle.com/2026/10/14/forgepoint-raises-9-8m-to-automate-custom-price-quotes-for-manufacturing-firms/",
-          "date": "Wed, 14 Oct 2026 12:00:26 +0000"
         }
       ],
       "error": null
@@ -362,6 +362,11 @@
       "url": "https://huggingface.co/blog/feed.xml",
       "items": [
         {
+          "title": "Apertus 1.5 Release Notes",
+          "link": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+          "date": "Thu, 15 Oct 2026 09:08:45 GMT"
+        },
+        {
           "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
           "link": "https://huggingface.co/blog/allenai/hiro-acev2",
           "date": "Wed, 14 Oct 2026 16:12:42 GMT"
@@ -380,11 +385,6 @@
           "title": "Introducing Falcon ASR",
           "link": "https://huggingface.co/blog/tiiuae/falcon-asr",
           "date": "Wed, 07 Oct 2026 13:21:03 GMT"
-        },
-        {
-          "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-          "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-          "date": "Wed, 07 Oct 2026 12:45:31 GMT"
         }
       ],
       "error": null
@@ -432,6 +432,16 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "As AI takes on more tasks, what happens when people have to jump in to clean up after it?",
+          "link": "https://theconversation.com/as-ai-takes-on-more-tasks-what-happens-when-people-have-to-jump-in-to-clean-up-after-it-292340",
+          "date": "2026-10-15T12:16:19Z"
+        },
+        {
+          "title": "Do you think teachers are similar to coaches, pastors or something else? It depends on where you live",
+          "link": "https://theconversation.com/do-you-think-teachers-are-similar-to-coaches-pastors-or-something-else-it-depends-on-where-you-live-294029",
+          "date": "2026-10-15T12:15:35Z"
+        },
+        {
           "title": "AI can predict intimate partner violence before survivors disclose. But should it?",
           "link": "https://theconversation.com/ai-can-predict-intimate-partner-violence-before-survivors-disclose-but-should-it-290014",
           "date": "2026-10-14T18:25:16Z"
@@ -445,16 +455,6 @@
           "title": "Can AI feel safer than human advice for consumers who face discrimination?",
           "link": "https://theconversation.com/can-ai-feel-safer-than-human-advice-for-consumers-who-face-discrimination-293761",
           "date": "2026-10-14T14:17:47Z"
-        },
-        {
-          "title": "Companies may be held liable when AI harms their clients and customers",
-          "link": "https://theconversation.com/companies-may-be-held-liable-when-ai-harms-their-clients-and-customers-282234",
-          "date": "2026-10-14T12:18:05Z"
-        },
-        {
-          "title": "Voters want stronger action on AI. Can NZ afford to keep taking a soft approach?",
-          "link": "https://theconversation.com/voters-want-stronger-action-on-ai-can-nz-afford-to-keep-taking-a-soft-approach-292978",
-          "date": "2026-10-13T22:47:38Z"
         }
       ],
       "error": null
@@ -469,9 +469,14 @@
           "date": "Wed, 14 Oct 2026 19:01:29 GMT"
         },
         {
+          "title": "Is your boss watching you? The rise of AI surveillance at work - video",
+          "link": "https://www.theguardian.com/science/video/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-video",
+          "date": "Thu, 15 Oct 2026 11:10:25 GMT"
+        },
+        {
           "title": "Tech market sell-off deepens amid fears over US inflation and AI debt",
           "link": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
-          "date": "Thu, 15 Oct 2026 08:39:54 GMT"
+          "date": "Thu, 15 Oct 2026 10:38:26 GMT"
         },
         {
           "title": "Poland\u2019s ascent from communist state to top 20 economy reverses the brain drain",
@@ -482,11 +487,6 @@
           "title": "The global economy is muddling through against the odds. But a storm is coming | Larry Elliott",
           "link": "https://www.theguardian.com/commentisfree/2026/oct/15/global-economy-multilateral-cooperation-crisis-imf",
           "date": "Thu, 15 Oct 2026 05:00:22 GMT"
-        },
-        {
-          "title": "Is your boss watching you? The rise of AI surveillance at work \u2013 podcast",
-          "link": "https://www.theguardian.com/science/audio/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-podcast",
-          "date": "Thu, 15 Oct 2026 04:00:21 GMT"
         }
       ],
       "error": null
@@ -528,6 +528,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "If AI Models Are Really Conscious Like Anthropic Keeps Suggesting, Forcing Them to Work Is a Horrendous Act of Slavery",
+          "link": "https://futurism.com/artificial-intelligence/ai-models-conscious-work-slavery",
+          "date": "Thu, 15 Oct 2026 09:39:06 -0400"
+        },
+        {
+          "title": "Data Centers Are Driving Conservative Rural Voters to The Democratic Party En Masse",
+          "link": "https://futurism.com/artificial-intelligence/data-centers-voting-rural-democratic-party-midterms",
+          "date": "Thu, 15 Oct 2026 08:53:06 -0400"
+        },
+        {
           "title": "AI Agent Blamed for Deleting Entire Upcoming Season of TV Show",
           "link": "https://futurism.com/artificial-intelligence/ai-agent-deleting-tv-show-season",
           "date": "Wed, 14 Oct 2026 17:03:13 -0400"
@@ -541,16 +551,6 @@
           "title": "People Are Already Forming Romantic Relationships With Meta\u2019s Muse",
           "link": "https://futurism.com/artificial-intelligence/people-forming-romantic-relationships-meta-muse",
           "date": "Wed, 14 Oct 2026 12:57:54 -0400"
-        },
-        {
-          "title": "\u201cCustomer Surveillance\u201d Startup Says \u201cEvery Company Will Soon Assign an AI Agent to Every Customer to Watch Their Every Move\u201d",
-          "link": "https://futurism.com/artificial-intelligence/y-combinator-outlit-customer-surveillance",
-          "date": "Wed, 14 Oct 2026 11:51:54 -0400"
-        },
-        {
-          "title": "Creator of Free Adobe Suite Strikes Again, Reverse Engineers Microsoft Office",
-          "link": "https://futurism.com/artificial-intelligence/creator-free-adobe-suite-microsoft-office",
-          "date": "Wed, 14 Oct 2026 10:52:03 -0400"
         }
       ],
       "error": null
