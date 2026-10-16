@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-10-16T10:38:17.050407+00:00",
+  "generatedAt": "2026-10-16T15:10:15.609978+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Here\u2019s What Telegram Giving Data to the U.S. Government Looks Like",
+          "link": "https://www.404media.co/heres-what-telegram-giving-data-to-the-u-s-government-looks-like/",
+          "date": "Fri, 16 Oct 2026 14:32:24 GMT"
+        },
+        {
+          "title": "Cops Used AI Generated Photos of a Child to Lure Out a Suspected Predator",
+          "link": "https://www.404media.co/undercover-cops-using-ai-generated-child-arrest/",
+          "date": "Fri, 16 Oct 2026 13:57:18 GMT"
+        },
         {
           "title": "Computers Made of Human Brain Tissue Identify Braille Letters In Breakthrough",
           "link": "https://www.404media.co/computers-made-of-human-brain-tissue-identify-braille-letters-in-breakthrough/",
@@ -19,16 +29,6 @@
           "title": "Accenture Tells Employees They Can Now Spend Only $29 on Claude Per Month",
           "link": "https://www.404media.co/accenture-tells-employees-they-can-now-spend-only-29-on-claude-per-month/",
           "date": "Thu, 15 Oct 2026 16:46:18 GMT"
-        },
-        {
-          "title": "Video Game Reverse Engineering Community Shuts Down Because AI Has Made It Too Easy",
-          "link": "https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy/",
-          "date": "Thu, 15 Oct 2026 16:31:30 GMT"
-        },
-        {
-          "title": "ChatGPT Ads Target Your Phone Number, Email",
-          "link": "https://www.404media.co/chatgpt-ads-target-your-phone-number-email/",
-          "date": "Thu, 15 Oct 2026 14:31:09 GMT"
         }
       ],
       "error": null
@@ -108,6 +108,21 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Mark Wahlberg on using AI in film \u2018the right way\u2019 and being open to an AI clone carrying on his legacy",
+          "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+          "date": "Fri, 16 Oct 2026 14:26:51 +0000"
+        },
+        {
+          "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+          "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+          "date": "Fri, 16 Oct 2026 14:00:00 +0000"
+        },
+        {
+          "title": "Replit\u2019s CEO says the future of work is the \u2018self-driving company\u2019",
+          "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+          "date": "Fri, 16 Oct 2026 12:55:09 +0000"
+        },
+        {
           "title": "When it came to Cal AI\u2019s viral success, a small army of influencers paid off",
           "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
           "date": "Thu, 15 Oct 2026 23:44:56 +0000"
@@ -116,21 +131,6 @@
           "title": "Meta launches an open-weight AI model that runs on Macs",
           "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
           "date": "Thu, 15 Oct 2026 20:04:53 +0000"
-        },
-        {
-          "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-          "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-          "date": "Thu, 15 Oct 2026 19:55:25 +0000"
-        },
-        {
-          "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-          "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-          "date": "Thu, 15 Oct 2026 19:14:26 +0000"
-        },
-        {
-          "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-          "link": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
-          "date": "Thu, 15 Oct 2026 18:56:46 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -280,6 +280,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "AI safety worries multiply but everyone\u2019s still racing full speed ahead",
+          "link": "https://siliconangle.com/2026/10/16/ai-safety-worries-multiply-but-everyones-still-racing-full-speed-ahead/",
+          "date": "Fri, 16 Oct 2026 14:00:49 +0000"
+        },
+        {
           "title": "8 insights from LogicMonitor\u2019s Elevate event: AI-driven observability moves toward autonomous IT",
           "link": "https://siliconangle.com/2026/10/15/ai-driven-observability-logicmonitor-elevate-2026-logicmonitorelevate/",
           "date": "Fri, 16 Oct 2026 00:41:22 +0000"
@@ -298,11 +303,6 @@
           "title": "IBM ties intelligent operations to agent safety and business value",
           "link": "https://siliconangle.com/2026/10/15/ibm-ties-intelligent-operations-agent-safety-business-value-ibmaioperatingmodel/",
           "date": "Thu, 15 Oct 2026 17:24:33 +0000"
-        },
-        {
-          "title": "Nvidia expands Nemotron LLM family with hyper-efficient models for agentic systems",
-          "link": "https://siliconangle.com/2026/10/15/nvidia-expands-nemotron-llm-family-with-hyper-efficient-models-for-agentic-systems/",
-          "date": "Thu, 15 Oct 2026 17:10:27 +0000"
         }
       ],
       "error": null
@@ -367,6 +367,11 @@
           "date": "Fri, 16 Oct 2026 01:44:47 GMT"
         },
         {
+          "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+          "link": "https://huggingface.co/blog/reflection-beam",
+          "date": "Fri, 16 Oct 2026 00:00:00 GMT"
+        },
+        {
           "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
           "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
           "date": "Thu, 15 Oct 2026 20:34:01 GMT"
@@ -380,11 +385,6 @@
           "title": "Welcome FLUX.3 Image Klein in Diffusers",
           "link": "https://huggingface.co/blog/flux-3",
           "date": "Thu, 15 Oct 2026 00:00:00 GMT"
-        },
-        {
-          "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-          "link": "https://huggingface.co/blog/allenai/hiro-acev2",
-          "date": "Wed, 14 Oct 2026 16:12:42 GMT"
         }
       ],
       "error": null
@@ -393,6 +393,16 @@
       "name": "Ars Technica - All content",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
+        {
+          "title": "The Surface Laptop Ultra delivers on most of Microsoft's promises",
+          "link": "https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/",
+          "date": "Fri, 16 Oct 2026 12:00:05 +0000"
+        },
+        {
+          "title": "Rocket Report: FAA eyes more Starbase traffic; India's Skyroot snares US customer",
+          "link": "https://arstechnica.com/space/2026/10/rocket-report-faa-eyes-more-starbase-traffic-indias-skyroot-snares-us-customer/",
+          "date": "Fri, 16 Oct 2026 11:00:53 +0000"
+        },
         {
           "title": "Blue Origin is going all in on the New Glenn rocket",
           "link": "https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/",
@@ -407,16 +417,6 @@
           "title": "KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell",
           "link": "https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/",
           "date": "Thu, 15 Oct 2026 22:21:06 +0000"
-        },
-        {
-          "title": "Plex now helps sell movie theater tickets",
-          "link": "https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets/",
-          "date": "Thu, 15 Oct 2026 21:22:15 +0000"
-        },
-        {
-          "title": "Hegseth\u2019s dubious low-T screening may flag up to 25 percent of the Army",
-          "link": "https://arstechnica.com/health/2026/10/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army/",
-          "date": "Thu, 15 Oct 2026 21:09:57 +0000"
         }
       ],
       "error": null
@@ -431,6 +431,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Can AI screen for heart disease using photos of your tongue and face?",
+          "link": "https://theconversation.com/can-ai-screen-for-heart-disease-using-photos-of-your-tongue-and-face-294192",
+          "date": "2026-10-16T12:46:34Z"
+        },
         {
           "title": "Kids and teens are going to AI chatbots for advice. How can parents make sure this is safe?",
           "link": "https://theconversation.com/kids-and-teens-are-going-to-ai-chatbots-for-advice-how-can-parents-make-sure-this-is-safe-294145",
@@ -450,11 +455,6 @@
           "title": "As AI takes on more tasks, what happens when people have to jump in to clean up after it?",
           "link": "https://theconversation.com/as-ai-takes-on-more-tasks-what-happens-when-people-have-to-jump-in-to-clean-up-after-it-292340",
           "date": "2026-10-15T12:16:19Z"
-        },
-        {
-          "title": "Do you think teachers are similar to coaches, pastors or something else? It depends on where you live",
-          "link": "https://theconversation.com/do-you-think-teachers-are-similar-to-coaches-pastors-or-something-else-it-depends-on-where-you-live-294029",
-          "date": "2026-10-15T12:15:35Z"
         }
       ],
       "error": null
@@ -528,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "AI Experts Already Doomsday Prepping for When AI Takes Out the Entire Financial System",
+          "link": "https://futurism.com/artificial-intelligence/ai-expert-doomsday-prepping-ai-financial-system",
+          "date": "Fri, 16 Oct 2026 08:38:45 -0400"
+        },
+        {
           "title": "Residents Reject $10,000 Each to Let a Data Center Set Up in Their Town",
           "link": "https://futurism.com/artificial-intelligence/residents-reject-bribe-data-center-amazon-pennsylvania",
           "date": "Thu, 15 Oct 2026 15:50:27 -0400"
@@ -546,11 +551,6 @@
           "title": "Elon Musk Says He\u2019s Been Struggling With AI Psychosis",
           "link": "https://futurism.com/future-society/elon-musk-struggling-ai-psychosis",
           "date": "Thu, 15 Oct 2026 10:26:43 -0400"
-        },
-        {
-          "title": "If AI Models Are Really Conscious Like Anthropic Keeps Suggesting, Forcing Them to Work Is a Horrendous Act of Slavery",
-          "link": "https://futurism.com/artificial-intelligence/ai-models-conscious-work-slavery",
-          "date": "Thu, 15 Oct 2026 09:39:06 -0400"
         }
       ],
       "error": null
@@ -559,6 +559,16 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Maybe Chatbots Shouldn\u2019t Get to Say \u2018I\u2019 or \u2018Me\u2019",
+          "link": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
+          "date": "Fri, 16 Oct 2026 15:00:00 +0000"
+        },
+        {
+          "title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
+          "link": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
+          "date": "Fri, 16 Oct 2026 11:00:00 +0000"
+        },
         {
           "title": "We Got Hot and Heavy With Meta\u2019s Muse\u2014and Baffled by Apple\u2019s HomeView",
           "link": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
@@ -573,16 +583,6 @@
           "title": "AI Came for Math. Now It\u2019s Chasing the Rest of Science",
           "link": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
           "date": "Wed, 14 Oct 2026 18:15:00 +0000"
-        },
-        {
-          "title": "My Friend Has No Soul",
-          "link": "https://www.wired.com/story/my-friend-has-no-soul/",
-          "date": "Wed, 14 Oct 2026 11:00:00 +0000"
-        },
-        {
-          "title": "Men Can\u2019t Stop Faking How Much They Know About AI",
-          "link": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
-          "date": "Wed, 14 Oct 2026 09:30:00 +0000"
         }
       ],
       "error": null
