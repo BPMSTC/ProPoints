@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T19:16:05.829754+00:00",
+  "generatedAt": "2026-10-16T22:28:45.091636+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Replit is no longer working with Anthropic, CEO says",
+          "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+          "date": "Fri, 16 Oct 2026 21:22:28 +0000"
+        },
+        {
           "title": "India becomes the latest country to report rogue AI agent activity",
           "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
           "date": "Fri, 16 Oct 2026 17:52:24 +0000"
@@ -126,11 +131,6 @@
           "title": "Elorian\u2019s first AI model wants to reason with images, not just about them",
           "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
           "date": "Fri, 16 Oct 2026 16:01:37 +0000"
-        },
-        {
-          "title": "Jev is Vercel\u2019s fastest-adopted AI model ever",
-          "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-          "date": "Fri, 16 Oct 2026 15:33:49 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -258,6 +258,11 @@
           "date": "2026-10-16T15:13:58+00:00"
         },
         {
+          "title": "Small business owners: would you rent a shop inside a video game if players had to visit it to win your discount code?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1x7pseq/small_business_owners_would_you_rent_a_shop/",
+          "date": "2026-10-16T19:37:12+00:00"
+        },
+        {
           "title": "EvoMusArt 2027: International Conference on Artificial Intelligence in Music, Sound, Art and Design",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1x6ohzy/evomusart_2027_international_conference_on/",
           "date": "2026-10-15T15:19:35+00:00"
@@ -266,11 +271,6 @@
           "title": "How to be more ambitious (@felixrieseberg)",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1x6fdex/how_to_be_more_ambitious_felixrieseberg/",
           "date": "2026-10-15T07:37:16+00:00"
-        },
-        {
-          "title": "Why does every AI assistant treat a 2am debugging panic and a Sunday brainstorm the same way?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1x5zh4x/why_does_every_ai_assistant_treat_a_2am_debugging/",
-          "date": "2026-10-14T18:44:34+00:00"
         }
       ],
       "error": null
@@ -280,29 +280,29 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "What to expect during Dell\u2019s \u2018Cyber Resilience\u2019 event: Join theCUBE Oct. 27",
+          "link": "https://siliconangle.com/2026/10/16/data-protection-ai-cybersecurity-resilience-dell-thecube-aicybersecurityandresiliencesummit/",
+          "date": "Fri, 16 Oct 2026 20:57:06 +0000"
+        },
+        {
+          "title": "RapidCanvas raises $29M to develop custom AI applications for enterprises",
+          "link": "https://siliconangle.com/2026/10/16/rapidcanvas-raises-29m-to-develop-custom-ai-applications-for-enterprises/",
+          "date": "Fri, 16 Oct 2026 20:19:25 +0000"
+        },
+        {
+          "title": "The agentic AI era is forcing security and resilience into a single discipline",
+          "link": "https://siliconangle.com/2026/10/16/the-agentic-ai-era-is-forcing-security-and-resilience-into-a-single-discipline/",
+          "date": "Fri, 16 Oct 2026 20:09:06 +0000"
+        },
+        {
+          "title": "What to expect at Dell Technologies New York Symposium: Join theCUBE Oct. 20",
+          "link": "https://siliconangle.com/2026/10/16/financial-institutions-dell-new-york-symposium-thecube-dellnewyorksymposium/",
+          "date": "Fri, 16 Oct 2026 19:58:07 +0000"
+        },
+        {
           "title": "Physics AI pushes chip design beyond traditional simulation",
           "link": "https://siliconangle.com/2026/10/16/vinci4d-physics-models-semiconwest/",
           "date": "Fri, 16 Oct 2026 17:47:37 +0000"
-        },
-        {
-          "title": "Knowledge graphs fuel AI innovation for financial services at Raymond James Financial",
-          "link": "https://siliconangle.com/2026/10/16/knowledge-graphs-ai-raymond-james-neo4j-neo4jgraphsummit/",
-          "date": "Fri, 16 Oct 2026 16:42:53 +0000"
-        },
-        {
-          "title": "AI safety worries multiply but everyone\u2019s still racing full speed ahead",
-          "link": "https://siliconangle.com/2026/10/16/ai-safety-worries-multiply-but-everyones-still-racing-full-speed-ahead/",
-          "date": "Fri, 16 Oct 2026 14:00:49 +0000"
-        },
-        {
-          "title": "8 insights from LogicMonitor\u2019s Elevate event: AI-driven observability moves toward autonomous IT",
-          "link": "https://siliconangle.com/2026/10/15/ai-driven-observability-logicmonitor-elevate-2026-logicmonitorelevate/",
-          "date": "Fri, 16 Oct 2026 00:41:22 +0000"
-        },
-        {
-          "title": "Meta releases 816B-parameter Muse Spark Open for coding and agent work",
-          "link": "https://siliconangle.com/2026/10/15/meta-releases-816b-parameter-muse-spark-open-for-coding-and-agent-work/",
-          "date": "Thu, 15 Oct 2026 22:20:54 +0000"
         }
       ],
       "error": null
@@ -394,6 +394,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "\u201cthegentlemanpervert\u201d producing AI CSAM is a NJ prosecutor, say cops",
+          "link": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+          "date": "Fri, 16 Oct 2026 20:20:07 +0000"
+        },
+        {
+          "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
+          "link": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/",
+          "date": "Fri, 16 Oct 2026 19:41:18 +0000"
+        },
+        {
+          "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
+          "link": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
+          "date": "Fri, 16 Oct 2026 19:11:50 +0000"
+        },
+        {
           "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
           "link": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/",
           "date": "Fri, 16 Oct 2026 17:05:59 +0000"
@@ -402,21 +417,6 @@
           "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
           "link": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
           "date": "Fri, 16 Oct 2026 15:41:00 +0000"
-        },
-        {
-          "title": "Polymarket saw $600 million in election trades after the elections were over",
-          "link": "https://arstechnica.com/tech-policy/2026/10/polymarket-saw-600-million-in-election-trades-after-the-elections-were-over/",
-          "date": "Fri, 16 Oct 2026 14:19:22 +0000"
-        },
-        {
-          "title": "Tesla turns to 50-year-old stunt technology as it tries to Roadster again",
-          "link": "https://arstechnica.com/cars/2026/10/tesla-turns-to-50-year-old-stunt-technology-as-it-tries-to-roadster-again/",
-          "date": "Fri, 16 Oct 2026 14:03:25 +0000"
-        },
-        {
-          "title": "Super Scam Me documentary shows what it takes to catch a romance scammer",
-          "link": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/",
-          "date": "Fri, 16 Oct 2026 14:00:59 +0000"
         }
       ],
       "error": null
@@ -560,6 +560,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It\u2019s Even Weirder Than It Sounds",
+          "link": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
+          "date": "Fri, 16 Oct 2026 20:05:08 +0000"
+        },
+        {
           "title": "Maybe Chatbots Shouldn\u2019t Get to Say \u2018I\u2019 or \u2018Me\u2019",
           "link": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
           "date": "Fri, 16 Oct 2026 15:00:00 +0000"
@@ -578,11 +583,6 @@
           "title": "AI Hacks Leave a Mess That AI Companies Aren\u2019t Paying For",
           "link": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
           "date": "Thu, 15 Oct 2026 21:00:28 +0000"
-        },
-        {
-          "title": "AI Came for Math. Now It\u2019s Chasing the Rest of Science",
-          "link": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
-          "date": "Wed, 14 Oct 2026 18:15:00 +0000"
         }
       ],
       "error": null
