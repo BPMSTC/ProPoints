@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T14:59:11.200319+00:00",
+  "generatedAt": "2026-10-17T17:44:43.838604+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:377: not well-formed (invalid token)"
     },
     {
       "name": "AI | TechCrunch",
@@ -253,6 +253,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "byslef sends your prompts through openrouter only to these vetted servers. Cohere is the exception but ZDR indicators can tell you what is safe and not.",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1x8dbfz/byslef_sends_your_prompts_through_openrouter_only/",
+          "date": "2026-10-17T15:40:09+00:00"
+        },
+        {
           "title": "A research tool with a proper MCP server, NotebookLM alternative",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1x7ivpy/a_research_tool_with_a_proper_mcp_server/",
           "date": "2026-10-16T15:13:58+00:00"
@@ -266,11 +271,6 @@
           "title": "EvoMusArt 2027: International Conference on Artificial Intelligence in Music, Sound, Art and Design",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1x6ohzy/evomusart_2027_international_conference_on/",
           "date": "2026-10-15T15:19:35+00:00"
-        },
-        {
-          "title": "How to be more ambitious (@felixrieseberg)",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1x6fdex/how_to_be_more_ambitious_felixrieseberg/",
-          "date": "2026-10-15T07:37:16+00:00"
         }
       ],
       "error": null
@@ -469,6 +469,11 @@
           "date": "Sat, 17 Oct 2026 11:33:20 GMT"
         },
         {
+          "title": "Why Britain should reject the lure of cheap \u2013 and  scary \u2013 Chinese AI",
+          "link": "https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai",
+          "date": "Sat, 17 Oct 2026 15:00:33 GMT"
+        },
+        {
           "title": "Inside the long, bitter fight over one man\u2019s quest to build the biggest AI datacenter in California",
           "link": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/17/california-datacenter-imperial",
           "date": "Sat, 17 Oct 2026 13:00:31 GMT"
@@ -482,11 +487,6 @@
           "title": "Madeline Horwath on AI food advertising \u2013 cartoon",
           "link": "https://www.theguardian.com/commentisfree/picture/2026/oct/17/madeline-horwath-ai-food-advertising-cartoon-restaurants",
           "date": "Sat, 17 Oct 2026 10:00:28 GMT"
-        },
-        {
-          "title": "\u2018Countries are defying gravity\u2019: how much longer can global economy resist chaos?",
-          "link": "https://www.theguardian.com/business/2026/oct/17/imf-warns-scale-subsidies-weather-global-chaos-untenable",
-          "date": "Sat, 17 Oct 2026 10:00:27 GMT"
         }
       ],
       "error": null
