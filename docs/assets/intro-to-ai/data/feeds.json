@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-10-17T11:20:04.785490+00:00",
+  "generatedAt": "2026-10-17T14:59:11.200319+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "This Might Be the Earliest Known Spear Murder In Earth\u2019s History",
+          "link": "https://www.404media.co/this-might-be-the-earliest-known-spear-murder-in-earths-history/",
+          "date": "Sat, 17 Oct 2026 13:36:29 GMT"
+        },
         {
           "title": "Behind the Blog: Doing Whatever",
           "link": "https://www.404media.co/behind-the-blog-doing-whatever/",
@@ -24,11 +29,6 @@
           "title": "Cops Used AI Generated Photos of a Child to Lure Out a Suspected Predator",
           "link": "https://www.404media.co/undercover-cops-using-ai-generated-child-arrest/",
           "date": "Fri, 16 Oct 2026 13:57:18 GMT"
-        },
-        {
-          "title": "Computers Made of Human Brain Tissue Identify Braille Letters In Breakthrough",
-          "link": "https://www.404media.co/computers-made-of-human-brain-tissue-identify-braille-letters-in-breakthrough/",
-          "date": "Fri, 16 Oct 2026 04:01:00 GMT"
         }
       ],
       "error": null
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:377: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI | TechCrunch",
@@ -280,6 +280,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "ServiceNow AI Control Tower: Selling a penthouse while building the frame",
+          "link": "https://siliconangle.com/2026/10/17/servicenow-ai-control-tower-selling-a-penthouse-while-building-the-frame/",
+          "date": "Sat, 17 Oct 2026 14:49:22 +0000"
+        },
+        {
           "title": "Microsoft reveals cutting-edge MAI-Base-2 model with 2T parameters",
           "link": "https://siliconangle.com/2026/10/16/microsoft-reveals-cutting-edge-mai-base-2-model-with-2t-parameters/",
           "date": "Sat, 17 Oct 2026 00:39:50 +0000"
@@ -298,11 +303,6 @@
           "title": "RapidCanvas raises $29M to develop custom AI applications for enterprises",
           "link": "https://siliconangle.com/2026/10/16/rapidcanvas-raises-29m-to-develop-custom-ai-applications-for-enterprises/",
           "date": "Fri, 16 Oct 2026 20:19:25 +0000"
-        },
-        {
-          "title": "The agentic AI era is forcing security and resilience into a single discipline",
-          "link": "https://siliconangle.com/2026/10/16/the-agentic-ai-era-is-forcing-security-and-resilience-into-a-single-discipline/",
-          "date": "Fri, 16 Oct 2026 20:09:06 +0000"
         }
       ],
       "error": null
@@ -394,6 +394,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Science says your boss should talk less in meetings",
+          "link": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
+          "date": "Sat, 17 Oct 2026 11:15:11 +0000"
+        },
+        {
+          "title": "Why BioWare's Neverwinter Nights still has thousands of active players",
+          "link": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/",
+          "date": "Sat, 17 Oct 2026 11:00:21 +0000"
+        },
+        {
           "title": "OpenAI models hacked a crypto wallet and breached more websites",
           "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
           "date": "Fri, 16 Oct 2026 20:59:01 +0000"
@@ -407,16 +417,6 @@
           "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
           "link": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/",
           "date": "Fri, 16 Oct 2026 19:41:18 +0000"
-        },
-        {
-          "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
-          "link": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
-          "date": "Fri, 16 Oct 2026 19:11:50 +0000"
-        },
-        {
-          "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
-          "link": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/",
-          "date": "Fri, 16 Oct 2026 17:05:59 +0000"
         }
       ],
       "error": null
@@ -424,33 +424,7 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "Jailbroken PS5s can now run local AI models at over 100+ tokens per second \u2014 fork of PS5LM goes native, hijacks the CPU, and accesses the GPU and more RAM",
-          "link": "https://www.reddit.com/r/artificial/comments/1x7ofj6/jailbroken_ps5s_can_now_run_local_ai_models_at/",
-          "date": "2026-10-16T18:44:23+00:00"
-        },
-        {
-          "title": "Putin envoy says Russia and US are discussing joint deals including on data centres",
-          "link": "https://www.reddit.com/r/artificial/comments/1x83tcj/putin_envoy_says_russia_and_us_are_discussing/",
-          "date": "2026-10-17T07:14:31+00:00"
-        },
-        {
-          "title": "Developer Goes Into Debt Spending $1,000 A Day To Keep Steam Demo For AI-Fueled Driving Sim Going",
-          "link": "https://www.reddit.com/r/artificial/comments/1x847zy/developer_goes_into_debt_spending_1000_a_day_to/",
-          "date": "2026-10-17T07:39:24+00:00"
-        },
-        {
-          "title": "Texas sued after glitch delays almost 600,000 voter registrations",
-          "link": "https://www.reddit.com/r/artificial/comments/1x7jopt/texas_sued_after_glitch_delays_almost_600000/",
-          "date": "2026-10-16T15:45:03+00:00"
-        },
-        {
-          "title": "OpenAI models hacked a crypto wallet and breached more websites",
-          "link": "https://www.reddit.com/r/artificial/comments/1x83qnc/openai_models_hacked_a_crypto_wallet_and_breached/",
-          "date": "2026-10-17T07:09:59+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
@@ -490,6 +464,16 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "The power of AI is worrying senior Labour figures \u2013 as is the fear of \u2018falling behind the public\u2019",
+          "link": "https://www.theguardian.com/technology/2026/oct/17/artificial-intelligence-ai-labour-government-safety-uk-extremism",
+          "date": "Sat, 17 Oct 2026 11:33:20 GMT"
+        },
+        {
+          "title": "Inside the long, bitter fight over one man\u2019s quest to build the biggest AI datacenter in California",
+          "link": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/17/california-datacenter-imperial",
+          "date": "Sat, 17 Oct 2026 13:00:31 GMT"
+        },
+        {
           "title": "Fake Linda and me: the Agatha Christie-worthy mystery of the fraudster who stole my byline",
           "link": "https://www.theguardian.com/technology/2026/oct/17/fake-linda-and-me-mystery-fraudster-stole-my-byline",
           "date": "Sat, 17 Oct 2026 11:00:30 GMT"
@@ -503,16 +487,6 @@
           "title": "\u2018Countries are defying gravity\u2019: how much longer can global economy resist chaos?",
           "link": "https://www.theguardian.com/business/2026/oct/17/imf-warns-scale-subsidies-weather-global-chaos-untenable",
           "date": "Sat, 17 Oct 2026 10:00:27 GMT"
-        },
-        {
-          "title": "Decluttering your online life: how to get your digital house in order and protect your data from AI",
-          "link": "https://www.theguardian.com/australia-news/2026/oct/17/decluttering-online-how-to-get-your-digital-house-in-order-protect-data-ai",
-          "date": "Fri, 16 Oct 2026 23:00:15 GMT"
-        },
-        {
-          "title": "AI threatens democracy. But we are not powerless: here\u2019s how to fight back | Carine Fouteau",
-          "link": "https://www.theguardian.com/commentisfree/2026/oct/16/ai-existential-threat-real-journalism-democracy-resistance",
-          "date": "Fri, 16 Oct 2026 07:49:45 GMT"
         }
       ],
       "error": null
@@ -554,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Man Shows Up to AI Job Interview With His Own Helicopter AI to Interview for Him",
+          "link": "https://futurism.com/artificial-intelligence/man-shows-up-ai-job-interview-own-ai",
+          "date": "Sat, 17 Oct 2026 09:47:00 -0400"
+        },
+        {
           "title": "Rogue AI Swarm Responds to Reporter\u2019s Questions",
           "link": "https://futurism.com/artificial-intelligence/rogue-ai-swarm-reporters-questions",
           "date": "Fri, 16 Oct 2026 13:58:48 -0400"
@@ -572,11 +551,6 @@
           "title": "The Guy Who Allegedly Bugged OpenAI\u2019s Executive Conference Room Had Booked a One-Way Flight to Saudi Arabia With His Family",
           "link": "https://futurism.com/artificial-intelligence/man-bugged-openai-executive-conference-room-flight-saudi-arabia",
           "date": "Thu, 15 Oct 2026 13:46:28 -0400"
-        },
-        {
-          "title": "OpenAI Hit With Stack of Lawsuits Over ChatGPT Allegedly Coaching Children to Harm Themselves",
-          "link": "https://futurism.com/artificial-intelligence/openai-state-lawsuits-chatgpt-children-harm",
-          "date": "Thu, 15 Oct 2026 12:48:56 -0400"
         }
       ],
       "error": null
