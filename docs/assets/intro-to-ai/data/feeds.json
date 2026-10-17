@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T20:03:56.057415+00:00",
+  "generatedAt": "2026-10-17T22:51:45.267689+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,7 +108,17 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
-          "title": "Replit is no longer working with Anthropic, CEO says",
+          "title": "Meta removes language that raised scraping and AI training concerns",
+          "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+          "date": "Sat, 17 Oct 2026 21:31:32 +0000"
+        },
+        {
+          "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+          "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+          "date": "Sat, 17 Oct 2026 20:21:19 +0000"
+        },
+        {
+          "title": "Replit makes OpenAI its default over Anthropic, CEO says",
           "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
           "date": "Sat, 17 Oct 2026 18:48:08 +0000"
         },
@@ -121,16 +131,6 @@
           "title": "An Nvidia insider-turned-VC on why robotics hasn\u2019t hit its ChatGPT moment, yet",
           "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
           "date": "Fri, 16 Oct 2026 16:30:00 +0000"
-        },
-        {
-          "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-          "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-          "date": "Fri, 16 Oct 2026 16:30:00 +0000"
-        },
-        {
-          "title": "Elorian\u2019s first AI model wants to reason with images, not just about them",
-          "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-          "date": "Fri, 16 Oct 2026 16:01:37 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
