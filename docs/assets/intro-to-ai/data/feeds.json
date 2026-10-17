@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T06:30:52.463104+00:00",
+  "generatedAt": "2026-10-17T11:20:04.785490+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -424,7 +424,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "Jailbroken PS5s can now run local AI models at over 100+ tokens per second \u2014 fork of PS5LM goes native, hijacks the CPU, and accesses the GPU and more RAM",
+          "link": "https://www.reddit.com/r/artificial/comments/1x7ofj6/jailbroken_ps5s_can_now_run_local_ai_models_at/",
+          "date": "2026-10-16T18:44:23+00:00"
+        },
+        {
+          "title": "Putin envoy says Russia and US are discussing joint deals including on data centres",
+          "link": "https://www.reddit.com/r/artificial/comments/1x83tcj/putin_envoy_says_russia_and_us_are_discussing/",
+          "date": "2026-10-17T07:14:31+00:00"
+        },
+        {
+          "title": "Developer Goes Into Debt Spending $1,000 A Day To Keep Steam Demo For AI-Fueled Driving Sim Going",
+          "link": "https://www.reddit.com/r/artificial/comments/1x847zy/developer_goes_into_debt_spending_1000_a_day_to/",
+          "date": "2026-10-17T07:39:24+00:00"
+        },
+        {
+          "title": "Texas sued after glitch delays almost 600,000 voter registrations",
+          "link": "https://www.reddit.com/r/artificial/comments/1x7jopt/texas_sued_after_glitch_delays_almost_600000/",
+          "date": "2026-10-16T15:45:03+00:00"
+        },
+        {
+          "title": "OpenAI models hacked a crypto wallet and breached more websites",
+          "link": "https://www.reddit.com/r/artificial/comments/1x83qnc/openai_models_hacked_a_crypto_wallet_and_breached/",
+          "date": "2026-10-17T07:09:59+00:00"
+        }
+      ],
       "error": null
     },
     {
@@ -464,6 +490,21 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Fake Linda and me: the Agatha Christie-worthy mystery of the fraudster who stole my byline",
+          "link": "https://www.theguardian.com/technology/2026/oct/17/fake-linda-and-me-mystery-fraudster-stole-my-byline",
+          "date": "Sat, 17 Oct 2026 11:00:30 GMT"
+        },
+        {
+          "title": "Madeline Horwath on AI food advertising \u2013 cartoon",
+          "link": "https://www.theguardian.com/commentisfree/picture/2026/oct/17/madeline-horwath-ai-food-advertising-cartoon-restaurants",
+          "date": "Sat, 17 Oct 2026 10:00:28 GMT"
+        },
+        {
+          "title": "\u2018Countries are defying gravity\u2019: how much longer can global economy resist chaos?",
+          "link": "https://www.theguardian.com/business/2026/oct/17/imf-warns-scale-subsidies-weather-global-chaos-untenable",
+          "date": "Sat, 17 Oct 2026 10:00:27 GMT"
+        },
+        {
           "title": "Decluttering your online life: how to get your digital house in order and protect your data from AI",
           "link": "https://www.theguardian.com/australia-news/2026/oct/17/decluttering-online-how-to-get-your-digital-house-in-order-protect-data-ai",
           "date": "Fri, 16 Oct 2026 23:00:15 GMT"
@@ -472,21 +513,6 @@
           "title": "AI threatens democracy. But we are not powerless: here\u2019s how to fight back | Carine Fouteau",
           "link": "https://www.theguardian.com/commentisfree/2026/oct/16/ai-existential-threat-real-journalism-democracy-resistance",
           "date": "Fri, 16 Oct 2026 07:49:45 GMT"
-        },
-        {
-          "title": "Meta releases Muse Spark Open, a new \u2018open-weight\u2019 AI model",
-          "link": "https://www.theguardian.com/technology/2026/oct/16/meta-releases-muse-spark-open-a-new-open-weight-ai-model",
-          "date": "Fri, 16 Oct 2026 00:34:28 GMT"
-        },
-        {
-          "title": "Tell us: have you used AI to help with online dating?",
-          "link": "https://www.theguardian.com/technology/2026/oct/15/using-ai-online-dating-tell-us",
-          "date": "Thu, 15 Oct 2026 16:47:25 GMT"
-        },
-        {
-          "title": "Tech market sell-off deepens amid fears over US inflation and AI debt",
-          "link": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
-          "date": "Thu, 15 Oct 2026 14:33:12 GMT"
         }
       ],
       "error": null
@@ -560,6 +586,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Why AI Isn\u2019t Ready to Tackle Our Convoluted Genomes",
+          "link": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+          "date": "Sat, 17 Oct 2026 09:00:00 +0000"
+        },
+        {
           "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It\u2019s Even Weirder Than It Sounds",
           "link": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
           "date": "Fri, 16 Oct 2026 20:05:08 +0000"
@@ -578,11 +609,6 @@
           "title": "We Got Hot and Heavy With Meta\u2019s Muse\u2014and Baffled by Apple\u2019s HomeView",
           "link": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
           "date": "Thu, 15 Oct 2026 21:18:15 +0000"
-        },
-        {
-          "title": "AI Hacks Leave a Mess That AI Companies Aren\u2019t Paying For",
-          "link": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
-          "date": "Thu, 15 Oct 2026 21:00:28 +0000"
         }
       ],
       "error": null
