@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T05:23:25.303742+00:00",
+  "generatedAt": "2026-10-18T10:20:34.352963+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -354,8 +354,34 @@
     {
       "name": "Analytics India Magazine",
       "url": "https://analyticsindiamag.com/feed/",
-      "items": [],
-      "error": "<unknown>:2:0: syntax error"
+      "items": [
+        {
+          "title": "Wipro\u2019s Deal Slump Puts Its AI Growth Story to the Test",
+          "link": "https://analyticsindiamag.com/it-services/wipros-deal-slump-puts-its-ai-growth-story-to-the-test",
+          "date": "Sat, 17 Oct 2026 04:49:57 GMT"
+        },
+        {
+          "title": "CERT-In Warns AI Agents Are Accessing Indian Systems Without Authorisation",
+          "link": "https://analyticsindiamag.com/ai-news/cert-in-warns-ai-agents-are-accessing-indian-systems-without-authorisation",
+          "date": "Fri, 16 Oct 2026 10:11:42 GMT"
+        },
+        {
+          "title": "NVIDIA Expands Nemotron AI Models for Data Centres and Desktop Devices",
+          "link": "https://analyticsindiamag.com/ai-news/nvidia-expands-nemotron-ai-models-for-data-centres-and-desktop-devices",
+          "date": "Fri, 16 Oct 2026 08:48:24 GMT"
+        },
+        {
+          "title": "Accenture Caps Employee Spending on Claude at $29 Per Month: Report",
+          "link": "https://analyticsindiamag.com/ai-news/accenture-caps-employee-spending-on-claude-at-29-per-month-report",
+          "date": "Fri, 16 Oct 2026 08:33:19 GMT"
+        },
+        {
+          "title": "CapitaLand to Invest \u20b91,940 Cr in Chennai Data Centre With 53 MW Capacity",
+          "link": "https://analyticsindiamag.com/ai-news/capitaland-to-invest-1940-cr-in-chennai-data-centre-with-53-mw-capacity",
+          "date": "Fri, 16 Oct 2026 08:22:09 GMT"
+        }
+      ],
+      "error": null
     },
     {
       "name": "Hugging Face Blog",
@@ -464,9 +490,9 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "The power of AI is worrying senior Labour figures \u2013 as is the fear of \u2018falling behind the public\u2019",
-          "link": "https://www.theguardian.com/technology/2026/oct/17/artificial-intelligence-ai-labour-government-safety-uk-extremism",
-          "date": "Sat, 17 Oct 2026 11:33:20 GMT"
+          "title": "World Bank says \u2018small AI\u2019 could transform developing countries",
+          "link": "https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies",
+          "date": "Sun, 18 Oct 2026 10:00:56 GMT"
         },
         {
           "title": "Black Box: The Chatbots | What I Saw at the Double Six Ranch | Ep 6 - podcast",
@@ -484,9 +510,9 @@
           "date": "Sat, 17 Oct 2026 13:00:31 GMT"
         },
         {
-          "title": "Fake Linda and me: the Agatha Christie-worthy mystery of the fraudster who stole my byline",
-          "link": "https://www.theguardian.com/technology/2026/oct/17/fake-linda-and-me-mystery-fraudster-stole-my-byline",
-          "date": "Sat, 17 Oct 2026 11:00:30 GMT"
+          "title": "The power of AI is worrying senior Labour figures \u2013 as is the fear of \u2018falling behind the public\u2019",
+          "link": "https://www.theguardian.com/technology/2026/oct/17/artificial-intelligence-ai-labour-government-safety-uk-extremism",
+          "date": "Sat, 17 Oct 2026 11:33:20 GMT"
         }
       ],
       "error": null
