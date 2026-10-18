@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T17:47:05.995168+00:00",
+  "generatedAt": "2026-10-18T20:02:53.634507+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -253,6 +253,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "[Showcase Sunday] We built Coterie: the first multi-model orchestrator where rival AI agents plan, code, and audit software as a real engineering team",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1x9bxsz/showcase_sunday_we_built_coterie_the_first/",
+          "date": "2026-10-18T19:25:46+00:00"
+        },
+        {
           "title": "I tested giving an AI agent direct access to housing and job databases",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1x8htu6/i_tested_giving_an_ai_agent_direct_access_to/",
           "date": "2026-10-17T18:43:07+00:00"
@@ -266,11 +271,6 @@
           "title": "How I vibe code - 10 prompts with complete examples",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1x8ik4k/how_i_vibe_code_10_prompts_with_complete_examples/",
           "date": "2026-10-17T19:13:08+00:00"
-        },
-        {
-          "title": "A research tool with a proper MCP server, NotebookLM alternative",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1x7ivpy/a_research_tool_with_a_proper_mcp_server/",
-          "date": "2026-10-16T15:13:58+00:00"
         }
       ],
       "error": null
@@ -450,33 +450,7 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "Is AI helping speeding up the medical research?",
-          "link": "https://www.reddit.com/r/artificial/comments/1x955ia/is_ai_helping_speeding_up_the_medical_research/",
-          "date": "2026-10-18T14:53:28+00:00"
-        },
-        {
-          "title": "AI lab offers free plumbing and HVAC repairs across three cities to train AI robots",
-          "link": "https://www.reddit.com/r/artificial/comments/1x8ux7x/ai_lab_offers_free_plumbing_and_hvac_repairs/",
-          "date": "2026-10-18T05:20:19+00:00"
-        },
-        {
-          "title": "Why are streaming services replacing perfect human made subtitles with AI subtitles with tons of mistakes?",
-          "link": "https://www.reddit.com/r/artificial/comments/1x8sjkb/why_are_streaming_services_replacing_perfect/",
-          "date": "2026-10-18T03:05:23+00:00"
-        },
-        {
-          "title": "AI or Wikipedia?",
-          "link": "https://www.reddit.com/r/artificial/comments/1x94b4y/ai_or_wikipedia/",
-          "date": "2026-10-18T14:16:33+00:00"
-        },
-        {
-          "title": "Distillation attack on OpenCode drains users' API keys for Anthropic, OpenAI, Google models",
-          "link": "https://www.reddit.com/r/artificial/comments/1x91a46/distillation_attack_on_opencode_drains_users_api/",
-          "date": "2026-10-18T11:49:21+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
@@ -580,6 +554,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Director Blows $1.5 Million Generating Horrendous AI Slop Movie, Says AI Actually Saved Him Tens of Millions",
+          "link": "https://futurism.com/artificial-intelligence/director-slop-movie-savings",
+          "date": "Sun, 18 Oct 2026 13:50:00 -0400"
+        },
+        {
           "title": "Bosses Deploying AI-Powered Spyware That Watches Workers Constantly",
           "link": "https://futurism.com/artificial-intelligence/bosses-ai-software-watches-workers",
           "date": "Sun, 18 Oct 2026 09:50:00 -0400"
@@ -598,11 +577,6 @@
           "title": "Using an AI Agent Makes You a Sucker for Phishing Emails",
           "link": "https://futurism.com/artificial-intelligence/ai-agent-sucker-phishing-emails",
           "date": "Sat, 17 Oct 2026 13:48:00 -0400"
-        },
-        {
-          "title": "Man Shows Up to AI Job Interview With His Own Helicopter AI to Interview for Him",
-          "link": "https://futurism.com/artificial-intelligence/man-shows-up-ai-job-interview-own-ai",
-          "date": "Sat, 17 Oct 2026 09:47:00 -0400"
         }
       ],
       "error": null
