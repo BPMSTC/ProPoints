@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T20:02:53.634507+00:00",
+  "generatedAt": "2026-10-18T22:44:04.234602+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Anthropic says it\u2019s committing 5% of its shares to a \u2018public benefit fund\u2019",
+          "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+          "date": "Sun, 18 Oct 2026 20:37:40 +0000"
+        },
+        {
           "title": "Disney agrees to hire the majority of Character.AI\u2019s workforce",
           "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
           "date": "Sun, 18 Oct 2026 16:30:00 +0000"
@@ -126,11 +131,6 @@
           "title": "Replit makes OpenAI its default over Anthropic, CEO says",
           "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
           "date": "Sat, 17 Oct 2026 18:48:08 +0000"
-        },
-        {
-          "title": "India becomes the latest country to report rogue AI agent activity",
-          "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-          "date": "Fri, 16 Oct 2026 17:52:24 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -258,6 +258,11 @@
           "date": "2026-10-18T19:25:46+00:00"
         },
         {
+          "title": "Become an AI and Cloud Computing Expert",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1x9d29u/become_an_ai_and_cloud_computing_expert/",
+          "date": "2026-10-18T20:10:27+00:00"
+        },
+        {
           "title": "I tested giving an AI agent direct access to housing and job databases",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1x8htu6/i_tested_giving_an_ai_agent_direct_access_to/",
           "date": "2026-10-17T18:43:07+00:00"
@@ -266,11 +271,6 @@
           "title": "byslef sends your prompts through openrouter only to these vetted servers. Cohere is the exception but ZDR indicators can tell you what is safe and not.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1x8dbfz/byslef_sends_your_prompts_through_openrouter_only/",
           "date": "2026-10-17T15:40:09+00:00"
-        },
-        {
-          "title": "How I vibe code - 10 prompts with complete examples",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1x8ik4k/how_i_vibe_code_10_prompts_with_complete_examples/",
-          "date": "2026-10-17T19:13:08+00:00"
         }
       ],
       "error": null
@@ -279,6 +279,11 @@
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
+        {
+          "title": "DeepSeek releases updated V4.1-Flash model it says completes tasks faster",
+          "link": "https://siliconangle.com/2026/10/18/deepseek-releases-updated-v4-1-flash-model-it-says-completes-tasks-faster/",
+          "date": "Sun, 18 Oct 2026 22:34:04 +0000"
+        },
         {
           "title": "ServiceNow AI Control Tower: Selling a penthouse while building the frame",
           "link": "https://siliconangle.com/2026/10/17/servicenow-ai-control-tower-selling-a-penthouse-while-building-the-frame/",
@@ -298,11 +303,6 @@
           "title": "What to expect during Dell\u2019s \u2018Cyber Resilience\u2019 event: Join theCUBE Oct. 27",
           "link": "https://siliconangle.com/2026/10/16/data-protection-ai-cybersecurity-resilience-dell-thecube-aicybersecurityandresiliencesummit/",
           "date": "Fri, 16 Oct 2026 20:57:06 +0000"
-        },
-        {
-          "title": "RapidCanvas raises $29M to develop custom AI applications for enterprises",
-          "link": "https://siliconangle.com/2026/10/16/rapidcanvas-raises-29m-to-develop-custom-ai-applications-for-enterprises/",
-          "date": "Fri, 16 Oct 2026 20:19:25 +0000"
         }
       ],
       "error": null
@@ -450,7 +450,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "Is anyone else feeling severe burnout from the current pace of AI releases?",
+          "link": "https://www.reddit.com/r/artificial/comments/1x98bit/is_anyone_else_feeling_severe_burnout_from_the/",
+          "date": "2026-10-18T17:02:46+00:00"
+        },
+        {
+          "title": "Is AI helping speeding up the medical research?",
+          "link": "https://www.reddit.com/r/artificial/comments/1x955ia/is_ai_helping_speeding_up_the_medical_research/",
+          "date": "2026-10-18T14:53:28+00:00"
+        },
+        {
+          "title": "What the Tech Oligarchy Needs to Understand",
+          "link": "https://www.reddit.com/r/artificial/comments/1x9f3m0/what_the_tech_oligarchy_needs_to_understand/",
+          "date": "2026-10-18T21:35:16+00:00"
+        },
+        {
+          "title": "Tomo Scared My Daughter",
+          "link": "https://www.reddit.com/r/artificial/comments/1x9fh4y/tomo_scared_my_daughter/",
+          "date": "2026-10-18T21:51:44+00:00"
+        },
+        {
+          "title": "AI lab offers free plumbing and HVAC repairs across three cities to train AI robots",
+          "link": "https://www.reddit.com/r/artificial/comments/1x8ux7x/ai_lab_offers_free_plumbing_and_hvac_repairs/",
+          "date": "2026-10-18T05:20:19+00:00"
+        }
+      ],
       "error": null
     },
     {
@@ -495,13 +521,13 @@
           "date": "Sun, 18 Oct 2026 10:00:56 GMT"
         },
         {
-          "title": "Wikipedia often gets taken for granted \u2013 but its history is fascinating, and its future is fragile",
-          "link": "https://www.theguardian.com/technology/2026/oct/18/wikipedia-human-history-ai-future-under-threat",
+          "title": "\u2018Not our friends\u2019: Victorian Coalition warns Advance\u2019s \u2018bizarre\u2019 campaign may cost it majority government",
+          "link": "https://www.theguardian.com/australia-news/2026/oct/19/victorian-election-advance-campaign-undermining-liberal-national-ntwnfb",
           "date": "Sun, 18 Oct 2026 14:00:02 GMT"
         },
         {
-          "title": "\u2018Not our friends\u2019: Victorian Coalition warns Advance\u2019s \u2018bizarre\u2019 campaign may cost it majority government",
-          "link": "https://www.theguardian.com/australia-news/2026/oct/19/victorian-election-advance-campaign-undermining-liberal-national-ntwnfb",
+          "title": "Wikipedia often gets taken for granted \u2013 but its history is fascinating, and its future is fragile",
+          "link": "https://www.theguardian.com/technology/2026/oct/18/wikipedia-human-history-ai-future-under-threat",
           "date": "Sun, 18 Oct 2026 14:00:02 GMT"
         },
         {
