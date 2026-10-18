@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T14:16:44.866108+00:00",
+  "generatedAt": "2026-10-18T17:47:05.995168+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Disney agrees to hire the majority of Character.AI\u2019s workforce",
+          "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+          "date": "Sun, 18 Oct 2026 16:30:00 +0000"
+        },
+        {
           "title": "Meta removes language that raised scraping and AI training concerns",
           "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
           "date": "Sat, 17 Oct 2026 21:31:32 +0000"
@@ -126,11 +131,6 @@
           "title": "India becomes the latest country to report rogue AI agent activity",
           "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
           "date": "Fri, 16 Oct 2026 17:52:24 +0000"
-        },
-        {
-          "title": "An Nvidia insider-turned-VC on why robotics hasn\u2019t hit its ChatGPT moment, yet",
-          "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-          "date": "Fri, 16 Oct 2026 16:30:00 +0000"
         }
       ],
       "error": null
@@ -420,6 +420,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Anthropic gives outside AI watchdog \u201cemployee-like\u201d access",
+          "link": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+          "date": "Sun, 18 Oct 2026 16:25:19 +0000"
+        },
+        {
           "title": "Science says your boss should talk less in meetings",
           "link": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
           "date": "Sat, 17 Oct 2026 11:15:11 +0000"
@@ -438,11 +443,6 @@
           "title": "\u201cthegentlemanpervert\u201d producing AI CSAM is a NJ prosecutor, say cops",
           "link": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
           "date": "Fri, 16 Oct 2026 20:20:07 +0000"
-        },
-        {
-          "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
-          "link": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/",
-          "date": "Fri, 16 Oct 2026 19:41:18 +0000"
         }
       ],
       "error": null
@@ -450,7 +450,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "Is AI helping speeding up the medical research?",
+          "link": "https://www.reddit.com/r/artificial/comments/1x955ia/is_ai_helping_speeding_up_the_medical_research/",
+          "date": "2026-10-18T14:53:28+00:00"
+        },
+        {
+          "title": "AI lab offers free plumbing and HVAC repairs across three cities to train AI robots",
+          "link": "https://www.reddit.com/r/artificial/comments/1x8ux7x/ai_lab_offers_free_plumbing_and_hvac_repairs/",
+          "date": "2026-10-18T05:20:19+00:00"
+        },
+        {
+          "title": "Why are streaming services replacing perfect human made subtitles with AI subtitles with tons of mistakes?",
+          "link": "https://www.reddit.com/r/artificial/comments/1x8sjkb/why_are_streaming_services_replacing_perfect/",
+          "date": "2026-10-18T03:05:23+00:00"
+        },
+        {
+          "title": "AI or Wikipedia?",
+          "link": "https://www.reddit.com/r/artificial/comments/1x94b4y/ai_or_wikipedia/",
+          "date": "2026-10-18T14:16:33+00:00"
+        },
+        {
+          "title": "Distillation attack on OpenCode drains users' API keys for Anthropic, OpenAI, Google models",
+          "link": "https://www.reddit.com/r/artificial/comments/1x91a46/distillation_attack_on_opencode_drains_users_api/",
+          "date": "2026-10-18T11:49:21+00:00"
+        }
+      ],
       "error": null
     },
     {
