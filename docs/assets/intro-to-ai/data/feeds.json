@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T05:41:10.217807+00:00",
+  "generatedAt": "2026-10-19T12:02:32.377227+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -70,6 +70,16 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "How deeptech companies can use  AI for smarter R&D bets",
+          "link": "https://www.aiacceleratorinstitute.com/how-deeptech-companies-can-use-ai-for-smarter-r-d-bets/",
+          "date": "Mon, 19 Oct 2026 10:51:47 GMT"
+        },
+        {
+          "title": "Here's your London highlights",
+          "link": "https://www.aiacceleratorinstitute.com/your-agenticlondon-highlights/",
+          "date": "Mon, 19 Oct 2026 09:43:32 GMT"
+        },
+        {
           "title": "Datadog Live Workshop",
           "link": "https://www.aiacceleratorinstitute.com/thanksforregistering-datadog/",
           "date": "Wed, 14 Oct 2026 14:56:43 GMT"
@@ -83,16 +93,6 @@
           "title": "From prompt to performance: The five stages of agentic merchandising",
           "link": "https://www.aiacceleratorinstitute.com/the-five-stages-of-agentic-merchandising/",
           "date": "Tue, 13 Oct 2026 14:28:44 GMT"
-        },
-        {
-          "title": "Your first robot hire is coming.  6 questions to ask before it arrives",
-          "link": "https://www.aiacceleratorinstitute.com/your-first-robot-hire-is-coming-6-questions-to-ask-before-it-arrives/",
-          "date": "Tue, 13 Oct 2026 08:19:19 GMT"
-        },
-        {
-          "title": "The 8 problems AI leaders face  right now, and the fix for each.",
-          "link": "https://www.aiacceleratorinstitute.com/the-8-problems-ai-leaders-face-right-now-and-the-fix-for-each/",
-          "date": "Mon, 12 Oct 2026 12:34:19 GMT"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -280,6 +280,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Pax8 launches 8os to let IT partners govern AI agents and 8bot as a managed AI co-worker",
+          "link": "https://siliconangle.com/2026/10/19/pax8-launches-8os-to-let-it-partners-govern-ai-agents-and-8bot-as-a-managed-ai-coworker/",
+          "date": "Mon, 19 Oct 2026 09:00:58 +0000"
+        },
+        {
           "title": "DeepSeek releases updated V4.1-Flash model it says completes tasks faster",
           "link": "https://siliconangle.com/2026/10/18/deepseek-releases-updated-v4-1-flash-model-it-says-completes-tasks-faster/",
           "date": "Sun, 18 Oct 2026 22:34:04 +0000"
@@ -298,11 +303,6 @@
           "title": "Reflection AI open-sources Beam\u2019s weights, post-training recipes",
           "link": "https://siliconangle.com/2026/10/16/reflection-ai-open-sources-beams-weights-post-training-recipes/",
           "date": "Fri, 16 Oct 2026 22:52:38 +0000"
-        },
-        {
-          "title": "What to expect during Dell\u2019s \u2018Cyber Resilience\u2019 event: Join theCUBE Oct. 27",
-          "link": "https://siliconangle.com/2026/10/16/data-protection-ai-cybersecurity-resilience-dell-thecube-aicybersecurityandresiliencesummit/",
-          "date": "Fri, 16 Oct 2026 20:57:06 +0000"
         }
       ],
       "error": null
@@ -356,29 +356,29 @@
       "url": "https://analyticsindiamag.com/feed/",
       "items": [
         {
-          "title": "Coursera Brings Project Helix to Bengaluru to Focus on Building Karnataka\u2019s AI-Ready Workforce",
-          "link": "https://analyticsindiamag.com/ai-news/coursera-brings-project-helix-to-bengaluru-to-focus-on-building-karnatakas-ai-ready-workforce",
-          "date": "Mon, 19 Oct 2026 05:09:48 GMT"
+          "title": "Can Zero Egress Give Cloudflare an Edge in Data Platform Market?",
+          "link": "https://analyticsindiamag.com/ai-features/can-zero-egress-give-cloudflare-an-edge-in-data-platform-market",
+          "date": "Mon, 19 Oct 2026 11:30:00 GMT"
         },
         {
-          "title": "Tech Mahindra Lifted Margins for 12 Quarters. AI Is the Next Test",
-          "link": "https://analyticsindiamag.com/it-services/tech-mahindra-lifted-margins-for-12-quarters-ai-is-the-next-test",
-          "date": "Mon, 19 Oct 2026 04:12:17 GMT"
+          "title": "The Next Limits on AI May Be Physical",
+          "link": "https://analyticsindiamag.com/ai-features/the-next-limits-on-ai-may-be-physical",
+          "date": "Mon, 19 Oct 2026 10:12:10 GMT"
         },
         {
-          "title": "Wipro\u2019s Deal Slump Puts Its AI Growth Story to the Test",
-          "link": "https://analyticsindiamag.com/it-services/wipros-deal-slump-puts-its-ai-growth-story-to-the-test",
-          "date": "Sat, 17 Oct 2026 04:49:57 GMT"
+          "title": "Claude Code is 3x Faster, Thanks to a 34 Year Old Tool",
+          "link": "https://analyticsindiamag.com/ai-news/claude-code-is-3x-faster-thanks-to-a-34-year-old-tool",
+          "date": "Mon, 19 Oct 2026 08:30:58 GMT"
         },
         {
-          "title": "CERT-In Warns AI Agents Are Accessing Indian Systems Without Authorisation",
-          "link": "https://analyticsindiamag.com/ai-news/cert-in-warns-ai-agents-are-accessing-indian-systems-without-authorisation",
-          "date": "Fri, 16 Oct 2026 10:11:42 GMT"
+          "title": "AI Agent Breach Exposes Flaws in India\u2019s Autonomous System Defences",
+          "link": "https://analyticsindiamag.com/ai-features/ai-agent-breach-exposes-flaws-in-indias-autonomous-system-defences",
+          "date": "Mon, 19 Oct 2026 07:52:00 GMT"
         },
         {
-          "title": "NVIDIA Expands Nemotron AI Models for Data Centres and Desktop Devices",
-          "link": "https://analyticsindiamag.com/ai-news/nvidia-expands-nemotron-ai-models-for-data-centres-and-desktop-devices",
-          "date": "Fri, 16 Oct 2026 08:48:24 GMT"
+          "title": "Anthropic to Set Aside 5% Stock for New Public Benefit Fund",
+          "link": "https://analyticsindiamag.com/ai-news/anthropic-to-set-aside-5-stock-for-new-public-benefit-fund",
+          "date": "Mon, 19 Oct 2026 07:50:02 GMT"
         }
       ],
       "error": null
@@ -403,13 +403,13 @@
           "date": "Thu, 15 Oct 2026 20:34:01 GMT"
         },
         {
-          "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-          "link": "https://huggingface.co/blog/meta-muse-spark-open",
-          "date": "Thu, 15 Oct 2026 00:00:00 GMT"
+          "title": "Apertus 1.5 Release Notes",
+          "link": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+          "date": "Thu, 15 Oct 2026 09:08:45 GMT"
         },
         {
-          "title": "Welcome FLUX.3 Image Klein in Diffusers",
-          "link": "https://huggingface.co/blog/flux-3",
+          "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+          "link": "https://huggingface.co/blog/meta-muse-spark-open",
           "date": "Thu, 15 Oct 2026 00:00:00 GMT"
         }
       ],
@@ -490,9 +490,14 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "World Bank says \u2018small AI\u2019 could transform developing countries",
-          "link": "https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies",
-          "date": "Sun, 18 Oct 2026 10:00:56 GMT"
+          "title": "US teens can access \u2018nudify\u2019 apps despite Apple and Google\u2019s parental controls, report finds",
+          "link": "https://www.theguardian.com/technology/2026/oct/19/us-teens-nudify-apps-apple-google-parental-controls",
+          "date": "Mon, 19 Oct 2026 10:00:05 GMT"
+        },
+        {
+          "title": "AI firm Anthropic to commit 5% of shares to fund for \u2018public good\u2019",
+          "link": "https://www.theguardian.com/technology/2026/oct/19/ai-firm-anthropic-to-commit-shares-to-fund-for-public-good",
+          "date": "Mon, 19 Oct 2026 11:10:34 GMT"
         },
         {
           "title": "Kylie Minogue songs already used to train AI as tech firms \u2018strong-arm\u2019 Australian government, music body warns",
@@ -500,19 +505,14 @@
           "date": "Mon, 19 Oct 2026 00:57:46 GMT"
         },
         {
-          "title": "Wikipedia often gets taken for granted \u2013 but its history is fascinating, and its future is fragile",
-          "link": "https://www.theguardian.com/technology/2026/oct/18/wikipedia-human-history-ai-future-under-threat",
-          "date": "Sun, 18 Oct 2026 14:00:02 GMT"
-        },
-        {
           "title": "\u2018Not our friends\u2019: Victorian Coalition warns Advance\u2019s \u2018bizarre\u2019 AI campaign may cost it majority government",
           "link": "https://www.theguardian.com/australia-news/2026/oct/19/victorian-election-advance-campaign-undermining-liberal-national-ntwnfb",
           "date": "Sun, 18 Oct 2026 14:00:02 GMT"
         },
         {
-          "title": "What are self-replicating \u2018AI worms\u2019, and why is Anthropic worried about them?",
-          "link": "https://www.theguardian.com/technology/2026/oct/18/anthropic-ai-worm-worries",
-          "date": "Sun, 18 Oct 2026 13:30:00 GMT"
+          "title": "Wikipedia often gets taken for granted \u2013 but its history is fascinating, and its future is fragile",
+          "link": "https://www.theguardian.com/technology/2026/oct/18/wikipedia-human-history-ai-future-under-threat",
+          "date": "Sun, 18 Oct 2026 14:00:02 GMT"
         }
       ],
       "error": null
@@ -586,6 +586,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
+          "link": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+          "date": "Mon, 19 Oct 2026 09:00:00 +0000"
+        },
+        {
           "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
           "link": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
           "date": "Sun, 18 Oct 2026 10:30:00 +0000"
@@ -604,11 +609,6 @@
           "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It\u2019s Even Weirder Than It Sounds",
           "link": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
           "date": "Fri, 16 Oct 2026 20:05:08 +0000"
-        },
-        {
-          "title": "Maybe Chatbots Shouldn\u2019t Get to Say \u2018I\u2019 or \u2018Me\u2019",
-          "link": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
-          "date": "Fri, 16 Oct 2026 15:00:00 +0000"
         }
       ],
       "error": null
