@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-10-19T18:58:21.546162+00:00",
+  "generatedAt": "2026-10-19T22:50:04.935558+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "'It Ain't Right:' Texas Said It Would Halt Data Center Permits. The State is Pushing Ahead Anyway",
+          "link": "https://www.404media.co/it-aint-right-texas-said-it-would-halt-data-center-permits-the-state-is-pushing-ahead-anyway/",
+          "date": "Mon, 19 Oct 2026 21:40:42 GMT"
+        },
         {
           "title": "Police Say Scammers Used AI to Clone a Sheriff\u2019s Voice",
           "link": "https://www.404media.co/police-say-scammers-used-ai-to-clone-a-sheriffs-voice/",
@@ -24,11 +29,6 @@
           "title": "This Might Be the Earliest Known Spear Murder In Earth\u2019s History",
           "link": "https://www.404media.co/this-might-be-the-earliest-known-spear-murder-in-earths-history/",
           "date": "Sat, 17 Oct 2026 13:36:29 GMT"
-        },
-        {
-          "title": "Behind the Blog: Doing Whatever",
-          "link": "https://www.404media.co/behind-the-blog-doing-whatever/",
-          "date": "Fri, 16 Oct 2026 16:43:19 GMT"
         }
       ],
       "error": null
@@ -108,29 +108,29 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
-          "title": "Replika\u2019s founder built the AI assistant she pitched at Disrupt 12 years ago",
-          "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-          "date": "Mon, 19 Oct 2026 18:49:04 +0000"
+          "title": "Embedded AI evaluators won\u2019t be an easy solution, Hugging Face\u2019s policy chief says",
+          "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+          "date": "Mon, 19 Oct 2026 22:49:27 +0000"
         },
         {
-          "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-          "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-          "date": "Mon, 19 Oct 2026 18:37:27 +0000"
+          "title": "Microsoft says AI agents are like insider threats as \u2018frontier models can\u2019t be trusted\u2019",
+          "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+          "date": "Mon, 19 Oct 2026 22:04:28 +0000"
         },
         {
-          "title": "People are using AI to make their smart TVs dumb again",
-          "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-          "date": "Mon, 19 Oct 2026 16:13:22 +0000"
+          "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+          "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+          "date": "Mon, 19 Oct 2026 20:09:24 +0000"
         },
         {
-          "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-          "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
-          "date": "Mon, 19 Oct 2026 15:37:09 +0000"
+          "title": "Hackers hit AI coding tool OpenCode, running up charges on users\u2019 AI accounts",
+          "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+          "date": "Mon, 19 Oct 2026 19:28:34 +0000"
         },
         {
-          "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-          "link": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-          "date": "Mon, 19 Oct 2026 12:30:00 +0000"
+          "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+          "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+          "date": "Mon, 19 Oct 2026 19:00:12 +0000"
         }
       ],
       "error": null
@@ -139,6 +139,16 @@
       "name": "AI Business",
       "url": "https://aibusiness.com/rss.xml",
       "items": [
+        {
+          "title": "Microsoft could hold an advantage with Copilot for Legal",
+          "link": "https://aibusiness.com/generative-ai/microsoft-could-hold-advantage-copilot-for-legal",
+          "date": "Mon, 19 Oct 2026 21:38:11 GMT"
+        },
+        {
+          "title": "How Boston is becoming a physical AI hub",
+          "link": "https://aibusiness.com/robotics/how-boston-is-becoming-a-physical-ai-hub",
+          "date": "Mon, 19 Oct 2026 19:25:18 GMT"
+        },
         {
           "title": "Robot company bets touch, sound can give bots an edge over vision AI",
           "link": "https://aibusiness.com/robotics/robot-company-bets-touch-sound-give-bots-edge-over-vision-ai",
@@ -153,16 +163,6 @@
           "title": "Prompt: Enterprise controls can't keep up with AI agents",
           "link": "https://aibusiness.com/agentic-ai/prompt-enterprise-controls-can-t-keep-up-with-ai-agents",
           "date": "Fri, 16 Oct 2026 15:30:14 GMT"
-        },
-        {
-          "title": "Robots can't talk to each other yet -- that's a big AI bottleneck",
-          "link": "https://aibusiness.com/robotics/untitled",
-          "date": "Fri, 16 Oct 2026 14:57:10 GMT"
-        },
-        {
-          "title": "IBM: Agentic AI is reshaping governance, controls and trust",
-          "link": "https://aibusiness.com/generative-ai/ibm-agentic-ai-reshaping-governance-controls-trust",
-          "date": "Wed, 14 Oct 2026 20:35:20 GMT"
         }
       ],
       "error": null
@@ -280,6 +280,21 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Nvidia, Dell back $200M round for AI model developer doubleAI",
+          "link": "https://siliconangle.com/2026/10/19/nvidia-dell-back-200m-round-for-ai-model-developer-doubleai/",
+          "date": "Mon, 19 Oct 2026 22:49:59 +0000"
+        },
+        {
+          "title": "MiniMax launches M3.1 Flash model, says it cuts AI agent costs by 70%",
+          "link": "https://siliconangle.com/2026/10/19/minimax-launches-m3-1-flash-model-says-it-cuts-ai-agent-costs-by-70/",
+          "date": "Mon, 19 Oct 2026 22:25:50 +0000"
+        },
+        {
+          "title": "NiCE bets the company on AI, data and accountability, and the legacy business buys it time",
+          "link": "https://siliconangle.com/2026/10/19/nice-bets-the-company-on-ai-data-and-accountability-and-the-legacy-business-buys-it-time/",
+          "date": "Mon, 19 Oct 2026 19:03:43 +0000"
+        },
+        {
           "title": "Motive brings agentic AI to physical operations with agents that act before problems escalate",
           "link": "https://siliconangle.com/2026/10/19/motive-brings-agentic-ai-to-physical-operations-with-agents-that-act-before-problems-escalate/",
           "date": "Mon, 19 Oct 2026 14:46:47 +0000"
@@ -288,21 +303,6 @@
           "title": "Motive Technologies revs up new AI Agents to automate fleet management",
           "link": "https://siliconangle.com/2026/10/19/motive-technologies-revs-up-new-ai-agents-to-automate-fleet-management/",
           "date": "Mon, 19 Oct 2026 13:00:16 +0000"
-        },
-        {
-          "title": "Pax8 launches 8os to let IT partners govern AI agents and 8bot as a managed AI co-worker",
-          "link": "https://siliconangle.com/2026/10/19/pax8-launches-8os-to-let-it-partners-govern-ai-agents-and-8bot-as-a-managed-ai-coworker/",
-          "date": "Mon, 19 Oct 2026 09:00:58 +0000"
-        },
-        {
-          "title": "DeepSeek releases updated V4.1-Flash model it says completes tasks faster",
-          "link": "https://siliconangle.com/2026/10/18/deepseek-releases-updated-v4-1-flash-model-it-says-completes-tasks-faster/",
-          "date": "Sun, 18 Oct 2026 22:34:04 +0000"
-        },
-        {
-          "title": "ServiceNow AI Control Tower: Selling a penthouse while building the frame",
-          "link": "https://siliconangle.com/2026/10/17/servicenow-ai-control-tower-selling-a-penthouse-while-building-the-frame/",
-          "date": "Sat, 17 Oct 2026 14:49:22 +0000"
         }
       ],
       "error": null
@@ -311,6 +311,11 @@
       "name": "AI Snake Oil",
       "url": "https://www.normaltech.ai/feed",
       "items": [
+        {
+          "title": "New paper: Emerging trends in AI agent evaluation",
+          "link": "https://www.normaltech.ai/p/new-paper-emerging-trends-in-ai-agent",
+          "date": "Mon, 19 Oct 2026 20:11:55 GMT"
+        },
         {
           "title": "Steering AI Beyond Automation",
           "link": "https://www.normaltech.ai/p/steering-ai-beyond-automation",
@@ -330,11 +335,6 @@
           "title": "The AI-as-Normal-Technology view of loss-of-control incidents",
           "link": "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
           "date": "Mon, 14 Sep 2026 10:30:14 GMT"
-        },
-        {
-          "title": "AI agents can't yet do open-ended AI research",
-          "link": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
-          "date": "Wed, 05 Aug 2026 13:49:19 GMT"
         }
       ],
       "error": null
@@ -388,6 +388,11 @@
       "url": "https://huggingface.co/blog/feed.xml",
       "items": [
         {
+          "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+          "link": "https://huggingface.co/blog/hf-torchneuron",
+          "date": "Mon, 19 Oct 2026 00:00:00 GMT"
+        },
+        {
           "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
           "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
           "date": "Fri, 16 Oct 2026 01:44:47 GMT"
@@ -406,11 +411,6 @@
           "title": "Apertus 1.5 Release Notes",
           "link": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
           "date": "Thu, 15 Oct 2026 09:08:45 GMT"
-        },
-        {
-          "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-          "link": "https://huggingface.co/blog/meta-muse-spark-open",
-          "date": "Thu, 15 Oct 2026 00:00:00 GMT"
         }
       ],
       "error": null
@@ -420,29 +420,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Huge DMV data breach impacted current and former Florida residents",
-          "link": "https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents/",
-          "date": "Mon, 19 Oct 2026 16:38:13 +0000"
+          "title": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
+          "link": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
+          "date": "Mon, 19 Oct 2026 20:54:17 +0000"
         },
         {
-          "title": "Disney found a way to buy Character.AI without buying its lawsuits",
-          "link": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
-          "date": "Mon, 19 Oct 2026 14:45:43 +0000"
+          "title": "Accused OpenAI spy had folder called \u201cSaudi Gov Docs,\u201d FBI says",
+          "link": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+          "date": "Mon, 19 Oct 2026 20:21:53 +0000"
         },
         {
-          "title": "A Chinese rocket deorbited over Minnesota and left this in a farmer's cornfield",
-          "link": "https://arstechnica.com/space/2026/10/a-chinese-rocket-deorbited-over-minnesota-and-left-this-in-a-farmers-cornfield/",
-          "date": "Mon, 19 Oct 2026 14:35:01 +0000"
+          "title": "Batteries help reduce emissions, but how do we reduce their emissions?",
+          "link": "https://arstechnica.com/science/2026/10/batteries-have-a-small-carbon-footprint-we-can-make-it-smaller/",
+          "date": "Mon, 19 Oct 2026 20:03:55 +0000"
         },
         {
-          "title": "Review: Lanterns is a truly unique twist on the superhero genre",
-          "link": "https://arstechnica.com/culture/2026/10/review-lanterns-is-a-truly-unique-twist-on-the-superhero-genre/",
-          "date": "Mon, 19 Oct 2026 13:31:08 +0000"
+          "title": "PSA: Patch your Plex media server before someone hacks it",
+          "link": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
+          "date": "Mon, 19 Oct 2026 19:39:19 +0000"
         },
         {
-          "title": "DIY VR: How to build your own headset, and why you probably won't want to",
-          "link": "https://arstechnica.com/gadgets/2026/10/diy-vr-how-to-build-your-own-headset-and-why-you-probably-wont-want-to/",
-          "date": "Mon, 19 Oct 2026 12:33:34 +0000"
+          "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
+          "link": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+          "date": "Mon, 19 Oct 2026 19:27:24 +0000"
         }
       ],
       "error": null
@@ -458,6 +458,16 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "New AI shopping agents promise better bargains. But who pays the price?",
+          "link": "https://theconversation.com/new-ai-shopping-agents-promise-better-bargains-but-who-pays-the-price-294461",
+          "date": "2026-10-19T19:15:36Z"
+        },
+        {
+          "title": "Where does all the hardware go? The hidden environmental footprint of AI data centres",
+          "link": "https://theconversation.com/where-does-all-the-hardware-go-the-hidden-environmental-footprint-of-ai-data-centres-292732",
+          "date": "2026-10-19T18:59:17Z"
+        },
+        {
           "title": "Why calling for a \u2018kill switch\u2019 is the wrong way to think about reining in AI",
           "link": "https://theconversation.com/why-calling-for-a-kill-switch-is-the-wrong-way-to-think-about-reining-in-ai-293329",
           "date": "2026-10-19T12:34:56Z"
@@ -471,16 +481,6 @@
           "title": "Data centres: Opposing them and developing them are not the only two choices",
           "link": "https://theconversation.com/data-centres-opposing-them-and-developing-them-are-not-the-only-two-choices-291528",
           "date": "2026-10-18T12:23:10Z"
-        },
-        {
-          "title": "Can AI screen for heart disease using photos of your tongue and face?",
-          "link": "https://theconversation.com/can-ai-screen-for-heart-disease-using-photos-of-your-tongue-and-face-294192",
-          "date": "2026-10-16T12:46:34Z"
-        },
-        {
-          "title": "Kids and teens are going to AI chatbots for advice. How can parents make sure this is safe?",
-          "link": "https://theconversation.com/kids-and-teens-are-going-to-ai-chatbots-for-advice-how-can-parents-make-sure-this-is-safe-294145",
-          "date": "2026-10-16T03:26:33Z"
         }
       ],
       "error": null
@@ -490,9 +490,9 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "US teens can access \u2018nudify\u2019 apps despite Apple and Google\u2019s parental controls, report finds",
-          "link": "https://www.theguardian.com/technology/2026/oct/19/us-teens-nudify-apps-apple-google-parental-controls",
-          "date": "Mon, 19 Oct 2026 10:00:05 GMT"
+          "title": "New AI tool can predict cancer survival by a single patient selfie, study suggests",
+          "link": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
+          "date": "Mon, 19 Oct 2026 22:30:08 GMT"
         },
         {
           "title": "We need to stop disinformation in UK political adverts. Here\u2019s a chance to do so | Letter",
@@ -510,9 +510,9 @@
           "date": "Mon, 19 Oct 2026 12:51:04 GMT"
         },
         {
-          "title": "Kylie Minogue songs already used to train AI as tech firms \u2018strong-arm\u2019 Australian government, music body warns",
-          "link": "https://www.theguardian.com/music/2026/oct/19/australia-music-global-copywright-outlier-ai-music-body-warnsns",
-          "date": "Mon, 19 Oct 2026 00:57:46 GMT"
+          "title": "US teens can access \u2018nudify\u2019 apps despite Apple and Google\u2019s parental controls, report finds",
+          "link": "https://www.theguardian.com/technology/2026/oct/19/us-teens-nudify-apps-apple-google-parental-controls",
+          "date": "Mon, 19 Oct 2026 10:00:05 GMT"
         }
       ],
       "error": null
@@ -552,13 +552,44 @@
     {
       "name": "Artificial Intelligence \u2013 Futurism",
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
-      "items": [],
-      "error": "<unknown>:2:39: junk after document element"
+      "items": [
+        {
+          "title": "Political Candidates Spending An Obscene Amount of Money on AI-Generated Election Slop",
+          "link": "https://futurism.com/artificial-intelligence/political-candidates-spending-money-ai-generated-election-slop",
+          "date": "Mon, 19 Oct 2026 16:40:46 -0400"
+        },
+        {
+          "title": "IMF Warns That AI Bubble Could Take Down the Entire World Economy",
+          "link": "https://futurism.com/future-society/imf-ai-bubble-world-economy",
+          "date": "Mon, 19 Oct 2026 14:59:16 -0400"
+        },
+        {
+          "title": "Anthropic Secretly Lobbying Government to Only Shut Down an AI Model If It\u2019s Poised to Kill More Than 50 People",
+          "link": "https://futurism.com/artificial-intelligence/anthropic-regulation-government-ai-harm-risk",
+          "date": "Mon, 19 Oct 2026 12:36:08 -0400"
+        },
+        {
+          "title": "Explosive Document Claims That AI Is Not What We Think",
+          "link": "https://futurism.com/artificial-intelligence/explosive-document-ai-not-what-we-think",
+          "date": "Mon, 19 Oct 2026 11:36:49 -0400"
+        },
+        {
+          "title": "GLP-1 Apps Are Using Sobbing AI-Generated Women To Market Their Products",
+          "link": "https://futurism.com/artificial-intelligence/glp-1-apps-sobbing-ai-women",
+          "date": "Mon, 19 Oct 2026 10:18:12 -0400"
+        }
+      ],
+      "error": null
     },
     {
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
+          "link": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
+          "date": "Mon, 19 Oct 2026 19:49:17 +0000"
+        },
         {
           "title": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
           "link": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
@@ -578,11 +609,6 @@
           "title": "Data Centers Have a New PR Plan: Your Kid\u2019s Field Trip",
           "link": "https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/",
           "date": "Sun, 18 Oct 2026 10:30:00 +0000"
-        },
-        {
-          "title": "Why AI Isn\u2019t Ready to Tackle Our Convoluted Genomes",
-          "link": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
-          "date": "Sat, 17 Oct 2026 09:00:00 +0000"
         }
       ],
       "error": null
