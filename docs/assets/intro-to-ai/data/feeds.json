@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T07:00:15.865055+00:00",
+  "generatedAt": "2026-10-21T12:51:50.197151+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -140,6 +140,11 @@
       "url": "https://aibusiness.com/rss.xml",
       "items": [
         {
+          "title": "DeepSeek makes DeepInfer open source to cut AI costs",
+          "link": "https://aibusiness.com/generative-ai/deepseek-makes-deepinfer-open-source-cut-ai-costs",
+          "date": "Wed, 21 Oct 2026 12:00:12 GMT"
+        },
+        {
           "title": "Smartsheet takes a people approach with AI adoption",
           "link": "https://aibusiness.com/generative-ai/smartsheet-takes-people-approach-ai-adoption",
           "date": "Tue, 20 Oct 2026 11:50:33 GMT"
@@ -158,11 +163,6 @@
           "title": "Robot company bets touch, sound can give bots an edge over vision AI",
           "link": "https://aibusiness.com/robotics/robot-company-bets-touch-sound-give-bots-edge-over-vision-ai",
           "date": "Mon, 19 Oct 2026 18:34:51 GMT"
-        },
-        {
-          "title": "Open source and on device: the strategy behind Nvidia\u2019s new AI models",
-          "link": "https://aibusiness.com/generative-ai/open-source-on-device-strategy-behind-nvidia-s-new-ai-models",
-          "date": "Fri, 16 Oct 2026 18:26:14 GMT"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -253,6 +253,16 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "Elegant & Simple Fix",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xbllhk/elegant_simple_fix/",
+          "date": "2026-10-21T12:18:45+00:00"
+        },
+        {
+          "title": "We set up voice AI Agents to handle 5000+ monthly customer calls with zero added staff",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xaqbtl/we_set_up_voice_ai_agents_to_handle_5000_monthly/",
+          "date": "2026-10-20T12:04:44+00:00"
+        },
+        {
           "title": "OpenCode had a security breach where attackers stole connected OpenAI Anthropic and Google keys to run a massive distillation attack",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xac0xr/opencode_had_a_security_breach_where_attackers/",
           "date": "2026-10-19T23:06:21+00:00"
@@ -261,16 +271,6 @@
           "title": "Gemini Argon\u274c Gemini (Are-Gone)\u2705 \ud83e\udd23",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xa5a1j/gemini_argon_gemini_aregone/",
           "date": "2026-10-19T18:44:33+00:00"
-        },
-        {
-          "title": "I built a free app to run your agents on 4.8 W or less in clamshell mode with additional power savings (and why caffeinate can't do this)",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xabqaa/i_built_a_free_app_to_run_your_agents_on_48_w_or/",
-          "date": "2026-10-19T22:53:26+00:00"
-        },
-        {
-          "title": "[Showcase Sunday] We built Coterie: the first multi-model orchestrator where rival AI agents plan, code, and audit software as a real engineering team",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1x9bxsz/showcase_sunday_we_built_coterie_the_first/",
-          "date": "2026-10-18T19:25:46+00:00"
         }
       ],
       "error": null
@@ -356,29 +356,29 @@
       "url": "https://analyticsindiamag.com/feed/",
       "items": [
         {
-          "title": "Meet the Winners of AIM Chess League 2026",
-          "link": "https://analyticsindiamag.com/ai-highlights/meet-the-winners-of-aim-chess-league-2026",
-          "date": "Wed, 21 Oct 2026 06:46:20 GMT"
+          "title": "From Humanoid Robots to Telecom Trials, 12 Major Announcements at NVIDIA GTC Berlin 2026",
+          "link": "https://analyticsindiamag.com/deep-tech/from-humanoid-robots-to-telecom-trials-12-major-announcements-at-nvidia-gtc-berlin-2026",
+          "date": "Wed, 21 Oct 2026 12:21:23 GMT"
         },
         {
-          "title": "OpenAI Seeks $30 Bn Funding at $1.4 Tn Valuation Ahead of Anthropic IPO: Report",
-          "link": "https://analyticsindiamag.com/ai-news/openai-seeks-30-bn-funding-at-14-tn-valuation-ahead-of-anthropic-ipo-report",
-          "date": "Wed, 21 Oct 2026 05:47:19 GMT"
+          "title": "43% of Indian Enterprises Struggle to Control AI Costs: Splunk Report",
+          "link": "https://analyticsindiamag.com/ai-news/43-of-indian-enterprises-struggle-to-control-ai-costs-splunk-report",
+          "date": "Wed, 21 Oct 2026 12:06:55 GMT"
         },
         {
-          "title": "Salesforce to Acquire Braze for $5.66 Bn to Strengthen AI Customer Marketing",
-          "link": "https://analyticsindiamag.com/ai-news/salesforce-to-acquire-braze-for-566-bn-to-strengthen-ai-customer-marketing",
-          "date": "Wed, 21 Oct 2026 04:50:58 GMT"
+          "title": "Microsoft Proposes Guardian Agents to Secure Enterprise AI",
+          "link": "https://analyticsindiamag.com/ai-news/microsoft-proposes-guardian-agents-to-secure-enterprise-ai",
+          "date": "Wed, 21 Oct 2026 11:54:32 GMT"
         },
         {
-          "title": "ElevenLabs Launches Real-Time Voice AI Models With Up to 98.8% Speech Reasoning Accuracy",
-          "link": "https://analyticsindiamag.com/ai-news/elevenlabs-launches-real-time-voice-ai-models-with-up-to-988-speech-reasoning-accuracy",
-          "date": "Wed, 21 Oct 2026 04:46:38 GMT"
+          "title": "OpenAI Acquires Pharma Co Orchestra Bio to Build AI Agents for Drug Development",
+          "link": "https://analyticsindiamag.com/ai-news/openai-acquires-pharma-co-orchestra-bio-to-build-ai-agents-for-drug-development",
+          "date": "Wed, 21 Oct 2026 11:51:35 GMT"
         },
         {
-          "title": "Browsers Block eMudhra Certificates After Key Flaw",
-          "link": "https://analyticsindiamag.com/ai-news/browsers-block-emudhra-certificates-after-key-flaw",
-          "date": "Wed, 21 Oct 2026 04:34:00 GMT"
+          "title": "US Orders DeepSeek Removal From Federal Civilian Systems Over National Security Concerns",
+          "link": "https://analyticsindiamag.com/ai-news/us-orders-deepseek-removal-from-federal-civilian-systems-over-national-security-concerns",
+          "date": "Wed, 21 Oct 2026 11:28:42 GMT"
         }
       ],
       "error": null
@@ -388,9 +388,9 @@
       "url": "https://huggingface.co/blog/feed.xml",
       "items": [
         {
-          "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-          "link": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-          "date": "Tue, 20 Oct 2026 18:17:47 GMT"
+          "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+          "link": "https://huggingface.co/blog/nvidia/kumo-forecast",
+          "date": "Wed, 21 Oct 2026 12:51:24 GMT"
         },
         {
           "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
@@ -458,6 +458,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "View from The Hill: Mathias Cormann offers blunt advice on countering populism and reforming the economy",
+          "link": "https://theconversation.com/view-from-the-hill-mathias-cormann-offers-blunt-advice-on-countering-populism-and-reforming-the-economy-294860",
+          "date": "2026-10-21T06:45:28Z"
+        },
+        {
           "title": "Using AI to plan your next holiday? Sometimes, too much information is just too much",
           "link": "https://theconversation.com/using-ai-to-plan-your-next-holiday-sometimes-too-much-information-is-just-too-much-292686",
           "date": "2026-10-20T19:03:10Z"
@@ -476,11 +481,6 @@
           "title": "Politics with Michelle Grattan: Ed Husic urges brakes on data centres \u2018swamping\u2019 Australia",
           "link": "https://theconversation.com/politics-with-michelle-grattan-ed-husic-urges-brakes-on-data-centres-swamping-australia-294687",
           "date": "2026-10-20T01:02:23Z"
-        },
-        {
-          "title": "New AI shopping agents promise better bargains. But who pays the price?",
-          "link": "https://theconversation.com/new-ai-shopping-agents-promise-better-bargains-but-who-pays-the-price-294461",
-          "date": "2026-10-19T19:15:36Z"
         }
       ],
       "error": null
@@ -493,6 +493,11 @@
           "title": "Labor and the Coalition are poised to take a reckless gamble on AI. Haven\u2019t they realised community support has collapsed? | Edward Santow and Sarah Sacher",
           "link": "https://www.theguardian.com/technology/commentisfree/2026/oct/21/labor-coalition-poised-to-take-reckless-gamble-on-ai-joint-select-committee",
           "date": "Tue, 20 Oct 2026 14:00:38 GMT"
+        },
+        {
+          "title": "As fans reject AI-generated music, even boosters are drawing the line",
+          "link": "https://www.theguardian.com/music/2026/oct/21/artificial-intelligence-music-grimes-asap-rocky",
+          "date": "Wed, 21 Oct 2026 12:00:17 GMT"
         },
         {
           "title": "Americans, this is your chance to slap down the tech broligarchs",
@@ -508,11 +513,6 @@
           "title": "Could this be a Deep Blue moment for the cryptic crossword?",
           "link": "https://www.theguardian.com/puzzles/crossword-blog/2026/oct/20/could-this-be-a-deep-blue-moment-for-the-cryptic-crossword",
           "date": "Tue, 20 Oct 2026 15:27:50 GMT"
-        },
-        {
-          "title": "The dangers of letting tech billionaires shape our world",
-          "link": "https://www.theguardian.com/global/2026/oct/19/musk-ukraine-ai-music",
-          "date": "Tue, 20 Oct 2026 14:31:45 GMT"
         }
       ],
       "error": null
@@ -586,6 +586,21 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "A Design Flaw in Share Links Exposes Users\u2019 Personal Conversations With Meta\u2019s Muse",
+          "link": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/",
+          "date": "Wed, 21 Oct 2026 12:35:00 +0000"
+        },
+        {
+          "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
+          "link": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/",
+          "date": "Wed, 21 Oct 2026 10:30:00 +0000"
+        },
+        {
+          "title": "Europe Wants Data Centers. Its Climate Goals Are Getting in the Way",
+          "link": "https://www.wired.com/story/europe-data-centers-climate-change/",
+          "date": "Wed, 21 Oct 2026 08:30:00 +0000"
+        },
+        {
           "title": "French Government Calls Emergency Meetings With Platforms Over Protests",
           "link": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
           "date": "Tue, 20 Oct 2026 17:41:58 +0000"
@@ -594,21 +609,6 @@
           "title": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
           "link": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
           "date": "Tue, 20 Oct 2026 15:07:43 +0000"
-        },
-        {
-          "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
-          "link": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
-          "date": "Mon, 19 Oct 2026 19:49:17 +0000"
-        },
-        {
-          "title": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
-          "link": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
-          "date": "Mon, 19 Oct 2026 16:00:00 +0000"
-        },
-        {
-          "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
-          "link": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
-          "date": "Mon, 19 Oct 2026 09:00:00 +0000"
         }
       ],
       "error": null
