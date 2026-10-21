@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T17:53:00.893054+00:00",
+  "generatedAt": "2026-10-21T21:13:09.628880+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,16 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+          "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+          "date": "Wed, 21 Oct 2026 20:27:41 +0000"
+        },
+        {
+          "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+          "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+          "date": "Wed, 21 Oct 2026 19:30:00 +0000"
+        },
+        {
           "title": "AI promises productivity, but for managers, it\u2019s mostly a headache for now",
           "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
           "date": "Wed, 21 Oct 2026 14:00:00 +0000"
@@ -121,16 +131,6 @@
           "title": "Hugging Face CEO warns that Netflix\u2019s OpenAI hack documentary isn\u2019t accurate",
           "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
           "date": "Tue, 20 Oct 2026 22:24:02 +0000"
-        },
-        {
-          "title": "Anthropic\u2019s cloud partnerships are getting messy",
-          "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-          "date": "Tue, 20 Oct 2026 21:25:22 +0000"
-        },
-        {
-          "title": "SpaceX\u2019s AI business is beating expectations",
-          "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-          "date": "Tue, 20 Oct 2026 20:40:41 +0000"
         }
       ],
       "error": null
@@ -258,6 +258,11 @@
           "date": "2026-10-21T14:51:05+00:00"
         },
         {
+          "title": "Who takes over when the autopilot quits \u00b7 jonasg.io",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xbx150/who_takes_over_when_the_autopilot_quits_jonasgio/",
+          "date": "2026-10-21T19:34:10+00:00"
+        },
+        {
           "title": "Elegant & Simple Fix",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xbllhk/elegant_simple_fix/",
           "date": "2026-10-21T12:18:45+00:00"
@@ -266,11 +271,6 @@
           "title": "We set up voice AI Agents to handle 5000+ monthly customer calls with zero added staff",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xaqbtl/we_set_up_voice_ai_agents_to_handle_5000_monthly/",
           "date": "2026-10-20T12:04:44+00:00"
-        },
-        {
-          "title": "OpenCode had a security breach where attackers stole connected OpenAI Anthropic and Google keys to run a massive distillation attack",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xac0xr/opencode_had_a_security_breach_where_attackers/",
-          "date": "2026-10-19T23:06:21+00:00"
         }
       ],
       "error": null
@@ -279,6 +279,11 @@
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
+        {
+          "title": "Nvidia turns the AI factory into a product, and agents into the workload",
+          "link": "https://siliconangle.com/2026/10/21/nvidia-turns-the-ai-factory-into-a-product-and-agents-into-the-workload/",
+          "date": "Wed, 21 Oct 2026 20:52:15 +0000"
+        },
         {
           "title": "Red Hat and Nvidia expand their partnership to secure autonomous AI agents",
           "link": "https://siliconangle.com/2026/10/21/red-hat-and-nvidia-expand-their-partnership-to-secure-autonomous-ai-agents/",
@@ -298,11 +303,6 @@
           "title": "OpenAI acquires Orchestra Bio to bring AI agents into drug development",
           "link": "https://siliconangle.com/2026/10/20/openai-acquires-orchestra-bio-to-bring-ai-agents-into-drug-development/",
           "date": "Tue, 20 Oct 2026 23:40:20 +0000"
-        },
-        {
-          "title": "DeepSeek open-sources DeepInfer, the inference framework behind its production services",
-          "link": "https://siliconangle.com/2026/10/20/deepseek-open-sources-deepinfer-the-inference-framework-behind-its-production-services/",
-          "date": "Tue, 20 Oct 2026 23:11:43 +0000"
         }
       ],
       "error": null
@@ -388,6 +388,11 @@
       "url": "https://huggingface.co/blog/feed.xml",
       "items": [
         {
+          "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+          "link": "https://huggingface.co/blog/nvidia/kumo-relational",
+          "date": "Wed, 21 Oct 2026 18:26:30 GMT"
+        },
+        {
           "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
           "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
           "date": "Wed, 21 Oct 2026 17:35:36 GMT"
@@ -403,11 +408,6 @@
           "date": "Wed, 21 Oct 2026 14:58:18 GMT"
         },
         {
-          "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-          "link": "https://huggingface.co/blog/nvidia/kumo-forecast",
-          "date": "Wed, 21 Oct 2026 12:51:24 GMT"
-        },
-        {
           "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
           "link": "https://huggingface.co/blog/allenai/fairstress",
           "date": "Tue, 20 Oct 2026 16:09:19 GMT"
@@ -420,29 +420,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "SpaceX to attempt Starship catch on next flight, with eye on rapid cadence increase",
-          "link": "https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/",
-          "date": "Wed, 21 Oct 2026 16:46:19 +0000"
+          "title": "The new human-crafted Apple Music brand matters in an AI world",
+          "link": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
+          "date": "Wed, 21 Oct 2026 19:44:40 +0000"
         },
         {
-          "title": "The $15 billion ad-powered AI startup your doctor may already be using",
-          "link": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
-          "date": "Wed, 21 Oct 2026 15:14:07 +0000"
+          "title": "RIP BioWare: EA shuts down storied RPG studio after over three decades",
+          "link": "https://arstechnica.com/gaming/2026/10/rip-bioware-ea-shuts-down-storied-rpg-studio-after-over-three-decades/",
+          "date": "Wed, 21 Oct 2026 19:12:16 +0000"
         },
         {
-          "title": "Review: Carrie is a triumphant remix with one major flaw",
-          "link": "https://arstechnica.com/culture/2026/10/review-carrie-is-a-triumphant-remix-with-one-major-flaw/",
-          "date": "Wed, 21 Oct 2026 11:19:12 +0000"
+          "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+          "link": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+          "date": "Wed, 21 Oct 2026 18:51:42 +0000"
         },
         {
-          "title": "The past, present, and future share a show floor at Pinball Expo 2026",
-          "link": "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/",
-          "date": "Wed, 21 Oct 2026 11:00:04 +0000"
+          "title": "Report: Musk ordered Starlink slowdown in Ukraine, then blamed it on Trump",
+          "link": "https://arstechnica.com/tech-policy/2026/10/report-says-musk-not-trump-ordered-starlink-throttling-that-blindsided-ukraine/",
+          "date": "Wed, 21 Oct 2026 18:35:38 +0000"
         },
         {
-          "title": "PHP warns it plans to release 2 emergency patches imminently",
-          "link": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
-          "date": "Wed, 21 Oct 2026 02:12:18 +0000"
+          "title": "Judge rejects Trump\u2019s wild claim EPA can dismiss data center pollution lawsuits",
+          "link": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
+          "date": "Wed, 21 Oct 2026 18:20:40 +0000"
         }
       ],
       "error": null
@@ -458,6 +458,16 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Could thoughtful \u2018AI art\u2019 counter the rise of \u2018AI slop\u2019? Why creatives today face a paradox",
+          "link": "https://theconversation.com/could-thoughtful-ai-art-counter-the-rise-of-ai-slop-why-creatives-today-face-a-paradox-294117",
+          "date": "2026-10-21T19:12:03Z"
+        },
+        {
+          "title": "Are you using AI to study? Here\u2019s how to do it well",
+          "link": "https://theconversation.com/are-you-using-ai-to-study-heres-how-to-do-it-well-294453",
+          "date": "2026-10-21T19:11:50Z"
+        },
+        {
           "title": "An AI model\u2019s false tip to Philadelphia police reveals how digital agents can do as they\u2019re told and still cause trouble",
           "link": "https://theconversation.com/an-ai-models-false-tip-to-philadelphia-police-reveals-how-digital-agents-can-do-as-theyre-told-and-still-cause-trouble-294228",
           "date": "2026-10-21T12:48:18Z"
@@ -471,16 +481,6 @@
           "title": "View from The Hill: Mathias Cormann offers blunt advice on countering populism and reforming the economy",
           "link": "https://theconversation.com/view-from-the-hill-mathias-cormann-offers-blunt-advice-on-countering-populism-and-reforming-the-economy-294860",
           "date": "2026-10-21T06:45:28Z"
-        },
-        {
-          "title": "Using AI to plan your next holiday? Sometimes, too much information is just too much",
-          "link": "https://theconversation.com/using-ai-to-plan-your-next-holiday-sometimes-too-much-information-is-just-too-much-292686",
-          "date": "2026-10-20T19:03:10Z"
-        },
-        {
-          "title": "How governments worldwide are shaping what AI can say about politics",
-          "link": "https://theconversation.com/how-governments-worldwide-are-shaping-what-ai-can-say-about-politics-294097",
-          "date": "2026-10-20T12:38:12Z"
         }
       ],
       "error": null
