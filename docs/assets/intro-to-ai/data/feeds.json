@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T05:48:34.590279+00:00",
+  "generatedAt": "2026-10-22T11:06:50.142759+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:377: not well-formed (invalid token)"
     },
     {
       "name": "AI | TechCrunch",
@@ -268,9 +268,9 @@
           "date": "2026-10-21T12:18:45+00:00"
         },
         {
-          "title": "We set up voice AI Agents to handle 5000+ monthly customer calls with zero added staff",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xaqbtl/we_set_up_voice_ai_agents_to_handle_5000_monthly/",
-          "date": "2026-10-20T12:04:44+00:00"
+          "title": "what ai can code with no rules i want to create my own malwere rats viruses and other programs but i have no coding experiance and i cant finde an ai coding program that is willing to code my requests",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xb4avw/what_ai_can_code_with_no_rules_i_want_to_create/",
+          "date": "2026-10-20T21:10:09+00:00"
         }
       ],
       "error": null
@@ -356,29 +356,29 @@
       "url": "https://analyticsindiamag.com/feed/",
       "items": [
         {
-          "title": "OpenAI Brings Its Models and Codex to Google Cloud",
-          "link": "https://analyticsindiamag.com/ai-news/openai-brings-its-models-and-codex-to-google-cloud",
-          "date": "Thu, 22 Oct 2026 05:03:00 GMT"
+          "title": "HCLTech Launches NVIDIA-Powered Validation Offering for Software-Defined Vehicles",
+          "link": "https://analyticsindiamag.com/ai-news/hcltech-launches-nvidia-powered-validation-offering-for-software-defined-vehicles",
+          "date": "Thu, 22 Oct 2026 11:03:57 GMT"
         },
         {
-          "title": "Why Nandan Nilekani-Backed F2A Believes India's Investment Opportunity Lies in Edge AI",
-          "link": "https://analyticsindiamag.com/ai-features/why-nandan-nilekani-backed-f2a-believes-indias-investment-opportunity-lies-in-edge-ai",
-          "date": "Thu, 22 Oct 2026 03:39:30 GMT"
+          "title": "Cognizant to Acquire DyFlex Solutions to Expand SAP Capabilities",
+          "link": "https://analyticsindiamag.com/ai-news/cognizant-to-acquire-dyflex-solutions-to-expand-sap-capabilities",
+          "date": "Thu, 22 Oct 2026 10:53:15 GMT"
         },
         {
-          "title": "Deepinder Goyal Teases Dark.ai, a Privacy-Focused AI Platform",
-          "link": "https://analyticsindiamag.com/ai-news/deepinder-goyal-teases-darkai-a-privacy-focused-ai-platform",
-          "date": "Wed, 21 Oct 2026 13:33:05 GMT"
+          "title": "Karta AI Raises $3 Million in Seed Funding to Automate Complex Banking Calls",
+          "link": "https://analyticsindiamag.com/ai-news/karta-ai-raises-3-million-in-seed-funding-to-automate-complex-banking-calls",
+          "date": "Thu, 22 Oct 2026 10:26:19 GMT"
         },
         {
-          "title": "From Humanoid Robots to Telecom Trials, 12 Major Announcements at NVIDIA GTC Berlin 2026",
-          "link": "https://analyticsindiamag.com/deep-tech/from-humanoid-robots-to-telecom-trials-12-major-announcements-at-nvidia-gtc-berlin-2026",
-          "date": "Wed, 21 Oct 2026 12:21:23 GMT"
+          "title": "Internet on Alert as AI Uncovers Critical Flaws in PHP Used by 70% of Websites",
+          "link": "https://analyticsindiamag.com/ai-trends/internet-on-alert-as-ai-uncovers-critical-flaws-in-php-used-by-70-of-websites",
+          "date": "Thu, 22 Oct 2026 10:09:38 GMT"
         },
         {
-          "title": "43% of Indian Enterprises Struggle to Control AI Costs: Splunk Report",
-          "link": "https://analyticsindiamag.com/ai-news/43-of-indian-enterprises-struggle-to-control-ai-costs-splunk-report",
-          "date": "Wed, 21 Oct 2026 12:06:55 GMT"
+          "title": "AI Agents are Making Human Customer Service a Specialist Job",
+          "link": "https://analyticsindiamag.com/ai-features/ai-agents-are-making-human-customer-service-a-specialist-job",
+          "date": "Thu, 22 Oct 2026 09:27:46 GMT"
         }
       ],
       "error": null
@@ -387,6 +387,11 @@
       "name": "Hugging Face Blog",
       "url": "https://huggingface.co/blog/feed.xml",
       "items": [
+        {
+          "title": "Ensemble forecasting with IBM Granite time-series models",
+          "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+          "date": "Thu, 22 Oct 2026 07:51:31 GMT"
+        },
         {
           "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
           "link": "https://huggingface.co/blog/nvidia/kumo-relational",
@@ -406,11 +411,6 @@
           "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
           "link": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
           "date": "Wed, 21 Oct 2026 14:58:18 GMT"
-        },
-        {
-          "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-          "link": "https://huggingface.co/blog/allenai/fairstress",
-          "date": "Tue, 20 Oct 2026 16:09:19 GMT"
         }
       ],
       "error": null
@@ -490,6 +490,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Barclays to cut 5,000 jobs as bank\u2019s bosses hail AI productivity advances",
+          "link": "https://www.theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget",
+          "date": "Thu, 22 Oct 2026 08:40:42 GMT"
+        },
+        {
           "title": "AI firms say UK has a year to head off datacentre protests before construction is threatened",
           "link": "https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened",
           "date": "Thu, 22 Oct 2026 05:00:08 GMT"
@@ -508,11 +513,6 @@
           "title": "In the age of AI, learning maths is even more vital | Letters",
           "link": "https://www.theguardian.com/education/2026/oct/21/in-the-age-of-ai-learning-maths-is-even-more-vital",
           "date": "Wed, 21 Oct 2026 16:33:12 GMT"
-        },
-        {
-          "title": "New prize launches for books co-written with AI",
-          "link": "https://www.theguardian.com/books/2026/oct/21/new-prize-launches-books-co-written-with-ai-france",
-          "date": "Wed, 21 Oct 2026 14:59:34 GMT"
         }
       ],
       "error": null
@@ -586,6 +586,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Hugging Face\u2019s New AI Biology Model Lets You Chat With DNA",
+          "link": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+          "date": "Thu, 22 Oct 2026 10:00:00 +0000"
+        },
+        {
           "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
           "link": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
           "date": "Thu, 22 Oct 2026 02:24:17 +0000"
@@ -604,11 +609,6 @@
           "title": "Jensen Huang\u2019s Vision for Europe Runs on Plug-In Data Centers",
           "link": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
           "date": "Wed, 21 Oct 2026 15:02:15 +0000"
-        },
-        {
-          "title": "\u2018This Is Not a Drill\u2019: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
-          "link": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
-          "date": "Wed, 21 Oct 2026 14:26:19 +0000"
         }
       ],
       "error": null
