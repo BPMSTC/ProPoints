@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-10-23T14:38:51.061852+00:00",
+  "generatedAt": "2026-10-23T18:52:26.374443+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Podcast: \u2018Reverse-Engineer Anything\u2019 Is the Next Wave of AI Slop",
+          "link": "https://www.404media.co/podcast-reverse-engineer-anything-is-the-next-wave-of-ai-slop/",
+          "date": "Fri, 23 Oct 2026 16:36:40 GMT"
+        },
+        {
+          "title": "Behind the Blog: Brute Forces",
+          "link": "https://www.404media.co/behind-the-blog-brute-forces/",
+          "date": "Fri, 23 Oct 2026 15:41:49 GMT"
+        },
         {
           "title": "Portal Texas Used to \u2018Rubber Stamp\u2019 Data Centers Down After 404 Media Reporting",
           "link": "https://www.404media.co/texas-commission-on-environmental-quality-portal-down/",
@@ -19,16 +29,6 @@
           "title": "AI Is Changing Everything About Hacking. No One Knows What Happens Next",
           "link": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next/",
           "date": "Thu, 22 Oct 2026 14:23:36 GMT"
-        },
-        {
-          "title": "AI Is Already 'Amplifying the Destruction' of War",
-          "link": "https://www.404media.co/ai-is-already-amplifying-the-destruction-of-war/",
-          "date": "Thu, 22 Oct 2026 14:20:46 GMT"
-        },
-        {
-          "title": "Cops Warned to Look for \u2018Suspicious Behavior\u2019 From People Opposing Flock at City Council Meetings",
-          "link": "https://www.404media.co/cops-warned-to-look-for-suspicious-behavior-from-people-opposing-flock-at-city-council-meetings/",
-          "date": "Wed, 21 Oct 2026 17:09:47 GMT"
         }
       ],
       "error": null
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "47 experiments, zero humans, one night:  How I let AI improve my AI skills",
+          "link": "https://www.aiacceleratorinstitute.com/47-experiments-zero-humans-one-night-how-i-let-ai-improve-my-ai-skills-co/",
+          "date": "Fri, 23 Oct 2026 15:00:00 GMT"
+        },
+        {
           "title": "The hidden network powering AI: Why fiber is the new bottleneck",
           "link": "https://www.aiacceleratorinstitute.com/the-hidden-network-powering-ai/",
           "date": "Tue, 20 Oct 2026 12:14:25 GMT"
@@ -88,11 +93,6 @@
           "title": "How deeptech companies can use  AI for smarter R&D bets",
           "link": "https://www.aiacceleratorinstitute.com/how-deeptech-companies-can-use-ai-for-smarter-r-d-bets/",
           "date": "Mon, 19 Oct 2026 10:51:47 GMT"
-        },
-        {
-          "title": "Here's your London highlights",
-          "link": "https://www.aiacceleratorinstitute.com/your-agenticlondon-highlights/",
-          "date": "Mon, 19 Oct 2026 09:43:32 GMT"
         }
       ],
       "error": null
@@ -108,7 +108,7 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
-          "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+          "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
           "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
           "date": "Fri, 23 Oct 2026 04:00:00 +0000"
         },
@@ -128,8 +128,8 @@
           "date": "Thu, 22 Oct 2026 19:07:09 +0000"
         },
         {
-          "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-          "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+          "title": "Canva releases its first image generation model",
+          "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
           "date": "Thu, 22 Oct 2026 19:00:00 +0000"
         }
       ],
@@ -139,6 +139,16 @@
       "name": "AI Business",
       "url": "https://aibusiness.com/rss.xml",
       "items": [
+        {
+          "title": "Siemens, Nvidia deploy industrial AI to reduce engineering effort",
+          "link": "https://aibusiness.com/generative-ai/siemens-nvidia-industrial-ai-reduce-engineering-effort",
+          "date": "Fri, 23 Oct 2026 17:26:03 GMT"
+        },
+        {
+          "title": "Prompt: AI moves beyond the screen",
+          "link": "https://aibusiness.com/robotics/prompt-ai-moves-beyond-the-screen",
+          "date": "Fri, 23 Oct 2026 14:40:50 GMT"
+        },
         {
           "title": "Anthropic rolls out Claude Duet, but enterprises aren\u2019t ready",
           "link": "https://aibusiness.com/agentic-ai/anthropic-rolls-out-claude-duet-enterprises-aren-t-ready",
@@ -153,16 +163,6 @@
           "title": "How payroll giant ADP practices AI governance and human oversight",
           "link": "https://aibusiness.com/generative-ai/how-payroll-giant-adp-practices-ai-governance-human-oversight",
           "date": "Wed, 21 Oct 2026 13:05:01 GMT"
-        },
-        {
-          "title": "DeepSeek makes DeepInfer open source to cut AI costs",
-          "link": "https://aibusiness.com/generative-ai/deepseek-makes-deepinfer-open-source-cut-ai-costs",
-          "date": "Wed, 21 Oct 2026 12:00:12 GMT"
-        },
-        {
-          "title": "Smartsheet takes a people approach with AI adoption",
-          "link": "https://aibusiness.com/generative-ai/smartsheet-takes-people-approach-ai-adoption",
-          "date": "Tue, 20 Oct 2026 11:50:33 GMT"
         }
       ],
       "error": null
@@ -280,6 +280,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "In AI, it\u2019s a tale of two diverging investor classes",
+          "link": "https://siliconangle.com/2026/10/23/in-ai-its-a-tale-of-two-diverging-investor-classes/",
+          "date": "Fri, 23 Oct 2026 14:00:51 +0000"
+        },
+        {
           "title": "How to avoid AI\u2019s \u2018valley of despair\u2019",
           "link": "https://siliconangle.com/2026/10/23/how-to-avoid-ais-valley-of-despair/",
           "date": "Fri, 23 Oct 2026 14:00:01 +0000"
@@ -298,11 +303,6 @@
           "title": "Agentic AI Foundation adds four more open-source AI tools",
           "link": "https://siliconangle.com/2026/10/22/agentic-ai-foundation-adds-four-more-open-source-ai-tools/",
           "date": "Thu, 22 Oct 2026 22:43:47 +0000"
-        },
-        {
-          "title": "4 insights from Smarsh EDGE: Governance becomes the foundation for communications intelligence",
-          "link": "https://siliconangle.com/2026/10/22/smarsh-edge-2026-governance-anchors-communications-intelligence-smarshedge/",
-          "date": "Thu, 22 Oct 2026 20:25:24 +0000"
         }
       ],
       "error": null
@@ -388,6 +388,11 @@
       "url": "https://huggingface.co/blog/feed.xml",
       "items": [
         {
+          "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+          "link": "https://huggingface.co/blog/allenai/litpivot",
+          "date": "Fri, 23 Oct 2026 16:15:50 GMT"
+        },
+        {
           "title": "Does Your Model Run on AWS Trainium? Look It Up",
           "link": "https://huggingface.co/blog/torch-neuronx-model-support",
           "date": "Fri, 23 Oct 2026 00:00:00 GMT"
@@ -396,11 +401,6 @@
           "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
           "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
           "date": "Thu, 22 Oct 2026 22:24:34 GMT"
-        },
-        {
-          "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-          "link": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-          "date": "Thu, 22 Oct 2026 16:11:31 GMT"
         },
         {
           "title": "Ensemble forecasting with IBM Granite time-series models",
@@ -420,29 +420,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "The reactor meant to showcase nuclear\u2019s comeback keeps hitting problems",
-          "link": "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/",
-          "date": "Fri, 23 Oct 2026 13:43:21 +0000"
+          "title": "Crows can evaluate visual info twice as fast as mammals",
+          "link": "https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/",
+          "date": "Fri, 23 Oct 2026 17:32:58 +0000"
         },
         {
-          "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
-          "link": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
-          "date": "Fri, 23 Oct 2026 11:30:22 +0000"
+          "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+          "link": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
+          "date": "Fri, 23 Oct 2026 17:18:31 +0000"
         },
         {
-          "title": "Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees",
-          "link": "https://arstechnica.com/culture/2026/10/review-crystal-lake-suffers-a-bit-from-its-obsession-with-pam-voorhees/",
-          "date": "Fri, 23 Oct 2026 11:15:03 +0000"
+          "title": "RFK Jr.\u2019s vaccine injury clinic could damage NIH hospital, board warns",
+          "link": "https://arstechnica.com/health/2026/10/rfk-jr-s-vaccine-injury-clinic-could-damage-nih-hospital-board-warns/",
+          "date": "Fri, 23 Oct 2026 16:58:39 +0000"
         },
         {
-          "title": "Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready",
-          "link": "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/",
-          "date": "Fri, 23 Oct 2026 11:00:57 +0000"
+          "title": "Knicks sent employees fake offer of championship rings in phishing test: Report",
+          "link": "https://arstechnica.com/tech-policy/2026/10/knicks-sent-employees-fake-offer-of-championship-rings-in-phishing-test-report/",
+          "date": "Fri, 23 Oct 2026 16:51:59 +0000"
         },
         {
-          "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
-          "link": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
-          "date": "Thu, 22 Oct 2026 22:25:33 +0000"
+          "title": "Everybody panic: A Valve developer said \"HLX\" in public",
+          "link": "https://arstechnica.com/gaming/2026/10/everybody-panic-a-valve-developer-said-hlx-in-public/",
+          "date": "Fri, 23 Oct 2026 16:35:00 +0000"
         }
       ],
       "error": null
@@ -457,6 +457,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "PHP is in the foundation of 70% of websites \u2013 here\u2019s what it is and why a flaw in the software is a major hacking threat",
+          "link": "https://theconversation.com/php-is-in-the-foundation-of-70-of-websites-heres-what-it-is-and-why-a-flaw-in-the-software-is-a-major-hacking-threat-294999",
+          "date": "2026-10-23T17:43:01Z"
+        },
         {
           "title": "Friday essay: AI is devastating higher education, but the system was already broken",
           "link": "https://theconversation.com/friday-essay-ai-is-devastating-higher-education-but-the-system-was-already-broken-292988",
@@ -476,11 +481,6 @@
           "title": "A critical flaw affecting 70% of all websites has the cybersecurity world panicked",
           "link": "https://theconversation.com/a-critical-flaw-affecting-70-of-all-websites-has-the-cybersecurity-world-panicked-294941",
           "date": "2026-10-22T00:43:33Z"
-        },
-        {
-          "title": "Could thoughtful \u2018AI art\u2019 counter the rise of \u2018AI slop\u2019? Why creatives today face a paradox",
-          "link": "https://theconversation.com/could-thoughtful-ai-art-counter-the-rise-of-ai-slop-why-creatives-today-face-a-paradox-294117",
-          "date": "2026-10-21T19:12:03Z"
         }
       ],
       "error": null
@@ -495,6 +495,16 @@
           "date": "Fri, 23 Oct 2026 10:00:30 GMT"
         },
         {
+          "title": "\u2018Black October\u2019: cybersecurity experts sound the alarm over new era of AI-enabled hacking",
+          "link": "https://www.theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability",
+          "date": "Fri, 23 Oct 2026 18:48:48 GMT"
+        },
+        {
+          "title": "Opposition deepfake video sparks outrage in Spain ahead of election",
+          "link": "https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election",
+          "date": "Fri, 23 Oct 2026 16:35:48 GMT"
+        },
+        {
           "title": "Modern life is stuck in a sea of sameness. The pursuit of beauty is a necessary antidote | Brigid Delaney",
           "link": "https://www.theguardian.com/world/2026/oct/24/modern-life-is-stuck-in-a-sea-of-sameness-the-pursuit-of-beauty-is-a-necessary-antidote",
           "date": "Fri, 23 Oct 2026 14:00:30 GMT"
@@ -503,16 +513,6 @@
           "title": "Experts cast doubt on Anthropic report detailing how AI has altered work at the company",
           "link": "https://www.theguardian.com/technology/2026/oct/23/anthropic-report-ai-workplace-shifts",
           "date": "Fri, 23 Oct 2026 14:00:28 GMT"
-        },
-        {
-          "title": "Can AI really predict cancer survival better than a doctor? I have my doubts | Devi Sridhar",
-          "link": "https://www.theguardian.com/commentisfree/2026/oct/23/ai-cancer-survival-doctor-selfie-health-research",
-          "date": "Fri, 23 Oct 2026 07:00:03 GMT"
-        },
-        {
-          "title": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump",
-          "link": "https://www.theguardian.com/business/2026/oct/22/stock-markets-drop-ai-oil",
-          "date": "Thu, 22 Oct 2026 21:50:13 GMT"
         }
       ],
       "error": null
