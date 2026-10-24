@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T05:21:44.961817+00:00",
+  "generatedAt": "2026-10-24T10:14:31.663622+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -490,9 +490,19 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Is a job guarantee the solution to mass AI unemployment?",
-          "link": "https://www.theguardian.com/technology/2026/oct/23/job-guarantee-ai-mass-unemployment",
-          "date": "Fri, 23 Oct 2026 10:00:30 GMT"
+          "title": "Becky Barnicoat on scary outfits for Halloween \u2013 cartoon",
+          "link": "https://www.theguardian.com/commentisfree/picture/2026/oct/24/becky-barnicoat-on-scary-outfits-for-halloween-cartoon",
+          "date": "Sat, 24 Oct 2026 10:00:29 GMT"
+        },
+        {
+          "title": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
+          "link": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
+          "date": "Sat, 24 Oct 2026 08:32:56 GMT"
+        },
+        {
+          "title": "Opposition deepfake video of Spanish PM\u2019s wife sparks outrage before election",
+          "link": "https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election",
+          "date": "Sat, 24 Oct 2026 06:51:53 GMT"
         },
         {
           "title": "John Healey pledges to use budget to harness power of AI to bolster Britain\u2019s security",
@@ -500,19 +510,9 @@
           "date": "Sat, 24 Oct 2026 05:00:24 GMT"
         },
         {
-          "title": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
-          "link": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
-          "date": "Fri, 23 Oct 2026 23:01:16 GMT"
-        },
-        {
           "title": "\u2018Black October\u2019: cybersecurity experts sound the alarm over new era of AI-enabled hacking",
           "link": "https://www.theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability",
           "date": "Fri, 23 Oct 2026 18:48:48 GMT"
-        },
-        {
-          "title": "Opposition deepfake video sparks outrage in Spain ahead of election",
-          "link": "https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election",
-          "date": "Fri, 23 Oct 2026 16:35:48 GMT"
         }
       ],
       "error": null
