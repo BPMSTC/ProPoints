@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T14:18:32.916008+00:00",
+  "generatedAt": "2026-10-24T17:48:34.159715+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,12 +101,27 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:377: not well-formed (invalid token)"
     },
     {
       "name": "AI | TechCrunch",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
+        {
+          "title": "Block\u2019s new voice model sounds eerily human",
+          "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+          "date": "Sat, 24 Oct 2026 16:00:00 +0000"
+        },
+        {
+          "title": "Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats.",
+          "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+          "date": "Sat, 24 Oct 2026 15:00:00 +0000"
+        },
+        {
+          "title": "Here are the top AI agents that can live in your text messages",
+          "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+          "date": "Sat, 24 Oct 2026 14:00:00 +0000"
+        },
         {
           "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u201csignificant risks\u201d",
           "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
@@ -116,21 +131,6 @@
           "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
           "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
           "date": "Fri, 23 Oct 2026 21:59:19 +0000"
-        },
-        {
-          "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-          "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-          "date": "Fri, 23 Oct 2026 19:06:23 +0000"
-        },
-        {
-          "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-          "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-          "date": "Fri, 23 Oct 2026 04:00:00 +0000"
-        },
-        {
-          "title": "Left alone with nothing to do, AI agents started playing",
-          "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-          "date": "Fri, 23 Oct 2026 00:45:37 +0000"
         }
       ],
       "error": null
@@ -253,6 +253,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "How do you work with AI on large codebases without losing context all the time?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xeas1t/how_do_you_work_with_ai_on_large_codebases/",
+          "date": "2026-10-24T14:57:06+00:00"
+        },
+        {
           "title": "Truly good AI/Prompt Engineering training?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xdfl1q/truly_good_aiprompt_engineering_training/",
           "date": "2026-10-23T14:27:52+00:00"
@@ -266,11 +271,6 @@
           "title": "How do you keep locale prompt forks from losing template variables?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xcxio6/how_do_you_keep_locale_prompt_forks_from_losing/",
           "date": "2026-10-22T22:59:58+00:00"
-        },
-        {
-          "title": "What are you doing to learn proper prompt engineering and AI feature use?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xd0aer/what_are_you_doing_to_learn_proper_prompt/",
-          "date": "2026-10-23T01:06:06+00:00"
         }
       ],
       "error": null
