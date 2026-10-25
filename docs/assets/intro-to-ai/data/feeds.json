@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T05:38:16.272151+00:00",
+  "generatedAt": "2026-10-25T10:39:33.154354+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -361,8 +361,8 @@
           "date": "Sun, 25 Oct 2026 03:30:00 GMT"
         },
         {
-          "title": "DrizzVision\u2019s AI App Testing Ambition Meets Reality",
-          "link": "https://analyticsindiamag.com/ai-startups/drizzvisions-ai-app-testing-ambition-meets-reality",
+          "title": "Drizz's AI App Testing Ambition Meets Reality",
+          "link": "https://analyticsindiamag.com/ai-startups/drizz-ai-app-testing-ambition-meets-reality",
           "date": "Sat, 24 Oct 2026 04:30:00 GMT"
         },
         {
@@ -586,6 +586,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "What the US Movement Against Data Centers Can Learn From Abroad",
+          "link": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
+          "date": "Sun, 25 Oct 2026 10:00:00 +0000"
+        },
+        {
           "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
           "link": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
           "date": "Sat, 24 Oct 2026 12:00:00 +0000"
@@ -604,11 +609,6 @@
           "title": "Hugging Face\u2019s New AI Biology Model Lets You Chat With DNA",
           "link": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
           "date": "Thu, 22 Oct 2026 10:00:00 +0000"
-        },
-        {
-          "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
-          "link": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
-          "date": "Thu, 22 Oct 2026 02:24:17 +0000"
         }
       ],
       "error": null
