@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T18:05:16.595247+00:00",
+  "generatedAt": "2026-10-25T21:28:07.683260+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:377: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI | TechCrunch",
@@ -253,6 +253,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "I built an OpenSearch-compatible server with AI \u2014 and wrote 6,000 tests against the real thing to keep it honest",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xfcw6m/i_built_an_opensearchcompatible_server_with_ai/",
+          "date": "2026-10-25T20:27:58+00:00"
+        },
+        {
           "title": "Free Class",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xepclv/free_class/",
           "date": "2026-10-25T01:22:13+00:00"
@@ -266,11 +271,6 @@
           "title": "Truly good AI/Prompt Engineering training?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xdfl1q/truly_good_aiprompt_engineering_training/",
           "date": "2026-10-23T14:27:52+00:00"
-        },
-        {
-          "title": "How do you keep locale prompt forks from losing template variables?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xcxio6/how_do_you_keep_locale_prompt_forks_from_losing/",
-          "date": "2026-10-22T22:59:58+00:00"
         }
       ],
       "error": null
@@ -490,9 +490,9 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "\u2018Synthetic twin\u2019: Why Socceroo Cristian Volpato is the latest footballer to license his AI clone",
-          "link": "https://www.theguardian.com/technology/2026/oct/25/synthetic-twin-why-socceroo-cristian-volpato-is-the-latest-footballer-to-license-his-ai-clone",
-          "date": "Sat, 24 Oct 2026 19:00:40 GMT"
+          "title": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
+          "link": "https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music",
+          "date": "Sun, 25 Oct 2026 18:25:59 GMT"
         },
         {
           "title": "\u2018Extremely disappointed\u2019: WA government seeks reimbursement from Deloitte over flawed university report",
@@ -505,14 +505,14 @@
           "date": "Sun, 25 Oct 2026 14:00:06 GMT"
         },
         {
+          "title": "\u2018Synthetic twin\u2019: Why Socceroo Cristian Volpato is the latest footballer to license his AI clone",
+          "link": "https://www.theguardian.com/technology/2026/oct/25/synthetic-twin-why-socceroo-cristian-volpato-is-the-latest-footballer-to-license-his-ai-clone",
+          "date": "Sat, 24 Oct 2026 19:00:40 GMT"
+        },
+        {
           "title": "The datacentre next door: on the frontline of tech\u2019s latest David v Goliath battle",
           "link": "https://www.theguardian.com/technology/2026/oct/24/the-datacentre-next-door-on-the-frontline-of-techs-latest-david-v-goliath-battle",
           "date": "Sat, 24 Oct 2026 11:00:32 GMT"
-        },
-        {
-          "title": "Becky Barnicoat on scary outfits for Halloween \u2013 cartoon",
-          "link": "https://www.theguardian.com/commentisfree/picture/2026/oct/24/becky-barnicoat-on-scary-outfits-for-halloween-cartoon",
-          "date": "Sat, 24 Oct 2026 10:00:29 GMT"
         }
       ],
       "error": null
