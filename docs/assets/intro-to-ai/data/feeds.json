@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T21:28:07.683260+00:00",
+  "generatedAt": "2026-10-25T23:46:25.927389+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,12 +101,17 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:377: not well-formed (invalid token)"
     },
     {
       "name": "AI | TechCrunch",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
+        {
+          "title": "Grok releases the first seven minutes of its AI-generated \u2018Odyssey\u2019",
+          "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+          "date": "Sun, 25 Oct 2026 21:31:16 +0000"
+        },
         {
           "title": "AI delivers \u2018zero financial payoff\u2019 to most companies, Apollo economist says",
           "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
@@ -126,11 +131,6 @@
           "title": "Block\u2019s new voice model sounds eerily human",
           "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
           "date": "Sat, 24 Oct 2026 16:00:00 +0000"
-        },
-        {
-          "title": "Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats.",
-          "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-          "date": "Sat, 24 Oct 2026 15:00:00 +0000"
         }
       ],
       "error": null
@@ -495,13 +495,13 @@
           "date": "Sun, 25 Oct 2026 18:25:59 GMT"
         },
         {
-          "title": "\u2018Extremely disappointed\u2019: WA government seeks reimbursement from Deloitte over flawed university report",
-          "link": "https://www.theguardian.com/australia-news/2026/oct/26/deloitte-report-wa-university-mergers-260m-discrepancy-ai",
+          "title": "Neighbours is being recut into a microdrama focused on Margot Robbie \u2013 and her co-stars aren\u2019t happy",
+          "link": "https://www.theguardian.com/tv-and-radio/2026/oct/26/neighbours-soap-recut-ai-microdrama-mobile-series-feat-margot-robbie",
           "date": "Sun, 25 Oct 2026 14:00:06 GMT"
         },
         {
-          "title": "Neighbours is being recut into a microdrama focused on Margot Robbie \u2013 and her co-stars aren\u2019t happy",
-          "link": "https://www.theguardian.com/tv-and-radio/2026/oct/26/neighbours-soap-recut-ai-microdrama-mobile-series-feat-margot-robbie",
+          "title": "\u2018Extremely disappointed\u2019: WA government seeks reimbursement from Deloitte over flawed university report",
+          "link": "https://www.theguardian.com/australia-news/2026/oct/26/deloitte-report-wa-university-mergers-260m-discrepancy-ai",
           "date": "Sun, 25 Oct 2026 14:00:06 GMT"
         },
         {
