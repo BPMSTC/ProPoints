@@ -1,10 +1,25 @@
 {
-  "generatedAt": "2026-10-26T09:39:14.347142+00:00",
+  "generatedAt": "2026-10-26T16:27:03.444269+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "iPhone Duo Users Are Already Seeing a Big Old Crease in the Middle of Their $2,000 Foldable iPhone",
+          "link": "https://www.404media.co/iphone-duo-crackgate-crease-folding-phone/",
+          "date": "Mon, 26 Oct 2026 16:10:30 GMT"
+        },
+        {
+          "title": "ChatGPT Says 404 Media Is Tech Support for Huge Corporations",
+          "link": "https://www.404media.co/chatgpt-says-404-media-is-tech-support-for-huge-corporations/",
+          "date": "Mon, 26 Oct 2026 15:59:23 GMT"
+        },
+        {
+          "title": "ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems",
+          "link": "https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/",
+          "date": "Mon, 26 Oct 2026 15:49:44 GMT"
+        },
         {
           "title": "An Ancient Virus Explains Why the Human Brain Is Special",
           "link": "https://www.404media.co/an-ancient-virus-explains-why-the-human-brain-is-special/",
@@ -14,21 +29,6 @@
           "title": "Podcast: \u2018Reverse-Engineer Anything\u2019 Is the Next Wave of AI Slop",
           "link": "https://www.404media.co/podcast-reverse-engineer-anything-is-the-next-wave-of-ai-slop/",
           "date": "Fri, 23 Oct 2026 16:36:40 GMT"
-        },
-        {
-          "title": "Behind the Blog: Brute Forces",
-          "link": "https://www.404media.co/behind-the-blog-brute-forces/",
-          "date": "Fri, 23 Oct 2026 15:41:49 GMT"
-        },
-        {
-          "title": "Portal Texas Used to \u2018Rubber Stamp\u2019 Data Centers Down After 404 Media Reporting",
-          "link": "https://www.404media.co/texas-commission-on-environmental-quality-portal-down/",
-          "date": "Thu, 22 Oct 2026 20:26:43 GMT"
-        },
-        {
-          "title": "This Woman's Living a CashApp Scam Nightmare",
-          "link": "https://www.404media.co/this-womans-living-a-cashapp-scam-nightmare/",
-          "date": "Thu, 22 Oct 2026 15:33:44 GMT"
         }
       ],
       "error": null
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "Why your AI fails in production: The workloads nobody plans for | Live workshop",
+          "link": "https://www.aiacceleratorinstitute.com/why-your-ai-fails-in-production-the-workloads-nobody-plans-for-live-workshop/",
+          "date": "Mon, 26 Oct 2026 14:16:57 GMT"
+        },
+        {
           "title": "47 experiments, zero humans, one night:  How I let AI improve my AI skills",
           "link": "https://www.aiacceleratorinstitute.com/47-experiments-zero-humans-one-night-how-i-let-ai-improve-my-ai-skills-co/",
           "date": "Fri, 23 Oct 2026 15:00:00 GMT"
@@ -88,11 +93,6 @@
           "title": "Why AI agents need workflows",
           "link": "https://www.aiacceleratorinstitute.com/why-ai-agents-need-workflows-2/",
           "date": "Tue, 20 Oct 2026 10:14:29 GMT"
-        },
-        {
-          "title": "How deeptech companies can use  AI for smarter R&D bets",
-          "link": "https://www.aiacceleratorinstitute.com/how-deeptech-companies-can-use-ai-for-smarter-r-d-bets/",
-          "date": "Mon, 19 Oct 2026 10:51:47 GMT"
         }
       ],
       "error": null
@@ -107,6 +107,11 @@
       "name": "AI | TechCrunch",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
+        {
+          "title": "Anthropic officially files for its public debut",
+          "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+          "date": "Mon, 26 Oct 2026 14:35:22 +0000"
+        },
         {
           "title": "Grok releases the first seven minutes of its AI-generated \u2018Odyssey\u2019",
           "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
@@ -126,11 +131,6 @@
           "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
           "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
           "date": "Sat, 24 Oct 2026 19:00:00 +0000"
-        },
-        {
-          "title": "Block\u2019s new voice model sounds eerily human",
-          "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-          "date": "Sat, 24 Oct 2026 16:00:00 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:81:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -253,6 +253,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "College student looking for free and easy to use ai video tools. Truly good AI/Prompt Engineering training?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xfuqv4/college_student_looking_for_free_and_easy_to_use/",
+          "date": "2026-10-26T11:56:56+00:00"
+        },
+        {
           "title": "I built a 3D office where your AI coding agents sit at desks and you can walk up to their live terminals",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xfm4ko/i_built_a_3d_office_where_your_ai_coding_agents/",
           "date": "2026-10-26T03:28:05+00:00"
@@ -266,11 +271,6 @@
           "title": "I built an OpenSearch-compatible server with AI \u2014 and wrote 6,000 tests against the real thing to keep it honest",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xfcw6m/i_built_an_opensearchcompatible_server_with_ai/",
           "date": "2026-10-25T20:27:58+00:00"
-        },
-        {
-          "title": "Free Class",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xepclv/free_class/",
-          "date": "2026-10-25T01:22:13+00:00"
         }
       ],
       "error": null
@@ -280,6 +280,21 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Marvell\u2019s early chipmaking gamble pays off amid AI demand",
+          "link": "https://siliconangle.com/2026/10/26/ai-architectures-marvell-data-center-thecube-aifactoriesdatacenters/",
+          "date": "Mon, 26 Oct 2026 15:58:44 +0000"
+        },
+        {
+          "title": "Anthropic files S-1 paperwork for proposed IPO",
+          "link": "https://siliconangle.com/2026/10/26/anthropic-files-s-1-paperwork-for-proposed-ipo/",
+          "date": "Mon, 26 Oct 2026 15:50:30 +0000"
+        },
+        {
+          "title": "Exclusive: iMerit launches platform to connect AI developers with specialized domain experts",
+          "link": "https://siliconangle.com/2026/10/26/imerit-launches-platform-to-connect-ai-developers-with-specialized-domain-experts/",
+          "date": "Mon, 26 Oct 2026 12:00:49 +0000"
+        },
+        {
           "title": "Apollo analysis shows no one besides the biggest tech giants is seeing benefits from AI",
           "link": "https://siliconangle.com/2026/10/25/apollo-analysis-shows-that-no-one-apart-from-the-biggest-tech-giants-is-seeing-any-real-benefits-from-ai/",
           "date": "Mon, 26 Oct 2026 01:31:12 +0000"
@@ -288,21 +303,6 @@
           "title": "Moonshot AI launches new flagship Kim K3.1 Pro model with 3T parameters",
           "link": "https://siliconangle.com/2026/10/23/moonshot-ai-launches-new-flagship-kim-k3-1-pro-model-with-3t-parameters/",
           "date": "Sat, 24 Oct 2026 00:55:53 +0000"
-        },
-        {
-          "title": "AI drug development startup Pathos AI closes $237M investment",
-          "link": "https://siliconangle.com/2026/10/23/ai-drug-development-startup-pathos-ai-closes-237m-investment/",
-          "date": "Fri, 23 Oct 2026 20:02:03 +0000"
-        },
-        {
-          "title": "Hybrid infrastructure decisions put AI costs and control in focus",
-          "link": "https://siliconangle.com/2026/10/23/hybrid-infrastructure-costs-push-ai-inference-edge-dellnewyorksymposium/",
-          "date": "Fri, 23 Oct 2026 19:58:58 +0000"
-        },
-        {
-          "title": "What to expect during Intuit Connect: Join theCUBE Oct. 28",
-          "link": "https://siliconangle.com/2026/10/23/finance-ai-automation-intuitconnect/",
-          "date": "Fri, 23 Oct 2026 19:29:54 +0000"
         }
       ],
       "error": null
@@ -356,29 +356,29 @@
       "url": "https://analyticsindiamag.com/feed/",
       "items": [
         {
-          "title": "Hexaware Certified as Best Firm for Forward-Deployed Engineers by AIM",
-          "link": "https://analyticsindiamag.com/ai-highlights/hexaware-certified-as-best-firm-for-forward-deployed-engineers-by-aim",
-          "date": "Mon, 26 Oct 2026 09:03:41 GMT"
+          "title": "Bihar Partners with IT Cos to Train Government School Teachers In AI",
+          "link": "https://analyticsindiamag.com/ai-news/bihar-partners-with-it-cos-to-train-government-school-teachers-in-ai",
+          "date": "Mon, 26 Oct 2026 12:15:14 GMT"
         },
         {
-          "title": "Telangana Unveils AI-Powered Digital Twin of IT Minister at DevFest 2026",
-          "link": "https://analyticsindiamag.com/ai-news/telangana-unveils-ai-powered-digital-twin-of-it-minister-at-devfest-2026",
-          "date": "Mon, 26 Oct 2026 08:54:58 GMT"
+          "title": "Meta Wants $95 Billion Through Stock Sales to Fund AI Infrastructure",
+          "link": "https://analyticsindiamag.com/ai-news/meta-wants-95-billion-through-stock-sales-to-fund-ai-infrastructure",
+          "date": "Mon, 26 Oct 2026 11:48:18 GMT"
         },
         {
-          "title": "Jev Isn\u2019t An Overnight Fix For Your Lack of AI Fundamentals",
-          "link": "https://analyticsindiamag.com/ai-trends/jev-isnt-an-overnight-fix-for-your-lack-of-ai-fundamentals",
-          "date": "Mon, 26 Oct 2026 07:56:13 GMT"
+          "title": "India\u2019s GCCs to Add 1.4 Million Jobs, Drive 170 Million Sq. Ft. Office Demand by 2031",
+          "link": "https://analyticsindiamag.com/ai-features/indias-gccs-to-add-14-million-jobs-drive-170-million-sq-ft-office-demand-by-2031",
+          "date": "Mon, 26 Oct 2026 11:47:56 GMT"
         },
         {
-          "title": "Musk Says SpaceX Closed $40 Bn GPU Debt Deal, Warns Most Neoclouds Won\u2019t Survive",
-          "link": "https://analyticsindiamag.com/ai-news/musk-says-spacex-closed-40-bn-gpu-debt-deal-warns-most-neoclouds-wont-survive",
-          "date": "Mon, 26 Oct 2026 05:53:33 GMT"
+          "title": "Pronto Founder Enters Physical AI Space With Provision Labs",
+          "link": "https://analyticsindiamag.com/ai-news/pronto-founder-enters-physical-ai-space-with-provision-labs",
+          "date": "Mon, 26 Oct 2026 11:46:26 GMT"
         },
         {
-          "title": "AI Can Be Cyborg or Centaur. But Can Enterprises Monetise It?",
-          "link": "https://analyticsindiamag.com/ai-features/ai-can-be-cyborg-or-centaur-but-can-enterprises-monetise-it",
-          "date": "Sun, 25 Oct 2026 03:30:00 GMT"
+          "title": "HCLTech Taps NVIDIA Simulation Tools to Automate Software-Defined Vehicle Testing",
+          "link": "https://analyticsindiamag.com/ai-news/hcltech-taps-nvidia-simulation-tools-to-automate-software-defined-vehicle-testing",
+          "date": "Mon, 26 Oct 2026 11:41:18 GMT"
         }
       ],
       "error": null
@@ -420,6 +420,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "F1 in Texas: The American race that fans love to attend",
+          "link": "https://arstechnica.com/cars/2026/10/f1-in-texas-one-more-race-and-well-have-a-new-champion/",
+          "date": "Mon, 26 Oct 2026 14:48:24 +0000"
+        },
+        {
+          "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race",
+          "link": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
+          "date": "Mon, 26 Oct 2026 14:30:27 +0000"
+        },
+        {
+          "title": "From impulse purchase to pocket studio: The M-Vave FM-1",
+          "link": "https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/",
+          "date": "Mon, 26 Oct 2026 11:00:15 +0000"
+        },
+        {
           "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
           "link": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
           "date": "Sat, 24 Oct 2026 11:50:28 +0000"
@@ -428,21 +443,6 @@
           "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
           "link": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
           "date": "Sat, 24 Oct 2026 11:00:09 +0000"
-        },
-        {
-          "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
-          "link": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
-          "date": "Fri, 23 Oct 2026 22:48:25 +0000"
-        },
-        {
-          "title": "Hegseth warns prediction market bets warp military judgment, endanger troops",
-          "link": "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/",
-          "date": "Fri, 23 Oct 2026 20:28:43 +0000"
-        },
-        {
-          "title": "Updated Google privacy policy says your Gmail might be used for advertising",
-          "link": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
-          "date": "Fri, 23 Oct 2026 20:19:55 +0000"
         }
       ],
       "error": null
@@ -450,13 +450,44 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "An LLM is basically just a massive and extremely sophisticated mathematical function?",
+          "link": "https://www.reddit.com/r/artificial/comments/1xfw15p/an_llm_is_basically_just_a_massive_and_extremely/",
+          "date": "2026-10-26T12:55:46+00:00"
+        },
+        {
+          "title": "Elvis rights holders sue Anthropic over 274 compositions",
+          "link": "https://www.reddit.com/r/artificial/comments/1xfreib/elvis_rights_holders_sue_anthropic_over_274/",
+          "date": "2026-10-26T08:47:11+00:00"
+        },
+        {
+          "title": "OpenAI starts training its most powerful systems again \u2013 but keeps them off the internet out of fear they would go rogue",
+          "link": "https://www.reddit.com/r/artificial/comments/1xfybgm/openai_starts_training_its_most_powerful_systems/",
+          "date": "2026-10-26T14:26:25+00:00"
+        },
+        {
+          "title": "Dutch Government Plans to Cut 25,000 Jobs (16%) in AI-Led Overhaul",
+          "link": "https://www.reddit.com/r/artificial/comments/1xg12na/dutch_government_plans_to_cut_25000_jobs_16_in/",
+          "date": "2026-10-26T16:06:33+00:00"
+        },
+        {
+          "title": "AI giant Anthropic files to go public",
+          "link": "https://www.reddit.com/r/artificial/comments/1xfwpdo/ai_giant_anthropic_files_to_go_public/",
+          "date": "2026-10-26T13:23:41+00:00"
+        }
+      ],
       "error": null
     },
     {
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Data centers are inspiring bipartisanship \u2013 for now",
+          "link": "https://theconversation.com/data-centers-are-inspiring-bipartisanship-for-now-293069",
+          "date": "2026-10-26T12:12:53Z"
+        },
         {
           "title": "PHP is in the foundation of 70% of websites \u2013 here\u2019s what it is and why a flaw in the software is a major hacking threat",
           "link": "https://theconversation.com/php-is-in-the-foundation-of-70-of-websites-heres-what-it-is-and-why-a-flaw-in-the-software-is-a-major-hacking-threat-294999",
@@ -476,11 +507,6 @@
           "title": "Shares in this data centre company are down 40% as investors lose faith in the AI story",
           "link": "https://theconversation.com/shares-in-this-data-centre-company-are-down-40-as-investors-lose-faith-in-the-ai-story-294871",
           "date": "2026-10-22T04:35:45Z"
-        },
-        {
-          "title": "A critical flaw affecting 70% of all websites has the cybersecurity world panicked",
-          "link": "https://theconversation.com/a-critical-flaw-affecting-70-of-all-websites-has-the-cybersecurity-world-panicked-294941",
-          "date": "2026-10-22T00:43:33Z"
         }
       ],
       "error": null
@@ -490,29 +516,29 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "AI cloud computing firms face \u2018guppy-level death\u2019, Elon Musk warns; French bonds rally after avoiding downgrade \u2013 business live",
+          "title": "Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns",
+          "link": "https://www.theguardian.com/technology/2026/oct/26/australians-should-prepare-for-online-services-to-go-down-unexpectedly-as-threats-rise-cyber-agency-warns",
+          "date": "Mon, 26 Oct 2026 11:30:40 GMT"
+        },
+        {
+          "title": "Anthropic filing for US stock market listing reveals rapid revenue gains and even larger losses",
+          "link": "https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market",
+          "date": "Mon, 26 Oct 2026 16:22:28 GMT"
+        },
+        {
+          "title": "Anthropic files for stock market IPO; Meta announces $95bn fundraising drive to pay for AI expansion \u2013 as it happened",
           "link": "https://www.theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates",
-          "date": "Mon, 26 Oct 2026 09:36:01 GMT"
+          "date": "Mon, 26 Oct 2026 15:33:24 GMT"
         },
         {
-          "title": "'Dear ChatGPT': 12-year-old wins top youth prize at Australian Poetry Slam \u2013 video",
-          "link": "https://www.theguardian.com/technology/video/2026/oct/26/dear-chatgpt-12-year-old-wins-top-youth-prize-at-australian-poetry-slam-video",
-          "date": "Mon, 26 Oct 2026 04:43:06 GMT"
+          "title": "How tall are the AI datacentre power poles that sparked a community backlash in Melbourne?",
+          "link": "https://www.theguardian.com/news/ng-interactive/2026/oct/27/how-big-are-the-ai-datacentre-power-poles-that-sparked-a-community-backlash-in-melbourne",
+          "date": "Mon, 26 Oct 2026 14:00:44 GMT"
         },
         {
-          "title": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
-          "link": "https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music",
-          "date": "Sun, 25 Oct 2026 18:25:59 GMT"
-        },
-        {
-          "title": "\u2018Extremely disappointed\u2019: WA government seeks reimbursement from Deloitte over flawed university report",
-          "link": "https://www.theguardian.com/australia-news/2026/oct/26/deloitte-report-wa-university-mergers-260m-discrepancy-ai",
-          "date": "Sun, 25 Oct 2026 14:00:06 GMT"
-        },
-        {
-          "title": "Neighbours is being recut into a microdrama focused on Margot Robbie \u2013 and her co-stars aren\u2019t happy",
-          "link": "https://www.theguardian.com/tv-and-radio/2026/oct/26/neighbours-soap-recut-ai-microdrama-mobile-series-feat-margot-robbie",
-          "date": "Sun, 25 Oct 2026 14:00:06 GMT"
+          "title": "Meta plans $95bn stock offering to help cover AI expansion",
+          "link": "https://www.theguardian.com/technology/2026/oct/26/meta-plans-95bn-stock-offering-to-help-cover-ai-expansion",
+          "date": "Mon, 26 Oct 2026 13:37:26 GMT"
         }
       ],
       "error": null
@@ -554,6 +580,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Top Economist Finds That AI Has Provided \u201cZero Financial Payoff\u201d to Companies Outside Tech",
+          "link": "https://futurism.com/artificial-intelligence/economist-ai-provided-zero-economic-benefit-companies-outside-tech",
+          "date": "Mon, 26 Oct 2026 10:17:35 -0400"
+        },
+        {
           "title": "Growing Majority of Americans Convinced That AI Is Bad for Society",
           "link": "https://futurism.com/artificial-intelligence/majority-americans-ai-bad-society",
           "date": "Sun, 25 Oct 2026 09:56:00 -0400"
@@ -572,11 +603,6 @@
           "title": "Microsoft Says Its New AI Is Better at Diagnosing Patients Than Real Doctors",
           "link": "https://futurism.com/artificial-intelligence/microsoft-new-ai-better-real-doctors",
           "date": "Sun, 25 Oct 2026 06:57:00 -0400"
-        },
-        {
-          "title": "Banks Preparing for Aftermath of Unprecedented Catastrophe Caused by AI",
-          "link": "https://futurism.com/artificial-intelligence/banks-preparing-ai-financial-catastrophe",
-          "date": "Sat, 24 Oct 2026 09:55:00 -0400"
         }
       ],
       "error": null
@@ -585,6 +611,16 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "The Anthropic IPO Is Also a Doomsday Primer",
+          "link": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
+          "date": "Mon, 26 Oct 2026 16:01:55 +0000"
+        },
+        {
+          "title": "Anthropic\u2019s IPO Prospectus Reveals What\u2019s Under the Hood",
+          "link": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
+          "date": "Mon, 26 Oct 2026 14:50:47 +0000"
+        },
         {
           "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
           "link": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
@@ -599,16 +635,6 @@
           "title": "What the US Movement Against Data Centers Can Learn From Abroad",
           "link": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
           "date": "Sun, 25 Oct 2026 10:00:00 +0000"
-        },
-        {
-          "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
-          "link": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
-          "date": "Sat, 24 Oct 2026 12:00:00 +0000"
-        },
-        {
-          "title": "The Social Society Helping Women Join the AI Boom",
-          "link": "https://www.wired.com/story/aged-intelligence-society-interview/",
-          "date": "Thu, 22 Oct 2026 19:56:32 +0000"
         }
       ],
       "error": null
@@ -617,6 +643,11 @@
       "name": "Artificial Intelligence News -- ScienceDaily",
       "url": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "items": [
+        {
+          "title": "Tiny magnetic vortices could help computers work more like your brain",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261025073038.htm",
+          "date": "Mon, 26 Oct 2026 06:06:16 EDT"
+        },
         {
           "title": "Scientists overcome a hidden obstacle to more powerful quantum computers",
           "link": "https://www.sciencedaily.com/releases/2026/10/261024222024.htm",
@@ -636,11 +667,6 @@
           "title": "People are taking an unapproved weight-loss drug. AI found something surprising",
           "link": "https://www.sciencedaily.com/releases/2026/10/261020085018.htm",
           "date": "Wed, 21 Oct 2026 22:37:01 EDT"
-        },
-        {
-          "title": "AI can act exactly like a human, but we still don't think it's conscious",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261012185017.htm",
-          "date": "Tue, 13 Oct 2026 21:41:55 EDT"
         }
       ],
       "error": null
