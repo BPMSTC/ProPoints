@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T01:05:07.387623+00:00",
+  "generatedAt": "2026-10-27T07:14:52.562797+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,16 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+          "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+          "date": "Tue, 27 Oct 2026 02:00:00 +0000"
+        },
+        {
+          "title": "Cohere says Alibaba\u2019s Qwen model tried to send a file to Beijing",
+          "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+          "date": "Tue, 27 Oct 2026 01:12:21 +0000"
+        },
+        {
           "title": "Anthropic\u2019s IPO filing reveals its strategy for keeping enterprise customers hooked",
           "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
           "date": "Mon, 26 Oct 2026 16:49:42 +0000"
@@ -121,16 +131,6 @@
           "title": "Anthropic officially files for its public debut",
           "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
           "date": "Mon, 26 Oct 2026 14:35:22 +0000"
-        },
-        {
-          "title": "Grok releases the first seven minutes of its AI-generated \u2018Odyssey\u2019",
-          "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-          "date": "Sun, 25 Oct 2026 21:31:16 +0000"
-        },
-        {
-          "title": "AI delivers \u2018zero financial payoff\u2019 to most companies, Apollo economist says",
-          "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-          "date": "Sun, 25 Oct 2026 16:57:32 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:2:0: syntax error"
     },
     {
       "name": "AI News | VentureBeat",
@@ -216,21 +216,6 @@
       "url": "https://ainowinstitute.org/category/news/feed",
       "items": [
         {
-          "title": "What Should the Rules for A.I. Companies Actually Be? We Asked the Experts.",
-          "link": "https://ainowinstitute.org/news/what-should-the-rules-for-a-i-companies-actually-be-we-asked-the-experts",
-          "date": "Mon, 26 Oct 2026 17:49:25 +0000"
-        },
-        {
-          "title": "The big tech defectors you\u2019re not hearing about",
-          "link": "https://ainowinstitute.org/news/the-big-tech-defectors-youre-not-hearing-about",
-          "date": "Fri, 23 Oct 2026 17:49:35 +0000"
-        },
-        {
-          "title": "\u201cApocalypse Now and Then\u201d: Author Arundhati Roy on Artificial Intelligence, Capitalism & More",
-          "link": "https://ainowinstitute.org/news/apocalypse-now-and-then-author-arundhati-roy-on-artificial-intelligence-capitalism-more",
-          "date": "Thu, 22 Oct 2026 17:54:19 +0000"
-        },
-        {
           "title": "Amid AI Boom, \u201cRisk Is Spreading Throughout the Economy\u201d: Astra Taylor & Naomi Klein",
           "link": "https://ainowinstitute.org/news/amid-ai-boom-risk-is-spreading-throughout-the-economy-astra-taylor-naomi-klein",
           "date": "Wed, 21 Oct 2026 13:19:52 +0000"
@@ -239,6 +224,21 @@
           "title": "Zohran Mamdani Backs Major Expansion of New York\u2019s Data Center Moratorium",
           "link": "https://ainowinstitute.org/news/zohran-mamdani-backs-major-expansion-of-new-yorks-data-center-moratorium",
           "date": "Tue, 20 Oct 2026 16:02:48 +0000"
+        },
+        {
+          "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+          "link": "https://ainowinstitute.org/news/press/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back",
+          "date": "Mon, 19 Oct 2026 13:14:58 +0000"
+        },
+        {
+          "title": "New York City Mayor Mamdani on Artificial Intelligence and Tech Innovation",
+          "link": "https://ainowinstitute.org/news/new-york-city-mayor-mamdani-on-artificial-intelligence-and-tech-innovation",
+          "date": "Mon, 19 Oct 2026 13:12:35 +0000"
+        },
+        {
+          "title": "The $5 Trillion AI Bet You\u2019re Already Paying For",
+          "link": "https://ainowinstitute.org/news/the-5-trillion-ai-bet-youre-already-paying-for",
+          "date": "Thu, 15 Oct 2026 19:12:34 +0000"
         }
       ],
       "error": null
@@ -280,29 +280,29 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Cisco Partner Summit: Five insights that will define the channel in the AI era",
+          "link": "https://siliconangle.com/2026/10/27/cisco-partner-summit-five-insights-that-will-define-the-channel-in-the-ai-era/",
+          "date": "Tue, 27 Oct 2026 04:55:38 +0000"
+        },
+        {
+          "title": "Microsoft offers voluntary buyouts to 60,000 employees amid AI investments",
+          "link": "https://siliconangle.com/2026/10/26/microsoft-offers-voluntary-buyouts-to-60000-employees-amid-ai-investments/",
+          "date": "Tue, 27 Oct 2026 01:43:57 +0000"
+        },
+        {
+          "title": "Three insights you may have missed from theCUBE\u2019s coverage of Workiva\u2019s Amplify event",
+          "link": "https://siliconangle.com/2026/10/26/three-insights-you-may-have-missed-from-thecubes-coverage-of-workivas-amplify-event-amplify/",
+          "date": "Tue, 27 Oct 2026 01:41:30 +0000"
+        },
+        {
+          "title": "Cutting both ways: AI sharpens systems protection while opening new exploits for malicious actors",
+          "link": "https://siliconangle.com/2026/10/26/cybersecurity-ai-resilience-recovery-thecube-aicybersecurityresiliencesummit/",
+          "date": "Tue, 27 Oct 2026 01:31:47 +0000"
+        },
+        {
           "title": "OpenAI launches GPT-6.1 Terra for faster, better-performing AI agents at half the price",
           "link": "https://siliconangle.com/2026/10/26/openai-launches-gpt-6-1-terra-for-faster-better-performing-ai-agents-at-half-the-price/",
           "date": "Tue, 27 Oct 2026 00:39:34 +0000"
-        },
-        {
-          "title": "What to watch for as enterprises move from AI experimentation to autonomous operations",
-          "link": "https://siliconangle.com/2026/10/26/what-to-watch-for-as-enterprises-move-from-ai-experimentation-to-autonomous-operations/",
-          "date": "Mon, 26 Oct 2026 21:29:11 +0000"
-        },
-        {
-          "title": "Marvell\u2019s early chipmaking gamble pays off amid AI demand",
-          "link": "https://siliconangle.com/2026/10/26/ai-architectures-marvell-data-center-thecube-aifactoriesdatacenters/",
-          "date": "Mon, 26 Oct 2026 15:58:44 +0000"
-        },
-        {
-          "title": "Anthropic files S-1 paperwork for blockbuster AI IPO",
-          "link": "https://siliconangle.com/2026/10/26/anthropic-files-s-1-paperwork-for-blockbuster-ai-ipo/",
-          "date": "Mon, 26 Oct 2026 15:50:30 +0000"
-        },
-        {
-          "title": "Exclusive: iMerit launches platform to connect AI developers with specialized domain experts",
-          "link": "https://siliconangle.com/2026/10/26/imerit-launches-platform-to-connect-ai-developers-with-specialized-domain-experts/",
-          "date": "Mon, 26 Oct 2026 12:00:49 +0000"
         }
       ],
       "error": null
@@ -356,29 +356,29 @@
       "url": "https://analyticsindiamag.com/feed/",
       "items": [
         {
-          "title": "Bihar Partners with IT Cos to Train Government School Teachers In AI",
-          "link": "https://analyticsindiamag.com/ai-news/bihar-partners-with-it-cos-to-train-government-school-teachers-in-ai",
-          "date": "Mon, 26 Oct 2026 12:15:14 GMT"
+          "title": "Former GitHub CEO Launches Git Platform Built for AI Agents",
+          "link": "https://analyticsindiamag.com/ai-news/former-github-ceo-launches-git-platform-built-for-ai-agents",
+          "date": "Tue, 27 Oct 2026 06:06:30 GMT"
         },
         {
-          "title": "Meta Wants $95 Billion Through Stock Sales to Fund AI Infrastructure",
-          "link": "https://analyticsindiamag.com/ai-news/meta-wants-95-billion-through-stock-sales-to-fund-ai-infrastructure",
-          "date": "Mon, 26 Oct 2026 11:48:18 GMT"
+          "title": "E2E Networks Plans 5.4 MW NVIDIA Blackwell Expansion in India",
+          "link": "https://analyticsindiamag.com/ai-news/e2e-networks-plans-54-mw-nvidia-blackwell-expansion-in-india",
+          "date": "Tue, 27 Oct 2026 06:03:16 GMT"
         },
         {
-          "title": "India\u2019s GCCs to Add 1.4 Million Jobs, Drive 170 Million Sq. Ft. Office Demand by 2031",
-          "link": "https://analyticsindiamag.com/ai-features/indias-gccs-to-add-14-million-jobs-drive-170-million-sq-ft-office-demand-by-2031",
-          "date": "Mon, 26 Oct 2026 11:47:56 GMT"
+          "title": "Protectt.ai Takes Majority Stake in Bosch-incubated AIShield",
+          "link": "https://analyticsindiamag.com/ai-news/protecttai-takes-majority-stake-in-bosch-incubated-aishield",
+          "date": "Tue, 27 Oct 2026 05:53:09 GMT"
         },
         {
-          "title": "Pronto Founder Enters Physical AI Space With Provision Labs",
-          "link": "https://analyticsindiamag.com/ai-news/pronto-founder-enters-physical-ai-space-with-provision-labs",
-          "date": "Mon, 26 Oct 2026 11:46:26 GMT"
+          "title": "Sarvam Signs 5-Year Defence AI Deal Covering Army, Navy and Air Force",
+          "link": "https://analyticsindiamag.com/ai-news/sarvam-signs-5-year-defence-ai-deal-covering-army-navy-and-air-force",
+          "date": "Tue, 27 Oct 2026 05:51:00 GMT"
         },
         {
-          "title": "HCLTech Taps NVIDIA Simulation Tools to Automate Software-Defined Vehicle Testing",
-          "link": "https://analyticsindiamag.com/ai-news/hcltech-taps-nvidia-simulation-tools-to-automate-software-defined-vehicle-testing",
-          "date": "Mon, 26 Oct 2026 11:41:18 GMT"
+          "title": "Infosys\u2019s $5.2 Billion Deal Wins Fail to Lift FY27 Outlook",
+          "link": "https://analyticsindiamag.com/it-services/infosyss-52-billion-deal-wins-fail-to-lift-fy27-outlook",
+          "date": "Tue, 27 Oct 2026 05:36:55 GMT"
         }
       ],
       "error": null
@@ -458,6 +458,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Anthropic\u2019s record US$2 trillion stock market listing highlights the growing risks for all of us",
+          "link": "https://theconversation.com/anthropics-record-us-2-trillion-stock-market-listing-highlights-the-growing-risks-for-all-of-us-295243",
+          "date": "2026-10-27T05:26:46Z"
+        },
+        {
           "title": "Data centers are inspiring bipartisanship \u2013 for now",
           "link": "https://theconversation.com/data-centers-are-inspiring-bipartisanship-for-now-293069",
           "date": "2026-10-26T12:12:53Z"
@@ -476,11 +481,6 @@
           "title": "Why using AI saves doctors time but won\u2019t fix physician burnout",
           "link": "https://theconversation.com/why-using-ai-saves-doctors-time-but-wont-fix-physician-burnout-291250",
           "date": "2026-10-22T12:46:03Z"
-        },
-        {
-          "title": "Shares in this data centre company are down 40% as investors lose faith in the AI story",
-          "link": "https://theconversation.com/shares-in-this-data-centre-company-are-down-40-as-investors-lose-faith-in-the-ai-story-294871",
-          "date": "2026-10-22T04:35:45Z"
         }
       ],
       "error": null
@@ -495,24 +495,24 @@
           "date": "Mon, 26 Oct 2026 17:38:50 GMT"
         },
         {
+          "title": "UK government met 137 businesses over AI datacentres \u2013 but no environmental groups",
+          "link": "https://www.theguardian.com/uk-news/2026/oct/27/uk-government-environmental-groups-ai-datacentres-expansion-plans-investigation",
+          "date": "Tue, 27 Oct 2026 07:00:04 GMT"
+        },
+        {
+          "title": "Four takeaways from Anthropic\u2019s potentially record-breaking stock market filing",
+          "link": "https://www.theguardian.com/technology/2026/oct/26/anthropic-stock-market-filing-takeaways",
+          "date": "Tue, 27 Oct 2026 05:00:04 GMT"
+        },
+        {
+          "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
+          "link": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
+          "date": "Tue, 27 Oct 2026 04:42:50 GMT"
+        },
+        {
           "title": "\u2018Digital hostile environment\u2019: AI secretly being embedded across Home Office, report claims",
           "link": "https://www.theguardian.com/politics/2026/oct/27/digital-hostile-environment-ai-secretly-embedded-home-office-report",
           "date": "Tue, 27 Oct 2026 00:01:02 GMT"
-        },
-        {
-          "title": "Meta plans $95bn stock offering to help cover AI expansion",
-          "link": "https://www.theguardian.com/technology/2026/oct/26/meta-plans-95bn-stock-offering-to-help-cover-ai-expansion",
-          "date": "Mon, 26 Oct 2026 23:33:19 GMT"
-        },
-        {
-          "title": "In a rush to lure AI companies, the Australian government risks undoing a creative ecosystem that has taken decades to build | Dan Guthrie",
-          "link": "https://www.theguardian.com/commentisfree/2026/oct/27/in-a-rush-to-lure-ai-companies-the-australian-government-risks-undoing-a-creative-ecosystem-that-has-taken-decades-to-build",
-          "date": "Mon, 26 Oct 2026 22:21:17 GMT"
-        },
-        {
-          "title": "\u2018Autonomy, not flesh\u2019: RAF chief outlines AI drone-powered future",
-          "link": "https://www.theguardian.com/uk-news/2026/oct/26/royal-air-force-harv-smyth-ai-drone-future",
-          "date": "Mon, 26 Oct 2026 19:09:51 GMT"
         }
       ],
       "error": null
