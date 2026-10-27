@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T21:19:21.903534+00:00",
+  "generatedAt": "2026-10-27T01:05:07.387623+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:0: syntax error"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -253,6 +253,16 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "I built a tiny self-hostable kanban board MCP server for coding agents: 10\u201360 tokens per reply, ~3 MB of RAM",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xgem6t/i_built_a_tiny_selfhostable_kanban_board_mcp/",
+          "date": "2026-10-27T00:52:40+00:00"
+        },
+        {
+          "title": "Your coding agent sends your .env to the model. A few ways to stop that, plus the tool I built for it",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xga8fd/your_coding_agent_sends_your_env_to_the_model_a/",
+          "date": "2026-10-26T21:46:16+00:00"
+        },
+        {
           "title": "College student looking for free and easy to use ai video tools. Truly good AI/Prompt Engineering training?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xfuqv4/college_student_looking_for_free_and_easy_to_use/",
           "date": "2026-10-26T11:56:56+00:00"
@@ -261,16 +271,6 @@
           "title": "I built a 3D office where your AI coding agents sit at desks and you can walk up to their live terminals",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xfm4ko/i_built_a_3d_office_where_your_ai_coding_agents/",
           "date": "2026-10-26T03:28:05+00:00"
-        },
-        {
-          "title": "one line in my CLAUDE.md stopped my agent re-solving the same bugs",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xfivly/one_line_in_my_claudemd_stopped_my_agent/",
-          "date": "2026-10-26T00:48:31+00:00"
-        },
-        {
-          "title": "I built an OpenSearch-compatible server with AI \u2014 and wrote 6,000 tests against the real thing to keep it honest",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xfcw6m/i_built_an_opensearchcompatible_server_with_ai/",
-          "date": "2026-10-25T20:27:58+00:00"
         }
       ],
       "error": null
@@ -279,6 +279,16 @@
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
+        {
+          "title": "OpenAI launches GPT-6.1 Terra for faster, better-performing AI agents at half the price",
+          "link": "https://siliconangle.com/2026/10/26/openai-launches-gpt-6-1-terra-for-faster-better-performing-ai-agents-at-half-the-price/",
+          "date": "Tue, 27 Oct 2026 00:39:34 +0000"
+        },
+        {
+          "title": "What to watch for as enterprises move from AI experimentation to autonomous operations",
+          "link": "https://siliconangle.com/2026/10/26/what-to-watch-for-as-enterprises-move-from-ai-experimentation-to-autonomous-operations/",
+          "date": "Mon, 26 Oct 2026 21:29:11 +0000"
+        },
         {
           "title": "Marvell\u2019s early chipmaking gamble pays off amid AI demand",
           "link": "https://siliconangle.com/2026/10/26/ai-architectures-marvell-data-center-thecube-aifactoriesdatacenters/",
@@ -293,16 +303,6 @@
           "title": "Exclusive: iMerit launches platform to connect AI developers with specialized domain experts",
           "link": "https://siliconangle.com/2026/10/26/imerit-launches-platform-to-connect-ai-developers-with-specialized-domain-experts/",
           "date": "Mon, 26 Oct 2026 12:00:49 +0000"
-        },
-        {
-          "title": "Apollo analysis shows no one besides the biggest tech giants is seeing benefits from AI",
-          "link": "https://siliconangle.com/2026/10/25/apollo-analysis-shows-that-no-one-apart-from-the-biggest-tech-giants-is-seeing-any-real-benefits-from-ai/",
-          "date": "Mon, 26 Oct 2026 01:31:12 +0000"
-        },
-        {
-          "title": "Moonshot AI launches new flagship Kim K3.1 Pro model with 3T parameters",
-          "link": "https://siliconangle.com/2026/10/23/moonshot-ai-launches-new-flagship-kim-k3-1-pro-model-with-3t-parameters/",
-          "date": "Sat, 24 Oct 2026 00:55:53 +0000"
         }
       ],
       "error": null
@@ -420,29 +420,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Boston Dynamics employees want to block sale of robot dogs to ICE",
-          "link": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
-          "date": "Mon, 26 Oct 2026 18:50:41 +0000"
+          "title": "Microsoft offers to buy out a quarter of its workforce",
+          "link": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
+          "date": "Mon, 26 Oct 2026 22:36:06 +0000"
         },
         {
-          "title": "Musk accuses Ukraine of violating Starlink terms with deadly drone strikes",
-          "link": "https://arstechnica.com/tech-policy/2026/10/musk-accuses-ukraine-of-violating-starlink-terms-with-deadly-drone-strikes/",
-          "date": "Mon, 26 Oct 2026 18:09:08 +0000"
+          "title": "Worms mate in man's eyes, get plucked out right before larvae burst out",
+          "link": "https://arstechnica.com/health/2026/10/whats-worse-than-having-eye-worms-having-eye-worms-with-babies/",
+          "date": "Mon, 26 Oct 2026 20:27:00 +0000"
         },
         {
-          "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
-          "link": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
-          "date": "Mon, 26 Oct 2026 17:26:36 +0000"
+          "title": "Meet the real-life Scottish surgeon who inspired Sherlock Holmes",
+          "link": "https://arstechnica.com/science/2026/10/meet-the-real-life-scottish-surgeon-who-inspired-sherlock-holmes/",
+          "date": "Mon, 26 Oct 2026 20:15:07 +0000"
         },
         {
-          "title": "Some iPhone Duo screens are already failing",
-          "link": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
-          "date": "Mon, 26 Oct 2026 16:51:49 +0000"
+          "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+          "link": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+          "date": "Mon, 26 Oct 2026 20:04:16 +0000"
         },
         {
-          "title": "F1 in Texas: The American race that fans love to attend",
-          "link": "https://arstechnica.com/cars/2026/10/f1-in-texas-one-more-race-and-well-have-a-new-champion/",
-          "date": "Mon, 26 Oct 2026 14:48:24 +0000"
+          "title": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
+          "link": "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/",
+          "date": "Mon, 26 Oct 2026 19:04:40 +0000"
         }
       ],
       "error": null
@@ -495,24 +495,24 @@
           "date": "Mon, 26 Oct 2026 17:38:50 GMT"
         },
         {
+          "title": "\u2018Digital hostile environment\u2019: AI secretly being embedded across Home Office, report claims",
+          "link": "https://www.theguardian.com/politics/2026/oct/27/digital-hostile-environment-ai-secretly-embedded-home-office-report",
+          "date": "Tue, 27 Oct 2026 00:01:02 GMT"
+        },
+        {
+          "title": "Meta plans $95bn stock offering to help cover AI expansion",
+          "link": "https://www.theguardian.com/technology/2026/oct/26/meta-plans-95bn-stock-offering-to-help-cover-ai-expansion",
+          "date": "Mon, 26 Oct 2026 23:33:19 GMT"
+        },
+        {
+          "title": "In a rush to lure AI companies, the Australian government risks undoing a creative ecosystem that has taken decades to build | Dan Guthrie",
+          "link": "https://www.theguardian.com/commentisfree/2026/oct/27/in-a-rush-to-lure-ai-companies-the-australian-government-risks-undoing-a-creative-ecosystem-that-has-taken-decades-to-build",
+          "date": "Mon, 26 Oct 2026 22:21:17 GMT"
+        },
+        {
           "title": "\u2018Autonomy, not flesh\u2019: RAF chief outlines AI drone-powered future",
           "link": "https://www.theguardian.com/uk-news/2026/oct/26/royal-air-force-harv-smyth-ai-drone-future",
           "date": "Mon, 26 Oct 2026 19:09:51 GMT"
-        },
-        {
-          "title": "Microsoft to reportedly offer buyouts to 60,000 employees in latest cuts",
-          "link": "https://www.theguardian.com/technology/2026/oct/26/microsoft-buyout-offers-ai-cuts",
-          "date": "Mon, 26 Oct 2026 18:44:31 GMT"
-        },
-        {
-          "title": "Anthropic reveals rapid revenue gains and larger losses in stock market filing",
-          "link": "https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market",
-          "date": "Mon, 26 Oct 2026 16:22:28 GMT"
-        },
-        {
-          "title": "Anthropic files for stock market IPO; Meta announces $95bn fundraising drive to pay for AI expansion \u2013 as it happened",
-          "link": "https://www.theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates",
-          "date": "Mon, 26 Oct 2026 15:33:24 GMT"
         }
       ],
       "error": null
@@ -554,6 +554,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Thieves Are Making a Fortune Heisting AI Data Center Equipment",
+          "link": "https://futurism.com/artificial-intelligence/ai-data-center-heist-thieves-equipment",
+          "date": "Mon, 26 Oct 2026 20:06:06 -0400"
+        },
+        {
           "title": "Leaked Video Shows China Taking Apart Thousands of RTX 5090s and Turning Them Into Zombie AI Servers",
           "link": "https://futurism.com/artificial-intelligence/video-china-rtx-5090-graphics-cards-ai",
           "date": "Mon, 26 Oct 2026 15:12:24 -0400"
@@ -572,11 +577,6 @@
           "title": "Top Economist Finds That AI Has Provided \u201cZero Financial Payoff\u201d to Companies Outside Tech",
           "link": "https://futurism.com/artificial-intelligence/economist-ai-provided-zero-economic-benefit-companies-outside-tech",
           "date": "Mon, 26 Oct 2026 10:17:35 -0400"
-        },
-        {
-          "title": "Growing Majority of Americans Convinced That AI Is Bad for Society",
-          "link": "https://futurism.com/artificial-intelligence/majority-americans-ai-bad-society",
-          "date": "Sun, 25 Oct 2026 09:56:00 -0400"
         }
       ],
       "error": null
@@ -585,6 +585,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Why Anthropic\u2019s IPO Prospectus Is Missing So Many Key Figures",
+          "link": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
+          "date": "Mon, 26 Oct 2026 21:27:15 +0000"
+        },
         {
           "title": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
           "link": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
@@ -604,11 +609,6 @@
           "title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It\u2019s Winning Over Listeners",
           "link": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
           "date": "Mon, 26 Oct 2026 09:00:00 +0000"
-        },
-        {
-          "title": "What the US Movement Against Data Centers Can Learn From Abroad",
-          "link": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
-          "date": "Sun, 25 Oct 2026 10:00:00 +0000"
         }
       ],
       "error": null
