@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T23:27:37.270356+00:00",
+  "generatedAt": "2026-10-28T03:52:45.819174+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,16 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "VCs will make billions on Anthropic\u2019s IPO, but Amazon is set to make much (much) more",
+          "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+          "date": "Wed, 28 Oct 2026 01:15:28 +0000"
+        },
+        {
+          "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+          "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+          "date": "Tue, 27 Oct 2026 23:34:27 +0000"
+        },
+        {
           "title": "The data center boom has an upside: innovation for the US grid",
           "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
           "date": "Tue, 27 Oct 2026 22:55:41 +0000"
@@ -121,16 +131,6 @@
           "title": "Who\u2019s really in charge at Anthropic after the IPO?",
           "link": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
           "date": "Tue, 27 Oct 2026 21:38:28 +0000"
-        },
-        {
-          "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-          "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
-          "date": "Tue, 27 Oct 2026 18:55:35 +0000"
-        },
-        {
-          "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-          "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-          "date": "Tue, 27 Oct 2026 17:08:08 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": null
+      "error": "<unknown>:2:0: syntax error"
     },
     {
       "name": "AI News | VentureBeat",
@@ -221,6 +221,11 @@
           "date": "Mon, 26 Oct 2026 17:49:25 +0000"
         },
         {
+          "title": "A.I.\u2019s Rogue Behavior Starts With Its Training",
+          "link": "https://ainowinstitute.org/news/a-i-s-rogue-behavior-starts-with-its-training",
+          "date": "Mon, 26 Oct 2026 16:46:22 +0000"
+        },
+        {
           "title": "The big tech defectors you\u2019re not hearing about",
           "link": "https://ainowinstitute.org/news/the-big-tech-defectors-youre-not-hearing-about",
           "date": "Fri, 23 Oct 2026 17:49:35 +0000"
@@ -234,11 +239,6 @@
           "title": "Amid AI Boom, \u201cRisk Is Spreading Throughout the Economy\u201d: Astra Taylor & Naomi Klein",
           "link": "https://ainowinstitute.org/news/amid-ai-boom-risk-is-spreading-throughout-the-economy-astra-taylor-naomi-klein",
           "date": "Wed, 21 Oct 2026 13:19:52 +0000"
-        },
-        {
-          "title": "Zohran Mamdani Backs Major Expansion of New York\u2019s Data Center Moratorium",
-          "link": "https://ainowinstitute.org/news/zohran-mamdani-backs-major-expansion-of-new-yorks-data-center-moratorium",
-          "date": "Tue, 20 Oct 2026 16:02:48 +0000"
         }
       ],
       "error": null
@@ -280,6 +280,16 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Google introduces cutting-edge Genie 4 world model",
+          "link": "https://siliconangle.com/2026/10/27/google-introduces-cutting-edge-genie-4-world-model/",
+          "date": "Wed, 28 Oct 2026 01:10:58 +0000"
+        },
+        {
+          "title": "Oracle brings Google\u2019s TPUs to its cloud, adds ChatGPT integrations",
+          "link": "https://siliconangle.com/2026/10/27/oracle-brings-googles-tpus-to-its-cloud-adds-chatgpt-integrations/",
+          "date": "Tue, 27 Oct 2026 23:33:55 +0000"
+        },
+        {
           "title": "Dell expands cyber recovery tools to protect identity",
           "link": "https://siliconangle.com/2026/10/27/dell-adds-identity-resilience-cyber-recovery-tools-aicybersecurityandresiliencesummit/",
           "date": "Tue, 27 Oct 2026 22:16:01 +0000"
@@ -293,16 +303,6 @@
           "title": "Dell links supply chain security to the challenges of agentic AI",
           "link": "https://siliconangle.com/2026/10/27/dell-links-supply-chain-security-to-challenges-agentic-ai-aicybersecurityandresiliencesummit/",
           "date": "Tue, 27 Oct 2026 18:19:27 +0000"
-        },
-        {
-          "title": "Cloudera bets portability, not agents, will set it apart in enterprise AI",
-          "link": "https://siliconangle.com/2026/10/27/ai-automation-hinges-portability-says-cloudera-analyst-evolve26/",
-          "date": "Tue, 27 Oct 2026 16:48:30 +0000"
-        },
-        {
-          "title": "Regal debuts Goal Oriented Agents, putting an actor and a director model on every call",
-          "link": "https://siliconangle.com/2026/10/27/regal-debuts-goal-oriented-agents-putting-an-actor-and-a-director-model-on-every-call/",
-          "date": "Tue, 27 Oct 2026 14:00:40 +0000"
         }
       ],
       "error": null
@@ -356,6 +356,16 @@
       "url": "https://analyticsindiamag.com/feed/",
       "items": [
         {
+          "title": "Oracle Partners With OpenAI to Bring ChatGPT and Codex to Enterprise Workflows",
+          "link": "https://analyticsindiamag.com/ai-news/oracle-partners-with-openai-to-bring-chatgpt-and-codex-to-enterprise-workflows",
+          "date": "Wed, 28 Oct 2026 03:36:01 GMT"
+        },
+        {
+          "title": "Oracle Expands AI Compute Options With NVIDIA, Google TPUs and Cerebras",
+          "link": "https://analyticsindiamag.com/ai-news/oracle-expands-ai-compute-options-with-nvidia-google-tpus-and-cerebras",
+          "date": "Wed, 28 Oct 2026 03:23:14 GMT"
+        },
+        {
           "title": "Chai Point Cuts Monthly AWS Bill by 58%",
           "link": "https://analyticsindiamag.com/ai-news/chai-point-cuts-monthly-aws-bill-by-58",
           "date": "Tue, 27 Oct 2026 15:20:44 GMT"
@@ -369,16 +379,6 @@
           "title": "Maya Research Releases Open-Weight Speech Model Supporting 12 Languages",
           "link": "https://analyticsindiamag.com/ai-news/maya-research-releases-open-weight-speech-model-supporting-12-languages",
           "date": "Tue, 27 Oct 2026 12:33:35 GMT"
-        },
-        {
-          "title": "Anthropic Sued Over Alleged Use of Elvis Presley Songs to Train Claude, Denies Claim",
-          "link": "https://analyticsindiamag.com/ai-news/anthropic-sued-over-alleged-use-of-elvis-presley-songs-to-train-claude-denies-claim",
-          "date": "Tue, 27 Oct 2026 12:16:54 GMT"
-        },
-        {
-          "title": "CoRover Lists Three BharatGPT Models On Government-Backed AIKosh Platform",
-          "link": "https://analyticsindiamag.com/ai-news/corover-lists-three-bharatgpt-models-on-government-backed-aikosh-platform",
-          "date": "Tue, 27 Oct 2026 11:43:39 GMT"
         }
       ],
       "error": null
@@ -458,6 +458,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "People are using AI to make expensive computer programs free. This could change everything",
+          "link": "https://theconversation.com/people-are-using-ai-to-make-expensive-computer-programs-free-this-could-change-everything-294956",
+          "date": "2026-10-28T01:17:15Z"
+        },
+        {
           "title": "Most New Zealanders worry about AI\u2019s risks, even as many expect to use it \u2013 new survey",
           "link": "https://theconversation.com/most-new-zealanders-worry-about-ais-risks-even-as-many-expect-to-use-it-new-survey-294573",
           "date": "2026-10-27T21:13:25Z"
@@ -476,11 +481,6 @@
           "title": "We studied 1,584 data centers \u2013 and found the buildings full of machines are tied to modest local job growth",
           "link": "https://theconversation.com/we-studied-1-584-data-centers-and-found-the-buildings-full-of-machines-are-tied-to-modest-local-job-growth-293872",
           "date": "2026-10-27T12:19:07Z"
-        },
-        {
-          "title": "Anthropic\u2019s record US$2 trillion stock market listing highlights the growing risks for all of us",
-          "link": "https://theconversation.com/anthropics-record-us-2-trillion-stock-market-listing-highlights-the-growing-risks-for-all-of-us-295243",
-          "date": "2026-10-27T05:26:46Z"
         }
       ],
       "error": null
