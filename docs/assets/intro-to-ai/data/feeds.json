@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T03:52:45.819174+00:00",
+  "generatedAt": "2026-10-28T10:19:00.208926+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:0: syntax error"
+      "error": "<unknown>:81:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -280,6 +280,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Intuit rewires accounting education as AI pushes new hires toward client work",
+          "link": "https://siliconangle.com/2026/10/28/advisory-services-reshape-accounting-education-intuit-intuitconnect/",
+          "date": "Wed, 28 Oct 2026 07:20:06 +0000"
+        },
+        {
           "title": "Google introduces cutting-edge Genie 4 world model",
           "link": "https://siliconangle.com/2026/10/27/google-introduces-cutting-edge-genie-4-world-model/",
           "date": "Wed, 28 Oct 2026 01:10:58 +0000"
@@ -298,11 +303,6 @@
           "title": "Dell sees AI agent guardrails as a path to greater autonomy",
           "link": "https://siliconangle.com/2026/10/27/dell-sees-ai-agent-guardrails-path-greater-autonomy-aicybersecurityandresiliencesummit/",
           "date": "Tue, 27 Oct 2026 20:47:34 +0000"
-        },
-        {
-          "title": "Dell links supply chain security to the challenges of agentic AI",
-          "link": "https://siliconangle.com/2026/10/27/dell-links-supply-chain-security-to-challenges-agentic-ai-aicybersecurityandresiliencesummit/",
-          "date": "Tue, 27 Oct 2026 18:19:27 +0000"
         }
       ],
       "error": null
@@ -356,29 +356,29 @@
       "url": "https://analyticsindiamag.com/feed/",
       "items": [
         {
-          "title": "Oracle Partners With OpenAI to Bring ChatGPT and Codex to Enterprise Workflows",
-          "link": "https://analyticsindiamag.com/ai-news/oracle-partners-with-openai-to-bring-chatgpt-and-codex-to-enterprise-workflows",
-          "date": "Wed, 28 Oct 2026 03:36:01 GMT"
+          "title": "\u2018Owning of the IP Itself is Meaningless,\u2019 Says Mphasis\u2019 Ravi Vasantraj",
+          "link": "https://analyticsindiamag.com/it-services/owning-of-the-ip-itself-is-meaningless-says-mphasis-ravi-vasantraj",
+          "date": "Wed, 28 Oct 2026 10:09:46 GMT"
         },
         {
-          "title": "Oracle Expands AI Compute Options With NVIDIA, Google TPUs and Cerebras",
-          "link": "https://analyticsindiamag.com/ai-news/oracle-expands-ai-compute-options-with-nvidia-google-tpus-and-cerebras",
-          "date": "Wed, 28 Oct 2026 03:23:14 GMT"
+          "title": "Akamai Launches AI Inference and Agent Sandbox Services",
+          "link": "https://analyticsindiamag.com/ai-news/akamai-launches-ai-inference-and-agent-sandbox-services",
+          "date": "Wed, 28 Oct 2026 09:51:21 GMT"
         },
         {
-          "title": "Chai Point Cuts Monthly AWS Bill by 58%",
-          "link": "https://analyticsindiamag.com/ai-news/chai-point-cuts-monthly-aws-bill-by-58",
-          "date": "Tue, 27 Oct 2026 15:20:44 GMT"
+          "title": "OpenAI Sued Over ChatGPT\u2019s Alleged Role in Woman\u2019s Death After Seizure Medication Taper",
+          "link": "https://analyticsindiamag.com/ai-news/openai-sued-over-chatgpts-alleged-role-in-womans-death-after-seizure-medication-taper",
+          "date": "Wed, 28 Oct 2026 09:29:11 GMT"
         },
         {
-          "title": "Bengaluru AI Startup Simplismart Raises $14 Mn in NVIDIA-Backed Round",
-          "link": "https://analyticsindiamag.com/ai-news/bengaluru-ai-startup-simplismart-raises-14-mn-in-nvidia-backed-round",
-          "date": "Tue, 27 Oct 2026 14:32:07 GMT"
+          "title": "Live2.ai Raises \u20b9130 Cr in Pre-Series B Round Led by IvyCap Ventures",
+          "link": "https://analyticsindiamag.com/ai-news/live2ai-raises-130-cr-in-pre-series-b-round-led-by-ivycap-ventures",
+          "date": "Wed, 28 Oct 2026 09:22:03 GMT"
         },
         {
-          "title": "Maya Research Releases Open-Weight Speech Model Supporting 12 Languages",
-          "link": "https://analyticsindiamag.com/ai-news/maya-research-releases-open-weight-speech-model-supporting-12-languages",
-          "date": "Tue, 27 Oct 2026 12:33:35 GMT"
+          "title": "This Bengaluru Startup Is Building AI Agents for Hardware Design",
+          "link": "https://analyticsindiamag.com/ai-startups/this-bengaluru-startup-is-building-ai-agents-for-hardware-design",
+          "date": "Wed, 28 Oct 2026 09:13:29 GMT"
         }
       ],
       "error": null
@@ -490,6 +490,16 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "\u2018There is no inevitable dystopia\u2019: Jeanette Winterson on AI and the future of humanity",
+          "link": "https://www.theguardian.com/books/2026/oct/28/no-inevitable-dystopia-jeanette-winterson-ai-future-of-humanity",
+          "date": "Wed, 28 Oct 2026 10:00:05 GMT"
+        },
+        {
+          "title": "\u2018Emotional intimacy\u2019 from AI chatbots would be banned under Australia\u2019s digital duty of care laws",
+          "link": "https://www.theguardian.com/australia-news/2026/oct/28/emotional-intimacy-ai-chatbots-ban-digital-duty-of-care-laws-australian-politics",
+          "date": "Wed, 28 Oct 2026 05:31:55 GMT"
+        },
+        {
           "title": "AI bots flooded 2023 UK government consultation on disposable vapes ban",
           "link": "https://www.theguardian.com/society/2026/oct/27/ai-bots-flooded-2023-uk-government-consultation-disposable-vapes-ban",
           "date": "Tue, 27 Oct 2026 22:30:45 GMT"
@@ -503,16 +513,6 @@
           "title": "\u2018Meaningless as a laptop screensaver\u2019: reviewers slate Musk\u2019s AI-made Odyssey film",
           "link": "https://www.theguardian.com/technology/2026/oct/27/reviewers-slate-musk-ai-grok-odyssey-film-nolan",
           "date": "Tue, 27 Oct 2026 14:08:41 GMT"
-        },
-        {
-          "title": "Elon Musk\u2019s AI Odyssey review \u2013 the dullest, most pointless riposte possible to Christopher Nolan\u2019s brilliant epic",
-          "link": "https://www.theguardian.com/film/2026/oct/27/elon-musk-ai-odyssey-movie-grok-christopher-nolan",
-          "date": "Tue, 27 Oct 2026 13:01:46 GMT"
-        },
-        {
-          "title": "AI-driven disinformation running rampant on social media before US midterms, experts warn",
-          "link": "https://www.theguardian.com/us-news/2026/oct/27/ai-disinformation-social-media-midterm-elections",
-          "date": "Tue, 27 Oct 2026 10:00:10 GMT"
         }
       ],
       "error": null
@@ -586,6 +586,21 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
+          "link": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
+          "date": "Wed, 28 Oct 2026 10:15:00 +0000"
+        },
+        {
+          "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
+          "link": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
+          "date": "Wed, 28 Oct 2026 08:30:00 +0000"
+        },
+        {
+          "title": "Should AI Decide Your Court Case? This Judge Says Yes",
+          "link": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
+          "date": "Wed, 28 Oct 2026 06:00:00 +0000"
+        },
+        {
           "title": "Anthropic Says It Will Revolutionize Biology\u2014Some Day",
           "link": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
           "date": "Tue, 27 Oct 2026 19:39:04 +0000"
@@ -594,21 +609,6 @@
           "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
           "link": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
           "date": "Tue, 27 Oct 2026 15:10:26 +0000"
-        },
-        {
-          "title": "AI Agents Are Media\u2019s New Favorite Audience",
-          "link": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
-          "date": "Tue, 27 Oct 2026 11:00:00 +0000"
-        },
-        {
-          "title": "I Tested Every Major AI Agent for a Day. Here\u2019s the Best One",
-          "link": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
-          "date": "Tue, 27 Oct 2026 09:30:00 +0000"
-        },
-        {
-          "title": "Why Anthropic\u2019s IPO Prospectus Is Missing So Many Key Figures",
-          "link": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
-          "date": "Mon, 26 Oct 2026 21:27:15 +0000"
         }
       ],
       "error": null
