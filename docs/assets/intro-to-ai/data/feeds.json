@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-10-29T07:58:43.748783+00:00",
+  "generatedAt": "2026-10-29T15:05:30.728648+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Manifestos, Fear, and \u2018Loser Thinking\u2019: Inside Proton\u2019s AI Reckoning",
+          "link": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
+          "date": "Thu, 29 Oct 2026 14:21:49 GMT"
+        },
+        {
+          "title": "Senators Demand Meta Answer for 'Pervert Glasses' Following 404 Media Investigation",
+          "link": "https://www.404media.co/senators-wyden-markey-letter-to-meta-smart-glasses/",
+          "date": "Thu, 29 Oct 2026 10:00:00 GMT"
+        },
         {
           "title": "Objection, your honor",
           "link": "https://www.404media.co/objection-your-honor/",
@@ -19,16 +29,6 @@
           "title": "It's not the bots, Flock",
           "link": "https://www.404media.co/its-not-the-bots-flock/",
           "date": "Tue, 27 Oct 2026 13:53:39 GMT"
-        },
-        {
-          "title": "Marissa Mayer Can\u2019t Keep Pretending 'Gender Doesn't Matter'",
-          "link": "https://www.404media.co/marissa-mayer-nyt-interview/",
-          "date": "Tue, 27 Oct 2026 13:08:07 GMT"
-        },
-        {
-          "title": "Proton To \u2018Re-Interview\u2019 Staff About AI To See Who Gets To Keep Their Job",
-          "link": "https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/",
-          "date": "Mon, 26 Oct 2026 20:16:02 GMT"
         }
       ],
       "error": null
@@ -108,6 +108,21 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+          "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+          "date": "Thu, 29 Oct 2026 14:35:26 +0000"
+        },
+        {
+          "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+          "link": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+          "date": "Thu, 29 Oct 2026 13:00:00 +0000"
+        },
+        {
+          "title": "Amazon updates Alexa to help you manage shopping lists, subscriptions, and update delivery instructions",
+          "link": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/",
+          "date": "Thu, 29 Oct 2026 13:00:00 +0000"
+        },
+        {
           "title": "Microsoft just shared Azure\u2019s actual revenue in dollars: $33.2 billion",
           "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
           "date": "Wed, 28 Oct 2026 21:58:32 +0000"
@@ -116,21 +131,6 @@
           "title": "Google expands AI Search ads globally as core ad growth slows",
           "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
           "date": "Wed, 28 Oct 2026 21:48:37 +0000"
-        },
-        {
-          "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-          "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-          "date": "Wed, 28 Oct 2026 21:34:30 +0000"
-        },
-        {
-          "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-          "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
-          "date": "Wed, 28 Oct 2026 21:25:30 +0000"
-        },
-        {
-          "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-          "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-          "date": "Wed, 28 Oct 2026 19:19:58 +0000"
         }
       ],
       "error": null
@@ -280,6 +280,16 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Crux Labs raises over $6M to improve enterprise agents with human judgment",
+          "link": "https://siliconangle.com/2026/10/29/crux-labs-raises-over-6m-to-improve-enterprise-agents-with-human-judgment/",
+          "date": "Thu, 29 Oct 2026 12:00:48 +0000"
+        },
+        {
+          "title": "Solink raises more than $100M to pull business data from security cameras with AI",
+          "link": "https://siliconangle.com/2026/10/29/solink-raises-more-than-100m-to-pull-business-data-from-security-cameras-with-ai/",
+          "date": "Thu, 29 Oct 2026 12:00:28 +0000"
+        },
+        {
           "title": "Google debuts flagship Gemini 4 Carbon model with cybersecurity upgrades",
           "link": "https://siliconangle.com/2026/10/28/google-debuts-flagship-gemini-4-carbon-model-with-cybersecurity-upgrades/",
           "date": "Wed, 28 Oct 2026 23:27:13 +0000"
@@ -293,16 +303,6 @@
           "title": "Nvidia releases all-in-one adaptable Nemotron 3.5 audio transcription and translation model",
           "link": "https://siliconangle.com/2026/10/28/nvidia-releases-all-in-one-adaptable-nemotron-3-5-audio-transcription-and-translation-model/",
           "date": "Wed, 28 Oct 2026 15:00:59 +0000"
-        },
-        {
-          "title": "Virtana lets its AI agents pull in agents from other vendors to work IT incidents",
-          "link": "https://siliconangle.com/2026/10/28/virtana-lets-its-ai-agents-pull-in-agents-from-other-vendors-to-work-it-incidents/",
-          "date": "Wed, 28 Oct 2026 13:00:52 +0000"
-        },
-        {
-          "title": "Jedify formally launches Data Agents for building AI analysts in plain language",
-          "link": "https://siliconangle.com/2026/10/28/jedify-formally-launches-data-agents-for-building-ai-analysts-in-plain-language/",
-          "date": "Wed, 28 Oct 2026 13:00:22 +0000"
         }
       ],
       "error": null
@@ -356,29 +356,29 @@
       "url": "https://analyticsindiamag.com/feed/",
       "items": [
         {
-          "title": "Sarvam, Krutrim Account for 68% of Indic AI Funding as Sector Raises $687 Million: Tracxn",
-          "link": "https://analyticsindiamag.com/ai-news/sarvam-krutrim-account-for-68-of-indic-ai-funding-as-sector-raises-687-million-tracxn",
-          "date": "Thu, 29 Oct 2026 06:01:00 GMT"
+          "title": "Amazon Warns Engineers Against AI Productivity Traps in Latest Memo",
+          "link": "https://analyticsindiamag.com/ai-news/amazon-warns-engineers-against-ai-productivity-traps-in-latest-memo",
+          "date": "Thu, 29 Oct 2026 14:16:19 GMT"
         },
         {
-          "title": "Alphabet Revenue Jumps 25% as Google Cloud Doubles & Search Growth Slows",
-          "link": "https://analyticsindiamag.com/ai-news/alphabet-revenue-jumps-25-as-google-cloud-doubles-search-growth-slows",
-          "date": "Thu, 29 Oct 2026 05:51:52 GMT"
+          "title": "Gnani AI Launches Prisma v3.0 Speech Recognition Model for 10 Languages",
+          "link": "https://analyticsindiamag.com/ai-news/gnani-ai-launches-prisma-v30-speech-recognition-model-for-10-languages",
+          "date": "Thu, 29 Oct 2026 12:20:54 GMT"
         },
         {
-          "title": "\u2018You\u2019re Not Doing This AI Stuff,\u2019 Databricks CEO Tells Snowflake",
-          "link": "https://analyticsindiamag.com/ai-news/youre-not-doing-this-ai-stuff-databricks-ceo-tells-snowflake",
-          "date": "Thu, 29 Oct 2026 05:47:11 GMT"
+          "title": "Venttup Raises $3 Million To Expand Precision Manufacturing",
+          "link": "https://analyticsindiamag.com/ai-news/venttup-raises-3-million-to-expand-precision-manufacturing",
+          "date": "Thu, 29 Oct 2026 11:39:58 GMT"
         },
         {
-          "title": "HCLTech Launches Nano GCC Model With AWS to Build AI Operations",
-          "link": "https://analyticsindiamag.com/ai-news/hcltech-launches-nano-gcc-model-with-aws-to-build-ai-operations",
-          "date": "Thu, 29 Oct 2026 05:13:08 GMT"
+          "title": "Anthropic Makes $2.08 in Revenue for Every $1 Spent on Compute \u2014 Here\u2019s the Full IPO Story",
+          "link": "https://analyticsindiamag.com/global-tech/anthropic-makes-208-in-revenue-for-every-1-spent-on-compute-heres-the-full-ipo-story",
+          "date": "Thu, 29 Oct 2026 11:36:54 GMT"
         },
         {
-          "title": "Microsoft\u2019s Azure Revenue Grows 48% in September Quarter",
-          "link": "https://analyticsindiamag.com/ai-news/microsofts-azure-revenue-grows-48-in-september-quarter",
-          "date": "Thu, 29 Oct 2026 04:28:57 GMT"
+          "title": "Indian IT\u2019s New Workforces Come with a Margin Challenge",
+          "link": "https://analyticsindiamag.com/it-services/indian-its-new-workforces-come-with-a-margin-challenge",
+          "date": "Thu, 29 Oct 2026 11:18:00 GMT"
         }
       ],
       "error": null
@@ -388,29 +388,29 @@
       "url": "https://huggingface.co/blog/feed.xml",
       "items": [
         {
+          "title": "Granite Switch 4.1.1 \u2014 Update models like you update software",
+          "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+          "date": "Thu, 29 Oct 2026 13:37:07 GMT"
+        },
+        {
+          "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+          "link": "https://huggingface.co/blog/announcing-project-protostar",
+          "date": "Thu, 29 Oct 2026 00:00:00 GMT"
+        },
+        {
+          "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+          "link": "https://huggingface.co/blog/mistral-large4",
+          "date": "Thu, 29 Oct 2026 00:00:00 GMT"
+        },
+        {
+          "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+          "link": "https://huggingface.co/blog/anydecisionmodel",
+          "date": "Thu, 29 Oct 2026 00:00:00 GMT"
+        },
+        {
           "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
           "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
           "date": "Wed, 28 Oct 2026 14:58:17 GMT"
-        },
-        {
-          "title": "Build specialized multimodal models with LFM3",
-          "link": "https://huggingface.co/blog/LiquidAI/lfm3",
-          "date": "Tue, 27 Oct 2026 17:16:52 GMT"
-        },
-        {
-          "title": "Can we trust LLMs to judge whether a research idea is novel?",
-          "link": "https://huggingface.co/blog/allenai/novelty-bench",
-          "date": "Tue, 27 Oct 2026 16:12:42 GMT"
-        },
-        {
-          "title": "Does Your Model Run on AWS Trainium? Look It Up",
-          "link": "https://huggingface.co/blog/torch-neuronx-model-support",
-          "date": "Fri, 23 Oct 2026 00:00:00 GMT"
-        },
-        {
-          "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-          "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-          "date": "Thu, 22 Oct 2026 22:24:34 GMT"
         }
       ],
       "error": null
@@ -419,6 +419,16 @@
       "name": "Ars Technica - All content",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
+        {
+          "title": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
+          "link": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/",
+          "date": "Thu, 29 Oct 2026 12:58:34 +0000"
+        },
+        {
+          "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
+          "link": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/",
+          "date": "Thu, 29 Oct 2026 11:00:08 +0000"
+        },
         {
           "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
           "link": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
@@ -433,16 +443,6 @@
           "title": "Peptide peddlers cheer as RFK Jr. unilaterally grants access, overruling FDA",
           "link": "https://arstechnica.com/health/2026/10/peptide-peddlers-cheer-as-rfk-jr-unilaterally-grants-access-overruling-fda/",
           "date": "Wed, 28 Oct 2026 22:17:15 +0000"
-        },
-        {
-          "title": "Trump admin sues Utah to save Kalshi from the state's total ban on gambling",
-          "link": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
-          "date": "Wed, 28 Oct 2026 19:30:33 +0000"
-        },
-        {
-          "title": "The last, best hope for space tourism just rolled onto a runway in Arizona",
-          "link": "https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/",
-          "date": "Wed, 28 Oct 2026 19:20:36 +0000"
         }
       ],
       "error": null
@@ -458,6 +458,16 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "The UK wants \u2018AI sovereignty\u2019 to cut its reliance on foreign tech \u2013 here\u2019s how that can be achieved",
+          "link": "https://theconversation.com/the-uk-wants-ai-sovereignty-to-cut-its-reliance-on-foreign-tech-heres-how-that-can-be-achieved-295031",
+          "date": "2026-10-29T12:25:52Z"
+        },
+        {
+          "title": "Driverless 18-wheelers are on a few highways, but widespread use is a long way down the road",
+          "link": "https://theconversation.com/driverless-18-wheelers-are-on-a-few-highways-but-widespread-use-is-a-long-way-down-the-road-291123",
+          "date": "2026-10-29T12:24:43Z"
+        },
+        {
           "title": "Grok can launch a thousand ships \u2013 but this AI remake of the Odyssey can\u2019t make us feel",
           "link": "https://theconversation.com/grok-can-launch-a-thousand-ships-but-this-ai-remake-of-the-odyssey-cant-make-us-feel-295340",
           "date": "2026-10-29T04:30:29Z"
@@ -471,16 +481,6 @@
           "title": "France: three overlapping woes are fuelling a generation of discontent",
           "link": "https://theconversation.com/france-three-overlapping-woes-are-fuelling-a-generation-of-discontent-295102",
           "date": "2026-10-28T14:48:36Z"
-        },
-        {
-          "title": "AI may quickly generate ideas, but working with people leads to more creative ones",
-          "link": "https://theconversation.com/ai-may-quickly-generate-ideas-but-working-with-people-leads-to-more-creative-ones-292417",
-          "date": "2026-10-28T12:20:49Z"
-        },
-        {
-          "title": "What is artificial general intelligence \u2013 and is it already here?",
-          "link": "https://theconversation.com/what-is-artificial-general-intelligence-and-is-it-already-here-293600",
-          "date": "2026-10-28T12:11:48Z"
         }
       ],
       "error": null
@@ -490,6 +490,21 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Computerized clairvoyance: psychics push back against AI-generated readings",
+          "link": "https://www.theguardian.com/technology/ng-interactive/2026/oct/29/psychics-push-back-ai-readings",
+          "date": "Thu, 29 Oct 2026 11:00:31 GMT"
+        },
+        {
+          "title": "What is it like to work when your co-workers are AI agents?",
+          "link": "https://www.theguardian.com/technology/2026/oct/29/ai-agent-coworker",
+          "date": "Thu, 29 Oct 2026 15:00:46 GMT"
+        },
+        {
+          "title": "Could Abdul El-Sayed\u2019s plan for AI companies stave off catastrophe? | Jerel Ezell",
+          "link": "https://www.theguardian.com/commentisfree/2026/oct/29/abdul-el-sayed-ai-companies-public-ownership",
+          "date": "Thu, 29 Oct 2026 13:00:44 GMT"
+        },
+        {
           "title": "\u2018Elonville\u2019: US residents say Musk\u2019s xAI offered to buy homes if they don\u2019t sue over datacenter noise",
           "link": "https://www.theguardian.com/us-news/2026/oct/28/datacenter-noise-lawsuit-elon-musk-mississippi",
           "date": "Wed, 28 Oct 2026 15:32:41 GMT"
@@ -498,21 +513,6 @@
           "title": "Social media is full of weird video game mashups. Where are they all coming from?",
           "link": "https://www.theguardian.com/games/2026/oct/28/social-media-is-full-of-weird-video-game-mashups-where-are-they-all-coming-from",
           "date": "Wed, 28 Oct 2026 15:00:05 GMT"
-        },
-        {
-          "title": "Castle Walls review \u2013 Prime\u2019s first fully AI-generated show is here, and it\u2019s a Vaseline-smeared mess",
-          "link": "https://www.theguardian.com/tv-and-radio/2026/oct/29/castle-walls-review-prime-first-fully-ai-generated-tv-show",
-          "date": "Wed, 28 Oct 2026 14:00:05 GMT"
-        },
-        {
-          "title": "Will it be AI or the climate crisis that ends humanity? We can make it neither | Adam McKay and Philip Eubanks",
-          "link": "https://www.theguardian.com/commentisfree/2026/oct/28/ai-climate-crisis-humanity",
-          "date": "Wed, 28 Oct 2026 12:00:04 GMT"
-        },
-        {
-          "title": "\u2018There is no inevitable dystopia\u2019: Jeanette Winterson on AI and the future of humanity",
-          "link": "https://www.theguardian.com/books/2026/oct/28/no-inevitable-dystopia-jeanette-winterson-ai-future-of-humanity",
-          "date": "Wed, 28 Oct 2026 10:00:05 GMT"
         }
       ],
       "error": null
@@ -586,6 +586,21 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "The \u2018Pain in the Ass\u2019 Math That Could Save Vibe Coding From Itself",
+          "link": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
+          "date": "Thu, 29 Oct 2026 15:00:00 +0000"
+        },
+        {
+          "title": "Mistral Says Its AI Model \u2018Le Chonk\u2019 Has Leapfrogged China in the Open-Weight Race",
+          "link": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
+          "date": "Thu, 29 Oct 2026 14:00:00 +0000"
+        },
+        {
+          "title": "I Gave My Blood to the AI Death Clock",
+          "link": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
+          "date": "Thu, 29 Oct 2026 10:00:00 +0000"
+        },
+        {
           "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They\u2019re Not Better Than Humans\u2014Yet",
           "link": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
           "date": "Wed, 28 Oct 2026 18:30:00 +0000"
@@ -594,21 +609,6 @@
           "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
           "link": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
           "date": "Wed, 28 Oct 2026 10:15:00 +0000"
-        },
-        {
-          "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
-          "link": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
-          "date": "Wed, 28 Oct 2026 08:30:00 +0000"
-        },
-        {
-          "title": "Should AI Decide Your Court Case? This Judge Says Yes",
-          "link": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
-          "date": "Wed, 28 Oct 2026 06:00:00 +0000"
-        },
-        {
-          "title": "Anthropic Says It Will Revolutionize Biology\u2014Some Day",
-          "link": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
-          "date": "Tue, 27 Oct 2026 19:39:04 +0000"
         }
       ],
       "error": null
