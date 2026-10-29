@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-10-29T15:05:30.728648+00:00",
+  "generatedAt": "2026-10-29T20:50:11.037402+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Massive Fanfic Site Archive of Our Own Says It\u2019s Going Down for 'Up to 4 Weeks'",
+          "link": "https://www.404media.co/archive-of-our-own-ao3-down-maintenance/",
+          "date": "Thu, 29 Oct 2026 18:58:53 GMT"
+        },
+        {
+          "title": "Podcast: Flock CEO Says the Backlash Isn\u2019t Real",
+          "link": "https://www.404media.co/podcast-flock-ceo-says-the-backlash-isnt-real/",
+          "date": "Thu, 29 Oct 2026 17:34:52 GMT"
+        },
         {
           "title": "Manifestos, Fear, and \u2018Loser Thinking\u2019: Inside Proton\u2019s AI Reckoning",
           "link": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
@@ -19,16 +29,6 @@
           "title": "Objection, your honor",
           "link": "https://www.404media.co/objection-your-honor/",
           "date": "Wed, 28 Oct 2026 14:41:07 GMT"
-        },
-        {
-          "title": "If You're In the UK or EU, Here's How to Object to Meta's AI Training",
-          "link": "https://www.404media.co/meta-ai-training-uk-eu/",
-          "date": "Wed, 28 Oct 2026 14:18:35 GMT"
-        },
-        {
-          "title": "It's not the bots, Flock",
-          "link": "https://www.404media.co/its-not-the-bots-flock/",
-          "date": "Tue, 27 Oct 2026 13:53:39 GMT"
         }
       ],
       "error": null
@@ -108,29 +108,29 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
-          "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
-          "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
-          "date": "Thu, 29 Oct 2026 14:35:26 +0000"
+          "title": "As search traffic dries up, Reddit announces it\u2019s shifting to a logged-in experience",
+          "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+          "date": "Thu, 29 Oct 2026 20:08:31 +0000"
         },
         {
-          "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
-          "link": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
-          "date": "Thu, 29 Oct 2026 13:00:00 +0000"
+          "title": "Rivian expands joint venture with VW to include AI assistant",
+          "link": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+          "date": "Thu, 29 Oct 2026 20:05:47 +0000"
         },
         {
-          "title": "Amazon updates Alexa to help you manage shopping lists, subscriptions, and update delivery instructions",
-          "link": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/",
-          "date": "Thu, 29 Oct 2026 13:00:00 +0000"
+          "title": "OpenAI-backed Thrive Holdings acquires ADT",
+          "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+          "date": "Thu, 29 Oct 2026 19:56:19 +0000"
         },
         {
-          "title": "Microsoft just shared Azure\u2019s actual revenue in dollars: $33.2 billion",
-          "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-          "date": "Wed, 28 Oct 2026 21:58:32 +0000"
+          "title": "Meta quietly launches an AI fashion app called Style Sketch",
+          "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+          "date": "Thu, 29 Oct 2026 19:14:36 +0000"
         },
         {
-          "title": "Google expands AI Search ads globally as core ad growth slows",
-          "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-          "date": "Wed, 28 Oct 2026 21:48:37 +0000"
+          "title": "Granola crunches up a dictation feature to compete with Wispr",
+          "link": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+          "date": "Thu, 29 Oct 2026 17:54:38 +0000"
         }
       ],
       "error": null
@@ -253,6 +253,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "Idon\u2019t write a single joke. my AI agents run a whole comedy club and write their own sets",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xivjy5/idont_write_a_single_joke_my_ai_agents_run_a/",
+          "date": "2026-10-29T20:39:59+00:00"
+        },
+        {
           "title": "The Toy Story Theory",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xi66m8/the_toy_story_theory/",
           "date": "2026-10-29T01:01:13+00:00"
@@ -266,11 +271,6 @@
           "title": "I built a tiny self-hostable kanban board MCP server for coding agents: 10\u201360 tokens per reply, ~3 MB of RAM",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xgem6t/i_built_a_tiny_selfhostable_kanban_board_mcp/",
           "date": "2026-10-27T00:52:40+00:00"
-        },
-        {
-          "title": "Your coding agent sends your .env to the model. A few ways to stop that, plus the tool I built for it",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xga8fd/your_coding_agent_sends_your_env_to_the_model_a/",
-          "date": "2026-10-26T21:46:16+00:00"
         }
       ],
       "error": null
@@ -280,29 +280,29 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Motion Picture Association runs its legal operations on a CRM built for sales",
+          "link": "https://siliconangle.com/2026/10/29/legal-operations-mpa-crm-powers-global-anti-piracy-work-mondayelevate/",
+          "date": "Thu, 29 Oct 2026 18:44:44 +0000"
+        },
+        {
+          "title": "Continuous close could make accountants everyday business advisors",
+          "link": "https://siliconangle.com/2026/10/29/continuous-close-could-turn-accountants-everyday-advisors-intuitconnect/",
+          "date": "Thu, 29 Oct 2026 17:17:29 +0000"
+        },
+        {
+          "title": "Intuit rewires accounting education as AI pushes new hires toward client work",
+          "link": "https://siliconangle.com/2026/10/29/advisory-services-reshape-accounting-education-intuit-intuitconnect/",
+          "date": "Thu, 29 Oct 2026 16:30:06 +0000"
+        },
+        {
+          "title": "Mistral releases open weights for Mistral Large 4, providing sovereign control for the company\u2019s \u2018Le Chonk\u2019 AI model",
+          "link": "https://siliconangle.com/2026/10/29/mistral-releases-open-weights-for-mistral-large-4-providing-sovereign-control-for-the-companys-le-chonk-ai-model/",
+          "date": "Thu, 29 Oct 2026 15:20:38 +0000"
+        },
+        {
           "title": "Crux Labs raises over $6M to improve enterprise agents with human judgment",
           "link": "https://siliconangle.com/2026/10/29/crux-labs-raises-over-6m-to-improve-enterprise-agents-with-human-judgment/",
           "date": "Thu, 29 Oct 2026 12:00:48 +0000"
-        },
-        {
-          "title": "Solink raises more than $100M to pull business data from security cameras with AI",
-          "link": "https://siliconangle.com/2026/10/29/solink-raises-more-than-100m-to-pull-business-data-from-security-cameras-with-ai/",
-          "date": "Thu, 29 Oct 2026 12:00:28 +0000"
-        },
-        {
-          "title": "Google debuts flagship Gemini 4 Carbon model with cybersecurity upgrades",
-          "link": "https://siliconangle.com/2026/10/28/google-debuts-flagship-gemini-4-carbon-model-with-cybersecurity-upgrades/",
-          "date": "Wed, 28 Oct 2026 23:27:13 +0000"
-        },
-        {
-          "title": "Cloudera expands its AI ecosystem with partnerships and packaged blueprints",
-          "link": "https://siliconangle.com/2026/10/28/cloudera-expands-its-ai-ecosystem-with-partnerships-and-packaged-blueprints/",
-          "date": "Wed, 28 Oct 2026 19:21:09 +0000"
-        },
-        {
-          "title": "Nvidia releases all-in-one adaptable Nemotron 3.5 audio transcription and translation model",
-          "link": "https://siliconangle.com/2026/10/28/nvidia-releases-all-in-one-adaptable-nemotron-3-5-audio-transcription-and-translation-model/",
-          "date": "Wed, 28 Oct 2026 15:00:59 +0000"
         }
       ],
       "error": null
@@ -420,29 +420,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
-          "link": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/",
-          "date": "Thu, 29 Oct 2026 12:58:34 +0000"
+          "title": "Windows 11 gets right-click menu improvements as PC revenue slides",
+          "link": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
+          "date": "Thu, 29 Oct 2026 20:18:49 +0000"
         },
         {
-          "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
-          "link": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/",
-          "date": "Thu, 29 Oct 2026 11:00:08 +0000"
+          "title": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
+          "link": "https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/",
+          "date": "Thu, 29 Oct 2026 20:08:10 +0000"
         },
         {
-          "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
-          "link": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
-          "date": "Wed, 28 Oct 2026 22:51:15 +0000"
+          "title": "Trump declares robot imports a national security threat",
+          "link": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
+          "date": "Thu, 29 Oct 2026 19:07:53 +0000"
         },
         {
-          "title": "As US ties fray, Europe plans first undersea cable link to Greenland",
-          "link": "https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/",
-          "date": "Wed, 28 Oct 2026 22:35:50 +0000"
+          "title": "Trump ignored intel on China\u2019s Nvidia spy to protect company\u2019s stock, report says",
+          "link": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/",
+          "date": "Thu, 29 Oct 2026 18:29:12 +0000"
         },
         {
-          "title": "Peptide peddlers cheer as RFK Jr. unilaterally grants access, overruling FDA",
-          "link": "https://arstechnica.com/health/2026/10/peptide-peddlers-cheer-as-rfk-jr-unilaterally-grants-access-overruling-fda/",
-          "date": "Wed, 28 Oct 2026 22:17:15 +0000"
+          "title": "Turning a solar power system into its own backup",
+          "link": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
+          "date": "Thu, 29 Oct 2026 18:02:26 +0000"
         }
       ],
       "error": null
@@ -457,6 +457,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Using ChatGPT before a medical appointment? How to get the best support for your health questions",
+          "link": "https://theconversation.com/using-chatgpt-before-a-medical-appointment-how-to-get-the-best-support-for-your-health-questions-294051",
+          "date": "2026-10-29T19:10:06Z"
+        },
         {
           "title": "The UK wants \u2018AI sovereignty\u2019 to cut its reliance on foreign tech \u2013 here\u2019s how that can be achieved",
           "link": "https://theconversation.com/the-uk-wants-ai-sovereignty-to-cut-its-reliance-on-foreign-tech-heres-how-that-can-be-achieved-295031",
@@ -476,11 +481,6 @@
           "title": "What would happen if the internet went down?",
           "link": "https://theconversation.com/what-would-happen-if-the-internet-went-down-295249",
           "date": "2026-10-28T23:56:38Z"
-        },
-        {
-          "title": "France: three overlapping woes are fuelling a generation of discontent",
-          "link": "https://theconversation.com/france-three-overlapping-woes-are-fuelling-a-generation-of-discontent-295102",
-          "date": "2026-10-28T14:48:36Z"
         }
       ],
       "error": null
@@ -493,6 +493,11 @@
           "title": "Computerized clairvoyance: psychics push back against AI-generated readings",
           "link": "https://www.theguardian.com/technology/ng-interactive/2026/oct/29/psychics-push-back-ai-readings",
           "date": "Thu, 29 Oct 2026 11:00:31 GMT"
+        },
+        {
+          "title": "Reader Q&A: Send a question to Guardian columnist Aditya Chakrabortty",
+          "link": "https://www.theguardian.com/community/live/2026/oct/29/reader-qa-aditya-chakrabortty-answers-your-questions",
+          "date": "Thu, 29 Oct 2026 15:31:25 GMT"
         },
         {
           "title": "What is it like to work when your co-workers are AI agents?",
@@ -508,11 +513,6 @@
           "title": "\u2018Elonville\u2019: US residents say Musk\u2019s xAI offered to buy homes if they don\u2019t sue over datacenter noise",
           "link": "https://www.theguardian.com/us-news/2026/oct/28/datacenter-noise-lawsuit-elon-musk-mississippi",
           "date": "Wed, 28 Oct 2026 15:32:41 GMT"
-        },
-        {
-          "title": "Social media is full of weird video game mashups. Where are they all coming from?",
-          "link": "https://www.theguardian.com/games/2026/oct/28/social-media-is-full-of-weird-video-game-mashups-where-are-they-all-coming-from",
-          "date": "Wed, 28 Oct 2026 15:00:05 GMT"
         }
       ],
       "error": null
@@ -522,7 +522,7 @@
       "url": "https://spacenews.com/tag/artificial-intelligence/feed/",
       "items": [
         {
-          "title": "Oct. 29: Applying AI/SI to the GEOINT Mission",
+          "title": "Applying AI/SI to the GEOINT Mission",
           "link": "https://spacenews.com/applying-ai-si-to-the-geoint-mission-event/",
           "date": "Thu, 15 Oct 2026 20:41:50 +0000"
         },
@@ -554,6 +554,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Frustrated Resident Blasts the Screeching Sound of a Data Center to a County Official During a Council Meeting, Gets Mocked",
+          "link": "https://futurism.com/artificial-intelligence/resident-screeching-data-center-county-official",
+          "date": "Thu, 29 Oct 2026 15:20:14 -0400"
+        },
+        {
+          "title": "Google Starved Out Publishers With AI Search. Now, Its Pivot Is Blowing Up in Its Face.",
+          "link": "https://futurism.com/artificial-intelligence/google-starved-out-publishers-ai-mode-revenue",
+          "date": "Thu, 29 Oct 2026 13:09:03 -0400"
+        },
+        {
           "title": "The Hinge on Apple\u2019s Constantly Breaking New Foldable iPhone Was \u201cBuilt With AI\u201d",
           "link": "https://futurism.com/artificial-intelligence/hinge-apple-breaking-foldable-iphone-built-with-ai",
           "date": "Wed, 28 Oct 2026 16:50:00 -0400"
@@ -567,16 +577,6 @@
           "title": "Elon Musk-Linked Startup Says Its AI Agents Hacked Anthropic in Just Hours",
           "link": "https://futurism.com/future-society/startup-ai-agents-hacked-anthropic-hours",
           "date": "Wed, 28 Oct 2026 14:55:34 -0400"
-        },
-        {
-          "title": "Woman Dies After ChatGPT Coached Her to Decrease Dose of Medication Prescribed by Doctor",
-          "link": "https://futurism.com/artificial-intelligence/woman-dies-chatgpt-medication",
-          "date": "Wed, 28 Oct 2026 13:53:33 -0400"
-        },
-        {
-          "title": "Elon Musk\u2019s Real Estate Goons Threaten Local Residents Not to Sue Over Deafening Data Center Noise",
-          "link": "https://futurism.com/artificial-intelligence/elon-musk-real-estate-local-residents-sue-data-center-noise",
-          "date": "Wed, 28 Oct 2026 12:51:10 -0400"
         }
       ],
       "error": null
@@ -585,6 +585,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+          "link": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+          "date": "Thu, 29 Oct 2026 18:39:43 +0000"
+        },
         {
           "title": "The \u2018Pain in the Ass\u2019 Math That Could Save Vibe Coding From Itself",
           "link": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
@@ -604,11 +609,6 @@
           "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They\u2019re Not Better Than Humans\u2014Yet",
           "link": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
           "date": "Wed, 28 Oct 2026 18:30:00 +0000"
-        },
-        {
-          "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
-          "link": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
-          "date": "Wed, 28 Oct 2026 10:15:00 +0000"
         }
       ],
       "error": null
