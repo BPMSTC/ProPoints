@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T14:59:20.377114+00:00",
+  "generatedAt": "2026-10-31T19:12:24.966820+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "OpenAI reportedly lowers funding target for new round",
+          "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+          "date": "Sat, 31 Oct 2026 16:12:55 +0000"
+        },
+        {
           "title": "Nvidia weighs playing the cosigner for Nscale\u2019s AI data center in West Virginia",
           "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
           "date": "Sat, 31 Oct 2026 01:20:05 +0000"
@@ -126,11 +131,6 @@
           "title": "Anthropic expected to receive high \u2018junk\u2019 rating from credit agencies following IPO, FT report says",
           "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
           "date": "Fri, 30 Oct 2026 21:52:03 +0000"
-        },
-        {
-          "title": "Last-minute Halloween costumes for tech nerds",
-          "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-          "date": "Fri, 30 Oct 2026 21:26:59 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -280,6 +280,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Can enterprise AI pay for the boom?",
+          "link": "https://siliconangle.com/2026/10/31/can-enterprise-ai-pay-for-the-boom/",
+          "date": "Sat, 31 Oct 2026 17:12:02 +0000"
+        },
+        {
           "title": "Google, Anthropic and others to support new AI crawling opt-out standard",
           "link": "https://siliconangle.com/2026/10/30/google-anthropic-and-others-to-support-new-ai-crawling-opt-out-standard/",
           "date": "Sat, 31 Oct 2026 02:00:23 +0000"
@@ -298,11 +303,6 @@
           "title": "The hidden threat in Anthropic\u2019s prospectus: diseconomies of scale",
           "link": "https://siliconangle.com/2026/10/30/the-hidden-threat-in-anthropics-prospectus-diseconomies-of-scale/",
           "date": "Fri, 30 Oct 2026 15:26:21 +0000"
-        },
-        {
-          "title": "Intuit targets the mid-market ERP gap with AI",
-          "link": "https://siliconangle.com/2026/10/30/mid-market-erp-how-intuit-uses-ai-avoid-failed-intuitconnect/",
-          "date": "Fri, 30 Oct 2026 14:39:29 +0000"
         }
       ],
       "error": null
@@ -490,9 +490,14 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Credit where it\u2019s due to AI for uncovering the PHP flaw \u2013 and discredit to the leaker | Letters",
-          "link": "https://www.theguardian.com/technology/2026/oct/30/credit-where-its-due-to-ai-for-uncovering-the-php-flaw-and-discredit-to-the-leaker",
-          "date": "Fri, 30 Oct 2026 17:10:09 GMT"
+          "title": "Disquiet grows in Albanese\u2019s back yard as Grayndler artists unite against \u2018insane\u2019 AI proposal",
+          "link": "https://www.theguardian.com/australia-news/2026/nov/01/artists-against-ai-proposal-anthony-albanese-grayndler-sydney-inner-west",
+          "date": "Sat, 31 Oct 2026 19:00:52 GMT"
+        },
+        {
+          "title": "A-listers and AI stylists: how high-street brands are staging a fashion comeback",
+          "link": "https://www.theguardian.com/fashion/2026/oct/31/a-listers-ai-stylists-high-street-brands-fashion-comeback",
+          "date": "Sat, 31 Oct 2026 16:00:47 GMT"
         },
         {
           "title": "Is AI your new wingman? How chatbots are transforming dating",
@@ -508,11 +513,6 @@
           "title": "I read Anthropic's 92-page risk factor document, so you don't have to \u2013 video explainer",
           "link": "https://www.theguardian.com/global/video/2026/oct/30/anthropic-92-page-risk-factor-document-ipo-filing-video-explainer",
           "date": "Fri, 30 Oct 2026 19:57:13 GMT"
-        },
-        {
-          "title": "Tech sell-off drives US markets down by nearly $1tn after subpar earnings reports",
-          "link": "https://www.theguardian.com/technology/2026/oct/30/tech-stocks-drop-earnings-report",
-          "date": "Fri, 30 Oct 2026 18:27:51 GMT"
         }
       ],
       "error": null
@@ -554,6 +554,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Sam Altman to Infuriated Mathematicians: The Math Slop Won\u2019t Stop",
+          "link": "https://futurism.com/artificial-intelligence/sam-altman-mathematicians-math-slop",
+          "date": "Sat, 31 Oct 2026 13:51:00 -0400"
+        },
+        {
+          "title": "Better Start Hitting the Gym Finally Because AI Robots Already Are",
+          "link": "https://futurism.com/robots-and-machines/ai-robots-hitting-gym",
+          "date": "Sat, 31 Oct 2026 11:52:00 -0400"
+        },
+        {
           "title": "Creeps Are Using AI to Undress Celebrities in Paparazzi Shots for Clicks",
           "link": "https://futurism.com/artificial-intelligence/creeps-ai-undress-celebrities",
           "date": "Sat, 31 Oct 2026 08:55:00 -0400"
@@ -567,16 +577,6 @@
           "title": "Sam Altman Says Gen Z Are Lame for Not Worshipping AI",
           "link": "https://futurism.com/artificial-intelligence/sam-altman-gen-z-lame-not-worshipping-ai",
           "date": "Fri, 30 Oct 2026 17:10:00 -0400"
-        },
-        {
-          "title": "Pope Leo Comes Out Swinging Against AI Personhood",
-          "link": "https://futurism.com/artificial-intelligence/pope-leo-ai-personhood",
-          "date": "Fri, 30 Oct 2026 14:06:15 -0400"
-        },
-        {
-          "title": "Sam Altman Absolutely Hates the Idea of People Running Their Own AI Models at Home, Argues They Shouldn\u2019t Own Computers",
-          "link": "https://futurism.com/artificial-intelligence/sam-altman-hates-local-ai-models-computers",
-          "date": "Fri, 30 Oct 2026 13:02:15 -0400"
         }
       ],
       "error": null
