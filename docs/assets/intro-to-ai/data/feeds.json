@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-10-31T08:13:59.006628+00:00",
+  "generatedAt": "2026-10-31T14:59:20.377114+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "People Used to Drink Wine Made From Ground-Up Mummies. Now, Scientists Are Studying It",
+          "link": "https://www.404media.co/people-used-to-drink-wine-made-from-ground-up-mummies-now-scientists-are-studying-it/",
+          "date": "Sat, 31 Oct 2026 11:00:00 GMT"
+        },
         {
           "title": "\u2018Wake Up Call:\u2019 Fanfiction Writers and Readers React to AO3 Outage",
           "link": "https://www.404media.co/ao3-down-outage-reactions/",
@@ -24,11 +29,6 @@
           "title": "Behind the Blog: Tech Support",
           "link": "https://www.404media.co/behind-the-blog-tech-support/",
           "date": "Fri, 30 Oct 2026 15:48:18 GMT"
-        },
-        {
-          "title": "Apple Is Entering Its Slop Era",
-          "link": "https://www.404media.co/apple-is-entering-its-slop-era/",
-          "date": "Fri, 30 Oct 2026 12:31:04 GMT"
         }
       ],
       "error": null
@@ -420,6 +420,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Seabirds racing home over the ocean can get jet-lagged",
+          "link": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
+          "date": "Sat, 31 Oct 2026 11:15:26 +0000"
+        },
+        {
+          "title": "The FDA wants to pull its approval of a drug. It\u2019s not so easy.",
+          "link": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
+          "date": "Sat, 31 Oct 2026 11:02:34 +0000"
+        },
+        {
           "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
           "link": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
           "date": "Sat, 31 Oct 2026 00:07:22 +0000"
@@ -433,16 +443,6 @@
           "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
           "link": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/",
           "date": "Fri, 30 Oct 2026 22:21:05 +0000"
-        },
-        {
-          "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
-          "link": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
-          "date": "Fri, 30 Oct 2026 21:41:54 +0000"
-        },
-        {
-          "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-          "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
-          "date": "Fri, 30 Oct 2026 21:09:54 +0000"
         }
       ],
       "error": null
@@ -495,6 +495,11 @@
           "date": "Fri, 30 Oct 2026 17:10:09 GMT"
         },
         {
+          "title": "Is AI your new wingman? How chatbots are transforming dating",
+          "link": "https://www.theguardian.com/lifeandstyle/2026/oct/31/ai-your-wingman-chatbots-transforming-dating",
+          "date": "Sat, 31 Oct 2026 12:00:42 GMT"
+        },
+        {
           "title": "Relying on AI is rotting your brain. But here\u2019s what you can do about it | Carly Dober",
           "link": "https://www.theguardian.com/commentisfree/2026/oct/31/ai-rely-brain-new-tech-product-lives-boredom",
           "date": "Sat, 31 Oct 2026 08:00:37 GMT"
@@ -508,11 +513,6 @@
           "title": "Tech sell-off drives US markets down by nearly $1tn after subpar earnings reports",
           "link": "https://www.theguardian.com/technology/2026/oct/30/tech-stocks-drop-earnings-report",
           "date": "Fri, 30 Oct 2026 18:27:51 GMT"
-        },
-        {
-          "title": "A question for those who hate datacentres",
-          "link": "https://www.theguardian.com/uk-news/2026/oct/30/a-question-for-those-who-hate-datacentres",
-          "date": "Fri, 30 Oct 2026 17:10:03 GMT"
         }
       ],
       "error": null
@@ -554,6 +554,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Creeps Are Using AI to Undress Celebrities in Paparazzi Shots for Clicks",
+          "link": "https://futurism.com/artificial-intelligence/creeps-ai-undress-celebrities",
+          "date": "Sat, 31 Oct 2026 08:55:00 -0400"
+        },
+        {
           "title": "Tech Leaders Kiss the Ring and Refuse to Call It \u201cAI\u201d After Trump Told Them Not to",
           "link": "https://futurism.com/artificial-intelligence/tech-leaders-kiss-ring-trump-call-ai-si",
           "date": "Fri, 30 Oct 2026 18:15:00 -0400"
@@ -572,11 +577,6 @@
           "title": "Sam Altman Absolutely Hates the Idea of People Running Their Own AI Models at Home, Argues They Shouldn\u2019t Own Computers",
           "link": "https://futurism.com/artificial-intelligence/sam-altman-hates-local-ai-models-computers",
           "date": "Fri, 30 Oct 2026 13:02:15 -0400"
-        },
-        {
-          "title": "Stock Market Bloodbath Spikes Fears of AI Bubble Bursting",
-          "link": "https://futurism.com/future-society/stock-market-bloodbath-ai-bubble-earnings",
-          "date": "Fri, 30 Oct 2026 11:49:28 -0400"
         }
       ],
       "error": null
@@ -586,6 +586,21 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Spooky New Infostealer Malware Uses AI to \u2018Autodox\u2019 Victims",
+          "link": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+          "date": "Sat, 31 Oct 2026 12:00:00 +0000"
+        },
+        {
+          "title": "Meta\u2019s Muse Could Upend All Kinds of Businesses. It Hasn\u2019t Yet",
+          "link": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+          "date": "Sat, 31 Oct 2026 10:30:00 +0000"
+        },
+        {
+          "title": "An AI Agent Injected Drugs Into a Live Mouse\u2019s Brain",
+          "link": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+          "date": "Sat, 31 Oct 2026 10:00:00 +0000"
+        },
+        {
           "title": "How a Contractor\u2019s Claude Agent Got Into the Pentagon",
           "link": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
           "date": "Fri, 30 Oct 2026 21:19:26 +0000"
@@ -594,21 +609,6 @@
           "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
           "link": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
           "date": "Thu, 29 Oct 2026 18:39:43 +0000"
-        },
-        {
-          "title": "The \u2018Pain in the Ass\u2019 Math That Could Save Vibe Coding From Itself",
-          "link": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
-          "date": "Thu, 29 Oct 2026 15:00:00 +0000"
-        },
-        {
-          "title": "Mistral Says Its AI Model \u2018Le Chonk\u2019 Has Leapfrogged China in the Open-Weight Race",
-          "link": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
-          "date": "Thu, 29 Oct 2026 14:00:00 +0000"
-        },
-        {
-          "title": "I Gave My Blood to the AI Death Clock",
-          "link": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
-          "date": "Thu, 29 Oct 2026 10:00:00 +0000"
         }
       ],
       "error": null
