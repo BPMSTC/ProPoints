@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T22:50:51.010401+00:00",
+  "generatedAt": "2026-10-31T01:58:41.105804+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,16 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Nvidia weighs playing the cosigner for Nscale\u2019s AI data center in West Virginia",
+          "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+          "date": "Sat, 31 Oct 2026 01:20:05 +0000"
+        },
+        {
+          "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+          "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+          "date": "Fri, 30 Oct 2026 22:56:13 +0000"
+        },
+        {
           "title": "Intel\u2019s stock crashes, knocking $12B from government\u2019s stake",
           "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
           "date": "Fri, 30 Oct 2026 21:54:34 +0000"
@@ -121,16 +131,6 @@
           "title": "Last-minute Halloween costumes for tech nerds",
           "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
           "date": "Fri, 30 Oct 2026 21:26:59 +0000"
-        },
-        {
-          "title": "Cracks are emerging in the AI spending boom",
-          "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-          "date": "Fri, 30 Oct 2026 21:17:40 +0000"
-        },
-        {
-          "title": "Zest\u2019s new AI agent finds restaurants and books reservations over text",
-          "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-          "date": "Fri, 30 Oct 2026 17:47:12 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:7:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -253,6 +253,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "Google AI Studio is actually really good nowadays",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xjx27h/google_ai_studio_is_actually_really_good_nowadays/",
+          "date": "2026-10-31T01:11:22+00:00"
+        },
+        {
           "title": "What is your current tech stack for building deep research agents that find direct source contacts?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xjc597/what_is_your_current_tech_stack_for_building_deep/",
           "date": "2026-10-30T10:53:45+00:00"
@@ -266,11 +271,6 @@
           "title": "The Toy Story Theory",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xi66m8/the_toy_story_theory/",
           "date": "2026-10-29T01:01:13+00:00"
-        },
-        {
-          "title": "Is there any AI video tools which offer me decent free credit?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xh39wq/is_there_any_ai_video_tools_which_offer_me_decent/",
-          "date": "2026-10-27T20:08:37+00:00"
         }
       ],
       "error": null
@@ -279,6 +279,11 @@
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
+        {
+          "title": "Google X co-founder Sebastian Thrun raises $130M for AI engineering startup Dulo",
+          "link": "https://siliconangle.com/2026/10/30/google-x-co-founder-sebastian-thrun-raises-130m-for-ai-engineering-startup-dulo/",
+          "date": "Fri, 30 Oct 2026 23:59:47 +0000"
+        },
         {
           "title": "As Anthropic finally files for IPO, rising risks aren\u2019t slowing the AI buildout \u2013 yet",
           "link": "https://siliconangle.com/2026/10/30/as-anthropic-finally-files-for-ipo-rising-risks-arent-slowing-the-ai-buildout-yet/",
@@ -298,11 +303,6 @@
           "title": "Beyond the books: Real-time data is driving a small-business lending surge",
           "link": "https://siliconangle.com/2026/10/30/cash-flow-management-gets-real-time-data-lending-intuitconnect/",
           "date": "Fri, 30 Oct 2026 14:25:10 +0000"
-        },
-        {
-          "title": "The race to deploy AI agents finds a familiar hurdle in data access",
-          "link": "https://siliconangle.com/2026/10/30/role-based-access-control-decides-ai-agents-can-trusted-evolve26/",
-          "date": "Fri, 30 Oct 2026 12:03:27 +0000"
         }
       ],
       "error": null
@@ -420,7 +420,12 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Flesh-eating screwworms are feasting on pets; 4 dogs and cat attacked this week",
+          "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
+          "link": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
+          "date": "Sat, 31 Oct 2026 00:07:22 +0000"
+        },
+        {
+          "title": "Flesh-eating screwworms spread to third state and are attacking pets",
           "link": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
           "date": "Fri, 30 Oct 2026 22:36:41 +0000"
         },
@@ -438,11 +443,6 @@
           "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
           "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
           "date": "Fri, 30 Oct 2026 21:09:54 +0000"
-        },
-        {
-          "title": "Dartmouth's provost warned us about AI cheating\u2014but his own AI use cost him his job",
-          "link": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
-          "date": "Fri, 30 Oct 2026 20:40:13 +0000"
         }
       ],
       "error": null
