@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T01:13:34.159131+00:00",
+  "generatedAt": "2026-11-02T08:50:05.101523+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -253,6 +253,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "You can see every AD your competitor has been running on Google and find the exact one that converts",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xkuf9l/you_can_see_every_ad_your_competitor_has_been/",
+          "date": "2026-11-01T04:51:21+00:00"
+        },
+        {
           "title": "hi every body",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xkrg2k/hi_every_body/",
           "date": "2026-11-01T02:02:41+00:00"
@@ -266,11 +271,6 @@
           "title": "Google AI Studio is actually really good nowadays",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xjx27h/google_ai_studio_is_actually_really_good_nowadays/",
           "date": "2026-10-31T01:11:22+00:00"
-        },
-        {
-          "title": "What is your current tech stack for building deep research agents that find direct source contacts?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xjc597/what_is_your_current_tech_stack_for_building_deep/",
-          "date": "2026-10-30T10:53:45+00:00"
         }
       ],
       "error": null
@@ -295,7 +295,7 @@
           "date": "Fri, 30 Oct 2026 23:59:47 +0000"
         },
         {
-          "title": "As Anthropic finally files for IPO, rising risks aren\u2019t slowing the AI buildout \u2013 yet",
+          "title": "As Anthropic finally files for its IPO, rising risks aren\u2019t slowing the AI buildout \u2013 yet",
           "link": "https://siliconangle.com/2026/10/30/as-anthropic-finally-files-for-ipo-rising-risks-arent-slowing-the-ai-buildout-yet/",
           "date": "Fri, 30 Oct 2026 15:30:08 +0000"
         },
@@ -356,29 +356,29 @@
       "url": "https://analyticsindiamag.com/feed/",
       "items": [
         {
-          "title": "The Bengaluru Founder Building a Bridge to San Francisco",
-          "link": "https://analyticsindiamag.com/ai-startups/the-bengaluru-founder-building-a-bridge-to-san-francisco",
-          "date": "Sun, 01 Nov 2026 06:23:32 GMT"
+          "title": "India\u2019s Frontier AI Race Gets a 240M Model That Beats Liquid AI",
+          "link": "https://analyticsindiamag.com/ai-features/indias-frontier-ai-race-gets-a-240m-model-that-beats-liquid-ai",
+          "date": "Mon, 02 Nov 2026 07:28:07 GMT"
         },
         {
-          "title": "Are Boutique AI Firms India\u2019s Next Big Thing?",
-          "link": "https://analyticsindiamag.com/it-services/are-boutique-ai-firms-indias-next-big-thing",
-          "date": "Sat, 31 Oct 2026 06:02:32 GMT"
+          "title": "Google\u2019s Project Suncatcher Satellite Generates First AI Response in Orbit",
+          "link": "https://analyticsindiamag.com/ai-news/googles-project-suncatcher-satellite-generates-first-ai-response-in-orbit",
+          "date": "Mon, 02 Nov 2026 07:13:09 GMT"
         },
         {
-          "title": "Amazon Warns Engineers Against AI Productivity Traps in Latest Memo",
-          "link": "https://analyticsindiamag.com/ai-news/amazon-warns-engineers-against-ai-productivity-traps-in-latest-memo",
-          "date": "Thu, 29 Oct 2026 14:16:19 GMT"
+          "title": "Genpact Certified as a Best Firm for Data Scientists",
+          "link": "https://analyticsindiamag.com/ai-highlights/genpact-certified-as-a-best-firm-for-data-scientists",
+          "date": "Mon, 02 Nov 2026 06:50:00 GMT"
         },
         {
-          "title": "Gnani AI Launches Prisma v3.0 Speech Recognition Model for 10 Languages",
-          "link": "https://analyticsindiamag.com/ai-news/gnani-ai-launches-prisma-v30-speech-recognition-model-for-10-languages",
-          "date": "Thu, 29 Oct 2026 12:20:54 GMT"
+          "title": "DeepSeek Proposes Super-Agent Architecture to Automate AI Coding Workflows",
+          "link": "https://analyticsindiamag.com/ai-news/deepseek-proposes-super-agent-architecture-to-automate-ai-coding-workflows",
+          "date": "Mon, 02 Nov 2026 06:32:26 GMT"
         },
         {
-          "title": "Venttup Raises $3 Million To Expand Precision Manufacturing",
-          "link": "https://analyticsindiamag.com/ai-news/venttup-raises-3-million-to-expand-precision-manufacturing",
-          "date": "Thu, 29 Oct 2026 11:39:58 GMT"
+          "title": "Arrowhead AI Launches Fletch Voice Model for Multilingual Customer Calls",
+          "link": "https://analyticsindiamag.com/ai-news/arrowhead-ai-launches-fletch-voice-model-for-multilingual-customer-calls",
+          "date": "Mon, 02 Nov 2026 05:38:38 GMT"
         }
       ],
       "error": null
@@ -450,13 +450,44 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "Grok Bot users ran out of a week\u2019s usage overnight, and Elon Musk says the agent was costing too much",
+          "link": "https://www.reddit.com/r/artificial/comments/1xlfd9v/grok_bot_users_ran_out_of_a_weeks_usage_overnight/",
+          "date": "2026-11-01T21:44:18+00:00"
+        },
+        {
+          "title": "OpenAI is now capping how many paid ChatGPT accounts you can have per device and payment card",
+          "link": "https://www.reddit.com/r/artificial/comments/1xlfdof/openai_is_now_capping_how_many_paid_chatgpt/",
+          "date": "2026-11-01T21:44:45+00:00"
+        },
+        {
+          "title": "Trump\u2019s achilles heel is turning his own voters against him",
+          "link": "https://www.reddit.com/r/artificial/comments/1xl4wds/trumps_achilles_heel_is_turning_his_own_voters/",
+          "date": "2026-11-01T14:48:18+00:00"
+        },
+        {
+          "title": "DeepSeek open-sources a super-agent coding prototype: one Router, many Workers, minimal human attention",
+          "link": "https://www.reddit.com/r/artificial/comments/1xlc9ye/deepseek_opensources_a_superagent_coding/",
+          "date": "2026-11-01T19:38:51+00:00"
+        },
+        {
+          "title": "Michigan will pilot a prison classification system targeting 30% better violence-risk predictions starting December 1",
+          "link": "https://www.reddit.com/r/artificial/comments/1xlqr10/michigan_will_pilot_a_prison_classification/",
+          "date": "2026-11-02T07:20:33+00:00"
+        }
+      ],
       "error": null
     },
     {
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "AI translation sounds convincing, but it can be riddled with hidden errors",
+          "link": "https://theconversation.com/ai-translation-sounds-convincing-but-it-can-be-riddled-with-hidden-errors-294686",
+          "date": "2026-11-02T01:43:39Z"
+        },
         {
           "title": "Why it could be a bad idea to get AI to flirt for you",
           "link": "https://theconversation.com/why-it-could-be-a-bad-idea-to-get-ai-to-flirt-for-you-295274",
@@ -476,11 +507,6 @@
           "title": "Driverless 18-wheelers are on a few highways, but widespread use is a long way down the road",
           "link": "https://theconversation.com/driverless-18-wheelers-are-on-a-few-highways-but-widespread-use-is-a-long-way-down-the-road-291123",
           "date": "2026-10-29T12:24:43Z"
-        },
-        {
-          "title": "Grok can launch a thousand ships \u2013 but this AI remake of the Odyssey can\u2019t make us feel",
-          "link": "https://theconversation.com/grok-can-launch-a-thousand-ships-but-this-ai-remake-of-the-odyssey-cant-make-us-feel-295340",
-          "date": "2026-10-29T04:30:29Z"
         }
       ],
       "error": null
@@ -489,6 +515,16 @@
       "name": "Artificial intelligence (AI) | The Guardian",
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
+        {
+          "title": "Police use facial recognition to scan one million faces in WA trial leading to 122 arrests",
+          "link": "https://www.theguardian.com/australia-news/2026/nov/02/wa-police-facial-recognition-technology-trial",
+          "date": "Mon, 02 Nov 2026 06:12:52 GMT"
+        },
+        {
+          "title": "Google search has gone from being very handy to useless | First Dog on the Moon",
+          "link": "https://www.theguardian.com/commentisfree/picture/2026/nov/02/google-search-has-gone-from-being-very-handy-to-useless",
+          "date": "Mon, 02 Nov 2026 05:54:05 GMT"
+        },
         {
           "title": "National Grid to site biggest substation in UK near planned Teesside datacentre",
           "link": "https://www.theguardian.com/business/2026/nov/01/national-grid-to-site-biggest-substation-on-teesside-near-planned-ai-datacentre",
@@ -503,16 +539,6 @@
           "title": "Disquiet grows in Albanese\u2019s back yard as Grayndler artists unite against \u2018insane\u2019 AI proposal",
           "link": "https://www.theguardian.com/australia-news/2026/nov/01/artists-against-ai-proposal-anthony-albanese-grayndler-sydney-inner-west",
           "date": "Sat, 31 Oct 2026 19:00:52 GMT"
-        },
-        {
-          "title": "A-listers and AI stylists: how high-street brands are staging a fashion comeback",
-          "link": "https://www.theguardian.com/fashion/2026/oct/31/a-listers-ai-stylists-high-street-brands-fashion-comeback",
-          "date": "Sat, 31 Oct 2026 16:00:47 GMT"
-        },
-        {
-          "title": "Is AI your new wingman? How chatbots are transforming dating",
-          "link": "https://www.theguardian.com/lifeandstyle/2026/oct/31/ai-your-wingman-chatbots-transforming-dating",
-          "date": "Sat, 31 Oct 2026 12:00:42 GMT"
         }
       ],
       "error": null
