@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T03:06:28.282393+00:00",
+  "generatedAt": "2026-11-06T11:46:23.513772+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+          "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+          "date": "Fri, 06 Nov 2026 06:28:32 +0000"
+        },
+        {
           "title": "Airbnb says it\u2019s launching an AI travel agent in the first half of 2027",
           "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
           "date": "Thu, 05 Nov 2026 22:40:55 +0000"
@@ -126,11 +131,6 @@
           "title": "OpenAI released a new cybersecurity model. Is that enough?",
           "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
           "date": "Thu, 05 Nov 2026 19:06:12 +0000"
-        },
-        {
-          "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-          "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-          "date": "Thu, 05 Nov 2026 18:02:27 +0000"
         }
       ],
       "error": null
@@ -139,6 +139,11 @@
       "name": "AI Business",
       "url": "https://aibusiness.com/rss.xml",
       "items": [
+        {
+          "title": "Enterprises face tougher AI regulatory landscape after midterms",
+          "link": "https://aibusiness.com/data-centers/enterprises-face-tougher-ai-regulatory-landscape",
+          "date": "Fri, 06 Nov 2026 03:01:36 GMT"
+        },
         {
           "title": "What AI's growing share of tech spending means for enterprises in 2027",
           "link": "https://aibusiness.com/generative-ai/what-ai-s-growing-share-tech-spending-means-enterprises-2027",
@@ -158,11 +163,6 @@
           "title": "The rise of agentic AI in networking",
           "link": "https://aibusiness.com/agentic-ai/the-rise-of-agentic-ai-in-networking",
           "date": "Tue, 03 Nov 2026 15:04:27 GMT"
-        },
-        {
-          "title": "Google Genie 4 brings world models closer to robot and AI testing",
-          "link": "https://aibusiness.com/robotics/google-genie-4-world-models-closer-robot-ai-testing",
-          "date": "Mon, 02 Nov 2026 17:30:16 GMT"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -356,6 +356,11 @@
       "url": "https://analyticsindiamag.com/feed/",
       "items": [
         {
+          "title": "Smaller Language Models Could Reshape How Enterprises Deploy AI",
+          "link": "https://analyticsindiamag.com/ai-features/smaller-language-models-could-reshape-how-enterprises-deploy-ai",
+          "date": "Fri, 06 Nov 2026 09:28:21 GMT"
+        },
+        {
           "title": "The Anthropic-Indian IT Partnership Is a Two-Way Bet",
           "link": "https://analyticsindiamag.com/it-services/the-anthropic-indian-it-partnership-is-a-two-way-bet",
           "date": "Thu, 05 Nov 2026 06:42:00 GMT"
@@ -374,11 +379,6 @@
           "title": "Why AI is Eating Google Search\u2019s Ad Revenue While Boosting Meta\u2019s",
           "link": "https://analyticsindiamag.com/global-tech/why-ai-is-eating-google-searchs-ad-revenue-while-boosting-metas",
           "date": "Wed, 04 Nov 2026 13:36:26 GMT"
-        },
-        {
-          "title": "Bengaluru Accounts for 34% of India's FDE Talent: Report",
-          "link": "https://analyticsindiamag.com/ai-news/bengaluru-accounts-for-34-of-indias-fde-talent-report",
-          "date": "Wed, 04 Nov 2026 11:36:41 GMT"
         }
       ],
       "error": null
@@ -387,6 +387,11 @@
       "name": "Hugging Face Blog",
       "url": "https://huggingface.co/blog/feed.xml",
       "items": [
+        {
+          "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+          "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+          "date": "Fri, 06 Nov 2026 00:00:00 GMT"
+        },
         {
           "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
           "link": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
@@ -406,11 +411,6 @@
           "title": "StateBench: Testing how language models track state changes over long documents",
           "link": "https://huggingface.co/blog/allenai/statebench",
           "date": "Tue, 03 Nov 2026 17:15:21 GMT"
-        },
-        {
-          "title": "Palette: teaching a small model to build decks in your design language",
-          "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-          "date": "Tue, 03 Nov 2026 16:35:36 GMT"
         }
       ],
       "error": null
@@ -458,6 +458,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "US voters lashed out at data centres. What does that mean for Australia\u2019s AI ambitions?",
+          "link": "https://theconversation.com/us-voters-lashed-out-at-data-centres-what-does-that-mean-for-australias-ai-ambitions-295979",
+          "date": "2026-11-06T03:41:52Z"
+        },
+        {
           "title": "AI learns from the products of thinking, not thought itself. That\u2019s a problem for machines \u2013 and for us",
           "link": "https://theconversation.com/ai-learns-from-the-products-of-thinking-not-thought-itself-thats-a-problem-for-machines-and-for-us-293696",
           "date": "2026-11-05T18:57:36Z"
@@ -476,11 +481,6 @@
           "title": "Pennsylvania Democrats now have power to push forward on election reform, marijuana legalization and minimum wage increases",
           "link": "https://theconversation.com/pennsylvania-democrats-now-have-power-to-push-forward-on-election-reform-marijuana-legalization-and-minimum-wage-increases-295731",
           "date": "2026-11-04T19:42:28Z"
-        },
-        {
-          "title": "AI and blockchain are coming to African farms: 4 things must happen for farmers to benefit",
-          "link": "https://theconversation.com/ai-and-blockchain-are-coming-to-african-farms-4-things-must-happen-for-farmers-to-benefit-294739",
-          "date": "2026-11-04T13:49:10Z"
         }
       ],
       "error": null
@@ -490,29 +490,29 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Nasdaq sees worst day in 18 months as investors bet on AI slowdown after Democrats\u2019 election triumph",
+          "title": "Global stocks tumble as AI panic grips markets after Democrats\u2019 midterm success \u2013 business live",
+          "link": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates",
+          "date": "Fri, 06 Nov 2026 11:43:31 GMT"
+        },
+        {
+          "title": "Russia and US seek to block plan for binding rules on autonomous weapons",
+          "link": "https://www.theguardian.com/world/2026/nov/06/autonomous-weapons-ai-russia-us-binding-rules",
+          "date": "Fri, 06 Nov 2026 11:08:33 GMT"
+        },
+        {
+          "title": "Nigel Farage's exit from the Telegraph may be cause for cheer. But there\u2019s a sobering side to this story | Jane Martinson",
+          "link": "https://www.theguardian.com/commentisfree/2026/nov/06/nigel-farage-telegraph-story-newspaper-ai",
+          "date": "Fri, 06 Nov 2026 11:00:51 GMT"
+        },
+        {
+          "title": "Global stocks plunge amid AI slowdown fears after Democrats\u2019 midterm triumph",
+          "link": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
+          "date": "Fri, 06 Nov 2026 08:58:22 GMT"
+        },
+        {
+          "title": "Nasdaq sees worst day in 19 months as investors bet on AI slowdown after Democrats\u2019 election triumph",
           "link": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses",
           "date": "Thu, 05 Nov 2026 21:23:18 GMT"
-        },
-        {
-          "title": "Winner of the Prix Goncourt literary prize admits to using AI",
-          "link": "https://www.theguardian.com/books/2026/nov/05/winner-of-the-prix-goncourt-literary-prize-admits-to-using-ai-philippe-jaenada",
-          "date": "Thu, 05 Nov 2026 18:08:58 GMT"
-        },
-        {
-          "title": "Australians are yet to see the benefits of AI and datacentres \u2013 and US midterms show they could be political kryptonite",
-          "link": "https://www.theguardian.com/australia-news/2026/nov/06/ai-datacentre-boom-could-be-political-kryptonite-australia",
-          "date": "Thu, 05 Nov 2026 14:00:26 GMT"
-        },
-        {
-          "title": "Was Elon Musk the US midterms' biggest loser? \u2013 Stateside with Kai and Carter",
-          "link": "https://www.theguardian.com/us-news/video/2026/nov/05/was-elon-musk-the-us-midterms-biggest-loser-stateside-with-kai-and-carter",
-          "date": "Thu, 05 Nov 2026 11:00:23 GMT"
-        },
-        {
-          "title": "Activists across Europe prepare two days of protests against datacentres",
-          "link": "https://www.theguardian.com/world/2026/nov/05/activists-across-europe-protests-ai-against-datacentres",
-          "date": "Thu, 05 Nov 2026 09:00:01 GMT"
         }
       ],
       "error": null
