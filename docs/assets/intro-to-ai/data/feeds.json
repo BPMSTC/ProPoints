@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T23:37:56.568141+00:00",
+  "generatedAt": "2026-11-07T04:31:18.023187+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Crusoe sells troubled Wyoming data center project to Google",
+          "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+          "date": "Sat, 07 Nov 2026 01:40:28 +0000"
+        },
+        {
           "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
           "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
           "date": "Fri, 06 Nov 2026 22:53:46 +0000"
@@ -126,11 +131,6 @@
           "title": "How a Blue Wave midterm might reshape the AI industry",
           "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
           "date": "Fri, 06 Nov 2026 18:00:00 +0000"
-        },
-        {
-          "title": "After the midterms, is the AI industry in for a rough two years?",
-          "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-          "date": "Fri, 06 Nov 2026 17:23:52 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:7:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -280,6 +280,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "OpenAI reportedly raises $11B in new funding at $1.25T valuation",
+          "link": "https://siliconangle.com/2026/11/06/openai-reportedly-raises-11b-in-new-funding-at-1-25t-valuation/",
+          "date": "Fri, 06 Nov 2026 23:43:40 +0000"
+        },
+        {
           "title": "Thinking Machines debuts Inkling 2 Small amid reported $5B fundraising push",
           "link": "https://siliconangle.com/2026/11/06/thinking-machines-debuts-inkling-2-small-amid-reported-5b-fundraising-push/",
           "date": "Fri, 06 Nov 2026 21:27:42 +0000"
@@ -298,11 +303,6 @@
           "title": "The AI boom\u2019s missing balance-sheet question: What has actually been verified?",
           "link": "https://siliconangle.com/2026/11/06/the-ai-booms-missing-balance-sheet-question-what-has-actually-been-verified/",
           "date": "Fri, 06 Nov 2026 15:00:36 +0000"
-        },
-        {
-          "title": "Atomicwork launches certified AI coworker marketplace for enterprise IT and security",
-          "link": "https://siliconangle.com/2026/11/06/atomicwork-launches-certified-ai-coworker-marketplace-for-enterprise-it-and-security/",
-          "date": "Fri, 06 Nov 2026 14:00:53 +0000"
         }
       ],
       "error": null
@@ -420,6 +420,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Doctors pull knife from man's eye that went through his brain\u2014and he's fine now",
+          "link": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
+          "date": "Fri, 06 Nov 2026 23:09:45 +0000"
+        },
+        {
+          "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
+          "link": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
+          "date": "Fri, 06 Nov 2026 22:41:37 +0000"
+        },
+        {
+          "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
+          "link": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/",
+          "date": "Fri, 06 Nov 2026 22:08:47 +0000"
+        },
+        {
           "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
           "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
           "date": "Fri, 06 Nov 2026 20:56:41 +0000"
@@ -428,21 +443,6 @@
           "title": "Earth's churning mantle may have created the Great Unconformity",
           "link": "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/",
           "date": "Fri, 06 Nov 2026 20:24:20 +0000"
-        },
-        {
-          "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
-          "link": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/",
-          "date": "Fri, 06 Nov 2026 20:05:30 +0000"
-        },
-        {
-          "title": "Developer ends lucrative screensaver deal with Roku because Fox bought it",
-          "link": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/",
-          "date": "Fri, 06 Nov 2026 19:50:18 +0000"
-        },
-        {
-          "title": "FAA to finally ditch floppy disks in what it calls \"historic\" tech upgrade",
-          "link": "https://arstechnica.com/tech-policy/2026/11/faa-to-finally-ditch-floppy-disks-in-what-it-calls-historic-tech-upgrade/",
-          "date": "Fri, 06 Nov 2026 19:12:28 +0000"
         }
       ],
       "error": null
@@ -495,6 +495,11 @@
           "date": "Fri, 06 Nov 2026 13:55:43 GMT"
         },
         {
+          "title": "The Guardian view on the AI backlash: American voters want a say in their future | Editorial",
+          "link": "https://www.theguardian.com/commentisfree/2026/nov/06/the-guardian-view-on-the-ai-backlash-american-voters-want-a-say-in-their-future",
+          "date": "Fri, 06 Nov 2026 23:45:52 GMT"
+        },
+        {
           "title": "Global stocks fall amid \u2018big worries over AI\u2019 after Democrats\u2019 midterms triumph",
           "link": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
           "date": "Fri, 06 Nov 2026 21:23:54 GMT"
@@ -508,11 +513,6 @@
           "title": "Several Democrats renew calls for datacenter pauses after blue wave",
           "link": "https://www.theguardian.com/us-news/2026/nov/06/democrats-renew-calls-for-datacenter-pauses",
           "date": "Fri, 06 Nov 2026 21:14:46 GMT"
-        },
-        {
-          "title": "Activists break into building site of Microsoft datacentre in Amsterdam",
-          "link": "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam",
-          "date": "Fri, 06 Nov 2026 18:51:37 GMT"
         }
       ],
       "error": null
