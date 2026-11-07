@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-11-07T11:28:39.839795+00:00",
+  "generatedAt": "2026-11-07T17:23:00.008878+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "How Earth Lost a Billion Years of Its History",
+          "link": "https://www.404media.co/how-earth-lost-a-billion-years-of-its-history/",
+          "date": "Sat, 07 Nov 2026 13:00:00 GMT"
+        },
         {
           "title": "Behind the Blog:  Dam's Bursting",
           "link": "https://www.404media.co/behind-the-blog-dams-bursting/",
@@ -24,11 +29,6 @@
           "title": "Oldest Evidence of Getting High on Cannabis Discovered In 2,800-Year-Old Tomb: \u2018Absolutely Crazy\u2019",
           "link": "https://www.404media.co/oldest-evidence-of-getting-high-on-cannabis-discovered-in-2800-year-old-tomb/",
           "date": "Thu, 05 Nov 2026 19:00:00 GMT"
-        },
-        {
-          "title": "In the UK, Face Sitting Porn Might Land You in Jail",
-          "link": "https://www.404media.co/uk-crime-and-policing-act-pornography/",
-          "date": "Thu, 05 Nov 2026 17:09:04 GMT"
         }
       ],
       "error": null
@@ -258,6 +258,11 @@
           "date": "2026-11-07T05:10:33+00:00"
         },
         {
+          "title": "Ling-3.2-flash's Q2 demo produces three deliverables: a report, six board slides and a highlights video",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xq56yd/ling32flashs_q2_demo_produces_three_deliverables/",
+          "date": "2026-11-07T12:26:50+00:00"
+        },
+        {
           "title": "Openbar: approve your coding agents' commands from the Mac notch",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xpr7cl/openbar_approve_your_coding_agents_commands_from/",
           "date": "2026-11-06T23:16:19+00:00"
@@ -266,11 +271,6 @@
           "title": "Extracting reliable JSON macros from messy plate photos: Prompt architecture & client-side Gemini Flash flow in React Native",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xpfnrl/extracting_reliable_json_macros_from_messy_plate/",
           "date": "2026-11-06T15:30:36+00:00"
-        },
-        {
-          "title": "Worst Guidance Ever?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xoiwpp/worst_guidance_ever/",
-          "date": "2026-11-05T13:40:39+00:00"
         }
       ],
       "error": null
@@ -420,6 +420,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
+          "link": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
+          "date": "Sat, 07 Nov 2026 12:15:55 +0000"
+        },
+        {
+          "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+          "link": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
+          "date": "Sat, 07 Nov 2026 11:00:34 +0000"
+        },
+        {
           "title": "Doctors pull knife from man's eye that went through his brain\u2014and he's fine now",
           "link": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
           "date": "Fri, 06 Nov 2026 23:09:45 +0000"
@@ -433,16 +443,6 @@
           "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
           "link": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/",
           "date": "Fri, 06 Nov 2026 22:08:47 +0000"
-        },
-        {
-          "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
-          "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
-          "date": "Fri, 06 Nov 2026 20:56:41 +0000"
-        },
-        {
-          "title": "Earth's churning mantle may have created the Great Unconformity",
-          "link": "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/",
-          "date": "Fri, 06 Nov 2026 20:24:20 +0000"
         }
       ],
       "error": null
@@ -490,9 +490,9 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Teachers and parents: what are your experiences of AI-generated emails?",
-          "link": "https://www.theguardian.com/technology/2026/nov/06/teachers-and-parents-what-are-your-experiences-of-ai-generated-emails",
-          "date": "Fri, 06 Nov 2026 13:55:43 GMT"
+          "title": "Standing in the way of slop bowls: the woman blocking food delivery robots",
+          "link": "https://www.theguardian.com/technology/ng-interactive/2026/nov/07/philadelphia-blocking-food-delivery-robots",
+          "date": "Sat, 07 Nov 2026 14:00:12 GMT"
         },
         {
           "title": "Steve Jones on dangerous tech innovations \u2013 cartoon",
@@ -554,29 +554,29 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
-          "title": "Anthropic\u2019s IPO Is Cratering",
-          "link": "https://futurism.com/artificial-intelligence/anthropics-ipo-cratering",
-          "date": "Fri, 06 Nov 2026 13:46:11 -0500"
+          "title": "Remember When Bosses Were Forcing Their Workers to Use AI? They\u2019re Now Realizing They Made a Huge Mistake",
+          "link": "https://futurism.com/artificial-intelligence/bosses-workers-ai-huge-mistake",
+          "date": "Sat, 07 Nov 2026 11:50:00 -0500"
         },
         {
-          "title": "Hundreds of Protestors Bust Into Construction Site to Stop Microsoft Data Center",
-          "link": "https://futurism.com/artificial-intelligence/protestors-microsoft-data-center-construction",
-          "date": "Fri, 06 Nov 2026 11:54:46 -0500"
+          "title": "OpenAI Hears Voters\u2019 Overwhelming Rebuke To Data Centers, Vows to Build More of Them",
+          "link": "https://futurism.com/artificial-intelligence/openai-voters-more-data-centers",
+          "date": "Sat, 07 Nov 2026 10:51:00 -0500"
         },
         {
-          "title": "Journalist Admits She Used AI to Edit Photo Smearing Democrat Voters",
-          "link": "https://futurism.com/artificial-intelligence/journalist-admits-ai-photo-smear-democrat",
-          "date": "Thu, 05 Nov 2026 15:49:04 -0500"
+          "title": "New Democratic Congressional Majority Preparing Barrage of AI Legislation",
+          "link": "https://futurism.com/future-society/democratic-majority-ai-legislation-regulation-elections",
+          "date": "Sat, 07 Nov 2026 09:50:00 -0500"
         },
         {
-          "title": "Voters Supported Every Single Anti-Data Center Proposal in America, Except One",
-          "link": "https://futurism.com/artificial-intelligence/voters-midterm-elections-data-center-ballot-america",
-          "date": "Thu, 05 Nov 2026 14:01:58 -0500"
+          "title": "AI Godfather Says to Get Ready for a Chernobyl-Style \u201cBlackout\u201d Caused by AI",
+          "link": "https://futurism.com/artificial-intelligence/ai-godfather-chernobyl-blackout",
+          "date": "Sat, 07 Nov 2026 08:49:00 -0500"
         },
         {
-          "title": "Kids Hooked on AI Chatbots Are Showing Dramatically Worse Mental Health",
-          "link": "https://futurism.com/artificial-intelligence/kids-hooked-ai-worse-mental-health",
-          "date": "Thu, 05 Nov 2026 12:56:41 -0500"
+          "title": "Governor-Elect of Texas Announces Plans to Control Elon Musk",
+          "link": "https://futurism.com/future-society/texas-governor-elon-musk",
+          "date": "Sat, 07 Nov 2026 06:51:00 -0500"
         }
       ],
       "error": null
