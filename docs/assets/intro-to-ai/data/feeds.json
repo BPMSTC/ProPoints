@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T01:02:46.339614+00:00",
+  "generatedAt": "2026-11-08T08:32:04.960914+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -253,6 +253,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "I took Andrej Karpathy\u2019s second brain concept and ran with it",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xqtldm/i_took_andrej_karpathys_second_brain_concept_and/",
+          "date": "2026-11-08T08:26:35+00:00"
+        },
+        {
           "title": "Localix: The Open Source ADE",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xqksvj/localix_the_open_source_ade/",
           "date": "2026-11-08T00:06:13+00:00"
@@ -261,11 +266,6 @@
           "title": "Yesterday i saw creative Prompt engineer, when prompting is dead (atleast for internet lol) I am very curious about the new Jobs getting created in future. Predict new job titles in the market?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xqg0f2/yesterday_i_saw_creative_prompt_engineer_when/",
           "date": "2026-11-07T20:25:06+00:00"
-        },
-        {
-          "title": "I built a Mac app with Claude Code that tells me when my coding agent needs me (and lets me answer from the notch)",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xpy7ar/i_built_a_mac_app_with_claude_code_that_tells_me/",
-          "date": "2026-11-07T05:10:33+00:00"
         },
         {
           "title": "Ling-3.2-flash's Q2 demo produces three deliverables: a report, six board slides and a highlights video",
@@ -450,7 +450,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "Professor returns from lunch to find AI deleted year\u2019s worth of lecture notes",
+          "link": "https://www.reddit.com/r/artificial/comments/1xq9os9/professor_returns_from_lunch_to_find_ai_deleted/",
+          "date": "2026-11-07T15:57:44+00:00"
+        },
+        {
+          "title": "I think AI doomers massively underestimate how economics actually works",
+          "link": "https://www.reddit.com/r/artificial/comments/1xqs6w0/i_think_ai_doomers_massively_underestimate_how/",
+          "date": "2026-11-08T06:55:19+00:00"
+        },
+        {
+          "title": "An AI system just proved an 18-year-old quantum conjecture \u2014 and Lean checked every step",
+          "link": "https://www.reddit.com/r/artificial/comments/1xqlg8p/an_ai_system_just_proved_an_18yearold_quantum/",
+          "date": "2026-11-08T00:38:24+00:00"
+        },
+        {
+          "title": "Bank of England pours cold water on AI productivity boom",
+          "link": "https://www.reddit.com/r/artificial/comments/1xq34um/bank_of_england_pours_cold_water_on_ai/",
+          "date": "2026-11-07T10:18:56+00:00"
+        },
+        {
+          "title": "What does it actually mean to \u201clearn how to use AI\u201d?",
+          "link": "https://www.reddit.com/r/artificial/comments/1xqievd/what_does_it_actually_mean_to_learn_how_to_use_ai/",
+          "date": "2026-11-07T22:13:27+00:00"
+        }
+      ],
       "error": null
     },
     {
@@ -490,6 +516,16 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "\u2018AI clog\u2019: UK public bodies battle onslaught of chatbot-generated complaints",
+          "link": "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence",
+          "date": "Sun, 08 Nov 2026 08:00:36 GMT"
+        },
+        {
+          "title": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
+          "link": "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic",
+          "date": "Sun, 08 Nov 2026 06:00:33 GMT"
+        },
+        {
           "title": "FAA announces first US digital air traffic control towers in Florida and Alaska",
           "link": "https://www.theguardian.com/us-news/2026/nov/07/faa-digital-air-traffic-control-tower-technology",
           "date": "Sat, 07 Nov 2026 20:03:23 GMT"
@@ -503,16 +539,6 @@
           "title": "Steve Jones on dangerous tech innovations \u2013 cartoon",
           "link": "https://www.theguardian.com/commentisfree/picture/2026/nov/07/steve-jones-dangerous-tech-innovations-cartoon-ai-fire",
           "date": "Sat, 07 Nov 2026 11:00:09 GMT"
-        },
-        {
-          "title": "Lanarkshire AI datacentre to fully rely on National Grid despite renewables claim",
-          "link": "https://www.theguardian.com/uk-news/2026/nov/07/lanarkshire-ai-datacentre-datavita-chapelhall-national-grid-renewable-energy",
-          "date": "Sat, 07 Nov 2026 10:00:08 GMT"
-        },
-        {
-          "title": "The datacentre arms race hits pause in south-east Asia",
-          "link": "https://www.theguardian.com/technology/2026/nov/07/datacentres-southeast-asia",
-          "date": "Sat, 07 Nov 2026 10:00:07 GMT"
         }
       ],
       "error": null
