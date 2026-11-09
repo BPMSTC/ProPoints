@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T00:29:18.335156+00:00",
+  "generatedAt": "2026-11-09T07:36:42.143914+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Is Jensen Huang\u2019s job on the line? Yale\u2019s Jeffrey Sonnenfeld estimates it\u2019s \u201cabout a 50-50\u201d",
+          "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+          "date": "Mon, 09 Nov 2026 05:26:29 +0000"
+        },
+        {
           "title": "Nvidia will investigate CEO Jensen Huang\u2019s relationship with possible Chinese spy",
           "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
           "date": "Sun, 08 Nov 2026 21:00:11 +0000"
@@ -126,11 +131,6 @@
           "title": "Crusoe sells troubled Wyoming data center project to Google",
           "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
           "date": "Sat, 07 Nov 2026 01:40:28 +0000"
-        },
-        {
-          "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-          "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-          "date": "Fri, 06 Nov 2026 22:53:46 +0000"
         }
       ],
       "error": null
@@ -354,8 +354,34 @@
     {
       "name": "Analytics India Magazine",
       "url": "https://analyticsindiamag.com/feed/",
-      "items": [],
-      "error": "<unknown>:2:0: syntax error"
+      "items": [
+        {
+          "title": "Salesforce Wants Indian SMBs to Ditch WhatsApp for Slack",
+          "link": "https://analyticsindiamag.com/global-tech/salesforce-wants-indian-smbs-to-ditch-whatsapp-for-slack",
+          "date": "Mon, 09 Nov 2026 07:30:23 GMT"
+        },
+        {
+          "title": "NVIDIA to Investigate CEO Jensen Huang\u2019s Relationship with a \u2018Chinese Spy\u2019",
+          "link": "https://analyticsindiamag.com/ai-news/nvidia-to-investigate-ceo-jensen-huangs-relationship-with-a-chinese-spy",
+          "date": "Mon, 09 Nov 2026 05:54:31 GMT"
+        },
+        {
+          "title": "Hexaware to Drive EBRD\u2019s Banking Tech Ops for 5 Years",
+          "link": "https://analyticsindiamag.com/ai-news/hexaware-to-drive-ebrds-banking-tech-ops-for-5-years",
+          "date": "Mon, 09 Nov 2026 04:23:47 GMT"
+        },
+        {
+          "title": "LTM, ServiceNow to Expand Partnership to Scale AI Agent Deployments",
+          "link": "https://analyticsindiamag.com/ai-news/ltm-servicenow-to-expand-partnership-to-scale-ai-agent-deployments",
+          "date": "Mon, 09 Nov 2026 04:16:29 GMT"
+        },
+        {
+          "title": "Why GCCs and Indian IT are Partnering at Enterprise Scale",
+          "link": "https://analyticsindiamag.com/gcc/why-gccs-and-indian-it-are-partnering-at-enterprise-scale",
+          "date": "Mon, 09 Nov 2026 02:47:16 GMT"
+        }
+      ],
+      "error": null
     },
     {
       "name": "Hugging Face Blog",
@@ -432,6 +458,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Do AI agents have minds? A philosopher explains",
+          "link": "https://theconversation.com/do-ai-agents-have-minds-a-philosopher-explains-296143",
+          "date": "2026-11-09T07:07:38Z"
+        },
+        {
           "title": "AI won\u2019t ever make a historically accurate film \u2013 but it could help archaeology create better stories",
           "link": "https://theconversation.com/ai-wont-ever-make-a-historically-accurate-film-but-it-could-help-archaeology-create-better-stories-295912",
           "date": "2026-11-06T15:12:21Z"
@@ -450,11 +481,6 @@
           "title": "AI learns from the products of thinking, not thought itself. That\u2019s a problem for machines \u2013 and for us",
           "link": "https://theconversation.com/ai-learns-from-the-products-of-thinking-not-thought-itself-thats-a-problem-for-machines-and-for-us-293696",
           "date": "2026-11-05T18:57:36Z"
-        },
-        {
-          "title": "Tech executives are profiting from AI as some prepare for a possible catastrophe",
-          "link": "https://theconversation.com/tech-executives-are-profiting-from-ai-as-some-prepare-for-a-possible-catastrophe-293917",
-          "date": "2026-11-05T17:18:13Z"
         }
       ],
       "error": null
