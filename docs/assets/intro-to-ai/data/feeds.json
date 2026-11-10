@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-11-10T14:05:59.142356+00:00",
+  "generatedAt": "2026-11-10T15:05:23.244589+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Come and Take It",
+          "link": "https://www.404media.co/come-and-take-it/",
+          "date": "Tue, 10 Nov 2026 14:41:26 GMT"
+        },
+        {
+          "title": "'Reverse Engineer Anything': AI Companies Crack Down on the Coolest Thing People Were Doing With AI",
+          "link": "https://www.404media.co/reverse-engineer-anything-ai-companies-crack-down-on-the-coolest-thing-people-were-doing-with-ai/",
+          "date": "Tue, 10 Nov 2026 14:21:37 GMT"
+        },
         {
           "title": "Dad Asked 6-Year-Old Daughter if \u2018She Had the Gun\u2019 Before He Left Her in Line for Pok\u00e9mon Cards",
           "link": "https://www.404media.co/dad-asked-6-year-old-daughter-if-she-had-the-gun-before-he-left-her-in-line-for-pokemon-cards/",
@@ -19,16 +29,6 @@
           "title": "How Earth Lost a Billion Years of Its History",
           "link": "https://www.404media.co/how-earth-lost-a-billion-years-of-its-history/",
           "date": "Sat, 07 Nov 2026 13:00:00 GMT"
-        },
-        {
-          "title": "Behind the Blog:  Dam's Bursting",
-          "link": "https://www.404media.co/behind-the-blog-dams-bursting/",
-          "date": "Fri, 06 Nov 2026 17:12:55 GMT"
-        },
-        {
-          "title": "UK Sex Workers Wake Up to Sites Purging Their Content Following Porn Ban",
-          "link": "https://www.404media.co/clips4sale-content-removed-uk-porn-law/",
-          "date": "Fri, 06 Nov 2026 15:53:36 GMT"
         }
       ],
       "error": null
@@ -108,7 +108,7 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
-          "title": "Adobe adds more AI to its products and launches an MCP",
+          "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
           "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
           "date": "Tue, 10 Nov 2026 14:05:10 +0000"
         },
@@ -280,7 +280,7 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
-          "title": "KORA builds AI models and agents into a new Linux OS bound for Qualcomm Snapdragon PCs",
+          "title": "Kora builds AI models and agents into a new Linux OS bound for Qualcomm Snapdragon PCs",
           "link": "https://siliconangle.com/2026/11/10/kora-builds-ai-models-and-agents-into-a-new-linux-os-bound-for-qualcomm-snapdragon-pcs/",
           "date": "Tue, 10 Nov 2026 14:00:49 +0000"
         },
@@ -388,6 +388,11 @@
       "url": "https://huggingface.co/blog/feed.xml",
       "items": [
         {
+          "title": "Decision Models in Hugging Face",
+          "link": "https://huggingface.co/blog/decision",
+          "date": "Tue, 10 Nov 2026 00:00:00 GMT"
+        },
+        {
           "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
           "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
           "date": "Mon, 09 Nov 2026 15:05:57 GMT"
@@ -406,11 +411,6 @@
           "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
           "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
           "date": "Fri, 06 Nov 2026 00:00:00 GMT"
-        },
-        {
-          "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-          "link": "https://huggingface.co/blog/phonon-tts",
-          "date": "Thu, 05 Nov 2026 00:00:00 GMT"
         }
       ],
       "error": null
@@ -490,7 +490,12 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "\u2018Without storyboards, I feel like I\u2019m in Grand Central station in my underwear\u2019: film\u2019s fightback against AI",
+          "title": "Nvidia shaken by scandal amid wider political new order for big tech",
+          "link": "https://www.theguardian.com/global/2026/nov/10/nvidias-silicon-valley-political-power",
+          "date": "Tue, 10 Nov 2026 15:04:38 GMT"
+        },
+        {
+          "title": "\u2018Without storyboards, I feel like I\u2019m in Grand Central station in my underwear\u2019: film fights back against AI",
           "link": "https://www.theguardian.com/film/2026/nov/10/storyboard-artists-ai",
           "date": "Tue, 10 Nov 2026 13:00:24 GMT"
         },
@@ -508,11 +513,6 @@
           "title": "Mandatory AI safety and security protections announced after OpenAI breach of Medicare \u2013 video",
           "link": "https://www.theguardian.com/australia-news/video/2026/nov/10/mandatory-ai-safety-and-security-protections-announced-after-openai-breach-of-medicare-video",
           "date": "Tue, 10 Nov 2026 05:29:32 GMT"
-        },
-        {
-          "title": "Trump backs embattled Hegseth and Jensen Huang and says FBI looking into spy allegations \u2013 video",
-          "link": "https://www.theguardian.com/us-news/video/2026/nov/09/trump-hegseth-jensen-huang",
-          "date": "Tue, 10 Nov 2026 01:40:32 GMT"
         }
       ],
       "error": null
