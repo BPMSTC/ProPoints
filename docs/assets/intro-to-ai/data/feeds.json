@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T08:08:12.811805+00:00",
+  "generatedAt": "2026-11-10T09:06:50.014131+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -356,6 +356,11 @@
       "url": "https://analyticsindiamag.com/feed/",
       "items": [
         {
+          "title": "Why Buying Specialist Engineering Firms Won't Fix Indian IT\u2019s Growth Problem",
+          "link": "https://analyticsindiamag.com/it-services/why-buying-specialist-engineering-firms-wont-fix-indian-its-growth-problem",
+          "date": "Tue, 10 Nov 2026 08:28:16 GMT"
+        },
+        {
           "title": "Meta to Introduce Muse AI Agent in India Starting With \u20b91,799 Plan: Report",
           "link": "https://analyticsindiamag.com/ai-news/meta-to-introduce-muse-ai-agent-in-india-starting-with-1799-plan-report",
           "date": "Tue, 10 Nov 2026 07:14:45 GMT"
@@ -374,11 +379,6 @@
           "title": "Mphasis Raises FY27 Growth Outlook After 9.2% Dollar Revenue Growth in Q2",
           "link": "https://analyticsindiamag.com/ai-news/mphasis-raises-fy27-growth-outlook-after-92-dollar-revenue-growth-in-q2",
           "date": "Tue, 10 Nov 2026 01:33:42 GMT"
-        },
-        {
-          "title": "Adobe\u2019s CX Enterprise Coworker Gets Embedded Within Leading AI Platforms",
-          "link": "https://analyticsindiamag.com/ai-news/adobes-cx-enterprise-coworker-gets-embedded-within-leading-ai-platforms",
-          "date": "Mon, 09 Nov 2026 11:30:04 GMT"
         }
       ],
       "error": null
