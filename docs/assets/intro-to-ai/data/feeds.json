@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T15:05:23.244589+00:00",
+  "generatedAt": "2026-11-10T16:06:47.547054+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,16 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+          "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+          "date": "Tue, 10 Nov 2026 15:54:08 +0000"
+        },
+        {
+          "title": "Meta\u2019s AI agent Muse lands on Apple Watch and Android Wear OS",
+          "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+          "date": "Tue, 10 Nov 2026 15:29:30 +0000"
+        },
+        {
           "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
           "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
           "date": "Tue, 10 Nov 2026 14:05:10 +0000"
@@ -118,19 +128,9 @@
           "date": "Tue, 10 Nov 2026 14:01:39 +0000"
         },
         {
-          "title": "Spotify\u2019s AI DJ gets new voices, personalities, and an option for less chatter",
-          "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
-          "date": "Tue, 10 Nov 2026 14:00:00 +0000"
-        },
-        {
           "title": "After challenging Google\u2019s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
           "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
           "date": "Tue, 10 Nov 2026 14:00:00 +0000"
-        },
-        {
-          "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
-          "link": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
-          "date": "Tue, 10 Nov 2026 13:00:00 +0000"
         }
       ],
       "error": null
@@ -420,29 +420,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+          "link": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+          "date": "Tue, 10 Nov 2026 15:00:39 +0000"
+        },
+        {
+          "title": "Nvidia has a Jensen Huang problem\u2014and no obvious successor",
+          "link": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
+          "date": "Tue, 10 Nov 2026 14:53:05 +0000"
+        },
+        {
+          "title": "FDA warns GLP-1 drugs may pose risk of rare condition that causes vision loss",
+          "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-may-increase-risk-of-vision-loss-from-rare-condition-fda-warns/",
+          "date": "Tue, 10 Nov 2026 14:43:49 +0000"
+        },
+        {
+          "title": "Polestar has a new look with its Formula 2030 concept",
+          "link": "https://arstechnica.com/cars/2026/11/polestar-has-a-new-look-with-its-formula-2030-concept/",
+          "date": "Tue, 10 Nov 2026 14:22:02 +0000"
+        },
+        {
           "title": "Ukraine\u2019s fiber-optic drones get squeezed by AI data center demand",
           "link": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
           "date": "Tue, 10 Nov 2026 12:15:32 +0000"
-        },
-        {
-          "title": "Review: Apple's M6 MacBook Pro is good, but it's missing all the exciting stuff",
-          "link": "https://arstechnica.com/gadgets/2026/11/review-apples-1999-m6-macbook-pro-feels-stuck-in-the-middle/",
-          "date": "Tue, 10 Nov 2026 12:00:21 +0000"
-        },
-        {
-          "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
-          "link": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
-          "date": "Mon, 09 Nov 2026 21:55:35 +0000"
-        },
-        {
-          "title": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
-          "link": "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/",
-          "date": "Mon, 09 Nov 2026 21:13:39 +0000"
-        },
-        {
-          "title": "A Sam Altman parody offers an amusing lesson in memory management",
-          "link": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
-          "date": "Mon, 09 Nov 2026 20:49:09 +0000"
         }
       ],
       "error": null
@@ -495,7 +495,7 @@
           "date": "Tue, 10 Nov 2026 15:04:38 GMT"
         },
         {
-          "title": "\u2018Without storyboards, I feel like I\u2019m in Grand Central station in my underwear\u2019: film fights back against AI",
+          "title": "Even Martin Scorsese uses AI for storyboards. Can the art survive?",
           "link": "https://www.theguardian.com/film/2026/nov/10/storyboard-artists-ai",
           "date": "Tue, 10 Nov 2026 13:00:24 GMT"
         },
@@ -554,6 +554,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "If Jensen Huang\u2019s Wife Cuts Him Loose, She Could Get the Largest Divorce Settlement of All Time",
+          "link": "https://futurism.com/artificial-intelligence/jensen-huang-wife-largest-divorce-settlement",
+          "date": "Tue, 10 Nov 2026 10:47:57 -0500"
+        },
+        {
+          "title": "Tens of Thousands of AI-Equipped School Buses Now Automatically Ticketing Drivers Who Don\u2019t Stop When They Stick Out That Little Stop Sign",
+          "link": "https://futurism.com/future-society/bus-ai-cameras-ticket-drivers",
+          "date": "Tue, 10 Nov 2026 10:07:21 -0500"
+        },
+        {
           "title": "Only One Town in America Voted in Favor to Building a New Data Center, and the Reason Why Is Bleak",
           "link": "https://futurism.com/artificial-intelligence/one-town-america-voted-data-centers",
           "date": "Tue, 10 Nov 2026 08:01:00 -0500"
@@ -567,16 +577,6 @@
           "title": "We Are Now Learning in Real Time Whether the Stock Market Cares About an AI Executive Admitting to an Affair With an Alleged Chinese Spy",
           "link": "https://futurism.com/artificial-intelligence/nvidia-stock-lurches-downward-ceo-affair",
           "date": "Mon, 09 Nov 2026 10:18:20 -0500"
-        },
-        {
-          "title": "Microsoft AI CEO Says He\u2019s Open to Agents Deserving Rights If He Sees the Right Evidence",
-          "link": "https://futurism.com/artificial-intelligence/microsoft-ai-ceo-agents-rights-evidence",
-          "date": "Sun, 08 Nov 2026 13:50:00 -0500"
-        },
-        {
-          "title": "Employees Who Use AI End Up Working Vastly More Time Per Day",
-          "link": "https://futurism.com/artificial-intelligence/ai-workplace-working-hours-productivity-analysis",
-          "date": "Sun, 08 Nov 2026 10:50:00 -0500"
         }
       ],
       "error": null
