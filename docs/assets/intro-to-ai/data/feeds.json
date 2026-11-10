@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T02:08:07.497952+00:00",
+  "generatedAt": "2026-11-10T03:07:01.676580+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:7:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -458,6 +458,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "I don\u2019t want AI in my online search. What options do I have?",
+          "link": "https://theconversation.com/i-dont-want-ai-in-my-online-search-what-options-do-i-have-295875",
+          "date": "2026-11-10T02:07:21Z"
+        },
+        {
           "title": "Most uni students now use AI, but that doesn\u2019t mean they like it",
           "link": "https://theconversation.com/most-uni-students-now-use-ai-but-that-doesnt-mean-they-like-it-295170",
           "date": "2026-11-09T18:41:00Z"
@@ -476,11 +481,6 @@
           "title": "Do AI agents have minds? A philosopher explains",
           "link": "https://theconversation.com/do-ai-agents-have-minds-a-philosopher-explains-296143",
           "date": "2026-11-09T07:07:38Z"
-        },
-        {
-          "title": "AI won\u2019t ever make a historically accurate film \u2013 but it could help archaeology create better stories",
-          "link": "https://theconversation.com/ai-wont-ever-make-a-historically-accurate-film-but-it-could-help-archaeology-create-better-stories-295912",
-          "date": "2026-11-06T15:12:21Z"
         }
       ],
       "error": null
@@ -489,6 +489,11 @@
       "name": "Artificial intelligence (AI) | The Guardian",
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
+        {
+          "title": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence \u2018going rogue\u2019",
+          "link": "https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack",
+          "date": "Tue, 10 Nov 2026 02:31:08 GMT"
+        },
         {
           "title": "Trump backs embattled Hegseth and Jensen Huang and says FBI looking into spy allegations \u2013 video",
           "link": "https://www.theguardian.com/us-news/video/2026/nov/09/trump-hegseth-jensen-huang",
@@ -508,11 +513,6 @@
           "title": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
           "link": "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk",
           "date": "Mon, 09 Nov 2026 23:30:37 GMT"
-        },
-        {
-          "title": "Jensen Huang\u2019s image has been shattered. Could he be pushed out at Nvidia?",
-          "link": "https://www.theguardian.com/technology/2026/nov/09/jensen-huang-image-nvidia",
-          "date": "Mon, 09 Nov 2026 20:27:07 GMT"
         }
       ],
       "error": null
