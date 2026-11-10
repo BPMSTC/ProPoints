@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T09:06:50.014131+00:00",
+  "generatedAt": "2026-11-10T10:05:44.548719+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:7:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -356,6 +356,11 @@
       "url": "https://analyticsindiamag.com/feed/",
       "items": [
         {
+          "title": "Meta Expands AI Age-Estimation Tech to Protect Teens on Instagram",
+          "link": "https://analyticsindiamag.com/ai-news/meta-expands-ai-age-estimation-tech-to-protect-teens-on-instagram",
+          "date": "Tue, 10 Nov 2026 09:33:50 GMT"
+        },
+        {
           "title": "Why Buying Specialist Engineering Firms Won't Fix Indian IT\u2019s Growth Problem",
           "link": "https://analyticsindiamag.com/it-services/why-buying-specialist-engineering-firms-wont-fix-indian-its-growth-problem",
           "date": "Tue, 10 Nov 2026 08:28:16 GMT"
@@ -374,11 +379,6 @@
           "title": "Google Launches Two New TPUs for Enterprise Agentic AI Workloads",
           "link": "https://analyticsindiamag.com/ai-news/google-launches-two-new-tpus-for-enterprise-agentic-ai-workloads",
           "date": "Tue, 10 Nov 2026 05:48:14 GMT"
-        },
-        {
-          "title": "Mphasis Raises FY27 Growth Outlook After 9.2% Dollar Revenue Growth in Q2",
-          "link": "https://analyticsindiamag.com/ai-news/mphasis-raises-fy27-growth-outlook-after-92-dollar-revenue-growth-in-q2",
-          "date": "Tue, 10 Nov 2026 01:33:42 GMT"
         }
       ],
       "error": null
