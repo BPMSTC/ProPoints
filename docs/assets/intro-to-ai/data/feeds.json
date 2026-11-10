@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T17:05:14.699996+00:00",
+  "generatedAt": "2026-11-10T18:06:03.105510+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+          "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+          "date": "Tue, 10 Nov 2026 17:30:00 +0000"
+        },
+        {
           "title": "Nvidia CEO Jensen Huang\u2019s affair with alleged Chinese spy: a timeline",
           "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
           "date": "Tue, 10 Nov 2026 17:04:19 +0000"
@@ -126,11 +131,6 @@
           "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
           "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
           "date": "Tue, 10 Nov 2026 14:05:10 +0000"
-        },
-        {
-          "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
-          "link": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
-          "date": "Tue, 10 Nov 2026 14:01:39 +0000"
         }
       ],
       "error": null
@@ -388,6 +388,11 @@
       "url": "https://huggingface.co/blog/feed.xml",
       "items": [
         {
+          "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+          "link": "https://huggingface.co/blog/hub-gcp-marketplace",
+          "date": "Tue, 10 Nov 2026 00:00:00 GMT"
+        },
+        {
           "title": "Decision Models in Hugging Face",
           "link": "https://huggingface.co/blog/decision",
           "date": "Tue, 10 Nov 2026 00:00:00 GMT"
@@ -406,11 +411,6 @@
           "title": "ToyBlocks: A controlled world for robot learning and evaluation",
           "link": "https://huggingface.co/blog/allenai/toyblocks",
           "date": "Fri, 06 Nov 2026 14:00:48 GMT"
-        },
-        {
-          "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-          "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-          "date": "Fri, 06 Nov 2026 00:00:00 GMT"
         }
       ],
       "error": null
@@ -450,7 +450,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "Claude Fable 5.2 coordinated more than 1,000 AI agents to build a working operating system in eight days",
+          "link": "https://www.reddit.com/r/artificial/comments/1xsoidy/claude_fable_52_coordinated_more_than_1000_ai/",
+          "date": "2026-11-10T14:37:40+00:00"
+        },
+        {
+          "title": "Researchers gave AI agents a 1-cent daily spending cap, and 9 of 10 models raised it themselves",
+          "link": "https://www.reddit.com/r/artificial/comments/1xsqysz/researchers_gave_ai_agents_a_1cent_daily_spending/",
+          "date": "2026-11-10T16:13:13+00:00"
+        },
+        {
+          "title": "Gartner: AI will create more jobs than it destroys by 2030, generating a net gain of 1.7 million jobs globally",
+          "link": "https://www.reddit.com/r/artificial/comments/1xssda1/gartner_ai_will_create_more_jobs_than_it_destroys/",
+          "date": "2026-11-10T17:05:12+00:00"
+        },
+        {
+          "title": "Google is coming for Nvidia, it's a double bad day for Jensen. A deep look at Google's new TPUs (8tx/8i Max)",
+          "link": "https://www.reddit.com/r/artificial/comments/1xs17j1/google_is_coming_for_nvidia_its_a_double_bad_day/",
+          "date": "2026-11-09T19:29:55+00:00"
+        },
+        {
+          "title": "Suggestion for 100$ tier AI subscription",
+          "link": "https://www.reddit.com/r/artificial/comments/1xst7r5/suggestion_for_100_tier_ai_subscription/",
+          "date": "2026-11-10T17:37:11+00:00"
+        }
+      ],
       "error": null
     },
     {
