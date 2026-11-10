@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T01:05:53.115665+00:00",
+  "generatedAt": "2026-11-10T02:08:07.497952+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Anthropic reportedly plans to move forward with IPO plans",
+          "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+          "date": "Tue, 10 Nov 2026 01:27:12 +0000"
+        },
+        {
           "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
           "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
           "date": "Mon, 09 Nov 2026 23:28:37 +0000"
@@ -126,11 +131,6 @@
           "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
           "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
           "date": "Mon, 09 Nov 2026 20:09:06 +0000"
-        },
-        {
-          "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-          "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-          "date": "Mon, 09 Nov 2026 19:24:51 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -253,14 +253,14 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
-          "title": "We need more companion Apps like Character Ai and Replica",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xrukvg/we_need_more_companion_apps_like_character_ai_and/",
-          "date": "2026-11-09T15:27:38+00:00"
-        },
-        {
           "title": "\"I have tidied your desktop, alphabetized your snacks, and quietly judged your browser history.\" One sentence of description made this robot butler",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xrsl2c/i_have_tidied_your_desktop_alphabetized_your/",
           "date": "2026-11-09T14:08:45+00:00"
+        },
+        {
+          "title": "We need more companion Apps like Character Ai and Replica",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xrukvg/we_need_more_companion_apps_like_character_ai_and/",
+          "date": "2026-11-09T15:27:38+00:00"
         },
         {
           "title": "5-min survey: how do you manage rules files for AI coding tools?",
@@ -280,6 +280,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Meta introduces Muse Ember to power cost-efficient AI agents",
+          "link": "https://siliconangle.com/2026/11/09/meta-introduces-muse-ember-to-power-cost-efficient-ai-agents/",
+          "date": "Tue, 10 Nov 2026 01:38:35 +0000"
+        },
+        {
           "title": "Anthropic launches Fable 5.2 and Mythos 5.2 with science, coding upgrades",
           "link": "https://siliconangle.com/2026/11/09/anthropic-launches-fable-5-2-and-mythos-5-2-with-science-coding-upgrades/",
           "date": "Tue, 10 Nov 2026 00:08:34 +0000"
@@ -298,11 +303,6 @@
           "title": "On theCUBE Pod: Blue wave sends AI stock plunging",
           "link": "https://siliconangle.com/2026/11/09/midterms-ai-data-centers-thecubepod/",
           "date": "Mon, 09 Nov 2026 17:13:05 +0000"
-        },
-        {
-          "title": "Exclusive: FormAssembly overhauls its platform to expand into AI-powered process automation",
-          "link": "https://siliconangle.com/2026/11/09/exclusive-formassembly-overhauls-its-platform-to-expand-into-ai-powered-process-automation/",
-          "date": "Mon, 09 Nov 2026 14:00:02 +0000"
         }
       ],
       "error": null
@@ -356,6 +356,11 @@
       "url": "https://analyticsindiamag.com/feed/",
       "items": [
         {
+          "title": "Mphasis Raises FY27 Growth Outlook After 9.2% Dollar Revenue Growth in Q2",
+          "link": "https://analyticsindiamag.com/ai-news/mphasis-raises-fy27-growth-outlook-after-92-dollar-revenue-growth-in-q2",
+          "date": "Tue, 10 Nov 2026 01:33:42 GMT"
+        },
+        {
           "title": "Adobe\u2019s CX Enterprise Coworker Gets Embedded Within Leading AI Platforms",
           "link": "https://analyticsindiamag.com/ai-news/adobes-cx-enterprise-coworker-gets-embedded-within-leading-ai-platforms",
           "date": "Mon, 09 Nov 2026 11:30:04 GMT"
@@ -374,11 +379,6 @@
           "title": "Coforge Joins SpaceX Network to Develop Industry-Specific Grok Applications",
           "link": "https://analyticsindiamag.com/ai-news/coforge-joins-spacex-network-to-develop-industry-specific-grok-applications",
           "date": "Mon, 09 Nov 2026 11:16:54 GMT"
-        },
-        {
-          "title": "Beyond Hire-to-Rehire: How Workforce Data Can Turn HRTech From a Cost Centre",
-          "link": "https://analyticsindiamag.com/enterprise-ai/beyond-hire-to-rehire-how-workforce-data-can-turn-hrtech-from-a-cost-centre",
-          "date": "Mon, 09 Nov 2026 10:30:00 GMT"
         }
       ],
       "error": null
@@ -490,6 +490,21 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Trump backs embattled Hegseth and Jensen Huang and says FBI looking into spy allegations \u2013 video",
+          "link": "https://www.theguardian.com/us-news/video/2026/nov/09/trump-hegseth-jensen-huang",
+          "date": "Tue, 10 Nov 2026 01:40:32 GMT"
+        },
+        {
+          "title": "Qantas to cut 850 Australian jobs and outsource work to India under AI-driven overhaul",
+          "link": "https://www.theguardian.com/business/2026/nov/10/qantas-850-job-cuts-outsource-work-to-india-ai-overhaul",
+          "date": "Tue, 10 Nov 2026 01:34:47 GMT"
+        },
+        {
+          "title": "Teenager who planned terror attack in Sydney tells court he was radicalised online and used AI to strategise",
+          "link": "https://www.theguardian.com/australia-news/2026/nov/10/teen-planned-sydney-terror-attack-using-chatgpt-radicalised-tiktok-ntwnfb",
+          "date": "Tue, 10 Nov 2026 01:09:19 GMT"
+        },
+        {
           "title": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
           "link": "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk",
           "date": "Mon, 09 Nov 2026 23:30:37 GMT"
@@ -498,21 +513,6 @@
           "title": "Jensen Huang\u2019s image has been shattered. Could he be pushed out at Nvidia?",
           "link": "https://www.theguardian.com/technology/2026/nov/09/jensen-huang-image-nvidia",
           "date": "Mon, 09 Nov 2026 20:27:07 GMT"
-        },
-        {
-          "title": "The AI poster boy, the \u2018Chinese spy\u2019 and Trump: how an affair may have harmed US security",
-          "link": "https://www.theguardian.com/technology/2026/nov/09/nvidia-affair-huang-trump-national-security",
-          "date": "Mon, 09 Nov 2026 20:01:05 GMT"
-        },
-        {
-          "title": "Cyber-attack on French supermarket freezers has geopolitical context",
-          "link": "https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe",
-          "date": "Mon, 09 Nov 2026 19:40:45 GMT"
-        },
-        {
-          "title": "The Guardian view on Jensen Huang\u2019s affair: why did Trump ignore the warnings? | Editorial",
-          "link": "https://www.theguardian.com/commentisfree/2026/nov/09/the-guardian-view-on-jensen-huangs-affair-why-did-trump-ignore-the-warnings",
-          "date": "Mon, 09 Nov 2026 18:51:10 GMT"
         }
       ],
       "error": null
