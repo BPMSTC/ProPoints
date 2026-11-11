@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T12:09:02.898827+00:00",
+  "generatedAt": "2026-11-11T13:05:31.980027+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -216,11 +216,6 @@
       "url": "https://ainowinstitute.org/category/news/feed",
       "items": [
         {
-          "title": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
-          "link": "https://ainowinstitute.org/news/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are",
-          "date": "Tue, 10 Nov 2026 20:51:35 +0000"
-        },
-        {
           "title": "Palantir hires a former Democratic senator as it faces scrutiny in new Congress",
           "link": "https://ainowinstitute.org/news/palantir-hires-a-former-democratic-senator-as-it-faces-scrutiny-in-new-congress",
           "date": "Mon, 09 Nov 2026 15:09:46 +0000"
@@ -239,6 +234,11 @@
           "title": "Coming Soon: Guest Report on AI Corporate Structure and Mission Accountability",
           "link": "https://ainowinstitute.org/news/coming-soon-guest-report-on-ai-corporate-structure-and-mission-accountability",
           "date": "Wed, 04 Nov 2026 15:46:45 +0000"
+        },
+        {
+          "title": "Who will get to define the danger?",
+          "link": "https://ainowinstitute.org/news/who-will-get-to-define-the-danger",
+          "date": "Thu, 29 Oct 2026 14:27:18 +0000"
         }
       ],
       "error": null
@@ -356,6 +356,11 @@
       "url": "https://analyticsindiamag.com/feed/",
       "items": [
         {
+          "title": "\u2018Nobody Wants a Proprietary Platform,\u2019 Says Coforge\u2019s Anup Nair",
+          "link": "https://analyticsindiamag.com/it-services/nobody-wants-a-proprietary-platform-says-coforges-anup-nair",
+          "date": "Wed, 11 Nov 2026 12:05:35 GMT"
+        },
+        {
           "title": "HCLTech, PTC Launch Pre-Configured PLM Solution for Semiconductor Firms",
           "link": "https://analyticsindiamag.com/ai-news/hcltech-ptc-launch-pre-configured-plm-solution-for-semiconductor-firms",
           "date": "Wed, 11 Nov 2026 11:32:57 GMT"
@@ -371,14 +376,9 @@
           "date": "Wed, 11 Nov 2026 08:43:45 GMT"
         },
         {
-          "title": "Can You Trust Your \u2018Instinct\u2019 and Not \u2018Muse\u2019 Over the Risks?",
-          "link": "https://analyticsindiamag.com/ai-features/can-you-trust-your-instinct-and-not-muse-over-the-risks",
-          "date": "Wed, 11 Nov 2026 06:14:37 GMT"
-        },
-        {
-          "title": "Anthropic Seeks Up to $64.4 Bn at $1.4 Tn Valuation With IPO",
-          "link": "https://analyticsindiamag.com/ai-news/anthropic-seeks-up-to-644-bn-at-14-tn-valuation-with-ipo",
-          "date": "Wed, 11 Nov 2026 06:12:45 GMT"
+          "title": "SoftBank Takes $7 Billion Hit on US AI Data Centre Investments",
+          "link": "https://analyticsindiamag.com/ai-news/softbank-takes-7-billion-hit-on-us-ai-data-centre-investments",
+          "date": "Wed, 11 Nov 2026 07:39:57 GMT"
         }
       ],
       "error": null
@@ -450,33 +450,7 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "GPU Companies built everything on the back of gamers, and now gamers cannot afford them.",
-          "link": "https://www.reddit.com/r/artificial/comments/1xtbbsx/gpu_companies_built_everything_on_the_back_of/",
-          "date": "2026-11-11T07:13:47+00:00"
-        },
-        {
-          "title": "Video game Big Walk gets review bombed for using AI to fix a bug in Unity, accounting for 10 lines of code. 19 Independent Games Festival jurors declared they will refuse to vote for it due to AI use",
-          "link": "https://www.reddit.com/r/artificial/comments/1xsul1u/video_game_big_walk_gets_review_bombed_for_using/",
-          "date": "2026-11-10T18:27:40+00:00"
-        },
-        {
-          "title": "Claude Fable 5.2 coordinated more than 1,000 AI agents to build a working operating system in eight days",
-          "link": "https://www.reddit.com/r/artificial/comments/1xsoidy/claude_fable_52_coordinated_more_than_1000_ai/",
-          "date": "2026-11-10T14:37:40+00:00"
-        },
-        {
-          "title": "Linus Torvalds says that AI fixes drove most of the progress in latest Linux kernel \u2014 BPF saw more AI-written fixes than bug reports, possibly indicating a tidal shift for open-source maintainers tired of flood of junk reports",
-          "link": "https://www.reddit.com/r/artificial/comments/1xt2iwq/linus_torvalds_says_that_ai_fixes_drove_most_of/",
-          "date": "2026-11-10T23:46:23+00:00"
-        },
-        {
-          "title": "AI agents are becoming software buyers, and businesses aren't ready",
-          "link": "https://www.reddit.com/r/artificial/comments/1xtdzxd/ai_agents_are_becoming_software_buyers_and/",
-          "date": "2026-11-11T10:04:23+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
