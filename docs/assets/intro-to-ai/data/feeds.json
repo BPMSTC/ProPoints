@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T05:06:10.702579+00:00",
+  "generatedAt": "2026-11-11T06:10:03.825410+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -356,6 +356,16 @@
       "url": "https://analyticsindiamag.com/feed/",
       "items": [
         {
+          "title": "PuppyGraph Raises $10 Mn to Help AI Agents Query Enterprise Tables",
+          "link": "https://analyticsindiamag.com/ai-news/puppygraph-raises-10-mn-to-help-ai-agents-query-enterprise-tables",
+          "date": "Wed, 11 Nov 2026 05:23:14 GMT"
+        },
+        {
+          "title": "Cognizant Commits 25,000 Professionals to Deploy Claude in Enterprises",
+          "link": "https://analyticsindiamag.com/ai-news/cognizant-commits-25000-professionals-to-deploy-claude-in-enterprises",
+          "date": "Wed, 11 Nov 2026 05:13:10 GMT"
+        },
+        {
           "title": "TSMC October Revenue Hits Record $17.81 Bn on Skyrocketing AI Chip Demand",
           "link": "https://analyticsindiamag.com/ai-news/tsmc-october-revenue-hits-record-1781-bn-on-skyrocketing-ai-chip-demand",
           "date": "Tue, 10 Nov 2026 11:59:13 GMT"
@@ -369,16 +379,6 @@
           "title": "Is AI-Powered Reverse Engineering the Death of Proprietary Software?",
           "link": "https://analyticsindiamag.com/ai-features/is-ai-powered-reverse-engineering-the-death-of-proprietary-software",
           "date": "Tue, 10 Nov 2026 11:30:00 GMT"
-        },
-        {
-          "title": "Gartner Introduces Framework for CIOs to Determine AI Outcomes",
-          "link": "https://analyticsindiamag.com/ai-news/gartner-introduces-framework-for-cios-to-determine-ai-outcomes",
-          "date": "Tue, 10 Nov 2026 10:44:29 GMT"
-        },
-        {
-          "title": "Qantas AI Jobs are Coming to India as Outsourcing Deal Affects 850 Roles",
-          "link": "https://analyticsindiamag.com/ai-news/qantas-ai-jobs-are-coming-to-india-as-outsourcing-deal-affects-850-roles",
-          "date": "Tue, 10 Nov 2026 10:39:00 GMT"
         }
       ],
       "error": null
@@ -450,7 +450,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "Video game Big Walk gets review bombed for using AI to fix a bug in Unity, accounting for 10 lines of code. 19 Independent Games Festival jurors declared they will refuse to vote for it due to AI use",
+          "link": "https://www.reddit.com/r/artificial/comments/1xsul1u/video_game_big_walk_gets_review_bombed_for_using/",
+          "date": "2026-11-10T18:27:40+00:00"
+        },
+        {
+          "title": "Claude Fable 5.2 coordinated more than 1,000 AI agents to build a working operating system in eight days",
+          "link": "https://www.reddit.com/r/artificial/comments/1xsoidy/claude_fable_52_coordinated_more_than_1000_ai/",
+          "date": "2026-11-10T14:37:40+00:00"
+        },
+        {
+          "title": "Linus Torvalds says that AI fixes drove most of the progress in latest Linux kernel \u2014 BPF saw more AI-written fixes than bug reports, possibly indicating a tidal shift for open-source maintainers tired of flood of junk reports",
+          "link": "https://www.reddit.com/r/artificial/comments/1xt2iwq/linus_torvalds_says_that_ai_fixes_drove_most_of/",
+          "date": "2026-11-10T23:46:23+00:00"
+        },
+        {
+          "title": "Researchers gave AI agents a 1-cent daily spending cap, and 9 of 10 models raised it themselves",
+          "link": "https://www.reddit.com/r/artificial/comments/1xsqysz/researchers_gave_ai_agents_a_1cent_daily_spending/",
+          "date": "2026-11-10T16:13:13+00:00"
+        },
+        {
+          "title": "Gartner: AI will create more jobs than it destroys by 2030, generating a net gain of 1.7 million jobs globally",
+          "link": "https://www.reddit.com/r/artificial/comments/1xssda1/gartner_ai_will_create_more_jobs_than_it_destroys/",
+          "date": "2026-11-10T17:05:12+00:00"
+        }
+      ],
       "error": null
     },
     {
@@ -490,6 +516,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Australians are not streaming Australian music. Why the hell not?! | First Dog on the Moon",
+          "link": "https://www.theguardian.com/commentisfree/picture/2026/nov/11/australians-are-not-streaming-australian-music-why-the-hell-not",
+          "date": "Wed, 11 Nov 2026 05:34:40 GMT"
+        },
+        {
           "title": "From the archive: Weizenbaum\u2019s nightmares: how the inventor of the first chatbot turned against AI \u2013 podcast",
           "link": "https://www.theguardian.com/news/audio/2026/nov/11/from-the-archive-weizenbaums-nightmares-how-the-inventor-of-the-first-chatbot-turned-against-ai-podcast",
           "date": "Wed, 11 Nov 2026 05:00:31 GMT"
@@ -508,11 +539,6 @@
           "title": "Nvidia shaken by scandal amid wider political new order for big tech",
           "link": "https://www.theguardian.com/global/2026/nov/10/nvidias-silicon-valley-political-power",
           "date": "Tue, 10 Nov 2026 15:04:38 GMT"
-        },
-        {
-          "title": "Even Martin Scorsese uses AI for storyboards. Can the art survive?",
-          "link": "https://www.theguardian.com/film/2026/nov/10/storyboard-artists-ai",
-          "date": "Tue, 10 Nov 2026 13:00:24 GMT"
         }
       ],
       "error": null
