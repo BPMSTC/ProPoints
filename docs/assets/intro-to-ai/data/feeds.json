@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T11:05:18.147999+00:00",
+  "generatedAt": "2026-11-11T12:09:02.898827+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -216,6 +216,11 @@
       "url": "https://ainowinstitute.org/category/news/feed",
       "items": [
         {
+          "title": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
+          "link": "https://ainowinstitute.org/news/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are",
+          "date": "Tue, 10 Nov 2026 20:51:35 +0000"
+        },
+        {
           "title": "Palantir hires a former Democratic senator as it faces scrutiny in new Congress",
           "link": "https://ainowinstitute.org/news/palantir-hires-a-former-democratic-senator-as-it-faces-scrutiny-in-new-congress",
           "date": "Mon, 09 Nov 2026 15:09:46 +0000"
@@ -234,11 +239,6 @@
           "title": "Coming Soon: Guest Report on AI Corporate Structure and Mission Accountability",
           "link": "https://ainowinstitute.org/news/coming-soon-guest-report-on-ai-corporate-structure-and-mission-accountability",
           "date": "Wed, 04 Nov 2026 15:46:45 +0000"
-        },
-        {
-          "title": "Who will get to define the danger?",
-          "link": "https://ainowinstitute.org/news/who-will-get-to-define-the-danger",
-          "date": "Thu, 29 Oct 2026 14:27:18 +0000"
         }
       ],
       "error": null
@@ -251,6 +251,11 @@
           "title": "Welcome to r/aipromptprogramming \u2014 join our Discord",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vlcrpj/welcome_to_raipromptprogramming_join_our_discord/",
           "date": "2026-08-11T09:36:31+00:00"
+        },
+        {
+          "title": "JoeBro: open-source Mac AI workspace that keeps an eye on your Claude Code / Codex sessions and pings your phone",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xtg1nv/joebro_opensource_mac_ai_workspace_that_keeps_an/",
+          "date": "2026-11-11T12:04:35+00:00"
         },
         {
           "title": "Ling-3.2-flash demo goes from a Grad-CAM research PDF to running CPU code and class-specific heatmaps",
@@ -266,11 +271,6 @@
           "title": "\"I have tidied your desktop, alphabetized your snacks, and quietly judged your browser history.\" One sentence of description made this robot butler",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xrsl2c/i_have_tidied_your_desktop_alphabetized_your/",
           "date": "2026-11-09T14:08:45+00:00"
-        },
-        {
-          "title": "5-min survey: how do you manage rules files for AI coding tools?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xrlora/5min_survey_how_do_you_manage_rules_files_for_ai/",
-          "date": "2026-11-09T07:45:05+00:00"
         }
       ],
       "error": null
@@ -356,6 +356,16 @@
       "url": "https://analyticsindiamag.com/feed/",
       "items": [
         {
+          "title": "HCLTech, PTC Launch Pre-Configured PLM Solution for Semiconductor Firms",
+          "link": "https://analyticsindiamag.com/ai-news/hcltech-ptc-launch-pre-configured-plm-solution-for-semiconductor-firms",
+          "date": "Wed, 11 Nov 2026 11:32:57 GMT"
+        },
+        {
+          "title": "IBM, Microsoft Launch Agentic AI Platform With Over 6,000 AI Agents",
+          "link": "https://analyticsindiamag.com/ai-news/ibm-microsoft-launch-agentic-ai-platform-with-over-6000-ai-agents",
+          "date": "Wed, 11 Nov 2026 11:30:28 GMT"
+        },
+        {
           "title": "NHA Selects EkaCare for AI Voice Scribe in Public Health Facilities",
           "link": "https://analyticsindiamag.com/ai-news/nha-selects-ekacare-for-ai-voice-scribe-in-public-health-facilities",
           "date": "Wed, 11 Nov 2026 08:43:45 GMT"
@@ -369,16 +379,6 @@
           "title": "Anthropic Seeks Up to $64.4 Bn at $1.4 Tn Valuation With IPO",
           "link": "https://analyticsindiamag.com/ai-news/anthropic-seeks-up-to-644-bn-at-14-tn-valuation-with-ipo",
           "date": "Wed, 11 Nov 2026 06:12:45 GMT"
-        },
-        {
-          "title": "IBM Ends H-1B, Green Card Sponsorship for Most Roles in Consulting Division",
-          "link": "https://analyticsindiamag.com/ai-news/ibm-ends-h-1b-green-card-sponsorship-for-most-roles-in-consulting-division",
-          "date": "Wed, 11 Nov 2026 06:12:02 GMT"
-        },
-        {
-          "title": "PuppyGraph Raises $10 Mn to Help AI Agents Query Enterprise Tables",
-          "link": "https://analyticsindiamag.com/ai-news/puppygraph-raises-10-mn-to-help-ai-agents-query-enterprise-tables",
-          "date": "Wed, 11 Nov 2026 05:23:14 GMT"
         }
       ],
       "error": null
@@ -450,7 +450,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "GPU Companies built everything on the back of gamers, and now gamers cannot afford them.",
+          "link": "https://www.reddit.com/r/artificial/comments/1xtbbsx/gpu_companies_built_everything_on_the_back_of/",
+          "date": "2026-11-11T07:13:47+00:00"
+        },
+        {
+          "title": "Video game Big Walk gets review bombed for using AI to fix a bug in Unity, accounting for 10 lines of code. 19 Independent Games Festival jurors declared they will refuse to vote for it due to AI use",
+          "link": "https://www.reddit.com/r/artificial/comments/1xsul1u/video_game_big_walk_gets_review_bombed_for_using/",
+          "date": "2026-11-10T18:27:40+00:00"
+        },
+        {
+          "title": "Claude Fable 5.2 coordinated more than 1,000 AI agents to build a working operating system in eight days",
+          "link": "https://www.reddit.com/r/artificial/comments/1xsoidy/claude_fable_52_coordinated_more_than_1000_ai/",
+          "date": "2026-11-10T14:37:40+00:00"
+        },
+        {
+          "title": "Linus Torvalds says that AI fixes drove most of the progress in latest Linux kernel \u2014 BPF saw more AI-written fixes than bug reports, possibly indicating a tidal shift for open-source maintainers tired of flood of junk reports",
+          "link": "https://www.reddit.com/r/artificial/comments/1xt2iwq/linus_torvalds_says_that_ai_fixes_drove_most_of/",
+          "date": "2026-11-10T23:46:23+00:00"
+        },
+        {
+          "title": "AI agents are becoming software buyers, and businesses aren't ready",
+          "link": "https://www.reddit.com/r/artificial/comments/1xtdzxd/ai_agents_are_becoming_software_buyers_and/",
+          "date": "2026-11-11T10:04:23+00:00"
+        }
+      ],
       "error": null
     },
     {
@@ -490,6 +516,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "AI datacentres plan on-site power stations on huge scale despite climate risks, research reveals",
+          "link": "https://www.theguardian.com/world/2026/nov/11/ai-datacentres-on-site-gas-fired-power-stations",
+          "date": "Wed, 11 Nov 2026 12:00:48 GMT"
+        },
+        {
           "title": "AI has made it \u2018close to impossible\u2019 to assess university coursework, regulator says",
           "link": "https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator",
           "date": "Wed, 11 Nov 2026 07:00:33 GMT"
@@ -508,11 +539,6 @@
           "title": "Albanese\u2019s love affair with music is on the rocks over AI. Can he write a different tune? | Peter Lewis",
           "link": "https://www.theguardian.com/commentisfree/2026/nov/11/albaneses-love-affair-with-music-is-on-the-rocks-over-ai-can-he-write-a-different-tune",
           "date": "Tue, 10 Nov 2026 22:00:20 GMT"
-        },
-        {
-          "title": "Anthropic targets valuation of up to $1.4tn in stock market flotation",
-          "link": "https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai",
-          "date": "Tue, 10 Nov 2026 16:13:13 GMT"
         }
       ],
       "error": null
