@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T05:06:09.190414+00:00",
+  "generatedAt": "2026-11-13T06:10:04.665192+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -356,6 +356,11 @@
       "url": "https://analyticsindiamag.com/feed/",
       "items": [
         {
+          "title": "The Nightmare at NVIDIA",
+          "link": "https://analyticsindiamag.com/ai-features/the-nightmare-at-nvidia",
+          "date": "Fri, 13 Nov 2026 05:25:31 GMT"
+        },
+        {
           "title": "In a Stunning Fall, Jensen Huang Resigns as NVIDIA Chief After 33 Years",
           "link": "https://analyticsindiamag.com/ai-news/in-a-stunning-fall-jensen-huang-resigns-as-nvidia-chief-after-33-years",
           "date": "Thu, 12 Nov 2026 14:18:04 GMT"
@@ -374,11 +379,6 @@
           "title": "Siemens Wants to Continue NVIDIA Partnership Even If Jensen Huang is Ousted",
           "link": "https://analyticsindiamag.com/ai-news/siemens-wants-to-continue-nvidia-partnership-even-if-jensen-huang-is-ousted",
           "date": "Thu, 12 Nov 2026 12:20:56 GMT"
-        },
-        {
-          "title": "India\u2019s Accessibility Rules are Forcing Software and App Design Rethink",
-          "link": "https://analyticsindiamag.com/ai-features/indias-accessibility-rules-are-forcing-software-and-app-design-rethinkacce",
-          "date": "Thu, 12 Nov 2026 12:12:30 GMT"
         }
       ],
       "error": null
@@ -450,7 +450,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "A United Nations survey last year found that as many as 80% of people in [China] support data center construction. At least two-thirds of Chinese people use AI in their day-to-day life, as many embrace the technology and the infrastructure behind it",
+          "link": "https://www.reddit.com/r/artificial/comments/1xuqml7/a_united_nations_survey_last_year_found_that_as/",
+          "date": "2026-11-12T22:22:20+00:00"
+        },
+        {
+          "title": "Former US AI Czar David Sacks says there\u2019s no evidence that Alice Huang was a Chinese Spy",
+          "link": "https://www.reddit.com/r/artificial/comments/1xuy74i/former_us_ai_czar_david_sacks_says_theres_no/",
+          "date": "2026-11-13T04:17:20+00:00"
+        },
+        {
+          "title": "Jensen Huang leaving Nvidia risks a 'brain drain' from the AI chipmaker",
+          "link": "https://www.reddit.com/r/artificial/comments/1xufn7w/jensen_huang_leaving_nvidia_risks_a_brain_drain/",
+          "date": "2026-11-12T15:26:24+00:00"
+        },
+        {
+          "title": "After Democrats\u2019 midterm wins, Palantir CEO Alex Karp now says he\u2019s a \u2018progressive\u2019",
+          "link": "https://www.reddit.com/r/artificial/comments/1xu453q/after_democrats_midterm_wins_palantir_ceo_alex/",
+          "date": "2026-11-12T05:09:54+00:00"
+        },
+        {
+          "title": "Anthropic says it has met its own threshold for AI-accelerated AI research \u2014 days before its IPO",
+          "link": "https://www.reddit.com/r/artificial/comments/1xuo0rf/anthropic_says_it_has_met_its_own_threshold_for/",
+          "date": "2026-11-12T20:38:27+00:00"
+        }
+      ],
       "error": null
     },
     {
@@ -490,6 +516,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Have we finally found a valid use case for AI? Meet Pino the autonomous virtual kiwi | First Dog on the Moon",
+          "link": "https://www.theguardian.com/commentisfree/picture/2026/nov/13/have-we-finally-found-a-valid-use-case-for-ai-meet-pino-the-autonomous-virtual-kiwi",
+          "date": "Fri, 13 Nov 2026 05:35:13 GMT"
+        },
+        {
           "title": "Jensen Huang was a busted flush at Nvidia \u2013 he had to go | Nils Pratley",
           "link": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/12/jensen-huang-was-a-busted-flush-at-nvidia-he-had-to-go",
           "date": "Thu, 12 Nov 2026 18:46:48 GMT"
@@ -508,11 +539,6 @@
           "title": "US public workers are fighting to protect their jobs from AI \u2013 and some are winning",
           "link": "https://www.theguardian.com/technology/2026/nov/12/us-workers-governments-unions-ai",
           "date": "Thu, 12 Nov 2026 15:00:44 GMT"
-        },
-        {
-          "title": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
-          "link": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story",
-          "date": "Thu, 12 Nov 2026 13:14:38 GMT"
         }
       ],
       "error": null
