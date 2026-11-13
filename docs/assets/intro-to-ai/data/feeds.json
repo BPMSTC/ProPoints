@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T23:05:07.538000+00:00",
+  "generatedAt": "2026-11-13T00:16:28.297785+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -113,7 +113,7 @@
           "date": "Thu, 12 Nov 2026 22:42:51 +0000"
         },
         {
-          "title": "Muse can now place calls to U.S. businesses \u2014 if you pay",
+          "title": "Muse can now place calls to US businesses \u2014 if you pay",
           "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
           "date": "Thu, 12 Nov 2026 22:22:28 +0000"
         },
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -280,6 +280,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "AI agent tooling provider LangChain secures $300M investment",
+          "link": "https://siliconangle.com/2026/11/12/ai-agent-tooling-provider-langchain-secures-300m-investment/",
+          "date": "Thu, 12 Nov 2026 23:24:06 +0000"
+        },
+        {
           "title": "CNCF data shows cloud native is the on-ramp to AI, and maintainers are paying the price",
           "link": "https://siliconangle.com/2026/11/12/cloud-native-developers-top-21-million-lead-ai-adoption-kubeconna/",
           "date": "Thu, 12 Nov 2026 22:54:29 +0000"
@@ -298,11 +303,6 @@
           "title": "What to expect during SC26: Join theCUBE Nov. 17\u201319",
           "link": "https://siliconangle.com/2026/11/12/high-performance-computing-ai-thecube-sc26/",
           "date": "Thu, 12 Nov 2026 22:13:35 +0000"
-        },
-        {
-          "title": "3 ways AI is changing the healthcare revenue cycle",
-          "link": "https://siliconangle.com/2026/11/12/3-ways-ai-is-changing-the-healthcare-revenue-cycle-adonisai/",
-          "date": "Thu, 12 Nov 2026 21:36:13 +0000"
         }
       ],
       "error": null
