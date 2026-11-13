@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T16:06:52.834468+00:00",
+  "generatedAt": "2026-11-13T17:05:06.631411+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -253,6 +253,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "OpenAI's Daybreak uses agent fleets to pen-test web apps and retest patches \u2014 would you let agents attack your own app?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xvbvg5/openais_daybreak_uses_agent_fleets_to_pentest_web/",
+          "date": "2026-11-13T16:08:48+00:00"
+        },
+        {
           "title": "Looking for participants for my PhD research on generative AI !",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xucnjj/looking_for_participants_for_my_phd_research_on/",
           "date": "2026-11-12T13:23:23+00:00"
@@ -266,11 +271,6 @@
           "title": "Job hunting made me feel invisible, so I built a free tool to be the first applicant",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xu2z7z/job_hunting_made_me_feel_invisible_so_i_built_a/",
           "date": "2026-11-12T04:07:33+00:00"
-        },
-        {
-          "title": "Building an autonomous talent sourcer taught me why scraping personal portfolio sites breaks",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xtgspi/building_an_autonomous_talent_sourcer_taught_me/",
-          "date": "2026-11-11T12:43:39+00:00"
         }
       ],
       "error": null
@@ -388,6 +388,11 @@
       "url": "https://huggingface.co/blog/feed.xml",
       "items": [
         {
+          "title": "XYBench: Helping with the problem behind the question",
+          "link": "https://huggingface.co/blog/allenai/xybench",
+          "date": "Fri, 13 Nov 2026 17:02:35 GMT"
+        },
+        {
           "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
           "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
           "date": "Fri, 13 Nov 2026 14:05:22 GMT"
@@ -406,11 +411,6 @@
           "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
           "link": "https://huggingface.co/blog/qvac/botpsy",
           "date": "Wed, 11 Nov 2026 05:01:16 GMT"
-        },
-        {
-          "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-          "link": "https://huggingface.co/blog/token-pooling",
-          "date": "Wed, 11 Nov 2026 00:00:00 GMT"
         }
       ],
       "error": null
@@ -419,6 +419,11 @@
       "name": "Ars Technica - All content",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
+        {
+          "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+          "link": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+          "date": "Fri, 13 Nov 2026 16:26:32 +0000"
+        },
         {
           "title": "Microsoft\u2019s global outage may be worse than Amazon's or CrowdStrike's, expert says",
           "link": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
@@ -438,11 +443,6 @@
           "title": "Scientists warn 1.5\u00b0C climate change threshold could arrive by 2029",
           "link": "https://arstechnica.com/science/2026/11/scientists-warn-the-1-5c-climate-change-threshold-could-arrive-by-2029/",
           "date": "Fri, 13 Nov 2026 14:29:15 +0000"
-        },
-        {
-          "title": "Rocket Report: Starship set for historic test flight; a century of Electron",
-          "link": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/",
-          "date": "Fri, 13 Nov 2026 12:00:40 +0000"
         }
       ],
       "error": null
@@ -490,6 +490,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "\u2018Ahead of his time\u2019: AI helps unlock discoveries hidden in notebooks of man who transformed maths",
+          "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+          "date": "Fri, 13 Nov 2026 16:38:27 GMT"
+        },
+        {
           "title": "The datacenter industry is using propaganda to fight opposition | Samuel Woolley, Dean Jackson and Maia Woluchem",
           "link": "https://www.theguardian.com/commentisfree/2026/nov/13/datacenter-industry-propaganda",
           "date": "Fri, 13 Nov 2026 13:00:18 GMT"
@@ -508,11 +513,6 @@
           "title": "Jensen Huang was a busted flush at Nvidia \u2013 he had to go | Nils Pratley",
           "link": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/12/jensen-huang-was-a-busted-flush-at-nvidia-he-had-to-go",
           "date": "Thu, 12 Nov 2026 18:46:48 GMT"
-        },
-        {
-          "title": "Jensen Huang built an AI kingdom. Now he\u2019s gone, will Nvidia\u2019s ramparts be breached?",
-          "link": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-built-an-ai-kingdom-now-hes-gone-will-nvidias-ramparts-be-breached",
-          "date": "Thu, 12 Nov 2026 17:50:35 GMT"
         }
       ],
       "error": null
