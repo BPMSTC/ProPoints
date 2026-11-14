@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T16:05:31.191880+00:00",
+  "generatedAt": "2026-11-14T17:04:41.336506+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Asian governments react to Nvidia CEO Jensen Huang\u2019s exit",
+          "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+          "date": "Sat, 14 Nov 2026 16:34:15 +0000"
+        },
+        {
           "title": "Jensen Huang\u2019s departure blasts big hole in AI startup funding, VCs and founders say",
           "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
           "date": "Fri, 13 Nov 2026 22:43:00 +0000"
@@ -126,11 +131,6 @@
           "title": "ChatGPT\u2019s new Wallet lets AI agents shop and check out for you",
           "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
           "date": "Fri, 13 Nov 2026 16:00:12 +0000"
-        },
-        {
-          "title": "The unfolding Jensen Huang scandal: a timeline",
-          "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-          "date": "Fri, 13 Nov 2026 15:58:00 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:7:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -253,6 +253,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "DataTalks.Club is launching a free new course on generative media, starts Monday",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xw6wan/datatalksclub_is_launching_a_free_new_course_on/",
+          "date": "2026-11-14T16:42:24+00:00"
+        },
+        {
           "title": "GPT-5.1-Codex-Max is live in Codex with new pricing \u2014 is this the coding model to beat now?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xvr2gu/gpt51codexmax_is_live_in_codex_with_new_pricing/",
           "date": "2026-11-14T02:36:05+00:00"
@@ -266,11 +271,6 @@
           "title": "I just wanted to romance fictional characters. Somehow I ended up building an entire AI knowledge management workflow. \ud83d\udc80",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xutem4/i_just_wanted_to_romance_fictional_characters/",
           "date": "2026-11-13T00:23:48+00:00"
-        },
-        {
-          "title": "Looking for participants for my PhD research on generative AI !",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xucnjj/looking_for_participants_for_my_phd_research_on/",
-          "date": "2026-11-12T13:23:23+00:00"
         }
       ],
       "error": null
