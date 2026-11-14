@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-11-14T12:07:18.979724+00:00",
+  "generatedAt": "2026-11-14T13:04:58.256800+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Scientists Made Monkeys Watch Minions to Study Their Brains",
+          "link": "https://www.404media.co/scientists-made-monkeys-watch-minions-to-study-their-brains/",
+          "date": "Sat, 14 Nov 2026 13:00:00 GMT"
+        },
         {
           "title": "Behind the Blog: Priorities, Priorities",
           "link": "https://www.404media.co/behind-the-blog-priorities-priorities/",
@@ -24,11 +29,6 @@
           "title": "'No One Is Like This:' Muse Sexts While Roleplaying as Real People",
           "link": "https://www.404media.co/muse-sexts-roleplaying-real-people/",
           "date": "Thu, 12 Nov 2026 16:25:29 GMT"
-        },
-        {
-          "title": "Scientists Discovered An \u2018Invisible\u2019 Object In Space. It\u2019s Challenging Our Understanding of the Cosmos",
-          "link": "https://www.404media.co/scientists-discovered-an-invisible-object-in-space/",
-          "date": "Wed, 11 Nov 2026 19:00:00 GMT"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:7:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -215,6 +215,11 @@
       "name": "AI Now Institute",
       "url": "https://ainowinstitute.org/category/news/feed",
       "items": [
+        {
+          "title": "Lawfare Daily: Aya Ibrahim on Progressive Priorities for the New Democratic Congress",
+          "link": "https://ainowinstitute.org/news/lawfare-daily-aya-ibrahim-on-progressive-priorities-for-the-new-democratic-congress",
+          "date": "Fri, 13 Nov 2026 22:37:09 +0000"
+        },
         {
           "title": "AI Now Statement on the Bipartisan American Affordability and Jobs Act (BAAJA) to US Congress",
           "link": "https://ainowinstitute.org/news/announcement/ai-now-statement-on-the-bipartisan-american-affordability-and-jobs-act-baaja-to-us-congress",
@@ -234,11 +239,6 @@
           "title": "2026 election breakdown: Americans vote down data centers, AI and oligarchy",
           "link": "https://ainowinstitute.org/news/2026-election-breakdown-americans-vote-down-data-centers-ai-and-oligarchy",
           "date": "Fri, 06 Nov 2026 18:48:53 +0000"
-        },
-        {
-          "title": "OpenAI is already trying to shape the 2028 election",
-          "link": "https://ainowinstitute.org/news/openai-is-already-trying-to-shape-the-2028-election",
-          "date": "Wed, 04 Nov 2026 18:49:06 +0000"
         }
       ],
       "error": null
@@ -420,6 +420,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "James Webb telescope finds ice older than the star it orbits",
+          "link": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
+          "date": "Sat, 14 Nov 2026 12:15:48 +0000"
+        },
+        {
+          "title": "Winemakers are learning that conservation can be good for business",
+          "link": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
+          "date": "Sat, 14 Nov 2026 12:05:51 +0000"
+        },
+        {
           "title": "Starship flight 15 powers to orbit\u2014setting up a possible catch on Saturday",
           "link": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
           "date": "Sat, 14 Nov 2026 00:49:13 +0000"
@@ -433,16 +443,6 @@
           "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
           "link": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
           "date": "Fri, 13 Nov 2026 21:59:01 +0000"
-        },
-        {
-          "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-          "link": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-          "date": "Fri, 13 Nov 2026 21:20:47 +0000"
-        },
-        {
-          "title": "In elephants, the resilience of communities has its limits",
-          "link": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/",
-          "date": "Fri, 13 Nov 2026 20:03:13 +0000"
         }
       ],
       "error": null
@@ -554,6 +554,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Even San Francisco Is Turning Against AI",
+          "link": "https://futurism.com/artificial-intelligence/even-san-francisco-is-turning-against-ai",
+          "date": "Sat, 14 Nov 2026 08:02:00 -0500"
+        },
+        {
           "title": "Entire US Airspace Shut Down Days After the FAA Rolled Out an AI Air Traffic Tool. Was It a Coincidence?",
           "link": "https://futurism.com/artificial-intelligence/us-airspace-shuts-down-faa-rolled-out-ai",
           "date": "Fri, 13 Nov 2026 17:56:00 -0500"
@@ -572,11 +577,6 @@
           "title": "OpenAI Leadership Gets Fooled by Pranksters Pretending to be Ukrainian Officials, Discusses Military Secrets With Them",
           "link": "https://futurism.com/artificial-intelligence/openai-military-applications-ai-pranksters-ukrainian",
           "date": "Fri, 13 Nov 2026 11:02:00 -0500"
-        },
-        {
-          "title": "Shameless Scammers Are Cashing in by Posting Fake, AI-Altered Paparazzi Shots of Celebrities Undergoing Going Huge Body Changes, Drinking While Pregnant, and Cheating on Their Partners",
-          "link": "https://futurism.com/artificial-intelligence/fake-ai-paparazzi-shots-celebrities",
-          "date": "Fri, 13 Nov 2026 08:01:00 -0500"
         }
       ],
       "error": null
@@ -585,6 +585,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Beware the New AI-Fueled Ransomware Boom",
+          "link": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+          "date": "Sat, 14 Nov 2026 13:00:00 +0000"
+        },
         {
           "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
           "link": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
@@ -604,11 +609,6 @@
           "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
           "link": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
           "date": "Fri, 13 Nov 2026 11:45:00 +0000"
-        },
-        {
-          "title": "Silicon Valley Is Still Defending Jensen Huang",
-          "link": "https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/",
-          "date": "Thu, 12 Nov 2026 22:29:43 +0000"
         }
       ],
       "error": null
