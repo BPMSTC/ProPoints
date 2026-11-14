@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T11:04:48.463495+00:00",
+  "generatedAt": "2026-11-14T12:07:18.979724+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -263,14 +263,14 @@
           "date": "2026-11-13T16:08:48+00:00"
         },
         {
-          "title": "Ling-3.2-flash's image-to-web demo also uses Ming-Image-0.1-Design",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xuc4h0/ling32flashs_imagetoweb_demo_also_uses/",
-          "date": "2026-11-12T12:59:35+00:00"
-        },
-        {
           "title": "Looking for participants for my PhD research on generative AI !",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xucnjj/looking_for_participants_for_my_phd_research_on/",
           "date": "2026-11-12T13:23:23+00:00"
+        },
+        {
+          "title": "Building an autonomous talent sourcer taught me why scraping personal portfolio sites breaks",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xtgspi/building_an_autonomous_talent_sourcer_taught_me/",
+          "date": "2026-11-11T12:43:39+00:00"
         }
       ],
       "error": null
