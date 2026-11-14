@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T20:05:03.714420+00:00",
+  "generatedAt": "2026-11-14T21:04:48.510992+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:7:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -253,6 +253,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "Syntax Hacks Soon!",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xwc9f5/syntax_hacks_soon/",
+          "date": "2026-11-14T20:20:31+00:00"
+        },
+        {
           "title": "DataTalks.Club is launching a free new course on generative media, starts Monday",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xw6wan/datatalksclub_is_launching_a_free_new_course_on/",
           "date": "2026-11-14T16:42:24+00:00"
@@ -266,11 +271,6 @@
           "title": "OpenAI's Daybreak uses agent fleets to pen-test web apps and retest patches \u2014 would you let agents attack your own app?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xvbvg5/openais_daybreak_uses_agent_fleets_to_pentest_web/",
           "date": "2026-11-13T16:08:48+00:00"
-        },
-        {
-          "title": "I just wanted to romance fictional characters. Somehow I ended up building an entire AI knowledge management workflow. \ud83d\udc80",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xutem4/i_just_wanted_to_romance_fictional_characters/",
-          "date": "2026-11-13T00:23:48+00:00"
         }
       ],
       "error": null
@@ -450,33 +450,7 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "Could AI handle public transit information calls?",
-          "link": "https://www.reddit.com/r/artificial/comments/1xw6eqj/could_ai_handle_public_transit_information_calls/",
-          "date": "2026-11-14T16:22:37+00:00"
-        },
-        {
-          "title": "OpenAI is so convinced that LLMs will become brains for robots that it has disbanded its robotics team",
-          "link": "https://www.reddit.com/r/artificial/comments/1xvivdy/openai_is_so_convinced_that_llms_will_become/",
-          "date": "2026-11-13T20:32:27+00:00"
-        },
-        {
-          "title": "\"We are deeply sorry\" Microsoft apologizes for major outage that knocked Outlook, Teams, and Microsoft 365 offline for 24 hours \u2013 insists it wasn't AI that caused it",
-          "link": "https://www.reddit.com/r/artificial/comments/1xvinch/we_are_deeply_sorry_microsoft_apologizes_for/",
-          "date": "2026-11-13T20:23:20+00:00"
-        },
-        {
-          "title": "Google used 29 AI agents to build a 50-task benchmark for causal reasoning",
-          "link": "https://www.reddit.com/r/artificial/comments/1xvwdwz/google_used_29_ai_agents_to_build_a_50task/",
-          "date": "2026-11-14T07:30:09+00:00"
-        },
-        {
-          "title": "Requiem for a robot: the AI users mourning chatbots that may have harmed them",
-          "link": "https://www.reddit.com/r/artificial/comments/1xw2k13/requiem_for_a_robot_the_ai_users_mourning/",
-          "date": "2026-11-14T13:35:23+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
