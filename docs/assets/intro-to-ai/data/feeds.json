@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T22:04:58.457070+00:00",
+  "generatedAt": "2026-11-14T23:05:08.076582+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -490,7 +490,7 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Art \u2018must not be sacrificed on the altar of corporate profit\u2019 Liberal senator says as AI policy debate rages",
+          "title": "Art \u2018must not be sacrificed on the altar of corporate profit\u2019, Liberal senator says as AI policy debate rages",
           "link": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
           "date": "Sat, 14 Nov 2026 19:00:52 GMT"
         },
