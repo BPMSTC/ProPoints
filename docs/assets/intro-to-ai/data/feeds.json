@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T19:04:47.417840+00:00",
+  "generatedAt": "2026-11-14T20:05:03.714420+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -215,6 +215,11 @@
       "name": "AI Now Institute",
       "url": "https://ainowinstitute.org/category/news/feed",
       "items": [
+        {
+          "title": "Lawfare Daily: Aya Ibrahim on Progressive Priorities for the New Democratic Congress",
+          "link": "https://ainowinstitute.org/news/lawfare-daily-aya-ibrahim-on-progressive-priorities-for-the-new-democratic-congress",
+          "date": "Fri, 13 Nov 2026 22:37:09 +0000"
+        },
         {
           "title": "AI Now Statement on the Bipartisan American Affordability and Jobs Act (BAAJA) to US Congress",
           "link": "https://ainowinstitute.org/news/announcement/ai-now-statement-on-the-bipartisan-american-affordability-and-jobs-act-baaja-to-us-congress",
@@ -234,11 +239,6 @@
           "title": "2026 election breakdown: Americans vote down data centers, AI and oligarchy",
           "link": "https://ainowinstitute.org/news/2026-election-breakdown-americans-vote-down-data-centers-ai-and-oligarchy",
           "date": "Fri, 06 Nov 2026 18:48:53 +0000"
-        },
-        {
-          "title": "OpenAI is already trying to shape the 2028 election",
-          "link": "https://ainowinstitute.org/news/openai-is-already-trying-to-shape-the-2028-election",
-          "date": "Wed, 04 Nov 2026 18:49:06 +0000"
         }
       ],
       "error": null
@@ -280,6 +280,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "AT&T uses agentic AI to reinvent business processes from the ground up",
+          "link": "https://siliconangle.com/2026/11/14/att-uses-agentic-ai-to-reinvent-business-processes-from-the-ground-up/",
+          "date": "Sat, 14 Nov 2026 19:37:13 +0000"
+        },
+        {
           "title": "NiCE\u2019s next-generation Cognigy bets the hard part of AI agents is running them, not building them",
           "link": "https://siliconangle.com/2026/11/13/nices-next-generation-cognigy-bets-the-hard-part-of-ai-agents-is-running-them-not-building-them/",
           "date": "Sat, 14 Nov 2026 00:49:43 +0000"
@@ -298,11 +303,6 @@
           "title": "Agents idling while they wait on humans push Kubernetes to hand back unused resources",
           "link": "https://siliconangle.com/2026/11/13/agentic-ai-workloads-push-kubernetes-return-idle-resources-kubeconna/",
           "date": "Fri, 13 Nov 2026 14:22:57 +0000"
-        },
-        {
-          "title": "AI agent tooling provider LangChain secures $300M investment",
-          "link": "https://siliconangle.com/2026/11/12/ai-agent-tooling-provider-langchain-secures-300m-investment/",
-          "date": "Thu, 12 Nov 2026 23:24:06 +0000"
         }
       ],
       "error": null
@@ -450,7 +450,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "Could AI handle public transit information calls?",
+          "link": "https://www.reddit.com/r/artificial/comments/1xw6eqj/could_ai_handle_public_transit_information_calls/",
+          "date": "2026-11-14T16:22:37+00:00"
+        },
+        {
+          "title": "OpenAI is so convinced that LLMs will become brains for robots that it has disbanded its robotics team",
+          "link": "https://www.reddit.com/r/artificial/comments/1xvivdy/openai_is_so_convinced_that_llms_will_become/",
+          "date": "2026-11-13T20:32:27+00:00"
+        },
+        {
+          "title": "\"We are deeply sorry\" Microsoft apologizes for major outage that knocked Outlook, Teams, and Microsoft 365 offline for 24 hours \u2013 insists it wasn't AI that caused it",
+          "link": "https://www.reddit.com/r/artificial/comments/1xvinch/we_are_deeply_sorry_microsoft_apologizes_for/",
+          "date": "2026-11-13T20:23:20+00:00"
+        },
+        {
+          "title": "Google used 29 AI agents to build a 50-task benchmark for causal reasoning",
+          "link": "https://www.reddit.com/r/artificial/comments/1xvwdwz/google_used_29_ai_agents_to_build_a_50task/",
+          "date": "2026-11-14T07:30:09+00:00"
+        },
+        {
+          "title": "Requiem for a robot: the AI users mourning chatbots that may have harmed them",
+          "link": "https://www.reddit.com/r/artificial/comments/1xw2k13/requiem_for_a_robot_the_ai_users_mourning/",
+          "date": "2026-11-14T13:35:23+00:00"
+        }
+      ],
       "error": null
     },
     {
