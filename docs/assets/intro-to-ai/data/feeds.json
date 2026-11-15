@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-11-15T12:07:37.364936+00:00",
+  "generatedAt": "2026-11-15T13:04:53.312767+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "This Comic Kills Technofascists",
+          "link": "https://www.404media.co/this-comic-kills-technofascists/",
+          "date": "Sun, 15 Nov 2026 13:00:00 GMT"
+        },
         {
           "title": "Scientists Made Monkeys Watch Minions to Study Their Brains",
           "link": "https://www.404media.co/scientists-made-monkeys-watch-minions-to-study-their-brains/",
@@ -24,11 +29,6 @@
           "title": "'Way more terrifying than I expected'",
           "link": "https://www.404media.co/way-more-terrifying-than-i-expected/",
           "date": "Thu, 12 Nov 2026 16:46:42 GMT"
-        },
-        {
-          "title": "'No One Is Like This:' Muse Sexts While Roleplaying as Real People",
-          "link": "https://www.404media.co/muse-sexts-roleplaying-real-people/",
-          "date": "Thu, 12 Nov 2026 16:25:29 GMT"
         }
       ],
       "error": null
@@ -37,6 +37,11 @@
       "name": "Ahead of AI",
       "url": "https://magazine.sebastianraschka.com/feed",
       "items": [
+        {
+          "title": "Understanding Positional Embeddings in Modern LLMs",
+          "link": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+          "date": "Sun, 15 Nov 2026 12:10:37 GMT"
+        },
         {
           "title": "Building Reasoning Models from the Ground Up: A Full Video Course",
           "link": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
@@ -56,11 +61,6 @@
           "title": "How Claude Watermarks AI-Generated Text",
           "link": "https://magazine.sebastianraschka.com/p/claude-watermarking",
           "date": "Sat, 22 Aug 2026 11:11:39 GMT"
-        },
-        {
-          "title": "Building an AI Text Detector From Scratch",
-          "link": "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
-          "date": "Sat, 15 Aug 2026 11:54:24 GMT"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -253,6 +253,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "my AI players voted out humans for typing short, and the cause was one line in my prompt",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xwtx9d/my_ai_players_voted_out_humans_for_typing_short/",
+          "date": "2026-11-15T12:08:32+00:00"
+        },
+        {
           "title": "I spent ages trying to fix an old Blender bug with AI. An AI agent finally helped me solve it.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xwsp7u/i_spent_ages_trying_to_fix_an_old_blender_bug/",
           "date": "2026-11-15T10:57:06+00:00"
@@ -266,11 +271,6 @@
           "title": "Syntax Hacks Soon!",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xwc9f5/syntax_hacks_soon/",
           "date": "2026-11-14T20:20:31+00:00"
-        },
-        {
-          "title": "DataTalks.Club is launching a free new course on generative media, starts Monday",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xw6wan/datatalksclub_is_launching_a_free_new_course_on/",
-          "date": "2026-11-14T16:42:24+00:00"
         }
       ],
       "error": null
@@ -420,6 +420,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "How the world\u2019s fires changed while humanity hit pause",
+          "link": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
+          "date": "Sun, 15 Nov 2026 12:07:34 +0000"
+        },
+        {
           "title": "SpaceX returned its Starship rocket on Saturday\u2014but there's a catch",
           "link": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
           "date": "Sun, 15 Nov 2026 00:40:59 +0000"
@@ -438,11 +443,6 @@
           "title": "Starship flight 15 powers to orbit\u2014setting up a possible catch on Saturday",
           "link": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
           "date": "Sat, 14 Nov 2026 00:49:13 +0000"
-        },
-        {
-          "title": "FAA has lifted its third-ever nationwide ground stop",
-          "link": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
-          "date": "Fri, 13 Nov 2026 23:17:38 +0000"
         }
       ],
       "error": null
