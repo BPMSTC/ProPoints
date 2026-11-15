@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T08:07:21.975859+00:00",
+  "generatedAt": "2026-11-15T09:05:58.034248+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -490,6 +490,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "AI cheating scandal rattles South Korea as annual college exam looms",
+          "link": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
+          "date": "Sun, 15 Nov 2026 08:56:11 GMT"
+        },
+        {
           "title": "\u2018Jensen Huang lost his mind\u2019: how AI\u2019s smartest man fell for the world\u2019s oldest trick",
           "link": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare",
           "date": "Sun, 15 Nov 2026 06:00:06 GMT"
@@ -508,11 +513,6 @@
           "title": "\u2018It\u2019s like the wild west\u2019: how AI has rocked the literary world",
           "link": "https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world",
           "date": "Sat, 14 Nov 2026 09:00:40 GMT"
-        },
-        {
-          "title": "What the choice between Chuck Schumer and Chris Van Hollen for Senate leader is all about | Bernie Sanders",
-          "link": "https://www.theguardian.com/commentisfree/2026/nov/13/chuck-schumer-chris-van-hollen-senate-leader",
-          "date": "Fri, 13 Nov 2026 21:28:45 GMT"
         }
       ],
       "error": null
