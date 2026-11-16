@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T13:17:06.148168+00:00",
+  "generatedAt": "2026-11-16T14:17:14.388622+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "6 Washington companies proving  AI agents can pass an audit",
+          "link": "https://www.aiacceleratorinstitute.com/6-washington-companies-proving-ai-agents-can-pass-an-audit-2/",
+          "date": "Mon, 16 Nov 2026 14:06:16 GMT"
+        },
+        {
           "title": "Your AI agent's brain is 72%  decoration. Here's the audit",
           "link": "https://www.aiacceleratorinstitute.com/your-ai-agents-brain-is-72-decoration-heres-the-audit/",
           "date": "Tue, 10 Nov 2026 12:30:05 GMT"
@@ -88,11 +93,6 @@
           "title": "25 AI researchers to  follow in 2027",
           "link": "https://www.aiacceleratorinstitute.com/25-ai-researchers-to-follow-in-2027/",
           "date": "Fri, 06 Nov 2026 15:04:27 GMT"
-        },
-        {
-          "title": "Why enterprise AI comes down to   coordination and understanding.",
-          "link": "https://www.aiacceleratorinstitute.com/why-enterprise-ai-comes-down-to-coordination-and-understanding/",
-          "date": "Fri, 06 Nov 2026 14:23:50 GMT"
         }
       ],
       "error": null
@@ -420,6 +420,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
+          "link": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
+          "date": "Mon, 16 Nov 2026 14:06:16 +0000"
+        },
+        {
+          "title": "Mercedes' clever new driving assist handles complex traffic like a champ",
+          "link": "https://arstechnica.com/cars/2026/11/mercedes-clever-new-driving-assist-handles-complex-traffic-like-a-champ/",
+          "date": "Mon, 16 Nov 2026 14:00:05 +0000"
+        },
+        {
           "title": "Delivery drones are coming. For some with PTSD, that's a terrifying prospect.",
           "link": "https://arstechnica.com/gadgets/2026/11/the-drone-delivery-boom-could-be-a-nightmare-for-people-traumatized-by-war/",
           "date": "Mon, 16 Nov 2026 12:00:57 +0000"
@@ -433,16 +443,6 @@
           "title": "How the world\u2019s fires changed while humanity hit pause",
           "link": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
           "date": "Sun, 15 Nov 2026 12:07:34 +0000"
-        },
-        {
-          "title": "SpaceX returned its Starship rocket on Saturday\u2014but there's a catch",
-          "link": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
-          "date": "Sun, 15 Nov 2026 00:40:59 +0000"
-        },
-        {
-          "title": "James Webb telescope finds ice older than the star it orbits",
-          "link": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
-          "date": "Sat, 14 Nov 2026 12:15:48 +0000"
         }
       ],
       "error": null
@@ -450,39 +450,18 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [
-        {
-          "title": "AI singer tops South Korea's Melon chart for first time with 'Did You Become the Adult You Dreamed Of?'",
-          "link": "https://www.reddit.com/r/artificial/comments/1xxmoiw/ai_singer_tops_south_koreas_melon_chart_for_first/",
-          "date": "2026-11-16T11:07:24+00:00"
-        },
-        {
-          "title": "Export-banned Nvidia chips are behind China's most powerful AI models \u2014 uh-oh, Jensen! | TechCrunch",
-          "link": "https://www.reddit.com/r/artificial/comments/1xx4t46/exportbanned_nvidia_chips_are_behind_chinas_most/",
-          "date": "2026-11-15T19:46:39+00:00"
-        },
-        {
-          "title": "Tencent releases Hy4 Flash, its new fast model, at $0.07/$0.281 per million tokens. Compared to Hy4, it costs 24.5x less per task.",
-          "link": "https://www.reddit.com/r/artificial/comments/1xxnkjb/tencent_releases_hy4_flash_its_new_fast_model_at/",
-          "date": "2026-11-16T12:00:04+00:00"
-        },
-        {
-          "title": "OpenAI Foundation Board Member: \"AI Accidents Will Soon Become the Leading Cause of Death for Humanity\" \u2014 BigGo Finance",
-          "link": "https://www.reddit.com/r/artificial/comments/1xxc7ah/openai_foundation_board_member_ai_accidents_will/",
-          "date": "2026-11-16T01:08:43+00:00"
-        },
-        {
-          "title": "Feels like every tool is turning into an API for AI agents",
-          "link": "https://www.reddit.com/r/artificial/comments/1xxj7q6/feels_like_every_tool_is_turning_into_an_api_for/",
-          "date": "2026-11-16T07:27:20+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Catching AI\u2019s mistakes is a mental burden \u2013 and a drag on productivity",
+          "link": "https://theconversation.com/catching-ais-mistakes-is-a-mental-burden-and-a-drag-on-productivity-291748",
+          "date": "2026-11-16T13:36:56Z"
+        },
         {
           "title": "Anthropic\u2019s trillion-dollar IPO is open to Australians. There\u2019s a catch for small investors",
           "link": "https://theconversation.com/anthropics-trillion-dollar-ipo-is-open-to-australians-theres-a-catch-for-small-investors-296603",
@@ -502,11 +481,6 @@
           "title": "Could you survive without Microsoft? Inside the costs of digital dependence",
           "link": "https://theconversation.com/could-you-survive-without-microsoft-inside-the-costs-of-digital-dependence-296614",
           "date": "2026-11-13T12:09:36Z"
-        },
-        {
-          "title": "From ancient Asia to the AI age: Has China\u2019s \u2018beauty stratagem\u2019 found a new victim in Nvidia\u2019s Jensen Huang?",
-          "link": "https://theconversation.com/from-ancient-asia-to-the-ai-age-has-chinas-beauty-stratagem-found-a-new-victim-in-nvidias-jensen-huang-296393",
-          "date": "2026-11-12T20:25:32Z"
         }
       ],
       "error": null
