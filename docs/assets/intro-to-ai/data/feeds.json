@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T12:13:03.736390+00:00",
+  "generatedAt": "2026-11-16T13:17:06.148168+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+          "link": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+          "date": "Mon, 16 Nov 2026 12:30:00 +0000"
+        },
+        {
           "title": "Apple launches new app to study how people use AI for health",
           "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
           "date": "Mon, 16 Nov 2026 01:30:00 +0000"
@@ -126,11 +131,6 @@
           "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
           "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
           "date": "Sun, 15 Nov 2026 20:20:57 +0000"
-        },
-        {
-          "title": "Where was Nvidia\u2019s security team?",
-          "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-          "date": "Sun, 15 Nov 2026 00:08:07 +0000"
         }
       ],
       "error": null
@@ -356,6 +356,16 @@
       "url": "https://analyticsindiamag.com/feed/",
       "items": [
         {
+          "title": "Alibaba Launches Qwen4-Max AI Model With Focus on Security",
+          "link": "https://analyticsindiamag.com/ai-news/alibaba-launches-qwen4-max-ai-model-with-focus-on-security",
+          "date": "Mon, 16 Nov 2026 12:19:01 GMT"
+        },
+        {
+          "title": "Delhi's Bharat Semi Raises $24 Mn to Develop AI Image Sensors",
+          "link": "https://analyticsindiamag.com/ai-news/delhis-bharat-semi-raises-24-mn-to-develop-ai-image-sensors",
+          "date": "Mon, 16 Nov 2026 12:15:08 GMT"
+        },
+        {
           "title": "Inside CtrlS\u2019s Massive 4.4 GW Bet on India\u2019s AI and Data Centre Boom",
           "link": "https://analyticsindiamag.com/ai-features/inside-ctrlss-44-gw-bet-on-indias-data-centre-boom",
           "date": "Mon, 16 Nov 2026 11:36:20 GMT"
@@ -369,16 +379,6 @@
           "title": "India Joins US-Led Pact to Secure AI and Semiconductor Supply Chains",
           "link": "https://analyticsindiamag.com/ai-news/india-joins-us-led-pact-to-secure-ai-and-semiconductor-supply-chains",
           "date": "Mon, 16 Nov 2026 10:56:00 GMT"
-        },
-        {
-          "title": "SK Hynix to Invest $1 Bn in Chip Supplier Support Over 5 Years",
-          "link": "https://analyticsindiamag.com/ai-news/sk-hynix-to-invest-1-billion-in-chip-supplier-support-over-five-years",
-          "date": "Mon, 16 Nov 2026 10:52:00 GMT"
-        },
-        {
-          "title": "Building a GCC is Easy. Indian IT\u2019s Real Test is Monetising Them",
-          "link": "https://analyticsindiamag.com/it-services/building-a-gcc-is-easy-indian-its-real-test-is-monetising-them",
-          "date": "Mon, 16 Nov 2026 07:02:29 GMT"
         }
       ],
       "error": null
@@ -420,7 +420,7 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "The drone-delivery boom could be a nightmare for people traumatized by war",
+          "title": "Delivery drones are coming. For some with PTSD, that's a terrifying prospect.",
           "link": "https://arstechnica.com/gadgets/2026/11/the-drone-delivery-boom-could-be-a-nightmare-for-people-traumatized-by-war/",
           "date": "Mon, 16 Nov 2026 12:00:57 +0000"
         },
@@ -452,14 +452,19 @@
       "url": "https://www.reddit.com/r/artificial/.rss",
       "items": [
         {
+          "title": "AI singer tops South Korea's Melon chart for first time with 'Did You Become the Adult You Dreamed Of?'",
+          "link": "https://www.reddit.com/r/artificial/comments/1xxmoiw/ai_singer_tops_south_koreas_melon_chart_for_first/",
+          "date": "2026-11-16T11:07:24+00:00"
+        },
+        {
           "title": "Export-banned Nvidia chips are behind China's most powerful AI models \u2014 uh-oh, Jensen! | TechCrunch",
           "link": "https://www.reddit.com/r/artificial/comments/1xx4t46/exportbanned_nvidia_chips_are_behind_chinas_most/",
           "date": "2026-11-15T19:46:39+00:00"
         },
         {
-          "title": "AI singer tops South Korea's Melon chart for first time with 'Did You Become the Adult You Dreamed Of?'",
-          "link": "https://www.reddit.com/r/artificial/comments/1xxmoiw/ai_singer_tops_south_koreas_melon_chart_for_first/",
-          "date": "2026-11-16T11:07:24+00:00"
+          "title": "Tencent releases Hy4 Flash, its new fast model, at $0.07/$0.281 per million tokens. Compared to Hy4, it costs 24.5x less per task.",
+          "link": "https://www.reddit.com/r/artificial/comments/1xxnkjb/tencent_releases_hy4_flash_its_new_fast_model_at/",
+          "date": "2026-11-16T12:00:04+00:00"
         },
         {
           "title": "OpenAI Foundation Board Member: \"AI Accidents Will Soon Become the Leading Cause of Death for Humanity\" \u2014 BigGo Finance",
@@ -470,11 +475,6 @@
           "title": "Feels like every tool is turning into an API for AI agents",
           "link": "https://www.reddit.com/r/artificial/comments/1xxj7q6/feels_like_every_tool_is_turning_into_an_api_for/",
           "date": "2026-11-16T07:27:20+00:00"
-        },
-        {
-          "title": "Tencent releases Hy4 Flash, its new fast model, at $0.07/$0.281 per million tokens. Compared to Hy4, it costs 24.5x less per task.",
-          "link": "https://www.reddit.com/r/artificial/comments/1xxnkjb/tencent_releases_hy4_flash_its_new_fast_model_at/",
-          "date": "2026-11-16T12:00:04+00:00"
         }
       ],
       "error": null
