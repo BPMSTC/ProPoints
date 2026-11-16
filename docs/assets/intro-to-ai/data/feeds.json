@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T01:07:49.125270+00:00",
+  "generatedAt": "2026-11-16T02:09:28.805360+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Apple launches new app to study how people use AI for health",
+          "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+          "date": "Mon, 16 Nov 2026 01:30:00 +0000"
+        },
+        {
           "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
           "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
           "date": "Sun, 15 Nov 2026 23:30:00 +0000"
@@ -126,11 +131,6 @@
           "title": "Where was Nvidia\u2019s security team?",
           "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
           "date": "Sun, 15 Nov 2026 00:08:07 +0000"
-        },
-        {
-          "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-          "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-          "date": "Sat, 14 Nov 2026 21:41:22 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:7:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -495,6 +495,11 @@
           "date": "Mon, 16 Nov 2026 00:01:27 GMT"
         },
         {
+          "title": "Elon Musk joins 158,000 others calling for Nvidia to bring back Jensen Huang in open letter",
+          "link": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
+          "date": "Mon, 16 Nov 2026 01:01:08 GMT"
+        },
+        {
           "title": "The Guardian view on civil service reform: AI cannot conjure a capable state on its own | Editorial",
           "link": "https://www.theguardian.com/commentisfree/2026/nov/15/the-guardian-view-on-civil-service-reform-ai-cannot-conjure-a-capable-state-on-its-own",
           "date": "Sun, 15 Nov 2026 17:25:19 GMT"
@@ -508,11 +513,6 @@
           "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
           "link": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
           "date": "Sun, 15 Nov 2026 08:56:11 GMT"
-        },
-        {
-          "title": "\u2018Jensen Huang lost his mind\u2019: how AI\u2019s smartest man fell for the world\u2019s oldest trick",
-          "link": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare",
-          "date": "Sun, 15 Nov 2026 06:00:06 GMT"
         }
       ],
       "error": null
