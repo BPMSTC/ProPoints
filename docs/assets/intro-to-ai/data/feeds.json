@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T00:20:38.210453+00:00",
+  "generatedAt": "2026-11-16T01:07:49.125270+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -253,6 +253,11 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
+          "title": "In a 'sloppified' AI world, only humans can build ecosystems \u2014 is that a prompting problem we can solve?",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xxbrdo/in_a_sloppified_ai_world_only_humans_can_build/",
+          "date": "2026-11-16T00:47:15+00:00"
+        },
+        {
           "title": "My workflow with Fable 5.2, Opus and GitHub",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xx4sbs/my_workflow_with_fable_52_opus_and_github/",
           "date": "2026-11-15T19:45:47+00:00"
@@ -266,11 +271,6 @@
           "title": "I spent ages trying to fix an old Blender bug with AI. An AI agent finally helped me solve it.",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xwsp7u/i_spent_ages_trying_to_fix_an_old_blender_bug/",
           "date": "2026-11-15T10:57:06+00:00"
-        },
-        {
-          "title": "Architectural Gravity \u2013 Cross-Model Agent Control Language",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xwymys/architectural_gravity_crossmodel_agent_control/",
-          "date": "2026-11-15T15:43:42+00:00"
         }
       ],
       "error": null
