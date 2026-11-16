@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T11:06:13.948187+00:00",
+  "generatedAt": "2026-11-16T12:13:03.736390+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -356,6 +356,16 @@
       "url": "https://analyticsindiamag.com/feed/",
       "items": [
         {
+          "title": "Inside CtrlS\u2019s Massive 4.4 GW Bet on India\u2019s AI and Data Centre Boom",
+          "link": "https://analyticsindiamag.com/ai-features/inside-ctrlss-44-gw-bet-on-indias-data-centre-boom",
+          "date": "Mon, 16 Nov 2026 11:36:20 GMT"
+        },
+        {
+          "title": "Karnataka Bets on Physical AI, Deeptech at Bengaluru Tech Summit 2026",
+          "link": "https://analyticsindiamag.com/ai-news/karnataka-bets-on-physical-ai-deeptech-at-bengaluru-tech-summit-2026",
+          "date": "Mon, 16 Nov 2026 11:29:59 GMT"
+        },
+        {
           "title": "India Joins US-Led Pact to Secure AI and Semiconductor Supply Chains",
           "link": "https://analyticsindiamag.com/ai-news/india-joins-us-led-pact-to-secure-ai-and-semiconductor-supply-chains",
           "date": "Mon, 16 Nov 2026 10:56:00 GMT"
@@ -369,16 +379,6 @@
           "title": "Building a GCC is Easy. Indian IT\u2019s Real Test is Monetising Them",
           "link": "https://analyticsindiamag.com/it-services/building-a-gcc-is-easy-indian-its-real-test-is-monetising-them",
           "date": "Mon, 16 Nov 2026 07:02:29 GMT"
-        },
-        {
-          "title": "Jensen Huang\u2019s Exit Just Gave AMD and Google Their Biggest AI Opening",
-          "link": "https://analyticsindiamag.com/global-tech/jensen-huangs-exit-just-gave-amd-and-google-their-biggest-ai-opening",
-          "date": "Sat, 14 Nov 2026 11:01:30 GMT"
-        },
-        {
-          "title": "OpenAI Introduces ChatGPT Wallet for Agent-Led Payments",
-          "link": "https://analyticsindiamag.com/ai-news/openai-introduces-chatgpt-wallet-for-agent-led-payments",
-          "date": "Sat, 14 Nov 2026 05:25:04 GMT"
         }
       ],
       "error": null
@@ -420,6 +420,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "The drone-delivery boom could be a nightmare for people traumatized by war",
+          "link": "https://arstechnica.com/gadgets/2026/11/the-drone-delivery-boom-could-be-a-nightmare-for-people-traumatized-by-war/",
+          "date": "Mon, 16 Nov 2026 12:00:57 +0000"
+        },
+        {
           "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
           "link": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
           "date": "Sun, 15 Nov 2026 23:11:54 +0000"
@@ -438,11 +443,6 @@
           "title": "James Webb telescope finds ice older than the star it orbits",
           "link": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
           "date": "Sat, 14 Nov 2026 12:15:48 +0000"
-        },
-        {
-          "title": "Winemakers are learning that conservation can be good for business",
-          "link": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
-          "date": "Sat, 14 Nov 2026 12:05:51 +0000"
         }
       ],
       "error": null
@@ -450,7 +450,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "Export-banned Nvidia chips are behind China's most powerful AI models \u2014 uh-oh, Jensen! | TechCrunch",
+          "link": "https://www.reddit.com/r/artificial/comments/1xx4t46/exportbanned_nvidia_chips_are_behind_chinas_most/",
+          "date": "2026-11-15T19:46:39+00:00"
+        },
+        {
+          "title": "AI singer tops South Korea's Melon chart for first time with 'Did You Become the Adult You Dreamed Of?'",
+          "link": "https://www.reddit.com/r/artificial/comments/1xxmoiw/ai_singer_tops_south_koreas_melon_chart_for_first/",
+          "date": "2026-11-16T11:07:24+00:00"
+        },
+        {
+          "title": "OpenAI Foundation Board Member: \"AI Accidents Will Soon Become the Leading Cause of Death for Humanity\" \u2014 BigGo Finance",
+          "link": "https://www.reddit.com/r/artificial/comments/1xxc7ah/openai_foundation_board_member_ai_accidents_will/",
+          "date": "2026-11-16T01:08:43+00:00"
+        },
+        {
+          "title": "Feels like every tool is turning into an API for AI agents",
+          "link": "https://www.reddit.com/r/artificial/comments/1xxj7q6/feels_like_every_tool_is_turning_into_an_api_for/",
+          "date": "2026-11-16T07:27:20+00:00"
+        },
+        {
+          "title": "Tencent releases Hy4 Flash, its new fast model, at $0.07/$0.281 per million tokens. Compared to Hy4, it costs 24.5x less per task.",
+          "link": "https://www.reddit.com/r/artificial/comments/1xxnkjb/tencent_releases_hy4_flash_its_new_fast_model_at/",
+          "date": "2026-11-16T12:00:04+00:00"
+        }
+      ],
       "error": null
     },
     {
@@ -495,14 +521,14 @@
           "date": "Mon, 16 Nov 2026 00:01:27 GMT"
         },
         {
+          "title": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter",
+          "link": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
+          "date": "Mon, 16 Nov 2026 11:30:35 GMT"
+        },
+        {
           "title": "Albanese treads tightrope in upcoming Trump meeting, wanting Indo-Pacific engagement and end to Iran and Ukraine wars",
           "link": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
           "date": "Mon, 16 Nov 2026 09:40:29 GMT"
-        },
-        {
-          "title": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter",
-          "link": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
-          "date": "Mon, 16 Nov 2026 08:18:12 GMT"
         },
         {
           "title": "UK exposed to polycrisis of threats amid government \u2018complacency\u2019",
