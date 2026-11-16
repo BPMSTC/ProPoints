@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T16:06:51.651754+00:00",
+  "generatedAt": "2026-11-16T17:05:20.304290+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,16 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "OpenAI will embed Apollo researchers to investigate AI subversion",
+          "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+          "date": "Mon, 16 Nov 2026 17:02:43 +0000"
+        },
+        {
+          "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+          "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+          "date": "Mon, 16 Nov 2026 17:00:00 +0000"
+        },
+        {
           "title": "Audible turns to AI to help users discover audiobooks",
           "link": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
           "date": "Mon, 16 Nov 2026 15:52:19 +0000"
@@ -121,16 +131,6 @@
           "title": "Google Maps can now build trip itineraries with real-time details about each stop",
           "link": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
           "date": "Mon, 16 Nov 2026 14:48:13 +0000"
-        },
-        {
-          "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
-          "link": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
-          "date": "Mon, 16 Nov 2026 12:30:00 +0000"
-        },
-        {
-          "title": "Apple launches new app to study how people use AI for health",
-          "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-          "date": "Mon, 16 Nov 2026 01:30:00 +0000"
         }
       ],
       "error": null
@@ -388,6 +388,11 @@
       "url": "https://huggingface.co/blog/feed.xml",
       "items": [
         {
+          "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+          "link": "https://huggingface.co/blog/openrouter",
+          "date": "Mon, 16 Nov 2026 00:00:00 GMT"
+        },
+        {
           "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
           "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
           "date": "Fri, 13 Nov 2026 18:00:39 GMT"
@@ -406,11 +411,6 @@
           "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
           "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
           "date": "Thu, 12 Nov 2026 19:07:35 GMT"
-        },
-        {
-          "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-          "link": "https://huggingface.co/blog/3d-lora-finetuning",
-          "date": "Thu, 12 Nov 2026 00:00:00 GMT"
         }
       ],
       "error": null
@@ -419,6 +419,11 @@
       "name": "Ars Technica - All content",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
+        {
+          "title": "US now \"comfortable\" with children dying of measles as death toll hits 10",
+          "link": "https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/",
+          "date": "Mon, 16 Nov 2026 16:39:29 +0000"
+        },
         {
           "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
           "link": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
@@ -438,11 +443,6 @@
           "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
           "link": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
           "date": "Sun, 15 Nov 2026 23:11:54 +0000"
-        },
-        {
-          "title": "How the world\u2019s fires changed while humanity hit pause",
-          "link": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
-          "date": "Sun, 15 Nov 2026 12:07:34 +0000"
         }
       ],
       "error": null
@@ -495,6 +495,11 @@
           "date": "Mon, 16 Nov 2026 00:01:27 GMT"
         },
         {
+          "title": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
+          "link": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
+          "date": "Mon, 16 Nov 2026 16:48:47 GMT"
+        },
+        {
           "title": "AI models \u2018weak and fallible\u2019 on climate science, UN-backed study reports",
           "link": "https://www.theguardian.com/environment/2026/nov/16/ai-models-fallible-denial-climate-science-unesco-cop31",
           "date": "Mon, 16 Nov 2026 16:05:58 GMT"
@@ -508,11 +513,6 @@
           "title": "Albanese treads tightrope in upcoming Trump meeting, wanting Indo-Pacific engagement and end to Iran and Ukraine wars",
           "link": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
           "date": "Mon, 16 Nov 2026 09:40:29 GMT"
-        },
-        {
-          "title": "UK exposed to polycrisis of threats amid government \u2018complacency\u2019",
-          "link": "https://www.theguardian.com/society/2026/nov/16/uk-exposed-to-polycrisis-of-threats-amid-government-complacency",
-          "date": "Mon, 16 Nov 2026 06:30:35 GMT"
         }
       ],
       "error": null
@@ -554,6 +554,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Instagram\u2019s Algorithm Is Promoting Antisemitic Content, Report Finds",
+          "link": "https://futurism.com/artificial-intelligence/instagram-algorithm-antisemitic-content",
+          "date": "Mon, 16 Nov 2026 12:01:07 -0500"
+        },
+        {
           "title": "Author Says the Hundreds of Full-Length Romance Novels She Publishes Every Year Are Very High Quality in Spite of AI Usage",
           "link": "https://futurism.com/artificial-intelligence/author-hundreds-romance-novels-ai",
           "date": "Sun, 15 Nov 2026 10:01:00 -0500"
@@ -572,11 +577,6 @@
           "title": "Even San Francisco Is Turning Against AI",
           "link": "https://futurism.com/artificial-intelligence/even-san-francisco-is-turning-against-ai",
           "date": "Sat, 14 Nov 2026 08:02:00 -0500"
-        },
-        {
-          "title": "Entire US Airspace Shut Down Days After the FAA Rolled Out an AI Air Traffic Tool. Was It a Coincidence?",
-          "link": "https://futurism.com/artificial-intelligence/us-airspace-shuts-down-faa-rolled-out-ai",
-          "date": "Fri, 13 Nov 2026 17:56:00 -0500"
         }
       ],
       "error": null
@@ -585,6 +585,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Jensen Huang Is Gone. Now What?",
+          "link": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
+          "date": "Mon, 16 Nov 2026 16:12:51 +0000"
+        },
         {
           "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
           "link": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
@@ -604,11 +609,6 @@
           "title": "Beware the New AI-Fueled Ransomware Boom",
           "link": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
           "date": "Sat, 14 Nov 2026 13:00:00 +0000"
-        },
-        {
-          "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
-          "link": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
-          "date": "Sat, 14 Nov 2026 11:00:00 +0000"
         }
       ],
       "error": null
