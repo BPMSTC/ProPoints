@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T21:05:12.735958+00:00",
+  "generatedAt": "2026-11-16T22:05:31.373487+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "All the questions Nvidia should answer on Tuesday \u2014 but probably won\u2019t",
+          "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+          "date": "Mon, 16 Nov 2026 22:03:02 +0000"
+        },
+        {
           "title": "California state AG sues OpenAI over rogue agent incidents",
           "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
           "date": "Mon, 16 Nov 2026 20:07:13 +0000"
@@ -123,14 +128,9 @@
           "date": "Mon, 16 Nov 2026 18:11:10 +0000"
         },
         {
-          "title": "FBI says Artex AI open-source hacking tool used to breach networks in \u2018under three hours\u2019",
+          "title": "FBI says Artex AI open source hacking tool used to breach networks in \u2018under three hours\u2019",
           "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
           "date": "Mon, 16 Nov 2026 17:36:43 +0000"
-        },
-        {
-          "title": "Jordan Belfort\u2019s new AI voice startup, Tone, wants to sell like the \u2018Wolf of Wall Street\u2019",
-          "link": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
-          "date": "Mon, 16 Nov 2026 17:10:00 +0000"
         }
       ],
       "error": null
@@ -246,39 +246,18 @@
     {
       "name": "Ai Prompt Programming",
       "url": "https://www.reddit.com/r/aipromptprogramming/.rss",
-      "items": [
-        {
-          "title": "Welcome to r/aipromptprogramming \u2014 join our Discord",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vlcrpj/welcome_to_raipromptprogramming_join_our_discord/",
-          "date": "2026-08-11T09:36:31+00:00"
-        },
-        {
-          "title": "In a 'sloppified' AI world, only humans can build ecosystems \u2014 is that a prompting problem we can solve?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xxbrdo/in_a_sloppified_ai_world_only_humans_can_build/",
-          "date": "2026-11-16T00:47:15+00:00"
-        },
-        {
-          "title": "My workflow with Fable 5.2, Opus and GitHub",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xx4sbs/my_workflow_with_fable_52_opus_and_github/",
-          "date": "2026-11-15T19:45:47+00:00"
-        },
-        {
-          "title": "my AI players voted out humans for typing short, and the cause was one line in my prompt",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xwtx9d/my_ai_players_voted_out_humans_for_typing_short/",
-          "date": "2026-11-15T12:08:32+00:00"
-        },
-        {
-          "title": "Architectural Gravity \u2013 Cross-Model Agent Control Language",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xwymys/architectural_gravity_crossmodel_agent_control/",
-          "date": "2026-11-15T15:43:42+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
+        {
+          "title": "Alibaba launches Qwen4-Max with training, attention optimizations",
+          "link": "https://siliconangle.com/2026/11/16/alibaba-launches-qwen4-max-with-training-attention-optimizations/",
+          "date": "Mon, 16 Nov 2026 21:21:09 +0000"
+        },
         {
           "title": "Three insights you might have missed from theCUBE\u2019s coverage of GraphSummit 2026",
           "link": "https://siliconangle.com/2026/11/16/three-insights-you-might-have-missed-from-thecubes-coverage-of-graphsummit-2026-neo4jgraphsummit/",
@@ -298,11 +277,6 @@
           "title": "Mirendil raises $1B in funding to speed up AI model development",
           "link": "https://siliconangle.com/2026/11/13/mirendil-raises-1b-in-funding-to-speed-up-ai-model-development/",
           "date": "Fri, 13 Nov 2026 21:22:49 +0000"
-        },
-        {
-          "title": "Nvidia CEO Jensen Huang\u2019s abrupt departure shakes AI industry\u2019s foundations",
-          "link": "https://siliconangle.com/2026/11/13/nvidia-ceo-jensen-huangs-abrupt-departure-shakes-ai-industrys-foundations/",
-          "date": "Fri, 13 Nov 2026 15:00:16 +0000"
         }
       ],
       "error": null
@@ -420,12 +394,17 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Microsoft details how three problems combined for a global outage",
+          "link": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
+          "date": "Mon, 16 Nov 2026 21:56:39 +0000"
+        },
+        {
           "title": "Hyperscale data centers use 2% of US electricity",
           "link": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
           "date": "Mon, 16 Nov 2026 20:52:10 +0000"
         },
         {
-          "title": "Shareholders sue Intel, its CEO and CFO after stock drops 28.6 percent in one day",
+          "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
           "link": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
           "date": "Mon, 16 Nov 2026 20:37:47 +0000"
         },
@@ -438,11 +417,6 @@
           "title": "Supreme Court keeps injunction against DEI grant defunding in place",
           "link": "https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place/",
           "date": "Mon, 16 Nov 2026 19:54:21 +0000"
-        },
-        {
-          "title": "When will humans actually fly on Starship?",
-          "link": "https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/",
-          "date": "Mon, 16 Nov 2026 19:46:08 +0000"
         }
       ],
       "error": null
@@ -495,7 +469,12 @@
           "date": "Mon, 16 Nov 2026 00:01:27 GMT"
         },
         {
-          "title": "Albanese signs onto Trump\u2019s AI supply chain pact ahead of leaders meeting at Quad summit",
+          "title": "California sues OpenAI over safety concerns after rogue agent hacking",
+          "link": "https://www.theguardian.com/technology/2026/nov/16/california-openai-rogue-agent-hacking-lawsuit",
+          "date": "Mon, 16 Nov 2026 21:41:10 GMT"
+        },
+        {
+          "title": "Albanese signs on to Trump\u2019s AI supply chain pact before leaders\u2019 meeting at Quad summit",
           "link": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
           "date": "Mon, 16 Nov 2026 21:00:21 GMT"
         },
@@ -508,11 +487,6 @@
           "title": "Anthropic recognises the risks to humanity \u2013 but is its governance really up to the job? | Nils Pratley",
           "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/16/anthropic-claude-risks-to-humanity-governance-ai",
           "date": "Mon, 16 Nov 2026 18:18:57 GMT"
-        },
-        {
-          "title": "AI models \u2018weak and fallible\u2019 on climate science, UN-backed study reports",
-          "link": "https://www.theguardian.com/environment/2026/nov/16/ai-models-fallible-denial-climate-science-unesco-cop31",
-          "date": "Mon, 16 Nov 2026 16:05:58 GMT"
         }
       ],
       "error": null
@@ -554,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "OpenAI Board Member Warns Public They Could Be \u201cDead or Enslaved\u201d in One Year",
+          "link": "https://futurism.com/future-society/openai-board-member-warns-dead-enslaved-ai-doomsday",
+          "date": "Mon, 16 Nov 2026 16:57:25 -0500"
+        },
+        {
           "title": "Economists Horrified by What AI Industry Has Done to Global Economy",
           "link": "https://futurism.com/future-society/imf-economist-horrified-ai-industry-global-economy",
           "date": "Mon, 16 Nov 2026 15:58:24 -0500"
@@ -572,11 +551,6 @@
           "title": "Instagram\u2019s Algorithm Is Promoting Antisemitic Content, Report Finds",
           "link": "https://futurism.com/artificial-intelligence/instagram-algorithm-antisemitic-content",
           "date": "Mon, 16 Nov 2026 12:01:07 -0500"
-        },
-        {
-          "title": "Author Says the Hundreds of Full-Length Romance Novels She Publishes Every Year Are Very High Quality in Spite of AI Usage",
-          "link": "https://futurism.com/artificial-intelligence/author-hundreds-romance-novels-ai",
-          "date": "Sun, 15 Nov 2026 10:01:00 -0500"
         }
       ],
       "error": null
