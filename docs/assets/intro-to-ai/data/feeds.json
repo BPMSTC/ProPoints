@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T06:10:28.071488+00:00",
+  "generatedAt": "2026-11-17T07:07:04.017713+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -356,6 +356,11 @@
       "url": "https://analyticsindiamag.com/feed/",
       "items": [
         {
+          "title": "AI Tools are Making Us Sound the Same at Work\u2014Unless You're a Woman",
+          "link": "https://analyticsindiamag.com/ai-features/ai-tools-are-making-us-sound-the-same-at-workunless-youre-a-woman",
+          "date": "Tue, 17 Nov 2026 07:00:00 GMT"
+        },
+        {
           "title": "He Left Accenture to Build an Embedded SLM\u2014Now It Ranks Among the World\u2019s Best",
           "link": "https://analyticsindiamag.com/ai-features/he-left-accenture-to-build-an-embedded-slmnow-it-ranks-among-the-worlds-best",
           "date": "Tue, 17 Nov 2026 04:13:32 GMT"
@@ -374,11 +379,6 @@
           "title": "Inside CtrlS\u2019s Massive 4.4 GW Bet on India\u2019s AI and Data Centre Boom",
           "link": "https://analyticsindiamag.com/ai-features/inside-ctrlss-44-gw-bet-on-indias-data-centre-boom",
           "date": "Mon, 16 Nov 2026 11:36:20 GMT"
-        },
-        {
-          "title": "Karnataka Bets on Physical AI, Deeptech at Bengaluru Tech Summit 2026",
-          "link": "https://analyticsindiamag.com/ai-news/karnataka-bets-on-physical-ai-deeptech-at-bengaluru-tech-summit-2026",
-          "date": "Mon, 16 Nov 2026 11:29:59 GMT"
         }
       ],
       "error": null
@@ -450,7 +450,33 @@
     {
       "name": "Artificial Intelligence",
       "url": "https://www.reddit.com/r/artificial/.rss",
-      "items": [],
+      "items": [
+        {
+          "title": "California sues OpenAI over Hugging Face, other AI model loss of control",
+          "link": "https://www.reddit.com/r/artificial/comments/1xxzlte/california_sues_openai_over_hugging_face_other_ai/",
+          "date": "2026-11-16T20:03:07+00:00"
+        },
+        {
+          "title": "Anthropic S-1: $216bn of staff equity, $160bn still to grant",
+          "link": "https://www.reddit.com/r/artificial/comments/1xycep1/anthropic_s1_216bn_of_staff_equity_160bn_still_to/",
+          "date": "2026-11-17T05:41:32+00:00"
+        },
+        {
+          "title": "the US is picking AI \"national champions\" while china is at APEC preaching free trade. did everyone swap scripts?",
+          "link": "https://www.reddit.com/r/artificial/comments/1xxy9a2/the_us_is_picking_ai_national_champions_while/",
+          "date": "2026-11-16T19:13:44+00:00"
+        },
+        {
+          "title": "Survey of 268 early-career mathematicians: 7 in 10 say AI has made them less likely to stay in math",
+          "link": "https://www.reddit.com/r/artificial/comments/1xxqt45/survey_of_268_earlycareer_mathematicians_7_in_10/",
+          "date": "2026-11-16T14:31:24+00:00"
+        },
+        {
+          "title": "Cloudflare open-sourced its browser for AI agents - it runs without Chromium",
+          "link": "https://www.reddit.com/r/artificial/comments/1xya7o1/cloudflare_opensourced_its_browser_for_ai_agents/",
+          "date": "2026-11-17T03:43:43+00:00"
+        }
+      ],
       "error": null
     },
     {
@@ -490,6 +516,16 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Millionaire factory: Anthropic IPO set to fuel AI gold rush in London\u2019s high-end property market",
+          "link": "https://www.theguardian.com/business/2026/nov/17/millionaire-factory-anthropic-ipo-set-to-fuel-ai-gold-rush-in-londons-high-end-property-market",
+          "date": "Tue, 17 Nov 2026 07:00:07 GMT"
+        },
+        {
+          "title": "Automated warfare is already here. Now governments must restrain it | Helen Clark",
+          "link": "https://www.theguardian.com/commentisfree/2026/nov/17/automated-warfare-here-governments-restrain-ai-militaries-treaty",
+          "date": "Tue, 17 Nov 2026 07:00:07 GMT"
+        },
+        {
           "title": "California sues OpenAI over safety concerns after rogue agent hacking",
           "link": "https://www.theguardian.com/technology/2026/nov/16/california-openai-rogue-agent-hacking-lawsuit",
           "date": "Mon, 16 Nov 2026 21:41:10 GMT"
@@ -503,16 +539,6 @@
           "title": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
           "link": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
           "date": "Mon, 16 Nov 2026 18:30:57 GMT"
-        },
-        {
-          "title": "Anthropic recognises the risks to humanity \u2013 but is its governance really up to the job? | Nils Pratley",
-          "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/16/anthropic-claude-risks-to-humanity-governance-ai",
-          "date": "Mon, 16 Nov 2026 18:18:57 GMT"
-        },
-        {
-          "title": "AI models \u2018weak and fallible\u2019 on climate science, UN-backed study reports",
-          "link": "https://www.theguardian.com/environment/2026/nov/16/ai-models-fallible-denial-climate-science-unesco-cop31",
-          "date": "Mon, 16 Nov 2026 16:05:58 GMT"
         }
       ],
       "error": null
