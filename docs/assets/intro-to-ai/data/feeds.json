@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-11-17T15:06:10.063644+00:00",
+  "generatedAt": "2026-11-17T16:07:23.732602+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "'Defense by ChatGPT'",
+          "link": "https://www.404media.co/defense-by-chatgpt/",
+          "date": "Tue, 17 Nov 2026 15:26:46 GMT"
+        },
+        {
+          "title": "The Department of Justice Is Using AI Detector Pangram Against Defense Attorneys",
+          "link": "https://www.404media.co/the-department-of-justice-is-using-ai-detector-pangram-against-defense-attorneys/",
+          "date": "Tue, 17 Nov 2026 15:14:27 GMT"
+        },
         {
           "title": "The AI in \u2018Musk\u2019 Is Cringe",
           "link": "https://www.404media.co/the-ai-in-musk-is-cringe/",
@@ -19,16 +29,6 @@
           "title": "How an AI Content Mill Put a Real Musician Through Copyright Hell",
           "link": "https://www.404media.co/how-an-ai-content-mill-put-a-real-musician-through-copyright-hell/",
           "date": "Mon, 16 Nov 2026 14:58:28 GMT"
-        },
-        {
-          "title": "This Comic Kills Technofascists",
-          "link": "https://www.404media.co/this-comic-kills-technofascists/",
-          "date": "Sun, 15 Nov 2026 13:00:00 GMT"
-        },
-        {
-          "title": "Scientists Made Monkeys Watch Minions to Study Their Brains",
-          "link": "https://www.404media.co/scientists-made-monkeys-watch-minions-to-study-their-brains/",
-          "date": "Sat, 14 Nov 2026 13:00:00 GMT"
         }
       ],
       "error": null
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+          "link": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+          "date": "Tue, 17 Nov 2026 15:00:00 +0000"
+        },
+        {
           "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
           "link": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
           "date": "Tue, 17 Nov 2026 14:50:58 +0000"
@@ -126,11 +131,6 @@
           "title": "Spotify\u2019s new tool aims to stop deepfakes from being attributed to real artists",
           "link": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
           "date": "Tue, 17 Nov 2026 14:00:00 +0000"
-        },
-        {
-          "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-          "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-          "date": "Mon, 16 Nov 2026 23:32:32 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -420,6 +420,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "House Democrats promise a US return to global climate talks",
+          "link": "https://arstechnica.com/tech-policy/2026/11/house-democrats-promise-a-us-return-to-global-climate-talks/",
+          "date": "Tue, 17 Nov 2026 15:32:43 +0000"
+        },
+        {
+          "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
+          "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+          "date": "Tue, 17 Nov 2026 15:28:59 +0000"
+        },
+        {
           "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
           "link": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
           "date": "Tue, 17 Nov 2026 14:00:29 +0000"
@@ -433,16 +443,6 @@
           "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
           "link": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
           "date": "Mon, 16 Nov 2026 22:58:27 +0000"
-        },
-        {
-          "title": "Three small failures combined to take down Microsoft 365",
-          "link": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
-          "date": "Mon, 16 Nov 2026 21:56:39 +0000"
-        },
-        {
-          "title": "Hyperscale data centers use 2% of US electricity",
-          "link": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
-          "date": "Mon, 16 Nov 2026 20:52:10 +0000"
         }
       ],
       "error": null
@@ -457,6 +457,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "Smarter healthcare, unequal outcomes? The risks of AI in southern Africa",
+          "link": "https://theconversation.com/smarter-healthcare-unequal-outcomes-the-risks-of-ai-in-southern-africa-295757",
+          "date": "2026-11-17T14:48:54Z"
+        },
         {
           "title": "\u2018Strict liability\u2019: The legal standard that could help rein in AI",
           "link": "https://theconversation.com/strict-liability-the-legal-standard-that-could-help-rein-in-ai-295390",
@@ -476,11 +481,6 @@
           "title": "What does an \u2018AI-generated\u2019 label in advertising actually tell us?",
           "link": "https://theconversation.com/what-does-an-ai-generated-label-in-advertising-actually-tell-us-293457",
           "date": "2026-11-16T15:14:38Z"
-        },
-        {
-          "title": "Catching AI\u2019s mistakes is a mental burden \u2013 and a drag on productivity",
-          "link": "https://theconversation.com/catching-ais-mistakes-is-a-mental-burden-and-a-drag-on-productivity-291748",
-          "date": "2026-11-16T13:36:56Z"
         }
       ],
       "error": null
@@ -554,6 +554,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Homeland Security Head Says Huge Outages Are Linked to AI",
+          "link": "https://futurism.com/artificial-intelligence/homeland-security-head-outages-linked-ai",
+          "date": "Tue, 17 Nov 2026 10:27:06 -0500"
+        },
+        {
           "title": "OpenAI Board Member Warns Public They Could Be \u201cDead or Enslaved\u201d in One Year",
           "link": "https://futurism.com/future-society/openai-board-member-warns-dead-enslaved-ai-doomsday",
           "date": "Mon, 16 Nov 2026 16:57:25 -0500"
@@ -572,11 +577,6 @@
           "title": "Jensen Huang Is Trying to Seize Back Control of Nvidia",
           "link": "https://futurism.com/artificial-intelligence/jensen-huang-trying-return-nvidia-jpg",
           "date": "Mon, 16 Nov 2026 12:29:55 -0500"
-        },
-        {
-          "title": "Instagram\u2019s Algorithm Is Promoting Antisemitic Content, Report Finds",
-          "link": "https://futurism.com/artificial-intelligence/instagram-algorithm-antisemitic-content",
-          "date": "Mon, 16 Nov 2026 12:01:07 -0500"
         }
       ],
       "error": null
