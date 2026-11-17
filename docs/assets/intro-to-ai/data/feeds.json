@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T17:05:45.485582+00:00",
+  "generatedAt": "2026-11-17T18:07:24.794142+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,21 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+          "link": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+          "date": "Tue, 17 Nov 2026 18:04:16 +0000"
+        },
+        {
+          "title": "Proton\u2019s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+          "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+          "date": "Tue, 17 Nov 2026 17:32:25 +0000"
+        },
+        {
+          "title": "AI models can be tricked into identifying civilians as military targets by telling them it\u2019s a game",
+          "link": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+          "date": "Tue, 17 Nov 2026 17:20:41 +0000"
+        },
+        {
           "title": "Jensen Huang says he would be \u2018honored\u2019 if allowed to return as Nvidia CEO",
           "link": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
           "date": "Tue, 17 Nov 2026 16:44:15 +0000"
@@ -116,21 +131,6 @@
           "title": "Daydream\u2019s new AI agent acts as your personal stylist \u2014 and can shop for you, too",
           "link": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
           "date": "Tue, 17 Nov 2026 16:32:55 +0000"
-        },
-        {
-          "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
-          "link": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
-          "date": "Tue, 17 Nov 2026 15:00:00 +0000"
-        },
-        {
-          "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
-          "link": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
-          "date": "Tue, 17 Nov 2026 14:50:58 +0000"
-        },
-        {
-          "title": "Science Corporation\u2019s brain tech is worth $3.5 billion after new funding",
-          "link": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
-          "date": "Tue, 17 Nov 2026 14:26:46 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:7:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -246,33 +246,7 @@
     {
       "name": "Ai Prompt Programming",
       "url": "https://www.reddit.com/r/aipromptprogramming/.rss",
-      "items": [
-        {
-          "title": "Welcome to r/aipromptprogramming \u2014 join our Discord",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1vlcrpj/welcome_to_raipromptprogramming_join_our_discord/",
-          "date": "2026-08-11T09:36:31+00:00"
-        },
-        {
-          "title": "FBI says the open-source Artex AI tool breached networks in under three hours \u2014 are AI hacking tools now a defender's problem too?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xy6oa9/fbi_says_the_opensource_artex_ai_tool_breached/",
-          "date": "2026-11-17T00:53:37+00:00"
-        },
-        {
-          "title": "My workflow with Fable 5.2, Opus and GitHub",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xx4sbs/my_workflow_with_fable_52_opus_and_github/",
-          "date": "2026-11-15T19:45:47+00:00"
-        },
-        {
-          "title": "In a 'sloppified' AI world, only humans can build ecosystems \u2014 is that a prompting problem we can solve?",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xxbrdo/in_a_sloppified_ai_world_only_humans_can_build/",
-          "date": "2026-11-16T00:47:15+00:00"
-        },
-        {
-          "title": "my AI players voted out humans for typing short, and the cause was one line in my prompt",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xwtx9d/my_ai_players_voted_out_humans_for_typing_short/",
-          "date": "2026-11-15T12:08:32+00:00"
-        }
-      ],
+      "items": [],
       "error": null
     },
     {
@@ -420,7 +394,12 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Google will let you opt out of AI training in Gemini without losing your history",
+          "title": "Sources: Vulcan launch anomaly investigation is complex",
+          "link": "https://arstechnica.com/space/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/",
+          "date": "Tue, 17 Nov 2026 18:00:51 +0000"
+        },
+        {
+          "title": "Google makes it easier to use Gemini without training AI on your data",
           "link": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
           "date": "Tue, 17 Nov 2026 16:50:10 +0000"
         },
@@ -438,11 +417,6 @@
           "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
           "link": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
           "date": "Tue, 17 Nov 2026 14:00:29 +0000"
-        },
-        {
-          "title": "Artist brings old Space Shuttle tank back to life",
-          "link": "https://arstechnica.com/space/2026/11/how-an-artist-gave-shape-to-a-space-shuttles-new-towering-exhibit/",
-          "date": "Tue, 17 Nov 2026 12:15:54 +0000"
         }
       ],
       "error": null
@@ -495,9 +469,14 @@
           "date": "Tue, 17 Nov 2026 14:00:15 GMT"
         },
         {
+          "title": "Jensen Huang to testify before Congress on \u2018potential breach of national security\u2019",
+          "link": "https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy",
+          "date": "Tue, 17 Nov 2026 17:58:05 GMT"
+        },
+        {
           "title": "Jensen Huang says he would be \u2018honored\u2019 to return to Nvidia as CEO",
           "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement",
-          "date": "Tue, 17 Nov 2026 16:40:55 GMT"
+          "date": "Tue, 17 Nov 2026 17:35:26 GMT"
         },
         {
           "title": "Jensen Huang\u2019s departure as Nvidia CEO becomes a political proxy war",
@@ -508,11 +487,6 @@
           "title": "Anthropic IPO: how can I buy shares, and is it worth it?",
           "link": "https://www.theguardian.com/technology/2026/nov/17/anthropic-ipo-flotation-buy-shares-stock-market-claude-ai",
           "date": "Tue, 17 Nov 2026 13:00:48 GMT"
-        },
-        {
-          "title": "Actors in UK to get more rights over their \u2018digital replicas\u2019 in deal on AI protections",
-          "link": "https://www.theguardian.com/technology/2026/nov/17/actors-uk-rights-digital-replicas-ai-protections",
-          "date": "Tue, 17 Nov 2026 09:00:08 GMT"
         }
       ],
       "error": null
@@ -554,6 +528,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Nvidia Stock Is Sinking Like a Stone",
+          "link": "https://futurism.com/artificial-intelligence/nvidia-stock-sinking-stone",
+          "date": "Tue, 17 Nov 2026 13:03:43 -0500"
+        },
+        {
+          "title": "Absolutely Everything Is Getting Hacked",
+          "link": "https://futurism.com/future-society/absolutely-everything-is-getting-hacked",
+          "date": "Tue, 17 Nov 2026 12:26:38 -0500"
+        },
+        {
           "title": "Homeland Security Head Says Huge Outages Are Linked to AI",
           "link": "https://futurism.com/artificial-intelligence/homeland-security-head-outages-linked-ai",
           "date": "Tue, 17 Nov 2026 10:27:06 -0500"
@@ -567,16 +551,6 @@
           "title": "Economists Horrified by What AI Industry Has Done to Global Economy",
           "link": "https://futurism.com/future-society/imf-economist-horrified-ai-industry-global-economy",
           "date": "Mon, 16 Nov 2026 15:58:24 -0500"
-        },
-        {
-          "title": "Jensen Huang Was Allegedly Making Graphics Cards Hard to Obtain on Purpose to Boost Profits",
-          "link": "https://futurism.com/artificial-intelligence/jensen-huang-graphics-cards-artificial-scarcity",
-          "date": "Mon, 16 Nov 2026 12:59:35 -0500"
-        },
-        {
-          "title": "Jensen Huang Is Trying to Seize Back Control of Nvidia",
-          "link": "https://futurism.com/artificial-intelligence/jensen-huang-trying-return-nvidia-jpg",
-          "date": "Mon, 16 Nov 2026 12:29:55 -0500"
         }
       ],
       "error": null
@@ -586,13 +560,13 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
-          "title": "The Apple Watch\u2019s Live Rewind Can Record and Rewind Spoken Conversations. It\u2019s Pretty Awkward",
-          "link": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
+          "title": "Rogue Agents Hacked His Company. Why Is Cl\u00e9ment Delangue So Optimistic About AI?",
+          "link": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
           "date": "Tue, 17 Nov 2026 11:00:00 +0000"
         },
         {
-          "title": "Rogue Agents Hacked His Company. Why Is Cl\u00e9ment Delangue So Optimistic About AI?",
-          "link": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
+          "title": "The Apple Watch\u2019s Live Rewind Can Record and Rewind Spoken Conversations. It\u2019s Pretty Awkward",
+          "link": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
           "date": "Tue, 17 Nov 2026 11:00:00 +0000"
         },
         {
