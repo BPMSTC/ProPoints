@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-11-17T14:06:15.366356+00:00",
+  "generatedAt": "2026-11-17T15:06:10.063644+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "The AI in \u2018Musk\u2019 Is Cringe",
+          "link": "https://www.404media.co/the-ai-in-musk-is-cringe/",
+          "date": "Tue, 17 Nov 2026 14:09:37 GMT"
+        },
         {
           "title": "AI-Powered Copyright Hell",
           "link": "https://www.404media.co/ai-powered-copyright-hell/",
@@ -24,11 +29,6 @@
           "title": "Scientists Made Monkeys Watch Minions to Study Their Brains",
           "link": "https://www.404media.co/scientists-made-monkeys-watch-minions-to-study-their-brains/",
           "date": "Sat, 14 Nov 2026 13:00:00 GMT"
-        },
-        {
-          "title": "Behind the Blog: Priorities, Priorities",
-          "link": "https://www.404media.co/behind-the-blog-priorities-priorities/",
-          "date": "Fri, 13 Nov 2026 17:28:17 GMT"
         }
       ],
       "error": null
@@ -108,6 +108,16 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+          "link": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+          "date": "Tue, 17 Nov 2026 14:50:58 +0000"
+        },
+        {
+          "title": "Science Corporation\u2019s brain tech is worth $3.5 billion after new funding",
+          "link": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
+          "date": "Tue, 17 Nov 2026 14:26:46 +0000"
+        },
+        {
           "title": "Nvidia\u2019s first big move after Jensen Huang\u2019s exit targets national security",
           "link": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
           "date": "Tue, 17 Nov 2026 14:05:30 +0000"
@@ -121,16 +131,6 @@
           "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
           "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
           "date": "Mon, 16 Nov 2026 23:32:32 +0000"
-        },
-        {
-          "title": "All the questions Nvidia should answer on Tuesday \u2014 but probably won\u2019t",
-          "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
-          "date": "Mon, 16 Nov 2026 22:03:02 +0000"
-        },
-        {
-          "title": "California state AG sues OpenAI over rogue agent incidents",
-          "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-          "date": "Mon, 16 Nov 2026 20:07:13 +0000"
         }
       ],
       "error": null
@@ -253,11 +253,6 @@
           "date": "2026-08-11T09:36:31+00:00"
         },
         {
-          "title": "I hated how AI problem-solves, so I forced it to brute-force 4 ideas and kill 3. It finally stopped being polite.",
-          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xyk362/i_hated_how_ai_problemsolves_so_i_forced_it_to/",
-          "date": "2026-11-17T13:11:58+00:00"
-        },
-        {
           "title": "FBI says the open-source Artex AI tool breached networks in under three hours \u2014 are AI hacking tools now a defender's problem too?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xy6oa9/fbi_says_the_opensource_artex_ai_tool_breached/",
           "date": "2026-11-17T00:53:37+00:00"
@@ -271,6 +266,11 @@
           "title": "In a 'sloppified' AI world, only humans can build ecosystems \u2014 is that a prompting problem we can solve?",
           "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xxbrdo/in_a_sloppified_ai_world_only_humans_can_build/",
           "date": "2026-11-16T00:47:15+00:00"
+        },
+        {
+          "title": "my AI players voted out humans for typing short, and the cause was one line in my prompt",
+          "link": "https://www.reddit.com/r/aipromptprogramming/comments/1xwtx9d/my_ai_players_voted_out_humans_for_typing_short/",
+          "date": "2026-11-15T12:08:32+00:00"
         }
       ],
       "error": null
@@ -420,6 +420,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+          "link": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+          "date": "Tue, 17 Nov 2026 14:00:29 +0000"
+        },
+        {
           "title": "Artist brings old Space Shuttle tank back to life",
           "link": "https://arstechnica.com/space/2026/11/how-an-artist-gave-shape-to-a-space-shuttles-new-towering-exhibit/",
           "date": "Tue, 17 Nov 2026 12:15:54 +0000"
@@ -438,11 +443,6 @@
           "title": "Hyperscale data centers use 2% of US electricity",
           "link": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
           "date": "Mon, 16 Nov 2026 20:52:10 +0000"
-        },
-        {
-          "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
-          "link": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
-          "date": "Mon, 16 Nov 2026 20:37:47 +0000"
         }
       ],
       "error": null
@@ -457,6 +457,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "\u2018Strict liability\u2019: The legal standard that could help rein in AI",
+          "link": "https://theconversation.com/strict-liability-the-legal-standard-that-could-help-rein-in-ai-295390",
+          "date": "2026-11-17T13:41:07Z"
+        },
         {
           "title": "Data centres may consume far more water than developers suggest",
           "link": "https://theconversation.com/data-centres-may-consume-far-more-water-than-developers-suggest-296245",
@@ -476,11 +481,6 @@
           "title": "Catching AI\u2019s mistakes is a mental burden \u2013 and a drag on productivity",
           "link": "https://theconversation.com/catching-ais-mistakes-is-a-mental-burden-and-a-drag-on-productivity-291748",
           "date": "2026-11-16T13:36:56Z"
-        },
-        {
-          "title": "Anthropic\u2019s trillion-dollar IPO is open to Australians. There\u2019s a catch for small investors",
-          "link": "https://theconversation.com/anthropics-trillion-dollar-ipo-is-open-to-australians-theres-a-catch-for-small-investors-296603",
-          "date": "2026-11-16T03:24:46Z"
         }
       ],
       "error": null
@@ -495,6 +495,11 @@
           "date": "Tue, 17 Nov 2026 14:00:15 GMT"
         },
         {
+          "title": "Jensen Huang\u2019s departure as Nvidia CEO becomes a political proxy war",
+          "link": "https://www.theguardian.com/global/2026/nov/16/jensen-huang-nvidia-ceo-china",
+          "date": "Tue, 17 Nov 2026 14:50:24 GMT"
+        },
+        {
           "title": "Anthropic IPO: how can I buy shares, and is it worth it?",
           "link": "https://www.theguardian.com/technology/2026/nov/17/anthropic-ipo-flotation-buy-shares-stock-market-claude-ai",
           "date": "Tue, 17 Nov 2026 13:00:48 GMT"
@@ -507,11 +512,6 @@
         {
           "title": "Millionaire factory: Anthropic IPO set to fuel AI gold rush in London\u2019s high-end property market",
           "link": "https://www.theguardian.com/business/2026/nov/17/millionaire-factory-anthropic-ipo-set-to-fuel-ai-gold-rush-in-londons-high-end-property-market",
-          "date": "Tue, 17 Nov 2026 07:00:07 GMT"
-        },
-        {
-          "title": "Automated warfare is already here. Now governments must restrain it | Helen Clark",
-          "link": "https://www.theguardian.com/commentisfree/2026/nov/17/automated-warfare-here-governments-restrain-ai-militaries-treaty",
           "date": "Tue, 17 Nov 2026 07:00:07 GMT"
         }
       ],
