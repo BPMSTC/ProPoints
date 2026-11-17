@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T12:08:40.304153+00:00",
+  "generatedAt": "2026-11-17T13:06:24.402006+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -280,6 +280,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "SuperDial revamps its healthcare voice agent platform to stop AI bots wasting time calling each other",
+          "link": "https://siliconangle.com/2026/11/17/superdial-revamps-its-healthcare-voice-agent-platform-to-stop-ai-bots-wasting-time-calling-each-other/",
+          "date": "Tue, 17 Nov 2026 13:00:01 +0000"
+        },
+        {
           "title": "At SC26, Nvidia debuts new Rubin HPC chip, scientific research libraries",
           "link": "https://siliconangle.com/2026/11/16/nvidia-debuts-new-rubin-hpc-chip-scientific-research-libraries/",
           "date": "Tue, 17 Nov 2026 01:45:14 +0000"
@@ -298,11 +303,6 @@
           "title": "Three insights you might have missed from theCUBE\u2019s coverage of GraphSummit 2026",
           "link": "https://siliconangle.com/2026/11/16/three-insights-you-might-have-missed-from-thecubes-coverage-of-graphsummit-2026-neo4jgraphsummit/",
           "date": "Mon, 16 Nov 2026 20:46:00 +0000"
-        },
-        {
-          "title": "AT&T uses agentic AI to reinvent business processes from the ground up",
-          "link": "https://siliconangle.com/2026/11/14/att-uses-agentic-ai-to-reinvent-business-processes-from-the-ground-up/",
-          "date": "Sat, 14 Nov 2026 19:37:13 +0000"
         }
       ],
       "error": null
@@ -356,6 +356,11 @@
       "url": "https://analyticsindiamag.com/feed/",
       "items": [
         {
+          "title": "HCLTech Partners With Transformer Co-Author-Led Cohere to Target Sovereign AI Markets",
+          "link": "https://analyticsindiamag.com/ai-news/hcltech-partners-with-cohere-to-target-sovereign-ai-markets",
+          "date": "Tue, 17 Nov 2026 12:17:02 GMT"
+        },
+        {
           "title": "Who Knew What at NVIDIA? Shareholder Suits Put Board\u2019s Oversight on Trial",
           "link": "https://analyticsindiamag.com/global-tech/who-knew-what-at-nvidia-shareholder-suits-put-boards-oversight-on-trial",
           "date": "Tue, 17 Nov 2026 11:41:16 GMT"
@@ -374,11 +379,6 @@
           "title": "OpenAI Picks Pragya Misra to Head India and South Asia Business Expansion",
           "link": "https://analyticsindiamag.com/ai-news/openai-names-pragya-misra-to-head-india-and-south-asia-business-expansion",
           "date": "Tue, 17 Nov 2026 08:32:17 GMT"
-        },
-        {
-          "title": "Karnataka Unveils 6 Initiatives to Strengthen AI and Semiconductor Ecosystem",
-          "link": "https://analyticsindiamag.com/ai-news/karnataka-unveils-six-initiatives-to-strengthen-its-ai-and-semiconductor-ecosystem",
-          "date": "Tue, 17 Nov 2026 08:21:33 GMT"
         }
       ],
       "error": null
@@ -420,6 +420,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Artist brings old Space Shuttle tank back to life",
+          "link": "https://arstechnica.com/space/2026/11/how-an-artist-gave-shape-to-a-space-shuttles-new-towering-exhibit/",
+          "date": "Tue, 17 Nov 2026 12:15:54 +0000"
+        },
+        {
           "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
           "link": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
           "date": "Mon, 16 Nov 2026 22:58:27 +0000"
@@ -438,11 +443,6 @@
           "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
           "link": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
           "date": "Mon, 16 Nov 2026 20:37:47 +0000"
-        },
-        {
-          "title": "Comcast's \"fiber-powered Wi-Fi\" is just cable, AT&T says in false advertising case",
-          "link": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
-          "date": "Mon, 16 Nov 2026 20:27:58 +0000"
         }
       ],
       "error": null
@@ -495,6 +495,11 @@
           "date": "Tue, 17 Nov 2026 09:00:08 GMT"
         },
         {
+          "title": "Anthropic IPO: how can I buy shares, and is it worth it?",
+          "link": "https://www.theguardian.com/technology/2026/nov/17/anthropic-ipo-flotation-buy-shares-stock-market-claude-ai",
+          "date": "Tue, 17 Nov 2026 13:00:48 GMT"
+        },
+        {
           "title": "Millionaire factory: Anthropic IPO set to fuel AI gold rush in London\u2019s high-end property market",
           "link": "https://www.theguardian.com/business/2026/nov/17/millionaire-factory-anthropic-ipo-set-to-fuel-ai-gold-rush-in-londons-high-end-property-market",
           "date": "Tue, 17 Nov 2026 07:00:07 GMT"
@@ -508,11 +513,6 @@
           "title": "California sues OpenAI over safety concerns after rogue agent hacking",
           "link": "https://www.theguardian.com/technology/2026/nov/16/california-openai-rogue-agent-hacking-lawsuit",
           "date": "Mon, 16 Nov 2026 21:41:10 GMT"
-        },
-        {
-          "title": "Albanese signs on to Trump\u2019s AI supply chain pact before leaders\u2019 meeting at Quad summit",
-          "link": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
-          "date": "Mon, 16 Nov 2026 21:00:21 GMT"
         }
       ],
       "error": null
@@ -618,6 +618,16 @@
       "url": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "items": [
         {
+          "title": "Scientists tracked kids for 8 years. What they found about screen time was surprising",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261116014725.htm",
+          "date": "Tue, 17 Nov 2026 07:03:58 EST"
+        },
+        {
+          "title": "Quantum computers are getting too powerful to check. Scientists have a solution",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261115085557.htm",
+          "date": "Mon, 16 Nov 2026 19:20:40 EST"
+        },
+        {
           "title": "AI discovers a hidden heart signal that could predict sudden death",
           "link": "https://www.sciencedaily.com/releases/2026/11/261112230456.htm",
           "date": "Sat, 14 Nov 2026 20:05:10 EST"
@@ -631,16 +641,6 @@
           "title": "AI-powered bionic eye breakthrough could help the blind see again",
           "link": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
           "date": "Thu, 12 Nov 2026 06:55:55 EST"
-        },
-        {
-          "title": "Inside this quantum computer, memory vibrates like a guitar string",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261109205416.htm",
-          "date": "Wed, 11 Nov 2026 21:35:20 EST"
-        },
-        {
-          "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
-          "date": "Sat, 07 Nov 2026 18:34:19 EST"
         }
       ],
       "error": null
