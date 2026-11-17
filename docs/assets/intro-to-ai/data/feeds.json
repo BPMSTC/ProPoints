@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-11-17T19:05:28.695223+00:00",
+  "generatedAt": "2026-11-17T20:06:01.735512+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "A Man and His Muse AI Agent Sue Meta",
+          "link": "https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/",
+          "date": "Tue, 17 Nov 2026 19:41:33 GMT"
+        },
         {
           "title": "Lakes Are Bizarrely Syncing Up Globally, And Scientists Are Worried",
           "link": "https://www.404media.co/lakes-are-bizarrely-syncing-up-globally-and-scientists-are-worried/",
@@ -24,11 +29,6 @@
           "title": "The AI in \u2018Musk\u2019 Is Cringe",
           "link": "https://www.404media.co/the-ai-in-musk-is-cringe/",
           "date": "Tue, 17 Nov 2026 14:09:37 GMT"
-        },
-        {
-          "title": "AI-Powered Copyright Hell",
-          "link": "https://www.404media.co/ai-powered-copyright-hell/",
-          "date": "Mon, 16 Nov 2026 15:25:10 GMT"
         }
       ],
       "error": null
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Model ML raises $250M to automate investment banking grunt work",
+          "link": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+          "date": "Tue, 17 Nov 2026 19:32:11 +0000"
+        },
+        {
           "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
           "link": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
           "date": "Tue, 17 Nov 2026 19:02:20 +0000"
@@ -126,11 +131,6 @@
           "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
           "link": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
           "date": "Tue, 17 Nov 2026 18:04:16 +0000"
-        },
-        {
-          "title": "Proton\u2019s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
-          "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
-          "date": "Tue, 17 Nov 2026 17:32:25 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -254,6 +254,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Dell puts a single gateway between enterprise AI agents and the data they crave",
+          "link": "https://siliconangle.com/2026/11/17/data-intelligence-lifts-enterprise-ai-factory-accuracy-dellatsc26/",
+          "date": "Tue, 17 Nov 2026 18:19:45 +0000"
+        },
+        {
           "title": "LanceDB raises $57.5M to accelerate AI model training with multimodal data platform",
           "link": "https://siliconangle.com/2026/11/17/lancedb-raises-57-5m-to-accelerate-ai-model-training-with-multimodal-data-platform/",
           "date": "Tue, 17 Nov 2026 16:30:34 +0000"
@@ -272,11 +277,6 @@
           "title": "At SC26, Nvidia debuts new Rubin HPC chip, scientific research libraries",
           "link": "https://siliconangle.com/2026/11/16/nvidia-debuts-new-rubin-hpc-chip-scientific-research-libraries/",
           "date": "Tue, 17 Nov 2026 01:45:14 +0000"
-        },
-        {
-          "title": "Noeri raises $110M to help companies build living AI systems that self-improve over time",
-          "link": "https://siliconangle.com/2026/11/16/noeri-raises-110m-to-help-companies-build-living-ai-systems-that-self-improve-over-time/",
-          "date": "Mon, 16 Nov 2026 23:45:51 +0000"
         }
       ],
       "error": null
@@ -394,6 +394,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Civilization studio Firaxis Games lays off a third of staff",
+          "link": "https://arstechnica.com/gaming/2026/11/civilization-studio-firaxis-games-lays-off-a-third-of-staff/",
+          "date": "Tue, 17 Nov 2026 19:45:25 +0000"
+        },
+        {
           "title": "Humanity braces for an alien invasion in 3 Body Problem S2 teaser",
           "link": "https://arstechnica.com/culture/2026/11/humanity-braces-for-an-alien-invasion-in-3-body-problem-s2-teaser/",
           "date": "Tue, 17 Nov 2026 18:26:26 +0000"
@@ -412,11 +417,6 @@
           "title": "Google makes it easier to use Gemini without training AI on your data",
           "link": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
           "date": "Tue, 17 Nov 2026 16:50:10 +0000"
-        },
-        {
-          "title": "House Democrats promise a US return to global climate talks",
-          "link": "https://arstechnica.com/tech-policy/2026/11/house-democrats-promise-a-us-return-to-global-climate-talks/",
-          "date": "Tue, 17 Nov 2026 15:32:43 +0000"
         }
       ],
       "error": null
@@ -528,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "AI-Powered \u201cSafe Roleplay\u201d Plushie for Kids Pulled From Shelves After It\u2019s Caught Talking About Things Too Disturbing to Put in This Headline",
+          "link": "https://futurism.com/artificial-intelligence/ai-plushie-roleplay-kids-disturbing",
+          "date": "Tue, 17 Nov 2026 14:58:44 -0500"
+        },
+        {
           "title": "Nvidia Stock Is Sinking Like a Stone",
           "link": "https://futurism.com/artificial-intelligence/nvidia-stock-sinking-stone",
           "date": "Tue, 17 Nov 2026 13:03:43 -0500"
@@ -546,11 +551,6 @@
           "title": "OpenAI Board Member Warns Public They Could Be \u201cDead or Enslaved\u201d in One Year",
           "link": "https://futurism.com/future-society/openai-board-member-warns-dead-enslaved-ai-doomsday",
           "date": "Mon, 16 Nov 2026 16:57:25 -0500"
-        },
-        {
-          "title": "Economists Horrified by What AI Industry Has Done to Global Economy",
-          "link": "https://futurism.com/future-society/imf-economist-horrified-ai-industry-global-economy",
-          "date": "Mon, 16 Nov 2026 15:58:24 -0500"
         }
       ],
       "error": null
