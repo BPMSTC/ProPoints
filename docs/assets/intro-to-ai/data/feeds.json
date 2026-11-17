@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T20:06:01.735512+00:00",
+  "generatedAt": "2026-11-17T21:05:32.086090+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -254,6 +254,21 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Idle, then spiking: Why AI agents are breaking Kubernetes resource planning",
+          "link": "https://siliconangle.com/2026/11/17/autonomous-orchestration-helps-kubernetes-keep-up-ai-agents-kubeconna/",
+          "date": "Tue, 17 Nov 2026 20:35:39 +0000"
+        },
+        {
+          "title": "Nvidia at SC26: Agents are the new scientists, and they need a lab",
+          "link": "https://siliconangle.com/2026/11/17/nvidia-at-sc26-agents-are-the-new-scientists-and-they-need-a-lab/",
+          "date": "Tue, 17 Nov 2026 20:27:24 +0000"
+        },
+        {
+          "title": "Microsoft rolls out new first-party models and updates to agentic AI continuous improvement",
+          "link": "https://siliconangle.com/2026/11/17/microsoft-rolls-out-new-first-party-models-and-updates-to-agentic-ai-continuous-improvement/",
+          "date": "Tue, 17 Nov 2026 20:05:36 +0000"
+        },
+        {
           "title": "Dell puts a single gateway between enterprise AI agents and the data they crave",
           "link": "https://siliconangle.com/2026/11/17/data-intelligence-lifts-enterprise-ai-factory-accuracy-dellatsc26/",
           "date": "Tue, 17 Nov 2026 18:19:45 +0000"
@@ -262,21 +277,6 @@
           "title": "LanceDB raises $57.5M to accelerate AI model training with multimodal data platform",
           "link": "https://siliconangle.com/2026/11/17/lancedb-raises-57-5m-to-accelerate-ai-model-training-with-multimodal-data-platform/",
           "date": "Tue, 17 Nov 2026 16:30:34 +0000"
-        },
-        {
-          "title": "Three insights you might have missed from theCUBE\u2019s coverage of Dell\u2019s \u201cAI Leadership Symposium\u201d",
-          "link": "https://siliconangle.com/2026/11/17/three-insights-you-might-have-missed-from-thecubes-coverage-of-dells-ai-leadership-symposium-dellaileadershipsymposium/",
-          "date": "Tue, 17 Nov 2026 13:47:02 +0000"
-        },
-        {
-          "title": "SuperDial revamps its healthcare voice agent platform to stop AI bots wasting time calling each other",
-          "link": "https://siliconangle.com/2026/11/17/superdial-revamps-its-healthcare-voice-agent-platform-to-stop-ai-bots-wasting-time-calling-each-other/",
-          "date": "Tue, 17 Nov 2026 13:00:01 +0000"
-        },
-        {
-          "title": "At SC26, Nvidia debuts new Rubin HPC chip, scientific research libraries",
-          "link": "https://siliconangle.com/2026/11/16/nvidia-debuts-new-rubin-hpc-chip-scientific-research-libraries/",
-          "date": "Tue, 17 Nov 2026 01:45:14 +0000"
         }
       ],
       "error": null
@@ -394,6 +394,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "\u201cTrump was in bed with Jensen\u201d: Critics balk at Huang\u2019s wish to return to Nvidia",
+          "link": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
+          "date": "Tue, 17 Nov 2026 20:32:55 +0000"
+        },
+        {
           "title": "Civilization studio Firaxis Games lays off a third of staff",
           "link": "https://arstechnica.com/gaming/2026/11/civilization-studio-firaxis-games-lays-off-a-third-of-staff/",
           "date": "Tue, 17 Nov 2026 19:45:25 +0000"
@@ -412,11 +417,6 @@
           "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
           "link": "https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/",
           "date": "Tue, 17 Nov 2026 18:00:51 +0000"
-        },
-        {
-          "title": "Google makes it easier to use Gemini without training AI on your data",
-          "link": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
-          "date": "Tue, 17 Nov 2026 16:50:10 +0000"
         }
       ],
       "error": null
