@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-11-18T04:07:20.365108+00:00",
+  "generatedAt": "2026-11-18T05:06:12.174315+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Massive New Study Shows How Young People Feel About AI Companions",
+          "link": "https://www.404media.co/gallup-study-friendship-ai-companions/",
+          "date": "Wed, 18 Nov 2026 05:01:00 GMT"
+        },
         {
           "title": "BREAKING: Everything",
           "link": "https://www.404media.co/breaking-everything/",
@@ -24,11 +29,6 @@
           "title": "'Defense by ChatGPT'",
           "link": "https://www.404media.co/defense-by-chatgpt/",
           "date": "Tue, 17 Nov 2026 15:26:46 GMT"
-        },
-        {
-          "title": "The Department of Justice Is Using AI Detector Pangram Against Defense Attorneys",
-          "link": "https://www.404media.co/the-department-of-justice-is-using-ai-detector-pangram-against-defense-attorneys/",
-          "date": "Tue, 17 Nov 2026 15:14:27 GMT"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:7:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -469,6 +469,11 @@
           "date": "Tue, 17 Nov 2026 14:00:15 GMT"
         },
         {
+          "title": "\u2018Human\u2019 wins Cambridge dictionary\u2019s word of the year",
+          "link": "https://www.theguardian.com/science/2026/nov/18/cambridge-word-of-the-year-human",
+          "date": "Wed, 18 Nov 2026 05:00:34 GMT"
+        },
+        {
           "title": "Ofqual urges \u2018life-altering\u2019 penalties for students who use tech to cheat",
           "link": "https://www.theguardian.com/education/2026/nov/18/ofqual-urges-life-altering-penalties-for-students-who-use-tech-to",
           "date": "Wed, 18 Nov 2026 00:01:25 GMT"
@@ -482,11 +487,6 @@
           "title": "Jensen Huang to testify before Congress on \u2018potential breach of national security\u2019",
           "link": "https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy",
           "date": "Tue, 17 Nov 2026 17:58:05 GMT"
-        },
-        {
-          "title": "Jensen Huang says he would be \u2018honored\u2019 to return to Nvidia as CEO",
-          "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement",
-          "date": "Tue, 17 Nov 2026 17:35:26 GMT"
         }
       ],
       "error": null
@@ -560,6 +560,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Over a Third of Gen Z-ers Rely on AI for Friendship",
+          "link": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/",
+          "date": "Wed, 18 Nov 2026 05:01:00 +0000"
+        },
+        {
           "title": "Nvidia\u2019s Board Has No Plans to Bring Back Jensen Huang",
           "link": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
           "date": "Tue, 17 Nov 2026 22:19:19 +0000"
@@ -578,11 +583,6 @@
           "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
           "link": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
           "date": "Tue, 17 Nov 2026 10:47:45 +0000"
-        },
-        {
-          "title": "Jensen Huang Is Gone. Now What?",
-          "link": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
-          "date": "Mon, 16 Nov 2026 16:12:51 +0000"
         }
       ],
       "error": null
