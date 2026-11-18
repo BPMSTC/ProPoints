@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T06:10:09.385539+00:00",
+  "generatedAt": "2026-11-18T07:06:58.555155+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:7:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -330,6 +330,11 @@
       "url": "https://analyticsindiamag.com/feed/",
       "items": [
         {
+          "title": "Neysa Deploys AMD GPU Cluster in Mumbai for AI Training and Inference",
+          "link": "https://analyticsindiamag.com/ai-news/neysa-deploys-amd-gpu-cluster-in-mumbai-for-ai-training-and-inference",
+          "date": "Wed, 18 Nov 2026 06:19:49 GMT"
+        },
+        {
           "title": "NVIDIA Revenue Grows 103%, Rules Out Huang's Return as CEO",
           "link": "https://analyticsindiamag.com/ai-news/nvidia-revenue-grows-103-company-will-not-reinstate-huang-as-ceo",
           "date": "Wed, 18 Nov 2026 05:23:10 GMT"
@@ -348,11 +353,6 @@
           "title": "Dreamteam Raises $53 Mn To Build AI-Native CRM With AI Teammates",
           "link": "https://analyticsindiamag.com/ai-news/dreamteam-raises-53-mn-to-build-ai-native-crm-with-ai-teammates",
           "date": "Tue, 17 Nov 2026 11:00:53 GMT"
-        },
-        {
-          "title": "Accenture, Google Cloud to Expand AI Education Across 1,000 Indian Institutions",
-          "link": "https://analyticsindiamag.com/ai-news/accenture-and-google-cloud-partner-to-expand-ai-education-across-1000-indian-institutions",
-          "date": "Tue, 17 Nov 2026 08:46:30 GMT"
         }
       ],
       "error": null
