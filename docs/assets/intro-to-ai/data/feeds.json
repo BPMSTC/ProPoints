@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T05:06:12.174315+00:00",
+  "generatedAt": "2026-11-18T06:10:09.385539+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -254,6 +254,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "At Ignite 2026, Microsoft reinvents Copilot as the autonomous engine of enterprise work",
+          "link": "https://siliconangle.com/2026/11/18/at-ignite-2026-microsoft-reinvents-copilot-as-the-autonomous-engine-of-enterprise-work/",
+          "date": "Wed, 18 Nov 2026 05:13:06 +0000"
+        },
+        {
           "title": "Alphabet\u2019s Isomorphic Labs raises $5B to accelerate drug discovery with AI",
           "link": "https://siliconangle.com/2026/11/17/alphabets-isomorphic-labs-raises-5b-to-accelerate-drug-discovery-with-ai/",
           "date": "Tue, 17 Nov 2026 23:51:11 +0000"
@@ -272,11 +277,6 @@
           "title": "Jensen Huang says he\u2019s willing to return to Nvidia, in first statement since resignation",
           "link": "https://siliconangle.com/2026/11/17/jensen-huang-says-hes-willing-to-return-as-ceo-in-first-statement-since-resignation/",
           "date": "Tue, 17 Nov 2026 21:22:57 +0000"
-        },
-        {
-          "title": "Idle, then spiking: Why AI agents are breaking Kubernetes resource planning",
-          "link": "https://siliconangle.com/2026/11/17/autonomous-orchestration-helps-kubernetes-keep-up-ai-agents-kubeconna/",
-          "date": "Tue, 17 Nov 2026 20:35:39 +0000"
         }
       ],
       "error": null
@@ -330,6 +330,11 @@
       "url": "https://analyticsindiamag.com/feed/",
       "items": [
         {
+          "title": "NVIDIA Revenue Grows 103%, Rules Out Huang's Return as CEO",
+          "link": "https://analyticsindiamag.com/ai-news/nvidia-revenue-grows-103-company-will-not-reinstate-huang-as-ceo",
+          "date": "Wed, 18 Nov 2026 05:23:10 GMT"
+        },
+        {
           "title": "HCLTech Partners With Transformer Co-Author-Led Cohere to Target Sovereign AI Markets",
           "link": "https://analyticsindiamag.com/ai-news/hcltech-partners-with-cohere-to-target-sovereign-ai-markets",
           "date": "Tue, 17 Nov 2026 12:17:02 GMT"
@@ -348,11 +353,6 @@
           "title": "Accenture, Google Cloud to Expand AI Education Across 1,000 Indian Institutions",
           "link": "https://analyticsindiamag.com/ai-news/accenture-and-google-cloud-partner-to-expand-ai-education-across-1000-indian-institutions",
           "date": "Tue, 17 Nov 2026 08:46:30 GMT"
-        },
-        {
-          "title": "OpenAI Picks Pragya Misra to Head India and South Asia Business Expansion",
-          "link": "https://analyticsindiamag.com/ai-news/openai-names-pragya-misra-to-head-india-and-south-asia-business-expansion",
-          "date": "Tue, 17 Nov 2026 08:32:17 GMT"
         }
       ],
       "error": null
