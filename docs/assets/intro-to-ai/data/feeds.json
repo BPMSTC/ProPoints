@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T14:06:19.253934+00:00",
+  "generatedAt": "2026-11-18T15:10:11.800489+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<unknown>:2:377: not well-formed (invalid token)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "name": "AI | TechCrunch",
@@ -254,6 +254,16 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "AI\u2019s hidden energy tax: More than 80% of scale-up traffic is just memory moving around",
+          "link": "https://siliconangle.com/2026/11/18/memory-bottlenecks-ai-how-photonics-shared-pools-help-sc26/",
+          "date": "Wed, 18 Nov 2026 14:57:55 +0000"
+        },
+        {
+          "title": "Quantum computing drops its decade-away tag as error rates fall 200-fold in two years",
+          "link": "https://siliconangle.com/2026/11/18/quantum-error-correction-ushers-data-center-sc26/",
+          "date": "Wed, 18 Nov 2026 14:28:21 +0000"
+        },
+        {
           "title": "Reson8 releases Rumble-2-Flash speech model as a free open-weights download",
           "link": "https://siliconangle.com/2026/11/18/reson8-releases-rumble-2-flash-speech-model-as-a-free-open-weights-download/",
           "date": "Wed, 18 Nov 2026 14:00:57 +0000"
@@ -267,16 +277,6 @@
           "title": "AI and supercomputing merge as universities build GPU clusters at cloud-provider scale",
           "link": "https://siliconangle.com/2026/11/18/molecular-discovery-speeds-up-texas-m-supercomputing-dellatsc26/",
           "date": "Wed, 18 Nov 2026 13:56:28 +0000"
-        },
-        {
-          "title": "Starburst adds context support to give AI agents consistent access to business data definitions",
-          "link": "https://siliconangle.com/2026/11/18/starburst-adds-context-support-to-give-ai-agents-consistent-access-to-business-data-definitions/",
-          "date": "Wed, 18 Nov 2026 13:00:55 +0000"
-        },
-        {
-          "title": "Humyn Labs raises $47M to bridge the gap between AI training and real-world robotics",
-          "link": "https://siliconangle.com/2026/11/18/humyn-labs-raises-47m-to-bridge-the-gap-between-ai-training-and-real-world-robotics/",
-          "date": "Wed, 18 Nov 2026 12:30:54 +0000"
         }
       ],
       "error": null
@@ -362,6 +362,16 @@
       "url": "https://huggingface.co/blog/feed.xml",
       "items": [
         {
+          "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+          "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+          "date": "Wed, 18 Nov 2026 15:00:23 GMT"
+        },
+        {
+          "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+          "link": "https://huggingface.co/blog/rumble-2-flash",
+          "date": "Wed, 18 Nov 2026 00:00:00 GMT"
+        },
+        {
           "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
           "link": "https://huggingface.co/blog/openrouter",
           "date": "Mon, 16 Nov 2026 00:00:00 GMT"
@@ -375,16 +385,6 @@
           "title": "XYBench: Helping with the problem behind the question",
           "link": "https://huggingface.co/blog/allenai/xybench",
           "date": "Fri, 13 Nov 2026 17:02:35 GMT"
-        },
-        {
-          "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-          "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-          "date": "Fri, 13 Nov 2026 14:05:22 GMT"
-        },
-        {
-          "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-          "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-          "date": "Thu, 12 Nov 2026 19:07:35 GMT"
         }
       ],
       "error": null
@@ -394,7 +394,7 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Tesla will sell you a Cybercab for $30,000. Then charge $299 a month to use it",
+          "title": "Tesla\u2019s $30,000 Cybercab comes with a $299 monthly catch",
           "link": "https://arstechnica.com/cars/2026/11/tesla-will-sell-you-a-cybercab-for-30000-then-charge-299-a-month-to-use-it/",
           "date": "Wed, 18 Nov 2026 14:01:45 +0000"
         },
@@ -466,7 +466,7 @@
         {
           "title": "\u2018Zero\u2019 evidence that recent cascade of tech outages are linked, says Rubio",
           "link": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
-          "date": "Wed, 18 Nov 2026 11:35:36 GMT"
+          "date": "Wed, 18 Nov 2026 14:46:49 GMT"
         },
         {
           "title": "Aria awards: how do Australian artists feel about their music being used to train AI? \u2013 video",
@@ -560,6 +560,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "\u2018Just Ridiculous\u2019: A Famed Philosopher Takes on AI Consciousness",
+          "link": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
+          "date": "Wed, 18 Nov 2026 15:02:40 +0000"
+        },
+        {
           "title": "Lovable Wants You to Vibe Code Your Dream Job",
           "link": "https://www.wired.com/story/lovable-wants-you-to-vibe-code-a-living/",
           "date": "Wed, 18 Nov 2026 10:00:00 +0000"
@@ -577,11 +582,6 @@
         {
           "title": "Rogue Agents Hacked His Company. Why Is Cl\u00e9ment Delangue So Optimistic About AI?",
           "link": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
-          "date": "Tue, 17 Nov 2026 11:00:00 +0000"
-        },
-        {
-          "title": "The Apple Watch\u2019s Live Rewind Can Record and Rewind Spoken Conversations. It\u2019s Pretty Awkward",
-          "link": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
           "date": "Tue, 17 Nov 2026 11:00:00 +0000"
         }
       ],
