@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T16:05:43.485143+00:00",
+  "generatedAt": "2026-11-18T17:05:29.765748+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,7 +108,17 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
-          "title": "Nvidia clarifies when it will \u2014 and won\u2019t \u2014keep financing neoclouds",
+          "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+          "link": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+          "date": "Wed, 18 Nov 2026 16:59:00 +0000"
+        },
+        {
+          "title": "OpenAI CEO Sam Altman says it\u2019s \u2018hard to imagine the AI industry without Jensen\u2019",
+          "link": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+          "date": "Wed, 18 Nov 2026 16:14:09 +0000"
+        },
+        {
+          "title": "Nvidia clarifies when it will \u2014 and won\u2019t \u2014 keep financing neoclouds",
           "link": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
           "date": "Wed, 18 Nov 2026 13:00:00 +0000"
         },
@@ -121,16 +131,6 @@
           "title": "India\u2019s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
           "link": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
           "date": "Wed, 18 Nov 2026 11:30:00 +0000"
-        },
-        {
-          "title": "Nvidia\u2019s startup stakes ballooned to $65B, but Huang\u2019s exit puts future  deals in doubt",
-          "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-          "date": "Wed, 18 Nov 2026 01:44:21 +0000"
-        },
-        {
-          "title": "Nvidia promises that revenue will keep soaring \u2014 for now",
-          "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
-          "date": "Wed, 18 Nov 2026 00:16:50 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -254,6 +254,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Agents want the crown jewels: HPE and Daxa push governance down to the data layer",
+          "link": "https://siliconangle.com/2026/11/18/semantic-caching-helps-enforce-ai-agent-governance-inline-sc26/",
+          "date": "Wed, 18 Nov 2026 16:56:21 +0000"
+        },
+        {
           "title": "AI\u2019s hidden energy tax: More than 80% of scale-up traffic is just memory moving around",
           "link": "https://siliconangle.com/2026/11/18/memory-bottlenecks-ai-how-photonics-shared-pools-help-sc26/",
           "date": "Wed, 18 Nov 2026 14:57:55 +0000"
@@ -272,11 +277,6 @@
           "title": "OneTrust\u2019s Fall \u201926 Release expands AI visibility, privacy and third-party risk tools",
           "link": "https://siliconangle.com/2026/11/18/onetrusts-fall-26-release-expands-ai-visibility-privacy-and-third-party-risk-tools/",
           "date": "Wed, 18 Nov 2026 14:00:28 +0000"
-        },
-        {
-          "title": "AI and supercomputing merge as universities build GPU clusters at cloud-provider scale",
-          "link": "https://siliconangle.com/2026/11/18/molecular-discovery-speeds-up-texas-m-supercomputing-dellatsc26/",
-          "date": "Wed, 18 Nov 2026 13:56:28 +0000"
         }
       ],
       "error": null
@@ -367,6 +367,11 @@
           "date": "Wed, 18 Nov 2026 15:00:23 GMT"
         },
         {
+          "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+          "link": "https://huggingface.co/blog/moe-expert-streaming",
+          "date": "Wed, 18 Nov 2026 00:00:00 GMT"
+        },
+        {
           "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
           "link": "https://huggingface.co/blog/rumble-2-flash",
           "date": "Wed, 18 Nov 2026 00:00:00 GMT"
@@ -380,11 +385,6 @@
           "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
           "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
           "date": "Fri, 13 Nov 2026 18:00:39 GMT"
-        },
-        {
-          "title": "XYBench: Helping with the problem behind the question",
-          "link": "https://huggingface.co/blog/allenai/xybench",
-          "date": "Fri, 13 Nov 2026 17:02:35 GMT"
         }
       ],
       "error": null
@@ -393,6 +393,16 @@
       "name": "Ars Technica - All content",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
+        {
+          "title": "Vulcan failure caused by inadequate fuel supply to engines, ULA says",
+          "link": "https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says/",
+          "date": "Wed, 18 Nov 2026 16:58:32 +0000"
+        },
+        {
+          "title": "Waymo has stopped its robotaxis from driving on the freeway\u2014here\u2019s why",
+          "link": "https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint/",
+          "date": "Wed, 18 Nov 2026 16:24:34 +0000"
+        },
         {
           "title": "Tesla\u2019s $30,000 Cybercab comes with a $299 monthly catch",
           "link": "https://arstechnica.com/cars/2026/11/tesla-will-sell-you-a-cybercab-for-30000-then-charge-299-a-month-to-use-it/",
@@ -407,16 +417,6 @@
           "title": "Grand Theft Auto VI: The Ars Technica review",
           "link": "https://arstechnica.com/gaming/2026/11/grand-theft-auto-vi-the-ars-technica-review/",
           "date": "Wed, 18 Nov 2026 11:00:27 +0000"
-        },
-        {
-          "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
-          "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
-          "date": "Wed, 18 Nov 2026 00:27:29 +0000"
-        },
-        {
-          "title": "San Diego dumps both Flock cameras and smart streetlights",
-          "link": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
-          "date": "Tue, 17 Nov 2026 23:09:09 +0000"
         }
       ],
       "error": null
@@ -431,6 +431,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "The philosophical reason AI Christmas ads leave audiences feeling cold",
+          "link": "https://theconversation.com/the-philosophical-reason-ai-christmas-ads-leave-audiences-feeling-cold-296365",
+          "date": "2026-11-18T16:02:21Z"
+        },
         {
           "title": "What AI regulation could learn from the most hazardous industries in the world",
           "link": "https://theconversation.com/what-ai-regulation-could-learn-from-the-most-hazardous-industries-in-the-world-295475",
@@ -450,11 +455,6 @@
           "title": "Data centres may consume far more water than developers suggest",
           "link": "https://theconversation.com/data-centres-may-consume-far-more-water-than-developers-suggest-296245",
           "date": "2026-11-16T20:17:01Z"
-        },
-        {
-          "title": "Minecraft, techno raves and brainrot are modern election strategies, but do they win any votes?",
-          "link": "https://theconversation.com/minecraft-techno-raves-and-brainrot-are-modern-election-strategies-but-do-they-win-any-votes-296049",
-          "date": "2026-11-16T18:23:51Z"
         }
       ],
       "error": null
@@ -560,6 +560,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Criminals Have a New Favorite \u2018Point-and-Shoot\u2019 AI Hacking Tool",
+          "link": "https://www.wired.com/story/artex-ai-hacking-tools/",
+          "date": "Wed, 18 Nov 2026 16:35:24 +0000"
+        },
+        {
           "title": "\u2018Just Ridiculous\u2019: A Famed Philosopher Takes on AI Consciousness",
           "link": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
           "date": "Wed, 18 Nov 2026 15:02:40 +0000"
@@ -578,11 +583,6 @@
           "title": "Nvidia\u2019s Board Has No Plans to Bring Back Jensen Huang",
           "link": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
           "date": "Tue, 17 Nov 2026 22:19:19 +0000"
-        },
-        {
-          "title": "Rogue Agents Hacked His Company. Why Is Cl\u00e9ment Delangue So Optimistic About AI?",
-          "link": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
-          "date": "Tue, 17 Nov 2026 11:00:00 +0000"
         }
       ],
       "error": null
