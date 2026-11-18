@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T18:06:54.177077+00:00",
+  "generatedAt": "2026-11-18T19:04:52.611977+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -362,6 +362,11 @@
       "url": "https://huggingface.co/blog/feed.xml",
       "items": [
         {
+          "title": "Why your fine-tuning job takes longer than the FLOPs say",
+          "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+          "date": "Wed, 18 Nov 2026 18:53:43 GMT"
+        },
+        {
           "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
           "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
           "date": "Wed, 18 Nov 2026 15:00:23 GMT"
@@ -380,11 +385,6 @@
           "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
           "link": "https://huggingface.co/blog/openrouter",
           "date": "Mon, 16 Nov 2026 00:00:00 GMT"
-        },
-        {
-          "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-          "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-          "date": "Fri, 13 Nov 2026 18:00:39 GMT"
         }
       ],
       "error": null
@@ -394,6 +394,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Trump admin orders Kalshi to halt wagers on what words Trump will say",
+          "link": "https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/",
+          "date": "Wed, 18 Nov 2026 18:46:08 +0000"
+        },
+        {
+          "title": "The \"shameful\" measles data that lost the US its elimination status",
+          "link": "https://arstechnica.com/health/2026/11/the-shameful-measles-data-that-lost-the-us-its-elimination-status/",
+          "date": "Wed, 18 Nov 2026 18:30:23 +0000"
+        },
+        {
+          "title": "Will Wright's next simulation will use AI to mine content from your memories",
+          "link": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
+          "date": "Wed, 18 Nov 2026 18:10:33 +0000"
+        },
+        {
           "title": "It shouldn\u2019t be this easy to pedal 25 mph: Specialized\u2019s Turbo Vado 3 Evo",
           "link": "https://arstechnica.com/gadgets/2026/11/it-shouldnt-be-this-easy-to-pedal-25-mph-specializeds-turbo-vado-3-evo/",
           "date": "Wed, 18 Nov 2026 17:53:59 +0000"
@@ -402,21 +417,6 @@
           "title": "Vulcan failure caused by inadequate fuel supply to engines, ULA says",
           "link": "https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says/",
           "date": "Wed, 18 Nov 2026 16:58:32 +0000"
-        },
-        {
-          "title": "Waymo has stopped its robotaxis from driving on the freeway\u2014here\u2019s why",
-          "link": "https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint/",
-          "date": "Wed, 18 Nov 2026 16:24:34 +0000"
-        },
-        {
-          "title": "Tesla\u2019s $30,000 Cybercab comes with a $299 monthly catch",
-          "link": "https://arstechnica.com/cars/2026/11/tesla-will-sell-you-a-cybercab-for-30000-then-charge-299-a-month-to-use-it/",
-          "date": "Wed, 18 Nov 2026 14:01:45 +0000"
-        },
-        {
-          "title": "Voyager 1 at one light-day: Historian revisits Golden Record's forgotten details",
-          "link": "https://arstechnica.com/space/2026/11/voyager-1-at-one-light-day-historian-revisits-golden-records-forgotten-details/",
-          "date": "Wed, 18 Nov 2026 12:15:44 +0000"
         }
       ],
       "error": null
@@ -528,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Trump\u2019s Embrace of AI Slop Shows He\u2019s Not in Touch With Reality and Should Be Removed From Office, Critics Say",
+          "link": "https://futurism.com/health-medicine/trumps-ai-slop-not-fit-office",
+          "date": "Wed, 18 Nov 2026 13:34:26 -0500"
+        },
+        {
           "title": "The Trump Administration Is Absolutely Flailing Trying to Explain Why So Many Crucial Services Are Going Down",
           "link": "https://futurism.com/artificial-intelligence/trump-administration-flailing-explain-outages",
           "date": "Wed, 18 Nov 2026 12:27:18 -0500"
@@ -546,11 +551,6 @@
           "title": "Nvidia Stock Is Sinking Like a Stone",
           "link": "https://futurism.com/artificial-intelligence/nvidia-stock-sinking-stone",
           "date": "Tue, 17 Nov 2026 13:03:43 -0500"
-        },
-        {
-          "title": "Absolutely Everything Is Getting Hacked",
-          "link": "https://futurism.com/future-society/absolutely-everything-is-getting-hacked",
-          "date": "Tue, 17 Nov 2026 12:26:38 -0500"
         }
       ],
       "error": null
