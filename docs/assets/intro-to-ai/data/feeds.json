@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-11-18T15:10:11.800489+00:00",
+  "generatedAt": "2026-11-18T16:05:43.485143+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Broken World",
+          "link": "https://www.404media.co/broken-world/",
+          "date": "Wed, 18 Nov 2026 15:50:43 GMT"
+        },
         {
           "title": "Massive New Study Shows How Young People Feel About AI Companions",
           "link": "https://www.404media.co/gallup-study-friendship-ai-companions/",
@@ -24,11 +29,6 @@
           "title": "Lakes Are Bizarrely Syncing Up Globally, And Scientists Are Worried",
           "link": "https://www.404media.co/lakes-are-bizarrely-syncing-up-globally-and-scientists-are-worried/",
           "date": "Tue, 17 Nov 2026 16:31:39 GMT"
-        },
-        {
-          "title": "'Defense by ChatGPT'",
-          "link": "https://www.404media.co/defense-by-chatgpt/",
-          "date": "Tue, 17 Nov 2026 15:26:46 GMT"
         }
       ],
       "error": null
@@ -101,7 +101,7 @@
       "name": "AI \u2013 AI-TechPark",
       "url": "https://ai-techpark.com/category/ai/feed/",
       "items": [],
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<unknown>:2:377: not well-formed (invalid token)"
     },
     {
       "name": "AI | TechCrunch",
@@ -464,6 +464,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "US senators urge White House AI chief to fix vulnerabilities after mass outages",
+          "link": "https://www.theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure",
+          "date": "Wed, 18 Nov 2026 15:53:10 GMT"
+        },
+        {
           "title": "\u2018Zero\u2019 evidence that recent cascade of tech outages are linked, says Rubio",
           "link": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
           "date": "Wed, 18 Nov 2026 14:46:49 GMT"
@@ -482,11 +487,6 @@
           "title": "\u2018Human\u2019 wins Cambridge dictionary\u2019s word of the year",
           "link": "https://www.theguardian.com/science/2026/nov/18/cambridge-word-of-the-year-human",
           "date": "Wed, 18 Nov 2026 05:00:34 GMT"
-        },
-        {
-          "title": "Ofqual urges \u2018life-altering\u2019 penalties for students who use tech to cheat",
-          "link": "https://www.theguardian.com/education/2026/nov/18/ofqual-urges-life-altering-penalties-for-students-who-use-tech-to",
-          "date": "Wed, 18 Nov 2026 00:01:25 GMT"
         }
       ],
       "error": null
@@ -528,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Banks and the NSA Admit That Yes, It Was AI That Caused the Massive Outages",
+          "link": "https://futurism.com/artificial-intelligence/banks-nsa-admit-ai-massive-outages",
+          "date": "Wed, 18 Nov 2026 10:16:49 -0500"
+        },
+        {
           "title": "AI-Powered \u201cSafe Roleplay\u201d Plushie for Kids Pulled From Shelves After It\u2019s Caught Talking About Things Too Disturbing to Put in This Headline",
           "link": "https://futurism.com/artificial-intelligence/ai-plushie-roleplay-kids-disturbing",
           "date": "Tue, 17 Nov 2026 14:58:44 -0500"
@@ -546,11 +551,6 @@
           "title": "Homeland Security Head Says Huge Outages Are Linked to AI",
           "link": "https://futurism.com/artificial-intelligence/homeland-security-head-outages-linked-ai",
           "date": "Tue, 17 Nov 2026 10:27:06 -0500"
-        },
-        {
-          "title": "OpenAI Board Member Warns Public They Could Be \u201cDead or Enslaved\u201d in One Year",
-          "link": "https://futurism.com/future-society/openai-board-member-warns-dead-enslaved-ai-doomsday",
-          "date": "Mon, 16 Nov 2026 16:57:25 -0500"
         }
       ],
       "error": null
