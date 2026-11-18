@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T17:05:29.765748+00:00",
+  "generatedAt": "2026-11-18T18:06:54.177077+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,16 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Google\u2019s AI feature in Search gets its own incognito mode",
+          "link": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+          "date": "Wed, 18 Nov 2026 18:04:05 +0000"
+        },
+        {
+          "title": "More banks say customers using AI agents are on their own \u2014 even if they get hacked",
+          "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+          "date": "Wed, 18 Nov 2026 17:32:10 +0000"
+        },
+        {
           "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
           "link": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
           "date": "Wed, 18 Nov 2026 16:59:00 +0000"
@@ -121,16 +131,6 @@
           "title": "Nvidia clarifies when it will \u2014 and won\u2019t \u2014 keep financing neoclouds",
           "link": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
           "date": "Wed, 18 Nov 2026 13:00:00 +0000"
-        },
-        {
-          "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
-          "link": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
-          "date": "Wed, 18 Nov 2026 12:00:00 +0000"
-        },
-        {
-          "title": "India\u2019s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
-          "link": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
-          "date": "Wed, 18 Nov 2026 11:30:00 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:7:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -215,6 +215,11 @@
       "name": "AI Now Institute",
       "url": "https://ainowinstitute.org/category/news/feed",
       "items": [
+        {
+          "title": "Union Nurses Tell Researchers That AI Can Make Their Jobs Harder",
+          "link": "https://ainowinstitute.org/news/press/union-nurses-tell-researchers-that-ai-can-make-their-jobs-harder",
+          "date": "Wed, 18 Nov 2026 15:25:56 +0000"
+        },
         {
           "title": "Lawfare Daily: Aya Ibrahim on Progressive Priorities for the New Democratic Congress",
           "link": "https://ainowinstitute.org/news/lawfare-daily-aya-ibrahim-on-progressive-priorities-for-the-new-democratic-congress",
@@ -234,11 +239,6 @@
           "title": "Palantir hires a former Democratic senator as it faces scrutiny in new Congress",
           "link": "https://ainowinstitute.org/news/palantir-hires-a-former-democratic-senator-as-it-faces-scrutiny-in-new-congress",
           "date": "Mon, 09 Nov 2026 15:09:46 +0000"
-        },
-        {
-          "title": "2026 election breakdown: Americans vote down data centers, AI and oligarchy",
-          "link": "https://ainowinstitute.org/news/2026-election-breakdown-americans-vote-down-data-centers-ai-and-oligarchy",
-          "date": "Fri, 06 Nov 2026 18:48:53 +0000"
         }
       ],
       "error": null
@@ -253,6 +253,11 @@
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
+        {
+          "title": "Agentic AI puts the CPU back at center stage as Dell and AMD chase every watt",
+          "link": "https://siliconangle.com/2026/11/18/business-development-agentic-ai-era-puts-cpus-first-dellatsc26/",
+          "date": "Wed, 18 Nov 2026 17:06:36 +0000"
+        },
         {
           "title": "Agents want the crown jewels: HPE and Daxa push governance down to the data layer",
           "link": "https://siliconangle.com/2026/11/18/semantic-caching-helps-enforce-ai-agent-governance-inline-sc26/",
@@ -272,11 +277,6 @@
           "title": "Reson8 releases Rumble-2-Flash speech model as a free open-weights download",
           "link": "https://siliconangle.com/2026/11/18/reson8-releases-rumble-2-flash-speech-model-as-a-free-open-weights-download/",
           "date": "Wed, 18 Nov 2026 14:00:57 +0000"
-        },
-        {
-          "title": "OneTrust\u2019s Fall \u201926 Release expands AI visibility, privacy and third-party risk tools",
-          "link": "https://siliconangle.com/2026/11/18/onetrusts-fall-26-release-expands-ai-visibility-privacy-and-third-party-risk-tools/",
-          "date": "Wed, 18 Nov 2026 14:00:28 +0000"
         }
       ],
       "error": null
@@ -394,6 +394,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "It shouldn\u2019t be this easy to pedal 25 mph: Specialized\u2019s Turbo Vado 3 Evo",
+          "link": "https://arstechnica.com/gadgets/2026/11/it-shouldnt-be-this-easy-to-pedal-25-mph-specializeds-turbo-vado-3-evo/",
+          "date": "Wed, 18 Nov 2026 17:53:59 +0000"
+        },
+        {
           "title": "Vulcan failure caused by inadequate fuel supply to engines, ULA says",
           "link": "https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says/",
           "date": "Wed, 18 Nov 2026 16:58:32 +0000"
@@ -412,11 +417,6 @@
           "title": "Voyager 1 at one light-day: Historian revisits Golden Record's forgotten details",
           "link": "https://arstechnica.com/space/2026/11/voyager-1-at-one-light-day-historian-revisits-golden-records-forgotten-details/",
           "date": "Wed, 18 Nov 2026 12:15:44 +0000"
-        },
-        {
-          "title": "Grand Theft Auto VI: The Ars Technica review",
-          "link": "https://arstechnica.com/gaming/2026/11/grand-theft-auto-vi-the-ars-technica-review/",
-          "date": "Wed, 18 Nov 2026 11:00:27 +0000"
         }
       ],
       "error": null
@@ -466,7 +466,12 @@
         {
           "title": "US senators urge White House AI chief to fix vulnerabilities after mass outages",
           "link": "https://www.theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure",
-          "date": "Wed, 18 Nov 2026 15:53:10 GMT"
+          "date": "Wed, 18 Nov 2026 17:25:00 GMT"
+        },
+        {
+          "title": "Why Palantir\u2019s health tech is not the right fit for the NHS | Letter",
+          "link": "https://www.theguardian.com/technology/2026/nov/18/why-palantirs-health-tech-is-not-the-right-fit-for-the-nhs",
+          "date": "Wed, 18 Nov 2026 17:24:21 GMT"
         },
         {
           "title": "\u2018Zero\u2019 evidence that recent cascade of tech outages are linked, says Rubio",
@@ -482,11 +487,6 @@
           "title": "Elton John backs Australian artists in fight against AI in surprise Aria awards appearance",
           "link": "https://www.theguardian.com/music/2026/nov/18/elton-john-ai-campaign-australia-artists-aria-awards-copyright",
           "date": "Wed, 18 Nov 2026 08:29:57 GMT"
-        },
-        {
-          "title": "\u2018Human\u2019 wins Cambridge dictionary\u2019s word of the year",
-          "link": "https://www.theguardian.com/science/2026/nov/18/cambridge-word-of-the-year-human",
-          "date": "Wed, 18 Nov 2026 05:00:34 GMT"
         }
       ],
       "error": null
@@ -528,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "The Trump Administration Is Absolutely Flailing Trying to Explain Why So Many Crucial Services Are Going Down",
+          "link": "https://futurism.com/artificial-intelligence/trump-administration-flailing-explain-outages",
+          "date": "Wed, 18 Nov 2026 12:27:18 -0500"
+        },
+        {
           "title": "Banks and the NSA Admit That Yes, It Was AI That Caused the Massive Outages",
           "link": "https://futurism.com/artificial-intelligence/banks-nsa-admit-ai-massive-outages",
           "date": "Wed, 18 Nov 2026 10:16:49 -0500"
@@ -546,11 +551,6 @@
           "title": "Absolutely Everything Is Getting Hacked",
           "link": "https://futurism.com/future-society/absolutely-everything-is-getting-hacked",
           "date": "Tue, 17 Nov 2026 12:26:38 -0500"
-        },
-        {
-          "title": "Homeland Security Head Says Huge Outages Are Linked to AI",
-          "link": "https://futurism.com/artificial-intelligence/homeland-security-head-outages-linked-ai",
-          "date": "Tue, 17 Nov 2026 10:27:06 -0500"
         }
       ],
       "error": null
@@ -560,7 +560,12 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
-          "title": "Criminals Have a New Favorite \u2018Point-and-Shoot\u2019 AI Hacking Tool",
+          "title": "Inside Nvidia\u2019s First Post-Jensen All-Hands: Pay Raises and More Equity",
+          "link": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/",
+          "date": "Wed, 18 Nov 2026 17:33:07 +0000"
+        },
+        {
+          "title": "Artex Is Criminals\u2019 New Favorite \u2018Point-and-Shoot\u2019 AI Hacking Tool",
           "link": "https://www.wired.com/story/artex-ai-hacking-tools/",
           "date": "Wed, 18 Nov 2026 16:35:24 +0000"
         },
@@ -578,11 +583,6 @@
           "title": "Over a Third of Gen Z-ers Rely on AI for Friendship",
           "link": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/",
           "date": "Wed, 18 Nov 2026 05:01:00 +0000"
-        },
-        {
-          "title": "Nvidia\u2019s Board Has No Plans to Bring Back Jensen Huang",
-          "link": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
-          "date": "Tue, 17 Nov 2026 22:19:19 +0000"
         }
       ],
       "error": null
