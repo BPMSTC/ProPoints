@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T23:05:10.894457+00:00",
+  "generatedAt": "2026-11-18T00:16:28.467427+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,7 +108,12 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
-          "title": "Nvidia says its open-source AI strategy remains intact after Jensen Huang\u2019s exit",
+          "title": "Nvidia is abandoning China after Jensen Huang\u2019s ouster",
+          "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+          "date": "Tue, 17 Nov 2026 23:37:48 +0000"
+        },
+        {
+          "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang\u2019s exit",
           "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
           "date": "Tue, 17 Nov 2026 23:04:35 +0000"
         },
@@ -126,11 +131,6 @@
           "title": "SEC reportedly investigating Nvidia amid Huang exit",
           "link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
           "date": "Tue, 17 Nov 2026 21:48:07 +0000"
-        },
-        {
-          "title": "Google joins the tech outage trend by announcing it\u2019s not having one",
-          "link": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
-          "date": "Tue, 17 Nov 2026 21:34:50 +0000"
         }
       ],
       "error": null
@@ -254,6 +254,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Alphabet\u2019s Isomorphic Labs raises $5B to accelerate drug discovery with AI",
+          "link": "https://siliconangle.com/2026/11/17/alphabets-isomorphic-labs-raises-5b-to-accelerate-drug-discovery-with-ai/",
+          "date": "Tue, 17 Nov 2026 23:51:11 +0000"
+        },
+        {
           "title": "OpenAI rolls out GPT-6.2 Astra for professional work and GPT-6.2 Sol for everyday work",
           "link": "https://siliconangle.com/2026/11/17/openai-rolls-out-gpt-6-2-astra-for-professional-work-and-gpt-6-2-sol-for-everyday-work/",
           "date": "Tue, 17 Nov 2026 22:39:29 +0000"
@@ -264,7 +269,7 @@
           "date": "Tue, 17 Nov 2026 22:36:27 +0000"
         },
         {
-          "title": "Jensen Huang says he\u2019s willing to return as CEO, in first statement since resignation",
+          "title": "Jensen Huang says he\u2019s willing to return to Nvidia, in first statement since resignation",
           "link": "https://siliconangle.com/2026/11/17/jensen-huang-says-hes-willing-to-return-as-ceo-in-first-statement-since-resignation/",
           "date": "Tue, 17 Nov 2026 21:22:57 +0000"
         },
@@ -272,11 +277,6 @@
           "title": "Idle, then spiking: Why AI agents are breaking Kubernetes resource planning",
           "link": "https://siliconangle.com/2026/11/17/autonomous-orchestration-helps-kubernetes-keep-up-ai-agents-kubeconna/",
           "date": "Tue, 17 Nov 2026 20:35:39 +0000"
-        },
-        {
-          "title": "Nvidia at SC26: Agents are the new scientists, and they need a lab",
-          "link": "https://siliconangle.com/2026/11/17/nvidia-at-sc26-agents-are-the-new-scientists-and-they-need-a-lab/",
-          "date": "Tue, 17 Nov 2026 20:27:24 +0000"
         }
       ],
       "error": null
@@ -394,6 +394,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "San Diego dumps both Flock cameras and smart streetlights",
+          "link": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
+          "date": "Tue, 17 Nov 2026 23:09:09 +0000"
+        },
+        {
           "title": "Yet another satellite company is jockeying for a rocket\u2014but this one makes sense",
           "link": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/",
           "date": "Tue, 17 Nov 2026 22:44:46 +0000"
@@ -412,11 +417,6 @@
           "title": "Civilization studio Firaxis Games lays off a third of staff",
           "link": "https://arstechnica.com/gaming/2026/11/civilization-studio-firaxis-games-lays-off-a-third-of-staff/",
           "date": "Tue, 17 Nov 2026 19:45:25 +0000"
-        },
-        {
-          "title": "Humanity braces for an alien invasion in 3 Body Problem S2 teaser",
-          "link": "https://arstechnica.com/culture/2026/11/humanity-braces-for-an-alien-invasion-in-3-body-problem-s2-teaser/",
-          "date": "Tue, 17 Nov 2026 18:26:26 +0000"
         }
       ],
       "error": null
@@ -469,9 +469,14 @@
           "date": "Tue, 17 Nov 2026 14:00:15 GMT"
         },
         {
+          "title": "Ofqual urges \u2018life-altering\u2019 penalties for students who use tech to cheat",
+          "link": "https://www.theguardian.com/education/2026/nov/18/ofqual-urges-life-altering-penalties-for-students-who-use-tech-to",
+          "date": "Wed, 18 Nov 2026 00:01:25 GMT"
+        },
+        {
           "title": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
           "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
-          "date": "Tue, 17 Nov 2026 22:27:14 GMT"
+          "date": "Tue, 17 Nov 2026 23:32:16 GMT"
         },
         {
           "title": "Jensen Huang to testify before Congress on \u2018potential breach of national security\u2019",
@@ -482,11 +487,6 @@
           "title": "Jensen Huang says he would be \u2018honored\u2019 to return to Nvidia as CEO",
           "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement",
           "date": "Tue, 17 Nov 2026 17:35:26 GMT"
-        },
-        {
-          "title": "Jensen Huang\u2019s departure as Nvidia CEO becomes a political proxy war",
-          "link": "https://www.theguardian.com/global/2026/nov/16/jensen-huang-nvidia-ceo-china",
-          "date": "Tue, 17 Nov 2026 14:50:24 GMT"
         }
       ],
       "error": null
