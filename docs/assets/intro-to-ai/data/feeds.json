@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T19:04:52.611977+00:00",
+  "generatedAt": "2026-11-18T20:05:49.411396+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+          "link": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+          "date": "Wed, 18 Nov 2026 19:56:39 +0000"
+        },
+        {
           "title": "Google\u2019s AI feature in Search gets its own incognito mode",
           "link": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
           "date": "Wed, 18 Nov 2026 18:04:05 +0000"
@@ -126,11 +131,6 @@
           "title": "OpenAI CEO Sam Altman says it\u2019s \u2018hard to imagine the AI industry without Jensen\u2019",
           "link": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
           "date": "Wed, 18 Nov 2026 16:14:09 +0000"
-        },
-        {
-          "title": "Nvidia clarifies when it will \u2014 and won\u2019t \u2014 keep financing neoclouds",
-          "link": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
-          "date": "Wed, 18 Nov 2026 13:00:00 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:7:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -254,6 +254,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Three insights you may have missed from theCUBE\u2019s coverage of monday.com\u2019s Elevate event",
+          "link": "https://siliconangle.com/2026/11/18/three-insights-you-may-have-missed-from-thecubes-coverage-of-monday-coms-elevate-event-mondayelevate/",
+          "date": "Wed, 18 Nov 2026 19:19:12 +0000"
+        },
+        {
           "title": "Agentic AI puts the CPU back at center stage as Dell and AMD chase every watt",
           "link": "https://siliconangle.com/2026/11/18/business-development-agentic-ai-era-puts-cpus-first-dellatsc26/",
           "date": "Wed, 18 Nov 2026 17:06:36 +0000"
@@ -272,11 +277,6 @@
           "title": "Quantum computing drops its decade-away tag as error rates fall 200-fold in two years",
           "link": "https://siliconangle.com/2026/11/18/quantum-error-correction-ushers-data-center-sc26/",
           "date": "Wed, 18 Nov 2026 14:28:21 +0000"
-        },
-        {
-          "title": "Reson8 releases Rumble-2-Flash speech model as a free open-weights download",
-          "link": "https://siliconangle.com/2026/11/18/reson8-releases-rumble-2-flash-speech-model-as-a-free-open-weights-download/",
-          "date": "Wed, 18 Nov 2026 14:00:57 +0000"
         }
       ],
       "error": null
@@ -362,6 +362,11 @@
       "url": "https://huggingface.co/blog/feed.xml",
       "items": [
         {
+          "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+          "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+          "date": "Wed, 18 Nov 2026 19:54:56 GMT"
+        },
+        {
           "title": "Why your fine-tuning job takes longer than the FLOPs say",
           "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
           "date": "Wed, 18 Nov 2026 18:53:43 GMT"
@@ -380,11 +385,6 @@
           "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
           "link": "https://huggingface.co/blog/rumble-2-flash",
           "date": "Wed, 18 Nov 2026 00:00:00 GMT"
-        },
-        {
-          "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
-          "link": "https://huggingface.co/blog/openrouter",
-          "date": "Mon, 16 Nov 2026 00:00:00 GMT"
         }
       ],
       "error": null
@@ -393,6 +393,16 @@
       "name": "Ars Technica - All content",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
+        {
+          "title": "Best Buy sells Blu-rays online and in-store again",
+          "link": "https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/",
+          "date": "Wed, 18 Nov 2026 19:31:17 +0000"
+        },
+        {
+          "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
+          "link": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
+          "date": "Wed, 18 Nov 2026 19:19:33 +0000"
+        },
         {
           "title": "Trump admin orders Kalshi to halt wagers on what words Trump will say",
           "link": "https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/",
@@ -407,16 +417,6 @@
           "title": "Will Wright's next simulation will use AI to mine content from your memories",
           "link": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
           "date": "Wed, 18 Nov 2026 18:10:33 +0000"
-        },
-        {
-          "title": "It shouldn\u2019t be this easy to pedal 25 mph: Specialized\u2019s Turbo Vado 3 Evo",
-          "link": "https://arstechnica.com/gadgets/2026/11/it-shouldnt-be-this-easy-to-pedal-25-mph-specializeds-turbo-vado-3-evo/",
-          "date": "Wed, 18 Nov 2026 17:53:59 +0000"
-        },
-        {
-          "title": "Vulcan failure caused by inadequate fuel supply to engines, ULA says",
-          "link": "https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says/",
-          "date": "Wed, 18 Nov 2026 16:58:32 +0000"
         }
       ],
       "error": null
@@ -528,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "AI Is Breaking the Entire Structure of Software That Powers the World",
+          "link": "https://futurism.com/artificial-intelligence/ai-breaking-software-powers-world",
+          "date": "Wed, 18 Nov 2026 14:46:18 -0500"
+        },
+        {
           "title": "Trump\u2019s Embrace of AI Slop Shows He\u2019s Not in Touch With Reality and Should Be Removed From Office, Critics Say",
           "link": "https://futurism.com/health-medicine/trumps-ai-slop-not-fit-office",
           "date": "Wed, 18 Nov 2026 13:34:26 -0500"
@@ -546,11 +551,6 @@
           "title": "AI-Powered \u201cSafe Roleplay\u201d Plushie for Kids Pulled From Shelves After It\u2019s Caught Talking About Things Too Disturbing to Put in This Headline",
           "link": "https://futurism.com/artificial-intelligence/ai-plushie-roleplay-kids-disturbing",
           "date": "Tue, 17 Nov 2026 14:58:44 -0500"
-        },
-        {
-          "title": "Nvidia Stock Is Sinking Like a Stone",
-          "link": "https://futurism.com/artificial-intelligence/nvidia-stock-sinking-stone",
-          "date": "Tue, 17 Nov 2026 13:03:43 -0500"
         }
       ],
       "error": null
