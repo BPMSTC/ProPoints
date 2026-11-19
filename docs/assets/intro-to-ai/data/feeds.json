@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T09:06:59.648531+00:00",
+  "generatedAt": "2026-11-19T10:06:12.165707+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:7:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -330,6 +330,16 @@
       "url": "https://analyticsindiamag.com/feed/",
       "items": [
         {
+          "title": "Zurich Insurance to Expand Hyderabad GCC With 1,000 Employees By 2028",
+          "link": "https://analyticsindiamag.com/ai-news/zurich-to-expand-hyderabad-centre-with-1000-employees-by-2028",
+          "date": "Thu, 19 Nov 2026 09:56:22 GMT"
+        },
+        {
+          "title": "Can Simulated Users Replace Weeks of Testing Products? Vectorial AI Thinks So",
+          "link": "https://analyticsindiamag.com/ai-startups/can-simulated-users-replace-weeks-of-consumer-research-vectorial-ai-thinks-so",
+          "date": "Thu, 19 Nov 2026 09:51:22 GMT"
+        },
+        {
           "title": "OpenAI, AMD Use AI to Cut Chip Design Process From a Year to Under 5 Months",
           "link": "https://analyticsindiamag.com/ai-news/openai-and-amd-achieve-a-year-of-chip-design-progress-in-under-five-months",
           "date": "Thu, 19 Nov 2026 05:51:23 GMT"
@@ -343,16 +353,6 @@
           "title": "Anthropic Smashes IPO Record With $81.3 Bn Share Sale",
           "link": "https://analyticsindiamag.com/ai-news/anthropic-sets-us-ipo-record-with-813-billion-share-sale",
           "date": "Thu, 19 Nov 2026 04:43:05 GMT"
-        },
-        {
-          "title": "Network Rail Awards \u00a3133 Million Infrastructure Contract to Cognizant",
-          "link": "https://analyticsindiamag.com/ai-news/network-rail-awards-133-million-infrastructure-contract-to-cognizant",
-          "date": "Wed, 18 Nov 2026 11:39:03 GMT"
-        },
-        {
-          "title": "Hitachi Systems India Sets Up Bengaluru GDC to Tackle Frontier AI Risks",
-          "link": "https://analyticsindiamag.com/ai-news/hitachi-systems-india-sets-up-bengaluru-gdc-to-tackle-frontier-ai-risks",
-          "date": "Wed, 18 Nov 2026 11:36:17 GMT"
         }
       ],
       "error": null
@@ -466,7 +466,7 @@
         {
           "title": "Anthropic to float on the stock market today as it raises $81bn in record IPO \u2013 business live",
           "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
-          "date": "Thu, 19 Nov 2026 09:05:25 GMT"
+          "date": "Thu, 19 Nov 2026 09:51:48 GMT"
         },
         {
           "title": "When tech workers have to quit their jobs to raise the alarm, it\u2019s time to worry | Isabelle Ferreras",
