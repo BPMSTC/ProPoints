@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T08:07:56.746815+00:00",
+  "generatedAt": "2026-11-19T09:06:59.648531+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -466,7 +466,12 @@
         {
           "title": "Anthropic to float on the stock market today as it raises $81bn in record IPO \u2013 business live",
           "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
-          "date": "Thu, 19 Nov 2026 08:04:02 GMT"
+          "date": "Thu, 19 Nov 2026 09:05:25 GMT"
+        },
+        {
+          "title": "When tech workers have to quit their jobs to raise the alarm, it\u2019s time to worry | Isabelle Ferreras",
+          "link": "https://www.theguardian.com/commentisfree/2026/nov/19/tech-workers-quit-jobs-raise-alarm-worry-ai-humanity-autocracies",
+          "date": "Thu, 19 Nov 2026 08:59:17 GMT"
         },
         {
           "title": "Ram through datacentres no one wants and hope the AI bubble never bursts: that\u2019s the UK\u2019s growth plan | George Monbiot",
@@ -482,11 +487,6 @@
           "title": "Four Maryland high school students sue after AI mistakes Doritos bag for gun",
           "link": "https://www.theguardian.com/us-news/2026/nov/18/maryland-baltimore-county-doritos-gun-ai-lawsuit",
           "date": "Wed, 18 Nov 2026 23:53:51 GMT"
-        },
-        {
-          "title": "Australia has a reputation for being the most secretive democracy in the world. New laws could make it worse | Tom Sulston",
-          "link": "https://www.theguardian.com/commentisfree/2026/nov/19/australia-has-a-reputation-for-being-the-most-secretive-democracy-in-the-world-new-laws-could-make-it-worse",
-          "date": "Wed, 18 Nov 2026 22:00:09 GMT"
         }
       ],
       "error": null
