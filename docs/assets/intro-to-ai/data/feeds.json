@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T22:05:31.356852+00:00",
+  "generatedAt": "2026-11-19T23:04:46.437419+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -394,6 +394,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
+          "link": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
+          "date": "Thu, 19 Nov 2026 22:16:37 +0000"
+        },
+        {
           "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
           "link": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/",
           "date": "Thu, 19 Nov 2026 21:19:12 +0000"
@@ -412,11 +417,6 @@
           "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
           "link": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
           "date": "Thu, 19 Nov 2026 19:52:54 +0000"
-        },
-        {
-          "title": "\"You\u2019re right\"\u2014LLMs will get climate info wrong if you ask",
-          "link": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
-          "date": "Thu, 19 Nov 2026 18:44:39 +0000"
         }
       ],
       "error": null
@@ -464,9 +464,14 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Anthropic shares end first day of trading at $97 as Wall Street closes sharply lower \u2013 business live",
+          "title": "Anthropic shares end first day of trading at $97 as Wall Street closes sharply lower \u2013 as it happened",
           "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
-          "date": "Thu, 19 Nov 2026 22:02:26 GMT"
+          "date": "Thu, 19 Nov 2026 22:13:52 GMT"
+        },
+        {
+          "title": "Anthropic closes first day of public trading at $1.3tn valuation after largest-ever IPO",
+          "link": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo",
+          "date": "Thu, 19 Nov 2026 22:09:18 GMT"
         },
         {
           "title": "Protesters rally against Anthropic in New York and San Francisco after $2tn stock market debut",
@@ -482,11 +487,6 @@
           "title": "Anthropic keeps the AI party swinging, but the atmosphere is bubbly | Nils Pratley",
           "link": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/19/anthropic-keeps-ai-party-swinging-but-atmosphere-bubbly",
           "date": "Thu, 19 Nov 2026 18:15:48 GMT"
-        },
-        {
-          "title": "Academic integrity matters, but students shouldn\u2019t be penalised for using AI | Letter",
-          "link": "https://www.theguardian.com/education/2026/nov/19/academic-integrity-matters-but-students-shouldnt-be-penalised-for-using-ai",
-          "date": "Thu, 19 Nov 2026 18:07:23 GMT"
         }
       ],
       "error": null
