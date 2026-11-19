@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T05:06:51.015361+00:00",
+  "generatedAt": "2026-11-19T06:10:23.617087+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -330,6 +330,16 @@
       "url": "https://analyticsindiamag.com/feed/",
       "items": [
         {
+          "title": "OpenAI, AMD Use AI to Cut Chip Design Process From a Year to Under 5 Months",
+          "link": "https://analyticsindiamag.com/ai-news/openai-and-amd-achieve-a-year-of-chip-design-progress-in-under-five-months",
+          "date": "Thu, 19 Nov 2026 05:51:23 GMT"
+        },
+        {
+          "title": "GitHub Now Lets Indian Enterprises Store Code Locally Ahead of DPDP Deadline",
+          "link": "https://analyticsindiamag.com/ai-news/github-now-lets-indian-enterprises-store-code-locally-ahead-of-dpdp-deadline",
+          "date": "Thu, 19 Nov 2026 05:43:30 GMT"
+        },
+        {
           "title": "Anthropic Smashes IPO Record With $81.3 Bn Share Sale",
           "link": "https://analyticsindiamag.com/ai-news/anthropic-sets-us-ipo-record-with-813-billion-share-sale",
           "date": "Thu, 19 Nov 2026 04:43:05 GMT"
@@ -343,16 +353,6 @@
           "title": "Hitachi Systems India Sets Up Bengaluru GDC to Tackle Frontier AI Risks",
           "link": "https://analyticsindiamag.com/ai-news/hitachi-systems-india-sets-up-bengaluru-gdc-to-tackle-frontier-ai-risks",
           "date": "Wed, 18 Nov 2026 11:36:17 GMT"
-        },
-        {
-          "title": "Why India Needs to Be a Nation of Tinkerers",
-          "link": "https://analyticsindiamag.com/ai-features/why-india-needs-to-be-a-nation-of-tinkerers",
-          "date": "Wed, 18 Nov 2026 11:30:31 GMT"
-        },
-        {
-          "title": "Sarvam\u2019s Token Factory Sparks India\u2019s Sovereign AI Debate, Again",
-          "link": "https://analyticsindiamag.com/ai-features/sarvams-token-factory-sparks-indias-sovereign-ai-debate-again",
-          "date": "Wed, 18 Nov 2026 07:10:00 GMT"
         }
       ],
       "error": null
@@ -464,6 +464,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Ram through datacentres no one wants and hope the AI bubble never bursts: that\u2019s the UK\u2019s growth plan | George Monbiot",
+          "link": "https://www.theguardian.com/commentisfree/2026/nov/19/uk-growth-plan-datacentres-ai-bubble-big-tech",
+          "date": "Thu, 19 Nov 2026 06:00:19 GMT"
+        },
+        {
           "title": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns",
           "link": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns",
           "date": "Thu, 19 Nov 2026 05:00:18 GMT"
@@ -482,11 +487,6 @@
           "title": "Anthropic sets share price at $83 for stock market debut, above expected range",
           "link": "https://www.theguardian.com/technology/2026/nov/18/anthropic-share-price-stock-market-ipo",
           "date": "Wed, 18 Nov 2026 21:39:15 GMT"
-        },
-        {
-          "title": "US senators urge White House AI chief to fix vulnerabilities after mass outages",
-          "link": "https://www.theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure",
-          "date": "Wed, 18 Nov 2026 17:25:00 GMT"
         }
       ],
       "error": null
