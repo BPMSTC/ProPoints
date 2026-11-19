@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T02:08:11.022191+00:00",
+  "generatedAt": "2026-11-19T03:07:08.367393+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:7:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -254,6 +254,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Google\u2019s latest midtier model Gemini 4 Neon is three times faster than Carbon and wins on some metrics",
+          "link": "https://siliconangle.com/2026/11/18/googles-latest-midtier-model-gemini-4-neon-is-three-times-faster-than-carbon-and-wins-on-some-metrics/",
+          "date": "Thu, 19 Nov 2026 02:55:16 +0000"
+        },
+        {
           "title": "Google Cloud brings AI agents to the supercomputing bottleneck",
           "link": "https://siliconangle.com/2026/11/18/hpc-meets-ai-agents-google-cloud-targets-time-discovery-sc26/",
           "date": "Thu, 19 Nov 2026 00:23:21 +0000"
@@ -272,11 +277,6 @@
           "title": "Three insights you may have missed from theCUBE\u2019s coverage of monday.com\u2019s Elevate event",
           "link": "https://siliconangle.com/2026/11/18/three-insights-you-may-have-missed-from-thecubes-coverage-of-monday-coms-elevate-event-mondayelevate/",
           "date": "Wed, 18 Nov 2026 19:19:12 +0000"
-        },
-        {
-          "title": "AI\u2019s GPU focus meets a CPU reality check at Dell and AMD",
-          "link": "https://siliconangle.com/2026/11/18/business-development-agentic-ai-era-puts-cpus-first-dellatsc26/",
-          "date": "Wed, 18 Nov 2026 17:06:36 +0000"
         }
       ],
       "error": null
