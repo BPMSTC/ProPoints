@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-11-19T15:05:54.642516+00:00",
+  "generatedAt": "2026-11-19T16:06:37.889298+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "High-End Furniture Marketplace AptDeco Is Taking People\u2019s Furniture and Not Paying Them",
+          "link": "https://www.404media.co/high-end-furniture-marketplace-aptdeco-is-taking-peoples-furniture-and-not-paying-them/",
+          "date": "Thu, 19 Nov 2026 15:33:18 GMT"
+        },
         {
           "title": "Black Neighborhoods Are Twice as Likely To House a Data Center, Study Finds",
           "link": "https://www.404media.co/redlining-ai-data-centers-and-race-study/",
@@ -24,11 +29,6 @@
           "title": "Charting American Culture in News Footage of \u2018Grand Theft Auto\u2019",
           "link": "https://www.404media.co/charting-american-culture-in-news-footage-of-grand-theft-auto/",
           "date": "Thu, 19 Nov 2026 13:21:40 GMT"
-        },
-        {
-          "title": "Broken World",
-          "link": "https://www.404media.co/broken-world/",
-          "date": "Wed, 18 Nov 2026 15:50:43 GMT"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -464,29 +464,29 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Anthropic \u2018to open up more than 20% higher at over $100 a share\u2019 after blockbuster IPO \u2013 business live",
+          "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
+          "date": "Thu, 19 Nov 2026 15:50:21 GMT"
+        },
+        {
+          "title": "Anthropic to begin public trading at $1.5tn valuation after largest-ever IPO",
+          "link": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo",
+          "date": "Thu, 19 Nov 2026 15:30:36 GMT"
+        },
+        {
+          "title": "AI demand will push up interest rates around the world, IMF head warns",
+          "link": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
+          "date": "Thu, 19 Nov 2026 15:15:14 GMT"
+        },
+        {
           "title": "A random encounter with James McAvoy triggers delusional fantasy in Parasocial Activity",
           "link": "https://www.theguardian.com/stage/2026/nov/19/parasocial-activity-review-a-james-mcavoy-obsession-oran-mor-glasgow",
           "date": "Thu, 19 Nov 2026 15:01:41 GMT"
         },
         {
-          "title": "Anthropic rings Nasdaq opening bell as trading begins after record IPO \u2013 business live",
-          "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
-          "date": "Thu, 19 Nov 2026 15:00:11 GMT"
-        },
-        {
           "title": "Australian music industry rejects \u2018divide and conquer\u2019 proposal to give musicians exemption from AI scraping",
           "link": "https://www.theguardian.com/australia-news/2026/nov/20/australian-music-industry-rejects-proposal-to-give-musicians-exemption-ai-scraping",
           "date": "Thu, 19 Nov 2026 14:00:52 GMT"
-        },
-        {
-          "title": "\u2018Communities are really angry\u2019: how Australia\u2019s datacentre opposition has gone from marginal to mainstream in five months",
-          "link": "https://www.theguardian.com/australia-news/2026/nov/20/communities-are-really-angry-how-datacentre-opposition-has-gone-from-marginal-to-mainstream-in-five-months",
-          "date": "Thu, 19 Nov 2026 14:00:50 GMT"
-        },
-        {
-          "title": "Anthropic to begin public trading at $1.5tn valuation after largest ever IPO",
-          "link": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo",
-          "date": "Thu, 19 Nov 2026 13:00:48 GMT"
         }
       ],
       "error": null
@@ -528,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Anthropic Branded Itself as the Ethical AI Company. Now It\u2019s Succumbing to an Orgy of Capitalist Greed",
+          "link": "https://futurism.com/artificial-intelligence/anthropic-ethical-ai-ipo-greed",
+          "date": "Thu, 19 Nov 2026 11:01:44 -0500"
+        },
+        {
           "title": "You Can Trick Claude Into Drone Striking Civilians and Wounded Soldiers in Real Life By Telling It Everything\u2019s a Video Game",
           "link": "https://futurism.com/artificial-intelligence/trick-claude-chatgpt-drone-strike-video-game",
           "date": "Thu, 19 Nov 2026 09:32:35 -0500"
@@ -546,11 +551,6 @@
           "title": "The Trump Administration Is Absolutely Flailing Trying to Explain Why So Many Crucial Services Are Going Down",
           "link": "https://futurism.com/artificial-intelligence/trump-administration-flailing-explain-outages",
           "date": "Wed, 18 Nov 2026 12:27:18 -0500"
-        },
-        {
-          "title": "Banks and the NSA Admit That Yes, It Was AI That Caused the Massive Outages",
-          "link": "https://futurism.com/artificial-intelligence/banks-nsa-admit-ai-massive-outages",
-          "date": "Wed, 18 Nov 2026 10:16:49 -0500"
         }
       ],
       "error": null
