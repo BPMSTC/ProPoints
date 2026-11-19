@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T00:16:18.405154+00:00",
+  "generatedAt": "2026-11-19T01:05:57.645769+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+          "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+          "date": "Thu, 19 Nov 2026 00:42:56 +0000"
+        },
+        {
           "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is \u2018unpatchable\u2019",
           "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
           "date": "Wed, 18 Nov 2026 23:45:00 +0000"
@@ -126,11 +131,6 @@
           "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
           "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
           "date": "Wed, 18 Nov 2026 22:58:11 +0000"
-        },
-        {
-          "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
-          "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
-          "date": "Wed, 18 Nov 2026 22:11:15 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -254,6 +254,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Google Cloud brings AI agents to the supercomputing bottleneck",
+          "link": "https://siliconangle.com/2026/11/18/hpc-meets-ai-agents-google-cloud-targets-time-discovery-sc26/",
+          "date": "Thu, 19 Nov 2026 00:23:21 +0000"
+        },
+        {
           "title": "Google upgrades Gemini\u2019s agentic Task mode with new model, e-commerce features",
           "link": "https://siliconangle.com/2026/11/18/google-upgrades-geminis-agentic-task-mode-with-new-model-e-commerce-features/",
           "date": "Wed, 18 Nov 2026 23:56:55 +0000"
@@ -272,11 +277,6 @@
           "title": "AI\u2019s GPU focus meets a CPU reality check at Dell and AMD",
           "link": "https://siliconangle.com/2026/11/18/business-development-agentic-ai-era-puts-cpus-first-dellatsc26/",
           "date": "Wed, 18 Nov 2026 17:06:36 +0000"
-        },
-        {
-          "title": "Agents want the crown jewels: HPE and Daxa push governance down to the data layer",
-          "link": "https://siliconangle.com/2026/11/18/semantic-caching-helps-enforce-ai-agent-governance-inline-sc26/",
-          "date": "Wed, 18 Nov 2026 16:56:21 +0000"
         }
       ],
       "error": null
