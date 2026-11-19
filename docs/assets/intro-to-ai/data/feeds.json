@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-11-19T18:07:21.895340+00:00",
+  "generatedAt": "2026-11-19T19:04:52.883171+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "To Catch a Ransomware Scammer, FBI Posed as Both Victim and Attacker",
+          "link": "https://www.404media.co/ransomware-fraud-attack-fbi-indictment/",
+          "date": "Thu, 19 Nov 2026 18:11:50 GMT"
+        },
         {
           "title": "High-End Furniture Marketplace AptDeco Is Taking People\u2019s Furniture and Not Paying Them",
           "link": "https://www.404media.co/high-end-furniture-marketplace-aptdeco-is-taking-peoples-furniture-and-not-paying-them/",
@@ -24,11 +29,6 @@
           "title": "ICE Is Paying AT&T to Dig Through a Mountain of Call Records",
           "link": "https://www.404media.co/ice-is-paying-at-t-to-dig-through-a-mountain-of-call-records-hemisphere-data-analytical-services/",
           "date": "Thu, 19 Nov 2026 14:32:36 GMT"
-        },
-        {
-          "title": "Charting American Culture in News Footage of \u2018Grand Theft Auto\u2019",
-          "link": "https://www.404media.co/charting-american-culture-in-news-footage-of-grand-theft-auto/",
-          "date": "Thu, 19 Nov 2026 13:21:40 GMT"
         }
       ],
       "error": null
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Google gives Gemini the ability to use your Mac for you",
+          "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+          "date": "Thu, 19 Nov 2026 18:09:11 +0000"
+        },
+        {
           "title": "Meta\u2019s AI agent Muse is mixing up conversations and exposing private data, report says",
           "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
           "date": "Thu, 19 Nov 2026 17:38:40 +0000"
@@ -126,11 +131,6 @@
           "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
           "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
           "date": "Thu, 19 Nov 2026 16:19:41 +0000"
-        },
-        {
-          "title": "Anthropic\u2019s IPO puts AI\u2019s circular financing boom to the test",
-          "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
-          "date": "Thu, 19 Nov 2026 14:54:39 +0000"
         }
       ],
       "error": null
@@ -254,6 +254,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Hitachi Vantara bets smarter storage can close AI\u2019s pilot-to-production gap",
+          "link": "https://siliconangle.com/2026/11/19/apache-iceberg-intelligent-storage-help-ai-reach-production-sc26/",
+          "date": "Thu, 19 Nov 2026 18:39:55 +0000"
+        },
+        {
           "title": "Superhuman unveils personal AI assistant and expands Go across entire suite",
           "link": "https://siliconangle.com/2026/11/19/superhuman-unveils-personal-ai-assistant-and-expands-go-across-entire-suite/",
           "date": "Thu, 19 Nov 2026 14:00:22 +0000"
@@ -272,11 +277,6 @@
           "title": "Google\u2019s latest midtier model Gemini 4 Neon is three times faster than Carbon and wins on some metrics",
           "link": "https://siliconangle.com/2026/11/18/googles-latest-midtier-model-gemini-4-neon-is-three-times-faster-than-carbon-and-wins-on-some-metrics/",
           "date": "Thu, 19 Nov 2026 02:55:16 +0000"
-        },
-        {
-          "title": "Google Cloud brings AI agents to the supercomputing bottleneck",
-          "link": "https://siliconangle.com/2026/11/18/hpc-meets-ai-agents-google-cloud-targets-time-discovery-sc26/",
-          "date": "Thu, 19 Nov 2026 00:23:21 +0000"
         }
       ],
       "error": null
@@ -394,6 +394,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "\"You\u2019re right\"\u2014LLMs will get climate info wrong if you ask",
+          "link": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
+          "date": "Thu, 19 Nov 2026 18:44:39 +0000"
+        },
+        {
           "title": "Google will launch Android app verification requirement globally in January 2027",
           "link": "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027/",
           "date": "Thu, 19 Nov 2026 18:00:33 +0000"
@@ -412,11 +417,6 @@
           "title": "How to tell a cyberattack from a plain old outage",
           "link": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
           "date": "Thu, 19 Nov 2026 11:13:01 +0000"
-        },
-        {
-          "title": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
-          "link": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/",
-          "date": "Wed, 18 Nov 2026 23:25:04 +0000"
         }
       ],
       "error": null
@@ -464,9 +464,19 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Anthropic valued at $2tn as shares begin trading at $111.50 each \u2013 business live",
+          "title": "Anthropic valued at $2tn as shares begin trading after record-breaking IPO \u2013 business live",
           "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
-          "date": "Thu, 19 Nov 2026 17:57:30 GMT"
+          "date": "Thu, 19 Nov 2026 19:01:01 GMT"
+        },
+        {
+          "title": "Anthropic keeps the AI party swinging, but the atmosphere is bubbly | Nils Pratley",
+          "link": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/19/anthropic-keeps-ai-party-swinging-but-atmosphere-bubbly",
+          "date": "Thu, 19 Nov 2026 18:15:48 GMT"
+        },
+        {
+          "title": "Academic integrity matters, but students shouldn\u2019t be penalised for using AI | Letter",
+          "link": "https://www.theguardian.com/education/2026/nov/19/academic-integrity-matters-but-students-shouldnt-be-penalised-for-using-ai",
+          "date": "Thu, 19 Nov 2026 18:07:23 GMT"
         },
         {
           "title": "Anthropic begins public trading at $2tn valuation after largest-ever IPO",
@@ -477,16 +487,6 @@
           "title": "Anthropic CEO acknowledges AI has 'very real risks' shortly before IPO \u2013 video",
           "link": "https://www.theguardian.com/technology/video/2026/nov/19/anthropic-dario-amodei-acknowledges-ai-risks-before-ipo-video",
           "date": "Thu, 19 Nov 2026 16:24:13 GMT"
-        },
-        {
-          "title": "AI demand will push up interest rates around the world, IMF head warns",
-          "link": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
-          "date": "Thu, 19 Nov 2026 15:15:14 GMT"
-        },
-        {
-          "title": "James McAvoy\u2019s random encounter triggers a delusional fantasy in Parasocial Activity",
-          "link": "https://www.theguardian.com/stage/2026/nov/19/parasocial-activity-review-a-james-mcavoy-obsession-oran-mor-glasgow",
-          "date": "Thu, 19 Nov 2026 15:01:41 GMT"
         }
       ],
       "error": null
@@ -528,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Anthropic Stock Sputters After Historic IPO",
+          "link": "https://futurism.com/artificial-intelligence/anthropic-stock-sputters-after-historic-ipo",
+          "date": "Thu, 19 Nov 2026 13:36:57 -0500"
+        },
+        {
           "title": "Multiple Arrests Reported at Anthropic\u2019s IPO",
           "link": "https://futurism.com/artificial-intelligence/multiple-arrests-anthropic-ipo-protests-nasdaq",
           "date": "Thu, 19 Nov 2026 12:56:26 -0500"
@@ -546,11 +551,6 @@
           "title": "You Can Trick Claude Into Drone Striking Civilians and Wounded Soldiers in Real Life By Telling It Everything\u2019s a Video Game",
           "link": "https://futurism.com/artificial-intelligence/trick-claude-chatgpt-drone-strike-video-game",
           "date": "Thu, 19 Nov 2026 09:32:35 -0500"
-        },
-        {
-          "title": "AI Is Breaking the Entire Structure of Software That Powers the World",
-          "link": "https://futurism.com/artificial-intelligence/ai-breaking-software-powers-world",
-          "date": "Wed, 18 Nov 2026 14:46:18 -0500"
         }
       ],
       "error": null
