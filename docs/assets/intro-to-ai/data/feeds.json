@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T07:07:26.175926+00:00",
+  "generatedAt": "2026-11-19T08:07:56.746815+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:7:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -464,6 +464,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Anthropic to float on the stock market today as it raises $81bn in record IPO \u2013 business live",
+          "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
+          "date": "Thu, 19 Nov 2026 08:04:02 GMT"
+        },
+        {
           "title": "Ram through datacentres no one wants and hope the AI bubble never bursts: that\u2019s the UK\u2019s growth plan | George Monbiot",
           "link": "https://www.theguardian.com/commentisfree/2026/nov/19/uk-growth-plan-datacentres-ai-bubble-big-tech",
           "date": "Thu, 19 Nov 2026 06:00:19 GMT"
@@ -482,11 +487,6 @@
           "title": "Australia has a reputation for being the most secretive democracy in the world. New laws could make it worse | Tom Sulston",
           "link": "https://www.theguardian.com/commentisfree/2026/nov/19/australia-has-a-reputation-for-being-the-most-secretive-democracy-in-the-world-new-laws-could-make-it-worse",
           "date": "Wed, 18 Nov 2026 22:00:09 GMT"
-        },
-        {
-          "title": "Anthropic sets share price at $83 for stock market debut, above expected range",
-          "link": "https://www.theguardian.com/technology/2026/nov/18/anthropic-share-price-stock-market-ipo",
-          "date": "Wed, 18 Nov 2026 21:39:15 GMT"
         }
       ],
       "error": null
