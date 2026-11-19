@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T16:06:37.889298+00:00",
+  "generatedAt": "2026-11-19T17:05:18.506988+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,21 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Former Alibaba exec\u2019s Everful raises $48.5M to connect retailers with Chinese factories",
+          "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+          "date": "Thu, 19 Nov 2026 17:00:00 +0000"
+        },
+        {
+          "title": "Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price",
+          "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+          "date": "Thu, 19 Nov 2026 16:59:23 +0000"
+        },
+        {
+          "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+          "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+          "date": "Thu, 19 Nov 2026 16:19:41 +0000"
+        },
+        {
           "title": "Anthropic\u2019s IPO puts AI\u2019s circular financing boom to the test",
           "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
           "date": "Thu, 19 Nov 2026 14:54:39 +0000"
@@ -116,21 +131,6 @@
           "title": "Superhuman pushes its Go assistant everywhere",
           "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
           "date": "Thu, 19 Nov 2026 14:00:00 +0000"
-        },
-        {
-          "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-          "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-          "date": "Thu, 19 Nov 2026 00:42:56 +0000"
-        },
-        {
-          "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is \u2018unpatchable\u2019",
-          "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-          "date": "Wed, 18 Nov 2026 23:45:00 +0000"
-        },
-        {
-          "title": "Elon Musk says ousting Jensen Huang is like \u2018kicking Michael Jordan off your team\u2019",
-          "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
-          "date": "Wed, 18 Nov 2026 23:25:17 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:7:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -432,6 +432,16 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "The US-China AI race is real \u2013 but Trump\u2019s recent moves on \u2018super intelligence\u2019 are unlikely to give America any advantage",
+          "link": "https://theconversation.com/the-us-china-ai-race-is-real-but-trumps-recent-moves-on-super-intelligence-are-unlikely-to-give-america-any-advantage-296219",
+          "date": "2026-11-19T16:52:11Z"
+        },
+        {
+          "title": "Why AI-enabled scientific research is a double-edged sword",
+          "link": "https://theconversation.com/why-ai-enabled-scientific-research-is-a-double-edged-sword-295916",
+          "date": "2026-11-19T16:14:24Z"
+        },
+        {
           "title": "Nvidia isn\u2019t the first company to dump a misbehaving CEO \u2013 history shows it\u2019s in the interest of corporate boards to act",
           "link": "https://theconversation.com/nvidia-isnt-the-first-company-to-dump-a-misbehaving-ceo-history-shows-its-in-the-interest-of-corporate-boards-to-act-296800",
           "date": "2026-11-19T13:42:38Z"
@@ -445,16 +455,6 @@
           "title": "AI helps uncover critical flaw in ubiquitous internet software",
           "link": "https://theconversation.com/ai-helps-uncover-critical-flaw-in-ubiquitous-internet-software-296930",
           "date": "2026-11-18T21:43:47Z"
-        },
-        {
-          "title": "The philosophical reason AI Christmas ads leave audiences feeling cold",
-          "link": "https://theconversation.com/the-philosophical-reason-ai-christmas-ads-leave-audiences-feeling-cold-296365",
-          "date": "2026-11-18T16:02:21Z"
-        },
-        {
-          "title": "What AI regulation could learn from the most hazardous industries in the world",
-          "link": "https://theconversation.com/what-ai-regulation-could-learn-from-the-most-hazardous-industries-in-the-world-295475",
-          "date": "2026-11-17T16:25:49Z"
         }
       ],
       "error": null
@@ -464,12 +464,17 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Anthropic \u2018to open up more than 20% higher at over $100 a share\u2019 after blockbuster IPO \u2013 business live",
+          "title": "Anthropic valued at $2tn as shares begin trading at $111.50 each \u2013 business live",
           "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
-          "date": "Thu, 19 Nov 2026 15:50:21 GMT"
+          "date": "Thu, 19 Nov 2026 16:58:51 GMT"
         },
         {
-          "title": "Anthropic to begin public trading at $1.5tn valuation after largest-ever IPO",
+          "title": "Anthropic CEO acknowledges AI has 'very real risks' shortly before IPO \u2013 video",
+          "link": "https://www.theguardian.com/technology/video/2026/nov/19/anthropic-dario-amodei-acknowledges-ai-risks-before-ipo-video",
+          "date": "Thu, 19 Nov 2026 16:24:13 GMT"
+        },
+        {
+          "title": "Anthropic begins public trading at $2tn valuation after largest-ever IPO",
           "link": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo",
           "date": "Thu, 19 Nov 2026 15:30:36 GMT"
         },
@@ -482,11 +487,6 @@
           "title": "A random encounter with James McAvoy triggers delusional fantasy in Parasocial Activity",
           "link": "https://www.theguardian.com/stage/2026/nov/19/parasocial-activity-review-a-james-mcavoy-obsession-oran-mor-glasgow",
           "date": "Thu, 19 Nov 2026 15:01:41 GMT"
-        },
-        {
-          "title": "Australian music industry rejects \u2018divide and conquer\u2019 proposal to give musicians exemption from AI scraping",
-          "link": "https://www.theguardian.com/australia-news/2026/nov/20/australian-music-industry-rejects-proposal-to-give-musicians-exemption-ai-scraping",
-          "date": "Thu, 19 Nov 2026 14:00:52 GMT"
         }
       ],
       "error": null
@@ -528,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Anthropic Researcher Says Pretty Much All Humans Will Become \u201cPermanently Unemployable\u201d After Its IPO",
+          "link": "https://futurism.com/future-society/anthropic-safety-researcher-claude-ipo-fear",
+          "date": "Thu, 19 Nov 2026 11:30:47 -0500"
+        },
+        {
           "title": "Anthropic Branded Itself as the Ethical AI Company. Now It\u2019s Succumbing to an Orgy of Capitalist Greed",
           "link": "https://futurism.com/artificial-intelligence/anthropic-ethical-ai-ipo-greed",
           "date": "Thu, 19 Nov 2026 11:01:44 -0500"
@@ -546,11 +551,6 @@
           "title": "Trump\u2019s Embrace of AI Slop Shows He\u2019s Not in Touch With Reality and Should Be Removed From Office, Critics Say",
           "link": "https://futurism.com/health-medicine/trumps-ai-slop-not-fit-office",
           "date": "Wed, 18 Nov 2026 13:34:26 -0500"
-        },
-        {
-          "title": "The Trump Administration Is Absolutely Flailing Trying to Explain Why So Many Crucial Services Are Going Down",
-          "link": "https://futurism.com/artificial-intelligence/trump-administration-flailing-explain-outages",
-          "date": "Wed, 18 Nov 2026 12:27:18 -0500"
         }
       ],
       "error": null
@@ -559,6 +559,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Google Built a Giant \u2018Mirror Dimension\u2019 Internet to Test Its Chrome AI Agents",
+          "link": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
+          "date": "Thu, 19 Nov 2026 17:00:00 +0000"
+        },
         {
           "title": "Anthropic\u2019s Record-Breaking IPO Highlights the AI Giant\u2019s Worst Enemy\u2014Itself",
           "link": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
@@ -578,11 +583,6 @@
           "title": "America\u2019s AI Chip War Is Heating Up in the Dumbest Possible Ways",
           "link": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/",
           "date": "Wed, 18 Nov 2026 21:15:00 +0000"
-        },
-        {
-          "title": "Inside Nvidia\u2019s First Post-Jensen All-Hands: Pay Raises and More Equity",
-          "link": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/",
-          "date": "Wed, 18 Nov 2026 17:33:07 +0000"
         }
       ],
       "error": null
