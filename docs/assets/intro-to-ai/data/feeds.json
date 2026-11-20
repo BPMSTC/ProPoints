@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T09:06:52.098419+00:00",
+  "generatedAt": "2026-11-20T10:06:00.408933+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:7:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -330,6 +330,11 @@
       "url": "https://analyticsindiamag.com/feed/",
       "items": [
         {
+          "title": "NVIDIA's Crisis Has Only Just Begun, and There's No Jensen Charm to Save It",
+          "link": "https://analyticsindiamag.com/global-tech/nvidias-crisis-has-only-just-begun-and-theres-no-jensen-charm-to-save-it",
+          "date": "Fri, 20 Nov 2026 09:19:29 GMT"
+        },
+        {
           "title": "Soket AI Secures $4 Mn as it Rolls Out EKA-1 Model",
           "link": "https://analyticsindiamag.com/ai-news/soket-ai-secures-usd-4-million-as-it-rolls-out-its-eka-1-model",
           "date": "Fri, 20 Nov 2026 08:04:27 GMT"
@@ -348,11 +353,6 @@
           "title": "TSMC Looks at Client Balance Sheets Before Allocating Chips: Report",
           "link": "https://analyticsindiamag.com/ai-news/tsmc-reportedly-weighs-ai-customers-financial-health-before-allocating-chip-capacity",
           "date": "Fri, 20 Nov 2026 06:32:48 GMT"
-        },
-        {
-          "title": "Skyroot Partners With HEX20, Exolaunch, OhmSpace For Second Vikram-1 Flight",
-          "link": "https://analyticsindiamag.com/ai-news/skyroot-partners-with-hex20-exolaunch-ohmspace-for-second-vikram-1-flight",
-          "date": "Fri, 20 Nov 2026 06:24:51 GMT"
         }
       ],
       "error": null
@@ -469,6 +469,16 @@
           "date": "Fri, 20 Nov 2026 02:00:18 GMT"
         },
         {
+          "title": "Global stock markets slump as Anthropic IPO fails to stem AI sell-off",
+          "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+          "date": "Fri, 20 Nov 2026 10:02:21 GMT"
+        },
+        {
+          "title": "Will AI break the internet? | Garrison Lovely",
+          "link": "https://www.theguardian.com/commentisfree/2026/nov/20/ai-internet-outages-apocalypse",
+          "date": "Fri, 20 Nov 2026 10:00:31 GMT"
+        },
+        {
           "title": "\u2018We will become cyborgs!\u2019 Peter Gabriel on bonobo ape duets, building a Jurassic Park for plants \u2013 and why AI will make great music",
           "link": "https://www.theguardian.com/music/2026/nov/20/peter-gabriel-interview-ai-music-bonobo-ape-duets-jurassic-park-plants",
           "date": "Fri, 20 Nov 2026 05:00:22 GMT"
@@ -477,16 +487,6 @@
           "title": "NextDC vows to keep future datacentres away from homes after community backlash in Melbourne",
           "link": "https://www.theguardian.com/australia-news/2026/nov/20/nextdc-vows-to-keep-future-datacentres-away-from-homes-after-community-backlash-in-melbourne",
           "date": "Fri, 20 Nov 2026 04:37:08 GMT"
-        },
-        {
-          "title": "Anthropic\u2019s historic stock market debut: key takeaways, and what comes next for the AI industry",
-          "link": "https://www.theguardian.com/technology/2026/nov/20/anthropic-ipo-historic-stock-market-debut-key-takeaways-what-next-for-ai",
-          "date": "Fri, 20 Nov 2026 03:33:45 GMT"
-        },
-        {
-          "title": "Anthropic shares end first day of trading at $97 as Wall Street closes sharply lower \u2013 as it happened",
-          "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
-          "date": "Thu, 19 Nov 2026 22:13:52 GMT"
         }
       ],
       "error": null
