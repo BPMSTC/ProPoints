@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T14:06:19.089876+00:00",
+  "generatedAt": "2026-11-20T15:05:36.653780+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "Governing agentic AI:  why authority matters more than capability",
+          "link": "https://www.aiacceleratorinstitute.com/governing-agentic-ai-why-authority-matters-more-than-capability/",
+          "date": "Fri, 20 Nov 2026 15:02:00 GMT"
+        },
+        {
           "title": "1,200 AI agents started a group chat.  Here's the wake-up call for builders",
           "link": "https://www.aiacceleratorinstitute.com/1-200-ai-agents-started-a-group-chat-heres-the-wake-up-call-for-builders/",
           "date": "Wed, 18 Nov 2026 14:02:34 GMT"
@@ -88,11 +93,6 @@
           "title": "6 Washington companies proving  AI agents can pass an audit",
           "link": "https://www.aiacceleratorinstitute.com/6-washington-companies-proving-ai-agents-can-pass-an-audit-2/",
           "date": "Mon, 16 Nov 2026 14:06:16 GMT"
-        },
-        {
-          "title": "Your AI agent's brain is 72%  decoration. Here's the audit",
-          "link": "https://www.aiacceleratorinstitute.com/your-ai-agents-brain-is-72-decoration-heres-the-audit/",
-          "date": "Tue, 10 Nov 2026 12:30:05 GMT"
         }
       ],
       "error": null
@@ -107,6 +107,11 @@
       "name": "AI | TechCrunch",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
+        {
+          "title": "The fallout from Nvidia\u2019s Jensen Huang scandal continues",
+          "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+          "date": "Fri, 20 Nov 2026 14:55:44 +0000"
+        },
         {
           "title": "Six AI-powered gadgets that could make your home office smarter",
           "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
@@ -126,11 +131,6 @@
           "title": "Meta\u2019s new Muse Charm device may cost $300",
           "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
           "date": "Thu, 19 Nov 2026 21:58:06 +0000"
-        },
-        {
-          "title": "These tech outages are giving Y2K, AI agent style",
-          "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-          "date": "Thu, 19 Nov 2026 21:42:31 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -394,12 +394,22 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "How FAA can modernize US national airspace system without emergency ground stops",
+          "link": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/",
+          "date": "Fri, 20 Nov 2026 14:52:51 +0000"
+        },
+        {
+          "title": "SpaceX lenders don\u2019t want Elon Musk launching their collateral into space",
+          "link": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/",
+          "date": "Fri, 20 Nov 2026 14:15:21 +0000"
+        },
+        {
           "title": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone",
           "link": "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/",
           "date": "Fri, 20 Nov 2026 13:35:45 +0000"
         },
         {
-          "title": "Only the Seminole tribe can offer online gambling in Florida\u2014and they're furious at DraftKings",
+          "title": "Only the Seminole Tribe can offer online gambling in Florida\u2014and they're furious at DraftKings",
           "link": "https://arstechnica.com/tech-policy/2026/11/seminole-tribe-tries-to-stop-draftkings-illegal-gambling-in-florida/",
           "date": "Fri, 20 Nov 2026 12:30:29 +0000"
         },
@@ -407,16 +417,6 @@
           "title": "Science has a home here at Ars\u2014please help keep it that way",
           "link": "https://arstechnica.com/staff/2026/11/science-has-a-home-here-at-ars-please-help-keep-it-that-way/",
           "date": "Fri, 20 Nov 2026 12:15:36 +0000"
-        },
-        {
-          "title": "Trump admin still won't let Wi-Fi giant TP-Link sell its latest routers in US",
-          "link": "https://arstechnica.com/tech-policy/2026/11/trump-admin-still-wont-let-wi-fi-giant-tp-link-sell-its-latest-routers-in-us/",
-          "date": "Fri, 20 Nov 2026 12:00:43 +0000"
-        },
-        {
-          "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
-          "link": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
-          "date": "Thu, 19 Nov 2026 22:16:37 +0000"
         }
       ],
       "error": null
@@ -469,7 +469,7 @@
           "date": "Fri, 20 Nov 2026 02:00:18 GMT"
         },
         {
-          "title": "Global stock markets slump as Anthropic\u2019s record IPO fails to stem AI sell-off",
+          "title": "Anthropic shares slump on second day of trading as stock markets reel from AI sell-off",
           "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
           "date": "Fri, 20 Nov 2026 13:53:13 GMT"
         },
@@ -528,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "It\u2019s Looking Like Anthropic Stock Is About to Get Hammered",
+          "link": "https://futurism.com/artificial-intelligence/anthropic-stock-hammered",
+          "date": "Fri, 20 Nov 2026 09:30:43 -0500"
+        },
+        {
           "title": "Former SEC Chairman Gary Gensler Says AI Is \u201cAlready a Bubble,\u201d Set to Pop and Cause Economic Catastrophe",
           "link": "https://futurism.com/future-society/gary-gensler-sec-chairman-ai-bubble-recession",
           "date": "Fri, 20 Nov 2026 08:28:34 -0500"
@@ -546,11 +551,6 @@
           "title": "Multiple Arrests Reported at Anthropic\u2019s IPO",
           "link": "https://futurism.com/artificial-intelligence/multiple-arrests-anthropic-ipo-protests-nasdaq",
           "date": "Thu, 19 Nov 2026 12:56:26 -0500"
-        },
-        {
-          "title": "Anthropic Researcher Says Pretty Much All Humans Will Become \u201cPermanently Unemployable\u201d After Its IPO",
-          "link": "https://futurism.com/future-society/anthropic-safety-researcher-claude-ipo-fear",
-          "date": "Thu, 19 Nov 2026 11:30:47 -0500"
         }
       ],
       "error": null
