@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T10:06:00.408933+00:00",
+  "generatedAt": "2026-11-20T11:05:19.104546+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -469,6 +469,16 @@
           "date": "Fri, 20 Nov 2026 02:00:18 GMT"
         },
         {
+          "title": "AI is imposing a hidden \u2018cognitive tax\u2019 on the lowest-paid workers",
+          "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
+          "date": "Fri, 20 Nov 2026 11:00:31 GMT"
+        },
+        {
+          "title": "Don\u2019t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
+          "link": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
+          "date": "Fri, 20 Nov 2026 11:00:31 GMT"
+        },
+        {
           "title": "Global stock markets slump as Anthropic IPO fails to stem AI sell-off",
           "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
           "date": "Fri, 20 Nov 2026 10:02:21 GMT"
@@ -477,16 +487,6 @@
           "title": "Will AI break the internet? | Garrison Lovely",
           "link": "https://www.theguardian.com/commentisfree/2026/nov/20/ai-internet-outages-apocalypse",
           "date": "Fri, 20 Nov 2026 10:00:31 GMT"
-        },
-        {
-          "title": "\u2018We will become cyborgs!\u2019 Peter Gabriel on bonobo ape duets, building a Jurassic Park for plants \u2013 and why AI will make great music",
-          "link": "https://www.theguardian.com/music/2026/nov/20/peter-gabriel-interview-ai-music-bonobo-ape-duets-jurassic-park-plants",
-          "date": "Fri, 20 Nov 2026 05:00:22 GMT"
-        },
-        {
-          "title": "NextDC vows to keep future datacentres away from homes after community backlash in Melbourne",
-          "link": "https://www.theguardian.com/australia-news/2026/nov/20/nextdc-vows-to-keep-future-datacentres-away-from-homes-after-community-backlash-in-melbourne",
-          "date": "Fri, 20 Nov 2026 04:37:08 GMT"
         }
       ],
       "error": null
@@ -560,6 +560,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Regular Tech Bros Are Worried About Honeypots",
+          "link": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/",
+          "date": "Fri, 20 Nov 2026 11:00:00 +0000"
+        },
+        {
           "title": "This 16-Year-Old Founded an AI Missile Startup. He\u2019s Targeting \u2018Cost per Kill\u2019",
           "link": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
           "date": "Fri, 20 Nov 2026 07:00:00 +0000"
@@ -578,11 +583,6 @@
           "title": "Google Built a Giant \u2018Mirror Dimension\u2019 Internet to Test Its Chrome AI Agents",
           "link": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
           "date": "Thu, 19 Nov 2026 17:00:00 +0000"
-        },
-        {
-          "title": "Anthropic\u2019s Record-Breaking IPO Highlights the AI Giant\u2019s Worst Enemy\u2014Itself",
-          "link": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
-          "date": "Thu, 19 Nov 2026 12:00:00 +0000"
         }
       ],
       "error": null
