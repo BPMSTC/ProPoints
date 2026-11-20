@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T22:05:18.151091+00:00",
+  "generatedAt": "2026-11-20T23:04:58.442470+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -113,7 +113,7 @@
           "date": "Fri, 20 Nov 2026 19:53:41 +0000"
         },
         {
-          "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis \u2014 and a human did, too",
+          "title": "AI claimed a solution to the 167-year-old Riemann hypothesis \u2014 and a human did, too",
           "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
           "date": "Fri, 20 Nov 2026 19:32:08 +0000"
         },
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:7:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -394,7 +394,17 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Google's latest search page redesign drops the search button, adds AI sidebar",
+          "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
+          "link": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
+          "date": "Fri, 20 Nov 2026 22:28:24 +0000"
+        },
+        {
+          "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+          "link": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+          "date": "Fri, 20 Nov 2026 22:16:51 +0000"
+        },
+        {
+          "title": "Google rolls out new search homepage with AI chat history and no search button",
           "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
           "date": "Fri, 20 Nov 2026 21:58:29 +0000"
         },
@@ -407,16 +417,6 @@
           "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
           "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
           "date": "Fri, 20 Nov 2026 20:59:08 +0000"
-        },
-        {
-          "title": "Watching as a giant star swallowed its neighbor and exploded",
-          "link": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/",
-          "date": "Fri, 20 Nov 2026 20:41:17 +0000"
-        },
-        {
-          "title": "NASA\u2019s new Moon plan is taking shape, but some big questions remain",
-          "link": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
-          "date": "Fri, 20 Nov 2026 20:26:33 +0000"
         }
       ],
       "error": null
