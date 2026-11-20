@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-11-20T15:05:36.653780+00:00",
+  "generatedAt": "2026-11-20T16:05:54.773983+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Behind the Blog: Keeping It Together",
+          "link": "https://www.404media.co/behind-the-blog-keeping-it-together/",
+          "date": "Fri, 20 Nov 2026 15:40:21 GMT"
+        },
         {
           "title": "To Catch a Ransomware Scammer, FBI Posed as Both Victim and Attacker",
           "link": "https://www.404media.co/ransomware-fraud-attack-fbi-indictment/",
@@ -24,11 +29,6 @@
           "title": "Mass Surveillance and GTA",
           "link": "https://www.404media.co/mass-surveillance-and-gta/",
           "date": "Thu, 19 Nov 2026 14:54:09 GMT"
-        },
-        {
-          "title": "ICE Is Paying AT&T to Dig Through a Mountain of Call Records",
-          "link": "https://www.404media.co/ice-is-paying-at-t-to-dig-through-a-mountain-of-call-records-hemisphere-data-analytical-services/",
-          "date": "Thu, 19 Nov 2026 14:32:36 GMT"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:7:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -254,6 +254,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Anthropic goes public, but is it too late to save the AI trade?",
+          "link": "https://siliconangle.com/2026/11/20/anthropic-goes-public-but-is-it-too-late-to-save-the-ai-trade/",
+          "date": "Fri, 20 Nov 2026 15:00:54 +0000"
+        },
+        {
           "title": "Google adds computer use capabilities to Gemini\u2019s Mac app",
           "link": "https://siliconangle.com/2026/11/19/google-adds-computer-use-capabilities-to-geminis-mac-app/",
           "date": "Thu, 19 Nov 2026 23:41:48 +0000"
@@ -272,11 +277,6 @@
           "title": "Enterprise AI is pushing cloud infrastructure beyond the GPU",
           "link": "https://siliconangle.com/2026/11/19/enterprise-ai-pushing-cloud-infrastructure-beyond-gpu-kubeconna/",
           "date": "Thu, 19 Nov 2026 21:07:03 +0000"
-        },
-        {
-          "title": "D-Matrix bets stacked DRAM can solve inference\u2019s memory bandwidth problem",
-          "link": "https://siliconangle.com/2026/11/19/raptor-chip-stacks-3d-dram-tackle-inference-memory-limits-sc26/",
-          "date": "Thu, 19 Nov 2026 19:21:48 +0000"
         }
       ],
       "error": null
@@ -394,7 +394,7 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "How FAA can modernize US national airspace system without emergency ground stops",
+          "title": "US will soon announce root cause behind FAA nationwide ground stop",
           "link": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/",
           "date": "Fri, 20 Nov 2026 14:52:51 +0000"
         },
@@ -469,9 +469,9 @@
           "date": "Fri, 20 Nov 2026 02:00:18 GMT"
         },
         {
-          "title": "Anthropic shares slump on second day of trading as stock markets reel from AI sell-off",
+          "title": "Anthropic shares slump on second day of trading as markets reel from AI sell-off",
           "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-          "date": "Fri, 20 Nov 2026 13:53:13 GMT"
+          "date": "Fri, 20 Nov 2026 15:59:08 GMT"
         },
         {
           "title": "Don\u2019t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
@@ -528,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Google\u2019s Embrace of AI Is Backfiring Spectacularly",
+          "link": "https://futurism.com/artificial-intelligence/google-ai-havoc-core-business",
+          "date": "Fri, 20 Nov 2026 10:44:09 -0500"
+        },
+        {
           "title": "It\u2019s Looking Like Anthropic Stock Is About to Get Hammered",
           "link": "https://futurism.com/artificial-intelligence/anthropic-stock-hammered",
           "date": "Fri, 20 Nov 2026 09:30:43 -0500"
@@ -546,11 +551,6 @@
           "title": "Anthropic Stock Sputters After Historic IPO",
           "link": "https://futurism.com/artificial-intelligence/anthropic-stock-sputters-after-historic-ipo",
           "date": "Thu, 19 Nov 2026 13:36:57 -0500"
-        },
-        {
-          "title": "Multiple Arrests Reported at Anthropic\u2019s IPO",
-          "link": "https://futurism.com/artificial-intelligence/multiple-arrests-anthropic-ipo-protests-nasdaq",
-          "date": "Thu, 19 Nov 2026 12:56:26 -0500"
         }
       ],
       "error": null
