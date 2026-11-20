@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-11-20T20:05:44.399626+00:00",
+  "generatedAt": "2026-11-20T21:05:06.000877+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Podcast: I Spoke to an AI Fraud Kingpin",
+          "link": "https://www.404media.co/podcast-i-spoke-to-an-ai-fraud-kingpin/",
+          "date": "Fri, 20 Nov 2026 20:12:51 GMT"
+        },
         {
           "title": "Behind the Blog: Keeping It Together",
           "link": "https://www.404media.co/behind-the-blog-keeping-it-together/",
@@ -24,11 +29,6 @@
           "title": "Black Neighborhoods Are Twice as Likely To House a Data Center, Study Finds",
           "link": "https://www.404media.co/redlining-ai-data-centers-and-race-study/",
           "date": "Thu, 19 Nov 2026 15:00:00 GMT"
-        },
-        {
-          "title": "Mass Surveillance and GTA",
-          "link": "https://www.404media.co/mass-surveillance-and-gta/",
-          "date": "Thu, 19 Nov 2026 14:54:09 GMT"
         }
       ],
       "error": null
@@ -113,7 +113,7 @@
           "date": "Fri, 20 Nov 2026 19:53:41 +0000"
         },
         {
-          "title": "AI claimed a solution to the 167 year-old Riemann Hypothesis \u2014 and a human did, too",
+          "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis \u2014 and a human did, too",
           "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
           "date": "Fri, 20 Nov 2026 19:32:08 +0000"
         },
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -362,6 +362,11 @@
       "url": "https://huggingface.co/blog/feed.xml",
       "items": [
         {
+          "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+          "link": "https://huggingface.co/blog/inkling2mini",
+          "date": "Fri, 20 Nov 2026 00:00:00 GMT"
+        },
+        {
           "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
           "link": "https://huggingface.co/blog/harness-adapters-at-scale",
           "date": "Fri, 20 Nov 2026 00:00:00 GMT"
@@ -380,11 +385,6 @@
           "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
           "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
           "date": "Wed, 18 Nov 2026 15:00:23 GMT"
-        },
-        {
-          "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
-          "link": "https://huggingface.co/blog/moe-expert-streaming",
-          "date": "Wed, 18 Nov 2026 00:00:00 GMT"
         }
       ],
       "error": null
@@ -394,6 +394,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "A leaky AI supply chain is exposing secret user data at an alarming rate",
+          "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+          "date": "Fri, 20 Nov 2026 20:59:08 +0000"
+        },
+        {
+          "title": "Watching as a giant star swallowed its neighbor and exploded",
+          "link": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/",
+          "date": "Fri, 20 Nov 2026 20:41:17 +0000"
+        },
+        {
+          "title": "NASA\u2019s new Moon plan is taking shape, but some big questions remain",
+          "link": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
+          "date": "Fri, 20 Nov 2026 20:26:33 +0000"
+        },
+        {
           "title": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
           "link": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
           "date": "Fri, 20 Nov 2026 19:52:59 +0000"
@@ -402,21 +417,6 @@
           "title": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger",
           "link": "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/",
           "date": "Fri, 20 Nov 2026 19:21:50 +0000"
-        },
-        {
-          "title": "Valve says it might have to raise the price of supply-limited Steam Machines",
-          "link": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/",
-          "date": "Fri, 20 Nov 2026 16:11:21 +0000"
-        },
-        {
-          "title": "US will soon announce root cause behind FAA nationwide ground stop",
-          "link": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/",
-          "date": "Fri, 20 Nov 2026 14:52:51 +0000"
-        },
-        {
-          "title": "SpaceX lenders don\u2019t want Elon Musk launching their collateral into space",
-          "link": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/",
-          "date": "Fri, 20 Nov 2026 14:15:21 +0000"
         }
       ],
       "error": null
@@ -528,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "The Federal Government Is Investigating Nvidia for \u201cAccounting Issues\u201d",
+          "link": "https://futurism.com/artificial-intelligence/federal-government-investigating-nvidia-accounting",
+          "date": "Fri, 20 Nov 2026 15:18:23 -0500"
+        },
+        {
           "title": "Anthropic Mathematician Claims He\u2019s Solved the Riemann Hypothesis Using Claude",
           "link": "https://futurism.com/artificial-intelligence/anthropic-riemann-hypothesis",
           "date": "Fri, 20 Nov 2026 14:08:30 -0500"
@@ -546,11 +551,6 @@
           "title": "Google\u2019s Embrace of AI Is Backfiring Spectacularly",
           "link": "https://futurism.com/artificial-intelligence/google-ai-havoc-core-business",
           "date": "Fri, 20 Nov 2026 10:44:09 -0500"
-        },
-        {
-          "title": "It\u2019s Looking Like Anthropic Stock Is About to Get Hammered",
-          "link": "https://futurism.com/artificial-intelligence/anthropic-stock-hammered",
-          "date": "Fri, 20 Nov 2026 09:30:43 -0500"
         }
       ],
       "error": null
