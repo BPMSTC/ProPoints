@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T11:05:19.104546+00:00",
+  "generatedAt": "2026-11-20T12:08:53.766189+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:7:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -330,6 +330,16 @@
       "url": "https://analyticsindiamag.com/feed/",
       "items": [
         {
+          "title": "Logic Pursuits Certified as Best Firm for Data Engineers",
+          "link": "https://analyticsindiamag.com/ai-highlights/logic-pursuits-certified-as-best-firm-for-data-engineers",
+          "date": "Fri, 20 Nov 2026 11:36:20 GMT"
+        },
+        {
+          "title": "Why Banks Are Betting on AI Orchestration Over Autonomy",
+          "link": "https://analyticsindiamag.com/ai-highlights/why-banks-are-betting-on-ai-orchestration-over-autonomy",
+          "date": "Fri, 20 Nov 2026 11:29:44 GMT"
+        },
+        {
           "title": "NVIDIA's Crisis Has Only Just Begun, and There's No Jensen Charm to Save It",
           "link": "https://analyticsindiamag.com/global-tech/nvidias-crisis-has-only-just-begun-and-theres-no-jensen-charm-to-save-it",
           "date": "Fri, 20 Nov 2026 09:19:29 GMT"
@@ -343,16 +353,6 @@
           "title": "Zerodha Migrates Kite's User Preference Storage From SSDB to Open-Source SQLite-Based System",
           "link": "https://analyticsindiamag.com/ai-news/zerodha-migrates-kites-user-preference-storage-from-ssdb-to-open-source-sqlite-system",
           "date": "Fri, 20 Nov 2026 06:39:24 GMT"
-        },
-        {
-          "title": "Samsung Electronics Shakes Up Chips Leadership Amid Soaring Memory Demand",
-          "link": "https://analyticsindiamag.com/ai-news/samsung-electronics-names-new-heads-for-memory-system-lsi-and-mobile-businesses",
-          "date": "Fri, 20 Nov 2026 06:36:10 GMT"
-        },
-        {
-          "title": "TSMC Looks at Client Balance Sheets Before Allocating Chips: Report",
-          "link": "https://analyticsindiamag.com/ai-news/tsmc-reportedly-weighs-ai-customers-financial-health-before-allocating-chip-capacity",
-          "date": "Fri, 20 Nov 2026 06:32:48 GMT"
         }
       ],
       "error": null
@@ -394,6 +394,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Trump admin still won't let Wi-Fi giant TP-Link sell its latest routers in US",
+          "link": "https://arstechnica.com/tech-policy/2026/11/trump-admin-still-wont-let-wi-fi-giant-tp-link-sell-its-latest-routers-in-us/",
+          "date": "Fri, 20 Nov 2026 12:00:43 +0000"
+        },
+        {
           "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
           "link": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
           "date": "Thu, 19 Nov 2026 22:16:37 +0000"
@@ -412,11 +417,6 @@
           "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
           "link": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
           "date": "Thu, 19 Nov 2026 20:19:28 +0000"
-        },
-        {
-          "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
-          "link": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
-          "date": "Thu, 19 Nov 2026 19:52:54 +0000"
         }
       ],
       "error": null
@@ -560,6 +560,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Muse Is Unleashing a World of Pettiness on Instagram",
+          "link": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
+          "date": "Fri, 20 Nov 2026 12:00:00 +0000"
+        },
+        {
           "title": "Regular Tech Bros Are Worried About Honeypots",
           "link": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/",
           "date": "Fri, 20 Nov 2026 11:00:00 +0000"
@@ -578,11 +583,6 @@
           "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
           "link": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
           "date": "Thu, 19 Nov 2026 20:34:17 +0000"
-        },
-        {
-          "title": "Google Built a Giant \u2018Mirror Dimension\u2019 Internet to Test Its Chrome AI Agents",
-          "link": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
-          "date": "Thu, 19 Nov 2026 17:00:00 +0000"
         }
       ],
       "error": null
