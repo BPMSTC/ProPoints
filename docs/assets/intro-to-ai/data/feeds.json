@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T22:05:11.398101+00:00",
+  "generatedAt": "2026-11-21T23:05:13.608166+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "AIAI, Toronto 2026",
+          "link": "https://www.aiacceleratorinstitute.com/aiai-toronto-2026/",
+          "date": "Sat, 21 Nov 2026 22:41:14 GMT"
+        },
+        {
           "title": "Governing agentic AI:  why authority matters more than capability",
           "link": "https://www.aiacceleratorinstitute.com/governing-agentic-ai-why-authority-matters-more-than-capability/",
           "date": "Fri, 20 Nov 2026 15:02:00 GMT"
@@ -88,11 +93,6 @@
           "title": "ChatGPT in 2027:  Is it the new BlackBerry?",
           "link": "https://www.aiacceleratorinstitute.com/chatgpt-in-2027-is-it-the-new-blackberry/",
           "date": "Tue, 17 Nov 2026 12:06:03 GMT"
-        },
-        {
-          "title": "6 Washington companies proving  AI agents can pass an audit",
-          "link": "https://www.aiacceleratorinstitute.com/6-washington-companies-proving-ai-agents-can-pass-an-audit-2/",
-          "date": "Mon, 16 Nov 2026 14:06:16 GMT"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -394,6 +394,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+          "link": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
+          "date": "Sat, 21 Nov 2026 22:12:41 +0000"
+        },
+        {
           "title": "\u201cRace realism\u201d isn\u2019t realistic\u2014and it isn\u2019t good science",
           "link": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
           "date": "Sat, 21 Nov 2026 12:01:13 +0000"
@@ -412,11 +417,6 @@
           "title": "Google rolls out new search homepage with AI chat history and no search button",
           "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
           "date": "Fri, 20 Nov 2026 21:58:29 +0000"
-        },
-        {
-          "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
-          "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
-          "date": "Fri, 20 Nov 2026 21:47:10 +0000"
         }
       ],
       "error": null
