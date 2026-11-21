@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T14:05:22.484213+00:00",
+  "generatedAt": "2026-11-21T15:05:07.113235+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1018)>"
     },
     {
       "name": "AI News | VentureBeat",
