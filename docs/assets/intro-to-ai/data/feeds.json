@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T13:05:02.747193+00:00",
+  "generatedAt": "2026-11-21T14:05:22.484213+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -464,9 +464,14 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "\u2018The doom of humanity\u2019: will the quest to make robotic hands render us obsolete?",
-          "link": "https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai",
-          "date": "Sat, 21 Nov 2026 06:00:52 GMT"
+          "title": "\u2018I was shaking, crying, having trouble breathing\u2019: the unchartered trauma of breaking up with AI companions",
+          "link": "https://www.theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions",
+          "date": "Sat, 21 Nov 2026 14:00:01 GMT"
+        },
+        {
+          "title": "International talks on controlling use of autonomous weapons collapse",
+          "link": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+          "date": "Sat, 21 Nov 2026 13:15:29 GMT"
         },
         {
           "title": "\u2018Little room for error\u2019: what a debt-laden cloud computing company says about the AI boom",
@@ -482,11 +487,6 @@
           "title": "\u2018I\u2019m opening the cage of a monster\u2019: Taxi Driver scriptwriter Paul Schrader on unleashing AI at 80",
           "link": "https://www.theguardian.com/film/2026/nov/21/taxi-driver-scriptwriter-paul-schrader-ai-film-making-martin-scorsese",
           "date": "Sat, 21 Nov 2026 11:00:57 GMT"
-        },
-        {
-          "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic\u2019s second day of trading",
-          "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-          "date": "Fri, 20 Nov 2026 21:38:17 GMT"
         }
       ],
       "error": null
@@ -528,6 +528,16 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Economists Are Hyperventilating Over the AI Bubble",
+          "link": "https://futurism.com/future-society/economists-hyperventilating-ai-bubble",
+          "date": "Sat, 21 Nov 2026 08:51:00 -0500"
+        },
+        {
+          "title": "You Know These AI Chips That Are Making Billions of Dollars? The Workers Building Them Say They\u2019re Being Paid Peanuts, and Now They\u2019re Realizing They Have Leverage",
+          "link": "https://futurism.com/future-society/workers-semiconductors-ai-chips-taiwan-strike-labor",
+          "date": "Sat, 21 Nov 2026 08:49:00 -0500"
+        },
+        {
           "title": "Jensen Huang Was Reportedly Fixated on Humiliation",
           "link": "https://futurism.com/artificial-intelligence/jensen-huang-terror-nvidia",
           "date": "Fri, 20 Nov 2026 16:23:23 -0500"
@@ -541,16 +551,6 @@
           "title": "Anthropic Mathematician Claims He\u2019s Solved the Riemann Hypothesis Using Claude",
           "link": "https://futurism.com/artificial-intelligence/anthropic-riemann-hypothesis",
           "date": "Fri, 20 Nov 2026 14:08:30 -0500"
-        },
-        {
-          "title": "The Economy Is Low Key Crashing Right Now",
-          "link": "https://futurism.com/artificial-intelligence/economy-crashing-ai-anthropic",
-          "date": "Fri, 20 Nov 2026 13:29:25 -0500"
-        },
-        {
-          "title": "Jensen Huang\u2019s Daughter Also Works at Nvidia, Where She\u2019s Reportedly Known for Screaming at Workers and Hurling Bizarre Insults at Them",
-          "link": "https://futurism.com/future-society/jensen-huangs-daughter-nvidia-temper",
-          "date": "Fri, 20 Nov 2026 12:38:40 -0500"
         }
       ],
       "error": null
