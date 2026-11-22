@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T17:04:41.005238+00:00",
+  "generatedAt": "2026-11-22T18:06:47.217483+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -464,6 +464,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Two groups verify mathematician\u2019s claim that Claude helped prove mathematics problem",
+          "link": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+          "date": "Sun, 22 Nov 2026 17:55:27 GMT"
+        },
+        {
           "title": "I stopped talking to my husband and let AI do it instead. He didn\u2019t even notice | Polly Hudson",
           "link": "https://www.theguardian.com/commentisfree/2026/nov/22/stopped-talking-to-husband-let-ai-do-it-instead",
           "date": "Sun, 22 Nov 2026 16:00:31 GMT"
@@ -476,17 +481,12 @@
         {
           "title": "South Korean minister quits after AI cheating scandal engulfs university exams",
           "link": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
-          "date": "Sun, 22 Nov 2026 12:12:08 GMT"
+          "date": "Sun, 22 Nov 2026 12:12:07 GMT"
         },
         {
           "title": "As the real world falls apart, Grand Theft Auto looks more and more appealing | Dave Schilling",
           "link": "https://www.theguardian.com/commentisfree/2026/nov/22/grand-theft-auto-vi-gaming",
           "date": "Sun, 22 Nov 2026 12:00:29 GMT"
-        },
-        {
-          "title": "Why I won\u2019t leave mathematics, despite AI solving centuries-old problems | Ken Ono",
-          "link": "https://www.theguardian.com/commentisfree/2026/nov/22/why-i-wont-leave-mathematics-despite-ai-solving-centuries-old-problems",
-          "date": "Sun, 22 Nov 2026 11:00:26 GMT"
         }
       ],
       "error": null
