@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T10:04:59.410386+00:00",
+  "generatedAt": "2026-11-22T11:04:45.093432+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -469,6 +469,11 @@
           "date": "Sat, 21 Nov 2026 14:00:01 GMT"
         },
         {
+          "title": "Why I won\u2019t leave mathematics, despite AI solving centuries-old problems | Ken Ono",
+          "link": "https://www.theguardian.com/commentisfree/2026/nov/22/why-i-wont-leave-mathematics-despite-ai-solving-centuries-old-problems",
+          "date": "Sun, 22 Nov 2026 11:00:26 GMT"
+        },
+        {
           "title": "It will soon be too late to regulate use of autonomous weapons, warns Red Cross",
           "link": "https://www.theguardian.com/science/2026/nov/22/red-cross-warns-too-late-regulate-autonomous-weapons-united-nations",
           "date": "Sun, 22 Nov 2026 09:00:22 GMT"
@@ -482,11 +487,6 @@
           "title": "South Korea education minister resigns after AI cheating scandal engulfs university exams",
           "link": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
           "date": "Sun, 22 Nov 2026 05:04:39 GMT"
-        },
-        {
-          "title": "Two groups verify mathematician\u2019s claim that Claude helped prove mathematics problem",
-          "link": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
-          "date": "Sat, 21 Nov 2026 20:15:57 GMT"
         }
       ],
       "error": null
@@ -560,6 +560,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Banks Have Had It Up to Here With Your AI Agent",
+          "link": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+          "date": "Sun, 22 Nov 2026 11:00:00 +0000"
+        },
+        {
           "title": "The Outages Are Just Getting Started",
           "link": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
           "date": "Sat, 21 Nov 2026 13:00:00 +0000"
@@ -578,11 +583,6 @@
           "title": "Muse Is Unleashing a World of Pettiness on Instagram",
           "link": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
           "date": "Fri, 20 Nov 2026 12:00:00 +0000"
-        },
-        {
-          "title": "Regular Tech Bros Are Worried About Honeypots",
-          "link": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/",
-          "date": "Fri, 20 Nov 2026 11:00:00 +0000"
         }
       ],
       "error": null
