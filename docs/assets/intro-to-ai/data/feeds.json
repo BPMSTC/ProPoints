@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T11:04:45.093432+00:00",
+  "generatedAt": "2026-11-22T12:07:42.972564+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:7:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -469,6 +469,11 @@
           "date": "Sat, 21 Nov 2026 14:00:01 GMT"
         },
         {
+          "title": "As the real world falls apart, Grand Theft Auto looks more and more appealing | Dave Schilling",
+          "link": "https://www.theguardian.com/commentisfree/2026/nov/22/grand-theft-auto-vi-gaming",
+          "date": "Sun, 22 Nov 2026 12:00:29 GMT"
+        },
+        {
           "title": "Why I won\u2019t leave mathematics, despite AI solving centuries-old problems | Ken Ono",
           "link": "https://www.theguardian.com/commentisfree/2026/nov/22/why-i-wont-leave-mathematics-despite-ai-solving-centuries-old-problems",
           "date": "Sun, 22 Nov 2026 11:00:26 GMT"
@@ -482,11 +487,6 @@
           "title": "\u2018Serious error of judgment\u2019: outrage over military AI event at Berlin arts complex",
           "link": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
           "date": "Sun, 22 Nov 2026 06:00:21 GMT"
-        },
-        {
-          "title": "South Korea education minister resigns after AI cheating scandal engulfs university exams",
-          "link": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
-          "date": "Sun, 22 Nov 2026 05:04:39 GMT"
         }
       ],
       "error": null
@@ -528,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Preposterous Real Estate Listing Uses AI to Turn Dilapidated Murder Cabin Into Beautiful Cottage",
+          "link": "https://futurism.com/artificial-intelligence/real-estate-listing-ai-dilapidated-cabin",
+          "date": "Sun, 22 Nov 2026 06:50:00 -0500"
+        },
+        {
           "title": "We\u2019ve Found the Only Good AI Chatbot: One So Tiny It Fits on a Single MS-DOS Floppy Disk",
           "link": "https://futurism.com/artificial-intelligence/ai-model-floppy-disk",
           "date": "Sat, 21 Nov 2026 12:52:00 -0500"
@@ -546,11 +551,6 @@
           "title": "Jensen Huang Was Reportedly Fixated on Humiliation",
           "link": "https://futurism.com/artificial-intelligence/jensen-huang-terror-nvidia",
           "date": "Fri, 20 Nov 2026 16:23:23 -0500"
-        },
-        {
-          "title": "The Federal Government Is Investigating Nvidia for \u201cAccounting Issues\u201d",
-          "link": "https://futurism.com/artificial-intelligence/federal-government-investigating-nvidia-accounting",
-          "date": "Fri, 20 Nov 2026 15:18:23 -0500"
         }
       ],
       "error": null
