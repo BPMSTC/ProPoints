@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T18:06:47.217483+00:00",
+  "generatedAt": "2026-11-22T19:04:48.328384+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Why data centers are at the center of the Big Tech backlash",
+          "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+          "date": "Sun, 22 Nov 2026 18:08:43 +0000"
+        },
+        {
           "title": "Signal restricts mobile screenshots as it confronts \u2018existential threat\u2019 of AI surveillance",
           "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
           "date": "Sat, 21 Nov 2026 21:37:10 +0000"
@@ -126,11 +131,6 @@
           "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
           "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
           "date": "Sat, 21 Nov 2026 16:00:00 +0000"
-        },
-        {
-          "title": "Daniel Ek backs AI researcher\u2019s fusion power startup. Here\u2019s what they\u2019re building.",
-          "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-          "date": "Fri, 20 Nov 2026 19:53:41 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:7:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -464,6 +464,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Datacentre bosses met Australian state premiers and ministers almost 120 times in three years, analysis finds",
+          "link": "https://www.theguardian.com/australia-news/2026/nov/23/datacentre-bosses-met-australian-state-premiers-and-ministers-almost-120-times-in-three-years-analysis-finds",
+          "date": "Sun, 22 Nov 2026 19:00:34 GMT"
+        },
+        {
           "title": "Two groups verify mathematician\u2019s claim that Claude helped prove mathematics problem",
           "link": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
           "date": "Sun, 22 Nov 2026 17:55:27 GMT"
@@ -482,11 +487,6 @@
           "title": "South Korean minister quits after AI cheating scandal engulfs university exams",
           "link": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
           "date": "Sun, 22 Nov 2026 12:12:07 GMT"
-        },
-        {
-          "title": "As the real world falls apart, Grand Theft Auto looks more and more appealing | Dave Schilling",
-          "link": "https://www.theguardian.com/commentisfree/2026/nov/22/grand-theft-auto-vi-gaming",
-          "date": "Sun, 22 Nov 2026 12:00:29 GMT"
         }
       ],
       "error": null
