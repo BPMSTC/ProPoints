@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-11-23T15:06:14.301999+00:00",
+  "generatedAt": "2026-11-23T16:05:54.097607+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "\u201cI\u2019m not going to remove the repository\u201d",
+          "link": "https://www.404media.co/im-not-going-to-remove-the-repository/",
+          "date": "Mon, 23 Nov 2026 15:35:22 GMT"
+        },
         {
           "title": "\u2018The Code Is Already Copied Everywhere\u2019: The AI Hacking Tool Causing Havoc Around the World",
           "link": "https://www.404media.co/the-code-is-already-copied-everywhere-the-ai-hacking-tool-causing-havoc-around-the-world-artex-github/",
@@ -24,11 +29,6 @@
           "title": "Behind the Blog: Keeping It Together",
           "link": "https://www.404media.co/behind-the-blog-keeping-it-together/",
           "date": "Fri, 20 Nov 2026 15:40:21 GMT"
-        },
-        {
-          "title": "To Catch a Ransomware Scammer, FBI Posed as Both Victim and Attacker",
-          "link": "https://www.404media.co/ransomware-fraud-attack-fbi-indictment/",
-          "date": "Thu, 19 Nov 2026 18:11:50 GMT"
         }
       ],
       "error": null
@@ -254,6 +254,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Nvidia reverses course, reinstating Jensen Huang as CEO",
+          "link": "https://siliconangle.com/2026/11/23/nvidia-reverses-course-reinstating-jensen-huang-as-ceo-president-and-director/",
+          "date": "Mon, 23 Nov 2026 15:50:34 +0000"
+        },
+        {
           "title": "Innovaccer expands Gravity Voice AI agents with SpaceXSI\u2019s Grok Voice model",
           "link": "https://siliconangle.com/2026/11/23/innovaccer-expands-gravity-voice-ai-agents-with-spacexsis-grok-voice-model/",
           "date": "Mon, 23 Nov 2026 14:00:09 +0000"
@@ -272,11 +277,6 @@
           "title": "Inference now drives two-thirds of AI workloads, changing where chips get deployed",
           "link": "https://siliconangle.com/2026/11/21/inference-two-thirds-ai-workloads-chip-deployment-positron-sc26/",
           "date": "Sat, 21 Nov 2026 18:28:26 +0000"
-        },
-        {
-          "title": "Sovereign AI: Where control becomes an architectural requirement",
-          "link": "https://siliconangle.com/2026/11/21/sovereign-ai-where-control-becomes-an-architectural-requirement/",
-          "date": "Sat, 21 Nov 2026 17:50:18 +0000"
         }
       ],
       "error": null
@@ -330,6 +330,11 @@
       "url": "https://analyticsindiamag.com/feed/",
       "items": [
         {
+          "title": "Anthropic Meets the Brutal Wall Street",
+          "link": "https://analyticsindiamag.com/global-tech/anthropic-meets-the-brutal-wall-street",
+          "date": "Mon, 23 Nov 2026 15:19:40 GMT"
+        },
+        {
           "title": "Jensen Huang is Back! NVIDIA CEO Reinstated After Unanimous Board Vote",
           "link": "https://analyticsindiamag.com/ai-news/jensen-huang-is-back-nvidia-ceo-reinstated-after-unanimous-board-vote",
           "date": "Mon, 23 Nov 2026 14:48:01 GMT"
@@ -348,11 +353,6 @@
           "title": "Matters.AI Raises $12 Million Pre-Series A to Boost Data Security Platform & US Expansion",
           "link": "https://analyticsindiamag.com/ai-news/mattersai-raises-12-million-pre-series-a-to-boost-data-security-platform-and-us-expansion",
           "date": "Mon, 23 Nov 2026 11:07:45 GMT"
-        },
-        {
-          "title": "L&T Technology Services Launches AI Toolchain for Software-Defined Vehicles",
-          "link": "https://analyticsindiamag.com/ai-news/lt-technology-services-launches-ai-toolchain-for-software-defined-vehicles",
-          "date": "Mon, 23 Nov 2026 11:00:35 GMT"
         }
       ],
       "error": null
@@ -394,9 +394,19 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Marvel crams every superhero ever into Avengers: Doomsday final trailer",
+          "link": "https://arstechnica.com/culture/2026/11/marvel-crams-every-superhero-ever-into-avengers-doomsday-final-trailer/",
+          "date": "Mon, 23 Nov 2026 15:55:12 +0000"
+        },
+        {
           "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
           "link": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
-          "date": "Mon, 23 Nov 2026 14:10:18 +0000"
+          "date": "Mon, 23 Nov 2026 15:46:18 +0000"
+        },
+        {
+          "title": "COP31 ends in failure as countries split over fossil fuels, climate finance",
+          "link": "https://arstechnica.com/science/2026/11/cop31-ends-in-failure-as-countries-split-over-fossil-fuels-climate-finance/",
+          "date": "Mon, 23 Nov 2026 15:23:26 +0000"
         },
         {
           "title": "F1 in Las Vegas: You've never seen an F1 race like this before",
@@ -407,16 +417,6 @@
           "title": "Tri-screen portable monitors aren\u2019t for the faint of heart",
           "link": "https://arstechnica.com/gadgets/2026/11/a-triple-screen-portable-monitor-means-more-pixels-and-more-bulk/",
           "date": "Mon, 23 Nov 2026 12:15:16 +0000"
-        },
-        {
-          "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
-          "link": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
-          "date": "Mon, 23 Nov 2026 12:00:00 +0000"
-        },
-        {
-          "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
-          "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
-          "date": "Sun, 22 Nov 2026 12:07:41 +0000"
         }
       ],
       "error": null
