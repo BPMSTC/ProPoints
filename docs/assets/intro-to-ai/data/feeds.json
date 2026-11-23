@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-11-23T18:07:11.953689+00:00",
+  "generatedAt": "2026-11-23T19:04:52.770759+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Google Wants To Make a 24/7 AI TV Channel. You\u2019ll Be the Main Character",
+          "link": "https://www.404media.co/google-wants-to-make-a-24-7-ai-tv-channel-youll-be-the-main-character/",
+          "date": "Mon, 23 Nov 2026 18:17:22 GMT"
+        },
         {
           "title": "\u201cI\u2019m not going to remove the repository\u201d",
           "link": "https://www.404media.co/im-not-going-to-remove-the-repository/",
@@ -24,11 +29,6 @@
           "title": "Podcast: I Spoke to an AI Fraud Kingpin",
           "link": "https://www.404media.co/podcast-i-spoke-to-an-ai-fraud-kingpin/",
           "date": "Fri, 20 Nov 2026 20:12:51 GMT"
-        },
-        {
-          "title": "Behind the Blog: Keeping It Together",
-          "link": "https://www.404media.co/behind-the-blog-keeping-it-together/",
-          "date": "Fri, 20 Nov 2026 15:40:21 GMT"
         }
       ],
       "error": null
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+          "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+          "date": "Mon, 23 Nov 2026 18:12:22 +0000"
+        },
+        {
           "title": "Amazon snaps up Decart\u2019s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
           "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
           "date": "Mon, 23 Nov 2026 17:14:23 +0000"
@@ -126,11 +131,6 @@
           "title": "Trump endorses Jensen Huang\u2019s return to Nvidia, says US has no evidence of wrongdoing",
           "link": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
           "date": "Mon, 23 Nov 2026 15:04:01 +0000"
-        },
-        {
-          "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
-          "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
-          "date": "Mon, 23 Nov 2026 14:43:03 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -432,6 +432,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "Nvidia\u2019s Jensen Huang is getting his CEO job back, but history shows companies perform better when corporate boards take executive misbehavior seriously",
+          "link": "https://theconversation.com/nvidias-jensen-huang-is-getting-his-ceo-job-back-but-history-shows-companies-perform-better-when-corporate-boards-take-executive-misbehavior-seriously-281689",
+          "date": "2026-11-23T18:31:53Z"
+        },
+        {
           "title": "AI has solved a host of big maths problems \u2013 here\u2019s why this threatens the whole field of mathematics",
           "link": "https://theconversation.com/ai-has-solved-a-host-of-big-maths-problems-heres-why-this-threatens-the-whole-field-of-mathematics-293982",
           "date": "2026-11-23T12:27:56Z"
@@ -450,11 +455,6 @@
           "title": "Who gets to decide whether an AI data centre has a \u2018social licence\u2019 to operate?",
           "link": "https://theconversation.com/who-gets-to-decide-whether-an-ai-data-centre-has-a-social-licence-to-operate-295729",
           "date": "2026-11-22T12:51:27Z"
-        },
-        {
-          "title": "Was Anthropic\u2019s record US$81 billion listing a vote of confidence in AI \u2013 and what\u2019s next?",
-          "link": "https://theconversation.com/was-anthropics-record-us-81-billion-listing-a-vote-of-confidence-in-ai-and-whats-next-297151",
-          "date": "2026-11-20T04:53:50Z"
         }
       ],
       "error": null
@@ -528,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "The Jensen Huang Scandal Is Getting Worse at the Exact Moment That Nvidia Rehired Him",
+          "link": "https://futurism.com/future-society/jensen-huang-scandal-getting-worse",
+          "date": "Mon, 23 Nov 2026 13:46:28 -0500"
+        },
+        {
           "title": "Landlord\u2019s AI Makes Rent Deal With Woman, Actual Landlord Breaks Deal and Evicts Her",
           "link": "https://futurism.com/artificial-intelligence/landlord-ai-deal-evicts-woman",
           "date": "Mon, 23 Nov 2026 12:31:02 -0500"
@@ -546,11 +551,6 @@
           "title": "David Fincher\u2019s New Movie Is Apparently Stuffed With AI",
           "link": "https://futurism.com/future-society/david-fincher-new-movie-stuffed-ai",
           "date": "Sun, 22 Nov 2026 09:51:00 -0500"
-        },
-        {
-          "title": "Preposterous Real Estate Listing Uses AI to Turn Dilapidated Murder Cabin Into Beautiful Cottage",
-          "link": "https://futurism.com/artificial-intelligence/real-estate-listing-ai-dilapidated-cabin",
-          "date": "Sun, 22 Nov 2026 06:50:00 -0500"
         }
       ],
       "error": null
@@ -560,7 +560,7 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
-          "title": "Jensen Huang Is Back and So Is Nvidia\u2019s Stock",
+          "title": "Jensen Huang Is Back, and So Is Nvidia\u2019s Stock",
           "link": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
           "date": "Mon, 23 Nov 2026 17:52:56 +0000"
         },
