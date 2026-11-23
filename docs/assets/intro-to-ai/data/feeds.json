@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-11-23T19:04:52.770759+00:00",
+  "generatedAt": "2026-11-23T20:05:32.402896+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "University Approves Nuclear Weapons Data Center, Township Vows to Fight On",
+          "link": "https://www.404media.co/ypsilanti-michigan-data-center-vote/",
+          "date": "Mon, 23 Nov 2026 19:56:37 GMT"
+        },
         {
           "title": "Google Wants To Make a 24/7 AI TV Channel. You\u2019ll Be the Main Character",
           "link": "https://www.404media.co/google-wants-to-make-a-24-7-ai-tv-channel-youll-be-the-main-character/",
@@ -24,11 +29,6 @@
           "title": "Scientists Discover New and Horrible Eagle-Based Way Our Ancestors Died",
           "link": "https://www.404media.co/scientists-discover-new-and-horrible-eagle-based-way-our-ancestors-died/",
           "date": "Sat, 21 Nov 2026 12:00:00 GMT"
-        },
-        {
-          "title": "Podcast: I Spoke to an AI Fraud Kingpin",
-          "link": "https://www.404media.co/podcast-i-spoke-to-an-ai-fraud-kingpin/",
-          "date": "Fri, 20 Nov 2026 20:12:51 GMT"
         }
       ],
       "error": null
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Google Search\u2019s AI Mode can now tap into Drive and Wallet for more personalized responses",
+          "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+          "date": "Mon, 23 Nov 2026 19:14:46 +0000"
+        },
+        {
           "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
           "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
           "date": "Mon, 23 Nov 2026 18:12:22 +0000"
@@ -126,11 +131,6 @@
           "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang\u2019s return",
           "link": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
           "date": "Mon, 23 Nov 2026 16:39:10 +0000"
-        },
-        {
-          "title": "Trump endorses Jensen Huang\u2019s return to Nvidia, says US has no evidence of wrongdoing",
-          "link": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
-          "date": "Mon, 23 Nov 2026 15:04:01 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:7:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -394,6 +394,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Amazon fights Delivery Protection Act by putting stickers on its packages",
+          "link": "https://arstechnica.com/tech-policy/2026/11/amazon-fights-delivery-protection-act-by-putting-stickers-on-its-packages/",
+          "date": "Mon, 23 Nov 2026 19:38:13 +0000"
+        },
+        {
+          "title": "Reports: Russia may launch nuclear weapon into orbit as soon as next month",
+          "link": "https://arstechnica.com/space/2026/11/russia-may-launch-a-nuclear-armed-satellite-far-sooner-than-we-thought/",
+          "date": "Mon, 23 Nov 2026 19:28:30 +0000"
+        },
+        {
           "title": "Marvel crams every superhero ever into Avengers: Doomsday final trailer",
           "link": "https://arstechnica.com/culture/2026/11/marvel-crams-every-superhero-ever-into-avengers-doomsday-final-trailer/",
           "date": "Mon, 23 Nov 2026 15:55:12 +0000"
@@ -407,16 +417,6 @@
           "title": "COP31 ends in failure as countries split over fossil fuels, climate finance",
           "link": "https://arstechnica.com/science/2026/11/cop31-ends-in-failure-as-countries-split-over-fossil-fuels-climate-finance/",
           "date": "Mon, 23 Nov 2026 15:23:26 +0000"
-        },
-        {
-          "title": "F1 in Las Vegas: You've never seen an F1 race like this before",
-          "link": "https://arstechnica.com/cars/2026/11/f1-in-las-vegas-youve-never-seen-an-f1-race-like-this-before/",
-          "date": "Mon, 23 Nov 2026 13:54:22 +0000"
-        },
-        {
-          "title": "Tri-screen portable monitors aren\u2019t for the faint of heart",
-          "link": "https://arstechnica.com/gadgets/2026/11/a-triple-screen-portable-monitor-means-more-pixels-and-more-bulk/",
-          "date": "Mon, 23 Nov 2026 12:15:16 +0000"
         }
       ],
       "error": null
@@ -528,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Trump Thinks CEOs Using Their Employees for Sex Is a Big Joke",
+          "link": "https://futurism.com/artificial-intelligence/trump-nvidia-sex-joke",
+          "date": "Mon, 23 Nov 2026 14:58:21 -0500"
+        },
+        {
           "title": "The Jensen Huang Scandal Is Getting Worse at the Exact Moment That Nvidia Rehired Him",
           "link": "https://futurism.com/future-society/jensen-huang-scandal-getting-worse",
           "date": "Mon, 23 Nov 2026 13:46:28 -0500"
@@ -546,11 +551,6 @@
           "title": "Nvidia Decides That Profits Are More Important Than Not Sleeping With Subordinates, Reinstates Jensen Huang as CEO and Board Director",
           "link": "https://futurism.com/artificial-intelligence/nvidia-reinstates-jensen-huang",
           "date": "Mon, 23 Nov 2026 09:33:38 -0500"
-        },
-        {
-          "title": "David Fincher\u2019s New Movie Is Apparently Stuffed With AI",
-          "link": "https://futurism.com/future-society/david-fincher-new-movie-stuffed-ai",
-          "date": "Sun, 22 Nov 2026 09:51:00 -0500"
         }
       ],
       "error": null
