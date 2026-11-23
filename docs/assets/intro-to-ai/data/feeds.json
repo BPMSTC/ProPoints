@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T08:09:14.853543+00:00",
+  "generatedAt": "2026-11-23T09:09:32.904946+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:7:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -330,6 +330,11 @@
       "url": "https://analyticsindiamag.com/feed/",
       "items": [
         {
+          "title": "Bolna Builds Its Own Speech Model to Catch What Voice AI Misses",
+          "link": "https://analyticsindiamag.com/ai-startups/bolna-builds-its-own-speech-model-to-catch-what-voice-ai-misses",
+          "date": "Mon, 23 Nov 2026 08:49:22 GMT"
+        },
+        {
           "title": "Persistent Systems Flags Possible Exposure of Employee Immigration Data",
           "link": "https://analyticsindiamag.com/ai-news/persistent-systems-flags-possible-exposure-of-employee-immigration-data",
           "date": "Mon, 23 Nov 2026 07:20:12 GMT"
@@ -348,11 +353,6 @@
           "title": "Goa Wants to Train 50,000 Graduates in AI Skills",
           "link": "https://analyticsindiamag.com/ai-news/goa-cabinet-approves-ai-policy-2026-puts-60-towards-skilling",
           "date": "Fri, 20 Nov 2026 13:22:38 GMT"
-        },
-        {
-          "title": "Forget Organic Growth, AI is Forcing Mid-Cap Indian IT to Reinvent M&A Playbook",
-          "link": "https://analyticsindiamag.com/it-services/ai-is-forcing-mid-tier-indian-it-companies-to-rethink-their-competitive-advantage",
-          "date": "Fri, 20 Nov 2026 12:29:56 GMT"
         }
       ],
       "error": null
