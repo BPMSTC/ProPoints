@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T18:07:23.335962+00:00",
+  "generatedAt": "2026-11-24T19:04:52.106360+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+          "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+          "date": "Tue, 24 Nov 2026 18:30:42 +0000"
+        },
+        {
           "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
           "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
           "date": "Tue, 24 Nov 2026 18:02:59 +0000"
@@ -126,11 +131,6 @@
           "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
           "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
           "date": "Tue, 24 Nov 2026 16:10:00 +0000"
-        },
-        {
-          "title": "Pinterest will now let parents limit the AI-generated content their teens see",
-          "link": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
-          "date": "Tue, 24 Nov 2026 16:02:37 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:7:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -394,6 +394,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+          "link": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+          "date": "Tue, 24 Nov 2026 18:47:57 +0000"
+        },
+        {
+          "title": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can",
+          "link": "https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/",
+          "date": "Tue, 24 Nov 2026 18:30:36 +0000"
+        },
+        {
+          "title": "How brewers can protect beers from smoke-tainted hops",
+          "link": "https://arstechnica.com/science/2026/11/how-brewers-can-protect-beers-from-smoke-tainted-hops/",
+          "date": "Tue, 24 Nov 2026 18:18:37 +0000"
+        },
+        {
           "title": "Kalshi makes \u201cdifficult decision\u201d to halt Utah trading after losing court fights",
           "link": "https://arstechnica.com/tech-policy/2026/11/kalshi-makes-difficult-decision-to-halt-utah-trading-after-losing-court-fights/",
           "date": "Tue, 24 Nov 2026 18:03:58 +0000"
@@ -402,21 +417,6 @@
           "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
           "link": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
           "date": "Tue, 24 Nov 2026 17:34:34 +0000"
-        },
-        {
-          "title": "Porsche 718 Boxster prototype drive: This electric roadster is real",
-          "link": "https://arstechnica.com/cars/2026/11/fake-gears-and-real-911-dna-driving-porsches-electric-718-boxster/",
-          "date": "Tue, 24 Nov 2026 16:58:20 +0000"
-        },
-        {
-          "title": "No more heated seat subscriptions for cars in New York from 2027",
-          "link": "https://arstechnica.com/cars/2026/11/new-york-says-no-more-subscriptions-for-in-car-features-or-does-it/",
-          "date": "Tue, 24 Nov 2026 16:20:37 +0000"
-        },
-        {
-          "title": "NASA may get $2 billion boost as White House seeks to accelerate Artemis",
-          "link": "https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis/",
-          "date": "Tue, 24 Nov 2026 16:12:46 +0000"
         }
       ],
       "error": null
@@ -528,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Anthropic Stock Slumps Below IPO Price After Claiming to Have Solved the Most Famous Math Problem in the World",
+          "link": "https://futurism.com/artificial-intelligence/anthropic-stock-slumps-below-ipo",
+          "date": "Tue, 24 Nov 2026 14:00:39 -0500"
+        },
+        {
           "title": "Nvidia Stock Now Falling After Reinstating Sex Pest Jensen Huang as CEO",
           "link": "https://futurism.com/artificial-intelligence/nvidia-stock-now-falling-after-reinstating-jensen-huang",
           "date": "Tue, 24 Nov 2026 12:46:43 -0500"
@@ -546,11 +551,6 @@
           "title": "Dario Amodei Suggested That Hyper-Addictive Video Games Could Be Used to Stave Off Revolution Once AI Takes Everyone\u2019s Jobs",
           "link": "https://futurism.com/future-society/dario-amodei-video-games-revolution-ai-jobs",
           "date": "Mon, 23 Nov 2026 16:07:03 -0500"
-        },
-        {
-          "title": "Trump Thinks CEOs Using Their Employees for Sex Is a Big Joke",
-          "link": "https://futurism.com/artificial-intelligence/trump-nvidia-sex-joke",
-          "date": "Mon, 23 Nov 2026 14:58:21 -0500"
         }
       ],
       "error": null
