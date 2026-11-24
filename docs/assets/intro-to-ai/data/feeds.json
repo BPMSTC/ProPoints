@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T22:05:29.186444+00:00",
+  "generatedAt": "2026-11-24T23:04:59.963583+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+          "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+          "date": "Tue, 24 Nov 2026 22:27:52 +0000"
+        },
+        {
           "title": "In all-hands meeting, Jensen Huang thanks White House and says he\u2019s in therapy",
           "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
           "date": "Tue, 24 Nov 2026 21:48:27 +0000"
@@ -126,11 +131,6 @@
           "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
           "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
           "date": "Tue, 24 Nov 2026 21:19:52 +0000"
-        },
-        {
-          "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-          "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-          "date": "Tue, 24 Nov 2026 18:30:42 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:7:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -215,6 +215,11 @@
       "name": "AI Now Institute",
       "url": "https://ainowinstitute.org/category/news/feed",
       "items": [
+        {
+          "title": "Too Big to Fire? Jensen Huang Is Back at Nvidia; Questions Loom Over AI Boom & U.S.-China Relations",
+          "link": "https://ainowinstitute.org/news/press/too-big-to-fire-jensen-huang-is-back-at-nvidia-questions-loom-over-ai-boom-u-s-china-relations",
+          "date": "Tue, 24 Nov 2026 16:48:31 +0000"
+        },
         {
           "title": "Union Nurses Tell Researchers That AI Can Make Their Jobs Harder",
           "link": "https://ainowinstitute.org/news/press/union-nurses-tell-researchers-that-ai-can-make-their-jobs-harder",
@@ -234,11 +239,6 @@
           "title": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
           "link": "https://ainowinstitute.org/news/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are",
           "date": "Tue, 10 Nov 2026 20:51:35 +0000"
-        },
-        {
-          "title": "Palantir hires a former Democratic senator as it faces scrutiny in new Congress",
-          "link": "https://ainowinstitute.org/news/palantir-hires-a-former-democratic-senator-as-it-faces-scrutiny-in-new-congress",
-          "date": "Mon, 09 Nov 2026 15:09:46 +0000"
         }
       ],
       "error": null
@@ -253,6 +253,11 @@
       "name": "AI \u2013 SiliconANGLE",
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
+        {
+          "title": "Anthropic\u2019s Siren tests whether Claude models will break out of an insecure sandbox",
+          "link": "https://siliconangle.com/2026/11/24/anthropics-siren-tests-whether-claude-models-will-break-out-of-an-insecure-sandbox/",
+          "date": "Tue, 24 Nov 2026 22:56:59 +0000"
+        },
         {
           "title": "10Web turns social media profiles into working commercial websites",
           "link": "https://siliconangle.com/2026/11/24/10web-turns-social-media-profiles-into-working-commercial-websites/",
@@ -272,11 +277,6 @@
           "title": "Anthropic\u2019s Claude Ship automates the final stage of the software development pipeline",
           "link": "https://siliconangle.com/2026/11/23/anthropics-claude-ship-automates-the-final-stage-of-the-software-development-pipeline/",
           "date": "Tue, 24 Nov 2026 01:30:17 +0000"
-        },
-        {
-          "title": "AI agent provider Sierra closes $1.75B investment amid rapid revenue growth",
-          "link": "https://siliconangle.com/2026/11/23/ai-agent-provider-sierra-closes-1-75b-investment-amid-rapid-revenue-growth/",
-          "date": "Mon, 23 Nov 2026 23:49:50 +0000"
         }
       ],
       "error": null
@@ -394,6 +394,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
+          "link": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
+          "date": "Tue, 24 Nov 2026 22:50:11 +0000"
+        },
+        {
+          "title": "Microsoft's historic cloud outage exposed an engineering \u201cfog of war\u201d",
+          "link": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
+          "date": "Tue, 24 Nov 2026 22:36:28 +0000"
+        },
+        {
           "title": "What's going on with the Riemann hypothesis?",
           "link": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
           "date": "Tue, 24 Nov 2026 20:34:53 +0000"
@@ -407,16 +417,6 @@
           "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
           "link": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
           "date": "Tue, 24 Nov 2026 18:47:57 +0000"
-        },
-        {
-          "title": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can",
-          "link": "https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/",
-          "date": "Tue, 24 Nov 2026 18:30:36 +0000"
-        },
-        {
-          "title": "How brewers can protect beers from smoke-tainted hops",
-          "link": "https://arstechnica.com/science/2026/11/how-brewers-can-protect-beers-from-smoke-tainted-hops/",
-          "date": "Tue, 24 Nov 2026 18:18:37 +0000"
         }
       ],
       "error": null
@@ -471,7 +471,7 @@
         {
           "title": "Tech sell-off resumes as euphoria from Jensen Huang\u2019s Nvidia return subsides",
           "link": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang",
-          "date": "Tue, 24 Nov 2026 18:00:24 GMT"
+          "date": "Tue, 24 Nov 2026 22:05:21 GMT"
         },
         {
           "title": "Mamdani questions AI economy as Jensen Huang returns to Nvidia \u2013 video",
