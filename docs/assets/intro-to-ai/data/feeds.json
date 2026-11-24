@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T17:05:29.783182+00:00",
+  "generatedAt": "2026-11-24T18:07:23.335962+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+          "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+          "date": "Tue, 24 Nov 2026 18:02:59 +0000"
+        },
+        {
           "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
           "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
           "date": "Tue, 24 Nov 2026 17:00:00 +0000"
@@ -126,11 +131,6 @@
           "title": "Pinterest will now let parents limit the AI-generated content their teens see",
           "link": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
           "date": "Tue, 24 Nov 2026 16:02:37 +0000"
-        },
-        {
-          "title": "Amazon\u2019s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
-          "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
-          "date": "Tue, 24 Nov 2026 15:51:07 +0000"
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -394,7 +394,17 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Fake gears and real 911 DNA: Driving Porsche's electric 718 Boxster",
+          "title": "Kalshi makes \u201cdifficult decision\u201d to halt Utah trading after losing court fights",
+          "link": "https://arstechnica.com/tech-policy/2026/11/kalshi-makes-difficult-decision-to-halt-utah-trading-after-losing-court-fights/",
+          "date": "Tue, 24 Nov 2026 18:03:58 +0000"
+        },
+        {
+          "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+          "link": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+          "date": "Tue, 24 Nov 2026 17:34:34 +0000"
+        },
+        {
+          "title": "Porsche 718 Boxster prototype drive: This electric roadster is real",
           "link": "https://arstechnica.com/cars/2026/11/fake-gears-and-real-911-dna-driving-porsches-electric-718-boxster/",
           "date": "Tue, 24 Nov 2026 16:58:20 +0000"
         },
@@ -407,16 +417,6 @@
           "title": "NASA may get $2 billion boost as White House seeks to accelerate Artemis",
           "link": "https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis/",
           "date": "Tue, 24 Nov 2026 16:12:46 +0000"
-        },
-        {
-          "title": "Homo erectus lived in the rainforest alongside Denisovans",
-          "link": "https://arstechnica.com/science/2026/11/homo-erectus-lived-in-the-rainforest-alongside-denisovans/",
-          "date": "Tue, 24 Nov 2026 16:01:19 +0000"
-        },
-        {
-          "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
-          "link": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
-          "date": "Tue, 24 Nov 2026 14:56:50 +0000"
         }
       ],
       "error": null
@@ -431,6 +431,11 @@
       "name": "Artificial intelligence (AI) \u2013 The Conversation",
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
+        {
+          "title": "In the age of AI, Indigenous ways of knowing remind us why lived experience matters",
+          "link": "https://theconversation.com/in-the-age-of-ai-indigenous-ways-of-knowing-remind-us-why-lived-experience-matters-296644",
+          "date": "2026-11-24T17:04:14Z"
+        },
         {
           "title": "Jensen Huang, Nvidia and the risks that come with \u2018boomerang bosses\u2019",
           "link": "https://theconversation.com/jensen-huang-nvidia-and-the-risks-that-come-with-boomerang-bosses-297413",
@@ -450,11 +455,6 @@
           "title": "Trump had 4 reasons to \u2018convince\u2019 Nvidia to rehire Jensen Huang. Here\u2019s why it matters globally",
           "link": "https://theconversation.com/trump-had-4-reasons-to-convince-nvidia-to-rehire-jensen-huang-heres-why-it-matters-globally-297377",
           "date": "2026-11-24T04:57:18Z"
-        },
-        {
-          "title": "Nvidia\u2019s CEO is back \u2013 but the turmoil has exposed the AI boom\u2019s risks for NZ investors",
-          "link": "https://theconversation.com/nvidias-ceo-is-back-but-the-turmoil-has-exposed-the-ai-booms-risks-for-nz-investors-296924",
-          "date": "2026-11-23T22:01:55Z"
         }
       ],
       "error": null
@@ -467,6 +467,11 @@
           "title": "Have you downloaded Meta\u2019s AI assistant Muse or do you plan to?",
           "link": "https://www.theguardian.com/technology/2026/nov/24/have-you-downloaded-metas-ai-assistant-muse-or-do-you-plan-to",
           "date": "Tue, 24 Nov 2026 12:44:40 GMT"
+        },
+        {
+          "title": "Tech sell-off resumes as euphoria from Jensen Huang\u2019s Nvidia return subsides",
+          "link": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang",
+          "date": "Tue, 24 Nov 2026 18:00:24 GMT"
         },
         {
           "title": "Mamdani questions AI economy as Jensen Huang returns to Nvidia \u2013 video",
@@ -482,11 +487,6 @@
           "title": "Nvidia staff: what do you think of Jensen Huang\u2019s return as chief executive?",
           "link": "https://www.theguardian.com/technology/2026/nov/24/nvidia-staff-what-do-you-think-jensen-huang-return-chief-executive",
           "date": "Tue, 24 Nov 2026 16:25:57 GMT"
-        },
-        {
-          "title": "Meta launches Muse in UK \u2013 the AI agent that can do your Christmas shopping",
-          "link": "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping",
-          "date": "Tue, 24 Nov 2026 14:36:32 GMT"
         }
       ],
       "error": null
@@ -528,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Nvidia Stock Now Falling After Reinstating Sex Pest Jensen Huang as CEO",
+          "link": "https://futurism.com/artificial-intelligence/nvidia-stock-now-falling-after-reinstating-jensen-huang",
+          "date": "Tue, 24 Nov 2026 12:46:43 -0500"
+        },
+        {
           "title": "X Seems Legitimately Shaken by These Child Sex Allegations",
           "link": "https://futurism.com/artificial-intelligence/x-shaken-child-sex-allegations",
           "date": "Tue, 24 Nov 2026 10:11:13 -0500"
@@ -546,11 +551,6 @@
           "title": "Trump Thinks CEOs Using Their Employees for Sex Is a Big Joke",
           "link": "https://futurism.com/artificial-intelligence/trump-nvidia-sex-joke",
           "date": "Mon, 23 Nov 2026 14:58:21 -0500"
-        },
-        {
-          "title": "The Jensen Huang Scandal Is Getting Worse at the Exact Moment That Nvidia Rehired Him",
-          "link": "https://futurism.com/future-society/jensen-huang-scandal-getting-worse",
-          "date": "Mon, 23 Nov 2026 13:46:28 -0500"
         }
       ],
       "error": null
@@ -559,6 +559,11 @@
       "name": "Artificial Intelligence Latest - Wired",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
+        {
+          "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
+          "link": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
+          "date": "Tue, 24 Nov 2026 17:44:53 +0000"
+        },
         {
           "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
           "link": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
@@ -578,11 +583,6 @@
           "title": "Jensen Huang Is Back, and So Is Nvidia\u2019s Stock",
           "link": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
           "date": "Mon, 23 Nov 2026 17:52:56 +0000"
-        },
-        {
-          "title": "Jensen Huang Is Back as Nvidia CEO",
-          "link": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
-          "date": "Mon, 23 Nov 2026 14:27:35 +0000"
         }
       ],
       "error": null
