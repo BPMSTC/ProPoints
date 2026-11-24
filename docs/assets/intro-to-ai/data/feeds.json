@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T23:05:39.884530+00:00",
+  "generatedAt": "2026-11-24T00:15:16.186342+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -254,6 +254,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "AI agent provider Sierra closes $1.75B investment amid rapid revenue growth",
+          "link": "https://siliconangle.com/2026/11/23/ai-agent-provider-sierra-closes-1-75b-investment-amid-rapid-revenue-growth/",
+          "date": "Mon, 23 Nov 2026 23:49:50 +0000"
+        },
+        {
           "title": "AWS is making AI agents more decisive and secure with its latest Strands updates",
           "link": "https://siliconangle.com/2026/11/23/aws-is-making-ai-agents-more-decisive-and-secure-with-its-latest-strands-updates/",
           "date": "Mon, 23 Nov 2026 18:00:17 +0000"
@@ -272,11 +277,6 @@
           "title": "Innovaccer expands Gravity Voice AI agents with SpaceXSI\u2019s Grok Voice model",
           "link": "https://siliconangle.com/2026/11/23/innovaccer-expands-gravity-voice-ai-agents-with-spacexsis-grok-voice-model/",
           "date": "Mon, 23 Nov 2026 14:00:09 +0000"
-        },
-        {
-          "title": "Bootstrapped startup Levenza brings consumer-style personal agents to business workers",
-          "link": "https://siliconangle.com/2026/11/23/bootstrapped-startup-levenza-brings-consumer-style-personal-agents-to-business-workers/",
-          "date": "Mon, 23 Nov 2026 13:00:44 +0000"
         }
       ],
       "error": null
