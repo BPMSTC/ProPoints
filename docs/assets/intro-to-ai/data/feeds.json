@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T04:07:29.131877+00:00",
+  "generatedAt": "2026-11-24T05:06:31.374013+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:7:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -469,6 +469,11 @@
           "date": "Mon, 23 Nov 2026 17:18:06 GMT"
         },
         {
+          "title": "\u2018Produce a good result by any means\u2019: how AI is testing South Korea\u2019s exam obsession",
+          "link": "https://www.theguardian.com/world/2026/nov/24/produce-a-good-result-by-any-means-how-ai-is-testing-south-koreas-exam-obsession",
+          "date": "Tue, 24 Nov 2026 04:47:11 GMT"
+        },
+        {
           "title": "Nvidia rejoices at Jensen Huang\u2019s second coming as White House takes victory lap",
           "link": "https://www.theguardian.com/technology/2026/nov/23/nvidia-jensen-huang-return-ceo",
           "date": "Tue, 24 Nov 2026 01:34:39 GMT"
@@ -482,11 +487,6 @@
           "title": "How freaked out should we be? After mass outages, experts tell us how close we are to \u2018doomsday\u2019",
           "link": "https://www.theguardian.com/technology/2026/nov/23/tech-outages-security-experts",
           "date": "Mon, 23 Nov 2026 16:58:17 GMT"
-        },
-        {
-          "title": "\u2018Pervert glasses\u2019 named word of the year by Macquarie dictionary, ahead of \u2018nudify\u2019 and \u2018AI;DR\u2019",
-          "link": "https://www.theguardian.com/science/2026/nov/23/pervert-glasses-meta-word-of-the-year-macquarie-dictionary-nudify-aidr",
-          "date": "Mon, 23 Nov 2026 13:55:40 GMT"
         }
       ],
       "error": null
