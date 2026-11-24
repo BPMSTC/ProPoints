@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T16:06:58.741967+00:00",
+  "generatedAt": "2026-11-24T17:05:29.783182+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -70,6 +70,11 @@
       "url": "https://aiacceleratorinstitute.com/rss/",
       "items": [
         {
+          "title": "Here's your Austin agenda",
+          "link": "https://www.aiacceleratorinstitute.com/heres-your-austin-agenda/",
+          "date": "Tue, 24 Nov 2026 16:34:07 GMT"
+        },
+        {
           "title": "Thanks for registering",
           "link": "https://www.aiacceleratorinstitute.com/thanks-for-registering-12/",
           "date": "Tue, 24 Nov 2026 08:12:01 GMT"
@@ -88,11 +93,6 @@
           "title": "1,200 AI agents started a group chat.  Here's the wake-up call for builders",
           "link": "https://www.aiacceleratorinstitute.com/1-200-ai-agents-started-a-group-chat-heres-the-wake-up-call-for-builders/",
           "date": "Wed, 18 Nov 2026 14:02:34 GMT"
-        },
-        {
-          "title": "AI agents hit 100% policy compliance. A proof did the work",
-          "link": "https://www.aiacceleratorinstitute.com/ai-agents-hit-100-policy-compliance-a-proof-did-the-work/",
-          "date": "Wed, 18 Nov 2026 13:19:34 GMT"
         }
       ],
       "error": null
@@ -108,6 +108,21 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+          "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+          "date": "Tue, 24 Nov 2026 17:00:00 +0000"
+        },
+        {
+          "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+          "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+          "date": "Tue, 24 Nov 2026 16:46:00 +0000"
+        },
+        {
+          "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+          "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+          "date": "Tue, 24 Nov 2026 16:10:00 +0000"
+        },
+        {
           "title": "Pinterest will now let parents limit the AI-generated content their teens see",
           "link": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
           "date": "Tue, 24 Nov 2026 16:02:37 +0000"
@@ -116,21 +131,6 @@
           "title": "Amazon\u2019s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
           "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
           "date": "Tue, 24 Nov 2026 15:51:07 +0000"
-        },
-        {
-          "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-          "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-          "date": "Mon, 23 Nov 2026 22:05:50 +0000"
-        },
-        {
-          "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-          "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-          "date": "Mon, 23 Nov 2026 22:02:05 +0000"
-        },
-        {
-          "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-          "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
-          "date": "Mon, 23 Nov 2026 21:47:41 +0000"
         }
       ],
       "error": null
@@ -362,6 +362,11 @@
       "url": "https://huggingface.co/blog/feed.xml",
       "items": [
         {
+          "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+          "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+          "date": "Tue, 24 Nov 2026 16:34:13 GMT"
+        },
+        {
           "title": "RoboTrack: Point tracking for real-world robotic manipulation",
           "link": "https://huggingface.co/blog/allenai/robotrack",
           "date": "Mon, 23 Nov 2026 17:20:37 GMT"
@@ -380,11 +385,6 @@
           "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
           "link": "https://huggingface.co/blog/harness-adapters-at-scale",
           "date": "Fri, 20 Nov 2026 00:00:00 GMT"
-        },
-        {
-          "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-          "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-          "date": "Wed, 18 Nov 2026 19:54:56 GMT"
         }
       ],
       "error": null
@@ -394,6 +394,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Fake gears and real 911 DNA: Driving Porsche's electric 718 Boxster",
+          "link": "https://arstechnica.com/cars/2026/11/fake-gears-and-real-911-dna-driving-porsches-electric-718-boxster/",
+          "date": "Tue, 24 Nov 2026 16:58:20 +0000"
+        },
+        {
+          "title": "No more heated seat subscriptions for cars in New York from 2027",
+          "link": "https://arstechnica.com/cars/2026/11/new-york-says-no-more-subscriptions-for-in-car-features-or-does-it/",
+          "date": "Tue, 24 Nov 2026 16:20:37 +0000"
+        },
+        {
+          "title": "NASA may get $2 billion boost as White House seeks to accelerate Artemis",
+          "link": "https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis/",
+          "date": "Tue, 24 Nov 2026 16:12:46 +0000"
+        },
+        {
           "title": "Homo erectus lived in the rainforest alongside Denisovans",
           "link": "https://arstechnica.com/science/2026/11/homo-erectus-lived-in-the-rainforest-alongside-denisovans/",
           "date": "Tue, 24 Nov 2026 16:01:19 +0000"
@@ -402,21 +417,6 @@
           "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
           "link": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
           "date": "Tue, 24 Nov 2026 14:56:50 +0000"
-        },
-        {
-          "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
-          "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
-          "date": "Tue, 24 Nov 2026 12:30:05 +0000"
-        },
-        {
-          "title": "One terminal command gave my forgotten Android device a desk job",
-          "link": "https://arstechnica.com/gadgets/2026/11/one-terminal-command-gave-my-forgotten-android-device-a-desk-job/",
-          "date": "Tue, 24 Nov 2026 12:15:38 +0000"
-        },
-        {
-          "title": "Ukraine sinks Russian warship, strikes cargo ships from Mediterranean to Baltic",
-          "link": "https://arstechnica.com/gadgets/2026/11/ukraines-sea-drones-blow-up-russian-warship-in-benghazi-operation/",
-          "date": "Tue, 24 Nov 2026 12:00:57 +0000"
         }
       ],
       "error": null
@@ -469,24 +469,24 @@
           "date": "Tue, 24 Nov 2026 12:44:40 GMT"
         },
         {
+          "title": "Mamdani questions AI economy as Jensen Huang returns to Nvidia \u2013 video",
+          "link": "https://www.theguardian.com/technology/video/2026/nov/24/mamdani-questions-ai-economy-as-jensen-huang-returns-to-nvidia-video",
+          "date": "Tue, 24 Nov 2026 16:30:07 GMT"
+        },
+        {
+          "title": "\u2018The mistake has been corrected\u2019: end of Jensen Huang\u2019s brief walk in the wilderness",
+          "link": "https://www.theguardian.com/technology/2026/nov/24/mistake-corrected-jensen-huang-resinstated-nvidia-analysis",
+          "date": "Tue, 24 Nov 2026 16:27:41 GMT"
+        },
+        {
+          "title": "Nvidia staff: what do you think of Jensen Huang\u2019s return as chief executive?",
+          "link": "https://www.theguardian.com/technology/2026/nov/24/nvidia-staff-what-do-you-think-jensen-huang-return-chief-executive",
+          "date": "Tue, 24 Nov 2026 16:25:57 GMT"
+        },
+        {
           "title": "Meta launches Muse in UK \u2013 the AI agent that can do your Christmas shopping",
           "link": "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping",
           "date": "Tue, 24 Nov 2026 14:36:32 GMT"
-        },
-        {
-          "title": "Mamdani says Nvidia drama shows stock market is overly dependent on AI",
-          "link": "https://www.theguardian.com/us-news/2026/nov/24/mamdani-nvidia-stock-market-ai",
-          "date": "Tue, 24 Nov 2026 14:22:17 GMT"
-        },
-        {
-          "title": "Jensen Huang returns to Nvidia as Silicon Valley rethinks its alliance with Trump",
-          "link": "https://www.theguardian.com/global/2026/nov/24/jensen-huang-nvidia-return-silicon-valley-trump",
-          "date": "Tue, 24 Nov 2026 13:33:44 GMT"
-        },
-        {
-          "title": "Why is scandal-plagued Jensen Huang back at Nvidia? \u2013 Stateside with Kai and Carter",
-          "link": "https://www.theguardian.com/us-news/video/2026/nov/24/jensen-huang-back-nvidia-stateside",
-          "date": "Tue, 24 Nov 2026 11:00:44 GMT"
         }
       ],
       "error": null
