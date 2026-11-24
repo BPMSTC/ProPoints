@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T12:09:23.295780+00:00",
+  "generatedAt": "2026-11-24T13:06:25.077405+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:7:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -254,6 +254,16 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "10Web turns social media profiles into working commercial websites",
+          "link": "https://siliconangle.com/2026/11/24/10web-turns-social-media-profiles-into-working-commercial-websites/",
+          "date": "Tue, 24 Nov 2026 13:00:58 +0000"
+        },
+        {
+          "title": "Verra raises $5M to help consulting firms forget their institutional amnesia",
+          "link": "https://siliconangle.com/2026/11/24/verra-raises-5m-to-help-consulting-firms-forget-their-institutional-amnesia/",
+          "date": "Tue, 24 Nov 2026 13:00:20 +0000"
+        },
+        {
           "title": "Amazon acquires key assets of AI startup Decart for reported $7.5B",
           "link": "https://siliconangle.com/2026/11/23/amazon-acquires-key-assets-of-ai-startup-decart-for-reported-7-5b/",
           "date": "Tue, 24 Nov 2026 01:40:22 +0000"
@@ -267,16 +277,6 @@
           "title": "AI agent provider Sierra closes $1.75B investment amid rapid revenue growth",
           "link": "https://siliconangle.com/2026/11/23/ai-agent-provider-sierra-closes-1-75b-investment-amid-rapid-revenue-growth/",
           "date": "Mon, 23 Nov 2026 23:49:50 +0000"
-        },
-        {
-          "title": "AWS is making AI agents more decisive and secure with its latest Strands updates",
-          "link": "https://siliconangle.com/2026/11/23/aws-is-making-ai-agents-more-decisive-and-secure-with-its-latest-strands-updates/",
-          "date": "Mon, 23 Nov 2026 18:00:17 +0000"
-        },
-        {
-          "title": "Aevius Labs launches with $22M to bring understandable intelligence to medical data",
-          "link": "https://siliconangle.com/2026/11/23/aevius-labs-launches-with-22m-to-bring-understandable-intelligence-to-medical-data/",
-          "date": "Mon, 23 Nov 2026 17:40:09 +0000"
         }
       ],
       "error": null
@@ -340,7 +340,7 @@
           "date": "Tue, 24 Nov 2026 11:37:26 GMT"
         },
         {
-          "title": "Pixxel Confirms Building 250,000 Sq Ft Satellite Manufacturing Facility in Bengaluru",
+          "title": "Pixxel Confirms Building Satellite Manufacturing Facility in Bengaluru",
           "link": "https://analyticsindiamag.com/ai-news/pixxel-confirms-building-250000-sq-ft-satellite-manufacturing-facility-in-bengaluru",
           "date": "Tue, 24 Nov 2026 11:26:48 GMT"
         },
@@ -394,7 +394,17 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Ukraine\u2019s sea drones blow up Russian warship in Benghazi operation",
+          "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+          "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+          "date": "Tue, 24 Nov 2026 12:30:05 +0000"
+        },
+        {
+          "title": "One terminal command gave my forgotten Android device a desk job",
+          "link": "https://arstechnica.com/gadgets/2026/11/one-terminal-command-gave-my-forgotten-android-device-a-desk-job/",
+          "date": "Tue, 24 Nov 2026 12:15:38 +0000"
+        },
+        {
+          "title": "Ukraine sinks Russian warship, strikes cargo ships from Mediterranean to Baltic",
           "link": "https://arstechnica.com/gadgets/2026/11/ukraines-sea-drones-blow-up-russian-warship-in-benghazi-operation/",
           "date": "Tue, 24 Nov 2026 12:00:57 +0000"
         },
@@ -407,16 +417,6 @@
           "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
           "link": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
           "date": "Mon, 23 Nov 2026 21:30:44 +0000"
-        },
-        {
-          "title": "Russia will launch a routine ISS supply mission tomorrow\u2014apparently, it's a big secret",
-          "link": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/",
-          "date": "Mon, 23 Nov 2026 20:34:51 +0000"
-        },
-        {
-          "title": "Surveillance pricing uses our personal data to make us pay more",
-          "link": "https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more/",
-          "date": "Mon, 23 Nov 2026 20:11:43 +0000"
         }
       ],
       "error": null
@@ -464,9 +464,9 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Kate Bush and Grace Jones urge Australian government not to legalise AI \u2018theft\u2019",
-          "link": "https://www.theguardian.com/technology/2026/nov/24/kate-bush-grace-jones-australian-artists-copyright-law-ai",
-          "date": "Tue, 24 Nov 2026 05:58:15 GMT"
+          "title": "Have you downloaded Meta\u2019s AI assistant Muse or do you plan to?",
+          "link": "https://www.theguardian.com/technology/2026/nov/24/have-you-downloaded-metas-ai-assistant-muse-or-do-you-plan-to",
+          "date": "Tue, 24 Nov 2026 12:44:40 GMT"
         },
         {
           "title": "Why is scandal-plagued Jensen Huang back at Nvidia? \u2013 Stateside with Kai and Carter",
@@ -479,14 +479,14 @@
           "date": "Tue, 24 Nov 2026 06:00:07 GMT"
         },
         {
+          "title": "Kate Bush and Grace Jones urge Australian government not to legalise AI \u2018theft\u2019",
+          "link": "https://www.theguardian.com/technology/2026/nov/24/kate-bush-grace-jones-australian-artists-copyright-law-ai",
+          "date": "Tue, 24 Nov 2026 05:58:15 GMT"
+        },
+        {
           "title": "\u2018Produce a good result by any means\u2019: how AI is testing South Korea\u2019s exam obsession",
           "link": "https://www.theguardian.com/world/2026/nov/24/produce-a-good-result-by-any-means-how-ai-is-testing-south-koreas-exam-obsession",
           "date": "Tue, 24 Nov 2026 04:47:11 GMT"
-        },
-        {
-          "title": "Nvidia rejoices at Jensen Huang\u2019s second coming as White House takes victory lap",
-          "link": "https://www.theguardian.com/technology/2026/nov/23/nvidia-jensen-huang-return-ceo",
-          "date": "Tue, 24 Nov 2026 01:34:39 GMT"
         }
       ],
       "error": null
