@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-11-25T18:07:10.262237+00:00",
+  "generatedAt": "2026-11-25T19:04:50.200307+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "The Birds Are Listening: Scientists Used Seabirds to Track Hidden Ships",
+          "link": "https://www.404media.co/the-birds-are-listening-scientists-used-seabirds-to-track-hidden-ships/",
+          "date": "Wed, 25 Nov 2026 19:00:00 GMT"
+        },
         {
           "title": "Podcast: The AI Tool Hacking the Planet",
           "link": "https://www.404media.co/podcast-the-ai-tool-hacking-the-planet/",
@@ -24,11 +29,6 @@
           "title": "Treasury CIO Is Vibe Coding a \u2018Civilization\u2019 Clone During Treasury Department Hack",
           "link": "https://www.404media.co/sam-corcos-legatum-treasury-cio-is-vibe-coding-a-civilization-clone-during-treasury-department-hack/",
           "date": "Wed, 25 Nov 2026 12:05:53 GMT"
-        },
-        {
-          "title": "Google's Customized AI TV Channel, Starring You",
-          "link": "https://www.404media.co/googles-customized-ai-tv-channel-starring-you/",
-          "date": "Tue, 24 Nov 2026 13:42:30 GMT"
         }
       ],
       "error": null
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+          "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+          "date": "Wed, 25 Nov 2026 18:11:46 +0000"
+        },
+        {
           "title": "State AGs fight Character AI\u2019s plan to auction off users\u2019 private chats",
           "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
           "date": "Wed, 25 Nov 2026 17:35:58 +0000"
@@ -126,11 +131,6 @@
           "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
           "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
           "date": "Wed, 25 Nov 2026 13:00:00 +0000"
-        },
-        {
-          "title": "Yale\u2019s Sonnenfeld: Nvidia is a \u2018detriment\u2019 to US industrial might \u2014 not a champion",
-          "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-          "date": "Wed, 25 Nov 2026 00:12:02 +0000"
         }
       ],
       "error": null
@@ -362,6 +362,11 @@
       "url": "https://huggingface.co/blog/feed.xml",
       "items": [
         {
+          "title": "Where scientists draw the line on AI agents",
+          "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+          "date": "Wed, 25 Nov 2026 18:52:55 GMT"
+        },
+        {
           "title": "An Indic Voice Agent with CUGA",
           "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
           "date": "Wed, 25 Nov 2026 10:22:09 GMT"
@@ -377,11 +382,6 @@
           "date": "Tue, 24 Nov 2026 16:34:13 GMT"
         },
         {
-          "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-          "link": "https://huggingface.co/blog/allenai/robotrack",
-          "date": "Mon, 23 Nov 2026 17:20:37 GMT"
-        },
-        {
           "title": "How to build and maintain an agentic evaluation",
           "link": "https://huggingface.co/blog/agentic-evals",
           "date": "Mon, 23 Nov 2026 00:00:00 GMT"
@@ -393,6 +393,16 @@
       "name": "Ars Technica - All content",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
+        {
+          "title": "Backblaze explains why it's sharing customer information with advertisers",
+          "link": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+          "date": "Wed, 25 Nov 2026 18:38:29 +0000"
+        },
+        {
+          "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
+          "link": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+          "date": "Wed, 25 Nov 2026 18:22:38 +0000"
+        },
         {
           "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
           "link": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
@@ -407,16 +417,6 @@
           "title": "Ars Live recap: Don\u2019t expect military attacks on data centers to stop",
           "link": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
           "date": "Wed, 25 Nov 2026 16:47:14 +0000"
-        },
-        {
-          "title": "Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets",
-          "link": "https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions/",
-          "date": "Wed, 25 Nov 2026 16:33:45 +0000"
-        },
-        {
-          "title": "Lead azide detonation sends clouds over Iowa as questions of health risks swirl",
-          "link": "https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume/",
-          "date": "Wed, 25 Nov 2026 15:35:17 +0000"
         }
       ],
       "error": null
