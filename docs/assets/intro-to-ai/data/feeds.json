@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T10:06:33.440371+00:00",
+  "generatedAt": "2026-11-25T11:05:30.869986+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -221,24 +221,24 @@
           "date": "Tue, 24 Nov 2026 16:48:31 +0000"
         },
         {
+          "title": "6 Questions About Jensen Huang\u2019s Stunning Return as Nvidia CEO",
+          "link": "https://ainowinstitute.org/news/press/6-questions-about-jensen-huangs-stunning-return-as-nvidia-ceo",
+          "date": "Mon, 23 Nov 2026 21:39:29 +0000"
+        },
+        {
+          "title": "Schumer puts Nvidia, Trump on notice after Huang reinstatement",
+          "link": "https://ainowinstitute.org/news/press/schumer-puts-nvidia-trump-on-notice-after-huang-reinstatement",
+          "date": "Mon, 23 Nov 2026 21:35:16 +0000"
+        },
+        {
+          "title": "Gig Work Is Invading Nursing Homes. The Risks Can Be Deadly",
+          "link": "https://ainowinstitute.org/news/press/gig-work-is-invading-nursing-homes-the-risks-can-be-deadly",
+          "date": "Thu, 19 Nov 2026 21:51:15 +0000"
+        },
+        {
           "title": "Union Nurses Tell Researchers That AI Can Make Their Jobs Harder",
           "link": "https://ainowinstitute.org/news/press/union-nurses-tell-researchers-that-ai-can-make-their-jobs-harder",
           "date": "Wed, 18 Nov 2026 15:25:56 +0000"
-        },
-        {
-          "title": "Lawfare Daily: Aya Ibrahim on Progressive Priorities for the New Democratic Congress",
-          "link": "https://ainowinstitute.org/news/lawfare-daily-aya-ibrahim-on-progressive-priorities-for-the-new-democratic-congress",
-          "date": "Fri, 13 Nov 2026 22:37:09 +0000"
-        },
-        {
-          "title": "AI Now Statement on the Bipartisan American Affordability and Jobs Act (BAAJA) to US Congress",
-          "link": "https://ainowinstitute.org/news/announcement/ai-now-statement-on-the-bipartisan-american-affordability-and-jobs-act-baaja-to-us-congress",
-          "date": "Fri, 13 Nov 2026 16:57:45 +0000"
-        },
-        {
-          "title": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
-          "link": "https://ainowinstitute.org/news/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are",
-          "date": "Tue, 10 Nov 2026 20:51:35 +0000"
         }
       ],
       "error": null
@@ -330,6 +330,16 @@
       "url": "https://analyticsindiamag.com/feed/",
       "items": [
         {
+          "title": "Anthropic Brings Claude Duet AI Agent to India",
+          "link": "https://analyticsindiamag.com/ai-news/anthropic-brings-claude-duet-ai-agent-to-india",
+          "date": "Wed, 25 Nov 2026 10:44:11 GMT"
+        },
+        {
+          "title": "India\u2019s Quantum Revolution in 2026 Wasn\u2019t Just About Computing",
+          "link": "https://analyticsindiamag.com/ai-features/indias-quantum-revolution-in-2026-wasnt-just-about-computing",
+          "date": "Wed, 25 Nov 2026 10:30:00 GMT"
+        },
+        {
           "title": "At UN, India Warns of AI Misuse in Conflicts, Stresses Human Accountability",
           "link": "https://analyticsindiamag.com/ai-news/at-un-india-warns-of-ai-misuse-in-conflicts-stresses-human-accountability",
           "date": "Wed, 25 Nov 2026 09:33:06 GMT"
@@ -343,16 +353,6 @@
           "title": "Neysa Builds Enterprise Partner Network to Deploy AI Applications on Velocis",
           "link": "https://analyticsindiamag.com/ai-news/neysa-looks-beyond-gpu-capacity-to-build-an-enterprise-ai-partner-network",
           "date": "Wed, 25 Nov 2026 08:35:10 GMT"
-        },
-        {
-          "title": "Hardware Startups Get Four Years of Cheap Software. The Payoff Comes Later",
-          "link": "https://analyticsindiamag.com/ai-features/dassault-bets-free-software-and-ai-can-turn-hardware-startups-into-customers",
-          "date": "Wed, 25 Nov 2026 07:37:50 GMT"
-        },
-        {
-          "title": "Ex-xAI Team Has Launched a New Startup to Do the Impossible\u2014Predict the Future",
-          "link": "https://analyticsindiamag.com/ai-news/can-ai-predict-the-future-former-xai-team-build-ai-time-machine-in-hopes-of-just-that",
-          "date": "Wed, 25 Nov 2026 07:01:27 GMT"
         }
       ],
       "error": null
@@ -361,6 +361,11 @@
       "name": "Hugging Face Blog",
       "url": "https://huggingface.co/blog/feed.xml",
       "items": [
+        {
+          "title": "An Indic Voice Agent with CUGA",
+          "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+          "date": "Wed, 25 Nov 2026 10:22:09 GMT"
+        },
         {
           "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
           "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
@@ -379,11 +384,6 @@
         {
           "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
           "link": "https://huggingface.co/blog/inkling2mini",
-          "date": "Fri, 20 Nov 2026 00:00:00 GMT"
-        },
-        {
-          "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-          "link": "https://huggingface.co/blog/harness-adapters-at-scale",
           "date": "Fri, 20 Nov 2026 00:00:00 GMT"
         }
       ],
@@ -469,6 +469,11 @@
           "date": "Tue, 24 Nov 2026 12:44:40 GMT"
         },
         {
+          "title": "Our \u2018Paris manifesto\u2019 proposes how to deal with extreme wealth in the AI age | Open letter",
+          "link": "https://www.theguardian.com/commentisfree/2026/nov/25/paris-manifesto-open-letter-ai-oligarchy",
+          "date": "Wed, 25 Nov 2026 11:00:47 GMT"
+        },
+        {
           "title": "AI's shock-and-awe raid on maths looks like pride before a fall | Rafael Behr",
           "link": "https://www.theguardian.com/commentisfree/2026/nov/25/ai-mathematics-human-knowledge-progress-technology-industry",
           "date": "Wed, 25 Nov 2026 10:05:15 GMT"
@@ -482,11 +487,6 @@
           "title": "What real or imagined horrors are waking you up at 4am? | First Dog on the Moon",
           "link": "https://www.theguardian.com/commentisfree/picture/2026/nov/25/what-real-or-imagined-horrors-are-waking-you-up-at-4am",
           "date": "Wed, 25 Nov 2026 05:28:12 GMT"
-        },
-        {
-          "title": "Tidal bans 100% AI-generated music with plans to delete more than 27m tracks",
-          "link": "https://www.theguardian.com/music/2026/nov/25/tidal-streaming-service-bans-ai-generated-music",
-          "date": "Wed, 25 Nov 2026 02:12:22 GMT"
         }
       ],
       "error": null
