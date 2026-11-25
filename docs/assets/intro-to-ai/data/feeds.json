@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-11-25T15:06:41.372607+00:00",
+  "generatedAt": "2026-11-25T16:08:06.058254+00:00",
   "feeds": [
     {
       "name": "404 Media",
       "url": "https://www.404media.co/rss",
       "items": [
+        {
+          "title": "Podcast: The AI Tool Hacking the Planet",
+          "link": "https://www.404media.co/podcast-the-ai-tool-hacking-the-planet/",
+          "date": "Wed, 25 Nov 2026 15:14:33 GMT"
+        },
         {
           "title": "Let the beat drop",
           "link": "https://www.404media.co/let-the-beat-drop/",
@@ -24,11 +29,6 @@
           "title": "Google's Customized AI TV Channel, Starring You",
           "link": "https://www.404media.co/googles-customized-ai-tv-channel-starring-you/",
           "date": "Tue, 24 Nov 2026 13:42:30 GMT"
-        },
-        {
-          "title": "University of Michigan Mailer Promises Its Data Center Isn\u2019t Really a Data Center",
-          "link": "https://www.404media.co/university-of-michigan-mailer-lanl-data-center/",
-          "date": "Tue, 24 Nov 2026 13:41:32 GMT"
         }
       ],
       "error": null
@@ -75,7 +75,7 @@
           "date": "Wed, 25 Nov 2026 14:58:28 GMT"
         },
         {
-          "title": "Would your AI agent survive a  background check?",
+          "title": "Would your AI agent survive  a  background check?",
           "link": "https://www.aiacceleratorinstitute.com/would-your-ai-agent-survive-a-background-check/",
           "date": "Wed, 25 Nov 2026 14:56:03 GMT"
         },
@@ -108,6 +108,11 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
+          "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+          "link": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+          "date": "Wed, 25 Nov 2026 15:41:43 +0000"
+        },
+        {
           "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
           "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
           "date": "Wed, 25 Nov 2026 14:10:18 +0000"
@@ -126,11 +131,6 @@
           "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
           "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
           "date": "Tue, 24 Nov 2026 22:27:52 +0000"
-        },
-        {
-          "title": "In all-hands meeting, Jensen Huang thanks White House and says he\u2019s in therapy",
-          "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
-          "date": "Tue, 24 Nov 2026 21:48:27 +0000"
         }
       ],
       "error": null
@@ -254,6 +254,11 @@
       "url": "https://siliconangle.com/category/ai/feed",
       "items": [
         {
+          "title": "Open-weight models are the hottest thing in AI. Are they right for you?",
+          "link": "https://siliconangle.com/2026/11/25/open-weight-models-are-the-hottest-thing-in-ai-are-they-right-for-you/",
+          "date": "Wed, 25 Nov 2026 15:59:44 +0000"
+        },
+        {
           "title": "Anthropic is trying to kill traditional desktop apps with Claude-generated desktop apps",
           "link": "https://siliconangle.com/2026/11/24/anthropic-is-trying-to-kill-traditional-desktop-apps-with-claude-generated-desktop-apps/",
           "date": "Wed, 25 Nov 2026 02:36:45 +0000"
@@ -272,11 +277,6 @@
           "title": "Anthropic\u2019s Siren tests whether Claude models will break out of an insecure sandbox",
           "link": "https://siliconangle.com/2026/11/24/anthropics-siren-tests-whether-claude-models-will-break-out-of-an-insecure-sandbox/",
           "date": "Tue, 24 Nov 2026 22:56:59 +0000"
-        },
-        {
-          "title": "10Web turns social media profiles into working commercial websites",
-          "link": "https://siliconangle.com/2026/11/24/10web-turns-social-media-profiles-into-working-commercial-websites/",
-          "date": "Tue, 24 Nov 2026 13:00:58 +0000"
         }
       ],
       "error": null
@@ -394,6 +394,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Lead azide detonation sends clouds over Iowa as questions of health risks swirl",
+          "link": "https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume/",
+          "date": "Wed, 25 Nov 2026 15:35:17 +0000"
+        },
+        {
           "title": "A familiar Iranian hacking group has found a new way to cause chaos",
           "link": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/",
           "date": "Wed, 25 Nov 2026 14:29:43 +0000"
@@ -412,11 +417,6 @@
           "title": "Microsoft's historic cloud outage exposed an engineering \u201cfog of war\u201d",
           "link": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
           "date": "Tue, 24 Nov 2026 22:36:28 +0000"
-        },
-        {
-          "title": "What's going on with the Riemann hypothesis?",
-          "link": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
-          "date": "Tue, 24 Nov 2026 20:34:53 +0000"
         }
       ],
       "error": null
@@ -464,6 +464,16 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "New York bans AI toys, including those using internet to talk to children",
+          "link": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
+          "date": "Wed, 25 Nov 2026 15:29:21 GMT"
+        },
+        {
+          "title": "Botty? AI helps resurrect voice of John Motson for football video game",
+          "link": "https://www.theguardian.com/media/2026/nov/25/ai-helps-resurrect-voice-john-motson-football-video-game-fc27",
+          "date": "Wed, 25 Nov 2026 15:13:10 GMT"
+        },
+        {
           "title": "Aidan is one of thousands of students forced to verbally defend his honours thesis as universities take on AI",
           "link": "https://www.theguardian.com/australia-news/2026/nov/25/australian-universities-tackle-ai-plagiarism-oral-assessment-honours-masters-phd",
           "date": "Wed, 25 Nov 2026 14:00:29 GMT"
@@ -477,16 +487,6 @@
           "title": "Our \u2018Paris manifesto\u2019 proposes how to deal with extreme wealth in the AI age | Open letter",
           "link": "https://www.theguardian.com/commentisfree/2026/nov/25/paris-manifesto-open-letter-ai-oligarchy",
           "date": "Wed, 25 Nov 2026 11:00:47 GMT"
-        },
-        {
-          "title": "AI's shock-and-awe raid on maths looks like pride before a fall | Rafael Behr",
-          "link": "https://www.theguardian.com/commentisfree/2026/nov/25/ai-mathematics-human-knowledge-progress-technology-industry",
-          "date": "Wed, 25 Nov 2026 10:05:15 GMT"
-        },
-        {
-          "title": "\u2018It\u2019s been really a mess\u2019: Meta insiders concerned over push to AI content moderation",
-          "link": "https://www.theguardian.com/technology/2026/nov/25/meta-insiders-concerned-push-to-ai-content-moderation",
-          "date": "Wed, 25 Nov 2026 07:00:08 GMT"
         }
       ],
       "error": null
