@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T10:06:26.218625+00:00",
+  "generatedAt": "2026-11-26T11:05:26.003888+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:7:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -330,6 +330,11 @@
       "url": "https://analyticsindiamag.com/feed/",
       "items": [
         {
+          "title": "Vertiv Expands 800 VDC Power Portfolio for AI Data Centres",
+          "link": "https://analyticsindiamag.com/ai-news/vertiv-expands-800-vdc-power-portfolio-for-ai-data-centres",
+          "date": "Thu, 26 Nov 2026 10:24:33 GMT"
+        },
+        {
           "title": "The Next Big IT Services Opportunity Could Be Operationalising AI",
           "link": "https://analyticsindiamag.com/ai-features/the-next-big-it-services-opportunity-could-be-operationalising-ai",
           "date": "Thu, 26 Nov 2026 09:56:08 GMT"
@@ -348,11 +353,6 @@
           "title": "Pine Labs Adds AI Agents To Merchant App For Sales Insights, Ad Campaigns",
           "link": "https://analyticsindiamag.com/ai-news/pine-labs-adds-ai-agents-to-merchant-app-for-sales-insights-ad-campaigns",
           "date": "Thu, 26 Nov 2026 05:39:30 GMT"
-        },
-        {
-          "title": "SpaceX Gets Nod to Deploy 1 Mn AI Data Centre Satellites",
-          "link": "https://analyticsindiamag.com/ai-news/spacex-gets-us-nod-to-deploy-1-million-satellites-for-orbital-ai-data-centres",
-          "date": "Thu, 26 Nov 2026 05:34:34 GMT"
         }
       ],
       "error": null
@@ -560,6 +560,11 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "items": [
         {
+          "title": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+          "link": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+          "date": "Thu, 26 Nov 2026 10:51:27 +0000"
+        },
+        {
           "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
           "link": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
           "date": "Wed, 25 Nov 2026 11:30:00 +0000"
@@ -578,11 +583,6 @@
           "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
           "link": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
           "date": "Tue, 24 Nov 2026 16:00:00 +0000"
-        },
-        {
-          "title": "Don\u2019t Bring Up AI if You Want to Enjoy Your Thanksgiving",
-          "link": "https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/",
-          "date": "Tue, 24 Nov 2026 10:45:00 +0000"
         }
       ],
       "error": null
