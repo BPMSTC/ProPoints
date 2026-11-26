@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T18:07:09.074648+00:00",
+  "generatedAt": "2026-11-26T19:04:49.733355+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -108,7 +108,7 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "items": [
         {
-          "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn\u2019t a virtue",
+          "title": "Grand Theft Auto VI proves why efficiency isn\u2019t a virtue",
           "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
           "date": "Thu, 26 Nov 2026 16:00:00 +0000"
         },
@@ -469,6 +469,11 @@
           "date": "Thu, 26 Nov 2026 12:19:37 GMT"
         },
         {
+          "title": "Can Elon Musk really put AI datacentres in space? - The Latest",
+          "link": "https://www.theguardian.com/news/video/2026/nov/26/can-elon-musk-really-put-ai-datacentres-in-space-the-latest",
+          "date": "Thu, 26 Nov 2026 18:34:17 GMT"
+        },
+        {
           "title": "I\u2019m an AI leader at a tech giant. Our industry has stopped taking safety seriously | Anonymous",
           "link": "https://www.theguardian.com/commentisfree/2026/nov/26/ai-leader-tech-giant-trust-safeguarding-privacy-profit",
           "date": "Thu, 26 Nov 2026 14:06:10 GMT"
@@ -482,11 +487,6 @@
           "title": "Elon Musk pledges to give two SpaceX shares to every child in the US",
           "link": "https://www.theguardian.com/technology/2026/nov/26/elon-musk-pledges-to-give-two-spacex-shares-to-every-child-in-the-us",
           "date": "Thu, 26 Nov 2026 07:02:37 GMT"
-        },
-        {
-          "title": "New York bans AI toys, including those using internet to talk to children",
-          "link": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
-          "date": "Wed, 25 Nov 2026 15:29:21 GMT"
         }
       ],
       "error": null
@@ -526,8 +526,34 @@
     {
       "name": "Artificial Intelligence \u2013 Futurism",
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
-      "items": [],
-      "error": "<unknown>:2:39: junk after document element"
+      "items": [
+        {
+          "title": "GTA 6 Publisher Furious as Reverse Engineers Get It Running on PC",
+          "link": "https://futurism.com/future-society/gta-6-publisher-furious-reverse-engineers-pc",
+          "date": "Wed, 25 Nov 2026 16:03:26 -0500"
+        },
+        {
+          "title": "Jensen Huang\u2019s Leaked Private Remarks Are Absolutely Stunning in Their Hypocrisy",
+          "link": "https://futurism.com/artificial-intelligence/jensen-huangs-leaked-remarks-stunning-hypocrisy",
+          "date": "Wed, 25 Nov 2026 14:38:57 -0500"
+        },
+        {
+          "title": "Jensen Huang Says That \u201cNo Story Has Been More Tortured\u201d than His in All of Human History",
+          "link": "https://futurism.com/artificial-intelligence/jensen-huang-tortured",
+          "date": "Wed, 25 Nov 2026 13:05:18 -0500"
+        },
+        {
+          "title": "Nvidia Stock Has Now Fallen Far Below When Jensen Huang Was First Fired",
+          "link": "https://futurism.com/artificial-intelligence/nvidia-stock-fallen-below-jensen-huang-fired",
+          "date": "Wed, 25 Nov 2026 12:02:42 -0500"
+        },
+        {
+          "title": "Microsoft Declares \u201cCode Red\u201d After Disastrous Outage, Thinks Deploying More AI Will Do the Trick",
+          "link": "https://futurism.com/artificial-intelligence/microsoft-code-red-outage",
+          "date": "Wed, 25 Nov 2026 09:43:11 -0500"
+        }
+      ],
+      "error": null
     },
     {
       "name": "Artificial Intelligence Latest - Wired",
