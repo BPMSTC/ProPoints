@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T23:05:06.873256+00:00",
+  "generatedAt": "2026-11-26T00:16:16.108603+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -432,6 +432,11 @@
       "url": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
       "items": [
         {
+          "title": "76% of Australians are struggling to tell apart real and AI content \u2013 new report",
+          "link": "https://theconversation.com/76-of-australians-are-struggling-to-tell-apart-real-and-ai-content-new-report-296952",
+          "date": "2026-11-25T23:40:03Z"
+        },
+        {
           "title": "Five reasons why we should still make things with our hands",
           "link": "https://theconversation.com/five-reasons-why-we-should-still-make-things-with-our-hands-297451",
           "date": "2026-11-25T16:32:14Z"
@@ -450,11 +455,6 @@
           "title": "Voting rights for AI? The research behind an unsettling idea",
           "link": "https://theconversation.com/voting-rights-for-ai-the-research-behind-an-unsettling-idea-295036",
           "date": "2026-11-25T09:56:12Z"
-        },
-        {
-          "title": "Politics with Michelle Grattan: Barnaby Joyce on being part of changing the political agenda",
-          "link": "https://theconversation.com/politics-with-michelle-grattan-barnaby-joyce-on-being-part-of-changing-the-political-agenda-297393",
-          "date": "2026-11-25T01:53:57Z"
         }
       ],
       "error": null
@@ -474,7 +474,7 @@
           "date": "Wed, 25 Nov 2026 15:13:10 GMT"
         },
         {
-          "title": "Aidan is one of thousands of students forced to verbally defend his honours thesis as universities take on AI",
+          "title": "Aidan didn\u2019t expect a spoken-word component in his thesis - but universities hope it will help tackle AI",
           "link": "https://www.theguardian.com/australia-news/2026/nov/25/australian-universities-tackle-ai-plagiarism-oral-assessment-honours-masters-phd",
           "date": "Wed, 25 Nov 2026 14:00:29 GMT"
         },
