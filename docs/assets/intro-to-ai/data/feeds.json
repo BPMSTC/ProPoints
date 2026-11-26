@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T09:07:20.493998+00:00",
+  "generatedAt": "2026-11-26T10:06:26.218625+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -330,6 +330,11 @@
       "url": "https://analyticsindiamag.com/feed/",
       "items": [
         {
+          "title": "The Next Big IT Services Opportunity Could Be Operationalising AI",
+          "link": "https://analyticsindiamag.com/ai-features/the-next-big-it-services-opportunity-could-be-operationalising-ai",
+          "date": "Thu, 26 Nov 2026 09:56:08 GMT"
+        },
+        {
           "title": "BharatGen Launches Patram 1.5, a 7B Vision-Language Model for Document Processing",
           "link": "https://analyticsindiamag.com/ai-news/bharatgen-launches-patram-15-a-7b-vision-language-model-for-document-processing",
           "date": "Thu, 26 Nov 2026 07:17:59 GMT"
@@ -348,11 +353,6 @@
           "title": "SpaceX Gets Nod to Deploy 1 Mn AI Data Centre Satellites",
           "link": "https://analyticsindiamag.com/ai-news/spacex-gets-us-nod-to-deploy-1-million-satellites-for-orbital-ai-data-centres",
           "date": "Thu, 26 Nov 2026 05:34:34 GMT"
-        },
-        {
-          "title": "AI Trading in India Promises Smarter Investment Bets\u2014At a Steep New Risk",
-          "link": "https://analyticsindiamag.com/ai-features/ai-trading-in-india-promises-smarter-investment-betsat-a-steep-new-risk",
-          "date": "Wed, 25 Nov 2026 13:31:32 GMT"
         }
       ],
       "error": null
@@ -464,6 +464,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Dozens of court cases in England and Wales affected by undisclosed AI use in 2026",
+          "link": "https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026",
+          "date": "Thu, 26 Nov 2026 10:00:51 GMT"
+        },
+        {
           "title": "Elon Musk pledges to give two SpaceX shares to every child in the US",
           "link": "https://www.theguardian.com/technology/2026/nov/26/elon-musk-pledges-to-give-two-spacex-shares-to-every-child-in-the-us",
           "date": "Thu, 26 Nov 2026 07:02:37 GMT"
@@ -482,11 +487,6 @@
           "title": "Aidan didn\u2019t expect a spoken-word component in his thesis - but universities hope it will help tackle AI",
           "link": "https://www.theguardian.com/australia-news/2026/nov/25/australian-universities-tackle-ai-plagiarism-oral-assessment-honours-masters-phd",
           "date": "Wed, 25 Nov 2026 14:00:29 GMT"
-        },
-        {
-          "title": "Democrats must unite on AI regulation. Here\u2019s our three-point plan | Nathan E Sanders and Bruce Schneier",
-          "link": "https://www.theguardian.com/commentisfree/2026/nov/25/democrats-ai-regulation-plan",
-          "date": "Wed, 25 Nov 2026 13:00:26 GMT"
         }
       ],
       "error": null
