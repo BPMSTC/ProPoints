@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T13:06:30.010135+00:00",
+  "generatedAt": "2026-11-27T14:06:33.845204+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -328,8 +328,34 @@
     {
       "name": "Analytics India Magazine",
       "url": "https://analyticsindiamag.com/feed/",
-      "items": [],
-      "error": "<unknown>:2:0: syntax error"
+      "items": [
+        {
+          "title": "From Alibaba to BharatGen, 10 Small Language Models That Rivalled LLMs in 2026",
+          "link": "https://analyticsindiamag.com/ai-features/from-alibaba-to-bharatgen-10-small-language-models-that-rivalled-llms-in-2026",
+          "date": "Fri, 27 Nov 2026 13:30:00 GMT"
+        },
+        {
+          "title": "Anthropic Ditches Python for Rust in Messages API, Cuts CPU Usage by 70% and Memory by Over 80%",
+          "link": "https://analyticsindiamag.com/ai-news/anthropic-ditches-python-for-rust-in-messages-api-cuts-cpu-usage-by-70-and-memory-by-over-80",
+          "date": "Fri, 27 Nov 2026 12:00:10 GMT"
+        },
+        {
+          "title": "Thomas Dohmke Wants to Replace Pull Requests With AI Agent Trails",
+          "link": "https://analyticsindiamag.com/ai-features/thomas-dohmke-wants-to-replace-pull-requests-with-ai-agent-trails",
+          "date": "Fri, 27 Nov 2026 10:30:00 GMT"
+        },
+        {
+          "title": "AI Job Cuts Come to SAP, 10,000 Roles to be Restructured: Report",
+          "link": "https://analyticsindiamag.com/ai-news/sap-considers-10000-job-cuts-across-departments-in-ai-restructuring-report",
+          "date": "Fri, 27 Nov 2026 06:55:40 GMT"
+        },
+        {
+          "title": "Microsoft Wants to Fix Global Outages in an Hour. It Has a Long Way To Go",
+          "link": "https://analyticsindiamag.com/ai-features/microsoft-wants-to-fix-global-outages-in-an-hour-it-has-a-long-way-to-go",
+          "date": "Fri, 27 Nov 2026 06:20:25 GMT"
+        }
+      ],
+      "error": null
     },
     {
       "name": "Hugging Face Blog",
@@ -502,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "MIT Professor Says After a Few Drinks, Anthropic Employees Start Talking About Overthrowing the Government and Taking Over the World",
+          "link": "https://futurism.com/artificial-intelligence/mit-professor-anthropic-overthrowing-government",
+          "date": "Fri, 27 Nov 2026 08:51:00 -0500"
+        },
+        {
           "title": "GTA 6 Publisher Furious as Reverse Engineers Get It Running on PC",
           "link": "https://futurism.com/future-society/gta-6-publisher-furious-reverse-engineers-pc",
           "date": "Wed, 25 Nov 2026 16:03:26 -0500"
@@ -520,11 +551,6 @@
           "title": "Nvidia Stock Has Now Fallen Far Below When Jensen Huang Was First Fired",
           "link": "https://futurism.com/artificial-intelligence/nvidia-stock-fallen-below-jensen-huang-fired",
           "date": "Wed, 25 Nov 2026 12:02:42 -0500"
-        },
-        {
-          "title": "Microsoft Declares \u201cCode Red\u201d After Disastrous Outage, Thinks Deploying More AI Will Do the Trick",
-          "link": "https://futurism.com/artificial-intelligence/microsoft-code-red-outage",
-          "date": "Wed, 25 Nov 2026 09:43:11 -0500"
         }
       ],
       "error": null
