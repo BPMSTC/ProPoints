@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T17:05:04.106681+00:00",
+  "generatedAt": "2026-11-27T18:06:57.698456+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:2:125: not well-formed (invalid token)"
+      "error": "<unknown>:7:2: mismatched tag"
     },
     {
       "name": "AI News | VentureBeat",
@@ -394,6 +394,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "The best Black Friday deals Ars could find",
+          "link": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/",
+          "date": "Fri, 27 Nov 2026 17:05:37 +0000"
+        },
+        {
           "title": "Intel faced a choice: Give Trump 10% or face the consequences",
           "link": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/",
           "date": "Fri, 27 Nov 2026 12:05:01 +0000"
@@ -412,11 +417,6 @@
           "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
           "link": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
           "date": "Thu, 26 Nov 2026 18:00:29 +0000"
-        },
-        {
-          "title": "Draining peatlands is responsible for a few percent of our global warming",
-          "link": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
-          "date": "Thu, 26 Nov 2026 12:15:42 +0000"
         }
       ],
       "error": null
@@ -464,9 +464,9 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Belgian authorities order Google to halt datacentre construction over lack of permits",
+          "title": "Google told to halt Belgium datacentre construction over lack of planning permit",
           "link": "https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits",
-          "date": "Fri, 27 Nov 2026 17:03:09 GMT"
+          "date": "Fri, 27 Nov 2026 17:21:18 GMT"
         },
         {
           "title": "Meta whistleblower calls on Burnham to go further with ban on NDAs",
@@ -528,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Top Treasury Official Is Too Busy Vibe Coding a Crappy Video Game Clone Instead of Addressing a Historic Hack",
+          "link": "https://futurism.com/artificial-intelligence/top-treasury-official-vibe-coding-hack",
+          "date": "Fri, 27 Nov 2026 12:50:00 -0500"
+        },
+        {
           "title": "Community Outraged When Hospital Moves to Automate Healthcare Jobs With AI",
           "link": "https://futurism.com/artificial-intelligence/healthcare-telemetry-workers-hospital-automation-ai",
           "date": "Fri, 27 Nov 2026 11:52:00 -0500"
@@ -546,11 +551,6 @@
           "title": "GTA 6 Publisher Furious as Reverse Engineers Get It Running on PC",
           "link": "https://futurism.com/future-society/gta-6-publisher-furious-reverse-engineers-pc",
           "date": "Wed, 25 Nov 2026 16:03:26 -0500"
-        },
-        {
-          "title": "Jensen Huang\u2019s Leaked Private Remarks Are Absolutely Stunning in Their Hypocrisy",
-          "link": "https://futurism.com/artificial-intelligence/jensen-huangs-leaked-remarks-stunning-hypocrisy",
-          "date": "Wed, 25 Nov 2026 14:38:57 -0500"
         }
       ],
       "error": null
