@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T16:06:42.787377+00:00",
+  "generatedAt": "2026-11-27T17:05:04.106681+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -464,6 +464,11 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
+          "title": "Belgian authorities order Google to halt datacentre construction over lack of permits",
+          "link": "https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits",
+          "date": "Fri, 27 Nov 2026 17:03:09 GMT"
+        },
+        {
           "title": "Meta whistleblower calls on Burnham to go further with ban on NDAs",
           "link": "https://www.theguardian.com/technology/2026/nov/27/meta-whistleblower-sarah-wynn-williams-calls-on-burnham-to-go-further-with-ban-on-non-disclosure-agreements",
           "date": "Fri, 27 Nov 2026 12:30:08 GMT"
@@ -482,11 +487,6 @@
           "title": "Pizza history: AI agent\u2019s cardless purchase is a first for UK",
           "link": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
           "date": "Fri, 27 Nov 2026 09:53:11 GMT"
-        },
-        {
-          "title": "Natural England objected to a datacentre. Weeks later ministers threatened to abolish the agency",
-          "link": "https://www.theguardian.com/environment/2026/nov/27/natural-england-objected-datacentre-ministers-abolish-bristol",
-          "date": "Fri, 27 Nov 2026 07:00:57 GMT"
         }
       ],
       "error": null
@@ -528,6 +528,11 @@
       "url": "https://futurism.com/categories/ai-artificial-intelligence/feed",
       "items": [
         {
+          "title": "Community Outraged When Hospital Moves to Automate Healthcare Jobs With AI",
+          "link": "https://futurism.com/artificial-intelligence/healthcare-telemetry-workers-hospital-automation-ai",
+          "date": "Fri, 27 Nov 2026 11:52:00 -0500"
+        },
+        {
           "title": "Bankrupt Chatbot Startup Looking to Sell Troves of Child Data Tries and Fails to Conceal the Identity of Weirdly Named Bidder",
           "link": "https://futurism.com/artificial-intelligence/bankrupt-chatbot-startup-sell-child-data",
           "date": "Fri, 27 Nov 2026 09:49:00 -0500"
@@ -546,11 +551,6 @@
           "title": "Jensen Huang\u2019s Leaked Private Remarks Are Absolutely Stunning in Their Hypocrisy",
           "link": "https://futurism.com/artificial-intelligence/jensen-huangs-leaked-remarks-stunning-hypocrisy",
           "date": "Wed, 25 Nov 2026 14:38:57 -0500"
-        },
-        {
-          "title": "Jensen Huang Says That \u201cNo Story Has Been More Tortured\u201d than His in All of Human History",
-          "link": "https://futurism.com/artificial-intelligence/jensen-huang-tortured",
-          "date": "Wed, 25 Nov 2026 13:05:18 -0500"
         }
       ],
       "error": null
