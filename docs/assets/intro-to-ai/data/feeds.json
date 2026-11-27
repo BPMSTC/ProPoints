@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T12:09:29.480116+00:00",
+  "generatedAt": "2026-11-27T13:06:30.010135+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -328,34 +328,8 @@
     {
       "name": "Analytics India Magazine",
       "url": "https://analyticsindiamag.com/feed/",
-      "items": [
-        {
-          "title": "Anthropic Ditches Python for Rust in Messages API, Cuts CPU Usage by 70% and Memory by Over 80%",
-          "link": "https://analyticsindiamag.com/ai-news/anthropic-ditches-python-for-rust-in-messages-api-cuts-cpu-usage-by-70-and-memory-by-over-80",
-          "date": "Fri, 27 Nov 2026 12:00:10 GMT"
-        },
-        {
-          "title": "Thomas Dohmke Wants to Replace Pull Requests With AI Agent Trails",
-          "link": "https://analyticsindiamag.com/ai-features/thomas-dohmke-wants-to-replace-pull-requests-with-ai-agent-trails",
-          "date": "Fri, 27 Nov 2026 10:30:00 GMT"
-        },
-        {
-          "title": "AI Job Cuts Come to SAP, 10,000 Roles to be Restructured: Report",
-          "link": "https://analyticsindiamag.com/ai-news/sap-considers-10000-job-cuts-across-departments-in-ai-restructuring-report",
-          "date": "Fri, 27 Nov 2026 06:55:40 GMT"
-        },
-        {
-          "title": "Microsoft Wants to Fix Global Outages in an Hour. It Has a Long Way To Go",
-          "link": "https://analyticsindiamag.com/ai-features/microsoft-wants-to-fix-global-outages-in-an-hour-it-has-a-long-way-to-go",
-          "date": "Fri, 27 Nov 2026 06:20:25 GMT"
-        },
-        {
-          "title": "Airtel to Invest \u20b91,200 Cr in Three Data Centres Across Assam",
-          "link": "https://analyticsindiamag.com/ai-news/airtel-to-invest-1200-cr-in-three-data-centres-across-assam",
-          "date": "Fri, 27 Nov 2026 04:50:10 GMT"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "<unknown>:2:0: syntax error"
     },
     {
       "name": "Hugging Face Blog",
@@ -464,9 +438,9 @@
       "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "items": [
         {
-          "title": "Dozens of court cases in England and Wales affected by undisclosed AI use in 2026",
-          "link": "https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026",
-          "date": "Thu, 26 Nov 2026 12:19:37 GMT"
+          "title": "Meta whistleblower calls on Burnham to go further with ban on NDAs",
+          "link": "https://www.theguardian.com/technology/2026/nov/27/meta-whistleblower-sarah-wynn-williams-calls-on-burnham-to-go-further-with-ban-on-non-disclosure-agreements",
+          "date": "Fri, 27 Nov 2026 12:30:08 GMT"
         },
         {
           "title": "\u2018It\u2019s not helping\u2019: calls for guardrails and regulations as AI use rises at US retailers",
