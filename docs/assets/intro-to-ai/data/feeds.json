@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T07:07:04.382079+00:00",
+  "generatedAt": "2026-11-27T08:08:03.981238+00:00",
   "feeds": [
     {
       "name": "404 Media",
@@ -203,7 +203,7 @@
       "name": "AI News",
       "url": "https://www.artificialintelligence-news.com/feed/rss/",
       "items": [],
-      "error": "<unknown>:7:2: mismatched tag"
+      "error": "<unknown>:2:125: not well-formed (invalid token)"
     },
     {
       "name": "AI News | VentureBeat",
@@ -394,6 +394,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Volvo's big batteries: We drive its updated 2028 plug-in hybrids",
+          "link": "https://arstechnica.com/cars/2026/11/volvos-big-batteries-we-drive-its-updated-2028-plug-in-hybrids/",
+          "date": "Fri, 27 Nov 2026 08:00:53 +0000"
+        },
+        {
           "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
           "link": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
           "date": "Thu, 26 Nov 2026 18:00:29 +0000"
@@ -412,11 +417,6 @@
           "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
           "link": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
           "date": "Wed, 25 Nov 2026 22:36:45 +0000"
-        },
-        {
-          "title": "Google search alternative Kagi launches Gmail rival",
-          "link": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
-          "date": "Wed, 25 Nov 2026 20:57:09 +0000"
         }
       ],
       "error": null
